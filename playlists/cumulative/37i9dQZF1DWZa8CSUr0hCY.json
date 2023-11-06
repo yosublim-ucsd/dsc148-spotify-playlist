@@ -3191,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "Suspended In Stillness",
+        "url": "https://open.spotify.com/album/0F4kbaMQpA6qWESdZAem3D"
+      },
+      "artists": [
+        {
+          "name": "Lucid Keys",
+          "url": "https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi"
+        }
+      ],
+      "date_added": "2023-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124352,
+      "name": "Suspended In Stillness",
+      "url": "https://open.spotify.com/track/1DUKmawSPiPk3WZJ7H6gqW"
+    },
+    {
+      "album": {
         "name": "Hip Dozer, Vol. 1",
         "url": "https://open.spotify.com/album/3RcP0vpHB7sIeszjJUhFgs"
       },

@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Judas Priest
 
-761 songs - 2 day 8 hr 26 min
+762 songs - 2 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Blacksong](https://open.spotify.com/track/0cBRw4lIhWudd9hblZ9MlD) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [The Duke](https://open.spotify.com/album/0cdtpGIK6hQdGFni4TZEzE) | 5:36 | 2022-07-08 | 2022-11-13 |
 | [Blacksong](https://open.spotify.com/track/5cchzU1igYAggOulRcD9Sn) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Dukebox](https://open.spotify.com/album/314eT1BiDyVkpazS12cPkA) | 5:36 | 2021-12-17 | 2022-07-20 |
 | [Blast in the Past](https://open.spotify.com/track/2p5rIZJiwzRKkSBLHJTeGU) | [Burning Point](https://open.spotify.com/artist/3eMK8v3YnHRyrVbBp04jxt) | [Blast in the Past](https://open.spotify.com/album/50NOFmwOY45UaQt33lh19g) | 3:11 | 2021-12-29 | 2022-07-19 |
-| [Bleed](https://open.spotify.com/track/1xKsLEYyHWivhSLTwZZ6JM) | [Days Of Jupiter](https://open.spotify.com/artist/6tS7AajwAlXIU2OKwaXCaM) | [Secrets Brought To Life](https://open.spotify.com/album/7oCOk3WDJVHIi5RcsuKdtH) | 3:07 | 2022-07-08 |  |
+| [Bleed](https://open.spotify.com/track/1xKsLEYyHWivhSLTwZZ6JM) | [Days Of Jupiter](https://open.spotify.com/artist/6tS7AajwAlXIU2OKwaXCaM) | [Secrets Brought To Life](https://open.spotify.com/album/7oCOk3WDJVHIi5RcsuKdtH) | 3:07 | 2022-07-08 | 2023-11-06 |
 | [Bleed](https://open.spotify.com/track/1COgBLG6bc5ECSlDMLOwxO) | [Days Of Jupiter](https://open.spotify.com/artist/6tS7AajwAlXIU2OKwaXCaM) | [Secrets Brought To Life](https://open.spotify.com/album/1a4gTPJPhvWv0L1RwcGy8u) | 3:07 | 2022-01-28 | 2022-06-08 |
 | [Bleeding From Every Hole](https://open.spotify.com/track/3Jb540uExs8VjCqeM9iiJR) | [Crowbar](https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka) | [Bleeding From Every Hole](https://open.spotify.com/album/2BF7ZYn0pjFlDOV87JHlN3) | 3:05 | 2022-03-22 | 2022-04-02 |
 | [Bliss](https://open.spotify.com/track/6dbruyCMT67nVbPvMiz07U) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Bliss](https://open.spotify.com/album/1cJgIaKTSOnv35U8QhFxJA) | 4:12 | 2022-04-08 | 2022-07-27 |
@@ -314,6 +314,7 @@
 | [I Stand Alone](https://open.spotify.com/track/44NRdYQw7P0GWuiunRv3hr) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/7xhudjssYTY8qRl1s9R3wu) | 4:06 | 2022-08-19 |  |
 | [I Wanna Be Somebody](https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:43 | 2022-08-19 |  |
 | [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 2:59 | 2022-08-19 |  |
+| [I Want Out](https://open.spotify.com/track/5ObemyuL5dhT67hyz1iWlA) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pts\. I & II \(Deluxe Edition\)](https://open.spotify.com/album/6YpYaGFJFed2XKq26Qthz5) | 4:40 | 2023-10-27 |  |
 | [I Want Out](https://open.spotify.com/track/5VZwMq6yaFb04PCTfdNY3K) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pt\. II \(Expanded Edition\)](https://open.spotify.com/album/0C00ibrtAGw59osJUg5qOO) | 4:40 | 2021-12-17 | 2023-11-05 |
 | [I Will Be Heard](https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Perseverance](https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG) | 2:58 | 2022-08-19 |  |
 | [I'll Be Your Hero \- Single Edit](https://open.spotify.com/track/5dwI4Uips5iK1Q7q0vAcHU) | [Rhapsody](https://open.spotify.com/artist/0zQfrabOFYf36Ikb6PXcCY) | [I'll Be Your Hero](https://open.spotify.com/album/5smEbdNLzzhh7WdBmW5rtJ) | 4:12 | 2021-12-17 |  |

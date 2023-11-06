@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Johannes Albert
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,081 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,144 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Summer Love \- Jan Blomqvist Remix](https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Summer Love \(Jan Blomqvist Remix\)](https://open.spotify.com/album/68scr1Ev9AoX1Czp74KJ6i) | 5:49 |
 | 75 | [Casualities \- YAME Remix](https://open.spotify.com/track/0pAX8suClIReqkFfrA5TsV) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [YAME](https://open.spotify.com/artist/21pXVnPnafVqqIFAaUb7XW), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Casualities \(Yame Remix\)](https://open.spotify.com/album/0RCa4DV10reH3RS8S4HDnB) | 6:54 |
 
-Snapshot ID: `MCxlYzJhZTIwOTA5ZTYwMTFmMTc5ZTg3YmU1YWFjNmU0YTE1MTljMmRi`
+Snapshot ID: `MCw4ZTg4NDc2NmE5MWQ3ODhmOTkyNmFjOWIzOGJlZjY2NGY0YTFiMWMx`

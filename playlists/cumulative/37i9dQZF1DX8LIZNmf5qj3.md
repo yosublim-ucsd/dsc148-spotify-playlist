@@ -4,7 +4,7 @@
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Yebba
 
-249 songs - 13 hr 48 min
+250 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,8 +231,9 @@
 | [Unravel](https://open.spotify.com/track/4iaGEMYt33g7XRW0XysG5B) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Unravel](https://open.spotify.com/album/2Ag4zs6ShtSHPVcgIZoSeq) | 2:40 | 2023-06-08 | 2023-06-16 |
 | [Unstoppable](https://open.spotify.com/track/57OHEGx7h74VFZw1jx37cg) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Unstoppable](https://open.spotify.com/album/52zyV45viU6MxjRZe3Xr1T) | 4:07 | 2023-04-06 | 2023-06-16 |
 | [upside down](https://open.spotify.com/track/5oGkMpnqbW4q5f5xyKDFVe) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0), [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [upside down](https://open.spotify.com/album/4CFZaJdDSXfW7TuZyW5P11) | 4:23 | 2022-12-22 | 2022-12-29 |
+| [Violet](https://open.spotify.com/track/1EQjOZMvkOXWMK2gx6yTZd) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 7:18 | 2023-10-26 |  |
 | [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 | 2023-10-26 | 2023-11-02 |
-| [Violet](https://open.spotify.com/track/4i85oysQdNeP8M7pqUH9sr) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3DR4H81NkCmYBKgq1vOQ3n) | 7:18 | 2023-10-26 |  |
+| [Violet](https://open.spotify.com/track/4i85oysQdNeP8M7pqUH9sr) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3DR4H81NkCmYBKgq1vOQ3n) | 7:18 | 2023-10-26 | 2023-11-06 |
 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 | 2023-09-15 |  |
 | [Walk Through The Fire \(feat\. Ne\-Yo\)](https://open.spotify.com/track/0Abt1QbqiLu45RN3VPECM6) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Walk Through The Fire \(feat\. Ne\-Yo\)](https://open.spotify.com/album/6mOgBsnfslEZnkdfbUYp2K) | 3:19 | 2023-03-23 | 2023-05-20 |
 | [Wasted](https://open.spotify.com/track/35CjECBbcR7MU75NpTGd4a) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Wasted](https://open.spotify.com/album/4BMiFFKjL6kDjgEsdmAn2s) | 3:15 | 2023-09-07 | 2023-10-27 |

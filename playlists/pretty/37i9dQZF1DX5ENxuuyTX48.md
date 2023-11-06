@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Paul Partohap, Arthur Miguel, D Gerrard, Nathan Hartono, Rizal Rasid
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,893 likes - 49 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,915 likes - 49 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 10 | [crash](https://open.spotify.com/track/1rrkI6crOZ3qEOuwGizymx) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [crash](https://open.spotify.com/album/2h4fJ50NqNXgFcCMwXEVlG) | 3:58 |
 | 11 | [POP](https://open.spotify.com/track/2AYpDB111EoTeqzgDjweUg) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [Culture Shock](https://open.spotify.com/album/4Do76oHlxXCIfdZznscpBn) | 2:45 |
 | 12 | [Cinta Hatiku](https://open.spotify.com/track/5sie55duZlmlqVFfxLcht7) | [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1) | [Cinta Hatiku](https://open.spotify.com/album/73omQW4OwG9WoGJIKMEF0R) | 4:12 |
-| 13 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 |
+| 13 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 |
 | 14 | [Sinar Pelangi](https://open.spotify.com/track/6UMKWjSsXb7GiUyxWKAiKp) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L) | [Sinar Pelangi](https://open.spotify.com/album/5vYx34KJAnkiWJKO78NOzb) | 3:28 |
 | 15 | [Bidadari Terindah](https://open.spotify.com/track/6kCE4coVyCYxFoqTYn5aPE) | [Adlani Rambe](https://open.spotify.com/artist/6w6sxAGJfysFpCm36TANlF) | [Bidadari Terindah](https://open.spotify.com/album/6LZtOZ5vENNrJIWxXNB22z) | 3:56 |
 | 16 | [Terdiam](https://open.spotify.com/track/59i9WWRPt1SI7i52M9Uiqz) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Terdiam](https://open.spotify.com/album/2uFVxEVwvGmEWAnrv6oVgu) | 3:32 |
 | 17 | [I'll Be There](https://open.spotify.com/track/1sptjFi2HTRqsI3mAD6UWy) | [Music & Drama Company](https://open.spotify.com/artist/6F0FRmiLkGbermJLzHhMRr), [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [RINES](https://open.spotify.com/artist/2FquRCgJvkUVwoDNrnsgAD), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ), [Izzathy Halil](https://open.spotify.com/artist/0l6OjJBsZus58CeVkysJXD), [Rae](https://open.spotify.com/artist/4BdrISFlRaHAgnBqZKb3xi), [Khim Ng](https://open.spotify.com/artist/53RjFiYitkODVyiZchcgDT) | [I'll Be There](https://open.spotify.com/album/3KsIC68JmXVwJHstIh8ddw) | 2:57 |
 | 18 | [Niskala \- Original Soundtrack From "Sandiwara Sastra \- Misteri Nusantara"](https://open.spotify.com/track/3HVGrjjmd7ZirlrxTPjgxG) | [hara](https://open.spotify.com/artist/1NKaPLdlQCfYkNyex4BqQ9) | [Niskala \(Original Soundtrack From "Sandiwara Sastra \- Misteri Nusantara"\)](https://open.spotify.com/album/6sSstDJYoukFNkLz1grHmT) | 4:12 |
 | 19 | [Denting](https://open.spotify.com/track/4i7xD6pmEaV25wL6K7Pjd0) | [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW) | [Denting](https://open.spotify.com/album/1nZGplPUPFeiAxhJnl0Ajx) | 3:09 |
-| 20 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 |
+| 20 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 |
 | 21 | [Cinta Sampai Mati](https://open.spotify.com/track/0j2dLzDKL5CX3u5f6gQ9sN) | [Atilia Haron](https://open.spotify.com/artist/5I10F2S3olh1B4GNqB5cdZ) | [Cinta Sampai Mati](https://open.spotify.com/album/09IcKdHKWQ8gEAYciGn9Tl) | 4:55 |
 | 22 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 |
 | 23 | [Marry Me Hari Ini](https://open.spotify.com/track/6wQEz2WdCdRZBCNrJ2F5ls) | [Nisha Haque](https://open.spotify.com/artist/1k3KTEwJc4bGBtk0wiGR2z), [Aman Aziz](https://open.spotify.com/artist/777g4Own3oQ7TXgAG5dyh4) | [Marry Me Hari Ini](https://open.spotify.com/album/5YikpXfI4b4hOjPTWLwYEb) | 3:02 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 48 | [Malampagi](https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy) | [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ) | [Malampagi](https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO) | 4:06 |
 | 49 | [Terima Kasih Cinta](https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Confession No.1](https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v) | 4:11 |
 
-Snapshot ID: `MCw3YWY1NjM4OThlMDlmMGFmOGM2ZGNkMDdmMTEyZGIxYzM2MzViOTdl`
+Snapshot ID: `MCxhMGI3Mjg5MDAzODk0ODJhYjZlZTJiZGRhNjY1MzdkYzM2YmMyY2Ex`

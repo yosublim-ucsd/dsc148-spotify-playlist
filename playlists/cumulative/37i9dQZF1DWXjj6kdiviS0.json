@@ -864,7 +864,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 258053,
       "name": "He Shall Feed His Flock",
       "url": "https://open.spotify.com/track/5Qmlyyc5a7GHetQDcF0Tmq"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 258053,
       "name": "He Shall Feed His Flock",
       "url": "https://open.spotify.com/track/5Vs0QDe9nOqf44rCBCAgUl"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 301586,
       "name": "Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon",
       "url": "https://open.spotify.com/track/1Mse9NKBbEASi50CQ4aYhr"
@@ -1272,6 +1272,32 @@
       "duration_ms": 301586,
       "name": "Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon",
       "url": "https://open.spotify.com/track/7B4HbpZCSfLzKGapKzlUPD"
+    },
+    {
+      "album": {
+        "name": "Pachelbel: Canon in D Major",
+        "url": "https://open.spotify.com/album/6c3t7n2DcojfdHIFXwhDwa"
+      },
+      "artists": [
+        {
+          "name": "Johann Pachelbel",
+          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300613,
+      "name": "Pachelbel: Canon and Gigue in D Major: Canon",
+      "url": "https://open.spotify.com/track/712Pm7DCa8lL8dGZ7LdXQS"
     },
     {
       "album": {

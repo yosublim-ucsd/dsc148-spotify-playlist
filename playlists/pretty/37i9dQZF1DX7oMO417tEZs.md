@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. Cover: Yaeger
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,083 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,097 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 84 | [Gone \(Abebe Bikila\)](https://open.spotify.com/track/7FAudIc6pJYU91ELpQ655R) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Gone \(Abebe Bikila\)](https://open.spotify.com/album/18nylQsLYIMdHvNXgfPVuO) | 2:19 |
 | 85 | [La Gente Se Levanta](https://open.spotify.com/track/1wAdnXc6Eas8BKww2CSKTB) | [Pelada](https://open.spotify.com/artist/1cUt6hBRKlav4TIgjopnHC), [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg) | [La Gente Se Levanta](https://open.spotify.com/album/4UP9rrYuthNnKcZAdBKcfI) | 3:31 |
 | 86 | [03:17](https://open.spotify.com/track/2lwarabwOyurbN88Ms33F1) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [03:17](https://open.spotify.com/album/6ewtnYBzfxTjxM7R5fL2qx) | 3:16 |
-| 87 | [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 |
+| 87 | [Silent Assassin](https://open.spotify.com/track/4mbAgzlDrW35mp0dz4zE40) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:07 |
 | 88 | [THE GLADE](https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [THE GLADE](https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa) | 3:42 |
 | 89 | [Past Life](https://open.spotify.com/track/0gnQIXp4YEsk3DgtT616re) | [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe) | [Past Life](https://open.spotify.com/album/3lbxwgkhW39lCa1Cq9Q9mI) | 3:37 |
 | 90 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [the moves](https://open.spotify.com/track/121Kzji5Fa2d1qUx7c5aDn) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [the moves](https://open.spotify.com/album/3ofgvl8eypgF4s6MTZLQkg) | 2:45 |
 | 100 | [DOA](https://open.spotify.com/track/5O6OvEmhWKKt6Jpkq4B4g3) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [CURB](https://open.spotify.com/album/4R9JE7rZGzc2kBzUKgfT5x) | 3:12 |
 
-Snapshot ID: `MCw5MDAxYmQ4YTc5YzY5NDZmNmQ2NjQwMTljYWVhYjQ4OGI5Y2M1ZDg3`
+Snapshot ID: `MCxjN2M0MWVlOGU4YTU3Mjk1YTIwODE0YjA5ZmIzYzE3NjQ5MWQ3YzAy`

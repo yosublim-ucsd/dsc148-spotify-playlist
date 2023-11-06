@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,139 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,144 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 36 | [Dejanos Pasar](https://open.spotify.com/track/0hDILCoN7SBSMHc5qwZ73E) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Dejanos Pasar](https://open.spotify.com/album/0sROwf7qAxdlMEGGQu85xN) | 2:55 |
 | 37 | [Baby Schai \- Remix](https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Baby Schai \(Remix\)](https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7) | 5:28 |
 | 38 | [Xexo](https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Xexo](https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T) | 3:00 |
-| 39 | [Bandidos](https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Bandidos](https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt) | 3:44 |
-| 40 | [Randy Johnson](https://open.spotify.com/track/2jjgP6T0u8sCzRXkg6rLMK) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Randy Johnson](https://open.spotify.com/album/2pPVTRXkobNnFqNhlZ6f85) | 2:32 |
+| 39 | [Randy Johnson](https://open.spotify.com/track/2jjgP6T0u8sCzRXkg6rLMK) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Randy Johnson](https://open.spotify.com/album/2pPVTRXkobNnFqNhlZ6f85) | 2:32 |
+| 40 | [Bandidos](https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Bandidos](https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt) | 3:44 |
 | 41 | [Mi Secreto](https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Mi Secreto](https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8) | 2:59 |
 | 42 | [Bonnie and Clyde](https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Bonnie and Clyde](https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7) | 3:29 |
 | 43 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 91 | [Polvos Narcos](https://open.spotify.com/track/6ckRxmSWoAy1oBrlwrlqhZ) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Polvos Narcos](https://open.spotify.com/album/3OIeXcf2e3ahdXuHuFsHCw) | 3:48 |
 | 92 | [Tratemos](https://open.spotify.com/track/07i2KTypiJ4WqBpHVODAXh) | [Bernier](https://open.spotify.com/artist/7AvLpOO8f4xJk24a2DeIOK), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Tratemos](https://open.spotify.com/album/3h19PVjctsFFCSkB37a1wE) | 3:49 |
 | 93 | [gatx](https://open.spotify.com/track/3fiYdUULxybJx1M1tOuoip) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 2:58 |
-| 94 | [Soy Lebron](https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [Soy Lebron](https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi) | 2:29 |
-| 95 | [Traficando](https://open.spotify.com/track/4SQ6Wf45YaLFBsXXPfvuNZ) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Traficando](https://open.spotify.com/album/4uTZikMbZ7sKhApOhIQGxQ) | 4:27 |
+| 94 | [Traficando](https://open.spotify.com/track/4SQ6Wf45YaLFBsXXPfvuNZ) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Traficando](https://open.spotify.com/album/4uTZikMbZ7sKhApOhIQGxQ) | 4:27 |
+| 95 | [Soy Lebron](https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [Soy Lebron](https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi) | 2:29 |
 | 96 | [Nube](https://open.spotify.com/track/0uQGGTxOJAzDpQjjXk4B2s) | [Paradize](https://open.spotify.com/artist/3aSBi6CYiiMGBgXnGB0Ej4), [JC Karo](https://open.spotify.com/artist/2MNRfUsu9bA4gzehlJc8hl) | [Nube](https://open.spotify.com/album/2J4jSwEt8wGWqNzr6Od25l) | 3:43 |
-| 97 | [Perreo X Calle](https://open.spotify.com/track/6TrHcYm0TFwZt5JeSOm8F4) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Perreo X Calle](https://open.spotify.com/album/2uGMXUYZTu0597ajBhZFSa) | 3:10 |
-| 98 | [Nena Buena](https://open.spotify.com/track/1LipU0DjCXaCK8yBfmglm6) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Nena Buena](https://open.spotify.com/album/6H0y2FOaj4tPcZTQ1VRTUU) | 3:28 |
-| 99 | [For You](https://open.spotify.com/track/0Bvaux1uoiR3ID2C9rMzxB) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [For You](https://open.spotify.com/album/7mwjFFFHrC2r2oCpnoMHR4) | 2:30 |
-| 100 | [Labios](https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP) | [Joonti](https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj) | [Labios](https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82) | 2:46 |
+| 97 | [Que Te Vaya Bien](https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Que Te Vaya Bien](https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB) | 2:50 |
+| 98 | [Perreo X Calle](https://open.spotify.com/track/6TrHcYm0TFwZt5JeSOm8F4) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Perreo X Calle](https://open.spotify.com/album/2uGMXUYZTu0597ajBhZFSa) | 3:10 |
+| 99 | [Nena Buena](https://open.spotify.com/track/1LipU0DjCXaCK8yBfmglm6) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Nena Buena](https://open.spotify.com/album/6H0y2FOaj4tPcZTQ1VRTUU) | 3:28 |
+| 100 | [For You](https://open.spotify.com/track/0Bvaux1uoiR3ID2C9rMzxB) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [For You](https://open.spotify.com/album/7mwjFFFHrC2r2oCpnoMHR4) | 2:30 |
 
-Snapshot ID: `MCwyYzFiMzcxOTY2ZjlkMTk1YTJjNGFiOTc2ZWJkZmI4NGJlZGU0Njc3`
+Snapshot ID: `MCwwMmQ2Nzg2MmU2OTk2YzkwZmViNTM2YmEzOWM1N2JlYjk5YTc5NjRm`

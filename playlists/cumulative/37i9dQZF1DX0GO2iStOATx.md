@@ -4,7 +4,7 @@
 
 > Punjabi superstar’s biggest hits.
 
-110 songs - 5 hr 41 min
+111 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,10 +100,11 @@
 | [Sahnewal](https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:41 | 2021-12-02 | 2023-10-04 |
 | [Sardaarji \- From "Sardaarji"](https://open.spotify.com/track/5dnN0pXE56qH1ufb8HennJ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Best of Punjabi Superstar Diljit Dosanjh](https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX) | 2:08 | 2021-12-02 | 2023-08-08 |
 | [Singh Naal Jodi](https://open.spotify.com/track/2MIlXiV4IGhkcjhfc52xme) | [Sukshinder Shinda](https://open.spotify.com/artist/6Mp7fezR1NJNc7tnybKo18), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Collaborations 3](https://open.spotify.com/album/2HRpBMvcjiglPyFuiyVabR) | 4:11 | 2021-12-02 |  |
+| [Stars](https://open.spotify.com/track/7MKlfwCqEtTtFzEZxkBSR8) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Ghost](https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH) | 3:04 | 2023-10-09 |  |
 | [Stars](https://open.spotify.com/track/1fvzAz230Q0Uzl5k3plxYg) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:04 | 2023-10-03 | 2023-10-30 |
 | [Stranger](https://open.spotify.com/track/64GMWImeb6xJcddUiK9kov) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Stranger](https://open.spotify.com/album/0Qi3UVsHtnxNZW1WPrpxOh) | 3:17 | 2021-12-02 | 2023-11-02 |
 | [Strawberry](https://open.spotify.com/track/4EQxlW6xqddgkzeno3I2Xe) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:51 | 2021-12-02 | 2023-09-01 |
-| [Surma](https://open.spotify.com/track/0fjxdmPuNO05PUQPOUCUif) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Surma](https://open.spotify.com/album/0a4usykYKqRRnqPBok3n68) | 3:25 | 2021-12-02 |  |
+| [Surma](https://open.spotify.com/track/0fjxdmPuNO05PUQPOUCUif) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Surma](https://open.spotify.com/album/0a4usykYKqRRnqPBok3n68) | 3:25 | 2021-12-02 | 2023-11-06 |
 | [Sweetoo \- From "Disco Singh"](https://open.spotify.com/track/3Peokn3Rj1GvHWngNR0pJy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Best of Punjabi Superstar Diljit Dosanjh](https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX) | 2:12 | 2021-12-02 | 2023-08-08 |
 | [Taare](https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:23 | 2021-12-02 |  |
 | [Track Suit](https://open.spotify.com/track/7ABCuDLEY2GyAwnGcqkmt2) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:18 | 2021-12-02 |  |

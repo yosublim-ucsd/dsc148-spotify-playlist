@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,517 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,542 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 49 | [Yastık İzi](https://open.spotify.com/track/1HnuCWlMEJ4BPhwTNlOQuH) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Yastık İzi](https://open.spotify.com/album/6BaXepPQ4GZUNK4vcQKFf6) | 1:43 |
 | 50 | [hatırla](https://open.spotify.com/track/6Ei4PCSOYNEa0QbDV0eeVr) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [hatırla](https://open.spotify.com/album/1M2HlETIjJxogCYUFF7aZP) | 2:36 |
 
-Snapshot ID: `MCxiYzA5MDZiN2RlNjFiNmI3NjYzN2VmM2YxOTMzNWNlZTFjZjZhODQx`
+Snapshot ID: `MCwxNDNkZWY3ZTRmNGU5NTA3MWM3NzE4Yjc0ZTIxMDM1OWI5NDAxMTZk`

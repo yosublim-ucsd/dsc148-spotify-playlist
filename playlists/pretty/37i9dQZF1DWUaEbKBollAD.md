@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,735 likes - 55 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,751 likes - 55 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 40 | [Wachaka](https://open.spotify.com/track/66fPvJebZWxlDF5x3ZwcjK) | [CIOZ](https://open.spotify.com/artist/43B3rN5TKnZLpfusky1fnp), [Ryan Murgatroyd](https://open.spotify.com/artist/3eWIVs6R1YgnA5FZSI3xiU) | [Be One Wachaka](https://open.spotify.com/album/42TFcA37URBMWHAUniIJPM) | 7:17 |
 | 41 | [Shiver](https://open.spotify.com/track/02KyBO8Rkzhs65K9VKmMpQ) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 4:35 |
 | 42 | [Himalaya](https://open.spotify.com/track/1xDo7ZRJGusfMXSrbkPA9N) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Himalaya EP](https://open.spotify.com/album/1hMcj58nfxMRslx8c25qmG) | 6:18 |
-| 43 | [Satori](https://open.spotify.com/track/17SCJbXeu121LBiittnXTI) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ) | 6:19 |
+| 43 | [Satori](https://open.spotify.com/track/4eAegTjIIRbWCt6jQlVgRe) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/5BPCC5P84HVEVdN6LatHOE) | 6:19 |
 | 44 | [Underwater](https://open.spotify.com/track/5X0Jg0pte4sHFIaSHa1sXL) | [BOg](https://open.spotify.com/artist/7FldCwBXVtA0TFbqxvaKZY), [19:26](https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Underwater](https://open.spotify.com/album/2d8RWfMRjbjRRHIlIif6k0) | 5:45 |
 | 45 | [Racos](https://open.spotify.com/track/5dRF9o0qHnXWcjwL01H7yj) | [Corpino](https://open.spotify.com/artist/3aZMsfIeWGsIacqszip923), [T.M.A](https://open.spotify.com/artist/2byiSAqYCxVFaUmm0KxiIe) | [Racos](https://open.spotify.com/album/5PSU21vZRXiUoArUwTHKIf) | 7:21 |
 | 46 | [Battles](https://open.spotify.com/track/2utNme0G9OtUVqq7wYUOf3) | [Emika](https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S) | [DREI](https://open.spotify.com/album/7jNBAhp5DxAPFhkkLkuxeG) | 3:33 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 54 | [The Feeling](https://open.spotify.com/track/2ex7NzlDpZ7uIqVd6sQIX4) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [The Feeling](https://open.spotify.com/album/6pEhtURKta65mrPTSKBn7e) | 8:32 |
 | 55 | [Shiva Manas Puja](https://open.spotify.com/track/7spGN3NecAk8fm5CARxL0X) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 5:58 |
 
-Snapshot ID: `MCw0NTAxYjk5ZGM1MGY4ZWM5ZmU3ZGJmNWYwNmUyOGZmNzg5YjJhYmM0`
+Snapshot ID: `MCw0NGRmZjY2ZjcyYTg1M2JiZjgwMGM0ZGVjNzRjOTliN2YyMjZmYTQ1`

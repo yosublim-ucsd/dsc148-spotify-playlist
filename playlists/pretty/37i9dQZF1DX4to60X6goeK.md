@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Bou
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,349 likes - 55 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,417 likes - 55 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Spotlight](https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h) | 3:45 |
 | 55 | [All Night](https://open.spotify.com/track/6D0sSoC203d1T7ojLff5vs) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ) | [All Night](https://open.spotify.com/album/69tWFPs75Z5mThgLAdQ3xt) | 4:41 |
 
-Snapshot ID: `MCxlOGVlZjE5YmJiNDk0YmJlNjAxMjg5OGJjMzZkNjU5YmUyNzE3NDg5`
+Snapshot ID: `MCw1MzNhNjMyZDBhZWE1ZGJjNzY1NTkwOGFkYjQzOWM1ZGI5MTlhYzI2`

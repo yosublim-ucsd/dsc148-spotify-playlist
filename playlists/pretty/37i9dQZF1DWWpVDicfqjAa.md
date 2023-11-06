@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,222 likes - 77 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,235 likes - 77 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 25 | [Ngibambe \- Jayda G Remix](https://open.spotify.com/track/73FtRvqWb77kuYk40DYNNS) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [Gaba Cannal](https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [Ngibambe \(Jayda G Remix\)](https://open.spotify.com/album/2o0QaLNDnvx7Zoe9erwOzp) | 3:34 |
 | 26 | [Hooked](https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Hooked](https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep) | 3:04 |
 | 27 | [After Dark](https://open.spotify.com/track/5eRBmNNRrv66usVlm2K515) | [James Patterson](https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [After Dark](https://open.spotify.com/album/5HkQZ5tt9RWNGqWeXtYxox) | 3:41 |
-| 28 | [Lose My Mind \- Edit](https://open.spotify.com/track/6bEMfZ4kYoz7HjM2odlpBz) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Lose My Mind](https://open.spotify.com/album/05KjDvoOT0zlL9ws0i0Pk8) | 3:11 |
+| 28 | [Lose My Mind \- Edit](https://open.spotify.com/track/0MYV28nHnMfS0iJjNBdXgH) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Lose My Mind](https://open.spotify.com/album/0ONsryH9XqbvLaMoFWvf9Q) | 3:11 |
 | 29 | [You Da Shit Girl \(feat\. LATASHÁ\) \- Nick Godmode mø8b Remix](https://open.spotify.com/track/4MAzJOogUwWzMB8jKTOdRP) | [Dave + Sam](https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf), [LATASHÁ](https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi), [Nick Godmode](https://open.spotify.com/artist/1AuJTtLgvKpgJ0zkxP9nOc) | [You Da Shit Girl \(feat\. LATASHÁ\)](https://open.spotify.com/album/00X9a5p33fuzyJoffuWGX7) | 3:34 |
 | 30 | [Been Right Here](https://open.spotify.com/track/4g8Uq3SDRlCaHnpRsfd7Cg) | [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Lea Lea](https://open.spotify.com/artist/2rr4WqfAdv4xEi5YyXdPQb) | [Been Right Here](https://open.spotify.com/album/5glnyMVXmGzXm29j3wDrE1) | 3:05 |
 | 31 | [The Throne](https://open.spotify.com/track/6Jl28uiFdGBPOx5EScNZw7) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [The Throne](https://open.spotify.com/album/0jbdpVS8HSlnPe2UhxSGwA) | 3:15 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 76 | [Topdown](https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG) | 3:50 |
 | 77 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 |
 
-Snapshot ID: `MCwxMTQ2ZmM3NTQ4MWRmM2VjZDg3N2ZmZmM2ODNlMTJhYmYxYmYyMTA5`
+Snapshot ID: `MCw2Y2JmMGMyNWI2ZTRiNjc1NjIwOGRjZDg1Y2I0ODQyZGMwMWEyMTYw`

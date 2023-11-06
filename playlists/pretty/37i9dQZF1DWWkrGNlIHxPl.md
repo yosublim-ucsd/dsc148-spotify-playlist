@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Majid Jordan
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,117 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,120 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Violet](https://open.spotify.com/track/4i85oysQdNeP8M7pqUH9sr) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3DR4H81NkCmYBKgq1vOQ3n) | 7:18 |
+| 1 | [Violet](https://open.spotify.com/track/1EQjOZMvkOXWMK2gx6yTZd) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 7:18 |
 | 2 | [IL0V3Y0U](https://open.spotify.com/track/0MdcE5oHji8C8XCJCR5o3z) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [IL0V3Y0U](https://open.spotify.com/album/3f2hRnl0alXw9bz8PpQSWz) | 2:43 |
 | 3 | [Mirage \- for Assassin's Creed Mirage](https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Mirage \(for Assassin's Creed Mirage\)](https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz) | 2:13 |
 | 4 | [Call Her Right Now](https://open.spotify.com/track/3ZZNpESGS4HnRlT1iZQVWq) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD), [Motif Alumni](https://open.spotify.com/artist/00FC4KkW4wnmRtEA7tq7mC) | [Call Her Right Now](https://open.spotify.com/album/3UUqKY7fBTEr4pVVpJQU14) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [THANK GOD](https://open.spotify.com/track/1o6JHLSAtNsIj8AgAvDxXX) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [WELCOME TO THE JUNGLE \(Deluxe\)](https://open.spotify.com/album/78c0MqaiVSdxo38fjv0vcp) | 3:30 |
 | 50 | [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 |
 
-Snapshot ID: `MCw1NDY3MzAwYTkxN2NlZGU1ZjU4ZjI2NWY3MDFjOWUzNTFkMDZiNmJj`
+Snapshot ID: `MCwyZTRhZDBkODcxNTVkOWZlNWE1MjUzOTM4OWE4Yzc3NjdiZGNkMGUy`

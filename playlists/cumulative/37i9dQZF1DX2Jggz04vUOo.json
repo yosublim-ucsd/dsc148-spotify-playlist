@@ -428,7 +428,7 @@
     {
       "album": {
         "name": "Inconformisme EP",
-        "url": "https://open.spotify.com/album/2g3Xn9WFQDO161ap711YFy"
+        "url": "https://open.spotify.com/album/4cSyCxdEDg9bBZulPOJd7t"
       },
       "artists": [
         {
@@ -439,6 +439,24 @@
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 435986,
+      "name": "Choo Choo",
+      "url": "https://open.spotify.com/track/0mkyybNKehmvQ5RndDyF4a"
+    },
+    {
+      "album": {
+        "name": "Inconformisme EP",
+        "url": "https://open.spotify.com/album/2g3Xn9WFQDO161ap711YFy"
+      },
+      "artists": [
+        {
+          "name": "Upercent",
+          "url": "https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-06",
       "duration_ms": 435986,
       "name": "Choo Choo",
       "url": "https://open.spotify.com/track/5QvEgDwNSyPgEkpLNDlnj2"
@@ -2302,10 +2320,32 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 349584,
       "name": "Yet Another Day Thinking About You",
       "url": "https://open.spotify.com/track/3tkSTbgygIKhand5G6JzsS"
+    },
+    {
+      "album": {
+        "name": "Nothing Can Compare",
+        "url": "https://open.spotify.com/album/6yb6uyIe8lwg66w1caKhJt"
+      },
+      "artists": [
+        {
+          "name": "YokoO",
+          "url": "https://open.spotify.com/artist/45fzhLbHZdBIgOGQT6M5zr"
+        },
+        {
+          "name": "Mauve (AUS) and JoKe",
+          "url": "https://open.spotify.com/artist/3i2YM0EdOLv1bfuCOLCyFR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349584,
+      "name": "Yet Another Day Thinking About You",
+      "url": "https://open.spotify.com/track/5S1kDC5lrjqBXGrz2FIpxv"
     },
     {
       "album": {

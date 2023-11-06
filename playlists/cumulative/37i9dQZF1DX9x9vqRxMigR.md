@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: The Milk Carton Kids
 
-501 songs - 1 day 8 hr 40 min
+502 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Hand Me Down Blues](https://open.spotify.com/track/5BT8ZIZY8H8DUbFM95RI0h) | [Durham County Poets](https://open.spotify.com/artist/5XTtqmpYaHFsi1jIpgQo3v) | [Hand Me Down Blues](https://open.spotify.com/album/4okg0q2iHrtpzdgrH18Qer) | 3:23 | 2022-04-25 | 2023-01-25 |
 | [Hands Tied](https://open.spotify.com/track/6MzzXgceAQ9bRLt9HDAxgK) | [Katie Cole](https://open.spotify.com/artist/1vpTdaHsUE4PODOzNDUDgm) | [Hands Tied](https://open.spotify.com/album/2m39gk9ArznqNPkvpK5ZdR) | 3:38 | 2021-02-23 | 2022-04-26 |
 | [Hangin' the Moon](https://open.spotify.com/track/4hc8DPwYa4vC1rFpzj9EmG) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Strawberry Wine](https://open.spotify.com/album/3eP6TE6m88vD2w6mSh6KBE) | 4:25 | 2023-01-24 |  |
-| [Happiness Is](https://open.spotify.com/track/6eKOwWyvYVQITbbu5BrCin) | [Jason Lang](https://open.spotify.com/artist/0hDsUvNberJq72ZG5lIcJ9) | [Happiness Is](https://open.spotify.com/album/2GEM70NOk2NLvHZhZiUBpI) | 3:04 | 2023-01-24 |  |
+| [Happiness Is](https://open.spotify.com/track/6eKOwWyvYVQITbbu5BrCin) | [Jason Lang](https://open.spotify.com/artist/0hDsUvNberJq72ZG5lIcJ9) | [Happiness Is](https://open.spotify.com/album/2GEM70NOk2NLvHZhZiUBpI) | 3:04 | 2023-01-24 | 2023-11-06 |
 | [Hard Times in Babylon](https://open.spotify.com/track/3RrsF5ktw07Gy0YUmVvbD0) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs), [Kris Drever](https://open.spotify.com/artist/14T0l4AeAGbmAZjpQNdcqk) | [Hard Times in Babylon](https://open.spotify.com/album/4WFE2OuHFZQH4JNRfzYWZK) | 4:02 | 2023-01-24 | 2023-04-30 |
 | [Hard Times in Babylon](https://open.spotify.com/track/7Ebq2EMAEPeLGitlrsAHY0) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs), [Kris Drever](https://open.spotify.com/artist/14T0l4AeAGbmAZjpQNdcqk) | [Hard Times in Babylon](https://open.spotify.com/album/4VywreCazoDf54KsGxO3yz) | 4:02 | 2023-01-24 |  |
 | [Harriet](https://open.spotify.com/track/1u4xfhIw84WDXVJ4KSEApS) | [Ordinary Elephant](https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs) | [Honest](https://open.spotify.com/album/76dQI6JCOblmNdlxvU5HHC) | 3:06 | 2023-01-24 |  |
@@ -399,6 +399,7 @@
 | [Steep Climb](https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Good for Sumthin'](https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk) | 5:26 | 2021-02-23 | 2022-04-26 |
 | [Still Waters](https://open.spotify.com/track/1gm1cXrVxTiaGAADSL2kDp) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Go by Feel](https://open.spotify.com/album/1UjpzHQIWrIJ0sadIoxnuK) | 4:02 | 2022-04-25 | 2023-01-25 |
 | [Stone](https://open.spotify.com/track/3EvwlSKR5zWc6czotBgHjt) | [South for Winter](https://open.spotify.com/artist/1CCtgClqhDqOl41ZP4dDM8) | [Luxumbra](https://open.spotify.com/album/6tuPw3zqBfnHXcapINKznr) | 5:11 | 2022-04-25 | 2023-01-25 |
+| [Stúlka ein](https://open.spotify.com/track/6W0AXcoLnKcGlxQ5L7KAjh) | [Brek](https://open.spotify.com/artist/5ujfi8d7Vm1DJXqHKkftjN) | [Stúlka ein](https://open.spotify.com/album/1eOVpepcxABDsSkSEZSFQP) | 4:28 | 2023-01-24 |  |
 | [Sweet on You](https://open.spotify.com/track/4EDYekAjkJ6FuE9ykEzWir) | [Blair Dunlop](https://open.spotify.com/artist/7n6bYneSU1ygSj0CevdvTD) | [Notes from an Island](https://open.spotify.com/album/3RLiO7FxPLjdPsBY2sSKbV) | 4:16 | 2023-01-24 |  |
 | [Sweet Shame](https://open.spotify.com/track/3SqFkTeKuqmZ02OV0sS1ZV) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Uncommon Prayer](https://open.spotify.com/album/6KZY8oAuN9LU4ETIu65YJ6) | 3:02 | 2021-02-23 | 2022-04-26 |
 | [Take My True Love by the Hand](https://open.spotify.com/track/5JSUtDD6KzntMo1LC8Fg86) | [The Limeliters](https://open.spotify.com/artist/08Zx5pufnilNAjm28CauiH) | [The Limelighters](https://open.spotify.com/album/4F1SgrDLg2zdW3Ow0lTDJC) | 3:00 | 2021-02-23 | 2022-04-26 |

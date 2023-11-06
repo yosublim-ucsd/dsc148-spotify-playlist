@@ -4,7 +4,7 @@
 
 > Please stand for your personal anthems\. Cover: Fall Out Boy
 
-371 songs - 20 hr 25 min
+372 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Can't Keep My Hands off You \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/3KLoJ7CtXZwTrrxhk0nE79) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [Get Your Heart On!](https://open.spotify.com/album/4opKT9tzXheNVmMTiOV5e6) | 3:20 | 2022-04-08 | 2022-04-21 |
 | [Can't Keep Waiting](https://open.spotify.com/track/4BgdZnMDWUYUtwTbShomYu) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Can't Keep Waiting](https://open.spotify.com/album/1cvb8sTzlZRnK4KWks2pOI) | 3:52 | 2021-09-02 | 2022-04-18 |
 | [Carousel](https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 3:14 | 2022-04-08 | 2022-04-19 |
-| [Check Yes, Juliet](https://open.spotify.com/track/0wVluBsVAVzBKrqspuCcwR) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/5kykHij9W4lQ4fFEfIo7BB) | 3:40 | 2021-09-02 |  |
+| [Check Yes, Juliet](https://open.spotify.com/track/0wVluBsVAVzBKrqspuCcwR) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/5kykHij9W4lQ4fFEfIo7BB) | 3:40 | 2021-09-02 | 2023-11-06 |
+| [Check Yes, Juliet](https://open.spotify.com/track/7N2PNxzZXxCdAHiAfsklhT) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/34lYm54X8P7MO9LezUTmQL) | 3:40 | 2023-01-25 |  |
 | [Chicago Is So Two Years Ago](https://open.spotify.com/track/3P8zrkBArAfdjFJxPtZRUO) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:19 | 2022-04-08 | 2022-04-21 |
 | [Chlorine](https://open.spotify.com/track/070faMkv0cPHE58SnHEEEz) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Chemical Miracle](https://open.spotify.com/album/2zQb2Lnd4nifvFKZynn7Lk) | 3:40 | 2022-04-08 | 2022-04-18 |
 | [Coffee at Midnight](https://open.spotify.com/track/0O5WAeW9fQb0E1sKUi5QZt) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Coffee at Midnight](https://open.spotify.com/album/0hku1mkSuPNcn8Deb9I2NV) | 3:44 | 2021-09-02 | 2022-07-29 |
@@ -181,7 +182,7 @@
 | [I've Been Dead All Day](https://open.spotify.com/track/55RUp308pgoV1T7yUGjw6D) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Vacancy](https://open.spotify.com/album/67rOh6Ndflg99VO0wgZUIF) | 3:14 | 2021-09-02 | 2022-07-29 |
 | [I've Given Up on You](https://open.spotify.com/track/4MR6PGC6LHMSXbK8iCfpug) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Put Yourself Back Together](https://open.spotify.com/album/3G8a4ZUKQ5b2dEzXbeZ9LZ) | 2:43 | 2022-06-16 | 2022-11-13 |
 | [I've Given Up on You](https://open.spotify.com/track/5bxythiVpxTD2nHZMmD8m1) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Put Yourself Back Together](https://open.spotify.com/album/3MOxvb2hL0T1vNJp1PSGRA) | 2:43 | 2022-04-08 | 2022-04-21 |
-| [If You Can't Hang](https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 4:10 | 2021-09-02 |  |
+| [If You Can't Hang](https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 4:10 | 2021-09-02 | 2023-11-06 |
 | [If You Say So](https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [If You Say So](https://open.spotify.com/album/5Fs69JI3j01ENByVg2Oego) | 2:31 | 2022-03-10 | 2022-04-21 |
 | [Ignorance](https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:38 | 2022-04-08 |  |
 | [In Bloom](https://open.spotify.com/track/0lgiIwUU7Y10uXfKkgXdjk) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:38 | 2022-06-16 |  |
@@ -228,7 +229,7 @@
 | [Monsters \(feat\. blackbear\)](https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:54 | 2021-09-02 |  |
 | [Moods Like English Weather](https://open.spotify.com/track/6gKetWe94u0tFwdrL8fTPZ) | [The Gospel Youth](https://open.spotify.com/artist/5EWAtvRDy8I6sSYlMjD6g0) | [Always Lose](https://open.spotify.com/album/2BQCZnBbZxRA1bbYxUBEvi) | 3:45 | 2022-04-08 | 2022-04-20 |
 | [Motion Sickness](https://open.spotify.com/track/2zb0TZbEprJhFjrbW74cWt) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/6MiQ7JVsKlOBJFJzWQZ2Kz) | 3:25 | 2022-04-08 | 2022-07-27 |
-| [Move Along](https://open.spotify.com/track/58HpsDKeYoLtNhXFQyQmz5) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii) | 3:58 | 2021-09-02 | 2023-02-11 |
+| [Move Along](https://open.spotify.com/track/58HpsDKeYoLtNhXFQyQmz5) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii) | 3:58 | 2021-09-02 |  |
 | [Moving Boxes](https://open.spotify.com/track/7lSqt09mk5hlzVWLzYIuWI) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Love and Loathing](https://open.spotify.com/album/07aGx2IErugtk4d7clL03j) | 3:15 | 2021-09-02 | 2022-07-29 |
 | [my ex's best friend \(with blackbear\)](https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:19 | 2021-09-02 |  |
 | [My Friends Over You](https://open.spotify.com/track/12mF5rnbbT7jNqiBv8NBFt) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks and Stones](https://open.spotify.com/album/0BfBwxymSFgSgHf9XH13AK) | 3:40 | 2021-09-02 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: CARR \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,129 likes - 125 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,172 likes - 125 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 4 | [zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [zombie](https://open.spotify.com/album/4nsvLdAnnhP2lEc5JCsDQS) | 2:11 |
 | 5 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
 | 6 | [So Long](https://open.spotify.com/track/1mQYvjPXigBBxEyM6VfPPp) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Stupid and Famous](https://open.spotify.com/album/58riorwSTiBrDtCLgsYsv0) | 1:54 |
-| 7 | [I Thought You'd Change](https://open.spotify.com/track/4Uy1cKq8UPWkwLRZBmSryG) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/7uCaVO8YwOnWXGk7ptVHNR) | 2:51 |
+| 7 | [I Thought You'd Change](https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 2:51 |
 | 8 | [What's The Point In Life](https://open.spotify.com/track/18BRLFiAfy2GFQlVF62CFg) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [What's The Point In Life](https://open.spotify.com/album/4rUczOIIrnjN06ezLBgt9l) | 2:18 |
-| 9 | [Talkin' On The Internet](https://open.spotify.com/track/6nrTOALDsdBIIVblrv0sYh) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Herberts On Holiday](https://open.spotify.com/album/3m3hEjQTaDq3QgiXR8XjW6) | 2:35 |
+| 9 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 |
 | 10 | [Up and Comer](https://open.spotify.com/track/0yMfUaFL7LDT38c648msAM) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Up and Comer](https://open.spotify.com/album/4auUOEEMRz5Uox3n79ip6M) | 3:46 |
 | 11 | [Low Light](https://open.spotify.com/track/4l5D9QyENTNmegLcZLzfJi) | [Fwango](https://open.spotify.com/artist/0KXYnSvIfAogJZaVoV4tPE) | [Low Light](https://open.spotify.com/album/7fTOPJxMyUa0BB42pCBdbw) | 3:50 |
 | 12 | [Compete](https://open.spotify.com/track/6UIt6fh0ElnYgiu6yHWey9) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Compete](https://open.spotify.com/album/7amsgxtqnmOBIBCMmNnqLz) | 2:59 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 124 | [Olly Carp](https://open.spotify.com/track/2VspudiJVujvSewaidcfKZ) | [HYLA](https://open.spotify.com/artist/7hpxHWdnM6cECjtgqMiWOo) | [Olly Carp](https://open.spotify.com/album/09tgHx4T78MhsW4XP0GKte) | 4:35 |
 | 125 | [It's A Pain](https://open.spotify.com/track/6fYQfO8TdcHsrGsyiHcbP6) | [Bummer Camp](https://open.spotify.com/artist/03PQWgjoaJt88TpMi1dmm5) | [Big Deal](https://open.spotify.com/album/4hclPpxh4OdsHhYc14TpQV) | 2:54 |
 
-Snapshot ID: `MCxjOTMyNDAyZmQxZmIxNDA3M2NlOWVkNmU4YTYxYjE4ODU4YzZmY2Q5`
+Snapshot ID: `MCxhNzQ4M2UwNTdjMTcxY2Y2MjZiNDljNmY2ZDUyMDA4ZmM3YmFjNTBj`

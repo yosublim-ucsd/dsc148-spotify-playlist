@@ -3575,6 +3575,24 @@
     },
     {
       "album": {
+        "name": "Current Mood",
+        "url": "https://open.spotify.com/album/5htnpjNpTeoE7B5XaTdzmC"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205733,
+      "name": "Small Town Boy",
+      "url": "https://open.spotify.com/track/7mS200vKsSSVgrbMxWza54"
+    },
+    {
+      "album": {
         "name": "Carolina",
         "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
       },
@@ -4186,7 +4204,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 229338,
       "name": "Today",
       "url": "https://open.spotify.com/track/1IO13V09b01gLSbmZJZ9dM"

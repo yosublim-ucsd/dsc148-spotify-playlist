@@ -4,7 +4,7 @@
 
 > Today's pop, featuring Alec Benjamin, Taylor Swift, Charlotte Cardin and more.
 
-1,180 songs - 2 day 11 hr 52 min
+1,181 songs - 2 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [A Driver Saved My Night](https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 2:47 | 2022-05-06 | 2022-05-14 |
 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 | 2023-06-23 | 2023-10-16 |
 | [A Man Like Me](https://open.spotify.com/track/1pJklQvgj7BmpMrO9E2P3u) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [The Ride: Part 2](https://open.spotify.com/album/3GD05St31XOYQZ0Hboop4T) | 2:30 | 2023-09-29 |  |
-| [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-20 | 2023-11-03 |
+| [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-20 |  |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-15 | 2022-07-16 |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2021-12-31 | 2022-07-30 |
 | [Accept It \(Retrospected\)](https://open.spotify.com/track/1W38GmPFvLAkp4KWdiExDj) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [Brett Matthews](https://open.spotify.com/artist/1z6pylUZFNXlYe6rIDvRqZ) | [Accept It \(Retrospected\)](https://open.spotify.com/album/3SmBzajWibp34B20J3ZSL1) | 3:42 | 2022-04-01 | 2022-04-23 |
@@ -280,7 +280,8 @@
 | [Don't Forget Me](https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:10 | 2023-06-16 | 2023-09-09 |
 | [Don't Let The Light Go Out](https://open.spotify.com/track/2lCyQnftM6ptqC3vk7qeao) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Don’t Let The Light Go Out](https://open.spotify.com/album/12sVYYyzqFcgA6o3yqCx5i) | 3:49 | 2022-08-19 | 2022-09-03 |
 | [Don't Say Love](https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love](https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC) | 3:00 | 2023-06-16 | 2023-08-05 |
-| [Don't Think Twice \- Edit](https://open.spotify.com/track/3kWMO7rpr9VpJF8csmCPec) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Don't Think Twice](https://open.spotify.com/album/2IdMh8hq88MtWZ9ZKNkqoa) | 2:49 | 2023-06-30 |  |
+| [Don't Think Twice \(Edit\)](https://open.spotify.com/track/17LWs11Pit0FRdwPjOqNPG) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Don't Think Twice](https://open.spotify.com/album/2AnUZTaynPGDDVLhUhfrMQ) | 2:49 | 2023-10-27 |  |
+| [Don't Think Twice \- Edit](https://open.spotify.com/track/3kWMO7rpr9VpJF8csmCPec) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Don't Think Twice](https://open.spotify.com/album/2IdMh8hq88MtWZ9ZKNkqoa) | 2:49 | 2023-06-30 | 2023-11-06 |
 | [DON'T YOU WORRY](https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [DON'T YOU WORRY](https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb) | 3:16 | 2022-06-17 | 2022-10-29 |
 | [Don’t Break \(My Soul\)](https://open.spotify.com/track/39ZSr9sYegoaqybVsWT4QC) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Don’t Break \(My Soul\)](https://open.spotify.com/album/37PXVz180JQFCsOPhlvBk8) | 3:19 | 2022-01-23 | 2022-02-26 |
 | [Don’t Call Me](https://open.spotify.com/track/2amtS6j1pIwE9haEjmDTyD) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Don’t Call Me](https://open.spotify.com/album/6G5ugL75bG2m85RA6d4g5V) | 2:28 | 2023-06-30 | 2023-08-05 |

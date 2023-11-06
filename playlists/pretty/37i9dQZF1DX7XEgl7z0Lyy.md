@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,528 likes - 75 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,521 likes - 75 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 18 | [JERK!](https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [JERK!](https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc) | 2:11 |
 | 19 | [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 |
 | 20 | [betterlucknexttime](https://open.spotify.com/track/0oJzcDo14Hb9JHwLuBe3bb) | [betterluckmason](https://open.spotify.com/artist/3n50HiEZZUPpdSO14AZxXz), [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [betterlucknexttime](https://open.spotify.com/album/2HXxXNDQ3HHb2D0YBr0Cq0) | 2:53 |
-| 21 | [Hands up!](https://open.spotify.com/track/04gSLX5nUhkKiMe1geeqnA) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Hands up!](https://open.spotify.com/album/4poweJXaiw4HwGhfvjMGkL) | 2:14 |
+| 21 | [Hands up!](https://open.spotify.com/track/6nH7G7zImTcBpqRMIPeHLK) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Sassy Scene](https://open.spotify.com/album/5kFLrTEOfgL2rMYMTxRrNC) | 2:15 |
 | 22 | [REPL4CE!](https://open.spotify.com/track/3oXlxZ4teZ1iLon3NmN0bn) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [REPL4CE!](https://open.spotify.com/album/6eKBPTWQ2Q7IOVzDxpvQrr) | 2:19 |
 | 23 | [party addict](https://open.spotify.com/track/0i5Lv2pnFSqZopukoniHcv) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [kojo](https://open.spotify.com/artist/18AWDR2N9U6HkTZ6wgmbRV) | [party addict](https://open.spotify.com/album/52zsEp1nlqjnzxBFRN9TCm) | 2:05 |
 | 24 | [U](https://open.spotify.com/track/2ipus3rmwO1i0VBPT7vQvr) | [axxturel](https://open.spotify.com/artist/5I7ErPVeubiYhds5DFcbfM) | [U](https://open.spotify.com/album/7MtII3Ot1Mc1eJulm4t5Qm) | 2:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 74 | [INVINCIBLE](https://open.spotify.com/track/4Uz07xPAEDFQcjY9vXZmXn) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU), [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [INVINCIBLE](https://open.spotify.com/album/3pKMJN25tbBk9YV76EHnMj) | 2:10 |
 | 75 | [Dead n Gone](https://open.spotify.com/track/2vyAxGW8KhJV1C4rGRCwco) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Dead n Gone](https://open.spotify.com/album/7wfrRI6BAK3b973nWm8mza) | 1:06 |
 
-Snapshot ID: `MCwzYjI0YmQxZTBlZmMxNzQ1ZTcxN2E3MjgxMDI5NjNmYTY1N2MxNTM4`
+Snapshot ID: `MCxlOTFhNDJjMmM1ZmYyODhhZGNmYTVkZDk4YWI1OGVmZTc5NGRhNTNj`

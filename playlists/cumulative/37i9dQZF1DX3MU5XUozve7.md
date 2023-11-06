@@ -4,7 +4,7 @@
 
 > A mix of new and classic melodic punk songs.
 
-654 songs - 1 day 8 hr 37 min
+655 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Change That Song Mr\. DJ](https://open.spotify.com/track/06FZTZdkninGWCC31MJIMX) | [Tim Timebomb](https://open.spotify.com/artist/2Sqro0AUxdyLXAfYF16nPw) | [Tim Timebomb and Friends](https://open.spotify.com/album/1xen9IbyoWOCylEuIZbSZG) | 2:04 | 2020-04-13 | 2022-07-23 |
 | [Cheap Beer](https://open.spotify.com/track/4soW0sDCEtDnDbJNrMrR2I) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIDLAR](https://open.spotify.com/album/5eDMtgbDPILuFPRzUhYLjz) | 2:23 | 2021-10-12 | 2021-10-13 |
 | [Check Yes, Juliet](https://open.spotify.com/track/0wVluBsVAVzBKrqspuCcwR) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/5kykHij9W4lQ4fFEfIo7BB) | 3:40 | 2022-07-26 | 2023-11-04 |
+| [Check Yes, Juliet](https://open.spotify.com/track/7N2PNxzZXxCdAHiAfsklhT) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/34lYm54X8P7MO9LezUTmQL) | 3:40 | 2022-07-26 |  |
 | [Chelsea](https://open.spotify.com/track/0Gc6QNeD6gkIgIgx75C8M7) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 2:42 | 2022-07-26 |  |
 | [Chelsea](https://open.spotify.com/track/0wQijUR7EPm5IvNEDFrWMa) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Chelsea](https://open.spotify.com/album/3PnRBrfhxEMYQPfIasAyaM) | 2:42 | 2020-03-20\* | 2022-07-29 |
 | [Chip](https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:14 | 2022-07-26 |  |
@@ -493,7 +494,7 @@
 | [Sirens](https://open.spotify.com/track/3IfH7qMMmbxeLmEB8bNWsF) | [Templeton Pek](https://open.spotify.com/artist/3Wgzkj0XxWohyGor7w8Wdv) | [Watching the World Come Undone](https://open.spotify.com/album/3kzq5aPWjxoXFhVP9yeNZy) | 3:25 | 2021-07-24 | 2021-07-27 |
 | [Six Years on Dope](https://open.spotify.com/track/2eKVo1JrBjEM7fiR6JPiU7) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/7C0KC68isgrHpV43072lYE) | 1:32 | 2020-03-20\* | 2022-07-29 |
 | [Six Years on Dope](https://open.spotify.com/track/5HHR8lHtLowKzMavnA6GyW) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy) | 1:32 | 2022-07-26 |  |
-| [Skate or Die](https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj) | [Teenage Bottlerocket](https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W) | [They Came From The Shadows](https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde) | 1:50 | 2022-07-26 |  |
+| [Skate or Die](https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj) | [Teenage Bottlerocket](https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W) | [They Came From The Shadows](https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde) | 1:50 | 2022-07-26 | 2023-11-06 |
 | [Skate Or Die](https://open.spotify.com/track/174t68Pnn9wb1UgM7fCRmY) | [Teenage Bottlerocket](https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W) | [They Came from the Shadows](https://open.spotify.com/album/21hHTrVvbzGDVynkfFvxtm) | 1:50 | 2020-03-20\* | 2022-07-29 |
 | [Skeletons](https://open.spotify.com/track/6L7yRELeAvbRXxIrvyznmY) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [Skeletons](https://open.spotify.com/album/6uc6QxoKV2rtCssHIH4BQe) | 2:48 | 2020-03-20\* | 2022-11-13 |
 | [smoke break//](https://open.spotify.com/track/1P9VGEZN9L7YbIlsENOtJW) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 3:02 | 2021-10-12 | 2021-10-14 |

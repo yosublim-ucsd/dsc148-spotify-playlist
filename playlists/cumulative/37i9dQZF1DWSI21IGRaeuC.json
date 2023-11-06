@@ -82,7 +82,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 364099,
       "name": "Alley Rave",
       "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
@@ -140,6 +140,24 @@
       "duration_ms": 365632,
       "name": "Applaud",
       "url": "https://open.spotify.com/track/04wE6fWx2qMQUoA6EFBG8l"
+    },
+    {
+      "album": {
+        "name": "At Lanta",
+        "url": "https://open.spotify.com/album/4HwB4ldDeSIo64foCaOUMJ"
+      },
+      "artists": [
+        {
+          "name": "Traumer",
+          "url": "https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410078,
+      "name": "At Lanta",
+      "url": "https://open.spotify.com/track/6IAleUEkszXQZ1sMaS62El"
     },
     {
       "album": {
@@ -448,10 +466,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 206250,
       "name": "Bongoloco",
       "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
+    },
+    {
+      "album": {
+        "name": "Bongoloco",
+        "url": "https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Bongoloco",
+      "url": "https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f"
     },
     {
       "album": {
@@ -538,7 +574,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 364916,
       "name": "can't stop the swing.",
       "url": "https://open.spotify.com/track/2mTNrZp8XBLay7hwwcAj81"
@@ -2088,7 +2124,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 201172,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR"
@@ -2660,7 +2696,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 370000,
       "name": "Persefone",
       "url": "https://open.spotify.com/track/6Y7zsTTF0NJgJGssD6BOJP"
@@ -3090,7 +3126,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 181054,
       "name": "Rudeboi",
       "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"

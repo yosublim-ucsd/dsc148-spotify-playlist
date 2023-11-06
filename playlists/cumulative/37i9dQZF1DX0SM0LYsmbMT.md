@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,789 songs - 6 day 1 hr 12 min
+3,790 songs - 6 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2797,6 +2797,7 @@
 | [Second Chance](https://open.spotify.com/track/6bEeSQJImuxelI4h8FfVht) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Second Chance](https://open.spotify.com/album/79XKipLUqpUDLTIPmoRcr5) | 2:13 | 2022-05-12 | 2022-05-26 |
 | [Second Chance](https://open.spotify.com/track/4XRqTzS396OGLIn5bsxcaL) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy) | [Second Chance](https://open.spotify.com/album/0waAeeb83CLveoOQtyS38K) | 1:58 | 2022-10-06 |  |
 | [Second Chance](https://open.spotify.com/track/1zRxxLqv8ZsI7RwaGdI9uV) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Ozelot](https://open.spotify.com/artist/0EGqP4H6r2Fc7VquwjgMtY) | [Second Chance](https://open.spotify.com/album/1WFiHD95Da0xEk1XlDHypa) | 2:31 | 2021-05-29 | 2021-12-17 |
+| [Second Life](https://open.spotify.com/track/5KyouomF1FA1528RoISY0o) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Second Life](https://open.spotify.com/album/5tqEIWSgETv8ij1iXcxL22) | 2:12 | 2023-10-26 |  |
 | [Second Wind](https://open.spotify.com/track/6TnU0Gqn0EcfE9AUYzJVMB) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [Second Wind](https://open.spotify.com/album/4Rm9vAv7GJbRBoBw4b7jYc) | 3:00 | 2019-05-26\* | 2019-12-13 |
 | [Secret Hideout](https://open.spotify.com/track/3pLzDaKb0lzJCVRNp37oFy) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Secret Hideout](https://open.spotify.com/album/549scr9WeKjMsp9Ofn2Wvr) | 2:11 | 2022-09-22 | 2022-10-17 |
 | [Secret Jazz](https://open.spotify.com/track/1YEbTTsbfn0vsM52dBZ9HZ) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Secret Jazz](https://open.spotify.com/album/5Cu0ofs2gJfh6KXQEy0TaX) | 2:49 | 2020-05-12 | 2020-07-18 |
@@ -3796,6 +3797,6 @@
 | [ōnsen](https://open.spotify.com/track/5mRujdwuXJkZuJQQnqPtXl) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [ave \| ōnsen](https://open.spotify.com/album/2yn90YWW1z9fc4r1vS2vKA) | 1:39 | 2020-02-22 | 2020-05-19 |
 | [산책 Stroll](https://open.spotify.com/track/3qWVH8bq3VH47hROmKl27F) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR) | [Lone Rider / 산책 Stroll](https://open.spotify.com/album/6AKmKh1BxvbIATomn52p7s) | 3:16 | 2020-10-09 | 2020-11-07 |
 | [Ọsanyìn](https://open.spotify.com/track/1bquB6VQlW6bm9FUauzpRJ) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Ọsanyìn](https://open.spotify.com/album/1ObUCC7AMfSsYLVwurAiRQ) | 2:04 | 2021-07-02 | 2021-08-06 |
-| [😊](https://open.spotify.com/track/5TnioMrD7HVnU5GJsQTOcw) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Jakob Gerhardt](https://open.spotify.com/artist/6naolhpsGxwmfRVMZxQjNt), [Beta Beat](https://open.spotify.com/artist/5om7d89XzwR16u36EyuRSk) | [😊 / I Can See Your House From Here](https://open.spotify.com/album/4cL5RfiYMPC4dYwd7b9VvE) | 3:03 | 2023-10-26 |  |
+| [😊](https://open.spotify.com/track/5TnioMrD7HVnU5GJsQTOcw) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Jakob Gerhardt](https://open.spotify.com/artist/6naolhpsGxwmfRVMZxQjNt), [Beta Beat](https://open.spotify.com/artist/5om7d89XzwR16u36EyuRSk) | [😊 / I Can See Your House From Here](https://open.spotify.com/album/4cL5RfiYMPC4dYwd7b9VvE) | 3:03 | 2023-10-26 | 2023-11-06 |
 
 \*This playlist was first scraped on 2019-05-26. Prior content cannot be recovered.

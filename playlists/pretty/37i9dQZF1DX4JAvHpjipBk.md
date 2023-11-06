@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Jung Kook, Megan Thee Stallion, The Beatles, Olivia Rodrigo, WILLOW, Conan Gray and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,170,999 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,171,226 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Rover!](https://open.spotify.com/track/0s9eWn090LdFQxKqkPLiH3) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [SUPERSTAR!](https://open.spotify.com/album/7rRQ0fz5cgm4y6BmahyXCs) | 2:31 |
 | 100 | [post\-traumatic stress](https://open.spotify.com/track/36UlMEFIqpCzMOQmjK2IL4) | [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z) | [post\-traumatic stress](https://open.spotify.com/album/70pj9H22oLhKupwGu61zkw) | 2:32 |
 
-Snapshot ID: `MCw1NmEwMmYxMTBmZjRlZTJmYTczNDcwNzEzNzJmY2E2Njg0OGQxZjIx`
+Snapshot ID: `MCw2ZGZmOGNhYWZlNWE2MjI5MWZjN2MxMzg0ZGVmYzM5ODExMDA3MjJi`

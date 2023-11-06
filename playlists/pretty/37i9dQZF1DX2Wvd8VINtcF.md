@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,115 likes - 104 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,153 likes - 104 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 49 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 |
 | 50 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 51 | [The Way You Had Me](https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [The Way You Had Me](https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri) | 3:10 |
-| 52 | [Teach Me](https://open.spotify.com/track/1Ao0v7s8d9IvlkiiTLLNdW) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Teach Me](https://open.spotify.com/album/7Lq1yzAH6bOAe3EzUujCpD) | 2:40 |
+| 52 | [Teach Me](https://open.spotify.com/track/67WrJrYuDihmwIVhR4p7N1) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Youth And Why It Ends](https://open.spotify.com/album/2rv9MHfgzqAvshO61zMdBn) | 2:40 |
 | 53 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 |
 | 54 | [San Pedro](https://open.spotify.com/track/524WvaZzJFA2TqnJR3sQ1d) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:28 |
 | 55 | [FRIENDLY FEELINGS](https://open.spotify.com/track/1mAyVyICWy1kP91ekCa466) | [Chris Taylor](https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q) | [FRIENDLY FEELINGS](https://open.spotify.com/album/4rJMlEgBdTbNek890DkQq5) | 2:56 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 103 | [Forever](https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Forever](https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc) | 3:16 |
 | 104 | [Blanket](https://open.spotify.com/track/34mIasINn8fmO54la1cDaM) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Blanket](https://open.spotify.com/album/1yUYTi45DvH4lTZnrX9hib) | 1:57 |
 
-Snapshot ID: `MCxjZGQxMDI1YWY3NzkzMDA3YjBlYzU5ZGNkZmYxZDA5MzhiNjYyODVi`
+Snapshot ID: `MCw1MjAwOGZlMzliMzY2MjMzN2U3MGM3ZTEzZGM0NmE2MWFiNGNiN2Y3`

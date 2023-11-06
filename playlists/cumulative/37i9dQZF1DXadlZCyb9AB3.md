@@ -4,7 +4,7 @@
 
 > The defining songs of the riot grrrl era, and the artists keeping their spirit alive\. Cover: Sleater\-Kinney
 
-147 songs - 7 hr 11 min
+148 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,8 +152,9 @@
 | [Worry With You](https://open.spotify.com/track/61gZVgJwD8TYKQXkTX3pJg) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/1eUPlL6mb3jmAOJGylGgK1) | 3:51 | 2021-06-11 | 2022-07-29 |
 | [Worship The Whip](https://open.spotify.com/track/0yeUQzN4ym60kmeiga9XSZ) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Worship The Whip](https://open.spotify.com/album/1vIPDQMaaSaGCxMqvq9MFB) | 3:01 | 2023-06-02 |  |
 | [Wrap It Up](https://open.spotify.com/track/54T19pvsrKtFtBCKY49R1I) | [Romeo Void](https://open.spotify.com/artist/20kRNjGAzhnBIflemL8JfY) | [Warm, In Your Coat](https://open.spotify.com/album/4prH6wEaDxG4lo02BaXbkG) | 3:25 | 2021-06-11 |  |
-| [You](https://open.spotify.com/track/0T4QLWiZMgwjqkyHTky3P1) | [Au Pairs](https://open.spotify.com/artist/5nGQE2ehuRkkK1iNUQQthd) | [Stepping Out of Line \- The Anthology](https://open.spotify.com/album/2vurTwlVL3loAEGFN5p6z0) | 2:49 | 2021-06-11 |  |
+| [You](https://open.spotify.com/track/0T4QLWiZMgwjqkyHTky3P1) | [Au Pairs](https://open.spotify.com/artist/5nGQE2ehuRkkK1iNUQQthd) | [Stepping Out of Line \- The Anthology](https://open.spotify.com/album/2vurTwlVL3loAEGFN5p6z0) | 2:49 | 2021-06-11 | 2023-11-06 |
 | [You](https://open.spotify.com/track/67YmlYsvLQNzTxmtf34Edk) | [Au Pairs](https://open.spotify.com/artist/5nGQE2ehuRkkK1iNUQQthd) | [Stepping Out of Line: The Anthology](https://open.spotify.com/album/7zLCnZO3DvbqFKciE2i726) | 2:49 | 2021-06-11 | 2022-07-29 |
+| [You \(EP Version\)](https://open.spotify.com/track/7knkWxt3A1J3dOVIB8tWSm) | [Au Pairs](https://open.spotify.com/artist/5nGQE2ehuRkkK1iNUQQthd) | [Stepping Out of Line \- The Anthology](https://open.spotify.com/album/1rQBMMOdTHjqRcg3mD54VK) | 2:49 | 2023-10-17 |  |
 | [Your Mom](https://open.spotify.com/track/1RYYWpZAFqkRKAjyp8EKzW) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [THICK](https://open.spotify.com/album/3gfufUzwziwEigzdC507KP) | 1:24 | 2023-09-08 |  |
 
 \*This playlist was first scraped on 2022-02-20. Prior content cannot be recovered.

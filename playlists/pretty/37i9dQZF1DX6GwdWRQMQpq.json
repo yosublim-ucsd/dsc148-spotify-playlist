@@ -1,13 +1,29 @@
 {
   "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Megan Thee Stallion",
-  "num_followers": 2970063,
+  "num_followers": 2970782,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzJhNzVhNGEyYTAzNWRlYzg0MmIxOWZkMWQ3ZGNlMmI3MWI0ODg0",
+  "snapshot_id": "MCxlNWZjOTI5ZTZiOWY1OWJlYTFmZDU0NzkwYWY2Y2Y5ZDY4MjlkZjFm",
   "tracks": [
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Cobra",
+        "url": "https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 168932,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
+    },
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,512 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,574 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 |
 | 50 | [Grät](https://open.spotify.com/track/1VJBnmHm3gUyJnPKetgC3j) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Grät](https://open.spotify.com/album/15S6L5LQiWcBNtrEPHufAp) | 3:14 |
 
-Snapshot ID: `MCwyZDNkM2UyOWU3OGI0ZmEyOWI1MjZmNWIwOGZiNmYwNTcwMzljZTQ4`
+Snapshot ID: `MCxmMWU3ZGQ3YjExNTgzNzEzOWVkNDI3Y2Y1YTExMGQxMDIwODFhODRl`

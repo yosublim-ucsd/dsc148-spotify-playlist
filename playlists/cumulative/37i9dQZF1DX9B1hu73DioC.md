@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for just hanging out.
 
-709 songs - 1 day 18 hr 31 min
+710 songs - 1 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [High](https://open.spotify.com/track/1Azvp5Y5rOiFBPLXlOxGfy) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [High](https://open.spotify.com/album/5Nb5lpQAmZqoUNvCjiQIr9) | 3:37 | 2021-06-07 | 2022-04-19 |
 | [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 | 2022-12-09 | 2023-08-20 |
 | [High Beams](https://open.spotify.com/track/33aO3exOKzz0EtN1Web9oN) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [High Beams](https://open.spotify.com/album/0Z3dnKulGDg97zHhomkppb) | 3:30 | 2021-08-27 | 2022-07-29 |
-| [Highway](https://open.spotify.com/track/5Y5Poj7qMpNSOX9L0c2gup) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Highway](https://open.spotify.com/album/2ncXtuMWMcC2c1UhJp7OmS) | 3:03 | 2023-09-15 |  |
+| [Highway](https://open.spotify.com/track/5Y5Poj7qMpNSOX9L0c2gup) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Highway](https://open.spotify.com/album/2ncXtuMWMcC2c1UhJp7OmS) | 3:03 | 2023-09-15 | 2023-11-06 |
 | [Hold Me Down](https://open.spotify.com/track/7j3F83W8dkm10ujNwC0wRJ) | [The Simps](https://open.spotify.com/artist/1jsT4oqnLcCax2grWbuhL6), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Hold Me Down](https://open.spotify.com/album/4F3OWtzqKabuavxA3rzEAA) | 3:23 | 2022-03-07 | 2022-04-20 |
 | [Holding On](https://open.spotify.com/track/2WZwPv9no6rPUSLTABF1uy) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [In a Heartbeat](https://open.spotify.com/album/0PAFBKP82cxNYTM05Ca8jp) | 3:46 | 2020-10-16 | 2022-04-17 |
 | [Holidays](https://open.spotify.com/track/6jPJ8mwfq9A1j33ugXIL6I) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Holidays](https://open.spotify.com/album/45uEr0o0PLezR8klDixbyp) | 3:15 | 2021-03-19 | 2022-04-13 |
@@ -532,6 +532,7 @@
 | [Rolled Up](https://open.spotify.com/track/4DWyAq9ExNPogDaduac3Ym) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 3:03 | 2022-10-07 | 2023-09-16 |
 | [Romantic Lover](https://open.spotify.com/track/44pBlSEASFjEdU3qEHhbFs) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/02U2T90QXPo4XaFUvYURaf) | 1:26 | 2021-05-05 | 2022-04-19 |
 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 | 2021-06-04 | 2023-11-05 |
+| [Rose Pink Cadillac](https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/2VaOn32haUapQOYnerK32W) | 4:21 | 2023-09-29 |  |
 | [Run Away](https://open.spotify.com/track/2BvqUci2WyM2peHOCimt95) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [Run Away](https://open.spotify.com/album/009DKE4MpIhgk3coS71bb1) | 3:23 | 2020-10-05\* | 2021-05-28 |
 | [Run To The Moon](https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Run To The Moon](https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs) | 3:45 | 2023-04-28 |  |
 | [Running Around](https://open.spotify.com/track/35DHCZvQcy8PIM0eJmVS1X) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Running Around](https://open.spotify.com/album/3SZkoZ1AS0DAW8jyMQUQ0q) | 4:28 | 2022-03-07 | 2023-08-19 |

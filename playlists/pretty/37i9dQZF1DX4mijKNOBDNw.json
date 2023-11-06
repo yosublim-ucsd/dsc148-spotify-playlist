@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 54151,
+  "num_followers": 54158,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWQ2NDJmZWI4YjNlM2YxOWY5MjA2NjJiNTQ5OTk5OTRhNGUyNjg2",
+  "snapshot_id": "MCw3YjBiZmJhOGI0Y2ZiZjBjOTc5MzY2OTdlMTRhZDkyZDJlNWI4YmM1",
   "tracks": [
     {
       "added_at": "2023-11-03 06:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-11-03 06:00:00",
       "album": {
+        "name": "Autogestion y Resistencia",
+        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
+      },
+      "artists": [
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Sororidad",
+      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
+    },
+    {
+      "added_at": "2023-11-03 06:00:00",
+      "album": {
         "name": "Belicosa",
         "url": "https://open.spotify.com/album/2uRdtPtwPoYAbgnT6LKr8R"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 169200,
       "name": "Belicosa",
       "url": "https://open.spotify.com/track/1FvhrIQOQnK0oXzDgk5SD9"
-    },
-    {
-      "added_at": "2023-11-03 06:00:00",
-      "album": {
-        "name": "Autogestion y Resistencia",
-        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
-      },
-      "artists": [
-        {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Sororidad",
-      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
     },
     {
       "added_at": "2023-11-03 06:00:00",

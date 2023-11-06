@@ -4,7 +4,7 @@
 
 > Women at full volume! Cover: Joy Denalane
 
-1,141 songs - 2 day 11 hr 25 min
+1,142 songs - 2 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1074,8 +1074,9 @@
 | [Weit weg](https://open.spotify.com/track/73rbG1UP8QLocaXUT68cgB) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [Weit weg](https://open.spotify.com/album/5Pb5dnDVTMTr2YgWDYMW3n) | 2:29 | 2023-07-04 | 2023-08-02 |
 | [Weit weit weg](https://open.spotify.com/track/75Scr7XSVfoAozRo3GyhHJ) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Weit weit weg](https://open.spotify.com/album/7dTTAuYUxkDjf1OL1Jfp0u) | 2:52 | 2023-06-06 | 2023-07-05 |
 | [Weißes Haus](https://open.spotify.com/track/5OXgrcI2K6erTLMTlEJ23H) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Weißes Haus](https://open.spotify.com/album/76MbuCHFar5NafVYMqVopm) | 2:48 | 2023-08-01 | 2023-09-06 |
+| [wELLeN](https://open.spotify.com/track/0JCvNdwMoadNVV3YlZFLZ0) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [BLA \(berlin love affair\)](https://open.spotify.com/album/1UWmpU2Be5SOuWmITAQGLG) | 2:48 | 2023-10-03 |  |
 | [wELLeN](https://open.spotify.com/track/3VMx9EFFqH2pwyqOtlMJfx) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [wELLeN](https://open.spotify.com/album/1wBviASwDZ1UXyj66XeQll) | 2:48 | 2023-10-03 | 2023-10-31 |
-| [wELLeN](https://open.spotify.com/track/3tvkbP7uk2ZISn5mM9qves) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [BLa\*\_\*](https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK) | 2:48 | 2023-10-03 |  |
+| [wELLeN](https://open.spotify.com/track/3tvkbP7uk2ZISn5mM9qves) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [BLa\*\_\*](https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK) | 2:48 | 2023-10-03 | 2023-11-06 |
 | [Wenn Du die Augen schließt](https://open.spotify.com/track/0HlbHgvF2CHsRfGjlYIxcT) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Wenn Du die Augen schließt](https://open.spotify.com/album/3T4vp2rxp0FjJ0vnt2WrmR) | 2:52 | 2022-02-01 | 2022-03-08 |
 | [Wenn Du die Augen schließt](https://open.spotify.com/track/0vyuUUq4T4zHVomByCKOUJ) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Wenn Du die Augen schließt](https://open.spotify.com/album/3E0a4bY370TM8hTPRy1mZd) | 2:52 | 2022-11-30 | 2023-01-04 |
 | [Wenn du gehst](https://open.spotify.com/track/6Bla8mc7IUZRqC6lmGnFLw) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Wenn du gehst](https://open.spotify.com/album/0ZHl38l7ZrbOzxVm9qtpFs) | 2:32 | 2021-12-21 | 2022-01-05 |

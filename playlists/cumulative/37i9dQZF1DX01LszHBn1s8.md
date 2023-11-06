@@ -2,7 +2,7 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> "life is not a waste of time, and time is not a waste of life\. so let's stop wasting time, get wasted and have the time of our lives" \- Mr Worldwide
+> you know i'm magic on the mic, houdini
 
 1,275 songs - 2 day 18 hr 57 min
 

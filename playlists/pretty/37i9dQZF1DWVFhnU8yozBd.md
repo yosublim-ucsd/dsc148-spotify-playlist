@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,798 likes - 100 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,822 likes - 100 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 36 | [Mermaids On Acid](https://open.spotify.com/track/1Dj2EvuZWH7fkovM61Xh0T) | [Sedef Adasi](https://open.spotify.com/artist/4jY1cwyuyqQATeSI16ZeYD) | [Mermaids On Acid](https://open.spotify.com/album/3XzMBTlN73SweePab35Mqp) | 4:21 |
 | 37 | [Panama](https://open.spotify.com/track/1GVTAHdipYZ8fBgYMqzgPj) | [Peter Luedemann](https://open.spotify.com/artist/23efnGCt8KSLQa2Yv59A4C), [Pit Troja](https://open.spotify.com/artist/24GWBtlxKmo7NxPSP1sqL6) | [The Now Generation: Percussive Underscores](https://open.spotify.com/album/65QaC2Z7MRc3mzDtcdLApy) | 2:22 |
 | 38 | [You Could Be More As You Are](https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY) | [Saâda Bonaire](https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg) | [Saâda Bonaire](https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8) | 5:56 |
-| 39 | [A83](https://open.spotify.com/track/2XjMKzVE2qm6ULEsuQvYqU) | [LUXE](https://open.spotify.com/artist/4Hholv5F2ei5wt2sRUne7S) | [Belonging EP](https://open.spotify.com/album/4qybG1RPWVKdNUqMTC1myf) | 5:59 |
+| 39 | [A83](https://open.spotify.com/track/3TDgqF6U3BohIWi84ylOBi) | [LUXE](https://open.spotify.com/artist/4Hholv5F2ei5wt2sRUne7S) | [Belonging EP](https://open.spotify.com/album/0zhhWJWPRJYIzHPKskwC96) | 5:59 |
 | 40 | [Hearts](https://open.spotify.com/track/1Vseb5yC0uN4jhpeWF2nhY) | [L.S.G.](https://open.spotify.com/artist/5bLpYSmewYdnv9djU3kwpA) | [Blueprint EP](https://open.spotify.com/album/4KtpSouY9I9zX5c0xx89pi) | 7:42 |
 | 41 | [True Romance \(Maja Edit\)](https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 3:50 |
 | 42 | [Kristalen](https://open.spotify.com/track/0Cj75WyGoWqPskzd33DaPI) | [Gabriella Vergilov](https://open.spotify.com/artist/5WVz5iRPXwCdoKvVxP6xCQ) | [I Am Here Now EP](https://open.spotify.com/album/62L63TyDECgbSVUkrJ4Cf6) | 5:42 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 75 | [Pacifica](https://open.spotify.com/track/5nINri5AenR6Q7ljBJYfgL) | [Sterac](https://open.spotify.com/artist/2QFnCeEbTqsb0YUYpFl08v) | [Asphyx](https://open.spotify.com/album/6ofX98b64trX8JvhzIrGrE) | 7:53 |
 | 76 | [Hold Me \- T4T Embrace Mix](https://open.spotify.com/track/1igRDinuruKXDDLHFqOYvL) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 5:56 |
 | 77 | [Waiting](https://open.spotify.com/track/7fxcNshGvCxlNMGHI1GmCx) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Waiting](https://open.spotify.com/album/0zGcOpLSpmGTJUcHRrNUJz) | 6:52 |
-| 78 | [Cotton](https://open.spotify.com/track/5O2YyBz2E0xVgSng44UTnV) | [Cop Envy](https://open.spotify.com/artist/2Kw0Sr0n8G0uuzyeFdANyF) | [Cotton EP](https://open.spotify.com/album/1xFPICA2qrNr6ytB3dlFR7) | 5:51 |
+| 78 | [Cotton](https://open.spotify.com/track/1k5Qm9EzP0mM0wedIgevwi) | [Cop Envy](https://open.spotify.com/artist/2Kw0Sr0n8G0uuzyeFdANyF) | [Cotton EP](https://open.spotify.com/album/7FOUVHxXVHO82i1iQeh9mZ) | 5:51 |
 | 79 | [The Hours](https://open.spotify.com/track/5pDMx1xOnhSomxKkJmez4p) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Supervillain](https://open.spotify.com/album/3LHbQ672nttiCLx9g0ZnaF) | 6:51 |
 | 80 | [Baby](https://open.spotify.com/track/0wPfUQUkWcguy2iUH0BWOT) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 4:24 |
 | 81 | [Music Sounds Better With You](https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR), [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 6:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 99 | [Moninga](https://open.spotify.com/track/4P79noXrKGHrYUrsZioxjv) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/51Feoswkepa9SEg307gah5) | 4:55 |
 | 100 | [Balance \- Dj Floor Remix](https://open.spotify.com/track/0zKxARvuFIfUMx1MiuZaMR) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6), [DJ Floor](https://open.spotify.com/artist/6BuZRXj92YFV1pm7G8ZEyY) | [Balance \(Remixes\)](https://open.spotify.com/album/2OYcucJqPHC9paken1byEp) | 4:07 |
 
-Snapshot ID: `MCw1MTA3YTc3MjRmNmJhY2YzMTkzMjcxYjQxMGM0M2Q3MjkwYzU5MTI4`
+Snapshot ID: `MCxjZWY1NTRmOGIyNmNmZGRlYWRmNzMzMmQ5ODk5ZWE2YzJlNTI5YTNk`

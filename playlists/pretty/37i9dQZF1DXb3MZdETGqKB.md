@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: ZZ Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,760 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,977 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 71 | [California](https://open.spotify.com/track/6pyzjYC9xlQDvE2kuCoo8J) | [Blues Pills](https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY), [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [California](https://open.spotify.com/album/22gJV8W8FZumLASGe2v0kV) | 3:44 |
 | 72 | [Talk To You](https://open.spotify.com/track/61PCdbwmjg5LwyIBvcuQGe) | [Dennis Johnson](https://open.spotify.com/artist/4q4GIOKuoGbaa9nkroBWjF) | [Talk To You](https://open.spotify.com/album/0koP38sKFmgO6GNRXM87MT) | 3:23 |
 | 73 | [NEVER TELL ME THE ODDS](https://open.spotify.com/track/2iK0Txu1uCzpGH196CsQEf) | [Watt White](https://open.spotify.com/artist/6Os3fHAI2Fma2UzTD91RU8) | [NEVER TELL ME THE ODDS](https://open.spotify.com/album/5SuQXa5Uw9BxJUIyg735rH) | 2:42 |
-| 74 | [Good Times](https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Good Times](https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx) | 3:14 |
+| 74 | [Good Times](https://open.spotify.com/track/5cUjDokJ7BpzghS8gcRhWi) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Good Times](https://open.spotify.com/album/4LtBDjPPZbgcinG0qCyuwR) | 3:14 |
 | 75 | [Susie Q](https://open.spotify.com/track/2969tIZxNklbb9AELfgyh1) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad), [Jackie Brown Jr](https://open.spotify.com/artist/66GIx9fcibIH8z4s5JazfI) | [Susie Q](https://open.spotify.com/album/2XSjBNtzXGwplk6H91ferm) | 3:59 |
 | 76 | [Stay away from me](https://open.spotify.com/track/4FOGtKxxRYSPXDc9zqtmuI) | [Xerts](https://open.spotify.com/artist/0o6Qu4jP243MCBTMyODXOQ) | [Stay away from me](https://open.spotify.com/album/6F1sfezZ5OV9EXIvYaDj74) | 2:42 |
 | 77 | [Workin' Man](https://open.spotify.com/track/4VQNKAaoBo8yHt7GwpJS7H) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/14cTydPBoD3SnypzbSpkRA) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Biggest Little Secret](https://open.spotify.com/track/2AJmb5Lqh95kJqIKbc1WCw) | [Amber Woodhouse](https://open.spotify.com/artist/1stAB5sEtU4AD3MQ0cYOtJ), [Wilderwater](https://open.spotify.com/artist/7Jy5gvSozRdq1JCBIIksf4) | [Biggest Little Secret](https://open.spotify.com/album/6qq8yb9Xy2me2hh3VgcaSN) | 3:59 |
 | 100 | [Practice What You Preach](https://open.spotify.com/track/4AvhtXaiaH2Z4x0BmBdvfA) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Traveling Man](https://open.spotify.com/album/64rMgCug1OdOp98lGu5klK) | 2:45 |
 
-Snapshot ID: `MCxmMzA3MjMwMGJhOWFkOWE0NDQ1ZWJkZGFmZDdhMzE0ZThkYTM2OGE2`
+Snapshot ID: `MCw1NGFmMjVkMmQzMjI1NmZjZjU2ZDExODM4YTIxZmU3MzNhZGU0NWRj`

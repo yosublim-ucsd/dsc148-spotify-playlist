@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#monster \#danceforme \#sino \#prada
 
-264 songs - 13 hr 13 min
+265 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 | 2023-08-11 |  |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2023-02-23 | 2023-03-08 |
 | [Blijf Nog Even](https://open.spotify.com/track/1HjMwU04KY9TEeNG4MRC3S) | [Irene Hin](https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej) | [Blijf Nog Even](https://open.spotify.com/album/51tulVCxklGWd6DXqAtmIZ) | 3:45 | 2023-03-03 | 2023-04-19 |
-| [Bongoloco](https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA) | 3:26 | 2023-07-04 |  |
+| [Bongoloco](https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA) | 3:26 | 2023-07-04 | 2023-11-06 |
+| [Bongoloco](https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV) | 3:26 | 2023-10-30 |  |
 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2023-02-23 | 2023-03-04 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-03-03 | 2023-05-02 |
 | [Bruder + Schwester](https://open.spotify.com/track/5w0aZKZX1ICmjqHNcFWi87) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [gladde paling](https://open.spotify.com/artist/6GVd3327JY65jGWX4X3wHS) | [Bruder + Schwester](https://open.spotify.com/album/0AdOCPNJYVXoy3CTGkxkIu) | 1:42 | 2023-02-23 | 2023-04-19 |

@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Troye Sivan
 
-1,499 songs - 3 day 6 hr 42 min
+1,500 songs - 3 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,7 +775,8 @@
 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 | 2022-10-17 | 2022-12-03 |
 | [leave a light on](https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [leave a light on](https://open.spotify.com/album/1zQnyI5I8veaxl680WvEQU) | 3:50 | 2021-04-10 | 2021-04-24 |
 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 | 2021-10-07 | 2022-01-22 |
-| [Leave In The Morning](https://open.spotify.com/track/2NV0xEWJNdaMzdP94pksrl) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Leave In The Morning](https://open.spotify.com/album/1gRQl5tQu5KTWyvs3zdd2p) | 2:48 | 2023-09-08 |  |
+| [Leave In The Morning](https://open.spotify.com/track/2NV0xEWJNdaMzdP94pksrl) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Leave In The Morning](https://open.spotify.com/album/1gRQl5tQu5KTWyvs3zdd2p) | 2:48 | 2023-09-08 | 2023-11-06 |
+| [Leave In The Morning](https://open.spotify.com/track/4IYPM4LsehnnD2gn2junaO) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/50EclfDgv08QEpljmUe34E) | 2:48 | 2023-10-20 |  |
 | [leave me in the dark](https://open.spotify.com/track/6ggcyYvhJCnUID8EZGQng1) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [leave me in the dark](https://open.spotify.com/album/5BGIm4ntyzoIiOYKw9SIIe) | 2:29 | 2023-04-07 | 2023-05-27 |
 | [Leaving \(feat\. the bootleg boy & Heroe\)](https://open.spotify.com/track/21txIUpB3w1dBeixm5X4DL) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [the bootleg boy](https://open.spotify.com/artist/2i17uDAKnwPO7PlDT4nLaz), [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [Leaving \(feat\. the bootleg boy & Heroe\)](https://open.spotify.com/album/6CfmJvvl4OCMN2XoWxn3wC) | 2:16 | 2021-12-17 | 2022-02-05 |
 | [ledge](https://open.spotify.com/track/4qahEWQ9T4MlTFnDqbWtQU) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [ledge](https://open.spotify.com/album/4ucXenIHafaLWozWJhLp6y) | 2:36 | 2022-06-17 | 2022-07-23 |

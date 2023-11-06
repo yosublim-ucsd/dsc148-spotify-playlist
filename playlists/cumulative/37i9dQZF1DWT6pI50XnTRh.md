@@ -4,7 +4,7 @@
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-94 songs - 7 hr 37 min
+95 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Boogie Oogie Oogie \- Single Version 2 / Remastered 1999](https://open.spotify.com/track/0y0QpmcF1G3F79rjk3fjUx) | [A Taste Of Honey](https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl) | [A Taste Of Honey](https://open.spotify.com/album/2WDP1yNTx3cBR9LBE4Ribh) | 5:38 | 2019-06-28 |  |
 | [Come On Home](https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 5:16 | 2019-06-28 | 2023-09-21 |
 | [Come On Home](https://open.spotify.com/track/7wX5tZpq0G7BGhKfl4Dmlx) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Rough Guide To African Disco](https://open.spotify.com/album/0S10kevURt2TwJ2ZUcKRSM) | 5:16 | 2019-06-28 | 2022-07-29 |
-| [Come on Home](https://open.spotify.com/track/1FhP3mymDoN2hX5p57uTnu) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/0STgCf0eno2mvc48tbckNt) | 5:18 | 2022-09-26 |  |
+| [Come on Home](https://open.spotify.com/track/1FhP3mymDoN2hX5p57uTnu) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/0STgCf0eno2mvc48tbckNt) | 5:18 | 2022-09-26 | 2023-11-06 |
+| [Come On Home](https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC) | 5:18 | 2022-09-26 |  |
 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 | 2019-06-28 |  |
 | [Desires](https://open.spotify.com/track/1BWnAnHrIjRsOb4F9xC0P7) | [Rafael Cameron](https://open.spotify.com/artist/12Kkris6XNRRceFq7WoTer) | [Cameron All The Way](https://open.spotify.com/album/0h58dYQtgHRiW9GQbBhmKY) | 6:51 | 2019-06-28 | 2023-11-04 |
 | [Desires](https://open.spotify.com/track/70hmwFSb9YzERFImtL91va) | [Rafael Cameron](https://open.spotify.com/artist/12Kkris6XNRRceFq7WoTer) | [Cameron All The Way](https://open.spotify.com/album/48ScPXf83K5S2XPvZqh5l3) | 6:51 | 2022-09-26 |  |

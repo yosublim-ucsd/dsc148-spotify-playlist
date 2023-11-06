@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 141916,
+  "num_followers": 142017,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTE0YTczYzQ5OWFhOTU0NmE1NDI5MjQwYTdlOGFhOWI2NmRjYThm",
+  "snapshot_id": "MCw2MmYwZTliYWEwZjg3MzU4ZWU3MjJjNDgwMmVlY2U5ZDVmNDNjNzkz",
   "tracks": [
     {
       "added_at": "2023-10-20 09:26:23",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
+        "name": "Off The Ground",
+        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 242750,
+      "name": "Off The Ground",
+      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/42Yeib3dBZYZ8tWXqTOYAZ"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 182000,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6EsnKHa5lVI409LXu3PkR6"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
-        "name": "Off The Ground",
-        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 242750,
-      "name": "Off The Ground",
-      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
-        "name": "Out of Time",
-        "url": "https://open.spotify.com/album/5j1LFq1ZzTBfwPyYWWNjAf"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        },
-        {
-          "name": "Zara Kershaw",
-          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
-        }
-      ],
-      "duration_ms": 231605,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
         "name": "None Of Us Are Getting Out Of This Life Alive",
         "url": "https://open.spotify.com/album/4hEKRyUeVXejefnsvKYERB"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 186824,
       "name": "Take Me As I Am",
       "url": "https://open.spotify.com/track/5UjccMIJkNhont0TGSU0iD"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/5j1LFq1ZzTBfwPyYWWNjAf"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Zara Kershaw",
+          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
+        }
+      ],
+      "duration_ms": 231605,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
-        "name": "Let U Know (feat. Charlotte Plank)",
-        "url": "https://open.spotify.com/album/5kRPPrLyW4iXoAuz1GKfOQ"
-      },
-      "artists": [
-        {
-          "name": "Danny Byrd",
-          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 160498,
-      "name": "Let U Know (feat. Charlotte Plank)",
-      "url": "https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
         "name": "Their Law The Singles 1990 - 2005",
         "url": "https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy"
       },
@@ -1219,6 +1199,26 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
+        "name": "Let U Know (feat. Charlotte Plank)",
+        "url": "https://open.spotify.com/album/5kRPPrLyW4iXoAuz1GKfOQ"
+      },
+      "artists": [
+        {
+          "name": "Danny Byrd",
+          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 160498,
+      "name": "Let U Know (feat. Charlotte Plank)",
+      "url": "https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
         "name": "Absolute",
         "url": "https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
-        "name": "When It Rains, It Pours",
-        "url": "https://open.spotify.com/album/7gw75X0Cp4ya2yz6tW0Rio"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "When It Rains, It Pours",
-      "url": "https://open.spotify.com/track/0Qb8vbig4Wky0RKhOWh2Ze"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
         "name": "Shut It Down",
         "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 178604,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
+        "name": "When It Rains, It Pours",
+        "url": "https://open.spotify.com/album/7gw75X0Cp4ya2yz6tW0Rio"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "When It Rains, It Pours",
+      "url": "https://open.spotify.com/track/0Qb8vbig4Wky0RKhOWh2Ze"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -1383,30 +1383,6 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
-        "name": "Sliding",
-        "url": "https://open.spotify.com/album/5WvQFSYrjHNsZ85XP22GtT"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        },
-        {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
-        },
-        {
-          "name": "Charlie Choppa",
-          "url": "https://open.spotify.com/artist/4aTBKDsrXC1os9HzfPuDTR"
-        }
-      ],
-      "duration_ms": 257200,
-      "name": "Sliding",
-      "url": "https://open.spotify.com/track/5iAp1pQB3dqB3rWfs38Yb6"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
         "name": "Kraken",
         "url": "https://open.spotify.com/album/1Ac1pcGtOMPK4JEuWRqUsP"
       },
@@ -1463,6 +1439,30 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
+        "name": "Sliding",
+        "url": "https://open.spotify.com/album/5WvQFSYrjHNsZ85XP22GtT"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        },
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        },
+        {
+          "name": "Charlie Choppa",
+          "url": "https://open.spotify.com/artist/4aTBKDsrXC1os9HzfPuDTR"
+        }
+      ],
+      "duration_ms": 257200,
+      "name": "Sliding",
+      "url": "https://open.spotify.com/track/5iAp1pQB3dqB3rWfs38Yb6"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
         "name": "Loca",
         "url": "https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8"
       },
@@ -1495,18 +1495,26 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
-        "name": "Don't You Worry About Me",
-        "url": "https://open.spotify.com/album/0he225d6QYERCPgyagltqw"
+        "name": "Lively (feat. Jaykae & Blair Muir)",
+        "url": "https://open.spotify.com/album/0Z8jfqzvBnUHiSfVBXXniD"
       },
       "artists": [
         {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+          "name": "Double Lz",
+          "url": "https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS"
+        },
+        {
+          "name": "Jaykae",
+          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
+        },
+        {
+          "name": "Blair Muir",
+          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
         }
       ],
-      "duration_ms": 220173,
-      "name": "Don't You Worry About Me",
-      "url": "https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl"
+      "duration_ms": 152343,
+      "name": "Lively (feat. Jaykae & Blair Muir)",
+      "url": "https://open.spotify.com/track/4LNJEZ4PEOZH6jyJuKEaUP"
     }
   ],
   "unique_name": "Proper Naughty ",

@@ -4,7 +4,7 @@
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-76 songs - 7 hr 22 min
+77 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Walk in the Park](https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [A Walk in the Park](https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI) | 5:25 | 2021-12-03 |  |
 | [A Wonderful Life \- Version](https://open.spotify.com/track/5yXoaywtrfHi1dcoSn69CV) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Album Formerly Known As ...](https://open.spotify.com/album/6BP19StMYNWhcV0bv9zAZr) | 6:55 | 2021-12-03 | 2022-07-29 |
 | [A Wonderful Life \- Version](https://open.spotify.com/track/65POCexjbdPA7mbSKxL0vd) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Album Formerly Known As ...](https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM) | 6:55 | 2022-07-22 |  |
-| [A.M\. Track](https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Protein Valve EP](https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp) | 5:30 | 2021-12-03 | 2023-11-02 |
+| [A.M\. Track](https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Protein Valve EP](https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp) | 5:30 | 2021-12-03 |  |
 | [Akralium](https://open.spotify.com/track/7eBu1L5cwi8OMQqhuJ2kp1) | [Half Man Half Machine](https://open.spotify.com/artist/388Xr1uBVxrmJj3PqAMVpU), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma), [Andre Salmon](https://open.spotify.com/artist/727GWtabW9ovfZisldKlHv) | [Akralium](https://open.spotify.com/album/33Ef277kRuH6xeXBbIDMEG) | 3:33 | 2023-08-25 |  |
 | [Ancelyn](https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf) | [Claude Young](https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7) | [Patterns the Album](https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw) | 5:07 | 2021-12-03 | 2023-08-01 |
 | [Andreaen Sand Dunes](https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP) | [Drexciya](https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ) | [Neptunes Lair](https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz) | 6:16 | 2021-12-03 | 2022-07-29 |
@@ -20,8 +20,9 @@
 | [Big Fun \(Remastered\)](https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Big Fun \(Remastered\)](https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr) | 3:18 | 2021-12-03 |  |
 | [Black Water \- Full Strings Vocal Mix](https://open.spotify.com/track/4GGjMkxZiV3Z7KqxcIMZJQ) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH), [Ann Saunderson](https://open.spotify.com/artist/7IItD0N1A3unbTmcIzsCEK) | [Space Ibiza 2014 \(25th Anniversary\) \[Unmixed DJ Version\]](https://open.spotify.com/album/6Un9KGv9hSJYnxKSxl2Txf) | 8:38 | 2021-12-03 | 2022-07-29 |
 | [Blackwater \- 128 full strings vocal mix](https://open.spotify.com/track/3829oHimRwuUHePcD2Jj7S) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH) | [One Black Water \(feat\. Ann Saunderson\) \[Full Strings Vocal Mix\]](https://open.spotify.com/album/4Ju4z6OA25j2MuR94WgwgJ) | 8:38 | 2022-07-22 | 2023-11-04 |
+| [Blackwater \- 128 full strings vocal mix](https://open.spotify.com/track/3etLHAzGr30F9G4bnUpdxw) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH) | [One Black Water \(feat\. Ann Saunderson\)](https://open.spotify.com/album/2jrsxvCwt54MyWQmP4ei4T) | 8:38 | 2023-10-26 |  |
 | [Can You Feel It \- Kevin Saunderson Remix](https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Can You Feel It \(Kevin Saunderson Remix\)](https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh) | 3:28 | 2021-12-03 |  |
-| [Chroma Light](https://open.spotify.com/track/3GnUL81K4TV9zEym72YykI) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [The Blueprint EP](https://open.spotify.com/album/7GOkHEn17hgpIdXVb1ugUt) | 5:37 | 2021-12-03 |  |
+| [Chroma Light](https://open.spotify.com/track/3GnUL81K4TV9zEym72YykI) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [The Blueprint EP](https://open.spotify.com/album/7GOkHEn17hgpIdXVb1ugUt) | 5:37 | 2021-12-03 | 2023-11-06 |
 | [Dancer](https://open.spotify.com/track/47L7EinVbbEBraJE0MMnW9) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [The Greatest Dancer](https://open.spotify.com/album/2TVb3PnbULiYIxHr4Oje9P) | 7:02 | 2021-12-03 | 2023-09-04 |
 | [Desire](https://open.spotify.com/track/0oe3RsEJZRr7XeofKjgvTq) | [69](https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg) | [Legendary Adventures Of A Filter King](https://open.spotify.com/album/6oZag0We7gLZWfWTn6gVW6) | 6:27 | 2021-12-03 | 2022-07-29 |
 | [Desire](https://open.spotify.com/track/2j7Lf6WAu02OpLcb5LPN4U) | [69](https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg) | [The Legendary Adventures Of A Filter King](https://open.spotify.com/album/6DoSCkujawZm3BjfqlJrjO) | 6:27 | 2022-07-22 |  |
@@ -82,7 +83,7 @@
 | [Throw](https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9) | [Carl Craig](https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns) | [Best of Techno \(Compilation Tracks\)](https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK) | 3:43 | 2021-12-03 |  |
 | [Track Ten](https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh) | [Back To Basics \(Part 1\)](https://open.spotify.com/album/5z8fs4gCaZ3jBYDmgvofYf) | 6:01 | 2021-12-03 |  |
 | [We All Move Together \- Album Mix](https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [We All Move Together](https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid) | 5:52 | 2021-12-03 |  |
-| [When We Used To Play \- Original Extended Mix](https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ) | [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h) | [When We Used To Play](https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC) | 8:20 | 2021-12-03 |  |
+| [When We Used To Play \- Original Extended Mix](https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ) | [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h) | [When We Used To Play](https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC) | 8:20 | 2021-12-03 | 2023-11-06 |
 | [World Of Deep](https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [Heavenly Revisited Album](https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs) | 3:28 | 2021-12-03 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Josiah and the Bonnevilles
 
-1,607 songs - 4 day 2 hr 18 min
+1,609 songs - 4 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,6 +577,7 @@
 | [Highway 72](https://open.spotify.com/track/3zAwspoamICRiHrPVIaUQ6) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/63RLm9WcwiedTBaP8WVeCl) | 4:52 | 2023-10-06 |  |
 | [Highway 72](https://open.spotify.com/track/7Mz28hUAQKZqBfHAuBDd0N) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Highway 72](https://open.spotify.com/album/16pRBGPrivw1VoFkFgA5tP) | 4:52 | 2023-09-08 |  |
 | [Highway Woman](https://open.spotify.com/track/1JJUMgzCxkBeF8kaS2FR5v) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Highway Woman](https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI) | 3:48 | 2023-07-21 | 2023-08-19 |
+| [Hitchhiking](https://open.spotify.com/track/4Xus7PhuqSihGgFJJZ1Ayu) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [We're Starting to Look Like Each Other](https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w) | 4:03 | 2023-11-03 |  |
 | [Hitchin' a Ride](https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hitchin' a Ride](https://open.spotify.com/album/52GMS1garIMItzvmogm1MF) | 4:30 | 2022-07-01 | 2022-11-19 |
 | [Hold My Hand](https://open.spotify.com/track/1X5Skx2pTRXmaPblH3sKwW) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Hold My Hand](https://open.spotify.com/album/1tMTEwX99b27pqjQj5XwDN) | 3:59 | 2023-10-06 |  |
 | [Hold My Hand](https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Hold My Hand](https://open.spotify.com/album/0CyBAwMsqEOxlyUMIMB2I4) | 5:01 | 2022-08-26 | 2023-01-14 |
@@ -1108,6 +1109,7 @@
 | [Romain's Place](https://open.spotify.com/track/36o9p1Xk3StK2x3jXE8P60) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Gardening, Pt\. 1](https://open.spotify.com/album/33f0npYRcXfQpXMwgrwh6v) | 3:44 | 2022-09-02 | 2023-01-14 |
 | [Roof of the World](https://open.spotify.com/track/0pOYLQ8ZnPF1G6GE43Jf7U) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi) | [Roof of the World](https://open.spotify.com/album/4VDDyQSZ7fT8YgQqjufWoP) | 4:16 | 2021-11-12 | 2022-01-22 |
 | [Rookie](https://open.spotify.com/track/6umMYISh8Lg5HzU3oVaeWC) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Rookie](https://open.spotify.com/album/4ugh9EbifcznVADdcyHzh1) | 4:19 | 2023-04-07 | 2023-06-03 |
+| [ROY G BIV](https://open.spotify.com/track/5SPggDyvUdcGd79qaf1NfN) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [ROY G BIV](https://open.spotify.com/album/3A4MqV9Ee1zGsaDV1qu8vD) | 2:08 | 2023-11-03 |  |
 | [Rubberneckers](https://open.spotify.com/track/31fmOjwCmLvL32qFaPNDHj) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Rubberneckers](https://open.spotify.com/album/2AFzBOWIUgWLK5ymINJmn2) | 3:28 | 2022-01-14 | 2022-04-02 |
 | [Running](https://open.spotify.com/track/5VRGp1W4cpQ0kO3HWLsafP) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Running](https://open.spotify.com/album/2mGGXU9rtoBSgqVKthBSkJ) | 3:05 | 2022-09-09 | 2022-12-17 |
 | [Running from the Dawn](https://open.spotify.com/track/7jb6FDwrUuTgcgeE1iMGi4) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [though the world will tell me so, vol\. 1](https://open.spotify.com/album/1nht2bWHhw4ke6nUJwUkBB) | 3:31 | 2023-01-13 | 2023-04-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,032 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,166 likes - 75 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 12 | [Has It Come to This?](https://open.spotify.com/track/7I63krPum3VHEKQYk4SsE9) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Original Pirate Material](https://open.spotify.com/album/6HAJ0LRCEqJeaCDm2lSsq8) | 4:03 |
 | 13 | [Rewind](https://open.spotify.com/track/5hultE7GeExA3RkTvtsear) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 5:33 |
 | 14 | [Gotta Get Thru This \- D'N'D Radio Edit](https://open.spotify.com/track/747tpec1a0Hfqvj2za1pBs) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX), [D'N'D Productions](https://open.spotify.com/artist/7cp62T0Av3mTgy0imKzat7) | [Gotta Get Thru This](https://open.spotify.com/album/2EdZjwEgBXjtdkwkZ73fFA) | 2:41 |
-| 15 | [Teardrops \(Flava 7" Mix\)](https://open.spotify.com/track/49hFJr1GCLuf0d7zeyyjIJ) | [Lovestation](https://open.spotify.com/artist/3LRRdfXOYGIcwLviuwDIf1) | [Teardrops](https://open.spotify.com/album/6AJuYuamYUyOkn34HJ2kH6) | 3:46 |
+| 15 | [Sorry! \(I Didn't Know\) \- Original Radio Edit](https://open.spotify.com/track/1Hcu2NeyCTqcvk2UByNzIR) | [Monsta Boy](https://open.spotify.com/artist/0YgabnWomkooWIaTM6VOfE) | [Sorry](https://open.spotify.com/album/1bzhoN9vur8qy0l7TCnnid) | 4:10 |
 | 16 | [Neighbourhood \- Radio Mix](https://open.spotify.com/track/6J6QyLMIoToFr1VvDpt8jo) | [Zed Bias](https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7) | [Neighbourhood](https://open.spotify.com/album/0PYwiBS0azY1px539lc6JR) | 3:35 |
-| 17 | [Sorry! \(I Didn't Know\) \- Original Radio Edit](https://open.spotify.com/track/1Hcu2NeyCTqcvk2UByNzIR) | [Monsta Boy](https://open.spotify.com/artist/0YgabnWomkooWIaTM6VOfE) | [Sorry](https://open.spotify.com/album/1bzhoN9vur8qy0l7TCnnid) | 4:10 |
+| 17 | [Teardrops \(Flava 7" Mix\)](https://open.spotify.com/track/49hFJr1GCLuf0d7zeyyjIJ) | [Lovestation](https://open.spotify.com/artist/3LRRdfXOYGIcwLviuwDIf1) | [Teardrops](https://open.spotify.com/album/6AJuYuamYUyOkn34HJ2kH6) | 3:46 |
 | 18 | [Sincere](https://open.spotify.com/track/2bbIrLn5rnn8uCsPBwf8vA) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Clubbed To Death](https://open.spotify.com/album/0OstemuKkqQrvIieOxmQzh) | 3:58 |
 | 19 | [All I Want \- Sunship Radio Edit](https://open.spotify.com/track/0tWdRXWDUd1gWLthXgk6Dp) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Mis\-Teeq](https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ) | 3:27 |
 | 20 | [Imagine \- Asylum Remix](https://open.spotify.com/track/23k9zieWoOTm67FVWkvAFn) | [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [You Might Need Somebody](https://open.spotify.com/album/73sppbd5vjMj9FkogKQN6r) | 5:40 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 69 | [Love Bug \- Original Bump Mix](https://open.spotify.com/track/1cIT3qEj3gNy0NDP5YgNc1) | [Ramsey & Fen](https://open.spotify.com/artist/5rBBAjkUV1bF89nr9AGpEu), [Lynsey Moore](https://open.spotify.com/artist/31RLNDGi0or2K3mJDBlfjV) | [Love Bug \(Original Bump Mix\)](https://open.spotify.com/album/5GOGt6fpFc39ZhEdq3rdU0) | 5:57 |
 | 70 | [Cheque One\-Two](https://open.spotify.com/track/2P3UUkbX6dR9DFNLFnuP8a) | [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Is This Real](https://open.spotify.com/album/3ae504ho747nwloxNn2CH8) | 5:03 |
 | 71 | [Kung\-Fu](https://open.spotify.com/track/5y7mEkaEL1fivzcwNhYtrU) | [187 Lockdown](https://open.spotify.com/artist/1tlAuGE8fWLJOWyqdBrR2p) | [187](https://open.spotify.com/album/7v4aQVzT2vh3S4kinfpnV4) | 6:31 |
-| 72 | [Masquerade \- MJ Cole Vocal](https://open.spotify.com/track/6Y0rukXFNvg7b0EqlxEpSZ) | [Gerideau](https://open.spotify.com/artist/3R2svMuMZlY9RBETwlkuEJ), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Masquerade](https://open.spotify.com/album/69AdLMny9By0erdS3ZJBbI) | 6:29 |
-| 73 | [Space Rider \- MJ Cole Vocal Mix](https://open.spotify.com/track/17FKIehIe3xjlwOxlC1kWW) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Oyster Music \- The MJ Cole Mixes](https://open.spotify.com/album/0l8mKOWMYe3r0vV5bQo9IY) | 5:15 |
+| 72 | [Space Rider \- MJ Cole Vocal Mix](https://open.spotify.com/track/17FKIehIe3xjlwOxlC1kWW) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Oyster Music \- The MJ Cole Mixes](https://open.spotify.com/album/0l8mKOWMYe3r0vV5bQo9IY) | 5:15 |
+| 73 | [Masquerade \- MJ Cole Vocal](https://open.spotify.com/track/6Y0rukXFNvg7b0EqlxEpSZ) | [Gerideau](https://open.spotify.com/artist/3R2svMuMZlY9RBETwlkuEJ), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Masquerade](https://open.spotify.com/album/69AdLMny9By0erdS3ZJBbI) | 6:29 |
 | 74 | [The Heartless Theme aka The Superglue Riddim](https://open.spotify.com/track/1OvLBW4JMOiLY1ue4PJrYy) | [Heartless Crew](https://open.spotify.com/artist/4TFwgJ0aP8Jr6rz9ZaIjkV) | [The Heartless Theme aka The Superglue Riddim](https://open.spotify.com/album/3nGNzsceXfu0hXDYVEgz9A) | 5:58 |
 | 75 | [Realise](https://open.spotify.com/track/2cIg9G9VSyYMsHiDSBzqyz) | [Jeremy Sylvester](https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l) | [UK Garage Classics \- Jeremy Sylvester in the Mix \(feat\. Tj Lewis\)](https://open.spotify.com/album/47tJaiF83pAwYUFetzOaDM) | 5:20 |
 
-Snapshot ID: `MCw5MWE4NDUwMDAzMDlkYjE4YmY2YWE4ZWZlNDllOGVmNDE4Y2EwYTBj`
+Snapshot ID: `MCw2Yjg4OTJkZDU0MDZhYmQ5MThlODYxNzE5NTBlY2MzMzMyMDYyYWNk`

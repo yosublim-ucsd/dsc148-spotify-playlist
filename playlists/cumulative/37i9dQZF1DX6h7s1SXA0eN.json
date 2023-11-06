@@ -278,6 +278,24 @@
     {
       "album": {
         "name": "I Want You",
+        "url": "https://open.spotify.com/album/3SlVugIP0wCoIJJZI3SJSG"
+      },
+      "artists": [
+        {
+          "name": "G Flame",
+          "url": "https://open.spotify.com/artist/0wa29eaYEynKIb1pqqGZ8l"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381309,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/4uULBWFznAhYUKWkIXreTq"
+    },
+    {
+      "album": {
+        "name": "I Want You",
         "url": "https://open.spotify.com/album/1luisWuF1Jh9khS9OwcQX6"
       },
       "artists": [
@@ -288,7 +306,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 381309,
       "name": "Broken",
       "url": "https://open.spotify.com/track/51IwyOTRdP34qG2wdvVlkz"
@@ -538,6 +556,28 @@
     {
       "album": {
         "name": "Drum Beat",
+        "url": "https://open.spotify.com/album/1JOlNpkTYoocZf7suVqSHD"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Joeski",
+          "url": "https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395520,
+      "name": "Drum Beat - Joeski Remix",
+      "url": "https://open.spotify.com/track/1u8cqOKPU6FaOal0SKMXvd"
+    },
+    {
+      "album": {
+        "name": "Drum Beat",
         "url": "https://open.spotify.com/album/7fhdFXT7VAblxxOOeukdTX"
       },
       "artists": [
@@ -552,7 +592,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 395520,
       "name": "Drum Beat - Joeski Remix",
       "url": "https://open.spotify.com/track/3CmAWVdL1uVx83S8aGXz2t"
@@ -1650,10 +1690,28 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 320755,
       "name": "One Itself",
       "url": "https://open.spotify.com/track/0aLW6jPR9bT7jR7YTLCLPZ"
+    },
+    {
+      "album": {
+        "name": "Earth EP",
+        "url": "https://open.spotify.com/album/7klLYEbRI0P4JNraZbHAQW"
+      },
+      "artists": [
+        {
+          "name": "Maurice Fulton",
+          "url": "https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320755,
+      "name": "One Itself",
+      "url": "https://open.spotify.com/track/2A9iuOJoZBndjNBiAhgZgR"
     },
     {
       "album": {
@@ -2092,10 +2150,32 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 228750,
       "name": "Steamin",
       "url": "https://open.spotify.com/track/1eJHtjhx9G89WPHHX20ndU"
+    },
+    {
+      "album": {
+        "name": "Steamin",
+        "url": "https://open.spotify.com/album/5rootbSiFAGVlnEf1AJudx"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Robinson",
+          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Steamin",
+      "url": "https://open.spotify.com/track/1b1DjYtVgIYo5ygeNalPc6"
     },
     {
       "album": {

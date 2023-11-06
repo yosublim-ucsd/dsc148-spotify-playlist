@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXar0WmW5YgAc.md) - [plain]
 
 > Love songs from your favorite films
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,279 likes - 97 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,890 likes - 97 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXar0WmW5YgAc.md) - [plain]
 | 93 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
 | 94 | [The Shoop Shoop Song \(It's in His Kiss\)](https://open.spotify.com/track/5sgo046er4wutbM8yhgRnh) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Runnin' Out of Fools \(Expanded Edition\)](https://open.spotify.com/album/4y31w9vk2A1Wn3GGZCpOpq) | 2:21 |
 | 95 | [Wind Beneath My Wings](https://open.spotify.com/track/4ErUhFToT1yX52MeHqH8OY) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Experience The Divine \(Greatest Hits\)](https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD) | 4:53 |
-| 96 | [My Baby Just Cares for Me \- 2013 Remastered Version](https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 3:35 |
+| 96 | [My Baby Just Cares for Me \(2013 \- Remaster\)](https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:35 |
 | 97 | [When I Fall In Love](https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:10 |
 
-Snapshot ID: `MCwwODc5MjYzMDExMmFhZjQ4NDNmNDQ0YzJhMWYxNjg2MGQxMTVhZWI4`
+Snapshot ID: `MCxkNWIxNDM4YmUyZmJiOGU5N2M4MGMwN2IzODk5ZjgxYzJkOGY5Zjgw`

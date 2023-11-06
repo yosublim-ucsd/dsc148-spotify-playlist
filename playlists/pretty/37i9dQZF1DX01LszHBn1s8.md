@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> "life is not a waste of time, and time is not a waste of life\. so let's stop wasting time, get wasted and have the time of our lives" \- Mr Worldwide
+> you know i'm magic on the mic, houdini
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,896 likes - 830 songs - 1 day 19 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,958 likes - 830 songs - 1 day 19 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:56 |
-| 2 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 |
-| 3 | [Just How You Like It \- Radio Edit](https://open.spotify.com/track/4ykwKMCelzlkCkaSPtHGmg) | [K.A.D](https://open.spotify.com/artist/1LtnBJnmEj8gmEQothcCVp), [Kak Hatt](https://open.spotify.com/artist/5iG3CtoJswOoCx42IqTdtR) | [Just How You Like It \(Radio Edit\)](https://open.spotify.com/album/4sPbUiVh9nv8V7bfJ7GZ1j) | 3:07 |
+| 1 | [Just How You Like It \- Radio Edit](https://open.spotify.com/track/4ykwKMCelzlkCkaSPtHGmg) | [K.A.D](https://open.spotify.com/artist/1LtnBJnmEj8gmEQothcCVp), [Kak Hatt](https://open.spotify.com/artist/5iG3CtoJswOoCx42IqTdtR) | [Just How You Like It \(Radio Edit\)](https://open.spotify.com/album/4sPbUiVh9nv8V7bfJ7GZ1j) | 3:07 |
+| 2 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:56 |
+| 3 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 |
 | 4 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 |
 | 5 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
 | 6 | [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 |
@@ -839,4 +839,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 829 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 830 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MCw5MTEyYzBmNjM5MjFlYzlmMDBjNTFmYzczMTAzMjNjZjk4NjI5M2Ri`
+Snapshot ID: `MCwxODdmNWFlMTc3NTc4NzZmZDg2OGM1MGIwMmY5YjA0MjI2MDNhZTk5`

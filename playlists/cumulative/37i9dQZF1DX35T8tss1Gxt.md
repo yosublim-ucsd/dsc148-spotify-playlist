@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-431 songs - 1 day 1 hr 51 min
+432 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Big God](https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Big God](https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP) | 2:30 | 2023-07-21 |  |
 | [Big God Big Love](https://open.spotify.com/track/6NXwDu7qPpFPZuODkIne3b) | [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh) | [Big God Big Love](https://open.spotify.com/album/665zo7r9nLYYewucwljbbW) | 3:07 | 2022-02-27 | 2022-06-03 |
 | [Bigger Than Me](https://open.spotify.com/track/0CxlOGUGHVa1iVna8NJgIp) | [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Bigger Than Me](https://open.spotify.com/album/0D3EkBlKPYFbWv8iavOyfe) | 4:20 | 2022-04-01 | 2022-04-21 |
+| [Blessed](https://open.spotify.com/track/5TZQFrjxHT5rkR43PA4aF6) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Blessed](https://open.spotify.com/album/4GC0oRuVTZR2a0yCnQRaNz) | 2:43 | 2023-11-03 |  |
 | [Blessings](https://open.spotify.com/track/02GvAS5DhQDJOubRV59BTg) | [AD.](https://open.spotify.com/artist/6F8C7x36biXjmqmv12TnWH), [Eddie Bryme](https://open.spotify.com/artist/1sVsZuEz7Mx0lR6LFZH6kq) | [Brighter Days \(The EP\)](https://open.spotify.com/album/6sLrAMwzp1QZlqqBzM1Wap) | 2:54 | 2022-04-01 | 2022-04-21 |
 | [Bored](https://open.spotify.com/track/1kidkXF4OCEVPzdMZdx1Dg) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo), [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [Bored](https://open.spotify.com/album/4WeH44pkQTOML7iar8HWD3) | 3:42 | 2022-03-05 | 2022-04-07 |
 | [Brand New](https://open.spotify.com/track/5AjI1A5a68tyKBVjw22oWI) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [Brand New](https://open.spotify.com/album/5mENIriC2u8kE7AJ5415w3) | 2:30 | 2022-02-19 | 2022-06-26 |
@@ -425,7 +426,7 @@
 | [Yesu Bambi \- Acoustic](https://open.spotify.com/track/2DfjhHcH0ZPxP2l6WKcSFu) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Yesu Bambi \(Acoustic\)](https://open.spotify.com/album/1rvEvZJWpif6hAjpUHst8n) | 2:43 | 2022-04-01 | 2022-04-09 |
 | [YOU](https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [YOU](https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4) | 3:08 | 2022-02-19 | 2023-01-21 |
 | [You](https://open.spotify.com/track/1SJdqZMc1xRxAO0J87ClGG) | [Sada K.](https://open.spotify.com/artist/6jFgqyc7ZSTSwIQFotdGHd) | [You](https://open.spotify.com/album/6fDuq5o4GieAr3h4UaeaLv) | 2:58 | 2022-02-19 | 2022-06-20 |
-| [You](https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [You](https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY) | 3:06 | 2022-06-25 |  |
+| [You](https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [You](https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY) | 3:06 | 2022-06-25 | 2023-11-06 |
 | [You & Me](https://open.spotify.com/track/0K1nuUsU4PtFd9YhfxJy9T) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [God's Favourite Baby](https://open.spotify.com/album/6tIEth6WoH5RhYFvsMN2wF) | 2:33 | 2022-02-19 | 2022-06-08 |
 | [You \(feat\. Big K.R.I.T.\) \- Remix](https://open.spotify.com/track/2dJLiNQZJ4i9pcaB0uq2Jh) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [You \(feat\. Big K.R.I.T.\) \[Remix\]](https://open.spotify.com/album/7mCvAvg5FUxUWx6wBwZ6NP) | 3:00 | 2022-02-19 | 2022-06-26 |
 | [you are worth it](https://open.spotify.com/track/5dpbAmZqwlXwsxL0cKNrHA) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [you are worth it](https://open.spotify.com/album/79W3DyH24yVwgL9OV1KTwX) | 2:18 | 2022-06-25 | 2022-12-29 |

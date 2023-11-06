@@ -1351,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/1ix9kL2uDaBIf1HDhiSLhG"
+      },
+      "artists": [
+        {
+          "name": "La Zona X",
+          "url": "https://open.spotify.com/artist/6CREnDoHW0llPJeNfOJYUI"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172374,
+      "name": "Por las Noches",
+      "url": "https://open.spotify.com/track/0p8lGoIPQESNxb79UOt80R"
+    },
+    {
+      "album": {
         "name": "Por Las Noches",
         "url": "https://open.spotify.com/album/1qrllTt5txCvAzOUx25gMS"
       },
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 172374,
       "name": "Por las Noches",
       "url": "https://open.spotify.com/track/468QGXzfE7d46DeJ7ncjGz"

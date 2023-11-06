@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 169687,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/7sUg1ro2GwaN2uvo0Pp1qm"
@@ -4046,6 +4046,24 @@
       "duration_ms": 194959,
       "name": "CYANIDE",
       "url": "https://open.spotify.com/track/3uouaAVXpQR3X8RYkJyitQ"
+    },
+    {
+      "album": {
+        "name": "Good People",
+        "url": "https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203869,
+      "name": "Cyanide",
+      "url": "https://open.spotify.com/track/277XpUleOvdZlPdaM6aeBz"
     },
     {
       "album": {
@@ -11099,6 +11117,24 @@
     },
     {
       "album": {
+        "name": "STREETS SAY YOU MISS ME",
+        "url": "https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150375,
+      "name": "MORE THAN SORRY",
+      "url": "https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p"
+    },
+    {
+      "album": {
         "name": "Most Men - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
       },
@@ -11984,7 +12020,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 212289,
       "name": "Off the Wall",
       "url": "https://open.spotify.com/track/2pkDvFyDw9J0GxAta8spSb"
@@ -14024,7 +14060,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 210910,
       "name": "Rodeo Clown",
       "url": "https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5"
@@ -19036,6 +19072,24 @@
       "duration_ms": 191826,
       "name": "Woman (feat. Lianne La Havas)",
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
+    },
+    {
+      "album": {
+        "name": "Sweet Justice",
+        "url": "https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161760,
+      "name": "Won One",
+      "url": "https://open.spotify.com/track/1Go1t1GBt5XJX75DMoMBoa"
     },
     {
       "album": {

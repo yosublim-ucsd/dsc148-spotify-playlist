@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Aliyah's Interlude
 
-467 songs - 22 hr 42 min
+468 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,7 +464,8 @@
 | [Woo](https://open.spotify.com/track/3HQcsqRjRdruUjkbDSgmVF) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:55 | 2022-06-07 | 2023-02-14 |
 | [WOO!](https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [HOOD AVANT\-GARDE \(Deluxe\)](https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k) | 2:48 | 2023-01-12 | 2023-04-01 |
 | [World Class Sinner / I’m A Freak](https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM) | [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h) | 3:19 | 2023-07-12 | 2023-09-16 |
-| [WUACV](https://open.spotify.com/track/2HC0LgjchkWSGoOyKIxklv) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [WUACV](https://open.spotify.com/album/5843qUT24X5eDb3dJyNVqr) | 2:17 | 2023-09-08 |  |
+| [WUACV](https://open.spotify.com/track/2HC0LgjchkWSGoOyKIxklv) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [WUACV](https://open.spotify.com/album/5843qUT24X5eDb3dJyNVqr) | 2:17 | 2023-09-08 | 2023-11-06 |
+| [WUACV](https://open.spotify.com/track/7eomd7Z56dMca1xoh2P0NA) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:17 | 2023-11-03 |  |
 | [X](https://open.spotify.com/track/3LUvWNx3ceBjsOeuDOMEsl) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [333](https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j) | 2:51 | 2021-10-15 | 2022-03-05 |
 | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 | 2022-09-16 | 2022-10-15 |
 | [Yeah Yeah](https://open.spotify.com/track/3VSBjeNW4XzxPdE2yaJNHR) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [HEAVY](https://open.spotify.com/album/4iIjKIlfryNbbogL9X4dgL) | 3:02 | 2023-04-14 | 2023-04-29 |

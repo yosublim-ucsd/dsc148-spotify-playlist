@@ -4752,7 +4752,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 195428,
       "name": "Cuddle - Edit",
       "url": "https://open.spotify.com/track/11qteqHtkROcyTe9MbNqr5"
@@ -5826,6 +5826,24 @@
       "duration_ms": 415417,
       "name": "Doin Ya Thang",
       "url": "https://open.spotify.com/track/0fEowZULrTsT0lxtrwyR3X"
+    },
+    {
+      "album": {
+        "name": "Dominator (2K23)",
+        "url": "https://open.spotify.com/album/4N7nuwnyAEnCvLxH5ncUIT"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190429,
+      "name": "Dominator (2K23)",
+      "url": "https://open.spotify.com/track/7IuGLuWImOmbG0PSXzJseW"
     },
     {
       "album": {

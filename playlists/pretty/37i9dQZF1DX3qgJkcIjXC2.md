@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qgJkcIjXC2.md) - [plain]
 
 > Spotify's first ever all\-women soccer playlist\. Built by your favorite players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,510 likes - 127 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,545 likes - 126 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,30 +110,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qgJkcIjXC2.md) - [plain]
 | 100 | [Só Depois do Carnaval](https://open.spotify.com/track/6HtVFR6WAeJRgYtleNcEE8) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Só Depois do Carnaval](https://open.spotify.com/album/4UPVYuREwSxXKWtAHlSz7E) | 2:46 |
 | 101 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
 | 102 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
-| 103 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 |
-| 104 | [L'Anima Vola](https://open.spotify.com/track/0KgYcUcrDaUhqooqQReb0F) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [L'Anima Vola \(Deluxe Edition\)](https://open.spotify.com/album/6IWcTSqWt2Xd712WckzTp1) | 4:03 |
-| 105 | [Goodness of God \- Live](https://open.spotify.com/track/6vXOAkNQQ1KLmnC7vGYA0c) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 4:57 |
-| 106 | [Mother's Daughter](https://open.spotify.com/track/4tc97Wa8SP5f9gaaOar8Kq) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [SHE IS COMING](https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN) | 3:39 |
-| 107 | [Kiss of Life](https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:11 |
-| 108 | [Conceited](https://open.spotify.com/track/4hTej08FutmriOs7S1hWWy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:31 |
-| 109 | [Proud Mary](https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 5:27 |
-| 110 | [Champagne Shit](https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:23 |
-| 111 | [Praying](https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Rainbow](https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh) | 3:50 |
-| 112 | [You Gotta Be](https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [I Ain't Movin'](https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU) | 4:05 |
-| 113 | [Boo'd Up](https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 4:16 |
-| 114 | [Doh Watch Face](https://open.spotify.com/track/2gXWLr8hzVpJpQ61a5Ys4B) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Doh Watch Face](https://open.spotify.com/album/25Xz1v8rQQoMCKnPHFDkuz) | 2:29 |
-| 115 | [Spirit Lead Me](https://open.spotify.com/track/3eHy8sntu2RZjB5bL8PnRr) | [Anahit](https://open.spotify.com/artist/335d0sfpalR7KKb55SyoP7) | [Spirit Lead Me](https://open.spotify.com/album/7Ahu5muioyx6F6vz9BXDKG) | 3:06 |
-| 116 | [Red](https://open.spotify.com/track/4yBEU0askBZzE2XEVdEwmx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Big Machine Radio Release Special\)](https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D) | 3:43 |
-| 117 | [24k](https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol\. 2](https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD) | 3:53 |
-| 118 | [Fortuna](https://open.spotify.com/track/1DLPmDf2j4VCpQhR3Ky8AE) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Fortuna](https://open.spotify.com/album/0sODDDrfUq5gsokMbtWB6W) | 2:59 |
-| 119 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 |
-| 120 | [Flip A Switch.](https://open.spotify.com/track/252ZECHopILLs10pMfE76N) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:21 |
-| 121 | [Alagbara](https://open.spotify.com/track/1kGcJQPw3Z7rlTYSW3HLLM) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [No Limits](https://open.spotify.com/album/0B2Dh7ZBqo6mvDMKNjq0FL) | 5:40 |
-| 122 | [Absolutely Everybody](https://open.spotify.com/track/283898Lgbl6LidapOraXiN) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [The Power \(15 Year Anniversary Re\-Issue\)](https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ) | 3:44 |
-| 123 | [Get Myself Back](https://open.spotify.com/track/6HFPefao1siXeG8D3E5yu8) | [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa) | [Uncontrolled](https://open.spotify.com/album/2OErIGVm0FOzcASSCmnKUq) | 4:32 |
-| 124 | [Ho imparato a sognare](https://open.spotify.com/track/7LuCe6qxjtNnfKO4821SPT) | [Fiorella Mannoia](https://open.spotify.com/artist/5VxhGHbcuvqTLRUWzBUN8L) | [Ho Imparato A Sognare](https://open.spotify.com/album/4J7i8uiDmCWHVjOqT4hRSm) | 4:10 |
-| 125 | [homecoming queen?](https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:47 |
-| 126 | [Suzanne](https://open.spotify.com/track/3MBZ0BaWosUjsn40TeYYk5) | [Bermuda Triangle](https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE) | [Suzanne](https://open.spotify.com/album/5N8jCZO1JZpiEMl1AyBZou) | 2:57 |
-| 127 | [Sway](https://open.spotify.com/track/3JtRSUOj7wSAXFG76T89v8) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Drive](https://open.spotify.com/album/6RKelNVLEA7UeWnJJaKcGo) | 4:22 |
+| 103 | [L'Anima Vola](https://open.spotify.com/track/0KgYcUcrDaUhqooqQReb0F) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [L'Anima Vola \(Deluxe Edition\)](https://open.spotify.com/album/6IWcTSqWt2Xd712WckzTp1) | 4:03 |
+| 104 | [Goodness of God \- Live](https://open.spotify.com/track/6vXOAkNQQ1KLmnC7vGYA0c) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 4:57 |
+| 105 | [Mother's Daughter](https://open.spotify.com/track/4tc97Wa8SP5f9gaaOar8Kq) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [SHE IS COMING](https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN) | 3:39 |
+| 106 | [Kiss of Life](https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:11 |
+| 107 | [Conceited](https://open.spotify.com/track/4hTej08FutmriOs7S1hWWy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:31 |
+| 108 | [Proud Mary](https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 5:27 |
+| 109 | [Champagne Shit](https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:23 |
+| 110 | [Praying](https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Rainbow](https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh) | 3:50 |
+| 111 | [You Gotta Be](https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [I Ain't Movin'](https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU) | 4:05 |
+| 112 | [Boo'd Up](https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 4:16 |
+| 113 | [Doh Watch Face](https://open.spotify.com/track/2gXWLr8hzVpJpQ61a5Ys4B) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Doh Watch Face](https://open.spotify.com/album/25Xz1v8rQQoMCKnPHFDkuz) | 2:29 |
+| 114 | [Spirit Lead Me](https://open.spotify.com/track/3eHy8sntu2RZjB5bL8PnRr) | [Anahit](https://open.spotify.com/artist/335d0sfpalR7KKb55SyoP7) | [Spirit Lead Me](https://open.spotify.com/album/7Ahu5muioyx6F6vz9BXDKG) | 3:06 |
+| 115 | [Red](https://open.spotify.com/track/4yBEU0askBZzE2XEVdEwmx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Big Machine Radio Release Special\)](https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D) | 3:43 |
+| 116 | [24k](https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol\. 2](https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD) | 3:53 |
+| 117 | [Fortuna](https://open.spotify.com/track/1DLPmDf2j4VCpQhR3Ky8AE) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Fortuna](https://open.spotify.com/album/0sODDDrfUq5gsokMbtWB6W) | 2:59 |
+| 118 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 |
+| 119 | [Flip A Switch.](https://open.spotify.com/track/252ZECHopILLs10pMfE76N) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:21 |
+| 120 | [Alagbara](https://open.spotify.com/track/1kGcJQPw3Z7rlTYSW3HLLM) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [No Limits](https://open.spotify.com/album/0B2Dh7ZBqo6mvDMKNjq0FL) | 5:40 |
+| 121 | [Absolutely Everybody](https://open.spotify.com/track/283898Lgbl6LidapOraXiN) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [The Power \(15 Year Anniversary Re\-Issue\)](https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ) | 3:44 |
+| 122 | [Get Myself Back](https://open.spotify.com/track/6HFPefao1siXeG8D3E5yu8) | [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa) | [Uncontrolled](https://open.spotify.com/album/2OErIGVm0FOzcASSCmnKUq) | 4:32 |
+| 123 | [Ho imparato a sognare](https://open.spotify.com/track/7LuCe6qxjtNnfKO4821SPT) | [Fiorella Mannoia](https://open.spotify.com/artist/5VxhGHbcuvqTLRUWzBUN8L) | [Ho Imparato A Sognare](https://open.spotify.com/album/4J7i8uiDmCWHVjOqT4hRSm) | 4:10 |
+| 124 | [homecoming queen?](https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:47 |
+| 125 | [Suzanne](https://open.spotify.com/track/3MBZ0BaWosUjsn40TeYYk5) | [Bermuda Triangle](https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE) | [Suzanne](https://open.spotify.com/album/5N8jCZO1JZpiEMl1AyBZou) | 2:57 |
+| 126 | [Sway](https://open.spotify.com/track/3JtRSUOj7wSAXFG76T89v8) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Drive](https://open.spotify.com/album/6RKelNVLEA7UeWnJJaKcGo) | 4:22 |
 
-Snapshot ID: `MCw4MjNmMjY2MzAwNDMyNjQwZTg2NDk0MTBmMGIxMzJjNTdhYzAzODRm`
+Snapshot ID: `MCxiNDUyNWMyMDI0YTRmZWE5MWQ4OTQ5MDg1NTY5MWM3OWNjODQzM2E0`

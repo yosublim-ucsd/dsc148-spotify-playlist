@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KZtFJYy6Ev.md) - [plain]
 
 > Sonidos del bosque para inspirar tu día o noche.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,503 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,536 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KZtFJYy6Ev.md) - [plain]
 | 22 | [Rain After The Storm](https://open.spotify.com/track/6INpACWuzfVytMrEJByyhc) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Scandinavian Rain](https://open.spotify.com/album/1KYpqdkgChN7cRPriZTDFJ) | 2:49 |
 | 23 | [Forest Rain Frogs](https://open.spotify.com/track/3gqUeE0MqS4I9caAXmYnMY) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Rainy Summer Days](https://open.spotify.com/album/6TpQ6fU21enN1K6iDu9Mij) | 2:50 |
 | 24 | [Tropical Forest \- Rain and Birds](https://open.spotify.com/track/5MtCZdGKspLCFrnh0Gp2oB) | [Epic Nature Sounds](https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h) | [Rain Forest Birds](https://open.spotify.com/album/5JXFMCZS0auQFVWOrM1RIu) | 2:39 |
-| 25 | [Summmer Forest](https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 4:03 |
-| 26 | [Peaceful Rain Ambience](https://open.spotify.com/track/6RTdL85sBmsW9pxBQgCzs6) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Peaceful Rain and Rivers](https://open.spotify.com/album/3CTMmgxrc6wu8sMjqYx1Oh) | 3:07 |
+| 25 | [Peaceful Rain Ambience](https://open.spotify.com/track/6RTdL85sBmsW9pxBQgCzs6) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Peaceful Rain and Rivers](https://open.spotify.com/album/3CTMmgxrc6wu8sMjqYx1Oh) | 3:07 |
+| 26 | [Summmer Forest](https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 4:03 |
 | 27 | [Rainy European Forest](https://open.spotify.com/track/2LuSIOYRov2ql9HlNYVKMk) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Gentle Forest Rain](https://open.spotify.com/album/4Q4aYbWcZtkK0vRpzj3RwE) | 2:46 |
 | 28 | [Calming Forest Sound](https://open.spotify.com/track/5QzFhfsgLVN9UKyfGV3RH9) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Jungle And Forest Sounds](https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj) | 3:55 |
 | 29 | [Slow Day In The Woods](https://open.spotify.com/track/0lvURQCoBLWmVYbXlOu3Mh) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KZtFJYy6Ev.md) - [plain]
 | 40 | [Late Night Peace](https://open.spotify.com/track/7wODjbGBAR6CvHFUo7LZOu) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 3:38 |
 | 41 | [Crickets and Forest Sounds for Sleeping Babies](https://open.spotify.com/track/65mac5I0YkFdISbdKyfXGk) | [Sleep Baby Sleep](https://open.spotify.com/artist/6e5ygqf81ECK33tTPpbLLq) | [Nature Sounds Music for Sleeping Babies](https://open.spotify.com/album/7sAInasf6UecwfxUZQycXd) | 2:05 |
 | 42 | [Rainforest \- Birds](https://open.spotify.com/track/2Z12WnmFscbpiKeGdxcVR9) | [Hidden Gems Nature](https://open.spotify.com/artist/6nP9UVlxfeIgsZ26YwUcm2) | [Rainforest \- Birds](https://open.spotify.com/album/4kPIqdmPw1LSAUgndDe3vF) | 2:11 |
-| 43 | [Peaceful Forest](https://open.spotify.com/track/28ilcqErfNjitJ7T3byHoX) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Jungle And Forest Sounds](https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj) | 3:01 |
-| 44 | [Tranquil Nature](https://open.spotify.com/track/2cP90iPUhpEfyroHaYI5eG) | [Flows of Sleep](https://open.spotify.com/artist/1MAazf048soVcELWMYehho) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:11 |
+| 43 | [Tranquil Nature](https://open.spotify.com/track/2cP90iPUhpEfyroHaYI5eG) | [Flows of Sleep](https://open.spotify.com/artist/1MAazf048soVcELWMYehho) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:11 |
+| 44 | [Peaceful Forest](https://open.spotify.com/track/28ilcqErfNjitJ7T3byHoX) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Jungle And Forest Sounds](https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj) | 3:01 |
 | 45 | [Afternoon Bird Chorus](https://open.spotify.com/track/0rxCggh9HxS2NVDqKuioPu) | [Forest Soundscapes](https://open.spotify.com/artist/3afxrYkVNCaNbMqJbfThUy) | [Forest Soundscapes](https://open.spotify.com/album/69JfteEShbXv4Lh1NdL2pW) | 3:35 |
 | 46 | [Night Forest](https://open.spotify.com/track/7sgzy45LJeI5Dxx6em5Z1s) | [Mother Earth Sounds](https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp) | [Forest Sounds](https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20) | 4:11 |
 | 47 | [Busy Night Sounds](https://open.spotify.com/track/4rIkO8yhVgQ1V7nUiVLjQy) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Out in Nature](https://open.spotify.com/album/12FUICOM1TIiBfQt1p90IS) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KZtFJYy6Ev.md) - [plain]
 | 49 | [Sweet Forest Sound](https://open.spotify.com/track/1uSdLhZVfPEKvYORqHJdgv) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 4:10 |
 | 50 | [Waterfall Jungle](https://open.spotify.com/track/1OycCM0ijoTj1aGdmRlYoS) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Jungle And Forest Sounds](https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj) | 5:16 |
 
-Snapshot ID: `MCw0NWNiNmNkNzdlODE2MWQ1NjVlOGUzMGMzMmM4ODk1MWE3MDhjMWUy`
+Snapshot ID: `MCwxNTRhY2QxNWQ0NzRkMTM0NDU1ODIyYTgzNWRiYjZhZTk1ZTRhZmFm`

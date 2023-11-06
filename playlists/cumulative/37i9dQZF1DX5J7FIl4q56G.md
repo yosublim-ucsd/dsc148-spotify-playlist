@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Silent Planet
 
-4,986 songs - 14 day 2 hr 7 min
+4,987 songs - 14 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2148,7 +2148,8 @@
 | [I Know Everything](https://open.spotify.com/track/5OtZu06Ca3PvmR0sJ9ZBtr) | [Ghost Chant](https://open.spotify.com/artist/5QKhSSn4mTyMV0gMBmJK1o) | [I Know Everything](https://open.spotify.com/album/74icWh4mTDm4Par3xW994v) | 3:23 | 2023-05-12 | 2023-05-20 |
 | [I Left My License in the Future](https://open.spotify.com/track/1KK7Jyf8kzQO1LkNF85uO4) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [I Left My License in the Future](https://open.spotify.com/album/15NNV514Cwa36hZa9NkiYT) | 3:32 | 2023-11-03 |  |
 | [I Need A God](https://open.spotify.com/track/3UOMwl1KT4ILnCdW47htTm) | [Cadaver Ghoul](https://open.spotify.com/artist/5apVcEELJhc2IUYWgklfsx) | [I Need A God](https://open.spotify.com/album/1MB1alyGxAFeSKsQkIqpbM) | 2:16 | 2022-07-22 | 2022-07-30 |
-| [i physically like you](https://open.spotify.com/track/5zixK8bJCFy034QOJrpyQj) | [Kontrust](https://open.spotify.com/artist/3sQVICf0Bhikl5tlBQSU6W) | [i physically like you](https://open.spotify.com/album/1JzkUGGpLgm6IlzTG9vDuW) | 2:56 | 2023-08-11 |  |
+| [i physically like you](https://open.spotify.com/track/38zHX94Dit4linIuNxDALG) | [Kontrust](https://open.spotify.com/artist/3sQVICf0Bhikl5tlBQSU6W) | [madworld](https://open.spotify.com/album/5XvfiZ3MDTT9Qnvu2sFGUk) | 2:56 | 2023-11-03 |  |
+| [i physically like you](https://open.spotify.com/track/5zixK8bJCFy034QOJrpyQj) | [Kontrust](https://open.spotify.com/artist/3sQVICf0Bhikl5tlBQSU6W) | [i physically like you](https://open.spotify.com/album/1JzkUGGpLgm6IlzTG9vDuW) | 2:56 | 2023-08-11 | 2023-11-06 |
 | [I Run With Wolves](https://open.spotify.com/track/7oNOP1xca406nustARPRru) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [I Run With Wolves](https://open.spotify.com/album/4lJsPWd2NLv14P4AhDZkmo) | 3:21 | 2021-12-17 | 2022-01-14 |
 | [I Saw God On 10th St.](https://open.spotify.com/track/6xd4Jcu9k8xvjx4XM9AG6B) | [Duff McKagan](https://open.spotify.com/artist/3KEe5d2p5jKihMMvuXVhr1) | [I Saw God On 10th St.](https://open.spotify.com/album/1nlqGkBXFLDKHjM4ddCd6Z) | 3:05 | 2023-07-28 | 2023-08-05 |
 | [I See Dead People](https://open.spotify.com/track/3UgZA53hNSPbwtNJ7x8Bd9) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK), [Louie Knuxx](https://open.spotify.com/artist/2SQXiX0AGHf3Aw43or85KX) | [I See Dead People](https://open.spotify.com/album/3R8VofbgLwq9q48eueOCqC) | 3:36 | 2023-02-17 | 2023-02-25 |

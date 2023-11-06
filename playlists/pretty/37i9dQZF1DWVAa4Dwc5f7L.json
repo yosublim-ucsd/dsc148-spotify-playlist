@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Elvis Crespo & Miriam Cruz",
-  "num_followers": 385397,
+  "num_followers": 385458,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWMzYWI4MGQxYzU5Y2E5NDdkYWZlYmIzNzhhMmRjMzk0MzkyMzJk",
+  "snapshot_id": "MCxiODRmNjJkMjkxYTY5ZDQzMDk4YWVkYThkMDU2ZTQ2N2JiNDVmMjk5",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -147,22 +147,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "PB.DB. The Mixtape",
-        "url": "https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc"
+        "name": "Con Su Loquera",
+        "url": "https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Eli Palacios",
-          "url": "https://open.spotify.com/artist/06U8PS34QCpLW3CqwJgfj2"
+          "name": "Mala Fe",
+          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
         }
       ],
-      "duration_ms": 224786,
-      "name": "La Temperatura (feat. Eli Palacios)",
-      "url": "https://open.spotify.com/track/03f28Kmu5AlIdKAfEJiI8F"
+      "duration_ms": 255533,
+      "name": "La Vaca",
+      "url": "https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -187,18 +183,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Con Su Loquera",
-        "url": "https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q"
+        "name": "PB.DB. The Mixtape",
+        "url": "https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc"
       },
       "artists": [
         {
-          "name": "Mala Fe",
-          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Eli Palacios",
+          "url": "https://open.spotify.com/artist/06U8PS34QCpLW3CqwJgfj2"
         }
       ],
-      "duration_ms": 255533,
-      "name": "La Vaca",
-      "url": "https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0"
+      "duration_ms": 224786,
+      "name": "La Temperatura (feat. Eli Palacios)",
+      "url": "https://open.spotify.com/track/03f28Kmu5AlIdKAfEJiI8F"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -287,30 +287,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "No Es Normal",
-        "url": "https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163"
-      },
-      "artists": [
-        {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "No Es Normal",
-      "url": "https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "La Melodia de la Calle \"Updated\"",
         "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
       },
@@ -339,6 +315,30 @@
       "duration_ms": 267733,
       "name": "La Tanga",
       "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "No Es Normal",
+        "url": "https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163"
+      },
+      "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "No Es Normal",
+      "url": "https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "El Due\u00f1o Del Flow (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "Merengue Electronico (Rompe Consola)",
-      "url": "https://open.spotify.com/track/1Q2WPcHRVK16zh9TR6isEq"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
         "url": "https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 290226,
       "name": "La Hora De Bailar",
       "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "El Due\u00f1o Del Flow (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Merengue Electronico (Rompe Consola)",
+      "url": "https://open.spotify.com/track/1Q2WPcHRVK16zh9TR6isEq"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Borracho Me Doli\u00f3",
-        "url": "https://open.spotify.com/album/6AE77a72SdgWl4W55LcSny"
-      },
-      "artists": [
-        {
-          "name": "Tutto Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Borracho Me Doli\u00f3",
-      "url": "https://open.spotify.com/track/2z6vCpMGkY9vmJqMCsbrnj"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "O.K. All Right",
         "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Borracho Me Doli\u00f3",
+        "url": "https://open.spotify.com/album/6AE77a72SdgWl4W55LcSny"
+      },
+      "artists": [
+        {
+          "name": "Tutto Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Borracho Me Doli\u00f3",
+      "url": "https://open.spotify.com/track/2z6vCpMGkY9vmJqMCsbrnj"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "12 Golden Hits",
         "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 286520,
       "name": "Asesina",
       "url": "https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Tus Mentiras",
-        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
-      },
-      "artists": [
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 163349,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1151,6 +1135,22 @@
       "duration_ms": 155610,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/6Hy0Oa6k5asXoConmlsFx5"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
+      },
+      "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 163349,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Exitos De",
+        "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 295320,
+      "name": "Tu Eres Ajena",
+      "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Que No Se Acabe",
         "url": "https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 198295,
       "name": "Que No Se Acabe",
       "url": "https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Exitos De",
-        "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 295320,
-      "name": "Tu Eres Ajena",
-      "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "La Mujer",
-        "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
-      },
-      "artists": [
-        {
-          "name": "Didi Hernandez",
-          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "La Mujer",
-      "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Imparable",
         "url": "https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 211098,
       "name": "Sin Rumbo",
       "url": "https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "La Mujer",
+        "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
+      },
+      "artists": [
+        {
+          "name": "Didi Hernandez",
+          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "La Mujer",
+      "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1596,9 +1596,9 @@
           "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 302213,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL"
+      "duration_ms": 277946,
+      "name": "Ni Tu Ni Yo",
+      "url": "https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Jn Music Group 40 A\u00f1os de Merengue Deluxe Edition, Vol. 2",
-        "url": "https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg"
-      },
-      "artists": [
-        {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Una Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Con Las Canciones Que Crec\u00ed Vol. 1",
         "url": "https://open.spotify.com/album/3lT1RrPQO1jpe19q7MzLoF"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 273365,
       "name": "T\u00fa Eres Ajena",
       "url": "https://open.spotify.com/track/1H3buHXVp1smlFutuQTgZR"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Jn Music Group 40 A\u00f1os de Merengue Deluxe Edition, Vol. 2",
+        "url": "https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Una Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW"
     }
   ],
   "unique_name": "Merengue Mania",

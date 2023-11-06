@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-122 songs - 4 hr 10 min
+123 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,8 +49,9 @@
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 | 2023-07-21 |  |
 | [GREEN GOBLIN \- Spotify Singles](https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Spotify Singles](https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp) | 2:09 | 2023-10-17 |  |
 | [Grim Reaper](https://open.spotify.com/track/1TWC0DUf4xXC2QqpBovlws) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Grim Reaper](https://open.spotify.com/album/0lCbxop4nU0dSKUdZ0rQ5Y) | 2:50 | 2023-10-20 |  |
-| [Hands up!](https://open.spotify.com/track/04gSLX5nUhkKiMe1geeqnA) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Hands up!](https://open.spotify.com/album/4poweJXaiw4HwGhfvjMGkL) | 2:14 | 2023-09-26 |  |
+| [Hands up!](https://open.spotify.com/track/04gSLX5nUhkKiMe1geeqnA) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Hands up!](https://open.spotify.com/album/4poweJXaiw4HwGhfvjMGkL) | 2:14 | 2023-09-26 | 2023-11-06 |
 | [Hands up!](https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Sassy Scene](https://open.spotify.com/album/5jBSw53XwT6G0slLxKSZLl) | 2:15 | 2023-07-21 | 2023-09-09 |
+| [Hands up!](https://open.spotify.com/track/6nH7G7zImTcBpqRMIPeHLK) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Sassy Scene](https://open.spotify.com/album/5kFLrTEOfgL2rMYMTxRrNC) | 2:15 | 2023-09-26 |  |
 | [help\_urself](https://open.spotify.com/track/6bxKECVRnkLmtpeU22Ve9p) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [Ezekiel Singles ’18\-‘20](https://open.spotify.com/album/2myOeDsuEGTSUhmkRQMH0v) | 2:19 | 2023-07-21 |  |
 | [HOSTAGE](https://open.spotify.com/track/4TlKDSXQtHkDJIa5v6gB8A) | [Kayla G](https://open.spotify.com/artist/70a2f8eEAvvtz3uLxq35CL) | [HOSTAGE](https://open.spotify.com/album/2iETy4VvjZT3I6smiL21Zh) | 1:47 | 2023-08-11 |  |
 | [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 | 2023-09-15 |  |

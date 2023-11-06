@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 107175,
+  "num_followers": 107320,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTE3OTkwNGQwNGNlNjE5ZjE1NTg4YTNhNDQ1OGMzNjgzNjY5MzE5",
+  "snapshot_id": "MCw2ZjgxMmFiYmZmZjZiYTJjOWYyZDUwMzI5MzNlNDg3NzU4ZjI4MTgw",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -555,6 +555,54 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Amigos y Enemigos (Remix)",
+        "url": "https://open.spotify.com/album/3pUkjrzOZhiaipOiANpLuF"
+      },
+      "artists": [
+        {
+          "name": "Trap Capos",
+          "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "duration_ms": 295304,
+      "name": "Amigos y Enemigos (feat. Bad Bunny & Almighty) - Remix",
+      "url": "https://open.spotify.com/track/2sA4woGW5KgEgGXXxOKPAZ"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Pa Ti",
+        "url": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 191294,
+      "name": "Pa Ti",
+      "url": "https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
         "url": "https://open.spotify.com/album/4TxYVUplaWuhJrVmW1O5Zt"
       },
@@ -583,54 +631,6 @@
       "duration_ms": 306373,
       "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
       "url": "https://open.spotify.com/track/01vHGJRvJ6EZW9KO8NtZpi"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Pa Ti",
-        "url": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 191294,
-      "name": "Pa Ti",
-      "url": "https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Amigos y Enemigos (Remix)",
-        "url": "https://open.spotify.com/album/3pUkjrzOZhiaipOiANpLuF"
-      },
-      "artists": [
-        {
-          "name": "Trap Capos",
-          "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        }
-      ],
-      "duration_ms": 295304,
-      "name": "Amigos y Enemigos (feat. Bad Bunny & Almighty) - Remix",
-      "url": "https://open.spotify.com/track/2sA4woGW5KgEgGXXxOKPAZ"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1639,22 +1639,18 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "TrapXficante",
-        "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
+        "name": "Esclava",
+        "url": "https://open.spotify.com/album/7gTRUB0jGOXCFHzOfsVA4g"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "rampensauu",
+          "url": "https://open.spotify.com/artist/6TdQ6W1OlXVYcfnYVXRExR"
         }
       ],
-      "duration_ms": 240360,
-      "name": "Oscuridad (feat. Anuel AA)",
-      "url": "https://open.spotify.com/track/52JnQicpFULdhLnWdHyQD1"
+      "duration_ms": 281734,
+      "name": "Esclava",
+      "url": "https://open.spotify.com/track/2mubrV7Ipt3HoRWHnjqq3L"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1703,6 +1699,26 @@
       "duration_ms": 275186,
       "name": "Estamos Clear",
       "url": "https://open.spotify.com/track/1sNl87MiEoEVXffVgzh44o"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "TrapXficante",
+        "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "Oscuridad (feat. Anuel AA)",
+      "url": "https://open.spotify.com/track/52JnQicpFULdhLnWdHyQD1"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1803,30 +1819,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Costear (Remix)",
-        "url": "https://open.spotify.com/album/4PnEQJUbXRvFhgZSu7c8qO"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        },
-        {
-          "name": "Eq",
-          "url": "https://open.spotify.com/artist/2PKri8qrwMoXCsm3D9Zpzh"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Costear - Remix",
-      "url": "https://open.spotify.com/track/5K1gNVbNJXqpADn4wAc2JY"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "EL OG WEEK",
         "url": "https://open.spotify.com/album/1Q94qFhL5BcJvMDdUX52hY"
       },
@@ -1859,18 +1851,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Esclava",
-        "url": "https://open.spotify.com/album/7gTRUB0jGOXCFHzOfsVA4g"
+        "name": "Costear (Remix)",
+        "url": "https://open.spotify.com/album/4PnEQJUbXRvFhgZSu7c8qO"
       },
       "artists": [
         {
-          "name": "rampensauu",
-          "url": "https://open.spotify.com/artist/6TdQ6W1OlXVYcfnYVXRExR"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "Eq",
+          "url": "https://open.spotify.com/artist/2PKri8qrwMoXCsm3D9Zpzh"
         }
       ],
-      "duration_ms": 281734,
-      "name": "Esclava",
-      "url": "https://open.spotify.com/track/2mubrV7Ipt3HoRWHnjqq3L"
+      "duration_ms": 224906,
+      "name": "Costear - Remix",
+      "url": "https://open.spotify.com/track/5K1gNVbNJXqpADn4wAc2JY"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2015,6 +2015,38 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Huracheee",
+        "url": "https://open.spotify.com/album/1vlgEBezFraFDhkFPcUSbo"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "EZ El Ezeta",
+          "url": "https://open.spotify.com/artist/4nxZciIJ63XsyL0YfKCkgJ"
+        },
+        {
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 244649,
+      "name": "Huracheee",
+      "url": "https://open.spotify.com/track/5PAZQuUFI4JwQGJJ4dYjZS"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Blanco o Negro (Remix)",
         "url": "https://open.spotify.com/album/1XYbgWmEbABolhk1D4Eygr"
       },
@@ -2047,38 +2079,6 @@
       "duration_ms": 374142,
       "name": "Blanco o Negro - Remix",
       "url": "https://open.spotify.com/track/6Bt7uEWabZzgdN0g6UQurK"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Huracheee",
-        "url": "https://open.spotify.com/album/1vlgEBezFraFDhkFPcUSbo"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "EZ El Ezeta",
-          "url": "https://open.spotify.com/artist/4nxZciIJ63XsyL0YfKCkgJ"
-        },
-        {
-          "name": "Lary Over",
-          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 244649,
-      "name": "Huracheee",
-      "url": "https://open.spotify.com/track/5PAZQuUFI4JwQGJJ4dYjZS"
     },
     {
       "added_at": "2023-05-25 17:50:01",

@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 74153,
+  "num_followers": 74215,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTkzYmMwNGZmZGZkYTU2MTgxNzY2NmNlNzlhOTM0OWM0NDEyZjAy",
+  "snapshot_id": "MCwyYTdiYjMwMzhkMWU3MGI4OGVmYmQ2NTM3Zjk1M2Y4ZWZjYzhhZjQ1",
   "tracks": [
     {
       "added_at": "2023-10-20 04:59:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
-        "name": "Pedrito Otiniano y Sus Exitos",
-        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Otiniano",
-          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "Kio",
-      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
         "name": "La Dama del Bolero",
         "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 173373,
       "name": "Ese Bolero Es M\u00edo",
       "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
+        "name": "Pedrito Otiniano y Sus Exitos",
+        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Otiniano",
+          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "Kio",
+      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
-        "name": "La Dama del Bolero",
-        "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
-      },
-      "artists": [
-        {
-          "name": "Gaby Zevallos",
-          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
-        }
-      ],
-      "duration_ms": 190365,
-      "name": "Coraz\u00f3n Herido",
-      "url": "https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
         "name": "Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 166800,
       "name": "Lo Que Quiera Lola",
       "url": "https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
+        "name": "La Dama del Bolero",
+        "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
+      },
+      "artists": [
+        {
+          "name": "Gaby Zevallos",
+          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
+        }
+      ],
+      "duration_ms": 190365,
+      "name": "Coraz\u00f3n Herido",
+      "url": "https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq"
     }
   ],
   "unique_name": "Boleros en Casa",

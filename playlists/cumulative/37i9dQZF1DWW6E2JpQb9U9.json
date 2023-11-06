@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 617491,
       "name": "Dorado y P\u00farpura - En Vivo",
       "url": "https://open.spotify.com/track/082OAP5nOvl0u5hJgs15rB"
@@ -5246,6 +5246,28 @@
       "duration_ms": 267240,
       "name": "Una Nueva Noche Fria - Vivo - Mezclado y Masterizado 2017",
       "url": "https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ"
+    },
+    {
+      "album": {
+        "name": "Una Vez M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/20akHhz1vnjUSwHcHjVnB2"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        },
+        {
+          "name": "Juanse",
+          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289074,
+      "name": "Una Vez M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/34u37vgTwh2wl3ZH5u2nfs"
     },
     {
       "album": {

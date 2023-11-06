@@ -4,7 +4,7 @@
 
 > When the dance floor calls your name, that's amore.
 
-166 songs - 14 hr 21 min
+167 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [I.C\. Love Affair \- Radio Version](https://open.spotify.com/track/6LUio4WzheW25pazhTWm2e) | [Gaznevada](https://open.spotify.com/artist/3lkvPuFo1qlcJZvB3h44Mj) | [I.C\. Love Affair](https://open.spotify.com/album/6N9mtDwZA3vni2r6nn6qS6) | 3:41 | 2022-02-11 | 2022-07-29 |
 | [Il ragazzo con la giardinetta \- BIONDA MORTA per CIAO 2021](https://open.spotify.com/track/4MaNzGtZ0rUubsm9Zo1ojb) | [DEAD BLONDE](https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z) | [CIAO 2021](https://open.spotify.com/album/3p37WGv4W9JNWFZHjVNZNL) | 2:10 | 2022-02-11 | 2022-04-27 |
 | [Il veliero](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 5:59 | 2022-02-11 |  |
-| [Il Veliero \- Single Version](https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv) | [The Chaplin Band](https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2) | [Dancing on Townsquare](https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c) | 3:30 | 2022-02-11 |  |
+| [Il Veliero \- Single Version](https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv) | [The Chaplin Band](https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2) | [Dancing on Townsquare](https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c) | 3:30 | 2022-02-11 | 2023-11-06 |
 | [In Love With Nebula](https://open.spotify.com/track/5tYcZUC5qnhXIKx1vlRz4s) | [Mario Moretti](https://open.spotify.com/artist/7qCGYOwQPMZLIlxc08Ue9j) | [Past Present Perfect](https://open.spotify.com/album/4YyAuCQZUz9WNuT8P6oj9z) | 6:26 | 2022-02-11 | 2022-06-23 |
 | [It's a War \- Purple Disco Machine & Lorenz Rhode Instrumental](https://open.spotify.com/track/0ntbNSYXSiSpgrH1NLWHkN) | [Kano](https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [It's a War \(Purple Disco Machine & Lorenz Rhode Remix\)](https://open.spotify.com/album/5qbgEZzMrc15CmURgLIAWZ) | 6:41 | 2022-08-20 |  |
 | [Italo Amore \(Musumeci Edit\)](https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5), [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Future Disco: Visions of Love](https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4) | 7:27 | 2022-02-11 | 2023-09-13 |
@@ -134,6 +134,7 @@
 | [Sexergy](https://open.spotify.com/track/6uu4NKyUPn3bMVGEQBbFL1) | [NEW HOOK](https://open.spotify.com/artist/7emhT5um7BSV4bVeahXTPa) | [Ombra Intl 016](https://open.spotify.com/album/5uZjutxTEk4gWLaZGwZnmc) | 7:14 | 2022-02-11 | 2022-07-29 |
 | [She Can't Love You](https://open.spotify.com/track/3CX1FiiXSbvKjsXRYwApAP) | [Chemise](https://open.spotify.com/artist/38yRIy4CLmtrEEedZzjNoS) | [She Can't Love You](https://open.spotify.com/album/7dL0O0sGYCCXxI7FUo1sC5) | 5:25 | 2022-02-11 |  |
 | [Splendida giornata](https://open.spotify.com/track/01lvgdQKXkM8AHUXRhawMk) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vado al massimo \(Remastered\)](https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM) | 4:39 | 2022-10-07 |  |
+| [Splendido splendente](https://open.spotify.com/track/4djSKkGTA9ZtI22q96L1Tn) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Brivido divino \(Gli Indimenticabili\)](https://open.spotify.com/album/3bjLuBoH2Imh21OsGWM94s) | 3:27 | 2023-10-06 |  |
 | [Splendido splendente](https://open.spotify.com/track/6cTDaZELhhgPxzdPn5lruI) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Brivido divino \(Gli Indimenticabili\)](https://open.spotify.com/album/0f4Wz3ZaGjPDMEBs0OrZqs) | 3:27 | 2022-07-01 | 2023-11-04 |
 | [Splendido splendente](https://open.spotify.com/track/7vMqQLAA3A7ymNOaICmt2Z) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Brivido Divino](https://open.spotify.com/album/4RFOFcht99zVWzby7nUfLH) | 3:27 | 2022-02-11 | 2022-07-29 |
 | [Stranger in a Strange Land \- Club Mix 1983](https://open.spotify.com/track/6eqW2BVJj5YvaCa4zPh4zz) | [N.O.I.A.](https://open.spotify.com/artist/5n1oZahUtUcODMxsH0kwMa) | [Stranger in a Strange Land](https://open.spotify.com/album/5frZPYwMO9A1H0gWPOHnDR) | 7:31 | 2022-02-11 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,468 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,515 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 55 | [Love Me, Leave Me Alone](https://open.spotify.com/track/55MckToyWVSitUdMySgApN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Love Me, Leave Me Alone](https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM) | 3:13 |
 | 56 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 |
 | 57 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 |
-| 58 | [Dart](https://open.spotify.com/track/0VECtX3A6GhmPmbJ6M9joL) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Dart](https://open.spotify.com/album/6PCFhgjvZglMGPLPd5en3W) | 4:04 |
-| 59 | [345](https://open.spotify.com/track/5uD2NZgs3MKQHj9fUiVIZN) | [Hilts](https://open.spotify.com/artist/2UvkNW59ABnaOlkGXCGxot), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [345](https://open.spotify.com/album/5qV7RWCvG3uCjzt1MdAU0G) | 3:20 |
+| 58 | [345](https://open.spotify.com/track/5uD2NZgs3MKQHj9fUiVIZN) | [Hilts](https://open.spotify.com/artist/2UvkNW59ABnaOlkGXCGxot), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [345](https://open.spotify.com/album/5qV7RWCvG3uCjzt1MdAU0G) | 3:20 |
+| 59 | [Dart](https://open.spotify.com/track/0VECtX3A6GhmPmbJ6M9joL) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Dart](https://open.spotify.com/album/6PCFhgjvZglMGPLPd5en3W) | 4:04 |
 | 60 | [Flex](https://open.spotify.com/track/3OaGNvp9q7DkUKbJfMRxIk) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Flex](https://open.spotify.com/album/439lrfWjzWWqkuokp5PevY) | 2:50 |
 
-Snapshot ID: `MCw1OWYyOTY4ZTJlY2IyZmQwMDBjNTExNTZjZWI5OTU1MzlhNmE1NTcz`
+Snapshot ID: `MCwyMmYxNjliMmI3ZDZkMDZlNTRjZmU5ZTNlODlhOGI5YjkwODJmNWI3`

@@ -4,7 +4,7 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: Dana and Alden
 
-168 songs - 11 hr 3 min
+169 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 | 2023-08-10 |  |
 | [Apho](https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 2:58 | 2023-08-10 | 2023-08-18 |
 | [Avalanche Of Love \(feat\. Sampa the Great\)](https://open.spotify.com/track/5G6tjnJ2ec5NngphDaWR0w) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Zango](https://open.spotify.com/album/7ffV0jqo0UdneN6sdjNiGc) | 3:55 | 2023-08-10 | 2023-09-01 |
-| [Bad State](https://open.spotify.com/track/2V4vuCR0VyMyq2zyb0Ou0u) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Bad State](https://open.spotify.com/album/129jl3rEjJF4JnicTq4N4R) | 2:23 | 2023-10-12 |  |
+| [Bad State](https://open.spotify.com/track/2V4vuCR0VyMyq2zyb0Ou0u) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Bad State](https://open.spotify.com/album/129jl3rEjJF4JnicTq4N4R) | 2:23 | 2023-10-12 | 2023-11-06 |
+| [Bad State](https://open.spotify.com/track/5CiWTX6qSqNtHIAUcRaSmS) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Diagnosis](https://open.spotify.com/album/1KE5ZOll4qVQTZNLOjp3qa) | 2:23 | 2023-10-19 |  |
 | [balloons \(feat\. Jay Electronica & Eryn Allen Kane\)](https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 3:44 | 2023-08-10 |  |
 | [BAM!](https://open.spotify.com/track/47ddPZaTtDaZXsSlN7odQP) | [KELSON](https://open.spotify.com/artist/3PlSpnPQR0dZY50k3jfx7h), [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm) | [BAM!](https://open.spotify.com/album/3St5wcjIfM2X6TunSCs8d3) | 2:12 | 2023-08-10 | 2023-09-29 |
 | [Be Easy](https://open.spotify.com/track/0NMukraEM5cTE6xRhKqJik) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [Be Easy](https://open.spotify.com/album/6EM0HNbNcofoF9Ih78GS6E) | 3:59 | 2023-08-10 | 2023-09-15 |

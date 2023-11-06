@@ -4,7 +4,7 @@
 
 > Work or rest with these gems from the 80s.
 
-205 songs - 14 hr 46 min
+206 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Ravel In The Rain](https://open.spotify.com/track/7mLzdjwOMCkAdprJsawjjU) | [Black](https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V) | [Wonderful Life](https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ) | 3:48 | 2018-12-12 | 2022-07-19 |
 | [Renee \- 1997 Remaster](https://open.spotify.com/track/5UUk3itO5nvah4Ngd9CW5X) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 6:22 | 2018-12-12 |  |
 | [Requiem Again](https://open.spotify.com/track/5gBJgL7NUz3dlTBv4Laz50) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/6loUyyw92WAaXM3lzyRwNj) | 4:01 | 2018-12-12 | 2022-07-29 |
-| [Requiem Again](https://open.spotify.com/track/673do07xdvVTt65SIwRtc3) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 4:01 | 2018-12-12 |  |
+| [Requiem Again](https://open.spotify.com/track/673do07xdvVTt65SIwRtc3) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 4:01 | 2018-12-12 | 2023-11-06 |
 | [Rodeo Girl](https://open.spotify.com/track/32QEJwPx8SFu36y8ZU66t8) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Flying Cowboys](https://open.spotify.com/album/6a8F5hDFxA6J3VGTzGmHwM) | 4:52 | 2018-12-12 | 2022-07-25 |
 | [Running To Stand Still](https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:17 | 2018-12-12 |  |
 | [Running To Stand Still \- Remastered 2007](https://open.spotify.com/track/6TqD3tjgPr4zcF7PTEey7I) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Remastered\)](https://open.spotify.com/album/1znT2eun1mIorpA4760jrV) | 4:17 | 2018-12-12 | 2022-07-29 |
@@ -186,6 +186,7 @@
 | [The Things You Said](https://open.spotify.com/track/5tb8T4WJ5SULuf8lNkVfEp) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(Deluxe\)](https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2) | 3:59 | 2018-12-12 | 2022-07-29 |
 | [The Things You Said \- 2006 Remaster](https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 3:59 | 2018-12-12 |  |
 | [Theme From Harry's Game](https://open.spotify.com/track/6XngTvz0XnKtLIeYcbPWMx) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Pastpresent](https://open.spotify.com/album/1hgOSHsuK7hvkcSguKSYd8) | 2:28 | 2018-12-12 | 2023-11-04 |
+| [Theme from Harry's Game](https://open.spotify.com/track/7CTSDg60OC15XUJusBLPuo) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Lore \(Bonus Tracks Edition\)](https://open.spotify.com/album/6saa5JWJzpOzEzJ5JIah87) | 2:28 | 2018-12-12 |  |
 | [Theme from Harry's Game \- Remastered](https://open.spotify.com/track/2hcxPnu5RljXH0eMOtctuF) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Magical Ring](https://open.spotify.com/album/1HQJUZCAhN3e3LR43VVa5j) | 2:29 | 2018-12-12 | 2023-10-24 |
 | [There's Never a Forever Thing](https://open.spotify.com/track/5OWV0zaieHKpIW5O2EbRjy) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Stay on These Roads](https://open.spotify.com/album/6lka22PtQOmCt5ri8GPSZm) | 2:51 | 2018-12-12 |  |
 | [This Woman's Work](https://open.spotify.com/track/1Q0sruYhnsq6lmhWgeRFh5) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World](https://open.spotify.com/album/0Bk6rV33JObdtOpjJg0vIy) | 3:38 | 2018-12-12 | 2022-07-29 |

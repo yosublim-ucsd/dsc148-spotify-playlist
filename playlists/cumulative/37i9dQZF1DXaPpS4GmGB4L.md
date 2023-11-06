@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-181 songs - 10 hr 28 min
+182 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Cadillac Walk \- Demo](https://open.spotify.com/track/2Q1ZqJWyp0F2ncc0yocekp) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Cadillac Walk \(Demo\)](https://open.spotify.com/album/0H3pIoTJdexgtFTPlplxfD) | 4:35 | 2022-09-23 |  |
 | [Can't Take No More](https://open.spotify.com/track/40ytn62ocVWKqwktVNo9Fs) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Can't Take No More](https://open.spotify.com/album/3ukHMBQUuVEbX3Nrphqdf8) | 3:45 | 2022-01-28 |  |
 | [Choo Ma Gum](https://open.spotify.com/track/6pTovnxQRzYQ6DlJO18sGf) | [The Cinelli Brothers](https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF) | [Choo Ma Gum](https://open.spotify.com/album/5h1Z15QryGdZRCdLZsD8WE) | 4:20 | 2023-08-18 |  |
-| [Cold Black Night \- Live at VH1](https://open.spotify.com/track/7CqYhpvCsj0kyByDwyrtrs) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Cold Black Night \(Live at VH1\)](https://open.spotify.com/album/3rPGkz9zHgBj3Ctnk7JIhU) | 4:05 | 2023-05-26 |  |
+| [Cold Black Night \- Live at VH1](https://open.spotify.com/track/7CqYhpvCsj0kyByDwyrtrs) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Cold Black Night \(Live at VH1\)](https://open.spotify.com/album/3rPGkz9zHgBj3Ctnk7JIhU) | 4:05 | 2023-05-26 | 2023-11-06 |
 | [Confessin' The Blues](https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 4:55 | 2022-11-17 |  |
 | [Crossroads \- 2008 Remaster](https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:24 | 2021-12-20 |  |
 | [Dirty Dog](https://open.spotify.com/track/0ndUl4xQ5DRt9yEVDV0I0s) | [Will Jacobs](https://open.spotify.com/artist/7tzNAqDlMV5KlC7vRcSeN1) | [Goldfish Blues](https://open.spotify.com/album/37ch8gg8aeKqab8LwgCPO4) | 3:42 | 2023-08-18 |  |
@@ -39,6 +39,7 @@
 | [Don\`t Care](https://open.spotify.com/track/3k6KyWwZQCTfK4Hj9dDKRU) | [The Bluetonics](https://open.spotify.com/artist/3nBX9z9NzfzxHfOkyU6226) | [Don’t Care](https://open.spotify.com/album/2IVrkUiubvKS4oYzuuVEug) | 3:24 | 2023-08-18 | 2023-08-30 |
 | [Done Somebody Wrong \- Live At The Fillmore East, March 1971](https://open.spotify.com/track/0WDsLvL9DKjj3qjed4IBa0) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [At Fillmore East](https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy) | 4:35 | 2021-12-20 |  |
 | [Down The Road Apiece](https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:59 | 2021-12-20 |  |
+| [Easy](https://open.spotify.com/track/2l9uaFZ6qLT51iuuzCgYIk) | [Jimmy & Walter](https://open.spotify.com/artist/4gWn6kCmkp7tqmWkCO59Kb) | [Easy / Before Long](https://open.spotify.com/album/69z9bVNIBVsYOB2tNIVXJt) | 2:57 | 2023-10-13 |  |
 | [Fat Man in the Bathtub \(Live at The Rainbow, London, England, 8/2/77\)](https://open.spotify.com/track/70HkPi6r1kKd2qBCn4dmsL) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Fat Man in the Bathtub \(Live at The Rainbow, London, England, 8/2/77\)](https://open.spotify.com/album/5wG3OiBqX45j3xvIMwq6a7) | 5:04 | 2023-08-18 |  |
 | [Feels Good Doin' Bad](https://open.spotify.com/track/3xtSEgKwfAwuHLyEGmmgHX) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Who Is He?](https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e) | 3:30 | 2023-08-18 |  |
 | [Feels Good Doin' Bad](https://open.spotify.com/track/75eOGI76V6Su2U6Vn2Hzfl) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Feels Good Doin' Bad](https://open.spotify.com/album/3wz0nuy7TC0xGonaSM3yc9) | 3:30 | 2022-07-08 | 2022-11-19 |
@@ -114,7 +115,7 @@
 | [Movin' On](https://open.spotify.com/track/5pVzFUkzm4MSTNwlvyaNbu) | [Jonathan Tyler](https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU) | [Movin' On](https://open.spotify.com/album/2udPmoj4l0rBZ6HlsxQpY6) | 3:47 | 2022-09-23 |  |
 | [Mustang Sally](https://open.spotify.com/track/5DxJfzKzdBFLu01SxGpnfg) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Very Best of Wilson Pickett](https://open.spotify.com/album/1tXKFPGHTVOAWjahKxacXH) | 3:07 | 2021-12-20 |  |
 | [My Baby Is a Good 'Un](https://open.spotify.com/track/0lEpe4WQaHcdbH2QI45z42) | [Federico Verteramo](https://open.spotify.com/artist/7arbLF5KNH9SXNCuSYUsYx) | [Rush Hour](https://open.spotify.com/album/4DyiaOUlcWhlxhgWfhMGNY) | 3:15 | 2021-12-20 | 2023-09-17 |
-| [My Baby is a Good 'Un](https://open.spotify.com/track/7MusF6wVSCFE6BQFKGvUQq) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958](https://open.spotify.com/album/4S8FX2e2gJx3TquFXKxFYe) | 2:40 | 2023-08-25 |  |
+| [My Baby is a Good 'Un](https://open.spotify.com/track/7MusF6wVSCFE6BQFKGvUQq) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958](https://open.spotify.com/album/4S8FX2e2gJx3TquFXKxFYe) | 2:40 | 2023-08-25 | 2023-11-06 |
 | [My Baby's a Good 'Un](https://open.spotify.com/track/6oyDM2FMgK1f4Dx1H4hetP) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Double Trouble](https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf) | 2:40 | 2021-12-20 | 2022-06-24 |
 | [Nadine \- Stereo Remix](https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:49 | 2021-12-20 |  |
 | [No Sleep Blues](https://open.spotify.com/track/4ttmYxuXXcJR4aFzpEzXOB) | [Blue Milk](https://open.spotify.com/artist/4ILY6aQqhOSE83dUM2nPR6) | [No Sleep Blues](https://open.spotify.com/album/7JP7FEGR6XE6mYUTMsoYqQ) | 3:29 | 2023-08-18 |  |
@@ -133,7 +134,7 @@
 | [Proud Man's Blues \(Radio Mix\)](https://open.spotify.com/track/0wrFuYDRBrcx4BHqLsnIcH) | [L.A\. Big Daddy's](https://open.spotify.com/artist/52F4si8QmpdcHrwAIOU5qE) | [Proud Man's Blues \(Radio Mix\)](https://open.spotify.com/album/7h1acEI8URAH1RNchZ8CNK) | 3:27 | 2022-07-08 |  |
 | [Put It](https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb) | [TrackTribe](https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv) | [Put It](https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5) | 3:30 | 2023-08-18 |  |
 | [RED DRESS](https://open.spotify.com/track/7piAoG8DsUIsXzahToJ5Yb) | [Ethan Wilson](https://open.spotify.com/artist/0HrxgAPTbsueVGzLVZ6RzP) | [RED DRESS](https://open.spotify.com/album/4uh2J2yGXDUpXqN3VNSTtA) | 3:16 | 2023-08-18 |  |
-| [Red Hot](https://open.spotify.com/track/5sz4rMisEqqLDkObDfNeKq) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Red Hot / No Greater Love](https://open.spotify.com/album/7KEEvzpHHkU4R3BKgsBtZV) | 2:27 | 2023-08-18 | 2023-10-19 |
+| [Red Hot](https://open.spotify.com/track/5sz4rMisEqqLDkObDfNeKq) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Red Hot / No Greater Love](https://open.spotify.com/album/7KEEvzpHHkU4R3BKgsBtZV) | 2:27 | 2023-08-18 |  |
 | [Reverse Engineer](https://open.spotify.com/track/07PQv121zSIpQRlUqZZdRO) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Old Habits](https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y) | 4:10 | 2022-11-17 |  |
 | [Roadhouse Blues](https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:25 | 2021-12-20 |  |
 | [Rocket 88](https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g) | [Ike Turner](https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb) | [Presenting Ike Turner](https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC) | 2:49 | 2022-07-08 |  |

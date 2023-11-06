@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: The Beatles!
 
-1,941 songs - 4 day 8 hr 40 min
+1,942 songs - 4 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1903,7 +1903,8 @@
 | [Without You](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 | 2023-06-23 | 2023-06-30 |
 | [Without You](https://open.spotify.com/track/3WnUpYyxdnbSuGlmxJLNnh) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [Without You](https://open.spotify.com/album/4HPfjykrXY8c1iRb10bHfQ) | 5:09 | 2023-08-03 | 2023-08-11 |
 | [Wolf](https://open.spotify.com/track/5IqU4x7djoydv2Kl03AFbY) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [Wolf](https://open.spotify.com/album/4eihY4pbCjrnqwHEKpe5uP) | 4:05 | 2023-08-31 | 2023-09-08 |
-| [Won One](https://open.spotify.com/track/2V86cHhGmAOzkWnukPgFyy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Won One](https://open.spotify.com/album/22hSwvp8r5pSlFDR4DJLDk) | 2:41 | 2023-11-02 |  |
+| [Won One](https://open.spotify.com/track/1Go1t1GBt5XJX75DMoMBoa) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:41 | 2023-11-03 |  |
+| [Won One](https://open.spotify.com/track/2V86cHhGmAOzkWnukPgFyy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Won One](https://open.spotify.com/album/22hSwvp8r5pSlFDR4DJLDk) | 2:41 | 2023-11-02 | 2023-11-06 |
 | [Won't Forget You](https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Won't Forget You](https://open.spotify.com/album/2b2p2llc051aP6YlPG5AnK) | 2:33 | 2023-09-28 | 2023-10-06 |
 | [Wonderland](https://open.spotify.com/track/04reFYBEo3kICKGniHQiym) | [Charli Lucas](https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx) | [Wonderland](https://open.spotify.com/album/5SxaSXHGWc1Lb4BDBj3Eoe) | 3:38 | 2023-10-26 | 2023-11-03 |
 | [WOO \[Feat\. PlayThatBoiZay, Chief Pound\]](https://open.spotify.com/track/4RjLOOdis03Tfu8rpcnUBu) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [Chief Pound](https://open.spotify.com/artist/6LaTLiY08GpquuOk8433Wb) | [SKED \[Feat\. Kenny Mason\]](https://open.spotify.com/album/3ECd3BfxdM6KTjoYpITN0R) | 3:01 | 2023-10-06 | 2023-10-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 605152,
+  "num_followers": 605300,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjU3NTdiYzk0NmQyNjNlZDVhNzY4MTMyZjY3YzY1NjZkOTU2Nzhh",
+  "snapshot_id": "MCxkOTM5NzY2NDA0YTMwYTMzNTVmZmJjY2Q0NjBkZGVkZDNjNDFiNzFk",
   "tracks": [
     {
       "added_at": "2023-10-02 17:00:11",
@@ -471,6 +471,26 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
+        "name": "Milkshake 20 (Alex Wann Remix)",
+        "url": "https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "duration_ms": 176949,
+      "name": "Milkshake 20 (Alex Wann Remix)",
+      "url": "https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
         "name": "Cenote",
         "url": "https://open.spotify.com/album/1TXpoAyR5Z3q3IixFnUiwf"
       },
@@ -503,30 +523,6 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "Voices Above",
-        "url": "https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        },
-        {
-          "name": "Archila",
-          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
-        }
-      ],
-      "duration_ms": 190942,
-      "name": "Voices Above",
-      "url": "https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
         "name": "Discoteca",
         "url": "https://open.spotify.com/album/1ToY6vQm5b4DgOpdGHZjVZ"
       },
@@ -555,22 +551,6 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "Altered Destiny",
-        "url": "https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 185578,
-      "name": "Altered Destiny - Chill Mix",
-      "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
         "name": "Nefertari",
         "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
       },
@@ -591,22 +571,18 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "Osama (Edit)",
-        "url": "https://open.spotify.com/album/5q1Iq5mxmYODLmwTlmDw6u"
+        "name": "Altered Destiny",
+        "url": "https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5"
       },
       "artists": [
         {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        },
-        {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 223666,
-      "name": "Osama - Edit",
-      "url": "https://open.spotify.com/track/5i2gTPIuhhA1mcFQpmD5rf"
+      "duration_ms": 185578,
+      "name": "Altered Destiny - Chill Mix",
+      "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -623,6 +599,26 @@
       "duration_ms": 324313,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
+        "name": "Osama (Edit)",
+        "url": "https://open.spotify.com/album/5q1Iq5mxmYODLmwTlmDw6u"
+      },
+      "artists": [
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Osama - Edit",
+      "url": "https://open.spotify.com/track/5i2gTPIuhhA1mcFQpmD5rf"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -855,26 +851,6 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "Milkshake 20 (Alex Wann Remix)",
-        "url": "https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        },
-        {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
-        }
-      ],
-      "duration_ms": 176949,
-      "name": "Milkshake 20 (Alex Wann Remix)",
-      "url": "https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
         "name": "Petit Matin",
         "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
       },
@@ -1047,22 +1023,6 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO"
-      },
-      "artists": [
-        {
-          "name": "Mika Olson",
-          "url": "https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
         "name": "Laufen",
         "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
       },
@@ -1079,6 +1039,42 @@
       "duration_ms": 257709,
       "name": "Laufen",
       "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO"
+      },
+      "artists": [
+        {
+          "name": "Mika Olson",
+          "url": "https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
+        "name": "Far Behind",
+        "url": "https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 234685,
+      "name": "Far Behind",
+      "url": "https://open.spotify.com/track/03nv4DOcmJMYdlJuKEO2x8"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -1107,22 +1103,22 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "Far Behind",
-        "url": "https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP"
+        "name": "Cold Shoulder (Helsloot Remix)",
+        "url": "https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "Words of Ni\u014d",
+          "url": "https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq"
         },
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
         }
       ],
-      "duration_ms": 234685,
-      "name": "Far Behind",
-      "url": "https://open.spotify.com/track/03nv4DOcmJMYdlJuKEO2x8"
+      "duration_ms": 246466,
+      "name": "Cold Shoulder - Helsloot Remix",
+      "url": "https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -1143,26 +1139,6 @@
       "duration_ms": 227384,
       "name": "Lay It All On Me",
       "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
-        "name": "Cold Shoulder (Helsloot Remix)",
-        "url": "https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st"
-      },
-      "artists": [
-        {
-          "name": "Words of Ni\u014d",
-          "url": "https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "Cold Shoulder - Helsloot Remix",
-      "url": "https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -1319,6 +1295,22 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
+        "name": "Orbits of Dust",
+        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 360071,
+      "name": "Orbits of Dust",
+      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
         "name": "Better In The Dark",
         "url": "https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax"
       },
@@ -1335,18 +1327,26 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "Orbits of Dust",
-        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+        "name": "To Be Written",
+        "url": "https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2"
       },
       "artists": [
         {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+          "name": "Marc DePulse",
+          "url": "https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN"
+        },
+        {
+          "name": "Eleonora",
+          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
+        },
+        {
+          "name": "Lunar Plane",
+          "url": "https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy"
         }
       ],
-      "duration_ms": 360071,
-      "name": "Orbits of Dust",
-      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
+      "duration_ms": 393442,
+      "name": "To Be Written - Lunar Plane Remix",
+      "url": "https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -1383,30 +1383,6 @@
       "duration_ms": 310602,
       "name": "Roads Of Gold - Edit",
       "url": "https://open.spotify.com/track/1M1g0SAJavX4mMLqEqKTDn"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
-        "name": "To Be Written",
-        "url": "https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2"
-      },
-      "artists": [
-        {
-          "name": "Marc DePulse",
-          "url": "https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN"
-        },
-        {
-          "name": "Eleonora",
-          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
-        },
-        {
-          "name": "Lunar Plane",
-          "url": "https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy"
-        }
-      ],
-      "duration_ms": 393442,
-      "name": "To Be Written - Lunar Plane Remix",
-      "url": "https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -1543,6 +1519,26 @@
       "duration_ms": 403286,
       "name": "Restless",
       "url": "https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
+        "name": "Future Memories",
+        "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Soundexile",
+          "url": "https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg"
+        }
+      ],
+      "duration_ms": 383250,
+      "name": "Teleport - Future Mix",
+      "url": "https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM"
     }
   ],
   "unique_name": "Deep House Blend",

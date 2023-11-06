@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Jillian Mercado",
-  "num_followers": 912676,
+  "num_followers": 912642,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjhiZDg3ODM5MjAzZDU0MWMxZDYxYTM2Y2Y2NDcyNmM3MzJiOWM2",
+  "snapshot_id": "MCw2MWI5ODkwYzkzYmQyOWI4YWU3ZmViMWY4ZmYwZjE5ZmZkMTNmYjA4",
   "tracks": [
     {
       "added_at": "2023-10-18 04:18:09",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-10-18 04:18:09",
       "album": {
-        "name": "Jagger.mp3",
-        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 155861,
-      "name": "Jagger.mp3",
-      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
-    },
-    {
-      "added_at": "2023-10-18 04:18:09",
-      "album": {
         "name": "She Wolf (Expanded Edition)",
         "url": "https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 189200,
       "name": "Loba",
       "url": "https://open.spotify.com/track/1fPCGREltHJuV3axEPydLp"
+    },
+    {
+      "added_at": "2023-10-18 04:18:09",
+      "album": {
+        "name": "Jagger.mp3",
+        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 155861,
+      "name": "Jagger.mp3",
+      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
     },
     {
       "added_at": "2023-10-18 04:18:09",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-10-18 04:18:09",
       "album": {
-        "name": "Girl Supreme",
-        "url": "https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        }
-      ],
-      "duration_ms": 168798,
-      "name": "Girl Supreme",
-      "url": "https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB"
-    },
-    {
-      "added_at": "2023-10-18 04:18:09",
-      "album": {
         "name": "Maquillada en la Cama",
         "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 218663,
       "name": "Maquillada en la Cama",
       "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
+    },
+    {
+      "added_at": "2023-10-18 04:18:09",
+      "album": {
+        "name": "Girl Supreme",
+        "url": "https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "duration_ms": 168798,
+      "name": "Girl Supreme",
+      "url": "https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB"
     },
     {
       "added_at": "2023-10-18 04:18:09",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-10-18 04:18:09",
       "album": {
-        "name": "Nieba nie ma",
-        "url": "https://open.spotify.com/album/7tE91JMUMPk4AHAX0IGNXn"
-      },
-      "artists": [
-        {
-          "name": "Kasia Lins",
-          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Nieba nie ma",
-      "url": "https://open.spotify.com/track/4WCr0otDWYCVYHsbtvxqZU"
-    },
-    {
-      "added_at": "2023-10-18 04:18:09",
-      "album": {
         "name": "\u0e1e\u0e25\u0e31\u0e49\u0e07 (Confess)",
         "url": "https://open.spotify.com/album/4NE78JyLuQgUhllqVJF4iw"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 214144,
       "name": "\u0e1e\u0e25\u0e31\u0e49\u0e07 (Confess)",
       "url": "https://open.spotify.com/track/1PLYjJH6rPyf6FQZeDfDvY"
+    },
+    {
+      "added_at": "2023-10-18 04:18:09",
+      "album": {
+        "name": "Nieba nie ma",
+        "url": "https://open.spotify.com/album/7tE91JMUMPk4AHAX0IGNXn"
+      },
+      "artists": [
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "Nieba nie ma",
+      "url": "https://open.spotify.com/track/4WCr0otDWYCVYHsbtvxqZU"
     },
     {
       "added_at": "2023-10-18 04:18:09",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-10-18 04:18:09",
       "album": {
-        "name": "Home With Me",
-        "url": "https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe"
-      },
-      "artists": [
-        {
-          "name": "RIIKI REID",
-          "url": "https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC"
-        }
-      ],
-      "duration_ms": 167065,
-      "name": "Home With Me",
-      "url": "https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH"
-    },
-    {
-      "added_at": "2023-10-18 04:18:09",
-      "album": {
         "name": "Fly By",
         "url": "https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 201960,
       "name": "Fly By",
       "url": "https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq"
+    },
+    {
+      "added_at": "2023-10-18 04:18:09",
+      "album": {
+        "name": "Home With Me",
+        "url": "https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe"
+      },
+      "artists": [
+        {
+          "name": "RIIKI REID",
+          "url": "https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC"
+        }
+      ],
+      "duration_ms": 167065,
+      "name": "Home With Me",
+      "url": "https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH"
     },
     {
       "added_at": "2023-10-18 04:18:09",

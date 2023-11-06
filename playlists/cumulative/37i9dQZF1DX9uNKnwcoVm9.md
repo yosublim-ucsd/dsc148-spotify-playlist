@@ -4,7 +4,7 @@
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-170 songs - 14 hr 39 min
+171 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Hermoso](https://open.spotify.com/track/4TwzyWf4K1oeybmNUsNL24) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:35 | 2020-11-24 |  |
 | [Hermoso \(feat\. Coalo Zamorano\)](https://open.spotify.com/track/0XZHCkROGGQ2Ig30ApKVLP) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Jesús Salva](https://open.spotify.com/album/40uXjgQEurDWfvxlKE85cX) | 5:35 | 2020-11-24 | 2022-07-29 |
 | [Hijo Pródigo](https://open.spotify.com/track/2DpqxoZ3YbEmFpdTREjvOS) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/3ZkKbtlC0p5L6vgStrdRsq) | 4:47 | 2020-11-24 | 2023-09-17 |
+| [Hijo Pródigo](https://open.spotify.com/track/3nnICl5SaGPht8Ndnq1IDM) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1) | 4:47 | 2020-11-24 |  |
 | [Hijo Pródigo](https://open.spotify.com/track/4Ox6ftWlM1BnlBnI9UrfvJ) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/48qi6ZYqYATvWg7HtBYyQs) | 4:47 | 2020-11-24 | 2022-07-29 |
 | [Iglesia](https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [La Compilación](https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe) | 4:05 | 2020-11-24 |  |
 | [Jehová Es Mi Guerrero/Le Llaman \(Reprise\)](https://open.spotify.com/track/38rRpy2CTsHScLk9IRo0PC) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Fuego](https://open.spotify.com/album/3Aejvhfr04XlnrEAoHDytu) | 2:16 | 2020-11-24 | 2022-07-29 |
@@ -160,7 +161,7 @@
 | [Toda la Gloria](https://open.spotify.com/track/108rn8fBtcwYFd7kQzdvRA) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Fuego](https://open.spotify.com/album/5nKR0GJScbq5pcb7PGdBW9) | 6:00 | 2020-11-24 | 2022-07-29 |
 | [Toda la Gloria](https://open.spotify.com/track/3lTjQX4rSNfLhXrqyNM8nn) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Fuego](https://open.spotify.com/album/3cDznNz3cXNQql9O9KTAvi) | 6:00 | 2020-11-24 |  |
 | [Tu Corazón](https://open.spotify.com/track/1ItqIKkKtgxiyXWCTbsC41) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Tu Corazon](https://open.spotify.com/album/32ncL8vWO8l6pp69JOWY4B) | 4:04 | 2020-11-24 | 2022-07-29 |
-| [Tu Corazón](https://open.spotify.com/track/214zEfKabCRcGKrMuQZRTi) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Tu Corazón](https://open.spotify.com/album/2dwTkrBFDyCq2uOCN7wg2E) | 4:04 | 2020-11-24 |  |
+| [Tu Corazón](https://open.spotify.com/track/214zEfKabCRcGKrMuQZRTi) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Tu Corazón](https://open.spotify.com/album/2dwTkrBFDyCq2uOCN7wg2E) | 4:04 | 2020-11-24 | 2023-11-06 |
 | [Tu Voluntad](https://open.spotify.com/track/1bkekelOajuDH9SxvazW6G) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Tu Voluntad](https://open.spotify.com/album/5K6pp3sMIXMxkzYcQDJ6yU) | 6:27 | 2020-11-24 |  |
 | [Ven Espíritu Ven](https://open.spotify.com/track/05BkWRVy0cubbSnsyzw2lu) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Marco Barrientos Auditorio Nacional](https://open.spotify.com/album/02jz93WiEGLDvMhDb2xCPC) | 4:48 | 2020-11-24 |  |
 | [Ven te necesito](https://open.spotify.com/track/5zkqh0190NNxbAuRjgytTo) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Yo Sin Ti](https://open.spotify.com/album/09bmbHv2pYw2pd4OFKzjCT) | 5:43 | 2020-11-24 | 2022-07-29 |

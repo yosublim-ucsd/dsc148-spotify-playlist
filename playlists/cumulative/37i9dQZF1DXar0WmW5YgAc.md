@@ -4,7 +4,7 @@
 
 > Love songs from your favorite films
 
-148 songs - 10 hr 11 min
+149 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Mamma Mia](https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:33 | 2022-01-11 |  |
 | [Mamma Mia](https://open.spotify.com/track/22NN4BS1AlqVbyKIWExgON) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/0C36RlW2Fa0C7n1JnWBBMP) | 3:35 | 2022-01-11 | 2022-07-29 |
 | [Miss Misery](https://open.spotify.com/track/4JBXUmExK3GS7X4RuUKCyt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Good Will Hunting](https://open.spotify.com/album/7EX07sDFRX9g2RRlXJB3dN) | 3:12 | 2022-01-11 |  |
-| [My Baby Just Cares for Me \- 2013 Remastered Version](https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 3:35 | 2022-01-11 |  |
+| [My Baby Just Cares for Me \(2013 \- Remaster\)](https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:35 | 2023-01-06 |  |
+| [My Baby Just Cares for Me \- 2013 Remastered Version](https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 3:35 | 2022-01-11 | 2023-11-06 |
 | [My Heart Will Go On \(Dialogue Mix\) \- includes "Titanic" film dialogue](https://open.spotify.com/track/4aId6eo2ChFruN91wIoP6N) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Titanic: Original Motion Picture Soundtrack \- Collector's Anniversary Edition](https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs) | 4:42 | 2022-10-28 | 2022-11-13 |
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:40 | 2022-01-11 |  |
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/27ncbKwESFYzgBo9RN9IXe) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Essential Celine Dion](https://open.spotify.com/album/4Weiw9hd6IyxyjRyeDp3dF) | 4:40 | 2022-01-11 | 2022-07-29 |

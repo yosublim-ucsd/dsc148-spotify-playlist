@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,494,785 likes - 130 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,495,679 likes - 130 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 22 | [Cool Cat \- Remastered 2011](https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 3:29 |
 | 23 | [Do You Believe In Love](https://open.spotify.com/track/7uDvuLWCGRw58zfFH1sRDO) | [Paul Davis](https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR) | [Paul Davis \(1980\)](https://open.spotify.com/album/3A83m6wd2kfgUMPm8bEYk4) | 3:45 |
 | 24 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
-| 25 | [How Long](https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [Five\-A\-Side](https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F) | 3:24 |
+| 25 | [How Long](https://open.spotify.com/track/6Wgst4P9SOnc6WGLtfTb1z) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [Five\-A\-Side](https://open.spotify.com/album/0Co0NZP0lt2Qi7rHZDngxh) | 3:24 |
 | 26 | [Runaway](https://open.spotify.com/track/6lgRAgMXqhxwS77vJBjFY6) | [Bill Champlin](https://open.spotify.com/artist/5pLqzTJecAKKbWw0MrDASt), [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui), [Peter Friestedt](https://open.spotify.com/artist/1asuQw4X18Sg1FxMEXzUz8) | [CWF](https://open.spotify.com/album/1MDUmPVZFAduvDPmV3Ez53) | 3:56 |
 | 27 | [Givin' It All](https://open.spotify.com/track/5uiv9G0E0OdL4ncMEWBuQ9) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [A Room With A View](https://open.spotify.com/album/6okjmSHH71HqgIWVzWdJhU) | 4:17 |
 | 28 | [Smoke from a Distant Fire](https://open.spotify.com/track/62obgbkuUt75nDIiIcLI4T) | [Sanford Townsend Band](https://open.spotify.com/artist/2PblGVYNdrem5ODxxMNhr0) | [Smoke From A Distant Fire](https://open.spotify.com/album/6vUFJM8PgHDhmzTyAzN2PX) | 3:33 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 129 | [Can't Be Seen](https://open.spotify.com/track/1l4laa9Q0HgJ4a4yTd08f5) | [Dane Donohue](https://open.spotify.com/artist/4kTI0EhldC81wN7PSBki3A) | [Dane Donohue](https://open.spotify.com/album/34LLJFmhTpNRaKVR5qnqwx) | 3:01 |
 | 130 | [Gotta Get Back to Love](https://open.spotify.com/track/2QQYco5UET8Ur8DMNcyfSE) | [Bill Champlin](https://open.spotify.com/artist/5pLqzTJecAKKbWw0MrDASt) | [Runaway](https://open.spotify.com/album/3GHUVmq8M8L0qoj65DOtTK) | 3:30 |
 
-Snapshot ID: `MCw2ZTlkMTQzYjNhNGRmMzVjNTFmNjY5YTIyMDc3YTUyYzQ2OWI2ODIz`
+Snapshot ID: `MCw0NTM1NmQ3OTAwOWVkYWE3ODkzM2Y0OWIxOTA1N2ZjN2UyODdjOTUz`

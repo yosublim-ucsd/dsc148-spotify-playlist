@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-126 songs - 11 hr 50 min
+127 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Heaven \- Nicolas Jaar Remix](https://open.spotify.com/track/4WXIcBXdNAvsFKSMMqettI) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Remix Crusades \(2007\-2013\)](https://open.spotify.com/album/3ebvYDbbG9vfNFpyPlCf1A) | 5:17 | 2022-12-20 |  |
 | [Hiriza](https://open.spotify.com/track/39RCxlfSmKmGCJ5XzrfMGB) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Omar Hayat](https://open.spotify.com/artist/6CNB6WbUT0xyr4SsORJYUh) | [A Day In Essaouira](https://open.spotify.com/album/2i8W94b7HDbxCc4dD9isYA) | 6:38 | 2023-05-04 |  |
 | [Hope](https://open.spotify.com/track/1BTFbMjnu87NPOmjNjDT4f) | [Guti](https://open.spotify.com/artist/2r5GDEgYazyOCSj5xi67MM) | [Hope EP](https://open.spotify.com/album/6y8QCJsupQ5TN3gjGaA0LQ) | 6:16 | 2022-12-20 |  |
-| [I Go](https://open.spotify.com/track/1S3wM42IWR5DDukmZo8GwV) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 5:58 | 2022-12-20 |  |
+| [I Go](https://open.spotify.com/track/1S3wM42IWR5DDukmZo8GwV) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 5:58 | 2022-12-20 | 2023-11-06 |
+| [I Go](https://open.spotify.com/track/2Vkn1pUamUEfJ9GHul3RJr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/1221WGmWD1oF62vZtMScdk) | 5:58 | 2023-10-06 |  |
 | [I'm Easy \- Crackazat Mana's Dub](https://open.spotify.com/track/0hvxsHq9qn5f3FgWT07Ouv) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Everybody Talks About It EP](https://open.spotify.com/album/5hS5SlMOWSD3kFx6AN4tvN) | 5:22 | 2022-12-20 |  |
 | [Into The Sun](https://open.spotify.com/track/5xUomxrzkIr0MAP9YQur24) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Flourish](https://open.spotify.com/album/6f1xUyLnfRELUNufnypE3Z) | 4:03 | 2022-12-20 |  |
 | [Je ne bois pas beaucoup](https://open.spotify.com/track/72nCkeEDv7znNYkz9jUrh4) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [Je ne bois pas beaucoup](https://open.spotify.com/album/18AF4OmCJ4cNCejKGA7wO3) | 4:58 | 2022-12-20 |  |

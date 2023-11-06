@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 168970,
+  "num_followers": 169031,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzE3OGNlMjdmODRhMmNhYTEyYWMyNDZmYzJjMTA5YTQ2ZTNkNzlm",
+  "snapshot_id": "MCxlNTAxZTM5YjM2NGVjNDU2Yzg5OWQ0MjI0MjVkOTg0MmMwNGViY2Yy",
   "tracks": [
     {
       "added_at": "2023-10-10 00:48:29",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
     },
     {
-      "added_at": "2023-01-04 00:57:30",
-      "album": {
-        "name": "Classic Objects",
-        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
-      },
-      "artists": [
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 362428,
-      "name": "American Coffee",
-      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Mahi Mahi",
@@ -619,6 +603,22 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2023-01-04 00:57:30",
+      "album": {
+        "name": "Classic Objects",
+        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 362428,
+      "name": "American Coffee",
+      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
     },
     {
       "added_at": "2022-02-25 03:06:43",
@@ -789,26 +789,6 @@
       "url": "https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4"
     },
     {
-      "added_at": "2023-08-15 18:36:31",
-      "album": {
-        "name": "Sus Dog",
-        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        },
-        {
-          "name": "Anika",
-          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
-        }
-      ],
-      "duration_ms": 276045,
-      "name": "Sus Dog",
-      "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "STORY OF BLOOD",
@@ -827,6 +807,26 @@
       "duration_ms": 451986,
       "name": "STORY OF BLOOD",
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
+    },
+    {
+      "added_at": "2023-08-15 18:36:31",
+      "album": {
+        "name": "Sus Dog",
+        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        },
+        {
+          "name": "Anika",
+          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
+        }
+      ],
+      "duration_ms": 276045,
+      "name": "Sus Dog",
+      "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
     },
     {
       "added_at": "2023-06-26 14:17:57",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
     },
     {
-      "added_at": "2023-05-22 18:30:22",
-      "album": {
-        "name": "Vandali / Stranidei",
-        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
-      },
-      "artists": [
-        {
-          "name": "Bud Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
-        }
-      ],
-      "duration_ms": 245520,
-      "name": "Stranidei",
-      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "Inner Song",
@@ -895,6 +879,22 @@
       "duration_ms": 447453,
       "name": "Corner Of My Sky",
       "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
+    },
+    {
+      "added_at": "2023-05-22 18:30:22",
+      "album": {
+        "name": "Vandali / Stranidei",
+        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
+      },
+      "artists": [
+        {
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+        }
+      ],
+      "duration_ms": 245520,
+      "name": "Stranidei",
+      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "void beats/invocation trex",
-        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 233903,
-      "name": "melody in high feedback tones",
-      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
-    },
-    {
       "added_at": "2022-08-31 05:00:32",
       "album": {
         "name": "\u00a1Ay!",
@@ -959,6 +943,22 @@
       "duration_ms": 164598,
       "name": "Dicen",
       "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "void beats/invocation trex",
+        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 233903,
+      "name": "melody in high feedback tones",
+      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "Heartlow",
+        "url": "https://open.spotify.com/album/3uWfwfYAKxPBC0Ro4xof8i"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 218925,
+      "name": "Heartlow - Edit",
+      "url": "https://open.spotify.com/track/2vUDoEBAGVLvcy8kDE0FTg"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "Room For The Moon",
         "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
       },
@@ -1099,18 +1115,34 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Heartlow",
-        "url": "https://open.spotify.com/album/3uWfwfYAKxPBC0Ro4xof8i"
+        "name": "Robber",
+        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
       },
       "artists": [
         {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
         }
       ],
-      "duration_ms": 218925,
-      "name": "Heartlow - Edit",
-      "url": "https://open.spotify.com/track/2vUDoEBAGVLvcy8kDE0FTg"
+      "duration_ms": 320524,
+      "name": "Robber",
+      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
+    },
+    {
+      "added_at": "2022-02-09 04:04:07",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 228809,
+      "name": "Tintagel",
+      "url": "https://open.spotify.com/track/6y7lKUb0w54m0Fx49kzo1p"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1135,22 +1167,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Robber",
-        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 320524,
-      "name": "Robber",
-      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Jacqueline",
         "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 324022,
       "name": "Dream St.",
       "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
-    },
-    {
-      "added_at": "2022-02-09 04:04:07",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 228809,
-      "name": "Tintagel",
-      "url": "https://open.spotify.com/track/6y7lKUb0w54m0Fx49kzo1p"
     },
     {
       "added_at": "2022-11-17 22:51:20",
@@ -1405,26 +1405,6 @@
       "url": "https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
-        "url": "https://open.spotify.com/album/0W2UKYTKWHpWkQnrOZgbCV"
-      },
-      "artists": [
-        {
-          "name": "Salami Rose Joe Louis",
-          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
-      "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
-    },
-    {
       "added_at": "2022-08-19 01:53:48",
       "album": {
         "name": "artclubdiscotheque",
@@ -1443,6 +1423,26 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
+        "url": "https://open.spotify.com/album/0W2UKYTKWHpWkQnrOZgbCV"
+      },
+      "artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
+      "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1533,6 +1533,22 @@
       "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
+      "added_at": "2021-10-15 03:46:13",
+      "album": {
+        "name": "Vines",
+        "url": "https://open.spotify.com/album/4vkPu8SShGB8BBvQvaEMX8"
+      },
+      "artists": [
+        {
+          "name": "Damiana",
+          "url": "https://open.spotify.com/artist/1xmYJRmMNBC7ucGQ1TTOIx"
+        }
+      ],
+      "duration_ms": 406163,
+      "name": "Sunken Lupine",
+      "url": "https://open.spotify.com/track/72SzjydU6s6oVsj2Ml1YV3"
+    },
+    {
       "added_at": "2022-08-13 01:25:00",
       "album": {
         "name": "THE 55",
@@ -1549,20 +1565,20 @@
       "url": "https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70"
     },
     {
-      "added_at": "2021-10-15 03:46:13",
+      "added_at": "2022-07-14 12:42:06",
       "album": {
-        "name": "Vines",
-        "url": "https://open.spotify.com/album/4vkPu8SShGB8BBvQvaEMX8"
+        "name": "Mapa",
+        "url": "https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF"
       },
       "artists": [
         {
-          "name": "Damiana",
-          "url": "https://open.spotify.com/artist/1xmYJRmMNBC7ucGQ1TTOIx"
+          "name": "Sundarbans",
+          "url": "https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82"
         }
       ],
-      "duration_ms": 406163,
-      "name": "Sunken Lupine",
-      "url": "https://open.spotify.com/track/72SzjydU6s6oVsj2Ml1YV3"
+      "duration_ms": 175849,
+      "name": "Mapa",
+      "url": "https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg"
     },
     {
       "added_at": "2023-03-24 15:38:14",
@@ -1587,22 +1603,6 @@
       "duration_ms": 438106,
       "name": "A Time To Blossom",
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
-    },
-    {
-      "added_at": "2022-07-14 12:42:06",
-      "album": {
-        "name": "Mapa",
-        "url": "https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF"
-      },
-      "artists": [
-        {
-          "name": "Sundarbans",
-          "url": "https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82"
-        }
-      ],
-      "duration_ms": 175849,
-      "name": "Mapa",
-      "url": "https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg"
     },
     {
       "added_at": "2022-03-11 06:40:47",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
     },
     {
-      "added_at": "2022-03-11 04:34:08",
-      "album": {
-        "name": "P.O.N",
-        "url": "https://open.spotify.com/album/716BZhl3283diYxQJZCSyF"
-      },
-      "artists": [
-        {
-          "name": "TOGITO",
-          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
-        }
-      ],
-      "duration_ms": 174518,
-      "name": "Hasta Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
-    },
-    {
       "added_at": "2022-02-09 04:03:27",
       "album": {
         "name": "Unfamiliar Minds",
@@ -1681,20 +1665,20 @@
       "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
     },
     {
-      "added_at": "2022-08-31 04:56:45",
+      "added_at": "2022-03-11 04:34:08",
       "album": {
-        "name": "Sunset Dreams",
-        "url": "https://open.spotify.com/album/6SSE8rmfK2n5D10pJYBaYX"
+        "name": "P.O.N",
+        "url": "https://open.spotify.com/album/716BZhl3283diYxQJZCSyF"
       },
       "artists": [
         {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
         }
       ],
-      "duration_ms": 215831,
-      "name": "Don't Tell Me I'm Wrong",
-      "url": "https://open.spotify.com/track/4NUBJ6FdoxJWGaLD5IAw5p"
+      "duration_ms": 174518,
+      "name": "Hasta Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1711,6 +1695,22 @@
       "duration_ms": 316413,
       "name": "Big Appetite",
       "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
+    },
+    {
+      "added_at": "2022-08-31 04:56:45",
+      "album": {
+        "name": "Sunset Dreams",
+        "url": "https://open.spotify.com/album/6SSE8rmfK2n5D10pJYBaYX"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 215831,
+      "name": "Don't Tell Me I'm Wrong",
+      "url": "https://open.spotify.com/track/4NUBJ6FdoxJWGaLD5IAw5p"
     },
     {
       "added_at": "2022-09-29 01:39:00",

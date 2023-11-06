@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,900 likes - 85 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,296 likes - 85 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 15 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:14 |
 | 16 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:20 |
 | 17 | [Anarchy in the U.K.](https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:31 |
-| 18 | [Teenage Kicks](https://open.spotify.com/track/7eQAIggvlFRVHMiMVw3OaS) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [Teenage Kicks EP](https://open.spotify.com/album/7Lu5TupvwrTTuleoR88Pd9) | 2:28 |
+| 18 | [Teenage Kicks](https://open.spotify.com/track/6UP5zTAuR4NFc1uZ3MHjvA) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/6lpgN6d9rlnFpZBzyQlDrE) | 2:28 |
 | 19 | [Sheena Is a Punk Rocker \- 2017 Remaster](https://open.spotify.com/track/61MZN0yyMWSEwrLPUUGfgJ) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:49 |
 | 20 | [Ça Plane Pour Moi](https://open.spotify.com/track/7bx4zW72qdZKBb8p6g80jb) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Ça Plane Pour Moi](https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V) | 2:59 |
 | 21 | [Shoo\-B\-Doop and Cop Him](https://open.spotify.com/track/1MCh9c35k0NAxE81oCrHU1) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [They Say I'm Different](https://open.spotify.com/album/6cnH06Wxjb2QqUHFa8PEwc) | 3:56 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 43 | [Jilted John \(Single Version\)](https://open.spotify.com/track/3e8KDtLBBlKur66SANv7Em) | [Jilted John](https://open.spotify.com/artist/7cvpTbz1cBUwRjLrcgobwm) | [True Love Stories](https://open.spotify.com/album/2odTi4imi7mihZjD74oM7L) | 2:55 |
 | 44 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 |
 | 45 | [Is She Really Going Out With Him?](https://open.spotify.com/track/29SRvYOKbMLOZeOubNGtLb) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Look Sharp!](https://open.spotify.com/album/6Bt6KjNfoCp6UbYVFGH4FH) | 3:35 |
-| 46 | [New Rose](https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned](https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E) | 2:42 |
-| 47 | [Sex & Drugs & Rock & Roll](https://open.spotify.com/track/0DPdnWavHdhB5hJ6O0qS6d) | [Ian Dury](https://open.spotify.com/artist/5PFSmueeFLrjYXqn3agenn) | [New Boots and Panties!!](https://open.spotify.com/album/4GR2L1xSn9yWXLbPCxVKxb) | 3:06 |
+| 46 | [New Rose](https://open.spotify.com/track/2RqX92TwDYaChAyfX9tKMH) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned](https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2) | 2:44 |
+| 47 | [Sex & Drugs & Rock & Roll](https://open.spotify.com/track/2figdwcjVBClFAmi7pD60o) | [Ian Dury](https://open.spotify.com/artist/5PFSmueeFLrjYXqn3agenn) | [New Boots and Panties!!](https://open.spotify.com/album/4GqPVPXNmpFMpoRnafIfLR) | 3:06 |
 | 48 | [10:15 Saturday Night \- 2005 Remaster](https://open.spotify.com/track/0l7djXY6dukQGO9qzWadiz) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys \(Deluxe Edition\)](https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC) | 3:42 |
 | 49 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
 | 50 | [Silver Machine \- Live at the Roundhouse London; 1996 Remaster](https://open.spotify.com/track/73HSIWZlSCfs4tqVkrGv7H) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [In Search of Space](https://open.spotify.com/album/1cgsYqtDTMTetu7FjEsIhI) | 4:39 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 64 | [Venus](https://open.spotify.com/track/3x0iCzjgf0v9lnwvAhU9P2) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Marquee Moon](https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP) | 3:49 |
 | 65 | [Fiery Jack \- Bonus Track](https://open.spotify.com/track/4EOKJntCkNc4vbuSQg4doy) | [The Fall](https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6) | [Dragnet \(Deluxe Edition\)](https://open.spotify.com/album/5rXllIzz9X9qILNN1gxMb0) | 4:43 |
 | 66 | [Gary Gilmore's Eyes](https://open.spotify.com/track/40N9Zf8HGajGhzthuI3BaM) | [The Adverts](https://open.spotify.com/artist/3LttNNESJjyvswWk4Asvha) | [Crossing the Red Sea](https://open.spotify.com/album/2npR50t6uIXjLKgeMJ4Vp3) | 2:16 |
-| 67 | [Dream Baby Dream](https://open.spotify.com/track/3MmogIpfk1GVXRMmRjKLGI) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [The Second Album + The First Rehearsal Tapes](https://open.spotify.com/album/6X3IumYsTS91vfxDVxRd04) | 6:24 |
+| 67 | [Dream Baby Dream \(Long Version\)](https://open.spotify.com/track/1QCLEwWkjR8UV70FmyoD7d) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Dream Baby Dream](https://open.spotify.com/album/6rCuDYEPPSW5xgIdjZUBhE) | 6:24 |
 | 68 | [Free Money](https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:52 |
 | 69 | [My Way \- 1993 Remastered Version](https://open.spotify.com/track/0TaWdoJiAJoln9OQ1RbdNs) | [Sid Vicious](https://open.spotify.com/artist/1YnxVTLZQkk6KJI2c5sBqU) | [Playlist: New Wave](https://open.spotify.com/album/3EZ09EIoMr6Y5Q9aidbnhy) | 4:04 |
 | 70 | [Search and Destroy \[2023 Remaster\] \- Iggy Mix](https://open.spotify.com/track/00sydAz6PeOxYzwG1dRIPi) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(Iggy Mix \- 2023 Remaster\)](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:30 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 75 | [I'm Stranded](https://open.spotify.com/track/6pXcyjABZyf6LKzL4wsj9k) | [The Saints](https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO) | [\(I'm\) Stranded](https://open.spotify.com/album/10hYjKl40Yu64cV3313uhU) | 3:32 |
 | 76 | [Alison](https://open.spotify.com/track/1v98rfd0an913AzHvMNG8a) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:24 |
 | 77 | [Born to Lose](https://open.spotify.com/track/150NSrON3DeZM1aLyz3MoM) | [Johnny Thunders & The Heartbreakers](https://open.spotify.com/artist/1SrtY5x33d2gF27chigCGg) | [L.A.M.F\. \- The Lost '77 Mixes](https://open.spotify.com/album/4CLnHCjgBVBEoCU6e4kts1) | 3:04 |
-| 78 | [Roadrunner](https://open.spotify.com/track/5E5HYgxGMp3BPakHGfKfIB) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [The Modern Lovers \(Expanded Version\)](https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8) | 4:06 |
+| 78 | [Roadrunner \(Alternative Version\)](https://open.spotify.com/track/0qRSrdDK4xj1doRViNPYwM) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [The Modern Lovers \(Expanded Version\)](https://open.spotify.com/album/7ro1W6lc4tuTaRyA8rnVm1) | 4:55 |
 | 79 | [I'll Come Running \- 2004 Digital Remaster](https://open.spotify.com/track/6ZWVeMysm8Q8zZu3lKnY2v) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:49 |
 | 80 | [Warm Leatherette](https://open.spotify.com/track/7mxvuhmRrnQ31vHRm9A9qj) | [The Normal](https://open.spotify.com/artist/6y1jbhyM2QbpU3Bm8Z8fbe) | [Warm Leatherette](https://open.spotify.com/album/3tKJpBOfn19pPUh26tphfD) | 3:23 |
 | 81 | [No Side to Fall In](https://open.spotify.com/track/2fWxcJeDQiLStdAdwF4ms6) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 1:49 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 84 | [I Want More](https://open.spotify.com/track/1ynemPxsPrCwUb87VmGFuq) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Flow Motion \(Remastered\)](https://open.spotify.com/album/6pcp2R35M3b1lscjpmCxUl) | 3:30 |
 | 85 | [My Sex](https://open.spotify.com/track/4uq0OuAtODFKsEMO478Lt8) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Ultravox!](https://open.spotify.com/album/09H76Y3uRhgJSu7u5f3e6f) | 3:02 |
 
-Snapshot ID: `MCw5NjIwODBhYzU5NDI2NTMxYTJiNTYxZWZkMDNlMDg4MzBlOTU1ZWRi`
+Snapshot ID: `MCxkMDBmYzEwMjdmZmFhYWJlMzAzMjdjMDJkYWJkOTk4N2JiN2QxMTUy`

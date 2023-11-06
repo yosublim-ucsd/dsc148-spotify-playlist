@@ -4,7 +4,7 @@
 
 > Beautifully sad and moody piano music.
 
-355 songs - 15 hr 39 min
+356 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,8 @@
 | [Vento leggero](https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Vento leggero](https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB) | 3:00 | 2022-02-16 |  |
 | [Vesper](https://open.spotify.com/track/0Xo93N3lMP488UozSVcWqw) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Beyond The Gloom](https://open.spotify.com/album/59FiFCeY0eKjQpTMvLgb7E) | 2:12 | 2023-09-05 | 2023-10-26 |
 | [Vesper](https://open.spotify.com/track/3XzxDSOqktjzO5G87ncBf7) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [When The Little Man Speaks](https://open.spotify.com/album/2R4egikVsWjpn0GhfqeeS7) | 2:12 | 2023-08-14 | 2023-09-13 |
-| [Vesper](https://open.spotify.com/track/533dgu3YC7KwKDHgBPvpxm) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Sand Drawings](https://open.spotify.com/album/4sc1y23oEqoAwoXFqVltvr) | 2:12 | 2023-10-24 |  |
+| [Vesper](https://open.spotify.com/track/3eC3m3kEenLAxXF18oFG4G) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Minutes To Midnight](https://open.spotify.com/album/57yynEiExWrdlhWQgYrZi7) | 2:12 | 2023-10-24 |  |
+| [Vesper](https://open.spotify.com/track/533dgu3YC7KwKDHgBPvpxm) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Sand Drawings](https://open.spotify.com/album/4sc1y23oEqoAwoXFqVltvr) | 2:12 | 2023-10-24 | 2023-11-06 |
 | [Vesper](https://open.spotify.com/track/5aHJ4dAzn8fBudSSFqoATm) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Afternoon Ending](https://open.spotify.com/album/4FUs9Lg2ZQFrnBHxxcnRAq) | 2:12 | 2023-08-14 | 2023-08-28 |
 | [Vesper](https://open.spotify.com/track/7zYqURwLi01h7Mmel4fefz) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Vesper](https://open.spotify.com/album/7edDr2rApL4jzZ7gusqSjX) | 2:12 | 2023-08-07 | 2023-08-23 |
 | [Vespers](https://open.spotify.com/track/6NTDYbHPwOKpGXQw2WWfLo) | [Thomas Welker](https://open.spotify.com/artist/0usxXdyQdV9ucIQRKQjfVG) | [Vespers](https://open.spotify.com/album/1dea5PJqBlByt9C7GYapKH) | 2:42 | 2021-12-14 | 2023-08-08 |

@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 586132,
+  "num_followers": 586218,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGZhODU3YzhjY2Q1Mzc1ZTM2YWZiNWIzYmVmNTBlMTg0ZjU2OTg2",
+  "snapshot_id": "MCwxNmM2MmU3MzY0OTI5NmRmZWM5MWVhYzQwOGMwZGUyNzNlNDExOTI0",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Spirit's Furnace",
         "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 169254,
       "name": "Hammers and Nails",
       "url": "https://open.spotify.com/track/5QWvi6JbRVpeFm1Db7ZMok"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 248240,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Common Faults",
-        "url": "https://open.spotify.com/album/74McnqPMPwUWBBHZvhaEmr"
-      },
-      "artists": [
-        {
-          "name": "The Silent Comedy",
-          "url": "https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY"
-        }
-      ],
-      "duration_ms": 187558,
-      "name": "Bartholomew",
-      "url": "https://open.spotify.com/track/4WDEbyUuc701Yn9jQ9srgR"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "An Honest Man",
         "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Common Faults",
+        "url": "https://open.spotify.com/album/74McnqPMPwUWBBHZvhaEmr"
+      },
+      "artists": [
+        {
+          "name": "The Silent Comedy",
+          "url": "https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY"
+        }
+      ],
+      "duration_ms": 187558,
+      "name": "Bartholomew",
+      "url": "https://open.spotify.com/track/4WDEbyUuc701Yn9jQ9srgR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 277653,
       "name": "It Will Come Back",
       "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Let Love In (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/3OlT3zr0bvzYYg2Dwn6Fkx"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 370573,
+      "name": "Red Right Hand",
+      "url": "https://open.spotify.com/track/0jVo3e34A15l6MNu1O3cfa"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -499,22 +515,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Whiskey Shivers",
-        "url": "https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Shivers",
-          "url": "https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH"
-        }
-      ],
-      "duration_ms": 190906,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Devil Dancing",
         "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 226324,
       "name": "Danger and Dread",
       "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Whiskey Shivers",
+        "url": "https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Shivers",
+          "url": "https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -655,22 +671,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Oh, Willie, Please...",
-        "url": "https://open.spotify.com/album/6zAjJYvX7qsgoRPNMAZeN3"
-      },
-      "artists": [
-        {
-          "name": "Vandaveer",
-          "url": "https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A"
-        }
-      ],
-      "duration_ms": 228958,
-      "name": "Pretty Polly",
-      "url": "https://open.spotify.com/track/6XixumK1atNVgBVoqpNvAg"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Salt For Salt",
         "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 226688,
       "name": "Bilgewater",
       "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Oh, Willie, Please...",
+        "url": "https://open.spotify.com/album/6zAjJYvX7qsgoRPNMAZeN3"
+      },
+      "artists": [
+        {
+          "name": "Vandaveer",
+          "url": "https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A"
+        }
+      ],
+      "duration_ms": 228958,
+      "name": "Pretty Polly",
+      "url": "https://open.spotify.com/track/6XixumK1atNVgBVoqpNvAg"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -715,22 +731,6 @@
       "duration_ms": 197560,
       "name": "Ebb and Flow",
       "url": "https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Let Love In (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/3OlT3zr0bvzYYg2Dwn6Fkx"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 370573,
-      "name": "Red Right Hand",
-      "url": "https://open.spotify.com/track/0jVo3e34A15l6MNu1O3cfa"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Another Man\u02bcs Grave",
-        "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
-      },
-      "artists": [
-        {
-          "name": "Amigo the Devil",
-          "url": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
-        }
-      ],
-      "duration_ms": 188677,
-      "name": "Another Man\u02bcs Grave",
-      "url": "https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Nothing But The Water",
         "url": "https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 164200,
       "name": "Nothing But The Water (I)",
       "url": "https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Another Man\u02bcs Grave",
+        "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
+      },
+      "artists": [
+        {
+          "name": "Amigo the Devil",
+          "url": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
+        }
+      ],
+      "duration_ms": 188677,
+      "name": "Another Man\u02bcs Grave",
+      "url": "https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Beat the Devil's Tattoo",
+      "url": "https://open.spotify.com/track/61OOEzfcJvTLHhFiLZOGRN"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "When the River Took Flight",
         "url": "https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "William Crighton",
-        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
-      },
-      "artists": [
-        {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
-        }
-      ],
-      "duration_ms": 264937,
-      "name": "Priest",
-      "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Natural Conclusion",
         "url": "https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 194570,
       "name": "Chains",
       "url": "https://open.spotify.com/track/4uGtVXkE0VG4rNmSEaFnde"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "William Crighton",
+        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "duration_ms": 264937,
+      "name": "Priest",
+      "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Look Homeward",
-        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
-      },
-      "artists": [
-        {
-          "name": "Look Homeward",
-          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Sister Death",
-      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Anna & Elizabeth",
         "url": "https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ"
       },
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
+        "name": "Look Homeward",
+        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
       },
       "artists": [
         {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+          "name": "Look Homeward",
+          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
         }
       ],
-      "duration_ms": 225760,
-      "name": "Beat the Devil's Tattoo",
-      "url": "https://open.spotify.com/track/61OOEzfcJvTLHhFiLZOGRN"
+      "duration_ms": 173346,
+      "name": "Sister Death",
+      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Fire in the Dark",
+        "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
+      },
+      "artists": [
+        {
+          "name": "Gary Nichols",
+          "url": "https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Fire in the Dark",
+      "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "My Church Is Black",
         "url": "https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 239093,
       "name": "Saint Elizabeth",
       "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Fire in the Dark",
-        "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
-      },
-      "artists": [
-        {
-          "name": "Gary Nichols",
-          "url": "https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Fire in the Dark",
-      "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
     }
   ],
   "unique_name": "Southern Gothic",

@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-217 songs - 12 hr 23 min
+218 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [go \- Lower & Slower](https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:44 | 2022-08-12 |  |
 | [Good Ones \- Perfume Genius Remix](https://open.spotify.com/track/0S986gqvIWWdZzTKZGqKfU) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Good Ones \(Perfume Genius Remix\)](https://open.spotify.com/album/0fF3b80mTfc9IXeSATBX0u) | 3:23 | 2021-12-10 |  |
 | [green to blue \- slowed + reverbed](https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [green to blue \(slowed + reverbed\)](https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s) | 3:07 | 2023-01-12 |  |
-| [Hands up! \- Slowed](https://open.spotify.com/track/5QysgWndNifZvQ6RSjZVcZ) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Hands up! \(Slowed\)](https://open.spotify.com/album/4MRoilt5EIy78XbiemIdfZ) | 2:38 | 2023-06-01 |  |
+| [Hands up! \- Slowed](https://open.spotify.com/track/1cbDFtFwFk3iyYOgnuxNT4) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Hands up! \(The Remix\)](https://open.spotify.com/album/07YCL9cU3GuKxXQucJsKap) | 2:38 | 2023-09-21 |  |
+| [Hands up! \- Slowed](https://open.spotify.com/track/5QysgWndNifZvQ6RSjZVcZ) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Hands up! \(Slowed\)](https://open.spotify.com/album/4MRoilt5EIy78XbiemIdfZ) | 2:38 | 2023-06-01 | 2023-11-06 |
 | [Happier \- Slowed + Reverb](https://open.spotify.com/track/072Hl1zCG3UMxc7JBeQk7r) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier \(Slowed + Reverb\)](https://open.spotify.com/album/05rI3acDbxhs9Hls0o78tZ) | 4:00 | 2022-07-22 | 2023-08-14 |
 | [Happier \- Slowed + Reverb](https://open.spotify.com/track/3aPsxMIfOgmLmQJvAaElKU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier \(Slowed + Reverb\)](https://open.spotify.com/album/13w2ClweyAqn0sAdeyLnyQ) | 4:00 | 2023-09-21 |  |
 | [Happy Endings \(feat\. iann dior and UPSAHL\) \- slowed + reverb](https://open.spotify.com/track/0YhbiKLcr7Qd0rnpeamGNX) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Happy Endings \(feat\. iann dior and UPSAHL\) \[slowed + reverb / Nightcore Edit\]](https://open.spotify.com/album/3qbn9bA3stgYP5yuqfjMTV) | 3:57 | 2021-10-01 |  |

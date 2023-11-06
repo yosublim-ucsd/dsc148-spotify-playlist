@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,717 likes - 107 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,686 likes - 107 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 106 | [Afterlife](https://open.spotify.com/track/5XfG0OjDoHFAOOBtPcSmX8) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:46 |
 | 107 | [Low Lights and Throwback Tunes](https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Low Lights and Throwback Tunes](https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF) | 4:07 |
 
-Snapshot ID: `MCwwMTAxMGFmYTI3ODllODliNjU3NGNmM2Q4NWQ0ODc2MjYwNDFlYmQw`
+Snapshot ID: `MCxkMzBjNGI5YTAwYmI5OGViYjNiMDUwZDVlZjZhM2JlNDExNjg2ODlk`

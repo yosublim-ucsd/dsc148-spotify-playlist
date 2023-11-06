@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 168218,
+  "num_followers": 168310,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDFiNGY3MzE4NTg3MDNiZDNhNjc2NTE3Mzk3ZWQwYTUxYmJkNmRl",
+  "snapshot_id": "MCxlYThiYmYyMzY1YjE4NGI2MzUwMzkzN2JlZDkyYjYwYTRjYTBkYTEy",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -139,6 +139,26 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Apnea",
+        "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 332146,
+      "name": "Beyond Control",
+      "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Time (feat. Jules Buckley)",
         "url": "https://open.spotify.com/album/77wNbVUueAga2P28GqHovW"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 310986,
       "name": "Time - feat. Jules Buckley",
       "url": "https://open.spotify.com/track/4d2Gndzn9dnmUC8jIzI9d4"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Apnea",
-        "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        },
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 332146,
-      "name": "Beyond Control",
-      "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Hope In Balance",
-        "url": "https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/2lU1O72Qpkh9PFhP5UQM4F"
       },
       "artists": [
         {
-          "name": "S\u00e3o Miguel",
-          "url": "https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq"
-        },
-        {
-          "name": "Sebastian Reynoso",
-          "url": "https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX"
+          "name": "Jerome Price",
+          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
         }
       ],
-      "duration_ms": 278796,
-      "name": "Hope In Balance",
-      "url": "https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o"
+      "duration_ms": 205117,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/71yhzfnnCJGyqASU49wKJO"
     }
   ],
   "unique_name": "Melodic & Euphoric",

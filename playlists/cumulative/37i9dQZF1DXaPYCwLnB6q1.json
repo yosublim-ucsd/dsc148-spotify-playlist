@@ -24,6 +24,24 @@
     {
       "album": {
         "name": "goldilocks x",
+        "url": "https://open.spotify.com/album/0rJiPzR6DjTWdi8SjAJKJD"
+      },
+      "artists": [
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178599,
+      "name": "a woman is a god",
+      "url": "https://open.spotify.com/track/6XNWEBcyeOYyp5w3E2aIGK"
+    },
+    {
+      "album": {
+        "name": "goldilocks x",
         "url": "https://open.spotify.com/album/1ub4u5KekqUhWrOoBzoB6s"
       },
       "artists": [
@@ -34,7 +52,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 178599,
       "name": "a woman is a god",
       "url": "https://open.spotify.com/track/7fEs3RW4KCT7II7SWFU2Gx"
@@ -400,6 +418,24 @@
     {
       "album": {
         "name": "Nocturnal (Deluxe)",
+        "url": "https://open.spotify.com/album/0w9y3hsTarYxfXKgH5BEF4"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "NIGHTSHIFT",
+      "url": "https://open.spotify.com/track/1jYnAsjQrW7ZCzGhv7txdV"
+    },
+    {
+      "album": {
+        "name": "Nocturnal (Deluxe)",
         "url": "https://open.spotify.com/album/3lsu0Vp20MZEsHdTDE6G8I"
       },
       "artists": [
@@ -410,7 +446,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 127000,
       "name": "NIGHTSHIFT",
       "url": "https://open.spotify.com/track/6vZqkQWq28a1ccZa69KDQd"

@@ -341,6 +341,28 @@
     },
     {
       "album": {
+        "name": "Baaki",
+        "url": "https://open.spotify.com/album/4M4AZLajLYMgSFg1m4dgpY"
+      },
+      "artists": [
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        },
+        {
+          "name": "Rajan Batra",
+          "url": "https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c"
+        }
+      ],
+      "date_added": "2023-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231272,
+      "name": "Baaki",
+      "url": "https://open.spotify.com/track/4xOUx15uKcn2583G3Kd1CO"
+    },
+    {
+      "album": {
         "name": "Baarish Ki Boondein",
         "url": "https://open.spotify.com/album/178HTP7ToLI97nK9HySr0m"
       },
@@ -588,7 +610,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 216629,
       "name": "Barsaat Aa Gayi - Acoustic",
       "url": "https://open.spotify.com/track/3u2TfgGswNKiTuBMB8cIXe"
@@ -698,7 +720,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 259347,
       "name": "Bitter Betrayals (From \"T-Series Solos\")",
       "url": "https://open.spotify.com/track/2qqFgR22eDiTcCTQUaSshU"
@@ -3976,6 +3998,24 @@
       "duration_ms": 148977,
       "name": "Unke bina (Raw)",
       "url": "https://open.spotify.com/track/0S2VhMptqhyylEowrvMRRx"
+    },
+    {
+      "album": {
+        "name": "Unke Rangon Mein",
+        "url": "https://open.spotify.com/album/7k4mVu7UlNacFUSHcDZkpa"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Adwani",
+          "url": "https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04"
+        }
+      ],
+      "date_added": "2023-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172105,
+      "name": "Unke Rangon Mein",
+      "url": "https://open.spotify.com/track/33k5PdmBBBvjFrYFnTqrzF"
     },
     {
       "album": {

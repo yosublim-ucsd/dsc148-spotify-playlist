@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 20882,
+  "num_followers": 20891,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzRiMDhjMTYyZGMwYzUyMGJmYTJmMGY3MjFlY2JiZWNmOTkwMmM4",
+  "snapshot_id": "MCxjYWJjYjg1M2Q1ZjRhN2U4NDI4YTllYWYwYjE4NGJkNzM1MDJjNDAz",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -417,6 +417,22 @@
       "url": "https://open.spotify.com/track/7pi7XTGGaVBzrhlaYH97CV"
     },
     {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
+      },
+      "artists": [
+        {
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+        }
+      ],
+      "duration_ms": 250182,
+      "name": "Brown Gatton",
+      "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
+    },
+    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Surfing",
@@ -439,22 +455,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 300226,
-      "name": "Watch It Die",
-      "url": "https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "The Traveler",
         "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
       },
@@ -471,18 +471,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
       },
       "artists": [
         {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
         }
       ],
-      "duration_ms": 250182,
-      "name": "Brown Gatton",
-      "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
+      "duration_ms": 300226,
+      "name": "Watch It Die",
+      "url": "https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -539,8 +539,8 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Reckless Heart",
-        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
+        "name": "Reckless Blues",
+        "url": "https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 221430,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
+      "duration_ms": 315178,
+      "name": "Here Comes the Flood",
+      "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
     },
     {
       "added_at": "2022-02-23 14:50:27",
@@ -571,22 +571,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Ashes & Dust",
-        "url": "https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04"
+        "name": "Chills & Thrills",
+        "url": "https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5"
       },
       "artists": [
         {
-          "name": "Warren Haynes",
-          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
-        },
-        {
-          "name": "Railroad Earth",
-          "url": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
         }
       ],
-      "duration_ms": 446346,
-      "name": "Coal Tattoo",
-      "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
+      "duration_ms": 241706,
+      "name": "Groove With Me",
+      "url": "https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -607,18 +603,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Chills & Thrills",
-        "url": "https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5"
+        "name": "Ashes & Dust",
+        "url": "https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04"
       },
       "artists": [
         {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        },
+        {
+          "name": "Railroad Earth",
+          "url": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
         }
       ],
-      "duration_ms": 241706,
-      "name": "Groove With Me",
-      "url": "https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg"
+      "duration_ms": 446346,
+      "name": "Coal Tattoo",
+      "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -655,8 +655,8 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Reckless Blues",
-        "url": "https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm"
+        "name": "Reckless Heart",
+        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 315178,
-      "name": "Here Comes the Flood",
-      "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
+      "duration_ms": 221430,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -703,8 +703,8 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Unrepentant",
-        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
+        "name": "Defenestrator",
+        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
         }
       ],
-      "duration_ms": 599678,
-      "name": "Sweet Tea",
-      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
+      "duration_ms": 428577,
+      "name": "Chief's Blues",
+      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
     },
     {
       "added_at": "2020-10-21 17:37:12",

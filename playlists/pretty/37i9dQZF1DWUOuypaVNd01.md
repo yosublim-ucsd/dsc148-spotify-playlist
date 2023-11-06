@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: CMK, Jhony Mc, Choice, MAGRÃO XRE, Spike mc, Terror da Cena
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,387 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,410 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [No Close](https://open.spotify.com/track/5vSnWLoASC5mQg2NOOZvUI) | [Preto Puma](https://open.spotify.com/artist/0UvO8jJHXpIdeyi9NQA581) | [No Close](https://open.spotify.com/album/11tkpJZE3aPXfiH39qdq7p) | 2:17 |
 | 50 | [Dia de Baile](https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 2:58 |
 
-Snapshot ID: `MCxhYTE0MDAyM2U1OTMwMjA4MzM0NzkxY2RmNDYyNDE2Y2E3Yzg3YmU3`
+Snapshot ID: `MCxkYWM5Yjg5MjIyODYxYmIxZGYzNDkwMWE1MzAzZTA0MDY1NmE4Mzk0`

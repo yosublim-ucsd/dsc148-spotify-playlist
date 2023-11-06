@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE?si=XcFxgCTCQHK7hJyIEBh0xQ\">Daniel Mylez</a>",
-  "num_followers": 717,
+  "num_followers": 766,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjRiYzFkYTNkYThhM2E2NDc5NDM3N2U1MzRhZjU5YmJmYWM1NjM2",
+  "snapshot_id": "MCxjY2M4YzkzNTM5MmY0YTA4Mzc5YzIyNjI3YTBmMjA0NzNjYjFkZTRl",
   "tracks": [
     {
       "added_at": "2023-11-03 00:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "PRAISE YOU ANYWHERE",
-        "url": "https://open.spotify.com/album/5rDIQLqVrdykpRWD2PwKME"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "PRAISE YOU ANYWHERE",
-      "url": "https://open.spotify.com/track/6PR1HxI09SL1O2itnjBW12"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Elevated",
         "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 234667,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "PRAISE YOU ANYWHERE",
+        "url": "https://open.spotify.com/album/5rDIQLqVrdykpRWD2PwKME"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "PRAISE YOU ANYWHERE",
+      "url": "https://open.spotify.com/track/6PR1HxI09SL1O2itnjBW12"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -767,18 +767,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Not Moved",
-        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
+        "name": "This God Is Too Good",
+        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
       },
       "artists": [
         {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Chigozie Achugo",
+          "url": "https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko"
         }
       ],
-      "duration_ms": 273283,
-      "name": "Not Moved",
-      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
+      "duration_ms": 271438,
+      "name": "You Are God (feat. Chigozie Achugo)",
+      "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -803,22 +807,34 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "This God Is Too Good",
-        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
+        "name": "Not Moved",
+        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
       },
       "artists": [
         {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Chigozie Achugo",
-          "url": "https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 271438,
-      "name": "You Are God (feat. Chigozie Achugo)",
-      "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
+      "duration_ms": 273283,
+      "name": "Not Moved",
+      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Oke Mmiri",
+        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 504000,
+      "name": "Oke Mmiri - Live",
+      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -839,22 +855,6 @@
       "duration_ms": 812625,
       "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
       "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Oke Mmiri",
-        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 504000,
-      "name": "Oke Mmiri - Live",
-      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
     },
     {
       "added_at": "2023-10-20 00:01:00",

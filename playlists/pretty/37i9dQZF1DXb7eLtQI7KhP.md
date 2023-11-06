@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7eLtQI7KhP.md) - [plain]
 
 > Soft and soothing ambient piano music to help you meditate and find inner peace.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,737 likes - 135 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,810 likes - 135 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7eLtQI7KhP.md) - [plain]
 | 18 | [Å̊terhämtning](https://open.spotify.com/track/0DytUUbbGsWTgtmu78kDcy) | [Åmliden](https://open.spotify.com/artist/4c9woXzcZH9eO8EqiLbT9M) | [Å̊terhämtning](https://open.spotify.com/album/0kxpEj332lj8WZNtSn5CnU) | 2:27 |
 | 19 | [bacio gelato](https://open.spotify.com/track/62cxOsRZ7bUhDA64Rbhtcm) | [ambi pino](https://open.spotify.com/artist/70QpPcftSqRLCpdbzjBPIP) | [ricette de dolci](https://open.spotify.com/album/0h8S8rVorWb93CMm1U1SxC) | 1:36 |
 | 20 | [Tripolar](https://open.spotify.com/track/5MU0F5Wnotxq3Z59IQ98rw) | [Mentitoso](https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL) | [Tripolar](https://open.spotify.com/album/2q8Bxi5AuYzRqUF7mwE5mG) | 3:05 |
-| 21 | [Upwards](https://open.spotify.com/track/5l3eFTPbL0a4XkGH9c6Th4) | [Adriana Ferreira](https://open.spotify.com/artist/5qMdhPixXWa5PKUlMQZoH2) | [Upwards](https://open.spotify.com/album/4IHdGqtq6WyPbaEyqqVS4i) | 2:37 |
+| 21 | [Upwards](https://open.spotify.com/track/5l3eFTPbL0a4XkGH9c6Th4) | [Just Fillin' Time](https://open.spotify.com/artist/3kpfRZ9ygubWr0Ydx9pARu) | [Upwards](https://open.spotify.com/album/4IHdGqtq6WyPbaEyqqVS4i) | 2:37 |
 | 22 | [Serene Sanctuary](https://open.spotify.com/track/69HNELzycnP7UucHMyfPv6) | [Meliore](https://open.spotify.com/artist/2idtXzJnFZXORxj1JhTTqZ) | [Serene Sanctuary](https://open.spotify.com/album/06KfQjiKksP8mmCSdayolJ) | 2:31 |
 | 23 | [Stargazer](https://open.spotify.com/track/4jALRfKqKJhEjTslirOvsm) | [Cloudville](https://open.spotify.com/artist/2PZ9Lx5YAYcmTUPBc6a17L) | [Stargazer](https://open.spotify.com/album/0BzSglmfXitjj9f9f2pP1F) | 2:11 |
 | 24 | [Slow Release](https://open.spotify.com/track/0BhIPUDcsFG5fYr9uOSd35) | [Halcyon Fields](https://open.spotify.com/artist/5iDVGLma1wDxCbA5gtS6cN) | [Slow Release](https://open.spotify.com/album/2069wPcp6sTs8ZgS7xoXgQ) | 3:24 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7eLtQI7KhP.md) - [plain]
 | 134 | [Kindred Spirits](https://open.spotify.com/track/2E2LkJCGxdELKo9WnL4p7k) | [Clark Rhee](https://open.spotify.com/artist/2DrtllITdgCklBWKoeIfkv) | [Kindred Spirits](https://open.spotify.com/album/6ESQFCQLr3c6F9BOu7AI3X) | 2:58 |
 | 135 | [A Pillow For Her Mind](https://open.spotify.com/track/4rJ9FYsLQeB7oi7DSVEeUn) | [Roberta Leontini](https://open.spotify.com/artist/7B8dWi5admMjncLMdbxfns) | [A Pillow For Her Mind](https://open.spotify.com/album/0SVZiy0h2h4ALjd5wueeYw) | 2:19 |
 
-Snapshot ID: `MCxjOGMzYTAyMDQ4ZmI2MzY4ODg0M2I3YjQwMWFkMTAzODgzMjk0YTkx`
+Snapshot ID: `MCxmYTNjNTQ3NDJmMDliMGY3MjMwNDM0NmU1ZDVmNGEwZGE2NDEwYzZi`

@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 69563,
+  "num_followers": 69830,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDc2MDgyNGY1NGIzNmI0YWFhMWZkZTcwM2QxMDUwNmU0OWZiNWQ0",
+  "snapshot_id": "MCwwODFiNTdiMmQyMjEyN2QyZWNhMmI5ZGQ4NmY1ZjdiODYzZDU2OThm",
   "tracks": [
     {
       "added_at": "2023-10-27 16:28:46",
@@ -635,30 +635,6 @@
     {
       "added_at": "2023-10-27 16:28:46",
       "album": {
-        "name": "German Engineering 1",
-        "url": "https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP"
-      },
-      "artists": [
-        {
-          "name": "KitschKrieg",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
-        },
-        {
-          "name": "SFR",
-          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
-        },
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "Trenchezzz (with Nemzzz)",
-      "url": "https://open.spotify.com/track/0CpfrVubPZHWe1EB2qeo3D"
-    },
-    {
-      "added_at": "2023-10-27 16:28:46",
-      "album": {
         "name": "Face of the What",
         "url": "https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL"
       },
@@ -783,22 +759,6 @@
     {
       "added_at": "2023-10-27 16:28:46",
       "album": {
-        "name": "#miles (OMG edit)",
-        "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "#miles (OMG edit)",
-      "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
-    },
-    {
-      "added_at": "2023-10-27 16:28:46",
-      "album": {
         "name": "Honesty (Jersey Club Remix)",
         "url": "https://open.spotify.com/album/1sOF5dtyOTo9s6fx4AtmBe"
       },
@@ -819,6 +779,22 @@
     {
       "added_at": "2023-10-27 16:28:46",
       "album": {
+        "name": "#miles (OMG edit)",
+        "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 137727,
+      "name": "#miles (OMG edit)",
+      "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
+    },
+    {
+      "added_at": "2023-10-27 16:28:46",
+      "album": {
         "name": "Break From Jersey",
         "url": "https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi"
       },
@@ -831,22 +807,6 @@
       "duration_ms": 151874,
       "name": "Break From Jersey",
       "url": "https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY"
-    },
-    {
-      "added_at": "2023-10-27 16:28:46",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        }
-      ],
-      "duration_ms": 121532,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
     },
     {
       "added_at": "2023-10-27 16:28:46",
@@ -867,6 +827,22 @@
     {
       "added_at": "2023-10-27 16:28:46",
       "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "duration_ms": 121532,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
+    },
+    {
+      "added_at": "2023-10-27 16:28:46",
+      "album": {
         "name": "Cupid, Pt. 2",
         "url": "https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn"
       },
@@ -879,22 +855,6 @@
       "duration_ms": 102948,
       "name": "Cupid, Pt. 2",
       "url": "https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2"
-    },
-    {
-      "added_at": "2023-10-27 16:28:46",
-      "album": {
-        "name": "eyes",
-        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 142639,
-      "name": "eyes",
-      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
     },
     {
       "added_at": "2023-10-27 16:28:46",
@@ -915,22 +875,18 @@
     {
       "added_at": "2023-10-27 16:28:46",
       "album": {
-        "name": "WOAH",
-        "url": "https://open.spotify.com/album/2KIwLYx6itepTddDMWhkoW"
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
       },
       "artists": [
         {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        },
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         }
       ],
-      "duration_ms": 168727,
-      "name": "WOAH",
-      "url": "https://open.spotify.com/track/5tF9WEhxbT2hDzD1TN5yPo"
+      "duration_ms": 142639,
+      "name": "eyes",
+      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
     },
     {
       "added_at": "2023-10-27 16:28:46",
@@ -951,6 +907,26 @@
       "duration_ms": 109124,
       "name": "We Are Young (Jersey Club)",
       "url": "https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ"
+    },
+    {
+      "added_at": "2023-10-27 16:28:46",
+      "album": {
+        "name": "WOAH",
+        "url": "https://open.spotify.com/album/2KIwLYx6itepTddDMWhkoW"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 168727,
+      "name": "WOAH",
+      "url": "https://open.spotify.com/track/5tF9WEhxbT2hDzD1TN5yPo"
     },
     {
       "added_at": "2023-10-27 16:28:46",
@@ -1095,6 +1071,22 @@
     {
       "added_at": "2023-10-27 16:28:46",
       "album": {
+        "name": "Chicago (Jersey Club)",
+        "url": "https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX"
+      },
+      "artists": [
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 118256,
+      "name": "Chicago (Jersey Club)",
+      "url": "https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU"
+    },
+    {
+      "added_at": "2023-10-27 16:28:46",
+      "album": {
         "name": "Bongos (feat. Megan Thee Stallion) [DJ SpinKing & DJ Taj Jersey Club Mix]",
         "url": "https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc"
       },
@@ -1123,34 +1115,22 @@
     {
       "added_at": "2023-10-27 16:28:46",
       "album": {
-        "name": "Chicago (Jersey Club)",
-        "url": "https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX"
+        "name": "German Engineering 1",
+        "url": "https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6"
       },
       "artists": [
         {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 118256,
-      "name": "Chicago (Jersey Club)",
-      "url": "https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU"
-    },
-    {
-      "added_at": "2023-10-27 16:28:46",
-      "album": {
-        "name": "Orange Soda (Jersey Club Remix)",
-        "url": "https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O"
-      },
-      "artists": [
+          "name": "KitschKrieg",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
         {
-          "name": "Sjayy",
-          "url": "https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc"
+          "name": "SFR",
+          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
         }
       ],
-      "duration_ms": 111304,
-      "name": "Orange Soda - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ"
+      "duration_ms": 158786,
+      "name": "Trenchezzz (with Nemzzz)",
+      "url": "https://open.spotify.com/track/3puypQeebjOFKb9FeKdgAA"
     },
     {
       "added_at": "2023-10-27 16:28:46",
@@ -1167,6 +1147,22 @@
       "duration_ms": 138461,
       "name": "UDNTLUVME",
       "url": "https://open.spotify.com/track/3P1kLFAO2MxcVBtLWH3oOV"
+    },
+    {
+      "added_at": "2023-10-27 16:28:46",
+      "album": {
+        "name": "Orange Soda (Jersey Club Remix)",
+        "url": "https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O"
+      },
+      "artists": [
+        {
+          "name": "Sjayy",
+          "url": "https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc"
+        }
+      ],
+      "duration_ms": 111304,
+      "name": "Orange Soda - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ"
     },
     {
       "added_at": "2023-10-27 16:28:46",
@@ -1223,6 +1219,30 @@
     {
       "added_at": "2023-10-27 16:28:46",
       "album": {
+        "name": "BE FORREAL",
+        "url": "https://open.spotify.com/album/01l5PzKJarsRsihuxKfX1h"
+      },
+      "artists": [
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        },
+        {
+          "name": "Big Bam",
+          "url": "https://open.spotify.com/artist/2NkyvcYEasg0Yd4a6domnq"
+        },
+        {
+          "name": "DJ Blizz",
+          "url": "https://open.spotify.com/artist/1QkWDabKuR7G7AcFLaN1hq"
+        }
+      ],
+      "duration_ms": 86620,
+      "name": "BE FORREAL",
+      "url": "https://open.spotify.com/track/1RmJwFy8hk4VHTSJPU3nm9"
+    },
+    {
+      "added_at": "2023-10-27 16:28:46",
+      "album": {
         "name": "The 90s Lied To Us",
         "url": "https://open.spotify.com/album/0BmDsHZemgIKdH98eIOS95"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 103781,
       "name": "The 90s Lied To Us",
       "url": "https://open.spotify.com/track/04b2YLqewR7aMOwGnwXuUJ"
-    },
-    {
-      "added_at": "2023-10-27 16:28:46",
-      "album": {
-        "name": "Da Girls (Dance Mix)",
-        "url": "https://open.spotify.com/album/6sXiCimlYj6lHEowy0khmz"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Da Girls - Dance Mix",
-      "url": "https://open.spotify.com/track/6tOKaJyfdulCnW70cmCUHx"
     },
     {
       "added_at": "2023-10-27 16:28:46",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2023-10-27 16:28:46",
       "album": {
+        "name": "Da Girls (Dance Mix)",
+        "url": "https://open.spotify.com/album/6sXiCimlYj6lHEowy0khmz"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Da Girls - Dance Mix",
+      "url": "https://open.spotify.com/track/6tOKaJyfdulCnW70cmCUHx"
+    },
+    {
+      "added_at": "2023-10-27 16:28:46",
+      "album": {
         "name": "Dream (Jersey Club)",
         "url": "https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie"
       },
@@ -1295,30 +1315,6 @@
       "duration_ms": 123271,
       "name": "Dream (Jersey Club)",
       "url": "https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM"
-    },
-    {
-      "added_at": "2023-10-27 16:28:46",
-      "album": {
-        "name": "BE FORREAL",
-        "url": "https://open.spotify.com/album/01l5PzKJarsRsihuxKfX1h"
-      },
-      "artists": [
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        },
-        {
-          "name": "Big Bam",
-          "url": "https://open.spotify.com/artist/2NkyvcYEasg0Yd4a6domnq"
-        },
-        {
-          "name": "DJ Blizz",
-          "url": "https://open.spotify.com/artist/1QkWDabKuR7G7AcFLaN1hq"
-        }
-      ],
-      "duration_ms": 86620,
-      "name": "BE FORREAL",
-      "url": "https://open.spotify.com/track/1RmJwFy8hk4VHTSJPU3nm9"
     },
     {
       "added_at": "2023-10-27 16:28:46",
@@ -1367,18 +1363,22 @@
     {
       "added_at": "2023-10-27 16:28:46",
       "album": {
-        "name": "c\u00f3mo t va?",
-        "url": "https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd"
+        "name": "My Back (Jersey Club)",
+        "url": "https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy"
       },
       "artists": [
         {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+          "name": "Kyle Edwards",
+          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+        },
+        {
+          "name": "DJ Bake",
+          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
         }
       ],
-      "duration_ms": 126000,
-      "name": "c\u00f3mo t va?",
-      "url": "https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5"
+      "duration_ms": 127503,
+      "name": "My Back (Jersey Club)",
+      "url": "https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI"
     },
     {
       "added_at": "2023-10-27 16:28:46",

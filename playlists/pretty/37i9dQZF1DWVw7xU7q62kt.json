@@ -1,12 +1,12 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: James Francis",
-  "num_followers": 35782,
+  "num_followers": 35849,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTVjM2FlZmY5MDVhNmIzNGY4YzdkMGJmYmQwOTYwMzQ1NzA2OTBm",
+  "snapshot_id": "MCxmMmMxODFjNGYzMDBhNTIwNzBhYmU2OGQ4NTg4ZDM3NzY0MjkyNjQ3",
   "tracks": [
     {
       "added_at": "2023-10-27 00:01:00",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "It's Ok, B U",
-        "url": "https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 262846,
-      "name": "It's Ok, B U",
-      "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Hypnagogia Wakefull Dreams",
         "url": "https://open.spotify.com/album/1rOHNSH1iKXfUrDlzqvwdv"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 138795,
       "name": "Hypnagogia Wakefull Dreams",
       "url": "https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "It's Ok, B U",
+        "url": "https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 262846,
+      "name": "It's Ok, B U",
+      "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "limonene",
+        "url": "https://open.spotify.com/album/6SSMQdids0Iixj0xzSFFrJ"
+      },
+      "artists": [
+        {
+          "name": "Jfab",
+          "url": "https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "limonene",
+      "url": "https://open.spotify.com/track/3Apg6aI4J5OxeiF032ttYY"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "SGJAZZ, Vol. 2",
         "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 90600,
       "name": "Night Swim",
       "url": "https://open.spotify.com/track/0COa6aw2qYulXlzsraUqCk"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "limonene",
-        "url": "https://open.spotify.com/album/6SSMQdids0Iixj0xzSFFrJ"
-      },
-      "artists": [
-        {
-          "name": "Jfab",
-          "url": "https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "limonene",
-      "url": "https://open.spotify.com/track/3Apg6aI4J5OxeiF032ttYY"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Jazz Cats",
-        "url": "https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv"
-      },
-      "artists": [
-        {
-          "name": "Gas Lab",
-          "url": "https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN"
-        }
-      ],
-      "duration_ms": 145272,
-      "name": "Ancestors",
-      "url": "https://open.spotify.com/track/0XhbvGiHIzF7BunDLqO2tc"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Routes To Knowledge",
         "url": "https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 177201,
       "name": "Routes To Knowledge",
       "url": "https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Jazz Cats",
+        "url": "https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv"
+      },
+      "artists": [
+        {
+          "name": "Gas Lab",
+          "url": "https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN"
+        }
+      ],
+      "duration_ms": 145272,
+      "name": "Ancestors",
+      "url": "https://open.spotify.com/track/0XhbvGiHIzF7BunDLqO2tc"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Wonderment",
+        "url": "https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs"
+      },
+      "artists": [
+        {
+          "name": "Jonny Tobin",
+          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Wonderment",
+      "url": "https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Is This Jazz?",
         "url": "https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8"
       },
@@ -1343,26 +1359,6 @@
       "duration_ms": 181855,
       "name": "Is This Jazz?",
       "url": "https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Rivers",
-        "url": "https://open.spotify.com/album/24btn0dNAQauTIEK9sGQGq"
-      },
-      "artists": [
-        {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
-        },
-        {
-          "name": "Chris Keys",
-          "url": "https://open.spotify.com/artist/4Reen2gOVFXG3PIVMiq9ur"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Rivers",
-      "url": "https://open.spotify.com/track/5mCtECEiN0CmjDDUB450KR"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1383,18 +1379,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Wonderment",
-        "url": "https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs"
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/24btn0dNAQauTIEK9sGQGq"
       },
       "artists": [
         {
-          "name": "Jonny Tobin",
-          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        },
+        {
+          "name": "Chris Keys",
+          "url": "https://open.spotify.com/artist/4Reen2gOVFXG3PIVMiq9ur"
         }
       ],
-      "duration_ms": 199500,
-      "name": "Wonderment",
-      "url": "https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH"
+      "duration_ms": 160000,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/5mCtECEiN0CmjDDUB450KR"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Doomed",
-        "url": "https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 272124,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Kebab Sauce",
         "url": "https://open.spotify.com/album/2ErhKjzJvbAV07mb7VWD54"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 214000,
       "name": "Moonrock",
       "url": "https://open.spotify.com/track/2bW4WW3ykZgWlEuji5qWoq"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 272124,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Royal Sessions",
-        "url": "https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6"
-      },
-      "artists": [
-        {
-          "name": "loophole",
-          "url": "https://open.spotify.com/artist/6d6FPb70570apTFpsJkCPE"
-        }
-      ],
-      "duration_ms": 315910,
-      "name": "Icebreaker",
-      "url": "https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Annie's Tune",
         "url": "https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 263333,
       "name": "Annie's Tune",
       "url": "https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Royal Sessions",
+        "url": "https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6"
+      },
+      "artists": [
+        {
+          "name": "loophole",
+          "url": "https://open.spotify.com/artist/6d6FPb70570apTFpsJkCPE"
+        }
+      ],
+      "duration_ms": 315910,
+      "name": "Icebreaker",
+      "url": "https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Saucisses",
+        "url": "https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0"
+      },
+      "artists": [
+        {
+          "name": "Colombo",
+          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Saucisses",
+      "url": "https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Deciphering The Message",
         "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 197373,
       "name": "C.F.D.",
       "url": "https://open.spotify.com/track/3vitE6XRGDP8SdoDwu40Ty"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Dunt Dunt",
-        "url": "https://open.spotify.com/album/0d44FiJn8kD8I5rS87GCEp"
-      },
-      "artists": [
-        {
-          "name": "Graeme Gengras",
-          "url": "https://open.spotify.com/artist/2Czbu25dJ8diFJ2ahMgcCq"
-        }
-      ],
-      "duration_ms": 269636,
-      "name": "Dunt Dunt",
-      "url": "https://open.spotify.com/track/4DbTun4ivORsEpwLJ877qw"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1703,18 +1703,34 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Saucisses",
-        "url": "https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0"
+        "name": "The Pearl That Glitters",
+        "url": "https://open.spotify.com/album/2padzsKqfrIWHBZjlOl2gW"
       },
       "artists": [
         {
-          "name": "Colombo",
-          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+          "name": "SHOLTO",
+          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Saucisses",
-      "url": "https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk"
+      "duration_ms": 223256,
+      "name": "The Pearl That Glitters",
+      "url": "https://open.spotify.com/track/4Vsi0U4B1ECmquKgeco8b0"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Dunt Dunt",
+        "url": "https://open.spotify.com/album/0d44FiJn8kD8I5rS87GCEp"
+      },
+      "artists": [
+        {
+          "name": "Graeme Gengras",
+          "url": "https://open.spotify.com/artist/2Czbu25dJ8diFJ2ahMgcCq"
+        }
+      ],
+      "duration_ms": 269636,
+      "name": "Dunt Dunt",
+      "url": "https://open.spotify.com/track/4DbTun4ivORsEpwLJ877qw"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1735,22 +1751,6 @@
       "duration_ms": 340000,
       "name": "Langeland Frukt & Tobakk",
       "url": "https://open.spotify.com/track/0s7UF7Hx8q9scbkcCDOLZT"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "The Pearl That Glitters",
-        "url": "https://open.spotify.com/album/2padzsKqfrIWHBZjlOl2gW"
-      },
-      "artists": [
-        {
-          "name": "SHOLTO",
-          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
-        }
-      ],
-      "duration_ms": 223256,
-      "name": "The Pearl That Glitters",
-      "url": "https://open.spotify.com/track/4Vsi0U4B1ECmquKgeco8b0"
     },
     {
       "added_at": "2023-10-27 00:01:00",

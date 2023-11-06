@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 239576,
+  "num_followers": 239956,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDdmMjMxZGE4OGEwZjBlNjg4YTI5MWVmOWMxYWEyNWNmYWVmNDQz",
+  "snapshot_id": "MCxiYzM5OWViYzcxM2I5MGI1YzVjYTI2NDA4MjY3NTQ1YjgxYWM2OTFj",
   "tracks": [
     {
       "added_at": "2023-10-13 08:11:02",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "Platia",
-        "url": "https://open.spotify.com/album/41qA6izdabkSGBrE4wc6TL"
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/2dWojT5wPowGSARgpHAENj"
       },
       "artists": [
         {
-          "name": "FOVOS",
-          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
         }
       ],
-      "duration_ms": 192380,
-      "name": "Platia",
-      "url": "https://open.spotify.com/track/6ZDlNJ1RTu4HZv18GYVB2v"
+      "duration_ms": 231437,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/1ZRbpnhN6gxTJEnaCBlD0z"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -655,34 +655,18 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/2dWojT5wPowGSARgpHAENj"
+        "name": "Platia",
+        "url": "https://open.spotify.com/album/41qA6izdabkSGBrE4wc6TL"
       },
       "artists": [
         {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+          "name": "FOVOS",
+          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
         }
       ],
-      "duration_ms": 231437,
-      "name": "Don't Look Back",
-      "url": "https://open.spotify.com/track/1ZRbpnhN6gxTJEnaCBlD0z"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
-        "name": "Inside My Head",
-        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 419164,
-      "name": "Inside My Head",
-      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
+      "duration_ms": 192380,
+      "name": "Platia",
+      "url": "https://open.spotify.com/track/6ZDlNJ1RTu4HZv18GYVB2v"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -703,6 +687,22 @@
       "duration_ms": 314666,
       "name": "Alle meine Raver",
       "url": "https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
+        "name": "Inside My Head",
+        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 419164,
+      "name": "Inside My Head",
+      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
     },
     {
       "added_at": "2023-10-13 08:11:02",

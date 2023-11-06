@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees?si=VX24Cnv8TjGEpyfOBW0wWA">Mthandazo Gatya</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,733 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,824 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 49 | [Kukude Emathandweni](https://open.spotify.com/track/5gwyqqUjqTSOnXklI7582D) | [Linda Gcwensa](https://open.spotify.com/artist/08vFZzvz5L5aP8Bk4PHeWv) | [Kukude Emathandweni](https://open.spotify.com/album/18UdSJLB7xeeigWWsF0u4s) | 3:52 |
 | 50 | [ithemba \(Litsomo Version\)](https://open.spotify.com/track/0L40hQoFVhcdkkDftKhoNd) | [Kekelingo](https://open.spotify.com/artist/4tNXPWxHHch1TCCXilE1q2), [John Lundun](https://open.spotify.com/artist/0yZ5REAJnSQ71pr9yC9CVk), [Leomile](https://open.spotify.com/artist/0OptNOG76pN5MwzhzkUaSW), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [Pula EP](https://open.spotify.com/album/5N4dc7uW6ZLkDdzHBVc59E) | 4:06 |
 
-Snapshot ID: `MCwyNjRiNzgwMzlmYWI3YTUzMDA0NjJiYjJmNzIxMjRhYjBlNWIzYWE5`
+Snapshot ID: `MCxlYzkwOGIyNGJiYzY0ZDg4YTFlNDY1MDYzYmUyZTg3ODRjYzZlMTZj`

@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1202248,
+  "num_followers": 1202433,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDI3MjdiZDU4MzI3YTczNWM1NjM3OTMyNWI2MDM2ODdhNzc5ZjFi",
+  "snapshot_id": "MCwyMDE2NGI3M2Q2N2ViM2JkMmI5ZDZhNWVmY2I0ZmVkNTY0OGY5YjVh",
   "tracks": [
     {
       "added_at": "2023-10-25 08:47:16",
@@ -31,22 +31,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 309693,
-      "name": "What A Difference A Day Made",
-      "url": "https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "When I Look In Your Eyes",
         "url": "https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 258959,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/4IVyX0UJzGyUk0MLiz1jVJ"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 309693,
+      "name": "What A Difference A Day Made",
+      "url": "https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3ts3nBCGF7K9JvSjWVQfX8"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "Turn Up The Quiet",
         "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 278293,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3ts3nBCGF7K9JvSjWVQfX8"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "This Dream Of You",
-        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 319226,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "Haven't We Met?",
         "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 248416,
       "name": "You Make Me Feel so Young",
       "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "This Dream Of You",
+        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 319226,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Me and My Radio",
-        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
-      },
-      "artists": [
-        {
-          "name": "Anthony Strong",
-          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
-        }
-      ],
-      "duration_ms": 318980,
-      "name": "I Can't Give You Anything",
-      "url": "https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "On Holiday",
         "url": "https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 285866,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "Me and My Radio",
+        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
+      },
+      "artists": [
+        {
+          "name": "Anthony Strong",
+          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
+        }
+      ],
+      "duration_ms": 318980,
+      "name": "I Can't Give You Anything",
+      "url": "https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 229365,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "My Funny Valentine: The Chet Baker Songbook",
         "url": "https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 245666,
       "name": "Deep in a Dream",
       "url": "https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 229365,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Blame It On My Youth",
-        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 327000,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "Blame It On My Youth",
+        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Reflections of a Voice",
-        "url": "https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH"
-      },
-      "artists": [
-        {
-          "name": "Elisabeth Melander",
-          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
-        }
-      ],
-      "duration_ms": 265746,
-      "name": "Like Someone in Love",
-      "url": "https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 331141,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "Reflections of a Voice",
+        "url": "https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH"
+      },
+      "artists": [
+        {
+          "name": "Elisabeth Melander",
+          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "Like Someone in Love",
+      "url": "https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
+        "name": "I Fall in Love Too Easily",
+        "url": "https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ"
+      },
+      "artists": [
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
         "name": "This Life",
         "url": "https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 400560,
       "name": "Time Alone",
       "url": "https://open.spotify.com/track/1hYd1uyB9HQpf4icjtBQoB"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
-        "name": "I Fall in Love Too Easily",
-        "url": "https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ"
-      },
-      "artists": [
-        {
-          "name": "Katharine McPhee",
-          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S"
     },
     {
       "added_at": "2023-10-25 08:47:16",

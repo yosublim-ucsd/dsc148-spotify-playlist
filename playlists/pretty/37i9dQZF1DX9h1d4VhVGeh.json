@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 167881,
+  "num_followers": 168004,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzI0M2ZiNjI2NzM4YWU1NWNkODM1ZjJlZjUyMGQ5YzcyMWYzZGVk",
+  "snapshot_id": "MCw0N2IyNzk0ZWZiZjU3MjA5MTFkOWIwOWEwNzU1NWFlYmI4MGYzNWE3",
   "tracks": [
     {
       "added_at": "2023-10-28 14:18:30",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
+        "name": "Kol Yom Men Dah",
+        "url": "https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Mel Bedaya",
+      "url": "https://open.spotify.com/track/2j9B8YHcnxDwiDNZg6UXFl"
+    },
+    {
+      "added_at": "2023-10-28 14:18:30",
+      "album": {
         "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
         "url": "https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 291440,
       "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
       "url": "https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN"
-    },
-    {
-      "added_at": "2023-10-28 14:18:30",
-      "album": {
-        "name": "Kol Yom Men Dah",
-        "url": "https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Hamaki",
-          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Mel Bedaya",
-      "url": "https://open.spotify.com/track/2j9B8YHcnxDwiDNZg6UXFl"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
-        "name": "Waga'a El Hawa",
-        "url": "https://open.spotify.com/album/3wklcSidQvgDPzgAmiAckq"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Esseily",
-          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
-        }
-      ],
-      "duration_ms": 297570,
-      "name": "Waga'a El Hawa",
-      "url": "https://open.spotify.com/track/1YW1dJLhxxlDab19RkeIQz"
-    },
-    {
-      "added_at": "2023-10-28 14:18:30",
-      "album": {
         "name": "A Girl Within My Soul",
         "url": "https://open.spotify.com/album/299UA28OE1Nk7AnmUAv2ED"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 195906,
       "name": "Fi 7eta Tanya",
       "url": "https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f"
+    },
+    {
+      "added_at": "2023-10-28 14:18:30",
+      "album": {
+        "name": "Waga'a El Hawa",
+        "url": "https://open.spotify.com/album/3wklcSidQvgDPzgAmiAckq"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "duration_ms": 297570,
+      "name": "Waga'a El Hawa",
+      "url": "https://open.spotify.com/track/1YW1dJLhxxlDab19RkeIQz"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
-        "name": "Bahwak",
-        "url": "https://open.spotify.com/album/4qz2Q8NdUlkKckkRmFDhtl"
-      },
-      "artists": [
-        {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
-        }
-      ],
-      "duration_ms": 198123,
-      "name": "Bahwak",
-      "url": "https://open.spotify.com/track/7D8m6yXM2yIITCjMrlEPOu"
-    },
-    {
-      "added_at": "2023-10-28 14:18:30",
-      "album": {
         "name": "Mash-Up",
         "url": "https://open.spotify.com/album/3e9qgdZAlMn7D1bQWPRyoi"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 250723,
       "name": "Kefak Anta & Hello (feat. Fairouz)",
       "url": "https://open.spotify.com/track/0Gv0LK9wf1E4YNaO7R8fNw"
+    },
+    {
+      "added_at": "2023-10-28 14:18:30",
+      "album": {
+        "name": "Bahwak",
+        "url": "https://open.spotify.com/album/4qz2Q8NdUlkKckkRmFDhtl"
+      },
+      "artists": [
+        {
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+        }
+      ],
+      "duration_ms": 198123,
+      "name": "Bahwak",
+      "url": "https://open.spotify.com/track/7D8m6yXM2yIITCjMrlEPOu"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
-        "name": "HANNET LEKLOUB",
-        "url": "https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql"
-      },
-      "artists": [
-        {
-          "name": "\u0178uma",
-          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
-        }
-      ],
-      "duration_ms": 235026,
-      "name": "Sucre",
-      "url": "https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq"
-    },
-    {
-      "added_at": "2023-10-28 14:18:30",
-      "album": {
         "name": "Law Fina",
         "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 371890,
       "name": "Law Fina",
       "url": "https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s"
+    },
+    {
+      "added_at": "2023-10-28 14:18:30",
+      "album": {
+        "name": "HANNET LEKLOUB",
+        "url": "https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql"
+      },
+      "artists": [
+        {
+          "name": "\u0178uma",
+          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
+        }
+      ],
+      "duration_ms": 235026,
+      "name": "Sucre",
+      "url": "https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
-        "name": "Hikayi",
-        "url": "https://open.spotify.com/album/2DPOCdXwCUpJSSrJZDfkFD"
-      },
-      "artists": [
-        {
-          "name": "Abeer Nehme",
-          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
-        }
-      ],
-      "duration_ms": 190712,
-      "name": "Kil Ma T'illi",
-      "url": "https://open.spotify.com/track/08wMCxGLgcE3VXwSSgMzJK"
-    },
-    {
-      "added_at": "2023-10-28 14:18:30",
-      "album": {
         "name": "R.I.M.I.X",
         "url": "https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 206226,
       "name": "The Sun of Love - Remix",
       "url": "https://open.spotify.com/track/0ssucGvDVIMzkZsdeEkLks"
+    },
+    {
+      "added_at": "2023-10-28 14:18:30",
+      "album": {
+        "name": "Hikayi",
+        "url": "https://open.spotify.com/album/2DPOCdXwCUpJSSrJZDfkFD"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        }
+      ],
+      "duration_ms": 190712,
+      "name": "Kil Ma T'illi",
+      "url": "https://open.spotify.com/track/08wMCxGLgcE3VXwSSgMzJK"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
-        "name": "Another Day",
-        "url": "https://open.spotify.com/album/785ArxpCDxcCaV7a8jFhUM"
-      },
-      "artists": [
-        {
-          "name": "Harget Kart",
-          "url": "https://open.spotify.com/artist/5zfHhvhZk4urnU1SHWkxBm"
-        }
-      ],
-      "duration_ms": 232489,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/2OKIfa8QDPUb5fZOfXdU9p"
-    },
-    {
-      "added_at": "2023-10-28 14:18:30",
-      "album": {
         "name": "Eza",
         "url": "https://open.spotify.com/album/6ZyBVcuJy1NFAEQJWIA5Iq"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/785ArxpCDxcCaV7a8jFhUM"
+      },
+      "artists": [
+        {
+          "name": "Harget Kart",
+          "url": "https://open.spotify.com/artist/5zfHhvhZk4urnU1SHWkxBm"
+        }
+      ],
+      "duration_ms": 232489,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/2OKIfa8QDPUb5fZOfXdU9p"
+    },
+    {
+      "added_at": "2023-10-28 14:18:30",
+      "album": {
         "name": "Rouh Ya Amar",
         "url": "https://open.spotify.com/album/6Se4NtTSbdIK9tQToOcQB6"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 242947,
       "name": "Rouh Ya Amar",
       "url": "https://open.spotify.com/track/2lIKMzHpP3KzZpxK6QwM5O"
-    },
-    {
-      "added_at": "2023-10-28 14:18:30",
-      "album": {
-        "name": "Bahebek Lelsama",
-        "url": "https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Bahebek Lelsama",
-      "url": "https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -1239,6 +1223,22 @@
       "duration_ms": 305319,
       "name": "Aatini Al Naya Wa Ghanni",
       "url": "https://open.spotify.com/track/4Lyx3S3OkUrJrJJAGrsh0Q"
+    },
+    {
+      "added_at": "2023-10-28 14:18:30",
+      "album": {
+        "name": "Bahebek Lelsama",
+        "url": "https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Bahebek Lelsama",
+      "url": "https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
+        "name": "Ya Bay - Live",
+        "url": "https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Ya Bay - Live",
+      "url": "https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl"
+    },
+    {
+      "added_at": "2023-10-28 14:18:30",
+      "album": {
         "name": "Leila",
         "url": "https://open.spotify.com/album/2iw5NCNPUG8Wv0kg2ujCcc"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 208626,
       "name": "Mum, Sing to the Wind",
       "url": "https://open.spotify.com/track/6DdxuWERjRsWofoIuZJiwA"
-    },
-    {
-      "added_at": "2023-10-28 14:18:30",
-      "album": {
-        "name": "Ya Bay - Live",
-        "url": "https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "Ya Bay - Live",
-      "url": "https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
-        "name": "Badi Nsafer",
-        "url": "https://open.spotify.com/album/3rWkdN3EccK10416tX7RgX"
-      },
-      "artists": [
-        {
-          "name": "JOHANNA MORKOS",
-          "url": "https://open.spotify.com/artist/3FH2g6XjDpSbPJaiNmto22"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Badi Nsafer",
-      "url": "https://open.spotify.com/track/2YQIEg63oy29RPK9JxjK1w"
-    },
-    {
-      "added_at": "2023-10-28 14:18:30",
-      "album": {
         "name": "Dessine-moi Un Pays",
         "url": "https://open.spotify.com/album/2Kj4Cn5WHRQVNFhFhsv8y9"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 208845,
       "name": "Dessine-moi Un Pays",
       "url": "https://open.spotify.com/track/1oHLJ7mrk2nDoEn7UXyBSw"
+    },
+    {
+      "added_at": "2023-10-28 14:18:30",
+      "album": {
+        "name": "Badi Nsafer",
+        "url": "https://open.spotify.com/album/3rWkdN3EccK10416tX7RgX"
+      },
+      "artists": [
+        {
+          "name": "JOHANNA MORKOS",
+          "url": "https://open.spotify.com/artist/3FH2g6XjDpSbPJaiNmto22"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Badi Nsafer",
+      "url": "https://open.spotify.com/track/2YQIEg63oy29RPK9JxjK1w"
     },
     {
       "added_at": "2023-10-28 14:18:30",

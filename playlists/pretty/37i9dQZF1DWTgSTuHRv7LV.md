@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Descansa en paz Lefty SM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,634 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,762 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 88 | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/track/0TiZ8GSp9bYyZRTA5h6biu) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO) | 5:28 |
 | 89 | [Stripper X](https://open.spotify.com/track/5UlAeEQEgkT8oVauCfbunJ) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Stripper X](https://open.spotify.com/album/5O3Z3LXXRc6QmdDerBMgaM) | 2:40 |
 | 90 | [Woo](https://open.spotify.com/track/56ieMJZ6jvwiQgEJQSWGz9) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Trap Bandicoot](https://open.spotify.com/album/4C0rxFMtSmialjEWZ5bLVq) | 2:39 |
-| 91 | [Ferragamo](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Ferragamo](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 |
-| 92 | [Seguimos Controlando](https://open.spotify.com/track/3E1WD6DTUTgIn5Tfpgg6Zz) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 2:55 |
+| 91 | [Seguimos Controlando](https://open.spotify.com/track/3E1WD6DTUTgIn5Tfpgg6Zz) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 2:55 |
+| 92 | [Ferragamo](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Ferragamo](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 |
 | 93 | [Trap Life](https://open.spotify.com/track/6y02ncrAPQazhXNJ3R8MMf) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Trap Life](https://open.spotify.com/album/1xCzLw3aPw7ouqduAdrXjh) | 3:09 |
 | 94 | [Holy Shit \- Remix](https://open.spotify.com/track/1OzhsvZSKTMUZRjo4al9cA) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holy Shit \(Remix\)](https://open.spotify.com/album/0IzxukhRLKI3fU3HIaSIC1) | 3:27 |
 | 95 | [obstáculo](https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [obstáculo](https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori) | 2:15 |
 | 96 | [Hot Sauce \(feat\. Ovi\)](https://open.spotify.com/track/53AR3UfALKm0L8FRsz2FCf) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Hot Sauce \(feat\. Ovi\)](https://open.spotify.com/album/5pNdT65jzSdRC9OBVNyCbC) | 4:37 |
 | 97 | [Cali Kush](https://open.spotify.com/track/1LnbPH4077VghifKw1SFeL) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [CALI KUSH](https://open.spotify.com/album/4vruQWe3VzHYxARZHs2mmQ) | 2:23 |
 | 98 | [Santo Grial](https://open.spotify.com/track/71CmmeQnoVpTAlMtxEevaf) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT) | [El Hombre Hace Planes, Dios Se Ríe](https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP) | 5:51 |
-| 99 | [La Calle Nos Llama](https://open.spotify.com/track/1oXxeaz8p5VJmcWGMo5Lqh) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Blackinny](https://open.spotify.com/artist/2T0HIl9gOfBS7Z2GgNu7c3), [Nekxum](https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c) | [La Calle Nos Llama](https://open.spotify.com/album/2ApRhN7P014RztepdR6qwN) | 3:47 |
-| 100 | [100 TRACKS](https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:44 |
+| 99 | [100 TRACKS](https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:44 |
+| 100 | [La Calle Nos Llama](https://open.spotify.com/track/1oXxeaz8p5VJmcWGMo5Lqh) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Blackinny](https://open.spotify.com/artist/2T0HIl9gOfBS7Z2GgNu7c3), [Nekxum](https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c) | [La Calle Nos Llama](https://open.spotify.com/album/2ApRhN7P014RztepdR6qwN) | 3:47 |
 
-Snapshot ID: `MCw5MGU4ZDYyZTA2Mzg4NjM1N2ZjZWNmMjNhOTJkMTFmMjdhNjQxNmFh`
+Snapshot ID: `MCw1YTNlMGQ3ZDg2MzBiM2YzN2Y4NzRlM2FhNWQxNDRmMTZkNDRlOGYw`

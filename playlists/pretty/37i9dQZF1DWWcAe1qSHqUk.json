@@ -1,12 +1,12 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 58167,
+  "num_followers": 58195,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODYzMzY0NjA5NzlhNTBiZmU1MTU0MTQ3MmMzZjc3NzQ3Yzk4YWY5",
+  "snapshot_id": "MCwwMzFiOGJkZTExMzZhODBjOTRjNTU1NGJkMTVhNjMzMGE2NDIzYjUz",
   "tracks": [
     {
       "added_at": "2023-10-30 03:42:50",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-10-30 03:42:50",
       "album": {
-        "name": "Heavenly",
-        "url": "https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ"
-    },
-    {
-      "added_at": "2023-10-30 03:42:50",
-      "album": {
         "name": "Turn Up The Quiet",
         "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 278293,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
+    },
+    {
+      "added_at": "2023-10-30 03:42:50",
+      "album": {
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ"
     },
     {
       "added_at": "2023-10-30 03:42:50",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-10-30 03:42:50",
       "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 268760,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
-    },
-    {
-      "added_at": "2023-10-30 03:42:50",
-      "album": {
         "name": "Nara Dez Anos Depois",
         "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 152933,
       "name": "Este Seu Olhar",
       "url": "https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt"
+    },
+    {
+      "added_at": "2023-10-30 03:42:50",
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 268760,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
     },
     {
       "added_at": "2023-10-30 03:42:50",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-10-30 03:42:50",
       "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 316453,
+      "name": "Make It Last",
+      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
+    },
+    {
+      "added_at": "2023-10-30 03:42:50",
+      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 121385,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX"
-    },
-    {
-      "added_at": "2023-10-30 03:42:50",
-      "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 316453,
-      "name": "Make It Last",
-      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
     },
     {
       "added_at": "2023-10-30 03:42:50",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-10-30 03:42:50",
       "album": {
-        "name": "Jazz and Essentials",
-        "url": "https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY"
-      },
-      "artists": [
-        {
-          "name": "48th St. Collective",
-          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "Rat In My Kitchen",
-      "url": "https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn"
-    },
-    {
-      "added_at": "2023-10-30 03:42:50",
-      "album": {
         "name": "RawayanaLand",
         "url": "https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2023-10-30 03:42:50",
       "album": {
-        "name": "Vira Talisa",
-        "url": "https://open.spotify.com/album/1QlGWCclW1wtmodp1pD9OO"
+        "name": "Jazz and Essentials",
+        "url": "https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY"
       },
       "artists": [
         {
-          "name": "Vira Talisa",
-          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
+          "name": "48th St. Collective",
+          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
         }
       ],
-      "duration_ms": 158351,
-      "name": "If I See You Tomorrow",
-      "url": "https://open.spotify.com/track/2B5mptUTfxrq1JTEUd4kTH"
+      "duration_ms": 197626,
+      "name": "Rat In My Kitchen",
+      "url": "https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn"
     },
     {
       "added_at": "2023-10-30 03:42:50",
@@ -995,18 +979,18 @@
     {
       "added_at": "2023-10-30 03:42:50",
       "album": {
-        "name": "Can\u00e7\u00f5es de Caymmi",
-        "url": "https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX"
+        "name": "Vira Talisa",
+        "url": "https://open.spotify.com/album/1QlGWCclW1wtmodp1pD9OO"
       },
       "artists": [
         {
-          "name": "Jussara Silveira",
-          "url": "https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T"
+          "name": "Vira Talisa",
+          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
         }
       ],
-      "duration_ms": 242866,
-      "name": "L\u00e1 Vem a Baiana",
-      "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
+      "duration_ms": 158351,
+      "name": "If I See You Tomorrow",
+      "url": "https://open.spotify.com/track/2B5mptUTfxrq1JTEUd4kTH"
     },
     {
       "added_at": "2023-10-30 03:42:50",
@@ -1023,6 +1007,22 @@
       "duration_ms": 208767,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu"
+    },
+    {
+      "added_at": "2023-10-30 03:42:50",
+      "album": {
+        "name": "Can\u00e7\u00f5es de Caymmi",
+        "url": "https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX"
+      },
+      "artists": [
+        {
+          "name": "Jussara Silveira",
+          "url": "https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T"
+        }
+      ],
+      "duration_ms": 242866,
+      "name": "L\u00e1 Vem a Baiana",
+      "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
     },
     {
       "added_at": "2023-10-30 03:42:50",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-10-30 03:42:50",
       "album": {
-        "name": "Voices Of Love",
-        "url": "https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9"
-      },
-      "artists": [
-        {
-          "name": "Ann Sally",
-          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
-        }
-      ],
-      "duration_ms": 258346,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp"
-    },
-    {
-      "added_at": "2023-10-30 03:42:50",
-      "album": {
         "name": "Homefree",
         "url": "https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD"
       },
@@ -1235,18 +1219,34 @@
     {
       "added_at": "2023-10-30 03:42:50",
       "album": {
-        "name": "Relaxing Bossa Lounge",
-        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
+        "name": "Voices Of Love",
+        "url": "https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9"
       },
       "artists": [
         {
-          "name": "Monique Kessous",
-          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
+          "name": "Ann Sally",
+          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
         }
       ],
-      "duration_ms": 158931,
-      "name": "A Hard Day\u00b4s Night (Bossa Version)",
-      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
+      "duration_ms": 258346,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp"
+    },
+    {
+      "added_at": "2023-10-30 03:42:50",
+      "album": {
+        "name": "First Conversation",
+        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
+      },
+      "artists": [
+        {
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+        }
+      ],
+      "duration_ms": 271773,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
     }
   ],
   "unique_name": "\u7235\u58eb\u60c5\u6b4c",

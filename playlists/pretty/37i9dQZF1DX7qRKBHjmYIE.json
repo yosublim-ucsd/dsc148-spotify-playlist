@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Girl Ultra.",
-  "num_followers": 761880,
+  "num_followers": 761885,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWVhNzI1OTQ4OWM1MzZkZjljMTliMzQ5MDBiNTc3ZGMxZjgzOTlm",
+  "snapshot_id": "MCxhN2M1MGEzMTYwYWUxYWIxNjdkMzcwNzgzNDY2YjVmZWMwNGRkMDcx",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Respuesta Sensorial",
+        "url": "https://open.spotify.com/album/4pT7vS03zzAfG9gNQ4chNR"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "Respuesta Sensorial",
+      "url": "https://open.spotify.com/track/2A7JX4Cu4UtwCMazGBS2YN"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Te Hice Mal (Remix)",
         "url": "https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 269000,
       "name": "Te Hice Mal (Remix)",
       "url": "https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Respuesta Sensorial",
-        "url": "https://open.spotify.com/album/4pT7vS03zzAfG9gNQ4chNR"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "Respuesta Sensorial",
-      "url": "https://open.spotify.com/track/2A7JX4Cu4UtwCMazGBS2YN"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 158643,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Venus & Blue",
         "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
       },
@@ -555,22 +539,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/0lIZplY0HUvE3jbBu8ZOQj"
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD"
       },
       "artists": [
         {
-          "name": "Liana Malva",
-          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
         }
       ],
-      "duration_ms": 160824,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/008S9w7s1NF1O3GmtUR6PX"
+      "duration_ms": 158643,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -595,6 +575,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/0lIZplY0HUvE3jbBu8ZOQj"
+      },
+      "artists": [
+        {
+          "name": "Liana Malva",
+          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 160824,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/008S9w7s1NF1O3GmtUR6PX"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Gringuita",
         "url": "https://open.spotify.com/album/3yoLKFEw3Ukn9l9np8JCrV"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 160522,
       "name": "Gringuita",
       "url": "https://open.spotify.com/track/70tGXVBJJggvYRgnDabwlb"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "estrella / nadie",
-        "url": "https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 166303,
-      "name": "estrella",
-      "url": "https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -647,6 +631,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "estrella / nadie",
+        "url": "https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 166303,
+      "name": "estrella",
+      "url": "https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Queen Of Colombia",
         "url": "https://open.spotify.com/album/2oBTmcMFzlhTHcw7TqB3cK"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 175215,
       "name": "Queen Of Colombia",
       "url": "https://open.spotify.com/track/6nhyIjR1CkE1nmZqfvEpl3"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Mam\u00e1 Flor",
+        "url": "https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Rayo de Sol",
+      "url": "https://open.spotify.com/track/4drV7E6Js7fUFi9DPytzFP"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -687,22 +703,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Labios",
-        "url": "https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 164508,
-      "name": "Labios",
-      "url": "https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Silvia",
         "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 202359,
       "name": "Barbed Wire",
       "url": "https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Labios",
+        "url": "https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 164508,
+      "name": "Labios",
+      "url": "https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -739,18 +755,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Mam\u00e1 Flor",
-        "url": "https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz"
+        "name": "D15BLO",
+        "url": "https://open.spotify.com/album/7feac3wBnvITrv4dKTjLWZ"
       },
       "artists": [
         {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Rayo de Sol",
-      "url": "https://open.spotify.com/track/4drV7E6Js7fUFi9DPytzFP"
+      "duration_ms": 169046,
+      "name": "D15BLO",
+      "url": "https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -767,6 +783,22 @@
       "duration_ms": 72133,
       "name": "Garden - SIDE A",
       "url": "https://open.spotify.com/track/4pGnWlr2Lk5MDPI6zgG972"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Siempre Tendr\u00e9 Mi Voz",
+        "url": "https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 165300,
+      "name": "Siempre Tendr\u00e9 Mi Voz",
+      "url": "https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -835,22 +867,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "D15BLO",
-        "url": "https://open.spotify.com/album/7feac3wBnvITrv4dKTjLWZ"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 169046,
-      "name": "D15BLO",
-      "url": "https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "BELAMOR",
         "url": "https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 214386,
       "name": "WHAT CAN YOU DO?",
       "url": "https://open.spotify.com/track/62mgVVwYsxpxC5VpYfsy50"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Siempre Tendr\u00e9 Mi Voz",
-        "url": "https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 165300,
-      "name": "Siempre Tendr\u00e9 Mi Voz",
-      "url": "https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu"
     }
   ],
   "unique_name": "Mixto",

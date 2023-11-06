@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,396 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,430 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 25 | [Last Night](https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:54 |
 | 26 | [The Little Red Rooster](https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 3:36 |
 | 27 | [Work With Me Annie](https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Shake My Hand](https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm) | 4:18 |
-| 28 | [Kold Actions](https://open.spotify.com/track/0VQqkF65MjElD99dsky0hi) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Hot Wire 81 \(feat\. Richard Kirch, Sylvester Boines, Jimmy Schutte\) \[Blues Power\]](https://open.spotify.com/album/3yuhq2f5yW9DiYCweCFNGS) | 7:17 |
-| 29 | [Rock Me Baby](https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC) | [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL) | [The Sonet Blues Story](https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY) | 3:58 |
+| 28 | [Rock Me Baby](https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC) | [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL) | [The Sonet Blues Story](https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY) | 3:58 |
+| 29 | [Kold Actions](https://open.spotify.com/track/0VQqkF65MjElD99dsky0hi) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Hot Wire 81 \(feat\. Richard Kirch, Sylvester Boines, Jimmy Schutte\) \[Blues Power\]](https://open.spotify.com/album/3yuhq2f5yW9DiYCweCFNGS) | 7:17 |
 | 30 | [Worry, Worry](https://open.spotify.com/track/5wBx2WLtOOeWl56AVWABM3) | [Johnny "Big Moose" Walker](https://open.spotify.com/artist/0a4xVWpLoNjWN8NbMqE6tU) | [Living Chicago Blues, Vol\. 2](https://open.spotify.com/album/43C63zjLcEuvFP1XTaT87R) | 4:16 |
 | 31 | [Everything's Gonna Be All Right](https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Heartaches And Pain](https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC) | 4:39 |
 | 32 | [Call My Wife](https://open.spotify.com/track/4t9IqVoxJN5F9aWj1YYlQ1) | [Linsey Alexander](https://open.spotify.com/artist/3Em6TiK664KLJAnWovmvan) | [Come Back Baby](https://open.spotify.com/album/1j7FMsDxZQUKhanMXgRsdb) | 4:47 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 44 | [Bad Avenue](https://open.spotify.com/track/6QVQ98K8JrqHfImepOeQ6L) | [Lefty Dizz](https://open.spotify.com/artist/7IfuL3VRS5L6fnVTY3UV7R) | [Ain't It Nice To Be Loved](https://open.spotify.com/album/4xw7nz7O6NK6NK04wkCRUN) | 8:35 |
 | 45 | [Slow Down Baby](https://open.spotify.com/track/3hEqk9Uh4SBj0TZLcwxixB) | [Lester Davenport](https://open.spotify.com/artist/5HAs3PXvcSdFY57ey4glmF) | [When The Blues Hit You](https://open.spotify.com/album/6rxjk3V22DyOH6nTNcd331) | 5:58 |
 | 46 | [First Time I Met The Blues \- Single Version](https://open.spotify.com/track/2jgmBkJC0PhRWzn7X26WNZ) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [20th Century Masters: The Millennium Collection: Best of Buddy Guy](https://open.spotify.com/album/3iXDIrZsFitJCltwmfkrks) | 2:20 |
-| 47 | [Farther Up The Road](https://open.spotify.com/track/0NqQU0BPlVb8HMNmcHnQPD) | [Andrew Odom](https://open.spotify.com/artist/3edYUdDu4mSxpqjfBhAtV8) | [Earl Hooker: Simply The Best](https://open.spotify.com/album/0TGgq70vAHg6mvS51TjYKH) | 4:58 |
-| 48 | [Cut That Out](https://open.spotify.com/track/7ettn7nIUjM7Koqh7WwOaF) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Blues Legend](https://open.spotify.com/album/7KXkrjLNQwj33DTXrVVCtJ) | 2:51 |
+| 47 | [Cut That Out](https://open.spotify.com/track/7ettn7nIUjM7Koqh7WwOaF) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Blues Legend](https://open.spotify.com/album/7KXkrjLNQwj33DTXrVVCtJ) | 2:51 |
+| 48 | [Farther Up The Road](https://open.spotify.com/track/0NqQU0BPlVb8HMNmcHnQPD) | [Andrew Odom](https://open.spotify.com/artist/3edYUdDu4mSxpqjfBhAtV8) | [Earl Hooker: Simply The Best](https://open.spotify.com/album/0TGgq70vAHg6mvS51TjYKH) | 4:58 |
 | 49 | [Big Town Playboy](https://open.spotify.com/track/6OjxAve4uIJjsxTBn90HlQ) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [Chess Blues](https://open.spotify.com/album/2r6RT78O1ZcUW6RQorUJFi) | 2:57 |
 | 50 | [Dark Road](https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O) | 3:37 |
 
-Snapshot ID: `MCw5ZTEyYzcwMzIxYmFjYWFmZmU5OGNlN2FiOWIxMTc2ZDJlNzg2YjFi`
+Snapshot ID: `MCw4OTdkNjA4MjgxZGFlMDNmZjJjM2RlMWY4Y2VkMjNmYjNhZTVjMmYy`

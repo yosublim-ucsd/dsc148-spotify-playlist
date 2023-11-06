@@ -4,7 +4,7 @@
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-667 songs - 2 day 6 hr 4 min
+668 songs - 2 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,7 +444,8 @@
 | [Pretty Like U](https://open.spotify.com/track/7FFOHQHKfKVkN9Ax4g4iUi) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Pretty Like U EP](https://open.spotify.com/album/3fQYQstqSGm7Wszo77BYIX) | 4:31 | 2021-11-25 | 2022-02-19 |
 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 | 2023-08-08 |  |
 | [Prop O Deed](https://open.spotify.com/track/5MEPGYeYVEzOdVo9TOLvdt) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Prop O Deed](https://open.spotify.com/album/7bCVo1QT9nLSwnxL5tp1CN) | 4:31 | 2022-05-03 | 2022-06-18 |
-| [Pull Up \- Tim Reaper Remix](https://open.spotify.com/track/6GE30aCTN2fAInCxcfLvf9) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:09 | 2022-01-07 |  |
+| [Pull Up \- Tim Reaper Remix](https://open.spotify.com/track/3Eqb7qt1a5nTnn96U4TiUf) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/6Q2HpsQaIOENWkvc2wo1L3) | 6:09 | 2023-09-26 |  |
+| [Pull Up \- Tim Reaper Remix](https://open.spotify.com/track/6GE30aCTN2fAInCxcfLvf9) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:09 | 2022-01-07 | 2023-11-06 |
 | [Pump It](https://open.spotify.com/track/4JF7SVpoXcaD4NUZtS5XwG) | [Mark Archer](https://open.spotify.com/artist/3bwbfpfkk1D1cHy7XZ97vF) | [Frndzne 04](https://open.spotify.com/album/7rKqj6g0Tk3htSeHTWFCmt) | 6:31 | 2022-09-23 | 2022-11-22 |
 | [Pure Luv](https://open.spotify.com/track/0lpiIQ7V9vjPqgmodkUHlw) | [DJ Phil](https://open.spotify.com/artist/4L2n1xvdqgPgQjYxLHUAbG) | [Road Trip EP](https://open.spotify.com/album/7sxTlrVVSlgk28TzzzOATJ) | 4:00 | 2023-03-24 | 2023-09-27 |
 | [Purple Hilt \- East London Aerial Mix](https://open.spotify.com/track/6sPuclPh1gyy4rjJkZO65d) | [95Bones](https://open.spotify.com/artist/7mhy2Q6vu4Sykrj19xvzZx), [Wager](https://open.spotify.com/artist/0I1YgLj1z8MOwKBBqOxuRm) | [Purple Hilt](https://open.spotify.com/album/2ZtFBrBeCPYCcEmgL40TIo) | 3:54 | 2023-09-26 | 2023-10-06 |

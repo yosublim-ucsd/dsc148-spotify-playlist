@@ -4,11 +4,12 @@
 
 > Nothing but unforgettable songs from the 80s.
 
-157 songs - 10 hr 44 min
+160 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [99 Red Balloons \- Club Mix](https://open.spotify.com/track/4R6oOgh523J4M1I0XYe14f) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Maxis & Mixes](https://open.spotify.com/album/7aqz20plzZwXVbeed9bkVz) | 4:41 | 2022-01-07 |  |
+| [99 Red Balloons \(Club Mix\)](https://open.spotify.com/track/0aEgfx6Ar5IZG6TrWeGH0Q) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Maxis & Mixes](https://open.spotify.com/album/6R3omTkj2UNwBnFrx5mk6F) | 4:41 | 2023-02-21 |  |
+| [99 Red Balloons \- Club Mix](https://open.spotify.com/track/4R6oOgh523J4M1I0XYe14f) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Maxis & Mixes](https://open.spotify.com/album/7aqz20plzZwXVbeed9bkVz) | 4:41 | 2022-01-07 | 2023-11-06 |
 | [A Little Respect](https://open.spotify.com/track/7rbFQ5yeoRDySDmbcDUoyh) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [80's: Mullets & Synths](https://open.spotify.com/album/7BR2ZSYHgSj3g7tk19nR6z) | 3:32 | 2022-01-07 | 2022-11-13 |
 | [A Little Respect](https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [The Innocents](https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd) | 3:33 | 2022-01-07 |  |
 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 | 2022-01-07 |  |
@@ -55,7 +56,8 @@
 | [Gold](https://open.spotify.com/track/4gSsjoVTWZvEMvystO94JW) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Good Feeling Pop](https://open.spotify.com/album/5cKjdFWjHaI0aiKYDU4IpX) | 3:51 | 2022-01-07 | 2022-11-13 |
 | [Gold \- 2003 Remaster](https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [True \(Special Edition\)](https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B) | 4:50 | 2022-01-07 |  |
 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 | 2022-01-07 |  |
-| [Got My Mind Set On You](https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc) | 3:54 | 2022-01-07 |  |
+| [Got My Mind Set On You](https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc) | 3:54 | 2022-01-07 | 2023-11-06 |
+| [Got My Mind Set on You](https://open.spotify.com/track/4wswaG5vmNINMZcVBsAyBP) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/7MD06W6wJm7J6jqkBszV22) | 3:54 | 2023-02-21 |  |
 | [Got My Mind Set On You \- Remastered 2004](https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq) | 3:54 | 2022-01-07 | 2023-02-19 |
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/4ximX972uTGJNyKDqqGItu) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | ['80s Pop Number 1's](https://open.spotify.com/album/5jiJM0tIbaoc33qGGkBAys) | 4:11 | 2022-01-07 | 2022-11-13 |
 | [Heaven Is A Place On Earth \- Promo 7" Edit](https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 3:53 | 2022-01-07 |  |
@@ -122,9 +124,10 @@
 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 | 2022-01-07 |  |
 | [Tainted Love](https://open.spotify.com/track/4pWFuzfOx84DYTGTucOtde) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [LOUD & PROUD: 80's Pride](https://open.spotify.com/album/6Gv6ZS4mNOnC9YI7JcAGLT) | 2:40 | 2022-01-07 | 2022-11-14 |
 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 | 2022-01-07 |  |
+| [Teardrops](https://open.spotify.com/track/7FMAe3x132zl7n1M0U0THP) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Teardrops \(Sped Up\)](https://open.spotify.com/album/2jFN1fc4a0TPbroKWiUjPK) | 3:48 | 2023-02-21 |  |
 | [Teardrops](https://open.spotify.com/track/22O5r3qSo7vWlQsCUZukCK) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Plant Tunes](https://open.spotify.com/album/5ZPO0HmzwxYlvr7feIZx1z) | 3:50 | 2022-01-07 | 2022-11-13 |
 | [Teardrops](https://open.spotify.com/track/2ssl3oeVptDKx5PY59Sbm2) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Best of 80s](https://open.spotify.com/album/0zkMNW1yQlHMIXQDOM6LT8) | 3:50 | 2022-01-07 | 2023-01-14 |
-| [Teardrops \- Single Version](https://open.spotify.com/track/6wSYpKrgUJSIrH033Y5WlB) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Happy Classics](https://open.spotify.com/album/2cnDTz7eNou1DKvA5bEY35) | 3:50 | 2022-01-07 |  |
+| [Teardrops \- Single Version](https://open.spotify.com/track/6wSYpKrgUJSIrH033Y5WlB) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Happy Classics](https://open.spotify.com/album/2cnDTz7eNou1DKvA5bEY35) | 3:50 | 2022-01-07 | 2023-11-06 |
 | [Tell It to My Heart](https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Platinum & Gold Collection](https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP) | 3:40 | 2022-01-07 |  |
 | [The Boys Of Summer](https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Building The Perfect Beast](https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i) | 4:48 | 2022-01-07 |  |
 | [The Lion Sleeps Tonight](https://open.spotify.com/track/1so85Or3C7J0sBnBOucVBA) | [Tight Fit](https://open.spotify.com/artist/6NaacjWVEwO2la6AnxH0ZK) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:12 | 2022-01-07 | 2023-02-22 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMTYzNDAsMDAwMDAwMDAyNjllMjg5NzgwNDNlMzM4MzE4YzU4NDViZjk2NzIzMQ==",
+  "snapshot_id": "MjgzMTYzNDAsMDAwMDAwMDBhNTZkMTljZmZkMDZlZWMwOTk4YjE1MmY1ZjRkY2NkZg==",
   "tracks": [
     {
       "added_at": "2023-11-03 03:00:00",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
+        "name": "Too Hot in Tokyo 1994 (Live)",
+        "url": "https://open.spotify.com/album/2X1oRqhUQ8a907oi3iY6mN"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "duration_ms": 250586,
+      "name": "Mother Mary - Live Tokyo 1994",
+      "url": "https://open.spotify.com/track/6OQCpxBDRLZx0FkIBnaia5"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
         "name": "Embers Fire",
         "url": "https://open.spotify.com/album/6mOZFO7g6QBtBr5R8fzZZD"
       },
@@ -123,22 +139,6 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
-        "name": "Live 1978 - 1992",
-        "url": "https://open.spotify.com/album/14EWYgtvXZSz0pzvpUCsbL"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 409000,
-      "name": "I Think I Love You Too Much - Live Version / Mixed And Remastered 2023",
-      "url": "https://open.spotify.com/track/11SkgKmpzIviXkKuILQTc9"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
         "name": "And Still (Dark-Side Mix)",
         "url": "https://open.spotify.com/album/5XSIbEUilFYGEbs27pDcjV"
       },
@@ -155,18 +155,18 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
-        "name": "Too Hot in Tokyo 1994 (Live)",
-        "url": "https://open.spotify.com/album/2X1oRqhUQ8a907oi3iY6mN"
+        "name": "Live 1978 - 1992",
+        "url": "https://open.spotify.com/album/14EWYgtvXZSz0pzvpUCsbL"
       },
       "artists": [
         {
-          "name": "UFO",
-          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 269373,
-      "name": "Too Hot To Handle - Live Tokyo 1994",
-      "url": "https://open.spotify.com/track/0ZXx8SksZJyA0YGR6IFmvZ"
+      "duration_ms": 409000,
+      "name": "I Think I Love You Too Much - Live Version / Mixed And Remastered 2023",
+      "url": "https://open.spotify.com/track/11SkgKmpzIviXkKuILQTc9"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -183,26 +183,6 @@
       "duration_ms": 332030,
       "name": "Hologramas",
       "url": "https://open.spotify.com/track/7fz3vtDl7DGXa5HLQTGXR1"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Tchaikovsky: The Nutcracker - March & Waltz of the Flowers - slowed + reverb",
-        "url": "https://open.spotify.com/album/1GlPV5EVv3QDTIdOajoiED"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Classical Slowed + Reverb",
-          "url": "https://open.spotify.com/artist/5KXpXnDelYc8HLAAVbtIzk"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "Tchaikovsky: The Nutcracker - March - slowed + reverb",
-      "url": "https://open.spotify.com/track/1khcaMXCNlUovJIf2TMlP4"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -235,6 +215,26 @@
       "duration_ms": 230506,
       "name": "Stir It Up - Jamaican Extra Organ Version",
       "url": "https://open.spotify.com/track/3J9JUxKFWfck2gA1IDn4Bh"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
+        "name": "Children's Album, Op. 39, TH 141 - No. 21, Sweet Dreams",
+        "url": "https://open.spotify.com/album/2xPl9ZLcerc2gsaMdKT66r"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Samuel Bach",
+          "url": "https://open.spotify.com/artist/2XyNgb8Ze8izFqLFHgKe9b"
+        }
+      ],
+      "duration_ms": 138019,
+      "name": "Children's Album, Op. 39, TH 141 - No. 21, Sweet Dreams",
+      "url": "https://open.spotify.com/track/5CTuD5wnztFMArNVs0CxcV"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
+        "name": "Diamonds and Pearls (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2CnYN07kMv2DMP3cDjEjHK"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 332680,
+      "name": "Diamonds and Pearls (Long Version)",
+      "url": "https://open.spotify.com/track/1FgB9Iqyvi59tC0GNtQxGQ"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
         "name": "Geese Attack!!!",
         "url": "https://open.spotify.com/album/4uTvZveUEtehdRDMfz1rzG"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 283800,
       "name": "The Lesson (.44 Magnum) [feat. Aaron Pauley]",
       "url": "https://open.spotify.com/track/7cWcJnDpRdfVGgbg56Z0No"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Diamonds and Pearls (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2CnYN07kMv2DMP3cDjEjHK"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 332680,
-      "name": "Diamonds and Pearls (Long Version)",
-      "url": "https://open.spotify.com/track/1FgB9Iqyvi59tC0GNtQxGQ"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
-        "name": "First In Line",
-        "url": "https://open.spotify.com/album/6XN4rXWgar54VuGsPQLkHm"
-      },
-      "artists": [
-        {
-          "name": "Sonata Arctica",
-          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
-        }
-      ],
-      "duration_ms": 322045,
-      "name": "First In Line",
-      "url": "https://open.spotify.com/track/7vdv5e5atEgBlW9oGjtPIG"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
         "name": "GHOST",
         "url": "https://open.spotify.com/album/6eV4BZmfN0QvTmqBQlz73W"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 236626,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/3SwBQzQu86QW9KH9XDv7z0"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
+        "name": "First In Line",
+        "url": "https://open.spotify.com/album/6XN4rXWgar54VuGsPQLkHm"
+      },
+      "artists": [
+        {
+          "name": "Sonata Arctica",
+          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
+        }
+      ],
+      "duration_ms": 322045,
+      "name": "First In Line",
+      "url": "https://open.spotify.com/track/7vdv5e5atEgBlW9oGjtPIG"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 179091,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
         "name": "Iconic (feat. Jax)",
         "url": "https://open.spotify.com/album/4GgLfWDhquj9jKv7Fiwt8d"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 186258,
       "name": "Iconic (feat. Jax)",
       "url": "https://open.spotify.com/track/4r0AbYYtiklnWyNRgEHPM8"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 179091,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

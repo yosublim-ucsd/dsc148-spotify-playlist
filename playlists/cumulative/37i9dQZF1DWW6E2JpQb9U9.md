@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-294 songs - 21 hr 56 min
+295 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Desde Lejos No Se Ve \- En Vivo](https://open.spotify.com/track/74hHbrJCc81drMDOvrXm4H) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve \(En Vivo\)](https://open.spotify.com/album/2CwlD7JnikWHZOgZn67dSv) | 3:56 | 2022-04-01 |  |
 | [Desde Lejos No Se Ve \- En Vivo en River 2018](https://open.spotify.com/track/55O0ykD2QyWj5TZwG2VJuT) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Rz8GNFfkBkWauaPRK8QPw) | 4:10 | 2022-04-01 | 2022-07-23 |
 | [Donde Vamos](https://open.spotify.com/track/2s4FbgZH1PS2c6DawiE6up) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [La Mancha 360](https://open.spotify.com/album/4lmRIta1CJWESEv4EA9laV) | 4:42 | 2022-04-01 | 2022-07-28 |
-| [Dorado y Púrpura \- En Vivo](https://open.spotify.com/track/082OAP5nOvl0u5hJgs15rB) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [En Vivo En El Emergente 02.06.2023](https://open.spotify.com/album/75kVWmC0bVSKjv234nhQGl) | 10:17 | 2023-08-31 |  |
+| [Dorado y Púrpura \- En Vivo](https://open.spotify.com/track/082OAP5nOvl0u5hJgs15rB) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [En Vivo En El Emergente 02.06.2023](https://open.spotify.com/album/75kVWmC0bVSKjv234nhQGl) | 10:17 | 2023-08-31 | 2023-11-06 |
 | [Déjate Llevar \- En Vivo](https://open.spotify.com/track/6NmBulAzho0LziJ7uWND7q) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [Una Noche de Rock en Medallo \(En Vivo\)](https://open.spotify.com/album/3D9lOWSIxUG37alYDOACB3) | 3:46 | 2022-06-24 | 2022-07-29 |
 | [El 38](https://open.spotify.com/track/6JVu9CewlLd5Xox7iyYhdD) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [En Vivo en Pinamar](https://open.spotify.com/album/7m4NTbbdfKboFTWiDV98d9) | 4:39 | 2022-07-29 | 2023-10-07 |
 | [El 38 \(En Vivo\)](https://open.spotify.com/track/5Ubrtylv7CUI2GN5vcpXr3) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [En Vivo en Pinamar](https://open.spotify.com/album/4p4V2S2N82yv00fFW58aJr) | 4:39 | 2022-04-01 | 2022-07-29 |
@@ -288,6 +288,7 @@
 | [Un Millón de Amor \- En Vivo](https://open.spotify.com/track/0Ak3bTXnMbnaqMu0s6wLdq) | [Los Rancheros](https://open.spotify.com/artist/5zAgd4w0pUkadSSRAz9Z7Q) | [Un Millón de Amor \(En Vivo\)](https://open.spotify.com/album/2ViEo8xClSubdAP5a59mzb) | 3:55 | 2022-06-10 | 2022-07-06 |
 | [Un Osito de Peluche de Taiwan \- En Vivo en el Foro Sol](https://open.spotify.com/track/2NpLEVMOC12Tw789HdYRVS) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Foro Sol \- 17 Nov 2017 \(En Vivo\)](https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht) | 4:30 | 2022-04-01 | 2022-07-28 |
 | [Una Nueva Noche Fria \- Vivo \- Mezclado y Masterizado 2017](https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Concierto Obras 30 y 31 Julio, Parte Uno \(En Vivo\)](https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4) | 4:27 | 2022-04-01 |  |
+| [Una Vez Más \- En Vivo](https://open.spotify.com/track/34u37vgTwh2wl3ZH5u2nfs) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Una Vez Más \(En Vivo\)](https://open.spotify.com/album/20akHhz1vnjUSwHcHjVnB2) | 4:49 | 2023-10-26 |  |
 | [Una Vez Más \- En Vivo](https://open.spotify.com/track/3x7KnlNcfrvfNRYHb9mk0A) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Una Vez Más \(En Vivo\)](https://open.spotify.com/album/1U6EoDtF3m3oddpw0LHunn) | 4:49 | 2023-09-14 | 2023-10-22 |
 | [Vení Raquel \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/3yueohHxyvXlaPQ5tWAUsV) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:06 | 2022-04-01 | 2023-10-07 |
 | [Verano del 92](https://open.spotify.com/track/6GyvWDAdfg2gzi0BMS48UK) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro Y los Persas En el Estadio de River](https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW) | 4:21 | 2022-06-24 | 2023-10-07 |

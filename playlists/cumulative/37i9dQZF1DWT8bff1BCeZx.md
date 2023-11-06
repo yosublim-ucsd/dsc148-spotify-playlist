@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-106 songs - 9 hr 12 min
+107 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [African Praise Medley: Everybody Looko Looko / Ojasope / Baba Mimo Mowasope / Wamilele / Awesome Mighty God / Odiaga / Hallelujah / Jehovah Jireh](https://open.spotify.com/track/4RW6Po4zZi5TiHX6yXvnha) | [Dayo Bello](https://open.spotify.com/artist/2rsakqcHwgb4tSOP6UFaMA) | [Resurrection Praise Project \(Live\)](https://open.spotify.com/album/7zW9ri7brioqtdyJvgcbqT) | 16:08 | 2023-04-06 | 2023-05-27 |
 | [Afro Praise 1](https://open.spotify.com/track/7LzzKW44Q6I1wFN1JHei7c) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 4:39 | 2023-04-06 | 2023-06-26 |
 | [Afro Praise 3](https://open.spotify.com/track/319HK6tHJu3zAzUGS7nxAK) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 5:42 | 2023-04-06 | 2023-05-16 |
-| [Akuzike](https://open.spotify.com/track/6HvdB8sn4XF6VmpBxtxjmn) | [Mic Mash](https://open.spotify.com/artist/7hzFig3OAPKqQZQqwxpUEy), [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i), [Siggy Kim](https://open.spotify.com/artist/0StpXhIqIldjrDZvh6tted) | [Akuzike](https://open.spotify.com/album/5rApc4mQ4yHIJxSlkBPSuL) | 3:20 | 2023-09-29 |  |
+| [Akuzike](https://open.spotify.com/track/6HvdB8sn4XF6VmpBxtxjmn) | [Mic Mash](https://open.spotify.com/artist/7hzFig3OAPKqQZQqwxpUEy), [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i), [Siggy Kim](https://open.spotify.com/artist/0StpXhIqIldjrDZvh6tted) | [Akuzike](https://open.spotify.com/album/5rApc4mQ4yHIJxSlkBPSuL) | 3:20 | 2023-09-29 | 2023-11-06 |
 | [Already Blessed](https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Already Blessed](https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5) | 3:47 | 2023-05-26 |  |
 | [Amen](https://open.spotify.com/track/0xzJ4tttj4yidyKPgnXdYY) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Amen](https://open.spotify.com/album/5RTLtWTO9qyUzwn0Eps3cY) | 4:14 | 2023-04-06 | 2023-08-18 |
 | [Amen \(feat\. Ntokozo Mbambo\)](https://open.spotify.com/track/18iiY88WV4ma0OLvCMC6p5) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:21 | 2023-04-06 | 2023-08-24 |
@@ -59,6 +59,7 @@
 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 | 2023-08-04 |  |
 | [Joy Overflow \- Live](https://open.spotify.com/track/5FxeHgp09vEDEnd13YqBcP) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Praise Ovation \(Live Recording\)](https://open.spotify.com/album/7IOP1HGSwRMkIVcZjdcwgL) | 8:27 | 2023-04-06 | 2023-07-02 |
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2023-04-06 |  |
+| [Malaika](https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Malaika](https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV) | 3:23 | 2023-11-03 |  |
 | [Miracle](https://open.spotify.com/track/3RWGw0Q3JA9gYtBcor4UQy) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle](https://open.spotify.com/album/0j428IWZNxi3fAJTahWjil) | 4:12 | 2023-04-06 |  |
 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 | 2023-04-06 |  |
 | [Mo](https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Mo](https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK) | 3:32 | 2023-09-29 |  |

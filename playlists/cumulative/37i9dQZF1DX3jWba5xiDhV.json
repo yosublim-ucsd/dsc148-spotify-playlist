@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 210186,
       "name": "Il Veliero - Single Version",
       "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
@@ -2458,6 +2458,24 @@
       "duration_ms": 279213,
       "name": "Splendida giornata",
       "url": "https://open.spotify.com/track/01lvgdQKXkM8AHUXRhawMk"
+    },
+    {
+      "album": {
+        "name": "Brivido divino (Gli Indimenticabili)",
+        "url": "https://open.spotify.com/album/3bjLuBoH2Imh21OsGWM94s"
+      },
+      "artists": [
+        {
+          "name": "Donatella Rettore",
+          "url": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Splendido splendente",
+      "url": "https://open.spotify.com/track/4djSKkGTA9ZtI22q96L1Tn"
     },
     {
       "album": {

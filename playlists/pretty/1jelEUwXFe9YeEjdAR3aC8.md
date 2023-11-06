@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Chill indie music\. Cover: kenzie
 
-[Digster](https://open.spotify.com/user/digster.fm) - 111,333 likes - 50 songs - 2 hr 44 min
+[Digster](https://open.spotify.com/user/digster.fm) - 111,332 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

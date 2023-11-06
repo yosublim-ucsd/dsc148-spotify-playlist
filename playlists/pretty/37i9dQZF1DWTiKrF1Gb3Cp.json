@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 165246,
+  "num_followers": 165323,
   "original_name": "Gaming Malandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjRmZGM1ODM4YTFjMWYwZmNmMGEwZGUxZjVlNDNmMDZhNTcwNzNj",
+  "snapshot_id": "MCw3NTJkMDQ2MzIxZTdjOWRhMGMyYjlmMzRkMjk1MGY0ZTdlNzQxYjY1",
   "tracks": [
     {
       "added_at": "2023-11-03 06:00:00",
@@ -943,6 +943,26 @@
     {
       "added_at": "2023-11-03 06:00:00",
       "album": {
+        "name": "Andamos Francos",
+        "url": "https://open.spotify.com/album/4CsfRkIYoAO2PwjUOSMdr2"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 125402,
+      "name": "Andamos Francos",
+      "url": "https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV"
+    },
+    {
+      "added_at": "2023-11-03 06:00:00",
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 217954,
       "name": "Peso a Peso",
       "url": "https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh"
-    },
-    {
-      "added_at": "2023-11-03 06:00:00",
-      "album": {
-        "name": "Andamos Francos",
-        "url": "https://open.spotify.com/album/4CsfRkIYoAO2PwjUOSMdr2"
-      },
-      "artists": [
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 125402,
-      "name": "Andamos Francos",
-      "url": "https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV"
     },
     {
       "added_at": "2023-11-03 06:00:00",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2023-11-03 06:00:00",
       "album": {
-        "name": "Toretto (FAST X / Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        }
-      ],
-      "duration_ms": 150517,
-      "name": "Toretto",
-      "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"
-    },
-    {
-      "added_at": "2023-11-03 06:00:00",
-      "album": {
         "name": "A la puta orden",
         "url": "https://open.spotify.com/album/2LjM09NO3Y96chQjYDgGP6"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 156721,
       "name": "A la puta orden",
       "url": "https://open.spotify.com/track/7EcW65aV9P6IVNCH9OM4ad"
+    },
+    {
+      "added_at": "2023-11-03 06:00:00",
+      "album": {
+        "name": "Toretto (FAST X / Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "duration_ms": 150517,
+      "name": "Toretto",
+      "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"
     },
     {
       "added_at": "2023-11-03 06:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-11-03 06:00:00",
       "album": {
-        "name": "EL TAMBORRR",
-        "url": "https://open.spotify.com/album/4rP62gJhxZ4MgmJXFM6PPR"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 181138,
-      "name": "EL TAMBORRR",
-      "url": "https://open.spotify.com/track/3h54tgQexhhDd7NcNQDNXe"
-    },
-    {
-      "added_at": "2023-11-03 06:00:00",
-      "album": {
         "name": "High Con Class XIII",
         "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 252533,
       "name": "La Feria Drogas y Muerte",
       "url": "https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN"
+    },
+    {
+      "added_at": "2023-11-03 06:00:00",
+      "album": {
+        "name": "EL TAMBORRR",
+        "url": "https://open.spotify.com/album/4rP62gJhxZ4MgmJXFM6PPR"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 181138,
+      "name": "EL TAMBORRR",
+      "url": "https://open.spotify.com/track/3h54tgQexhhDd7NcNQDNXe"
     },
     {
       "added_at": "2023-11-03 06:00:00",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-11-03 06:00:00",
       "album": {
+        "name": "Cementerio De Raperos",
+        "url": "https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h"
+      },
+      "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        }
+      ],
+      "duration_ms": 238210,
+      "name": "Corren Con Suerte",
+      "url": "https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx"
+    },
+    {
+      "added_at": "2023-11-03 06:00:00",
+      "album": {
         "name": "Barrio (with Lefty Sm)",
         "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 243999,
       "name": "Pandillero Pero Millonario (feat. Santa Fe Klan)",
       "url": "https://open.spotify.com/track/3AiQx9X4ZJIsd4h7vE7zDx"
-    },
-    {
-      "added_at": "2023-11-03 06:00:00",
-      "album": {
-        "name": "Cementerio De Raperos",
-        "url": "https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h"
-      },
-      "artists": [
-        {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-        }
-      ],
-      "duration_ms": 238210,
-      "name": "Corren Con Suerte",
-      "url": "https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx"
     },
     {
       "added_at": "2023-11-03 06:00:00",

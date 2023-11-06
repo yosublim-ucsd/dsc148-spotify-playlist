@@ -4,7 +4,7 @@
 
 > Cumbias de antaño para bailar.
 
-269 songs - 16 hr 12 min
+270 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 | 2022-06-07 |  |
 | [Carta De Recuerdo](https://open.spotify.com/track/7gKRB1lnS911o6rfunYZsd) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:12 | 2022-06-07 |  |
 | [Chilito Piquín](https://open.spotify.com/track/1MFtR7fLRF2vUZPpNh3HC2) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [21 Años 21 Éxitos](https://open.spotify.com/album/62aVw5I44SKMuGqeaK9wgQ) | 2:59 | 2022-06-07 | 2022-07-29 |
-| [Chilito Piquín](https://open.spotify.com/track/3I91CJg3J9pA8POpm9pv9i) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [21 Años 21 Éxitos](https://open.spotify.com/album/29uOa1MdlrwUt3yA0vECcd) | 2:59 | 2022-07-19 |  |
+| [Chilito Piquín](https://open.spotify.com/track/3I91CJg3J9pA8POpm9pv9i) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [21 Años 21 Éxitos](https://open.spotify.com/album/29uOa1MdlrwUt3yA0vECcd) | 2:59 | 2022-07-19 | 2023-11-06 |
 | [Como Agua en las Manos](https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P) | [Junior Klan](https://open.spotify.com/artist/38nF3ZyCqorhu0SaQ7yMqI) | [Exitos, Vol\. 1](https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1) | 2:42 | 2022-06-07 |  |
 | [Como Decirte Adios](https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:27 | 2021-10-19 | 2022-07-29 |
 | [Como Decirte Adios](https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5) | 3:27 | 2022-07-19 |  |
@@ -203,6 +203,7 @@
 | [Piensa En Mí](https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [Sueño Y Realidad](https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U) | 2:57 | 2021-10-19 | 2022-06-08 |
 | [Ponchito de Colores](https://open.spotify.com/track/0YZRusKhcSmMxaM1lJoSnH) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [20 Éxitos Bailables](https://open.spotify.com/album/61Jt7JcYfQAbdGGbdvK2d0) | 2:42 | 2022-06-07 | 2022-07-18 |
 | [Por El Amor A Mi Madre](https://open.spotify.com/track/1yUJiZMgB0dDBET4al9Bmn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Alas Al Mundo](https://open.spotify.com/album/2ASUW6MN0oQpcKweDIID8D) | 4:23 | 2022-06-07 | 2022-07-29 |
+| [Por Unas Monedas](https://open.spotify.com/track/0FYTqOgOiMRRJsntgcGhSD) | [Los Abelardos](https://open.spotify.com/artist/6LUI7Oqs1SYHPOtrO2n1AX) | [Poquito a Poquito](https://open.spotify.com/album/3FFqpuXSWBsijefP5UMI5E) | 3:11 | 2022-12-07 |  |
 | [Por Unas Monedas](https://open.spotify.com/track/4GgzT38SwEMYmVqM3eZIul) | [Los Abelardos](https://open.spotify.com/artist/6LUI7Oqs1SYHPOtrO2n1AX) | [Aventurero](https://open.spotify.com/album/2CFnqhOLrV7kzqaUb1sBWJ) | 3:11 | 2022-06-07 | 2022-11-14 |
 | [Porque te Amo](https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor!!!](https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp) | 3:53 | 2022-07-19 | 2023-03-12 |
 | [Porque te amo](https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:53 | 2022-12-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:   <a href="spotify:artist:6PvScqSJuICxvoA3UDYPmu">JON VINYL</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,255 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,273 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [good things](https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [good things](https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5) | 2:54 |
 | 100 | [Mrs Lonely](https://open.spotify.com/track/2i4ytaPgdc78B7TP16Wzjc) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL) | [Mrs Lonely](https://open.spotify.com/album/3Qzw5DoS3nIbVK7fOqTPGo) | 3:18 |
 
-Snapshot ID: `MCxlZjQwNGI5NzQ1Mjg5YWNiZGYyMGY3ZGE3NzkxOGM5MmEwNDFkYzE5`
+Snapshot ID: `MCxkYzE2YjYxMTI5NDM5MjRiMTljYmI4MzU4MTg2Mjc1MWMyZmQzNTU2`

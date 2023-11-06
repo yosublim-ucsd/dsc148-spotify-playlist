@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5DYisaOw29.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Parallel Shifting](https://open.spotify.com/track/2ixO74rwcwtYBywwU0lFCH) | [DJ Holographic](https://open.spotify.com/artist/4PRhpvNBYt7YURb5VhEDox) | [Parallel Shifting](https://open.spotify.com/album/35YikyE0kgjEmbsUuhxtzn) | 8:42 |
+| 1 | [Parallel Shifting](https://open.spotify.com/track/4yteOdqkDjQSX3H0mHihUe) | [DJ Holographic](https://open.spotify.com/artist/4PRhpvNBYt7YURb5VhEDox) | [Parallel Shifting](https://open.spotify.com/album/6ROOPfQa5pzE43iwtEp4Jl) | 8:42 |
 | 2 | [Astro Funk](https://open.spotify.com/track/7wRzUAw0Npu4CalkDIFHJE) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Astro Funk](https://open.spotify.com/album/7CwvlQ2z7T2OG4BQ7rBXnF) | 3:15 |
 | 3 | [A Walk in the Park](https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [A Walk in the Park](https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI) | 5:25 |
 | 4 | [Aquatics](https://open.spotify.com/track/3SxnrhPfN3zl8m9YZFHS72) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Hot Steel](https://open.spotify.com/album/4KhJa26GVEAmlIKrYaQZjd) | 7:04 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5DYisaOw29.md) - [plain]
 | 35 | [Namesake](https://open.spotify.com/track/3eMPNkpiw3gtUBgALHHzfZ) | [Tunde Olaniran](https://open.spotify.com/artist/3qwKzITLJVVAo2Fn8TusjE) | [Transgressor](https://open.spotify.com/album/6FWBdyDi9p00D7LQQgUVeX) | 4:35 |
 | 36 | [Ay](https://open.spotify.com/track/39NNj1NpNbyWprxgszBDyu) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Because the Sky Is Blue](https://open.spotify.com/album/4O4Vws2zUcnrmNVKLENVnp) | 2:45 |
 
-Snapshot ID: `MCwyMjY3NWJjOTU1MDU3MDhiMWNkZjdhYTA4NGZjZTk2MTFiMzhiMDYz`
+Snapshot ID: `MCw0MjY2MTEzMzRiODIwNWFkYmY3ZTJmN2YwODU1ZWRiNDE5OTJhMzkz`

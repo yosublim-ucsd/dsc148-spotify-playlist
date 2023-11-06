@@ -4,7 +4,7 @@
 
 > ¡Lo más fresco del hip\-hop en español! Tino el Pingüino en portada.
 
-351 songs - 19 hr 32 min
+352 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Cara Tapada](https://open.spotify.com/track/6lvrzOxzyWd0SkVLv5zm8z) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Cara Tapada](https://open.spotify.com/album/6iq6PKzGDoFuHGatP4M0WR) | 2:41 | 2023-06-13 | 2023-07-01 |
 | [Caribbean Connectah](https://open.spotify.com/track/7twCigufBJOoA6tSzVLSzw) | [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Caribbean Connectah](https://open.spotify.com/album/28ZpAE4Os1XP0uuPkxCRDy) | 3:44 | 2023-06-30 | 2023-09-02 |
 | [Catrinas y Mariachis](https://open.spotify.com/track/0tPQwEVvg9AxJjWUw0IX1F) | [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX), [M1r1](https://open.spotify.com/artist/280vD642FYrtTFJyRuBFf4) | [Catrinas y Mariachis](https://open.spotify.com/album/3Yr077dT1N9IKOBETkV0Dx) | 3:30 | 2023-10-27 |  |
-| [Celos](https://open.spotify.com/track/0lqYJX9XoHCsJKKCZ4hk60) | [Luck](https://open.spotify.com/artist/7zwitdSes97HTlglggSPoj) | [Celos](https://open.spotify.com/album/2mK8A5KVsMA9Fh7fP0770B) | 2:29 | 2023-09-08 |  |
+| [Celos](https://open.spotify.com/track/0lqYJX9XoHCsJKKCZ4hk60) | [Luck](https://open.spotify.com/artist/7zwitdSes97HTlglggSPoj) | [Celos](https://open.spotify.com/album/2mK8A5KVsMA9Fh7fP0770B) | 2:29 | 2023-09-08 | 2023-11-06 |
 | [CERO$](https://open.spotify.com/track/3GyITe4SR6TOnvYHCAdZqy) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [CERO$ / LATI2](https://open.spotify.com/album/47LBnwJDhEr9orf488dmnX) | 2:34 | 2023-06-13 | 2023-07-22 |
 | [Chica Mala](https://open.spotify.com/track/36TUnQtKyIni3NXFOqqbQj) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [Chica Mala](https://open.spotify.com/album/16dPOCzYWJ8xlDXaaYXEjg) | 3:15 | 2023-07-21 | 2023-09-02 |
 | [CIEN SHOWS](https://open.spotify.com/track/4EeKsQCjByEuwlQ71U3p2W) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [CIEN SHOWS](https://open.spotify.com/album/2dIdv3mfCNzMC139bjldaX) | 4:25 | 2023-09-08 |  |
@@ -207,6 +207,7 @@
 | [Malvada](https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Malvada](https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I) | 5:21 | 2023-07-14 |  |
 | [MAMBO GANGSTA](https://open.spotify.com/track/3h7VpPv7Ka5QGUqklxsgDZ) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [MAMBO GANGSTA](https://open.spotify.com/album/7GLAuGxyaU9sfIDqy9AzVe) | 2:25 | 2023-06-13 | 2023-07-15 |
 | [MAMITA](https://open.spotify.com/track/12aPSqJT6ECU9Wq6rG8sQU) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [MAMITA](https://open.spotify.com/album/2aXtUydfywc4SNl3g0UlWF) | 3:03 | 2023-10-20 | 2023-11-05 |
+| [MAMITA](https://open.spotify.com/track/6ug0Fl5Hqq3vTzb161NZri) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [MAMITA](https://open.spotify.com/album/0cgEM3YLRPuYOd3MIMSoX9) | 3:03 | 2023-10-27 |  |
 | [Manejo Lento](https://open.spotify.com/track/5Z8wqXLi7OdbrzXgo1ofHv) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [El Hijo de Norma](https://open.spotify.com/album/5r6ouetFjAMFUOYZIEGAbf) | 3:42 | 2023-07-28 | 2023-09-22 |
 | [MARIO 64](https://open.spotify.com/track/7HHZ1PwYclcfdc8Nn3aJAn) | [Deser](https://open.spotify.com/artist/5QREXPJFppI5PzfpVb8Rny) | [MARIO 64](https://open.spotify.com/album/5yOitUBazCCrkMJ0k2oSsf) | 2:46 | 2023-06-13 | 2023-07-08 |
 | [Me Puedes Invocar](https://open.spotify.com/track/3kAiSWYkXgDwPh9ta9KMUQ) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Me Puedes Invocar](https://open.spotify.com/album/3L1wHnXxuY7QdUHVBNeSmY) | 1:49 | 2023-10-13 |  |

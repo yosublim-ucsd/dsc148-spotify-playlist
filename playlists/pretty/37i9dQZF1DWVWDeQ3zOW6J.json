@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 39688,
+  "num_followers": 39715,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDJmMjJjNGVmMTk5Y2UyYjY3OWMzZGY2OWIxZDI1ZjYxNDBlZWUx",
+  "snapshot_id": "MCxlOTA0NjZlMDk4NDExZWE0OTgyMzJhMjE3YmUyOTRmZDgzMWJmMzYx",
   "tracks": [
     {
       "added_at": "2023-02-13 22:55:50",
@@ -699,6 +699,38 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "Our Man In Havana",
+        "url": "https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Linda Guajira",
+      "url": "https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
         "name": "Velvet Salsa All Stars",
         "url": "https://open.spotify.com/album/0cFRprKvLnPrTJ7eWpG9ON"
       },
@@ -723,22 +755,6 @@
       "duration_ms": 254866,
       "name": "Sandra Mora",
       "url": "https://open.spotify.com/track/1Lyg0T9xKFXIyIj3jHpOm8"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
-        "name": "Our Man In Havana",
-        "url": "https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Linda Guajira",
-      "url": "https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -847,22 +863,6 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Apollo Sound 5",
-        "url": "https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
-        }
-      ],
-      "duration_ms": 287586,
-      "name": "Cui Cui",
-      "url": "https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
         "name": "Salsa De La Mata, Vol. 2",
         "url": "https://open.spotify.com/album/4szcF2VzqktkY6LMSVuMbk"
       },
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
+        "name": "Apollo Sound 5",
+        "url": "https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS"
       },
       "artists": [
         {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
         }
       ],
-      "duration_ms": 329200,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
+      "duration_ms": 287586,
+      "name": "Cui Cui",
+      "url": "https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -955,18 +955,22 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Old Love Dies Hard",
-        "url": "https://open.spotify.com/album/1BaQF09SUNox7eRZ3lyqVM"
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj"
       },
       "artists": [
         {
-          "name": "Boogaloo Assassins",
-          "url": "https://open.spotify.com/artist/2k5tpM7WrvCytpVWO8XTjU"
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 327360,
-      "name": "No No No",
-      "url": "https://open.spotify.com/track/4RvTF7xvnGju7qbNiCX600"
+      "duration_ms": 197888,
+      "name": "Tiene Sabor (feat. Omara Portuondo)",
+      "url": "https://open.spotify.com/track/4DFbRXlTdH9JdqCBeX6NOG"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -983,6 +987,22 @@
       "duration_ms": 442622,
       "name": "Marejada Feliz",
       "url": "https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "Old Love Dies Hard",
+        "url": "https://open.spotify.com/album/1BaQF09SUNox7eRZ3lyqVM"
+      },
+      "artists": [
+        {
+          "name": "Boogaloo Assassins",
+          "url": "https://open.spotify.com/artist/2k5tpM7WrvCytpVWO8XTjU"
+        }
+      ],
+      "duration_ms": 327360,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/4RvTF7xvnGju7qbNiCX600"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -1035,26 +1055,6 @@
       "duration_ms": 304320,
       "name": "Agua Que Va A Caer",
       "url": "https://open.spotify.com/track/417oy2mvDKzeiDFdTORBSJ"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        },
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 197888,
-      "name": "Tiene Sabor (feat. Omara Portuondo)",
-      "url": "https://open.spotify.com/track/4DFbRXlTdH9JdqCBeX6NOG"
     },
     {
       "added_at": "2023-02-13 22:55:50",

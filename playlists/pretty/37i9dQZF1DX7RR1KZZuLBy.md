@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,207 likes - 50 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,232 likes - 50 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 49 | [Kulungile Baba](https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba](https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb) | 4:44 |
 | 50 | [Elshadai Adonaih](https://open.spotify.com/track/4U2C51nMyJ5OvWIoX2RxuY) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Healing in His Presence](https://open.spotify.com/album/0rgq2R2s3q3OPodw81TLol) | 3:01 |
 
-Snapshot ID: `MCxiODdlM2RjODVkYTc2M2VhMDgxMjNmODI2NzY0YjEyYjg5YmNkMzBj`
+Snapshot ID: `MCwyM2Q0MmU4ODcwZTQ3MzJlNjU3Y2VjYjM0NWJlODEyNzdkYWM1OGVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > Una selezione speciale a cura di <a href="spotify:artist:6jLkAhKbd3toZ58ri9NQrV">Francesca Gaza</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,552 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,608 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 49 | [Giallo ocra](https://open.spotify.com/track/3Vz3c1nVz8r50ckbFERFFP) | [Leila Shirvani](https://open.spotify.com/artist/7MbS9ZaBk7Dk5LH8HD4wAT), [William Greco](https://open.spotify.com/artist/2G3FvyJF3BeYs7apD0OyxD), [Marco Bardoscia](https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E), [Emanuele Maniscalco](https://open.spotify.com/artist/5CHF5PlrmG7StHgJJQQybc) | [Magister Giotto](https://open.spotify.com/album/4iG5t6649SwF59z7oRbapg) | 2:26 |
 | 50 | [All Shall Be Well](https://open.spotify.com/track/5gd6aLX3Svnhs6I40tz0Up) | [Camilla Battaglia](https://open.spotify.com/artist/66m979A4TBptWl1DwqOH2w) | [Perpetual Possibility](https://open.spotify.com/album/1GjHCmpeyiDFkyiaZDeLk5) | 5:00 |
 
-Snapshot ID: `MCw5N2VhYTMzNDJjMzg1NTlkMDVkMWU0OGEyMjY1YmQ5NjA5ZWRiYjY0`
+Snapshot ID: `MCwzYjYyNzk3Zjg0NmJiNjkzMzdhMWU1MDFmZDY3YTRmZDAyMDY0MzA5`

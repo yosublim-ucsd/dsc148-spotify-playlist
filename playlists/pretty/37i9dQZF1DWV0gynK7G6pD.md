@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Alexandra Streliski
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,885 likes - 77 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,975 likes - 77 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 76 | [A Month in the Country, Op\. 446: I\. Larghetto](https://open.spotify.com/track/4DWAZDBevFDm2WPkZX7itn) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei), [English Northern Philharmonia](https://open.spotify.com/artist/5QclRFLQPeO116eRes2D7o), [Paul Daniel](https://open.spotify.com/artist/2xKKukBMJy7G4hJ3pNfhNs) | [Howard Blake: Orchestral Works](https://open.spotify.com/album/36lClLT8SmETUtR9xNwjfJ) | 3:04 |
 | 77 | [Piano Trio No\. 3 in C Minor, Op\. 1 No\. 3: III\. Minuet\. Quasi allegro](https://open.spotify.com/track/5CvxE3NAwKO7IItJa9c43a) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Weiss Kaplan Stumpf Trio](https://open.spotify.com/artist/7emekkva4z3S8t7AL3nTYY) | [Beethoven: Complete Piano Trios](https://open.spotify.com/album/19Apzp6L4YAIYmbFbkcUts) | 3:53 |
 
-Snapshot ID: `MCwxZTMwNTY4MjQxNzc1MzQ5Y2Y0MDM2MDgzODk4NWJmMWU5MzE0Zjc4`
+Snapshot ID: `MCwwMTk4Y2NlMTEzMTkwODhkZTIyOWQxZmUwY2RkMTlkN2VjZmNiNjU2`

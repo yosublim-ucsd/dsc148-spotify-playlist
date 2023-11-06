@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: badchieff
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,436 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,497 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Remedy](https://open.spotify.com/track/5rmYK9fuGCudePoqMlZeA3) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [Remedy](https://open.spotify.com/album/4TZcSHcLLMzzb5IbwAmfIi) | 2:48 |
 | 100 | [Paris Paris](https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Paris Paris](https://open.spotify.com/album/69rUtSl9ZypyPH225w0TfD) | 2:56 |
 
-Snapshot ID: `MCw5YmI5YmFmYjE4NmI4NzVmNDE0ZmEzYTBkNmY5OGUzZmE2YjRlYjdl`
+Snapshot ID: `MCw1NDcwYjZkMjhhM2E4NjU2N2IxZjlhZGQ4MGU0NDg2OGU2ZDVhYmY3`

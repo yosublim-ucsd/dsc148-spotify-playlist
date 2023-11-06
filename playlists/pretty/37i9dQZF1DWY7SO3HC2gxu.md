@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,336 likes - 80 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,439 likes - 80 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 1 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 2 | [Your Love \- Antdot Remix](https://open.spotify.com/track/4SylEKPh0HWqJep7CfISHk) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Your Love \(Antdot Remix\)](https://open.spotify.com/album/5IWlETbudB9LdBT2BHVhSw) | 2:57 |
 | 3 | [Kwema](https://open.spotify.com/track/7htUSfGusHyI0DurePM6lZ) | [Jabzz Dimitri](https://open.spotify.com/artist/4Eo18qlyb76spnDFlSc78c), [Korie Minors](https://open.spotify.com/artist/4JGMHb5qsvTSGJlijyWBLc), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kwema](https://open.spotify.com/album/62gTaYaI5pT5QbHbktRnc3) | 6:08 |
 | 4 | [Money](https://open.spotify.com/track/2ZPKXWhtR5xfONqBdSgBiO) | [Dj McKenzie](https://open.spotify.com/artist/7biowjIK645MQ9tsK3OW45) | [Money](https://open.spotify.com/album/4jvIzo5bnxPmkyhe1P3DQ0) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 79 | [Kingdom](https://open.spotify.com/track/1hga53NgwMC1yXWTbYaUjf) | [Vidza](https://open.spotify.com/artist/0AZXckUQ7wQXhFeueG0Vsu), [Olivia Ambani](https://open.spotify.com/artist/2x0SfE2JBElHrXnmMWVPqy) | [Kingdom](https://open.spotify.com/album/4KXXfTMrICIeagJ1RgYsMy) | 7:03 |
 | 80 | [Weche \- Radio Edit](https://open.spotify.com/track/1Auk0gMNtlgOlw6MiI5u6m) | [Punk Mbedzi](https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi), [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Weche \(Radio Edit\)](https://open.spotify.com/album/6L3HIE5eRD73FNzp4JMSdX) | 3:37 |
 
-Snapshot ID: `MCw2MTNkY2Y1ZjRlYjNhZGE5YWFhOGRmMTAzMTc1N2NiMWQ0OGFjYzhm`
+Snapshot ID: `MCwwN2Q2NjNiYWQyZGZjYTdhYzM4Y2NiZGExODc5NDRkZmEwY2UyMGU0`

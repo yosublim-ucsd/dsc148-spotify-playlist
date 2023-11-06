@@ -4,7 +4,7 @@
 
 > Nuevos lanzamientos electrónicos de Latinoamérica\. / Novos lançamentos eletrônicos da América Latina\. Foto: Mr\. Pig
 
-84 songs - 5 hr 12 min
+85 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Escapar](https://open.spotify.com/track/4GIEo8RYCUEcwqJetl3MFS) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Escapar](https://open.spotify.com/album/5k919k7GpxmqnZtuSOmPje) | 4:38 | 2022-10-14 |  |
 | [everything i wanted](https://open.spotify.com/track/7AcPWrp2mXYkoMl4I3W57e) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [SXTYSIX](https://open.spotify.com/artist/7BtgWJbGvd1WE3mMxT5z7i), [Matrino](https://open.spotify.com/artist/0jw0ZstZ0up9QaLPhOZsRi) | [everything i wanted](https://open.spotify.com/album/55VYu1LEqTq5Zh1ZWUVuHQ) | 3:46 | 2022-10-14 |  |
 | [Full Desparche \- Version Guaracha](https://open.spotify.com/track/3IKw2X3YZXL4Awz7lHQovt) | [Los Farandulay](https://open.spotify.com/artist/5RJRvrfhJHpeiTRbIg1wAx) | [Full Desparche \(Version Guaracha\)](https://open.spotify.com/album/3x3iS9w50ZEKJSxwpbZT8C) | 2:53 | 2022-10-14 |  |
-| [Get Your Body Movin'](https://open.spotify.com/track/4HtpR1xSJ0nHixdXMiWRv9) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Bob The Egoist](https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI) | [Timeless](https://open.spotify.com/album/1c26lmfgKYkHTqYHXodLSm) | 5:48 | 2022-10-14 |  |
+| [Get Your Body Movin'](https://open.spotify.com/track/56uVk8h2WDcT0H7vfOoEmm) | [Bob The Egoist](https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI), [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Timeless](https://open.spotify.com/album/7LHTdgLQ364pmTHxsr8fjt) | 5:48 | 2022-10-14 |  |
+| [Get Your Body Movin'](https://open.spotify.com/track/4HtpR1xSJ0nHixdXMiWRv9) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Bob The Egoist](https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI) | [Timeless](https://open.spotify.com/album/1c26lmfgKYkHTqYHXodLSm) | 5:48 | 2022-10-14 | 2023-11-06 |
 | [Go Bananas](https://open.spotify.com/track/7sMTAnbe0GyC8SquQFyJuA) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx) | [Go Bananas](https://open.spotify.com/album/07LK91iHSOUy7U6Y0MASAe) | 2:01 | 2022-10-14 |  |
 | [Gone Tomorrow](https://open.spotify.com/track/0ge3ZUDEvyPZvd13VoVd0H) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Gone Tomorrow](https://open.spotify.com/album/3u25jj4B4cqGqxEsPRFmZO) | 2:23 | 2022-10-14 |  |
 | [Granular](https://open.spotify.com/track/29bnMDOJHrA9d0oBT7VMd7) | [Animal Cosmic](https://open.spotify.com/artist/1v4g9cy8RhkIRkVkodY6Hi) | [Granular](https://open.spotify.com/album/1EpN6ohIqzWG4dpChulIxh) | 4:52 | 2022-10-14 |  |

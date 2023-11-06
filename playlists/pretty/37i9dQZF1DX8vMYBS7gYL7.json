@@ -1,12 +1,12 @@
 {
   "description": "Un poco de sabrosura y color para esos d\u00edas lluviosos.",
-  "num_followers": 33826,
+  "num_followers": 33873,
   "original_name": "Lluvia Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjY3OWMwMmM4ZTc4YTU0NGExMjA0YWM3NmE2MWU5ZjJmMzUzMjA4",
+  "snapshot_id": "MCxiZTQ4ODIwOTMwYWVhY2RlYTZiMTdhMjM2ZTRhZjA2NjU2OTdjOWVm",
   "tracks": [
     {
       "added_at": "2021-11-23 20:12:50",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Lluvia (Baile Total)",
-        "url": "https://open.spotify.com/album/4AgZZalEkba03Ww2hTl8cW"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 296040,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/54vtEWLZyP51FGh9R585Zo"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
         "name": "Dosis De Amor",
         "url": "https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 205480,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/5ABUWUrqYGMXbF8qCZ5zF9"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
+        "name": "Lluvia (Baile Total)",
+        "url": "https://open.spotify.com/album/4AgZZalEkba03Ww2hTl8cW"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 296040,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/54vtEWLZyP51FGh9R585Zo"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -835,18 +835,18 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Gratitud",
-        "url": "https://open.spotify.com/album/7enkpVoHsPr8ry7GSoZHi9"
+        "name": "Discos Bailables",
+        "url": "https://open.spotify.com/album/04bxlf3LWGIRIC1b0lZKoI"
       },
       "artists": [
         {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+          "name": "TNT Band",
+          "url": "https://open.spotify.com/artist/4ljGaqO3BLQFsZKlV63RLF"
         }
       ],
-      "duration_ms": 238666,
-      "name": "Arroyito",
-      "url": "https://open.spotify.com/track/5gRcvozPg8roCPDrd1VBQS"
+      "duration_ms": 236796,
+      "name": "Sabre Olvidar",
+      "url": "https://open.spotify.com/track/6PIJEKugYG10SjXzGnWZ32"
     }
   ],
   "unique_name": "Lluvia Tropical",

@@ -1,12 +1,12 @@
 {
   "description": "Britpop, trip-hop, grunge and more from the other side of the 90s. Cover: The Cure",
-  "num_followers": 1230506,
+  "num_followers": 1231480,
   "original_name": "Alternative 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjhhYzc4NTlkYzUyODMwMzIwMTE1NDRlNDEyODE1YTZmNDIyZDM2",
+  "snapshot_id": "MCxiOWVkODU5NzkxMzg1ZGRhNGE0OGNmYTRlMDJhODVhMzBhODRkZDdh",
   "tracks": [
     {
       "added_at": "2023-01-10 13:44:13",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Ill Communication",
-        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 258466,
       "name": "Bullet With Butterfly Wings - Remastered 2012",
       "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "Ill Communication",
+        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "I Should Coco",
-        "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
+        "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
       },
       "artists": [
         {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+          "name": "Semisonic",
+          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
         }
       ],
-      "duration_ms": 180880,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
+      "duration_ms": 274160,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -423,22 +423,6 @@
       "duration_ms": 159226,
       "name": "Buddy Holly",
       "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
-        "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
-      },
-      "artists": [
-        {
-          "name": "Semisonic",
-          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
-        }
-      ],
-      "duration_ms": 274160,
-      "name": "Closing Time",
-      "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -587,22 +571,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Laid",
-        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "Automatic For The People",
         "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
       },
@@ -615,6 +583,22 @@
       "duration_ms": 314173,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "Laid",
+        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -635,22 +619,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "Different Class",
         "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
@@ -663,6 +631,22 @@
       "duration_ms": 351626,
       "name": "Common People - Full Length Version",
       "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -683,22 +667,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Women In Technology",
-        "url": "https://open.spotify.com/album/3Xp1KG3G31VGZgV8JpMSX6"
-      },
-      "artists": [
-        {
-          "name": "White Town",
-          "url": "https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM"
-        }
-      ],
-      "duration_ms": 259893,
-      "name": "Your Woman",
-      "url": "https://open.spotify.com/track/4ACxa9buEUnOdYEoPcnMpi"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "Without You I'm Nothing",
         "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
       },
@@ -715,22 +683,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Gorgeous George",
-        "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
-      },
-      "artists": [
-        {
-          "name": "Edwyn Collins",
-          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
-        }
-      ],
-      "duration_ms": 236583,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "Definitely Maybe (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
       },
@@ -743,6 +695,22 @@
       "duration_ms": 276666,
       "name": "Live Forever - Remastered",
       "url": "https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "Gorgeous George",
+        "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
+      },
+      "artists": [
+        {
+          "name": "Edwyn Collins",
+          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+        }
+      ],
+      "duration_ms": 236583,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -859,22 +827,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "The Boatman's Call (2011 Remastered Version)",
-        "url": "https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "Into My Arms - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "Urban Hymns (Deluxe / Remastered 2016)",
         "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
       },
@@ -887,6 +839,22 @@
       "duration_ms": 304880,
       "name": "The Drugs Don't Work",
       "url": "https://open.spotify.com/track/15kLz0zNFdtsaJdXKSGmTU"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "Between the Bars",
+      "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -923,22 +891,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 305213,
-      "name": "Beetlebum - 2012 Remaster",
-      "url": "https://open.spotify.com/track/4OHVCeQYPncEwZOtNAJZZx"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "Conscience",
         "url": "https://open.spotify.com/album/1KFxJU4UBv1RWwrrwbn9xY"
       },
@@ -955,18 +907,18 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
       },
       "artists": [
         {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
         }
       ],
-      "duration_ms": 141200,
-      "name": "Between the Bars",
-      "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
+      "duration_ms": 305213,
+      "name": "Beetlebum - 2012 Remaster",
+      "url": "https://open.spotify.com/track/4OHVCeQYPncEwZOtNAJZZx"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -1067,6 +1019,22 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
+        "name": "Live Through This",
+        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Doll Parts",
+      "url": "https://open.spotify.com/track/49t1GWE6ZiEoBgN92oMDdM"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
         "name": "Stoosh",
         "url": "https://open.spotify.com/album/4S7eZrznxAyzv8IaoztDDR"
       },
@@ -1115,6 +1083,22 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
+        "name": "Elastica",
+        "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
+      },
+      "artists": [
+        {
+          "name": "Elastica",
+          "url": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+        }
+      ],
+      "duration_ms": 140480,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
         "name": "To Bring You My Love",
         "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
       },
@@ -1127,38 +1111,6 @@
       "duration_ms": 194506,
       "name": "Down By The Water",
       "url": "https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
-        "name": "Live Through This",
-        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
-      },
-      "artists": [
-        {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Doll Parts",
-      "url": "https://open.spotify.com/track/49t1GWE6ZiEoBgN92oMDdM"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
-        "name": "You Are the Quarry",
-        "url": "https://open.spotify.com/album/3AOI0WbFQWOvgRZQrMPGXG"
-      },
-      "artists": [
-        {
-          "name": "Morrissey",
-          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
-        }
-      ],
-      "duration_ms": 218586,
-      "name": "First of the Gang to Die",
-      "url": "https://open.spotify.com/track/0bWKniFVup1UYgoZww89Vp"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -1211,18 +1163,18 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Elastica",
-        "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
+        "name": "Bricks Are Heavy",
+        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
       },
       "artists": [
         {
-          "name": "Elastica",
-          "url": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
         }
       ],
-      "duration_ms": 140480,
-      "name": "Connection",
-      "url": "https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD"
+      "duration_ms": 235093,
+      "name": "Pretend We're Dead",
+      "url": "https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -1243,18 +1195,18 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Bricks Are Heavy",
-        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
+        "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
       },
       "artists": [
         {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
         }
       ],
-      "duration_ms": 235093,
-      "name": "Pretend We're Dead",
-      "url": "https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9"
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -1287,6 +1239,54 @@
       "duration_ms": 347093,
       "name": "Love Spreads",
       "url": "https://open.spotify.com/track/6JvEXmRh3l2acBzvqavgT9"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "In the Aeroplane Over the Sea",
+        "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Holland, 1945",
+      "url": "https://open.spotify.com/track/64DpBZj4IlDFzCwxTq7azl"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants",
+          "url": "https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "Birdhouse in Your Soul",
+      "url": "https://open.spotify.com/track/6pmuu4qSz2WrtGkBjUfyuz"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 461946,
+      "name": "Tender",
+      "url": "https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6"
     }
   ],
   "unique_name": "Alternative 90s",

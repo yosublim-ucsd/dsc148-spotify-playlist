@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-378 songs - 20 hr 8 min
+379 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Payback \(feat\. Icona Pop\)](https://open.spotify.com/track/6VcpaoEQRxc9wrAtYBqKwz) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Payback \(feat\. Icona Pop\)](https://open.spotify.com/album/7xerYbkUGD5BazNdP6OaZW) | 3:23 | 2022-03-04 | 2022-07-29 |
 | [Payback \(feat\. Icona Pop\)](https://open.spotify.com/track/7KoFHvEScguiEnD06xYtSt) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Payback \(feat\. Icona Pop\)](https://open.spotify.com/album/2oYzECiQezxZV6d6LOKuw0) | 3:23 | 2022-07-22 | 2023-05-24 |
 | [Pick Me Up](https://open.spotify.com/track/6VYIVgVqEIwzRwpJz5rMa4) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Pick Me Up](https://open.spotify.com/album/3T9hIEz1oe5vAOy4nU8Vk0) | 2:54 | 2021-12-03 | 2023-05-13 |
+| [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You & I](https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX) | 2:44 | 2023-10-27 |  |
 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu) | 2:44 | 2023-05-12 | 2023-11-05 |
 | [Pretty People \(feat\. INJI\)](https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Pretty People \(feat\. INJI\)](https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd) | 2:29 | 2023-05-12 |  |
 | [Problems](https://open.spotify.com/track/2dyrLrVopYKGc3H9oOYSmZ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Problems](https://open.spotify.com/album/6L2C3wz8KVARtC4wqrDJTG) | 2:59 | 2021-12-03 | 2023-01-06 |
@@ -325,7 +326,7 @@
 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 | 2022-07-29 |  |
 | [Take Me Back](https://open.spotify.com/track/6tBQwbubOllLrJgkh3utw2) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Take Me Back](https://open.spotify.com/album/5SsKV34TZECeZsU0tAEZb3) | 3:09 | 2021-12-03 | 2022-01-08 |
 | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd) | 2:57 | 2022-02-04 |  |
-| [Take My Chance](https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/48mkI91Qbu55gGYgtKPVK9) | 3:18 | 2023-10-27 |  |
+| [Take My Chance](https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/48mkI91Qbu55gGYgtKPVK9) | 3:18 | 2023-10-27 | 2023-11-06 |
 | [Take Your Time](https://open.spotify.com/track/3AygCrAj6TZZ6mGkcvD9To) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Take Your Time](https://open.spotify.com/album/6HBagEXptqThTlMQnxSchh) | 3:06 | 2021-12-03 | 2022-01-08 |
 | [Tears For Later](https://open.spotify.com/track/0qLCGr3tEqsvk5FfHU2XqV) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Tears For Later](https://open.spotify.com/album/79k3hCGte01bmCcvPDEdwO) | 2:46 | 2021-12-03 | 2023-01-17 |
 | [Tell Me Something Good](https://open.spotify.com/track/1yApeqGiKKeAMptbNUv2Mf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4RjokXhv5dBtyggZ7yg9W5) | 4:09 | 2022-01-28 | 2022-07-29 |

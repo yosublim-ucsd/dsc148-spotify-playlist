@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,233 likes - 125 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,315 likes - 125 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 92 | [A Sky Full of Stars \- Hardwell Remix](https://open.spotify.com/track/0WZVGXO8FYpK8v1IDxlOyE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [A Sky Full of Stars \(Hardwell Remix\)](https://open.spotify.com/album/0CvMcLab5Xb0KL7gsQfhhv) | 5:13 |
 | 93 | [Unicorn Zombie Apocalypse](https://open.spotify.com/track/4OpPtBlAU2ayk7rS0SyxlM) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Unicorn Zombie Apocalypse](https://open.spotify.com/album/3LiqvEGAApFWzK3wr0jjQ3) | 4:37 |
 | 94 | [Raise Your Weapon](https://open.spotify.com/track/7E1b1A3lGsw4ElaeUmDOJn) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Greta Svabo Bech](https://open.spotify.com/artist/3roqeGESPvLgyx6ZmHQTXY) | [5 Years of mau5](https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2) | 8:22 |
-| 95 | [Leaving You](https://open.spotify.com/track/22qUyTlEvJf6DAlyQjMADe) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [M.BRONX](https://open.spotify.com/artist/3jbqK4VihAncvAJWgcidZG) | [Leaving You](https://open.spotify.com/album/1QkRNSPk2pDxzILcU14yBG) | 3:32 |
-| 96 | [How You Love Me](https://open.spotify.com/track/1nas007nDbzLwDGwvMdz79) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou) | [How You Love Me](https://open.spotify.com/album/0IsgaoqRfJAJ6wojxWDZ7C) | 3:30 |
+| 95 | [How You Love Me](https://open.spotify.com/track/1nas007nDbzLwDGwvMdz79) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou) | [How You Love Me](https://open.spotify.com/album/0IsgaoqRfJAJ6wojxWDZ7C) | 3:30 |
+| 96 | [Leaving You](https://open.spotify.com/track/22qUyTlEvJf6DAlyQjMADe) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [M.BRONX](https://open.spotify.com/artist/3jbqK4VihAncvAJWgcidZG) | [Leaving You](https://open.spotify.com/album/1QkRNSPk2pDxzILcU14yBG) | 3:32 |
 | 97 | [Beam Me Up \- Radio Edit](https://open.spotify.com/track/64y85LeHY8Z6OlTOM9cpKD) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS) | [Eject](https://open.spotify.com/album/5cYW3ILGflf28W2vkkCvgs) | 3:23 |
 | 98 | [When A Fire Starts To Burn](https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:44 |
 | 99 | [Off The Hook](https://open.spotify.com/track/6jmTQwFzejCurofZDz7x9k) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Off The Hook](https://open.spotify.com/album/4xFL1dccvsB3Hc5OqB7LmW) | 2:57 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Wakanda](https://open.spotify.com/track/7M2t0mMSjLJSweu8BwrY2R) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Wakanda](https://open.spotify.com/album/2OkTrq8G5BkqtFtO9oSRhq) | 4:59 |
 | 125 | [Dum Dum](https://open.spotify.com/track/6sWUWTthhMxzX6ADl8WBAb) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Dum Dum](https://open.spotify.com/album/4DL7wqyLEOhf6pEsuXelur) | 2:01 |
 
-Snapshot ID: `MCw0NDViNzcyZmI3ZWU4NGY5NjM0NjE2NzA0NDVkYmU0NDZlMTBmZDQ3`
+Snapshot ID: `MCw2YzI4ZTM0OWI3ZTlkMTI0MmNmN2MzODdmYmE0YWUxOGU1NDA1NTA2`

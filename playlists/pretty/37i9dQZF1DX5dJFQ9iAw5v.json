@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 31429,
+  "num_followers": 31437,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGQxYzBkYmUyY2MyMzhkYmRkODY2N2YzZmU5ZTJhYjdmNDZkZGYy",
+  "snapshot_id": "MCw2MDI3YWY4YjdlZDNiN2EzZjNkODhkZTk5MzgzMjNiNDBkZGYxNTE5",
   "tracks": [
     {
       "added_at": "2023-10-26 20:37:32",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
-        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Flores",
-          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
-        }
-      ],
-      "duration_ms": 114760,
-      "name": "Entrada al Jardi\u0301n de Ordo\u0301n\u0303ez",
-      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
         "name": "Encuentro",
         "url": "https://open.spotify.com/album/0b4HCbP13kNcvrPT4Wokxz"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 197196,
       "name": "Encuentro",
       "url": "https://open.spotify.com/track/5IDm7K9atPMJRl51HiCbsE"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
+        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
+      },
+      "artists": [
+        {
+          "name": "Ramiro Flores",
+          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
+        }
+      ],
+      "duration_ms": 114760,
+      "name": "Entrada al Jardi\u0301n de Ordo\u0301n\u0303ez",
+      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
+        "name": "Vo!!",
+        "url": "https://open.spotify.com/album/5q1uIVIcEdu1ZoxMvCUxs4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Maza",
+          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
+        }
+      ],
+      "duration_ms": 353520,
+      "name": "A Night in Tunisia",
+      "url": "https://open.spotify.com/track/3MPjfDEQhRcG17M3MKqWfe"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
         "name": "ROM\u00c1N",
         "url": "https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 276249,
       "name": "Scon",
       "url": "https://open.spotify.com/track/75PPgwqKRWlnwPJyyhcIQ7"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
-        "name": "Vo!!",
-        "url": "https://open.spotify.com/album/5q1uIVIcEdu1ZoxMvCUxs4"
-      },
-      "artists": [
-        {
-          "name": "Daniel Maza",
-          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
-        }
-      ],
-      "duration_ms": 353520,
-      "name": "A Night in Tunisia",
-      "url": "https://open.spotify.com/track/3MPjfDEQhRcG17M3MKqWfe"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -711,26 +711,22 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "Apal\u00e1p!",
-        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
+        "name": "ROM\u00c1N",
+        "url": "https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq"
       },
       "artists": [
         {
-          "name": "Oscar Giunta Supertr\u00edo!",
-          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
+          "name": "ROM\u00c1N",
+          "url": "https://open.spotify.com/artist/6pR53VmJ6tiJ1ZU8T5UVnQ"
         },
         {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Flavio Romero",
-          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
+          "name": "Sergio Wagner",
+          "url": "https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm"
         }
       ],
-      "duration_ms": 493933,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
+      "duration_ms": 291561,
+      "name": "Bill's Groove",
+      "url": "https://open.spotify.com/track/5O13Aw8p4di1ZF3s3RggDV"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -751,22 +747,26 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "ROM\u00c1N",
-        "url": "https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq"
+        "name": "Apal\u00e1p!",
+        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
       },
       "artists": [
         {
-          "name": "ROM\u00c1N",
-          "url": "https://open.spotify.com/artist/6pR53VmJ6tiJ1ZU8T5UVnQ"
+          "name": "Oscar Giunta Supertr\u00edo!",
+          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
         },
         {
-          "name": "Sergio Wagner",
-          "url": "https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm"
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Flavio Romero",
+          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
         }
       ],
-      "duration_ms": 291561,
-      "name": "Bill's Groove",
-      "url": "https://open.spotify.com/track/5O13Aw8p4di1ZF3s3RggDV"
+      "duration_ms": 493933,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
-        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Flores",
-          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
-        }
-      ],
-      "duration_ms": 347200,
-      "name": "Ordo\u0301n\u0303ez y Ernestina (o el Banquito de Ordo\u0301n\u0303ez)",
-      "url": "https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
         "name": "Studio 2",
         "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
       },
@@ -927,18 +911,34 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "En el fondo del mar",
-        "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
+        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
+        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
       },
       "artists": [
         {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+          "name": "Ramiro Flores",
+          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
         }
       ],
-      "duration_ms": 367797,
-      "name": "En el fondo del mar",
-      "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"
+      "duration_ms": 347200,
+      "name": "Ordo\u0301n\u0303ez y Ernestina (o el Banquito de Ordo\u0301n\u0303ez)",
+      "url": "https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "Solo Guitarra",
+        "url": "https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU"
+      },
+      "artists": [
+        {
+          "name": "Luis Salinas",
+          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "El Dia que me Quieras",
+      "url": "https://open.spotify.com/track/1iPdxaOl9A0KJfCCdzaXvK"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -959,22 +959,18 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "El Reino del Rev\u00e9s",
-        "url": "https://open.spotify.com/album/2ozvBrtW3avwSSX3nkO8dx"
+        "name": "En el fondo del mar",
+        "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
       },
       "artists": [
         {
-          "name": "Elena Roger",
-          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
-        },
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
         }
       ],
-      "duration_ms": 216099,
-      "name": "El Reino del Rev\u00e9s",
-      "url": "https://open.spotify.com/track/0Jf4E2gqM2ZpRQCsQcvhFD"
+      "duration_ms": 367797,
+      "name": "En el fondo del mar",
+      "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -999,18 +995,22 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "Umbral de M\u00ed",
-        "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
+        "name": "El Reino del Rev\u00e9s",
+        "url": "https://open.spotify.com/album/2ozvBrtW3avwSSX3nkO8dx"
       },
       "artists": [
         {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+          "name": "Elena Roger",
+          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
+        },
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
         }
       ],
-      "duration_ms": 296653,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
+      "duration_ms": 216099,
+      "name": "El Reino del Rev\u00e9s",
+      "url": "https://open.spotify.com/track/0Jf4E2gqM2ZpRQCsQcvhFD"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "Onyx",
-        "url": "https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1"
+        "name": "Umbral de M\u00ed",
+        "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
       },
       "artists": [
         {
-          "name": "Javier Malosetti",
-          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
         }
       ],
-      "duration_ms": 364453,
-      "name": "Full Glasses",
-      "url": "https://open.spotify.com/track/0ZJTETgpljZUOEsIqIvABa"
+      "duration_ms": 296653,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -1059,6 +1059,22 @@
       "duration_ms": 230133,
       "name": "Caminando Con Aud\u00edfonos",
       "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1"
+      },
+      "artists": [
+        {
+          "name": "Javier Malosetti",
+          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
+        }
+      ],
+      "duration_ms": 364453,
+      "name": "Full Glasses",
+      "url": "https://open.spotify.com/track/0ZJTETgpljZUOEsIqIvABa"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "Piano Tuerto",
-        "url": "https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8"
+        "name": "Solo Guitarra",
+        "url": "https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU"
       },
       "artists": [
         {
-          "name": "Leo Genovese",
-          "url": "https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk"
+          "name": "Luis Salinas",
+          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
         }
       ],
-      "duration_ms": 326666,
-      "name": "Luna en Nueva York",
-      "url": "https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg"
+      "duration_ms": 175413,
+      "name": "Latin Bebop",
+      "url": "https://open.spotify.com/track/1c5jKl6KTDiz4sMh4toQAB"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -1147,18 +1163,18 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "Grabaciones In\u00e9ditas Vol. 1",
-        "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
+        "name": "Piano Tuerto",
+        "url": "https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8"
       },
       "artists": [
         {
-          "name": "Enrique \"Mono\" Villegas",
-          "url": "https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6"
+          "name": "Leo Genovese",
+          "url": "https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk"
         }
       ],
-      "duration_ms": 254120,
-      "name": "In a Middle Tone",
-      "url": "https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu"
+      "duration_ms": 326666,
+      "name": "Luna en Nueva York",
+      "url": "https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -1183,6 +1199,22 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
+        "name": "Grabaciones In\u00e9ditas Vol. 1",
+        "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
+      },
+      "artists": [
+        {
+          "name": "Enrique \"Mono\" Villegas",
+          "url": "https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6"
+        }
+      ],
+      "duration_ms": 254120,
+      "name": "In a Middle Tone",
+      "url": "https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
         "name": "Sesiones 2017-2020",
         "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
       },
@@ -1195,22 +1227,6 @@
       "duration_ms": 374748,
       "name": "Nublado",
       "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
-        "name": "Solo Guitarra",
-        "url": "https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU"
-      },
-      "artists": [
-        {
-          "name": "Luis Salinas",
-          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "El Dia que me Quieras",
-      "url": "https://open.spotify.com/track/1iPdxaOl9A0KJfCCdzaXvK"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -1343,22 +1359,6 @@
       "duration_ms": 572278,
       "name": "Estate",
       "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
-        "name": "Polacos",
-        "url": "https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 188773,
-      "name": "Polacos",
-      "url": "https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7"
     }
   ],
   "unique_name": "Jazz Argentino",

@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Dave Winnel",
-  "num_followers": 597193,
+  "num_followers": 597254,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzY3ZDE5ZmFlMjlhMWRkZWJkNjI5NzJhMDA5NjQ3NThkZmIzMzVi",
+  "snapshot_id": "MCwzYmM5OTMzM2ZkMTQ1OWE4NWM4YWY1NzIwM2VlNmI4NTVjNGU5YTBj",
   "tracks": [
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Jack The House 4",
         "url": "https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl"
       },
@@ -1351,18 +1367,34 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
+        "name": "Satisfy",
+        "url": "https://open.spotify.com/album/08ByOMP1nHJEIpZCskgWGn"
       },
       "artists": [
         {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
         }
       ],
-      "duration_ms": 153281,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
+      "duration_ms": 184615,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/5lU7QrjCMU9JStXRUhVB2p"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "In The Air",
+        "url": "https://open.spotify.com/album/4JHdM4BYdqOJGGw12t1bzX"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 164285,
+      "name": "In The Air",
+      "url": "https://open.spotify.com/track/1d6drNGnLw63kP9Bm8aQtz"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1395,22 +1427,6 @@
       "duration_ms": 167760,
       "name": "Work It",
       "url": "https://open.spotify.com/track/4TqGe1UaneqGotEIwraZ75"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Satisfy",
-        "url": "https://open.spotify.com/album/08ByOMP1nHJEIpZCskgWGn"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Satisfy",
-      "url": "https://open.spotify.com/track/5lU7QrjCMU9JStXRUhVB2p"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1459,18 +1475,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "In The Air",
-        "url": "https://open.spotify.com/album/4JHdM4BYdqOJGGw12t1bzX"
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/2KEhj38WVxRIEEGADbOoNl"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
         }
       ],
-      "duration_ms": 164285,
-      "name": "In The Air",
-      "url": "https://open.spotify.com/track/1d6drNGnLw63kP9Bm8aQtz"
+      "duration_ms": 204250,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/0uPv6eHiyLixtoyI5mVJ1f"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1511,22 +1527,6 @@
       "duration_ms": 178242,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/1ZGiu67oe3wt3t6Lqoegqm"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Amnesia",
-        "url": "https://open.spotify.com/album/2KEhj38WVxRIEEGADbOoNl"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 204250,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/0uPv6eHiyLixtoyI5mVJ1f"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1879,6 +1879,26 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "Bring The Noise / Stutter",
+        "url": "https://open.spotify.com/album/0Tp4HZEY7LTY11vIN8uhgy"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        },
+        {
+          "name": "Rave Rae",
+          "url": "https://open.spotify.com/artist/72I24QKKHBlfjLwDH359MG"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/74JGPkr0Lb0KOTJJvp28UH"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Bees",
         "url": "https://open.spotify.com/album/07vN0p57AmM75EYtkoTIwO"
       },
@@ -1895,22 +1915,6 @@
       "duration_ms": 150000,
       "name": "Bees",
       "url": "https://open.spotify.com/track/22UUH7Hevlh24CBgkOBHFK"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "House Y'all",
-        "url": "https://open.spotify.com/album/2pTxm1H1e3zfJBzRDwtmty"
-      },
-      "artists": [
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 155625,
-      "name": "House Y'all",
-      "url": "https://open.spotify.com/track/0eWfHigLsQiQzmKRVbwjLL"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1951,6 +1955,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "House Y'all",
+        "url": "https://open.spotify.com/album/2pTxm1H1e3zfJBzRDwtmty"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "duration_ms": 155625,
+      "name": "House Y'all",
+      "url": "https://open.spotify.com/track/0eWfHigLsQiQzmKRVbwjLL"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Otherside",
         "url": "https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG"
       },
@@ -1967,26 +1987,6 @@
       "duration_ms": 210461,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Bring The Noise / Stutter",
-        "url": "https://open.spotify.com/album/0Tp4HZEY7LTY11vIN8uhgy"
-      },
-      "artists": [
-        {
-          "name": "Black V Neck",
-          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
-        },
-        {
-          "name": "Rave Rae",
-          "url": "https://open.spotify.com/artist/72I24QKKHBlfjLwDH359MG"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/74JGPkr0Lb0KOTJJvp28UH"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2011,18 +2011,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "ILG",
-        "url": "https://open.spotify.com/album/6OdiPs5eU9BZEh7s4me0ss"
+        "name": "Get Hype",
+        "url": "https://open.spotify.com/album/6hw6p6J90qLn09B43dk0DQ"
       },
       "artists": [
         {
-          "name": "Lance Savali",
-          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Jaquell",
+          "url": "https://open.spotify.com/artist/1VMWb2Dj2XqtR3xsArTlUh"
         }
       ],
-      "duration_ms": 122385,
-      "name": "ILG",
-      "url": "https://open.spotify.com/track/2YvYluH4m4YSx9CP7sJsyD"
+      "duration_ms": 171023,
+      "name": "Get Hype",
+      "url": "https://open.spotify.com/track/2UGV2JS4bfUy8ETLpZZoA8"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2051,42 +2055,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Club Rompas",
-        "url": "https://open.spotify.com/album/57c4YyyWoOYOWGFqKqHJgF"
+        "name": "ILG",
+        "url": "https://open.spotify.com/album/6OdiPs5eU9BZEh7s4me0ss"
       },
       "artists": [
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "Basura Boyz",
-          "url": "https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux"
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Blisters on My Feet",
-      "url": "https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Get Hype",
-        "url": "https://open.spotify.com/album/6hw6p6J90qLn09B43dk0DQ"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Jaquell",
-          "url": "https://open.spotify.com/artist/1VMWb2Dj2XqtR3xsArTlUh"
-        }
-      ],
-      "duration_ms": 171023,
-      "name": "Get Hype",
-      "url": "https://open.spotify.com/track/2UGV2JS4bfUy8ETLpZZoA8"
+      "duration_ms": 122385,
+      "name": "ILG",
+      "url": "https://open.spotify.com/track/2YvYluH4m4YSx9CP7sJsyD"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2111,6 +2091,26 @@
       "duration_ms": 172857,
       "name": "Keloke",
       "url": "https://open.spotify.com/track/3yNYNsWY72kqDrVS3v8iB2"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Club Rompas",
+        "url": "https://open.spotify.com/album/57c4YyyWoOYOWGFqKqHJgF"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Basura Boyz",
+          "url": "https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Blisters on My Feet",
+      "url": "https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2153,6 +2153,22 @@
       "url": "https://open.spotify.com/track/2Y7str4JalVvAAFcKALeyl"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Milkshake",
+        "url": "https://open.spotify.com/album/6sG0Y81AQVbRgDN3fGyfVL"
+      },
+      "artists": [
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        }
+      ],
+      "duration_ms": 124824,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/1KJzlX849qCMfYWKOI7STr"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Another Planet (Bruno's VIP Mix)",
@@ -2175,6 +2191,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/1i7ZG1ax4aMbJqCjqEAd5N"
+      },
+      "artists": [
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Homework",
+      "url": "https://open.spotify.com/track/42llopuPT07jtnXsuTuV7u"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Esta Vaina",
         "url": "https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq"
       },
@@ -2187,22 +2219,6 @@
       "duration_ms": 215699,
       "name": "Esta Vaina",
       "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Bodywork",
-        "url": "https://open.spotify.com/album/1AWsuzNSJ2bWhZqPEPK9zI"
-      },
-      "artists": [
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Bodywork",
-      "url": "https://open.spotify.com/track/5HdSJivsHp49gtx5Tz1HOw"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2227,18 +2243,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/1i7ZG1ax4aMbJqCjqEAd5N"
+        "name": "Bodywork",
+        "url": "https://open.spotify.com/album/1AWsuzNSJ2bWhZqPEPK9zI"
       },
       "artists": [
         {
-          "name": "Leftwing : Kody",
-          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
         }
       ],
-      "duration_ms": 214153,
-      "name": "Homework",
-      "url": "https://open.spotify.com/track/42llopuPT07jtnXsuTuV7u"
+      "duration_ms": 145533,
+      "name": "Bodywork",
+      "url": "https://open.spotify.com/track/5HdSJivsHp49gtx5Tz1HOw"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2257,20 +2273,20 @@
       "url": "https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
+      "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Milkshake",
-        "url": "https://open.spotify.com/album/6sG0Y81AQVbRgDN3fGyfVL"
+        "name": "LOVE DESIRE",
+        "url": "https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3"
       },
       "artists": [
         {
-          "name": "SMACK",
-          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
         }
       ],
-      "duration_ms": 124824,
-      "name": "Milkshake",
-      "url": "https://open.spotify.com/track/1KJzlX849qCMfYWKOI7STr"
+      "duration_ms": 171428,
+      "name": "LOVE DESIRE",
+      "url": "https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2313,20 +2329,20 @@
       "url": "https://open.spotify.com/track/26wsiUVYF5M42ikSihxWBl"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
+      "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Cuddle (Edit)",
-        "url": "https://open.spotify.com/album/3i4unTugJPI0gIv5gFBj61"
+        "name": "Dominator (2K23)",
+        "url": "https://open.spotify.com/album/4N7nuwnyAEnCvLxH5ncUIT"
       },
       "artists": [
         {
-          "name": "Matisa",
-          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
         }
       ],
-      "duration_ms": 195428,
-      "name": "Cuddle - Edit",
-      "url": "https://open.spotify.com/track/11qteqHtkROcyTe9MbNqr5"
+      "duration_ms": 190429,
+      "name": "Dominator (2K23)",
+      "url": "https://open.spotify.com/track/7IuGLuWImOmbG0PSXzJseW"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2347,22 +2363,6 @@
       "duration_ms": 155515,
       "name": "Watch Me (feat. Linney)",
       "url": "https://open.spotify.com/track/3rWjjleBSSdkKJIg5pdjwU"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "LOVE DESIRE",
-        "url": "https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3"
-      },
-      "artists": [
-        {
-          "name": "CASSIMM",
-          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "LOVE DESIRE",
-      "url": "https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA"
     },
     {
       "added_at": "2023-10-27 04:01:00",

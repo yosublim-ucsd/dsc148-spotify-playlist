@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Azawi",
-  "num_followers": 1863,
+  "num_followers": 1865,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTA2NzM0Yjk2NzE4MmY5OTlkMzIwMzNkNzc1OGYxNGFlOWY0MWM0",
+  "snapshot_id": "MCw2OGRkODY1YTc2OGU2ZjZiODE4ZWQ2YmM1MjQwZGM4NjY2MWY5YjEy",
   "tracks": [
     {
       "added_at": "2023-10-26 20:59:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-10-26 20:59:00",
       "album": {
-        "name": "Bitimba",
-        "url": "https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5"
-      },
-      "artists": [
-        {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
-        }
-      ],
-      "duration_ms": 147590,
-      "name": "Bitimba",
-      "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
-    },
-    {
-      "added_at": "2023-10-26 20:59:00",
-      "album": {
         "name": "Singa",
         "url": "https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 197052,
       "name": "Singa",
       "url": "https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB"
+    },
+    {
+      "added_at": "2023-10-26 20:59:00",
+      "album": {
+        "name": "Bitimba",
+        "url": "https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        }
+      ],
+      "duration_ms": 147590,
+      "name": "Bitimba",
+      "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
     },
     {
       "added_at": "2023-10-26 20:59:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-26 20:59:00",
       "album": {
-        "name": "Chai Mata",
-        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Chai Mata",
-      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
-    },
-    {
-      "added_at": "2023-10-26 20:59:00",
-      "album": {
         "name": "Kitooke Kyagonja",
         "url": "https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 190129,
       "name": "Kitooke Kyagonja",
       "url": "https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7"
+    },
+    {
+      "added_at": "2023-10-26 20:59:00",
+      "album": {
+        "name": "Chai Mata",
+        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Chai Mata",
+      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
     },
     {
       "added_at": "2023-10-26 20:59:00",
@@ -911,18 +911,26 @@
     {
       "added_at": "2023-10-26 20:59:00",
       "album": {
-        "name": "Chai We Njaye",
-        "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV"
       },
       "artists": [
         {
-          "name": "Omutume Planet",
-          "url": "https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp"
+          "name": "Chxf Barry",
+          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
+        },
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        },
+        {
+          "name": "Akeine",
+          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
         }
       ],
-      "duration_ms": 165015,
-      "name": "Chai We Njaye",
-      "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
+      "duration_ms": 150000,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj"
     }
   ],
   "unique_name": "Made In Uganda",

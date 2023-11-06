@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats love stories have the best beginnings",
-  "num_followers": 21098,
+  "num_followers": 21185,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2U4NTQ2YmZiMTQ3ZTBlNmQ2ODM2NWRhM2Q3Y2Y1NjhmMjFiYTM1",
+  "snapshot_id": "MCwyNzhlNTBiMTA5NzljMDZjNDljMmYzODhjYzBmN2Y5MTIyOTFkNjUx",
   "tracks": [
     {
       "added_at": "2023-11-03 00:01:00",
@@ -759,18 +759,22 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Sweet Tea (Aduke)",
-        "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
+        "name": "Teslim: The Energy Still Lives in Me",
+        "url": "https://open.spotify.com/album/08k2IfdgUGN3JycLGkREJI"
       },
       "artists": [
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        },
+        {
+          "name": "GoodGirl LA",
+          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
         }
       ],
-      "duration_ms": 149481,
-      "name": "Sweet Tea (Aduke)",
-      "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
+      "duration_ms": 194742,
+      "name": "Early Momo",
+      "url": "https://open.spotify.com/track/30vg5dgv2jtW6LCjgLnRSd"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -799,22 +803,18 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Teslim: The Energy Still Lives in Me",
-        "url": "https://open.spotify.com/album/08k2IfdgUGN3JycLGkREJI"
+        "name": "Sweet Tea (Aduke)",
+        "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
       },
       "artists": [
         {
-          "name": "Vector",
-          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
-        },
-        {
-          "name": "GoodGirl LA",
-          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 194742,
-      "name": "Early Momo",
-      "url": "https://open.spotify.com/track/30vg5dgv2jtW6LCjgLnRSd"
+      "duration_ms": 149481,
+      "name": "Sweet Tea (Aduke)",
+      "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
     },
     {
       "added_at": "2023-11-03 00:01:00",

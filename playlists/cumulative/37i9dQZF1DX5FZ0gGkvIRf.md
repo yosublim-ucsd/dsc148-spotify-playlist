@@ -4,15 +4,16 @@
 
 > Kickass Metal Presents..\. The Best Metal Songs of 2022\. Cover: Ghost<br/>\#SpotifyWrapped
 
-115 songs - 7 hr 25 min
+116 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [AfterLife](https://open.spotify.com/track/40gGeC397vLmz4eETZDSrG) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:03 | 2022-11-30 |  |
 | [Bad Idea](https://open.spotify.com/track/39JFZqlhh6y23lXowen3CE) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:12 | 2022-11-30 |  |
 | [Bad Things](https://open.spotify.com/track/3jTWNaSfBQvv3HPTqQjkkM) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:48 | 2022-11-30 |  |
+| [Believe](https://open.spotify.com/track/0CY10vjKe4FvmzsEaKACfK) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Blood Money Part Zer0](https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt) | 4:36 | 2022-11-30 |  |
 | [Believe](https://open.spotify.com/track/2XIrfxeVsfLZF6oGKN2ri4) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Misery](https://open.spotify.com/album/2Kt1g7imZTiyATlkOfKf2f) | 4:36 | 2022-11-30 | 2023-01-28 |
-| [Believe](https://open.spotify.com/track/2zdtGFbUCmv0PhkylSQiHu) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dead World](https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF) | 4:36 | 2022-11-30 |  |
+| [Believe](https://open.spotify.com/track/2zdtGFbUCmv0PhkylSQiHu) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dead World](https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF) | 4:36 | 2022-11-30 | 2023-11-06 |
 | [Believe](https://open.spotify.com/track/3wfc00OGxwIK9zRBPBvplY) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dive](https://open.spotify.com/album/0ld5U0aAKWiNUiUYqSJi13) | 4:36 | 2022-11-30 | 2023-02-04 |
 | [Believe](https://open.spotify.com/track/4ArYorRF2fc7QoZhnpouWN) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Parasite](https://open.spotify.com/album/5Y8OkF9YdWgc6tc5fMd0a7) | 4:36 | 2022-11-30 | 2023-02-11 |
 | [Believe](https://open.spotify.com/track/5uLekx5vq0kEw9NR8k33f6) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Believe](https://open.spotify.com/album/0zDSGyLShEvz9xjD7OhlK9) | 4:36 | 2022-11-30 | 2022-12-11 |

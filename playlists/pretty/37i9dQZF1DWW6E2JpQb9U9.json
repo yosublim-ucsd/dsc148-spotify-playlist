@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 104091,
+  "num_followers": 104145,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjAyZTljNDk5ZWY0ZDM2YjA2NTA3NGUwODkzNDM4MzkzY2JlZWU3",
+  "snapshot_id": "MCw0YWI1NTg2ZjgxNDU5Y2U0MjMzMGQxMjhjNDE0MzZhMzNiYTcyMDEy",
   "tracks": [
     {
       "added_at": "2023-10-26 19:14:48",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-10-26 19:14:48",
       "album": {
-        "name": "Razzmatazz (En directo Razzmatazz)",
-        "url": "https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 180885,
-      "name": "Me envenenaste - En directo Razzmatazz",
-      "url": "https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj"
-    },
-    {
-      "added_at": "2023-10-26 19:14:48",
-      "album": {
         "name": "Sortilegio de Arrabal",
         "url": "https://open.spotify.com/album/4FMIICOCC7pmOdhDwIUkid"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 244071,
       "name": "Envuelto en Llamas (En Vivo)",
       "url": "https://open.spotify.com/track/674zid6QdjoHzafff631N8"
+    },
+    {
+      "added_at": "2023-10-26 19:14:48",
+      "album": {
+        "name": "Razzmatazz (En directo Razzmatazz)",
+        "url": "https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 180885,
+      "name": "Me envenenaste - En directo Razzmatazz",
+      "url": "https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj"
     },
     {
       "added_at": "2023-10-26 19:14:48",
@@ -1651,18 +1651,22 @@
     {
       "added_at": "2023-10-26 19:14:48",
       "album": {
-        "name": "Aut\u00f3dromo de Buenos Aires, 19 de Junio de 2021 (En Vivo)",
-        "url": "https://open.spotify.com/album/1Sxb0hpU35iLA3WeqEcMr8"
+        "name": "Una Vez M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/20akHhz1vnjUSwHcHjVnB2"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        },
+        {
+          "name": "Juanse",
+          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
         }
       ],
-      "duration_ms": 225408,
-      "name": "Oportunidad Oportuna - En Vivo",
-      "url": "https://open.spotify.com/track/6OgghyP8vbOsC2CBvKYArD"
+      "duration_ms": 289074,
+      "name": "Una Vez M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/34u37vgTwh2wl3ZH5u2nfs"
     },
     {
       "added_at": "2023-10-26 19:14:48",
@@ -1683,18 +1687,18 @@
     {
       "added_at": "2023-10-26 19:14:48",
       "album": {
-        "name": "En Vivo En El Emergente 02.06.2023",
-        "url": "https://open.spotify.com/album/75kVWmC0bVSKjv234nhQGl"
+        "name": "Aut\u00f3dromo de Buenos Aires, 19 de Junio de 2021 (En Vivo)",
+        "url": "https://open.spotify.com/album/1Sxb0hpU35iLA3WeqEcMr8"
       },
       "artists": [
         {
-          "name": "Winona Riders",
-          "url": "https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp"
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 617491,
-      "name": "Dorado y P\u00farpura - En Vivo",
-      "url": "https://open.spotify.com/track/082OAP5nOvl0u5hJgs15rB"
+      "duration_ms": 225408,
+      "name": "Oportunidad Oportuna - En Vivo",
+      "url": "https://open.spotify.com/track/6OgghyP8vbOsC2CBvKYArD"
     }
   ],
   "unique_name": "Vivo de Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal\. Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,393 likes - 80 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,493 likes - 80 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,19 +68,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 58 | [The Bell](https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71) | [Eye of Melian](https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G), [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [The Bell](https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu) | 4:31 |
 | 59 | [Oblivion](https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Invaders](https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4) | 5:38 |
 | 60 | [Experience](https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Experience](https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM) | 5:14 |
-| 61 | [The Gates of Time](https://open.spotify.com/track/0s1mKQbBg91ig5E613Zhuz) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Metamorphosis](https://open.spotify.com/album/3vXgzqeNQPIT9RDgShcKun) | 4:35 |
-| 62 | [Seventh Rum of a Seventh Rum](https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Seventh Rum of a Seventh Rum](https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY) | 3:21 |
-| 63 | [We Are Legion](https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Are Legion](https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq) | 3:41 |
-| 64 | [My Shadow Self](https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [Phoenix](https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1) | 3:02 |
+| 61 | [Seventh Rum of a Seventh Rum](https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Seventh Rum of a Seventh Rum](https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY) | 3:21 |
+| 62 | [The Gates of Time](https://open.spotify.com/track/0s1mKQbBg91ig5E613Zhuz) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Metamorphosis](https://open.spotify.com/album/3vXgzqeNQPIT9RDgShcKun) | 4:35 |
+| 63 | [My Shadow Self](https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [Phoenix](https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1) | 3:02 |
+| 64 | [We Are Legion](https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Are Legion](https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq) | 3:41 |
 | 65 | [The Hanging Tree](https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [The Hanging Tree](https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM) | 4:27 |
 | 66 | [Holy Flaming Hammer of Unholy Cosmic Frost](https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Keeper of the Celestial Flame of Abernethy](https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh) | 4:35 |
 | 67 | [Fears Don't Matter](https://open.spotify.com/track/6gWMxaJw6PBE1Bw1lud6zm) | [Blame Me!](https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T) | [Fears Don't Matter](https://open.spotify.com/album/0vWuMEMFKAPlkyO27hAV9n) | 3:44 |
-| 68 | [The Beast Has Awoken](https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo) | [Hate World Hero](https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh) | [The Beast Has Awoken](https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc) | 3:33 |
-| 69 | [Warning Sign](https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Warning Sign](https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH) | 4:19 |
-| 70 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 |
-| 71 | [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 |
-| 72 | [Juokse Sinä Humma](https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Juokse Sinä Humma](https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN) | 3:16 |
-| 73 | [Altar of Power](https://open.spotify.com/track/0VwzxtkLcWVsFwdLSHfHfX) | [Veonity](https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH) | [Elements of Power](https://open.spotify.com/album/3KVsdtxgGQN5hKi0AWqU0A) | 4:21 |
+| 68 | [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 |
+| 69 | [The Beast Has Awoken](https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo) | [Hate World Hero](https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh) | [The Beast Has Awoken](https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc) | 3:33 |
+| 70 | [Warning Sign](https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Warning Sign](https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH) | 4:19 |
+| 71 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 |
+| 72 | [Altar of Power](https://open.spotify.com/track/0VwzxtkLcWVsFwdLSHfHfX) | [Veonity](https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH) | [Elements of Power](https://open.spotify.com/album/3KVsdtxgGQN5hKi0AWqU0A) | 4:21 |
+| 73 | [Juokse Sinä Humma](https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Juokse Sinä Humma](https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN) | 3:16 |
 | 74 | [Here We Stand](https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie) | [In Victory](https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3) | [Here We Stand](https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR) | 4:08 |
 | 75 | [Lonely](https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D) | [After Forever](https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp) | [After Forever \(15th Anniversary Edition\)](https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE) | 3:26 |
 | 76 | [Black Venom](https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S) | [Without Warning](https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe) | [Black Venom](https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq) | 3:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [The Widow Maker \- feat\. Gunship](https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [The Widow Maker](https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP) | 3:55 |
 | 80 | [Drink with the Gods](https://open.spotify.com/track/03b3kwWJNx0QJUXVmG4WWk) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Drink with the Gods](https://open.spotify.com/album/6NrEzBItZhPjJtvdyMnPPW) | 4:10 |
 
-Snapshot ID: `MCw0ZDJkMDY3ZTlhNWU4ZTlmN2MzOWExN2NlZDFjODM3MDI2YjU0NTgz`
+Snapshot ID: `MCwzZDUxYTY0ZmQ4OTQ4YTYxNDQxYzlmZTcyZTRiMWE1MjI1M2U5Mzc3`

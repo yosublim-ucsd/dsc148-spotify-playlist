@@ -4,7 +4,7 @@
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-104 songs - 6 hr 54 min
+105 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,9 +73,10 @@
 | [Oak Tree](https://open.spotify.com/track/47dOtJjjwVkbKW244db2dE) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW) | 3:00 | 2021-07-30 | 2022-07-29 |
 | [Old Number Seven](https://open.spotify.com/track/7FqrsV0vBwNiQNQI6jfzni) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [The Devil Makes Three](https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k) | 3:20 | 2021-07-30 |  |
 | [On the Road Again](https://open.spotify.com/track/1BQkVDlEOtYKOaotnJuNzz) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Along the Trail of Tears](https://open.spotify.com/album/6IcVeQFhXfXimexDoOYJoy) | 3:43 | 2021-07-30 |  |
+| [Red Right Hand](https://open.spotify.com/track/0jVo3e34A15l6MNu1O3cfa) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 \- Remaster\)](https://open.spotify.com/album/3OlT3zr0bvzYYg2Dwn6Fkx) | 6:10 | 2023-09-29 |  |
 | [Red Right Hand \- 2011 \- Remaster](https://open.spotify.com/track/1YrdxppVdO7a5S99gudh43) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 \- Remaster\)](https://open.spotify.com/album/5xDXyagODJCky1n6I2eJXq) | 6:10 | 2021-07-30 | 2022-07-29 |
 | [Red Right Hand \- 2011 Remastered Version](https://open.spotify.com/track/0TiYwuMsemJ0Q9JLWxTjSx) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 6:10 | 2021-07-30 | 2022-11-13 |
-| [Red Right Hand \- 2011 Remastered Version](https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 6:10 | 2021-07-30 |  |
+| [Red Right Hand \- 2011 Remastered Version](https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 6:10 | 2021-07-30 | 2023-11-06 |
 | [Rose City](https://open.spotify.com/track/5JoFmBsA6J1FJumA0BJKX1) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Rose City / Rise Up With Fists](https://open.spotify.com/album/0pYtOyHubrt0sHOg7fhPzS) | 2:46 | 2023-09-29 |  |
 | [Set My Soul on Fire](https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 4:59 | 2021-07-30 |  |
 | [Shake It](https://open.spotify.com/track/24MehCp25qxUDWadb0XNRw) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3JV08IVUR8OrMfCTMdfThw) | 3:42 | 2021-07-30 | 2022-11-13 |

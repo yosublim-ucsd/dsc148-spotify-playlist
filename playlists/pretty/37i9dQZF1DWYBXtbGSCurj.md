@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Xamã, Major RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,244 likes - 74 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,263 likes - 74 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 73 | [O Último Romântico Online \(feat\. Pedro Lotto & Wey\)](https://open.spotify.com/track/4yzSTxcOIaCbEdtM4KwJ1W) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [O Último Romântico Online](https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4) | 3:50 |
 | 74 | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB) | 3:41 |
 
-Snapshot ID: `MCxlYzAzYmVlYTM0MTlkOTA3MjgxZjA1NDRkZGM3NzVmNjY0ZGJmYjk1`
+Snapshot ID: `MCw0NzkzMzZjYWQ3MTc4MDU2NTgwYTM3MDI3MjIxNjE1NTZmNTAyZWMw`

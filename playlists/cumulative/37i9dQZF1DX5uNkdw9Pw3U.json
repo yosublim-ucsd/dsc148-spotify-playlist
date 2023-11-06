@@ -2226,7 +2226,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 172800,
       "name": "Worst Way",
       "url": "https://open.spotify.com/track/4dFd9I7wVuNJuFaU1De0Hn"
@@ -2274,6 +2274,24 @@
       "duration_ms": 204468,
       "name": "You",
       "url": "https://open.spotify.com/track/0LWo1USV7wlguM1Y3RePOM"
+    },
+    {
+      "album": {
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174946,
+      "name": "You Can't Save Me",
+      "url": "https://open.spotify.com/track/1OykBmq3vmMSEOQShNIBLv"
     },
     {
       "album": {

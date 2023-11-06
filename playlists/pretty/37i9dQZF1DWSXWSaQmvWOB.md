@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Black Pumas
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,308 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,339 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 38 | [Been and Gone](https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Wallace](https://open.spotify.com/artist/0MyoWugdPYngWgagHhIbWa) | [Been and Gone](https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89) | 4:40 |
 | 39 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 |
 | 40 | [Strawberry Skies](https://open.spotify.com/track/27qby3flYw8zbknmRAJ6wC) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Strawberry Skies](https://open.spotify.com/album/2RwWN4kURHnzORTq8UjG09) | 3:06 |
-| 41 | [Neighbor](https://open.spotify.com/track/1tnx2C8OgmFrenHvdVuaBL) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a), [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k), [Double Cream](https://open.spotify.com/artist/6YwQ1mNJvQxqqlfDBKrL7w) | [Neighbor](https://open.spotify.com/album/7dnlDFwoW91q62L85zUcTO) | 3:51 |
+| 41 | [Neighbor](https://open.spotify.com/track/1tnx2C8OgmFrenHvdVuaBL) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a), [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k), [Double Cream](https://open.spotify.com/artist/7g1yQWpJVDXbZBxbMrzdDJ) | [Neighbor](https://open.spotify.com/album/7dnlDFwoW91q62L85zUcTO) | 3:51 |
 | 42 | [Soldier of Love](https://open.spotify.com/track/0bgsj8kz5zWbQ6njk2Oqoz) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 5:56 |
 | 43 | [Space](https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Space](https://open.spotify.com/album/4JfgTYw8nZBgNycTB97Zpp) | 2:56 |
 | 44 | [Lose My Cool](https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 79 | [Crazy For You](https://open.spotify.com/track/1sRLsk8xQJA3dQPu6iglM7) | [Conor Hughes](https://open.spotify.com/artist/7uVGtNmhKU2sOSmAvr4ElW) | [Crazy For You](https://open.spotify.com/album/6kiv0BqEcRjmm7Ef4JYWKd) | 2:46 |
 | 80 | [Oceans Of Emotions](https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 3:53 |
 
-Snapshot ID: `MCxmNmQ0MTUyNmM4MGNjZDBhYThlNGRkY2NlZDJkNDdmNDMxMmNlZDcz`
+Snapshot ID: `MCw0YWE5OGU1OWNiNThmMDIzNDViNzhjYmFlNDM4NTJmOWNkNTI0MmRh`

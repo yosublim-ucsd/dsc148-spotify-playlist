@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: David Guetta, Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,056 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,097 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 49 | [BREAK MY SOUL \- will.i.am Remix](https://open.spotify.com/track/5EooBH2mT6qcsPY8ZgZPVW) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [BREAK MY SOUL REMIXES](https://open.spotify.com/album/43geArd3U23pTVjqzTSnkI) | 3:58 |
 | 50 | [Good Ones \- Joel Corry Remix](https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Good Ones \(Joel Corry Remix\)](https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv) | 2:45 |
 
-Snapshot ID: `MCxiNzAyYWVmNjkxNjk5ODIzNTEwZjAzNWZlZjA2NTZiZDY2NmIxNGVl`
+Snapshot ID: `MCw4MTliMTdiNjBiYTNjN2MyZDQ0NmMzNmVlOTZiMWRhODY0NWQ0OTZi`

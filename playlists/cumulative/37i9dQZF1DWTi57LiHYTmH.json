@@ -119,6 +119,28 @@
     },
     {
       "album": {
+        "name": "Debussy: Piano Music, Vol. 4",
+        "url": "https://open.spotify.com/album/2ZCFHotJBeK0A0PP0UGz0k"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Michael Korstick",
+          "url": "https://open.spotify.com/artist/6InUGCgdPwOIWXHUP3Xqq5"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273413,
+      "name": "2 Arabesques, L. 66: No. 1 in E Major",
+      "url": "https://open.spotify.com/track/53zrZribB4xc2uRzZXWKCT"
+    },
+    {
+      "album": {
         "name": "Scriabin: Preludes, Vol. 1",
         "url": "https://open.spotify.com/album/2Ql5IIdZIiGFsNNy0O87ZA"
       },
@@ -1798,7 +1820,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 334053,
       "name": "Nocturne No. 1 in B flat minor, Op. 9 No. 1",
       "url": "https://open.spotify.com/track/7vIJwiFD2FKiulXzCDMvc4"
@@ -1930,7 +1952,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 301586,
       "name": "Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon",
       "url": "https://open.spotify.com/track/1Mse9NKBbEASi50CQ4aYhr"
@@ -2898,7 +2920,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 142638,
       "name": "Waltz No. 19 in A Minor, KK IVb (Version for Harp in A Flat Minor)",
       "url": "https://open.spotify.com/track/7i9cdG6l1lg0xAraTublsw"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0XfQBWgzisaS9ltDV9bXAS">Honey Dijon</a>'s favorite tracks\. Updated regularly\. Curated by Honey Dijon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-183 songs - 17 hr 41 min
+184 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Besty Smith](https://open.spotify.com/track/4KuMOYSRGcXabMDH93vOwv) | [Boo Williams](https://open.spotify.com/artist/19lPZSDpJKmdxfOVxjouaE) | [Besty Smith](https://open.spotify.com/album/7IHK3ZRhUNMCkki3ofhgHP) | 6:57 | 2023-03-22 | 2023-08-23 |
 | [Black Water \- Full Strings Vocal Mix](https://open.spotify.com/track/4GGjMkxZiV3Z7KqxcIMZJQ) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH), [Ann Saunderson](https://open.spotify.com/artist/7IItD0N1A3unbTmcIzsCEK) | [Space Ibiza 2014 \(25th Anniversary\) \[Unmixed DJ Version\]](https://open.spotify.com/album/6Un9KGv9hSJYnxKSxl2Txf) | 8:38 | 2021-12-20 | 2022-07-29 |
 | [Black Woman Cry](https://open.spotify.com/track/0acPDgZsfcGIbcaUurSjDm) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Black Woman Cry](https://open.spotify.com/album/3d1STWJWKgRJNMOQ178XrV) | 8:34 | 2022-10-14 | 2023-03-23 |
-| [Blackbird \- Ian Pooley's Basic Dub](https://open.spotify.com/track/1K1cfKIXH7QU96AlWz8Gqr) | [Mathias Kaden](https://open.spotify.com/artist/7gURutUeEed1hWmMVq8E0S), [Zoë Xenia](https://open.spotify.com/artist/5HrUbYq85HT5B1dtYrh3fg), [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Blackbird](https://open.spotify.com/album/6QRoboEziqck9Zdkxl8qJ3) | 6:56 | 2022-10-14 |  |
+| [Blackbird \- Ian Pooley's Basic Dub](https://open.spotify.com/track/1K1cfKIXH7QU96AlWz8Gqr) | [Mathias Kaden](https://open.spotify.com/artist/7gURutUeEed1hWmMVq8E0S), [Zoë Xenia](https://open.spotify.com/artist/5HrUbYq85HT5B1dtYrh3fg), [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Blackbird](https://open.spotify.com/album/6QRoboEziqck9Zdkxl8qJ3) | 6:56 | 2022-10-14 | 2023-11-06 |
+| [Blackbird \- Ian Pooley's Basic Dub](https://open.spotify.com/track/7uuPqTd2VEt9lVvvZ6Dj8p) | [Mathias Kaden](https://open.spotify.com/artist/7gURutUeEed1hWmMVq8E0S), [Zoë Xenia](https://open.spotify.com/artist/5HrUbYq85HT5B1dtYrh3fg), [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Blackbird](https://open.spotify.com/album/2neWCHgIQNflxSSfnQoWdR) | 6:56 | 2023-08-22 |  |
 | [Blackwater \- 128 full strings vocal mix](https://open.spotify.com/track/3829oHimRwuUHePcD2Jj7S) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH) | [One Black Water \(feat\. Ann Saunderson\) \[Full Strings Vocal Mix\]](https://open.spotify.com/album/4Ju4z6OA25j2MuR94WgwgJ) | 8:38 | 2022-05-27 | 2022-10-15 |
 | [blah blah blahs \(feat\. Kiéla Adira\)](https://open.spotify.com/track/6cGu86LLLK03HpX3ERgiBk) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Kiéla Adira](https://open.spotify.com/artist/4yd2a7A5sVp0QEzPQASBkY) | [blah blah blahs \(feat\. Kiéla Adira\)](https://open.spotify.com/album/3TViEls6ZkPMYErrmuHeI4) | 3:42 | 2021-12-20 | 2022-10-15 |
 | [Blind \- Frankie Knuckles Remix](https://open.spotify.com/track/2P6QV6D4E3TxcYoYYz8ANJ) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 7:51 | 2021-12-20 | 2022-03-25 |

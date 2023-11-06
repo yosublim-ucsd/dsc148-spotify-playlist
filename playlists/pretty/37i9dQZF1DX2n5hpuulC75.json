@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 258894,
+  "num_followers": 258928,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2FiMTc4MmIyZTc2NjQ4MTRjNzg1ZmNiMzE2MzFhN2NlNWE1ZWY2",
+  "snapshot_id": "MCwzZDQ1YjVlZmMwNDAwNzlmOTYxNDU3YWE0M2YwNmVkZmIyZTZkZDM1",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -371,22 +371,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/3fzORzNVuRc1VH3K74swLE"
-      },
-      "artists": [
-        {
-          "name": "Mishegas",
-          "url": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
-        }
-      ],
-      "duration_ms": 192364,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6oToGY0yfiDHiL13kOvZyr"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Old Compilation 3",
         "url": "https://open.spotify.com/album/7CYCQNeHoMWXQXg9NzqTyM"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 146880,
       "name": "thankful",
       "url": "https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/3fzORzNVuRc1VH3K74swLE"
+      },
+      "artists": [
+        {
+          "name": "Mishegas",
+          "url": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
+        }
+      ],
+      "duration_ms": 192364,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6oToGY0yfiDHiL13kOvZyr"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "Your Own Truth",
-        "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
-      },
-      "artists": [
-        {
-          "name": "James Forest",
-          "url": "https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Your Own Truth",
-      "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Island -EP",
@@ -739,6 +723,22 @@
       "duration_ms": 185758,
       "name": "Together Alone",
       "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Your Own Truth",
+        "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
+      },
+      "artists": [
+        {
+          "name": "James Forest",
+          "url": "https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Your Own Truth",
+      "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
+      },
+      "artists": [
+        {
+          "name": "Su Na",
+          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "After the Tone with Lossapardo",
         "url": "https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 153700,
       "name": "After the Tone with Lossapardo",
       "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Cycle",
-        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
-      },
-      "artists": [
-        {
-          "name": "Su Na",
-          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Cycle",
-      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/1o7GN5kATFdAUw1d8Uimba"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Wherever You Go (You'll Never See Me)",
-        "url": "https://open.spotify.com/album/1Da9UhVgPmpSYlJsSHV9KG"
-      },
-      "artists": [
-        {
-          "name": "Aybner",
-          "url": "https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Wherever You Go (You'll Never See Me)",
-      "url": "https://open.spotify.com/track/1G7KYThXAkjO11OhoKr6z1"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "Holiday (Kyson Remix)",
@@ -1027,6 +1011,22 @@
       "duration_ms": 281727,
       "name": "Holiday - Kyson Remix",
       "url": "https://open.spotify.com/track/4k9izZqQMgE5nSGYFXQSHZ"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Wherever You Go (You'll Never See Me)",
+        "url": "https://open.spotify.com/album/1Da9UhVgPmpSYlJsSHV9KG"
+      },
+      "artists": [
+        {
+          "name": "Aybner",
+          "url": "https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Wherever You Go (You'll Never See Me)",
+      "url": "https://open.spotify.com/track/1G7KYThXAkjO11OhoKr6z1"
     },
     {
       "added_at": "2018-12-11 21:12:31",

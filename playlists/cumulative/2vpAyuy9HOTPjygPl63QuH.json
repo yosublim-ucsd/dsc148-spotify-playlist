@@ -14755,6 +14755,28 @@
     },
     {
       "album": {
+        "name": "Listen [The Remixes]",
+        "url": "https://open.spotify.com/album/2khLaEBxaaisEWt7lGTPg3"
+      },
+      "artists": [
+        {
+          "name": "Stan Kolev",
+          "url": "https://open.spotify.com/artist/6MzHMxgYcbj6ue5w9pbNp9"
+        },
+        {
+          "name": "Austin Pettit",
+          "url": "https://open.spotify.com/artist/2hvTEkJIyi0TLuwpRX1awn"
+        }
+      ],
+      "date_added": "2023-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376456,
+      "name": "Listen - Austin Pettit Remix",
+      "url": "https://open.spotify.com/track/09ysaqWecuRW7gGLBrxTDm"
+    },
+    {
+      "album": {
         "name": "Live Stream (Noizu Remix)",
         "url": "https://open.spotify.com/album/6MY8C5VVAizFXfEgDeTnin"
       },

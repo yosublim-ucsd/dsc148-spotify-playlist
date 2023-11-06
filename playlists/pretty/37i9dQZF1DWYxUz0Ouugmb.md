@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Naura Ayu
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,874 likes - 49 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,889 likes - 49 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 35 | [Home](https://open.spotify.com/track/3qe11lCOsFOHseZBUAxbzY) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 4:02 |
 | 36 | [without me \(sera\)](https://open.spotify.com/track/53CpvxwErRmB830L8BrpUL) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [wonder in time](https://open.spotify.com/album/4rp85WPCI7BXYvDzEU5AgB) | 3:39 |
 | 37 | [Orang Ketiga \- Live](https://open.spotify.com/track/7HHzjPjeUwslBNr2Ga4fVx) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Orang Ketiga \(Live\)](https://open.spotify.com/album/44GfoYKSmyCt1I1zFeeneU) | 4:39 |
-| 38 | [Pendengar Setiamu](https://open.spotify.com/track/3T4FKXFkBOfohf1nrekWmX) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [The Folk: Side A](https://open.spotify.com/album/2VyQdTnx5nwU97ZGb9J1qn) | 4:19 |
+| 38 | [Pendengar Setiamu](https://open.spotify.com/track/3WnI2EOXScASf92nx2GQMy) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [The Folk: Side A](https://open.spotify.com/album/6CtaPOB7FSs2My9MbvV1u8) | 4:19 |
 | 39 | [KAWASAKI](https://open.spotify.com/track/1E5gT3cRA3WuH9XDgVIPau) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [KAWASAKI](https://open.spotify.com/album/44SgcdObjod1zClkfe5NoL) | 2:16 |
 | 40 | [PIMPSHIT](https://open.spotify.com/track/3boTwjX5FdJerg6Il8MJ2E) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj), [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [MY FIRST FRIEND](https://open.spotify.com/album/3J2gpoA7AOnOOIMbNqMhBQ) | 3:11 |
 | 41 | [Cinta](https://open.spotify.com/track/3mvISqUBTqdxV0EYVCxpii) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Cinta](https://open.spotify.com/album/2YxMCx1GU7Mrhp4e3qaQgc) | 2:54 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 48 | [Amin Kita Beda](https://open.spotify.com/track/6cHeFykKTpMpWfGG1T6SbG) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/1H1E64YHp6JOoKxKjwmQqm) | 4:07 |
 | 49 | [Cinta Air Mata](https://open.spotify.com/track/1Mhevyt2cl5lvG3htZoK7a) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Air Mata](https://open.spotify.com/album/7LdARvPk1Wms5pKXqP5UUp) | 4:39 |
 
-Snapshot ID: `MCw0OTU2ZjIyNjkxMjUyMmJkN2FkMWQ5Y2JkZmFkMWEzNWViNjlkZmJh`
+Snapshot ID: `MCw5M2I5NTU4M2E2Y2UxNmQxOThiY2EyMWM5NTFlZDQ2YmMyYWJmYWRh`

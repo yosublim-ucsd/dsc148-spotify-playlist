@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,718 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,797 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [Love Trial](https://open.spotify.com/track/7oa18QwhLsV3JfITGDxslD) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/48CT8I4ImScM4TySzxyBUP) | 3:39 |
 | 50 | [Whisper Whisper Whisper](https://open.spotify.com/track/1fcR1xtq85n7k14tRuCsjw) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Whisper Whisper Whisper](https://open.spotify.com/album/7DGoBmJVnFgvFxu3zBBa6O) | 2:04 |
 
-Snapshot ID: `MCxiMzVjNmI4YWQzOWFkODAwZjFlM2U5ZWU0OTA5ZDQzNWM5ZGY1NDRk`
+Snapshot ID: `MCw1YzNmZjI2NjhjNGI3MzMyNjJmMjVmYzkzM2MwM2RkNTU0NTE0ZGU1`

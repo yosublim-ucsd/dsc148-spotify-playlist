@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Don3ydon
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,901 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,914 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 | 61 | [Them Do It Horns](https://open.spotify.com/track/3SMyprAptZSHdEQgs1A7o6) | [James Nasty](https://open.spotify.com/artist/7wvP2lwU1zadibtqoebkFx) | [Da Movelt Posse Episode 5](https://open.spotify.com/album/7sr97x1GrGHKSgjNI93RPY) | 3:36 |
 | 62 | [Birthday](https://open.spotify.com/track/3VyVcPOFxprHGJW6keV96X) | [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 1: Operation Startup](https://open.spotify.com/album/43FIoknvVjGX6qLBWdLD2t) | 2:14 |
 | 63 | [Hush That Fuss](https://open.spotify.com/track/7nsxgcx2mSkavqB5bAQ93j) | [Dukeyman](https://open.spotify.com/artist/3OeK0k6vkbUDkk0GSjYjcO) | [Baltimore Club Classics \(Dukeyman Greatest Hits\)](https://open.spotify.com/album/7C70nZLgZIPjXrqg5LLJgx) | 4:55 |
-| 64 | [Be Ya Girl](https://open.spotify.com/track/2SYtKPPZGyObiLe2XrqEfY) | [KW Griff](https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu) | [The Sound Of Love International \#002 \- Beautiful Swimmers](https://open.spotify.com/album/2cxbgAp9U7ZubuZ2ygijXk) | 4:11 |
+| 64 | [Be Ya Girl](https://open.spotify.com/track/4pSGAXycdpTQj7Xdy0qLVW) | [KW Griff](https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu) | [The Sound of Love International \#002 \- Beautiful Swimmers](https://open.spotify.com/album/5IXCEluv4v9ljhoRbFdWOa) | 4:11 |
 | 65 | [Yupp Challenge \(feat\. DJ Flex\)](https://open.spotify.com/track/6ZeydF5POoBbhxY2XNk3BQ) | [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk), [DJ Flex](https://open.spotify.com/artist/54L87Ji6ugFjw9oCleDoeL) | [The Bounce \- EP](https://open.spotify.com/album/5AMKgEMFOXCmjSfQ0LNDq9) | 1:21 |
 | 66 | [Dance My Pain Away](https://open.spotify.com/track/2sZrEIyHRqzEB4sBw8X9Jh) | [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [...and all the pieces matter, Five Years of Music from The Wire \(deluxe version\)](https://open.spotify.com/album/6BPxysOQGjfI9pwei72Njl) | 2:07 |
 | 67 | [P's and Q's \- Baltimore Club Remix](https://open.spotify.com/track/7wW943fWk1mAKatFFkZEYu) | [DJ Yae](https://open.spotify.com/artist/5Ac8PPNmprpYESNzUCoXXJ) | [The Cloud, Vol\. 2 \(Baltimore Club Remixes\)](https://open.spotify.com/album/22abjSnLJSlQeS3S5GbUgW) | 1:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 | 69 | [Baltimore City](https://open.spotify.com/track/2GXNQhq760y65pC0OGAAFq) | [DJ Class](https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507), [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 4: The Pressure](https://open.spotify.com/album/2WsSlehfEGLliibE7nRCJF) | 3:06 |
 | 70 | [Jerome](https://open.spotify.com/track/0Y8GBM1KJ9H91q4KviQBFD) | [KW Griff](https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu), [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 2: Operation Not Done Yet](https://open.spotify.com/album/3RUyfLRSlRGfI6CRv3DV3r) | 2:26 |
 
-Snapshot ID: `MCw3ODEzODAwNmI2ZWFkMTdiMzc5ODVmOTg2NjBiNmQzZDk4YzlmMTk5`
+Snapshot ID: `MCwzOTU0MWYxMjY3ZWUzMmFmNTkyZGFhODk4NmNmNmM2NzNlODMzZGE4`

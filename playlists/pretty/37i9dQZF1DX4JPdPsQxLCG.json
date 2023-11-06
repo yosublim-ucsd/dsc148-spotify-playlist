@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road. ",
-  "num_followers": 75741,
+  "num_followers": 75848,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjlkMzRjNDZhNjg0ODA3MzA1MmI1YWFmYjIzYWY3ODk4YWY0YzFm",
+  "snapshot_id": "MCw0YWJhM2MxMjdiYWI1MjMzM2JjY2Y5YWJhNTZlYzUwODFmMzYxYTc2",
   "tracks": [
     {
       "added_at": "2023-10-27 04:01:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "Landmines",
+        "url": "https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 175767,
+      "name": "Landmines",
+      "url": "https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "The Sheepdogs (Deluxe)",
         "url": "https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Landmines",
-        "url": "https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV"
+        "name": "Navy Blues",
+        "url": "https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6"
       },
       "artists": [
         {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "Sloan",
+          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
         }
       ],
-      "duration_ms": 175767,
-      "name": "Landmines",
-      "url": "https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7"
+      "duration_ms": 233916,
+      "name": "Money City Maniacs",
+      "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1155,22 +1171,6 @@
       "duration_ms": 297573,
       "name": "Flesh and Blood",
       "url": "https://open.spotify.com/track/5JNQ5leQ1NEZFHQxlojjBt"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Navy Blues",
-        "url": "https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6"
-      },
-      "artists": [
-        {
-          "name": "Sloan",
-          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
-        }
-      ],
-      "duration_ms": 233916,
-      "name": "Money City Maniacs",
-      "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"
     },
     {
       "added_at": "2023-10-27 04:01:00",

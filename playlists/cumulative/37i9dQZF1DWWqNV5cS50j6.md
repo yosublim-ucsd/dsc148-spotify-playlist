@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: ericdoa
 
-1,548 songs - 3 day 2 hr 44 min
+1,549 songs - 3 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1187,7 +1187,8 @@
 | [SICK! \(with ILOVEMAKONNEN\)](https://open.spotify.com/track/4ZOh05LdZe0vhTozXC0ohJ) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [SICK! \(with ILOVEMAKONNEN\)](https://open.spotify.com/album/7oH4zbfnRUUHGs6eORHksY) | 2:06 | 2021-06-26 | 2021-10-16 |
 | [Siddhartha](https://open.spotify.com/track/5XWOBkdPZZT1l8wJMiVAjB) | [Dead Emerson](https://open.spotify.com/artist/4Qlr4ok7GGJw8tmCWdQOP3) | [Siddhartha](https://open.spotify.com/album/2xxZ89dHbIxRy3lu0Vnevy) | 2:48 | 2020-11-28 | 2021-05-03 |
 | [signs](https://open.spotify.com/track/1YfqDbjEzIOmoSOEarcpGL) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [signs](https://open.spotify.com/album/3gfVDalK5kBVFZGrYNe9NC) | 2:35 | 2021-04-17 | 2021-05-29 |
-| [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 | 2023-10-05 |  |
+| [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 | 2023-10-05 | 2023-11-06 |
+| [Silent Assassin](https://open.spotify.com/track/4mbAgzlDrW35mp0dz4zE40) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:07 | 2023-10-05 |  |
 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/album/5IDEZ1rerrSPTypdQI3od9) | 4:26 | 2023-01-27 | 2023-03-02 |
 | [Since September](https://open.spotify.com/track/1bB04geBJPO5dLx51CWj5V) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [Since September](https://open.spotify.com/album/6lvciV8L3fuHDz2bxPrbHg) | 3:02 | 2023-04-19 | 2023-06-17 |
 | [Sincerity](https://open.spotify.com/track/0KpkCzfYkUdP4GKBdCqQZU) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Sincerity](https://open.spotify.com/album/4y5o71TGGE3NwhnhlVl4jv) | 3:12 | 2020-10-13\* | 2020-12-22 |

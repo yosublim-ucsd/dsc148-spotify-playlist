@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Jimmy Hunt
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,795 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,811 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 37 | [Différent](https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Différent](https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y) | 2:39 |
 | 38 | [Maintenant](https://open.spotify.com/track/2GOyEBwixrrrT6LdscVoxo) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Maintenant](https://open.spotify.com/album/3QoOwSTdtIHltBdrel4lav) | 3:09 |
 | 39 | [Sensations](https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 2:42 |
-| 40 | [French Riviera](https://open.spotify.com/track/1YIxzV3rlDUmIES9tpOytj) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [French Riviera](https://open.spotify.com/album/0zz8rBPR2RmxmlNfvjrgGA) | 3:21 |
-| 41 | [Joli coeur](https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Joli coeur](https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd) | 3:14 |
-| 42 | [CONS’ DE LOVE](https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Amour...](https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML) | 2:45 |
-| 43 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 |
+| 40 | [Joli coeur](https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Joli coeur](https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd) | 3:14 |
+| 41 | [French Riviera](https://open.spotify.com/track/1YIxzV3rlDUmIES9tpOytj) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [French Riviera](https://open.spotify.com/album/0zz8rBPR2RmxmlNfvjrgGA) | 3:21 |
+| 42 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 |
+| 43 | [CONS’ DE LOVE](https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Amour...](https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML) | 2:45 |
 | 44 | [Liberta](https://open.spotify.com/track/69lKtGrjuqYypkYHm6H2WY) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Liberta](https://open.spotify.com/album/4ezzeRj05jnLrRqunm6qJn) | 2:28 |
 | 45 | [Parler de nous](https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Parler de nous](https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds) | 3:13 |
 | 46 | [Côté passager](https://open.spotify.com/track/6h954Sej1qwhpPpgli8I2v) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Côté passager](https://open.spotify.com/album/4FWxAiJKbG63FCND0gXgiR) | 2:54 |
 | 47 | [Apocalypse Calypso](https://open.spotify.com/track/1KnLj7n3uEwwEOYeQc1gfg) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Apocalypse Calypso](https://open.spotify.com/album/6W0wlmuTLCE2K5OPMgwsLz) | 3:16 |
 | 48 | [Avec elle](https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Avec elle](https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg) | 2:46 |
-| 49 | [Chaise pliante, pt\. 10](https://open.spotify.com/track/25DoHshEuKyhCpHd5UO4Bo) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Chaise pliante, pt\. 10](https://open.spotify.com/album/1tIGJ9Z67o0udH2OFSbep0) | 4:46 |
-| 50 | [Un morceau de Sicre](https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Un morceau de Sicre](https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO) | 4:02 |
+| 49 | [Un morceau de Sicre](https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Un morceau de Sicre](https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO) | 4:02 |
+| 50 | [Chaise pliante, pt\. 10](https://open.spotify.com/track/25DoHshEuKyhCpHd5UO4Bo) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Chaise pliante, pt\. 10](https://open.spotify.com/album/1tIGJ9Z67o0udH2OFSbep0) | 4:46 |
 
-Snapshot ID: `MCxmYjM2ZjU1NDMwMTI2ZWJkNjUyNmQ3NGQ2OTdkNDhhYjc0Y2Y0NGEw`
+Snapshot ID: `MCxkNDM2ZThhMDk1MGI3ZWE1MzQ2Yjc3NjY2NjliNTg1ZjVjY2NkODQ3`

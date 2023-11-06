@@ -4,11 +4,12 @@
 
 > Il sound giusto per creare in cucina!
 
-167 songs - 9 hr 38 min
+168 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Poor Mi\) Israelites](https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Intensified](https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy) | 2:33 | 2020-11-10 | 2023-11-03 |
+| [\(Poor Mi\) Israelites](https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:36 | 2020-11-10 |  |
 | [\(What A\) Wonderful World](https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [A Valentine For You](https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel) | 2:07 | 2020-11-10 |  |
 | [\(What A\) Wonderful World](https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best of Sam Cooke](https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8) | 2:09 | 2020-11-10 | 2023-02-13 |
 | [\(What A\) Wonderful World \- Mono](https://open.spotify.com/track/7K99Vc7CcTIHI0C1VISKS0) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Feelgood Klassiker](https://open.spotify.com/album/3E4WGUFoaa08YekZx2sNR9) | 2:08 | 2020-11-10 | 2022-11-13 |
@@ -136,7 +137,7 @@
 | [Quizás, Quizás](https://open.spotify.com/track/4MvjuFr0kiOEUrebmMBhFr) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club en el Carnegie Hall](https://open.spotify.com/album/3I7Uvr9bGjk8CHeUUYV2ba) | 3:47 | 2020-11-10 | 2022-07-29 |
 | [Quizás, Quizás \- Live](https://open.spotify.com/track/2GVDX9MYgot3QdNe7xv1Yb) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club at Carnegie Hall \(Live\)](https://open.spotify.com/album/7gIpPRE9VDKCrMk08okn59) | 3:47 | 2020-11-10 | 2023-11-05 |
 | [Rapaz Do Violão](https://open.spotify.com/track/1BIxpdpbOgELhYOoBYael5) | [Os Originais Do Samba](https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg) | [Os Originais Do Samba](https://open.spotify.com/album/72ITnY3eflQkRLbLYkRkaZ) | 3:16 | 2020-11-10 | 2022-07-25 |
-| [Remelexo](https://open.spotify.com/track/0jkR7EFXNnY1PHJ8pMYnd9) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Domingo](https://open.spotify.com/album/4d8IqRNN8UX3vxtS6jnBA8) | 1:52 | 2020-11-10 |  |
+| [Remelexo](https://open.spotify.com/track/0jkR7EFXNnY1PHJ8pMYnd9) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Domingo](https://open.spotify.com/album/4d8IqRNN8UX3vxtS6jnBA8) | 1:52 | 2020-11-10 | 2023-11-06 |
 | [Rio da Bossa Nova](https://open.spotify.com/track/0i3K9hHc945WIYQZsyc8P0) | [Beto Villares](https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt), [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv) | [Excelentes Lugares Bonitos](https://open.spotify.com/album/7pigoeFRJ3aM9sPja9yxsP) | 3:26 | 2020-11-10 | 2022-07-28 |
 | [Rudy, a Message to You](https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [The Best of Dandy Livingstone](https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3) | 2:42 | 2020-11-10 |  |
 | [Rudy, A Message To You](https://open.spotify.com/track/4WKQHFv4KqIehRBb3V3a9p) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [Suzanne Beware of the Devil \- The Best of Dandy Livingstone](https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf) | 2:48 | 2020-11-10 | 2023-11-04 |

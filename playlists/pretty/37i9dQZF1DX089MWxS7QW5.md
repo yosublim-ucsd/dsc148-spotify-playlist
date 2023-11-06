@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: HaSeul\(하슬\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,725 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,844 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 |
 | 50 | [For you](https://open.spotify.com/track/23mLrZO5Ff4UJYvJoTSu58) | [YEL](https://open.spotify.com/artist/5tm31CNMTzuIL7TqVGURwj) | [For you](https://open.spotify.com/album/0Q4mZDKAmY6bMajZJ9Vsrc) | 3:18 |
 
-Snapshot ID: `MCxkOTE4MGZlM2E1YjQ3OTQ1YzhkMGY3NDU4ZDVhZjM5MGFiYzhjMGE3`
+Snapshot ID: `MCxlY2RlOTk2OTkxZmQ5YTE3NDVkYTE3MjU1NzQyNDQwYTI3ZDZhZmJm`

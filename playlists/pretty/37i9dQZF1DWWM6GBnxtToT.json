@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 578523,
+  "num_followers": 578601,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjQwNjNhMDM1MTA5NjY5M2MzMjE1MGFmNGNkYWJmNmNkNTNlMGE3",
+  "snapshot_id": "MCw4OWQ5MTgxZGJlNWExMTdkYmIxN2E1NDU1Yzk4Y2IwMDkxMDVkMWYy",
   "tracks": [
     {
       "added_at": "2023-10-19 09:54:20",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Acting My Age",
-        "url": "https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW"
-      },
-      "artists": [
-        {
-          "name": "The Academic",
-          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
-        }
-      ],
-      "duration_ms": 222312,
-      "name": "Acting My Age",
-      "url": "https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Kate's Not Here (Day Wave & Lawrence Rothman Remix)",
         "url": "https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 187364,
       "name": "Kate's Not Here - Day Wave & Lawrence Rothman Remix",
       "url": "https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Acting My Age",
+        "url": "https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW"
+      },
+      "artists": [
+        {
+          "name": "The Academic",
+          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
+        }
+      ],
+      "duration_ms": 222312,
+      "name": "Acting My Age",
+      "url": "https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm"
-      },
-      "artists": [
-        {
-          "name": "Mar Malade",
-          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
-        }
-      ],
-      "duration_ms": 236119,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Mister Burns",
-        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm"
       },
       "artists": [
         {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+          "name": "Mar Malade",
+          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Mister Burns",
-      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
+      "duration_ms": 236119,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -891,6 +875,22 @@
       "duration_ms": 128703,
       "name": "Tenderfoot",
       "url": "https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Mister Burns",
+        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Mister Burns",
+      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Dancing in the City (Radio Edit)",
-        "url": "https://open.spotify.com/album/4y2vjGF1u3hhPdyLHiL70o"
-      },
-      "artists": [
-        {
-          "name": "Siamese Elephants",
-          "url": "https://open.spotify.com/artist/7bgOhFs7p8ZGBMIIORey80"
-        }
-      ],
-      "duration_ms": 201994,
-      "name": "Dancing in the City (Radio Edit)",
-      "url": "https://open.spotify.com/track/12pXH0mid48V0vN0ykfBG5"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Complex Happenings Reduced To A Simple Design",
         "url": "https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 181800,
       "name": "Dice",
       "url": "https://open.spotify.com/track/1PYXkGTAy509qlSFvwkjTe"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Dancing in the City (Radio Edit)",
+        "url": "https://open.spotify.com/album/4y2vjGF1u3hhPdyLHiL70o"
+      },
+      "artists": [
+        {
+          "name": "Siamese Elephants",
+          "url": "https://open.spotify.com/artist/7bgOhFs7p8ZGBMIIORey80"
+        }
+      ],
+      "duration_ms": 201994,
+      "name": "Dancing in the City (Radio Edit)",
+      "url": "https://open.spotify.com/track/12pXH0mid48V0vN0ykfBG5"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Mellow Moon",
-        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
+        "name": "beautiful day",
+        "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
       },
       "artists": [
         {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+          "name": "Henri Purnell",
+          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
         }
       ],
-      "duration_ms": 196560,
-      "name": "Colour Me Blue",
-      "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
+      "duration_ms": 183836,
+      "name": "beautiful day",
+      "url": "https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1115,34 +1115,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "beautiful day",
-        "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
+        "name": "Mellow Moon",
+        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
       },
       "artists": [
         {
-          "name": "Henri Purnell",
-          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
         }
       ],
-      "duration_ms": 183836,
-      "name": "beautiful day",
-      "url": "https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L"
-      },
-      "artists": [
-        {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "Bleach",
-      "url": "https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN"
+      "duration_ms": 196560,
+      "name": "Colour Me Blue",
+      "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Here, Right Now",
-        "url": "https://open.spotify.com/album/0pz6QxOt98LbnryystoGza"
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L"
       },
       "artists": [
         {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
         }
       ],
-      "duration_ms": 175560,
-      "name": "Going with You",
-      "url": "https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD"
+      "duration_ms": 209960,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1199,6 +1183,22 @@
       "duration_ms": 228092,
       "name": "In Plain Sight",
       "url": "https://open.spotify.com/track/4BRx9dbjHmxUGRZAhQta3d"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Here, Right Now",
+        "url": "https://open.spotify.com/album/0pz6QxOt98LbnryystoGza"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 175560,
+      "name": "Going with You",
+      "url": "https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Little Lucille",
-        "url": "https://open.spotify.com/album/0zPpywiwsbG0vyJAxchY6A"
-      },
-      "artists": [
-        {
-          "name": "Karmic",
-          "url": "https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr"
-        }
-      ],
-      "duration_ms": 198510,
-      "name": "Little Lucille",
-      "url": "https://open.spotify.com/track/4EZMIxbJgUQnz6ZhW9924G"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Mirage Morning",
         "url": "https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 162755,
       "name": "Tides",
       "url": "https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Little Lucille",
+        "url": "https://open.spotify.com/album/0zPpywiwsbG0vyJAxchY6A"
+      },
+      "artists": [
+        {
+          "name": "Karmic",
+          "url": "https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr"
+        }
+      ],
+      "duration_ms": 198510,
+      "name": "Little Lucille",
+      "url": "https://open.spotify.com/track/4EZMIxbJgUQnz6ZhW9924G"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Saltburn",
+        "url": "https://open.spotify.com/album/5siL9F6fBRgdI2UhHfr2aj"
+      },
+      "artists": [
+        {
+          "name": "Future Humans",
+          "url": "https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl"
+        }
+      ],
+      "duration_ms": 186704,
+      "name": "Saltburn",
+      "url": "https://open.spotify.com/track/1YlvVgYcPQWNYMt23udKuf"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Live Vol. 1",
         "url": "https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 163987,
       "name": "How 2 Dance",
       "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Saltburn",
-        "url": "https://open.spotify.com/album/5siL9F6fBRgdI2UhHfr2aj"
-      },
-      "artists": [
-        {
-          "name": "Future Humans",
-          "url": "https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl"
-        }
-      ],
-      "duration_ms": 186704,
-      "name": "Saltburn",
-      "url": "https://open.spotify.com/track/1YlvVgYcPQWNYMt23udKuf"
     },
     {
       "added_at": "2023-10-19 09:54:20",

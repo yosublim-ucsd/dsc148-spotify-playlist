@@ -4,7 +4,7 @@
 
 > Certi amori bruciano di più\. Cover: Tedua
 
-143 songs - 7 hr 24 min
+144 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Lo Sai Che Ci Penso](https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Davide](https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8) | 3:00 | 2022-05-03 |  |
 | [Lovebars](https://open.spotify.com/track/6O7pAOsUm3d9R37vYdQnG5) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lovebars](https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN) | 2:45 | 2023-09-07 |  |
 | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm) | 3:00 | 2022-05-03 |  |
-| [Madame](https://open.spotify.com/track/1YuwtGNJID9U7nfvhTovql) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/44QCkU2JXCsvOfwRHCXCxZ) | 2:13 | 2023-10-19 |  |
+| [Madame](https://open.spotify.com/track/0JPyVgLem5a4HcXEADJXg5) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/5di5PgxR4cs1PveHPkgKtr) | 2:13 | 2023-11-02 |  |
+| [Madame](https://open.spotify.com/track/1YuwtGNJID9U7nfvhTovql) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/44QCkU2JXCsvOfwRHCXCxZ) | 2:13 | 2023-10-19 | 2023-11-06 |
 | [MADAME \- L'anima \(feat\. Madame\)](https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:41 | 2022-05-03 |  |
 | [Male](https://open.spotify.com/track/1Dl5iWa6lWEZpkQDZNuVnO) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 2:41 | 2022-07-28 |  |
 | [Male](https://open.spotify.com/track/2mb8gG8kOMCJDzBmCNm7El) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Gaming Hip Hop Hits](https://open.spotify.com/album/7fPtjzJR9bfAf7Wv0v9Xp2) | 2:41 | 2022-11-07 | 2022-11-14 |

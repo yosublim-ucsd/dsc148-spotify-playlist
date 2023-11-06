@@ -4,7 +4,7 @@
 
 > Revisit the retro Rahman
 
-185 songs - 17 hr 10 min
+186 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Enna Vilai](https://open.spotify.com/track/6rZSYvC4KUK1wjJWwHXsce) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Kadhalar Dhinam](https://open.spotify.com/album/54smW0Ay2dLlme2CUivRmf) | 5:55 | 2021-10-15 | 2023-03-11 |
 | [Enna Vilai \(From "Kadhalar Dhinam"\)](https://open.spotify.com/track/1BdH25MwA6wAHPwWTPkV2H) | [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Super Hits of Vaali](https://open.spotify.com/album/4u91WcDqOfMTK3XrwrgaYX) | 5:51 | 2021-10-15 | 2023-05-19 |
 | [Enna Vilai \(From "Kadhalar Dhinam"\)](https://open.spotify.com/track/34VWKth8BOASPwM9SBkjvz) | [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Love and Love Only](https://open.spotify.com/album/5QsKznH55SB0z2j1QKurmo) | 5:51 | 2021-10-15 | 2022-11-14 |
+| [Enna Vilai Azhage](https://open.spotify.com/track/32WiHdNWj1yIClaEQYTkId) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Kadhalar Dhinam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hOSKKZvlAQ8ZHU1yGN8XV) | 5:55 | 2021-10-15 |  |
 | [Enna Vilai Azhage](https://open.spotify.com/track/3qlawfjCvol8f2JdsdTxjX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Kadhalar Dhinam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5aQGpop0sXYi7lU6CIscIs) | 5:55 | 2021-10-15 | 2023-11-04 |
 | [Enna Vilai Azhage](https://open.spotify.com/track/4XhGK1D4wJxDFbeJIA22DN) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Kadhalar Dhinam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ddsjwKwhdsE8v60oG2Jph) | 5:55 | 2021-10-15 | 2023-05-14 |
 | [Ennavale Adi Ennavale](https://open.spotify.com/track/5KfLr5UF3iQN0ifFMQH0ol) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX) | [Kaadhalan](https://open.spotify.com/album/2FLFZYTdBl3PyrsMVm1fMR) | 5:12 | 2021-10-15 |  |
@@ -110,7 +111,7 @@
 | [Nila Kaaigiradhu](https://open.spotify.com/track/4xZqoLPxeIUItAiF16H6Ve) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Indira](https://open.spotify.com/album/4FvIXi65kuBXwRh94eXBBh) | 4:15 | 2021-10-15 |  |
 | [No Problem](https://open.spotify.com/track/3acFeDmEepuQD6YruwJT6L) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Apache Indian](https://open.spotify.com/artist/4sLklwvfOYr12fMGwrnlc7) | [Love Birds](https://open.spotify.com/album/1IXkD2tHqQUhQlwRskclSH) | 6:10 | 2023-01-10 | 2023-05-03 |
 | [No Problem](https://open.spotify.com/track/51hv6doMfIm6byNxd0NGsD) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Love Birds](https://open.spotify.com/album/2EXhA2k0LttCoCLIqRmuHw) | 0:30 | 2021-10-15 | 2023-01-11 |
-| [Odakaara](https://open.spotify.com/track/5cVGeRF155LSm6QDML2RlY) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sirkazhi G\. Sivachidambaram](https://open.spotify.com/artist/2qiqvIseQQw7vvb8STzQEA) | [Indira](https://open.spotify.com/album/4FvIXi65kuBXwRh94eXBBh) | 4:21 | 2021-10-15 |  |
+| [Odakaara](https://open.spotify.com/track/5cVGeRF155LSm6QDML2RlY) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sirkazhi G\. Sivachidambaram](https://open.spotify.com/artist/2qiqvIseQQw7vvb8STzQEA) | [Indira](https://open.spotify.com/album/4FvIXi65kuBXwRh94eXBBh) | 4:21 | 2021-10-15 | 2023-11-06 |
 | [Oru Poiyavathu \(From "Jodi"\)](https://open.spotify.com/track/6zMpg17rh0XftHphBJJmmd) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Prashanth Special Hits](https://open.spotify.com/album/0cpNlAV3IMP45ydk82Y4V2) | 7:03 | 2021-10-15 | 2022-11-13 |
 | [Oru Poiyavathu \(From "Jodi"\)](https://open.spotify.com/track/2n0ffQTaPdqflETu3qVRnl) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Hits of A.R.Rahman Nenjame](https://open.spotify.com/album/3iKVYlP2xoFhuDhXOWZt9b) | 7:03 | 2021-10-15 |  |
 | [Oru Poiyavathu M](https://open.spotify.com/track/0TyyUNBUUkW87hfWgUOJWy) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Jodi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/530Ue2hZyDFcgiDubkR5FY) | 7:03 | 2021-10-15 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Lex en portada.",
-  "num_followers": 55156,
+  "num_followers": 55172,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDQwYzEyNDQ0NTYzY2Q0ZGRhM2E0YmI2ODE5ZWMyMWY1MDZjZDg5",
+  "snapshot_id": "MCw0NjA1NDk4ZWQwMjhkMDk0OTZhNzgzZmI2YTZhYjMxODBjZTQzNzZm",
   "tracks": [
     {
       "added_at": "2023-10-31 02:13:36",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-10-31 02:13:36",
       "album": {
-        "name": "Hanging Tree",
-        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Hanging Tree",
-      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
-    },
-    {
-      "added_at": "2023-10-31 02:13:36",
-      "album": {
         "name": "CLI CLI Clan Clan",
         "url": "https://open.spotify.com/album/7CyIk7mlvZK9F5AFggoRWH"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 259306,
       "name": "CLI CLI Clan Clan",
       "url": "https://open.spotify.com/track/5xLrfv3GK89aV5lL1ger1e"
+    },
+    {
+      "added_at": "2023-10-31 02:13:36",
+      "album": {
+        "name": "Hanging Tree",
+        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Hanging Tree",
+      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
     },
     {
       "added_at": "2023-10-31 02:13:36",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-10-31 02:13:36",
       "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
+      },
+      "artists": [
+        {
+          "name": "Iker Azcu\u00e9",
+          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+        }
+      ],
+      "duration_ms": 171707,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
+    },
+    {
+      "added_at": "2023-10-31 02:13:36",
+      "album": {
         "name": "Push Me",
         "url": "https://open.spotify.com/album/5jamFfc9LWWvJCceNcZZgg"
       },
@@ -739,42 +755,6 @@
     {
       "added_at": "2023-10-31 02:13:36",
       "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
-      },
-      "artists": [
-        {
-          "name": "Iker Azcu\u00e9",
-          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
-        }
-      ],
-      "duration_ms": 171707,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
-    },
-    {
-      "added_at": "2023-10-31 02:13:36",
-      "album": {
-        "name": "I Saw You",
-        "url": "https://open.spotify.com/album/4gxbyW1dpyW55B5YxRzw8w"
-      },
-      "artists": [
-        {
-          "name": "Fortu & Mendoza",
-          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
-        },
-        {
-          "name": "A-Dyad",
-          "url": "https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "I Saw You",
-      "url": "https://open.spotify.com/track/0S7Z61F0tievPImUOKNnXy"
-    },
-    {
-      "added_at": "2023-10-31 02:13:36",
-      "album": {
         "name": "Ayanami",
         "url": "https://open.spotify.com/album/5NVQqWiBw9New8cyTEwBsR"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 147000,
       "name": "Ayanami",
       "url": "https://open.spotify.com/track/0WXJI3uV5WfXOdr9bYv4Um"
+    },
+    {
+      "added_at": "2023-10-31 02:13:36",
+      "album": {
+        "name": "I Saw You",
+        "url": "https://open.spotify.com/album/4gxbyW1dpyW55B5YxRzw8w"
+      },
+      "artists": [
+        {
+          "name": "Fortu & Mendoza",
+          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
+        },
+        {
+          "name": "A-Dyad",
+          "url": "https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "I Saw You",
+      "url": "https://open.spotify.com/track/0S7Z61F0tievPImUOKNnXy"
     },
     {
       "added_at": "2023-10-31 02:13:36",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-10-31 02:13:36",
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
+      },
+      "artists": [
+        {
+          "name": "Iker Azcu\u00e9",
+          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+        }
+      ],
+      "duration_ms": 166611,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
+    },
+    {
+      "added_at": "2023-10-31 02:13:36",
+      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal"
       },
@@ -1115,30 +1131,6 @@
       "duration_ms": 211903,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN"
-    },
-    {
-      "added_at": "2023-10-31 02:13:36",
-      "album": {
-        "name": "Brake Test",
-        "url": "https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI"
-      },
-      "artists": [
-        {
-          "name": "Kevin Brand",
-          "url": "https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS"
-        },
-        {
-          "name": "Guztavo MX",
-          "url": "https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q"
-        },
-        {
-          "name": "Nitai Charan",
-          "url": "https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I"
-        }
-      ],
-      "duration_ms": 137812,
-      "name": "Brake Test",
-      "url": "https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN"
     },
     {
       "added_at": "2023-10-31 02:13:36",
@@ -1171,18 +1163,26 @@
     {
       "added_at": "2023-10-31 02:13:36",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
+        "name": "Brake Test",
+        "url": "https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI"
       },
       "artists": [
         {
-          "name": "Iker Azcu\u00e9",
-          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+          "name": "Kevin Brand",
+          "url": "https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS"
+        },
+        {
+          "name": "Guztavo MX",
+          "url": "https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q"
+        },
+        {
+          "name": "Nitai Charan",
+          "url": "https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I"
         }
       ],
-      "duration_ms": 166611,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
+      "duration_ms": 137812,
+      "name": "Brake Test",
+      "url": "https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN"
     },
     {
       "added_at": "2023-10-31 02:13:36",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-10-31 02:13:36",
       "album": {
-        "name": "Ra Ta Ta (LNY TNZ Remix)",
-        "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        },
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        }
-      ],
-      "duration_ms": 174420,
-      "name": "Ra Ta Ta - LNY TNZ Remix",
-      "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
-    },
-    {
-      "added_at": "2023-10-31 02:13:36",
-      "album": {
         "name": "Density",
         "url": "https://open.spotify.com/album/2Bocmy767YuGNfbMPuMRGl"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 161904,
       "name": "Density",
       "url": "https://open.spotify.com/track/6cPRAfTRZhnQjKtB5y8ucp"
+    },
+    {
+      "added_at": "2023-10-31 02:13:36",
+      "album": {
+        "name": "Ra Ta Ta (LNY TNZ Remix)",
+        "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "duration_ms": 174420,
+      "name": "Ra Ta Ta - LNY TNZ Remix",
+      "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
     },
     {
       "added_at": "2023-10-31 02:13:36",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2023-10-31 02:13:36",
       "album": {
-        "name": "Esto Aqui No Acaba",
-        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Flor Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Esto Aqui No Acaba",
-      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
-    },
-    {
-      "added_at": "2023-10-31 02:13:36",
-      "album": {
         "name": "Clap Your Hands For Love",
         "url": "https://open.spotify.com/album/5NTWWtbJgtRkQdPBbqMYu7"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 177627,
       "name": "Clap Your Hands For Love",
       "url": "https://open.spotify.com/track/7hiYyIQXoGzgon6w4MVPrx"
+    },
+    {
+      "added_at": "2023-10-31 02:13:36",
+      "album": {
+        "name": "Esto Aqui No Acaba",
+        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Flor Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Esto Aqui No Acaba",
+      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
     },
     {
       "added_at": "2023-10-31 02:13:36",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-10-31 02:13:36",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
-    },
-    {
-      "added_at": "2023-10-31 02:13:36",
-      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/1fRYEitkWXzm7eahpzX0ll"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 195692,
       "name": "San Junipero (Usb Gad Remix)",
       "url": "https://open.spotify.com/track/3KoOKxythVoYOR08bs3tGg"
+    },
+    {
+      "added_at": "2023-10-31 02:13:36",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        }
+      ],
+      "duration_ms": 210967,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
     },
     {
       "added_at": "2023-10-31 02:13:36",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2023-10-31 02:13:36",
       "album": {
-        "name": "Like a Dream",
-        "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Bandido Brothers",
-          "url": "https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Like a Dream",
-      "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
-    },
-    {
-      "added_at": "2023-10-31 02:13:36",
-      "album": {
         "name": "Galactic Feelings",
         "url": "https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 214416,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/7mmwYkMjErRJrMxemmm2zk"
+    },
+    {
+      "added_at": "2023-10-31 02:13:36",
+      "album": {
+        "name": "Like a Dream",
+        "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Bandido Brothers",
+          "url": "https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Like a Dream",
+      "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
     },
     {
       "added_at": "2023-10-31 02:13:36",

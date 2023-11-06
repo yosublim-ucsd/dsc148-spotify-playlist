@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover - OG",
-  "num_followers": 49125,
+  "num_followers": 49210,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDRiY2I5NzE2MGEyNTViZjdmZTliOGE5ODVkNjZlYWQwY2JlMTk5",
+  "snapshot_id": "MCxiMWE0ZjQ3ZjQ5NmM1Y2E3OTVkYTVlYmUxM2Y3OTYyN2M0ZTEzZjlk",
   "tracks": [
     {
       "added_at": "2023-08-30 10:44:11",
@@ -567,6 +567,26 @@
       "duration_ms": 225034,
       "name": "Jinthaak Chithaka",
       "url": "https://open.spotify.com/track/5lros38FrhzSXgABKnBsb4"
+    },
+    {
+      "added_at": "2023-08-30 10:44:11",
+      "album": {
+        "name": "Vinaro Bhagyamu Vishnu Katha",
+        "url": "https://open.spotify.com/album/5IYnCIHoayjRyzW6OiumQb"
+      },
+      "artists": [
+        {
+          "name": "Chaitan Bharadwaj",
+          "url": "https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "duration_ms": 218385,
+      "name": "Darshana",
+      "url": "https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM"
     },
     {
       "added_at": "2023-08-30 10:44:11",

@@ -4,12 +4,13 @@
 
 > These are the songs that shape <a href="https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy?si=ead57c8c75c94c3a">PVRIS'</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>.
 
-31 songs - 1 hr 41 min
+33 songs - 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18+](https://open.spotify.com/track/3SqPQRaxS6A6G7rlE7lvhs) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [18+](https://open.spotify.com/album/6oveIE1VtjcawBs2UlM3Mn) | 3:13 | 2023-07-14 |  |
-| [a woman is a god](https://open.spotify.com/track/7fEs3RW4KCT7II7SWFU2Gx) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [goldilocks x](https://open.spotify.com/album/1ub4u5KekqUhWrOoBzoB6s) | 2:58 | 2023-07-14 |  |
+| [a woman is a god](https://open.spotify.com/track/6XNWEBcyeOYyp5w3E2aIGK) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [goldilocks x](https://open.spotify.com/album/0rJiPzR6DjTWdi8SjAJKJD) | 2:58 | 2023-08-04 |  |
+| [a woman is a god](https://open.spotify.com/track/7fEs3RW4KCT7II7SWFU2Gx) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [goldilocks x](https://open.spotify.com/album/1ub4u5KekqUhWrOoBzoB6s) | 2:58 | 2023-07-14 | 2023-11-06 |
 | [Army of Me](https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:54 | 2023-07-14 |  |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-07-14 |  |
 | [Babel](https://open.spotify.com/track/3vpzJwxVjwcbuqPclqOX9I) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 5:19 | 2023-07-14 |  |
@@ -29,7 +30,8 @@
 | [Like A Knife](https://open.spotify.com/track/3KtIEskaAF8eojLEoy9SgN) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [More Sad Music](https://open.spotify.com/album/4rBkmbNkDyYQYxjcPxJeTU) | 3:00 | 2023-07-14 |  |
 | [Luna Llena](https://open.spotify.com/track/4I4p4iwxzFzdiz1WOZdZk7) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 3:19 | 2023-07-14 |  |
 | [Machine Gun](https://open.spotify.com/track/4gxG38GmhagF2T6eaTdUR6) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Third](https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo) | 4:43 | 2023-07-14 |  |
-| [NIGHTSHIFT](https://open.spotify.com/track/6vZqkQWq28a1ccZa69KDQd) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal \(Deluxe\)](https://open.spotify.com/album/3lsu0Vp20MZEsHdTDE6G8I) | 2:07 | 2023-07-14 |  |
+| [NIGHTSHIFT](https://open.spotify.com/track/1jYnAsjQrW7ZCzGhv7txdV) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal \(Deluxe\)](https://open.spotify.com/album/0w9y3hsTarYxfXKgH5BEF4) | 2:07 | 2023-08-04 |  |
+| [NIGHTSHIFT](https://open.spotify.com/track/6vZqkQWq28a1ccZa69KDQd) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal \(Deluxe\)](https://open.spotify.com/album/3lsu0Vp20MZEsHdTDE6G8I) | 2:07 | 2023-07-14 | 2023-11-06 |
 | [Nike](https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nike](https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx) | 2:07 | 2023-07-14 |  |
 | [Ponyboy](https://open.spotify.com/track/30lIB7UwSLy5qgkfYZEtB1) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:14 | 2023-07-14 |  |
 | [Puzzles](https://open.spotify.com/track/56F0w1wbpp3mQRpTlKXVi8) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 2:41 | 2023-07-14 |  |

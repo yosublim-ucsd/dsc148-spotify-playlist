@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ska 100% Mexicano, c\u00edrculos de paz y baile! Out Of Control Army en portada. ",
-  "num_followers": 9287,
+  "num_followers": 9301,
   "original_name": "MexSka ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGExODU1ZDU1ODg5NjU1YWMxM2U4NDk2ZmYwMDU1MWQ4MjAzNDk4",
+  "snapshot_id": "MCxiNDFjNTEzN2ExM2ZiOGQ0ZDQ1YjQ4NjQ1MTk3Yjk5Y2Q0NTAzMzhh",
   "tracks": [
     {
       "added_at": "2023-10-27 21:56:31",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-10-27 21:56:31",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 267226,
-      "name": "Kumbala",
-      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
-    },
-    {
-      "added_at": "2023-10-27 21:56:31",
-      "album": {
         "name": "Avalancha de \u00e9xitos",
         "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 214880,
       "name": "Como te extra\u00f1o mi amor",
       "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
+    },
+    {
+      "added_at": "2023-10-27 21:56:31",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 267226,
+      "name": "Kumbala",
+      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
     },
     {
       "added_at": "2023-10-27 21:56:31",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-10-27 21:56:31",
       "album": {
-        "name": "Sonora Skandalera",
-        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
-      },
-      "artists": [
-        {
-          "name": "Sonora Skandalera",
-          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
-        }
-      ],
-      "duration_ms": 360071,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/7LTDgxW0Wkl0lZOq4Z5fOZ"
-    },
-    {
-      "added_at": "2023-10-27 21:56:31",
-      "album": {
         "name": "La Ciudad Es...Nuestra",
         "url": "https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 60033,
       "name": "Skarface",
       "url": "https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl"
+    },
+    {
+      "added_at": "2023-10-27 21:56:31",
+      "album": {
+        "name": "Sonora Skandalera",
+        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
+      },
+      "artists": [
+        {
+          "name": "Sonora Skandalera",
+          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
+        }
+      ],
+      "duration_ms": 360071,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/7LTDgxW0Wkl0lZOq4Z5fOZ"
     },
     {
       "added_at": "2023-10-27 21:56:31",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-10-27 21:56:31",
       "album": {
-        "name": "De Todo Tengo Se\u00f1or",
-        "url": "https://open.spotify.com/album/3hvT6HiskpLzcwgXIpjhJz"
-      },
-      "artists": [
-        {
-          "name": "Los Korucos",
-          "url": "https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx"
-        }
-      ],
-      "duration_ms": 150466,
-      "name": "Marich\u00fa",
-      "url": "https://open.spotify.com/track/269LeYy1CgAmIEAcQF4RHi"
-    },
-    {
-      "added_at": "2023-10-27 21:56:31",
-      "album": {
         "name": "Monstruo de Bares",
         "url": "https://open.spotify.com/album/47ZjISrfM9FkXYAMxjSTKZ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 154533,
       "name": "Esperges\u00eda",
       "url": "https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1"
+    },
+    {
+      "added_at": "2023-10-27 21:56:31",
+      "album": {
+        "name": "De Todo Tengo Se\u00f1or",
+        "url": "https://open.spotify.com/album/3hvT6HiskpLzcwgXIpjhJz"
+      },
+      "artists": [
+        {
+          "name": "Los Korucos",
+          "url": "https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx"
+        }
+      ],
+      "duration_ms": 150466,
+      "name": "Marich\u00fa",
+      "url": "https://open.spotify.com/track/269LeYy1CgAmIEAcQF4RHi"
     },
     {
       "added_at": "2023-10-27 21:56:31",
@@ -1431,8 +1431,8 @@
     {
       "added_at": "2023-10-27 21:56:31",
       "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/7iYLo31mBnrsdVf9iPMUm6"
+        "name": "Tu nombre",
+        "url": "https://open.spotify.com/album/2cpA3RmZc8srL9hXtrrPvO"
       },
       "artists": [
         {
@@ -1440,9 +1440,9 @@
           "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
         }
       ],
-      "duration_ms": 191317,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/0f9SJZoJiPn2a1p8RMOx8K"
+      "duration_ms": 173335,
+      "name": "Tu nombre",
+      "url": "https://open.spotify.com/track/2V2mt0TwlE1LHFvWv5QiAt"
     },
     {
       "added_at": "2023-10-27 21:56:31",
@@ -1515,8 +1515,8 @@
     {
       "added_at": "2023-10-27 21:56:31",
       "album": {
-        "name": "Frente al Mar",
-        "url": "https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n"
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce"
       },
       "artists": [
         {
@@ -1524,9 +1524,25 @@
           "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
         }
       ],
-      "duration_ms": 304172,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg"
+      "duration_ms": 263000,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH"
+    },
+    {
+      "added_at": "2023-10-27 21:56:31",
+      "album": {
+        "name": "Sue\u00f1os (Remastered)",
+        "url": "https://open.spotify.com/album/3vdd9bpIJGHyBpEhqS3OYx"
+      },
+      "artists": [
+        {
+          "name": "Sant\u00edsima Trinidad",
+          "url": "https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs"
+        }
+      ],
+      "duration_ms": 181340,
+      "name": "Blue Ska",
+      "url": "https://open.spotify.com/track/5uaI9Q4PZdVeM7flx4ksB8"
     },
     {
       "added_at": "2023-10-27 21:56:31",
@@ -1563,24 +1579,8 @@
     {
       "added_at": "2023-10-27 21:56:31",
       "album": {
-        "name": "Sue\u00f1os (Remastered)",
-        "url": "https://open.spotify.com/album/3vdd9bpIJGHyBpEhqS3OYx"
-      },
-      "artists": [
-        {
-          "name": "Sant\u00edsima Trinidad",
-          "url": "https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs"
-        }
-      ],
-      "duration_ms": 181340,
-      "name": "Blue Ska",
-      "url": "https://open.spotify.com/track/5uaI9Q4PZdVeM7flx4ksB8"
-    },
-    {
-      "added_at": "2023-10-27 21:56:31",
-      "album": {
-        "name": "Tu nombre",
-        "url": "https://open.spotify.com/album/2cpA3RmZc8srL9hXtrrPvO"
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/7iYLo31mBnrsdVf9iPMUm6"
       },
       "artists": [
         {
@@ -1588,9 +1588,9 @@
           "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
         }
       ],
-      "duration_ms": 173335,
-      "name": "Tu nombre",
-      "url": "https://open.spotify.com/track/2V2mt0TwlE1LHFvWv5QiAt"
+      "duration_ms": 191317,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/0f9SJZoJiPn2a1p8RMOx8K"
     },
     {
       "added_at": "2023-10-27 21:56:31",
@@ -1659,24 +1659,24 @@
     {
       "added_at": "2023-10-27 21:56:31",
       "album": {
-        "name": "...y Como Dice Giles! (Tributo a los Giles)",
-        "url": "https://open.spotify.com/album/08QgBZviqyuo7TJL5V7LqS"
+        "name": "Lamento Egipcio",
+        "url": "https://open.spotify.com/album/6UjC13m2EheNOtFdU5ayVd"
       },
       "artists": [
         {
-          "name": "La Hoja Ensamble",
-          "url": "https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE"
+          "name": "M\u00f3dulo Ghetto",
+          "url": "https://open.spotify.com/artist/7LC3IkN0ds990xsji4GrhM"
         }
       ],
-      "duration_ms": 220880,
-      "name": "Estereof\u00f3nica",
-      "url": "https://open.spotify.com/track/72FA2PuToTQehqORbBlwGu"
+      "duration_ms": 233120,
+      "name": "Lamento Egipcio",
+      "url": "https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG"
     },
     {
       "added_at": "2023-10-27 21:56:31",
       "album": {
-        "name": "Ciao",
-        "url": "https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce"
+        "name": "Frente al Mar",
+        "url": "https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n"
       },
       "artists": [
         {
@@ -1684,9 +1684,9 @@
           "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
         }
       ],
-      "duration_ms": 263000,
-      "name": "Ciao",
-      "url": "https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH"
+      "duration_ms": 304172,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg"
     }
   ],
   "unique_name": "MexSka ",

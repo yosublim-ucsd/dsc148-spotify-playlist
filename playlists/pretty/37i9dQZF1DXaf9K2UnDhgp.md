@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,009 likes - 111 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,391 likes - 111 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 101 | [The Lights and Buzz \- 2015 Remastered](https://open.spotify.com/track/7pw7YBfcX0F3e0Pm4vkO0F) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [Everything In Transit \(10th Anniversary Edition\)](https://open.spotify.com/album/2tiKjIoifWlFXTlJJSB6kv) | 3:36 |
 | 102 | [Last Christmas](https://open.spotify.com/track/6ZGwQBPjikhN8L2xoDw9IF) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ), [Downer Inc.](https://open.spotify.com/artist/5MPsaugll7lskvPsYaRvGr), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Last Christmas](https://open.spotify.com/album/2InfiszrMb4YWyXo3pIfyA) | 4:06 |
 | 103 | [Happy X\-Mas \(War Is Over\) \- Holiday Version](https://open.spotify.com/track/4RT2cdLuHfobI0JdqW7V1W) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Happy X\-Mas \(War Is Over\)](https://open.spotify.com/album/5b6FxRtl50vw0aIxiTT1eN) | 3:34 |
-| 104 | [Run Rudolph Run](https://open.spotify.com/track/6EECkNpQTDodqCMbBGAyZN) | [Keith Richards](https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH) | [Run Rudolph Run](https://open.spotify.com/album/5ykDCWnqTei23DZS2C26Rh) | 3:14 |
+| 104 | [Run Rudolph Run](https://open.spotify.com/track/0wB9KBcgpWsDaHYgrY6gYQ) | [Keith Richards](https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH) | [Run Rudolph Run](https://open.spotify.com/album/1I9dnoArYtQFawXwulJ3xU) | 3:14 |
 | 105 | [Christmas With The Devil](https://open.spotify.com/track/7tuO9p4tvMLKPOirkJa6S8) | [Spinal Tap](https://open.spotify.com/artist/65X3sG8LVBQN5033RqB6qn) | [This Is Spinal Tap](https://open.spotify.com/album/76KLnwAF285xUWRn8bT1Q2) | 4:24 |
 | 106 | [My December](https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 4:20 |
 | 107 | [We Wish You a Merry Christmas](https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 2:12 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 110 | [Sleigh Ride](https://open.spotify.com/track/7G89dEgWAsFw4rODlvygqB) | [This Wild Life](https://open.spotify.com/artist/3eoazmwspxeKFenMP1PQva) | [Punk Goes Christmas \(Deluxe\)](https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF) | 2:55 |
 | 111 | [Winter Wonderland](https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Winter Wonderland](https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv) | 2:01 |
 
-Snapshot ID: `MCxiYTQ1ZjgwMGVhMmU5NjYxYWZhNjA2ZTFkNDVlZDg3OGZiZGUwOGY5`
+Snapshot ID: `MCxiYWVmNTBiODFkYTA1M2JlYWIwYmJiNjNlNTFhNjJiNzBlYTM2NWQ5`

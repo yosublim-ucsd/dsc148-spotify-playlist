@@ -53,6 +53,24 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/0REyCTre7WLmJnVmBDMqgN"
+      },
+      "artists": [
+        {
+          "name": "NOTSOBAD",
+          "url": "https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201023,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH"
+    },
+    {
+      "album": {
         "name": "All In My Head",
         "url": "https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F"
       },
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 172454,
       "name": "Why Does My Heart",
       "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"

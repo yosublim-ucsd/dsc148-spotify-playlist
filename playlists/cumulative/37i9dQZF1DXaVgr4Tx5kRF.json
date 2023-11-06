@@ -150,6 +150,24 @@
     {
       "album": {
         "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
+    },
+    {
+      "album": {
+        "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
       "artists": [
@@ -160,7 +178,7 @@
       ],
       "date_added": "2021-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
@@ -798,7 +816,7 @@
     {
       "album": {
         "name": "1977",
-        "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
+        "url": "https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf"
       },
       "artists": [
         {
@@ -809,6 +827,24 @@
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 210200,
+      "name": "Girl from Mars",
+      "url": "https://open.spotify.com/track/0cA41ydiosNCgmmGiCST65"
+    },
+    {
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-06",
       "duration_ms": 210200,
       "name": "Girl From Mars",
       "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
@@ -1589,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "In It for the Money",
+        "url": "https://open.spotify.com/album/020brgMKGgdPSYjcVNypql"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192960,
+      "name": "Richard III",
+      "url": "https://open.spotify.com/track/09rr4TfhpyF6tmaoSt3j4T"
+    },
+    {
+      "album": {
         "name": "In It For The Money",
         "url": "https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW"
       },
@@ -1618,7 +1672,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 193307,
       "name": "Richard III - 2021 - Remaster",
       "url": "https://open.spotify.com/track/2T59dX55GGQ00ulyKnfqBG"
@@ -2335,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/4ygxhp2YRRuOEfw1J40FdQ"
+      },
+      "artists": [
+        {
+          "name": "Inspiral Carpets",
+          "url": "https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185066,
+      "name": "This Is How It Feels",
+      "url": "https://open.spotify.com/track/0usG7DLWUEoAHFEv9rWfoP"
+    },
+    {
+      "album": {
         "name": "This Is How It Feels",
         "url": "https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54"
       },
@@ -2346,7 +2418,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 194000,
       "name": "This Is How It Feels - Radio Mix",
       "url": "https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb"
@@ -2551,6 +2623,24 @@
     },
     {
       "album": {
+        "name": "Ugly Beautiful (Expanded)",
+        "url": "https://open.spotify.com/album/6WMI34oKGD41ZjfZ2NzXMQ"
+      },
+      "artists": [
+        {
+          "name": "Babybird",
+          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222440,
+      "name": "You're Gorgeous",
+      "url": "https://open.spotify.com/track/1E8rTN3tJ0rNpO1rNhYduV"
+    },
+    {
+      "album": {
         "name": "Ugly Beautiful",
         "url": "https://open.spotify.com/album/1jDQR7dZB0TrGIZJ4vcrLb"
       },
@@ -2562,7 +2652,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 222440,
       "name": "You're Gorgeous",
       "url": "https://open.spotify.com/track/5COBer69wpwkCPPaLr1gFb"

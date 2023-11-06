@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-215 songs - 12 hr 50 min
+216 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [I Don't Want Christmas to End](https://open.spotify.com/track/2bc79MDIi1VULLU3KqyMoB) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [I Don't Want Christmas to End](https://open.spotify.com/album/76Vw1t2n6PBb0GiQK7p5aj) | 3:49 | 2021-12-24 |  |
 | [I Have Finished The Race](https://open.spotify.com/track/4iOycRDZBb0mkKy6EGqiEr) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s), [Francesca LaRosa](https://open.spotify.com/artist/2XaFV5Bz4k3oEFBfZSGVoQ) | [Wrapped In Peace](https://open.spotify.com/album/6b7u6tlbjgaS5AqG0jPCkN) | 4:08 | 2022-12-11 | 2023-11-04 |
 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/2QpnSAzTscRZvoE0EW922P) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [I Heard The Bells On Christmas Day](https://open.spotify.com/album/613MkrJFCPiLY0x26uwAUo) | 2:45 | 2023-11-03 |  |
+| [I Pray On Christmas](https://open.spotify.com/track/4P8Yj01dzka6OaevNCZuF7) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Christmas](https://open.spotify.com/album/7Epml2RwrQpKsszL0NeqUw) | 3:32 | 2023-11-03 |  |
 | [I Still Believe In Christmas](https://open.spotify.com/track/61m5ozWPHO2TgxNCdqizvl) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [I Still Believe In Christmas](https://open.spotify.com/album/6G85UPaNcCZ1bELHNzOEIF) | 3:48 | 2021-12-24 |  |
 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 | 2021-12-24 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/6UzZMvSllutX26M5vA9H63) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Christmas With PJ Morton](https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6) | 3:57 | 2022-12-11 |  |
@@ -107,7 +108,7 @@
 | [Joy to the World](https://open.spotify.com/track/5kiQIqLEHVnhWLJwgqgb3P) | [Celtic Worship](https://open.spotify.com/artist/0h2AQKpVBEEXQQ03KGf7ep), [Blue Rose Code](https://open.spotify.com/artist/3fALQUIY93XYP9h7JyPeeb), [Norrie MacIver](https://open.spotify.com/artist/1Z2xJmAUbB6S5b1dZySWHp) | [Come Behold: Christmas Collaborations](https://open.spotify.com/album/6oaRMjkCHhJql0hanPBhcZ) | 3:57 | 2022-12-11 |  |
 | [Joy to the World](https://open.spotify.com/track/5Ta266xo0Lzq5c4Kgm4rot) | [Chicago Mass Choir](https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla) | [Joy to the World](https://open.spotify.com/album/6Uw2K7lvvXSKZkSO8JCreM) | 4:04 | 2022-11-26 | 2023-11-04 |
 | [Joy To The World](https://open.spotify.com/track/0r4oEPAhF9s4CymumKpPnj) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Joy To The World](https://open.spotify.com/album/1DUIGPji7naIzvcAHZqrbf) | 3:55 | 2021-12-24 |  |
-| [Joy To The World](https://open.spotify.com/track/3sgPVrKXSVvxPKzvLaSh8P) | [LOFI Worship](https://open.spotify.com/artist/7140i1cyhuEArRQcADGja9) | [LOFI Christmas](https://open.spotify.com/album/4cySFdHNpqV62fAOZDC93N) | 2:56 | 2022-12-11 |  |
+| [Joy To The World](https://open.spotify.com/track/3sgPVrKXSVvxPKzvLaSh8P) | [LOFI Worship](https://open.spotify.com/artist/7140i1cyhuEArRQcADGja9) | [LOFI Christmas](https://open.spotify.com/album/4cySFdHNpqV62fAOZDC93N) | 2:56 | 2022-12-11 | 2023-11-06 |
 | [Joy to the World](https://open.spotify.com/track/2OggiWqL8exckT6kOrcDuA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:17 | 2021-12-24 |  |
 | [JOY!](https://open.spotify.com/track/6Lj7IFSKXS2v36B4kWliJM) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [JOY!](https://open.spotify.com/album/65o6I2FdBaDI0OAOrt4au1) | 2:39 | 2023-11-03 |  |
 | [Just A Breath Away \(Noel\) \- Radio Version](https://open.spotify.com/track/1UGK7thDiNRQA7P4rQVOrd) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Just A Breath Away \(Noel\) \[Radio Version\]](https://open.spotify.com/album/2BIt2v8Y5YJ3o1gzZy8i7B) | 3:10 | 2021-12-24 | 2022-12-13 |

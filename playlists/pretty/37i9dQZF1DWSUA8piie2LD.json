@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 98820,
+  "num_followers": 98932,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjVhODFmNTI1YjZlZTBhMjViMjRjZjY4OTBkMDUyMjQ0N2RjNDBi",
+  "snapshot_id": "MCwzZjc1YjZmYmM0ZmIwZGQ0ZTMxZmQyNDZiNDg2NWZmNzU4NzBhZjc1",
   "tracks": [
     {
       "added_at": "2023-10-04 13:56:34",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-04 13:56:34",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        }
-      ],
-      "duration_ms": 283866,
-      "name": "Twice in a Lifetime",
-      "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
-    },
-    {
-      "added_at": "2023-10-04 13:56:34",
-      "album": {
         "name": "South Beach",
         "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 254746,
       "name": "Can't Tell You Why",
       "url": "https://open.spotify.com/track/6vOYjOLqf3esbSCdC7smdG"
+    },
+    {
+      "added_at": "2023-10-04 13:56:34",
+      "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "duration_ms": 283866,
+      "name": "Twice in a Lifetime",
+      "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
     },
     {
       "added_at": "2023-10-04 13:56:34",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-10-04 13:56:34",
       "album": {
-        "name": "Island Life",
-        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 288666,
-      "name": "Island Life",
-      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
-    },
-    {
-      "added_at": "2023-10-04 13:56:34",
-      "album": {
         "name": "Under The Influence",
         "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 343093,
       "name": "That's The Way Of The World",
       "url": "https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt"
+    },
+    {
+      "added_at": "2023-10-04 13:56:34",
+      "album": {
+        "name": "Island Life",
+        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 288666,
+      "name": "Island Life",
+      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
     },
     {
       "added_at": "2023-10-04 13:56:34",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-10-04 13:56:34",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
-    },
-    {
-      "added_at": "2023-10-04 13:56:34",
-      "album": {
         "name": "Guitar Man",
         "url": "https://open.spotify.com/album/2S7ghQU5xIAm1hW7rMKNC0"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 270400,
       "name": "The Lady In My Life",
       "url": "https://open.spotify.com/track/7r5B5N1ijHZuDSqNdoYPnK"
+    },
+    {
+      "added_at": "2023-10-04 13:56:34",
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
     },
     {
       "added_at": "2023-10-04 13:56:34",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-10-04 13:56:34",
       "album": {
-        "name": "Kisses In The Rain",
-        "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 280240,
-      "name": "Grover's Groove",
-      "url": "https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst"
-    },
-    {
-      "added_at": "2023-10-04 13:56:34",
-      "album": {
         "name": "After 8",
         "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 408893,
       "name": "After 8",
       "url": "https://open.spotify.com/track/7JZAkIzTNPV9Wd4a4sDdiN"
+    },
+    {
+      "added_at": "2023-10-04 13:56:34",
+      "album": {
+        "name": "Kisses In The Rain",
+        "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 280240,
+      "name": "Grover's Groove",
+      "url": "https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst"
     },
     {
       "added_at": "2023-10-04 13:56:34",

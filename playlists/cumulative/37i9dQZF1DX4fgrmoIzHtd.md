@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-141 songs - 13 hr 51 min
+142 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Claudi](https://open.spotify.com/track/5oVbaTDGaCgaaVYk2jHUdy) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 2:54 | 2023-02-03 | 2023-09-02 |
 | [Cowgirl \- Remastered](https://open.spotify.com/track/42l2BVWVXneXXbe7CO02ad) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dubnobasswithmyheadman \(Super Deluxe / 20th Anniversary Remaster\)](https://open.spotify.com/album/6ZJGG6czB7KFJzoTbx4gif) | 8:29 | 2023-06-13 |  |
 | [Cross My Heart](https://open.spotify.com/track/7zBs7ICoezIZmsHBlGe2Gj) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Baby, the Stars Shine Bright](https://open.spotify.com/album/4I2Xj3T0kKwI2nofSPQKzn) | 3:35 | 2023-02-03 | 2023-06-14 |
-| [Cyclops \- Volen Sentir & Izhevski Remix](https://open.spotify.com/track/0fMzGl1UMV6NUPPbJsToEp) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71), [Quenum](https://open.spotify.com/artist/0eHglGsy8W3uW5fimUYTF2), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l), [Izhevski](https://open.spotify.com/artist/5kgbdZjaH7REUaSXBV8lfH) | [The Remixes \(Part Two\)](https://open.spotify.com/album/1qZHDWztYjtJ1kLnPFHS1V) | 8:11 | 2023-06-13 |  |
+| [Cyclops \- Volen Sentir & Izhevski Remix](https://open.spotify.com/track/1KtsAL8BVJ29IN8CuSecxx) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71), [Quenum](https://open.spotify.com/artist/0eHglGsy8W3uW5fimUYTF2), [Izhevski](https://open.spotify.com/artist/5kgbdZjaH7REUaSXBV8lfH), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [The Remixes \(Pt\. Two\)](https://open.spotify.com/album/4gSeFbUXd4LKSwmpzlrZx1) | 8:11 | 2023-06-13 |  |
+| [Cyclops \- Volen Sentir & Izhevski Remix](https://open.spotify.com/track/0fMzGl1UMV6NUPPbJsToEp) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71), [Quenum](https://open.spotify.com/artist/0eHglGsy8W3uW5fimUYTF2), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l), [Izhevski](https://open.spotify.com/artist/5kgbdZjaH7REUaSXBV8lfH) | [The Remixes \(Part Two\)](https://open.spotify.com/album/1qZHDWztYjtJ1kLnPFHS1V) | 8:11 | 2023-06-13 | 2023-11-06 |
 | [Deliberate](https://open.spotify.com/track/3YSjL42Fdtyj9cqbpk3BMd) | [JP Castro](https://open.spotify.com/artist/5cs1sVRx0EDcuN2hTJWcGO) | [Deliberate](https://open.spotify.com/album/3UPUhgWgOjclIEVeJwMUs0) | 5:29 | 2023-02-03 | 2023-06-14 |
 | [Disco Love](https://open.spotify.com/track/4gb7wFrlBXabMyX8fAkAcW) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Meridian 2016](https://open.spotify.com/album/7IevppU9STA3qUXHvkbKK9) | 6:54 | 2021-05-11 | 2023-02-04 |
 | [Don't Be Light](https://open.spotify.com/track/1vO7cEdUkYHjHuSKg1HdSC) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [10 000 Hz Legend](https://open.spotify.com/album/2WNI378JH55k63eXBHbjbI) | 6:18 | 2023-02-03 | 2023-06-14 |

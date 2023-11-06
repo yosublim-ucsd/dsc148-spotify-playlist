@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-31",
+      "date_removed": null,
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 266213,
       "name": "AKM",
       "url": "https://open.spotify.com/track/3Yn1eOU2fLwJeuBmONmrk2"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 163636,
       "name": "Amsterdam (feat. Calin)",
       "url": "https://open.spotify.com/track/3Nw0MqRDVlJVuT7XGqObkZ"
@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
@@ -5366,7 +5366,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -11686,7 +11686,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 119111,
       "name": "Intro",
       "url": "https://open.spotify.com/track/7Hv3RbeEI9ynt6S7dIm3iT"
@@ -11940,6 +11940,40 @@
       "duration_ms": 222633,
       "name": "I\u2019m Just Ken (From Barbie The Album)",
       "url": "https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T"
+    },
+    {
+      "album": {
+        "name": "Real Newz",
+        "url": "https://open.spotify.com/album/6oBeQ0Raj89r6MihCq4QcP"
+      },
+      "artists": [
+        {
+          "name": "Kontrafakt",
+          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
+        },
+        {
+          "name": "Mirez",
+          "url": "https://open.spotify.com/artist/7pJ7dO22c2HBQRo2GgqqBM"
+        },
+        {
+          "name": "Dokkeytino",
+          "url": "https://open.spotify.com/artist/2LGzzsimaBumgXL5eRCEvE"
+        },
+        {
+          "name": "Dalyb",
+          "url": "https://open.spotify.com/artist/0GZP8QBchHTcjn9jFtLDtK"
+        },
+        {
+          "name": "Zayo",
+          "url": "https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q"
+        }
+      ],
+      "date_added": "2023-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212360,
+      "name": "J Lo",
+      "url": "https://open.spotify.com/track/0ZoS0OXuPpBPKa2arKKKJ1"
     },
     {
       "album": {
@@ -14830,7 +14864,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -21016,7 +21050,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 137622,
       "name": "Probuzen\u00ed",
       "url": "https://open.spotify.com/track/1LWzGlLSdd2YFxuVxElL4O"
@@ -22800,7 +22834,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 114000,
       "name": "Sant\u00e9",
       "url": "https://open.spotify.com/track/4ToxkJ4VvWs026R3QfHDI3"
@@ -24260,7 +24294,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 186414,
       "name": "SOS",
       "url": "https://open.spotify.com/track/51htPz13McPwJgISlRIG3m"
@@ -27162,7 +27196,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 202666,
       "name": "Ujde to",
       "url": "https://open.spotify.com/track/6YmJ7h3IB28IngbwOfQRyO"

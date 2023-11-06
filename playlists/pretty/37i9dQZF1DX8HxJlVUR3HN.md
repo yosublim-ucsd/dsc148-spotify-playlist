@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Lysistrata
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,348 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,365 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [700m²](https://open.spotify.com/track/572uU6bg1zMbcwSA8ML67d) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [The Ethereal Beauty](https://open.spotify.com/album/1cJNcIoEZmIWDQHfO7N3b9) | 3:05 |
 | 50 | [Counting down the Days](https://open.spotify.com/track/0snV7BsW85mM3Y5J0f0rBN) | [Movement At Night](https://open.spotify.com/artist/3npdUd8ZD22EJkpwOG47fE) | [Failed By Choice](https://open.spotify.com/album/4ZpRjNZsXJIPdIcUO757RE) | 4:26 |
 
-Snapshot ID: `MCxiOTMwMWNmYzI3YWM2NmY1Y2QzYWVhYWQxNDY5ODdiODVmYjM5MGZk`
+Snapshot ID: `MCxiYWJhNmY0MWU4ZWMxNTNkNzYyN2Y3YTMyYzgyNjdmNDNjNmMxM2Qy`

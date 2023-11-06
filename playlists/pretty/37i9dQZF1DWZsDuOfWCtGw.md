@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain]
 
 > The biggest house tracks we couldn't get enough of this year\. Cover: John Summit
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,471 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,470 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain]
 | 15 | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/track/4qUx0Q2kGLwjkweKThS3rj) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Sadie Walker](https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV) | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI) | 3:52 |
 | 16 | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B) | 2:37 |
 | 17 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
-| 18 | [Aguila ft\. Cumbiafrica](https://open.spotify.com/track/6WLZljpPR8EiUT2LDubJ6T) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Aguila ft\. Cumbiafrica](https://open.spotify.com/album/3E02tEWunwSUsnGYw09IJs) | 2:48 |
+| 18 | [Aguila \(feat\. Cumbiafrica\)](https://open.spotify.com/track/1TAWywmhj68rLpor3w8J0X) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Aguila \(feat\. Cumbiafrica\)](https://open.spotify.com/album/6rqFLZcRn19VEwRQ6ERBFS) | 2:48 |
 | 19 | [Chromatic](https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Chromatic](https://open.spotify.com/album/4i8IDahLQKUEmBMscCBlDA) | 3:22 |
 | 20 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
 | 21 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain]
 | 70 | [Mirage](https://open.spotify.com/track/2XMtuYlrbRPmQJUlR3vrvb) | [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt) | [Mirage](https://open.spotify.com/album/6nYgXiDGaYwWRvc16AIRPc) | 3:38 |
 | 71 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 |
 | 72 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 |
-| 73 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 |
+| 73 | [Alley Rave](https://open.spotify.com/track/1Zc0AQvQNk5UfjVOMD1Dxq) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/125AHdT7Yan1Nw5vUwwBnq) | 6:04 |
 | 74 | [Don't Wanna Lie](https://open.spotify.com/track/5r5MjmaLklyNOzKXY6Fqm5) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Don't Wanna Lie](https://open.spotify.com/album/236XMgaxHRyqXMDHL8vSHU) | 3:28 |
 | 75 | [Show Me A Sign \(with MKLA\)](https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Show Me A Sign](https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL) | 3:43 |
 
-Snapshot ID: `MCw5YWQwYzMxOGYyM2ViYTY1YTVhOWU3Mzc2NzNhNTBmZTUwZDc4MDU1`
+Snapshot ID: `MCwyZWFiYmVkMWVmYTI2NzE4ZWU2MjE0ZGJmNDNhNTlmODg4NGM2NTBj`

@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 687329,
+  "num_followers": 687376,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTI5ODg0NWNkOWE5Yzg0ZmMwNmRjMzE4MTQyMmMwZDcwMDk3MWQy",
+  "snapshot_id": "MCw4Y2IxZWY3NGJjYjgzNGI2OTBlM2M4NGU4ZWZiNmU2N2EwNDBjYmUy",
   "tracks": [
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 248013,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "Helplessly Hoping",
         "url": "https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 159229,
       "name": "Helplessly Hoping",
       "url": "https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 248013,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Never Surrender",
-        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
-      },
-      "artists": [
-        {
-          "name": "Dante Hart",
-          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
-        }
-      ],
-      "duration_ms": 228099,
-      "name": "Never Surrender",
-      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "Man in the Mirror",
         "url": "https://open.spotify.com/album/5VleQQSPbU6LEzONZK38F5"
       },
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "A Case of You",
-        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
+        "name": "Never Surrender",
+        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
       },
       "artists": [
         {
-          "name": "Noah Reid",
-          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
+          "name": "Dante Hart",
+          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
         }
       ],
-      "duration_ms": 190110,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
+      "duration_ms": 228099,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1555,6 +1539,22 @@
       "duration_ms": 162907,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "A Case of You",
+        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
+      },
+      "artists": [
+        {
+          "name": "Noah Reid",
+          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
+        }
+      ],
+      "duration_ms": 190110,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "A Whiter Shade of Pale",
-        "url": "https://open.spotify.com/album/2cT21JKia9DgqhvdakdHfC"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 285428,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/0b5LFCOeFZfVlX0gxLTDaW"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "(500) Days of Summer (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 132493,
       "name": "Please, Please, Please, Let Me Get What I Want",
       "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "A Whiter Shade of Pale",
+        "url": "https://open.spotify.com/album/2cT21JKia9DgqhvdakdHfC"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 285428,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/0b5LFCOeFZfVlX0gxLTDaW"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Right Down the Line",
-        "url": "https://open.spotify.com/album/6muAMiiU4vXRCckuoT29Dl"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 206508,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/4zcnVd6AAUtklIm1F2LruM"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "You Don't Know How It Feels",
         "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
       },
@@ -1711,6 +1695,42 @@
       "duration_ms": 222008,
       "name": "You Don't Know How It Feels",
       "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        },
+        {
+          "name": "The Chapin Sisters",
+          "url": "https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM"
+        }
+      ],
+      "duration_ms": 230813,
+      "name": "Unchained Melody (feat. The Chapin Sisters)",
+      "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Right Down the Line",
+        "url": "https://open.spotify.com/album/6muAMiiU4vXRCckuoT29Dl"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 206508,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/4zcnVd6AAUtklIm1F2LruM"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1759,26 +1779,6 @@
       "duration_ms": 212186,
       "name": "Home",
       "url": "https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        },
-        {
-          "name": "The Chapin Sisters",
-          "url": "https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM"
-        }
-      ],
-      "duration_ms": 230813,
-      "name": "Unchained Melody (feat. The Chapin Sisters)",
-      "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
     },
     {
       "added_at": "2023-10-20 16:58:03",

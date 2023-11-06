@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: SNOW WIFE",
-  "num_followers": 82518,
+  "num_followers": 82523,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWE4ZjA2NzY5ODJiNDEzZTUyYzBkZTdiMTM3Y2YxNWRlMzA0ODcy",
+  "snapshot_id": "MCw0OWFhN2MwOTUzYzYyOTkwODYzMmQzZWU0NzY1YWFhZGQ4ZjUzZmUy",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "damn Right",
+        "url": "https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 164605,
+      "name": "damn Right",
+      "url": "https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Rowdy",
         "url": "https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "damn Right",
-        "url": "https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B"
+        "name": "LUCID",
+        "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
       },
       "artists": [
         {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 164605,
-      "name": "damn Right",
-      "url": "https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP"
+      "duration_ms": 218108,
+      "name": "LUCID",
+      "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -963,22 +979,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "LUCID",
-        "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "LUCID",
-      "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Bad Girls Behave",
         "url": "https://open.spotify.com/album/6c6ObiguaXrGWxcy3kP0pJ"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 170007,
       "name": "Bad Girls Behave",
       "url": "https://open.spotify.com/track/2CspyaDniJQAhgAYamTyI3"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Cellulite",
+        "url": "https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 190398,
+      "name": "Cellulite",
+      "url": "https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1095,22 +1111,6 @@
       "duration_ms": 410080,
       "name": "All We Have (feat. Lastlings)",
       "url": "https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Cellulite",
-        "url": "https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 190398,
-      "name": "Cellulite",
-      "url": "https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Catch Me In The Air",
-        "url": "https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 215814,
-      "name": "Catch Me In The Air",
-      "url": "https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 289618,
       "name": "That XX - Spotify Singles",
       "url": "https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Catch Me In The Air",
+        "url": "https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 215814,
+      "name": "Catch Me In The Air",
+      "url": "https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1343,22 +1343,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "CLOUDS",
-        "url": "https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ"
+        "name": "Can you (Galcher Lustwerk Remix)",
+        "url": "https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD"
       },
       "artists": [
         {
           "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
           "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
-        },
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
         }
       ],
-      "duration_ms": 196007,
-      "name": "CLOUDS",
-      "url": "https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ"
+      "duration_ms": 219216,
+      "name": "Can you",
+      "url": "https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1495,18 +1491,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Can you (Galcher Lustwerk Remix)",
-        "url": "https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD"
+        "name": "CLOUDS",
+        "url": "https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ"
       },
       "artists": [
         {
           "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
           "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        },
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
         }
       ],
-      "duration_ms": 219216,
-      "name": "Can you",
-      "url": "https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB"
+      "duration_ms": 196007,
+      "name": "CLOUDS",
+      "url": "https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ"
     },
     {
       "added_at": "2023-11-03 04:00:00",

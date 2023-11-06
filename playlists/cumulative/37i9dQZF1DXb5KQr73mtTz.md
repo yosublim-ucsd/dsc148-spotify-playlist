@@ -1,16 +1,17 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb5KQr73mtTz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb5KQr73mtTz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb5KQr73mtTz)
 
-### [나의 우울은,](https://open.spotify.com/playlist/37i9dQZF1DXb5KQr73mtTz)
+### [나의 우울은, \(K\-Pop Sad Songs\)](https://open.spotify.com/playlist/37i9dQZF1DXb5KQr73mtTz)
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-234 songs - 15 hr 21 min
+235 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [180 Degree](https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [180˚](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6) | 3:49 | 2022-05-11 |  |
 | [A Long Night](https://open.spotify.com/track/0I8hTfSm5qjhZEoiMCn6PG) | [CANDO](https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.13](https://open.spotify.com/album/3exZxXUMD14KCbb7Pa6XsS) | 3:09 | 2022-07-08 | 2022-09-06 |
 | [A Rainy Night](https://open.spotify.com/track/63BbqOZ8mWl9PAkpy7yzcf) | [Lim sang hyun](https://open.spotify.com/artist/1Sp4nuyvQoJh0aLV3RXaf0) | [A Rainy Night](https://open.spotify.com/album/3NrgCIy6LfDqlxWaUHAbUi) | 3:57 | 2022-06-09 | 2022-07-27 |
+| [About loneliness](https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq) | 3:53 | 2023-11-03 |  |
 | [Actually](https://open.spotify.com/track/7Kel2ZwWtyHSPmE1EGMNH2) | [Dear Cloud](https://open.spotify.com/artist/0L4i6fMD8blByZNL0kLhiA) | [Actually](https://open.spotify.com/album/16UI3a9FlhfRhMz25lwQ6U) | 4:18 | 2022-06-09 | 2022-07-20 |
 | [After we broke up](https://open.spotify.com/track/5AOz0kqwBBM4gK7QlAWsVG) | [BBAHN](https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi) | [Bravo, My Life OST Part.20](https://open.spotify.com/album/3KAK9DVkvurJKYVQVKXw8q) | 3:41 | 2022-07-08 | 2022-09-28 |
 | [After You’ve Gone](https://open.spotify.com/track/6MbO4CpHNgsdV4dn2cGKWp) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Circular](https://open.spotify.com/album/4lRCZxpFrnsWWdeT0T0qVn) | 4:06 | 2022-05-11 | 2022-06-10 |
@@ -226,7 +227,7 @@
 | [You Are The Sea](https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [You Are The Sea \(CURTAIN CALL OST Part.4\)](https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw) | 4:06 | 2022-11-23 | 2023-03-18 |
 | [You're Free](https://open.spotify.com/track/19BiyAamzm9lGzz7LXuCbb) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [You're Free](https://open.spotify.com/album/26TddKetWo996P7sqj0u5Y) | 3:44 | 2022-05-11 | 2022-07-29 |
 | [You, you](https://open.spotify.com/track/1zqVFI0tM6SHXGRtf5nzV4) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [You, you](https://open.spotify.com/album/4PN4xczdZoMbKBdJgaOltt) | 5:02 | 2022-05-11 | 2022-07-29 |
-| [거울 MIRROR](https://open.spotify.com/track/3rJlE3EHSZcjOVI5fJZpgR) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [거울 MIRROR](https://open.spotify.com/album/2BKrJ8ePL68zc2xesSdkHN) | 4:42 | 2023-09-20 |  |
+| [거울 MIRROR](https://open.spotify.com/track/3rJlE3EHSZcjOVI5fJZpgR) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [거울 MIRROR](https://open.spotify.com/album/2BKrJ8ePL68zc2xesSdkHN) | 4:42 | 2023-09-20 | 2023-11-06 |
 | [나와 같다면](https://open.spotify.com/track/76vLOcSPwCr4BHQSO7Ihis) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [서바이벌 나는 가수다 경연 3\-2 \- 네티즌 추천곡](https://open.spotify.com/album/40mJuq7mDmCahsMxjSBxzk) | 3:38 | 2022-05-11 | 2022-06-01 |
 | [날 사랑한 처음의 너로 돌아와](https://open.spotify.com/track/21gnQyyXCoEgDkq3kU9kWZ) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [START\-UP \(Original Television Soundtrack\) Pt\. 15](https://open.spotify.com/album/0xAoGTzx1tl2j6xuVoLg90) | 3:36 | 2023-06-13 |  |
 | [마음의 말](https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [로봇이 아니야, Pt\. 3 Original Television Soundtrack](https://open.spotify.com/album/5ElDHNX2Jpo6vwkFKhSQCF) | 5:02 | 2022-05-11 | 2023-06-04 |

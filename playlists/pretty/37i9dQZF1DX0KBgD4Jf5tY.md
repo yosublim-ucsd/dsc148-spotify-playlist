@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:44oncuQSlFMMh7PRslRKUk">Blocage</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,594 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,598 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Madre mia](https://open.spotify.com/track/4dKVc3Oa3JyXrplJ3ewXZI) | [Blocage](https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Madre mia](https://open.spotify.com/album/7rCKIoBiJCTFZg13UMsJa4) | 3:10 |
 | 2 | [passa una bella notte](https://open.spotify.com/track/1NOfiMv7Tq5MijTzO51Zil) | [LYSA](https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5) | [passa una bella notte](https://open.spotify.com/album/3RiHYwK5dT5dTzEULMiDo4) | 3:11 |
-| 3 | [Madame](https://open.spotify.com/track/1YuwtGNJID9U7nfvhTovql) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/44QCkU2JXCsvOfwRHCXCxZ) | 2:13 |
+| 3 | [Madame](https://open.spotify.com/track/0JPyVgLem5a4HcXEADJXg5) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/5di5PgxR4cs1PveHPkgKtr) | 2:13 |
 | 4 | [Hey Mon Amour](https://open.spotify.com/track/2gcVYbtY4GPLvnAzitTvee) | [Macadamia](https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen) | [Limine](https://open.spotify.com/album/1p1CplengpaQU0lsmzOBaB) | 3:13 |
 | 5 | [millestrati](https://open.spotify.com/track/4etoQ2mowyfgEFLNCJGWY2) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [millestrati](https://open.spotify.com/album/4D4RslrJvzrlgR6sTYSM23) | 2:42 |
 | 6 | [forse a volte è giusto sentirsi niente](https://open.spotify.com/track/3UDAh07Ji0kG2ORpzGU9f2) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ) | [forse a volte è giusto sentirsi niente](https://open.spotify.com/album/72PDglUBwrBmqGE0kMvbhN) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Ripagnola Alle 19 \(feat\. Orelle, Martina Primavera\)](https://open.spotify.com/track/0c8mwvjTYUZUMwiLn4vhbX) | [Maladé](https://open.spotify.com/artist/4pLZb6eSKa9V8EB0vF0VTl), [Orelle](https://open.spotify.com/artist/759n9HvatPa0PARbAtn6Cs), [Martina Primavera](https://open.spotify.com/artist/1f7xLN7zodIwUg2W2McjNn) | [Ripagnola Alle 19 \(feat\. Orelle, Martina Primavera\)](https://open.spotify.com/album/4FrLdV5HORBNYmyFTHgQhF) | 2:56 |
 | 50 | [C'est magique](https://open.spotify.com/track/7oynHAPhWJiIpRtyDQVLa2) | [\(+39\) 375\-649\-94\-64 My Telephone Number](https://open.spotify.com/artist/00xSgiKwSnRaE9zYqlRCoH) | [DEMO \#01](https://open.spotify.com/album/52hUlx8W1cnwA4G79nazsF) | 2:12 |
 
-Snapshot ID: `MCw2NTg3NDljMDg1YTkxODIwYTAwYjE4Y2JjOTBhNGVmYzU4ZDU3NGUz`
+Snapshot ID: `MCxhZmQ0OTcxMWNhYTdkZjczNWI2NTIwYWM3NjJkNjYzZmI0ZjBiODli`

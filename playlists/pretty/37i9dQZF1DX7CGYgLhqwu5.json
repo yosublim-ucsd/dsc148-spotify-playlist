@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 372481,
+  "num_followers": 372553,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWM2ZmYzY2ExYjQxYzU4OTMyNjVhYWJiYjY5ZTA5NGJmNTcwNzRi",
+  "snapshot_id": "MCw2ODNmMzczYzVlNjFiZjNkN2MxMDEzZmEzOWE5OTJkOWJmZWQyZmRj",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+        "name": "The Patsy Cline Story",
+        "url": "https://open.spotify.com/album/3iHskF7qovrsQGE282MDHe"
       },
       "artists": [
         {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
         }
       ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
+      "duration_ms": 147026,
+      "name": "Leavin' On Your Mind - Single Version",
+      "url": "https://open.spotify.com/track/1D2mV1f9QkklP6vy0sdBI9"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Patsy Cline Story",
-        "url": "https://open.spotify.com/album/3iHskF7qovrsQGE282MDHe"
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
       "artists": [
         {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
         }
       ],
-      "duration_ms": 147026,
-      "name": "Leavin' On Your Mind - Single Version",
-      "url": "https://open.spotify.com/track/1D2mV1f9QkklP6vy0sdBI9"
+      "duration_ms": 154466,
+      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
         "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 181800,
       "name": "Ballad Of Forty Dollars",
       "url": "https://open.spotify.com/track/1phh5V7T5JAaiIww22ARZk"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "21 #1 Hits: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 133866,
-      "name": "I've Got A Tiger By The Tail - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Walk On By",
         "url": "https://open.spotify.com/album/24YlBDIE5J8hoUX5AToRG8"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 144200,
       "name": "Walk On By",
       "url": "https://open.spotify.com/track/1Y6THdMlU9Cr4lgnUAR09L"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "21 #1 Hits: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 133866,
+      "name": "I've Got A Tiger By The Tail - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Lost Country Hits of the 60s",
-        "url": "https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto"
+        "name": "Abilene",
+        "url": "https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M"
       },
       "artists": [
         {
-          "name": "Wynn Stewart",
-          "url": "https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE"
+          "name": "George Hamilton IV",
+          "url": "https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti"
         }
       ],
-      "duration_ms": 150093,
-      "name": "It's Such A Pretty World Today",
-      "url": "https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F"
+      "duration_ms": 133333,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Abilene",
-        "url": "https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M"
+        "name": "Lost Country Hits of the 60s",
+        "url": "https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto"
       },
       "artists": [
         {
-          "name": "George Hamilton IV",
-          "url": "https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti"
+          "name": "Wynn Stewart",
+          "url": "https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE"
         }
       ],
-      "duration_ms": 133333,
-      "name": "Abilene",
-      "url": "https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX"
+      "duration_ms": 150093,
+      "name": "It's Such A Pretty World Today",
+      "url": "https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "The Complete Capitol Singles: 1957-1966",
+        "url": "https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens & The Buckaroos",
+          "url": "https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV"
+        }
+      ],
+      "duration_ms": 121893,
+      "name": "Love's Gonna Live Here - Mono Single Version",
+      "url": "https://open.spotify.com/track/3ykinxbR3mQYkMHCA47GWr"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Keep On the Sunny Side - June Carter Cash: Her Life In Music",
         "url": "https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 166266,
       "name": "Jackson (with June Carter Cash)",
       "url": "https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "The Complete Capitol Singles: 1957-1966",
-        "url": "https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens & The Buckaroos",
-          "url": "https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV"
-        }
-      ],
-      "duration_ms": 121893,
-      "name": "Love's Gonna Live Here - Mono Single Version",
-      "url": "https://open.spotify.com/track/3ykinxbR3mQYkMHCA47GWr"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
       "artists": [
         {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
         }
       ],
-      "duration_ms": 196400,
-      "name": "Me And Bobby McGee",
-      "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
+      "duration_ms": 139733,
+      "name": "Am I Losing You",
+      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
         }
       ],
-      "duration_ms": 139733,
-      "name": "Am I Losing You",
-      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+      "duration_ms": 196400,
+      "name": "Me And Bobby McGee",
+      "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Cold Hard Facts of Life",
-        "url": "https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "The Cold Hard Facts of Life",
-      "url": "https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Best Of The Best",
         "url": "https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 129240,
       "name": "A Six Pack To Go",
       "url": "https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "The Cold Hard Facts of Life",
+        "url": "https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "The Cold Hard Facts of Life",
+      "url": "https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG"
     }
   ],
   "unique_name": "60s Country",

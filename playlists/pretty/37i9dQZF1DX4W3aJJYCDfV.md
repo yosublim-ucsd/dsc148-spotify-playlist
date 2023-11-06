@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from The Beatles, Cat Burns, Joy Anonymous and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,612 likes - 117 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,707 likes - 117 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 116 | [Thunder](https://open.spotify.com/track/4o2d35Wt5bSONtEry13b9C) | [Sunburn](https://open.spotify.com/artist/16BNZHiTlD6vCCWewqSNUy) | [Thunder](https://open.spotify.com/album/5sXsxApr7oIRx9jNfsmGNH) | 3:10 |
 | 117 | [End Of The World](https://open.spotify.com/track/4up9cZOgCa0T7i8IQU0JuT) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Otherness \- Side A \(Storm\)](https://open.spotify.com/album/2z0tcLf51fmNNGyuparjbO) | 4:00 |
 
-Snapshot ID: `MCwzNmZiZDIxZDRjNzE5MGVhODA5NDljZGE1NTAyNDI0Yzk0MzBlODU4`
+Snapshot ID: `MCwxYTViODY5NzNjNmQ5OWU4MTBmNzUzYWU1OWQ4YTZjNGQzODA0MDJl`

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30798,
+  "num_followers": 30822,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGM3OGZmMjNlYTM0NjQzM2UyNDRjYjgyMTZjYTA1NjVmNzcwYTk1",
+  "snapshot_id": "MCwyNmJlNDkyYTE2MGVlZDU1ZTUwYTE3NjJkMDcwY2I5OGU1ZjE3NmEw",
   "tracks": [
     {
       "added_at": "2023-11-03 05:32:22",
@@ -271,30 +271,6 @@
     {
       "added_at": "2023-11-03 05:32:22",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Semi Final",
-        "url": "https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "So!YoON!",
-          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "WITCH (Feat. Jay Park, So!YoON!) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/1v520W6rEa0nB2vvqAxnU3"
-    },
-    {
-      "added_at": "2023-11-03 05:32:22",
-      "album": {
         "name": "Point Of View: U",
         "url": "https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM"
       },
@@ -315,6 +291,30 @@
       "duration_ms": 181506,
       "name": "Love The Way (Feat. Jay Park & punchnello)",
       "url": "https://open.spotify.com/track/6gLJoEyuuHk1IwrZXWjotF"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Semi Final",
+        "url": "https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "WITCH (Feat. Jay Park, So!YoON!) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/1v520W6rEa0nB2vvqAxnU3"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -407,22 +407,22 @@
     {
       "added_at": "2023-11-03 05:32:22",
       "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 202080,
-      "name": "Does She",
-      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
+      "duration_ms": 218375,
+      "name": "DEJAVU (Feat. Jay Park) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -451,26 +451,6 @@
       "duration_ms": 191880,
       "name": "GANG - Official Remix",
       "url": "https://open.spotify.com/track/3D0nbQmiFAnibdZTajgaYO"
-    },
-    {
-      "added_at": "2023-11-03 05:32:22",
-      "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 218375,
-      "name": "DEJAVU (Feat. Jay Park) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -515,6 +495,26 @@
     {
       "added_at": "2023-11-03 05:32:22",
       "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "Does She",
+      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/1s1EHjXGkOQaCPl2iY359n"
       },
@@ -531,6 +531,26 @@
       "duration_ms": 176986,
       "name": "Trip",
       "url": "https://open.spotify.com/track/2W4YKFHDaMdQkpXzDjbTER"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/6CcrXh8NHk5agJtbGt0tYR"
+      },
+      "artists": [
+        {
+          "name": "Wolftyla",
+          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191141,
+      "name": "Butterflies (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/2I7OULYLv1IVo3Q4KOt88D"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -555,22 +575,22 @@
     {
       "added_at": "2023-11-03 05:32:22",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/6CcrXh8NHk5agJtbGt0tYR"
+        "name": "POST IT",
+        "url": "https://open.spotify.com/album/4QEyVgpccxmKuzeb5VQmNm"
       },
       "artists": [
         {
-          "name": "Wolftyla",
-          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 191141,
-      "name": "Butterflies (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/2I7OULYLv1IVo3Q4KOt88D"
+      "duration_ms": 226989,
+      "name": "POST IT (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/1ByJ2Pn1yxfTVl2cjCdYGO"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -607,26 +627,6 @@
       "duration_ms": 265252,
       "name": "WE (Feat. Jay Park) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/4QoOoFKhAWYOylWw2io6va"
-    },
-    {
-      "added_at": "2023-11-03 05:32:22",
-      "album": {
-        "name": "POST IT",
-        "url": "https://open.spotify.com/album/4QEyVgpccxmKuzeb5VQmNm"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 226989,
-      "name": "POST IT (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/1ByJ2Pn1yxfTVl2cjCdYGO"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-11-03 05:32:22",
       "album": {
-        "name": "Sunday Night Drive",
-        "url": "https://open.spotify.com/album/31J8jhJwqaeOS3ZJUOkg6t"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 129240,
-      "name": "Sunday Night Drive",
-      "url": "https://open.spotify.com/track/4L4Kbg3jAEPJZbEovRyKeH"
-    },
-    {
-      "added_at": "2023-11-03 05:32:22",
-      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 243492,
       "name": "Turn Off Your Phone (Feat. ELO) - Remix",
       "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "Sunday Night Drive",
+        "url": "https://open.spotify.com/album/31J8jhJwqaeOS3ZJUOkg6t"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 129240,
+      "name": "Sunday Night Drive",
+      "url": "https://open.spotify.com/track/4L4Kbg3jAEPJZbEovRyKeH"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -2004,9 +2004,9 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 163531,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0"
+      "duration_ms": 210344,
+      "name": "I Don\u2019t Disappoint",
+      "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -2020,9 +2020,9 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 210344,
-      "name": "I Don\u2019t Disappoint",
-      "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
+      "duration_ms": 163531,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -2203,6 +2203,30 @@
     {
       "added_at": "2023-11-03 05:32:22",
       "album": {
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "Boi B",
+          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
+        }
+      ],
+      "duration_ms": 235364,
+      "name": "REBORN",
+      "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
       },
@@ -2227,30 +2251,6 @@
       "duration_ms": 222432,
       "name": "World Domination",
       "url": "https://open.spotify.com/track/20QRiEt3H04E5vHJG4LDlG"
-    },
-    {
-      "added_at": "2023-11-03 05:32:22",
-      "album": {
-        "name": "REBORN",
-        "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        },
-        {
-          "name": "Boi B",
-          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
-        }
-      ],
-      "duration_ms": 235364,
-      "name": "REBORN",
-      "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
     },
     {
       "added_at": "2023-11-03 05:32:22",

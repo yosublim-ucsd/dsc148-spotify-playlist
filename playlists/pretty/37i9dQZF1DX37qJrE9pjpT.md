@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Rosa Ree
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,831 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,836 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 41 | [Rhythm of Love](https://open.spotify.com/track/6JLvWeyCdrp5SY9s6nSEyG) | [SAN AWARD](https://open.spotify.com/artist/2XSFwx92IDcFxGBcKghxKe), [JaeWav](https://open.spotify.com/artist/5yEr8KsUhOjCTkeu8KPD6J) | [Rhythm of Love](https://open.spotify.com/album/2sU58myd0MkQRdg6MX9cSc) | 3:40 |
 | 42 | [My confession](https://open.spotify.com/track/2BGpZQQHGekYN2wvfFcxyL) | [Innomatix](https://open.spotify.com/artist/2N6seBgLo0Ec074O3v9NZB), [Justin lico](https://open.spotify.com/artist/130wK2o4WKZ5Jad06YoYzz) | [My confession](https://open.spotify.com/album/3Ko0dCltdrkx3tEfDCzNim) | 3:31 |
 | 43 | [Sio Kwa Ubaya](https://open.spotify.com/track/3iu6HFPMKLWJpJqmhLzzih) | [MwanaFA](https://open.spotify.com/artist/7hHFTNIoDdt8C2whsOn3d3), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Sio Kwa Ubaya](https://open.spotify.com/album/1iZQP1UhukZKFSHI0Mo2LY) | 3:33 |
-| 44 | [FOREVER](https://open.spotify.com/track/1MCRjYXjDAR0KN8M53wEZF) | [BROBYBROBY](https://open.spotify.com/artist/25hmf6xsH7GsnqIQQ88659), [T.D.E](https://open.spotify.com/artist/1LTFfykgqONFKCudCp0YIo) | [UGLYBEAST VOL III](https://open.spotify.com/album/5WsySNQ6Uy09QpdEcA63SS) | 3:17 |
+| 44 | [Forever](https://open.spotify.com/track/5VLLmQUpBUF8gaX1W3ajtx) | [BROBYBROBY](https://open.spotify.com/artist/25hmf6xsH7GsnqIQQ88659), [T.D.E](https://open.spotify.com/artist/5R3LuIkjFFUJbyM1cv030Q) | [Uglybeast, Vol\. III](https://open.spotify.com/album/08ZBi14y6dVK43uajm9zLA) | 3:17 |
 | 45 | [Hatuna Kesi](https://open.spotify.com/track/7hhMqQaGTmiQgS5a8HIPvw) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn), [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [BELLE 9](https://open.spotify.com/artist/2QFZXITfzIsjCiKBLdzESZ) | [Hatuna Kesi](https://open.spotify.com/album/7wC7ZrdSNo34fSvgitb4o5) | 3:17 |
 | 46 | [O 2 the G Cypher](https://open.spotify.com/track/1ib32aj9wikMcH5paMNp9E) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS), [JawnRaw](https://open.spotify.com/artist/4bNirV1zXi9h0JP1wew94Q), [Defi Ant](https://open.spotify.com/artist/3G2mWYGQY79nhOkiQH9oFf), [Subtex](https://open.spotify.com/artist/4DtFulxlK1vJEwMLtz1pp3), [Jonathon Karabekian](https://open.spotify.com/artist/5B6XbfiXyPPbXmV8Foy7Zn), [nem r](https://open.spotify.com/artist/4ctcls1emJuy0L5TGDJrM0), [P\-Tah](https://open.spotify.com/artist/7yk0XpTOwg0Dhxequ5EtlM), [Plate Mdaijasho](https://open.spotify.com/artist/6asRW7Z2SVFaj6SZw65xuW), [Cody Nash](https://open.spotify.com/artist/3CvzptNJ6jW1r2kZaGGIWl), [Shazzy B](https://open.spotify.com/artist/4hoMkkezRc78CVqSy8ESJX) | [O 2 the G Cypher](https://open.spotify.com/album/5UWkAkFSjlEDvMay2tBwUH) | 7:51 |
 | 47 | [Like That](https://open.spotify.com/track/77e741vkrVhgXSbfZvQx3L) | [DJ Gibbzy](https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB) | [Like That](https://open.spotify.com/album/3usAd7tI0dYP7KUH9s6wsL) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 49 | [Juu](https://open.spotify.com/track/30xdZTHmeJdy96L6WdI5Sq) | [MansuLi](https://open.spotify.com/artist/6VOOF46Lijbw5bWBQqy8x5), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Salmin Swaggz](https://open.spotify.com/artist/29Bao5BzmXldCACxALuPcu), [Barbie Mia](https://open.spotify.com/artist/2F2GHfpKevoKxEC4jkXISU), [Moni Centrozone](https://open.spotify.com/artist/4GLSJqWjO11YaQXWJmWisl), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW), [Conboi Cannabino](https://open.spotify.com/artist/10D7HPh6me5e5O1JmwHRsh) | [Juu](https://open.spotify.com/album/0DsM8PuiTltnwfV2LDh7dV) | 4:33 |
 | 50 | [Future Wife](https://open.spotify.com/track/1Yq6tM4AzDJKcUC1ziv9O8) | [Stamina Shorwebwenzi](https://open.spotify.com/artist/7vGp5tmuvQ5ku1Fh6d1UsV), [Mkwawa](https://open.spotify.com/artist/4RIy8pk0S2X84NZGn3Kgcc) | [Love Bite](https://open.spotify.com/album/2LFuHTgXhM3IQrX7BbN9uj) | 3:47 |
 
-Snapshot ID: `MCw4Y2Y4MzJmMzJmMGNjYTk2NDI2M2UwMjcwZDlkZDZkZGMzYjUzZWE0`
+Snapshot ID: `MCxmMWVjZTlhNTIxYWFlOGRiMTk4ZGJjM2IyZGYzYTBlZDdlOWVkNmEy`

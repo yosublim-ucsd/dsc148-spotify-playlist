@@ -6444,7 +6444,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 204705,
       "name": "Czerwone \u0142zy",
       "url": "https://open.spotify.com/track/6qiP2cVCzNts36YuNWKwLe"
@@ -7758,7 +7758,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "dres",
       "url": "https://open.spotify.com/track/6t2QcPF3STBCrqjOW7VECE"
@@ -17432,7 +17432,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 194826,
       "name": "mori",
       "url": "https://open.spotify.com/track/2yxPqxHbj1L7vrCpHLtAcG"
@@ -23935,6 +23935,24 @@
     },
     {
       "album": {
+        "name": "Retro",
+        "url": "https://open.spotify.com/album/4874opvjDfMdC8uspyILXx"
+      },
+      "artists": [
+        {
+          "name": "GENZIE",
+          "url": "https://open.spotify.com/artist/66NiiFgb74HLBN1A5ylO5t"
+        }
+      ],
+      "date_added": "2023-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130819,
+      "name": "Retro",
+      "url": "https://open.spotify.com/track/2DEfNzcgW4qXlVEKgvcwxz"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -25042,7 +25060,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 193500,
       "name": "Sextape",
       "url": "https://open.spotify.com/track/77zPD9o9tBR5hhsxdDZJeV"
@@ -26012,7 +26030,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"

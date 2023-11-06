@@ -516,7 +516,7 @@
     {
       "album": {
         "name": "Crush",
-        "url": "https://open.spotify.com/album/6cgpRG3y1okC2TUt2mCeQr"
+        "url": "https://open.spotify.com/album/1jcTbH8u84tIDvToNhXVax"
       },
       "artists": [
         {
@@ -527,6 +527,24 @@
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 275409,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/2tupeHiEed0OwBtamb02ZI"
+    },
+    {
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/6cgpRG3y1okC2TUt2mCeQr"
+      },
+      "artists": [
+        {
+          "name": "Cameron Jack",
+          "url": "https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-06",
       "duration_ms": 275409,
       "name": "Crush",
       "url": "https://open.spotify.com/track/69oXiXBdSLgPK9ayBdnE34"
@@ -752,6 +770,24 @@
     {
       "album": {
         "name": "Exorce EP",
+        "url": "https://open.spotify.com/album/5At3HJ1oGz9aRSm0sDqUd7"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412561,
+      "name": "Exorce",
+      "url": "https://open.spotify.com/track/4jl3zax2ukKfPJCgNjsrhq"
+    },
+    {
+      "album": {
+        "name": "Exorce EP",
         "url": "https://open.spotify.com/album/6NutlhlAx9Cu5Aci3D1qdE"
       },
       "artists": [
@@ -762,7 +798,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 412561,
       "name": "Exorce",
       "url": "https://open.spotify.com/track/4lM4b1cEY4YviftTR5DUCO"
@@ -1284,10 +1320,28 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 380266,
       "name": "Live Your Life With Me",
       "url": "https://open.spotify.com/track/47zSPTI5vFCfH2ld5lO01u"
+    },
+    {
+      "album": {
+        "name": "Live Your Life with Me",
+        "url": "https://open.spotify.com/album/14S3gw7V91gTar2nA2KaHZ"
+      },
+      "artists": [
+        {
+          "name": "Corrina Joseph",
+          "url": "https://open.spotify.com/artist/4U8tctx9dLNEwTm7PTnEjy"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380266,
+      "name": "Live Your Life With Me",
+      "url": "https://open.spotify.com/track/6eJ0jOvlDRroGfWdAtCFrt"
     },
     {
       "album": {

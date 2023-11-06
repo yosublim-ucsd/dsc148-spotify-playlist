@@ -1,12 +1,12 @@
 {
   "description": "Ist nur einmal im Jahr!",
-  "num_followers": 367173,
+  "num_followers": 367295,
   "original_name": "Malle Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTBkY2JkNGM0MzMwMGYzYjA2NzgwOGRkNDY3MzEyYzlhODlmOWUx",
+  "snapshot_id": "MCxhMTJlMTNlN2U5NTZhYjIwZTExYjA1MmYxOGRlZTIxMWViYWY1ZGM5",
   "tracks": [
     {
       "added_at": "2023-10-20 15:43:15",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
+        "name": "Culcha Candela",
+        "url": "https://open.spotify.com/album/74tpHkTc0lXgJDz7JrvlfM"
+      },
+      "artists": [
+        {
+          "name": "Culcha Candela",
+          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Hamma! - Single Edit",
+      "url": "https://open.spotify.com/track/3vaBHxfz5WPBLLPt1hTUvI"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
         "name": "Ein bisschen Aroma (Stereoact Remix)",
         "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 178540,
       "name": "Ein bisschen Aroma - Stereoact Remix",
       "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
-        "name": "Culcha Candela",
-        "url": "https://open.spotify.com/album/74tpHkTc0lXgJDz7JrvlfM"
-      },
-      "artists": [
-        {
-          "name": "Culcha Candela",
-          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Hamma! - Single Edit",
-      "url": "https://open.spotify.com/track/3vaBHxfz5WPBLLPt1hTUvI"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
-        "name": "Crackstreet Boys 3 (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK"
-      },
-      "artists": [
-        {
-          "name": "Trailerpark",
-          "url": "https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB"
-        }
-      ],
-      "duration_ms": 265494,
-      "name": "Bleib in der Schule",
-      "url": "https://open.spotify.com/track/14ZdGRgEojosST783o66CX"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
         "name": "Der Zug hat keine Bremse (Mallorcastyle Edition)",
         "url": "https://open.spotify.com/album/1EqQTMuCCCO7wXH8S9pZyZ"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 207301,
       "name": "Der Zug hat keine Bremse - Mallorcastyle Edition",
       "url": "https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
+        "name": "Crackstreet Boys 3 (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK"
+      },
+      "artists": [
+        {
+          "name": "Trailerpark",
+          "url": "https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB"
+        }
+      ],
+      "duration_ms": 265494,
+      "name": "Bleib in der Schule",
+      "url": "https://open.spotify.com/track/14ZdGRgEojosST783o66CX"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
+        "name": "Hurra die Gams",
+        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
+      },
+      "artists": [
+        {
+          "name": "Matty Valentino",
+          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Hurra die Gams",
+      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
         "name": "Partysau",
         "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 115680,
       "name": "Partysau",
       "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
-        "name": "Hurra die Gams",
-        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
-      },
-      "artists": [
-        {
-          "name": "Matty Valentino",
-          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Hurra die Gams",
-      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -995,22 +995,18 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
-        "name": "Zum Greifen nah",
-        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
+        "name": "Saufi saufi",
+        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
       },
       "artists": [
         {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "Anstandslos & Durchgeknallt",
-          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Zum Greifen nah",
-      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
+      "duration_ms": 206302,
+      "name": "Saufi saufi",
+      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -1031,18 +1027,42 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
-        "name": "Saufi saufi",
-        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+        "name": "Zum Greifen nah",
+        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
       },
       "artists": [
         {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
         }
       ],
-      "duration_ms": 206302,
-      "name": "Saufi saufi",
-      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
+      "duration_ms": 167142,
+      "name": "Zum Greifen nah",
+      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        },
+        {
+          "name": "Nik P.",
+          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
+      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -1071,26 +1091,6 @@
       "duration_ms": 142750,
       "name": "Kabinenparty (feat. MAKZ 38) - Kreisliga Mix",
       "url": "https://open.spotify.com/track/4tL82MSbNxW9aMexbmnXS2"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
-        "name": "Sternstunden",
-        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        },
-        {
-          "name": "Nik P.",
-          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
-      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
-        "name": "Arielle",
-        "url": "https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        },
-        {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
-        }
-      ],
-      "duration_ms": 205217,
-      "name": "Arielle",
-      "url": "https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
         "name": "Auf geht\u2019s nach Malle (Sar\u00e0 perch\u00e9 ti amo)",
         "url": "https://open.spotify.com/album/5HQxiHwV6aa81zg3zJg1Nc"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 151579,
       "name": "Auf geht\u2019s nach Malle (Sar\u00e0 perch\u00e9 ti amo)",
       "url": "https://open.spotify.com/track/2T8t116RDkrvAA6WwzdMJm"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
+        "name": "Arielle",
+        "url": "https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "Arielle",
+      "url": "https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
-        "name": "Nachbarn",
-        "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 181553,
-      "name": "Nachbarn",
-      "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
         "name": "Ich will mehr",
         "url": "https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB"
       },
@@ -1223,26 +1203,22 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
-        "name": "Mannschaftsfahrt",
-        "url": "https://open.spotify.com/album/55VymWungTBtByJ89fhnJD"
+        "name": "Nachbarn",
+        "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
       },
       "artists": [
         {
-          "name": "Kreisligalegende",
-          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
         },
         {
-          "name": "Julian Benz",
-          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
-        },
-        {
-          "name": "Malin Brown",
-          "url": "https://open.spotify.com/artist/40wyS6jSrnAlcl9xBbCVnA"
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
         }
       ],
-      "duration_ms": 168895,
-      "name": "Mannschaftsfahrt",
-      "url": "https://open.spotify.com/track/4VDJ1wK7eszdBpWGvDV3Tc"
+      "duration_ms": 181553,
+      "name": "Nachbarn",
+      "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -1267,6 +1243,30 @@
       "duration_ms": 184160,
       "name": "Grapefruit",
       "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
+        "name": "Mannschaftsfahrt",
+        "url": "https://open.spotify.com/album/55VymWungTBtByJ89fhnJD"
+      },
+      "artists": [
+        {
+          "name": "Kreisligalegende",
+          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
+        },
+        {
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
+        },
+        {
+          "name": "Malin Brown",
+          "url": "https://open.spotify.com/artist/40wyS6jSrnAlcl9xBbCVnA"
+        }
+      ],
+      "duration_ms": 168895,
+      "name": "Mannschaftsfahrt",
+      "url": "https://open.spotify.com/track/4VDJ1wK7eszdBpWGvDV3Tc"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
+        "name": "Freitag, Samstag",
+        "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 156356,
+      "name": "Freitag, Samstag",
+      "url": "https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
         "name": "Von Herzen",
         "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
       },
@@ -1395,26 +1415,6 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
-        "name": "Freitag, Samstag",
-        "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 156356,
-      "name": "Freitag, Samstag",
-      "url": "https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
         "name": "Klempner Klaus",
         "url": "https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL"
       },
@@ -1431,6 +1431,22 @@
       "duration_ms": 155820,
       "name": "Klempner Klaus",
       "url": "https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
+        "name": "Marie",
+        "url": "https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP"
+      },
+      "artists": [
+        {
+          "name": "Die Draufg\u00e4nger",
+          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
-        "name": "Marie",
-        "url": "https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP"
-      },
-      "artists": [
-        {
-          "name": "Die Draufg\u00e4nger",
-          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
         "name": "Ich schie\u00df mich weg",
         "url": "https://open.spotify.com/album/1nkb9GbsadB9rE1vonRmXg"
       },
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
-        "name": "Kleine Fee",
-        "url": "https://open.spotify.com/album/6mR5HHT7NuAD3ZA82tusHM"
-      },
-      "artists": [
-        {
-          "name": "Sch\u00fcrze",
-          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
-        }
-      ],
-      "duration_ms": 138721,
-      "name": "Kleine Fee",
-      "url": "https://open.spotify.com/track/6Hh3PWarkgiMwUP2klVS8h"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
         "name": "Bierkapit\u00e4n",
         "url": "https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 210857,
       "name": "Bierkapit\u00e4n",
       "url": "https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
+        "name": "Kleine Fee",
+        "url": "https://open.spotify.com/album/6mR5HHT7NuAD3ZA82tusHM"
+      },
+      "artists": [
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        }
+      ],
+      "duration_ms": 138721,
+      "name": "Kleine Fee",
+      "url": "https://open.spotify.com/track/6Hh3PWarkgiMwUP2klVS8h"
     }
   ],
   "unique_name": "Malle Party 2023",

@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-333 songs - 1 day 1 hr 23 min
+334 songs - 1 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,8 @@
 | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [Nina Oliveira](https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1) | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx) | 4:13 | 2023-10-12 |  |
 | [Voyage \(feat\. Amadou & Mariam\)](https://open.spotify.com/track/7ochILP42boyfaJITMUMGF) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Voyage \(feat\. Amadou & Mariam\)](https://open.spotify.com/album/7dqphiw2nuFnU7iZFKipZA) | 4:45 | 2023-04-27 |  |
 | [Want U Again](https://open.spotify.com/track/137KnVuHd8eN9oWr9q2cDo) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Want U Again](https://open.spotify.com/album/2s0aZNFIJiDY79ONncV56F) | 7:14 | 2023-08-24 |  |
-| [Watch Ya Scent](https://open.spotify.com/track/5FyizYtpHGXVd3IEQHcq54) | [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2), [Behic Fellowes](https://open.spotify.com/artist/6fp4rzbBMXpaPNSmL7hpPK) | [Watch Ya Scent](https://open.spotify.com/album/0eVvdpJsbNs38OVqThaVxj) | 3:34 | 2023-06-29 |  |
+| [Watch Ya Scent](https://open.spotify.com/track/1cXk8gOtQjY4sDFyq7BYLn) | [Behic Fellowes](https://open.spotify.com/artist/6fp4rzbBMXpaPNSmL7hpPK), [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2) | [Watch Ya Scent](https://open.spotify.com/album/799XAImbwjxdhYf1v7Y2Hm) | 3:34 | 2023-11-02 |  |
+| [Watch Ya Scent](https://open.spotify.com/track/5FyizYtpHGXVd3IEQHcq54) | [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2), [Behic Fellowes](https://open.spotify.com/artist/6fp4rzbBMXpaPNSmL7hpPK) | [Watch Ya Scent](https://open.spotify.com/album/0eVvdpJsbNs38OVqThaVxj) | 3:34 | 2023-06-29 | 2023-11-06 |
 | [Wave](https://open.spotify.com/track/5aH41smzTehoCIqj7VmAT3) | [Kill Them With Colour](https://open.spotify.com/artist/51YdmMVkUtAJnXacxyBZdU) | [Wave](https://open.spotify.com/album/0EHVHLmFiIgxxVSeqEtaci) | 3:14 | 2023-04-13 |  |
 | [Welcome To Dinna](https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Welcome To Dinna](https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk) | 3:51 | 2023-04-13 | 2023-08-02 |
 | [what the hell is lofi house?](https://open.spotify.com/track/4LoUp759ZRqbpzXpryqyub) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [what the hell is lofi house?](https://open.spotify.com/album/0jnEIIGSChsF3129A2d3bv) | 5:42 | 2023-06-29 |  |

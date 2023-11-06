@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,066 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,319 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 48 | [Mon Soleil \- Les Gordon Remix](https://open.spotify.com/track/0CsYWyD9HX7HSZF0OqYZIc) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn), [Les Gordon](https://open.spotify.com/artist/4UqXejsLj7uwZmzQ9vkmg8) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 3:16 |
 | 49 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz) | 3:41 |
 | 50 | [Shallow](https://open.spotify.com/track/50Pxb2ZpDkGuiEnWdWTdKo) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn), [Kevin Dias](https://open.spotify.com/artist/3UBr7nFzZBhdtfghEZiOrp) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 3:29 |
-| 51 | [Toujours des mensonges \(feat\. Vendredi sur Mer\)](https://open.spotify.com/track/7LqTeSI33Tizgz6bOjMw3F) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8), [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Toujours des mensonges \(feat\. Vendredi sur Mer\)](https://open.spotify.com/album/1oXKK5Tqew2GZqhqqFUUWN) | 3:42 |
+| 51 | [Toujours des mensonges \(feat\. Vendredi sur Mer\)](https://open.spotify.com/track/29Qo7Dcu3Z4c8zVAp03R0W) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8), [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Toujours des mensonges \(feat\. Vendredi sur Mer\)](https://open.spotify.com/album/0ucFRKSe2Olimd5wQ6E8G4) | 3:42 |
 | 52 | [Érotique](https://open.spotify.com/track/55ZWPgW0ntZLuBO1XaFL8T) | [The Rebels Of Tijuana](https://open.spotify.com/artist/3vo7UR9rFpGPtnUcamnZNP) | [Asile](https://open.spotify.com/album/0vpCGzBoUUYAjKepNsDaxs) | 2:36 |
 | 53 | [Miss Emily \- Charles Trenet: Swing Troubadour](https://open.spotify.com/track/4fNGSsa3jEV5NcAguSd0MN) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [Swing Troubadour](https://open.spotify.com/album/2K0WGAvi3CWRcck5U2FcSg) | 2:29 |
 | 54 | [C'est tout](https://open.spotify.com/track/5VrQJYbPWcKuqqdD5ZvlTR) | [Suzy Delair](https://open.spotify.com/artist/29xD9hXSdautBqaIHqal4d) | [C'est un air populaire](https://open.spotify.com/album/2g9xcS2MUFyOH4IiQpY02M) | 3:13 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 80 | [Odyssey](https://open.spotify.com/track/3sSHcojhD6MdCwWa9ICXd2) | [Yndi](https://open.spotify.com/artist/31yVSehp4XZiCSlb1sOSpq), [Dream Koala](https://open.spotify.com/artist/0tWnElR8nnWIsopg1o3xmg) | [Odyssey](https://open.spotify.com/album/0DlxqAGkm7aRZlRwWLziFw) | 6:10 |
 | 81 | [Le coeur hypothéqué](https://open.spotify.com/track/2yDAjpGumznyHEl2Qq1upf) | [April March](https://open.spotify.com/artist/0bbvrSsm0Dh4erBbE1dhHD) | [Triggers](https://open.spotify.com/album/0O4Ye0zB4AUEyYZg2wO06n) | 3:45 |
 | 82 | [L'amour est dans l'air \- Remasterisé en 2019](https://open.spotify.com/track/04qJXFRmt06SOjqeecfNTu) | [Laurent Rossi](https://open.spotify.com/artist/3mr7jNmay7VJ7BTUBeYyeM) | [Les 45 Tours \(Remasterisé en 2019\)](https://open.spotify.com/album/33CrUTfdeq7hdcOhWLX2g7) | 3:39 |
-| 83 | [Love Is In The Air](https://open.spotify.com/track/3c4OULLWwgRqBfA2dJtRuY) | [John Paul Young](https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN) | [I Hate the Music](https://open.spotify.com/album/28L7sCuuF8Zt6dW1FuZqRh) | 3:30 |
+| 83 | [Love Is in the Air](https://open.spotify.com/track/4v2K1ZcRXUc87CLtEXI3Pf) | [John Paul Young](https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN) | [Classic Hits](https://open.spotify.com/album/03T5bXMySvcTGqm8RpIJsV) | 3:28 |
 | 84 | [Cocktails](https://open.spotify.com/track/3wyFLLFpboXM3tRxQqMNwX) | [doVicente](https://open.spotify.com/artist/3LZegs6tK4WeVei1K0WaNU), [NVRT](https://open.spotify.com/artist/6qxvo887cuQQjfMEtyE0v7) | [Cocktails](https://open.spotify.com/album/5XU8F5Of2syUtb1p0LR5od) | 2:54 |
 | 85 | [Sexy](https://open.spotify.com/track/7H6prnTv8tLlZQSW3c50Q4) | [Blanche](https://open.spotify.com/artist/7r9SvYfMdBZECjHhwS9AmQ) | [Sexy](https://open.spotify.com/album/2CQFr1P0ullkVZiK3rUei3) | 2:33 |
 | 86 | [Dépêche\-toi](https://open.spotify.com/track/6tJz8gWCfs5amDvH7JTFyd) | [Weekend Affair](https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7) | [Quand vient la nuit](https://open.spotify.com/album/033hyagZK3RzlViVRIaW0f) | 3:16 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 97 | [Torino](https://open.spotify.com/track/56A4CSwjR2c64yNntJfrvG) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb) | [Torino](https://open.spotify.com/album/24mYPZEZ8PAxTmvZ2S45wb) | 3:46 |
 | 98 | [House Guy](https://open.spotify.com/track/0eKEcKjXMOC35lUdQrJwov) | [Shayhan](https://open.spotify.com/artist/5bqTDHeDDzXWCdN4bKtVbz) | [House Guy](https://open.spotify.com/album/7tS9vsoCFYjmTFn32ynTgd) | 3:03 |
 | 99 | [Pink Smoke](https://open.spotify.com/track/1q5sHTdV5jr4V6Mj3gU3QY) | [Painted Pale](https://open.spotify.com/artist/5CZWcuWKHtlZReCeHeiaRP) | [Pale as the Night](https://open.spotify.com/album/3ZVKr6P3k74A2dg6uQe1Li) | 3:54 |
-| 100 | [Sounds Familiar \- French Version](https://open.spotify.com/track/3I2D0Kpbtr0oXvWGxYUScQ) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Sounds Familiar \(French Version\)](https://open.spotify.com/album/1AxKROFWFlEL1Lt2Gbcckq) | 3:00 |
+| 100 | [Sounds Familiar \(French Version\)](https://open.spotify.com/track/32TXj0xMxTRDMSrkzOULfA) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Folle Machine](https://open.spotify.com/album/1NU1gXZPXE6px26hVt61Ic) | 3:01 |
 | 101 | [Les toits](https://open.spotify.com/track/79npq7YI19wcu0laahRopZ) | [A Bogota](https://open.spotify.com/artist/6hra1PjeIz73x06m7KPAEJ) | [Les toits](https://open.spotify.com/album/2ytMENgRU2Kr95K6FkeDbk) | 3:37 |
 | 102 | [Un jour ou l'autre](https://open.spotify.com/track/1fpji19faOMgQeitY3cTWo) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Un, Deux, Trois bonus](https://open.spotify.com/album/5hm39QHbLnSsRIHrutU3Dc) | 3:43 |
 | 103 | [Tenir droit](https://open.spotify.com/track/1fmLevSes3HHyshFJC3gaE) | [Mélissende](https://open.spotify.com/artist/1WQ43Zwk8Ry5Q6Y46OWJkt) | [Tenir droit](https://open.spotify.com/album/1owRM89pHZPQDgRgxtXpjr) | 3:13 |
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 125 | [Rebecca](https://open.spotify.com/track/5UZcdC7bW9JShSPzZ1Wb1O) | [Des Roses](https://open.spotify.com/artist/1gCto4xjSfyzCWFqbhp1gA) | [28.08](https://open.spotify.com/album/5GmQf8QHvWJEeoTS5277bV) | 4:13 |
 | 126 | [Fils D'or](https://open.spotify.com/track/4iTIpURVOl0aKQvoI8ue7g) | [Burning Peacocks](https://open.spotify.com/artist/4s2RfNqVSy0S6oD9RkUJv4) | [Love Réaction](https://open.spotify.com/album/5L337gccWGdF7FtWQ6udqM) | 4:07 |
 | 127 | [Jim](https://open.spotify.com/track/6okhWB79mZuK96OJt3VAHU) | [Faire](https://open.spotify.com/artist/2YyXNn8mZ7CUAzS1X4u2UY) | [L'Enfer](https://open.spotify.com/album/5F1z37hg0DSbK12G6mNfNa) | 3:01 |
-| 128 | [La flemme](https://open.spotify.com/track/1ZNZwPhKKMrAuNEWAwSvOQ) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [La flemme](https://open.spotify.com/album/36p74zhgOv0AmA9pFcS6M0) | 3:03 |
+| 128 | [La flemme](https://open.spotify.com/track/43AAd7EPmd2G6g0bt2tD7r) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Folle Machine](https://open.spotify.com/album/1NU1gXZPXE6px26hVt61Ic) | 3:03 |
 | 129 | [Je suis venue te dire](https://open.spotify.com/track/5UspWXQneWFk669M9aZTlD) | [Insolente](https://open.spotify.com/artist/6lNweRKE0EoaN1jXSZSuPq) | [Je suis venue te dire](https://open.spotify.com/album/3hRirGJugaUvEcsJGsNBL6) | 2:45 |
 | 130 | [No Shangri La](https://open.spotify.com/track/5foqt8rbcJBuvIUy5KJDIy) | [David Shaw and The Beat](https://open.spotify.com/artist/2y3wW28lTVdgPLuqtF4Xcb) | [Love Songs With a Kick Vol\. One](https://open.spotify.com/album/1zLBCcLZGjEcvmB35sAW9m) | 4:26 |
 | 131 | [Nuit](https://open.spotify.com/track/7zIfcuvWSAxE4LjEwadMnH) | [Yndi](https://open.spotify.com/artist/31yVSehp4XZiCSlb1sOSpq) | [Noir Brésil](https://open.spotify.com/album/4dk8HjZCAwv5PPkEgjtZp2) | 3:17 |
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 144 | [Hello](https://open.spotify.com/track/6zXNTEh0m0f9J9dIvwgbS5) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Hello](https://open.spotify.com/album/02se35n4gF3R1romII0PAx) | 3:27 |
 | 145 | [Paradigme](https://open.spotify.com/track/6UIIQ77efJTqp4p4fi3Wo7) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 3:36 |
 | 146 | [Solo](https://open.spotify.com/track/72draQsgA4fezbtParp90m) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Solo](https://open.spotify.com/album/4J0ZrKtOy4TgBqwEGtfwKs) | 3:14 |
-| 147 | [Mirage](https://open.spotify.com/track/51xm7ThW7RFWFequh489x2) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Mirage](https://open.spotify.com/album/1yyd5eQ1MlUHP8kJNEuAtC) | 3:02 |
+| 147 | [Mirage](https://open.spotify.com/track/7wl1IwwmZEyMs6Crj4yxQx) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Folle Machine](https://open.spotify.com/album/1NU1gXZPXE6px26hVt61Ic) | 3:03 |
 | 148 | [L'Essor](https://open.spotify.com/track/3zHqYayNUAWF6KZP4ZqRXt) | [Biche](https://open.spotify.com/artist/1m0M7J2El2DioTfule3L41) | [La Nuit des Perséides](https://open.spotify.com/album/6jnFQFFlCiek9UNppBnKKH) | 3:53 |
 | 149 | [Le chevalier](https://open.spotify.com/track/6IpbDAzcdH3JXDONtFAlRP) | [Fille à Papa](https://open.spotify.com/artist/28YSrbk6xiTk3WhpkdidaW) | [Le chevalier](https://open.spotify.com/album/5hZWYyQaiqB71s7Gq1HDq6) | 3:44 |
 | 150 | [Cool Colorado](https://open.spotify.com/track/6lbkdQ51nx1XPMGoiG3BZ6) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 3:52 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 215 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 216 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MCxhNDE4N2VlM2FkNTFiNWMyNzFmMDViOGY3Y2I5OGY2ZTkxOTNmZWRj`
+Snapshot ID: `MCw0Njk3OTFiMTdjNWQ5ZjdmZjZiNjAwOTU0YjEzOTRhODcwMDdkYzY0`

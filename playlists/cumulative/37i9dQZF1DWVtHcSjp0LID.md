@@ -4,7 +4,7 @@
 
 > Deep beats to study to.
 
-174 songs - 16 hr 40 min
+175 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Clouds](https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW) | [Aemone](https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d) | [Caturne V \- EP](https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1) | 4:12 | 2022-07-15 | 2023-06-10 |
 | [Cloverfield \- Original Mix](https://open.spotify.com/track/6hg11XB9rUTSM92Sx2WDhJ) | [Tom Hutt](https://open.spotify.com/artist/6nAdbXw8ZWvMfQsM1AqpEm) | [Cloverfield](https://open.spotify.com/album/647hVoRT9zzXTFvNwRoAGh) | 7:33 | 2022-03-22 | 2022-06-27 |
 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 | 2022-03-22 | 2022-04-21 |
+| [Come Back Home](https://open.spotify.com/track/4yAGUSWR2xzOEV0SLgBWZX) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Roos Jonker](https://open.spotify.com/artist/7zKcaqZKaQv5O6oZYBoFBf) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 5:03 | 2023-06-09 |  |
 | [Confiscate \- Drumcomplex Remix](https://open.spotify.com/track/4DbaGKcHx7WHdgHwTsNQ8P) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU), [Drumcomplex](https://open.spotify.com/artist/15uHboHn4dMAVjqSBMSnId) | [Confiscate / Elucidate](https://open.spotify.com/album/2jwS9VvHOISz2oWF5z9rSb) | 6:46 | 2022-03-22 | 2022-11-05 |
 | [Cow Palace](https://open.spotify.com/track/36bWpRjafcUfb5hKdsYHRa) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/1SNe7Kq4pueLuUjIy9azKg) | 5:46 | 2022-03-22 | 2022-07-29 |
 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 | 2022-07-15 |  |
@@ -67,7 +68,7 @@
 | [fantastic planet](https://open.spotify.com/track/6F3SGjnVcUUGILalpmnHcr) | [xJK.](https://open.spotify.com/artist/6BeveIeeB8IPP6EYHYcWI6) | [spacewalk](https://open.spotify.com/album/2oH7eSeoXQuRfpV4ngUXTB) | 3:12 | 2022-03-22 | 2022-07-29 |
 | [Forests](https://open.spotify.com/track/0ftXz1tRf3qdZ1T7Ffo29u) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/4dMstCvm1yGTowsiiKE3ec) | 6:59 | 2023-06-09 | 2023-10-08 |
 | [Freundchen \- Phil Gerus Remix](https://open.spotify.com/track/6f01jb7840IvrEbgAEc9e2) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Phil Gerus](https://open.spotify.com/artist/1q4zY8qzOsCqIypqC5iQnd) | [Freundchen Remixes](https://open.spotify.com/album/0kKF5ZMS9jIUa6LNQ5PkvH) | 5:53 | 2022-03-22 | 2022-06-21 |
-| [Ghetto Kraviz \- Original Mix](https://open.spotify.com/track/6pGs4VS6BV0WnooovrrxRj) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Nina Kraviz](https://open.spotify.com/album/1epNQzaN8mMyuu2rN6DSRM) | 3:44 | 2023-06-09 |  |
+| [Ghetto Kraviz \- Original Mix](https://open.spotify.com/track/6pGs4VS6BV0WnooovrrxRj) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Nina Kraviz](https://open.spotify.com/album/1epNQzaN8mMyuu2rN6DSRM) | 3:44 | 2023-06-09 | 2023-11-06 |
 | [Ghostly](https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb) | 6:00 | 2022-07-15 |  |
 | [Ghostly](https://open.spotify.com/track/2KRquNeHjbEm1Q0hPulCt2) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/0w8x1W1PktGoseY4edkAdE) | 6:00 | 2022-03-22 | 2022-07-29 |
 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 | 2022-03-22 | 2022-07-16 |

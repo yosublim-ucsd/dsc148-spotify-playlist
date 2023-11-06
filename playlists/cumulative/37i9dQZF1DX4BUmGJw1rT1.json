@@ -3670,7 +3670,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 232728,
       "name": "The Healer",
       "url": "https://open.spotify.com/track/4JhUJwr2oK68ljiuZva4ci"
@@ -4142,6 +4142,24 @@
       "duration_ms": 359333,
       "name": "You and Your Friend",
       "url": "https://open.spotify.com/track/7LXxMApcyuh5A3sod0nV5s"
+    },
+    {
+      "album": {
+        "name": "You'll Be Mine",
+        "url": "https://open.spotify.com/album/256DEEW0ATt6kE7afP04O7"
+      },
+      "artists": [
+        {
+          "name": "Dry So Long",
+          "url": "https://open.spotify.com/artist/522CqVQTrK09ihGRIa4iyV"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220692,
+      "name": "You'll Be Mine",
+      "url": "https://open.spotify.com/track/3Pb0YF0AUwkjdrY7eNh74y"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4BUmGJw1rT1"

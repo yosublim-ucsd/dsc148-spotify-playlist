@@ -4,7 +4,7 @@
 
 > Inspired by African drums\. Cover: EverythingOShauN, ODUMODUBLVCK 🇳🇬 🇯🇲 🇳🇬
 
-681 songs - 1 day 10 hr 9 min
+682 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,7 +483,8 @@
 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 | 2023-09-22 |  |
 | [Ride](https://open.spotify.com/track/4oJaUMuHz0X6b8mO19Eloe) | [Shiiloh](https://open.spotify.com/artist/6eSZchhWk6vMad9q0zQZGC), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0) | [Ride](https://open.spotify.com/album/2E55XAXxNxdTDjVK1j0SM2) | 2:56 | 2022-07-08 | 2022-08-06 |
 | [Rihanna \(Umbrella\)](https://open.spotify.com/track/1oQLS1Guu4Vb1NstarqeEc) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Rihanna \(Umbrella\)](https://open.spotify.com/album/6xAsrhQF5IkIXsiozfWP3J) | 2:36 | 2022-07-01 | 2022-07-23 |
-| [Ring\-a\-Ling](https://open.spotify.com/track/0CAisIL2Tjy47oEkzQUMns) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Ring\-a\-Ling](https://open.spotify.com/album/1OnUNliWg1BbNsuEmGDB2n) | 2:58 | 2023-07-28 |  |
+| [Ring\-a\-Ling](https://open.spotify.com/track/0CAisIL2Tjy47oEkzQUMns) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Ring\-a\-Ling](https://open.spotify.com/album/1OnUNliWg1BbNsuEmGDB2n) | 2:58 | 2023-07-28 | 2023-11-06 |
+| [Ring\-a\-Ling](https://open.spotify.com/track/4C2PbS2Z1c4XB7D9HRppbv) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:58 | 2023-10-27 |  |
 | [Rive Sou Mwen](https://open.spotify.com/track/36grcLDgduvbutRoFovprz) | [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [Rive Sou Mwen](https://open.spotify.com/album/2cvNO3NpcAJDLT4xYB1oe7) | 3:19 | 2023-03-17 | 2023-05-06 |
 | [Roll On Me](https://open.spotify.com/track/503wKpMyZNr1fvB5eSZ8LC) | [Lavaud](https://open.spotify.com/artist/5vN74Jan4kXV79cq9SLp7T), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Saint & Citizen](https://open.spotify.com/artist/3a1mtJHahvdHcYQEBQB5YY) | [Roll On Me](https://open.spotify.com/album/6ssSTfQhXX5lDGanUJkOvJ) | 3:10 | 2023-10-06 |  |
 | [Room \(with Adekunle Gold & 2 Chainz\)](https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Room](https://open.spotify.com/album/0gx8ORhZE1FItFCz9qxtRD) | 3:39 | 2023-07-21 |  |

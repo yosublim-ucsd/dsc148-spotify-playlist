@@ -4,7 +4,7 @@
 
 > Just good vibes all day long
 
-715 songs - 1 day 14 hr 40 min
+716 songs - 1 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,7 +479,8 @@
 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-06-16 | 2023-09-26 |
 | [OT](https://open.spotify.com/track/1YuIEfhp8umr6QSal4FTK4) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [OT](https://open.spotify.com/album/4q1mJMIhtUJJCKtTnMBD1q) | 3:11 | 2019-09-05\* | 2021-03-19 |
 | [OTT](https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [OTT](https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG) | 2:37 | 2022-07-08 | 2022-07-16 |
-| [Out of Luck](https://open.spotify.com/track/2qgDbkc1EhW4vaXv8yN1J4) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Out of Luck](https://open.spotify.com/album/1jcz46Y0Y3UD4FxEmRjQzY) | 3:50 | 2023-10-06 |  |
+| [Out of Luck](https://open.spotify.com/track/2qgDbkc1EhW4vaXv8yN1J4) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Out of Luck](https://open.spotify.com/album/1jcz46Y0Y3UD4FxEmRjQzY) | 3:50 | 2023-10-06 | 2023-11-06 |
+| [Out of Luck](https://open.spotify.com/track/5vwBdLidaM8UEE6Hcn7zu7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 3:50 | 2023-10-27 |  |
 | [Overdrive](https://open.spotify.com/track/3QyoC6OvQUmpQwQZ18iaTs) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Overdrive](https://open.spotify.com/album/0DvIDMUOMaaVbXfDVt8jZS) | 3:03 | 2021-08-28 | 2021-12-11 |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-05-26 | 2023-08-12 |
 | [Paper Cut](https://open.spotify.com/track/4gSEZ8dkB4GrrIowsib0l9) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Paper Cut](https://open.spotify.com/album/3YUYvVYmYUNoVJJTAMg6ox) | 3:08 | 2019-09-05\* | 2021-08-28 |

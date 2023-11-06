@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "AfroCubism",
+        "url": "https://open.spotify.com/album/2xeis5rXeObCoxaSVqQd5E"
+      },
+      "artists": [
+        {
+          "name": "AfroCubism",
+          "url": "https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353986,
+      "name": "Jarabi",
+      "url": "https://open.spotify.com/track/7KORuIh0eVDvHXmR1PpB0v"
+    },
+    {
+      "album": {
         "name": "Afrocubism",
         "url": "https://open.spotify.com/album/7qXvKyPmjYWye72ZTIrihK"
       },
@@ -1082,7 +1100,7 @@
       ],
       "date_added": "2018-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 357413,
       "name": "Jarabi",
       "url": "https://open.spotify.com/track/5EvehLwAeQkVwwEfoAawa4"
@@ -1612,10 +1630,28 @@
       ],
       "date_added": "2018-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 431133,
       "name": "Nijaay",
       "url": "https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D"
+    },
+    {
+      "album": {
+        "name": "Made in Dakar",
+        "url": "https://open.spotify.com/album/42oYfuID95AxYWA0jduZCo"
+      },
+      "artists": [
+        {
+          "name": "Orchestra Baobab",
+          "url": "https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434986,
+      "name": "Nijaay",
+      "url": "https://open.spotify.com/track/09Fm7uCNugdcI9bitG6Ype"
     },
     {
       "album": {

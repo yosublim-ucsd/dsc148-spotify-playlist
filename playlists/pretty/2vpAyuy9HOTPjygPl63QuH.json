@@ -1,12 +1,12 @@
 {
   "description": "The freshest tech house music, updated every friday. Submit via Instagram: @subshiftmusic",
-  "num_followers": 6712,
+  "num_followers": 6723,
   "original_name": "Tech House Shift",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "Nzg1OCw5MDgxYTM2YWVkYjdkZmViMGUwNDZlNjI0MjQ1OTE0OWU5ZmUyZmFj",
+  "snapshot_id": "Nzg1OSw3NWY5OTAxMzMxMmJkN2ZiNjE1MDE4MjYzMTliYjEyYjdiYmE0YTc5",
   "tracks": [
     {
       "added_at": "2023-10-27 08:47:50",
@@ -767,6 +767,26 @@
       "duration_ms": 181560,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/08rbuRBxTx39Ppf51TjAFN"
+    },
+    {
+      "added_at": "2023-11-05 19:08:56",
+      "album": {
+        "name": "Listen [The Remixes]",
+        "url": "https://open.spotify.com/album/2khLaEBxaaisEWt7lGTPg3"
+      },
+      "artists": [
+        {
+          "name": "Stan Kolev",
+          "url": "https://open.spotify.com/artist/6MzHMxgYcbj6ue5w9pbNp9"
+        },
+        {
+          "name": "Austin Pettit",
+          "url": "https://open.spotify.com/artist/2hvTEkJIyi0TLuwpRX1awn"
+        }
+      ],
+      "duration_ms": 376456,
+      "name": "Listen - Austin Pettit Remix",
+      "url": "https://open.spotify.com/track/09ysaqWecuRW7gGLBrxTDm"
     }
   ],
   "unique_name": "Tech House Shift",

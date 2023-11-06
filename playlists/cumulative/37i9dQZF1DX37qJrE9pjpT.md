@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Rosa Ree
 
-104 songs - 5 hr 56 min
+105 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Enjoy](https://open.spotify.com/track/2rmTN5WQoi1qVTgEpcunGO) | [Rapcha](https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa) | [Enjoy](https://open.spotify.com/album/5CVH1q3LmJwUkczJ6mtBd6) | 2:16 | 2023-07-13 |  |
 | [Feelin](https://open.spotify.com/track/4jRzr8vtAycrPT1FKUR4bq) | [ni\_kisanga](https://open.spotify.com/artist/6zShZL47Da1WJHMcqGeRPp) | [Feelin](https://open.spotify.com/album/2AJ4eOhhY3hFRcUxVHSByN) | 2:53 | 2022-10-21 | 2023-08-29 |
 | [Find you a Place / Safehouse](https://open.spotify.com/track/3ofbT62Ef6nMtPRRhbnHkZ) | [Ynnek](https://open.spotify.com/artist/2wu6U4rf0z3MR6sIeWlghK), [EUGKEN](https://open.spotify.com/artist/5c3Bdw6ZfisVBsFavzFPHV) | [CHF on a Hollow Night](https://open.spotify.com/album/1VuGBhknDEQZjtf3KRgvL9) | 2:56 | 2023-10-20 |  |
-| [FOREVER](https://open.spotify.com/track/1MCRjYXjDAR0KN8M53wEZF) | [BROBYBROBY](https://open.spotify.com/artist/25hmf6xsH7GsnqIQQ88659), [T.D.E](https://open.spotify.com/artist/1LTFfykgqONFKCudCp0YIo) | [UGLYBEAST VOL III](https://open.spotify.com/album/5WsySNQ6Uy09QpdEcA63SS) | 3:17 | 2022-10-21 |  |
+| [FOREVER](https://open.spotify.com/track/1MCRjYXjDAR0KN8M53wEZF) | [BROBYBROBY](https://open.spotify.com/artist/25hmf6xsH7GsnqIQQ88659), [T.D.E](https://open.spotify.com/artist/1LTFfykgqONFKCudCp0YIo) | [UGLYBEAST VOL III](https://open.spotify.com/album/5WsySNQ6Uy09QpdEcA63SS) | 3:17 | 2022-10-21 | 2023-11-06 |
+| [Forever](https://open.spotify.com/track/5VLLmQUpBUF8gaX1W3ajtx) | [BROBYBROBY](https://open.spotify.com/artist/25hmf6xsH7GsnqIQQ88659), [T.D.E](https://open.spotify.com/artist/5R3LuIkjFFUJbyM1cv030Q) | [Uglybeast, Vol\. III](https://open.spotify.com/album/08ZBi14y6dVK43uajm9zLA) | 3:17 | 2023-10-26 |  |
 | [Funga Kazi](https://open.spotify.com/track/34opJEgUasCJmsFKp2CVjY) | [Manengo](https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Funga Kazi](https://open.spotify.com/album/5Rwo0KZZrd0Dy4tSyhvE7j) | 3:06 | 2023-05-19 |  |
 | [Future Wife](https://open.spotify.com/track/1Yq6tM4AzDJKcUC1ziv9O8) | [Stamina Shorwebwenzi](https://open.spotify.com/artist/7vGp5tmuvQ5ku1Fh6d1UsV), [Mkwawa](https://open.spotify.com/artist/4RIy8pk0S2X84NZGn3Kgcc) | [Love Bite](https://open.spotify.com/album/2LFuHTgXhM3IQrX7BbN9uj) | 3:47 | 2022-07-08 |  |
 | [G E N E R A T I O N A L C U R S E S](https://open.spotify.com/track/023cszAO7MmPwBU5u3uNfJ) | [Leone](https://open.spotify.com/artist/4Y2tMbo5x9mEaRYSHyiuwP) | [G E N E R A T I O N A L C U R S E S](https://open.spotify.com/album/3dILSTrmz8JZDMXltQGYqS) | 4:14 | 2022-05-27 | 2023-09-16 |

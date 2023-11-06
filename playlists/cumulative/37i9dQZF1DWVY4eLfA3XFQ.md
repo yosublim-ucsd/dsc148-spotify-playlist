@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Dave Winnel
 
-1,329 songs - 3 day 4 hr 7 min
+1,330 songs - 3 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Creepin in the Shadow \- Original Mix](https://open.spotify.com/track/01lpiNuE2762wUx4IImGV3) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Creepin in the Shadow](https://open.spotify.com/album/1t0dcAbDxYfH9r0Zzg5ewY) | 6:13 | 2023-03-10 | 2023-04-22 |
 | [Cuando Vengas](https://open.spotify.com/track/1l0aHFk8ABCVRTshocDReQ) | [Blue Man](https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI) | [Cuando Vengas](https://open.spotify.com/album/1fR6tN5tfSC8r2Zmux1LGz) | 2:15 | 2022-12-23 | 2023-02-18 |
 | [Cuban Riddim](https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Cuban Riddim](https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1) | 2:47 | 2021-11-26 | 2022-01-06 |
-| [Cuddle \- Edit](https://open.spotify.com/track/11qteqHtkROcyTe9MbNqr5) | [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [Cuddle \(Edit\)](https://open.spotify.com/album/3i4unTugJPI0gIv5gFBj61) | 3:15 | 2023-10-27 |  |
+| [Cuddle \- Edit](https://open.spotify.com/track/11qteqHtkROcyTe9MbNqr5) | [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [Cuddle \(Edit\)](https://open.spotify.com/album/3i4unTugJPI0gIv5gFBj61) | 3:15 | 2023-10-27 | 2023-11-06 |
 | [Cumbia Buena](https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Cumbia Buena](https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM) | 2:29 | 2023-04-14 | 2023-06-10 |
 | [Cumbia Cinaguera](https://open.spotify.com/track/0yU2Esztng2HvcQlPmyCPU) | [Sonny Noto](https://open.spotify.com/artist/2nTTK1iTlA31QadqzoU9nu), [Mac Russo](https://open.spotify.com/artist/1ctVHtKwQOQ7YV7j9n8um4) | [Cumbia Cinaguera](https://open.spotify.com/album/5jMmHsuOmVORtdt9EhWBbj) | 2:39 | 2023-03-31 | 2023-06-17 |
 | [Da Fonk \(feat\. Joni\) \- \[Dub\]](https://open.spotify.com/track/16HsivNFzvZZNwK12a0fOp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 5:51 | 2022-12-28 | 2023-01-06 |
@@ -290,6 +290,7 @@
 | [Do What You Want](https://open.spotify.com/track/2ONPus6HrSvaMODodxhMtm) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [Do What You Want](https://open.spotify.com/album/4lCFkQUgP7I2Wpl5tEP7fq) | 2:57 | 2023-08-11 | 2023-10-29 |
 | [Do You Feel It](https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Do You Feel It](https://open.spotify.com/album/42hJe9FM2aEdJzngH9fb6y) | 3:06 | 2023-08-11 |  |
 | [Doin Ya Thang](https://open.spotify.com/track/0fEowZULrTsT0lxtrwyR3X) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3) | [Doin Ya Thang](https://open.spotify.com/album/7tM2lyWub7zkimIWzX6Ui2) | 6:55 | 2021-11-26 | 2022-01-06 |
+| [Dominator \(2K23\)](https://open.spotify.com/track/7IuGLuWImOmbG0PSXzJseW) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Dominator \(2K23\)](https://open.spotify.com/album/4N7nuwnyAEnCvLxH5ncUIT) | 3:10 | 2023-11-03 |  |
 | [Domino \(feat\. Oxia\)](https://open.spotify.com/track/1TepyN2GXukyc6wo3kTFMO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK) | [Domino \(feat\. Oxia\)](https://open.spotify.com/album/0pth5KWHb0y7nvYqLp9Mzl) | 2:38 | 2021-11-26 | 2022-03-12 |
 | [Don Julio](https://open.spotify.com/track/64b44rQbKFCG6zVwJ2qDAk) | [Shaded](https://open.spotify.com/artist/2xKTuI2Nl32OaYyDndSB3S) | [Don Julio](https://open.spotify.com/album/7hb7VPTh4LMlTIBAy3x32Y) | 3:08 | 2023-10-13 |  |
 | [Don't Cha](https://open.spotify.com/track/4E8A1xYxVFzI1Mb0ayWG0n) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [Don't Cha](https://open.spotify.com/album/3sw9bsmTwb1YxKDfVyJ4NM) | 3:37 | 2021-11-26 | 2022-01-06 |

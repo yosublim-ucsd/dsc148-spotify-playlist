@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Adriana R\u00edos & Ana B\u00e1rbara en portada.",
-  "num_followers": 97660,
+  "num_followers": 97775,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjgwYWUxZDA5MzJjOGIyYTBlZmY1MjA0ZTY0NWQyNjA2YWFlNTVk",
+  "snapshot_id": "MCxmNTVjZjFjZjlhZDYwNmY5OGVhNDMyOTNjNWYyYzJlOGUzODlmYmVl",
   "tracks": [
     {
       "added_at": "2023-10-27 06:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-10-27 06:00:00",
       "album": {
-        "name": "Jupiter",
-        "url": "https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf"
-    },
-    {
-      "added_at": "2023-10-27 06:00:00",
-      "album": {
         "name": "Por Puro Amor",
         "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 219693,
       "name": "Con La Misma Piedra",
       "url": "https://open.spotify.com/track/48YY9jYcCMqW6FiAZ5EmSb"
+    },
+    {
+      "added_at": "2023-10-27 06:00:00",
+      "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf"
     },
     {
       "added_at": "2023-10-27 06:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-10-27 06:00:00",
       "album": {
+        "name": "Al No Tenerte",
+        "url": "https://open.spotify.com/album/4eQvcIFA0g1LN7lGWm4JgH"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 194275,
+      "name": "Al No Tenerte",
+      "url": "https://open.spotify.com/track/5TOSj4RD0DP9ntUD4ng3p1"
+    },
+    {
+      "added_at": "2023-10-27 06:00:00",
+      "album": {
         "name": "Me Cuesta Tanto Olvidarte",
         "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 201802,
       "name": "Cuando Caiga la Noche",
       "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
-    },
-    {
-      "added_at": "2023-10-27 06:00:00",
-      "album": {
-        "name": "Al No Tenerte",
-        "url": "https://open.spotify.com/album/4eQvcIFA0g1LN7lGWm4JgH"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 194275,
-      "name": "Al No Tenerte",
-      "url": "https://open.spotify.com/track/5TOSj4RD0DP9ntUD4ng3p1"
     },
     {
       "added_at": "2023-10-27 06:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-10-27 06:00:00",
       "album": {
-        "name": "Qu\u00edtame ese Hombre",
-        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 196874,
-      "name": "Qu\u00edtame Ese Hombre",
-      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
-    },
-    {
-      "added_at": "2023-10-27 06:00:00",
-      "album": {
         "name": "Yo No Creo En Los Hombres",
         "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 215893,
       "name": "Yo No Creo En Los Hombres",
       "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
+    },
+    {
+      "added_at": "2023-10-27 06:00:00",
+      "album": {
+        "name": "Qu\u00edtame ese Hombre",
+        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 196874,
+      "name": "Qu\u00edtame Ese Hombre",
+      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
     },
     {
       "added_at": "2023-10-27 06:00:00",
@@ -1335,18 +1335,22 @@
     {
       "added_at": "2023-10-27 06:00:00",
       "album": {
-        "name": "Volver\u00e9 A Amar",
-        "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
+        "name": "La Muerte No Es el Olvido",
+        "url": "https://open.spotify.com/album/2Naj6u36xiUj5BPqSuM7Ip"
       },
       "artists": [
         {
-          "name": "Valentina Elizalde",
-          "url": "https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1"
+          "name": "La Morra De La Vihuela",
+          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
+        },
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
         }
       ],
-      "duration_ms": 240680,
-      "name": "Volver\u00e9 A Amar",
-      "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
+      "duration_ms": 220500,
+      "name": "La Muerte No Es el Olvido",
+      "url": "https://open.spotify.com/track/7h62f2DDObGo0B7FOoyAan"
     },
     {
       "added_at": "2023-10-27 06:00:00",
@@ -1367,22 +1371,18 @@
     {
       "added_at": "2023-10-27 06:00:00",
       "album": {
-        "name": "La Muerte No Es el Olvido",
-        "url": "https://open.spotify.com/album/2Naj6u36xiUj5BPqSuM7Ip"
+        "name": "Volver\u00e9 A Amar",
+        "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
       },
       "artists": [
         {
-          "name": "La Morra De La Vihuela",
-          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
-        },
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+          "name": "Valentina Elizalde",
+          "url": "https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1"
         }
       ],
-      "duration_ms": 220500,
-      "name": "La Muerte No Es el Olvido",
-      "url": "https://open.spotify.com/track/7h62f2DDObGo0B7FOoyAan"
+      "duration_ms": 240680,
+      "name": "Volver\u00e9 A Amar",
+      "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
     },
     {
       "added_at": "2023-10-27 06:00:00",

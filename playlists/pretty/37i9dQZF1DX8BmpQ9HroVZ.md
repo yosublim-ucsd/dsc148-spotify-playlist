@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest local and global tracks in Pakistan\. Cover \- AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,696 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,816 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 59 | [Introduction](https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Introduction](https://open.spotify.com/album/0AhoKlF1bTECpWf8RUAys5) | 1:56 |
 | 60 | [Scars](https://open.spotify.com/track/2WzcdOr9IGIWjGQLEtV90Y) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [First of a Kind \(From the Amazon Original Series\)](https://open.spotify.com/album/6vMzmr8k0HL8Ci9Y0VUbvu) | 2:43 |
 
-Snapshot ID: `MCwwMmZiOWJjODAzZjNjZTc3MGJjMWQ1ZDEwZjFlY2EzNjJkMzg1ODBk`
+Snapshot ID: `MCwyN2RjNDIyMmRmNDI1ZTIyOWIzZjY3YzRmMWU2Y2MyOGUwNzBkZmYz`

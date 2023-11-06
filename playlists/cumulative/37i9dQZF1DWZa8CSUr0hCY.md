@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-204 songs - 9 hr 7 min
+205 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Sunny Vibes](https://open.spotify.com/track/4lTyqdmfbUqExL0R0JuiMJ) | [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6) | [Hip Dozer, Vol\. 4](https://open.spotify.com/album/2iusiYOu2LBcsJQK8Vn1wG) | 3:36 | 2020-11-06 | 2022-08-31 |
 | [Sunny Walk](https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Sunny Walk](https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS) | 1:46 | 2022-08-30 |  |
 | [Sunwalker](https://open.spotify.com/track/3PQEhclz2qMuapq7d7pkYc) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Sunwalker](https://open.spotify.com/album/38uhMobQa9paPmT58lrHnl) | 2:21 | 2022-08-30 |  |
+| [Suspended In Stillness](https://open.spotify.com/track/1DUKmawSPiPk3WZJ7H6gqW) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Suspended In Stillness](https://open.spotify.com/album/0F4kbaMQpA6qWESdZAem3D) | 2:04 | 2023-11-05 |  |
 | [Sweet Dávila](https://open.spotify.com/track/6HYZFarA9kGCDQx41OJLBA) | [Demouche](https://open.spotify.com/artist/3lJbPCM1JuPcQA72e7BouG) | [Hip Dozer, Vol\. 1](https://open.spotify.com/album/3RcP0vpHB7sIeszjJUhFgs) | 3:55 | 2020-11-06 | 2022-08-31 |
 | [Sweet Harmonies](https://open.spotify.com/track/3eru26MhCX1DcTEdYvEmBz) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu) | [Sweet Harmonies](https://open.spotify.com/album/5PuA4W4jFM4ZBhWzOkVK00) | 2:58 | 2022-10-25 |  |
 | [Sweet Harmonies](https://open.spotify.com/track/6I0ri5qtbwAl0STxMXuMZo) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu) | [Sweet Harmonies](https://open.spotify.com/album/6hmAw4vIvPFP6n6u7kndCh) | 2:58 | 2022-09-08 | 2022-11-24 |

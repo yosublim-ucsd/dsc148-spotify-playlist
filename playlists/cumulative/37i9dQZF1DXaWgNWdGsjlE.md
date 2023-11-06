@@ -4,7 +4,7 @@
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-198 songs - 10 hr 47 min
+200 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Brainfreeze](https://open.spotify.com/track/7pDH3MNeFLhDYJMsqHPhCF) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [XVOTO](https://open.spotify.com/album/6muUIRODfshZYZLD52K5Va) | 4:16 | 2022-11-08 | 2022-11-14 |
 | [BURNING RUBBER](https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [BURNING RUBBER](https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e) | 2:13 | 2022-04-08 |  |
 | [CANNOT GET ANY BETTER](https://open.spotify.com/track/5M4r4rrjc3mXTRLIDH9qcG) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [CANNOT GET ANY BETTER](https://open.spotify.com/album/4C8JSXX0gamv4pllZ55XQV) | 2:24 | 2022-04-08 | 2022-10-01 |
-| [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-04-08 |  |
+| [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-04-08 | 2023-11-06 |
+| [CASUALTY](https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN) | 2:38 | 2023-09-22 |  |
 | [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-05-19 |  |
 | [Cheerleader](https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Cheerleader](https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH) | 2:12 | 2023-08-18 |  |
 | [Choke](https://open.spotify.com/track/3CCPPygZiu0tBGHDzVcQWk) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Choke](https://open.spotify.com/album/1TtnJkq4DKJMSKu2D5EFL7) | 4:02 | 2022-04-08 | 2022-07-29 |
@@ -104,7 +105,8 @@
 | [I Disagree](https://open.spotify.com/track/5vWo4ErhZVUmtVvQvNIWel) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/1rG42e3BKIxO2HTEUbujZN) | 3:13 | 2022-04-08 | 2022-07-29 |
 | [I Kill Everything](https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [I Kill Everything](https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd) | 3:36 | 2022-09-23 |  |
 | [I'm Afraid of Americans](https://open.spotify.com/track/7EYGyg1gSIOTlZ6QVxt36x) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [I'm Afraid of Americans](https://open.spotify.com/album/0Kr3WQ66jwi4IjKIvddQUL) | 3:16 | 2022-04-08 | 2022-09-24 |
-| [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/track/3bLU7rl0xkgzcLPYHO3HuK) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/album/6UXqIJqZInWaAQ71rcAWeU) | 4:07 | 2022-04-08 |  |
+| [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/track/3bLU7rl0xkgzcLPYHO3HuK) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/album/6UXqIJqZInWaAQ71rcAWeU) | 4:07 | 2022-04-08 | 2023-11-06 |
+| [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/track/6q1F8dDPA8z2iaTE4XW2gG) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [New Empire, Vol\. 2](https://open.spotify.com/album/4I3YOnPD8WyNmj8ePI3uzF) | 4:07 | 2023-09-22 |  |
 | [Initiation](https://open.spotify.com/track/1l9KPR4NXVR1Ny7vyPYwHw) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Initiation / Protection](https://open.spotify.com/album/1L3sLTg8ElmheG3Ftu90Su) | 4:05 | 2022-04-08 |  |
 | [Intrusive](https://open.spotify.com/track/04ga1GTMPJPYTBTVCrDts8) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Intrusive](https://open.spotify.com/album/4GC9GlW36nuWLHospvejOq) | 2:04 | 2022-07-01 | 2022-07-29 |
 | [Intrusive](https://open.spotify.com/track/277bSPoxSJT51c43jXVw7q) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:04 | 2022-07-01 |  |

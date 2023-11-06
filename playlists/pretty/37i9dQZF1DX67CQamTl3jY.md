@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67CQamTl3jY.md) - [plain]
 
 > <a href="http://www.grammy.com/">第65回グラミー賞</a>\(2023年\)受賞作品を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,027 likes - 38 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,030 likes - 38 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67CQamTl3jY.md) - [plain]
 | 25 | [Keep It On Your Mind](https://open.spotify.com/track/0hoooacVj2Ze6x9rFiYRTC) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 5:30 |
 | 26 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
 | 27 | [I'll Love You Till The Day I Die](https://open.spotify.com/track/7MdWQ5TLm9snNKXpmcwk9l) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 4:11 |
-| 28 | [Garden](https://open.spotify.com/track/0tEFguRom1BhshfZ97fah6) | [White Sun](https://open.spotify.com/artist/2i36FHX25QK8SMore8TPtT) | [Mystic Mirror](https://open.spotify.com/album/2RCfHYzhAmJgzrj31ygTE2) | 3:49 |
+| 28 | [Garden](https://open.spotify.com/track/4OfTbv45fbyN2sAiynXkUQ) | [White Sun](https://open.spotify.com/artist/2i36FHX25QK8SMore8TPtT) | [Mystic Mirror](https://open.spotify.com/album/04uN6kCP6ae9yvocliggTH) | 3:49 |
 | 29 | [Contact: I\. The Call](https://open.spotify.com/track/4QpXL7upDeUJDkqtJGWaiK) | [Kevin Puts](https://open.spotify.com/artist/7pDJO8SaJGGhj8SxILieci), [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Xian Zhang](https://open.spotify.com/artist/4CqhwaTyNrA9K3UwYw6TO1) | [Letters for the Future](https://open.spotify.com/album/0e1IEOlxZvKp8GTIGaG4PI) | 8:09 |
 | 30 | [Endangered Species \- Live](https://open.spotify.com/track/1Q8ULnvdnCYEMAGFBo3zWD) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO), [Terri Lyne Carrington](https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5), [Leo Genovese](https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk) | [Live At The Detroit Jazz Festival](https://open.spotify.com/album/6bnEiLE5eOj42d7usx5qVs) | 21:43 |
 | 31 | [Until](https://open.spotify.com/track/77HlplnxCv1jSdW4EAIQpf) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Bijon Watson](https://open.spotify.com/artist/4FbArE3qvpkPqZStFF63y9), [Generation Gap Jazz Orchestra](https://open.spotify.com/artist/52khBCP0H2UqAu3AnC6es5), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Generation Gap Jazz Orchestra](https://open.spotify.com/album/6wzevhJCOjzBkFe6z1FONm) | 7:11 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67CQamTl3jY.md) - [plain]
 | 37 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
 | 38 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 |
 
-Snapshot ID: `MCxkZjI3ZTlkZTRmYjVmMjVkODc4Y2Y1ZGYzZTk2YjczYzI5YzQ2NGFk`
+Snapshot ID: `MCw1ZTlkMmMzZTdjZWI0NDU1YzI0MjkxYTg3MDEyMTA5NmU5NjM0NTdk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,541 likes - 225 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,584 likes - 225 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 132 | [Make Your Move](https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF) | [Make Your Move](https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq) | 2:48 |
 | 133 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 |
 | 134 | [E.T.](https://open.spotify.com/track/4kkeuVl6gF3RMqE4Nn5W3E) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:26 |
-| 135 | [Big Big Love](https://open.spotify.com/track/1bKccVkVv8Fww7g47ecGKA) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Big Big Love](https://open.spotify.com/album/7wtRSJjjEdOxlZ0gn7MK7y) | 3:46 |
+| 135 | [Big Big Love](https://open.spotify.com/track/5qn8AKjdjvSTWxsQ1Irk8l) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Big Big Love](https://open.spotify.com/album/1KXFA21w4IxGGVJltnH119) | 3:46 |
 | 136 | [Burn](https://open.spotify.com/track/4vvLC50if1kVOemsm7gjcJ) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Burn](https://open.spotify.com/album/5uV1YLYDwYICcKxISTAcTS) | 3:21 |
 | 137 | [Wrecking Ball](https://open.spotify.com/track/4blEH2R5HZHTsZapNlvApV) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Wrecking Ball](https://open.spotify.com/album/3j2WcjsXEb4wMJqUFSfW95) | 3:33 |
 | 138 | [Ride of the Valkyries \- Epic Trailer Version](https://open.spotify.com/track/0p7UMUiZwcXt67z7VnTowS) | [Hidden Citizens](https://open.spotify.com/artist/707cnVfI3ISM4j5uzfTc7J) | [Revivals](https://open.spotify.com/album/2rvirCzv2crkdk3ix71vGB) | 3:07 |
@@ -217,11 +217,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 207 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 |
 | 208 | [Feet Don't Fail Me](https://open.spotify.com/track/3ehALIXdoBC1kV3ssXxRT7) | [Alex Harry](https://open.spotify.com/artist/54RYUCA8gnHaOBMK9Aqh7J) | [Feet Don't Fail Me](https://open.spotify.com/album/6wa78606AJfTZsDrbSgsVg) | 3:44 |
 | 209 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 |
-| 210 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu) | 2:44 |
+| 210 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You & I](https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX) | 2:44 |
 | 211 | [Blue Dream](https://open.spotify.com/track/4MMhNjaKgpwDRqAEGvIHks) | [Maya La Maya](https://open.spotify.com/artist/7Km6g29oJhd8E03jCeokoE) | [Blue Dream](https://open.spotify.com/album/4dRivmAUSdxAfku23VL1b3) | 3:14 |
 | 212 | [Celebrate](https://open.spotify.com/track/5zxcKJeM7LEKDnl8vibmB8) | [Tim Halperin](https://open.spotify.com/artist/3nVeK8gQChVtVCCjGreal2) | [Celebrate](https://open.spotify.com/album/0ae0jyL9WxxZ8zkyYxs3HJ) | 2:49 |
 | 213 | [Only You](https://open.spotify.com/track/3eNRpOVS82tR5p9KWxzoHF) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only You](https://open.spotify.com/album/2EmP2o5bOPTUAGCEacdDxB) | 2:52 |
-| 214 | [Right Here Waiting](https://open.spotify.com/track/6SmwzTGiGLMXmudkPtXR50) | [John Coggins](https://open.spotify.com/artist/3GNSeGfBuZWIfsBMUVJs10) | [Right Here Waiting](https://open.spotify.com/album/7tsBgeytDS9DGV53ApZD5x) | 4:30 |
+| 214 | [Right Here Waiting](https://open.spotify.com/track/1WzcZ2CHRcQBgfP5AANeF0) | [John Coggins](https://open.spotify.com/artist/3GNSeGfBuZWIfsBMUVJs10) | [Right Here Waiting](https://open.spotify.com/album/3ZTmzMaFDKwrk2dTFR5zmx) | 4:30 |
 | 215 | [Sweetest Human Being Alive](https://open.spotify.com/track/1zwplwLfK5H0D86lPYkxBG) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:45 |
 | 216 | [Stars Are Falling](https://open.spotify.com/track/3P9pajE7RDeigUXHmIw1AG) | [Nina Lee](https://open.spotify.com/artist/3U12hH1pf72nEL57RNI4uY) | [Damn These Voices](https://open.spotify.com/album/4qzPrl9XkuDpUjlJ4KILVr) | 3:13 |
 | 217 | [Eyes On You](https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:57 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 224 | [Rise Above](https://open.spotify.com/track/1hXiLd0EV2krVVBQaxcjnB) | [Veigar Margeirsson](https://open.spotify.com/artist/49qXLlcq9i5zOpvCAo9hVF) | [Rise Above \- Position Music Orchestral Series Vol\. 8](https://open.spotify.com/album/5kimW3aRgVsPGVIrrAkYCF) | 2:41 |
 | 225 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
 
-Snapshot ID: `MCw3MDg3ZGVjOTE1NGY0ZWMyOWY5MmYwYjY3Y2E4NjNhMjdiNjkyZDc2`
+Snapshot ID: `MCw0MGMzM2MwYzZkOGJkYTVlZWZhNGRiYmI4MzhmMzcxOTRhZmQ3N2Fi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,305 likes - 83 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,325 likes - 83 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 | 16 | [Interplanet Janet](https://open.spotify.com/track/1XEnnBPMXN8T8F4e3hxirH) | [The Little Singers](https://open.spotify.com/artist/54lKNxLWNrcvMNeEbVig4f) | [Interplanet Janet: Classic Children's Songs](https://open.spotify.com/album/5u8sR0sWOyzpRlPxQahT6o) | 3:01 |
 | 17 | [Zoom, Zoom, Zoom, We're Going to the Moon!](https://open.spotify.com/track/3IprSDFbAfrT2zPZeHuV09) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 30 Baby Songs](https://open.spotify.com/album/5Obb6WdYPpNErfM33fcrn0) | 1:33 |
 | 18 | [Queen of Mars](https://open.spotify.com/track/7LB4T082nXFbqlvQhS7Khj) | [Candace](https://open.spotify.com/artist/0zAjE3KMGAsizj1VNhYPxf) | [Phineas and Ferb](https://open.spotify.com/album/1mwUxOieg2GvQn4wm5bJR1) | 1:22 |
-| 19 | [The Planet Song](https://open.spotify.com/track/17Mye6NV0OPHiURHOATaw6) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Blue's Sing\-Along Spectacular](https://open.spotify.com/album/0pxwh5JfIYlY8IGwWnsSGZ) | 0:54 |
+| 19 | [The Planet Song](https://open.spotify.com/track/351vvF9fZMiCu00iH4wCGJ) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Cheeky Kids Hits](https://open.spotify.com/album/4gxIrnGI6aXExxLhEfz9zI) | 0:54 |
 | 20 | [I'm A Star](https://open.spotify.com/track/4oxtn7kEukC2SIr46aNTLa) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space](https://open.spotify.com/album/5hULlmYvCpjL0BxkkI573z) | 1:24 |
 | 21 | [Star Wars \(Main Theme\)](https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 5:46 |
 | 22 | [Space Friends](https://open.spotify.com/track/31GeJjJyIVRNiW9AL8fERw) | [Big Block Singsong](https://open.spotify.com/artist/5wXiTCNvj4JL6cJzQT5Ncp) | [Greatest Hits](https://open.spotify.com/album/4RWxjJqoAP90QbgzkQ3uyg) | 1:51 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 | 82 | [Mikey the Marsian](https://open.spotify.com/track/4EyzNFEd8U2fKUyEYOB45N) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 1:28 |
 | 83 | [I Want to Be an Astronanut](https://open.spotify.com/track/3hCzvS4eN5VyZUtzwQEYjR) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 1:42 |
 
-Snapshot ID: `MCw1ZTg0ZmIxMmEwYmJmZDcyYzAxOGMxN2QxYTE5NmRhZWFkYTc4ZDFh`
+Snapshot ID: `MCwyMGVjNWZmOGNlNzFhZWRhMzJlYjkxNzViODVhY2U3NWY0NzVmNjlm`

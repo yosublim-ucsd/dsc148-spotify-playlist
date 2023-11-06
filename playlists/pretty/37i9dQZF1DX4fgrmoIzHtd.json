@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:27LGatz1m8aJ7ZaVVWEphc\">Gui Boratto</a>'s favourite tracks. Updated regularly. Curated by Gui Boratto. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 69889,
+  "num_followers": 69906,
   "original_name": "Gui Boratto's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzkxYTJkODA2NmViZWVhMGU1M2RjNzViMWNkMzNiMjA4ZjI3MDk5",
+  "snapshot_id": "MCw1NDk4YmJjM2EyODE5YmJkZTMzNjQ1OTE1YmZkYjA2N2VmMDhiOTk0",
   "tracks": [
     {
       "added_at": "2023-06-13 11:25:23",
@@ -395,8 +395,8 @@
     {
       "added_at": "2023-06-13 11:25:23",
       "album": {
-        "name": "The Remixes (Part Two)",
-        "url": "https://open.spotify.com/album/1qZHDWztYjtJ1kLnPFHS1V"
+        "name": "The Remixes (Pt. Two)",
+        "url": "https://open.spotify.com/album/4gSeFbUXd4LKSwmpzlrZx1"
       },
       "artists": [
         {
@@ -408,17 +408,17 @@
           "url": "https://open.spotify.com/artist/0eHglGsy8W3uW5fimUYTF2"
         },
         {
-          "name": "Volen Sentir",
-          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
-        },
-        {
           "name": "Izhevski",
           "url": "https://open.spotify.com/artist/5kgbdZjaH7REUaSXBV8lfH"
+        },
+        {
+          "name": "Volen Sentir",
+          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
         }
       ],
       "duration_ms": 491709,
       "name": "Cyclops - Volen Sentir & Izhevski Remix",
-      "url": "https://open.spotify.com/track/0fMzGl1UMV6NUPPbJsToEp"
+      "url": "https://open.spotify.com/track/1KtsAL8BVJ29IN8CuSecxx"
     },
     {
       "added_at": "2023-06-13 11:25:23",

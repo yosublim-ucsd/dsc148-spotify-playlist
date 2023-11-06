@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 17972,
+  "num_followers": 17984,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2E3M2MyNzBiZjNmN2ZiY2ZkMGEyMTc1MjBmMWRkMTVjMjZjNzFl",
+  "snapshot_id": "MCwxNzkyOTFiYWRmNDM1ZGRmYWYwZTQ5MTY5NWQ5N2RmZmU0MzU4N2Nk",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -543,6 +543,26 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax"
+      },
+      "artists": [
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "God of the Ages (Live At The Manor)",
         "url": "https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 256437,
       "name": "God of the Ages - Single Version - Live",
       "url": "https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax"
-      },
-      "artists": [
-        {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Faithful To Believe",
-        "url": "https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61"
-      },
-      "artists": [
-        {
-          "name": "Byron Cage",
-          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
-        }
-      ],
-      "duration_ms": 386466,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Thankful (Live)",
         "url": "https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 419000,
       "name": "Thankful - Live",
       "url": "https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Faithful To Believe",
+        "url": "https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61"
+      },
+      "artists": [
+        {
+          "name": "Byron Cage",
+          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
+        }
+      ],
+      "duration_ms": 386466,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm"
     },
     {
       "added_at": "2022-11-23 15:01:23",

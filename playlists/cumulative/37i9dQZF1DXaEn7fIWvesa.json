@@ -55,6 +55,24 @@
     },
     {
       "album": {
+        "name": "A Mi Que Me Importa",
+        "url": "https://open.spotify.com/album/6DKFNiWU8IedVNtCGh3NS4"
+      },
+      "artists": [
+        {
+          "name": "Harryson",
+          "url": "https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228716,
+      "name": "A Mi Que Me Importa",
+      "url": "https://open.spotify.com/track/6gQWcVEQudXOCKdZm5DUWi"
+    },
+    {
+      "album": {
         "name": "Pa Mi Gente",
         "url": "https://open.spotify.com/album/3qDh0pss8FNO5MPjjJnHHG"
       },
@@ -1278,7 +1296,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 177196,
       "name": "Tu & Yo - Remix",
       "url": "https://open.spotify.com/track/2hW67JZRADAZAF093j8NqW"

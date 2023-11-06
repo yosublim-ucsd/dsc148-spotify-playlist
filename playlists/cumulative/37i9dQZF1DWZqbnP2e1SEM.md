@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-270 songs - 14 hr 49 min
+271 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [All for You](https://open.spotify.com/track/64aNdC3hF7DMptxVnf3LD7) | [Welshy](https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6) | [All for You](https://open.spotify.com/album/2AJFUqo6aQDlWOocvMoS6i) | 3:13 | 2021-07-09 |  |
 | [All Night](https://open.spotify.com/track/20gJD9mjmNzzN5XJDkvmx9) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [All Night](https://open.spotify.com/album/1PdaxE6A89ym486RrW5gIj) | 2:31 | 2021-07-09 | 2022-04-28 |
 | [All Over Again \- Edit](https://open.spotify.com/track/2yGJDfOKuFlEDxqJGUOT62) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [All Over Again \(Edit\)](https://open.spotify.com/album/7zL9HCdO1aB7B4kAeJuW6r) | 3:32 | 2021-07-09 | 2022-05-11 |
-| [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 | 2023-09-11 |  |
+| [Alley Rave](https://open.spotify.com/track/1Zc0AQvQNk5UfjVOMD1Dxq) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/125AHdT7Yan1Nw5vUwwBnq) | 6:04 | 2023-10-12 |  |
+| [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 | 2023-09-11 | 2023-11-06 |
 | [Alone No More](https://open.spotify.com/track/1bVk409hTFVAmFqKtj4zai) | [Philip George](https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV), [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc) | [Alone No More](https://open.spotify.com/album/6PLBjlg3xvP7sahtEJJol7) | 2:53 | 2021-07-09 | 2022-05-11 |
 | [Always](https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4) | [Waze & Odyssey](https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Tommy Theo](https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B) | [Always](https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu) | 3:06 | 2021-07-09 | 2023-09-12 |
 | [Angles \- Preditah Remix](https://open.spotify.com/track/0jU7WyqzzQ5qIefnEodh9S) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD) | [Angles \(Preditah Remix\)](https://open.spotify.com/album/7ypGGJnCE813iR0VcZ2QMS) | 4:34 | 2021-07-09 | 2022-05-08 |

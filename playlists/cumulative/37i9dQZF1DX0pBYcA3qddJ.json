@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 164586,
       "name": "ceilings - Spotify Singles",
       "url": "https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY"
@@ -7566,6 +7566,24 @@
       "duration_ms": 206600,
       "name": "See you Soon",
       "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
+    },
+    {
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/7vcX2nndbcQzkpqJbatqM2"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218021,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/5zQraIoPAXGCBRx9spNtCn"
     },
     {
       "album": {

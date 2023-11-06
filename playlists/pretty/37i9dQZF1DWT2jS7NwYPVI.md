@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Spiritual Cramp
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,246 likes - 129 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,275 likes - 129 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 82 | [Let's Get To Work](https://open.spotify.com/track/456sTgUGjvqvmYr7GqMFnG) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Let's Get To Work](https://open.spotify.com/album/7cnBwqsBiHUPFQZtCJE0uN) | 3:00 |
 | 83 | [I Need A New Boyfriend](https://open.spotify.com/track/0k049ULBt2JMXXNDXmG6Mx) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [I Need A New Boyfriend](https://open.spotify.com/album/2k9By7vYbPRPnvekHY4VdB) | 2:32 |
 | 84 | [Stare At The Sun](https://open.spotify.com/track/0dNuX5ft4fSSgKsRau3JEP) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Stare At The Sun](https://open.spotify.com/album/238Qlq3yh7LNfO3e5TD1uu) | 3:32 |
-| 85 | [I Thought You'd Change](https://open.spotify.com/track/4Uy1cKq8UPWkwLRZBmSryG) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/7uCaVO8YwOnWXGk7ptVHNR) | 2:51 |
+| 85 | [I Thought You'd Change](https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 2:51 |
 | 86 | [MAKE IT UP](https://open.spotify.com/track/1zXefmngPj3d2nJEtwJNHd) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [MAKE IT UP](https://open.spotify.com/album/6F4piW1oRQJIDtL7wEgxrm) | 2:58 |
 | 87 | [List of Enemies](https://open.spotify.com/track/1y0SYF9vJAmb4HXOi8eBd8) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [A New Breed](https://open.spotify.com/album/5wvYWow2IFdXSdXQty500e) | 3:04 |
 | 88 | [Let Go](https://open.spotify.com/track/4rwIVNZDiswV0wXcLdtceO) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Let Go](https://open.spotify.com/album/195upAWApmh2TbhBjUKlAt) | 4:13 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 128 | [Fuck Love, I Just Bought a New Truck](https://open.spotify.com/track/11RNMyEALKUFkA1ItyhHi7) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [These Are Some B\-Sides](https://open.spotify.com/album/0PwOTtqMM4b0I7IpPY25Kb) | 1:27 |
 | 129 | [Fight 4 luv](https://open.spotify.com/track/2uP2DSCbBr8vXo5PWeYHNO) | [Dimitri Miller](https://open.spotify.com/artist/2ZKmcBDtaUAUMnNbCvNdhC) | [Bro...it's not that deep](https://open.spotify.com/album/4CDRjB3gXtisl1KinHU7f9) | 2:54 |
 
-Snapshot ID: `MCwzMzY5M2Y3YjNjMTNhZDVhNGI3ZjVjZTQ4N2E1ZDI0ZDM4NTFiNWU1`
+Snapshot ID: `MCwzYmZkZTg4YmVjMjRiZmMxNThkYmJiZWViYjdmODk3ODgxNGE4Zjc1`

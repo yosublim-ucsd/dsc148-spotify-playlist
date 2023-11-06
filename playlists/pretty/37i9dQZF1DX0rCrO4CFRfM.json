@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 955437,
+  "num_followers": 955612,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjM4NDM0MmNhMjAyZjdlMDJhYTMxNzc0ZDdlNjFmYWE1Y2M1Nzc0",
+  "snapshot_id": "MCw1OTA5NjdkODJjZWQ2YjhmMDEzMDJiYjI3MjE0OWFlM2JmYjRhMWU5",
   "tracks": [
     {
       "added_at": "2023-09-20 15:37:37",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-09-20 15:37:37",
       "album": {
-        "name": "Order In Decline B-Sides",
-        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 240019,
-      "name": "Catching Fire (Acoustic)",
-      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
-    },
-    {
-      "added_at": "2023-09-20 15:37:37",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 198573,
       "name": "Stay With Me - Acoustic Version",
       "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
+    },
+    {
+      "added_at": "2023-09-20 15:37:37",
+      "album": {
+        "name": "Order In Decline B-Sides",
+        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 240019,
+      "name": "Catching Fire (Acoustic)",
+      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
     },
     {
       "added_at": "2023-09-20 15:37:37",

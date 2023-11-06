@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM6VFl9k2Ba.md) - [plain]
 
 > Emerging DJ & producer <a href="spotify:artist:32Jt1AK733JbFR82hEZ0Ih">Joplyn</a> brings us palette of underground sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,606 likes - 11 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,633 likes - 11 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM6VFl9k2Ba.md) - [plain]
 | 10 | [Can't Get Enough \- Mixed](https://open.spotify.com/track/7Ht2PqlhZ47lROSuhB0PZV) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Can't Get Enough \(Mixed\)](https://open.spotify.com/album/4whN1m45ulFScuh0dwoouP) | 6:14 |
 | 11 | [April \- Mixed](https://open.spotify.com/track/05rV8P0aWN7TIS7P9OfnnC) | [Borneo](https://open.spotify.com/artist/3Tn4YRYXHPIpNqjgmYuiQL) | [April \(Mixed\)](https://open.spotify.com/album/4eKhsNZc8WsaGJ5v7RvqH4) | 5:20 |
 
-Snapshot ID: `MCxlZGE1NDkwNjYxM2I0MTdhYmY5ZWY0YjkxMDYyZmMyYmU2ZWMxNTE4`
+Snapshot ID: `MCw5ZjQ2MWQxMTdhYjc4MjZmOWE2MzhiMGVkMGIwMjdlM2I5NjdkODc0`

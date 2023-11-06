@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 61851,
+  "num_followers": 61860,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzgyM2FlODkyMzkyMmZiM2JiNTU2MzY1MmMwOTAyYjJlY2IwOGU4",
+  "snapshot_id": "MCw3NmExMWUyMTJjYjk0MDlkOGZiZjg5YmI1YzE3NmY0OGE1N2YyOGNj",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Brain Machine",
-        "url": "https://open.spotify.com/album/2hZCIw0C4L89eTpCkwdkkA"
-      },
-      "artists": [
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        }
-      ],
-      "duration_ms": 348053,
-      "name": "Brain Machine",
-      "url": "https://open.spotify.com/track/01CKAEZULi2Ddw4Xg4rDr7"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "The Thrill",
         "url": "https://open.spotify.com/album/1zMy9u9Ipqzixz5U5exg7V"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 170880,
       "name": "The Thrill",
       "url": "https://open.spotify.com/track/6pKeuJDicz6NTYxXLOyxQG"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Brain Machine",
+        "url": "https://open.spotify.com/album/2hZCIw0C4L89eTpCkwdkkA"
+      },
+      "artists": [
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "duration_ms": 348053,
+      "name": "Brain Machine",
+      "url": "https://open.spotify.com/track/01CKAEZULi2Ddw4Xg4rDr7"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Italo Disco",
-        "url": "https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi"
-      },
-      "artists": [
-        {
-          "name": "Lifelike",
-          "url": "https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5"
-        }
-      ],
-      "duration_ms": 205078,
-      "name": "Roma",
-      "url": "https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Know You",
         "url": "https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 224262,
       "name": "Know You",
       "url": "https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Italo Disco",
+        "url": "https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi"
+      },
+      "artists": [
+        {
+          "name": "Lifelike",
+          "url": "https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5"
+        }
+      ],
+      "duration_ms": 205078,
+      "name": "Roma",
+      "url": "https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Koko Schanel",
-        "url": "https://open.spotify.com/album/6D9BNGmHLwT9Vp6eUY8M66"
-      },
-      "artists": [
-        {
-          "name": "Adam Stacks",
-          "url": "https://open.spotify.com/artist/2L6tFQkfIxssirVgyNtVaL"
-        }
-      ],
-      "duration_ms": 195737,
-      "name": "Koko Schanel",
-      "url": "https://open.spotify.com/track/59I871wr4KeSHtGRs2MBVU"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 393973,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Koko Schanel",
+        "url": "https://open.spotify.com/album/6D9BNGmHLwT9Vp6eUY8M66"
+      },
+      "artists": [
+        {
+          "name": "Adam Stacks",
+          "url": "https://open.spotify.com/artist/2L6tFQkfIxssirVgyNtVaL"
+        }
+      ],
+      "duration_ms": 195737,
+      "name": "Koko Schanel",
+      "url": "https://open.spotify.com/track/59I871wr4KeSHtGRs2MBVU"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -815,22 +815,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "What Are U Gonna Do",
-        "url": "https://open.spotify.com/album/243U9nGlE63ErtM8fE1g4U"
+        "name": "Lyra (Dusky Remix)",
+        "url": "https://open.spotify.com/album/1NarEuoYt3DZ7CGFOPFFmb"
       },
       "artists": [
         {
-          "name": "Ladebare",
-          "url": "https://open.spotify.com/artist/5AnAdS3TumeVuPszRkY13h"
+          "name": "9th House",
+          "url": "https://open.spotify.com/artist/5QpDjrjx18j888lnGtJpeV"
         },
         {
-          "name": "Janai",
-          "url": "https://open.spotify.com/artist/0x9rtwsyJne349H9TJGDk0"
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
         }
       ],
-      "duration_ms": 180960,
-      "name": "What Are U Gonna Do",
-      "url": "https://open.spotify.com/track/1LPrVY0aROcFkP2A9D9YCJ"
+      "duration_ms": 313106,
+      "name": "Lyra - Dusky Remix",
+      "url": "https://open.spotify.com/track/3vZf4XO3DAXef9aOyx0SVW"
     }
   ],
   "unique_name": "Laser Disco",

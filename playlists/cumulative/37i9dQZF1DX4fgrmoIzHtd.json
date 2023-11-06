@@ -421,6 +421,36 @@
     },
     {
       "album": {
+        "name": "The Remixes (Pt. Two)",
+        "url": "https://open.spotify.com/album/4gSeFbUXd4LKSwmpzlrZx1"
+      },
+      "artists": [
+        {
+          "name": "Mathew Jonson",
+          "url": "https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71"
+        },
+        {
+          "name": "Quenum",
+          "url": "https://open.spotify.com/artist/0eHglGsy8W3uW5fimUYTF2"
+        },
+        {
+          "name": "Izhevski",
+          "url": "https://open.spotify.com/artist/5kgbdZjaH7REUaSXBV8lfH"
+        },
+        {
+          "name": "Volen Sentir",
+          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491709,
+      "name": "Cyclops - Volen Sentir & Izhevski Remix",
+      "url": "https://open.spotify.com/track/1KtsAL8BVJ29IN8CuSecxx"
+    },
+    {
+      "album": {
         "name": "The Remixes (Part Two)",
         "url": "https://open.spotify.com/album/1qZHDWztYjtJ1kLnPFHS1V"
       },
@@ -444,7 +474,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 491709,
       "name": "Cyclops - Volen Sentir & Izhevski Remix",
       "url": "https://open.spotify.com/track/0fMzGl1UMV6NUPPbJsToEp"

@@ -1,12 +1,12 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: The Get Up Kids",
-  "num_followers": 123798,
+  "num_followers": 123858,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzM1MjM1M2JhYmZmNzUxNWQ1ZjBjZTNkOTYyNGM2OGIxZGNlMDY2",
+  "snapshot_id": "MCw3MzhiNzg4Njg1ODIzN2U2ODI2OTY5MTdlNWRhOTAwMDVmMTNjYTg0",
   "tracks": [
     {
       "added_at": "2023-03-28 15:58:25",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Cursive's Domestica",
-        "url": "https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs"
+        "name": "Wiretap Scars",
+        "url": "https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl"
       },
       "artists": [
         {
-          "name": "Cursive",
-          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
+          "name": "Sparta",
+          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
         }
       ],
-      "duration_ms": 210200,
-      "name": "The Casualty",
-      "url": "https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG"
+      "duration_ms": 184613,
+      "name": "Cut Your Ribbon",
+      "url": "https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Wiretap Scars",
-        "url": "https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl"
+        "name": "Cursive's Domestica",
+        "url": "https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs"
       },
       "artists": [
         {
-          "name": "Sparta",
-          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
+          "name": "Cursive",
+          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
         }
       ],
-      "duration_ms": 184613,
-      "name": "Cut Your Ribbon",
-      "url": "https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g"
+      "duration_ms": 210200,
+      "name": "The Casualty",
+      "url": "https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Do You Know Who You Are?: The Complete Collection",
-        "url": "https://open.spotify.com/album/3NXykL2XzIRmMEiMKjTkN7"
-      },
-      "artists": [
-        {
-          "name": "Texas Is The Reason",
-          "url": "https://open.spotify.com/artist/7rXo5QTwwFBYZ5Z3veUVg8"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "Back And To The Left",
-      "url": "https://open.spotify.com/track/7f3tPmsyBQc0sua0SAINlZ"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Porcelain",
         "url": "https://open.spotify.com/album/17Mq1v9fKGSmCabI7DaV4S"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 264280,
       "name": "While Oceana Sleeps",
       "url": "https://open.spotify.com/track/0zgEbB05wAnOHQ9XRupLwX"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Do You Know Who You Are?: The Complete Collection",
+        "url": "https://open.spotify.com/album/3NXykL2XzIRmMEiMKjTkN7"
+      },
+      "artists": [
+        {
+          "name": "Texas Is The Reason",
+          "url": "https://open.spotify.com/artist/7rXo5QTwwFBYZ5Z3veUVg8"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "Back And To The Left",
+      "url": "https://open.spotify.com/track/7f3tPmsyBQc0sua0SAINlZ"
     },
     {
       "added_at": "2023-03-28 15:58:25",

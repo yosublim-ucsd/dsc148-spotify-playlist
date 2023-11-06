@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 207520,
       "name": "50 Special",
       "url": "https://open.spotify.com/track/21Ay8mJRYQuOMZp7qyQXl6"
@@ -3306,6 +3306,24 @@
       "duration_ms": 139990,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/72j6vUceQqGehRJQOqIAPj"
+    },
+    {
+      "album": {
+        "name": "IO, ME ED ALTRI GUAI",
+        "url": "https://open.spotify.com/album/0EcYVyXLbn4z2KA8gBSmtS"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177208,
+      "name": "IO, ME ED ALTRI GUAI",
+      "url": "https://open.spotify.com/track/6nOxxnYoJAgsQFhGxlk32L"
     },
     {
       "album": {

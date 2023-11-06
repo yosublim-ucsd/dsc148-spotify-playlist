@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Taylor Swift
 
-230 songs - 18 hr 7 min
+231 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Mercy \- Acoustic Version](https://open.spotify.com/track/2j1fnJeu1aGvqbwZBpdrEF) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Dinner Party Pop](https://open.spotify.com/album/7aB1uY6jZNHZ1TisxZQTAw) | 3:35 | 2022-04-14 | 2023-08-15 |
 | [Mercy \- Live](https://open.spotify.com/track/4Q52hekxZoN7n4NO94IAJW) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Live At Madison Square Garden](https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L) | 4:22 | 2022-04-14 | 2023-02-14 |
 | [mine \- Live From The Belasco](https://open.spotify.com/track/4fsliuqbTlP2eHebr8ntJW) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine \(Live From The Belasco\)](https://open.spotify.com/album/1AMJ7zubViKtgMM0oSc0uO) | 3:22 | 2023-08-18 |  |
-| [Moves Like Jagger \- Live In Manchester](https://open.spotify.com/track/5TeLifYMYzXQxNmJv0sHLL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Live music from Concerts](https://open.spotify.com/album/3A7eg1VKPfqLard0TWTH5r) | 4:59 | 2023-09-01 |  |
+| [Moves Like Jagger \- Live In Manchester](https://open.spotify.com/track/5TeLifYMYzXQxNmJv0sHLL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Live music from Concerts](https://open.spotify.com/album/3A7eg1VKPfqLard0TWTH5r) | 4:59 | 2023-09-01 | 2023-11-06 |
 | [Moves Like Jagger \- Live In Manchester](https://open.spotify.com/track/6EvFLeZ3aUYoagV6K92cqq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 4:59 | 2022-04-14 | 2022-07-24 |
 | [Moves Like Jagger \- Live In Manchester](https://open.spotify.com/track/7cRALp7nd7xwj75UAHx8Sr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Stadium Rockers](https://open.spotify.com/album/7agGSP1myDt3SSIdKUuT1y) | 4:59 | 2022-04-14 | 2023-09-09 |
 | [My Heart Will Go On \(Live in Quebec City\) \- Live from Quebec City, Canada \- July 2013](https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Céline..\. Une seule fois / Live 2013](https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL) | 6:41 | 2023-08-18 |  |
@@ -235,6 +235,7 @@
 | [You're Still The One \- Live](https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 3:35 | 2022-04-14 |  |
 | [You're The One That I Want \- Live](https://open.spotify.com/track/7vCqjFCrn2070QxxM8G7V4) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Olivia's Live Hits](https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON) | 3:51 | 2022-08-09 | 2023-01-09 |
 | [You're The One That I Want \- Live](https://open.spotify.com/track/5FWlmanf50i18yCshnNuF9) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [The Sydney Orchestra](https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju) | [Olivia's Live Hits](https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV) | 3:51 | 2022-08-09 | 2023-08-19 |
+| [Youngblood \(Live from The Royal Albert Hall\)](https://open.spotify.com/track/23mTDAlbA5Ux2sGU0kJ28c) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [The Feeling of Falling Upwards \(Live from The Royal Albert Hall\)](https://open.spotify.com/album/35LYgkNRuy9zsyyuWBlJwr) | 3:55 | 2023-11-03 |  |
 | [Youngblood \- Live from The Royal Albert Hall](https://open.spotify.com/track/64IHMtwaJFXLpTPzRJPM30) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [The Feeling of Falling Upwards \(Live from The Royal Albert Hall\)](https://open.spotify.com/album/7u1CQclaB8RUyOfn4gTPlY) | 3:55 | 2023-04-14 | 2023-11-04 |
 | [Your Love Is King \- Live at Live Aid, Wembley Stadium, 13th July 1985](https://open.spotify.com/track/0jkicPAjQnmOb9kKH9rmzP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Live Aid \(Live, 13th July 1985\)](https://open.spotify.com/album/5Ke7S3qdSjC6on0xfVkAss) | 4:40 | 2022-04-14 | 2022-07-28 |
 | [Your Song \- Live At Madison Square Garden](https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton 60 \- Live At Madison Square Garden](https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68) | 4:09 | 2022-04-14 |  |

@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-344 songs - 1 day 0 hr 26 min
+345 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Sando](https://open.spotify.com/track/7gTZW1WEZcp7spllnVb2s6) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [KOM\_I](https://open.spotify.com/artist/6sOK1O5rpqEad0ZCzk5FnM), [Fumiya Otonashi](https://open.spotify.com/artist/6SA1xl7yWAdoyqHn5qQs3w) | [Sando](https://open.spotify.com/album/5Rcuks9u9QBW641KXpTGd3) | 3:17 | 2023-07-20 | 2023-08-09 |
 | [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 | 2022-10-20 | 2022-12-03 |
 | [Sashiiro](https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:05 | 2022-11-29 |  |
+| [Sentimental](https://open.spotify.com/track/5zQraIoPAXGCBRx9spNtCn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sentimental](https://open.spotify.com/album/7vcX2nndbcQzkpqJbatqM2) | 3:38 | 2023-11-02 |  |
 | [Separate Seasons](https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 3:48 | 2022-10-20 |  |
 | [shattered me \- feat.Shamyah](https://open.spotify.com/track/52FmhxikYFZLC7E8g9X7G2) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy), [Shamyah](https://open.spotify.com/artist/2FZr8X3VApIG0ujKmMH9aa) | [shattered me \(feat.Shamyah\)](https://open.spotify.com/album/1xWhNKtfxEAgowceAQNS2t) | 5:28 | 2023-09-20 |  |
 | [Shiawase no Mawarimichi](https://open.spotify.com/track/20riqOrK0iWFV2mpjbcbDr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Shiawase no Mawarimichi](https://open.spotify.com/album/0K0nIz0V6KZbfq3uM66yiW) | 3:45 | 2023-10-10 |  |
@@ -179,7 +180,7 @@
 | [The Island Floating in the Light](https://open.spotify.com/track/3ZYapYQibgnlPZa4H7l0Xu) | [Yuichi Ohata](https://open.spotify.com/artist/50IocbI1ks9pFw7lsCSeLN) | ["The Island Floating in the Light" Original Soundtrack](https://open.spotify.com/album/5vVyIxZDI3IV65GhelvatU) | 5:00 | 2023-04-18 | 2023-05-24 |
 | [The Only](https://open.spotify.com/track/73MYkkIHGjN2tNmSH7xe0z) | [Yoshio Inoue](https://open.spotify.com/artist/0WgVF1Mknyhy5PjTOKmolM) | [天使も悪魔も / The Only](https://open.spotify.com/album/6zoeqwoyAmNN0TV9cIZrzJ) | 6:15 | 2023-03-21 | 2023-03-29 |
 | [The Rose \(15th Anniversary Version\)](https://open.spotify.com/track/0XWlisVINXUSp2iEh4we66) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Highlights from Simple is best](https://open.spotify.com/album/3g19wLo3HUI5Jk6gCAf4JF) | 4:17 | 2023-04-04 | 2023-08-09 |
-| [There is Nothing More to Say](https://open.spotify.com/track/7zg26Jo05UY1kYtTnRZvyW) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Acoustic Versions](https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp) | 2:06 | 2023-11-02 |  |
+| [There is Nothing More to Say](https://open.spotify.com/track/7zg26Jo05UY1kYtTnRZvyW) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Acoustic Versions](https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp) | 2:06 | 2023-11-02 | 2023-11-06 |
 | [Through The Deep](https://open.spotify.com/track/6kziDNrJFdAjTFgXKYteIs) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Through The Deep \- EP](https://open.spotify.com/album/3mBVZsyITr12QIAg9n0jlV) | 2:33 | 2023-01-31 | 2023-03-15 |
 | [Tokeru](https://open.spotify.com/track/5hbBM9teSxGwhWfU6EuSAn) | [ken uegane](https://open.spotify.com/artist/0H2bJji0sgqCVPxaPu5r35) | [Tokeru](https://open.spotify.com/album/7pitGTL1P2FIGfgCkD2xZ8) | 2:31 | 2023-05-30 | 2023-06-01 |
 | [Toumei na Nukumori](https://open.spotify.com/track/76QXx63Sqbf4WvyS0QtaM4) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [Risa Nakagawa](https://open.spotify.com/artist/35TXIIWvd5KWK5Y13cF8Hf) | [Toumei na Nukumori](https://open.spotify.com/album/7eElRimtFlrVjEx2a5ufXS) | 3:17 | 2023-06-20 | 2023-07-19 |

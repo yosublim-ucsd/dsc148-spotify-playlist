@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,508 likes - 103 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,520 likes - 103 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 49 | [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 |
 | 50 | [Ode Ireti \- Nitefreak Remix](https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [El\-Jay](https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly) | [Ode Ireti \(Nitefreak Remix\)](https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE) | 3:59 |
 | 51 | [The Journey \(feat\. Zeke Manyika\)](https://open.spotify.com/track/6KuZfqzhbfTU8HEIALDgP2) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Zeke Manyika](https://open.spotify.com/artist/1jYJpzl4Ytb9eXGoFprU0n) | [The Journey \(feat\. Zeke Manyika\)](https://open.spotify.com/album/1uaxE7yn8s9XPNAJ9icxd1) | 4:16 |
-| 52 | [I Go](https://open.spotify.com/track/1S3wM42IWR5DDukmZo8GwV) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 5:58 |
+| 52 | [I Go](https://open.spotify.com/track/2Vkn1pUamUEfJ9GHul3RJr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/1221WGmWD1oF62vZtMScdk) | 5:58 |
 | 53 | [Oh Chuva](https://open.spotify.com/track/5P0NU0tX9NJ182ZRm8kxRz) | [Leo Leonski](https://open.spotify.com/artist/2Q4xYVGbSIQoC7rqSA6Huo) | [Oh Chuva](https://open.spotify.com/album/47pRLcTctT7DKGRpyef1lw) | 4:54 |
 | 54 | [Revision A \- Black Coco](https://open.spotify.com/track/5sNmRWmAjtswqY3QQvS8sP) | [MAJUSCULE](https://open.spotify.com/artist/2Yj2toOduPsB4L8F2RN4dH) | [Revision A \(Black Coco\)](https://open.spotify.com/album/0y79Pfdc1UgdJR2IWILEJx) | 5:05 |
 | 55 | [Like It Is](https://open.spotify.com/track/2hFjxLPeeBZrvLb302MKLj) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Disco Volante EP](https://open.spotify.com/album/3F98dsHSClqD3929v1B6S2) | 5:55 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 102 | [En Balaté \(rework\)](https://open.spotify.com/track/780wEKS87IvaYO3QRrpTmx) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj), [Jean\-Claude Naimro](https://open.spotify.com/artist/5NXrAZhndFutn5Kon2ZQCQ) | [En Balaté \(rework\)](https://open.spotify.com/album/0otCKYtXnC0tpVxB0Edg9P) | 6:25 |
 | 103 | [\(It Goes Like\) Nanana](https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana](https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc) | 6:07 |
 
-Snapshot ID: `MCw2YmRhNmYxN2FlMmUwZmJkMTc4ZThjY2IzN2I0NjIwMDIxZDU4Mzg5`
+Snapshot ID: `MCwyMzgzNzFjNWNjODMzOTE0OGQ5NTkzOTRkZTJhY2I2ZDFjODZhZjY3`

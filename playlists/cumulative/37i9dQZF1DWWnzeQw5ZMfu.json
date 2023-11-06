@@ -2556,7 +2556,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 299573,
       "name": "Moves Like Jagger - Live In Manchester",
       "url": "https://open.spotify.com/track/5TeLifYMYzXQxNmJv0sHLL"
@@ -4208,6 +4208,24 @@
       "duration_ms": 231493,
       "name": "You're The One That I Want - Live",
       "url": "https://open.spotify.com/track/5FWlmanf50i18yCshnNuF9"
+    },
+    {
+      "album": {
+        "name": "The Feeling of Falling Upwards (Live from The Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/35LYgkNRuy9zsyyuWBlJwr"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235928,
+      "name": "Youngblood (Live from The Royal Albert Hall)",
+      "url": "https://open.spotify.com/track/23mTDAlbA5Ux2sGU0kJ28c"
     },
     {
       "album": {

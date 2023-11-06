@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1424142,
+  "num_followers": 1424435,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTI4NmZmOTM4ZjI2YTllMjY4MjJiOWJlMTNiZTBlNDA2NmQ0YjMx",
+  "snapshot_id": "MCxmNTBhNTNhZTg5MTFlOWMxZWMzNTY5Y2QzNThjM2RmNmNmN2VhN2Yz",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -483,6 +483,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Castles In The Sky",
+        "url": "https://open.spotify.com/album/4P5BZKgDIxksZu7Px0OhHL"
+      },
+      "artists": [
+        {
+          "name": "Ian van Dahl",
+          "url": "https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ"
+        },
+        {
+          "name": "Marsha",
+          "url": "https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y"
+        }
+      ],
+      "duration_ms": 227133,
+      "name": "Castles In The Sky - Radio Mix",
+      "url": "https://open.spotify.com/track/3KhoIbIPMmoGthbBAPxgOK"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 182013,
       "name": "Gettin' Over (feat. Chris Willis)",
       "url": "https://open.spotify.com/track/4fqwEothoIOcKr3pARJCgu"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Castles In The Sky",
-        "url": "https://open.spotify.com/album/4P5BZKgDIxksZu7Px0OhHL"
-      },
-      "artists": [
-        {
-          "name": "Ian van Dahl",
-          "url": "https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ"
-        },
-        {
-          "name": "Marsha",
-          "url": "https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y"
-        }
-      ],
-      "duration_ms": 227133,
-      "name": "Castles In The Sky - Radio Mix",
-      "url": "https://open.spotify.com/track/3KhoIbIPMmoGthbBAPxgOK"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "90s 100 Hits",
+        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
+      },
+      "artists": [
+        {
+          "name": "Olive",
+          "url": "https://open.spotify.com/artist/0r2TmTSwK6XAhAxNxTDOb4"
+        },
+        {
+          "name": "Black Olive",
+          "url": "https://open.spotify.com/artist/4FZW0LqOJ7ZJKdNMrWykO6"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "You're Not Alone - Radio Edit",
+      "url": "https://open.spotify.com/track/5HPchyFdQZT1cDbdOTdFji"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "The Sound of Goodbye, Pt. 2",
         "url": "https://open.spotify.com/album/5bCAsnDwc633FM025XeWeP"
       },
@@ -1035,22 +1055,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "90s 100 Hits",
-        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
+        "name": "9 PM (Till I Come) - The U.K. Mixes [Remixes] - Single",
+        "url": "https://open.spotify.com/album/5ov5ci5LMlUj9kDh95PCGd"
       },
       "artists": [
         {
-          "name": "Olive",
-          "url": "https://open.spotify.com/artist/0r2TmTSwK6XAhAxNxTDOb4"
-        },
-        {
-          "name": "Black Olive",
-          "url": "https://open.spotify.com/artist/4FZW0LqOJ7ZJKdNMrWykO6"
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
         }
       ],
-      "duration_ms": 250440,
-      "name": "You're Not Alone - Radio Edit",
-      "url": "https://open.spotify.com/track/5HPchyFdQZT1cDbdOTdFji"
+      "duration_ms": 164333,
+      "name": "9 PM - Till I come >The U.K. Mixes< - Radio Mix UK",
+      "url": "https://open.spotify.com/track/659wddNDkBkMbtt8KR8DOn"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1075,22 +1091,6 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/1tmYcGyQJHestYnGel5y7c"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "9 PM (Till I Come) - The U.K. Mixes [Remixes] - Single",
-        "url": "https://open.spotify.com/album/5ov5ci5LMlUj9kDh95PCGd"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "9 PM - Till I come >The U.K. Mixes< - Radio Mix UK",
-      "url": "https://open.spotify.com/track/659wddNDkBkMbtt8KR8DOn"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Hypnotica",
+        "url": "https://open.spotify.com/album/2467y5gcxljWnMqbYwWxwu"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "The Biz",
+          "url": "https://open.spotify.com/artist/4oMCu6hBgTy2RFh8rRMFD0"
+        }
+      ],
+      "duration_ms": 285413,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/5JZnjM9ijpit0d5zjT8MM7"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 501213,
       "name": "Empty Streets - Haji & Emanuel Remix",
       "url": "https://open.spotify.com/track/12lTG2CsivVTCJH21qgkVz"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Hypnotica",
-        "url": "https://open.spotify.com/album/2467y5gcxljWnMqbYwWxwu"
-      },
-      "artists": [
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        },
-        {
-          "name": "The Biz",
-          "url": "https://open.spotify.com/artist/4oMCu6hBgTy2RFh8rRMFD0"
-        }
-      ],
-      "duration_ms": 285413,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/5JZnjM9ijpit0d5zjT8MM7"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Vocal Trance Hits - The Anthems",
-        "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
-      },
-      "artists": [
-        {
-          "name": "John O'Callaghan",
-          "url": "https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb"
-        },
-        {
-          "name": "Sarah Howells",
-          "url": "https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw"
-        }
-      ],
-      "duration_ms": 151621,
-      "name": "Find Yourself",
-      "url": "https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Strobelite Seduction",
         "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 283040,
       "name": "I Remember (Strobelight Edit)",
       "url": "https://open.spotify.com/track/2OZrV4yyOZNuEFx22VVfFm"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Vocal Trance Hits - The Anthems",
+        "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
+      },
+      "artists": [
+        {
+          "name": "John O'Callaghan",
+          "url": "https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb"
+        },
+        {
+          "name": "Sarah Howells",
+          "url": "https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw"
+        }
+      ],
+      "duration_ms": 151621,
+      "name": "Find Yourself",
+      "url": "https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1507,6 +1507,22 @@
       "duration_ms": 189066,
       "name": "Tracking Treasure Down",
       "url": "https://open.spotify.com/track/65UKBA32AVBzthOGP62D2U"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Strictly Hardrive",
+        "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 392293,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1779,22 +1795,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Strictly Hardrive",
-        "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        }
-      ],
-      "duration_ms": 392293,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Toys Are Nuts Remixes",
         "url": "https://open.spotify.com/album/5V2OID9LYLcd84BGiCYHhx"
       },
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Just One Day",
+        "url": "https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A"
+      },
+      "artists": [
+        {
+          "name": "Kim Sozzi",
+          "url": "https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6"
+        }
+      ],
+      "duration_ms": 200080,
+      "name": "Feel Your Love",
+      "url": "https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Nervous Rewind 2008",
         "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 219146,
       "name": "Deep At Night (Adam K & Soha Radio Mix)",
       "url": "https://open.spotify.com/track/4ggVmEvo9FzExPonRRqqIS"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Just One Day",
-        "url": "https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A"
-      },
-      "artists": [
-        {
-          "name": "Kim Sozzi",
-          "url": "https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "Feel Your Love",
-      "url": "https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2091,6 +2091,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Believer (feat. Wynter Gordon)",
+        "url": "https://open.spotify.com/album/0sd07wZssqlLugldAokk6K"
+      },
+      "artists": [
+        {
+          "name": "Freemasons",
+          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+        },
+        {
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
+        }
+      ],
+      "duration_ms": 189388,
+      "name": "Believer (feat. Wynter Gordon) (Radio Edit)",
+      "url": "https://open.spotify.com/track/2tjCwTjbuEc6bXyp9iS08B"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "I Found U",
         "url": "https://open.spotify.com/album/4wP9UvfCSFH8Z95rCt1UjB"
       },
@@ -2139,26 +2159,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Believer (feat. Wynter Gordon)",
-        "url": "https://open.spotify.com/album/0sd07wZssqlLugldAokk6K"
-      },
-      "artists": [
-        {
-          "name": "Freemasons",
-          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
-        },
-        {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
-        }
-      ],
-      "duration_ms": 189388,
-      "name": "Believer (feat. Wynter Gordon) (Radio Edit)",
-      "url": "https://open.spotify.com/track/2tjCwTjbuEc6bXyp9iS08B"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Girlfriend (2008 Remix)",
         "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
       },
@@ -2175,22 +2175,6 @@
       "duration_ms": 435986,
       "name": "Girlfriend - 2008 Remix",
       "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/2mXLJXAsGZVBPMTcKM25Ar"
-      },
-      "artists": [
-        {
-          "name": "JES",
-          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Imagination - Ti\u00ebsto Remix Radio Edit",
-      "url": "https://open.spotify.com/track/1mNiQ0hVgB7xQZ938A8lIJ"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2215,6 +2199,22 @@
       "duration_ms": 228986,
       "name": "Everything (feat. Myah) - Radio Edit",
       "url": "https://open.spotify.com/track/0l9xKcujIQJ4mDUgWb7852"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/2mXLJXAsGZVBPMTcKM25Ar"
+      },
+      "artists": [
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Imagination - Ti\u00ebsto Remix Radio Edit",
+      "url": "https://open.spotify.com/track/1mNiQ0hVgB7xQZ938A8lIJ"
     }
   ],
   "unique_name": "Dance Classics",

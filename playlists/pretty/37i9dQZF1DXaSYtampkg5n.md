@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 
 > Sheer joy for sunny days in 50 old and new African jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,244 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,248 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 | 12 | [Kare Nanhasi](https://open.spotify.com/track/4l9wFkjVU37DqhF7jES8dV) | [Hallelujah Chicken Run Band](https://open.spotify.com/artist/4F4uGrDn844DLT3ThoztIE) | [4\-Track Recording Session \(Analog Africa No\. 1\)](https://open.spotify.com/album/4iXf2ybRyGp7Ux0TXtUoDm) | 3:36 |
 | 13 | [Bamako](https://open.spotify.com/track/1oSip9aq8h5GyJW0t3rcfn) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Résistance](https://open.spotify.com/album/4Ihzwun58CM5vmphpBngFG) | 3:40 |
 | 14 | [Asa\-Sa](https://open.spotify.com/track/6qjqjWxDUQJ9XPfCzwxPOW) | [Fred Fisher](https://open.spotify.com/artist/3XQnrGFC2HRRgTt2N2TXWC) | [51 Lex Presents Funketeers, Vol\. 3](https://open.spotify.com/album/4USOs3dK9IXZShjZasmKJ2) | 8:08 |
-| 15 | [Nijaay](https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/5T2htXMWcRmuYQdoHJEgi9) | 7:11 |
+| 15 | [Nijaay](https://open.spotify.com/track/09Fm7uCNugdcI9bitG6Ype) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/42oYfuID95AxYWA0jduZCo) | 7:14 |
 | 16 | [Sweet Fanta Diallo \- Remastered Edition](https://open.spotify.com/track/7HeMuHzQ1439ZpWmocNNXy) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Revolution \(Remastered Edition\)](https://open.spotify.com/album/7w57EeKZS9C5RDRS5rhqLs) | 5:19 |
 | 17 | [Ne Te Fache Pas](https://open.spotify.com/track/1OXWh5wI5uospTQMLnjDQ2) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb) | [Cotonou Club](https://open.spotify.com/album/07TRtwC1H4J3QcRu5mRVhd) | 4:38 |
 | 18 | [Assa](https://open.spotify.com/track/6ChuADJJyE7bfPUecz0vmN) | [Balla Et Ses Balladins](https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO) | [Objectif perfection](https://open.spotify.com/album/6K7NZTRRjzo8gNCMUoZKT4) | 6:24 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 | 44 | [Odo Adaada](https://open.spotify.com/track/2mi21f0CUYggWZ575iItwB) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Pat Thomas & Kwashibu Area Band](https://open.spotify.com/album/2HMkfg3XgwUka7EnAvGbPC) | 4:03 |
 | 45 | [African Soldier](https://open.spotify.com/track/5mTmOuw9eqvNMJZjlzpv2L) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW) | [From Africa With Fury: Rise](https://open.spotify.com/album/2ifJESGupde7BuXW8U1aZV) | 5:15 |
 | 46 | [Dirty Money](https://open.spotify.com/track/4kIcaK5ukJ1XwewfuO25XP) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Antibalas](https://open.spotify.com/album/3XSANYFEaahq8DoY5FSwwM) | 6:15 |
-| 47 | [Jarabi](https://open.spotify.com/track/5EvehLwAeQkVwwEfoAawa4) | [AfroCubism](https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen) | [Afrocubism](https://open.spotify.com/album/7qXvKyPmjYWye72ZTIrihK) | 5:57 |
+| 47 | [Jarabi](https://open.spotify.com/track/7KORuIh0eVDvHXmR1PpB0v) | [AfroCubism](https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen) | [AfroCubism](https://open.spotify.com/album/2xeis5rXeObCoxaSVqQd5E) | 5:53 |
 | 48 | [Mane Khouma Khol Thi Yao](https://open.spotify.com/track/08vETLzvQLVbdkF69a60PT) | [Etoile De Dakar](https://open.spotify.com/artist/0ZEIBXEWSSTDLhheAO9Wyk) | [Volume 1 \- Absa Gueye](https://open.spotify.com/album/5JN2ejFy2lqtPqUFcLMORv) | 4:50 |
 | 49 | [Disco Hi \- Life](https://open.spotify.com/track/7LRRSTX1m4CzW8MXnfoxa0) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Disco Hi\-Life](https://open.spotify.com/album/3imgLN3LrdTmKN5ZyoDBxU) | 8:55 |
 | 50 | [Obaa Sima](https://open.spotify.com/track/4LyxysVt5v3kkdJUSx8wvZ) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/2ERqie1S8nRnxh14keiTBu) | 5:38 |
 
-Snapshot ID: `MCw5YTMzYzMyOTFmMTQ4MWRiY2FiMjI5MTY2MjZkZmY4ZTVjNThlOGIw`
+Snapshot ID: `MCxhYTdlOGZjYmJkY2NlNDRhZTUzYzZlYWM1ZTJjMzg0ZmZhMDQ5OGNl`

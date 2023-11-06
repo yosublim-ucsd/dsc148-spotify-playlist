@@ -4,7 +4,7 @@
 
 > The biggest house tracks we couldn't get enough of this year\. Cover: John Summit
 
-79 songs - 4 hr 26 min
+81 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,9 +12,11 @@
 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 | 2022-11-30 |  |
 | [400](https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [400](https://open.spotify.com/album/4EbFL1qYraa4ICB46UbnK3) | 3:25 | 2022-11-30 |  |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-11-30 |  |
-| [Aguila ft\. Cumbiafrica](https://open.spotify.com/track/6WLZljpPR8EiUT2LDubJ6T) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Aguila ft\. Cumbiafrica](https://open.spotify.com/album/3E02tEWunwSUsnGYw09IJs) | 2:48 | 2022-11-30 |  |
+| [Aguila \(feat\. Cumbiafrica\)](https://open.spotify.com/track/1TAWywmhj68rLpor3w8J0X) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Aguila \(feat\. Cumbiafrica\)](https://open.spotify.com/album/6rqFLZcRn19VEwRQ6ERBFS) | 2:48 | 2022-11-30 |  |
+| [Aguila ft\. Cumbiafrica](https://open.spotify.com/track/6WLZljpPR8EiUT2LDubJ6T) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Aguila ft\. Cumbiafrica](https://open.spotify.com/album/3E02tEWunwSUsnGYw09IJs) | 2:48 | 2022-11-30 | 2023-11-06 |
 | [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 | 2022-11-30 |  |
-| [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 | 2022-11-30 |  |
+| [Alley Rave](https://open.spotify.com/track/1Zc0AQvQNk5UfjVOMD1Dxq) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/125AHdT7Yan1Nw5vUwwBnq) | 6:04 | 2022-11-30 |  |
+| [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 | 2022-11-30 | 2023-11-06 |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-11-30 |  |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-11-30 |  |
 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 | 2022-11-30 |  |

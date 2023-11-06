@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Strictly for the streets. Cover: Lil Durk",
+  "description": "Strictly for the streets. Cover: Meek Mill & Rick Ross",
   "name": "Out The Mud",
   "tracks": [
     {
@@ -902,6 +902,24 @@
       "duration_ms": 186538,
       "name": "AHHH HA",
       "url": "https://open.spotify.com/track/54VFhe501kUbDYj2OrueMp"
+    },
+    {
+      "album": {
+        "name": "Ain't Bout Nun",
+        "url": "https://open.spotify.com/album/3n5oKqDoFPPUGI9RgfFYrF"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112631,
+      "name": "Ain't Bout Nun",
+      "url": "https://open.spotify.com/track/5XpJVTP6RT5jmI0Z5akW8f"
     },
     {
       "album": {
@@ -3364,7 +3382,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 145203,
       "name": "Can\u2019t Go To Jail (feat. Sett, YTB Fatt)",
       "url": "https://open.spotify.com/track/092AkJoxUPmg2OH5TyjGKn"
@@ -5498,7 +5516,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 184897,
       "name": "F Dat",
       "url": "https://open.spotify.com/track/6QK16yNsHLslPQLVHKVowM"
@@ -7614,7 +7632,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 174545,
       "name": "Gunsmoke Town",
       "url": "https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI"
@@ -9269,6 +9287,24 @@
     },
     {
       "album": {
+        "name": "I Might Forgive",
+        "url": "https://open.spotify.com/album/2yyRMwPow8Fc35oSJSsDPU"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135450,
+      "name": "If I'm Being Honest",
+      "url": "https://open.spotify.com/track/7kUQ9B5JUmHC4Z9gK30uZc"
+    },
+    {
+      "album": {
         "name": "90 Days",
         "url": "https://open.spotify.com/album/3mYhUHiupqEamB1Qkl9ejL"
       },
@@ -10336,7 +10372,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 143743,
       "name": "Lamborghini Boys (with Tay Keith and Nardo Wick)",
       "url": "https://open.spotify.com/track/7Clgnvwgszp14FU5B9cgvj"
@@ -10456,7 +10492,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 138675,
       "name": "Let's Do It",
       "url": "https://open.spotify.com/track/4Lotg7gvp8ZOL8SKReduU0"
@@ -10904,6 +10940,28 @@
       "duration_ms": 207786,
       "name": "Look Ma I Did It",
       "url": "https://open.spotify.com/track/0JvnmNjMnTQMRizhrKzMSO"
+    },
+    {
+      "album": {
+        "name": "Tee's Coney Island",
+        "url": "https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151182,
+      "name": "Loop Hole (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/5gzEL5O1ubbtIHUhLkSMTz"
     },
     {
       "album": {
@@ -12663,6 +12721,28 @@
     },
     {
       "album": {
+        "name": "Chosen 1K",
+        "url": "https://open.spotify.com/album/2MZMbxoGvgp5cQjPXcQZYZ"
+      },
+      "artists": [
+        {
+          "name": "BiC Fizzle",
+          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
+        },
+        {
+          "name": "Sett",
+          "url": "https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135211,
+      "name": "Ndrangheta (feat. Sett)",
+      "url": "https://open.spotify.com/track/2fYtSj7kqxS4pXZPNH0uD5"
+    },
+    {
+      "album": {
         "name": "Neck & Wrist",
         "url": "https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3"
       },
@@ -12722,7 +12802,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 144000,
       "name": "Need Prescriptions (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/71dIX6uF8GBFCHbgx4JeXn"
@@ -15002,7 +15082,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 225492,
       "name": "Point Me 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
@@ -15674,6 +15754,28 @@
       "duration_ms": 124904,
       "name": "Real Bitch (feat. Gloss Up)",
       "url": "https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32"
+    },
+    {
+      "album": {
+        "name": "Real Drip",
+        "url": "https://open.spotify.com/album/22pQewW5HSrRxfIf3cNUr7"
+      },
+      "artists": [
+        {
+          "name": "Wizz Havinn",
+          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
+        },
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188366,
+      "name": "Real Drip",
+      "url": "https://open.spotify.com/track/3fwIVLw8KgouF6hZbAtVTq"
     },
     {
       "album": {
@@ -20175,6 +20277,24 @@
     },
     {
       "album": {
+        "name": "I Might Forgive",
+        "url": "https://open.spotify.com/album/2yyRMwPow8Fc35oSJSsDPU"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164962,
+      "name": "Trust No One",
+      "url": "https://open.spotify.com/track/3ELv6VNvmTiF6OaS0eGO4p"
+    },
+    {
+      "album": {
         "name": "BEEZY",
         "url": "https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep"
       },
@@ -21404,6 +21524,28 @@
       "duration_ms": 122624,
       "name": "What's Beef",
       "url": "https://open.spotify.com/track/3x9HWnPwhVCDHbfFCHqXZf"
+    },
+    {
+      "album": {
+        "name": "WHAT'S HATNIN",
+        "url": "https://open.spotify.com/album/3W30Vrsnl4ZD9wPpBEXnF0"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "name": "Steelz",
+          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "WHAT'S HATNIN",
+      "url": "https://open.spotify.com/track/2i160IyYwq8s3dwZHZNtnk"
     },
     {
       "album": {

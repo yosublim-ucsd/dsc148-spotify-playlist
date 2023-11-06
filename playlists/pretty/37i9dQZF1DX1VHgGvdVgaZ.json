@@ -1,12 +1,12 @@
 {
   "description": "Instrumental selections from the South Indian school of music.",
-  "num_followers": 46826,
+  "num_followers": 46856,
   "original_name": "Carnatic Instrumental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWY4MTkxMTRhMjZjZWE1OTFlODgyMjMyODMwMTRkNTVjZWJmZmE0",
+  "snapshot_id": "MCwwYjJmYTZhYmVhMzg3MzIyMTljMzc4NGY2ZTljYWU0MThiY2Q1YzRk",
   "tracks": [
     {
       "added_at": "2022-07-07 08:35:20",
@@ -319,22 +319,18 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Chinnajiru Kiliye (Live)",
-        "url": "https://open.spotify.com/album/7APbQUf3zF9aXR4wVFXcia"
+        "name": "The Best of Carnatic Instrumental",
+        "url": "https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK"
       },
       "artists": [
         {
-          "name": "Kadri Gopalnath",
-          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
-        },
-        {
-          "name": "Haridwaramangalam A.K. Palanivel",
-          "url": "https://open.spotify.com/artist/4Qnu91jtz2scVRROdqafK7"
+          "name": "Doraiswamy Iyengar",
+          "url": "https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj"
         }
       ],
-      "duration_ms": 255720,
-      "name": "Kurai Onrum Illai - Ragamalika - Adi (Live)",
-      "url": "https://open.spotify.com/track/1OmHmuOvobYHUPrxXcR9HY"
+      "duration_ms": 309968,
+      "name": "Ghana Ragamalika Tanam",
+      "url": "https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -355,18 +351,22 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "The Best of Carnatic Instrumental",
-        "url": "https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK"
+        "name": "Chinnajiru Kiliye (Live)",
+        "url": "https://open.spotify.com/album/7APbQUf3zF9aXR4wVFXcia"
       },
       "artists": [
         {
-          "name": "Doraiswamy Iyengar",
-          "url": "https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj"
+          "name": "Kadri Gopalnath",
+          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
+        },
+        {
+          "name": "Haridwaramangalam A.K. Palanivel",
+          "url": "https://open.spotify.com/artist/4Qnu91jtz2scVRROdqafK7"
         }
       ],
-      "duration_ms": 309968,
-      "name": "Ghana Ragamalika Tanam",
-      "url": "https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC"
+      "duration_ms": 255720,
+      "name": "Kurai Onrum Illai - Ragamalika - Adi (Live)",
+      "url": "https://open.spotify.com/track/1OmHmuOvobYHUPrxXcR9HY"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Classical Flute Collections",
-        "url": "https://open.spotify.com/album/2DFUYQeIfWSYgNGIzYeim2"
-      },
-      "artists": [
-        {
-          "name": "Trichy L. Saravanan",
-          "url": "https://open.spotify.com/artist/12mWZaSpnV5tGqrdARybD2"
-        }
-      ],
-      "duration_ms": 562912,
-      "name": "Vathapi - Hamsadwani - Adi",
-      "url": "https://open.spotify.com/track/64LBObUGInjuCrGp0BdJUa"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
         "name": "Blissful Veena (original)",
         "url": "https://open.spotify.com/album/3cfioNS9otVjJIBImSiZhG"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 344581,
       "name": "Maha Ganapathim Nata Chatusraekam - original",
       "url": "https://open.spotify.com/track/3wKIbPtccsIQFZo4LkhSXr"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "Classical Flute Collections",
+        "url": "https://open.spotify.com/album/2DFUYQeIfWSYgNGIzYeim2"
+      },
+      "artists": [
+        {
+          "name": "Trichy L. Saravanan",
+          "url": "https://open.spotify.com/artist/12mWZaSpnV5tGqrdARybD2"
+        }
+      ],
+      "duration_ms": 562912,
+      "name": "Vathapi - Hamsadwani - Adi",
+      "url": "https://open.spotify.com/track/64LBObUGInjuCrGp0BdJUa"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -815,34 +815,6 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Navaragini",
-        "url": "https://open.spotify.com/album/4xFc6V2upugP7RI3hSKhYa"
-      },
-      "artists": [
-        {
-          "name": "Embar Kannan",
-          "url": "https://open.spotify.com/artist/3nDyfqoQCCHCNjmfQkbKxA"
-        },
-        {
-          "name": "K.V. Prasad",
-          "url": "https://open.spotify.com/artist/41DUKKqTwSBmG2IcFFpM1I"
-        },
-        {
-          "name": "S. Karthick",
-          "url": "https://open.spotify.com/artist/53BhxHSMsKEPs6YhVCv2ti"
-        },
-        {
-          "name": "N. Ravikiran",
-          "url": "https://open.spotify.com/artist/1hLUGkZvkUxmwCNpPJg9w5"
-        }
-      ],
-      "duration_ms": 344586,
-      "name": "Tanam - Bhairavi - Misra Triputa",
-      "url": "https://open.spotify.com/track/5sUcp6R2bgcVFMHn20VicM"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
         "name": "Keeravani - Ragam, Thaanam, Pallavai",
         "url": "https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN"
       },
@@ -879,6 +851,34 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
+        "name": "Navaragini",
+        "url": "https://open.spotify.com/album/4xFc6V2upugP7RI3hSKhYa"
+      },
+      "artists": [
+        {
+          "name": "Embar Kannan",
+          "url": "https://open.spotify.com/artist/3nDyfqoQCCHCNjmfQkbKxA"
+        },
+        {
+          "name": "K.V. Prasad",
+          "url": "https://open.spotify.com/artist/41DUKKqTwSBmG2IcFFpM1I"
+        },
+        {
+          "name": "S. Karthick",
+          "url": "https://open.spotify.com/artist/53BhxHSMsKEPs6YhVCv2ti"
+        },
+        {
+          "name": "N. Ravikiran",
+          "url": "https://open.spotify.com/artist/1hLUGkZvkUxmwCNpPJg9w5"
+        }
+      ],
+      "duration_ms": 344586,
+      "name": "Tanam - Bhairavi - Misra Triputa",
+      "url": "https://open.spotify.com/track/5sUcp6R2bgcVFMHn20VicM"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
         "name": "South Indian Classical Music",
         "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
       },
@@ -891,6 +891,38 @@
       "duration_ms": 817240,
       "name": "Swara Raga Sankarabharanam Adi Thyagaraja",
       "url": "https://open.spotify.com/track/1dKNRFKU3CV4Xx6Ybiwt3H"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "Laya Vinyas",
+        "url": "https://open.spotify.com/album/16lv6BLMgYb0IN5LvFuODn"
+      },
+      "artists": [
+        {
+          "name": "Trichy Sankaran",
+          "url": "https://open.spotify.com/artist/5pXWGFz6zZwtMctRbOFcUd"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "Kriti: Padavini with Vina and Mrdangam",
+      "url": "https://open.spotify.com/track/62J1F714qiqQtDfaT2Bs1Q"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "South Indian Classical Music",
+        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
+      },
+      "artists": [
+        {
+          "name": "Kadri Gopalnath",
+          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
+        }
+      ],
+      "duration_ms": 589200,
+      "name": "Gnana Vinayakane Gambheera Natai Adi Papanasam Sivan Saxopho",
+      "url": "https://open.spotify.com/track/2t01bxdtsCcuuSzWnB9UA1"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -915,38 +947,6 @@
       "duration_ms": 295226,
       "name": "Vinayaka: Raag Hamsadhwani - Aadi",
       "url": "https://open.spotify.com/track/5twmdIDcChJG4rmq6Xf1G8"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
-        "name": "South Indian Classical Music",
-        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
-      },
-      "artists": [
-        {
-          "name": "Kadri Gopalnath",
-          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
-        }
-      ],
-      "duration_ms": 589200,
-      "name": "Gnana Vinayakane Gambheera Natai Adi Papanasam Sivan Saxopho",
-      "url": "https://open.spotify.com/track/2t01bxdtsCcuuSzWnB9UA1"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
-        "name": "Laya Vinyas",
-        "url": "https://open.spotify.com/album/16lv6BLMgYb0IN5LvFuODn"
-      },
-      "artists": [
-        {
-          "name": "Trichy Sankaran",
-          "url": "https://open.spotify.com/artist/5pXWGFz6zZwtMctRbOFcUd"
-        }
-      ],
-      "duration_ms": 233693,
-      "name": "Kriti: Padavini with Vina and Mrdangam",
-      "url": "https://open.spotify.com/track/62J1F714qiqQtDfaT2Bs1Q"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
+        "name": "South India: Ranganayaki Rajagopalan\u2014Continuity in the Karaikudi Vina Style",
+        "url": "https://open.spotify.com/album/1TNRXFTFwiYduNDHEVKOGv"
+      },
+      "artists": [
+        {
+          "name": "Ranganayaki Rajagopalan",
+          "url": "https://open.spotify.com/artist/5kUDJrh7qHEz1aZQk2QWUi"
+        }
+      ],
+      "duration_ms": 468745,
+      "name": "R\u0101ga: Kharaharapriya / \u0100l\u0101pana",
+      "url": "https://open.spotify.com/track/1ibvLixDYokvMwAAex6ZA6"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
         "name": "Music from Madras",
         "url": "https://open.spotify.com/album/09RfLY6H8ZjWl9woRQYY7f"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 851586,
       "name": "Sri Kantimateem: Kriti",
       "url": "https://open.spotify.com/track/4hg9XXjCehm0dJTXQkAfWj"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
-        "name": "South India: Ranganayaki Rajagopalan\u2014Continuity in the Karaikudi Vina Style",
-        "url": "https://open.spotify.com/album/1TNRXFTFwiYduNDHEVKOGv"
-      },
-      "artists": [
-        {
-          "name": "Ranganayaki Rajagopalan",
-          "url": "https://open.spotify.com/artist/5kUDJrh7qHEz1aZQk2QWUi"
-        }
-      ],
-      "duration_ms": 468745,
-      "name": "R\u0101ga: Kharaharapriya / \u0100l\u0101pana",
-      "url": "https://open.spotify.com/track/1ibvLixDYokvMwAAex6ZA6"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Dikshitar Masterpieces",
-        "url": "https://open.spotify.com/album/0al0UjnQ78WIhshfdmxUBv"
-      },
-      "artists": [
-        {
-          "name": "N. Ravikiran",
-          "url": "https://open.spotify.com/artist/1hLUGkZvkUxmwCNpPJg9w5"
-        }
-      ],
-      "duration_ms": 374960,
-      "name": "Vallabha Nayakasya - Raga Begada",
-      "url": "https://open.spotify.com/track/4kc3xF1SKMHUsrexy73MPj"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
         "name": "Kunnakudi Vaidyanathan Vol - 1",
         "url": "https://open.spotify.com/album/0Ecrh9MPKHqcDli7KCBMXk"
       },
@@ -1243,22 +1227,6 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Yal Isai",
-        "url": "https://open.spotify.com/album/1feLE8ZNVHpIXb3ZYTOiNK"
-      },
-      "artists": [
-        {
-          "name": "Raghunath Manet",
-          "url": "https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq"
-        }
-      ],
-      "duration_ms": 679292,
-      "name": "Vatapiganapatim",
-      "url": "https://open.spotify.com/track/5DdOYylQU9Y9ErAExTlTYo"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
         "name": "Sudhamayi 1",
         "url": "https://open.spotify.com/album/0ibSOQJPbFGTDyWFbXWI2w"
       },
@@ -1275,6 +1243,22 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
+        "name": "Yal Isai",
+        "url": "https://open.spotify.com/album/1feLE8ZNVHpIXb3ZYTOiNK"
+      },
+      "artists": [
+        {
+          "name": "Raghunath Manet",
+          "url": "https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq"
+        }
+      ],
+      "duration_ms": 679292,
+      "name": "Vatapiganapatim",
+      "url": "https://open.spotify.com/track/5DdOYylQU9Y9ErAExTlTYo"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
         "name": "Legendary Solo",
         "url": "https://open.spotify.com/album/1VdiOnxmn40noPckXrLfcB"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 258901,
       "name": "Varnam",
       "url": "https://open.spotify.com/track/52skkD2NrQrocQleEWYM7o"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "Dikshitar Masterpieces",
+        "url": "https://open.spotify.com/album/0al0UjnQ78WIhshfdmxUBv"
+      },
+      "artists": [
+        {
+          "name": "N. Ravikiran",
+          "url": "https://open.spotify.com/artist/1hLUGkZvkUxmwCNpPJg9w5"
+        }
+      ],
+      "duration_ms": 374960,
+      "name": "Vallabha Nayakasya - Raga Begada",
+      "url": "https://open.spotify.com/track/4kc3xF1SKMHUsrexy73MPj"
     },
     {
       "added_at": "2022-07-07 08:35:20",

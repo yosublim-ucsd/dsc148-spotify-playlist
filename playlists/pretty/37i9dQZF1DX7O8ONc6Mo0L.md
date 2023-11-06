@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: AMÉM
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,886 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,066 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Eu Me Rendo \(I Surrender\) \- Acústico](https://open.spotify.com/track/2WGlHxK3Cwd7bEIT9D0dAY) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Acústico Mergulhar](https://open.spotify.com/album/6pIY0cvrF5FrOtBHoPtInI) | 6:14 |
 | 80 | [Alguém Como Eu](https://open.spotify.com/track/6kbcLo1Sgi5OjzEvtdgxyy) | [Guilherme Leite](https://open.spotify.com/artist/4OPDva5P2NCD4ssE52yMXb), [Nalú](https://open.spotify.com/artist/0YaxG7PCq40nc8tKcMkrgx) | [Alguém Como Eu](https://open.spotify.com/album/6gO3nrarrqWVwBYDnjTjrr) | 4:13 |
 
-Snapshot ID: `MCxjOWNjZTM3NjJiNGI1MjMyOTU4YzY1NWFhNDRmYmExNjAxNWNlOTZm`
+Snapshot ID: `MCxkNDY1ZjMzZmIzNmJmMWY2MzkzYWJmNTc3NmUwZjJkZWFkYTdlYWQ1`

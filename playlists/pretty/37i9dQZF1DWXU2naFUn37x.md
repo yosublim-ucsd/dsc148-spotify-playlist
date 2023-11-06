@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Néza
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,350 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,502 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 13 | [Freddy Krueger Freestyle](https://open.spotify.com/track/6TbFOSCtOicAETFf0DxHFt) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Freddy Krueger Freestyle](https://open.spotify.com/album/6h801PlffuLHaO7tcmvz3y) | 1:39 |
 | 14 | [Que Lo Ke](https://open.spotify.com/track/7wj8OXiqdAfNsnWm2zRV9e) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:03 |
 | 15 | [Victoria \(feat\. Artie 5ive\)](https://open.spotify.com/track/1r5WCFulDtvAdCNmJfH1wA) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Umile](https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9) | 2:48 |
-| 16 | [Madame](https://open.spotify.com/track/1YuwtGNJID9U7nfvhTovql) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/44QCkU2JXCsvOfwRHCXCxZ) | 2:13 |
+| 16 | [Madame](https://open.spotify.com/track/0JPyVgLem5a4HcXEADJXg5) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/5di5PgxR4cs1PveHPkgKtr) | 2:13 |
 | 17 | [TOP G \(feat\. Sacky\)](https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:40 |
 | 18 | [Paradiso Artificiale \(feat\. Baby Gang & Kid Yugi\)](https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:42 |
 | 19 | [TAF TAF](https://open.spotify.com/track/6eJIQo4C9LR9sACJI5fP7O) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [TAF TAF](https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [HI TECH \(feat\. Dardan\)](https://open.spotify.com/track/4l2ATeURkBNDMaj1s7cU6U) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [HI TECH \(feat\. Dardan\)](https://open.spotify.com/album/6AajVc17THqnxw38GIWRji) | 2:13 |
 | 50 | [BVLGARI](https://open.spotify.com/track/1WibnlA9JXDEOewy0mr71I) | [R1MKA](https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc) | [BVLGARI](https://open.spotify.com/album/1959Xf6EJPqYLaxFJxsYXD) | 2:24 |
 
-Snapshot ID: `MCw1Y2U2ZjA4MDM3Yjg3NTRjZGI5YzdlN2EwMTI3MDExYmE3NzE4MTRk`
+Snapshot ID: `MCxjZDRhNzI1Mzg5MzNmMzFkMDA4MmUwYmY2YjU2M2NlMWM4YzA4NmY2`

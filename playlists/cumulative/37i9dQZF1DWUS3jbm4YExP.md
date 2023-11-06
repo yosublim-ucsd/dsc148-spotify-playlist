@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-618 songs - 1 day 20 hr 33 min
+619 songs - 1 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 | 2023-09-26 |  |
 | [Et ta mère \(Solar Remix\) \[feat\. Reyna Tropical\]](https://open.spotify.com/track/6GMd54cabubG2fdz438cmF) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Et ta mère \(Solar Remix\) \[feat\. Reyna Tropical\]](https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx) | 3:40 | 2021-10-06 | 2023-10-21 |
 | [Ethiopian Sunshower](https://open.spotify.com/track/0K6QOkv9bXA5MeM5t1TgIx) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Ethiopian Sunshower](https://open.spotify.com/album/4HxFubImC2L6UShJBYRJi1) | 3:07 | 2021-10-06 | 2022-07-24 |
-| [Every Trick in the Book](https://open.spotify.com/track/3SZ0veqxOxbVZrZxtHzSG0) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Every Trick in the Book](https://open.spotify.com/album/6jrEt6AdBe2mGDLg8iI4Dl) | 3:10 | 2021-10-06 |  |
+| [Every Trick in the Book](https://open.spotify.com/track/3SZ0veqxOxbVZrZxtHzSG0) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Every Trick in the Book](https://open.spotify.com/album/6jrEt6AdBe2mGDLg8iI4Dl) | 3:10 | 2021-10-06 | 2023-11-06 |
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/1r2ZYOuhyyMDDCEMkYZV4U) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Awakening](https://open.spotify.com/album/76gQRKAN8Hs5lSjts05FpV) | 6:32 | 2021-10-06 | 2022-04-21 |
 | [Evolution](https://open.spotify.com/track/60lRT01X553ode0LvndRf0) | [Magnum](https://open.spotify.com/artist/3NCYHagstCfaXKU2WoAAXP) | [Fully Loaded](https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV) | 5:50 | 2021-10-06 | 2022-06-01 |
 | [Existe Uma Voz](https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Existe Uma Voz](https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer) | 3:45 | 2023-02-23 |  |
@@ -329,6 +329,7 @@
 | [Limpio y Puro](https://open.spotify.com/track/0U6OFaJvJvmLLSlA3pbZoZ) | [Cristian de Moret](https://open.spotify.com/artist/0Lf8YxCqt0flPbiPlBDSPQ) | [Limpio y Puro](https://open.spotify.com/album/0GFNTdbAcpPmdTXPlAtoMg) | 3:38 | 2023-05-22 | 2023-07-22 |
 | [Liquid Love](https://open.spotify.com/track/0gPlSsAiRoaX2Wu2mrsmQH) | [NO ZU](https://open.spotify.com/artist/0ASJYABL9IBmNhXFXDuV5P) | [Liquid Love](https://open.spotify.com/album/3eCRbDscbTBwDRc70kPbtW) | 5:28 | 2022-12-07 | 2023-01-03 |
 | [Little Mouse](https://open.spotify.com/track/6PLmTnJIHb22SXrQRr29fg) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP), [Mr\. Morski](https://open.spotify.com/artist/0RJTUTPE6jdu7i23X79GEi) | [Music Sun Love](https://open.spotify.com/album/4k9DC9Gc7OhaBBEfuPM1fV) | 4:52 | 2021-10-06 | 2022-06-18 |
+| [Little Mouse](https://open.spotify.com/track/7t6GNNQEDkMQrxkk0o6XRd) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP), [Mr\. Morski](https://open.spotify.com/artist/0RJTUTPE6jdu7i23X79GEi) | [Music Sun Love](https://open.spotify.com/album/5seX7glfEyKrtPLLCmm8Zo) | 4:52 | 2023-11-03 |  |
 | [Liver Detox](https://open.spotify.com/track/2J4GTXRKVK31IfUDQp7phB) | [King Edi K](https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO) | [Liver Detox](https://open.spotify.com/album/0Z5nviwBvakgusyWOTdZF9) | 5:04 | 2021-10-06 | 2022-04-09 |
 | [Loco Playa](https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Loco Playa](https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7) | 3:37 | 2021-10-22 | 2022-04-21 |
 | [Long in the Tooth](https://open.spotify.com/track/6gZJn1abfUXsOcyBUKjp4D) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Long in the Tooth](https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf) | 3:41 | 2021-10-06 |  |

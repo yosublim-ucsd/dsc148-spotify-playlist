@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Kevin Abstract
 
-2,269 songs - 5 day 7 hr 25 min
+2,270 songs - 5 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1767,7 +1767,8 @@
 | [Show U Off](https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Show U Off](https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m) | 4:11 | 2021-03-14 | 2021-05-29 |
 | [sideline, red wine lover](https://open.spotify.com/track/4tCwtpj5QR1FLpCevAuGx3) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [you, green](https://open.spotify.com/album/3n22PGmZoD2DTEr9AuBws4) | 2:47 | 2023-08-11 | 2023-09-23 |
 | [Siento Mi Destino \- bad tuner Remix](https://open.spotify.com/track/5jCkBbkSh8ohOf6SNUKtrw) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Siento Mi Destino \(bad tuner Remix\)](https://open.spotify.com/album/1P80k3rsytKDpEb0WChD7B) | 3:41 | 2022-08-12 | 2022-09-24 |
-| [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 | 2023-07-07 |  |
+| [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 | 2023-07-07 | 2023-11-06 |
+| [Silent Assassin](https://open.spotify.com/track/4mbAgzlDrW35mp0dz4zE40) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:07 | 2023-11-03 |  |
 | [Silent Hill](https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:40 | 2022-05-20 | 2022-09-10 |
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-20 | 2022-07-29 |
 | [Silver Screen](https://open.spotify.com/track/6rmbjUQFF6KMG90ukMIT2O) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze) | [Daybreak](https://open.spotify.com/album/2fl52wlcdpihJq265RoeYq) | 3:33 | 2021-02-19 | 2021-06-12 |

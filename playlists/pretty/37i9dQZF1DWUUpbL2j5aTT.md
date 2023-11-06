@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 
 > The best of Brazilian House\. Photo: Fabricio Peçanha
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,807 likes - 66 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,817 likes - 66 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 | 27 | [Cosmic Witch \(feat\. Anané\) \- Mochakk Remix](https://open.spotify.com/track/6DFsOKG0Xlf441cChjW8lV) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Anane](https://open.spotify.com/artist/3cGghqrVTd3niWn9olcGYS), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Cosmic Witch \(feat\. Anané\) \[Mochakk Remix\]](https://open.spotify.com/album/38fWBTKNq37hFnBRCruAVm) | 4:00 |
 | 28 | [It's All About \( Radio Mix \)](https://open.spotify.com/track/3Kth7CL2FjH2fJ0G8YK5Zw) | [Wolsh](https://open.spotify.com/artist/0dBHeI1RuLCkzOkTcIXwPm) | [It's All About \( Radio Mix \)](https://open.spotify.com/album/40RWIqYnVYBKgch9bGmgeI) | 3:22 |
 | 29 | [Waiting](https://open.spotify.com/track/0MwpOYPMBXRbd3SgQwf6u7) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Castelani](https://open.spotify.com/artist/0aAZdI0nv5BNNmXmdYc3it), [Tallez](https://open.spotify.com/artist/2GV086sizQwsDGJHPqRXA8) | [Waiting](https://open.spotify.com/album/36KwdgtXlo4P3u6ZeEC6R8) | 2:55 |
-| 30 | [Bongoloco](https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA) | 3:26 |
+| 30 | [Bongoloco](https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV) | 3:26 |
 | 31 | [Games](https://open.spotify.com/track/6Apwa9gegsRM9jNPvEMzyR) | [Visage Music](https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko) | [Games](https://open.spotify.com/album/7qMqAEfgeCwGS2uqeYrkTT) | 3:36 |
 | 32 | [Back To Love](https://open.spotify.com/track/7p7W3U6Eo39Y125LYbdtyg) | [Windy City Classics](https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m), [Ale Salles](https://open.spotify.com/artist/3WUTfT3MAFhrVcvAntC3Iu), [F.Brothers](https://open.spotify.com/artist/4mDFQIBuckxntnJso2MFrP), [Leela D](https://open.spotify.com/artist/3H7Ar822wLNsiDOCXhpbQu) | [Back To Love](https://open.spotify.com/album/6x0vkrPeOWUXqRyvfDIErh) | 3:27 |
 | 33 | [Pictures](https://open.spotify.com/track/7bd3YmFqevYO3Hi03sPbuN) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Linkage](https://open.spotify.com/artist/1ZvYE8yQ4j8dBKWNA9JW7R) | [Pictures](https://open.spotify.com/album/4HgB0bkbUEBeByio432MQE) | 5:07 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 | 65 | [Macaw](https://open.spotify.com/track/3IYIYvGLrVkeIcp2pSwNG2) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ) | [Macaw](https://open.spotify.com/album/21vjXg1CCyd4LCZZjZ5k2n) | 6:00 |
 | 66 | [Nosso Espaço](https://open.spotify.com/track/5CRAaaj8HsuQ9gUXFE4RqR) | [Ella De Vuono](https://open.spotify.com/artist/2PRUReyWWiCkqNISBal5sn), [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Nossa Gangue](https://open.spotify.com/album/4Hc0j4uyuMGefL33kkYmn6) | 6:16 |
 
-Snapshot ID: `MCxjZWZlYjA0MTQ5ZDI2YmEyZGZmYzVkZDI3YzA0ZDJlZjkxMjg3N2Y5`
+Snapshot ID: `MCxhMjg0ZTAxM2I2M2MxMWRmMTY3ZTc3MmViZGNjYThmZGU2OWYwY2Uw`

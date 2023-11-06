@@ -4,7 +4,7 @@
 
 > <a href="http://www.grammy.com/">第65回グラミー賞</a>\(2023年\)受賞作品を特集。
 
-39 songs - 3 hr 6 min
+40 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq) | 4:10 | 2023-02-06 |  |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2023-02-06 |  |
 | [Endangered Species \- Live](https://open.spotify.com/track/1Q8ULnvdnCYEMAGFBo3zWD) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO), [Terri Lyne Carrington](https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5), [Leo Genovese](https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk) | [Live At The Detroit Jazz Festival](https://open.spotify.com/album/6bnEiLE5eOj42d7usx5qVs) | 21:43 | 2023-02-06 |  |
-| [Garden](https://open.spotify.com/track/0tEFguRom1BhshfZ97fah6) | [White Sun](https://open.spotify.com/artist/2i36FHX25QK8SMore8TPtT) | [Mystic Mirror](https://open.spotify.com/album/2RCfHYzhAmJgzrj31ygTE2) | 3:49 | 2023-02-06 |  |
+| [Garden](https://open.spotify.com/track/0tEFguRom1BhshfZ97fah6) | [White Sun](https://open.spotify.com/artist/2i36FHX25QK8SMore8TPtT) | [Mystic Mirror](https://open.spotify.com/album/2RCfHYzhAmJgzrj31ygTE2) | 3:49 | 2023-02-06 | 2023-11-06 |
+| [Garden](https://open.spotify.com/track/4OfTbv45fbyN2sAiynXkUQ) | [White Sun](https://open.spotify.com/artist/2i36FHX25QK8SMore8TPtT) | [Mystic Mirror](https://open.spotify.com/album/04uN6kCP6ae9yvocliggTH) | 3:49 | 2023-02-06 |  |
 | [Higher](https://open.spotify.com/track/1a5KFrCyfZLa6EeOU6kr7S) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/0pC2nDSKjfCdEth7murfOu) | 3:05 | 2023-02-06 |  |
 | [Hrs & Hrs](https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:24 | 2023-02-06 |  |
 | [I'll Love You Till The Day I Die](https://open.spotify.com/track/7MdWQ5TLm9snNKXpmcwk9l) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 4:11 | 2023-02-06 |  |

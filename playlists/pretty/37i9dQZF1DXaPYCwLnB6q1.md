@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPYCwLnB6q1.md) - [plain]
 
 > These are the songs that shape <a href="https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy?si=ead57c8c75c94c3a">PVRIS'</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,052 likes - 31 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,132 likes - 31 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 |
 | 2 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/58YF9ZJIfMO1wcZrklmnA4) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 3:33 |
-| 3 | [NIGHTSHIFT](https://open.spotify.com/track/6vZqkQWq28a1ccZa69KDQd) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal \(Deluxe\)](https://open.spotify.com/album/3lsu0Vp20MZEsHdTDE6G8I) | 2:07 |
+| 3 | [NIGHTSHIFT](https://open.spotify.com/track/1jYnAsjQrW7ZCzGhv7txdV) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal \(Deluxe\)](https://open.spotify.com/album/0w9y3hsTarYxfXKgH5BEF4) | 2:07 |
 | 4 | [Machine Gun](https://open.spotify.com/track/4gxG38GmhagF2T6eaTdUR6) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Third](https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo) | 4:43 |
 | 5 | [Ponyboy](https://open.spotify.com/track/30lIB7UwSLy5qgkfYZEtB1) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:14 |
 | 6 | [18+](https://open.spotify.com/track/3SqPQRaxS6A6G7rlE7lvhs) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [18+](https://open.spotify.com/album/6oveIE1VtjcawBs2UlM3Mn) | 3:13 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPYCwLnB6q1.md) - [plain]
 | 10 | [fitt \(with Amaarae\)](https://open.spotify.com/track/313idFpUfl9mhf3KZOHDPE) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 3:36 |
 | 11 | [Luna Llena](https://open.spotify.com/track/4I4p4iwxzFzdiz1WOZdZk7) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 3:19 |
 | 12 | [Baptism](https://open.spotify.com/track/4GJTbB9FNkGkvf6dxl22qW) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles \(II\)](https://open.spotify.com/album/3VsZ5nZGgyH30IDaCP4GeQ) | 4:11 |
-| 13 | [a woman is a god](https://open.spotify.com/track/7fEs3RW4KCT7II7SWFU2Gx) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [goldilocks x](https://open.spotify.com/album/1ub4u5KekqUhWrOoBzoB6s) | 2:58 |
+| 13 | [a woman is a god](https://open.spotify.com/track/6XNWEBcyeOYyp5w3E2aIGK) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [goldilocks x](https://open.spotify.com/album/0rJiPzR6DjTWdi8SjAJKJD) | 2:58 |
 | 14 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 |
 | 15 | [BITE MY FACE \(FEAT\. COREY TAYLOR\)](https://open.spotify.com/track/5edonX335e9w96au4UTRn5) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [SKIN](https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO) | 3:06 |
 | 16 | [Puzzles](https://open.spotify.com/track/56F0w1wbpp3mQRpTlKXVi8) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 2:41 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPYCwLnB6q1.md) - [plain]
 | 30 | [Comme Des Garçons \(Like The Boys\)](https://open.spotify.com/track/43bYs8QkPdCdy5esfnmU1T) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:01 |
 | 31 | [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 |
 
-Snapshot ID: `MCwzZjEwNDlkODFlZTY0ZDA2MGQxMjcyODUwMTBlNDgzMDQyNmU0MmE3`
+Snapshot ID: `MCw3NTM2OWZmZWM3YzFhMTk2NGEzNTI4MjJiNDFlMDI3MWVhMjkyZDYx`

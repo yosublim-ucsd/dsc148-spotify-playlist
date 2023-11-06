@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn">Conducta</a>'s favorite tracks\. Updated regularly\. Curated by Conducta\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-106 songs - 8 hr 1 min
+107 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 | 2023-06-01 |  |
 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 | 2023-01-10 |  |
 | [Pula](https://open.spotify.com/track/2DOeIdH8MIdnykM0H6sl8g) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [BLOOM](https://open.spotify.com/album/1EOFf1iDuHW3wVwf3lE2il) | 4:02 | 2023-01-10 | 2023-03-08 |
-| [Pull Up \- Tim Reaper Remix](https://open.spotify.com/track/6GE30aCTN2fAInCxcfLvf9) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:09 | 2023-04-11 |  |
+| [Pull Up \- Tim Reaper Remix](https://open.spotify.com/track/3Eqb7qt1a5nTnn96U4TiUf) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/6Q2HpsQaIOENWkvc2wo1L3) | 6:09 | 2023-06-01 |  |
+| [Pull Up \- Tim Reaper Remix](https://open.spotify.com/track/6GE30aCTN2fAInCxcfLvf9) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:09 | 2023-04-11 | 2023-11-06 |
 | [R&R](https://open.spotify.com/track/1riYsyiRJsqM45oN9fNebT) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [132.00FM](https://open.spotify.com/album/19fKnOtNDHzrUvRrt4mSzO) | 2:46 | 2023-04-11 | 2023-07-14 |
 | [R&R](https://open.spotify.com/track/4Tw1Yfo5aOcdlb18QyZo78) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [132.00FM](https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL) | 2:46 | 2023-06-01 |  |
 | [Real Badman \- Bakey Remix](https://open.spotify.com/track/1fNBFxMDl2gOg6vs3oXXHb) | [Arfa](https://open.spotify.com/artist/6n67IiFncVHKaMwpejXW6d), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Real Badman \(Bakey Remix\)](https://open.spotify.com/album/3ARueEj9kyRQh5t61shiIQ) | 4:48 | 2023-01-10 | 2023-02-01 |

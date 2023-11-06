@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 450472,
+  "num_followers": 450543,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGQ3M2YzYWM2ZTVjODgxNGQ5MzY4OTZhMWVlOGYwYjIxMTQyM2M5",
+  "snapshot_id": "MCxjYjlmMjQyODRkYTYxMGE4ZDY1MWU0YzkyODM2MmQxZDY3ODlkMWQ5",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Stateless",
-        "url": "https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS"
-      },
-      "artists": [
-        {
-          "name": "Stateless",
-          "url": "https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH"
-        }
-      ],
-      "duration_ms": 313800,
-      "name": "Bloodstream",
-      "url": "https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "It Won't Always Be Like This",
         "url": "https://open.spotify.com/album/5TCW5XPhG21i4XXfcYJVDg"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 244906,
       "name": "It Won't Always Be Like This",
       "url": "https://open.spotify.com/track/61YcJKRn2y1si5jGc7LUIN"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Stateless",
+        "url": "https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS"
+      },
+      "artists": [
+        {
+          "name": "Stateless",
+          "url": "https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH"
+        }
+      ],
+      "duration_ms": 313800,
+      "name": "Bloodstream",
+      "url": "https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Language & Perspective",
+        "url": "https://open.spotify.com/album/4TPjqLZkA2ekWLEQ8GvMr9"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 182467,
+      "name": "Cardiac Arrest",
+      "url": "https://open.spotify.com/track/5aejtAMTPonqopEygQgOkq"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "It's Depression (feat. Middle Part)",
         "url": "https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW"
       },
@@ -1891,18 +1907,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Sun Leads Me On",
-        "url": "https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK"
+        "name": "Help Me To Feel Again",
+        "url": "https://open.spotify.com/album/7JaJz2pFwuOs6XdjydJqAR"
       },
       "artists": [
         {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 241866,
-      "name": "Turn Your Love",
-      "url": "https://open.spotify.com/track/2lCTLnaQOc73eG5UFls7QE"
+      "duration_ms": 262383,
+      "name": "Help Me To Feel Again",
+      "url": "https://open.spotify.com/track/6eYJIGCwT3hFY5Fz8KI8c6"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1923,18 +1939,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Help Me To Feel Again",
-        "url": "https://open.spotify.com/album/7JaJz2pFwuOs6XdjydJqAR"
+        "name": "Sun Leads Me On",
+        "url": "https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK"
       },
       "artists": [
         {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 262383,
-      "name": "Help Me To Feel Again",
-      "url": "https://open.spotify.com/track/6eYJIGCwT3hFY5Fz8KI8c6"
+      "duration_ms": 241866,
+      "name": "Turn Your Love",
+      "url": "https://open.spotify.com/track/2lCTLnaQOc73eG5UFls7QE"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2015,22 +2031,6 @@
       "duration_ms": 228196,
       "name": "Cinema Love",
       "url": "https://open.spotify.com/track/28yYvFeocTDYzao76YVB75"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/0QqrTxRtjqQmH5XyqwORlU"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 267935,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/4HM8tkHTQ6JVSMfsJOrcAW"
     }
   ],
   "unique_name": "License To Chill",

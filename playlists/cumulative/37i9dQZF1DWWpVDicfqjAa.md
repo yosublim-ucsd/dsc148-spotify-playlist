@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-265 songs - 16 hr 54 min
+266 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [Likkle Miss](https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Likkle Miss](https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk) | 2:14 | 2022-11-19 | 2022-12-24 |
 | [Liquid Love \- KAARGO Remix](https://open.spotify.com/track/3iQZOO5611jjO4a69BeqBB) | [Luka](https://open.spotify.com/artist/52RrVukaLWLFZo3vJ6ULC1), [Jackie Queens](https://open.spotify.com/artist/2Fn9Ex39hElfpqz6HyUgwY), [KAARGO](https://open.spotify.com/artist/1ByNICJCdhg6T4pA7pVVzw) | [Liquid Love](https://open.spotify.com/album/6UmL94z4s3UpvyUvcqSxpc) | 7:50 | 2023-02-09 | 2023-05-11 |
 | [London](https://open.spotify.com/track/7cDgMxxIHLRrk3JAZEmgnC) | [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [London](https://open.spotify.com/album/3SJLOFYu6mQm1UM1DAAfpc) | 7:40 | 2023-08-03 | 2023-10-26 |
-| [Lose My Mind \- Edit](https://open.spotify.com/track/6bEMfZ4kYoz7HjM2odlpBz) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Lose My Mind](https://open.spotify.com/album/05KjDvoOT0zlL9ws0i0Pk8) | 3:11 | 2023-06-15 |  |
+| [Lose My Mind \- Edit](https://open.spotify.com/track/0MYV28nHnMfS0iJjNBdXgH) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Lose My Mind](https://open.spotify.com/album/0ONsryH9XqbvLaMoFWvf9Q) | 3:11 | 2023-11-02 |  |
+| [Lose My Mind \- Edit](https://open.spotify.com/track/6bEMfZ4kYoz7HjM2odlpBz) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Lose My Mind](https://open.spotify.com/album/05KjDvoOT0zlL9ws0i0Pk8) | 3:11 | 2023-06-15 | 2023-11-06 |
 | [Lost Boys \- Storm Mollison Remix](https://open.spotify.com/track/1USd8bhBlIxYeazHSG1GKA) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [Lost Boys \(Storm Mollison Remix\)](https://open.spotify.com/album/72M8Hvu9WkP0V3wQr35iJA) | 4:04 | 2023-05-18 |  |
 | [Love You Good](https://open.spotify.com/track/58WmdSCHCnmlcR89SEoJ3K) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:53 | 2022-09-08 | 2022-10-26 |
 | [Mad In The Fete \(feat\. Bala Bala Boyz\)](https://open.spotify.com/track/5Ax15OS8YLh8o7m20C90LX) | [Mak 10](https://open.spotify.com/artist/7b99UWPONneDHPNUmOppM9), [Bala Bala Boyz](https://open.spotify.com/artist/6VEV31FFx8Fh0cO37Twj11) | [Mad In The Fete \(feat\. Bala Bala Boyz\)](https://open.spotify.com/album/2rMfnYger1SSWEzZwayOpr) | 3:56 | 2023-01-18 | 2023-02-18 |

@@ -808,10 +808,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 384906,
       "name": "Dream Baby Dream",
       "url": "https://open.spotify.com/track/3MmogIpfk1GVXRMmRjKLGI"
+    },
+    {
+      "album": {
+        "name": "Dream Baby Dream",
+        "url": "https://open.spotify.com/album/6rCuDYEPPSW5xgIdjZUBhE"
+      },
+      "artists": [
+        {
+          "name": "Suicide",
+          "url": "https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384413,
+      "name": "Dream Baby Dream (Long Version)",
+      "url": "https://open.spotify.com/track/1QCLEwWkjR8UV70FmyoD7d"
     },
     {
       "album": {
@@ -1882,10 +1900,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 162346,
       "name": "New Rose",
       "url": "https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y"
+    },
+    {
+      "album": {
+        "name": "Damned Damned Damned",
+        "url": "https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2"
+      },
+      "artists": [
+        {
+          "name": "The Damned",
+          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164013,
+      "name": "New Rose",
+      "url": "https://open.spotify.com/track/2RqX92TwDYaChAyfX9tKMH"
     },
     {
       "album": {
@@ -2062,10 +2098,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 246440,
       "name": "Roadrunner",
       "url": "https://open.spotify.com/track/5E5HYgxGMp3BPakHGfKfIB"
+    },
+    {
+      "album": {
+        "name": "The Modern Lovers (Expanded Version)",
+        "url": "https://open.spotify.com/album/7ro1W6lc4tuTaRyA8rnVm1"
+      },
+      "artists": [
+        {
+          "name": "The Modern Lovers",
+          "url": "https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295013,
+      "name": "Roadrunner (Alternative Version)",
+      "url": "https://open.spotify.com/track/0qRSrdDK4xj1doRViNPYwM"
     },
     {
       "album": {
@@ -2170,10 +2224,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 186626,
       "name": "Sex & Drugs & Rock & Roll",
       "url": "https://open.spotify.com/track/0DPdnWavHdhB5hJ6O0qS6d"
+    },
+    {
+      "album": {
+        "name": "New Boots and Panties!!",
+        "url": "https://open.spotify.com/album/4GqPVPXNmpFMpoRnafIfLR"
+      },
+      "artists": [
+        {
+          "name": "Ian Dury",
+          "url": "https://open.spotify.com/artist/5PFSmueeFLrjYXqn3agenn"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186626,
+      "name": "Sex & Drugs & Rock & Roll",
+      "url": "https://open.spotify.com/track/2figdwcjVBClFAmi7pD60o"
     },
     {
       "album": {
@@ -2412,6 +2484,24 @@
     {
       "album": {
         "name": "The Undertones",
+        "url": "https://open.spotify.com/album/6lpgN6d9rlnFpZBzyQlDrE"
+      },
+      "artists": [
+        {
+          "name": "The Undertones",
+          "url": "https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148480,
+      "name": "Teenage Kicks",
+      "url": "https://open.spotify.com/track/6UP5zTAuR4NFc1uZ3MHjvA"
+    },
+    {
+      "album": {
+        "name": "The Undertones",
         "url": "https://open.spotify.com/album/2CGEIN4OnLWDewCT7C4JLh"
       },
       "artists": [
@@ -2440,7 +2530,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 148560,
       "name": "Teenage Kicks",
       "url": "https://open.spotify.com/track/7eQAIggvlFRVHMiMVw3OaS"

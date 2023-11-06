@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Sadturs, KIID
 
-794 songs - 1 day 10 hr 37 min
+795 songs - 1 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,7 +416,8 @@
 | [Ma Bella](https://open.spotify.com/track/5eeMVrbremAMXoU0NuiXgz) | [Lele](https://open.spotify.com/artist/5Ef0bhKWbzbSgfKlCguEoQ) | [Ma Bella](https://open.spotify.com/album/3flMPRFAjylmTcNq9sfcMT) | 2:28 | 2023-07-26 | 2023-10-27 |
 | [Ma Belle](https://open.spotify.com/track/2d8Kj0NmBismd5bm9AH0Ob) | [Manu Skar](https://open.spotify.com/artist/592TSNOHonUcOHcEorAGgV) | [Ma Belle](https://open.spotify.com/album/07Cnw6OSvw7eA2iECCRRSD) | 2:26 | 2023-01-12 | 2023-01-20 |
 | [Ma che Hit](https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Ma che Hit](https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA) | 2:18 | 2023-02-23 | 2023-03-18 |
-| [Madame](https://open.spotify.com/track/1YuwtGNJID9U7nfvhTovql) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/44QCkU2JXCsvOfwRHCXCxZ) | 2:13 | 2023-10-16 |  |
+| [Madame](https://open.spotify.com/track/0JPyVgLem5a4HcXEADJXg5) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/5di5PgxR4cs1PveHPkgKtr) | 2:13 | 2023-11-02 |  |
+| [Madame](https://open.spotify.com/track/1YuwtGNJID9U7nfvhTovql) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/44QCkU2JXCsvOfwRHCXCxZ) | 2:13 | 2023-10-16 | 2023-11-06 |
 | [MADE IN U.E.](https://open.spotify.com/track/1DQ6CRbAAAJAe0l0G9LkBK) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [MADE IN U.E.](https://open.spotify.com/album/75qg7zzpqzcLaE3KBgRilX) | 2:22 | 2022-11-17 | 2023-01-13 |
 | [Mademoiselle \(Oh la la la\)](https://open.spotify.com/track/5HOr82mREsf5YRLlYy8bXr) | [WadeLeVrai](https://open.spotify.com/artist/2sSF1FKT1eBuSwHZbzMycW) | [Mademoiselle \(Oh la la la\)](https://open.spotify.com/album/0IboeWqpQI5MjZV5V8qQRi) | 3:01 | 2023-06-15 | 2023-06-23 |
 | [Madre mia](https://open.spotify.com/track/4dKVc3Oa3JyXrplJ3ewXZI) | [Blocage](https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Madre mia](https://open.spotify.com/album/7rCKIoBiJCTFZg13UMsJa4) | 3:10 | 2023-10-19 |  |

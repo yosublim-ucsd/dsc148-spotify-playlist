@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-116 songs - 12 hr 8 min
+118 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Canario](https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6) | 4:09 | 2022-10-14 |  |
 | [Canario](https://open.spotify.com/track/12KVTzqgU558xqkpsywKex) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW) | 4:09 | 2022-10-14 | 2023-04-30 |
 | [Cavresamin \- Foxall Remix](https://open.spotify.com/track/7lvZ4DujXfjVYEWhZBKOrm) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3), [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Zentaur](https://open.spotify.com/album/3Ids63v27ACVvHShzYWXIB) | 6:55 | 2022-10-14 |  |
-| [Choo Choo](https://open.spotify.com/track/5QvEgDwNSyPgEkpLNDlnj2) | [Upercent](https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq) | [Inconformisme EP](https://open.spotify.com/album/2g3Xn9WFQDO161ap711YFy) | 7:15 | 2022-10-14 |  |
+| [Choo Choo](https://open.spotify.com/track/0mkyybNKehmvQ5RndDyF4a) | [Upercent](https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq) | [Inconformisme EP](https://open.spotify.com/album/4cSyCxdEDg9bBZulPOJd7t) | 7:15 | 2022-10-14 |  |
+| [Choo Choo](https://open.spotify.com/track/5QvEgDwNSyPgEkpLNDlnj2) | [Upercent](https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq) | [Inconformisme EP](https://open.spotify.com/album/2g3Xn9WFQDO161ap711YFy) | 7:15 | 2022-10-14 | 2023-11-06 |
 | [Cielo Azul](https://open.spotify.com/track/4CjDf8BfmMq9LbvYLc8vLK) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74), [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH) | [Casual International EP](https://open.spotify.com/album/0s6EPctHVX8W3q4cLukP9I) | 6:59 | 2022-07-23 | 2022-10-15 |
 | [Corriente](https://open.spotify.com/track/3Zd2ftk9ymlqsRXq6Ymb9R) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Kermesse](https://open.spotify.com/album/2hPiyh9HOXEEr93AoO9kub) | 6:01 | 2022-07-23 | 2022-10-15 |
 | [Cosmosamba](https://open.spotify.com/track/19VtJkoau2GFsmMFeP4faP) | [Projeto Mujique](https://open.spotify.com/artist/7ygEGVpG4Y6WtOMV5iTzlN), [Thomash](https://open.spotify.com/artist/2NVvuhg7tKjsMeFfv8JQiQ) | [Cosmosamba](https://open.spotify.com/album/2IkOJqiLz0FEsVqoCi0ItM) | 7:56 | 2022-07-23 |  |
@@ -119,7 +120,8 @@
 | [Unglitched \- BéTé Remix](https://open.spotify.com/track/1WLTAxanQcgPQmJNSJN15X) | [Дeva](https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ), [BéTé](https://open.spotify.com/artist/7HMCyoB6sHalUrXDRoiQB4) | [Unglitched](https://open.spotify.com/album/2TazrwgMouDruGAyYhvUp6) | 6:36 | 2022-10-14 |  |
 | [Urmel](https://open.spotify.com/track/5SvozsO8hjZXaM4GZPZl4Q) | [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Bi Ba Bü](https://open.spotify.com/album/45qxQ2ACnkIlrWy9UY1HqN) | 7:49 | 2022-07-23 |  |
 | [Wave](https://open.spotify.com/track/2oXcyOjlXeYGxuYd94Xx6V) | [ulises](https://open.spotify.com/artist/0YQKl0V9vgk6HeFttX1aTv), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7) | [Ritual Incognito](https://open.spotify.com/album/3GtAg5zcPLMx2eaGAQMSms) | 3:57 | 2022-07-23 |  |
-| [Yet Another Day Thinking About You](https://open.spotify.com/track/3tkSTbgygIKhand5G6JzsS) | [YokoO](https://open.spotify.com/artist/45fzhLbHZdBIgOGQT6M5zr), [Mauve \(AUS\)](https://open.spotify.com/artist/7rvE5oeBS2tH0JG9W8EfcJ), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7) | [Nothing Can Compare](https://open.spotify.com/album/2onkqde1tTtuKW7bFWjt2z) | 5:49 | 2022-10-14 |  |
+| [Yet Another Day Thinking About You](https://open.spotify.com/track/3tkSTbgygIKhand5G6JzsS) | [YokoO](https://open.spotify.com/artist/45fzhLbHZdBIgOGQT6M5zr), [Mauve \(AUS\)](https://open.spotify.com/artist/7rvE5oeBS2tH0JG9W8EfcJ), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7) | [Nothing Can Compare](https://open.spotify.com/album/2onkqde1tTtuKW7bFWjt2z) | 5:49 | 2022-10-14 | 2023-11-06 |
+| [Yet Another Day Thinking About You](https://open.spotify.com/track/5S1kDC5lrjqBXGrz2FIpxv) | [YokoO](https://open.spotify.com/artist/45fzhLbHZdBIgOGQT6M5zr), [Mauve \(AUS\) and JoKe](https://open.spotify.com/artist/3i2YM0EdOLv1bfuCOLCyFR) | [Nothing Can Compare](https://open.spotify.com/album/6yb6uyIe8lwg66w1caKhJt) | 5:49 | 2022-10-14 |  |
 | [You Got Me \(Dubois Edit\)](https://open.spotify.com/track/3Hn9MvxaSr4c7kefBSmHa6) | [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [You Got Me \(Dubois Edit\)](https://open.spotify.com/album/1lSYFAV3NOWJ70Q7c8kuZJ) | 5:22 | 2022-07-23 | 2022-10-15 |
 | [Zebra](https://open.spotify.com/track/0Xeihvze3TQMpho3IW1Tu3) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Kaybola \(Deluxe Version\)](https://open.spotify.com/album/1zqTrfdQyPehpQFeowfgIm) | 6:46 | 2022-07-23 |  |
 | [Zebra](https://open.spotify.com/track/1FDxabar5dSw3d46h40BKK) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Zebra](https://open.spotify.com/album/1YkZ71Fh2rVhCBNUVjxOra) | 6:46 | 2022-10-14 | 2022-11-13 |

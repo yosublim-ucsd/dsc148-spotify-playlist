@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Something Corporate",
-  "num_followers": 1624303,
+  "num_followers": 1624709,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjUzYjhmNGVmMmZhOWI1N2EzYjlkZDA2NWVkOGU4ZTYzZjA0Y2Yy",
+  "snapshot_id": "MCxjYTMzM2E1YzE4OTI3MWY5MDAyZjY2ZWUxOGZkYzMyODNjYzhlMTFm",
   "tracks": [
     {
       "added_at": "2023-10-22 18:43:11",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "All That I've Got",
-      "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Say It Like You Mean It",
         "url": "https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 258266,
       "name": "The Best Of Me",
       "url": "https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "All That I've Got",
+      "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Is a Real Boy",
-        "url": "https://open.spotify.com/album/67GbWmsrvtIdOOUYRo7do7"
-      },
-      "artists": [
-        {
-          "name": "Say Anything",
-          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
-        }
-      ],
-      "duration_ms": 255175,
-      "name": "Alive With the Glory of Love",
-      "url": "https://open.spotify.com/track/6YEs8KWsFKQmULF5CUOz4n"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "A Lesson In Romantics",
         "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 209453,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/6gxupt6imt0qIdbE8e356n"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Is a Real Boy",
+        "url": "https://open.spotify.com/album/67GbWmsrvtIdOOUYRo7do7"
+      },
+      "artists": [
+        {
+          "name": "Say Anything",
+          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
+        }
+      ],
+      "duration_ms": 255175,
+      "name": "Alive With the Glory of Love",
+      "url": "https://open.spotify.com/track/6YEs8KWsFKQmULF5CUOz4n"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "The Things We Think We're Missing",
-        "url": "https://open.spotify.com/album/3ZCQXNkbMzAH7WDIQ8EN3O"
-      },
-      "artists": [
-        {
-          "name": "Balance And Composure",
-          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
-        }
-      ],
-      "duration_ms": 213746,
-      "name": "Tiny Raindrop",
-      "url": "https://open.spotify.com/track/4EvzBvvreh74hcVAsUvfjD"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "The Albatross",
         "url": "https://open.spotify.com/album/7AiC8x8GIRbQK2ZROLox5f"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 202840,
       "name": "The Medic",
       "url": "https://open.spotify.com/track/5KzuAU7zxcP0bq0CPdRRyr"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "The Things We Think We're Missing",
+        "url": "https://open.spotify.com/album/3ZCQXNkbMzAH7WDIQ8EN3O"
+      },
+      "artists": [
+        {
+          "name": "Balance And Composure",
+          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
+        }
+      ],
+      "duration_ms": 213746,
+      "name": "Tiny Raindrop",
+      "url": "https://open.spotify.com/track/4EvzBvvreh74hcVAsUvfjD"
     },
     {
       "added_at": "2023-10-22 18:43:11",

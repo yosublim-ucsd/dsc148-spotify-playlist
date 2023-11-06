@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1285674,
+  "num_followers": 1286040,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzA4NmJiZDg1MDhlMzliOWQ5ZmVhNTc0NWNlOGFiYWY0MTI2ZGNi",
+  "snapshot_id": "MCw1NmE2MGEzMDUxZjkzMjZmMGM5ZTE5ZTYyN2EzNjc4MTY3ZDQ0Y2Nm",
   "tracks": [
     {
       "added_at": "2023-06-16 17:56:50",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Amor De 3",
-        "url": "https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF"
-      },
-      "artists": [
-        {
-          "name": "Aroma",
-          "url": "https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX"
-        }
-      ],
-      "duration_ms": 188440,
-      "name": "Amor De Tres",
-      "url": "https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Guarachando",
         "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 244413,
       "name": "Coraz\u00f3n Solitario",
       "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Amor De 3",
+        "url": "https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF"
+      },
+      "artists": [
+        {
+          "name": "Aroma",
+          "url": "https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX"
+        }
+      ],
+      "duration_ms": 188440,
+      "name": "Amor De Tres",
+      "url": "https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 247453,
-      "name": "Negrita",
-      "url": "https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 352480,
       "name": "El Reo Ausente",
       "url": "https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "duration_ms": 247453,
+      "name": "Negrita",
+      "url": "https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Del Barrio Para El Barrio (Vol. 1)",
-        "url": "https://open.spotify.com/album/5An162eTQFVEdwwUnSmdFy"
-      },
-      "artists": [
-        {
-          "name": "Bohio",
-          "url": "https://open.spotify.com/artist/3jqJRfRSqVyayyOCOuGwwt"
-        }
-      ],
-      "duration_ms": 199653,
-      "name": "Enbrujo De Cumbia",
-      "url": "https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Cumbias y Bachatas Vol.2",
         "url": "https://open.spotify.com/album/2VKXFDOa49Xj9Bby34QqxJ"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 253236,
       "name": "El Fantasma del Amor",
       "url": "https://open.spotify.com/track/7sQTaMi77raGv1nTPhLRcZ"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Del Barrio Para El Barrio (Vol. 1)",
+        "url": "https://open.spotify.com/album/5An162eTQFVEdwwUnSmdFy"
+      },
+      "artists": [
+        {
+          "name": "Bohio",
+          "url": "https://open.spotify.com/artist/3jqJRfRSqVyayyOCOuGwwt"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "Enbrujo De Cumbia",
+      "url": "https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Triste y Vac\u00eda",
-        "url": "https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV"
-      },
-      "artists": [
-        {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "El Viejo Panz\u00f3n",
-      "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
         "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 211440,
       "name": "\u00a1Ay! El Amor",
       "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Triste y Vac\u00eda",
+        "url": "https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV"
+      },
+      "artists": [
+        {
+          "name": "Grupo G",
+          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "El Viejo Panz\u00f3n",
+      "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "El Ritmo Mamalon",
-        "url": "https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 193375,
-      "name": "El Ritmo Mamalon",
-      "url": "https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Los Exitos de Tiberio y Sus Gatos Negros",
         "url": "https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 224573,
       "name": "Lagrimas de Escarcha",
       "url": "https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "El Ritmo Mamalon",
+        "url": "https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 193375,
+      "name": "El Ritmo Mamalon",
+      "url": "https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
-      },
-      "artists": [
-        {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Mi Corazon Es un Vagabundo",
-      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Por Encima de Todos",
         "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 166256,
       "name": "La Pobreza - Rebajada",
       "url": "https://open.spotify.com/track/57ix5CIFlMvpCbyfaUDWkt"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
+      },
+      "artists": [
+        {
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "Mi Corazon Es un Vagabundo",
+      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "\u00c9xitos de la Sonora Matancera: Pa' la Paloma",
-        "url": "https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ"
-      },
-      "artists": [
-        {
-          "name": "Alquimia La Sonora Del XXI",
-          "url": "https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS"
-        }
-      ],
-      "duration_ms": 366503,
-      "name": "Pa' La Paloma",
-      "url": "https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "El Campeon",
         "url": "https://open.spotify.com/album/0CtZ6ma3A8N1bcpzjpXT3U"
       },
@@ -1939,6 +1923,22 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
+        "name": "\u00c9xitos de la Sonora Matancera: Pa' la Paloma",
+        "url": "https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ"
+      },
+      "artists": [
+        {
+          "name": "Alquimia La Sonora Del XXI",
+          "url": "https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS"
+        }
+      ],
+      "duration_ms": 366503,
+      "name": "Pa' La Paloma",
+      "url": "https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
         "name": "Las Clasicas Con Los Yes Yes",
         "url": "https://open.spotify.com/album/0n8IqXoFifn6WsBu9OGLiv"
       },
@@ -1951,22 +1951,6 @@
       "duration_ms": 186840,
       "name": "Un Poblano En Nueva York",
       "url": "https://open.spotify.com/track/0atpapzPqDHfYRWeOlgDQf"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
-      },
-      "artists": [
-        {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
-        }
-      ],
-      "duration_ms": 247946,
-      "name": "Pobre Corazon",
-      "url": "https://open.spotify.com/track/6VPPUqxI3ZLN24e645MwNo"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -2031,6 +2015,22 @@
       "duration_ms": 228573,
       "name": "El Piropo",
       "url": "https://open.spotify.com/track/0AicPuyh78tIpIkOb2egJD"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
+      },
+      "artists": [
+        {
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
+        }
+      ],
+      "duration_ms": 247946,
+      "name": "Pobre Corazon",
+      "url": "https://open.spotify.com/track/6VPPUqxI3ZLN24e645MwNo"
     },
     {
       "added_at": "2023-06-16 17:56:50",

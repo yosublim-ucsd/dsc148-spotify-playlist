@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Spiritual Cramp
 
-1,952 songs - 4 day 6 hr 54 min
+1,953 songs - 4 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -836,7 +836,8 @@
 | [i should call my friends](https://open.spotify.com/track/7u0JipKqt3pIxbvgjOqd4R) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [i should call my friends](https://open.spotify.com/album/7qYCSuZ6kdIid6QrhuLAYe) | 2:39 | 2023-10-13 |  |
 | [I Think I](https://open.spotify.com/track/3ubTScTReBYihSnVuRD81D) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [I Think I](https://open.spotify.com/album/2aWox1fQIfpJyzpIN5SsG3) | 3:22 | 2023-03-31 | 2023-05-13 |
 | [I Think I'm in Love](https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [I Think I'm in Love](https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus) | 2:59 | 2023-02-10 | 2023-03-11 |
-| [I Thought You'd Change](https://open.spotify.com/track/4Uy1cKq8UPWkwLRZBmSryG) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/7uCaVO8YwOnWXGk7ptVHNR) | 2:51 | 2023-09-15 |  |
+| [I Thought You'd Change](https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 2:51 | 2023-11-03 |  |
+| [I Thought You'd Change](https://open.spotify.com/track/4Uy1cKq8UPWkwLRZBmSryG) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/7uCaVO8YwOnWXGk7ptVHNR) | 2:51 | 2023-09-15 | 2023-11-06 |
 | [I Thought You'd Change](https://open.spotify.com/track/6Vhl3hCPVx4cvJtCpCKC2H) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/0CW3T1GY5UwR6ZwWlWzHeZ) | 2:51 | 2023-09-08 | 2023-09-20 |
 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 | 2023-07-28 | 2023-09-09 |
 | [I Want It All](https://open.spotify.com/track/58HNyZisRT0WSPnfpXgoFQ) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [I Want It All](https://open.spotify.com/album/6P3k32E1WG3eJElUS17Dfo) | 4:55 | 2023-04-07 | 2023-05-06 |

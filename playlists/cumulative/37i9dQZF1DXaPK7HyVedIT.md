@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: RUBACK
 
-170 songs - 9 hr 13 min
+171 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Morena Maluca](https://open.spotify.com/track/7L9EGIKlxVp1gS4kM0qepO) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU), [MC ADR SC](https://open.spotify.com/artist/3fYUbnSCJMiWDjU1DDZjBO) | [Morena Maluca](https://open.spotify.com/album/5PEfRrZ9GE90E7nM30xY8U) | 4:27 | 2023-07-21 | 2023-08-05 |
 | [Move](https://open.spotify.com/track/4sGA1y5QV3f49Fx58iP8s0) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Move](https://open.spotify.com/album/1D4zpF6pyutYkHlikXauUT) | 3:20 | 2023-10-13 |  |
 | [Music Frees The Mind 2.0](https://open.spotify.com/track/6m7eS2BHMmis8Ho9y0Gi60) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX) | [Music Frees The Mind 2.0](https://open.spotify.com/album/29TKxrW2jziLybOe4Ohsg6) | 3:07 | 2023-07-21 |  |
-| [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2023-10-27 |  |
+| [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2023-10-27 |  |
 | [My Neck, My Back](https://open.spotify.com/track/37zAxyf8mkOLjNBIMFZQUd) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Reezer](https://open.spotify.com/artist/0A0qH0k5vzwUrAAjcxZsN0) | [My Neck, My Back](https://open.spotify.com/album/5GW2S5DnOKOVUkgvhK2aHr) | 3:06 | 2023-07-21 | 2023-09-16 |
 | [Never Go Home](https://open.spotify.com/track/3eN21IMAIuX6IXEnJQzFBR) | [FTampa](https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO) | [Never Go Home](https://open.spotify.com/album/2vHFq15Oaj0yBhghE99hzt) | 2:22 | 2023-07-21 | 2023-09-23 |
 | [Night Is Closing](https://open.spotify.com/track/6dQaJrwoir4GS9RaqEHYsz) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Night Is Closing](https://open.spotify.com/album/3lDpGeWM1LS4mCF2qX8Hcw) | 4:07 | 2023-09-15 |  |
@@ -145,6 +145,7 @@
 | [Signs](https://open.spotify.com/track/0b8lpoNBGyKuSqaQLEvkOM) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Signs](https://open.spotify.com/album/5FqlL2SJpXKsycOUOojUcx) | 3:00 | 2023-09-08 |  |
 | [Sirene](https://open.spotify.com/track/3LakWxXfyJkveLGXV0n4yT) | [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB), [RUSHÖ](https://open.spotify.com/artist/55Ucoc9siWcgzIZLoe8m1N) | [Sirene](https://open.spotify.com/album/0h4aiXFDpKfbU7UBrs8OoW) | 4:07 | 2023-07-21 |  |
 | [Speak Up \- Slow Motion, Duarte Remix](https://open.spotify.com/track/2zgaqDf1CttaQa7BRPgJpI) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [JPL](https://open.spotify.com/artist/7u5SiDcWwtLRKN1RBcwW0G), [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I), [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk) | [Speak Up \(Slow Motion, Duarte Remix\)](https://open.spotify.com/album/5mS4lf4iTrTdwxiCIgdI3Q) | 4:18 | 2023-10-27 |  |
+| [Spinnin' Circles](https://open.spotify.com/track/4AtbLOzVyOaFbzEzkQz15Q) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Spinnin' Circles](https://open.spotify.com/album/7JMeqjNj2dDmm9hoDtgpio) | 3:46 | 2023-11-03 |  |
 | [Spirit](https://open.spotify.com/track/0oN2LfOJQfHiG2SkSJSW6o) | [Mary Mesk](https://open.spotify.com/artist/7Fc6qlNa6F4ONSLfJjlfjJ) | [Spirit](https://open.spotify.com/album/3Hj0YMITtJKGtG6ZwXEE4K) | 3:45 | 2023-07-21 |  |
 | [Stand In Line](https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Stand In Line](https://open.spotify.com/album/6oOQUuzEJhcCzE8WYxVM13) | 3:05 | 2023-09-22 |  |
 | [Stay](https://open.spotify.com/track/0KYgrhOR22AirR2Z13KtCg) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT), [The Otherz](https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY) | [Stay](https://open.spotify.com/album/0eYKrcg6wgIlRwTurG3pvr) | 3:44 | 2023-09-15 |  |

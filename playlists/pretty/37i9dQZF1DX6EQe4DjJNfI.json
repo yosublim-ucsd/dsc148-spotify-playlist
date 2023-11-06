@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Chris MC",
-  "num_followers": 164485,
+  "num_followers": 164504,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGNiMmVjOTYwMWNhNGY2Yzc2MjdmODVjMjY2N2IxNmZhZDg0Mjcx",
+  "snapshot_id": "MCw0MDI0Mzk5YTkxOTcyYzM5YWQ1ZDhlNTUyMjc3NTUzNzQ0NzQ2MTFk",
   "tracks": [
     {
       "added_at": "2023-11-03 03:01:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
-        "name": "Pacotinho (M\u00fasica Pra Ch\u00e1 Revela\u00e7\u00e3o)",
-        "url": "https://open.spotify.com/album/7ae0cv8LouEl4n51QDhQz9"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 162634,
-      "name": "Pacotinho (Menino)",
-      "url": "https://open.spotify.com/track/66yTfEFEiKLFRs3V0RermR"
-    },
-    {
-      "added_at": "2023-11-03 03:01:00",
-      "album": {
         "name": "Ceder",
         "url": "https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 197617,
       "name": "Ceder",
       "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
+    },
+    {
+      "added_at": "2023-11-03 03:01:00",
+      "album": {
+        "name": "Pacotinho (M\u00fasica Pra Ch\u00e1 Revela\u00e7\u00e3o)",
+        "url": "https://open.spotify.com/album/7ae0cv8LouEl4n51QDhQz9"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 162634,
+      "name": "Pacotinho (Menino)",
+      "url": "https://open.spotify.com/track/66yTfEFEiKLFRs3V0RermR"
     },
     {
       "added_at": "2023-11-03 03:01:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
-        "name": "Pra Mim N\u00e3o D\u00e1",
-        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
-      },
-      "artists": [
-        {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Pra Mim N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
-    },
-    {
-      "added_at": "2023-11-03 03:01:00",
-      "album": {
         "name": "N\u00e3o Vou Negar",
         "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 163937,
       "name": "N\u00e3o Vou Negar",
       "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
+    },
+    {
+      "added_at": "2023-11-03 03:01:00",
+      "album": {
+        "name": "Pra Mim N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
+      },
+      "artists": [
+        {
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Pra Mim N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
     },
     {
       "added_at": "2023-11-03 03:01:00",
@@ -935,6 +935,26 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
+        "name": "Eterno Esquema",
+        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Nath Audizio",
+          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Eterno Esquema",
+      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
+    },
+    {
+      "added_at": "2023-11-03 03:01:00",
+      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43"
       },
@@ -967,30 +987,6 @@
       "duration_ms": 218890,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
-    },
-    {
-      "added_at": "2023-11-03 03:01:00",
-      "album": {
-        "name": "Mais Um Pouco",
-        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
-      },
-      "artists": [
-        {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
-        },
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "Mais Um Pouco",
-      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
     },
     {
       "added_at": "2023-11-03 03:01:00",
@@ -1035,22 +1031,26 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
-        "name": "Eterno Esquema",
-        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
+        "name": "Mais Um Pouco",
+        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
       },
       "artists": [
         {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
         },
         {
-          "name": "Nath Audizio",
-          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
         }
       ],
-      "duration_ms": 133564,
-      "name": "Eterno Esquema",
-      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
+      "duration_ms": 185263,
+      "name": "Mais Um Pouco",
+      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
     },
     {
       "added_at": "2023-11-03 03:01:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
-      },
-      "artists": [
-        {
-          "name": "MOTICO MONEY",
-          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
-    },
-    {
-      "added_at": "2023-11-03 03:01:00",
-      "album": {
         "name": "LAMPEJOS",
         "url": "https://open.spotify.com/album/4V334gyHrpj7r27utKzxGb"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 150848,
       "name": "LAMPEJOS",
       "url": "https://open.spotify.com/track/5ZNdTL3f4T3gbMuXCmTfT7"
+    },
+    {
+      "added_at": "2023-11-03 03:01:00",
+      "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "MOTICO MONEY",
+          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2023-11-03 03:01:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
-        "name": "Distante",
-        "url": "https://open.spotify.com/album/4P057UfmWhYcJJzdAvqTp8"
-      },
-      "artists": [
-        {
-          "name": "Milly",
-          "url": "https://open.spotify.com/artist/6TvlW0KQY1sJ8LnJdqE9T8"
-        },
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        }
-      ],
-      "duration_ms": 129427,
-      "name": "Distante",
-      "url": "https://open.spotify.com/track/3r0zI5rvz8v2XHI40UG2LV"
-    },
-    {
-      "added_at": "2023-11-03 03:01:00",
-      "album": {
         "name": "Universo Suspenso",
         "url": "https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 222368,
       "name": "Muito Sou(L)",
       "url": "https://open.spotify.com/track/13JrvtgrEvyk5hCXhdHO26"
+    },
+    {
+      "added_at": "2023-11-03 03:01:00",
+      "album": {
+        "name": "Distante",
+        "url": "https://open.spotify.com/album/4P057UfmWhYcJJzdAvqTp8"
+      },
+      "artists": [
+        {
+          "name": "Milly",
+          "url": "https://open.spotify.com/artist/6TvlW0KQY1sJ8LnJdqE9T8"
+        },
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "duration_ms": 129427,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/3r0zI5rvz8v2XHI40UG2LV"
     },
     {
       "added_at": "2023-11-03 03:01:00",

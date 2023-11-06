@@ -4,7 +4,7 @@
 
 > Music from Attack on Titan!「進撃の巨人」公式プレイリスト！ ©諫山創・講談社／「進撃の巨人」The Final Season製作委員会
 
-118 songs - 8 hr 46 min
+122 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Great Escape \- 2019 New Mix](https://open.spotify.com/track/6oFwHRmiMEgxVpZ7oqO2Vd) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [Name of Love](https://open.spotify.com/album/1ISP5p4p9DKnw7LUIpoSjA) | 3:21 | 2022-06-21 |  |
 | [Guren no Yumiya](https://open.spotify.com/track/70p3HYq9iHZisJqpDmWd1U) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:10 | 2022-06-21 |  |
 | [Guren no Zahyou](https://open.spotify.com/track/5CEBVy6ywqHcEOuFThtjEJ) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:06 | 2022-06-21 |  |
+| [Itterasshai](https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Itterasshai](https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd) | 3:55 | 2023-11-05 |  |
 | [Jiyuu no Daishou](https://open.spotify.com/track/0Cd4mvL1nALj6QCCk2wpHf) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:49 | 2022-06-21 |  |
 | [Jiyuu No Tsubasa](https://open.spotify.com/track/33DuynuL0wVmNjsQSG7npc) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Jiyuu Eno Shingeki](https://open.spotify.com/album/3SbektNvHcTUH5uP2fpiUP) | 5:28 | 2022-06-21 | 2022-11-13 |
 | [Jiyuu no Tsubasa](https://open.spotify.com/track/188vCXc4bAejLqGhpEVBGT) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:31 | 2022-06-21 |  |
@@ -63,6 +64,7 @@
 | [Memory Lane](https://open.spotify.com/track/4ZM7Agi0Mr9VhDsMAZjMqn) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 3:03 | 2022-02-08 | 2022-06-22 |
 | [Name of Love](https://open.spotify.com/track/1y9QiBBJynizfLbYjHM2Sg) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [Name of Love](https://open.spotify.com/album/1ISP5p4p9DKnw7LUIpoSjA) | 4:26 | 2022-06-21 |  |
 | [Name of Love](https://open.spotify.com/track/2Aap3ECF5hQoPFxMDsff9j) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [Name of Love](https://open.spotify.com/album/7avJidU4eLD0fFH9MZOS98) | 4:26 | 2022-02-08 | 2022-07-29 |
+| [Nisennen..\. Moshiku wa..\. Nimannen Go no Kimi e](https://open.spotify.com/track/4KYO2hnz2vWH0JHJuWypAf) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Nisennen..\. Moshiku wa..\. Nimannen Go no Kimi e](https://open.spotify.com/album/1jx7pZycE5duql9z0qJNDv) | 4:44 | 2023-11-05 |  |
 | [Red Swan](https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX) | [Yoshiki](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [Red Swan](https://open.spotify.com/album/6I13Z2eInmybf3WZl4wduL) | 4:23 | 2022-02-08 |  |
 | [Rittaikidou](https://open.spotify.com/track/7u32XGioKOcqZYrEZphaF5) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 5:42 | 2022-06-21 |  |
 | [Shinzo wo Sasageyo!](https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:41 | 2022-06-21 |  |
@@ -110,8 +112,9 @@
 | [Zero Eclipse](https://open.spotify.com/track/3MRtp8nHiflu8rrmLYB07X) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「進撃の巨人」Season3 オリジナルサウンドトラック](https://open.spotify.com/album/68QDg9053hXAeE2GR6lBmD) | 4:13 | 2022-02-08 | 2022-07-29 |
 | [ətˈæk 0N tάɪtn](https://open.spotify.com/track/6xRyarDnqu0VIpfFeyRy3x) | [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz), [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 4:16 | 2022-02-08 | 2022-07-29 |
 | [ətˈæk 0N tάɪtn<TFSv>](https://open.spotify.com/track/7cJyOWBZ2Moscj0LlNQexC) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 02](https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx) | 4:57 | 2022-06-21 | 2022-07-29 |
-| [いってらっしゃい](https://open.spotify.com/track/4DF77S38RM9jX4ojH5qgl0) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [いってらっしゃい](https://open.spotify.com/album/7M3ulwJM8aT734IcjPIQkC) | 3:55 | 2023-11-04 |  |
-| [エレン・イェーガーからのスペシャルメッセージ!](https://open.spotify.com/track/4iCqnOP7H0CW1uJHMFoKzb) | [TVアニメ「進撃の巨人」](https://open.spotify.com/artist/1fAOhUHFKEY4ublVIH8saI) | [「進撃の巨人」エレン・イェーガーからのスペシャルメッセージ!](https://open.spotify.com/album/3c9hxI2scBzDg0HcIgzCDK) | 0:40 | 2023-02-24 |  |
+| [いってらっしゃい](https://open.spotify.com/track/4DF77S38RM9jX4ojH5qgl0) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [いってらっしゃい](https://open.spotify.com/album/7M3ulwJM8aT734IcjPIQkC) | 3:55 | 2023-11-04 | 2023-11-06 |
+| [エレン・イェーガーからのスペシャルメッセージ!](https://open.spotify.com/track/4iCqnOP7H0CW1uJHMFoKzb) | [TVアニメ「進撃の巨人」](https://open.spotify.com/artist/1fAOhUHFKEY4ublVIH8saI) | [「進撃の巨人」エレン・イェーガーからのスペシャルメッセージ!](https://open.spotify.com/album/3c9hxI2scBzDg0HcIgzCDK) | 0:40 | 2023-02-24 | 2023-11-06 |
+| [ミカサからのスペシャルメッセージ!\(Message from Mikasa Ackerman\)](https://open.spotify.com/track/1lFewZjMWF0ZA1s1cgSYRT) | [『TVアニメ「進撃の巨人」The Final Season』](https://open.spotify.com/artist/75y274vQmhzjOIArJmnrFB) | [TVアニメ「進撃の巨人」The Final Season ミカサコメント](https://open.spotify.com/album/2JsEJwTpsMYuwHFKBCwdfK) | 0:35 | 2023-11-05 |  |
 | [僕の戦争](https://open.spotify.com/track/1UDw29EsOh3Rx1e5fYsbaG) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [僕の戦争](https://open.spotify.com/album/5wi31xge1BG1X8ME1eyhdi) | 4:40 | 2022-02-08 | 2022-07-29 |
 | [夕暮れの鳥](https://open.spotify.com/track/4dZDlAkUb9b4hFkj6TNfK3) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [幼さを入院させて](https://open.spotify.com/album/1BZrhUoHveceCAbxUmMnuE) | 5:03 | 2022-02-08 | 2023-02-10 |
 | [夕暮れの鳥](https://open.spotify.com/track/79xW4zeNFlcp5VKyvWk3cC) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [夕暮れの鳥/光の言葉](https://open.spotify.com/album/0wtAqG9NElftFjg2mHzOFN) | 5:04 | 2023-02-09 |  |
@@ -119,6 +122,7 @@
 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 | 2022-02-08 | 2022-07-29 |
 | [憧憬と屍の道](https://open.spotify.com/track/1rxLfrpsIR0x2wqI6vFNdP) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [真実への進撃](https://open.spotify.com/album/6NSTZmKODxmUhqWGVZpGDL) | 4:36 | 2022-02-08 | 2022-07-29 |
 | [暁の鎮魂歌](https://open.spotify.com/track/6CcVsaoKsG4WvkZWZBvyTn) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [楽園への進撃](https://open.spotify.com/album/1qVDe3gATmfpP94qykf09F) | 4:00 | 2022-02-08 | 2022-07-29 |
+| [最後の巨人](https://open.spotify.com/track/4jCia2ud7CJjNDaNtArZkC) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [最後の巨人](https://open.spotify.com/album/7dFRuFp1pwBCvewDyDiSRK) | 4:00 | 2023-11-05 |  |
 | [立body機motion](https://open.spotify.com/track/6HG7w2A4u577FmztV7oIw5) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 5:42 | 2022-02-08 | 2022-07-29 |
 | [紅蓮の座標](https://open.spotify.com/track/7FiCAJ6ewTg9YWRX92guIc) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [進撃の軌跡](https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt) | 5:06 | 2022-02-08 | 2022-07-29 |
 | [紅蓮の弓矢](https://open.spotify.com/track/0F8psXXh2oxE5BGdkKaoIs) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [自由への進撃](https://open.spotify.com/album/31L6jyQkVDu1xdfXizvAc2) | 5:16 | 2022-02-08 | 2022-07-29 |

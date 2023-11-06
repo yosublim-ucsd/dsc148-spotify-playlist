@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 
 > The sound of 90s Jungle rave\. Cover: Roni Size
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,478 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,567 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,20 +53,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 | 43 | [Metropolis](https://open.spotify.com/track/3SRLSSTHyRY50ufRVA8BzK) | [Adam F](https://open.spotify.com/artist/3m38ZSwkLdeBDUhdGnFPrn) | [15 Years of Metalheadz](https://open.spotify.com/album/1T6Pw94DnmYPnOHIsMAi00) | 6:31 |
 | 44 | [Maximum Booty Style Pt\. II](https://open.spotify.com/track/2PWQyaoaNYOQAWBbFHFSYp) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 2](https://open.spotify.com/album/5cUKFvWH5OENoGjbry6pQO) | 4:23 |
 | 45 | [If I Could Fly \- LTJ Bukem's Roll It Mix](https://open.spotify.com/track/03CK2ZmSE76JGn1FHPMp0r) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg), [LTJ Bukem](https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL) | [If I Could Fly \(Remixes\)](https://open.spotify.com/album/1ydAEgb3fe8CJDAYkbNn8b) | 10:01 |
-| 46 | [Roll The Beats \- Inject The Bass Mix](https://open.spotify.com/track/5ODX11lRRWJ9xj9XAxbzos) | [DJ Hype](https://open.spotify.com/artist/2MnM5JbezlOuVYlfx61Qc6) | [Roll The Beats](https://open.spotify.com/album/3L4CyJyy3rFFiv1tkeJSYg) | 5:38 |
+| 46 | [Roll The Beats \- Inject The Bass Mix](https://open.spotify.com/track/38oy5M1Vt0USwyQ1QJlxN6) | [DJ Hype](https://open.spotify.com/artist/2MnM5JbezlOuVYlfx61Qc6) | [Roll the Beats](https://open.spotify.com/album/1T5kOjVffoA8MmuyuQof8c) | 5:38 |
 | 47 | [Limb By Limb \- DJ SS Remix](https://open.spotify.com/track/7aMmnUhaQdRmBoV2pC17GK) | [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Rumble in the Jungle, Vol\. 2](https://open.spotify.com/album/2eZMOpHPQD6mmYr5NygRxg) | 4:59 |
 | 48 | [Ricky](https://open.spotify.com/track/3TdwYEcg8CJ3PGese6vf59) | [DJ Lewi](https://open.spotify.com/artist/4LeLQF1IPB8nAmIWkUQLq4), [Remarc](https://open.spotify.com/artist/0nCxyI85p7XgWv2LLv4S9d) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:04 |
 | 49 | [Pranksters](https://open.spotify.com/track/1ePaN8bYEGckDsyo3YrBNF) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ) | [Reachout / Pranksters](https://open.spotify.com/album/7KrdWbeZMJfRyjB1UoZsXs) | 6:08 |
 | 50 | [Ruff In The Jungle Bizness \- Uplifting Vibes Remix](https://open.spotify.com/track/0Y9x1eEwPIub4z520zdblc) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded](https://open.spotify.com/album/1tqILdbeDwfGOlvzCgT5PB) | 4:16 |
 | 51 | [Here Comes the Drumz](https://open.spotify.com/track/4bNSfwZXF0cUuWen4kGOFy) | [Doc Scott](https://open.spotify.com/artist/1cuov4jcw3lXOvCANG7Kg4) | [Reinforced Presents Doc Scott \- The Early Plates](https://open.spotify.com/album/64nIGwlPFeIyOxgva8PMBl) | 4:30 |
-| 52 | [The Dark Stranger \- Origin Unknown Mix](https://open.spotify.com/track/5xqoIzTFlxXRGx86nIVn3b) | [Boogie Times Tribe](https://open.spotify.com/artist/0IEo8gcFe2WFGGF9L8Rmqy) | [Real Hardcore / The Dark Stranger](https://open.spotify.com/album/3hklWef2q00FpdkGX36QAV) | 5:27 |
+| 52 | [The Dark Stranger \- Origin Unknown Mix](https://open.spotify.com/track/1QphCLozd2Pqud9UQGlWar) | [Boogie Times Tribe](https://open.spotify.com/artist/0IEo8gcFe2WFGGF9L8Rmqy) | [Real Hardcore / The Dark Stranger](https://open.spotify.com/album/0EmEVy3G7Y1p8FIz9lAP7W) | 5:27 |
 | 53 | [Terminator](https://open.spotify.com/track/1l0UpKKk4JoNSgiAU3jXUU) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Rufige Kru](https://open.spotify.com/artist/36kYq0d66eHa4Zz8iNkPFS) | [Fabio & Grooverider: 25 Years of Drum & Bass](https://open.spotify.com/album/1FHMZEpgqTR869J27inlbY) | 4:14 |
 | 54 | [R.I.P\. \- DJ Hype Remix](https://open.spotify.com/track/1X6SSHGYYtJRltO5cdcT6l) | [Remarc](https://open.spotify.com/artist/0nCxyI85p7XgWv2LLv4S9d) | [R.I.P\. \(Remixes\)](https://open.spotify.com/album/7zxJfKfXTDl3b9RlAKhdRv) | 6:30 |
-| 55 | [Real Hardcore \- Johnny Jungle Remix](https://open.spotify.com/track/7DMEdz1YdQQtKIgysDxZeM) | [Boogie Times Tribe](https://open.spotify.com/artist/0IEo8gcFe2WFGGF9L8Rmqy) | [Real Hardcore / The Dark Stranger](https://open.spotify.com/album/3hklWef2q00FpdkGX36QAV) | 7:03 |
+| 55 | [Real Hardcore \- Johnny Jungle Remix](https://open.spotify.com/track/3DuExMPNrfs26HJWnD7CSc) | [Boogie Times Tribe](https://open.spotify.com/artist/0IEo8gcFe2WFGGF9L8Rmqy) | [Real Hardcore / The Dark Stranger](https://open.spotify.com/album/0EmEVy3G7Y1p8FIz9lAP7W) | 7:03 |
 | 56 | [The Angels Fell \- 2015 Remaster](https://open.spotify.com/track/4PVzD2FbJuMi5TgKNEVURw) | [Dillinja](https://open.spotify.com/artist/5CDTMeaU6dnv24n6e4uAtk) | [The Angels Fell / Ja Know Ya Big / Brutal Bass \(2015 Remasters\)](https://open.spotify.com/album/3z5hRBvwqUFDNjKhZGslMm) | 5:53 |
-| 57 | [Dub Plate Style](https://open.spotify.com/track/4uzOxS4N0RXPnuoO0amteG) | [Marvellous Cain](https://open.spotify.com/artist/3DyNrfbjNdST3C9fjeocIx) | [Dub Plate Style / Jump Up](https://open.spotify.com/album/2d77SPe20wST87gCFDsMxg) | 5:15 |
-| 58 | [Get Rushed](https://open.spotify.com/track/6OK6ZhiB9aKmlcTzpzTkzx) | [DJ Rap & Aston](https://open.spotify.com/artist/3tsc05X4PU1iM3ajknwM9F) | [Subplates 3](https://open.spotify.com/album/6tDNPkW3ONe6YKkanUJsir) | 5:52 |
+| 57 | [Dub Plate Style](https://open.spotify.com/track/14Va5EkUD97xaHSZFtqF1I) | [Marvellous Cain](https://open.spotify.com/artist/3DyNrfbjNdST3C9fjeocIx) | [Dub Plate Style / Jump Up](https://open.spotify.com/album/16sFeIORrlyybj7t3HWBT5) | 5:15 |
+| 58 | [Get Rushed](https://open.spotify.com/track/4CcweVhO4yeS7lxoJrcMjN) | [Aston](https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV), [DJ Rap](https://open.spotify.com/artist/68AFCxLSHARThf2XIYwY46) | [Subplates 3](https://open.spotify.com/album/6MlnoUlR3InWdcvLroR2uk) | 5:52 |
 | 59 | [Guess](https://open.spotify.com/track/0NKri6cXGR5Kq8t5BXHVfa) | [Krust](https://open.spotify.com/artist/6WPeOlm3f3UGoO1l6OPOUO) | [V Classic](https://open.spotify.com/album/2v6rSLlgweFFDtpDntQVPw) | 7:11 |
 | 60 | [The Slammer](https://open.spotify.com/track/47a8lLhzf8Q7kTiIqoku5v) | [Krome & Time](https://open.spotify.com/artist/6K8WMXOwmE55m1s56xZIiM) | [Into the Night / The Slammer](https://open.spotify.com/album/34NCCbdNqJLVXtNTFJcroO) | 6:10 |
 
-Snapshot ID: `MCw5NWRjODc2NmNmNWY3Y2NkNDg4NzEzZjAxOGE4MTFiZWI3ZGYxMGIw`
+Snapshot ID: `MCw4OTM3NTQzYTdiZGNjOTVhMGMxMmQ2YmNmNTRmYzFjMzI3YmQ1ZmIy`

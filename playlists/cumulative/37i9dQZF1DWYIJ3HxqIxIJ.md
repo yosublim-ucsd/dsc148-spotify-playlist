@@ -4,7 +4,7 @@
 
 > Vv Pete is our new RADAR artist to watch!
 
-263 songs - 13 hr 42 min
+264 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [King of Disappointment](https://open.spotify.com/track/2Iw07pDIocxjnRK4CpBNse) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [King of Disappointment](https://open.spotify.com/album/23fehF8H0YmZyTW6kPDN3X) | 4:11 | 2023-06-22 |  |
 | [Kool Aid](https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Kool Aid](https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph) | 3:36 | 2022-11-10 | 2023-03-02 |
 | [La Fiesta](https://open.spotify.com/track/6G0naKtVSu2Q1FS1ewQwYK) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [La Fiesta](https://open.spotify.com/album/6U8rFSFS3IbHR6tYBZUaKR) | 3:43 | 2021-10-15 | 2022-08-16 |
-| [Leave In The Morning](https://open.spotify.com/track/2NV0xEWJNdaMzdP94pksrl) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Leave In The Morning](https://open.spotify.com/album/1gRQl5tQu5KTWyvs3zdd2p) | 2:48 | 2023-10-19 |  |
+| [Leave In The Morning](https://open.spotify.com/track/2NV0xEWJNdaMzdP94pksrl) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Leave In The Morning](https://open.spotify.com/album/1gRQl5tQu5KTWyvs3zdd2p) | 2:48 | 2023-10-19 | 2023-11-06 |
+| [Leave In The Morning](https://open.spotify.com/track/4IYPM4LsehnnD2gn2junaO) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/50EclfDgv08QEpljmUe34E) | 2:48 | 2023-10-19 |  |
 | [Leave It All Behind](https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Leave It All Behind](https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh) | 3:55 | 2022-08-15 | 2023-03-02 |
 | [Lemon Lime](https://open.spotify.com/track/2WXkVx5MEJjZ7fpIbOGnJO) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Lemon Lime](https://open.spotify.com/album/3ymqSQFuvE9pjyIcjcyIDM) | 4:38 | 2022-08-15 | 2022-11-11 |
 | [Life Feels Good](https://open.spotify.com/track/29ZE3uE9ezxblQUDORcVE4) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Life Feels Good](https://open.spotify.com/album/2JnKFRCfW7TgPgWA4y02jO) | 2:54 | 2021-10-15 | 2022-08-16 |

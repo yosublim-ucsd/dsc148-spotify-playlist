@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 156750,
       "name": "GO TO HELL!!!",
       "url": "https://open.spotify.com/track/12c3eURzh9miwevJYZBbjX"
@@ -3215,6 +3215,24 @@
     },
     {
       "album": {
+        "name": "know that you're not alone",
+        "url": "https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176431,
+      "name": "know that you're not alone",
+      "url": "https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn"
+    },
+    {
+      "album": {
         "name": "L.U.S.H.",
         "url": "https://open.spotify.com/album/6Kubz9wO4yxQbNAuG0Cc6E"
       },
@@ -4281,6 +4299,24 @@
     },
     {
       "album": {
+        "name": "Polaroids",
+        "url": "https://open.spotify.com/album/0RxfmoMRaWou5q6GEFyPr9"
+      },
+      "artists": [
+        {
+          "name": "Thomas Meilstrup",
+          "url": "https://open.spotify.com/artist/4CyyiV7VCIqZ2e0vAm51tP"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164605,
+      "name": "Polaroids",
+      "url": "https://open.spotify.com/track/6Kz16KUmMnaneddIVyod87"
+    },
+    {
+      "album": {
         "name": "Wake Up & It's Over",
         "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
       },
@@ -5324,7 +5360,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 168882,
       "name": "TALL GRASS",
       "url": "https://open.spotify.com/track/15gjWTwhMqWC5U2BXzYMPJ"

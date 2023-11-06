@@ -4,7 +4,7 @@
 
 > ¡Picositos y con mucho sabor!
 
-198 songs - 12 hr 15 min
+199 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Paloma Ajena](https://open.spotify.com/track/0xQ9ffzl3I05FTDcYUnQ4X) | [La Banda Tecno](https://open.spotify.com/artist/6FIQoXCHsjUVZBFab3sXbM) | [Tropical & Rumbero: Vuelve](https://open.spotify.com/album/6ph0pyKPe1ffEOA3jC6kLx) | 4:10 | 2022-10-28 | 2023-05-03 |
 | [Para Elisa](https://open.spotify.com/track/1xrx73sjF476rJh0MJaJED) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Los Destellos](https://open.spotify.com/album/1ZUp8sfXYQIz4jduTzi13t) | 2:46 | 2022-10-28 | 2023-03-11 |
 | [Para Elisa](https://open.spotify.com/track/4Sd525AYAaYuiexGHTcoFy) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [The Roots of Chicha](https://open.spotify.com/album/77iuhYUaKEvAsEjKJNh3lN) | 2:46 | 2021-10-20 | 2022-07-02 |
-| [Para Elisa](https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [En Orbita](https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB) | 2:49 | 2022-04-20 |  |
+| [Para Elisa](https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [En Orbita](https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB) | 2:49 | 2022-04-20 | 2023-11-06 |
 | [Para Elisa](https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX) | [Los Hermanos Zañartu](https://open.spotify.com/artist/3eZmniklmCQj7Jn6i6alvI) | [Enrique Delgado \(feat\. Enrique Delgado Montes\)](https://open.spotify.com/album/62Q0yW6XbxNtuJDOc6ohyj) | 2:48 | 2021-10-20 |  |
 | [Pelotero A La Bola](https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [16 Enormes Éxitos](https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w) | 2:51 | 2022-10-28 |  |
 | [Perro Rabioso](https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Estraik Back](https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY) | 3:51 | 2021-10-20 | 2022-07-29 |
@@ -206,5 +206,6 @@
 | [¡Ay, Mi Corazón!](https://open.spotify.com/track/0GausS98RDplDHbITzyRMJ) | [Lusaí](https://open.spotify.com/artist/07az5xPssRyz3AwWTrISnB) | [¡Ay, Mi Corazón!](https://open.spotify.com/album/3qSj9um4kvtXA0ghXomqQw) | 3:55 | 2022-04-20 | 2022-10-29 |
 | [¡Ay, Mi Corazón!](https://open.spotify.com/track/1D8664oUPv5el6VLBkzi7e) | [Lusaí](https://open.spotify.com/artist/07az5xPssRyz3AwWTrISnB) | [¡Ay, Mi Corazón!](https://open.spotify.com/album/3SYeXGtFmXnwVQ10k0fRJ5) | 3:55 | 2022-04-20 | 2022-10-01 |
 | [¿Dónde estabas tú?](https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 3:43 | 2021-10-20 | 2023-11-03 |
+| [¿Dónde Estabas Tú?](https://open.spotify.com/track/3EUxtYagZRbXB7is7UjSg7) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw) | 3:47 | 2023-05-09 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

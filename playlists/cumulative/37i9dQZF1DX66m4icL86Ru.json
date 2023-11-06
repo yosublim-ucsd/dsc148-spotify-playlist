@@ -8960,10 +8960,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 137640,
       "name": "WUACV",
       "url": "https://open.spotify.com/track/2HC0LgjchkWSGoOyKIxklv"
+    },
+    {
+      "album": {
+        "name": "Sweet Justice",
+        "url": "https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137640,
+      "name": "WUACV",
+      "url": "https://open.spotify.com/track/7eomd7Z56dMca1xoh2P0NA"
     },
     {
       "album": {

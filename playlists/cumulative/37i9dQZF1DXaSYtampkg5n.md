@@ -4,7 +4,7 @@
 
 > Sheer joy for sunny days in 50 old and new African jams.
 
-115 songs - 10 hr 26 min
+117 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Gyae Su](https://open.spotify.com/track/3U9NVmsEdrTutU49F1ykvf) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Pat Thomas & Kwashibu Area Band](https://open.spotify.com/album/2HMkfg3XgwUka7EnAvGbPC) | 4:12 | 2018-07-02 |  |
 | [Gyae Su](https://open.spotify.com/track/4dqT5slEDm4TCG8TKako0t) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Pat Thomas & Kwashibu Area Band](https://open.spotify.com/album/0vI4coIOAGzhLZRAIcDKHL) | 4:12 | 2018-07-02 | 2022-07-29 |
 | [Home Cooking](https://open.spotify.com/track/20x6NOGs8e0Q4FTFPejMUJ) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [HomeCooking](https://open.spotify.com/album/5yzzvJinNh6q3305O3RuTQ) | 4:44 | 2018-07-02 |  |
-| [Jarabi](https://open.spotify.com/track/5EvehLwAeQkVwwEfoAawa4) | [AfroCubism](https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen) | [Afrocubism](https://open.spotify.com/album/7qXvKyPmjYWye72ZTIrihK) | 5:57 | 2018-07-02 |  |
+| [Jarabi](https://open.spotify.com/track/7KORuIh0eVDvHXmR1PpB0v) | [AfroCubism](https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen) | [AfroCubism](https://open.spotify.com/album/2xeis5rXeObCoxaSVqQd5E) | 5:53 | 2018-07-02 |  |
+| [Jarabi](https://open.spotify.com/track/5EvehLwAeQkVwwEfoAawa4) | [AfroCubism](https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen) | [Afrocubism](https://open.spotify.com/album/7qXvKyPmjYWye72ZTIrihK) | 5:57 | 2018-07-02 | 2023-11-06 |
 | [Jarabi](https://open.spotify.com/track/0RxOwIbcKkIIYlofyLznGY) | [AfroCubism](https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Eliades Ochoa & Bassekou Kouyaté](https://open.spotify.com/artist/0VjN7ASjJCJTldoryWvxM4) | [Afrocubism](https://open.spotify.com/album/1CH76GNjApPSbQcRqComt7) | 5:57 | 2018-07-02 | 2022-07-29 |
 | [Kai Wawa](https://open.spotify.com/track/1jSfn07Bqf24cLlW8nRMtC) | [The Mercury Dance Band](https://open.spotify.com/artist/5s7yP5PdeJyqfoLJ50YYBB) | [Soundway presents Ghana Special \(Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81\)](https://open.spotify.com/album/5DKrMCbixQ2EjIvSBcLM28) | 3:00 | 2018-07-02 | 2022-07-29 |
 | [Kai Wawa](https://open.spotify.com/track/4QjZfrqndQfDn7tz8dHBRr) | [The Mercury Dance Band](https://open.spotify.com/artist/5s7yP5PdeJyqfoLJ50YYBB) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/7JxOC157mJOWGQmIpCv6YL) | 3:00 | 2018-07-02 |  |
@@ -92,7 +93,8 @@
 | [Musicawi Silt](https://open.spotify.com/track/2qo7XWwu0l0IJ29Ybf5Mqh) | [The Daktaris](https://open.spotify.com/artist/42ccKlw9sHnNr29o6gqnsv) | [Beyond Addis 02 \(Modern Ethiopian Dance Grooves Inspired By Swinging Addis\)](https://open.spotify.com/album/0h6TpRuK6ysFLQDXPDM4yT) | 3:04 | 2018-07-02 | 2023-03-16 |
 | [Ne Te Fache Pas](https://open.spotify.com/track/1OXWh5wI5uospTQMLnjDQ2) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb) | [Cotonou Club](https://open.spotify.com/album/07TRtwC1H4J3QcRu5mRVhd) | 4:38 | 2018-07-02 |  |
 | [Ne Te Fache Pas](https://open.spotify.com/track/5HcTELjbUpb51pxN4RUodP) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb) | [Cotonou Club](https://open.spotify.com/album/46SaHGfX201NN00geCtBZY) | 4:38 | 2018-07-02 | 2022-07-29 |
-| [Nijaay](https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/5T2htXMWcRmuYQdoHJEgi9) | 7:11 | 2018-07-02 |  |
+| [Nijaay](https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/5T2htXMWcRmuYQdoHJEgi9) | 7:11 | 2018-07-02 | 2023-11-06 |
+| [Nijaay](https://open.spotify.com/track/09Fm7uCNugdcI9bitG6Ype) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/42oYfuID95AxYWA0jduZCo) | 7:14 | 2018-07-02 |  |
 | [Nijaay](https://open.spotify.com/track/2R3cAh0hgAGDE4XTFZGBwC) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/7xrvWXcKHm7TxJcen0kfaV) | 7:14 | 2018-07-02 | 2022-07-29 |
 | [O.D.O.O\. \- Edit](https://open.spotify.com/track/7yEPnFUTRWmfrLGLu24DRz) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 6:54 | 2018-07-02 | 2023-09-21 |
 | [O.D.O.O\. \- Edit Version](https://open.spotify.com/track/2WS1GEWDQ7oN3sBjC0IIWI) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best of the Black President](https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M) | 6:55 | 2018-07-02 |  |

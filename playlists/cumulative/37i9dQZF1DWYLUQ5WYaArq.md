@@ -2,7 +2,7 @@
 
 ### [Throwback Thursday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWYLUQ5WYaArq)
 
-> Celebrating The Beatles releasing new music this week \(!\) with some of their greatest hits alongside other iconic artists from the 1960s.
+> Celebrating The Beatles releasing new music this week \(!\) with some of their greatest hits alongside other iconic artists from the 60s.
 
 538 songs - 1 day 10 hr 30 min
 

@@ -4,11 +4,12 @@
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-154 songs - 9 hr 18 min
+156 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Love Supreme](https://open.spotify.com/track/1msp0hCTvmv0SHkJaWZXHn) | [Angá Diaz](https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz) | [Echu Mingua](https://open.spotify.com/album/7hf8NZQgZ1rDxziIyaMHEx) | 5:49 | 2022-01-11 |  |
+| [A Love Supreme](https://open.spotify.com/track/1msp0hCTvmv0SHkJaWZXHn) | [Angá Diaz](https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz) | [Echu Mingua](https://open.spotify.com/album/7hf8NZQgZ1rDxziIyaMHEx) | 5:49 | 2022-01-11 | 2023-11-06 |
+| [A Love Supreme](https://open.spotify.com/track/5c5bnwxYMXddDPUVDyF3Sr) | [Angá Diaz](https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz) | [Echu Mingua](https://open.spotify.com/album/6xFDjJlhINnlYcaRV4y6ag) | 5:49 | 2022-01-11 |  |
 | [A Su Merced](https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ) | [Liliana Felipe](https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV) | [Elotitos Tiernos](https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt) | 6:32 | 2020-05-28 |  |
 | [Afro Blue \- Koop Remix](https://open.spotify.com/track/04gJ1TgFN1OTisN8Z2H9p4) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Luaka Bop Remix](https://open.spotify.com/album/73nm7pKg0LAgLYXM4Ux85O) | 2:46 | 2022-01-11 |  |
 | [Afro Blue \- Koop Remix](https://open.spotify.com/track/5LUlXoQuBZDHPTA9uhdvMp) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0), [Koop](https://open.spotify.com/artist/14NPkkAvH5KHqZhqFpuJEg) | [Luaka Bop Remix](https://open.spotify.com/album/7uNWWbWA8GKZBky6KYxIvT) | 2:46 | 2022-01-11 | 2022-07-29 |
@@ -41,7 +42,8 @@
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 | 2022-04-19 |  |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-19 | 2022-10-03 |
 | [Clandestino](https://open.spotify.com/track/5bCp9MMG1Qo4QB2OHoSRpN) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:25 | 2022-01-11 |  |
-| [Coconut Water](https://open.spotify.com/track/4d1CoRChi1Hi2795N5JB3G) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [This Is Desmond Dekker \(Enhanced Edition\)](https://open.spotify.com/album/6zmXwlVf8f9wpC4VEvpVUl) | 3:29 | 2020-05-28 |  |
+| [Coconut Water](https://open.spotify.com/track/4d1CoRChi1Hi2795N5JB3G) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [This Is Desmond Dekker \(Enhanced Edition\)](https://open.spotify.com/album/6zmXwlVf8f9wpC4VEvpVUl) | 3:29 | 2020-05-28 | 2023-11-06 |
+| [Coconut Water](https://open.spotify.com/track/6GsvDc8XtZpPk7jRgqSNF8) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 3:28 | 2020-05-28 |  |
 | [Coffee Bean / Calabash Annie](https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Soul Of The Drums](https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0) | 2:15 | 2020-05-28 |  |
 | [Color Café](https://open.spotify.com/track/2HkMTu0szIT4uXkoXi5q5s) | [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Esencia Solar](https://open.spotify.com/album/0SQoG3m9WHdMkAzWNWOTlW) | 2:09 | 2020-05-28 | 2022-07-29 |
 | [Color Café](https://open.spotify.com/track/0Yy0tg52vRTXPB0bsU3e5T) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Esencia Solar](https://open.spotify.com/album/1pOY7m74U5eY0H7QdlTbN4) | 2:09 | 2020-05-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 
 > That fuzzy, noisy punk\-blues hybrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,112 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,118 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 2 | [Bellbottoms](https://open.spotify.com/track/6NJQpFNkDCMaRBogIi9sOI) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 5:17 |
 | 3 | [Juice To Get Loose](https://open.spotify.com/track/1untagwh1UZVlcY41ctNmU) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Rock Them Back to Hell](https://open.spotify.com/album/1a8q2lXWcdJdo0v1JP8S2E) | 2:23 |
 | 4 | [Cha\-Cha Twist](https://open.spotify.com/track/5Bs1pw78Y84wmLdukRjIX4) | [The Detroit Cobras](https://open.spotify.com/artist/4tWFXbJnjC9lM3UzmOpUiR) | [Mink, Rat or Rabbit](https://open.spotify.com/album/6Nilu1ZmULGn7gXkufCDc7) | 2:31 |
-| 5 | [Release The Bats](https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV) | 2:31 |
-| 6 | [Chains of Love](https://open.spotify.com/track/10CzIyOWd75NDoVfJ1myca) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Ultraglide In Black](https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z) | 2:21 |
+| 5 | [Chains of Love](https://open.spotify.com/track/10CzIyOWd75NDoVfJ1myca) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Ultraglide In Black](https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z) | 2:21 |
+| 6 | [Release The Bats](https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV) | 2:31 |
 | 7 | [There But for the Grace of God Go I](https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [Outta Here](https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb) | 3:07 |
 | 8 | [Calvin](https://open.spotify.com/track/5ytqlD1Nwaf1dxvPDUKQeA) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Acme](https://open.spotify.com/album/48ntDGYHTJIyCtCB6znUQq) | 3:02 |
 | 9 | [Davy Crockett](https://open.spotify.com/track/31YjnyR8BJphQKK33Rm1wD) | [Thee Headcoats](https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe) | [Archive From 1959 \- The Billy Childish Story](https://open.spotify.com/album/3rdtnzccCDiymdgpMXYfrb) | 2:55 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 35 | [Isolation](https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 3:24 |
 | 36 | [When You Touch Me](https://open.spotify.com/track/6QfyJdy9eO3WiAL65VQP8D) | [Reigning Sound](https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t) | [Too Much Guitar](https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK) | 2:57 |
 | 37 | [Hard Time Blues](https://open.spotify.com/track/1fvnhqEfj6ZH5qD6GFCkSZ) | [Laughing Hyenas](https://open.spotify.com/artist/6QGUx7mmJsow2JsuDbsFLq) | [Hard Times](https://open.spotify.com/album/0RcQ3VgenJTgydpoiWJMFm) | 7:19 |
-| 38 | [\(Oh Mom\) Teach Me How to Uncle Willy](https://open.spotify.com/track/3vfJ46ozwgF37hLweVMDnj) | [Les Sexareenos](https://open.spotify.com/artist/0jTOyh4tUJWtIMDV73fcN4) | [14 Frenzied Shakers](https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz) | 2:34 |
-| 39 | [Round Every Corner](https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna) | [Thee Headcoatees](https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif) | [The Kids Are All Square \- This Is Hip & Girlsville](https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ) | 2:25 |
+| 38 | [Round Every Corner](https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna) | [Thee Headcoatees](https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif) | [The Kids Are All Square \- This Is Hip & Girlsville](https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ) | 2:25 |
+| 39 | [\(Oh Mom\) Teach Me How to Uncle Willy](https://open.spotify.com/track/3vfJ46ozwgF37hLweVMDnj) | [Les Sexareenos](https://open.spotify.com/artist/0jTOyh4tUJWtIMDV73fcN4) | [14 Frenzied Shakers](https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz) | 2:34 |
 | 40 | [Ida Honey \(Tell Me You'll Be Mine\)](https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Nothing Can Stop These Men](https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7) | 2:15 |
 | 41 | [Get It!](https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo) | [Reigning Sound](https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t) | [Too Much Guitar](https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK) | 2:03 |
 | 42 | [Just One More](https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G) | [Gallon Drunk](https://open.spotify.com/artist/1Stl5FcIQtQcRv30wlnH2b) | [You, The Night… and The Music](https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 49 | [Hanky\-Joe Digger](https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4) | [Speedball Baby](https://open.spotify.com/artist/4oRzJXOEO1MDXDes16geFA) | [The Blackout](https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE) | 2:06 |
 | 50 | [Preaching the Blues](https://open.spotify.com/track/4qZrZqBRq0tAKJ3wE3Az3A) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love](https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW) | 3:59 |
 
-Snapshot ID: `MCwzZTlhZjU4ZDdlYmQxMDU3NzYyZjBhOWFhYmRjMzYwZjNhMjE0YjQ2`
+Snapshot ID: `MCw3ODg4ZTE3ZmFkNmZkNGViZmMxNjA4YmIyYWRjZmRhYTBmYmE3Nzk0`

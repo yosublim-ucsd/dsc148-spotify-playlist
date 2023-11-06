@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bSung Si Kyung x NAUL(\uc131\uc2dc\uacbd x \ub098\uc5bc)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 326026,
+  "num_followers": 326051,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDZhNWYwMjE2MzlkY2ViYTI2YjBjYmMyOTZlMTM1MDMzNmFlMmY5",
+  "snapshot_id": "MCxhY2QzZDM2ZWZkN2NjYTJhNjc2NDAzMTg5ODNkMmFlYmFhZmE1YmIy",
   "tracks": [
     {
       "added_at": "2023-11-02 09:27:20",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
+        "name": "Do",
+        "url": "https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "Do",
+      "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
+    },
+    {
+      "added_at": "2023-11-02 09:27:20",
+      "album": {
         "name": "Chocolate, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1IIaSwpqJvJCvxXyM69c3A"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 221080,
       "name": "IF I",
       "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
-    },
-    {
-      "added_at": "2023-11-02 09:27:20",
-      "album": {
-        "name": "Do",
-        "url": "https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX"
-      },
-      "artists": [
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "Do",
-      "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
+        "name": "Such a thing",
+        "url": "https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "duration_ms": 266986,
+      "name": "Such a thing",
+      "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
+    },
+    {
+      "added_at": "2023-11-02 09:27:20",
+      "album": {
         "name": "Think About You",
         "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
       },
@@ -715,6 +731,22 @@
       "duration_ms": 212608,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
+    },
+    {
+      "added_at": "2023-11-02 09:27:20",
+      "album": {
+        "name": "Naul <Ballad Pop City>",
+        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 260668,
+      "name": "Nights Into Days (Prod. by Naul)",
+      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -735,22 +767,6 @@
       "duration_ms": 232026,
       "name": "When it snows(Feat.Heize)",
       "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
-    },
-    {
-      "added_at": "2023-11-02 09:27:20",
-      "album": {
-        "name": "Naul <Ballad Pop City>",
-        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 260668,
-      "name": "Nights Into Days (Prod. by Naul)",
-      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -799,22 +815,6 @@
       "duration_ms": 290960,
       "name": "Soju Hanjan",
       "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
-    },
-    {
-      "added_at": "2023-11-02 09:27:20",
-      "album": {
-        "name": "Such a thing",
-        "url": "https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka"
-      },
-      "artists": [
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        }
-      ],
-      "duration_ms": 266986,
-      "name": "Such a thing",
-      "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
+        "name": "I'M",
+        "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
       },
       "artists": [
         {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
         }
       ],
-      "duration_ms": 210106,
-      "name": "I Want to Be Closer to You",
-      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
+      "duration_ms": 238252,
+      "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
-        "name": "I'M",
-        "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 238252,
-      "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
-    },
-    {
-      "added_at": "2023-11-02 09:27:20",
-      "album": {
         "name": "in the bed",
         "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 265058,
       "name": "in the bed",
       "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
+    },
+    {
+      "added_at": "2023-11-02 09:27:20",
+      "album": {
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "I Want to Be Closer to You",
+      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
-        "name": "Hate Everything",
-        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 205759,
-      "name": "Hate Everything - Korean Version",
-      "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
-    },
-    {
-      "added_at": "2023-11-02 09:27:20",
-      "album": {
         "name": "The 3rd Digital Single `Amazing You'",
         "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 296832,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+    },
+    {
+      "added_at": "2023-11-02 09:27:20",
+      "album": {
+        "name": "Hate Everything",
+        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 205759,
+      "name": "Hate Everything - Korean Version",
+      "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
-    },
-    {
-      "added_at": "2023-11-02 09:27:20",
-      "album": {
         "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 194240,
       "name": "Holding hands or walking together.",
       "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
+    },
+    {
+      "added_at": "2023-11-02 09:27:20",
+      "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF"
-      },
-      "artists": [
-        {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
-        }
-      ],
-      "duration_ms": 208649,
-      "name": "come as you are",
-      "url": "https://open.spotify.com/track/1B8rGBG1v6y6hdvJmw4z0O"
-    },
-    {
-      "added_at": "2023-11-02 09:27:20",
-      "album": {
         "name": "The Fairy Tale",
         "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 227054,
       "name": "Tale",
       "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
+    },
+    {
+      "added_at": "2023-11-02 09:27:20",
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 208649,
+      "name": "come as you are",
+      "url": "https://open.spotify.com/track/1B8rGBG1v6y6hdvJmw4z0O"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
+        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
+      },
+      "artists": [
+        {
+          "name": "Kim Min-seok (MeloMance)",
+          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
+    },
+    {
+      "added_at": "2023-11-02 09:27:20",
+      "album": {
         "name": "RETRO",
         "url": "https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 258112,
       "name": "Anymore (Feat. Whee In of MAMAMOO)",
       "url": "https://open.spotify.com/track/72X2j4RIxqhho6A60i3Uk1"
-    },
-    {
-      "added_at": "2023-11-02 09:27:20",
-      "album": {
-        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
-        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
-      },
-      "artists": [
-        {
-          "name": "Kim Min-seok (MeloMance)",
-          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
-      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
     },
     {
       "added_at": "2023-11-02 09:27:20",

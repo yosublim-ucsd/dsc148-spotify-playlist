@@ -4,7 +4,7 @@
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-227 songs - 15 hr 21 min
+228 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [How Deep Is The Ocean \(How High Is The Sky\)](https://open.spotify.com/track/2yVSmhgifg9zyolZ2FOgPM) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 2:33 | 2022-01-20 |  |
 | [How High The Moon \- Remastered](https://open.spotify.com/track/5KbYlvQhNwlyfTcOGeWQ2e) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [June Christy Recalls Those Kenton Days](https://open.spotify.com/album/7LiaPDVtP6eWdpO6MCkiIS) | 2:33 | 2022-01-20 |  |
 | [I Can't Give You Anything But Love](https://open.spotify.com/track/5doczA8CcUYo0J9H7uvHgU) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 3:52 | 2022-01-20 | 2022-12-01 |
-| [I Concentrate On You](https://open.spotify.com/track/3NgTr2ajVlWGTUrSUiHq6J) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Steppin'Out: Astaire Sings](https://open.spotify.com/album/2y3qfwH8IhIcWeRFBFArD6) | 2:47 | 2023-06-15 |  |
+| [I Concentrate On You](https://open.spotify.com/track/3NgTr2ajVlWGTUrSUiHq6J) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Steppin'Out: Astaire Sings](https://open.spotify.com/album/2y3qfwH8IhIcWeRFBFArD6) | 2:47 | 2023-06-15 | 2023-11-06 |
 | [I Could Write a Book](https://open.spotify.com/track/0eijtL958nCP1dy7OR1hUA) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ), [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Social Call](https://open.spotify.com/album/7MGttcftncXXItvutjK9dM) | 2:38 | 2022-01-20 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:24 | 2022-01-20 |  |
 | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:42 | 2022-01-20 |  |
@@ -121,6 +121,7 @@
 | [Lazy](https://open.spotify.com/track/6zgmftTQSNQPuU0UI98UVD) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [The Very Best Of Marilyn Monroe](https://open.spotify.com/album/3F8TaBY2U0Vy6VBqBfNjdz) | 3:38 | 2022-09-13 | 2022-09-29 |
 | [Let's Do It](https://open.spotify.com/track/67fFApZyHZ9LjsvkUQJShY) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/1B9CLt71zBlS87qDLXqcqQ) | 3:05 | 2022-01-20 | 2022-07-29 |
 | [Let's Do It](https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:05 | 2022-06-29 |  |
+| [Let's Fall In Love](https://open.spotify.com/track/0qZItwF1HNXBno45TrdBSS) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 6:29 | 2023-10-26 |  |
 | [Let's Fall In Love](https://open.spotify.com/track/669fZh7MR6mreYTIV3n8ff) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 6:29 | 2022-01-20 | 2023-10-28 |
 | [Let's Fall in Love](https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [That Towering Feeling](https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos) | 1:58 | 2022-01-20 | 2023-09-02 |
 | [Little Jazz Bird](https://open.spotify.com/track/2M3Z8lEWcZgxIM8L0Z6Uxk) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [My Gentleman Friend](https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh) | 3:40 | 2022-01-20 |  |

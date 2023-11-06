@@ -1,12 +1,12 @@
 {
   "description": "Rap per non smettere mai di crederci \ud83d\udcaa",
-  "num_followers": 328318,
+  "num_followers": 328362,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmNhNzI5MWUxMmJkODEwN2M5Zjc0ZjJlOGY0NGNiMGQxNDZlMjQw",
+  "snapshot_id": "MCxmNDE1ODc2Y2ZlMzA3MTdhODEyN2FiNzIzODVkOTFmOGI0Zjk1MDMw",
   "tracks": [
     {
       "added_at": "2023-10-26 12:27:15",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-10-26 12:27:15",
       "album": {
-        "name": "La Divina Commedia",
-        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 137098,
-      "name": "Hoe (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
-    },
-    {
-      "added_at": "2023-10-26 12:27:15",
-      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 235533,
       "name": "How We Do",
       "url": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p"
+    },
+    {
+      "added_at": "2023-10-26 12:27:15",
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 137098,
+      "name": "Hoe (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
     },
     {
       "added_at": "2023-10-26 12:27:15",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2023-10-26 12:27:15",
       "album": {
+        "name": "DUMMY BOY (Revised)",
+        "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 206550,
+      "name": "MALA (feat. Anuel AA)",
+      "url": "https://open.spotify.com/track/5tYCl2bT9bDjMuTyn6OVb0"
+    },
+    {
+      "added_at": "2023-10-26 12:27:15",
+      "album": {
         "name": "Loyalty Over Royalty",
         "url": "https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 181668,
       "name": "Arai (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c"
-    },
-    {
-      "added_at": "2023-10-26 12:27:15",
-      "album": {
-        "name": "DUMMY BOY (Revised)",
-        "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
-      },
-      "artists": [
-        {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 206550,
-      "name": "MALA (feat. Anuel AA)",
-      "url": "https://open.spotify.com/track/5tYCl2bT9bDjMuTyn6OVb0"
     },
     {
       "added_at": "2023-10-26 12:27:15",

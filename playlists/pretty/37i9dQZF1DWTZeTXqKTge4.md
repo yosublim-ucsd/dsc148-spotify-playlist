@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > 7ième Ciel célèbre ses 20 ans avec un concert au Centre Bell le 10 novembre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,073 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,137 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Matusalem](https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 3:42 |
 | 75 | [Nervous 2](https://open.spotify.com/track/6flgYzj4xcc59TV5aXOxvo) | [Brown Family](https://open.spotify.com/artist/58kHjJdhzMEVRdibBX5JJW), [Anodajay](https://open.spotify.com/artist/73o1j8sMaBPQMcgXsJTdp2), [Dramatik](https://open.spotify.com/artist/5emIiPIHrSU5eP2dOd8Ksi), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Robert Nelson](https://open.spotify.com/artist/4ufQ6sVB0A3Oz7nG5YWEg7) | [Nervous 2](https://open.spotify.com/album/60G1mH9Bxt4FRc8xIQF8aX) | 4:23 |
 
-Snapshot ID: `MCw0OTdkNTc4N2IxMzFjYTU0YTRlYzM3NmQzODA3YzBmMDM5MWU2ZjJh`
+Snapshot ID: `MCw1MWRlOTQyOTJhNzQzZjBmZTk3ZDQ0NTVjODdlOTAzYzk4NWNmY2Yy`

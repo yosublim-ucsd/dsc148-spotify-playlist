@@ -4,7 +4,7 @@
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-434 songs - 1 day 3 hr 28 min
+435 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,8 @@
 | [Resistiré \(Banda Sonora Original "Élite"\)](https://open.spotify.com/track/272sT3uaJsFNqyKyE6BGNN) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Resistiré \(Banda Sonora Original "Élite"\)](https://open.spotify.com/album/7ov6R2b5ZXqth6H9piBgRL) | 3:41 | 2022-04-08 |  |
 | [Right Now \(Original Mix\)](https://open.spotify.com/track/0IgWQTXRrnInhT6ct8mHDN) | [Kostrok](https://open.spotify.com/artist/33NfDFgT8lGNK9Ez8vGNkV) | [Right Now](https://open.spotify.com/album/01k1Rev0AzCy2UlcJrYCqf) | 4:03 | 2021-09-01 |  |
 | [Roses and Gold](https://open.spotify.com/track/6Q1IcxMualg2QsTPjYzO5b) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Roses and Gold](https://open.spotify.com/album/7zqDGTXcaibOja818Z1QBN) | 3:14 | 2022-04-08 |  |
-| [Rrrrr](https://open.spotify.com/track/6G0ckbSA5tiypjBNb634Mq) | [Matias Aguayo](https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe) | [The Visitor](https://open.spotify.com/album/1kFnTyt0nt6oyGcLk5n7C4) | 4:32 | 2023-10-21 |  |
+| [Rrrrr](https://open.spotify.com/track/1dZ5LnnrfuzGbBhxdRtWBC) | [Matias Aguayo](https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe) | [The Visitor](https://open.spotify.com/album/6BvXqjVindixE8K0FWG3vp) | 4:32 | 2023-10-21 |  |
+| [Rrrrr](https://open.spotify.com/track/6G0ckbSA5tiypjBNb634Mq) | [Matias Aguayo](https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe) | [The Visitor](https://open.spotify.com/album/1kFnTyt0nt6oyGcLk5n7C4) | 4:32 | 2023-10-21 | 2023-11-06 |
 | [Run to You](https://open.spotify.com/track/5yX0C0jvaybCkcrkxqmXoZ) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [We Fall In](https://open.spotify.com/album/6RrqOFuUJkq9CyPZn803Yu) | 3:51 | 2021-09-01 |  |
 | [Sabali](https://open.spotify.com/track/0jHZ5yXOZNKvtwPGSgL0gX) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Welcome To Mali](https://open.spotify.com/album/6LJLRmAT69fL7I9Rf8hjcb) | 3:16 | 2021-09-01 |  |
 | [Sad Girls Club](https://open.spotify.com/track/4dvDN4lswOybmgMoLIUY6m) | [The Magnettes](https://open.spotify.com/artist/2v7NkjMDChkzTs7uoVh4tU) | [Ugly Youth](https://open.spotify.com/album/6Ds1jmACRW0e0PInvX6Y5p) | 3:46 | 2021-09-01 |  |

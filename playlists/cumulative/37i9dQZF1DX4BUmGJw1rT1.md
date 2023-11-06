@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-216 songs - 14 hr 57 min
+217 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Tell Her You Belong To Me](https://open.spotify.com/track/6iKCoJA86prAgEL3Xr3ETF) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Better Than Home](https://open.spotify.com/album/64AW0lS2mVcLb8oe3HHl1I) | 5:56 | 2022-05-25 | 2022-07-29 |
 | [Tell Her You Belong To Me](https://open.spotify.com/track/2faP8xcrcrfm24iDF3Qs1P) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Better Than Home \(Deluxe Edition\)](https://open.spotify.com/album/45blvARBYrViZz3eYg50sH) | 5:56 | 2022-07-08 |  |
 | [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 | 2022-05-25 | 2022-10-11 |
-| [The Healer](https://open.spotify.com/track/4JhUJwr2oK68ljiuZva4ci) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [The Healer](https://open.spotify.com/album/420OqzMQ6E2pC5OHyNGL1k) | 3:52 | 2023-08-18 |  |
+| [The Healer](https://open.spotify.com/track/4JhUJwr2oK68ljiuZva4ci) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [The Healer](https://open.spotify.com/album/420OqzMQ6E2pC5OHyNGL1k) | 3:52 | 2023-08-18 | 2023-11-06 |
 | [The Man I Ought To Be](https://open.spotify.com/track/0iMbe85OzernkDXLzGZ37e) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 6:46 | 2023-08-18 |  |
 | [The Moment](https://open.spotify.com/track/1AKkHclqUO2FqtL3Z9Ec8b) | [Vicky Tafoya](https://open.spotify.com/artist/770Aop5lr0TP4f1cjBWxWu) | [The Moment](https://open.spotify.com/album/4dEMN1VQLVic39QCsULlAG) | 2:34 | 2023-08-25 | 2023-09-19 |
 | [The Thrill Is Gone](https://open.spotify.com/track/0cfwfMpxXwA36einrkgRcD) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Grandes Temazos: Blues](https://open.spotify.com/album/4gXvc3NifLO9FboTiRyf0b) | 5:01 | 2022-10-10 | 2022-11-13 |
@@ -224,5 +224,6 @@
 | [Without You](https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Without You](https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp) | 3:20 | 2023-03-16 |  |
 | [Wrong Hands](https://open.spotify.com/track/1HbbVMWUSmPpOhurz3vFXs) | [Moon Shine](https://open.spotify.com/artist/2npYYH9Tn3ndPMnulAxpAt) | [Wrong Hands](https://open.spotify.com/album/76daS0KbiciyyVWJEPXbYF) | 4:00 | 2022-10-03 | 2022-12-01 |
 | [You and Your Friend](https://open.spotify.com/track/7LXxMApcyuh5A3sod0nV5s) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [On Every Street \(Remaster\)](https://open.spotify.com/album/0ORgLm6BMFVpLGS4Q5SKMZ) | 5:59 | 2022-05-25 |  |
+| [You'll Be Mine](https://open.spotify.com/track/3Pb0YF0AUwkjdrY7eNh74y) | [Dry So Long](https://open.spotify.com/artist/522CqVQTrK09ihGRIa4iyV) | [You'll Be Mine](https://open.spotify.com/album/256DEEW0ATt6kE7afP04O7) | 3:40 | 2023-10-13 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

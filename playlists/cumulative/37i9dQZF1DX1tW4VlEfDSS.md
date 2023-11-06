@@ -4,7 +4,7 @@
 
 > A feel\-good soulful house  and disco selection.
 
-229 songs - 16 hr 2 min
+230 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Ain't No Other Man \- Rework](https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Ain't No Other Man \(Rework\)](https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq) | 2:34 | 2023-06-09 |  |
 | [All Along](https://open.spotify.com/track/3RPHlHhb6g0rqcMVwwfxcF) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [All Along](https://open.spotify.com/album/7m3BQyRSefzOAxElf6SCnt) | 3:23 | 2021-12-07 |  |
 | [All For The Disco](https://open.spotify.com/track/5cxHKq2KRxwq8v6xQUQJq3) | [Louise DaCosta](https://open.spotify.com/artist/3AyRl6kw1IiwpXPMyhdcR5) | [All For The Disco](https://open.spotify.com/album/6ts93erLIrk0aRwE8h0ex0) | 3:13 | 2021-12-07 | 2022-07-29 |
-| [All I Do](https://open.spotify.com/track/1q5XUAzuOJ6GXCFhePKu70) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [All I Do](https://open.spotify.com/album/00zOAQMoEQOP8nhSKFNg6f) | 2:51 | 2021-12-07 |  |
+| [All I Do](https://open.spotify.com/track/2UC3OTleMCuAPo4lJr1lpe) | [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D), [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI) | [All I Do](https://open.spotify.com/album/1kMagvN6AHoYG18qeOHOYH) | 2:51 | 2023-10-27 |  |
+| [All I Do](https://open.spotify.com/track/1q5XUAzuOJ6GXCFhePKu70) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [All I Do](https://open.spotify.com/album/00zOAQMoEQOP8nhSKFNg6f) | 2:51 | 2021-12-07 | 2023-11-06 |
 | [All I Need](https://open.spotify.com/track/7HtFDgrDfV9R8wlBaCLuXk) | [Dissolut](https://open.spotify.com/artist/00qEejZyY0fO6WFTRtuCVO), [Jane](https://open.spotify.com/artist/1tWhAShzHHzPwgr9vPsgdR) | [All I Need](https://open.spotify.com/album/4C1fvHgY4EwE5xPF3BlCfB) | 3:40 | 2021-12-07 |  |
 | [All Love](https://open.spotify.com/track/0tcysM4Osofpa36K6hsymN) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Nandi](https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH) | [All Love](https://open.spotify.com/album/1XH1sO9GfdWtZM611hNJYU) | 5:30 | 2023-10-27 |  |
 | [All Love](https://open.spotify.com/track/5CYtyWsyAEmPfn6OcbG921) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Nandi](https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH) | [All Love](https://open.spotify.com/album/01BTDb8xUH6RDHrVpfVANB) | 5:30 | 2021-12-07 | 2022-10-11 |

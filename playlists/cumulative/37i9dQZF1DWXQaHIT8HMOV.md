@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: Azawi
 
-177 songs - 9 hr 10 min
+178 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Captain](https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF) | [Kivumbi King](https://open.spotify.com/artist/3HUSbkQozU4gXUD82jAbRv), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Captain](https://open.spotify.com/album/7q5fBbqtu0Ypcb3mCvlKjE) | 2:12 | 2023-08-11 |  |
 | [Chai Mata](https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Chai Mata](https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw) | 2:55 | 2022-08-05 |  |
 | [Chai We Njaye](https://open.spotify.com/track/2eugayDg4riGTlUp2yx6Sa) | [Omutume Planet](https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp) | [Chai We Njaye](https://open.spotify.com/album/4qLSlCEFhQhZnAVXRDPMgS) | 2:44 | 2023-03-20 | 2023-04-15 |
-| [Chai We Njaye](https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m) | [Omutume Planet](https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp) | [Chai We Njaye](https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc) | 2:45 | 2023-04-27 |  |
+| [Chai We Njaye](https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m) | [Omutume Planet](https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp) | [Chai We Njaye](https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc) | 2:45 | 2023-04-27 | 2023-11-06 |
 | [Champion](https://open.spotify.com/track/2Ro8OuIwKZzAB3K1qxzfnC) | [Mun G](https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU) | [Mun G Singles](https://open.spotify.com/album/6xpiZsqFrXT8O5bFIRCXSJ) | 4:30 | 2022-11-10 | 2023-03-16 |
 | [Change the World](https://open.spotify.com/track/25AXVpk13te2q8PEG1lR4u) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Change the World](https://open.spotify.com/album/0hZFzKNPZQ5ytBeIgynnhm) | 3:50 | 2022-05-19 | 2022-10-07 |
 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 | 2022-07-29 |  |
@@ -124,6 +124,7 @@
 | [Nsudiya](https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2) | [Nsudiya](https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV) | 2:45 | 2022-10-06 | 2022-11-26 |
 | [Nteredde](https://open.spotify.com/track/7obRw7Iy6DbqvyuPyiqzUj) | [Ugaboys](https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe) | [Nteredde](https://open.spotify.com/album/6JcRkrtxzHACyHQytZ37z1) | 3:14 | 2022-07-08 | 2022-11-18 |
 | [Nyanya Mbisi](https://open.spotify.com/track/4TaavhhwL9c4bcWtD3I96I) | [That Malcolm Guy](https://open.spotify.com/artist/2oNtuWZXcMdCspkoQr97SI) | [Nyanya Mbisi](https://open.spotify.com/album/0ZQb5hEq1KKcyoBthJM3kZ) | 2:30 | 2022-09-30 | 2022-10-07 |
+| [Oasis](https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [OASIS](https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV) | 2:30 | 2023-10-26 |  |
 | [Obinkola](https://open.spotify.com/track/69UyO55KUY7xMsuEmj6nlY) | [Deejay Xp](https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj), [Recho Ray](https://open.spotify.com/artist/7pChsFrLjhslGKSfnYWIve) | [Second of All](https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh) | 2:26 | 2022-10-06 | 2023-03-22 |
 | [Omu](https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Omu](https://open.spotify.com/album/6i4sCnOmNSCkWyrFmPWGv1) | 2:54 | 2022-05-19 | 2023-03-21 |
 | [Omukwano \(Love\)](https://open.spotify.com/track/0OwVXpiH4Mikje2le0NQrG) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Omukwano \(Love\)](https://open.spotify.com/album/1DvxeF75SryYMeYsarF6NN) | 3:03 | 2023-09-07 |  |

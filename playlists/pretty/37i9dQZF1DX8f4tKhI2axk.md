@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 
 > Island vibes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,740 likes - 40 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,808 likes - 40 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 39 | [Pressure \(feat\. Buju Banton\) \- Remix](https://open.spotify.com/track/3mjsWpaYzIWJQcYgO7VtUA) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Pressure \(feat\. Buju Banton\) \[Remix\]](https://open.spotify.com/album/4ECWzBSar0g4vOfVZJRjp2) | 3:58 |
 | 40 | [Animal \- Mark Ronson Remix](https://open.spotify.com/track/1jsdtlKxAPYSVKwqsIJGLb) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Animal Remixes](https://open.spotify.com/album/1QR3ok2BgBhCicv4DQOhuH) | 4:31 |
 
-Snapshot ID: `MCw1ZDYwYjE0NTJlNTUzZTE5YjNiZTdkOGU4YjM2NGNlYjYyMThjZjZj`
+Snapshot ID: `MCxlMmM2ODRjZTE4ZTg3NmM2MDRjZDFiZjkyNDg2OWYxZDRmOGYzY2Zm`

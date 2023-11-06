@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Matrefakt\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,504 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,511 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [She Said](https://open.spotify.com/track/4w6qHqUSwgsE7WDtOqo6u5) | [Marian \(BR\)](https://open.spotify.com/artist/5FCqRgK9PqJYyfnBJg4AeH), [Greg Santos](https://open.spotify.com/artist/5747gCrnAbFX8SxvMQu8VF) | [Queloque](https://open.spotify.com/album/3Fe6KUvWNeKtQpwMeVGING) | 5:30 |
 | 100 | [Play My Heart](https://open.spotify.com/track/1j5FYHpCX7btJB3bNUIaRa) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Play My Heart](https://open.spotify.com/album/2i4DLnJcntISBRrlFnOB0Z) | 3:45 |
 
-Snapshot ID: `MCwxNjBhZjVkMjRlOTUyZmI1MGEwZTc1YWYzOGQzNWRjZTY3ZTEyMWU5`
+Snapshot ID: `MCxjMmUwMDJhNTM4YmUxZGJkNjk5NTkzNzYwMjM3ZWU4OGU4ZDRlODc1`

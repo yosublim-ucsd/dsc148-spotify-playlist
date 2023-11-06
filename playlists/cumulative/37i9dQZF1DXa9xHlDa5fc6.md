@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites and new discoveries.
 
-347 songs - 21 hr 29 min
+348 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,13 +63,14 @@
 | [Can You Feel The Sun](https://open.spotify.com/track/2DZqu0ju4GPs4nJXm1XrQ1) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Can You Feel The Sun](https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq) | 4:46 | 2022-04-11 | 2023-11-05 |
 | [Can You Feel The Sun](https://open.spotify.com/track/44CtGKrhVKziEMHo8LqUSt) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Can You Feel The Sun](https://open.spotify.com/album/45gvONJjiRaizbKLlNSffg) | 4:46 | 2020-09-11 | 2022-07-29 |
 | [Candy Eyes](https://open.spotify.com/track/3wsFy2qbDtWRuAqzfu86hd) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [Candy Eyes](https://open.spotify.com/album/5fvuhLcnFzgiLKAvVUVazX) | 2:50 | 2020-07-18 |  |
+| [Cardiac Arrest](https://open.spotify.com/track/5aejtAMTPonqopEygQgOkq) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Language & Perspective](https://open.spotify.com/album/4TPjqLZkA2ekWLEQ8GvMr9) | 3:02 | 2023-05-26 |  |
 | [Cardiac Arrest](https://open.spotify.com/track/1zxXEG06gL5D4AHO2DhLxe) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Language & Perspective](https://open.spotify.com/album/4WK3M927Ah4mSM0DKwCvnz) | 3:02 | 2019-06-16\* | 2022-07-29 |
 | [Cardiac Arrest](https://open.spotify.com/track/6zQyu8L8yUuJkl6LbQ6iKU) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Language & Perspective](https://open.spotify.com/album/54bO9jrn1NExmpg6Afsc2A) | 3:02 | 2022-04-11 | 2023-11-03 |
 | [Changing](https://open.spotify.com/track/1l24p4pRr1KmoLsI6OUTry) | [The Brazen Youth](https://open.spotify.com/artist/7tnIA4ww5dwoyENYz4GM5T) | [Changing](https://open.spotify.com/album/1OYygBBOq2U4tqiEKfRFlj) | 3:40 | 2021-10-22 | 2022-07-29 |
 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 | 2019-06-16\* |  |
 | [Cinema Love](https://open.spotify.com/track/28yYvFeocTDYzao76YVB75) | [Patrick Martin](https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8) | [Cinema Love](https://open.spotify.com/album/356ZbANcwXGXMpgOZePud7) | 3:48 | 2022-09-16 |  |
 | [Cinema Love](https://open.spotify.com/track/59reiI9iXYA0sI3jGKRGdC) | [Patrick Martin](https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8) | [Cinema Love](https://open.spotify.com/album/4sfoMGrDHeeO3BhAP2lM1t) | 3:48 | 2019-06-16\* | 2022-10-13 |
-| [Close Your Eyes](https://open.spotify.com/track/4HM8tkHTQ6JVSMfsJOrcAW) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sweat](https://open.spotify.com/album/0QqrTxRtjqQmH5XyqwORlU) | 4:27 | 2022-04-11 |  |
+| [Close Your Eyes](https://open.spotify.com/track/4HM8tkHTQ6JVSMfsJOrcAW) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sweat](https://open.spotify.com/album/0QqrTxRtjqQmH5XyqwORlU) | 4:27 | 2022-04-11 | 2023-11-06 |
 | [Close Your Eyes](https://open.spotify.com/track/6nknq3uzBIsYNjEdRiOzMo) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sweat](https://open.spotify.com/album/3DlC3mcBzssqPkY7lhmfls) | 4:27 | 2019-06-16\* | 2022-07-29 |
 | [Cocoon](https://open.spotify.com/track/2v06ZOVTUrUoBNKOCqS22m) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Cocoon](https://open.spotify.com/album/6AhNACx5j2NqU840PMi5O3) | 4:14 | 2019-06-16\* | 2022-07-28 |
 | [Cocoon](https://open.spotify.com/track/6acDlNeA06MCVCzsTVGr9V) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Blossom \(Deluxe\)](https://open.spotify.com/album/72xhsdVmVWFXJuSjABjqtC) | 4:15 | 2022-04-11 |  |

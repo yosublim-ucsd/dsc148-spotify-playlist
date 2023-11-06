@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/2lU1O72Qpkh9PFhP5UQM4F"
+      },
+      "artists": [
+        {
+          "name": "Jerome Price",
+          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205117,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/71yhzfnnCJGyqASU49wKJO"
+    },
+    {
+      "album": {
         "name": "Fauna",
         "url": "https://open.spotify.com/album/4PnKCCuzXvDg1QQobNfPD7"
       },
@@ -898,7 +916,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 278796,
       "name": "Hope In Balance",
       "url": "https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o"

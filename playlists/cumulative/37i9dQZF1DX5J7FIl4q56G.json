@@ -39977,6 +39977,24 @@
     },
     {
       "album": {
+        "name": "madworld",
+        "url": "https://open.spotify.com/album/5XvfiZ3MDTT9Qnvu2sFGUk"
+      },
+      "artists": [
+        {
+          "name": "Kontrust",
+          "url": "https://open.spotify.com/artist/3sQVICf0Bhikl5tlBQSU6W"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176853,
+      "name": "i physically like you",
+      "url": "https://open.spotify.com/track/38zHX94Dit4linIuNxDALG"
+    },
+    {
+      "album": {
         "name": "i physically like you",
         "url": "https://open.spotify.com/album/1JzkUGGpLgm6IlzTG9vDuW"
       },
@@ -39988,7 +40006,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 176853,
       "name": "i physically like you",
       "url": "https://open.spotify.com/track/5zixK8bJCFy034QOJrpyQj"

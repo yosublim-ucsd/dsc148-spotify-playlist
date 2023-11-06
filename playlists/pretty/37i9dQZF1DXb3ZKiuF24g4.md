@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZKiuF24g4.md) - [plain]
 | 32 | [Surfer Girl \(Stereo\)](https://open.spotify.com/track/0yQLW0FSYo8fye3FsMgAQU) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Mono & Stereo\)](https://open.spotify.com/album/11HAwlOWpKxJVbGIxnZ3qI) | 2:28 |
 | 33 | [Walking On A Dream](https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/04gYcIojJt78nYnN5oOrKt) | 3:18 |
 | 34 | [Sand + Imagination](https://open.spotify.com/track/7yfsc3m2EL2ZUPENKX1EE0) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp) | [Building Blocks](https://open.spotify.com/album/7dQLT9UwXHYXUCAycMzNxz) | 2:53 |
-| 35 | [In the Summertime](https://open.spotify.com/track/7jhKkbM3KZvnuqzMX5fADH) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [Electronically Tested](https://open.spotify.com/album/3Yg1sU4RPNSHRoDlRcdejo) | 3:35 |
+| 35 | [In the Summertime](https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7) | 3:31 |
 | 36 | [Ridin' the Big Waves](https://open.spotify.com/track/4oGkikhxhR2gdrM3J7MQCW) | [Charity and the Jamband](https://open.spotify.com/artist/5YTYt0ir3CPgXGWTlfWdHT) | [Peanut Butter and JAM](https://open.spotify.com/album/0NjKamX0KpwHIwp27z0WJw) | 2:23 |
 | 37 | [Someday \- Remastered](https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 4:03 |
 | 38 | [Making Waves](https://open.spotify.com/track/7ya9Wb5ek21dYx06TtD0V5) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Deep Sea Diver](https://open.spotify.com/album/36XrVhfFQBakUcrnWOsuo8) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZKiuF24g4.md) - [plain]
 | 49 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 |
 | 50 | [Coastal](https://open.spotify.com/track/22ejspKqayOvA7eCzUjFlk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 2:39 |
 
-Snapshot ID: `MCxjNzRjMWU1ZjBjNDEyMzMxYzU4NDJmMWI0YjM0NWY3MjI3NDE1Mjlm`
+Snapshot ID: `MCw1MzE0OTFjYTRhMjFmYmIxODJkZGIzYzY0NTgyNjVjZmU3Zjk1YTY0`

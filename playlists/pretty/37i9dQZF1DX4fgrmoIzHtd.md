@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,889 likes - 52 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,906 likes - 52 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 18 | [Man](https://open.spotify.com/track/4E6roBo9LBmKI25FLqKSCj) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb) | [Amour](https://open.spotify.com/album/6CXuOOz7PsLFqEJ26tNEJ4) | 6:21 |
 | 19 | [Tundra](https://open.spotify.com/track/1UgOnzhPO9rF0yL6MVvDvn) | [Dorisburg](https://open.spotify.com/artist/0OZ1LUrTGxwx0dr71DL7D6) | [Tundra](https://open.spotify.com/album/23OJnqEAd4JZ1dOtLbyIXr) | 8:37 |
 | 20 | [Rigormortiz](https://open.spotify.com/track/7A70vXpEnca9jxBThGakKT) | [Yungruzt](https://open.spotify.com/artist/3GR1QMA6ZB4yXPVymUqBrS) | [Rigormortiz](https://open.spotify.com/album/3v68VgJ8ZomiO8hqiXkt16) | 6:31 |
-| 21 | [Cyclops \- Volen Sentir & Izhevski Remix](https://open.spotify.com/track/0fMzGl1UMV6NUPPbJsToEp) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71), [Quenum](https://open.spotify.com/artist/0eHglGsy8W3uW5fimUYTF2), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l), [Izhevski](https://open.spotify.com/artist/5kgbdZjaH7REUaSXBV8lfH) | [The Remixes \(Part Two\)](https://open.spotify.com/album/1qZHDWztYjtJ1kLnPFHS1V) | 8:11 |
+| 21 | [Cyclops \- Volen Sentir & Izhevski Remix](https://open.spotify.com/track/1KtsAL8BVJ29IN8CuSecxx) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71), [Quenum](https://open.spotify.com/artist/0eHglGsy8W3uW5fimUYTF2), [Izhevski](https://open.spotify.com/artist/5kgbdZjaH7REUaSXBV8lfH), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [The Remixes \(Pt\. Two\)](https://open.spotify.com/album/4gSeFbUXd4LKSwmpzlrZx1) | 8:11 |
 | 22 | [Poplar \- Maud Geffray Remix](https://open.spotify.com/track/18BaY87QAHpOuwX0PXCNAo) | [Blutch](https://open.spotify.com/artist/5cdE65wvlFqMFAeQ29MZgr), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Poplar \(Maud Geffray Remix\)](https://open.spotify.com/album/24MqK5IqpBqsbDyjmBQAzG) | 4:43 |
 | 23 | [Ginger & Fred](https://open.spotify.com/track/2RTMAscRZBum7QS2dWHI5c) | [Tiger & Woods](https://open.spotify.com/artist/0AEi1DK5ehyvkZzOUlqEVz) | [On The Green Again](https://open.spotify.com/album/1ASGNkMTcydM6JMFOWzMmD) | 6:59 |
 | 24 | [Little Girl \(feat\. Julian Casablancas\)](https://open.spotify.com/track/6lGzMfAWjZbvPPf8SLpu0Y) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Dark Night of The Soul](https://open.spotify.com/album/4m7YqqQc36mQwhHgH4AsVu) | 4:32 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 51 | [Change](https://open.spotify.com/track/58czdfdkPFvp8a3DRTUyBI) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Change](https://open.spotify.com/album/6XPbirRQZpjKJLMW8GhtkB) | 3:21 |
 | 52 | [Ghosts Again](https://open.spotify.com/track/3p5JD79PQP737dyEY2hnmf) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Memento Mori](https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q) | 3:58 |
 
-Snapshot ID: `MCw1NzkxYTJkODA2NmViZWVhMGU1M2RjNzViMWNkMzNiMjA4ZjI3MDk5`
+Snapshot ID: `MCw1NDk4YmJjM2EyODE5YmJkZTMzNjQ1OTE1YmZkYjA2N2VmMDhiOTk0`

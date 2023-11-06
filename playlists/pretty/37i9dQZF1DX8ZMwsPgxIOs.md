@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Adam Beyer
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,578 likes - 80 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,634 likes - 80 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 53 | [Simulator](https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Simulator](https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ) | 3:40 |
 | 54 | [Shook](https://open.spotify.com/track/3pvthFHMfvalSNxcnSJgUM) | [David Lowe](https://open.spotify.com/artist/52dT7EHXa4b74ozIjFISzD), [Brad Edgar](https://open.spotify.com/artist/32zsdaR0kbqUOgHwMAtiTx) | [Shook](https://open.spotify.com/album/5V9YlNz4b31CggAtQ5ubhV) | 3:39 |
 | 55 | [Subcultures](https://open.spotify.com/track/219dcH5o0f37ECYioSPtaw) | [Surgeon](https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM) | [Crash Recoil](https://open.spotify.com/album/074BDQSfufLOuL8qWsRsyg) | 5:58 |
-| 56 | [Pinger](https://open.spotify.com/track/3ozYevAGA6jmeBa3O6i24R) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [Pinger](https://open.spotify.com/album/7aKgtWED31pHemqYp2ltCy) | 4:58 |
+| 56 | [Pinger](https://open.spotify.com/track/6iOSV9Wk97hIpWVHfq29Dj) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [Pinger](https://open.spotify.com/album/66RRmzSYSxtvkFDjqZzJps) | 4:58 |
 | 57 | [The Sign \(with CamelPhat\)](https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:33 |
 | 58 | [Get Down](https://open.spotify.com/track/0Ex4dfzYtS1tgoubw8jLod) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Get Down](https://open.spotify.com/album/4RKK2gMGokfiGGGk4l1FiS) | 4:01 |
 | 59 | [Whatitcouldbe](https://open.spotify.com/track/2t3AfL2DDgkVnbtnBw3XbE) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [/Y\\](https://open.spotify.com/album/2HL79drnZ6gYN6K6VacnDg) | 3:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 79 | [Ghosts](https://open.spotify.com/track/045EJUy4tNHrB3lgvpSdND) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Icons](https://open.spotify.com/album/5sJJC4UoKTfJaW0jO6YYCG) | 5:53 |
 | 80 | [Seance](https://open.spotify.com/track/0YWDmzwd4pkBlKxLqOD3Xl) | [Kundai](https://open.spotify.com/artist/3X08gT9HYzAdJFfQvS7f81) | [Glisten](https://open.spotify.com/album/7pqQBz6OVlRO1NxFuGBIk1) | 5:57 |
 
-Snapshot ID: `MCw5MDY3N2YwYjUxYjJlNzcxMzgzNTg0Y2JlOGU2OTY5N2RhZTFjYTcy`
+Snapshot ID: `MCwxZTg0OTU0NTQyYWYyNWY5NjVmYTA4ZmI3NDFhNzFlZjE4MTVkYWY1`

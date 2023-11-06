@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23664,
+  "num_followers": 23667,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDFiZTFmY2ViNTRhNjgyZWFiYjRjMzdhYmYwMDg4NDU0Njk0MmEy",
+  "snapshot_id": "MCxmZWRjMjYxYzg2NDc4YWM2YTQ1MDk3YzY0MDg0ZWI5YzEzMTY3MTFk",
   "tracks": [
     {
       "added_at": "2023-10-26 18:51:01",
@@ -459,22 +459,18 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "TRIP",
-        "url": "https://open.spotify.com/album/4R2oCsWPmQLLfRZUZwpjzh"
+        "name": "Latinoamericana",
+        "url": "https://open.spotify.com/album/0rJcvw5YO9a1QpktRZESAv"
       },
       "artists": [
         {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
         }
       ],
-      "duration_ms": 175161,
-      "name": "TRIP",
-      "url": "https://open.spotify.com/track/4qJZMkZWLkjXsddoBzAgpb"
+      "duration_ms": 217066,
+      "name": "Locura",
+      "url": "https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -499,18 +495,22 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Latinoamericana",
-        "url": "https://open.spotify.com/album/0rJcvw5YO9a1QpktRZESAv"
+        "name": "TRIP",
+        "url": "https://open.spotify.com/album/4R2oCsWPmQLLfRZUZwpjzh"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
         }
       ],
-      "duration_ms": 217066,
-      "name": "Locura",
-      "url": "https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK"
+      "duration_ms": 175161,
+      "name": "TRIP",
+      "url": "https://open.spotify.com/track/4qJZMkZWLkjXsddoBzAgpb"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "MA\u00d1ANA ES PEOR :(",
-        "url": "https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd"
-      },
-      "artists": [
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
-        }
-      ],
-      "duration_ms": 225746,
-      "name": "PARQUE DE LA COSTA",
-      "url": "https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "El Mundo Ser\u00e1 Nuestro",
         "url": "https://open.spotify.com/album/4HU8TUSho4zUe3eG9I2xnX"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 278120,
       "name": "El Mundo Ser\u00e1 Nuestro",
       "url": "https://open.spotify.com/track/44ISmW3lNQUqyqRRKrTw2K"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "MA\u00d1ANA ES PEOR :(",
+        "url": "https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd"
+      },
+      "artists": [
+        {
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
+        }
+      ],
+      "duration_ms": 225746,
+      "name": "PARQUE DE LA COSTA",
+      "url": "https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
+        "name": "Noche de Vampiros",
+        "url": "https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n"
+      },
+      "artists": [
+        {
+          "name": "Trashu",
+          "url": "https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY"
+        }
+      ],
+      "duration_ms": 185187,
+      "name": "Noche de Vampiros",
+      "url": "https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
         "name": "Derrumbe",
         "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Dir\u00e9 tu nombre",
-        "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
-      },
-      "artists": [
-        {
-          "name": "Agua Florida",
-          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
-        }
-      ],
-      "duration_ms": 179950,
-      "name": "Dir\u00e9 tu nombre",
-      "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "Guazatumba",
         "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
       },
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
+        "name": "Dir\u00e9 tu nombre",
+        "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
+      },
+      "artists": [
+        {
+          "name": "Agua Florida",
+          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
+        }
+      ],
+      "duration_ms": 179950,
+      "name": "Dir\u00e9 tu nombre",
+      "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
         "name": "Delight",
         "url": "https://open.spotify.com/album/1DNqh53UJJWkRg5Tk9ysWc"
       },
@@ -1423,38 +1439,6 @@
       "duration_ms": 309014,
       "name": "Delight",
       "url": "https://open.spotify.com/track/2h4yMcOkn6n62XBYhtgQl4"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
-        "name": "Noche de Vampiros",
-        "url": "https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n"
-      },
-      "artists": [
-        {
-          "name": "Trashu",
-          "url": "https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY"
-        }
-      ],
-      "duration_ms": 185187,
-      "name": "Noche de Vampiros",
-      "url": "https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
-        "name": "Cu\u00e1nto Falta",
-        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
-      },
-      "artists": [
-        {
-          "name": "Ziberia",
-          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
-        }
-      ],
-      "duration_ms": 240050,
-      "name": "Cu\u00e1nto Falta",
-      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Luc\u00eda",
-        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
+        "name": "Cu\u00e1nto Falta",
+        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
       },
       "artists": [
         {
-          "name": "Renata Di Croce",
-          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
+          "name": "Ziberia",
+          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
         }
       ],
-      "duration_ms": 289333,
-      "name": "Luc\u00eda",
-      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
+      "duration_ms": 240050,
+      "name": "Cu\u00e1nto Falta",
+      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1507,22 +1491,6 @@
       "duration_ms": 371735,
       "name": "Lucidez",
       "url": "https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
-        "name": "Peces Raros (Vivo Buenos Aires)",
-        "url": "https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ"
-      },
-      "artists": [
-        {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        }
-      ],
-      "duration_ms": 310890,
-      "name": "Sombras en la Pared - Vivo Buenos Aires",
-      "url": "https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1547,6 +1515,38 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
+        "name": "Luc\u00eda",
+        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
+      },
+      "artists": [
+        {
+          "name": "Renata Di Croce",
+          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "Luc\u00eda",
+      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "Peces Raros (Vivo Buenos Aires)",
+        "url": "https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "duration_ms": 310890,
+      "name": "Sombras en la Pared - Vivo Buenos Aires",
+      "url": "https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
         "name": "Compa\u00f1era",
         "url": "https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4"
       },
@@ -1563,22 +1563,18 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Latina",
-        "url": "https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR"
+        "name": "Formas",
+        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
       },
       "artists": [
         {
           "name": "Entr\u00f3pica",
           "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
-        },
-        {
-          "name": "Sukubito",
-          "url": "https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy"
         }
       ],
-      "duration_ms": 187248,
-      "name": "Latina",
-      "url": "https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU"
+      "duration_ms": 213018,
+      "name": "Housie",
+      "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1619,26 +1615,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "PANTERA NEGRA",
-        "url": "https://open.spotify.com/album/7kHLoYeWZ5LxSOKYlsvhp9"
-      },
-      "artists": [
-        {
-          "name": "HAKANNA",
-          "url": "https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO"
-        },
-        {
-          "name": "Joshvatunes",
-          "url": "https://open.spotify.com/artist/1CB2epFJK69CCydeG5GLuc"
-        }
-      ],
-      "duration_ms": 200125,
-      "name": "PANTERA NEGRA",
-      "url": "https://open.spotify.com/track/16dwDsbD6tah72GeIUBskp"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "Todas las Luces (Remix)",
         "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
       },
@@ -1655,6 +1631,26 @@
       "duration_ms": 220000,
       "name": "Todas las Luces - Remix",
       "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/7kHLoYeWZ5LxSOKYlsvhp9"
+      },
+      "artists": [
+        {
+          "name": "HAKANNA",
+          "url": "https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO"
+        },
+        {
+          "name": "Joshvatunes",
+          "url": "https://open.spotify.com/artist/1CB2epFJK69CCydeG5GLuc"
+        }
+      ],
+      "duration_ms": 200125,
+      "name": "PANTERA NEGRA",
+      "url": "https://open.spotify.com/track/16dwDsbD6tah72GeIUBskp"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1699,18 +1695,22 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Formas",
-        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
+        "name": "Latina",
+        "url": "https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR"
       },
       "artists": [
         {
           "name": "Entr\u00f3pica",
           "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+        },
+        {
+          "name": "Sukubito",
+          "url": "https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy"
         }
       ],
-      "duration_ms": 213018,
-      "name": "Housie",
-      "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
+      "duration_ms": 187248,
+      "name": "Latina",
+      "url": "https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1735,26 +1735,22 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "\u00daltimamente",
-        "url": "https://open.spotify.com/album/0WJBCgQpMgOg6OGrLw7IHC"
+        "name": "Zentaura",
+        "url": "https://open.spotify.com/album/5QkPxWYBgDfEnkNzL9zy1m"
       },
       "artists": [
         {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+          "name": "Juli\u00e1n Desbats",
+          "url": "https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP"
         },
         {
-          "name": "Maika Loubt\u00e9",
-          "url": "https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz"
-        },
-        {
-          "name": "ELET\u00c9",
-          "url": "https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs"
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
         }
       ],
-      "duration_ms": 233106,
-      "name": "\u00daltimamente",
-      "url": "https://open.spotify.com/track/51nSvDGXM7G9kVKlptO6Id"
+      "duration_ms": 186158,
+      "name": "Zentaura",
+      "url": "https://open.spotify.com/track/5n8wmlh90HNlV0VnAhxw0Z"
     }
   ],
   "unique_name": "ElectroPop",

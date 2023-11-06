@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto:  Fabiana Sinfr\u00f4nio",
-  "num_followers": 307374,
+  "num_followers": 307487,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmE5MWMzMDU4YjExMzA2NTdmMjhkOTc5NGNhNjkwNWMxMTJmODg2",
+  "snapshot_id": "MCwxZTgxMmE2MjZiMDVjZTVhZjg5OTBkN2VkZmY0ZTAzOTJjMTMzNjM2",
   "tracks": [
     {
       "added_at": "2023-11-03 04:28:35",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-11-03 04:28:35",
       "album": {
+        "name": "Te Encontrei",
+        "url": "https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz"
+      },
+      "artists": [
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 184252,
+      "name": "Te Encontrei",
+      "url": "https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2"
+    },
+    {
+      "added_at": "2023-11-03 04:28:35",
+      "album": {
         "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/6WKir025Bp9KQGjKAodPSi"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 312497,
       "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
       "url": "https://open.spotify.com/track/5b75WAmLLdqIiVWyMTMctF"
-    },
-    {
-      "added_at": "2023-11-03 04:28:35",
-      "album": {
-        "name": "Te Encontrei",
-        "url": "https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz"
-      },
-      "artists": [
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "duration_ms": 184252,
-      "name": "Te Encontrei",
-      "url": "https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2"
     },
     {
       "added_at": "2023-11-03 04:28:35",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-11-03 04:28:35",
       "album": {
-        "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 358973,
-      "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B"
-    },
-    {
-      "added_at": "2023-11-03 04:28:35",
-      "album": {
         "name": "Recompensa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 231754,
       "name": "Recompensa (Ao Vivo)",
       "url": "https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd"
+    },
+    {
+      "added_at": "2023-11-03 04:28:35",
+      "album": {
+        "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 358973,
+      "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B"
     },
     {
       "added_at": "2023-11-03 04:28:35",
@@ -851,38 +851,6 @@
     {
       "added_at": "2023-11-03 04:28:35",
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
-    },
-    {
-      "added_at": "2023-11-03 04:28:35",
-      "album": {
-        "name": "Santo pra Sempre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr"
-      },
-      "artists": [
-        {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
-        }
-      ],
-      "duration_ms": 327756,
-      "name": "Santo para Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg"
-    },
-    {
-      "added_at": "2023-11-03 04:28:35",
-      "album": {
         "name": "O Segredo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
       },
@@ -915,6 +883,38 @@
       "duration_ms": 383968,
       "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
       "url": "https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ"
+    },
+    {
+      "added_at": "2023-11-03 04:28:35",
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
+    },
+    {
+      "added_at": "2023-11-03 04:28:35",
+      "album": {
+        "name": "Santo pra Sempre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr"
+      },
+      "artists": [
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        }
+      ],
+      "duration_ms": 327756,
+      "name": "Santo para Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg"
     },
     {
       "added_at": "2023-11-03 04:28:35",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-11-03 04:28:35",
       "album": {
-        "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 312674,
-      "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a"
-    },
-    {
-      "added_at": "2023-11-03 04:28:35",
-      "album": {
         "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1Qc5BQBQYbmBNUDX8tWNgt"
       },
@@ -1035,18 +1015,22 @@
     {
       "added_at": "2023-11-03 04:28:35",
       "album": {
-        "name": "Gratid\u00e3o - Parte 2",
-        "url": "https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs"
+        "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu"
       },
       "artists": [
         {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 239156,
-      "name": "Fiel A Mim",
-      "url": "https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk"
+      "duration_ms": 312674,
+      "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a"
     },
     {
       "added_at": "2023-11-03 04:28:35",
@@ -1067,6 +1051,22 @@
       "duration_ms": 334310,
       "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
       "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
+    },
+    {
+      "added_at": "2023-11-03 04:28:35",
+      "album": {
+        "name": "Gratid\u00e3o - Parte 2",
+        "url": "https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 239156,
+      "name": "Fiel A Mim",
+      "url": "https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk"
     },
     {
       "added_at": "2023-11-03 04:28:35",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-11-03 04:28:35",
       "album": {
-        "name": "Grande \u00e9 o Nosso Deus",
-        "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 319166,
-      "name": "Grande \u00e9 o Nosso Deus",
-      "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
-    },
-    {
-      "added_at": "2023-11-03 04:28:35",
-      "album": {
         "name": "Abra os Meus Olhos (Ao Vivo)",
         "url": "https://open.spotify.com/album/04kWUqod7n4eVvhihdv8HT"
       },
@@ -1151,26 +1135,6 @@
       "duration_ms": 345698,
       "name": "Abra os Meus Olhos (Ao Vivo)",
       "url": "https://open.spotify.com/track/3q7jxvZC9t2FZfOSh1Tvv1"
-    },
-    {
-      "added_at": "2023-11-03 04:28:35",
-      "album": {
-        "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0VvCPIpTQRnYsT6BCwtqWn"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Sinfr\u00f4nio",
-          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
-        },
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        }
-      ],
-      "duration_ms": 214553,
-      "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1Hy7Tu4Zu6aZ5uubBdQTgL"
     },
     {
       "added_at": "2023-11-03 04:28:35",
@@ -1203,6 +1167,42 @@
       "duration_ms": 348595,
       "name": "Milagre Pra Voc\u00ea",
       "url": "https://open.spotify.com/track/5RXHfNspEa1aTC5cVMuO99"
+    },
+    {
+      "added_at": "2023-11-03 04:28:35",
+      "album": {
+        "name": "Grande \u00e9 o Nosso Deus",
+        "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 319166,
+      "name": "Grande \u00e9 o Nosso Deus",
+      "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
+    },
+    {
+      "added_at": "2023-11-03 04:28:35",
+      "album": {
+        "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0VvCPIpTQRnYsT6BCwtqWn"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+        },
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        }
+      ],
+      "duration_ms": 214553,
+      "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1Hy7Tu4Zu6aZ5uubBdQTgL"
     },
     {
       "added_at": "2023-11-03 04:28:35",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-11-03 04:28:35",
       "album": {
-        "name": "Sei Que Est\u00e1s Aqui (Esp\u00edrito Santo)",
-        "url": "https://open.spotify.com/album/54o7ZDu0O8qCAp5wynnTo9"
-      },
-      "artists": [
-        {
-          "name": "Anayle Sullivan",
-          "url": "https://open.spotify.com/artist/1c2JR0YnL2s5tupBNip7LP"
-        }
-      ],
-      "duration_ms": 343393,
-      "name": "Sei Que Est\u00e1s Aqui (Esp\u00edrito Santo)",
-      "url": "https://open.spotify.com/track/217Of1vISdw7jjTtO62jHT"
-    },
-    {
-      "added_at": "2023-11-03 04:28:35",
-      "album": {
         "name": "Momentos (Vol.2)",
         "url": "https://open.spotify.com/album/0WeIm6VLCQgXjBnCQq3juH"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 321774,
       "name": "Como Na Primeira Vez",
       "url": "https://open.spotify.com/track/3M6mO126G6yqgT1bpTjrfo"
+    },
+    {
+      "added_at": "2023-11-03 04:28:35",
+      "album": {
+        "name": "Sei Que Est\u00e1s Aqui (Esp\u00edrito Santo)",
+        "url": "https://open.spotify.com/album/54o7ZDu0O8qCAp5wynnTo9"
+      },
+      "artists": [
+        {
+          "name": "Anayle Sullivan",
+          "url": "https://open.spotify.com/artist/1c2JR0YnL2s5tupBNip7LP"
+        }
+      ],
+      "duration_ms": 343393,
+      "name": "Sei Que Est\u00e1s Aqui (Esp\u00edrito Santo)",
+      "url": "https://open.spotify.com/track/217Of1vISdw7jjTtO62jHT"
     },
     {
       "added_at": "2023-11-03 04:28:35",

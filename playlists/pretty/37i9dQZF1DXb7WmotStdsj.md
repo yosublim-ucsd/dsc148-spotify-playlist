@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,372 likes - 60 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,886 likes - 60 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Nti Mrida](https://open.spotify.com/track/0uDM6l1BBitqbTVTkidtKz) | [Faycel cholé](https://open.spotify.com/artist/55b0Nu2e9Qoq0rMl6A51As) | [La Nti Mrida](https://open.spotify.com/album/11HL5lFB24mx4ORbibsFXj) | 8:21 |
 | 2 | [ماتفكروهاش خلوها ناسيا](https://open.spotify.com/track/5Ax3wWbzNHGH4nyV3fEu95) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl), [Cheb Mirou](https://open.spotify.com/artist/39O6tDnyxN5GNWhjHRkjNa) | [ماتفكروهاش خلوها ناسيا](https://open.spotify.com/album/7rzjlXhVqDHpOktPXjgRNl) | 6:12 |
-| 3 | [Ndamt 3Lik](https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Ndamt 3Lik](https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51) | 6:03 |
-| 4 | [Wah wah wah](https://open.spotify.com/track/64aYuL3Ex4BiVBzH2UjTXl) | [jilali boumelah](https://open.spotify.com/artist/6Iw0Ex7lNpa8j9kJmygfep) | [Wah wah wah](https://open.spotify.com/album/2vNS4WI2WROlRUhBKzpHUJ) | 4:06 |
-| 5 | [Nifi Wala Autoroute](https://open.spotify.com/track/4gqg0rUZRt8q5g3FkVtyHG) | [Cheb Zizou](https://open.spotify.com/artist/0jqfKafpVfBYPUgSLhW7dY) | [Nifi Wala Autoroute](https://open.spotify.com/album/4AW5xFzNd6OXGhXVhuCfsb) | 2:31 |
-| 6 | [Rani Maghboun](https://open.spotify.com/track/4XYuaMdBaaMhjJRLnLT4UL) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Rani Maghboun](https://open.spotify.com/album/1SsVP5ORISo4tbs1SQbd8K) | 6:59 |
-| 7 | [Ykhafou Dir Projet W Tanjah](https://open.spotify.com/track/2etuJU2aoEicf7wPSDpJAt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4tBGI5jacB10SSH7nCgDmf), [Amine La Colombe](https://open.spotify.com/artist/4G9Eqg2RdWdnOopLn2RQ6V) | [Ykhafou Dir Projet W Tanjah](https://open.spotify.com/album/0AJJwj5iD0wRVq9SmUKU2W) | 4:23 |
-| 8 | [Galbi Khasah Molah](https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Galbi Khasah Molah](https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT) | 4:26 |
-| 9 | [L3ach9 Kamalt M3ah](https://open.spotify.com/track/0sfECumlvNkcohhcUi0pBI) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt), [manini sahar](https://open.spotify.com/artist/5HQvmK91vtPM4XZRgeQUAb) | [L3ach9 Kamalt M3ah](https://open.spotify.com/album/1Js6ZRSwaB4wCm1xfjOaja) | 4:12 |
-| 10 | [Classico](https://open.spotify.com/track/2J4q5rfEpzy8bHPzlEOkQx) | [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [Classico](https://open.spotify.com/album/4zMmjcQdRXH9Bd13d5Mm2V) | 3:49 |
+| 3 | [Choufou lamour madar fiya](https://open.spotify.com/track/1lduNwd2JPXTlTBgYlGmre) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Choufou lamour madar fiya](https://open.spotify.com/album/0ZVGBiwlUZIFKljBm7btnG) | 3:08 |
+| 4 | [Ndamt 3Lik](https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Ndamt 3Lik](https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51) | 6:03 |
+| 5 | [Wah wah wah](https://open.spotify.com/track/64aYuL3Ex4BiVBzH2UjTXl) | [jilali boumelah](https://open.spotify.com/artist/6Iw0Ex7lNpa8j9kJmygfep) | [Wah wah wah](https://open.spotify.com/album/2vNS4WI2WROlRUhBKzpHUJ) | 4:06 |
+| 6 | [Nifi Wala Autoroute](https://open.spotify.com/track/4gqg0rUZRt8q5g3FkVtyHG) | [Cheb Zizou](https://open.spotify.com/artist/0jqfKafpVfBYPUgSLhW7dY) | [Nifi Wala Autoroute](https://open.spotify.com/album/4AW5xFzNd6OXGhXVhuCfsb) | 2:31 |
+| 7 | [Rani Maghboun](https://open.spotify.com/track/4XYuaMdBaaMhjJRLnLT4UL) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Rani Maghboun](https://open.spotify.com/album/1SsVP5ORISo4tbs1SQbd8K) | 6:59 |
+| 8 | [Ykhafou Dir Projet W Tanjah](https://open.spotify.com/track/2etuJU2aoEicf7wPSDpJAt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4tBGI5jacB10SSH7nCgDmf), [Amine La Colombe](https://open.spotify.com/artist/4G9Eqg2RdWdnOopLn2RQ6V) | [Ykhafou Dir Projet W Tanjah](https://open.spotify.com/album/0AJJwj5iD0wRVq9SmUKU2W) | 4:23 |
+| 9 | [Galbi Khasah Molah](https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Galbi Khasah Molah](https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT) | 4:26 |
+| 10 | [L3ach9 Kamalt M3ah](https://open.spotify.com/track/0sfECumlvNkcohhcUi0pBI) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt), [manini sahar](https://open.spotify.com/artist/5HQvmK91vtPM4XZRgeQUAb) | [L3ach9 Kamalt M3ah](https://open.spotify.com/album/1Js6ZRSwaB4wCm1xfjOaja) | 4:12 |
 | 11 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 |
 | 12 | [Nabghi Nhawas](https://open.spotify.com/track/2u8hovFZoxDdTAMmgHsiMi) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Nabghi Nhawas](https://open.spotify.com/album/197oMQkYh9nl8SqTrCUM19) | 4:34 |
 | 13 | [Lhalaba Rahom Bazef](https://open.spotify.com/track/0mpdpFtVbCWfEiZH7TfTz9) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Lhalaba Rahom Bazef](https://open.spotify.com/album/6gkLMemVXimjoXoeqDSDVf) | 4:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Ma vie 2 fois](https://open.spotify.com/track/52XknVywsSWwVXwcxl6WAP) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 4:07 |
 | 60 | [Lokan jiti mra msagma](https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Lokan jiti mra msagma](https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW) | 5:39 |
 
-Snapshot ID: `MCw4NzI2ZGM2NDc5NTFkYWI0Nzk0ZWU3MDk0NzEzMDIwYThjYmI3NjY4`
+Snapshot ID: `MCxjMTFiOTIwNzMwOGRkYjUwMDllZmMwZmU3OTc5MDkwZGU2NTc4OWVk`

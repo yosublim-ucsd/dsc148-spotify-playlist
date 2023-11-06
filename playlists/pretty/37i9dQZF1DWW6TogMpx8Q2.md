@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 > Catch the week's hottest Cantopop songs by Hins Cheung, Serrini and more\. Cover: <a href="spotify:artist:6B9YF4eOv99klogeZUzkYM">Mirror</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,946 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,960 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 | 49 | [幼稚未完](https://open.spotify.com/track/1TcsJ21R8PMmpLcj34A02E) | [Raymond Lam](https://open.spotify.com/artist/4KCnzC71azFAYCKmD1bJOK) | [幼稚未完](https://open.spotify.com/album/1cMNmZCvoKkwGdUZpwcLTF) | 4:06 |
 | 50 | [留下來的人](https://open.spotify.com/track/0NaXXkY7Lss2VF3sYISJXG) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [人類世](https://open.spotify.com/album/44L9IokCH6BqKPFfkNbS9V) | 4:04 |
 
-Snapshot ID: `MCxiZGQzMzQyZDgwYmE0ZDg2Nzg0NDY4OTEwMjIxYTU0NGRjODliMmZh`
+Snapshot ID: `MCwxYWE3ZTkxMmUyYTgxMzFjYTM2MDY4MDNkZjYyYWIwNGE0YzEzNTlh`

@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 138436,
+  "num_followers": 138448,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWJlZjQ2ZjJiMmZjOTRjZmZiN2ViMjgyYjFkNzkxZWQ0M2VlOGVk",
+  "snapshot_id": "MCwxZGQ4OTVhNjY1MTM0Mjg5MjI4YWRiMjM2YjU2MWFkNWUxNTc2ZWU0",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:30",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 278040,
       "name": "After the Love Has Gone",
       "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "I Feel the Earth Move",
-      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 226213,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "I Feel the Earth Move",
+      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Givin' It Back",
-        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Love the One You're With",
-      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Trouble Man: 40th Anniversary Expanded Edition",
         "url": "https://open.spotify.com/album/1yBdCWeYUEthIz8aLxztBB"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 228640,
       "name": "Trouble Man",
       "url": "https://open.spotify.com/track/15pYj5ZiUJgBydzD7w6NbJ"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Givin' It Back",
+        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Love the One You're With",
+      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Essentials: Bloodstone",
-        "url": "https://open.spotify.com/album/40itH1o9OXNvjVjendp50L"
+        "name": "Everything Is Everything",
+        "url": "https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh"
       },
       "artists": [
         {
-          "name": "Bloodstone",
-          "url": "https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 249093,
-      "name": "Natural High - Single Version",
-      "url": "https://open.spotify.com/track/73etijhz7pV4Wx7GTANLpq"
+      "duration_ms": 413773,
+      "name": "The Ghetto",
+      "url": "https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Everything Is Everything",
-        "url": "https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh"
+        "name": "Tell It Like It Is - The Par Lo Years",
+        "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
       },
       "artists": [
         {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
         }
       ],
-      "duration_ms": 413773,
-      "name": "The Ghetto",
-      "url": "https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m"
+      "duration_ms": 165960,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1611,22 +1611,6 @@
       "duration_ms": 226066,
       "name": "We're in This Love Together",
       "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Tell It Like It Is - The Par Lo Years",
-        "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Ultimate Chi-Lites",
-        "url": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3"
+        "name": "The Essentials: Bloodstone",
+        "url": "https://open.spotify.com/album/40itH1o9OXNvjVjendp50L"
       },
       "artists": [
         {
-          "name": "The Chi-Lites",
-          "url": "https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued"
+          "name": "Bloodstone",
+          "url": "https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk"
         }
       ],
-      "duration_ms": 217520,
-      "name": "Oh Girl",
-      "url": "https://open.spotify.com/track/5tcR6nVpY1JRDyDcK0K60f"
+      "duration_ms": 249093,
+      "name": "Natural High - Single Version",
+      "url": "https://open.spotify.com/track/73etijhz7pV4Wx7GTANLpq"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1679,6 +1663,38 @@
       "duration_ms": 238693,
       "name": "Inside My Love - Remastered 1993",
       "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Ultimate Chi-Lites",
+        "url": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3"
+      },
+      "artists": [
+        {
+          "name": "The Chi-Lites",
+          "url": "https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued"
+        }
+      ],
+      "duration_ms": 217520,
+      "name": "Oh Girl",
+      "url": "https://open.spotify.com/track/5tcR6nVpY1JRDyDcK0K60f"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Very Best of Otis Redding",
+        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1735,22 +1751,6 @@
       "duration_ms": 254880,
       "name": "How Do You Keep The Music Playing",
       "url": "https://open.spotify.com/track/3lrpllvYQtR0WxSe5PLVLG"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "The Very Best of Otis Redding",
-        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Remember the Rain",
-        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
-      },
-      "artists": [
-        {
-          "name": "Kadhja Bonet",
-          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
-        }
-      ],
-      "duration_ms": 280062,
-      "name": "Remember the Rain",
-      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 203760,
       "name": "Harlem",
       "url": "https://open.spotify.com/track/6JumfGk4f9E5KLT086I75s"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Remember the Rain",
+        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
+      },
+      "artists": [
+        {
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+        }
+      ],
+      "duration_ms": 280062,
+      "name": "Remember the Rain",
+      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
-      },
-      "artists": [
-        {
-          "name": "Barbara Acklin",
-          "url": "https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Am I The Same Girl",
-      "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Irma Thomas Collection: 1961-1966",
         "url": "https://open.spotify.com/album/3MhMYjRhAkiZ9F4GDkcpuy"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 159733,
       "name": "Ruler Of My Heart",
       "url": "https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
+      },
+      "artists": [
+        {
+          "name": "Barbara Acklin",
+          "url": "https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Am I The Same Girl",
+      "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Inspiration Information/ Wings Of Love",
-        "url": "https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "Inspiration Information",
-      "url": "https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "A Strange Arrangement",
         "url": "https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU"
       },
@@ -2111,18 +2095,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Express Yourself (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3"
+        "name": "Inspiration Information/ Wings Of Love",
+        "url": "https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S"
       },
       "artists": [
         {
-          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
-          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
         }
       ],
-      "duration_ms": 229653,
-      "name": "Express Yourself - Remastered Version",
-      "url": "https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA"
+      "duration_ms": 252200,
+      "name": "Inspiration Information",
+      "url": "https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2167,6 +2151,22 @@
       "duration_ms": 229440,
       "name": "Turn Your Love Around - 2015 GH Version",
       "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Express Yourself (Remastered & Expanded)",
+        "url": "https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3"
+      },
+      "artists": [
+        {
+          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
+          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
+        }
+      ],
+      "duration_ms": 229653,
+      "name": "Express Yourself - Remastered Version",
+      "url": "https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2567,22 +2567,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 347493,
-      "name": "In Time",
-      "url": "https://open.spotify.com/track/21SHzZ1qsXzJ5Socuuyo8w"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Late Night Tales: Another Late Night - Zero 7",
         "url": "https://open.spotify.com/album/0qZikBhy0lOQGj8S9uq8l4"
       },
@@ -2595,6 +2579,22 @@
       "duration_ms": 328500,
       "name": "You Can't Turn Me Away",
       "url": "https://open.spotify.com/track/7H6lTSdK33pBFUwNbXCxX3"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 347493,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/21SHzZ1qsXzJ5Socuuyo8w"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2615,18 +2615,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Spirit in the Dark",
-        "url": "https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO"
+        "name": "The Art Of Tea",
+        "url": "https://open.spotify.com/album/1Xp1azh2HHaCJu6CYReBPg"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Michael Franks",
+          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
         }
       ],
-      "duration_ms": 243826,
-      "name": "Spirit in the Dark",
-      "url": "https://open.spotify.com/track/1wGvueGYFPUmQUtVglgcPt"
+      "duration_ms": 215293,
+      "name": "Monkey See-Monkey Do",
+      "url": "https://open.spotify.com/track/65LeJBEMVBGJ8u68Cw8LXZ"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2647,18 +2647,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Art Of Tea",
-        "url": "https://open.spotify.com/album/1Xp1azh2HHaCJu6CYReBPg"
+        "name": "Spirit in the Dark",
+        "url": "https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO"
       },
       "artists": [
         {
-          "name": "Michael Franks",
-          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 215293,
-      "name": "Monkey See-Monkey Do",
-      "url": "https://open.spotify.com/track/65LeJBEMVBGJ8u68Cw8LXZ"
+      "duration_ms": 243826,
+      "name": "Spirit in the Dark",
+      "url": "https://open.spotify.com/track/1wGvueGYFPUmQUtVglgcPt"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2763,22 +2763,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Loving on the Flipside",
-        "url": "https://open.spotify.com/album/2PtqMUT1wupaBBZqnQmnzQ"
-      },
-      "artists": [
-        {
-          "name": "Eunice Collins",
-          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "At the Hotel",
-      "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "I Never Loved a Man the Way I Love You",
         "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
@@ -2795,18 +2779,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Tellin' It",
-        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
+        "name": "Loving on the Flipside",
+        "url": "https://open.spotify.com/album/2PtqMUT1wupaBBZqnQmnzQ"
       },
       "artists": [
         {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+          "name": "Eunice Collins",
+          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
         }
       ],
-      "duration_ms": 178280,
-      "name": "Come to Mama",
-      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
+      "duration_ms": 208533,
+      "name": "At the Hotel",
+      "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2823,6 +2807,22 @@
       "duration_ms": 300120,
       "name": "Love, Need And Want You",
       "url": "https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Tellin' It",
+        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Come to Mama",
+      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2947,6 +2947,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/7jfRBjUiIc9uUbdikDiUh6"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 251986,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/0GVurvfPLwv6sNXaqtxHWQ"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Another Side",
         "url": "https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u"
       },
@@ -3059,6 +3075,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Part Time Love",
+        "url": "https://open.spotify.com/album/5dTnlc6k7eE0JNXAu8ANSf"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Part Time Love",
+      "url": "https://open.spotify.com/track/30lLlmQZBHsiVLNcTKpqjd"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Beach Diggin', Vol. 3",
         "url": "https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU"
       },
@@ -3087,22 +3119,6 @@
       "duration_ms": 208097,
       "name": "Smile Please",
       "url": "https://open.spotify.com/track/1ICQvlzjWbQkVcjEsEsHc3"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Part Time Love",
-        "url": "https://open.spotify.com/album/5dTnlc6k7eE0JNXAu8ANSf"
-      },
-      "artists": [
-        {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Part Time Love",
-      "url": "https://open.spotify.com/track/30lLlmQZBHsiVLNcTKpqjd"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3287,22 +3303,6 @@
       "duration_ms": 230280,
       "name": "Space of You",
       "url": "https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 278855,
-      "name": "Come To My Door - Acoustic Version",
-      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
     }
   ],
   "unique_name": "Soulful Dinner",

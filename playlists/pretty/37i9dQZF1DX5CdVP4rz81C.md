@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,333,870 likes - 90 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,333,840 likes - 90 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 70 | [Think I'm Gonna Love You](https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Think I'm Gonna Love You](https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7) | 2:44 |
 | 71 | [Stay Alive](https://open.spotify.com/track/3V1Z8YNp4DbF9vQL3jGmG1) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 3](https://open.spotify.com/album/5rQBs4ikSzjlBG0kONn6Vj) | 3:22 |
 | 72 | [last girl](https://open.spotify.com/track/1clbhXTQHTCnhAHx4efjXx) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [bright orange everglow](https://open.spotify.com/album/6VyR17Yjzo1zHMpWgT7oNC) | 3:20 |
-| 73 | [Leave In The Morning](https://open.spotify.com/track/2NV0xEWJNdaMzdP94pksrl) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Leave In The Morning](https://open.spotify.com/album/1gRQl5tQu5KTWyvs3zdd2p) | 2:48 |
+| 73 | [Leave In The Morning](https://open.spotify.com/track/4IYPM4LsehnnD2gn2junaO) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/50EclfDgv08QEpljmUe34E) | 2:48 |
 | 74 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 75 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
 | 76 | [Bare Minimum](https://open.spotify.com/track/3ak6UeDAv7Jsao5RCvpUPL) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Bare Minimum](https://open.spotify.com/album/6rQGIOS6BCED2QBALZYw4q) | 3:12 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 89 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 |
 | 90 | [Daddy’s a Psycho](https://open.spotify.com/track/6jYo2opycXJs1wj2jENEiq) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 4:19 |
 
-Snapshot ID: `MCxjODMyOWYxNmIyMDZlNzVmMmRiNDkzN2FlZTYwNzVlODYzN2NhN2Mx`
+Snapshot ID: `MCwyY2ZjNDg0NTU3OTU1OThmYjAwMjMxMzEzNzg1Y2ZiMzEwNzZkODU1`

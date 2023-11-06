@@ -4,7 +4,7 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-70 songs - 4 hr 32 min
+71 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Khamaj](https://open.spotify.com/track/33yJbICPApS1o2lJi2w4Rq) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Fuzon](https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS) | 6:55 | 2023-05-09 |  |
 | [Khoj \(Passing By\)](https://open.spotify.com/track/4QK1qv4mgsfdWmMzp1Z3fx) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Believe](https://open.spotify.com/album/4aSylUJ8AnwjQ6BO9dtgGk) | 3:32 | 2023-05-09 |  |
 | [Khush to Hai Na](https://open.spotify.com/track/2bGCXKKxk0FyTwYeJooaJH) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Khush to Hai Na](https://open.spotify.com/album/6mgPdNVamEDDLXbbe0dtiT) | 3:11 | 2023-05-09 |  |
-| [Koi Jaane Na](https://open.spotify.com/track/1qJEPAY2PNphzM8o1VFEtt) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/5tazHyKeXejqqmwDIziUkU) | 4:16 | 2023-05-09 |  |
+| [Koi Jaane Na](https://open.spotify.com/track/1qJEPAY2PNphzM8o1VFEtt) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/5tazHyKeXejqqmwDIziUkU) | 4:16 | 2023-05-09 | 2023-11-06 |
+| [Koi Jaane Na](https://open.spotify.com/track/3g572Upfd1UZat0EBLGtns) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/2rNs9qqP3dovmTUuNPXJwT) | 4:16 | 2023-10-20 |  |
 | [Kuch Baatein Yunhi Hain Na](https://open.spotify.com/track/6DItMa5mVQGFrgnDXj3oZ7) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3) | [Fresh for Valentine's](https://open.spotify.com/album/09AZuSsVzolrnesy92NIYd) | 4:02 | 2023-05-09 |  |
 | [Leap Up](https://open.spotify.com/track/4qNdRL86zKTarDWseXmdgn) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Leap Up](https://open.spotify.com/album/69W167FFlfsHUKoMMOqRbm) | 3:45 | 2023-08-22 |  |
 | [Leja Leja](https://open.spotify.com/track/5kWMV8yuPP6zSdz4MZhjVh) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Ustad And The Divas](https://open.spotify.com/album/01s2aUyGKULtAK1Q6BEdV7) | 4:29 | 2023-05-09 |  |

@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-222 songs - 14 hr 13 min
+223 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Danny Boy](https://open.spotify.com/track/6W0REfkZAVTo1JrLUdsAfU) | [Narum](https://open.spotify.com/artist/6r2dDOJwJMfAdt9kPcQc4b) | [Danny Boy](https://open.spotify.com/album/1hxN75DWN4liP5FwODoGaX) | 3:27 | 2021-12-16 | 2022-07-17 |
 | [De Nære Ting](https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [De Nære Ting](https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih) | 2:18 | 2021-12-16 |  |
 | [Den finast eg veit](https://open.spotify.com/track/3NQDZSM47zCMao3GFkcqaV) | [Hellbillies](https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU) | [CoolTur](https://open.spotify.com/album/0S2qo4ezoborqQTJnzdsc6) | 4:04 | 2021-12-16 |  |
-| [Den Fyrste Song](https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5) | [Kråkeviks Songbok](https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf) | 2:58 | 2021-12-16 |  |
+| [Den Fyrste Song](https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5) | [Kråkeviks Songbok](https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf) | 2:58 | 2021-12-16 | 2023-11-06 |
 | [den tyngste turen](https://open.spotify.com/track/4MqsWPW2UtBiAIGK8xoXu0) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A), [Aslag Haugen](https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc) | [den tyngste turen \(med Aslag Haugen\)](https://open.spotify.com/album/6ZHUyK14poEdYpMmLxxXkS) | 3:25 | 2021-12-16 | 2023-01-29 |
 | [Der var du](https://open.spotify.com/track/67pRxxw4HUnATsrcVlhcAK) | [Kim Rysstad](https://open.spotify.com/artist/0k5dfZ7J3tg2cvsjkTX796) | [Der var du](https://open.spotify.com/album/5keKiJy2GPTMWWWHX1Exjf) | 3:36 | 2021-12-16 | 2022-07-28 |
 | [Det begynner å bli et liv](https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi) | [Anita Skorgan](https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4) | [Hver gang vi møtes \- Sesong 2 \- Ole Paus' dag](https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K) | 3:13 | 2021-12-16 | 2022-08-19 |
@@ -145,6 +145,7 @@
 | [Lilla vackra Anna](https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an) | [Kom ut kom fram](https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF) | 3:46 | 2021-12-16 | 2022-07-28 |
 | [Linns vise](https://open.spotify.com/track/6gJu24OVK2qn8lSDhJwJOm) | [Trygve Kongshavn](https://open.spotify.com/artist/5OY2ooNpDtsieQ9ZoOx7W5) | [Linns vise](https://open.spotify.com/album/3ywfU2tolFCerdZYxqAQgO) | 3:43 | 2022-02-17 | 2022-05-12 |
 | [Lite og stort](https://open.spotify.com/track/1v3Npr2wwGA3k9402ueIVH) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Henda i været](https://open.spotify.com/album/7aNSIKBQz7vO6nh490K0Hn) | 3:11 | 2021-12-16 | 2023-10-19 |
+| [Lite og stort](https://open.spotify.com/track/20N6iAf42TLvjPVnQaCAEn) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Henda i været](https://open.spotify.com/album/5tC2V5bpIrr14ka5wAxFEQ) | 3:11 | 2023-10-12 |  |
 | [Liten fuggel](https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Liten fuggel \(Med kommentarer\)](https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr) | 3:11 | 2021-12-16 |  |
 | [Livet Mitt](https://open.spotify.com/track/14TheOeTxRnFLL8LaTPvuj) | [Alejandro Fuentes](https://open.spotify.com/artist/43uURL7UXIZoVIsTTrLe7d) | [Livet Mitt](https://open.spotify.com/album/20jnCsnuoAuuOokrknak3H) | 3:25 | 2022-03-23 | 2022-04-18 |
 | [Løvblad i vinden](https://open.spotify.com/track/38J3Av5XTtizhvtOHUDE1o) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Løvblad i vinden](https://open.spotify.com/album/28PEXasrDwsRhOOxovjXIk) | 3:17 | 2021-12-16 | 2022-07-23 |

@@ -3696,6 +3696,24 @@
     {
       "album": {
         "name": "L\u00c9ON",
+        "url": "https://open.spotify.com/album/3mpvDPBxCSlIGEqiMpiQL4"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "Hope Is A Heartache",
+      "url": "https://open.spotify.com/track/04GQPGMmAm06AFtVgrhWxE"
+    },
+    {
+      "album": {
+        "name": "L\u00c9ON",
         "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
       },
       "artists": [
@@ -3706,7 +3724,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 201400,
       "name": "Hope Is A Heartache",
       "url": "https://open.spotify.com/track/3w1P8nwsVi9vxrGvxYLzAC"
@@ -5084,10 +5102,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 294422,
       "name": "Little Time",
       "url": "https://open.spotify.com/track/5p6rWdZ3VjGUXiY6qd7MmI"
+    },
+    {
+      "album": {
+        "name": "Mystical Magical Rhythmical Radical Ride",
+        "url": "https://open.spotify.com/album/4HCUsZGlWSq1GrpgA9167A"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294422,
+      "name": "Little Time",
+      "url": "https://open.spotify.com/track/6LipdO1S75XaPSa1ejQfeJ"
     },
     {
       "album": {

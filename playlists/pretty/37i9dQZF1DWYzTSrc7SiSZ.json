@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 668824,
+  "num_followers": 668878,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWYyYzBjMTJjZDI0ZmUyMzg5NGVjMzYxNGM3NGEwMmZjYmIxMWIz",
+  "snapshot_id": "MCxiYjJmNzQ5NDNjMTBlOGYxYWYzYmMyMDA0MTMzODEwYWUxZTY2MWRh",
   "tracks": [
     {
       "added_at": "2023-10-12 22:12:50",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "Fui Yo",
-        "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 184827,
-      "name": "Fui Yo",
-      "url": "https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/1dSihfk7gkcm5IjSYO9AAp"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 199017,
       "name": "Despierto",
       "url": "https://open.spotify.com/track/3SFFAZ3QH7clx7uA7BpLqJ"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
+        "name": "Fui Yo",
+        "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 184827,
+      "name": "Fui Yo",
+      "url": "https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "el jardinero",
-        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "el jardinero",
-      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
         "name": "Delorean",
         "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 188400,
       "name": "Delorean",
       "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
+        "name": "el jardinero",
+        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "el jardinero",
+      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
+        "name": "Singles 2019-2021",
+        "url": "https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 224268,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
         "name": "UNA LUZ",
         "url": "https://open.spotify.com/album/6JXgkVDyf9IFhyfn1TGNSY"
       },
@@ -927,6 +943,26 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/2fAyJFdEdonWHxZBEBhqHl"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Leonardo La Croix",
+          "url": "https://open.spotify.com/artist/5gmFKzyDu2PZ3hESPT0tUm"
+        }
+      ],
+      "duration_ms": 166310,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/4m5EmFEphqslKaLYw9mU1t"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
         "name": "fr\u00edo",
         "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
       },
@@ -947,42 +983,6 @@
       "duration_ms": 278490,
       "name": "fr\u00edo",
       "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
-        "name": "Singles 2019-2021",
-        "url": "https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 224268,
-      "name": "Clich\u00e9",
-      "url": "https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/2fAyJFdEdonWHxZBEBhqHl"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "Leonardo La Croix",
-          "url": "https://open.spotify.com/artist/5gmFKzyDu2PZ3hESPT0tUm"
-        }
-      ],
-      "duration_ms": 166310,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/4m5EmFEphqslKaLYw9mU1t"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "Conf\u00eden En M\u00ed",
-        "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        }
-      ],
-      "duration_ms": 108586,
-      "name": "No Eres T\u00fa, Soy Yo",
-      "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
         "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 237518,
       "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
       "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
+        "name": "Conf\u00eden En M\u00ed",
+        "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "duration_ms": 108586,
+      "name": "No Eres T\u00fa, Soy Yo",
+      "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "Cuando Los Ac\u00e9falos Predominan",
-        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 321019,
-      "name": "Camarones y Viniles",
-      "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 150071,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
+        "name": "Cuando Los Ac\u00e9falos Predominan",
+        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 321019,
+      "name": "Camarones y Viniles",
+      "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
+        "name": "Dicen",
+        "url": "https://open.spotify.com/album/61GgJ9H3X3kdJCQhbrNYQ6"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Volv\u00e9s",
+      "url": "https://open.spotify.com/track/2fsuYnBJXJBI8EDp1F68KW"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
         "name": "Dime la verdad",
         "url": "https://open.spotify.com/album/2UysmvX5GsuNXZ3oTs1YrC"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 180927,
       "name": "Dime la verdad",
       "url": "https://open.spotify.com/track/3h9Oea03Nxz2KBQu35IdvO"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
-        "name": "Dicen",
-        "url": "https://open.spotify.com/album/61GgJ9H3X3kdJCQhbrNYQ6"
-      },
-      "artists": [
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Volv\u00e9s",
-      "url": "https://open.spotify.com/track/2fsuYnBJXJBI8EDp1F68KW"
     }
   ],
   "unique_name": "Chill Latino",

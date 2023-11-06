@@ -4,7 +4,7 @@
 
 > These songs rocked the 10s\. Cover: Arctic Monkeys
 
-159 songs - 9 hr 50 min
+160 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,8 +25,9 @@
 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 | 2021-12-17 |  |
 | [Bite My Tongue](https://open.spotify.com/track/1FIWe0EWWE6D8soz2ZsMuM) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Sinners Never Sleep](https://open.spotify.com/album/6qwklyZrZuJ7sQrRjGQAW8) | 3:42 | 2021-12-17 |  |
 | [Black Chandelier](https://open.spotify.com/track/3PnMua6rBLkc2MZ9atsSOq) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Opposites \(Deluxe\)](https://open.spotify.com/album/3wKxJeyD60VukP9dBXN4ES) | 4:04 | 2023-03-13 |  |
+| [Black Honey](https://open.spotify.com/track/1A89Jia7SuA6179NKiq3Ud) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is to Be Nowhere](https://open.spotify.com/album/5i3Vd8CipVhDocbVVFYvVv) | 3:59 | 2023-09-07 |  |
 | [Black Honey](https://open.spotify.com/track/4FX7dhugVxsKsyC4DgwJyM) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Black Honey](https://open.spotify.com/album/72NG7Su9csuE3s1T7YurnM) | 3:59 | 2023-09-07 | 2023-11-05 |
-| [Black Honey](https://open.spotify.com/track/5EYNb41E5pDliUhP4oMyRx) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Black Honey](https://open.spotify.com/album/7tHrM5fGVhgkRzHWKoUp6j) | 3:59 | 2023-09-07 |  |
+| [Black Honey](https://open.spotify.com/track/5EYNb41E5pDliUhP4oMyRx) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Black Honey](https://open.spotify.com/album/7tHrM5fGVhgkRzHWKoUp6j) | 3:59 | 2023-09-07 | 2023-11-06 |
 | [Black Honey](https://open.spotify.com/track/5OeY5LebIOzD9Zvat1Dikf) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is To Be Nowhere](https://open.spotify.com/album/4hFDcpvIU9F4OleRAR9nNZ) | 3:59 | 2021-12-17 | 2023-11-03 |
 | [Blood // Water](https://open.spotify.com/track/0p2IkjLztsjp6OKu4twrGJ) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Dance Monkey \- 10's All Out](https://open.spotify.com/album/4mLKJKA718bklMVI91jQJq) | 3:34 | 2022-11-05 | 2022-11-14 |
 | [Blood // Water](https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:34 | 2022-03-09 |  |

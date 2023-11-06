@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,995,484 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,995,909 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 | 77 | [Si Tú La Ves \(feat\. Wisin\)](https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:41 |
 | 78 | [La Locura Automática \- Reggaeton](https://open.spotify.com/track/1xEBxyr5QI0uvIoRa3WPi4) | [La Secta](https://open.spotify.com/artist/7Gl1xRfbxCfInNRvy1JGZW), [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR) | [Reggaeton Viejo](https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An) | 4:05 |
 | 79 | [Métele Sazón](https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 4:02 |
-| 80 | [Gata Fiera \(feat\. Joan\)](https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr), [Joan](https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8) | [Los Bacatranes](https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7) | 3:28 |
-| 81 | [Movimiento de Caderas](https://open.spotify.com/track/468L8HV8IykzwRs4eEXn4Y) | [Rayo & Toby](https://open.spotify.com/artist/2xmhyxkjpGNBeWXVMeVWHb) | [The SexyTrip](https://open.spotify.com/album/524SmS20h9onvTnzLz3TA0) | 3:10 |
+| 80 | [Movimiento de Caderas](https://open.spotify.com/track/468L8HV8IykzwRs4eEXn4Y) | [Rayo & Toby](https://open.spotify.com/artist/2xmhyxkjpGNBeWXVMeVWHb) | [The SexyTrip](https://open.spotify.com/album/524SmS20h9onvTnzLz3TA0) | 3:10 |
+| 81 | [Gata Fiera \(feat\. Joan\)](https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr), [Joan](https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8) | [Los Bacatranes](https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7) | 3:28 |
 | 82 | [Dominicana](https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 4:12 |
 | 83 | [Shorty](https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia) | [Casa De Leones](https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL) | [Casa De Leones](https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A) | 4:06 |
 | 84 | [Nena Fichu](https://open.spotify.com/track/4fP0RqHjhQAnA9PQMchA0S) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 | 99 | [Gata Oficial](https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF) | [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v) | [El Bokisucio](https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd) | 3:54 |
 | 100 | [Obsesión](https://open.spotify.com/track/4HTzn2qQZ7UqHtw1OsB8wc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Magia](https://open.spotify.com/album/14YMgKbaj0NVyvOckxX6AZ) | 3:00 |
 
-Snapshot ID: `MCwzMzgzMDEyMjhiMDZjY2MyYTUzNmNjZjFhOThmZmU2NmZhYzEzNTU2`
+Snapshot ID: `MCxlM2QwNjk4ZTA2ZjJlOGNmM2RjNjAyMzlkY2RlN2Y5ZDViMzk0YTMz`

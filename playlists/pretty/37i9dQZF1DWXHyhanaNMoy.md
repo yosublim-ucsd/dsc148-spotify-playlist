@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion, fissa & good vibes! Cover: Rich2Gether
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,507 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,533 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 69 | [Stout, Bad & Vies](https://open.spotify.com/track/15jJDcp0hJnpuYQz0eTf5l) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Stout, Bad & Vies](https://open.spotify.com/album/3txKVfxJiw2TQ84HvZHoFD) | 2:25 |
 | 70 | [Zijkant](https://open.spotify.com/track/0OyF6nXazzwqcdPQe613aj) | [Justice Toch](https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa), [Ghetto Flow](https://open.spotify.com/artist/0ScfiVR0ZTtu9428PJS3LP) | [Zijkant](https://open.spotify.com/album/1qtgFxrZ2hg0GW6uyXtf32) | 2:46 |
 
-Snapshot ID: `MCw0OGNiYjU0YTZjY2Q2MjlmNDBlNzYxNGRlOGNhMTEyNWU2YWJkMDhk`
+Snapshot ID: `MCxkMDllMWQzZjEyNzMxZGFmMTRmYTI2NDUyN2JhN2RmYzM4OGM5MGE1`

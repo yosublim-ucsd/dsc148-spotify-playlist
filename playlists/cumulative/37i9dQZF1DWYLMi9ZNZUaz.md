@@ -4,7 +4,7 @@
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-66 songs - 3 hr 48 min
+67 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [Lệ Lưu Ly](https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [DT Tập Rap](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Lệ Lưu Ly](https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34) | 3:20 | 2023-10-19 |  |
 | [Lối Nhỏ](https://open.spotify.com/track/25edeHHueINMguqu9emCyV) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Phương Anh Đào](https://open.spotify.com/artist/6ZNAsA4h8V7SOLtiK8Vfav) | [Lối Nhỏ](https://open.spotify.com/album/77yV2mEkJaZ4oLu1M4fe5N) | 4:12 | 2023-10-19 |  |
 | [magick \- feat\. Táo](https://open.spotify.com/track/1RqTiIkl4dTitoanZYEx9u) | [RHYME SO](https://open.spotify.com/artist/7dtbEudF1BHLVrVtwxxKgm), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [magick \(feat\. Táo\)](https://open.spotify.com/album/38ZKbjXwT4eOYd7KU87akr) | 3:37 | 2023-10-29 | 2023-10-31 |
-| [Men Cry \(feat\. Gonzo & Nomovodka\)](https://open.spotify.com/track/7Jz4a41gsJnaEH7FxgaEGR) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Gonzo](https://open.spotify.com/artist/3Ib80uqrBka6P4ncx6vJRF), [Nomovodka](https://open.spotify.com/artist/79BbybQeUyNyFB8ghq4neb) | [Đan Xinh In Love](https://open.spotify.com/album/3e5xMNYYXwVCpLwxUJDud5) | 4:11 | 2023-11-02 |  |
+| [Men Cry \(feat\. Gonzo & Nomovodka\)](https://open.spotify.com/track/7Jz4a41gsJnaEH7FxgaEGR) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Gonzo](https://open.spotify.com/artist/3Ib80uqrBka6P4ncx6vJRF), [Nomovodka](https://open.spotify.com/artist/79BbybQeUyNyFB8ghq4neb) | [Đan Xinh In Love](https://open.spotify.com/album/3e5xMNYYXwVCpLwxUJDud5) | 4:11 | 2023-11-02 | 2023-11-06 |
 | [Mắt Xanh](https://open.spotify.com/track/3rigEvSPZYJI3rAt9gVdXy) | [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [Mắt Xanh](https://open.spotify.com/album/3poO8uwdPxvv2QXVxqLXfC) | 2:49 | 2023-10-19 |  |
+| [Mời Người Kế Tiếp](https://open.spotify.com/track/1LbwyRBfBWzjjl7dSykk9Z) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [Mời Người Kế Tiếp](https://open.spotify.com/album/4Bv4yCjXhMtvZSfpqeT49W) | 3:12 | 2023-11-02 |  |
 | [Nghe Như Tình Yêu](https://open.spotify.com/track/769IjpjHNrN36SPvj2ZBKu) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Nghe Như Tình Yêu](https://open.spotify.com/album/0sZdkAO0Feo6xjbn8DUJVD) | 3:13 | 2023-10-19 |  |
 | [NGTANOISE](https://open.spotify.com/track/57FeZINjlat9NLEhYUejmd) | [VSOUL](https://open.spotify.com/artist/22MX8BG5870DGzpNricY7q), [MFREE](https://open.spotify.com/artist/3Gx0fp4mXr6YU4DONMHqB8), [TUYEN VO](https://open.spotify.com/artist/0HhRjPFqN1sqrUpJA7NuDe) | [NGTANOISE](https://open.spotify.com/album/5dh8bC64DiQUb0o3E73LFc) | 2:59 | 2023-10-19 |  |
 | [người điên](https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:27 | 2023-10-19 |  |

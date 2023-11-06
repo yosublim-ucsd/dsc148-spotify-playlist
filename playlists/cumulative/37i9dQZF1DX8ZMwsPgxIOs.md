@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Adam Beyer
 
-247 songs - 20 hr 13 min
+248 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Phaeses](https://open.spotify.com/track/3CXLGRODlXbTkXUEvsi7Xu) | [Black Girl / White Girl](https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz) | [777 Squadron](https://open.spotify.com/album/6QAs3eESajrLa9x7Yxzquy) | 5:30 | 2022-04-15 | 2023-03-15 |
 | [Phantasy](https://open.spotify.com/track/5uEW8Kp1dM8UbotWxieU9c) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Phantasy](https://open.spotify.com/album/2w9JaI4kPmMHweV6ComleZ) | 4:00 | 2023-01-20 |  |
 | [Pillow Princess \- TAAHLIAH Remix](https://open.spotify.com/track/6mEYqfF76mM7tCcvuYpL4Z) | [Manni Dee](https://open.spotify.com/artist/3WKDW1ASiWSa1T1nX01dUr), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Pillow Princess Remixes I](https://open.spotify.com/album/0qealHFPGDb0uG4dBrW6qR) | 2:48 | 2023-04-04 |  |
-| [Pinger](https://open.spotify.com/track/3ozYevAGA6jmeBa3O6i24R) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [Pinger](https://open.spotify.com/album/7aKgtWED31pHemqYp2ltCy) | 4:58 | 2023-04-04 |  |
+| [Pinger](https://open.spotify.com/track/3ozYevAGA6jmeBa3O6i24R) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [Pinger](https://open.spotify.com/album/7aKgtWED31pHemqYp2ltCy) | 4:58 | 2023-04-04 | 2023-11-06 |
+| [Pinger](https://open.spotify.com/track/6iOSV9Wk97hIpWVHfq29Dj) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [Pinger](https://open.spotify.com/album/66RRmzSYSxtvkFDjqZzJps) | 4:58 | 2023-10-27 |  |
 | [Portal](https://open.spotify.com/track/0HgxhNKiQy2LYxExwyZMWI) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Portal / Echoes](https://open.spotify.com/album/7evuenwoczpZ1eWE6DQeBw) | 3:27 | 2023-08-10 |  |
 | [Pria](https://open.spotify.com/track/5NLu9XiiF80Txfg2Pl8zE8) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Power Of Thought EP](https://open.spotify.com/album/1WjosIw46H2KJUb9W462FU) | 7:00 | 2023-10-27 |  |
 | [Pure Evil](https://open.spotify.com/track/1h1GycfpbcfpCi87iwuhh3) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Pure Evil](https://open.spotify.com/album/7zjWZoj0hSUUDZ0AFoj240) | 4:55 | 2022-04-15 | 2022-07-02 |

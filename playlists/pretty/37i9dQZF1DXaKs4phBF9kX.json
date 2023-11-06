@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1980s.",
-  "num_followers": 86666,
+  "num_followers": 86678,
   "original_name": "80s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmFjZjVhYzUyNzk4NGJkZjkxNTc4MzU2NzhhMzE1YmE4MDVhYjU2",
+  "snapshot_id": "MCxlOGE3NWI2MTY2ZTE4YTQ1OWQxNmM2ZDM0MGNkZDY2ZTBmNDZmYmZi",
   "tracks": [
     {
       "added_at": "2023-01-18 20:42:10",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 145706,
-      "name": "Blister In The Sun",
-      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Let's Dance (2018 Remaster)",
         "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 457675,
       "name": "Let's Dance - 2018 Remaster",
       "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "Blister In The Sun",
+      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Theatre Of Pain (Deluxe Version)",
-        "url": "https://open.spotify.com/album/317PMJr7FxxDrsjJWydYVb"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "Smokin' In The Boys Room",
-      "url": "https://open.spotify.com/track/2gvgvbokPJZ7Uw5u2m5LeP"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Songs From The Big Chair",
         "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
+        "name": "Theatre Of Pain (Deluxe Version)",
+        "url": "https://open.spotify.com/album/317PMJr7FxxDrsjJWydYVb"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "Smokin' In The Boys Room",
+      "url": "https://open.spotify.com/track/2gvgvbokPJZ7Uw5u2m5LeP"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
         "name": "Whitesnake (2018 Remaster)",
         "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 275395,
       "name": "Here I Go Again - 2018 Remaster",
       "url": "https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
-        "name": "Piece of Mind (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "The Trooper - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -767,22 +751,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 333816,
-      "name": "China Girl - 2018 Remaster",
-      "url": "https://open.spotify.com/track/5Ei9o2fHEnfHb84YrPuz4v"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Pyromania (Deluxe)",
         "url": "https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu"
       },
@@ -795,6 +763,22 @@
       "duration_ms": 247828,
       "name": "Rock Of Ages",
       "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 333816,
+      "name": "China Girl - 2018 Remaster",
+      "url": "https://open.spotify.com/track/5Ei9o2fHEnfHb84YrPuz4v"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -815,22 +799,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Urgent",
-      "url": "https://open.spotify.com/track/08onVqQ8YicJ98Ycm1qoLf"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Eliminator",
         "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
       },
@@ -843,6 +811,22 @@
       "duration_ms": 273906,
       "name": "Legs - 2008 Remaster",
       "url": "https://open.spotify.com/track/7t6CAWplijBj4sdl0q3z0e"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Urgent",
+      "url": "https://open.spotify.com/track/08onVqQ8YicJ98Ycm1qoLf"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -879,22 +863,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 308906,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Sonic Temple",
         "url": "https://open.spotify.com/album/1mq4iXRVf8lo5kAkeMa9aV"
       },
@@ -923,6 +891,22 @@
       "duration_ms": 294000,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2APxH5XbOLDTmW9X5yi6Hw"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 308906,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -1131,6 +1115,22 @@
       "duration_ms": 225106,
       "name": "Don't Let Him Go",
       "url": "https://open.spotify.com/track/6UxGF7LGJ5qE0LJViSTsA2"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Greatest Hits 2",
+        "url": "https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM"
     }
   ],
   "unique_name": "80s Summer Rock",

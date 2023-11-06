@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,091 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,145 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 80 | [Maradó \- En Vivo](https://open.spotify.com/track/6IvGufWgArG0cd8WDeypdH) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 6:54 |
 | 81 | [Las Cosas Que No Se Tocan \- En Vivo Luna Park](https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otra Noche en la Luna \(Episodio I\)](https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI) | 4:04 |
 | 82 | [¿Qué Tal? \- En Vivo](https://open.spotify.com/track/0L8j3R0I7PT6dPsITLMhdL) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [En Vivo en el Teatro Coliseo](https://open.spotify.com/album/2HPBjV6pfag0WSo7l1Y8oY) | 8:07 |
-| 83 | [Me envenenaste \- En directo Razzmatazz](https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Razzmatazz \(En directo Razzmatazz\)](https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q) | 3:00 |
-| 84 | [Envuelto en Llamas \(En Vivo\)](https://open.spotify.com/track/674zid6QdjoHzafff631N8) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Sortilegio de Arrabal](https://open.spotify.com/album/4FMIICOCC7pmOdhDwIUkid) | 4:04 |
+| 83 | [Envuelto en Llamas \(En Vivo\)](https://open.spotify.com/track/674zid6QdjoHzafff631N8) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Sortilegio de Arrabal](https://open.spotify.com/album/4FMIICOCC7pmOdhDwIUkid) | 4:04 |
+| 84 | [Me envenenaste \- En directo Razzmatazz](https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Razzmatazz \(En directo Razzmatazz\)](https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q) | 3:00 |
 | 85 | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd) | 4:40 |
 | 86 | [En el Baldío \- En Vivo](https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Estadio Newell's Old Boys, 18 de Mayo de 2018 \(En Vivo\)](https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB) | 4:13 |
 | 87 | [Frágil \- En Vivo](https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Frágil \(En Vivo\)](https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq) | 3:20 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 95 | [La Superacción \- En Vivo en el Metropólitan](https://open.spotify.com/track/4SQEBJU7ISs2n9TqNPhD43) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [LOBEL](https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl) | [La Superacción \(En Vivo en el Metropólitan\)](https://open.spotify.com/album/6U3QnrJIkFiJACZv9WhXKO) | 5:17 |
 | 96 | [Strangerdanger \- En Vivo](https://open.spotify.com/track/16KeH2DTffqLuGOtOnHxLZ) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Strangerdanger \(En Vivo\)](https://open.spotify.com/album/01GM7YDRe55MZHxHgjFgG7) | 3:04 |
 | 97 | [Paraíso en Retro \- En Vivo](https://open.spotify.com/track/7rOWI8Z47Qx6VID1SgQ3AR) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Huellas Digitales \(En Vivo\)](https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54) | 3:28 |
-| 98 | [Oportunidad Oportuna \- En Vivo](https://open.spotify.com/track/6OgghyP8vbOsC2CBvKYArD) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Autódromo de Buenos Aires, 19 de Junio de 2021 \(En Vivo\)](https://open.spotify.com/album/1Sxb0hpU35iLA3WeqEcMr8) | 3:45 |
+| 98 | [Una Vez Más \- En Vivo](https://open.spotify.com/track/34u37vgTwh2wl3ZH5u2nfs) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Una Vez Más \(En Vivo\)](https://open.spotify.com/album/20akHhz1vnjUSwHcHjVnB2) | 4:49 |
 | 99 | [Túnel de la Vida \- Vivo en Obras 11/06/2022](https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [La Fuente \(Vivo en Obras 11/06/2022\)](https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp) | 4:11 |
-| 100 | [Dorado y Púrpura \- En Vivo](https://open.spotify.com/track/082OAP5nOvl0u5hJgs15rB) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [En Vivo En El Emergente 02.06.2023](https://open.spotify.com/album/75kVWmC0bVSKjv234nhQGl) | 10:17 |
+| 100 | [Oportunidad Oportuna \- En Vivo](https://open.spotify.com/track/6OgghyP8vbOsC2CBvKYArD) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Autódromo de Buenos Aires, 19 de Junio de 2021 \(En Vivo\)](https://open.spotify.com/album/1Sxb0hpU35iLA3WeqEcMr8) | 3:45 |
 
-Snapshot ID: `MCwwYjAyZTljNDk5ZWY0ZDM2YjA2NTA3NGUwODkzNDM4MzkzY2JlZWU3`
+Snapshot ID: `MCw0YWI1NTg2ZjgxNDU5Y2U0MjMzMGQxMjhjNDE0MzZhMzNiYTcyMDEy`

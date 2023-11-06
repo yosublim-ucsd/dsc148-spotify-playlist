@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 18455,
+  "num_followers": 18458,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjFlZTI5ODQxMDExZWIyNmZiZjUyZjcyMWUxNTY1ZTM4ZjRlZjY2",
+  "snapshot_id": "MCxjNmRjYWI3YjA1NjNjOTNhMGExMmNhMThkODkwYWYzZDRhN2IxNzQw",
   "tracks": [
     {
       "added_at": "2023-09-29 03:03:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "n\u00e3o consigo mais chorar",
-        "url": "https://open.spotify.com/album/1PUjhle1aE7ntdXqMh9qgG"
-      },
-      "artists": [
-        {
-          "name": "TINN",
-          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
-        }
-      ],
-      "duration_ms": 186605,
-      "name": "n\u00e3o consigo mais chorar",
-      "url": "https://open.spotify.com/track/5yFSlEnufHWEwZPw79cQVP"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/6EWfXhL6OLdsVauEYCT4u6"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 139480,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/5vemlYP97ehJmUD7Bz9gEX"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "n\u00e3o consigo mais chorar",
+        "url": "https://open.spotify.com/album/1PUjhle1aE7ntdXqMh9qgG"
+      },
+      "artists": [
+        {
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+        }
+      ],
+      "duration_ms": 186605,
+      "name": "n\u00e3o consigo mais chorar",
+      "url": "https://open.spotify.com/track/5yFSlEnufHWEwZPw79cQVP"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "YASSIQ",
-        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
-      },
-      "artists": [
-        {
-          "name": "YASSIQ",
-          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
-        }
-      ],
-      "duration_ms": 128771,
-      "name": "AL\u00d4",
-      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Corro Atr\u00e1s",
         "url": "https://open.spotify.com/album/50Rhfq6iyQcPjIJMiOXLgp"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 225920,
       "name": "Corro Atr\u00e1s",
       "url": "https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "YASSIQ",
+        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
+      },
+      "artists": [
+        {
+          "name": "YASSIQ",
+          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
+        }
+      ],
+      "duration_ms": 128771,
+      "name": "AL\u00d4",
+      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
+        "name": "Amor de Sonhos",
+        "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Amor de Sonhos",
+      "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
         "name": "Queda livre",
         "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 198000,
       "name": "Queda livre",
       "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
-        "name": "Amor de Sonhos",
-        "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Amor de Sonhos",
-      "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
+        "name": "4 Da Tarde",
+        "url": "https://open.spotify.com/album/3f8B8HAmQquLVXVkKuMms0"
+      },
+      "artists": [
+        {
+          "name": "Dupoint",
+          "url": "https://open.spotify.com/artist/54GML44bZteHh8aoqc644G"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "4 Da Tarde",
+      "url": "https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 163809,
       "name": "Casal Desgra\u00e7a",
       "url": "https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
-        "name": "4 Da Tarde",
-        "url": "https://open.spotify.com/album/3f8B8HAmQquLVXVkKuMms0"
-      },
-      "artists": [
-        {
-          "name": "Dupoint",
-          "url": "https://open.spotify.com/artist/54GML44bZteHh8aoqc644G"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "4 Da Tarde",
-      "url": "https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Ideia Errada",
-        "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
-      },
-      "artists": [
-        {
-          "name": "Cigana",
-          "url": "https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "Ideia Errada",
-      "url": "https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Quartinho",
         "url": "https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "VERO",
-        "url": "https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi"
+        "name": "Ideia Errada",
+        "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
       },
       "artists": [
         {
-          "name": "M. Costta",
-          "url": "https://open.spotify.com/artist/7qzpPNkxALTx1RzpP7gguE"
+          "name": "Cigana",
+          "url": "https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL"
         }
       ],
-      "duration_ms": 197538,
-      "name": "Bom Vivant",
-      "url": "https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT"
+      "duration_ms": 239360,
+      "name": "Ideia Errada",
+      "url": "https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1071,6 +1055,22 @@
       "duration_ms": 152137,
       "name": "Deixa Pra L\u00e1",
       "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "VERO",
+        "url": "https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi"
+      },
+      "artists": [
+        {
+          "name": "M. Costta",
+          "url": "https://open.spotify.com/artist/7qzpPNkxALTx1RzpP7gguE"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Bom Vivant",
+      "url": "https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Esquece",
-        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
-      },
-      "artists": [
-        {
-          "name": "Jalma",
-          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
-        }
-      ],
-      "duration_ms": 178526,
-      "name": "Esquece",
-      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Ma\u00e7\u00e3 do Amor",
         "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
+        "name": "Esquece",
+        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
+      },
+      "artists": [
+        {
+          "name": "Jalma",
+          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
+        }
+      ],
+      "duration_ms": 178526,
+      "name": "Esquece",
+      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
         "name": "Esse Jogo",
         "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 144742,
       "name": "Esse Jogo",
       "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "Por um Fio",
+        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
+      },
+      "artists": [
+        {
+          "name": "Sulamericana",
+          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
+        }
+      ],
+      "duration_ms": 189271,
+      "name": "Por um Fio",
+      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Por um Fio",
-        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
-      },
-      "artists": [
-        {
-          "name": "Sulamericana",
-          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
-        }
-      ],
-      "duration_ms": 189271,
-      "name": "Por um Fio",
-      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "N\u00e3o Complica",
         "url": "https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Al\u00edvio",
-        "url": "https://open.spotify.com/album/5zyqo7eSAZlcP6ecgZw4Lb"
-      },
-      "artists": [
-        {
-          "name": "Cronistas",
-          "url": "https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq"
-        }
-      ],
-      "duration_ms": 191097,
-      "name": "Al\u00edvio",
-      "url": "https://open.spotify.com/track/0KnIk3stzRxOvb5LPLqmVt"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Cardeal",
         "url": "https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 215251,
       "name": "\u00c9 preciso Calma",
       "url": "https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "Al\u00edvio",
+        "url": "https://open.spotify.com/album/5zyqo7eSAZlcP6ecgZw4Lb"
+      },
+      "artists": [
+        {
+          "name": "Cronistas",
+          "url": "https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq"
+        }
+      ],
+      "duration_ms": 191097,
+      "name": "Al\u00edvio",
+      "url": "https://open.spotify.com/track/0KnIk3stzRxOvb5LPLqmVt"
     },
     {
       "added_at": "2023-09-29 03:03:00",

@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: CARR \| Artwork: Jim Klok
 
-1,198 songs - 2 day 17 hr 23 min
+1,200 songs - 2 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,7 +549,8 @@
 | [I Like You](https://open.spotify.com/track/50X4ve8zvAF4uMFTn3yMez) | [Bloods](https://open.spotify.com/artist/1zQBkffVEYoxt6Bg7YNCVs), [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [I Like You](https://open.spotify.com/album/56bo8byLWXWjpoZjgL4mrO) | 2:20 | 2022-05-25 | 2022-06-16 |
 | [I Love Myself](https://open.spotify.com/track/0ObrhGyCklNz4yM6OBsbMk) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [I Love Myself](https://open.spotify.com/album/4DhPfoDuwknZjkQPFPiEEo) | 2:25 | 2023-02-15 | 2023-04-06 |
 | [I Might Fall In Love](https://open.spotify.com/track/0nvdQLgHJWmwOSxBKAXJK4) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [I Might Fall In Love](https://open.spotify.com/album/6AlbPtyeZf1N1DXg3gcCow) | 3:32 | 2022-06-29 | 2022-09-09 |
-| [I Thought You'd Change](https://open.spotify.com/track/4Uy1cKq8UPWkwLRZBmSryG) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/7uCaVO8YwOnWXGk7ptVHNR) | 2:51 | 2023-09-13 |  |
+| [I Thought You'd Change](https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 2:51 | 2023-10-25 |  |
+| [I Thought You'd Change](https://open.spotify.com/track/4Uy1cKq8UPWkwLRZBmSryG) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/7uCaVO8YwOnWXGk7ptVHNR) | 2:51 | 2023-09-13 | 2023-11-06 |
 | [I Thought You'd Change](https://open.spotify.com/track/6Vhl3hCPVx4cvJtCpCKC2H) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/0CW3T1GY5UwR6ZwWlWzHeZ) | 2:51 | 2023-09-13 | 2023-09-20 |
 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 | 2023-08-02 | 2023-09-14 |
 | [I'd Run Away With You](https://open.spotify.com/track/4aTv9ti6Uy2noegcf2psM4) | [The High Curbs](https://open.spotify.com/artist/10vRxHWrGthzWjNMCNvUHy) | [I'd Run Away With You](https://open.spotify.com/album/4daeNIjcxMmGh4VLEztMfh) | 2:12 | 2022-09-21 | 2022-12-01 |
@@ -1040,7 +1041,8 @@
 | [Talk About It](https://open.spotify.com/track/7MjNm0HZCObGbmjZ8XoArS) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX) | [Talk About It](https://open.spotify.com/album/3ctj9h3HAz77lZx0YOhPLl) | 4:02 | 2023-08-09 |  |
 | [Talk It Out](https://open.spotify.com/track/1oZi5VyS06UFkxzAtJxwCJ) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Talk It Out](https://open.spotify.com/album/4dCjjXeMR4GTb04B9Gn1XH) | 4:04 | 2021-12-01 | 2022-02-03 |
 | [Talkin' On The Internet](https://open.spotify.com/track/2QSDrcOfvflcy2rtiTZbJd) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Talkin' On The Internet](https://open.spotify.com/album/4uSg0LQqvVFEbZIIzfJAay) | 2:35 | 2023-08-30 | 2023-10-06 |
-| [Talkin' On The Internet](https://open.spotify.com/track/6nrTOALDsdBIIVblrv0sYh) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Herberts On Holiday](https://open.spotify.com/album/3m3hEjQTaDq3QgiXR8XjW6) | 2:35 | 2023-10-04 |  |
+| [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 | 2023-10-25 |  |
+| [Talkin' On The Internet](https://open.spotify.com/track/6nrTOALDsdBIIVblrv0sYh) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Herberts On Holiday](https://open.spotify.com/album/3m3hEjQTaDq3QgiXR8XjW6) | 2:35 | 2023-10-04 | 2023-11-06 |
 | [Tamaryn \(Wherever I Am\)](https://open.spotify.com/track/1a2rkkSxS9IZqeHT4OxsTU) | [RINSE](https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0) | [Tamaryn \(Wherever I Am\)](https://open.spotify.com/album/0ZLQTyn9N2uQGkLall22Ay) | 4:18 | 2021-12-01 | 2022-03-24 |
 | [Tangled dreams](https://open.spotify.com/track/375bXAagCpRqKryMnAPIFE) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Tangled dreams](https://open.spotify.com/album/3SF7QZpzKxAWJZCx1PyrgJ) | 4:17 | 2023-06-07 | 2023-08-10 |
 | [Teal](https://open.spotify.com/track/18eWVQXDPnRghOmYWvoThV) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Teal](https://open.spotify.com/album/4bKMQzd1vuZftMTcoEwqg0) | 3:10 | 2021-12-01 | 2022-01-27 |

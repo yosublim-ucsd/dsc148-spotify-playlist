@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Crystal Fighters
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,169 likes - 85 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,333 likes - 85 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 16 | [Eat My Words](https://open.spotify.com/track/19hDkmzEGBksfhsi68kDn1) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Eat My Words](https://open.spotify.com/album/4oLF4mfcAomGDHEyqH2ZTj) | 3:31 |
 | 17 | [Gold](https://open.spotify.com/track/2EonwBGjylKZocutExSRzY) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Gold](https://open.spotify.com/album/41Thjpf8tfM3U0UHwrP0EK) | 4:19 |
 | 18 | [Dang](https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Dang](https://open.spotify.com/album/3DZodwqZN2YkjgI0NAwyS8) | 2:44 |
-| 19 | [Take a Look At My Tongue](https://open.spotify.com/track/4SGCxKyg67fbzDFw0NmBD0) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [Take a Look At My Tongue](https://open.spotify.com/album/7dDl2EQHmzinh03qIfX3Iw) | 2:42 |
+| 19 | [Take a Look at My Tongue](https://open.spotify.com/track/4SGCxKyg67fbzDFw0NmBD0) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [Take a Look at My Tongue](https://open.spotify.com/album/7dDl2EQHmzinh03qIfX3Iw) | 2:42 |
 | 20 | [Cry Me A River](https://open.spotify.com/track/1l8JstRdpupds1kZgWT4Hg) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Cry Me A River](https://open.spotify.com/album/58xaelY1o0uH8hxeuZYYrl) | 3:40 |
 | 21 | [Fingerlickin' Goodness](https://open.spotify.com/track/2QyDW2O9bISuK7nvZEeeMY) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Isn't That Sweet](https://open.spotify.com/album/37j8XZS9Wh9eMBXuyy513D) | 3:18 |
 | 22 | [Could You Help Me](https://open.spotify.com/track/5BEFUHkJkE96hq89ESAfgF) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Could You Help Me](https://open.spotify.com/album/02grbmPkJrTIPpb1MYMn7L) | 2:46 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 61 | [Cherry Cola](https://open.spotify.com/track/3aDVFROpHHBjfp53IqcxJv) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [Cherry Cola](https://open.spotify.com/album/2NxQLiwDuB7tPN67gIvRTQ) | 2:44 |
 | 62 | [Angel](https://open.spotify.com/track/586hlWbs36IwHNBQHDkT0v) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Angel](https://open.spotify.com/album/4ymSlc0IgdFvc61mLUKDbl) | 3:19 |
 | 63 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
-| 64 | [Listen To The Sky](https://open.spotify.com/track/5Hp5ffZ2NOFuJCGuJ04psW) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc) | 2:52 |
+| 64 | [Listen To The Sky](https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl) | 2:52 |
 | 65 | [She Feels](https://open.spotify.com/track/5krKShHoHc1bBZfZGI0hXh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:12 |
 | 66 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 |
 | 67 | [Exposed to Some Light](https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Exposed to Some Light](https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH) | 3:59 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 84 | [Slice](https://open.spotify.com/track/6SR5Lk3NYfaiEFm2ZhG9mC) | [O.](https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB) | [Slice](https://open.spotify.com/album/4zZ29RjFtFEN1TPxPHBH7r) | 3:24 |
 | 85 | [Tuesday](https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Tuesday](https://open.spotify.com/album/3uzaEWHPjutN7RP2WjLiXf) | 4:59 |
 
-Snapshot ID: `MCxkMWY2MTcxYzlmZDcwNjA4MjU3ODA2NGJiZjhlZTQ4MjBjNmExMzFj`
+Snapshot ID: `MCxkNDA5NWIzNjBhZGUxMWRhOWFjMDYxMGFhZjAwOTU5ZmFiNTRjN2Fi`

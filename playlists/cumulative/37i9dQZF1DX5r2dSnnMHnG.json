@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 223629,
       "name": "SOME",
       "url": "https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc"
@@ -1998,24 +1998,6 @@
       "duration_ms": 173880,
       "name": "Spring",
       "url": "https://open.spotify.com/track/11HmVuJmBU6BXZ1z6hxpYa"
-    },
-    {
-      "album": {
-        "name": "Spring",
-        "url": "https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs"
-      },
-      "artists": [
-        {
-          "name": "Joob A",
-          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
-      "duration_ms": 173880,
-      "name": "Spring",
-      "url": "https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM"
     },
     {
       "album": {
@@ -3112,6 +3094,24 @@
       "duration_ms": 224240,
       "name": "\ub450\uadfc\uac70\ub824 (Beautiful)",
       "url": "https://open.spotify.com/track/7rxnGhTlqU3FRUzd8F4R3d"
+    },
+    {
+      "album": {
+        "name": "\ubd04 Spring",
+        "url": "https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs"
+      },
+      "artists": [
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173880,
+      "name": "\ubd04 Spring",
+      "url": "https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM"
     },
     {
       "album": {

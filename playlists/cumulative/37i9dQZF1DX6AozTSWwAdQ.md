@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-333 songs - 17 hr 38 min
+335 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 | 2023-08-07 | 2023-08-15 |
 | [Go The Distance](https://open.spotify.com/track/4HFi9NP66qdNOsgPGLqrm7) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance](https://open.spotify.com/album/4n0O2srPjbdjU4i1EEqkcu) | 2:47 | 2022-06-06 | 2022-07-28 |
 | [GO TO HELL](https://open.spotify.com/track/55XRXhQeU25IwqVpjQqxkz) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [GO TO HELL](https://open.spotify.com/album/32boQRfLOkEfXznZtudRrS) | 3:03 | 2022-06-13 | 2022-07-23 |
-| [GO TO HELL!!!](https://open.spotify.com/track/12c3eURzh9miwevJYZBbjX) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [GO TO HELL!!!](https://open.spotify.com/album/2emQssdGVDdZ0gsf9yyzP6) | 2:36 | 2023-10-30 |  |
+| [GO TO HELL!!!](https://open.spotify.com/track/12c3eURzh9miwevJYZBbjX) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [GO TO HELL!!!](https://open.spotify.com/album/2emQssdGVDdZ0gsf9yyzP6) | 2:36 | 2023-10-30 | 2023-11-06 |
 | [God Bless The 90s Kids](https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 3:23 | 2023-02-14 | 2023-02-21 |
 | [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 | 2023-01-30 | 2023-02-07 |
 | [Going Crazy](https://open.spotify.com/track/4roPy7UCHujegMBkutBawy) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Chaos In Bloom](https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T) | 3:58 | 2022-08-15 | 2022-08-23 |
@@ -181,6 +181,7 @@
 | [Kiss Me](https://open.spotify.com/track/2hFDO1f9t96wZZdQnn5ejI) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:49 | 2022-10-17 | 2022-11-22 |
 | [Kiss Me](https://open.spotify.com/track/7j1ZJAbcm4AMBf82jIrAH3) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:49 | 2022-11-21 | 2023-06-19 |
 | [Kiwi](https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 2:56 | 2022-07-25 |  |
+| [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 | 2023-11-06 |  |
 | [L.U.S.H.](https://open.spotify.com/track/58LjmBGKL3m3rzD6cUAMeq) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [L.U.S.H.](https://open.spotify.com/album/6Kubz9wO4yxQbNAuG0Cc6E) | 2:52 | 2022-10-31 | 2022-11-08 |
 | [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-10-02 | 2023-11-05 |
 | [LDQ \(Little Drama Queen\)](https://open.spotify.com/track/3LhNkNHWxcjZszrqsqZEE3) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [LDQ \(Little Drama Queen\)](https://open.spotify.com/album/4jRePepXfCG8lfF9ZbR1Jv) | 3:50 | 2022-06-06 | 2022-07-28 |
@@ -236,6 +237,7 @@
 | [Perfect For You](https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Perfect For You](https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir) | 2:58 | 2023-02-07 | 2023-02-14 |
 | [Phoenix](https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Phoenix](https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA) | 3:17 | 2022-08-22 |  |
 | [Physical \(feat\. Hwa Sa\)](https://open.spotify.com/track/23jEeXRyrjFbfs2Q8tBwdI) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Physical \(feat\. Hwa Sa\)](https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b) | 3:13 | 2022-06-20 | 2022-06-24 |
+| [Polaroids](https://open.spotify.com/track/6Kz16KUmMnaneddIVyod87) | [Thomas Meilstrup](https://open.spotify.com/artist/4CyyiV7VCIqZ2e0vAm51tP) | [Polaroids](https://open.spotify.com/album/0RxfmoMRaWou5q6GEFyPr9) | 2:44 | 2023-11-06 |  |
 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 | 2023-05-15 |  |
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2023-03-06 | 2023-04-25 |
 | [Pretty Boy](https://open.spotify.com/track/557jdZsn0FAltJXgenminf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pretty Boy](https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5) | 3:51 | 2023-08-21 | 2023-08-29 |
@@ -292,7 +294,7 @@
 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 | 2023-03-13 | 2023-03-21 |
 | [take it back \(feat\. Beck\)](https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [take it back \(feat\. Beck\)](https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl) | 2:25 | 2022-06-20 | 2022-06-28 |
 | [Take My Hand](https://open.spotify.com/track/55OlGT0r7dPTNuBlZXOjeA) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Take My Hand](https://open.spotify.com/album/6EHFU2wqSK47x1yZ93Lu7n) | 3:59 | 2022-06-06 | 2022-07-29 |
-| [TALL GRASS](https://open.spotify.com/track/15gjWTwhMqWC5U2BXzYMPJ) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [TALL GRASS](https://open.spotify.com/album/7bdOwVxARtsy2LVwbpWwVE) | 2:48 | 2023-10-30 |  |
+| [TALL GRASS](https://open.spotify.com/track/15gjWTwhMqWC5U2BXzYMPJ) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [TALL GRASS](https://open.spotify.com/album/7bdOwVxARtsy2LVwbpWwVE) | 2:48 | 2023-10-30 | 2023-11-06 |
 | [Team Sport](https://open.spotify.com/track/0RKugjsByHkSiwmJfukkHc) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Team Sport](https://open.spotify.com/album/3JGHQb2bf6F3HDGYJAF24R) | 2:36 | 2023-06-26 | 2023-07-04 |
 | [Teeth](https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:24 | 2022-07-25 | 2023-05-12 |
 | [Teeth](https://open.spotify.com/track/3NxWJWftvkstyxvb1pZlFo) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:25 | 2022-11-07 |  |

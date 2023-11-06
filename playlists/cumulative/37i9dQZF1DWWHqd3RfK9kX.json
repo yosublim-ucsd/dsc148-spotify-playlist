@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Intensified",
+        "url": "https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker & The Aces",
+          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
+        }
+      ],
+      "date_added": "2020-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156786,
+      "name": "(Poor Mi) Israelites",
+      "url": "https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0"
+    },
+    {
+      "album": {
         "name": "A Valentine For You",
         "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
       },
@@ -2440,7 +2458,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 112466,
       "name": "Remelexo",
       "url": "https://open.spotify.com/track/0jkR7EFXNnY1PHJ8pMYnd9"

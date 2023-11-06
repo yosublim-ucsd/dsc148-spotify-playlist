@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 229651,
+  "num_followers": 229714,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDc4NDJjOTBiMjExNWYyYTAxOWMzODY5ODJlZDQ1NTU0MTRiZTRk",
+  "snapshot_id": "MCw0NDRlMjNmOTBjMDFkM2M5YzJjZWJlYTQzOGU5NDhlY2QxOTRjNzc0",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 445426,
+      "name": "El Cuarto de Tula",
+      "url": "https://open.spotify.com/track/5UjaOsrdoI4shw9gM2eNPC"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Pa'lante",
         "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 258933,
       "name": "Los Campeones De La Salsa",
       "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Timba Cubana",
-        "url": "https://open.spotify.com/album/34O7HMMLTMmdBcpxnVEaG9"
-      },
-      "artists": [
-        {
-          "name": "Tirso Duarte",
-          "url": "https://open.spotify.com/artist/0QrLYrFFDOhi09EKV8nkdu"
-        }
-      ],
-      "duration_ms": 325026,
-      "name": "Un Mal Sue\u00f1o",
-      "url": "https://open.spotify.com/track/1MH43AiNUdkA5irdCrqgAe"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "Timba Cubana",
+        "url": "https://open.spotify.com/album/34O7HMMLTMmdBcpxnVEaG9"
+      },
+      "artists": [
+        {
+          "name": "Tirso Duarte",
+          "url": "https://open.spotify.com/artist/0QrLYrFFDOhi09EKV8nkdu"
+        }
+      ],
+      "duration_ms": 325026,
+      "name": "Un Mal Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1MH43AiNUdkA5irdCrqgAe"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Fiestas de Cuba (Remasterizado)",
         "url": "https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u"
       },
@@ -491,6 +507,38 @@
       "duration_ms": 282920,
       "name": "\u00c1mame con Tu Experiencia - Remasterizado",
       "url": "https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Contra Todos los Pron\u00f3sticos",
+        "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
+      },
+      "artists": [
+        {
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+        }
+      ],
+      "duration_ms": 387973,
+      "name": "El Aguila",
+      "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -511,22 +559,6 @@
       "duration_ms": 302706,
       "name": "Dale Lo Que Lleva (with Maykel Fonts)",
       "url": "https://open.spotify.com/track/7HJlg4JTHFXsfFGXTkkeQq"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Contra Todos los Pron\u00f3sticos",
-        "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
-      },
-      "artists": [
-        {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
-        }
-      ],
-      "duration_ms": 387973,
-      "name": "El Aguila",
-      "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -583,22 +615,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Reina de la Canci\u00f3n Latina",
-        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "La Vuelta al Mundo",
         "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Qu\u00e9 Sorpresa",
-        "url": "https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu and Havana D' Primera",
-          "url": "https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI"
-        }
-      ],
-      "duration_ms": 360957,
-      "name": "Qu\u00e9 Sorpresa",
-      "url": "https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
       },
@@ -647,6 +647,38 @@
       "duration_ms": 326720,
       "name": "La Boda de Bel\u00e9n",
       "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Reina de la Canci\u00f3n Latina",
+        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
+      },
+      "artists": [
+        {
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Qu\u00e9 Sorpresa",
+        "url": "https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu and Havana D' Primera",
+          "url": "https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI"
+        }
+      ],
+      "duration_ms": 360957,
+      "name": "Qu\u00e9 Sorpresa",
+      "url": "https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -671,22 +703,6 @@
       "duration_ms": 273853,
       "name": "Bailando - Official Salsa Version",
       "url": "https://open.spotify.com/track/60rfRiqSdX2allhe9Qs4Qy"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 445426,
-      "name": "El Cuarto de Tula",
-      "url": "https://open.spotify.com/track/5UjaOsrdoI4shw9gM2eNPC"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -747,22 +763,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "A Lo Cubano",
-        "url": "https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv"
-      },
-      "artists": [
-        {
-          "name": "Orishas",
-          "url": "https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT"
-        }
-      ],
-      "duration_ms": 226873,
-      "name": "Represent",
-      "url": "https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Marcando la Distancia (La Nueva Generaci\u00f3n de la musica Cubana)",
         "url": "https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo"
       },
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "A Lo Cubano",
+        "url": "https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv"
+      },
+      "artists": [
+        {
+          "name": "Orishas",
+          "url": "https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT"
+        }
+      ],
+      "duration_ms": 226873,
+      "name": "Represent",
+      "url": "https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Yo Voy Pa Encima - Single",
         "url": "https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 206992,
       "name": "Yo Voy Pa Encima",
       "url": "https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
     },
     {
       "added_at": "2022-12-30 18:20:45",

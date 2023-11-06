@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-355 songs - 20 hr 19 min
+356 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,8 @@
 | [Sandman](https://open.spotify.com/track/0qkA0NU7cDKWkFXNGRcNaB) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 3:20 | 2022-01-14 |  |
 | [Se Acabo \(feat\. Method Man\) \- Remix](https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Take It Or Squeeze It](https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL) | 3:32 | 2022-08-12 |  |
 | [Secret \(feat\. Summer Walker\)](https://open.spotify.com/track/67lKDoCZbRCJDa4RT68eme) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Secret \(feat\. Summer Walker\)](https://open.spotify.com/album/5wZsPqpKY7l4dpmRSrDm1Q) | 3:30 | 2022-01-14 | 2022-04-22 |
-| [Self Medication \(feat\. Seth MacFarlane, Redman, & Statik Selektah\)](https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [College Park](https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0) | 5:15 | 2023-03-24 |  |
+| [Self Medication \(feat\. Seth MacFarlane, Redman, & Statik Selektah\)](https://open.spotify.com/track/5tIUJI1rofqeaaZ5x43tp4) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [DJ Statik Selektah](https://open.spotify.com/artist/1IEGzaZzVTKJ7l0EON6Oax) | [College Park](https://open.spotify.com/album/7KcBjQ5f47uYAmvWCbB2FX) | 5:15 | 2023-10-29 |  |
+| [Self Medication \(feat\. Seth MacFarlane, Redman, & Statik Selektah\)](https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [College Park](https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0) | 5:15 | 2023-03-24 | 2023-11-06 |
 | [Shittin' Me](https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Shittin' Me](https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6) | 2:24 | 2022-12-17 |  |
 | [Shook Ones, Pt\. II](https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:25 | 2022-01-14 |  |
 | [Shoot My Shot](https://open.spotify.com/track/1XKTvkeaZy5gueNNZYL7rE) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [USEE4YOURSELF](https://open.spotify.com/album/0kV11arRXMzRqhv2SnXclk) | 2:52 | 2022-01-14 | 2022-10-03 |

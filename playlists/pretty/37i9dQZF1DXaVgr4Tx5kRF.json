@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 635971,
+  "num_followers": 636306,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTdiYWUwOGExMjU5MjY2ZWYzODY5NjBjYTUxOWZjY2I4YjIxYmNk",
+  "snapshot_id": "MCxlOTRiNjgyMzdiZTBmOTYzNWMwNjE0NzUwNjFlMmFkNThjNDgyZjMz",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "I Should Coco",
-        "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "The La's",
         "url": "https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x"
       },
@@ -135,22 +119,6 @@
       "duration_ms": 162186,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Don't Look Back In Anger - Remastered",
-      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -171,6 +139,22 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Don't Look Back In Anger - Remastered",
+      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "Gorgeous George",
         "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 236583,
       "name": "A Girl Like You",
       "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "I Wanna Be Adored - Remastered",
+      "url": "https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
       "artists": [
         {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
         }
       ],
-      "duration_ms": 292800,
-      "name": "I Wanna Be Adored - Remastered",
-      "url": "https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4"
+      "duration_ms": 273573,
+      "name": "Disco 2000",
+      "url": "https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Different Class",
-        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 273573,
-      "name": "Disco 2000",
-      "url": "https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Parklife (Special Edition)",
         "url": "https://open.spotify.com/album/0DBkFC6739trhCoVreZyds"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 185093,
       "name": "Parklife - 2012 Remaster",
       "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Elastica",
+        "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
+      },
+      "artists": [
+        {
+          "name": "Elastica",
+          "url": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+        }
+      ],
+      "duration_ms": 140480,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Elastica",
-        "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
-      },
-      "artists": [
-        {
-          "name": "Elastica",
-          "url": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
-        }
-      ],
-      "duration_ms": 140480,
-      "name": "Connection",
-      "url": "https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "The Stone Roses",
         "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "Some Friendly",
         "url": "https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Be A Girl",
-        "url": "https://open.spotify.com/album/7bx60z6sWg9fz9Ve2AruOI"
-      },
-      "artists": [
-        {
-          "name": "The Wannadies",
-          "url": "https://open.spotify.com/artist/7GBLSeDdlx3gl2cxHvYuOh"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "You & Me Song",
-      "url": "https://open.spotify.com/track/5KiKFJdmU6m0QWxpW9xjOB"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "The Stone Roses",
         "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
+        "name": "Be A Girl",
+        "url": "https://open.spotify.com/album/7bx60z6sWg9fz9Ve2AruOI"
       },
       "artists": [
         {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+          "name": "The Wannadies",
+          "url": "https://open.spotify.com/artist/7GBLSeDdlx3gl2cxHvYuOh"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Girl From Mars",
-      "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
+      "duration_ms": 170866,
+      "name": "You & Me Song",
+      "url": "https://open.spotify.com/track/5KiKFJdmU6m0QWxpW9xjOB"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -487,22 +471,6 @@
       "duration_ms": 258533,
       "name": "Stupid Girl - Remastered 2015",
       "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "Ugly Beautiful",
-        "url": "https://open.spotify.com/album/1jDQR7dZB0TrGIZJ4vcrLb"
-      },
-      "artists": [
-        {
-          "name": "Babybird",
-          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
-        }
-      ],
-      "duration_ms": 222440,
-      "name": "You're Gorgeous",
-      "url": "https://open.spotify.com/track/5COBer69wpwkCPPaLr1gFb"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -651,18 +619,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Jollification",
-        "url": "https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26"
+        "name": "The Good Will Out",
+        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
       },
       "artists": [
         {
-          "name": "The Lightning Seeds",
-          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+          "name": "Embrace",
+          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
         }
       ],
-      "duration_ms": 259666,
-      "name": "Lucky You",
-      "url": "https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo"
+      "duration_ms": 250573,
+      "name": "Come Back To What You Know",
+      "url": "https://open.spotify.com/track/2BjvbCwtueWDGi0QKgT3yy"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -683,22 +651,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "The Good Will Out",
-        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
-      },
-      "artists": [
-        {
-          "name": "Embrace",
-          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Come Back To What You Know",
-      "url": "https://open.spotify.com/track/2BjvbCwtueWDGi0QKgT3yy"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "All Change",
         "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
       },
@@ -711,6 +663,22 @@
       "duration_ms": 217293,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Jollification",
+        "url": "https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26"
+      },
+      "artists": [
+        {
+          "name": "The Lightning Seeds",
+          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+        }
+      ],
+      "duration_ms": 259666,
+      "name": "Lucky You",
+      "url": "https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -763,38 +731,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "The Good Will Out",
-        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
-      },
-      "artists": [
-        {
-          "name": "Embrace",
-          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
-        }
-      ],
-      "duration_ms": 366266,
-      "name": "All You Good Good People",
-      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "In It for the Money (2021 Remaster - Deluxe Expanded Edition)",
-        "url": "https://open.spotify.com/album/4eskbEqGfhyOV3ILrneK4G"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 193307,
-      "name": "Richard III - 2021 - Remaster",
-      "url": "https://open.spotify.com/track/2T59dX55GGQ00ulyKnfqBG"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Smart",
         "url": "https://open.spotify.com/album/4b6QlQpazyHULH2nmJTPcT"
       },
@@ -807,6 +743,22 @@
       "duration_ms": 199493,
       "name": "Inbetweener",
       "url": "https://open.spotify.com/track/4GoqaAdOZqS1lyYODRwxlO"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "The Good Will Out",
+        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
+      },
+      "artists": [
+        {
+          "name": "Embrace",
+          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
+        }
+      ],
+      "duration_ms": 366266,
+      "name": "All You Good Good People",
+      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -923,18 +875,50 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "This Is How It Feels",
-        "url": "https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54"
+        "name": "Ugly Beautiful (Expanded)",
+        "url": "https://open.spotify.com/album/6WMI34oKGD41ZjfZ2NzXMQ"
       },
       "artists": [
         {
-          "name": "Inspiral Carpets",
-          "url": "https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP"
+          "name": "Babybird",
+          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
         }
       ],
-      "duration_ms": 194000,
-      "name": "This Is How It Feels - Radio Mix",
-      "url": "https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb"
+      "duration_ms": 222440,
+      "name": "You're Gorgeous",
+      "url": "https://open.spotify.com/track/1E8rTN3tJ0rNpO1rNhYduV"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Girl from Mars",
+      "url": "https://open.spotify.com/track/0cA41ydiosNCgmmGiCST65"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Give Out But Don't Give Up",
+        "url": "https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Rocks",
+      "url": "https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -951,6 +935,22 @@
       "duration_ms": 186040,
       "name": "The Day We Caught The Train",
       "url": "https://open.spotify.com/track/4oPF43XotiOin8UroIsE0t"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/4ygxhp2YRRuOEfw1J40FdQ"
+      },
+      "artists": [
+        {
+          "name": "Inspiral Carpets",
+          "url": "https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP"
+        }
+      ],
+      "duration_ms": 185066,
+      "name": "This Is How It Feels",
+      "url": "https://open.spotify.com/track/0usG7DLWUEoAHFEv9rWfoP"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Give Out But Don't Give Up",
-        "url": "https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Rocks",
-      "url": "https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Attack of the Grey Lantern",
         "url": "https://open.spotify.com/album/7v04VQBNE3VmBxf7vbnpnL"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 271133,
       "name": "Wide Open Space",
       "url": "https://open.spotify.com/track/0Q4fqnPKrbOT6HYDhlvbNw"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "In It for the Money",
+        "url": "https://open.spotify.com/album/020brgMKGgdPSYjcVNypql"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Richard III",
+      "url": "https://open.spotify.com/track/09rr4TfhpyF6tmaoSt3j4T"
     },
     {
       "added_at": "2022-05-04 17:11:49",

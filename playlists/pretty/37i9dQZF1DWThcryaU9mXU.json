@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 48058,
+  "num_followers": 48092,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTRiNzY1YzMxZjc0NDgwMzBhZjhkN2VmMGI4NGIwYzRjOTczN2Q0",
+  "snapshot_id": "MCw0MWIwMjcxMDY0NjQ0YjgzZTYxOGFhMTk2ZGEyMGI1NjQ1OTk2Yzdl",
   "tracks": [
     {
       "added_at": "2023-10-02 12:57:01",
@@ -527,22 +527,18 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/4gHKX42TgeTtJ0ichg2C4O"
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
       "artists": [
         {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
-        },
-        {
-          "name": "Sari Schorr",
-          "url": "https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl"
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 260497,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2LDcXG53amA6UDn9sUkzQZ"
+      "duration_ms": 259733,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -563,18 +559,22 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/4gHKX42TgeTtJ0ichg2C4O"
       },
       "artists": [
         {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        },
+        {
+          "name": "Sari Schorr",
+          "url": "https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl"
         }
       ],
-      "duration_ms": 259733,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
+      "duration_ms": 260497,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2LDcXG53amA6UDn9sUkzQZ"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -703,6 +703,22 @@
       "duration_ms": 274088,
       "name": "Same Old Blues",
       "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "In the Skies",
+        "url": "https://open.spotify.com/album/6t9AXiAHR0S6BFKzVYNTQB"
+      },
+      "artists": [
+        {
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+        }
+      ],
+      "duration_ms": 464666,
+      "name": "A Fool No More",
+      "url": "https://open.spotify.com/track/4h5r5YL1QXFiblkRUtTXCb"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -951,22 +967,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "In the Skies",
-        "url": "https://open.spotify.com/album/6t9AXiAHR0S6BFKzVYNTQB"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 464666,
-      "name": "A Fool No More",
-      "url": "https://open.spotify.com/track/4h5r5YL1QXFiblkRUtTXCb"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -979,22 +979,6 @@
       "duration_ms": 180666,
       "name": "If You Gotta Make a Fool of Somebody - 2008 Remaster",
       "url": "https://open.spotify.com/track/4q12WodyPQA9fRFOPKZfVx"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
-        "name": "Straight from the Heart",
-        "url": "https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Neal",
-          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
-        }
-      ],
-      "duration_ms": 262651,
-      "name": "Blues Keep Chasing Me",
-      "url": "https://open.spotify.com/track/3GK95DlclAn2RFYY36IHoc"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1015,6 +999,22 @@
       "duration_ms": 160853,
       "name": "You Put the Heart on Me",
       "url": "https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Straight from the Heart",
+        "url": "https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+        }
+      ],
+      "duration_ms": 262651,
+      "name": "Blues Keep Chasing Me",
+      "url": "https://open.spotify.com/track/3GK95DlclAn2RFYY36IHoc"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q"
-      },
-      "artists": [
-        {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
-        }
-      ],
-      "duration_ms": 419306,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "So Far so Good",
         "url": "https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 233706,
       "name": "Low Down Dirty Blues",
       "url": "https://open.spotify.com/track/2zTH23AmvAQFnN2ZiBErqa"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q"
+      },
+      "artists": [
+        {
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+        }
+      ],
+      "duration_ms": 419306,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Get Your Lovin'",
-        "url": "https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR"
-      },
-      "artists": [
-        {
-          "name": "Secret Formula Band",
-          "url": "https://open.spotify.com/artist/1Inr5ZqHEMGQ4fhrK91QMs"
-        }
-      ],
-      "duration_ms": 203395,
-      "name": "Get Your Lovin'",
-      "url": "https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Roll and Tumble",
         "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 205182,
       "name": "Sometimes I Worry",
       "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Get Your Lovin'",
+        "url": "https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR"
+      },
+      "artists": [
+        {
+          "name": "Secret Formula Band",
+          "url": "https://open.spotify.com/artist/1Inr5ZqHEMGQ4fhrK91QMs"
+        }
+      ],
+      "duration_ms": 203395,
+      "name": "Get Your Lovin'",
+      "url": "https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil"
     },
     {
       "added_at": "2023-10-02 12:57:01",

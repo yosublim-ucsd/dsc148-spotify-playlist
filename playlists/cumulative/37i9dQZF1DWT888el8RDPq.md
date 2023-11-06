@@ -4,7 +4,7 @@
 
 > canzoni felici italiane e internazionali per un settembre preso bene ☀️
 
-331 songs - 16 hr 39 min
+332 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1000 Tears](https://open.spotify.com/track/33Nc5TE2bPHa6wtUUFLVSz) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [1000 Tears](https://open.spotify.com/album/1GeOaXdpEL6mksQ0ELEnCT) | 2:41 | 2022-05-06 | 2022-07-29 |
 | [100sadsongs](https://open.spotify.com/track/0rvcPanRR8rQO8lSIr0S4l) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [100sadsongs](https://open.spotify.com/album/52D5Elj3MPS11Wa0r50EFM) | 2:56 | 2022-05-23 | 2022-07-25 |
 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2022-07-26 |  |
-| [50 Special](https://open.spotify.com/track/21Ay8mJRYQuOMZp7qyQXl6) | [Lùnapop](https://open.spotify.com/artist/4ZbsxiS90Pj1gLeDv3A9mN) | [...Squérez?](https://open.spotify.com/album/7sXufweikTP0DcDSBGwpoD) | 3:27 | 2023-10-26 |  |
+| [50 Special](https://open.spotify.com/track/21Ay8mJRYQuOMZp7qyQXl6) | [Lùnapop](https://open.spotify.com/artist/4ZbsxiS90Pj1gLeDv3A9mN) | [...Squérez?](https://open.spotify.com/album/7sXufweikTP0DcDSBGwpoD) | 3:27 | 2023-10-26 | 2023-11-06 |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-26 |  |
 | [A\-O\-K](https://open.spotify.com/track/4CbrNGvwVjneG8Nk9YQqMR) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [A\-O\-K](https://open.spotify.com/album/3A8u7ZzojDwy7GlCJphBQR) | 2:53 | 2022-05-06 | 2022-07-25 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-05-06 |  |
@@ -180,6 +180,7 @@
 | [Il meglio di te](https://open.spotify.com/track/2eTXrwuncNqUOAxw2YJ8lv) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Il meglio di te](https://open.spotify.com/album/0TYQyv9BG0D1M60K7l85xz) | 2:37 | 2022-07-22 | 2022-09-28 |
 | [ILLINOIS](https://open.spotify.com/track/4jh2hP44LsMrTLLnlhksf8) | [Novelo](https://open.spotify.com/artist/1RHfl90nY7Ut10DMRcKjDa) | [CARO MOSTRO](https://open.spotify.com/album/4zXlJMn3ZaaUIwR5VDArCx) | 2:28 | 2022-05-06 | 2022-07-17 |
 | [Insecure](https://open.spotify.com/track/72j6vUceQqGehRJQOqIAPj) | [XO LU](https://open.spotify.com/artist/1QuS8XFGkFeFQdAQwSR1Uf) | [Insecure](https://open.spotify.com/album/4ftx6tVoQQj4LbrQTR9fqI) | 2:19 | 2022-05-13 | 2022-06-16 |
+| [IO, ME ED ALTRI GUAI](https://open.spotify.com/track/6nOxxnYoJAgsQFhGxlk32L) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [IO, ME ED ALTRI GUAI](https://open.spotify.com/album/0EcYVyXLbn4z2KA8gBSmtS) | 2:57 | 2023-10-26 |  |
 | [jealousy, jealousy](https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:53 | 2022-05-06 | 2022-09-10 |
 | [Jello](https://open.spotify.com/track/53nhFKZZoeAtWPbSq3RxS4) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [Jello](https://open.spotify.com/album/3IPxTrFU42DwgPLAuaBLiF) | 2:39 | 2023-06-09 |  |
 | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/album/0PTGY2rz75YFy0H1jvibuD) | 3:35 | 2022-05-06 | 2022-08-30 |

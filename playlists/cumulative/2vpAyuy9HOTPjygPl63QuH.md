@@ -4,7 +4,7 @@
 
 > The freshest tech house music, updated every friday\. Submit via Instagram: @subshiftmusic
 
-1,471 songs - 3 day 11 hr 43 min
+1,472 songs - 3 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -735,6 +735,7 @@
 | [Like You Do](https://open.spotify.com/track/1ap4zdsBydWPSXJqDBqtNL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Like You Do](https://open.spotify.com/album/1riQFcgbb1smSKeWVarPDx) | 2:32 | 2022-09-30 | 2022-10-08 |
 | [Lil Mama \- FREAK ON Remix](https://open.spotify.com/track/0x70a1mdqojOghwbarZUEU) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [Lil Mama \(FREAK ON Remix\)](https://open.spotify.com/album/2pPaFWVAMWrDm0uIMvUXZX) | 2:53 | 2022-09-09 | 2022-09-18 |
 | [Lippy \- Original Mix](https://open.spotify.com/track/0uWpo7GeZ0LGxJec3iKoy5) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Movin](https://open.spotify.com/album/71x6jaCEtiGFbgBmjKIfff) | 6:42 | 2022-04-28 | 2022-05-14 |
+| [Listen \- Austin Pettit Remix](https://open.spotify.com/track/09ysaqWecuRW7gGLBrxTDm) | [Stan Kolev](https://open.spotify.com/artist/6MzHMxgYcbj6ue5w9pbNp9), [Austin Pettit](https://open.spotify.com/artist/2hvTEkJIyi0TLuwpRX1awn) | [Listen \[The Remixes\]](https://open.spotify.com/album/2khLaEBxaaisEWt7lGTPg3) | 6:16 | 2023-11-05 |  |
 | [Live Stream \- Noizu Remix](https://open.spotify.com/track/44wKNLBs2kjyY5KqjWqY0z) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Rene Amesz](https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m) | [Live Stream \(Noizu Remix\)](https://open.spotify.com/album/6MY8C5VVAizFXfEgDeTnin) | 3:03 | 2023-06-30 | 2023-07-16 |
 | [Liveware](https://open.spotify.com/track/3lJ5MhiuH901erw39QQPDB) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Liveware](https://open.spotify.com/album/3sA8rKmuHD7BvBbgqSYDrd) | 4:27 | 2022-10-28 | 2022-11-06 |
 | [Loca](https://open.spotify.com/track/1K7812gCyrt3oWM9KhyHYt) | [D\-Tek](https://open.spotify.com/artist/0Ss5Mgh4yOBheewjYwTJ7p) | [Loca](https://open.spotify.com/album/0yW54F75l7DJWNojmpC3EJ) | 5:35 | 2022-05-13 | 2022-05-30 |

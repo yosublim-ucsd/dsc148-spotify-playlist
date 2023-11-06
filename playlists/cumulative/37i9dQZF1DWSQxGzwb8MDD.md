@@ -4,7 +4,7 @@
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-162 songs - 15 hr 27 min
+163 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Trip To Kyoto](https://open.spotify.com/track/790uMCgfdponFQn90J4AbP) | [MEYEM](https://open.spotify.com/artist/6OzM7HVNYnambM1FHibMfu), [maem](https://open.spotify.com/artist/001DZbJzRFyz9KyNVv3qlz) | [Trip To Kyoto](https://open.spotify.com/album/4kgNHnxuLiqpcajIHaCGQh) | 6:33 | 2022-11-21 | 2023-04-27 |
 | [True](https://open.spotify.com/track/3NNi5P7BlH8RG8l0KMfvqT) | [Blue Hour](https://open.spotify.com/artist/4dBDX26kNVoNEVUL97nlde) | [Origins](https://open.spotify.com/album/3VCbVdPGTMSJ2Eghtyi3uA) | 5:49 | 2023-09-06 |  |
 | [Tunnel Vision](https://open.spotify.com/track/3hiSJibKGv9vlRClBfF5E7) | [J\-Zbel](https://open.spotify.com/artist/63yOs3zqxl5Z9BxnAX3ahr) | [Dog's fart is so bad the cat throws up](https://open.spotify.com/album/0vgW3Dn2KH1yuZb0z1M54M) | 8:48 | 2022-07-23 |  |
-| [Two Faces](https://open.spotify.com/track/49pvczJALhguNX3El58HKg) | [Pagan](https://open.spotify.com/artist/64DMGOuRN75gf19FY7eVme), [Rory Sweeney](https://open.spotify.com/artist/6Mza4jsmRc320eSKCfReK1), [EMBY](https://open.spotify.com/artist/2mr3ew4WUwMXkuyTySd6l0) | [Two Faces](https://open.spotify.com/album/0klr2ycUtzcIGQs6pS442E) | 4:36 | 2023-04-26 |  |
+| [Two Faces](https://open.spotify.com/track/7nqr06czDReWnyQ3w7ce90) | [EMBY](https://open.spotify.com/artist/2mr3ew4WUwMXkuyTySd6l0), [Pagan](https://open.spotify.com/artist/64DMGOuRN75gf19FY7eVme), [Rory Sweeney](https://open.spotify.com/artist/6Mza4jsmRc320eSKCfReK1) | [Two Faces](https://open.spotify.com/album/4ZonUvPaVMWtwhFVO77dnF) | 4:36 | 2023-09-06 |  |
+| [Two Faces](https://open.spotify.com/track/49pvczJALhguNX3El58HKg) | [Pagan](https://open.spotify.com/artist/64DMGOuRN75gf19FY7eVme), [Rory Sweeney](https://open.spotify.com/artist/6Mza4jsmRc320eSKCfReK1), [EMBY](https://open.spotify.com/artist/2mr3ew4WUwMXkuyTySd6l0) | [Two Faces](https://open.spotify.com/album/0klr2ycUtzcIGQs6pS442E) | 4:36 | 2023-04-26 | 2023-11-06 |
 | [Typhoon](https://open.spotify.com/track/0PtQpQc3C5DNOL3FvFFb3W) | [Dawn Razor](https://open.spotify.com/artist/46rzlzbTrxJNm0H6YeqfIZ) | [Typhoon / Raw Row](https://open.spotify.com/album/7zo2ZND2lKcPorkDnlY2dW) | 5:52 | 2023-09-06 |  |
 | [Typhoon](https://open.spotify.com/track/3ZcidprKzmMNU67RAypHT1) | [Dawn Razor](https://open.spotify.com/artist/46rzlzbTrxJNm0H6YeqfIZ) | [Typhoon / Raw Row](https://open.spotify.com/album/6047cf59Pii53bOog79jGy) | 5:52 | 2023-09-06 | 2023-10-07 |
 | [U Ask I Tell](https://open.spotify.com/track/0AqkJlav1su5474Hv9yQXE) | [RIGSON](https://open.spotify.com/artist/2KbsGZotcK7CVzk1ZtGy4m) | [Wormholes, Pt\. 1](https://open.spotify.com/album/3X76M5V375yvvqBKEiKyj6) | 6:22 | 2022-11-21 | 2023-07-06 |

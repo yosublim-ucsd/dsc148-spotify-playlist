@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Mannequin Pussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,288 likes - 124 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,363 likes - 124 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 10 | [Avalanche Of Love](https://open.spotify.com/track/7wxQ4IYkQOeQJh1XEK3Xch) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Avalanche of Love](https://open.spotify.com/album/5kHetKR92dhcg1pwoAHKso) | 3:55 |
 | 11 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 |
 | 12 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
-| 13 | [Talkin' On The Internet](https://open.spotify.com/track/6nrTOALDsdBIIVblrv0sYh) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Herberts On Holiday](https://open.spotify.com/album/3m3hEjQTaDq3QgiXR8XjW6) | 2:35 |
+| 13 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 |
 | 14 | [Hell](https://open.spotify.com/track/44cwcFNclhaQm29UTexzDg) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Hell](https://open.spotify.com/album/02zLqSxOwNG6OlppSNHvOK) | 3:13 |
 | 15 | [Forgot To Grow](https://open.spotify.com/track/6paoS9bgvq5NQVrljedfFm) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Forgot To Grow](https://open.spotify.com/album/0QP79EOlImpXgzioV8GdeX) | 3:12 |
 | 16 | [Stare At The Sun](https://open.spotify.com/track/0dNuX5ft4fSSgKsRau3JEP) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Stare At The Sun](https://open.spotify.com/album/238Qlq3yh7LNfO3e5TD1uu) | 3:32 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 24 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 |
 | 25 | [Thin Air](https://open.spotify.com/track/6zuqI8QSazQ6850pxx2IU5) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 3:34 |
 | 26 | [Love Is Fire](https://open.spotify.com/track/2h2LCucFMULWhAhRAKJdNn) | [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [Love Is Fire](https://open.spotify.com/album/5KW9VWfXcQ7rI9tAF5Og0h) | 3:03 |
-| 27 | [I Thought You'd Change](https://open.spotify.com/track/4Uy1cKq8UPWkwLRZBmSryG) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/7uCaVO8YwOnWXGk7ptVHNR) | 2:51 |
+| 27 | [I Thought You'd Change](https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 2:51 |
 | 28 | [You Can Be Mean](https://open.spotify.com/track/5HlHycHNeXIjYhY4AJRErt) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [You Can Be Mean](https://open.spotify.com/album/55AeOkUW28sgptXC5DCzn9) | 2:25 |
 | 29 | [PHD](https://open.spotify.com/track/0MzNvq7rOR7zYfJcRf7Yzz) | [Malice K](https://open.spotify.com/artist/02teRYFHjIArrcuL5TkxmI) | [PHD](https://open.spotify.com/album/3clusQ6T8jI8LenvmGB15O) | 1:57 |
 | 30 | [HEY ASSHOLE](https://open.spotify.com/track/5EbeMB2XW1Gh0ExAawkBCJ) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [HEY ASSHOLE!](https://open.spotify.com/album/4WUzvidSHP2O30d27dShPZ) | 1:29 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 123 | [Doomer](https://open.spotify.com/track/3bGfDpcaUIKZhXM0x776re) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Doomer](https://open.spotify.com/album/4KZtS7Mbox8WP1HF8Ugtz1) | 3:43 |
 | 124 | [Tongues ii](https://open.spotify.com/track/5hsiKHlyGKPgJgxKRzU01O) | [Slomo Sapiens](https://open.spotify.com/artist/1TDdS4QH1Z5hNQNe4YeM3Q) | [Tongues ii](https://open.spotify.com/album/39eb7GTOFKzbixXcKZBA3p) | 5:36 |
 
-Snapshot ID: `MCw0YTY2N2FkZjczYTZhNzNlOWNhNjJkODIyYzZhNzdlNTA2YTU2NWJk`
+Snapshot ID: `MCw5YjhmNDNjOTUzODA3NDAwNzg5OTdjNTdlYWFjYTliNDM5ZmU1MmJi`

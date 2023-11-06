@@ -5908,6 +5908,36 @@
     {
       "album": {
         "name": "College Park",
+        "url": "https://open.spotify.com/album/7KcBjQ5f47uYAmvWCbB2FX"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "DJ Statik Selektah",
+          "url": "https://open.spotify.com/artist/1IEGzaZzVTKJ7l0EON6Oax"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315102,
+      "name": "Self Medication (feat. Seth MacFarlane, Redman, & Statik Selektah)",
+      "url": "https://open.spotify.com/track/5tIUJI1rofqeaaZ5x43tp4"
+    },
+    {
+      "album": {
+        "name": "College Park",
         "url": "https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0"
       },
       "artists": [
@@ -5930,7 +5960,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 315102,
       "name": "Self Medication (feat. Seth MacFarlane, Redman, & Statik Selektah)",
       "url": "https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Turbo and Gunna, NAV and Kid Cudi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,625,390 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,627,240 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Thang For You \(feat\. NoCap\)](https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 4:19 |
 | 50 | [NO FINSTA](https://open.spotify.com/track/59GEWDzQgCXM55aGZDWSrQ) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [LET'S DO IT](https://open.spotify.com/album/4I49kBApc9FV9oeAcIj9tK) | 1:58 |
 
-Snapshot ID: `MCw1Y2Q3MDE2OGE3MDg2NTc2YmVjOWU5NGM0MTM1NmY5ZTZmMzY4ODc5`
+Snapshot ID: `MCwwZmQzNzYyNDUxMzk4NmJjNzczNDA3Mjc0MWExZGM3ZWJhZWUxZGUy`

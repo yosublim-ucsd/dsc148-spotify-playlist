@@ -4,7 +4,7 @@
 
 > The USB essentials that defined our setlists this year\. Cover: Keinemusik
 
-88 songs - 6 hr 23 min
+90 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-11-30 |  |
 | [Love Ain't Over \- Carlita Remix](https://open.spotify.com/track/7AvRF0W6c6H5UzWZSojWlp) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Love Ain't Over \(Carlita Remix\)](https://open.spotify.com/album/030jhB9idkvjMsKVxculZ8) | 3:32 | 2022-11-30 |  |
 | [Mancora](https://open.spotify.com/track/2pmbbUP1lTKZ7voVz0zwmP) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Anjunadeep Explorations 19](https://open.spotify.com/album/3nKb70XsqiQwCQQuLxZWpg) | 3:59 | 2022-11-30 |  |
-| [Manizer](https://open.spotify.com/track/32MHis9ga5UmCo2hivlkEs) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Manizer](https://open.spotify.com/album/0OY87u7mQKYk8nJ96Br0QM) | 4:04 | 2022-11-30 |  |
+| [Manizer](https://open.spotify.com/track/0pe3Yuk1Bqed5pQJ3umH3Q) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Manizer](https://open.spotify.com/album/63UQSM43BVNmbRoYQkE19T) | 4:04 | 2022-11-30 |  |
+| [Manizer](https://open.spotify.com/track/32MHis9ga5UmCo2hivlkEs) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Manizer](https://open.spotify.com/album/0OY87u7mQKYk8nJ96Br0QM) | 4:04 | 2022-11-30 | 2023-11-06 |
 | [Music4TheMasses \- Andrea Oliva Remix](https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Music4TheMasses \(Andrea Oliva Remix\)](https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9) | 3:07 | 2022-11-30 |  |
 | [My City's On Fire](https://open.spotify.com/track/4naKJYQsRnQcBvYcgAGivQ) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [+](https://open.spotify.com/album/611LjdYsQvGXLI0pCOrmZk) | 3:07 | 2022-11-30 |  |
 | [My Paradise](https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [My Paradise](https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2) | 3:31 | 2022-11-30 |  |
@@ -75,7 +76,8 @@
 | [Redlight](https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:02 | 2022-11-30 |  |
 | [Return to Oz \- ARTBAT Remix](https://open.spotify.com/track/0gwNGHcBRYtF7mvgUczVo1) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Return to Oz \(ARTBAT Remix\)](https://open.spotify.com/album/4gzaCyT20sk6Xu6WzBlkpd) | 8:00 | 2022-11-30 |  |
 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 | 2022-11-30 |  |
-| [Rock You All Night](https://open.spotify.com/track/4ZWMufnPh7Ssz29veIMEwR) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Rock You All Night](https://open.spotify.com/album/00l6WmD4J0WnsR0Lis12UR) | 3:26 | 2022-11-30 |  |
+| [Rock You All Night](https://open.spotify.com/track/1jjnmZdZChPR7iaK3R3UUC) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Rock You All Night](https://open.spotify.com/album/5Nz5W3qOVY4NXqMZZ5hzNe) | 3:26 | 2022-11-30 |  |
+| [Rock You All Night](https://open.spotify.com/track/4ZWMufnPh7Ssz29veIMEwR) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Rock You All Night](https://open.spotify.com/album/00l6WmD4J0WnsR0Lis12UR) | 3:26 | 2022-11-30 | 2023-11-06 |
 | [Roll Play](https://open.spotify.com/track/4szwPQ7ajXpyqykjtv6RLE) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Roll Play](https://open.spotify.com/album/20pvV7NCcoCn9kPlCxOB1s) | 3:23 | 2022-11-30 |  |
 | [Sete](https://open.spotify.com/track/2etc2aOBnZJgq4GibLSel4) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Carlita Remix\)](https://open.spotify.com/album/4SMYDx604fGDZsaRuMznWb) | 3:29 | 2022-11-30 | 2023-02-26 |
 | [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 | 2022-11-30 |  |

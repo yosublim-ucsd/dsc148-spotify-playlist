@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, solø\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,278 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,305 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 56 | [Devil May Cry](https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglianone](https://open.spotify.com/artist/3Kborlyf9Zfl8JNELvN5rn) | [Devil May Cry](https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA) | 2:28 |
 | 57 | [Non Mi Passa](https://open.spotify.com/track/1ZukPve2ImtM1f1ZbD9ATQ) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [Non Mi Passa](https://open.spotify.com/album/4hDPcR2QtJ6o9uAh2UEmxh) | 2:16 |
 | 58 | [Winston Blue](https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i) | [WECH PUTO](https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK) | [Winston Blue](https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT) | 2:31 |
-| 59 | [Dimmi se sbaglio](https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT) | [Bada1](https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb), [Matris](https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL) | [Dimmi se sbaglio](https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh) | 2:15 |
-| 60 | [Mille Pezzi](https://open.spotify.com/track/6t1XiG2eJ6MtchAdieG8Zn) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [Mille Pezzi](https://open.spotify.com/album/6O9TdMLd0pOmHz8Sh690JF) | 3:06 |
+| 59 | [Mille Pezzi](https://open.spotify.com/track/6t1XiG2eJ6MtchAdieG8Zn) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [Mille Pezzi](https://open.spotify.com/album/6O9TdMLd0pOmHz8Sh690JF) | 3:06 |
+| 60 | [Dimmi se sbaglio](https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT) | [Bada1](https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb), [Matris](https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL) | [Dimmi se sbaglio](https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh) | 2:15 |
 | 61 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 |
 | 62 | [Amsterdam](https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:20 |
 | 63 | [Empatia](https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:52 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 67 | [Shama è buono](https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Shama è buono](https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX) | 2:24 |
 | 68 | [Cicatrici \(feat\. Tenth Sky\)](https://open.spotify.com/track/3FZlx13Vs5tZm3u0PH5i7v) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Lacrime](https://open.spotify.com/album/5drTfTuBNR87cXnyJdn7En) | 2:28 |
 | 69 | [Sotto lo zero](https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Sotto lo zero](https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE) | 3:00 |
-| 70 | [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 |
+| 70 | [Ci penserò domani](https://open.spotify.com/track/1feHjTOSRoZSh71HuIvnoT) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Ci penserò domani](https://open.spotify.com/album/3BHBF3r3tkcAAruf7wlqYw) | 2:17 |
 | 71 | [Attacco di Panico](https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6) | [Attacco di Panico](https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli) | 2:25 |
-| 72 | [Ci penserò domani](https://open.spotify.com/track/1feHjTOSRoZSh71HuIvnoT) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Ci penserò domani](https://open.spotify.com/album/3BHBF3r3tkcAAruf7wlqYw) | 2:17 |
+| 72 | [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 |
 | 73 | [I CAN FLY](https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 2:19 |
 | 74 | [Ricordi](https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Amor proprio](https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08) | 1:49 |
 | 75 | [Febbre a Febbraio \(feat\. Lil Kvneki\)](https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y) | [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [Febbre a febbraio](https://open.spotify.com/album/7w5fn5wnpXeIc91o3e3WAd) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 99 | [LE PAROLE GIUSTE](https://open.spotify.com/track/00lhPwTUbM0yZUmiHKCDNp) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9), [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [LE PAROLE GIUSTE](https://open.spotify.com/album/224PJseyAs5K9VZTyuURcp) | 2:47 |
 | 100 | [Fragili](https://open.spotify.com/track/6Y1wgVdi0sJ6JVM9rnL26K) | [Hoomor](https://open.spotify.com/artist/4cNN5QXGRFL9VBGGpO85O8), [Nidya](https://open.spotify.com/artist/0lgeMbRvndhRe5ViRT1h3S) | [Fragili](https://open.spotify.com/album/6ixktzZ4cFQkeewHAY8fjY) | 2:47 |
 
-Snapshot ID: `MCwzOGM1YTUwN2IwNjQyOWZlN2ZhMWE3MGZmOGY5ODk2ZjA5ZDkxYTAy`
+Snapshot ID: `MCwxZjQ3MDFmNzMzYTQ5OGI5ODE3OGEzOWE5MjNkMzM5NjQyYjNkN2U2`

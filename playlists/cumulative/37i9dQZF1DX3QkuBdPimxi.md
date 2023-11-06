@@ -4,7 +4,7 @@
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-122 songs - 5 hr 30 min
+123 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [The Moon Is Made of Cheese](https://open.spotify.com/track/1NmtAaTl4MU6KNE4nGNNBz) | [Danny Weinkauf](https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u) | [No School Today](https://open.spotify.com/album/6JIv077W4rN7TubzD3PZyw) | 1:44 | 2021-12-06 |  |
 | [The Moon Is Made of Cheese](https://open.spotify.com/track/5Q9p3KJ9AVH3xOM9WN3GNv) | [Danny Weinkauf](https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u) | [No School Today](https://open.spotify.com/album/3cba2ObZhSeVfzbtjx3YMP) | 1:44 | 2021-12-06 | 2022-07-29 |
 | [The Planet Song](https://open.spotify.com/track/157EaqzKyfmsc0p22FL0DV) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Blue's Sing\-Along Spectacular](https://open.spotify.com/album/43d5DHMVa3CbUDs9eC3RIg) | 0:54 | 2021-12-06 | 2022-11-25 |
-| [The Planet Song](https://open.spotify.com/track/17Mye6NV0OPHiURHOATaw6) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Blue's Sing\-Along Spectacular](https://open.spotify.com/album/0pxwh5JfIYlY8IGwWnsSGZ) | 0:54 | 2021-12-06 |  |
+| [The Planet Song](https://open.spotify.com/track/17Mye6NV0OPHiURHOATaw6) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Blue's Sing\-Along Spectacular](https://open.spotify.com/album/0pxwh5JfIYlY8IGwWnsSGZ) | 0:54 | 2021-12-06 | 2023-11-06 |
+| [The Planet Song](https://open.spotify.com/track/351vvF9fZMiCu00iH4wCGJ) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Cheeky Kids Hits](https://open.spotify.com/album/4gxIrnGI6aXExxLhEfz9zI) | 0:54 | 2023-02-24 |  |
 | [The Planet Song](https://open.spotify.com/track/6DtCLXr3cJedQzhZfutgfL) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Blue's Sing\-Along Spectacular](https://open.spotify.com/album/4DkCDgZJNNeGRA3xyKYMPQ) | 0:54 | 2021-12-06 | 2022-10-14 |
 | [The Planet Song](https://open.spotify.com/track/1c3F3Ezabh4jGa3hQOyUnQ) | [Bobby Bones & The Raging Idiots](https://open.spotify.com/artist/27F2hWioKuUwn1fE5gJeDX), [The Raging Idiots](https://open.spotify.com/artist/1WaUJXh0rNdq2XtjOHkjAb) | [The Raging Kidiots: Kiddy Up](https://open.spotify.com/album/03iys3WteYEZmjffTDu7mj) | 2:39 | 2021-12-06 |  |
 | [The Planet Song](https://open.spotify.com/track/5FAI5aAGj7WFKMAdlx904u) | [Hopscotch Songs](https://open.spotify.com/artist/5nJFIxTnnNBh2ZIP3dsk6x), [The Hoover Jam](https://open.spotify.com/artist/2l56XVHFv19M7Z39FO7IjU) | [The Planet Song](https://open.spotify.com/album/3fAbHn7PW6FKA0lzZLpRg0) | 3:51 | 2021-12-06 |  |

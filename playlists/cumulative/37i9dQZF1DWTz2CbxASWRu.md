@@ -4,11 +4,11 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-383 songs - 1 day 4 hr 10 min
+385 songs - 1 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Felicidade](https://open.spotify.com/track/5IdwcJPsvxOrr5le9z7NuZ) | [Trio Amazonia](https://open.spotify.com/artist/6AEm8Y0HpqCttIUfdfV04r) | [Trio Amazonia](https://open.spotify.com/album/0otw61lTdvOKY3EjXJ3yuA) | 5:07 | 2023-07-10 |  |
+| [A Felicidade](https://open.spotify.com/track/5IdwcJPsvxOrr5le9z7NuZ) | [Trio Amazonia](https://open.spotify.com/artist/6AEm8Y0HpqCttIUfdfV04r) | [Trio Amazonia](https://open.spotify.com/album/0otw61lTdvOKY3EjXJ3yuA) | 5:07 | 2023-07-10 | 2023-11-06 |
 | [A Minha Menina](https://open.spotify.com/track/3NefwRYI7GuLkajzHoRVRf) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Nuestras Canciones](https://open.spotify.com/album/3OVCObdYjGdtRr5t9mQfX3) | 3:17 | 2023-07-10 |  |
 | [Aaj Shanibar](https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA) | [Rupa](https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh) | [Disco Jazz](https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt) | 7:59 | 2023-07-10 |  |
 | [Abusey Junction](https://open.spotify.com/track/3W4IoNW4011i8qfCwN75Va) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H) | 7:04 | 2023-07-10 |  |
@@ -57,6 +57,7 @@
 | [Body Yako](https://open.spotify.com/track/5TM74yw7ukVkZTlPEKdJvE) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Kongo Elektro](https://open.spotify.com/artist/1Ja1nsBM1xawlIJoBgU52K), [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [NO VISA](https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y) | 4:14 | 2023-07-10 |  |
 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 | 2023-07-10 |  |
 | [Bola de Cristal](https://open.spotify.com/track/2CBCFIzmumJ8pHEv2bcQZt) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [O Futuro Não Demora](https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ) | 4:12 | 2023-07-10 |  |
+| [Bonde \(with Ry Cooder\)](https://open.spotify.com/track/28HE2hcTggk9F46G9Ra6PY) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Talking Timbuktu](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 5:28 | 2023-07-10 |  |
 | [Bonde \(with Ry Cooder\)](https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 5:24 | 2023-07-10 | 2023-11-04 |
 | [Bong Bong](https://open.spotify.com/track/04T4PBgdAGUTmVGgFVHgnu) | [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK), [Soom T](https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu) | [Bong Bong EP](https://open.spotify.com/album/5Cfsp9xPPAP5NYMTZ67uLg) | 3:29 | 2023-07-10 |  |
 | [Bongo Bong](https://open.spotify.com/track/00SmB7n85SKROGjybsyq5i) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Clandestino](https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq) | 2:38 | 2023-07-10 |  |
@@ -108,7 +109,7 @@
 | [De Camino a La Vereda](https://open.spotify.com/track/3uHMnz8ocip1y36t4IFWfI) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 5:03 | 2023-07-10 | 2023-11-04 |
 | [De Camino a la Vereda](https://open.spotify.com/track/11TMcTS3iao1dvMogUSQVk) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt) | 5:03 | 2023-07-10 |  |
 | [De Cara a la Pared](https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 4:15 | 2023-07-10 |  |
-| [De La](https://open.spotify.com/track/1OEL0mmkqxXj3Co1YogSwO) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:48 | 2023-07-10 |  |
+| [De La](https://open.spotify.com/track/1OEL0mmkqxXj3Co1YogSwO) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:48 | 2023-07-10 | 2023-11-06 |
 | [Deep Cumbia](https://open.spotify.com/track/6dfFxwfNJhe1A1vNGioiyL) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Deep Cumbia](https://open.spotify.com/album/4bIjpYcmePHJU30xuxMQCC) | 9:02 | 2023-07-10 |  |
 | [Deja](https://open.spotify.com/track/6zarphghaqXEUFEOKRtMZC) | [Sidestepper](https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B) | [3 AM \(In Beats We Trust\)](https://open.spotify.com/album/5SG03amThdGbDpvOufQLev) | 4:49 | 2023-07-10 |  |
 | [Desde Que O Samba E Samba](https://open.spotify.com/track/6juNy6ewMDMU38YRpgcWR3) | [Caetano Veloso e Gilberto Gil](https://open.spotify.com/artist/0de6Qb2zkptulmWKNMlaSl) | [Tropicalia 2](https://open.spotify.com/album/2ybYLHauxa3H7MdxQmCDIg) | 5:11 | 2023-07-10 |  |
@@ -246,6 +247,7 @@
 | [Monsieur Malonga](https://open.spotify.com/track/6Ug3P0ivlgDyO2Rm6GxQnT) | [Tabu Ley Rochereau](https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a) | [The Voice of Lightness, Vol\. 2: Congo Classics \(1977\-1993\) \[Album 1\]](https://open.spotify.com/album/1IiZl1AtQZJPNKd1uifCeH) | 8:34 | 2023-07-10 |  |
 | [Mother In Law](https://open.spotify.com/track/1y0goo3Emo8SprZRKRljkZ) | [Sierra Leone's Refugee All Stars](https://open.spotify.com/artist/1AG27cavGwcfNWSiGZRSQy) | [Radio Salone](https://open.spotify.com/album/2rKgN9rBJkbN3SlG0bqUiw) | 5:16 | 2023-07-10 |  |
 | [Moussolou](https://open.spotify.com/track/2jkZYhTXDk83BOaRTR8QxH) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Moussolou](https://open.spotify.com/album/792ZgWQIn49vY1iv970M26) | 5:14 | 2023-07-10 | 2023-11-04 |
+| [Moussolou](https://open.spotify.com/track/5IQtSy70lutizrFGdOH9QJ) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Moussolou](https://open.spotify.com/album/1FXBNl5MIvP4wm7D3MgRDm) | 5:14 | 2023-07-10 |  |
 | [Mr Tembo](https://open.spotify.com/track/5oLOgSExVFBBzYTXVblcwu) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Everyday Robots](https://open.spotify.com/album/5SzhltQSSi1HUMi5cveZIZ) | 3:43 | 2023-07-10 |  |
 | [Mujer Luna](https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mujer Luna](https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF) | 3:31 | 2023-07-10 |  |
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2023-07-10 |  |

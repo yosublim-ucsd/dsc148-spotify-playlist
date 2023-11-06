@@ -4,16 +4,18 @@
 
 > <a href="spotify:artist:2GZ0VsYD0N5Gb3EOIELa1N">PAUZA</a>'s favorite tracks\. Updated regularly\. Curated by PAUZA\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-53 songs - 4 hr 18 min
+55 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adios](https://open.spotify.com/track/2aeKs92H27Dih96PkwNPAa) | [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [LA GURÚ](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Adios](https://open.spotify.com/album/07v8KQdjcb5VquyKQfjeKm) | 3:30 | 2022-12-19 |  |
 | [Aga Eh](https://open.spotify.com/track/5YVm0mbRdzuDVHkRtPbEYc) | [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Aga Eh](https://open.spotify.com/album/5jKD43MKbWteJUDHGplIeq) | 5:53 | 2022-12-19 |  |
-| [Back Again](https://open.spotify.com/track/1xlYTYZC9oUm4qSnYsv5tH) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Iuliano Mambo](https://open.spotify.com/artist/1Ot3luDo5klHYHluAmtYZ3) | [Roots](https://open.spotify.com/album/2IPFLTP9xWbtBoJSJ5VxU0) | 3:41 | 2022-12-19 |  |
+| [Back Again](https://open.spotify.com/track/1xlYTYZC9oUm4qSnYsv5tH) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Iuliano Mambo](https://open.spotify.com/artist/1Ot3luDo5klHYHluAmtYZ3) | [Roots](https://open.spotify.com/album/2IPFLTP9xWbtBoJSJ5VxU0) | 3:41 | 2022-12-19 | 2023-11-06 |
+| [Back Again](https://open.spotify.com/track/4PUyBoSK6C8wG0imC6N2Dl) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Iuliano Mambo](https://open.spotify.com/artist/1Ot3luDo5klHYHluAmtYZ3) | [Roots](https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC) | 3:41 | 2022-12-19 |  |
 | [Beeper Blowing Up](https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw) | [LATE NIITE](https://open.spotify.com/artist/6zKFmriYB7K8UC54jtYCAS), [Thomas Garcia](https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq) | [Beeper Blowing Up](https://open.spotify.com/album/5Jfs0kxETh6SAUNFrliOi0) | 3:38 | 2022-12-19 |  |
 | [Benjamín Carrión](https://open.spotify.com/track/2wJvLzX1W7VQSx0wuTgxCp) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Benjamín Carrión](https://open.spotify.com/album/0UacT2HwlzcN9bnbtqI98k) | 2:57 | 2022-12-19 |  |
-| [Besame](https://open.spotify.com/track/0sdVCmROGifqlnlkk2d8xw) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW) | [Besame](https://open.spotify.com/album/4xe04ZyXYkJw8B5Okra27z) | 4:00 | 2022-12-19 |  |
+| [Besame](https://open.spotify.com/track/2YYioCPiuODs1qxMkP26tt) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [Besame](https://open.spotify.com/album/4cDHdtEPMeK1zxPomOxiEB) | 4:00 | 2022-12-19 |  |
+| [Besame](https://open.spotify.com/track/0sdVCmROGifqlnlkk2d8xw) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW) | [Besame](https://open.spotify.com/album/4xe04ZyXYkJw8B5Okra27z) | 4:00 | 2022-12-19 | 2023-11-06 |
 | [Boletta](https://open.spotify.com/track/0KeIyGU0dfbe7NgRyvhwRm) | [Tony Guerra](https://open.spotify.com/artist/5qURuhcV6ZjUfe1iYsC2Py), [Manybeat](https://open.spotify.com/artist/1Be8ITi2hwXQWdQCKbmQv4) | [Boletta \(Original Mix\)](https://open.spotify.com/album/2tsadFt7Da0b10NxqUA7Hw) | 5:36 | 2022-12-19 |  |
 | [Bougez](https://open.spotify.com/track/4I8N1cL2rPLbfnjVGqno6f) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ) | [Bougez](https://open.spotify.com/album/1VoDp3eanzuqSMsexSv1Re) | 3:18 | 2022-12-19 |  |
 | [Caliente](https://open.spotify.com/track/1kxrUd6GDLEWsgIAlmErXF) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Arema Arega](https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C) | [Caliente](https://open.spotify.com/album/3Hxg9D6IidPIcdp7TLk7D4) | 5:34 | 2022-12-19 |  |

@@ -1,13 +1,29 @@
 {
   "description": "Island life vibes \u2728 Relajados y disfrutando la vida con musiquita linda de fondo.",
-  "num_followers": 11548,
+  "num_followers": 11583,
   "original_name": "Alma Libre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjUyYWM2NzkzNTMxZGUwNzIxZDU1YmVkYzBjN2NkNmUyZjYwOWZj",
+  "snapshot_id": "MCwxOWNiYTI1NTc3NDYxODZmMjNiYjI3MDM4ODU4MTE3Zjg4MjQ5MDhk",
   "tracks": [
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Hoy Como Ayer",
+        "url": "https://open.spotify.com/album/28NDhMP2u9FUfp7grF1LhM"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 108853,
+      "name": "Cerca De Ti",
+      "url": "https://open.spotify.com/track/4LY7VZhDLlRpsUlBIOZ7Ew"
+    },
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 297664,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Hoy Como Ayer",
-        "url": "https://open.spotify.com/album/28NDhMP2u9FUfp7grF1LhM"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 108853,
-      "name": "Cerca De Ti",
-      "url": "https://open.spotify.com/track/4LY7VZhDLlRpsUlBIOZ7Ew"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
+      "duration_ms": 172409,
+      "name": "Ciclo",
+      "url": "https://open.spotify.com/track/131pRjxiSb3iaZavjVutiQ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
       "artists": [
         {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 172409,
-      "name": "Ciclo",
-      "url": "https://open.spotify.com/track/131pRjxiSb3iaZavjVutiQ"
+      "duration_ms": 252413,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Ll\u00e9vame",
-        "url": "https://open.spotify.com/album/4CWhl8L32gMw3ShIjje1io"
-      },
-      "artists": [
-        {
-          "name": "Bruno Romano",
-          "url": "https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k"
-        },
-        {
-          "name": "Thiago Muller",
-          "url": "https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi"
-        }
-      ],
-      "duration_ms": 214219,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/4mJYjmCeiuYarCtAc26VyS"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "La Mirada",
         "url": "https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 194826,
       "name": "La Mirada",
       "url": "https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Ll\u00e9vame",
+        "url": "https://open.spotify.com/album/4CWhl8L32gMw3ShIjje1io"
+      },
+      "artists": [
+        {
+          "name": "Bruno Romano",
+          "url": "https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k"
+        },
+        {
+          "name": "Thiago Muller",
+          "url": "https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi"
+        }
+      ],
+      "duration_ms": 214219,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/4mJYjmCeiuYarCtAc26VyS"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1187,6 +1187,42 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Tregua",
+        "url": "https://open.spotify.com/album/0Z3WM0LZkRWEnrcJx8shtG"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        },
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Tregua",
+      "url": "https://open.spotify.com/track/3fjniKdHqy0VMgOphFTPNn"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Triste Pero Fresh",
+        "url": "https://open.spotify.com/album/1Tckecb6OWb7UaZRakuyel"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 181689,
+      "name": "Bolerito Sad",
+      "url": "https://open.spotify.com/track/5QmGrwScqr4hWk2U3SNUUm"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "estamos bien",
         "url": "https://open.spotify.com/album/1kCf3v2NqFFTmQwRwlRe3G"
       },
@@ -1219,22 +1255,6 @@
       "duration_ms": 230179,
       "name": "La Burbuja",
       "url": "https://open.spotify.com/track/3YdqNKwtID5pip8QbnIHls"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Triste Pero Fresh",
-        "url": "https://open.spotify.com/album/1Tckecb6OWb7UaZRakuyel"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 181689,
-      "name": "Bolerito Sad",
-      "url": "https://open.spotify.com/track/5QmGrwScqr4hWk2U3SNUUm"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1291,26 +1311,6 @@
       "duration_ms": 229622,
       "name": "Mis Amantes",
       "url": "https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Tregua",
-        "url": "https://open.spotify.com/album/0Z3WM0LZkRWEnrcJx8shtG"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00e9h",
-          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
-        },
-        {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Tregua",
-      "url": "https://open.spotify.com/track/3fjniKdHqy0VMgOphFTPNn"
     },
     {
       "added_at": "2023-11-03 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Alec Benjamin
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,978 likes - 102 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,030 likes - 102 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 101 | [Silver Lining](https://open.spotify.com/track/3aT88But3JPrDE5y7r7YQA) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Silver Lining](https://open.spotify.com/album/6kRzZnRbdKcnjozCn9S0B9) | 2:42 |
 | 102 | [How You Leave A Man](https://open.spotify.com/track/4ySjA0oHoiVQRuHdkm2wsy) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [How You Leave A Man](https://open.spotify.com/album/30AHFEzmxi6iKzhb6PTv29) | 3:34 |
 
-Snapshot ID: `MCw5MzIyNjQ5N2MwNjk0MjU2YjhiYjI3YjhiZTA3YjY3NzNmOGJjODg2`
+Snapshot ID: `MCw0OTQ3YWU0YzI2OGJlMzY5NTMxNmRmYmMxZGU4NDFlZmNlYzE2ZGY4`

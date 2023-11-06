@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Kevin Abstract
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,329,475 likes - 101 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,329,482 likes - 101 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 4 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 |
 | 5 | [LGOYH \- Let Go Of Your Hurt](https://open.spotify.com/track/6VXaYZdg5lVthukdAx0uBk) | [kwes.](https://open.spotify.com/artist/2vvaBnZLZh65JFyWp67Mhn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Rye Lane \(Original Score\)](https://open.spotify.com/album/2a7sbyp6zoxjTOcTXeg1pi) | 3:26 |
 | 6 | [Best Time](https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:22 |
-| 7 | [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 |
+| 7 | [Silent Assassin](https://open.spotify.com/track/4mbAgzlDrW35mp0dz4zE40) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:07 |
 | 8 | [Counting Thunder](https://open.spotify.com/track/0s754byjLl95PM4g25ZSmT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Counting Thunder](https://open.spotify.com/album/3tPOrTz9PROAgrRWkiL1x8) | 3:18 |
 | 9 | [Installation](https://open.spotify.com/track/7BUGB7cqJQtyNdLD7MtrGr) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Changing Channels](https://open.spotify.com/album/3bKp9TUgbHGhfRBsTQTAxS) | 3:43 |
 | 10 | [Don't Touch!](https://open.spotify.com/track/7KJStRowXCMzl0C60m3O4Z) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Don't Touch!](https://open.spotify.com/album/1wEVbOHAk8ah8Dg6NgsAG0) | 2:52 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 100 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
 | 101 | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/album/4alOM8XlyGXSsr3IIlshl8) | 3:21 |
 
-Snapshot ID: `MCxhN2FlN2NmY2EzOGYzMDI5ZDc4NThiZWNmNWJkMDU3ZmUyMzRkMDgw`
+Snapshot ID: `MCxjMmFlYWZjYTA4OTRlODg4OWMxYzVkYTRlYzM2ZDg1MzE1ZjU4Yjkz`

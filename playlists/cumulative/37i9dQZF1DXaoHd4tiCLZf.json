@@ -1886,10 +1886,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 183333,
       "name": "La flemme",
       "url": "https://open.spotify.com/track/1ZNZwPhKKMrAuNEWAwSvOQ"
+    },
+    {
+      "album": {
+        "name": "Folle Machine",
+        "url": "https://open.spotify.com/album/1NU1gXZPXE6px26hVt61Ic"
+      },
+      "artists": [
+        {
+          "name": "Owlle",
+          "url": "https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "La flemme",
+      "url": "https://open.spotify.com/track/43AAd7EPmd2G6g0bt2tD7r"
     },
     {
       "album": {
@@ -2291,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Classic Hits",
+        "url": "https://open.spotify.com/album/03T5bXMySvcTGqm8RpIJsV"
+      },
+      "artists": [
+        {
+          "name": "John Paul Young",
+          "url": "https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208866,
+      "name": "Love Is in the Air",
+      "url": "https://open.spotify.com/track/4v2K1ZcRXUc87CLtEXI3Pf"
+    },
+    {
+      "album": {
         "name": "I Hate the Music",
         "url": "https://open.spotify.com/album/28L7sCuuF8Zt6dW1FuZqRh"
       },
@@ -2302,7 +2338,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 210293,
       "name": "Love Is In The Air",
       "url": "https://open.spotify.com/track/3c4OULLWwgRqBfA2dJtRuY"
@@ -2562,10 +2598,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 182840,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/51xm7ThW7RFWFequh489x2"
+    },
+    {
+      "album": {
+        "name": "Folle Machine",
+        "url": "https://open.spotify.com/album/1NU1gXZPXE6px26hVt61Ic"
+      },
+      "artists": [
+        {
+          "name": "Owlle",
+          "url": "https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183826,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/7wl1IwwmZEyMs6Crj4yxQx"
     },
     {
       "album": {
@@ -3715,6 +3769,24 @@
     },
     {
       "album": {
+        "name": "Folle Machine",
+        "url": "https://open.spotify.com/album/1NU1gXZPXE6px26hVt61Ic"
+      },
+      "artists": [
+        {
+          "name": "Owlle",
+          "url": "https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181693,
+      "name": "Sounds Familiar (French Version)",
+      "url": "https://open.spotify.com/track/32TXj0xMxTRDMSrkzOULfA"
+    },
+    {
+      "album": {
         "name": "Sounds Familiar (French Version)",
         "url": "https://open.spotify.com/album/1AxKROFWFlEL1Lt2Gbcckq"
       },
@@ -3726,7 +3798,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 180706,
       "name": "Sounds Familiar - French Version",
       "url": "https://open.spotify.com/track/3I2D0Kpbtr0oXvWGxYUScQ"
@@ -4074,7 +4146,7 @@
     {
       "album": {
         "name": "Toujours des mensonges (feat. Vendredi sur Mer)",
-        "url": "https://open.spotify.com/album/1oXKK5Tqew2GZqhqqFUUWN"
+        "url": "https://open.spotify.com/album/0ucFRKSe2Olimd5wQ6E8G4"
       },
       "artists": [
         {
@@ -4089,6 +4161,28 @@
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 222766,
+      "name": "Toujours des mensonges (feat. Vendredi sur Mer)",
+      "url": "https://open.spotify.com/track/29Qo7Dcu3Z4c8zVAp03R0W"
+    },
+    {
+      "album": {
+        "name": "Toujours des mensonges (feat. Vendredi sur Mer)",
+        "url": "https://open.spotify.com/album/1oXKK5Tqew2GZqhqqFUUWN"
+      },
+      "artists": [
+        {
+          "name": "Owlle",
+          "url": "https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8"
+        },
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-06",
       "duration_ms": 222766,
       "name": "Toujours des mensonges (feat. Vendredi sur Mer)",
       "url": "https://open.spotify.com/track/7LqTeSI33Tizgz6bOjMw3F"

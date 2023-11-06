@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Danny Brown
 
-689 songs - 1 day 9 hr 37 min
+690 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -675,7 +675,8 @@
 | [WOO \[Feat\. PlayThatBoiZay, Chief Pound\]](https://open.spotify.com/track/4RjLOOdis03Tfu8rpcnUBu) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [Chief Pound](https://open.spotify.com/artist/6LaTLiY08GpquuOk8433Wb) | [SKED \[Feat\. Kenny Mason\]](https://open.spotify.com/album/3ECd3BfxdM6KTjoYpITN0R) | 3:01 | 2023-10-06 | 2023-11-04 |
 | [Wraith](https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Wraith](https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT) | 2:27 | 2022-05-20 | 2023-04-09 |
 | [Wrinkled Sheets](https://open.spotify.com/track/39r0PmGIxj5W40tVmOoTx1) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J) | [Wrinkled Sheets](https://open.spotify.com/album/5V9vZ386qLR1BOU5ZarUJx) | 3:40 | 2021-09-03 | 2022-04-19 |
-| [WUACV](https://open.spotify.com/track/2HC0LgjchkWSGoOyKIxklv) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [WUACV](https://open.spotify.com/album/5843qUT24X5eDb3dJyNVqr) | 2:17 | 2023-09-08 |  |
+| [WUACV](https://open.spotify.com/track/2HC0LgjchkWSGoOyKIxklv) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [WUACV](https://open.spotify.com/album/5843qUT24X5eDb3dJyNVqr) | 2:17 | 2023-09-08 | 2023-11-06 |
+| [WUACV](https://open.spotify.com/track/7eomd7Z56dMca1xoh2P0NA) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:17 | 2023-11-03 |  |
 | [WUSYANAME \(feat\. Youngboy Never Broke Again & Ty Dolla $ign\)](https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:01 | 2021-09-03 | 2022-03-26 |
 | [wyha](https://open.spotify.com/track/3Crgm2QJ8gYI2QDH7BlWb1) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [fear mercury](https://open.spotify.com/album/0FTBBurxralM52bFSEYSVm) | 1:28 | 2023-02-10 | 2023-03-04 |
 | [Y?](https://open.spotify.com/track/2Mytg2OcqnK15ZfmGx9PqB) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Y?](https://open.spotify.com/album/0Fj5OIXKBxaf86Epw3SKUo) | 2:23 | 2022-12-02 | 2023-04-01 |

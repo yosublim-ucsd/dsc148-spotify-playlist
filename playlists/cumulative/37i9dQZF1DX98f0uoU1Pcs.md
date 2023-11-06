@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Mannequin Pussy
 
-582 songs - 1 day 7 hr 43 min
+584 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,8 @@
 | [I Know Nothing At All](https://open.spotify.com/track/00lb13Y2ROaiMi3u5NPRFQ) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [OTHERBODY](https://open.spotify.com/album/1FrxEEIn0BIIffAaf2Njfs) | 2:33 | 2023-05-22 |  |
 | [I Like You](https://open.spotify.com/track/50X4ve8zvAF4uMFTn3yMez) | [Bloods](https://open.spotify.com/artist/1zQBkffVEYoxt6Bg7YNCVs), [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [I Like You](https://open.spotify.com/album/56bo8byLWXWjpoZjgL4mrO) | 2:20 | 2022-04-01 | 2022-04-29 |
 | [I Saw](https://open.spotify.com/track/2KyawAGl39jfqeZOrVJanN) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [I Saw](https://open.spotify.com/album/5dYFkoGHXg0xjjtXEqZkwV) | 3:27 | 2022-10-24 | 2023-04-15 |
-| [I Thought You'd Change](https://open.spotify.com/track/4Uy1cKq8UPWkwLRZBmSryG) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/7uCaVO8YwOnWXGk7ptVHNR) | 2:51 | 2023-09-15 |  |
+| [I Thought You'd Change](https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 2:51 | 2023-10-20 |  |
+| [I Thought You'd Change](https://open.spotify.com/track/4Uy1cKq8UPWkwLRZBmSryG) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/7uCaVO8YwOnWXGk7ptVHNR) | 2:51 | 2023-09-15 | 2023-11-06 |
 | [I Thought You'd Change](https://open.spotify.com/track/6Vhl3hCPVx4cvJtCpCKC2H) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/0CW3T1GY5UwR6ZwWlWzHeZ) | 2:51 | 2023-09-15 | 2023-09-20 |
 | [I'll Make You See God](https://open.spotify.com/track/3MbhMiPevTFKJtJQUjkdSZ) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [I'll Make You See God](https://open.spotify.com/album/0NouYsEc5RT38lVFTUvmsV) | 4:52 | 2022-02-25 | 2023-06-03 |
 | [i'm gonna tell my therapist on you](https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm gonna tell my therapist on you](https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz) | 2:41 | 2022-01-07 | 2022-02-22 |
@@ -497,7 +498,8 @@
 | [Takes the Piss](https://open.spotify.com/track/5Xv1xvngdGCkrt1MnaOyEX) | [gloo](https://open.spotify.com/artist/22nB1MCDHJehA6lhrgrev3) | [How Not to Be Happy](https://open.spotify.com/album/1jB1L2n0kCjePkgb8ThTBI) | 2:31 | 2021-10-07 | 2022-03-12 |
 | [Talk For Hours](https://open.spotify.com/track/03PjveqFmnkDdYNWXrujZb) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Blending](https://open.spotify.com/album/2O3NneZDbRKj2kTyMK9jrw) | 4:59 | 2023-03-21 | 2023-11-01 |
 | [Talkin' On The Internet](https://open.spotify.com/track/2QSDrcOfvflcy2rtiTZbJd) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Talkin' On The Internet](https://open.spotify.com/album/4uSg0LQqvVFEbZIIzfJAay) | 2:35 | 2023-08-25 | 2023-10-06 |
-| [Talkin' On The Internet](https://open.spotify.com/track/6nrTOALDsdBIIVblrv0sYh) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Herberts On Holiday](https://open.spotify.com/album/3m3hEjQTaDq3QgiXR8XjW6) | 2:35 | 2023-09-22 |  |
+| [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 | 2023-10-20 |  |
+| [Talkin' On The Internet](https://open.spotify.com/track/6nrTOALDsdBIIVblrv0sYh) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Herberts On Holiday](https://open.spotify.com/album/3m3hEjQTaDq3QgiXR8XjW6) | 2:35 | 2023-09-22 | 2023-11-06 |
 | [Tears Are Falling](https://open.spotify.com/track/3JAu0EQd84Mhu8RMLuwhsf) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/1Jy6QtG48t50gXKbxu3tcn) | 2:44 | 2022-04-29 | 2022-10-22 |
 | [Tears Are Falling](https://open.spotify.com/track/7rtPjGBFRB0g2wBXUbrWQ6) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/0rmLedEDkfGgrklLsk7aH9) | 2:44 | 2022-10-14 | 2023-10-21 |
 | [Teen Beat](https://open.spotify.com/track/3HyhlfFMzfXjcDzI061LAM) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Excess](https://open.spotify.com/album/3D3S3TbKudDzd7sM0b778J) | 3:28 | 2022-07-08 | 2023-03-11 |

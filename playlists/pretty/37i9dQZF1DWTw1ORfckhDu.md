@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💶 Kannessa ibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,753 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,773 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [HALLOWEEN](https://open.spotify.com/track/1rnATApFPlKKn89xF8YoDy) | [Nick\-E Maggz](https://open.spotify.com/artist/4THoP0ZeHikbfshug7w8RG) | [HALLOWEEN](https://open.spotify.com/album/6RaBp6gF6EZKVjk9bBFoGf) | 2:37 |
 | 60 | [Vampyyrit](https://open.spotify.com/track/00tdWbLkXLbQgUjPlASRUS) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Vampyyrit](https://open.spotify.com/album/3cthnJNmrkmSCSBG9cF15v) | 2:26 |
 
-Snapshot ID: `MCw5OGUxYWE3YWEwMTAzOTUwZjI5MmE0YzBmMTYwMDljNDlmOGNkNTVk`
+Snapshot ID: `MCwzOTRhMzNlYzBkZmJmNWNjMmQxZDBkZmJhNGQ1MjM2ZGM3ZGMzNDE1`

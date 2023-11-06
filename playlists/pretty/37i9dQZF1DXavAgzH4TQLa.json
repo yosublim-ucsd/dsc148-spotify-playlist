@@ -1,12 +1,12 @@
 {
   "description": "Dale play, y que la cumbia no pare.",
-  "num_followers": 265500,
+  "num_followers": 265828,
   "original_name": "Enganchados: Cumbianchas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTAzYmRjZTMzNmQzNzNlOTAyNzBkYTY3NzU5ZTFiNzY1ZGNiZjhj",
+  "snapshot_id": "MCwwN2E3OTBlOTFkZmI4ZmVjOTA4NzU2ZDVkOWY4ZjhkNDgyOTUyMmFk",
   "tracks": [
     {
       "added_at": "2023-09-26 13:45:07",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-09-26 13:45:07",
       "album": {
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
+    },
+    {
+      "added_at": "2023-09-26 13:45:07",
+      "album": {
         "name": "Grupo Play (La poes\u00eda musical)",
         "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
       },
@@ -451,34 +467,18 @@
     {
       "added_at": "2023-09-26 13:45:07",
       "album": {
-        "name": "Sa, Za...Sabor",
-        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
+        "name": "Un Fen\u00f3meno Natural",
+        "url": "https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy"
       },
       "artists": [
         {
-          "name": "La Cumbia",
-          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 233613,
-      "name": "Porque te amo",
-      "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
-    },
-    {
-      "added_at": "2023-09-26 13:45:07",
-      "album": {
-        "name": "Cumbia Villera",
-        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
+      "duration_ms": 182293,
+      "name": "Una R\u00e1faga De Amor",
+      "url": "https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ"
     },
     {
       "added_at": "2023-09-26 13:45:07",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-09-26 13:45:07",
       "album": {
-        "name": "Un Fen\u00f3meno Natural",
-        "url": "https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy"
+        "name": "Sa, Za...Sabor",
+        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
       },
       "artists": [
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "La Cumbia",
+          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Una R\u00e1faga De Amor",
-      "url": "https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ"
+      "duration_ms": 233613,
+      "name": "Porque te amo",
+      "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
     },
     {
       "added_at": "2023-09-26 13:45:07",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-09-26 13:45:07",
       "album": {
-        "name": "Hecho con Amor",
-        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 202586,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
-    },
-    {
-      "added_at": "2023-09-26 13:45:07",
-      "album": {
         "name": "Montevideo 418",
         "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 211026,
       "name": "Cinco Minutos",
       "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
+    },
+    {
+      "added_at": "2023-09-26 13:45:07",
+      "album": {
+        "name": "Hecho con Amor",
+        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 202586,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
     },
     {
       "added_at": "2023-09-26 13:45:07",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-09-26 13:45:07",
       "album": {
+        "name": "Solo Para Entendidos",
+        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
+    },
+    {
+      "added_at": "2023-09-26 13:45:07",
+      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
-    },
-    {
-      "added_at": "2023-09-26 13:45:07",
-      "album": {
-        "name": "Solo Para Entendidos",
-        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
     },
     {
       "added_at": "2023-09-26 13:45:07",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-09-26 13:45:07",
       "album": {
-        "name": "El Bonaerense",
-        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 263315,
-      "name": "Se Te Ve la Tanga",
-      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
-    },
-    {
-      "added_at": "2023-09-26 13:45:07",
-      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 217013,
       "name": "Soy Soltero",
       "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
+    },
+    {
+      "added_at": "2023-09-26 13:45:07",
+      "album": {
+        "name": "El Bonaerense",
+        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 263315,
+      "name": "Se Te Ve la Tanga",
+      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
     },
     {
       "added_at": "2023-09-26 13:45:07",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-09-26 13:45:07",
       "album": {
-        "name": "El polaco - Vuelve te lo pido",
-        "url": "https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 133866,
-      "name": "En este mundo",
-      "url": "https://open.spotify.com/track/7gamXMgGmNsr83XdKMPbc9"
-    },
-    {
-      "added_at": "2023-09-26 13:45:07",
-      "album": {
         "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
         "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 308337,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
+    },
+    {
+      "added_at": "2023-09-26 13:45:07",
+      "album": {
+        "name": "El polaco - Vuelve te lo pido",
+        "url": "https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 133866,
+      "name": "En este mundo",
+      "url": "https://open.spotify.com/track/7gamXMgGmNsr83XdKMPbc9"
     },
     {
       "added_at": "2023-09-26 13:45:07",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-09-26 13:45:07",
       "album": {
-        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
-        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Te extra\u00f1o",
-      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
-    },
-    {
-      "added_at": "2023-09-26 13:45:07",
-      "album": {
         "name": "Mensajeros del Amor",
         "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
       },
@@ -1079,22 +1063,6 @@
     {
       "added_at": "2023-09-26 13:45:07",
       "album": {
-        "name": "Vete de Mi Lado",
-        "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
-      },
-      "artists": [
-        {
-          "name": "Los Chakales",
-          "url": "https://open.spotify.com/artist/643YpbScVr0u07i276NRiP"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Vete de Mi Lado",
-      "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
-    },
-    {
-      "added_at": "2023-09-26 13:45:07",
-      "album": {
         "name": "Pibes Chorros - Criando Cuervos",
         "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
       },
@@ -1107,6 +1075,38 @@
       "duration_ms": 193080,
       "name": "La colorada",
       "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
+    },
+    {
+      "added_at": "2023-09-26 13:45:07",
+      "album": {
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
+    },
+    {
+      "added_at": "2023-09-26 13:45:07",
+      "album": {
+        "name": "Vete de Mi Lado",
+        "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
+      },
+      "artists": [
+        {
+          "name": "Los Chakales",
+          "url": "https://open.spotify.com/artist/643YpbScVr0u07i276NRiP"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Vete de Mi Lado",
+      "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
     },
     {
       "added_at": "2023-09-26 13:45:07",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-09-26 13:45:07",
       "album": {
+        "name": "Corriendo La Coneja",
+        "url": "https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 267813,
+      "name": "Vamos A Bailar",
+      "url": "https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS"
+    },
+    {
+      "added_at": "2023-09-26 13:45:07",
+      "album": {
         "name": "20 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 206333,
       "name": "Ser\u00e1 Porque Te Amo",
       "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
-    },
-    {
-      "added_at": "2023-09-26 13:45:07",
-      "album": {
-        "name": "Corriendo La Coneja",
-        "url": "https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 267813,
-      "name": "Vamos A Bailar",
-      "url": "https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS"
     },
     {
       "added_at": "2023-09-26 13:45:07",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-09-26 13:45:07",
       "album": {
-        "name": "El Amor Hecho Cancion",
-        "url": "https://open.spotify.com/album/0awCpysck1teL7SNptoctb"
+        "name": "No Llores",
+        "url": "https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT"
       },
       "artists": [
         {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
         }
       ],
-      "duration_ms": 193093,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/0rNGHPTBNL4D0koH7bYiVI"
+      "duration_ms": 256702,
+      "name": "No Llores",
+      "url": "https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp"
     }
   ],
   "unique_name": "Enganchados: Cumbianchas",

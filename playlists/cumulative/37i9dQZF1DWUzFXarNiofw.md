@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Majid Jordan
 
-1,729 songs - 3 day 20 hr 8 min
+1,730 songs - 3 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1599,8 +1599,9 @@
 | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05) | 3:47 | 2022-09-23 | 2022-11-05 |
 | [VICES](https://open.spotify.com/track/1CfVpNo9PPCdv8akjNVBWQ) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [VICES](https://open.spotify.com/album/1i2GJKmbbcSz8cMeSV7BPZ) | 3:03 | 2022-04-22 | 2022-05-21 |
 | [Violence](https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Everything Was Green](https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3) | 4:15 | 2023-06-16 | 2023-07-22 |
+| [Violet](https://open.spotify.com/track/1EQjOZMvkOXWMK2gx6yTZd) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 7:18 | 2023-10-27 |  |
 | [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 | 2023-10-27 | 2023-11-02 |
-| [Violet](https://open.spotify.com/track/4i85oysQdNeP8M7pqUH9sr) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3DR4H81NkCmYBKgq1vOQ3n) | 7:18 | 2023-10-27 |  |
+| [Violet](https://open.spotify.com/track/4i85oysQdNeP8M7pqUH9sr) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3DR4H81NkCmYBKgq1vOQ3n) | 7:18 | 2023-10-27 | 2023-11-06 |
 | [Void](https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Ember](https://open.spotify.com/album/4TdkbM2pBTKg4mKppswtyN) | 3:16 | 2023-03-24 | 2023-06-10 |
 | [W.I.A \(Where I’m At\)](https://open.spotify.com/track/2FSo1Jjt0MjdGMwgFxcrGs) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [W.I.A \(Where I’m At\)](https://open.spotify.com/album/3kkHpK3tLoh18gFzDfALPu) | 3:07 | 2023-06-30 | 2023-09-16 |
 | [W8](https://open.spotify.com/track/2Bpky4PIUsFM5RetNZk1w1) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf), [DrewTheRew](https://open.spotify.com/artist/6v88vKZue57e76Pes3aZkv) | [W8](https://open.spotify.com/album/570MYwKWpYzH9WDITiHcb7) | 3:40 | 2023-04-14 | 2023-05-21 |

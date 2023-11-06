@@ -4,7 +4,7 @@
 
 > The best of Brazilian House\. Photo: Fabricio Peçanha
 
-87 songs - 5 hr 28 min
+88 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Bad Intention](https://open.spotify.com/track/145YdK7lQGBkjugrN1oxpj) | [Pirate Snake](https://open.spotify.com/artist/6GC33IJFo0PDw5bsazEzpj), [3Beat](https://open.spotify.com/artist/6GygHIe8zmVX42gMgFQ3z8) | [Bad Intention](https://open.spotify.com/album/5IZv5Udw5vuqezSe87X0zG) | 2:50 | 2023-07-21 |  |
 | [Banho de Folhas \- Maz Remix](https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Banho de Folhas \(Maz Remix\)](https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O) | 3:35 | 2023-07-21 |  |
 | [Blow](https://open.spotify.com/track/6WKnqc5R9mjCTOlP2LiymZ) | [Almek](https://open.spotify.com/artist/0OWFz4qVgVrnaPpvhOAZYa), [RENNAN](https://open.spotify.com/artist/1Sq3SWhfNjw1e3gpCDTry0) | [Blow](https://open.spotify.com/album/1zgW0fdUv37ePTTZ0t4LcM) | 2:50 | 2023-07-21 | 2023-10-21 |
-| [Bongoloco](https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA) | 3:26 | 2023-07-21 |  |
+| [Bongoloco](https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA) | 3:26 | 2023-07-21 | 2023-11-06 |
+| [Bongoloco](https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV) | 3:26 | 2023-11-03 |  |
 | [Bring It](https://open.spotify.com/track/202FD57PWY2iEj7EknxD4D) | [Riro](https://open.spotify.com/artist/4NqnlCPDCBgLdVOY8lDark) | [Bring It](https://open.spotify.com/album/0Z5MIDlXE844e9KA6aIhYg) | 2:08 | 2023-08-04 |  |
 | [Bump Bump Bump \- Radio Edit](https://open.spotify.com/track/74nFwxAEaYFOW4LpCvLVcX) | [Sandeville](https://open.spotify.com/artist/2l3hKaFThCf5oYsFUv25RH), [Astro](https://open.spotify.com/artist/0JahJweSrkgfC9tHhneWg8) | [Bump Bump Bump \(Radio Edit\)](https://open.spotify.com/album/2o6K63g3jNaY2JcXvaYlmC) | 2:52 | 2023-07-21 |  |
 | [Closer \- Radio Edit](https://open.spotify.com/track/57YS2mQSZ2tvUMTbFlHvyC) | [Bruno Motta](https://open.spotify.com/artist/6rRHgYbcaw2xKpo7LjyGiK), [Only Fusion](https://open.spotify.com/artist/5T5Wm4YyqAy4DERFkdS3qi) | [Closer](https://open.spotify.com/album/4BXdb3T0TG7EiFldBaImfU) | 4:30 | 2023-07-21 | 2023-10-21 |

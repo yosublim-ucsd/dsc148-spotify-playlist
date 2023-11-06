@@ -4,11 +4,12 @@
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-83 songs - 6 hr 20 min
+84 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A la Mañanita](https://open.spotify.com/track/5zNvRx6WBrZu2aYm6oY2Yc) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Gozar Hasta Que Me Ausente](https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP) | 4:37 | 2023-08-11 |  |
+| [Adiós pueblito de Iruya \- Guazú Remix](https://open.spotify.com/track/3hH6WqLMwcjN5tweLTx8Mv) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Bárbara Silva](https://open.spotify.com/artist/4faJueSiIAdyws2gEOK3W1), [Guazú](https://open.spotify.com/artist/0eW7AKarke8r1vuzD5x8vK) | [Adiós pueblito de Iruya \(Guazú Remix\)](https://open.spotify.com/album/0sZm8op6Q2Q8dQlKuW6R2V) | 4:30 | 2023-08-11 |  |
 | [Agua de La Tierra \- Nicola Cruz Remix](https://open.spotify.com/track/75ZnZZHw6Zj8w275PHoKU5) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [El Origen](https://open.spotify.com/album/3Z1Yj9MnveskLxVhHIstUy) | 4:53 | 2023-08-11 |  |
 | [Aisito](https://open.spotify.com/track/7gKzsi7dFiJBrKFPkdJAqy) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH) | [Cable Tierra](https://open.spotify.com/album/4ybRHQ8hoePE8js09qqB7R) | 3:04 | 2023-08-11 |  |
 | [Alma](https://open.spotify.com/track/2n6or5vQGPtqbTu84CNfdn) | [Puna](https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ), [Sandra Amaya](https://open.spotify.com/artist/5blOCUy4Uz4j88SdkakN6v) | [Vol\. 4](https://open.spotify.com/album/4DaIUxKJQvQmeC3VRONSky) | 6:17 | 2023-08-11 |  |
@@ -90,6 +91,6 @@
 | [Viajante](https://open.spotify.com/track/5YZ9dOdtcaGilbW43A5YDj) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ) | 3:52 | 2023-08-11 |  |
 | [Yemanja \- Chancha Via Circuito Remix](https://open.spotify.com/track/5XnHIYpmHGYRhWP7n0ejs1) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Yemanja \(Chancha Via Circuito Remix\)](https://open.spotify.com/album/3IsYqHiAk8RYJUAweNQ1tY) | 4:18 | 2023-08-11 |  |
 | [Zamba para Olvidar](https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Los Pasos Labrados](https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS) | 5:05 | 2023-08-11 |  |
-| [Zorzal](https://open.spotify.com/track/2V0t69gkStN7xlQYasKBWs) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/7q9qy6hx44b9sTXNygcEA6) | 3:09 | 2023-08-11 |  |
+| [Zorzal](https://open.spotify.com/track/2V0t69gkStN7xlQYasKBWs) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/7q9qy6hx44b9sTXNygcEA6) | 3:09 | 2023-08-11 | 2023-11-06 |
 
 \*This playlist was first scraped on 2023-10-10. Prior content cannot be recovered.

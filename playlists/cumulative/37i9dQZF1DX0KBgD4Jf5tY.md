@@ -4,7 +4,7 @@
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:44oncuQSlFMMh7PRslRKUk">Blocage</a>
 
-973 songs - 2 day 0 hr 22 min
+974 songs - 2 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +487,8 @@
 | [Ma chi l'ha detto](https://open.spotify.com/track/4eIWN1p66A9FsKySpgGOpL) | [Cecile](https://open.spotify.com/artist/2V71DNcQsRW0Vp8vCOy9Vw) | [Ma chi l'ha detto](https://open.spotify.com/album/5KL9pdNJHPfYgqNC3jLvXb) | 3:48 | 2023-10-24 |  |
 | [Ma se restassi?](https://open.spotify.com/track/5qzWIQ9ebIoRyvrZmTy8Ns) | [Giuliana Setzes](https://open.spotify.com/artist/7HvjaaYGNpPqu8HyCVzTBw) | [Ma se restassi?](https://open.spotify.com/album/7dCyuQ69ADLDwyXgz7OZh1) | 2:53 | 2022-10-14 | 2022-11-11 |
 | [Ma tu ci tieni a me?](https://open.spotify.com/track/0KeF7ceyOpu0Ibo6H0xUD0) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Ma tu ci tieni a me?](https://open.spotify.com/album/7xVTEaPyoS67yHalgjQi8u) | 3:01 | 2023-01-26 | 2023-03-03 |
-| [Madame](https://open.spotify.com/track/1YuwtGNJID9U7nfvhTovql) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/44QCkU2JXCsvOfwRHCXCxZ) | 2:13 | 2023-10-18 |  |
+| [Madame](https://open.spotify.com/track/0JPyVgLem5a4HcXEADJXg5) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/5di5PgxR4cs1PveHPkgKtr) | 2:13 | 2023-10-31 |  |
+| [Madame](https://open.spotify.com/track/1YuwtGNJID9U7nfvhTovql) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/44QCkU2JXCsvOfwRHCXCxZ) | 2:13 | 2023-10-18 | 2023-11-06 |
 | [MADE IN U.E.](https://open.spotify.com/track/1DQ6CRbAAAJAe0l0G9LkBK) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [MADE IN U.E.](https://open.spotify.com/album/75qg7zzpqzcLaE3KBgRilX) | 2:22 | 2022-11-17 | 2022-12-01 |
 | [Madre mia](https://open.spotify.com/track/4dKVc3Oa3JyXrplJ3ewXZI) | [Blocage](https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Madre mia](https://open.spotify.com/album/7rCKIoBiJCTFZg13UMsJa4) | 3:10 | 2023-10-31 |  |
 | [Madrid](https://open.spotify.com/track/3Jhis8KUVqGHGucAIJ7gZj) | [Serni](https://open.spotify.com/artist/7C6H0dyN6J76NT1oOIK6Vr), [illVeno](https://open.spotify.com/artist/4m4T3yni8geaTZRC7S0Vdq) | [Madrid](https://open.spotify.com/album/6mCDC9SPRnoEqrKqTBQvM4) | 3:13 | 2023-02-16 | 2023-03-15 |

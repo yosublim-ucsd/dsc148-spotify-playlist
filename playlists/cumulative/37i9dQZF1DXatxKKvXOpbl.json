@@ -3216,6 +3216,24 @@
     {
       "album": {
         "name": "Look For The Good",
+        "url": "https://open.spotify.com/album/1mbTSCLbRhFpBV3emeM8Vl"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281546,
+      "name": "Wise Woman",
+      "url": "https://open.spotify.com/track/5TxyKWVbcef5wIdosEOsRI"
+    },
+    {
+      "album": {
+        "name": "Look For The Good",
         "url": "https://open.spotify.com/album/1PuBipBX8qqeUN3FOPIexs"
       },
       "artists": [
@@ -3226,7 +3244,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 281546,
       "name": "Wise Woman",
       "url": "https://open.spotify.com/track/6uvF15oBfR7kQBzF27vCtS"

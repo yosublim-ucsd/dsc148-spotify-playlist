@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,512 likes - 97 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,532 likes - 97 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 63 | [In for the Kill \- Lifelike Remix](https://open.spotify.com/track/5ivTMxDl90BzXxbPL4keZB) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5) | [In for the Kill \(Lifelike Remix\)](https://open.spotify.com/album/69aBJ02GJEA0RVaOEURw8e) | 6:08 |
 | 64 | [Testify](https://open.spotify.com/track/2V6wxkjRNEB0ZkE9zO2vMR) | [Pablo Bozzi](https://open.spotify.com/artist/4DZM1e3XBfgjFkQkR1LKQL) | [Testify](https://open.spotify.com/album/21GPgwAlG5IjLoiq4o6x04) | 6:45 |
 | 65 | [Hustler \- Extended Club Mix](https://open.spotify.com/track/40v3VcGZpeqdXwhFdvulyU) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Hustler](https://open.spotify.com/album/6EI500x7JsJPCj2a7bF7yj) | 6:36 |
-| 66 | [Two Faces](https://open.spotify.com/track/49pvczJALhguNX3El58HKg) | [Pagan](https://open.spotify.com/artist/64DMGOuRN75gf19FY7eVme), [Rory Sweeney](https://open.spotify.com/artist/6Mza4jsmRc320eSKCfReK1), [EMBY](https://open.spotify.com/artist/2mr3ew4WUwMXkuyTySd6l0) | [Two Faces](https://open.spotify.com/album/0klr2ycUtzcIGQs6pS442E) | 4:36 |
+| 66 | [Two Faces](https://open.spotify.com/track/7nqr06czDReWnyQ3w7ce90) | [EMBY](https://open.spotify.com/artist/2mr3ew4WUwMXkuyTySd6l0), [Pagan](https://open.spotify.com/artist/64DMGOuRN75gf19FY7eVme), [Rory Sweeney](https://open.spotify.com/artist/6Mza4jsmRc320eSKCfReK1) | [Two Faces](https://open.spotify.com/album/4ZonUvPaVMWtwhFVO77dnF) | 4:36 |
 | 67 | [Kept Aside](https://open.spotify.com/track/36QR5tKHguDOradlsYUdlb) | [Dylan Fogarty](https://open.spotify.com/artist/7Bpqw7tdKSIraEEc28GD6I) | [D Loops, Vol\. 2](https://open.spotify.com/album/3Cp03m9tTDN9BE8okqmfaZ) | 3:58 |
 | 68 | [DeFol](https://open.spotify.com/track/544sM9wmPkQBOuRHYiyKmz) | [BASHKKA](https://open.spotify.com/artist/5ofWf87ImDZQO2KzwdlPSw) | [Maktub](https://open.spotify.com/album/0UOf5Q11t1MGQ0TA0yIbfh) | 5:14 |
 | 69 | [Footwork](https://open.spotify.com/track/7ijthhYMkHK33Qmu9EVMnB) | [High Fidelity](https://open.spotify.com/artist/3dT0jnqd5jvO095yE9qMEb) | [Welcome to the Hyperdome II](https://open.spotify.com/album/7cHQdGhzUmAPQaw8lfjjuk) | 6:17 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 96 | [London Acid City \- Jon The Dentist Remix](https://open.spotify.com/track/1zmL3Dvul0H0oWpGqAsjhu) | [Lochi](https://open.spotify.com/artist/1qQpYZpMvEWgEE1p79uSPY), [Jon the Dentist](https://open.spotify.com/artist/1ZeqWDCum0uyQ80gnmtKBY) | [London Acid City](https://open.spotify.com/album/4QvrkXdSyR0j3FcgkkuTls) | 7:34 |
 | 97 | [Yes \- Remastered](https://open.spotify.com/track/5zhFBeXP6RjaqF8t5nWJPz) | [Mario De Bellis](https://open.spotify.com/artist/3nXiQWYpv6vWZERJbvYEg4) | [Yes](https://open.spotify.com/album/3JiFYykOsAqWy0UfLasmEg) | 8:25 |
 
-Snapshot ID: `MCw4MGFhZTBlNTM0MjFjYTgyYmJjNDMzYTE5OTZjNTA5ZmRkYjY1OWVm`
+Snapshot ID: `MCxlNThiYmY3ZTZhZjY5MmQ0OGFlMzI5YWJiOTZlYWU1YTMyOGM5ODYy`

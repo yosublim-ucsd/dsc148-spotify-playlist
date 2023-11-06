@@ -10667,6 +10667,24 @@
     },
     {
       "album": {
+        "name": "We're Starting to Look Like Each Other",
+        "url": "https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243969,
+      "name": "Hitchhiking",
+      "url": "https://open.spotify.com/track/4Xus7PhuqSihGgFJJZ1Ayu"
+    },
+    {
+      "album": {
         "name": "Hitchin' a Ride",
         "url": "https://open.spotify.com/album/52GMS1garIMItzvmogm1MF"
       },
@@ -20578,6 +20596,24 @@
       "duration_ms": 259894,
       "name": "Rookie",
       "url": "https://open.spotify.com/track/6umMYISh8Lg5HzU3oVaeWC"
+    },
+    {
+      "album": {
+        "name": "ROY G BIV",
+        "url": "https://open.spotify.com/album/3A4MqV9Ee1zGsaDV1qu8vD"
+      },
+      "artists": [
+        {
+          "name": "Daneshevskaya",
+          "url": "https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128132,
+      "name": "ROY G BIV",
+      "url": "https://open.spotify.com/track/5SPggDyvUdcGd79qaf1NfN"
     },
     {
       "album": {

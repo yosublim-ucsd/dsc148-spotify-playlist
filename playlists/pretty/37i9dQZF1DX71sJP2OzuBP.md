@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,603 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,615 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [給月亮的三行詩 \(《我要逆風去》電視劇片尾曲 \)](https://open.spotify.com/track/2qvw3TxW0AeGygQliu379B) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [給月亮的三行詩](https://open.spotify.com/album/2nHZoTwkHnpTVEEk1g8Hmn) | 3:30 |
 | 100 | [不喜歡沒有你的地方](https://open.spotify.com/track/1R0OkkgvpoIqA0XdU0YSp4) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [不喜歡沒有你的地方](https://open.spotify.com/album/75aDWkYgrA0ZAMEHpPCHeJ) | 3:47 |
 
-Snapshot ID: `MCw3ZmU3Nzg5OWVmYjRjYWRiZjkzYTdhYTg0Zjg3NDA4MGE2NjI0YTRm`
+Snapshot ID: `MCw4MzkwMjlmMWY5Njg1NDk3MmQxNjI3N2NkNWFhY2M5MjBkM2FlMjUx`

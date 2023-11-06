@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Of The Muses on cover. Updates every Wednesday.",
-  "num_followers": 120389,
+  "num_followers": 120535,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTZhOTMwY2FkMzIwODkzMTk3YjkxOGMzNTQzY2U2YWJjMTk3YTNk",
+  "snapshot_id": "MCw5ZTUzOWExMWMwMDMwZTE1NmZiMzE3ZTZhYTAyYzZlY2JmMTEyZDBl",
   "tracks": [
     {
       "added_at": "2023-09-13 15:55:38",
@@ -73,20 +73,20 @@
       "url": "https://open.spotify.com/track/0wdxA7IX2xfcOMyF47WXFm"
     },
     {
-      "added_at": "2023-08-02 14:55:57",
+      "added_at": "2023-10-18 18:20:20",
       "album": {
-        "name": "Pt. I",
-        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
+        "name": "A Host for All Kinds of Life",
+        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
       },
       "artists": [
         {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
         }
       ],
-      "duration_ms": 241009,
-      "name": "ANNA",
-      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
+      "duration_ms": 173311,
+      "name": "Castle Song",
+      "url": "https://open.spotify.com/track/4GYdKBuHZNRByw8bFES0EL"
     },
     {
       "added_at": "2023-10-25 14:01:56",
@@ -137,20 +137,20 @@
       "url": "https://open.spotify.com/track/7CgPSGWTtmFOIRhND4GThX"
     },
     {
-      "added_at": "2023-10-18 18:20:20",
+      "added_at": "2023-08-02 14:55:57",
       "album": {
-        "name": "A Host for All Kinds of Life",
-        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
+        "name": "Pt. I",
+        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
       },
       "artists": [
         {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
         }
       ],
-      "duration_ms": 173311,
-      "name": "Castle Song",
-      "url": "https://open.spotify.com/track/4GYdKBuHZNRByw8bFES0EL"
+      "duration_ms": 241009,
+      "name": "ANNA",
+      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
     },
     {
       "added_at": "2023-10-11 18:36:09",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/6L3tXaAI7sceFnhTA0wRFQ"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "Couversets",
-        "url": "https://open.spotify.com/album/6pcASjKyhro68f8knhtocL"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 220819,
-      "name": "Couversets",
-      "url": "https://open.spotify.com/track/5EFssJc6Liga3EDx3ZKyt2"
-    },
-    {
       "added_at": "2023-09-13 15:55:38",
       "album": {
         "name": "Figura de Cristal",
@@ -655,6 +639,22 @@
       "duration_ms": 160693,
       "name": "Ver a Trav\u00e9s de tus Ojos",
       "url": "https://open.spotify.com/track/2MGKlTC9Dw17dB3SztZOhU"
+    },
+    {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "Couversets",
+        "url": "https://open.spotify.com/album/6pcASjKyhro68f8knhtocL"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 220819,
+      "name": "Couversets",
+      "url": "https://open.spotify.com/track/5EFssJc6Liga3EDx3ZKyt2"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/2UwsVfyJpAKF0VFpfFc9JZ"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "The Shuttle Bus",
-        "url": "https://open.spotify.com/album/1sZls3SUwE3dE7aLrRRHLe"
-      },
-      "artists": [
-        {
-          "name": "group O",
-          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
-        }
-      ],
-      "duration_ms": 215974,
-      "name": "The Shuttle Bus",
-      "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
-    },
-    {
       "added_at": "2023-09-13 15:55:38",
       "album": {
         "name": "How The River Flows",
@@ -737,20 +721,36 @@
       "url": "https://open.spotify.com/track/4M4ote4L4R4Zs4JeOmHzo6"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
+      "added_at": "2023-08-16 06:00:00",
       "album": {
-        "name": "RIFT (Ambient Version)",
-        "url": "https://open.spotify.com/album/4t8epmIXuDQ6QXXBPjdajD"
+        "name": "The Shuttle Bus",
+        "url": "https://open.spotify.com/album/1sZls3SUwE3dE7aLrRRHLe"
       },
       "artists": [
         {
-          "name": "Honeychurch",
-          "url": "https://open.spotify.com/artist/7t5JF3FCDzTM64OgEVtEY5"
+          "name": "group O",
+          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
         }
       ],
-      "duration_ms": 194000,
-      "name": "State of Grace - Ambient Version",
-      "url": "https://open.spotify.com/track/2B3AOSa351dCQytIBWYQV8"
+      "duration_ms": 215974,
+      "name": "The Shuttle Bus",
+      "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Hint",
+        "url": "https://open.spotify.com/album/6kuAtwn4IGu4L0NnlBOJHc"
+      },
+      "artists": [
+        {
+          "name": "SPIME.IM",
+          "url": "https://open.spotify.com/artist/6zOLowG2X8FkUqPSEmetDJ"
+        }
+      ],
+      "duration_ms": 303500,
+      "name": "Hint",
+      "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
     },
     {
       "added_at": "2023-08-01 21:02:30",
@@ -769,20 +769,20 @@
       "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
+      "added_at": "2023-10-04 14:25:37",
       "album": {
-        "name": "Hint",
-        "url": "https://open.spotify.com/album/6kuAtwn4IGu4L0NnlBOJHc"
+        "name": "RIFT (Ambient Version)",
+        "url": "https://open.spotify.com/album/4t8epmIXuDQ6QXXBPjdajD"
       },
       "artists": [
         {
-          "name": "SPIME.IM",
-          "url": "https://open.spotify.com/artist/6zOLowG2X8FkUqPSEmetDJ"
+          "name": "Honeychurch",
+          "url": "https://open.spotify.com/artist/7t5JF3FCDzTM64OgEVtEY5"
         }
       ],
-      "duration_ms": 303500,
-      "name": "Hint",
-      "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
+      "duration_ms": 194000,
+      "name": "State of Grace - Ambient Version",
+      "url": "https://open.spotify.com/track/2B3AOSa351dCQytIBWYQV8"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -985,20 +985,20 @@
       "url": "https://open.spotify.com/track/7KhXuPNmQxJuxuKXz4UY1V"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
+      "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "Reflections 06",
-        "url": "https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX"
+        "name": "Gatherings",
+        "url": "https://open.spotify.com/album/5YGYciOp33ctilmWlgV0h0"
       },
       "artists": [
         {
-          "name": "Moon Kyoo",
-          "url": "https://open.spotify.com/artist/1AhVoVOXXDOP5pkhUvoSjH"
+          "name": "Cosmic Neighbourhood",
+          "url": "https://open.spotify.com/artist/20jBFovpOUwDnYWNqdnTp4"
         }
       ],
-      "duration_ms": 175998,
-      "name": "Detached",
-      "url": "https://open.spotify.com/track/77HgouqzfPVG8yFiAON5ff"
+      "duration_ms": 163320,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/3b0AuqT3ghwDbUXXExwgoe"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1017,36 +1017,20 @@
       "url": "https://open.spotify.com/track/1NGSf4OOcZaorLoH0DVcMp"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
+      "added_at": "2023-09-13 15:55:38",
       "album": {
-        "name": "Gatherings",
-        "url": "https://open.spotify.com/album/5YGYciOp33ctilmWlgV0h0"
+        "name": "Reflections 06",
+        "url": "https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX"
       },
       "artists": [
         {
-          "name": "Cosmic Neighbourhood",
-          "url": "https://open.spotify.com/artist/20jBFovpOUwDnYWNqdnTp4"
+          "name": "Moon Kyoo",
+          "url": "https://open.spotify.com/artist/1AhVoVOXXDOP5pkhUvoSjH"
         }
       ],
-      "duration_ms": 163320,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/3b0AuqT3ghwDbUXXExwgoe"
-    },
-    {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Hotel *****",
-        "url": "https://open.spotify.com/album/3DS0TJ2SJKAnqjup5K5KT1"
-      },
-      "artists": [
-        {
-          "name": "julek ploski",
-          "url": "https://open.spotify.com/artist/33LaRQzDVWBWqEYXtSqcb3"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Main theme, Pt I",
-      "url": "https://open.spotify.com/track/30vEg5FXGG95wZws1LjwYR"
+      "duration_ms": 175998,
+      "name": "Detached",
+      "url": "https://open.spotify.com/track/77HgouqzfPVG8yFiAON5ff"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1063,6 +1047,22 @@
       "duration_ms": 171440,
       "name": "Follow Your Heartbeat",
       "url": "https://open.spotify.com/track/3V9MoPnm3V6NyqrhbHsbqd"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Hotel *****",
+        "url": "https://open.spotify.com/album/3DS0TJ2SJKAnqjup5K5KT1"
+      },
+      "artists": [
+        {
+          "name": "julek ploski",
+          "url": "https://open.spotify.com/artist/33LaRQzDVWBWqEYXtSqcb3"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Main theme, Pt I",
+      "url": "https://open.spotify.com/track/30vEg5FXGG95wZws1LjwYR"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1185,22 +1185,6 @@
       "url": "https://open.spotify.com/track/3e5jShw7ECoIaaReEr5OqP"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "Boundless",
-        "url": "https://open.spotify.com/album/1cUYR2EBSW0DVZ6IIqFBNy"
-      },
-      "artists": [
-        {
-          "name": "David's Lyre",
-          "url": "https://open.spotify.com/artist/7r391x0B3O3T9GNLdlhaJw"
-        }
-      ],
-      "duration_ms": 155903,
-      "name": "Boundless",
-      "url": "https://open.spotify.com/track/2X3U6oC0OOfZ2rGMhf8AxQ"
-    },
-    {
       "added_at": "2023-08-23 14:01:12",
       "album": {
         "name": "drizzy drone",
@@ -1215,6 +1199,22 @@
       "duration_ms": 384877,
       "name": "with my woes",
       "url": "https://open.spotify.com/track/3cZbVXCBhG9ZdbeNLhmQ1h"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "Boundless",
+        "url": "https://open.spotify.com/album/1cUYR2EBSW0DVZ6IIqFBNy"
+      },
+      "artists": [
+        {
+          "name": "David's Lyre",
+          "url": "https://open.spotify.com/artist/7r391x0B3O3T9GNLdlhaJw"
+        }
+      ],
+      "duration_ms": 155903,
+      "name": "Boundless",
+      "url": "https://open.spotify.com/track/2X3U6oC0OOfZ2rGMhf8AxQ"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1381,6 +1381,22 @@
       "url": "https://open.spotify.com/track/3tNzbH4X3O5KxgFcPJANPt"
     },
     {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "Irukandji",
+        "url": "https://open.spotify.com/album/33dHUlzhFzq0l06T2nIANf"
+      },
+      "artists": [
+        {
+          "name": "The Breedling",
+          "url": "https://open.spotify.com/artist/0NldlxCOpbroIKLIAzfWG2"
+        }
+      ],
+      "duration_ms": 243713,
+      "name": "Betrayer",
+      "url": "https://open.spotify.com/track/1Ifm02tflyx53arFi8u5LU"
+    },
+    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Phases of This and Other Moons",
@@ -1445,22 +1461,6 @@
       "url": "https://open.spotify.com/track/7GUaRliFFYyWV2NuUPjsPh"
     },
     {
-      "added_at": "2023-08-23 14:01:12",
-      "album": {
-        "name": "Space Mirror",
-        "url": "https://open.spotify.com/album/3HJEBCujpDy35mS7P5erJY"
-      },
-      "artists": [
-        {
-          "name": "Infinite River",
-          "url": "https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm"
-        }
-      ],
-      "duration_ms": 297989,
-      "name": "Summer Session #2",
-      "url": "https://open.spotify.com/track/3s4cyKx2GqEcBNWzchZcKG"
-    },
-    {
       "added_at": "2023-10-11 18:36:09",
       "album": {
         "name": "Cremated Pets",
@@ -1489,20 +1489,20 @@
       "url": "https://open.spotify.com/track/7x5J1gHY3meL2fU1qwEHd2"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
+      "added_at": "2023-08-23 14:01:12",
       "album": {
-        "name": "small circle",
-        "url": "https://open.spotify.com/album/21UMEdY1bi4yqimxA8VzSh"
+        "name": "Space Mirror",
+        "url": "https://open.spotify.com/album/3HJEBCujpDy35mS7P5erJY"
       },
       "artists": [
         {
-          "name": "Jason Calhoun",
-          "url": "https://open.spotify.com/artist/70RGuffxPE3qcjlvfeAaUy"
+          "name": "Infinite River",
+          "url": "https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm"
         }
       ],
-      "duration_ms": 515000,
-      "name": "small circle",
-      "url": "https://open.spotify.com/track/6IEZQrtG6Wm2hHweerVfKC"
+      "duration_ms": 297989,
+      "name": "Summer Session #2",
+      "url": "https://open.spotify.com/track/3s4cyKx2GqEcBNWzchZcKG"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1537,20 +1537,20 @@
       "url": "https://open.spotify.com/track/65i8qMn7gtqUu1cfKhCL6j"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
+      "added_at": "2023-09-13 15:55:38",
       "album": {
-        "name": "Irukandji",
-        "url": "https://open.spotify.com/album/33dHUlzhFzq0l06T2nIANf"
+        "name": "small circle",
+        "url": "https://open.spotify.com/album/21UMEdY1bi4yqimxA8VzSh"
       },
       "artists": [
         {
-          "name": "The Breedling",
-          "url": "https://open.spotify.com/artist/0NldlxCOpbroIKLIAzfWG2"
+          "name": "Jason Calhoun",
+          "url": "https://open.spotify.com/artist/70RGuffxPE3qcjlvfeAaUy"
         }
       ],
-      "duration_ms": 243713,
-      "name": "Betrayer",
-      "url": "https://open.spotify.com/track/1Ifm02tflyx53arFi8u5LU"
+      "duration_ms": 515000,
+      "name": "small circle",
+      "url": "https://open.spotify.com/track/6IEZQrtG6Wm2hHweerVfKC"
     },
     {
       "added_at": "2023-10-04 14:25:37",

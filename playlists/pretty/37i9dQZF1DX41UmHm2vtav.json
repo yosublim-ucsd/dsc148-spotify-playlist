@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 448035,
+  "num_followers": 448268,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDNjOGU5MDJlMzNjMjI2NmVmZTFlODA4NWY3MmIyMjY0MzY2YTA4",
+  "snapshot_id": "MCxmMjE0NTI1M2EyNGM2ZWM3YzBkN2YwMjhlOGMzZjk3ZjMxZTI1Njcx",
   "tracks": [
     {
       "added_at": "2023-10-27 03:03:00",
@@ -999,22 +999,22 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "Dias Melhores - Remix",
-        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
+        "name": "Oh! Chuva",
+        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
       },
       "artists": [
         {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
         },
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
         }
       ],
-      "duration_ms": 174193,
-      "name": "Dias Melhores - Remix",
-      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
+      "duration_ms": 144796,
+      "name": "Oh! Chuva",
+      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
+        "name": "Dias Melhores - Remix",
+        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Dias Melhores - Remix",
+      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
         "name": "Lovezinho",
         "url": "https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 172986,
       "name": "Lovezinho",
       "url": "https://open.spotify.com/track/7kjfe7IZeVHpBDaa4ftu7K"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
-        "name": "Oh! Chuva",
-        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 144796,
-      "name": "Oh! Chuva",
-      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -1295,26 +1295,26 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "Um Erro (Malifoo, Voltech Remix)",
-        "url": "https://open.spotify.com/album/5SMXWvlU5nqmk261Hh5OUE"
+        "name": "Hoje Caminhei (Remix)",
+        "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
       },
       "artists": [
         {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+          "name": "Cazt",
+          "url": "https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg"
         },
         {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+          "name": "Nicolas Candido",
+          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
         },
         {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+          "name": "\u00d8NEhead",
+          "url": "https://open.spotify.com/artist/0PGwcXveTYchEcTzdQHchT"
         }
       ],
-      "duration_ms": 161904,
-      "name": "Um Erro (Malifoo, Voltech Remix)",
-      "url": "https://open.spotify.com/track/0HGGQcBOouXNzapKPoJsOq"
+      "duration_ms": 140826,
+      "name": "Hoje Caminhei - Remix",
+      "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -1339,26 +1339,26 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "Hoje Caminhei (Remix)",
-        "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
+        "name": "Um Erro (Malifoo, Voltech Remix)",
+        "url": "https://open.spotify.com/album/5SMXWvlU5nqmk261Hh5OUE"
       },
       "artists": [
         {
-          "name": "Cazt",
-          "url": "https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg"
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
         },
         {
-          "name": "Nicolas Candido",
-          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
         },
         {
-          "name": "\u00d8NEhead",
-          "url": "https://open.spotify.com/artist/0PGwcXveTYchEcTzdQHchT"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         }
       ],
-      "duration_ms": 140826,
-      "name": "Hoje Caminhei - Remix",
-      "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
+      "duration_ms": 161904,
+      "name": "Um Erro (Malifoo, Voltech Remix)",
+      "url": "https://open.spotify.com/track/0HGGQcBOouXNzapKPoJsOq"
     },
     {
       "added_at": "2023-10-27 03:03:00",

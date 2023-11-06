@@ -19521,6 +19521,24 @@
     },
     {
       "album": {
+        "name": "BLA (berlin love affair)",
+        "url": "https://open.spotify.com/album/1UWmpU2Be5SOuWmITAQGLG"
+      },
+      "artists": [
+        {
+          "name": "futurebae",
+          "url": "https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168447,
+      "name": "wELLeN",
+      "url": "https://open.spotify.com/track/0JCvNdwMoadNVV3YlZFLZ0"
+    },
+    {
+      "album": {
         "name": "wELLeN",
         "url": "https://open.spotify.com/album/1wBviASwDZ1UXyj66XeQll"
       },
@@ -19550,7 +19568,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 168447,
       "name": "wELLeN",
       "url": "https://open.spotify.com/track/3tvkbP7uk2ZISn5mM9qves"

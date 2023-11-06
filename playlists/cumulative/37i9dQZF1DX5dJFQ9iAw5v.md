@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-100 songs - 8 hr 27 min
+101 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Lago de Forma Mia](https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Camino](https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl) | 3:40 | 2022-08-12 |  |
 | [Lago de Forma Mía \- En Vivo](https://open.spotify.com/track/6X93eJyebGn9Ij6QWqNeT9) | [Hernán Jacinto Trío](https://open.spotify.com/artist/3rEYWsUIZi9p21uqEwrOyq) | [Live At CCK \(En Vivo\)](https://open.spotify.com/album/0moewfR5pB4Z35cdT8MExB) | 8:02 | 2022-09-23 | 2022-11-19 |
 | [Last Happy Hour \(feat\. Martin Bejerano\)](https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Martin Bejerano](https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:50 | 2022-08-12 |  |
+| [Latin Bebop](https://open.spotify.com/track/1c5jKl6KTDiz4sMh4toQAB) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Solo Guitarra](https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU) | 2:55 | 2023-10-26 |  |
 | [Latin Bebop](https://open.spotify.com/track/72uwqT49RJQLP8FaQFrV8Z) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Solo Guitarra](https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs) | 2:55 | 2022-08-12 | 2023-11-04 |
 | [Learning the Blues \- En Vivo](https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf) | [Inés Estévez](https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq) | [Nude \(En Vivo\)](https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH) | 5:05 | 2022-08-12 |  |
 | [Luna](https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Umbral de Mí](https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR) | 4:56 | 2022-08-12 |  |
@@ -78,7 +79,7 @@
 | [Nublado](https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC) | [La Grande](https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0) | [Sesiones 2017\-2020](https://open.spotify.com/album/17NlLQlimG217X7OALtTSy) | 6:14 | 2022-08-12 |  |
 | [Nueva Luna, Mundo Arjo \(feat\. Pedro Aznar\)](https://open.spotify.com/track/3Ybi19qv29GlOHkKoCTZ3P) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Nueva Luna, Mundo Arjo \(feat\. Pedro Aznar\)](https://open.spotify.com/album/6Nau4XGTWFFJEURJrD8L0g) | 6:36 | 2022-08-12 |  |
 | [Ordóñez y Ernestina \(o el Banquito de Ordóñez\)](https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t) | [El Jardín de Ordóñez](https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh) | 5:47 | 2022-08-12 |  |
-| [Polacos](https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Polacos](https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi) | 3:08 | 2022-10-28 |  |
+| [Polacos](https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Polacos](https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi) | 3:08 | 2022-10-28 | 2023-11-06 |
 | [Pop](https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:40 | 2022-08-12 |  |
 | [Pretos](https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H) | [Ernesto Amstein](https://open.spotify.com/artist/3RtoD2Lg2AMClwewzI109w), [Gabriel Domenicucci](https://open.spotify.com/artist/0RVTCxjrWgfnzamvKD61G0) | [El Ombligo de un Sueño](https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH) | 5:24 | 2022-08-12 |  |
 | [Primavera Porteña](https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [100](https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4) | 6:42 | 2022-08-12 |  |

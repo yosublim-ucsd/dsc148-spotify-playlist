@@ -16,10 +16,28 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 423307,
       "name": "10AM Fuse",
       "url": "https://open.spotify.com/track/03cy6hMyW9Y07tJuF2bIg3"
+    },
+    {
+      "album": {
+        "name": "Theory to Start EP",
+        "url": "https://open.spotify.com/album/5O5mugR6DnFAZRFI4dh4J5"
+      },
+      "artists": [
+        {
+          "name": "Seb Zito",
+          "url": "https://open.spotify.com/artist/2IwfvuKftX9D7CFF4qCTM8"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423307,
+      "name": "10AM Fuse",
+      "url": "https://open.spotify.com/track/0AJEiWfdAGWwaNOvGihMm4"
     },
     {
       "album": {
@@ -59,6 +77,32 @@
     },
     {
       "album": {
+        "name": "Hot Waves Compilation Vol. One",
+        "url": "https://open.spotify.com/album/0KXEFSxMUO1aY4OQPtk7Id"
+      },
+      "artists": [
+        {
+          "name": "Alex Arnout",
+          "url": "https://open.spotify.com/artist/4oYlEmjYdvD81NymzH3Qug"
+        },
+        {
+          "name": "Clive Henry",
+          "url": "https://open.spotify.com/artist/2SzcF0Ri4jZQ93m0zFKZsa"
+        },
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462272,
+      "name": "Ability",
+      "url": "https://open.spotify.com/track/7ghUVGtSZkykdiyuLrlSlc"
+    },
+    {
+      "album": {
         "name": "Hot Waves Compilation Volume One",
         "url": "https://open.spotify.com/album/0HMS1WFcA7CoujabDv9i4B"
       },
@@ -78,7 +122,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 462272,
       "name": "Ability",
       "url": "https://open.spotify.com/track/3qTPgwRHfPGuUcn5np2eRd"
@@ -264,10 +308,28 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 207096,
       "name": "Aye Papi",
       "url": "https://open.spotify.com/track/4UJAKQiPqouKS5wgQmOyKI"
+    },
+    {
+      "album": {
+        "name": "Aye Papi",
+        "url": "https://open.spotify.com/album/70Ub01K5NWjfJkbyAehCwP"
+      },
+      "artists": [
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207096,
+      "name": "Aye Papi",
+      "url": "https://open.spotify.com/track/4zI9GA4AtPy79J0d3kfWTB"
     },
     {
       "album": {
@@ -718,6 +780,24 @@
     {
       "album": {
         "name": "PIV ADE SAMPLER 2019",
+        "url": "https://open.spotify.com/album/6FhoKGwexQ0lV0AVa8OhFW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421853,
+      "name": "Evening Drive",
+      "url": "https://open.spotify.com/track/1gSArrE11Keig6Eu1YeWmB"
+    },
+    {
+      "album": {
+        "name": "PIV ADE SAMPLER 2019",
         "url": "https://open.spotify.com/album/4qTdEoCKez4hHWFKiYUb8A"
       },
       "artists": [
@@ -728,7 +808,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 421853,
       "name": "Evening Drive",
       "url": "https://open.spotify.com/track/25iuPAsp2Rd7GRnnn2yHjo"

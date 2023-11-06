@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 126000,
       "name": "c\u00f3mo t va?",
       "url": "https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5"
@@ -3758,7 +3758,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 127503,
       "name": "My Back (Jersey Club)",
       "url": "https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI"
@@ -5596,6 +5596,28 @@
     {
       "album": {
         "name": "German Engineering 1",
+        "url": "https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6"
+      },
+      "artists": [
+        {
+          "name": "KitschKrieg",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "SFR",
+          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158786,
+      "name": "Trenchezzz (with Nemzzz)",
+      "url": "https://open.spotify.com/track/3puypQeebjOFKb9FeKdgAA"
+    },
+    {
+      "album": {
+        "name": "German Engineering 1",
         "url": "https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP"
       },
       "artists": [
@@ -5614,7 +5636,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 158786,
       "name": "Trenchezzz (with Nemzzz)",
       "url": "https://open.spotify.com/track/0CpfrVubPZHWe1EB2qeo3D"

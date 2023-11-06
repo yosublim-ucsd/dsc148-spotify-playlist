@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-66 songs - 7 hr 45 min
+67 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Romba](https://open.spotify.com/track/6Yb1HE6Da4Z9UMhgVYXRbh) | [Laroz](https://open.spotify.com/artist/37VopouYOyLqeH34jEZ7W9), [Matara](https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Nidze](https://open.spotify.com/album/6FvRbxYYNGhiFaduk88vhi) | 7:15 | 2023-08-10 |  |
 | [Sahel \- Shihunova Remix](https://open.spotify.com/track/2SPVjPEd2VowrQbCbTWaUR) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM), [ASIKO](https://open.spotify.com/artist/1C76UFsdYGUKrmyFdjl3n0), [Shihunova](https://open.spotify.com/artist/027xjHpSrfEEJht04AzI0y) | [Port Amì \- Remixes](https://open.spotify.com/album/1KJqX4TozQJVHNTokuFXII) | 6:34 | 2023-08-10 | 2023-09-07 |
 | [Sancturary](https://open.spotify.com/track/1qB3FEc372Xpgdh6pP71z3) | [Jane Winther](https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s) | [A New Beginning](https://open.spotify.com/album/3gYqA8Jt9Yi2xK76eDRiXa) | 2:32 | 2023-08-10 |  |
-| [Satori](https://open.spotify.com/track/17SCJbXeu121LBiittnXTI) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ) | 6:19 | 2023-08-10 |  |
+| [Satori](https://open.spotify.com/track/17SCJbXeu121LBiittnXTI) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ) | 6:19 | 2023-08-10 | 2023-11-06 |
+| [Satori](https://open.spotify.com/track/4eAegTjIIRbWCt6jQlVgRe) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/5BPCC5P84HVEVdN6LatHOE) | 6:19 | 2023-10-13 |  |
 | [Shiva Manas Puja](https://open.spotify.com/track/7spGN3NecAk8fm5CARxL0X) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 5:58 | 2023-08-10 |  |
 | [Shiver](https://open.spotify.com/track/02KyBO8Rkzhs65K9VKmMpQ) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 4:35 | 2023-08-10 |  |
 | [Shiver](https://open.spotify.com/track/4AzIEXbsTGHbEJzKEuSND5) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Let The Mystery Be EP](https://open.spotify.com/album/5Ad9GU35famqDHUXkKm66K) | 6:28 | 2023-09-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1966160,
+  "num_followers": 1966194,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzgyOTJlZGUzZDA1YzQ4MDg3ODYzYWY2Mjk2Yjc4NTRkMGQ0OTBl",
+  "snapshot_id": "MCxjN2FkNGEwMTE2Njk5ZDNiOTAzOGQ4NjM1YTRkZjhlY2JmOTMyZDYx",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 253493,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Time in the Sun",
         "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 151515,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/1uWp3OTBE1pryDJ4igGD1q"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Ophelia",
         "url": "https://open.spotify.com/album/6lyCWslIfNEmAWe6ps2KNh"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 160097,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/3qhobDAfBcVoOWZP8Ck8R2"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Apache Relay",
-        "url": "https://open.spotify.com/album/771ZFXvbXuZEFPiPyQGxFh"
-      },
-      "artists": [
-        {
-          "name": "The Apache Relay",
-          "url": "https://open.spotify.com/artist/62pBNClOEZJEyRXrzC2CtI"
-        }
-      ],
-      "duration_ms": 208333,
-      "name": "Katie Queen of Tennessee",
-      "url": "https://open.spotify.com/track/4C7GZbwKnoucpGdkBQ9iGt"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Dragons",
         "url": "https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 139786,
       "name": "Family",
       "url": "https://open.spotify.com/track/7j9eqHzhqBEfr9Unn6zdOS"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Apache Relay",
+        "url": "https://open.spotify.com/album/771ZFXvbXuZEFPiPyQGxFh"
+      },
+      "artists": [
+        {
+          "name": "The Apache Relay",
+          "url": "https://open.spotify.com/artist/62pBNClOEZJEyRXrzC2CtI"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "Katie Queen of Tennessee",
+      "url": "https://open.spotify.com/track/4C7GZbwKnoucpGdkBQ9iGt"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Shaky Ground",
-        "url": "https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Shaky Ground",
-      "url": "https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 172446,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/5P8ldnOsScd9aMlQMKucb6"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Shaky Ground",
+        "url": "https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Shaky Ground",
+      "url": "https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Wildewoman",
-        "url": "https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 275628,
-      "name": "Two of Us On the Run",
-      "url": "https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Wildewoman",
+        "url": "https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 275628,
+      "name": "Two of Us On the Run",
+      "url": "https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "My Home Is You",
+        "url": "https://open.spotify.com/album/3gxvQCTnw0tl5h6sgAnfnb"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 203148,
+      "name": "My Home Is You",
+      "url": "https://open.spotify.com/track/25tf3JcjG8097N3jEPgVAL"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
       },
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "My Home Is You",
-        "url": "https://open.spotify.com/album/3gxvQCTnw0tl5h6sgAnfnb"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 203148,
-      "name": "My Home Is You",
-      "url": "https://open.spotify.com/track/25tf3JcjG8097N3jEPgVAL"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Bad Blood",
         "url": "https://open.spotify.com/album/1UGw8OmeHw7FbiOEekbGlz"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Half Moon Light",
-        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "A Blaze of Feather",
         "url": "https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 282146,
       "name": "Six Years",
       "url": "https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Half Moon Light",
+        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
     },
     {
       "added_at": "2023-10-27 04:00:00",

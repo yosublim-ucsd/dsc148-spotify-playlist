@@ -4,7 +4,7 @@
 
 > That's that big energy\. Cover: David Guetta, Ayra Starr, Lil Durk
 
-145 songs - 7 hr 2 min
+146 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [PRETTY GIRLS](https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [PRETTY GIRLS](https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ) | 2:50 | 2023-10-20 |  |
 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 | 2023-08-18 | 2023-09-09 |
 | [Ride](https://open.spotify.com/track/7kMUUqZq6kYVeL2MwRZJTy) | [BEATCAVE](https://open.spotify.com/artist/3hgj9nNZaEdNMuiA7JjEVw), [Bluxz](https://open.spotify.com/artist/1r8Auc1h8ytYw3hYKnJ33a), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Marriott](https://open.spotify.com/artist/3sotQBK04iF2DkV7DfQ1Vs), [LolaBunz](https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa) | [Ride](https://open.spotify.com/album/7ndcDivVteSQArE1XORpuv) | 2:39 | 2023-09-02 |  |
-| [Ring\-a\-Ling](https://open.spotify.com/track/0CAisIL2Tjy47oEkzQUMns) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Ring\-a\-Ling](https://open.spotify.com/album/1OnUNliWg1BbNsuEmGDB2n) | 2:58 | 2023-08-18 |  |
+| [Ring\-a\-Ling](https://open.spotify.com/track/0CAisIL2Tjy47oEkzQUMns) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Ring\-a\-Ling](https://open.spotify.com/album/1OnUNliWg1BbNsuEmGDB2n) | 2:58 | 2023-08-18 | 2023-11-06 |
+| [Ring\-a\-Ling](https://open.spotify.com/track/4C2PbS2Z1c4XB7D9HRppbv) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:58 | 2023-10-27 |  |
 | [rise](https://open.spotify.com/track/6lPupLVOuRd3w31xqN8YxQ) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [NADIAH](https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele) | [rise / gimme](https://open.spotify.com/album/5Pft1X1BQUYtldphJ1QDNx) | 4:01 | 2023-10-13 |  |
 | [Rum & Calypso](https://open.spotify.com/track/6t5XQSlptMF2j26wrEXffT) | [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn) | [Rum & Calypso](https://open.spotify.com/album/5CFkpmJntTG33Nl2ozpSZK) | 3:03 | 2023-08-18 |  |
 | [Run It Back](https://open.spotify.com/track/2IYpRftIpXXNJi82WFilZM) | [Da\-P](https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ), [Tony Stone](https://open.spotify.com/artist/5di9hYUH42sv9IPcSYEdOn) | [Run It Back](https://open.spotify.com/album/53Hi67UgaiDyv566SgzMQU) | 2:24 | 2023-09-22 |  |

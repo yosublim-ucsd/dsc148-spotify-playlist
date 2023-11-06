@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Current Pakistani hits under one roof\. Cover: AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,415 likes - 51 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,465 likes - 51 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 50 | [Chand Mahiya](https://open.spotify.com/track/5IDp6JFNNccPdMDCrClH2I) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Chand Mahiya](https://open.spotify.com/album/7dvAfiilxT3posAAV0I4lo) | 2:58 |
 | 51 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 |
 
-Snapshot ID: `MCxkOGJiNTM4MmRkY2ZhYzc5ZmVlNTczMjk5MzA2MGIzZDMwNTBjMTI4`
+Snapshot ID: `MCwxYTM0OTY1NDQxMWRkOTVlMGM2MTdiMTM0NDRkMTc4OTZhZWY3NWZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do trap\. Foto: Igão
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,909 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,000 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Bottega Veneta](https://open.spotify.com/track/12A2LExOGBY6aM9euKv2cJ) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [H4lfmeasures](https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc) | [Vida Cara \(Deluxe\)](https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT) | 2:25 |
 | 50 | [Processo](https://open.spotify.com/track/0LKvEb3dAuhIrlY2oMRVVg) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Ike Avila](https://open.spotify.com/artist/5lhE76UOmRgymO8trdoYCH), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 3:06 |
 
-Snapshot ID: `MCw5YThiZWExOGMyNzI3M2I2YzQ2ZWEyM2ViMzJmYWMyMjFhNjlhYjA0`
+Snapshot ID: `MCwxYzY4ODAxMGQ0YTk2MGIxM2E1ZGRmMDM3YjRjYTcwZjk3NWQ0MGNj`

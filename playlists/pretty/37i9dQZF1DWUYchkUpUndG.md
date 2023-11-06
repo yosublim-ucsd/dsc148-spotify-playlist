@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg?si=VvtXm2\_lQPOdspId5wQgwQ">Frank Edwards</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,087 likes - 92 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,126 likes - 92 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 91 | [Ha Le Mpotsa \- Holly Venom](https://open.spotify.com/track/6AZLRh3kMebkJt0hOhz8qq) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Ha Le Mpotsa](https://open.spotify.com/album/6dqDhIprUTTdHTwHReMBT0) | 4:26 |
 | 92 | [Leading Edge](https://open.spotify.com/track/2W1Byeosv2q2R1R1uckKx0) | [Benestelle](https://open.spotify.com/artist/0ZNfASXFMLdzNIcm8LJGkW), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ) | [Leading Edge](https://open.spotify.com/album/0IJFDawbvI0XryAgQiTjDf) | 4:52 |
 
-Snapshot ID: `MCxiODgyNjZkMDQwYmY3ODg4ZDgyMmE4OGJlNDA3ODM0MGI0ZWM4NGE2`
+Snapshot ID: `MCw4YmQ2Y2UwZTQyNTVmMDM0MTViNzdmZjhiNTljMDgzMWRjNjMyZjQ4`

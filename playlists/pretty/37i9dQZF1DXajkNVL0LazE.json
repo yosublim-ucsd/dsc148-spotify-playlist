@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 81379,
+  "num_followers": 81786,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzcyNTBkNGQwMTg5MTRmNWFhN2IxZTBiODcxOTI5MWVkODI3MjVh",
+  "snapshot_id": "MCxmZjBhN2M3MzE1YjYwM2U0NGMzOGIzNGIyNGM2OTgxY2IxNTZkYmYz",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Ongiara",
+        "url": "https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Your Rocky Spine",
+      "url": "https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 271160,
       "name": "When U Love Somebody",
       "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Ongiara",
-        "url": "https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI"
-      },
-      "artists": [
-        {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "Your Rocky Spine",
-      "url": "https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Up From Below - 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 306373,
+      "name": "Home (2019 Remaster)",
+      "url": "https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Alas I Cannot Swim",
         "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 179960,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Blacklisted",
-        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "I Wish I Was the Moon",
-      "url": "https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Blacklisted",
+        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "I Wish I Was the Moon",
+      "url": "https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Boxer",
         "url": "https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Advisory Committee",
-        "url": "https://open.spotify.com/album/0gQWuaPBjGRe4S4lV7gtlC"
-      },
-      "artists": [
-        {
-          "name": "Mirah",
-          "url": "https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "Special Death",
-      "url": "https://open.spotify.com/track/5kRgOJD7wN77OHjiGhkpjL"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "War Elephant",
         "url": "https://open.spotify.com/album/2jMilAyC3RBmAoWr1JZ7MR"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 181186,
       "name": "Baltimore Blues No. 1",
       "url": "https://open.spotify.com/track/14irPxTJLePlTfUd9U5hWL"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Advisory Committee",
+        "url": "https://open.spotify.com/album/0gQWuaPBjGRe4S4lV7gtlC"
+      },
+      "artists": [
+        {
+          "name": "Mirah",
+          "url": "https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "Special Death",
+      "url": "https://open.spotify.com/track/5kRgOJD7wN77OHjiGhkpjL"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1151,6 +1167,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Chutes Too Narrow (20th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/2fxQs4i9HfyRME7zjp0ZnB"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "So Says I - 2023 Remaster",
+      "url": "https://open.spotify.com/track/1o2N62zvfbKfTNdmC8j5c9"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "The Felice Brothers",
         "url": "https://open.spotify.com/album/7K9ScAfmIzxH46U9M7IiOT"
       },
@@ -1311,6 +1343,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Chutes Too Narrow (20th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/2fxQs4i9HfyRME7zjp0ZnB"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "Gone for Good - 2023 Remaster",
+      "url": "https://open.spotify.com/track/1tJEdsmqcWGSRDM9uU4a67"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Middle Cyclone",
         "url": "https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ"
       },
@@ -1327,18 +1375,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Chutes Too Narrow (20th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/2fxQs4i9HfyRME7zjp0ZnB"
+        "name": "The Midnight Organ Fight",
+        "url": "https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09"
       },
       "artists": [
         {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+          "name": "Frightened Rabbit",
+          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
         }
       ],
-      "duration_ms": 168253,
-      "name": "So Says I - 2023 Remaster",
-      "url": "https://open.spotify.com/track/1o2N62zvfbKfTNdmC8j5c9"
+      "duration_ms": 333026,
+      "name": "Keep Yourself Warm",
+      "url": "https://open.spotify.com/track/5P9mYadNNzRuDo49cKpBNs"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1355,22 +1403,6 @@
       "duration_ms": 205240,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "The Midnight Organ Fight",
-        "url": "https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09"
-      },
-      "artists": [
-        {
-          "name": "Frightened Rabbit",
-          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
-        }
-      ],
-      "duration_ms": 333026,
-      "name": "Keep Yourself Warm",
-      "url": "https://open.spotify.com/track/5P9mYadNNzRuDo49cKpBNs"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1439,38 +1471,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Woke On A Whaleheart",
-        "url": "https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 335800,
-      "name": "Sycamore",
-      "url": "https://open.spotify.com/track/0do3zfmbVl5DiGxUXrbhrT"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Chutes Too Narrow (20th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/2fxQs4i9HfyRME7zjp0ZnB"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Gone for Good - 2023 Remaster",
-      "url": "https://open.spotify.com/track/1tJEdsmqcWGSRDM9uU4a67"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "A Ghost Is Born (Deluxe Version)",
         "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
       },
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Animal Years",
-        "url": "https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw"
+        "name": "Mountain Rock",
+        "url": "https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy"
       },
       "artists": [
         {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+          "name": "Dear Nora",
+          "url": "https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5"
         }
       ],
-      "duration_ms": 263862,
-      "name": "Girl in the War",
-      "url": "https://open.spotify.com/track/2XQ6xhvd1q5JQyY21F198g"
+      "duration_ms": 91320,
+      "name": "The Lonesome Border, Pt. 1",
+      "url": "https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1523,18 +1523,34 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Mountain Rock",
-        "url": "https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy"
+        "name": "Woke On A Whaleheart",
+        "url": "https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH"
       },
       "artists": [
         {
-          "name": "Dear Nora",
-          "url": "https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5"
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
         }
       ],
-      "duration_ms": 91320,
-      "name": "The Lonesome Border, Pt. 1",
-      "url": "https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc"
+      "duration_ms": 335800,
+      "name": "Sycamore",
+      "url": "https://open.spotify.com/track/0do3zfmbVl5DiGxUXrbhrT"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Animal Years",
+        "url": "https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 263862,
+      "name": "Girl in the War",
+      "url": "https://open.spotify.com/track/2XQ6xhvd1q5JQyY21F198g"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1583,22 +1599,6 @@
       "duration_ms": 135440,
       "name": "If I Were",
       "url": "https://open.spotify.com/track/1Jri474VM7yyIlglywQOx5"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Dongs Of Sevotion",
-        "url": "https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27"
-      },
-      "artists": [
-        {
-          "name": "Smog",
-          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
-        }
-      ],
-      "duration_ms": 330133,
-      "name": "Dress Sexy At My Funeral",
-      "url": "https://open.spotify.com/track/2lTnA8Z6rmjIvQRcEy3XLH"
     },
     {
       "added_at": "2022-02-04 22:01:34",

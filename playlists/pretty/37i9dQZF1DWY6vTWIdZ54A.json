@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 484783,
+  "num_followers": 484847,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWJlMTFiMDQ0YjRkNDgzNTc4NTEwYzA0MjAwNWNmYTQ2NmYwNTlh",
+  "snapshot_id": "MCwzMzMxMzFmNjE5OTEwYTc1MDY5MGFjYjU2YmU0ODIyM2I3YjU3NThk",
   "tracks": [
     {
       "added_at": "2023-09-22 00:56:58",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Mountains At Midnight",
-        "url": "https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc"
+        "name": "Magic Valley",
+        "url": "https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Goodbye June",
+          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
         }
       ],
-      "duration_ms": 186196,
-      "name": "Mountains At Midnight",
-      "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
+      "duration_ms": 221469,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/6rF4s1wwsOa2EZF5MF6D3B"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Magic Valley",
-        "url": "https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL"
+        "name": "Mountains At Midnight",
+        "url": "https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc"
       },
       "artists": [
         {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 221469,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/6rF4s1wwsOa2EZF5MF6D3B"
+      "duration_ms": 186196,
+      "name": "Mountains At Midnight",
+      "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "daphne did it / the depths",
-        "url": "https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 202687,
-      "name": "daphne did it",
-      "url": "https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Blak and Blu (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 324786,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "daphne did it / the depths",
+        "url": "https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 202687,
+      "name": "daphne did it",
+      "url": "https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Man Of The Moment",
+        "url": "https://open.spotify.com/album/5ldOPfh3jfvF1rqkTlMPay"
+      },
+      "artists": [
+        {
+          "name": "Goodbye June",
+          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Man Of The Moment",
+      "url": "https://open.spotify.com/track/3qRiuJRs7u3Aj2AXkzbmD4"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
         "url": "https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Man Of The Moment",
-        "url": "https://open.spotify.com/album/5ldOPfh3jfvF1rqkTlMPay"
+        "name": "Young Blood",
+        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
       },
       "artists": [
         {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 192933,
-      "name": "Man Of The Moment",
-      "url": "https://open.spotify.com/track/3qRiuJRs7u3Aj2AXkzbmD4"
+      "duration_ms": 176373,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1459,22 +1475,6 @@
       "duration_ms": 202813,
       "name": "Love Is All You Love",
       "url": "https://open.spotify.com/track/7IK9YaeFV0wEZmtDl9B2XK"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Young Blood",
-        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO"
     },
     {
       "added_at": "2023-09-22 00:56:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,429 likes - 70 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,451 likes - 70 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 4 | [Pulse VI](https://open.spotify.com/track/63t4RxrpfUdVYJhr5Y91Yi) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu) | 5:27 |
 | 5 | [Cavresamin \- Foxall Remix](https://open.spotify.com/track/7lvZ4DujXfjVYEWhZBKOrm) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3), [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Zentaur](https://open.spotify.com/album/3Ids63v27ACVvHShzYWXIB) | 6:55 |
 | 6 | [Mirage \- Remix](https://open.spotify.com/track/5bLWePeHYsfdJwlxCUdHOH) | [Balint Boldizsar](https://open.spotify.com/artist/5xFU79pSKrEpSiTVysdTY3), [Sahalé](https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ), [Samarana](https://open.spotify.com/artist/19zCcLLWaZjG45iFFlhvGL) | [Chaos & Order](https://open.spotify.com/album/0WVkMCuDjUiee7OCbeVZas) | 6:02 |
-| 7 | [Choo Choo](https://open.spotify.com/track/5QvEgDwNSyPgEkpLNDlnj2) | [Upercent](https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq) | [Inconformisme EP](https://open.spotify.com/album/2g3Xn9WFQDO161ap711YFy) | 7:15 |
+| 7 | [Choo Choo](https://open.spotify.com/track/0mkyybNKehmvQ5RndDyF4a) | [Upercent](https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq) | [Inconformisme EP](https://open.spotify.com/album/4cSyCxdEDg9bBZulPOJd7t) | 7:15 |
 | 8 | [Turbina De Amor](https://open.spotify.com/track/4UY0w7Q0btgFOXmkF30KTj) | [Prisma](https://open.spotify.com/artist/29hY8nWTDqkPqK947tjznd), [Martin Boder](https://open.spotify.com/artist/6vHIcNnpRho3aGWWHNzBGw), [Maria Barone](https://open.spotify.com/artist/6OFJC2spJlsWAXGS4lhmJs) | [Beats & Culture \(BNC004\)](https://open.spotify.com/album/73V73BkhSteIKDX25qEgGH) | 4:48 |
 | 9 | [Unglitched \- BéTé Remix](https://open.spotify.com/track/1WLTAxanQcgPQmJNSJN15X) | [Дeva](https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ), [BéTé](https://open.spotify.com/artist/7HMCyoB6sHalUrXDRoiQB4) | [Unglitched](https://open.spotify.com/album/2TazrwgMouDruGAyYhvUp6) | 6:36 |
 | 10 | [Behind The Wall \- Tiefe Wasser Berlin's Singin' Bird Dub](https://open.spotify.com/track/79Cw6dmzpccnxBBeORKGlk) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3), [Monvol](https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl) | [Behind The Wall \(Tiefe Wasser Berlin's Singin' Bird Dub\)](https://open.spotify.com/album/31xw6C07bXPFoodEmzZQSo) | 5:20 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 16 | [The Greatest Against the World](https://open.spotify.com/track/1W7L98k9dWdlfknRtLwwHp) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0) | [In Between Worlds](https://open.spotify.com/album/58u0GyrkGtVjF2Kgknn9ho) | 5:07 |
 | 17 | [Marmara \- Ulises Remix](https://open.spotify.com/track/1siz7XLfnO3tHaytpxoDYb) | [Muno](https://open.spotify.com/artist/1DZGRRvmPsjC8o8F8MwpRe), [ulises](https://open.spotify.com/artist/0YQKl0V9vgk6HeFttX1aTv) | [Marmara](https://open.spotify.com/album/4j0YbHO2ronLXxxVXHEMt2) | 6:06 |
 | 18 | [Hi Charlie](https://open.spotify.com/track/0VUlHCJE9PuBcuXax53W2Z) | [Brigade](https://open.spotify.com/artist/01fvPLDc345ENWorJWLqV4) | [Stateless](https://open.spotify.com/album/31m9s1EjPMS3G9jvfhqngm) | 5:29 |
-| 19 | [Yet Another Day Thinking About You](https://open.spotify.com/track/3tkSTbgygIKhand5G6JzsS) | [YokoO](https://open.spotify.com/artist/45fzhLbHZdBIgOGQT6M5zr), [Mauve \(AUS\)](https://open.spotify.com/artist/7rvE5oeBS2tH0JG9W8EfcJ), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7) | [Nothing Can Compare](https://open.spotify.com/album/2onkqde1tTtuKW7bFWjt2z) | 5:49 |
+| 19 | [Yet Another Day Thinking About You](https://open.spotify.com/track/5S1kDC5lrjqBXGrz2FIpxv) | [YokoO](https://open.spotify.com/artist/45fzhLbHZdBIgOGQT6M5zr), [Mauve \(AUS\) and JoKe](https://open.spotify.com/artist/3i2YM0EdOLv1bfuCOLCyFR) | [Nothing Can Compare](https://open.spotify.com/album/6yb6uyIe8lwg66w1caKhJt) | 5:49 |
 | 20 | [Psychedelic Woman \- Bonobo Remix](https://open.spotify.com/track/2rAZqJ3uiy2jczTafnKP7y) | [Honny & The Bees Band](https://open.spotify.com/artist/0YBnqkQh876CwPLtT9XX69), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Bottletop Presents Sound Affects: Africa](https://open.spotify.com/album/0xnN5NfLE5Gc3YgzEhgXbT) | 4:26 |
 | 21 | [Akihi \- Surv Remix](https://open.spotify.com/track/7L43S5tAvwiFfAM10FqKGJ) | [Takeshi's Cashew](https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA), [Surv](https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ) | [Akihi \( Surv Remix \)](https://open.spotify.com/album/5lRNzBB5ZwBYtsJcEK4r1a) | 5:09 |
 | 22 | [Spacehall](https://open.spotify.com/track/2qXWBjO9BNVURgc9tDJwmS) | [Lou](https://open.spotify.com/artist/7l9DjVOhlzTmBhCLW8Q2we) | [Moodfamily Compilation I](https://open.spotify.com/album/6RdWrH7iwLePIhmksv1CwA) | 7:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 69 | [Square Kids \- Anton Feine Remix](https://open.spotify.com/track/0efhQX2ijD72A4XHd43eRc) | [Kusht](https://open.spotify.com/artist/1GLyo3Rp9NTc8bJa65xLXg), [Anton Feine](https://open.spotify.com/artist/2IxXoB8qwqS9uwl3z1zt3o) | [Teapot](https://open.spotify.com/album/7vOUJ6FIStKWKhDwiJTbhV) | 6:31 |
 | 70 | [Easy Days](https://open.spotify.com/track/1qKOZtqBV8W0je2pPSpOzA) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74), [Kleintierschaukel](https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn) | [Easy Days](https://open.spotify.com/album/69vUFvbVj2b7oabEiP6h4d) | 5:39 |
 
-Snapshot ID: `MCwxYmIyYWVlZDdmNWVjMTM2YjUxOTI2ZGNhMDA1MTEwMTE2MTFmNWZi`
+Snapshot ID: `MCxlODc2YmNlMmNmYzJhMmIyMTZjN2E1YWI1ZTJmNzI0Zjk2MWI3ZTFj`

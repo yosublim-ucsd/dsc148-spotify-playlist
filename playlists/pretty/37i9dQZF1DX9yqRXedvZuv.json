@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGVjNTA3ZTAyMjRjNDM0OWUwMWExMDMzMDcwNDJjNDhlMzgxMjdh",
+  "snapshot_id": "MCwzOGFiMzYzODRlMDgyYjFmNDU1MThiOTc1M2E1ZWIwNTkzMWQ5ZTVl",
   "tracks": [
     {
       "added_at": "2022-10-01 17:37:57",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Me, Myself & I",
-        "url": "https://open.spotify.com/album/3SoT68kHV9Q8Y3NR3Bo7Ok"
-      },
-      "artists": [
-        {
-          "name": "BashfortheWorld",
-          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
-        }
-      ],
-      "duration_ms": 224365,
-      "name": "50-0",
-      "url": "https://open.spotify.com/track/1Smhzk6DHo8aR11SkZAtEY"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "Beating Down Yo Block",
         "url": "https://open.spotify.com/album/28R3EJ4K1iU8aR0aoRxIzK"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 192000,
       "name": "Beating Down Yo Block",
       "url": "https://open.spotify.com/track/5V2p1V1ZaCJPjpcN2Nf5h2"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "Me, Myself & I",
+        "url": "https://open.spotify.com/album/3SoT68kHV9Q8Y3NR3Bo7Ok"
+      },
+      "artists": [
+        {
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+        }
+      ],
+      "duration_ms": 224365,
+      "name": "50-0",
+      "url": "https://open.spotify.com/track/1Smhzk6DHo8aR11SkZAtEY"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "4NEM",
+        "url": "https://open.spotify.com/album/1yk448SJRapgsEqCaF81nM"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 248372,
+      "name": "Yes Sir",
+      "url": "https://open.spotify.com/track/6Sn6WyJl9Xd2iWTfprdLCC"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "4NEM",
-        "url": "https://open.spotify.com/album/1yk448SJRapgsEqCaF81nM"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 248372,
-      "name": "Yes Sir",
-      "url": "https://open.spotify.com/track/6Sn6WyJl9Xd2iWTfprdLCC"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "Unfuckwitable (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6"
       },
@@ -735,30 +735,6 @@
       "duration_ms": 202067,
       "name": "Paperwork Party - Remix",
       "url": "https://open.spotify.com/track/5WOGp3E41juuRbaw4LlQZT"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 210489,
-      "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
-      "url": "https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -819,6 +795,46 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 210489,
+      "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
+      "url": "https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/2gWZLUStRmDNXSq8oHA3z0"
+      },
+      "artists": [
+        {
+          "name": "SSGKobe",
+          "url": "https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL"
+        }
+      ],
+      "duration_ms": 158728,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/6QnmXF5D5CH0WM9F7Nz3xt"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "Backend",
         "url": "https://open.spotify.com/album/0JoNVaga3yMJLnBJPuoI7Z"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 106600,
       "name": "Backhand",
       "url": "https://open.spotify.com/track/2Ud9396nsChHWRJ88De6mJ"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "Proud",
-        "url": "https://open.spotify.com/album/2gWZLUStRmDNXSq8oHA3z0"
-      },
-      "artists": [
-        {
-          "name": "SSGKobe",
-          "url": "https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL"
-        }
-      ],
-      "duration_ms": 158728,
-      "name": "Proud",
-      "url": "https://open.spotify.com/track/6QnmXF5D5CH0WM9F7Nz3xt"
     }
   ],
   "unique_name": "Zack Bia's Taste",

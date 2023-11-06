@@ -4,7 +4,7 @@
 
 > The perfect tunes to accompany your lazy day in the garden.
 
-164 songs - 10 hr 17 min
+165 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,11 +144,12 @@
 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 | 2020-05-18 |  |
 | [Sweet Thing](https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rufus Featuring Chaka Khan](https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX) | 3:20 | 2020-05-18 |  |
 | [Sweet Thing](https://open.spotify.com/track/69eoS6bEWWfMac4TL36UiM) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Very Best Of](https://open.spotify.com/album/7LzHNQgKpTd9tkiKNcWyLK) | 3:20 | 2020-05-18 | 2022-07-29 |
+| [Teardrops](https://open.spotify.com/track/7FMAe3x132zl7n1M0U0THP) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Teardrops \(Sped Up\)](https://open.spotify.com/album/2jFN1fc4a0TPbroKWiUjPK) | 3:48 | 2020-05-18 |  |
 | [Teardrops](https://open.spotify.com/track/22O5r3qSo7vWlQsCUZukCK) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Plant Tunes](https://open.spotify.com/album/5ZPO0HmzwxYlvr7feIZx1z) | 3:50 | 2020-05-18 | 2022-11-14 |
 | [Teardrops](https://open.spotify.com/track/2ssl3oeVptDKx5PY59Sbm2) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Best of 80s](https://open.spotify.com/album/0zkMNW1yQlHMIXQDOM6LT8) | 3:50 | 2020-05-18 | 2023-01-14 |
 | [Teardrops](https://open.spotify.com/track/59uRxvQjMJOjW5GrHLnVgb) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [80s Summer Hits](https://open.spotify.com/album/3FkmAdgCpCzxHgo3lfhnGi) | 3:50 | 2020-05-18 | 2022-08-22 |
 | [Teardrops \- 7" Edit](https://open.spotify.com/track/4TNAdITaQoKPbNqQdxvwy4) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Soul](https://open.spotify.com/album/1sztvsPftemYQDMJsaCAdj) | 3:50 | 2020-05-18 | 2022-07-29 |
-| [Teardrops \- Single Version](https://open.spotify.com/track/6wSYpKrgUJSIrH033Y5WlB) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Happy Classics](https://open.spotify.com/album/2cnDTz7eNou1DKvA5bEY35) | 3:50 | 2020-05-18 |  |
+| [Teardrops \- Single Version](https://open.spotify.com/track/6wSYpKrgUJSIrH033Y5WlB) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Happy Classics](https://open.spotify.com/album/2cnDTz7eNou1DKvA5bEY35) | 3:50 | 2020-05-18 | 2023-11-06 |
 | [The Joker](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [The Joker](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) | 4:24 | 2020-05-18 |  |
 | [The Payback](https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Payback](https://open.spotify.com/album/49vpRrUcAr2bj6aYQr0Cfl) | 7:39 | 2020-05-18 |  |
 | [Thinking of You \- 1995 Remaster](https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 4:26 | 2020-05-18 |  |

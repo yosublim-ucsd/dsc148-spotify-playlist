@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 31772,
+  "num_followers": 31800,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTM3NDRkMDk0Y2E0ZDhiNTEwOGJmOTViM2RjMDM4MTcwMzAxNmEy",
+  "snapshot_id": "MCxiNzdkNTA3ZGJmZWFmYzZjYmEyNjNmMDQ5NWE3ZTQ4MTIxYjY5YzQ2",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:07",
@@ -807,18 +807,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Antiphonals",
-        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
+        "name": "One Life : four remixes",
+        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
       "artists": [
         {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        },
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
         }
       ],
-      "duration_ms": 394863,
-      "name": "Rushes Recede",
-      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
+      "duration_ms": 360193,
+      "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
+      "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -839,22 +843,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "One Life : four remixes",
-        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
+        "name": "Antiphonals",
+        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
       },
       "artists": [
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        },
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
         }
       ],
-      "duration_ms": 360193,
-      "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
-      "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
+      "duration_ms": 394863,
+      "name": "Rushes Recede",
+      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -911,22 +911,6 @@
       "duration_ms": 1496133,
       "name": "Lear",
       "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Selected Works Preview",
-        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 381496,
-      "name": "Composition Of Flowers (Excerpt)",
-      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1007,6 +991,22 @@
       "duration_ms": 143815,
       "name": "CHU / \u8655",
       "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Selected Works Preview",
+        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 381496,
+      "name": "Composition Of Flowers (Excerpt)",
+      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Collagen",
-        "url": "https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lerkenfeldt",
-          "url": "https://open.spotify.com/artist/3famB97koyRfo502IWQjFL"
-        }
-      ],
-      "duration_ms": 321693,
-      "name": "In Her Hair",
-      "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Healing Is A Miracle - Extended Versions",
         "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
       },
@@ -1247,22 +1231,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Cry Me A Blizzard (AFRODEUTSCHE I'm Here Remix)",
-        "url": "https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3"
+        "name": "Collagen",
+        "url": "https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx"
       },
       "artists": [
         {
-          "name": "Nathan Fake",
-          "url": "https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG"
-        },
-        {
-          "name": "AFRODEUTSCHE",
-          "url": "https://open.spotify.com/artist/4jRLhvF4a3NHs5TaR1lU3m"
+          "name": "Lisa Lerkenfeldt",
+          "url": "https://open.spotify.com/artist/3famB97koyRfo502IWQjFL"
         }
       ],
-      "duration_ms": 209160,
-      "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
-      "url": "https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR"
+      "duration_ms": 321693,
+      "name": "In Her Hair",
+      "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1399,22 +1379,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 618138,
-      "name": "Myg",
-      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Arrow",
         "url": "https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S"
       },
@@ -1427,6 +1391,22 @@
       "duration_ms": 227748,
       "name": "Effektology",
       "url": "https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 618138,
+      "name": "Myg",
+      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1543,6 +1523,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Eyes Set Against The Sun",
+        "url": "https://open.spotify.com/album/4IsaWRJswfh4mhXd4LBheN"
+      },
+      "artists": [
+        {
+          "name": "Mira Calix",
+          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
+        }
+      ],
+      "duration_ms": 78373,
+      "name": "A Cereus Night",
+      "url": "https://open.spotify.com/track/2xYxy6oYLHpa89b2E5bzxU"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Humidity",
         "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
       },
@@ -1579,6 +1575,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Blink a Few Times to Clear Your Eyes",
+        "url": "https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2"
+      },
+      "artists": [
+        {
+          "name": "Grand River",
+          "url": "https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO"
+        }
+      ],
+      "duration_ms": 431187,
+      "name": "Canopies",
+      "url": "https://open.spotify.com/track/0a0eoEjS94xyr0fohWBs1Y"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "The Fifth Season (Versions)",
         "url": "https://open.spotify.com/album/36b1h6b8WHww6yHJpemPSs"
       },
@@ -1599,22 +1611,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Blink a Few Times to Clear Your Eyes",
-        "url": "https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2"
-      },
-      "artists": [
-        {
-          "name": "Grand River",
-          "url": "https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO"
-        }
-      ],
-      "duration_ms": 431187,
-      "name": "Canopies",
-      "url": "https://open.spotify.com/track/0a0eoEjS94xyr0fohWBs1Y"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Berlin Atonal: More Light",
         "url": "https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA"
       },
@@ -1627,38 +1623,6 @@
       "duration_ms": 399346,
       "name": "Aralkum",
       "url": "https://open.spotify.com/track/1UxvmCbr25autV1szbE9MV"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Eyes Set Against The Sun",
-        "url": "https://open.spotify.com/album/4IsaWRJswfh4mhXd4LBheN"
-      },
-      "artists": [
-        {
-          "name": "Mira Calix",
-          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
-        }
-      ],
-      "duration_ms": 78373,
-      "name": "A Cereus Night",
-      "url": "https://open.spotify.com/track/2xYxy6oYLHpa89b2E5bzxU"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Laurus",
-        "url": "https://open.spotify.com/album/002PfB3V3MwL05lAvCTC6l"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 245296,
-      "name": "Laurus I",
-      "url": "https://open.spotify.com/track/2Ghsr0ema2mSWWAFitSttM"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1679,6 +1643,38 @@
       "duration_ms": 249306,
       "name": "Traquair (LAYERS ambient)",
       "url": "https://open.spotify.com/track/1cUOojLPXn3SSGXvnil5qC"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Laurus",
+        "url": "https://open.spotify.com/album/002PfB3V3MwL05lAvCTC6l"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 245296,
+      "name": "Laurus I",
+      "url": "https://open.spotify.com/track/2Ghsr0ema2mSWWAFitSttM"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "The Harmonic Series Volume 2",
+        "url": "https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2"
+      },
+      "artists": [
+        {
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+        }
+      ],
+      "duration_ms": 868000,
+      "name": "Pipe Inversions",
+      "url": "https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU"
     }
   ],
   "unique_name": "EQUAL Ambient",

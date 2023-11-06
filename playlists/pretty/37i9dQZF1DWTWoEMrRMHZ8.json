@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Bryan Behr",
-  "num_followers": 345989,
+  "num_followers": 346081,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTFiYWIyYTY4NmY3ZmRjNzJjMDNmODE3MjdmMmNlNGQ0MzcwYjUz",
+  "snapshot_id": "MCxlNWUwMmE2YzhiZjgxOWNhOGU0MTlkYTEwM2QyNmM0ZmNmZGFkYWE1",
   "tracks": [
     {
       "added_at": "2023-11-03 06:00:20",
@@ -711,6 +711,26 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
+        "name": "Sonas Sessions (Live Session)",
+        "url": "https://open.spotify.com/album/6F8v6e4TlUZ8oTv5IQpgMJ"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Sonast\u00e9rio",
+          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
+        }
+      ],
+      "duration_ms": 220990,
+      "name": "Cara a Cara (Live Session)",
+      "url": "https://open.spotify.com/track/3HlqxgiaWK3DFkAN9sYpNH"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
         "name": "Paula e Bebeto",
         "url": "https://open.spotify.com/album/0uiSAseDeXMBFIjAUAqQ87"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 147899,
       "name": "Dia Branco",
       "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "Sonas Sessions (Live Session)",
-        "url": "https://open.spotify.com/album/6F8v6e4TlUZ8oTv5IQpgMJ"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
-        {
-          "name": "Sonast\u00e9rio",
-          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
-        }
-      ],
-      "duration_ms": 220990,
-      "name": "Cara a Cara (Live Session)",
-      "url": "https://open.spotify.com/track/3HlqxgiaWK3DFkAN9sYpNH"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Dr\u00e3o (Remasterizado)",
-        "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 311745,
-      "name": "Dr\u00e3o - Remasterizado",
-      "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "Romaria",
         "url": "https://open.spotify.com/album/5teLxHpmV0NIhOwOSpM1qE"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 233459,
       "name": "Romaria",
       "url": "https://open.spotify.com/track/6HHPpfH68lFCVIUSuxbuff"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Dr\u00e3o (Remasterizado)",
+        "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 311745,
+      "name": "Dr\u00e3o - Remasterizado",
+      "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
+        "name": "Tuyo Ac\u00fastico",
+        "url": "https://open.spotify.com/album/4AkyUb1kcubVyvYgy7sBPn"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 235571,
+      "name": "Tudo Volta",
+      "url": "https://open.spotify.com/track/6IQvw4B36j5OvvUmW0zffK"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 181800,
       "name": "Tarde Em Itapu\u00e3",
       "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "Tuyo Ac\u00fastico",
-        "url": "https://open.spotify.com/album/4AkyUb1kcubVyvYgy7sBPn"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 235571,
-      "name": "Tudo Volta",
-      "url": "https://open.spotify.com/track/6IQvw4B36j5OvvUmW0zffK"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Lua e Estrela",
-        "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
-      },
-      "artists": [
-        {
-          "name": "Lucas Felix",
-          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
-        },
-        {
-          "name": "Lucy Alves",
-          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
-        }
-      ],
-      "duration_ms": 219098,
-      "name": "Lua e Estrela",
-      "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "ESTRELA",
         "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 185777,
       "name": "ESTRELA",
       "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Lua e Estrela",
+        "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
+      },
+      "artists": [
+        {
+          "name": "Lucas Felix",
+          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
+        },
+        {
+          "name": "Lucy Alves",
+          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
+        }
+      ],
+      "duration_ms": 219098,
+      "name": "Lua e Estrela",
+      "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Grand' Hotel",
-        "url": "https://open.spotify.com/album/0Qb5Hrxo4ALD7SkUQlTRmj"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 203434,
-      "name": "Grand' Hotel",
-      "url": "https://open.spotify.com/track/3z0d0L04jSDRHxWItUy0cP"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
         "url": "https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 165815,
       "name": "Regra Tr\u00eas",
       "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Grand' Hotel",
+        "url": "https://open.spotify.com/album/0Qb5Hrxo4ALD7SkUQlTRmj"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 203434,
+      "name": "Grand' Hotel",
+      "url": "https://open.spotify.com/track/3z0d0L04jSDRHxWItUy0cP"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
+        "name": "Luzes Acesas",
+        "url": "https://open.spotify.com/album/4Aojd3P8XyqqeIIughof7q"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo Montenegro",
+          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+        },
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Luzes Acesas",
+      "url": "https://open.spotify.com/track/71HTMsndB7kzP2M2v0ZJTw"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
         "name": "De: Terra; Para: Humanidade",
         "url": "https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6"
       },
@@ -1627,38 +1647,22 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Luzes Acesas",
-        "url": "https://open.spotify.com/album/4Aojd3P8XyqqeIIughof7q"
+        "name": "Francamente",
+        "url": "https://open.spotify.com/album/1sSFicsxjfLnQUsMsgIKNJ"
       },
       "artists": [
         {
-          "name": "Oswaldo Montenegro",
-          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
         },
         {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+          "name": "Camilla Faustino",
+          "url": "https://open.spotify.com/artist/6cjVoEsNpH6spV5gBn1PFs"
         }
       ],
-      "duration_ms": 196640,
-      "name": "Luzes Acesas",
-      "url": "https://open.spotify.com/track/71HTMsndB7kzP2M2v0ZJTw"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "Espelho",
-        "url": "https://open.spotify.com/album/5zn0vUxrEK2ffmPFKl41Nw"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        }
-      ],
-      "duration_ms": 131192,
-      "name": "Espelho",
-      "url": "https://open.spotify.com/track/51240EZPieH7ahE2B7IFJv"
+      "duration_ms": 132495,
+      "name": "Francamente",
+      "url": "https://open.spotify.com/track/5w9WpqDpzCJVdLCzYsashs"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1683,22 +1687,18 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Francamente",
-        "url": "https://open.spotify.com/album/1sSFicsxjfLnQUsMsgIKNJ"
+        "name": "Espelho",
+        "url": "https://open.spotify.com/album/5zn0vUxrEK2ffmPFKl41Nw"
       },
       "artists": [
         {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Camilla Faustino",
-          "url": "https://open.spotify.com/artist/6cjVoEsNpH6spV5gBn1PFs"
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
         }
       ],
-      "duration_ms": 132495,
-      "name": "Francamente",
-      "url": "https://open.spotify.com/track/5w9WpqDpzCJVdLCzYsashs"
+      "duration_ms": 131192,
+      "name": "Espelho",
+      "url": "https://open.spotify.com/track/51240EZPieH7ahE2B7IFJv"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1719,6 +1719,22 @@
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Errante",
+        "url": "https://open.spotify.com/album/6vrGTfdekueBX6lV9YJpSn"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 290141,
+      "name": "Pra Lhe Dizer",
+      "url": "https://open.spotify.com/track/3JFCXwHB6uc1K4A5GtFnW3"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1747,18 +1763,22 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Errante",
-        "url": "https://open.spotify.com/album/6vrGTfdekueBX6lV9YJpSn"
+        "name": "Compacto de Ver\u00e3o Deluxe",
+        "url": "https://open.spotify.com/album/7GHSeBVVAecveSEHFIFyqG"
       },
       "artists": [
         {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+          "name": "Alulu Paranhos",
+          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
+        },
+        {
+          "name": "Reurbana",
+          "url": "https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev"
         }
       ],
-      "duration_ms": 290141,
-      "name": "Pra Lhe Dizer",
-      "url": "https://open.spotify.com/track/3JFCXwHB6uc1K4A5GtFnW3"
+      "duration_ms": 152178,
+      "name": "Estrelas do Mar",
+      "url": "https://open.spotify.com/track/0ssfbmpWDArLf9FJOr7Ckw"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1783,26 +1803,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Compacto de Ver\u00e3o Deluxe",
-        "url": "https://open.spotify.com/album/7GHSeBVVAecveSEHFIFyqG"
-      },
-      "artists": [
-        {
-          "name": "Alulu Paranhos",
-          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
-        },
-        {
-          "name": "Reurbana",
-          "url": "https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev"
-        }
-      ],
-      "duration_ms": 152178,
-      "name": "Estrelas do Mar",
-      "url": "https://open.spotify.com/track/0ssfbmpWDArLf9FJOr7Ckw"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "Doce Carnaval",
         "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
       },
@@ -1823,18 +1823,22 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Transe",
-        "url": "https://open.spotify.com/album/0ZQmoxq3O9IwkigczIpA6D"
+        "name": "Eternos Ver\u00f5es",
+        "url": "https://open.spotify.com/album/39oC7XgpVOl6d07rbxhuFp"
       },
       "artists": [
         {
-          "name": "Iuna Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N"
+          "name": "Leticia Coutinho",
+          "url": "https://open.spotify.com/artist/0QIGO0ozcV46eGC8bstTe8"
+        },
+        {
+          "name": "Laura C\u00e2ndida",
+          "url": "https://open.spotify.com/artist/6y5THfoaAdAYspLKKxwmXk"
         }
       ],
-      "duration_ms": 220040,
-      "name": "Vendaval",
-      "url": "https://open.spotify.com/track/3B1eWwmoiWEUasDMxVf0r1"
+      "duration_ms": 245015,
+      "name": "Eternos Ver\u00f5es",
+      "url": "https://open.spotify.com/track/6Sz2Nx3KMpdx2bHKjTXx24"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1855,22 +1859,18 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Eternos Ver\u00f5es",
-        "url": "https://open.spotify.com/album/39oC7XgpVOl6d07rbxhuFp"
+        "name": "Transe",
+        "url": "https://open.spotify.com/album/0ZQmoxq3O9IwkigczIpA6D"
       },
       "artists": [
         {
-          "name": "Leticia Coutinho",
-          "url": "https://open.spotify.com/artist/0QIGO0ozcV46eGC8bstTe8"
-        },
-        {
-          "name": "Laura C\u00e2ndida",
-          "url": "https://open.spotify.com/artist/6y5THfoaAdAYspLKKxwmXk"
+          "name": "Iuna Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N"
         }
       ],
-      "duration_ms": 245015,
-      "name": "Eternos Ver\u00f5es",
-      "url": "https://open.spotify.com/track/6Sz2Nx3KMpdx2bHKjTXx24"
+      "duration_ms": 220040,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/3B1eWwmoiWEUasDMxVf0r1"
     },
     {
       "added_at": "2023-11-03 06:00:20",

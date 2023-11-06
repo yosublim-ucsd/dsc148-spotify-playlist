@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 703013,
+  "num_followers": 703335,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzZmN2FkYTA0YzdlNDhmYTY3NzY5N2M1MjY3YWMyZWMxNDk2Nzcx",
+  "snapshot_id": "MCxjNGZlNzViZTg4YTFhYzgxOGUwYzYxMDlhYWY0NzgyYTcxZWMyM2Ri",
   "tracks": [
     {
       "added_at": "2023-04-04 17:18:55",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Whipped Cream & Other Delights",
-        "url": "https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Ladyfingers",
-      "url": "https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 240586,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
+        "name": "Whipped Cream & Other Delights",
+        "url": "https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "Ladyfingers",
+      "url": "https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Rearrange Us",
-        "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Rearrange Us",
-      "url": "https://open.spotify.com/track/1uZIL52W5zXEF55fCh5lqP"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
         "name": "Black Leaves",
         "url": "https://open.spotify.com/album/1TNajOxU7C8rl6ciy5r1Im"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 104280,
       "name": "Black Leaves",
       "url": "https://open.spotify.com/track/7wTXoVGiDC9jS0oxdfwLKv"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
+        "name": "Rearrange Us",
+        "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Rearrange Us",
+      "url": "https://open.spotify.com/track/1uZIL52W5zXEF55fCh5lqP"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
+        "name": "The Original Albums\u2026Plus",
+        "url": "https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 148586,
+      "name": "Time in a Bottle",
+      "url": "https://open.spotify.com/track/6FlNxt8Mw5ki0Ccjt2mNWJ"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
         "name": "soft thing",
         "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 202466,
       "name": "There Is Something on Your Mind",
       "url": "https://open.spotify.com/track/2zBY88nji53AVJ2kczRvBO"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
-        "name": "The Original Albums\u2026Plus",
-        "url": "https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 148586,
-      "name": "Time in a Bottle",
-      "url": "https://open.spotify.com/track/6FlNxt8Mw5ki0Ccjt2mNWJ"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
+        "name": "First Place",
+        "url": "https://open.spotify.com/album/5hNhX0yQcd76ThunCFcggK"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 283190,
+      "name": "Everything Is Just a Mess",
+      "url": "https://open.spotify.com/track/2OMlPoee6u5IJzWTXhS2jN"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
         "name": "The Waterfall II",
         "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
       },
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "First Place",
-        "url": "https://open.spotify.com/album/5hNhX0yQcd76ThunCFcggK"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 283190,
-      "name": "Everything Is Just a Mess",
-      "url": "https://open.spotify.com/track/2OMlPoee6u5IJzWTXhS2jN"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
         "name": "And Then Nothing Turned Itself Inside-Out",
         "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
       },
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 188080,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
+      "duration_ms": 223240,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -1475,6 +1475,22 @@
       "duration_ms": 138226,
       "name": "Great Big Bundle Of Love",
       "url": "https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -1511,22 +1527,6 @@
       "duration_ms": 170013,
       "name": "Ayayai",
       "url": "https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
     },
     {
       "added_at": "2023-04-04 17:18:55",

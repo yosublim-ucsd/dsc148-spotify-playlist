@@ -4,7 +4,7 @@
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Naura Ayu
 
-175 songs - 11 hr 12 min
+176 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Patah Hati](https://open.spotify.com/track/5P86ensnQKHQNfSOdUZ2Vf) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Patah Hati](https://open.spotify.com/album/1RbRNiJbus4z5EvZiAj1HE) | 4:49 | 2021-11-25 | 2022-03-25 |
 | [Pelangi](https://open.spotify.com/track/0ChdsMA1hWkE2I8pd3cpmd) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Pelangi](https://open.spotify.com/album/586n7LNVNnZlcBQjZrdOwN) | 4:16 | 2021-11-25 | 2022-03-25 |
 | [Pemilik Rindu](https://open.spotify.com/track/2pIyUkqlkIbinlSyy4pBEv) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Pemilik Rindu](https://open.spotify.com/album/2GqDteGvoqep1CH4cuc67d) | 3:27 | 2023-10-27 |  |
-| [Pendengar Setiamu](https://open.spotify.com/track/3T4FKXFkBOfohf1nrekWmX) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [The Folk: Side A](https://open.spotify.com/album/2VyQdTnx5nwU97ZGb9J1qn) | 4:19 | 2023-04-13 |  |
+| [Pendengar Setiamu](https://open.spotify.com/track/3T4FKXFkBOfohf1nrekWmX) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [The Folk: Side A](https://open.spotify.com/album/2VyQdTnx5nwU97ZGb9J1qn) | 4:19 | 2023-04-13 | 2023-11-06 |
+| [Pendengar Setiamu](https://open.spotify.com/track/3WnI2EOXScASf92nx2GQMy) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [The Folk: Side A](https://open.spotify.com/album/6CtaPOB7FSs2My9MbvV1u8) | 4:19 | 2023-10-27 |  |
 | [Penghapus Pensil](https://open.spotify.com/track/018kPIAzYiX8rZefBIyHdI) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Penghapus Pensil](https://open.spotify.com/album/4ZIA1vi2rfeVt80IGbh2fK) | 3:54 | 2021-11-25 | 2022-03-25 |
 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2023-06-22 |  |
 | [Pergi](https://open.spotify.com/track/3HdO5YJpavQSC3pZybEqGb) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Pergi](https://open.spotify.com/album/5QA8BDu7U9tNe0AnOMXTfu) | 4:37 | 2023-05-04 |  |

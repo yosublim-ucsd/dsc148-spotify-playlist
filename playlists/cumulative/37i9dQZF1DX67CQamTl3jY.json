@@ -410,10 +410,28 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 229973,
       "name": "Garden",
       "url": "https://open.spotify.com/track/0tEFguRom1BhshfZ97fah6"
+    },
+    {
+      "album": {
+        "name": "Mystic Mirror",
+        "url": "https://open.spotify.com/album/04uN6kCP6ae9yvocliggTH"
+      },
+      "artists": [
+        {
+          "name": "White Sun",
+          "url": "https://open.spotify.com/artist/2i36FHX25QK8SMore8TPtT"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229973,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/4OfTbv45fbyN2sAiynXkUQ"
     },
     {
       "album": {

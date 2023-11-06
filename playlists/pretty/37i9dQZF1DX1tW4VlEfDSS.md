@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,221 likes - 148 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,235 likes - 148 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 92 | [Love the Way \(Happiness\)](https://open.spotify.com/track/1okhlrAG0YsKTx9PpPprXv) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Love the Way \(Happiness\)](https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R) | 3:35 |
 | 93 | [Back 2 Love \(feat\. Desmond 'DSP' Powell\)](https://open.spotify.com/track/6fjsLcQMJ0OfTMfy3wEYAs) | [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD), [Desmond 'DSP' Powell](https://open.spotify.com/artist/4zFLlx7irg5GE7c9cluHFh) | [World](https://open.spotify.com/album/0oDXrBB4UcZZSWsPMbnZdc) | 5:18 |
 | 94 | [Primavera \- Anna Prior Remix](https://open.spotify.com/track/0Ot72VEky3c0QGhVg4kdvD) | [Páula](https://open.spotify.com/artist/6WyiMho6QZd0LEcNqqTZNY), [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC), [Jerge](https://open.spotify.com/artist/4irc3y7F0tnbvqhcxbolLT), [Anna Prior](https://open.spotify.com/artist/5MEm3oZhv8zkqd8iepxnCP) | [Primavera \- Remix Drop I](https://open.spotify.com/album/17769ihJ561cvc2I2jLIFD) | 5:52 |
-| 95 | [All I Do](https://open.spotify.com/track/1q5XUAzuOJ6GXCFhePKu70) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [All I Do](https://open.spotify.com/album/00zOAQMoEQOP8nhSKFNg6f) | 2:51 |
+| 95 | [All I Do](https://open.spotify.com/track/2UC3OTleMCuAPo4lJr1lpe) | [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D), [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI) | [All I Do](https://open.spotify.com/album/1kMagvN6AHoYG18qeOHOYH) | 2:51 |
 | 96 | [Give It to Me](https://open.spotify.com/track/19yoeoiZxhtfgNNhMDDh5i) | [Brokenears](https://open.spotify.com/artist/2mQs8hWTGmMYdHgXlIfsaZ) | [Give It to Me](https://open.spotify.com/album/7qv7WU3qGSA1nqQveoa2px) | 3:50 |
 | 97 | [All Along](https://open.spotify.com/track/3RPHlHhb6g0rqcMVwwfxcF) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [All Along](https://open.spotify.com/album/7m3BQyRSefzOAxElf6SCnt) | 3:23 |
 | 98 | [me with your <3 \- Edit](https://open.spotify.com/track/1FmpFPiqyvFgOZawC6Xrkl) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Zissou Edits Best Vol\. 1](https://open.spotify.com/album/3LCza5PZcH60VdGQHnxvLn) | 4:32 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 147 | [How Do I Let Go](https://open.spotify.com/track/78F73J161TlcsWC7JckBZi) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [K.T\. Brooks](https://open.spotify.com/artist/0bDOIlJ0JD5pIKym4tvSNq) | [How Do I Let Go \(Remixes\)](https://open.spotify.com/album/2ktBDrGM9pKbxODAcWocIb) | 3:22 |
 | 148 | [Remedy \- JKriv Disco Dub](https://open.spotify.com/track/5llhpIgQ7QMPtzPQnKQhLG) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8), [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY), [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K) | [Remedy \(JKriv Disco Dub\)](https://open.spotify.com/album/0FjRPvYxx9h4jRVGh0LHYi) | 4:12 |
 
-Snapshot ID: `MCwzZWQ2NTVjMmM4ZTY5N2FlMzYxNzY1NGIwYWYyNjY3MmRiMTEwZTRm`
+Snapshot ID: `MCxmNjZkYWUzY2M5ZWI0OTEzZjcwYjQ0NGNmYThiY2Y5MzJlZDU5MDZk`

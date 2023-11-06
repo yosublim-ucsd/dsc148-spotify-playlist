@@ -4,7 +4,7 @@
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-218 songs - 11 hr 55 min
+219 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Run Rudolph Run](https://open.spotify.com/track/2YRAHBcCATVlCgVQg8Mitd) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Johnny B\. Goode/His Complete \`50s Chess Recordings](https://open.spotify.com/album/4ftxTaRQdhKNoazScTMiiE) | 2:43 | 2021-11-26 | 2022-07-29 |
 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 | 2021-11-26 | 2022-11-09 |
 | [Run Rudolph Run](https://open.spotify.com/track/4BbZ1gB8vktu71ALv0Qjt7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Lemmy](https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd), [Billy F\. Gibbons](https://open.spotify.com/artist/63qWU22uKztlKgZcZmL4Qy), [Dave Grohl](https://open.spotify.com/artist/7mRVAzlt1fAAR9Cut6Rq8c) | [We Wish You a Metal Xmas.\. \(..And a Headbanging New Year\)](https://open.spotify.com/album/5O2Ze6Upnw5b7oiECdYqQo) | 4:00 | 2022-12-20 | 2023-02-16 |
-| [Run Rudolph Run](https://open.spotify.com/track/6EECkNpQTDodqCMbBGAyZN) | [Keith Richards](https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH) | [Run Rudolph Run](https://open.spotify.com/album/5ykDCWnqTei23DZS2C26Rh) | 3:14 | 2021-11-26 |  |
+| [Run Rudolph Run](https://open.spotify.com/track/0wB9KBcgpWsDaHYgrY6gYQ) | [Keith Richards](https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH) | [Run Rudolph Run](https://open.spotify.com/album/1I9dnoArYtQFawXwulJ3xU) | 3:14 | 2023-10-25 |  |
+| [Run Rudolph Run](https://open.spotify.com/track/6EECkNpQTDodqCMbBGAyZN) | [Keith Richards](https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH) | [Run Rudolph Run](https://open.spotify.com/album/5ykDCWnqTei23DZS2C26Rh) | 3:14 | 2021-11-26 | 2023-11-06 |
 | [Run Rudolph Run](https://open.spotify.com/track/0eL99mrX8qVKgYJU46QHUb) | [Lemmy](https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw), [Dave Grohl](https://open.spotify.com/artist/7mRVAzlt1fAAR9Cut6Rq8c) | [We Wish You A Metal XMas...And A Headbanging New Year!](https://open.spotify.com/album/3c2GYOQcticisqVSpKKNRc) | 4:00 | 2022-11-09 |  |
 | [Run Rudolph Run](https://open.spotify.com/track/1OnNc0YRRrg6Q2R5fiNohA) | [Lemmy](https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd), [Billy Gibbons](https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD), [Dave Grohl](https://open.spotify.com/artist/7mRVAzlt1fAAR9Cut6Rq8c) | [Rock Karácsony 2021](https://open.spotify.com/album/5O2dkvrFl3AFGhQQ4gqBj2) | 4:00 | 2022-11-09 | 2022-11-13 |
 | [Sally Sweet Tooth](https://open.spotify.com/track/3zQIGDsyha7U1oOqBI0tp2) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Sally Sweet Tooth](https://open.spotify.com/album/2SPl2Y34jBPaW7w1SlG8N3) | 2:39 | 2021-12-13 | 2022-11-09 |

@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 505573,
+  "num_followers": 505966,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmQ3MjAyNjgyYmY0MDY4NGU3MDE1MWQ3ZTMxMTBkZjUyZDE4Mzc3",
+  "snapshot_id": "MCxkMmVhMTA2ZmVjOWEwMDBiZjY5YTRiOGFkODQ0ZTBjMTU4MDViNmUw",
   "tracks": [
     {
       "added_at": "2023-10-08 12:16:34",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-10-08 12:16:34",
       "album": {
-        "name": "Milk",
-        "url": "https://open.spotify.com/album/0uF7LYXx0mDrWeMxZ3vRkz"
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
       },
       "artists": [
         {
-          "name": "Goose house",
-          "url": "https://open.spotify.com/artist/7BzEKSgHp2yrNC6w5NkFhQ"
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 252133,
-      "name": "\u5149\u308b\u306a\u3089",
-      "url": "https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa"
+      "duration_ms": 341413,
+      "name": "Shinzo wo Sasageyo!",
+      "url": "https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq"
     },
     {
       "added_at": "2023-10-08 12:16:34",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-10-08 12:16:34",
       "album": {
-        "name": "Shingeki no Kiseki",
-        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+        "name": "Milk",
+        "url": "https://open.spotify.com/album/0uF7LYXx0mDrWeMxZ3vRkz"
       },
       "artists": [
         {
-          "name": "Linked Horizon",
-          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+          "name": "Goose house",
+          "url": "https://open.spotify.com/artist/7BzEKSgHp2yrNC6w5NkFhQ"
         }
       ],
-      "duration_ms": 341413,
-      "name": "Shinzo wo Sasageyo!",
-      "url": "https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq"
+      "duration_ms": 252133,
+      "name": "\u5149\u308b\u306a\u3089",
+      "url": "https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa"
     },
     {
       "added_at": "2023-10-08 12:16:34",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-10-08 12:16:34",
       "album": {
-        "name": "spiral",
-        "url": "https://open.spotify.com/album/5TcOT3xsaZzNiocd2Faxzs"
-      },
-      "artists": [
-        {
-          "name": "LONGMAN",
-          "url": "https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "spiral",
-      "url": "https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE"
-    },
-    {
-      "added_at": "2023-10-08 12:16:34",
-      "album": {
         "name": "SOUVENIR",
         "url": "https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 236426,
       "name": "Sign",
       "url": "https://open.spotify.com/track/0xmWQKzc5m9rLv2ucDWxwD"
+    },
+    {
+      "added_at": "2023-10-08 12:16:34",
+      "album": {
+        "name": "spiral",
+        "url": "https://open.spotify.com/album/5TcOT3xsaZzNiocd2Faxzs"
+      },
+      "artists": [
+        {
+          "name": "LONGMAN",
+          "url": "https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "spiral",
+      "url": "https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE"
     },
     {
       "added_at": "2023-10-08 12:16:34",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-10-08 12:16:34",
       "album": {
-        "name": "Devil",
-        "url": "https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD"
-      },
-      "artists": [
-        {
-          "name": "Vicke Blanka",
-          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Black Catcher",
-      "url": "https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix"
-    },
-    {
-      "added_at": "2023-10-08 12:16:34",
-      "album": {
         "name": "BLOODY STREAM",
         "url": "https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 261920,
       "name": "BLOODY STREAM",
       "url": "https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw"
+    },
+    {
+      "added_at": "2023-10-08 12:16:34",
+      "album": {
+        "name": "Devil",
+        "url": "https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD"
+      },
+      "artists": [
+        {
+          "name": "Vicke Blanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Black Catcher",
+      "url": "https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix"
     }
   ],
   "unique_name": "Anime On Replay",

@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Until The Blissful Dawn",
+        "url": "https://open.spotify.com/album/45UjPgFGq62QWAbmKiNxOM"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144625,
+      "name": "And There You Were",
+      "url": "https://open.spotify.com/track/0UqT57lsbRzjUt5lau8oLh"
+    },
+    {
+      "album": {
         "name": "For Tiny Feet",
         "url": "https://open.spotify.com/album/1GjPYdwgU2AU0Isa8pEYGN"
       },
@@ -560,7 +578,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 144625,
       "name": "And There You Were",
       "url": "https://open.spotify.com/track/7drtx97JQqC1zmb8AsrBuN"

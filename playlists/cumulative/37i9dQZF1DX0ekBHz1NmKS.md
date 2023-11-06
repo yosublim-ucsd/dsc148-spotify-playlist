@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-851 songs - 1 day 21 hr 0 min
+852 songs - 1 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Breathing](https://open.spotify.com/track/5J777XDZwF9qVdgq4S9UPM) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Breathing](https://open.spotify.com/album/0V3i5t2pEO9amGcykcBFPH) | 2:33 | 2023-02-09 | 2023-04-12 |
 | [Brev från botten](https://open.spotify.com/track/1cAwcnrI8oYYC4B1MMrrdr) | [Joel Alme](https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc) | [Brev från botten](https://open.spotify.com/album/0VOFmm3Q52uhN25LlCviJ2) | 3:10 | 2022-09-15 | 2022-10-16 |
 | [Brinner](https://open.spotify.com/track/0emeZAXCygTTC6in4gEVtK) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Brinner](https://open.spotify.com/album/5xEDiyvCJ4v7SoepIV9Ne6) | 3:41 | 2023-03-30 | 2023-05-07 |
-| [Bruises](https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Bruises](https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1) | 4:04 | 2023-10-19 |  |
+| [Bruises](https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Bruises](https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1) | 4:04 | 2023-10-19 | 2023-11-06 |
 | [Bränner](https://open.spotify.com/track/7M5QepCsK6kYex4EWWsmhd) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Bränner](https://open.spotify.com/album/5AecwqcLjSTpqjgPtCDZ65) | 3:08 | 2022-06-09 | 2022-07-28 |
 | [Bug Eye](https://open.spotify.com/track/0IhyGjf2QCm5BkgmotrSnR) | [Juli Capelius](https://open.spotify.com/artist/5lvgW9cUNZajEcT18Wui5p) | [Bug Eye](https://open.spotify.com/album/37FkslA5Is8lueB6qrALfG) | 2:05 | 2023-02-23 | 2023-04-07 |
 | [Buried](https://open.spotify.com/track/2cvFJGpyivEmp69EDos8LE) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Buried](https://open.spotify.com/album/5Wz9LRwQ5BEueU4VqIkRjs) | 2:40 | 2022-01-13 | 2022-07-28 |
@@ -366,6 +366,7 @@
 | [I Tryyy](https://open.spotify.com/track/5HmGO03u18BN9rNxQC2Gjd) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [I Tryyy](https://open.spotify.com/album/1X0qO82VYKKv16gYpOQLuR) | 4:11 | 2022-06-16 | 2022-06-18 |
 | [I Will Be Better Than You At Letting Go](https://open.spotify.com/track/7Hjo1HHU4AEnYc509tRhjK) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [I Will Be Better Than You At Letting Go](https://open.spotify.com/album/5Zhiw61adJtxcJtoILhQ2b) | 2:46 | 2022-04-07 | 2022-04-30 |
 | [I Wish I Was Someone Else](https://open.spotify.com/track/1XWCk0iPODzTX9cNMpFzps) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Wish I Was Someone Else](https://open.spotify.com/album/1zJtLZQme1Vr0fbkExQDfv) | 2:53 | 2023-09-28 | 2023-11-02 |
+| [I Wish I Was Someone Else](https://open.spotify.com/track/3m5tZaadIfIGzc25Q2QiNV) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Wish I Was Someone Else](https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz) | 2:53 | 2023-11-03 |  |
 | [I'm Coming Home](https://open.spotify.com/track/4UKu4kk8t9fTj9RsqxSMV5) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [I'm Coming Home](https://open.spotify.com/album/4NacRixpn1ImOnKmwlgBfc) | 1:21 | 2022-06-21 | 2022-11-24 |
 | [I'm Coming Home](https://open.spotify.com/track/72TII5VXJvfSWVpwlNuoPF) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [I'm Coming Home](https://open.spotify.com/album/2Uy07vkjqxcAxyaH5cP6xu) | 1:21 | 2022-12-09 | 2023-04-28 |
 | [i'm tired](https://open.spotify.com/track/60JzQWgLHTNO68YTpS9YzJ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [i'm tired](https://open.spotify.com/album/1ZkucnleyUxjL4kSkTzcps) | 2:46 | 2023-09-14 |  |

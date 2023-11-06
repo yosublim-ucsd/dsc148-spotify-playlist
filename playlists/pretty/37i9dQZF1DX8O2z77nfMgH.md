@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Foto: Arcángel y Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,755 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,807 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [O Retorno de Jedi](https://open.spotify.com/track/1OCtpTqJdhOrn00sJYnWSt) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [O Retorno de Jedi](https://open.spotify.com/album/0BTjFs3Pbs2QwHktnSbBWL) | 2:50 |
 | 55 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 |
 
-Snapshot ID: `MCxkMTFhZTA1OGE4OGU2MmJjYzVhZGQxMGFmNGJkN2M3ZjA2Y2NkNjZk`
+Snapshot ID: `MCwxOWNjMjVkNzNjNDRkODM3MWY1OTA4MWViMGYxYmVhNTUxOTZiN2Iy`

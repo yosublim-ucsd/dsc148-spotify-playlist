@@ -4,7 +4,7 @@
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-59 songs - 5 hr 26 min
+60 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Corpo Fechado](https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K) | [Gezender](https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Corpo](https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz) | 5:03 | 2023-06-16 |  |
 | [Criptogramas](https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w) | [Vermelho Wonder](https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu) | [Criptogramas](https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu) | 5:33 | 2023-06-16 |  |
 | [Cryptobiosis](https://open.spotify.com/track/3AfuPrv7mZQMP800JIyTTA) | [K.A.L.I.L.](https://open.spotify.com/artist/6im40CIcqEb9GVJ7Mg4nbT) | [Cryptobiosis](https://open.spotify.com/album/28f9sEk188mI9eDNJPpFVF) | 6:50 | 2023-06-16 | 2023-08-20 |
+| [Dance n' Casa](https://open.spotify.com/track/1HNPk849XJsAgXx6JrQRVu) | [Gabto](https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP), [Kauan Marco](https://open.spotify.com/artist/3z9jaftmzYCieMJL9mT0Uo) | [V.Acina, Vol.1](https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54) | 5:57 | 2023-10-06 |  |
 | [De AK em Cima da CB1000](https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Paredão](https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq) | 4:18 | 2023-06-16 |  |
 | [DEUSA DO BRASIL](https://open.spotify.com/track/1b84zRNSPUMopOZSe2F4hv) | [Clementaum](https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH), [Umatheusa](https://open.spotify.com/artist/0AdLEkAV9jGqB9ETwSZbJ5) | [DEUSA DO BRASIL](https://open.spotify.com/album/5YvvoWgsTWV0LOFOizkv1Z) | 2:56 | 2023-09-22 |  |
 | [Energy Sync \- Club Mix](https://open.spotify.com/track/1ekH3NlCixx69QzTnTxANp) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Energy Sync](https://open.spotify.com/album/0mQmWLWrWhdmKxoN3GLtW0) | 6:37 | 2023-06-16 | 2023-11-05 |
@@ -39,7 +40,7 @@
 | [Keyboard Cats](https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO) | [Amanda Mussi](https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ) | [Keyboard Cats EP](https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t) | 6:09 | 2023-06-16 |  |
 | [Kin Sharuba](https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Kin Sharuba](https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi) | 7:49 | 2023-06-16 |  |
 | [Laiaraiá \- LOV.ini Remix](https://open.spotify.com/track/7tlQjeD17zGnhKfg9YLwgK) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [LOV.ini](https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z) | [Laiaraiá \(Remixes\)](https://open.spotify.com/album/737UVySDRItiHv1XQIqygV) | 5:08 | 2023-06-16 | 2023-11-05 |
-| [Machooka](https://open.spotify.com/track/7Fvz8ecjzVwZIIzTs2JaLn) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [Machooka](https://open.spotify.com/album/4DKH6UMr9R1PhRzeo1OJj7) | 3:35 | 2023-06-16 |  |
+| [Machooka](https://open.spotify.com/track/7Fvz8ecjzVwZIIzTs2JaLn) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [Machooka](https://open.spotify.com/album/4DKH6UMr9R1PhRzeo1OJj7) | 3:35 | 2023-06-16 | 2023-11-06 |
 | [Madame Kabukicho](https://open.spotify.com/track/0puinhkTDWQyMhDgJjC7eR) | [Agrabah](https://open.spotify.com/artist/24lbhcjEJEOInrDEAGZfE6) | [Ghetto Hong Kong](https://open.spotify.com/album/1IwVHpDuv3H6Rizd8zB4t5) | 6:05 | 2023-06-16 | 2023-09-23 |
 | [Maelström](https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC) | [Wielki](https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB) | [Maelström](https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT) | 8:07 | 2023-06-16 |  |
 | [mate & morra](https://open.spotify.com/track/6cVw5WnMUCIhFawrGlDo8Z) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [mate & morra](https://open.spotify.com/album/2sAvfIryVuCAbCIcewxEOq) | 3:36 | 2023-06-16 |  |

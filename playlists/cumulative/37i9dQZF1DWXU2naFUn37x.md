@@ -4,7 +4,7 @@
 
 > Solo il meglio dello street rap italiano\. Cover: Néza
 
-389 songs - 17 hr 56 min
+390 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,8 @@
 | [LEWANDOWSKI X](https://open.spotify.com/track/6dM0fBNHPBLcpfK0UCft5h) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 3:26 | 2023-05-10 | 2023-05-25 |
 | [Libertà](https://open.spotify.com/track/4LGH4aHf7cnlyDym7hgX47) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Libertà](https://open.spotify.com/album/62L40Yc2xo7tqqSviIjXWW) | 2:21 | 2023-04-20 | 2023-05-05 |
 | [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 | 2023-04-21 | 2023-10-20 |
-| [Madame](https://open.spotify.com/track/1YuwtGNJID9U7nfvhTovql) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/44QCkU2JXCsvOfwRHCXCxZ) | 2:13 | 2023-10-19 |  |
+| [Madame](https://open.spotify.com/track/0JPyVgLem5a4HcXEADJXg5) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/5di5PgxR4cs1PveHPkgKtr) | 2:13 | 2023-11-02 |  |
+| [Madame](https://open.spotify.com/track/1YuwtGNJID9U7nfvhTovql) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/44QCkU2JXCsvOfwRHCXCxZ) | 2:13 | 2023-10-19 | 2023-11-06 |
 | [Maltempo](https://open.spotify.com/track/7FZicMWhkxtQxIsV6Y9SZk) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Maltempo](https://open.spotify.com/album/1Jopcn1DSXFQzDvj53uDpw) | 2:44 | 2023-09-21 |  |
 | [MARADONA](https://open.spotify.com/track/1Bf3WnU7Y6YGP0k4RbbErB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:42 | 2023-01-05 | 2023-04-07 |
 | [Marciapiede \(con Tony Effe, Ernia & Rkomi\)](https://open.spotify.com/track/7nz7IQI6XfGLbpLB2ZLfXr) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:36 | 2022-09-15 | 2022-09-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,110 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,154 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [Now I Know You](https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 3:32 |
 | 50 | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/track/05QklCPuKAyDce74SWqf6I) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/album/4QdUQ164R3oomzrOz72IIg) | 3:15 |
 
-Snapshot ID: `MCw3YjdkNTM4N2U2NGY2YzAyNzg4OGYzNzExMzYxYWYxYTQzZjY0M2Jh`
+Snapshot ID: `MCw2MTA2ZDIwOTdkZWNjMjgxYzFlMjZmODY4ODNlMDI5OTlmZTFhODgy`

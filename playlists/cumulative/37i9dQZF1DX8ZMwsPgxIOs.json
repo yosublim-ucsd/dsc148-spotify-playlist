@@ -3108,10 +3108,28 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 298659,
       "name": "Pinger",
       "url": "https://open.spotify.com/track/3ozYevAGA6jmeBa3O6i24R"
+    },
+    {
+      "album": {
+        "name": "Pinger",
+        "url": "https://open.spotify.com/album/66RRmzSYSxtvkFDjqZzJps"
+      },
+      "artists": [
+        {
+          "name": "NANCY Live",
+          "url": "https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298659,
+      "name": "Pinger",
+      "url": "https://open.spotify.com/track/6iOSV9Wk97hIpWVHfq29Dj"
     },
     {
       "album": {

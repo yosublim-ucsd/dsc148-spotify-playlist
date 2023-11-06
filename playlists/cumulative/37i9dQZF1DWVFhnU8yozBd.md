@@ -4,14 +4,15 @@
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-148 songs - 13 hr 50 min
+150 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24 Hours \- Sofia Kourtesis Remix](https://open.spotify.com/track/0PKFzfOatH1UJE2EqPRvcj) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 5:02 | 2023-01-09 | 2023-08-12 |
 | [3210 \- Ross from Friends Remix](https://open.spotify.com/track/1PfbIpFjsS1BayUoqB3X7O) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [3210 \(Ross from Friends Remix\)](https://open.spotify.com/album/4julBAGYv4WmRXwhjJ2LPD) | 5:52 | 2023-01-09 |  |
 | [9 Years \- DJ Koze Remix](https://open.spotify.com/track/5EXuw91HUQM28mjkhGO4eM) | [Roman Flügel](https://open.spotify.com/artist/67S3oljivUiFIUKzPLYKej) | [DJ Koze Presents Pampa, Vol\. 1](https://open.spotify.com/album/41nRW0aXlNZbhCikDqtFzV) | 10:00 | 2023-01-09 |  |
-| [A83](https://open.spotify.com/track/2XjMKzVE2qm6ULEsuQvYqU) | [LUXE](https://open.spotify.com/artist/4Hholv5F2ei5wt2sRUne7S) | [Belonging EP](https://open.spotify.com/album/4qybG1RPWVKdNUqMTC1myf) | 5:59 | 2023-01-09 |  |
+| [A83](https://open.spotify.com/track/2XjMKzVE2qm6ULEsuQvYqU) | [LUXE](https://open.spotify.com/artist/4Hholv5F2ei5wt2sRUne7S) | [Belonging EP](https://open.spotify.com/album/4qybG1RPWVKdNUqMTC1myf) | 5:59 | 2023-01-09 | 2023-11-06 |
+| [A83](https://open.spotify.com/track/3TDgqF6U3BohIWi84ylOBi) | [LUXE](https://open.spotify.com/artist/4Hholv5F2ei5wt2sRUne7S) | [Belonging EP](https://open.spotify.com/album/0zhhWJWPRJYIzHPKskwC96) | 5:59 | 2023-08-11 |  |
 | [Agua Congas](https://open.spotify.com/track/2zwPT8zx1fXTkD8VkqeKqB) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh) | [Agua Congas](https://open.spotify.com/album/62wbQj88z0i2Fdojzq2b6G) | 7:12 | 2023-01-09 | 2023-08-04 |
 | [Agua Congas](https://open.spotify.com/track/1wJSK0ZBvpaLTe6Y60WaFa) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh) | [Agua Congas](https://open.spotify.com/album/0kOvMwR9FHGcheXSVTWhwF) | 7:12 | 2023-01-09 | 2023-08-12 |
 | [Amor en el Cielo](https://open.spotify.com/track/2pjgyameGahHsasUXS2ajF) | [Beni Life](https://open.spotify.com/artist/6Lw0rQu6WBi2B1W3XBfUoW) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/4athIGponDiJRR4djOgwbJ) | 5:15 | 2023-01-09 | 2023-04-30 |
@@ -41,7 +42,8 @@
 | [Clarity](https://open.spotify.com/track/69cIyKwlCoQhgz2qzy279L) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Expectations](https://open.spotify.com/album/5oTMzdANxu24nu2YXJPHDw) | 5:48 | 2023-01-09 | 2023-11-05 |
 | [Clean Slate](https://open.spotify.com/track/6Cglz60KUYA11wzCDdezpC) | [Darko Esser](https://open.spotify.com/artist/7AqGdFNJPwfxvvxzuriXUK) | [Clean Slate](https://open.spotify.com/album/2i1kZDNm28mVEmUG7VtKa6) | 10:41 | 2023-01-09 |  |
 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 | 2023-01-09 |  |
-| [Cotton](https://open.spotify.com/track/5O2YyBz2E0xVgSng44UTnV) | [Cop Envy](https://open.spotify.com/artist/2Kw0Sr0n8G0uuzyeFdANyF) | [Cotton EP](https://open.spotify.com/album/1xFPICA2qrNr6ytB3dlFR7) | 5:51 | 2023-01-09 |  |
+| [Cotton](https://open.spotify.com/track/1k5Qm9EzP0mM0wedIgevwi) | [Cop Envy](https://open.spotify.com/artist/2Kw0Sr0n8G0uuzyeFdANyF) | [Cotton EP](https://open.spotify.com/album/7FOUVHxXVHO82i1iQeh9mZ) | 5:51 | 2023-08-11 |  |
+| [Cotton](https://open.spotify.com/track/5O2YyBz2E0xVgSng44UTnV) | [Cop Envy](https://open.spotify.com/artist/2Kw0Sr0n8G0uuzyeFdANyF) | [Cotton EP](https://open.spotify.com/album/1xFPICA2qrNr6ytB3dlFR7) | 5:51 | 2023-01-09 | 2023-11-06 |
 | [Currency Low \- Bonus Track](https://open.spotify.com/track/0CfWZ0Zy1LCzOeViunbk43) | [Off The Meds](https://open.spotify.com/artist/6XHiqDJIKWxSMQLsjFsiFM) | [Off The Meds](https://open.spotify.com/album/1xLT0f6nhDZe0sJl5uUTgh) | 2:29 | 2023-01-09 |  |
 | [ECC](https://open.spotify.com/track/7CLQc8p4EMUFUH7HqCMbcs) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Water](https://open.spotify.com/album/6u23yJ4d4RawFlNGLsomot) | 6:59 | 2023-01-09 | 2023-08-12 |
 | [El Invento \- Sofia Kourtesis Remix](https://open.spotify.com/track/3DcpewxfB6UZoCnZj0ed8S) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Local Valley \(Deluxe\)](https://open.spotify.com/album/4diHCkCZbrCxqzy0rg4c2o) | 4:24 | 2023-01-09 |  |

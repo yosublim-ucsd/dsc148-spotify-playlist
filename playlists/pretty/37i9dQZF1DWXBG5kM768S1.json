@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 71706,
+  "num_followers": 71729,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTAwZDkyYzVlODM0ZDU5NmJlYzM1OTI2OTk0M2UwMDA0ZjRmYmM3",
+  "snapshot_id": "MCxmN2M3MzYxODY1MjA2MTBiNmQzZDM1ZTkzNDhiYjdhZThjZmI0Nzk3",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 266328,
+      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Det jeg vil ha (fra deg)",
         "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 234466,
       "name": "Har En Dr\u00f8m",
       "url": "https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 266328,
-      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Club 7",
-        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 260778,
-      "name": "Club 7",
-      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Flyge Fra",
         "url": "https://open.spotify.com/album/3MB6vxKquCpTWS0qd3aEX9"
       },
@@ -843,18 +827,34 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Kr\u00e5keviks Songbok",
-        "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
+        "name": "Club 7",
+        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
       },
       "artists": [
         {
-          "name": "Herborg Kr\u00e5kevik",
-          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
         }
       ],
-      "duration_ms": 178760,
-      "name": "Den Fyrste Song",
-      "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
+      "duration_ms": 260778,
+      "name": "Club 7",
+      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Henda i v\u00e6ret",
+        "url": "https://open.spotify.com/album/5tC2V5bpIrr14ka5wAxFEQ"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Lite og stort",
+      "url": "https://open.spotify.com/track/20N6iAf42TLvjPVnQaCAEn"
     }
   ],
   "unique_name": "Norske viser",

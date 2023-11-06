@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con Polim\u00e1 Westcoast, TAICHU & Caleb Calloway.",
-  "num_followers": 316779,
+  "num_followers": 316802,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDlhMWU2Njc1ZWJhZjhhZWY3ZWEyNzIzNGMxNTA0NzM4NDg1OTBk",
+  "snapshot_id": "MCw4ODhlZTA4N2VkNGI1ZmYwNWY0NGQ4YjY0ZjgzY2M1NmM1MjA5YjFh",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1147,22 +1147,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+        "name": "Mi Bruja",
+        "url": "https://open.spotify.com/album/5Ol2T2oQpuxa9JZMij9ES6"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
         }
       ],
-      "duration_ms": 222857,
-      "name": "Traductor",
-      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
+      "duration_ms": 157793,
+      "name": "Mi Bruja",
+      "url": "https://open.spotify.com/track/6jU9HGQhLCUuA3jmwmxQCo"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1183,22 +1183,42 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Mi Bruja",
-        "url": "https://open.spotify.com/album/5Ol2T2oQpuxa9JZMij9ES6"
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
       "artists": [
         {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         },
         {
-          "name": "Drakomafia",
-          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 157793,
-      "name": "Mi Bruja",
-      "url": "https://open.spotify.com/track/6jU9HGQhLCUuA3jmwmxQCo"
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Ese Corte",
+        "url": "https://open.spotify.com/album/5w1Dc758WHXknbwunFxAZU"
+      },
+      "artists": [
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "duration_ms": 219401,
+      "name": "Ese Corte",
+      "url": "https://open.spotify.com/track/7iBFkn9NTeNW9jfwiCzF39"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1239,26 +1259,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Ese Corte",
-        "url": "https://open.spotify.com/album/5w1Dc758WHXknbwunFxAZU"
-      },
-      "artists": [
-        {
-          "name": "Balbi El Chamako",
-          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        }
-      ],
-      "duration_ms": 219401,
-      "name": "Ese Corte",
-      "url": "https://open.spotify.com/track/7iBFkn9NTeNW9jfwiCzF39"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "511",
         "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
       },
@@ -1295,46 +1295,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Toda Guapa",
-        "url": "https://open.spotify.com/album/5jBPkUmcXBzPyff2y1Wzc2"
-      },
-      "artists": [
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Fran C",
-          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
-        }
-      ],
-      "duration_ms": 155275,
-      "name": "Toda Guapa",
-      "url": "https://open.spotify.com/track/6XLOKUNpCZRkWAKfEDeArF"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Temporada de Reggaet\u00f3n 2",
-        "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Amor Bipolar",
-      "url": "https://open.spotify.com/track/54azU25VdlyMhiqHOOCZeL"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Los Malvekes",
         "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
       },
@@ -1359,6 +1319,46 @@
       "duration_ms": 218000,
       "name": "Los Malvekes",
       "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Temporada de Reggaet\u00f3n 2",
+        "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Amor Bipolar",
+      "url": "https://open.spotify.com/track/54azU25VdlyMhiqHOOCZeL"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Toda Guapa",
+        "url": "https://open.spotify.com/album/5jBPkUmcXBzPyff2y1Wzc2"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "duration_ms": 155275,
+      "name": "Toda Guapa",
+      "url": "https://open.spotify.com/track/6XLOKUNpCZRkWAKfEDeArF"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1827,22 +1827,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/3KFx3Wq5uUF763v3y0CoFn"
+        "name": "SE ENDIABLA",
+        "url": "https://open.spotify.com/album/6cnpSkpsSBOUM8cBvu2dXp"
       },
       "artists": [
         {
-          "name": "STRANGEHUMAN",
-          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
-        },
-        {
-          "name": "Red Fingers",
-          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/7JEXEuuEQ7qDTW1DAOpFCz"
+      "duration_ms": 159157,
+      "name": "SE ENDIABLA",
+      "url": "https://open.spotify.com/track/2B9tPbnFANp0TTyX1C8tgz"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1891,18 +1887,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "SE ENDIABLA",
-        "url": "https://open.spotify.com/album/6cnpSkpsSBOUM8cBvu2dXp"
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3KFx3Wq5uUF763v3y0CoFn"
       },
       "artists": [
         {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        },
+        {
+          "name": "Red Fingers",
+          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
         }
       ],
-      "duration_ms": 159157,
-      "name": "SE ENDIABLA",
-      "url": "https://open.spotify.com/track/2B9tPbnFANp0TTyX1C8tgz"
+      "duration_ms": 134000,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/7JEXEuuEQ7qDTW1DAOpFCz"
     },
     {
       "added_at": "2023-10-27 04:00:00",

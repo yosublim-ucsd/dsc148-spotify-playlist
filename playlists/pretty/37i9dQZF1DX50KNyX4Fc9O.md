@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Kita Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,567 likes - 113 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,595 likes - 113 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 112 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
 | 113 | [Slice of Heaven \(feat\. Dave Dobbyn\)](https://open.spotify.com/track/6NzxMmxVHloqGM758vrOmn) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY), [Dave Dobbyn](https://open.spotify.com/artist/5bYfbDXaMVCxEt7hOAvEWc) | [Slice of Heaven \(feat\. Dave Dobbyn\)](https://open.spotify.com/album/7qfKavzeo74lEX0OZ6HZ0F) | 2:55 |
 
-Snapshot ID: `MCxiOTViMGY2NmI2ZDJiNjc4ZjU4MzVkMDYwMzAzNDY5YTBmMDYwZGIz`
+Snapshot ID: `MCwwZTAzYzM1YjMyMjMwYTM1NmUyNDA0YTY1ZDA3N2JkZDkyNGJiOGIx`

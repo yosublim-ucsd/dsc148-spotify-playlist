@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Vv Pete is our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,002 likes - 66 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,001 likes - 66 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 3 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 |
 | 4 | [PLAYLIST \(ROCK DA BOAT\)](https://open.spotify.com/track/7D6jnDW82vRRMiCRLcy0pl) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [WE STILL YOUNG](https://open.spotify.com/album/2UlMKNVdCbVxTG4LwxpiTz) | 2:47 |
 | 5 | [Stay Blessed](https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Stay Blessed](https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5) | 2:57 |
-| 6 | [Leave In The Morning](https://open.spotify.com/track/2NV0xEWJNdaMzdP94pksrl) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Leave In The Morning](https://open.spotify.com/album/1gRQl5tQu5KTWyvs3zdd2p) | 2:48 |
+| 6 | [Leave In The Morning](https://open.spotify.com/track/4IYPM4LsehnnD2gn2junaO) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/50EclfDgv08QEpljmUe34E) | 2:48 |
 | 7 | [Hard 4 You](https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG) | [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Hard 4 You](https://open.spotify.com/album/0RkfVEAdbTX0P0CRDHYjm5) | 2:59 |
 | 8 | [Mess Around \(feat\. EARTHGANG\)](https://open.spotify.com/track/2ug9Wg4LgcyBDirbl6mgvP) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Mess Around \(feat\. EARTHGANG\)](https://open.spotify.com/album/2uykIyf5aQOuwSfpfEo8zL) | 3:50 |
 | 9 | [Feel Alive](https://open.spotify.com/track/3wSbCJYFzsfajYhO5RNCwE) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Feel Alive](https://open.spotify.com/album/5EqDIpC3xKRUEzxqBqKHwB) | 3:21 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 65 | [Perfect For You](https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Perfect For You](https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir) | 2:58 |
 | 66 | [Rhythms](https://open.spotify.com/track/7B1k04cXHoNGF1ve0k3acD) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Rhythms](https://open.spotify.com/album/2J7YuvDTltVy6R3noYv416) | 3:15 |
 
-Snapshot ID: `MCxkYzE1N2Y4ZTRkNTE4OWY4ZDk4NGFhMTZmNTQwOTQ2ZWRkZjI5YWRj`
+Snapshot ID: `MCwzNjBlNTNkODA0NmZiOWMyOGExM2Y2MTFiMmUwY2RmOGMzYWMzNjk3`

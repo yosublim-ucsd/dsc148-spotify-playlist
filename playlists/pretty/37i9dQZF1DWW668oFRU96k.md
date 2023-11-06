@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Steve Angello
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,276 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,319 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 79 | [Don't Step On My Nikes](https://open.spotify.com/track/60rwDygmXmbkD5OVc508y9) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Don't Step On My Nikes](https://open.spotify.com/album/3IOrmd5uhcEwnLyWXEmM1d) | 2:36 |
 | 80 | [The One](https://open.spotify.com/track/2h5CVxnbUUM2g3VdcXjCuT) | [Small ToK](https://open.spotify.com/artist/6hV8ewHG3ztpkuoZATWO3I), [R\-CHY](https://open.spotify.com/artist/4VaW6tpYOl0ld3X54wRZsd) | [The One](https://open.spotify.com/album/58LXm6XbKUp4SNSy83B2qM) | 2:23 |
 
-Snapshot ID: `MCw5M2QwOTdhYjIwNGM0MzhiOGM0OTNlNTY0OTA1Y2M5M2Q0MGYyYTdl`
+Snapshot ID: `MCw1MzYzYjQxZGNhNzI2NDVlYjg4OWY1ZWM5ZWVjZGZmODgwMjBkMzcy`

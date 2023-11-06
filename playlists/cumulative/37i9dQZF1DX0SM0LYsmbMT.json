@@ -56243,6 +56243,32 @@
     },
     {
       "album": {
+        "name": "Second Life",
+        "url": "https://open.spotify.com/album/5tqEIWSgETv8ij1iXcxL22"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132134,
+      "name": "Second Life",
+      "url": "https://open.spotify.com/track/5KyouomF1FA1528RoISY0o"
+    },
+    {
+      "album": {
         "name": "Second Wind",
         "url": "https://open.spotify.com/album/4Rm9vAv7GJbRBoBw4b7jYc"
       },
@@ -76252,7 +76278,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 183119,
       "name": "\ud83d\ude0a",
       "url": "https://open.spotify.com/track/5TnioMrD7HVnU5GJsQTOcw"

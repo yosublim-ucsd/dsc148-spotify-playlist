@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,770 songs - 3 day 7 hr 16 min
+1,771 songs - 3 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,7 +512,7 @@
 | [Field of Joy](https://open.spotify.com/track/5Dupg1ztlsHXxhmBDVqww2) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Field of Joy](https://open.spotify.com/album/0iRcFoOpH69QSXovmNfa5N) | 3:16 | 2022-12-22 | 2023-02-25 |
 | [Fields](https://open.spotify.com/track/2mALzHMGNFFjCIip1M0SyY) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Fields](https://open.spotify.com/album/1K2SNUso7fWzSAzqRoAwQD) | 2:03 | 2021-05-20 | 2022-04-14 |
 | [Fields](https://open.spotify.com/track/60YiyS0YJeSOI3DYcKSVdn) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Fields](https://open.spotify.com/album/6OF6dKWs58XhWlD34KmzS8) | 3:44 | 2021-04-29 | 2022-04-25 |
-| [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 | 2023-04-15 |  |
+| [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 | 2023-04-15 | 2023-11-06 |
 | [Fields of Gold](https://open.spotify.com/track/0x7k2hGRMup7V0Fh8nqlFg) | [Gordon Matthew Thomas Sumner](https://open.spotify.com/artist/4d4MQI2dt3yVSJixoVNfgK), [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Fields of Gold](https://open.spotify.com/album/1MSTcPEOnMjUJ2FX7gB2z4) | 3:44 | 2021-12-21 | 2022-07-28 |
 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 | 2023-10-10 |  |
 | [Fields of Rye](https://open.spotify.com/track/2bwnUq3oGta2YSeTPnFCOw) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Fields of Rye](https://open.spotify.com/album/16n1NtIrjhjjhzYyUVvwjz) | 2:37 | 2021-04-24 | 2022-04-17 |
@@ -1300,6 +1300,7 @@
 | [Sentinel](https://open.spotify.com/track/6eF8X3wXM9mrwmLPprYEe6) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Sentinel](https://open.spotify.com/album/30YAFhyQWYw9KnQTD4jABf) | 4:16 | 2021-04-21 | 2022-07-25 |
 | [Sequoia](https://open.spotify.com/track/0w5Kd5Vqg37VZupZCEZVhi) | [Amos Coelllo](https://open.spotify.com/artist/2YbV6GhzqjW9j2ebq8ua5X) | [Sequoia](https://open.spotify.com/album/6cczip33Jhl51tkYf5tS8E) | 2:46 | 2022-03-29 | 2022-04-14 |
 | [Serenade](https://open.spotify.com/track/0xczKUSyVIfX9rekmTBkbv) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Serenade](https://open.spotify.com/album/5deoUv9fEIqoxOy1sM3z9M) | 2:25 | 2021-12-13 | 2022-04-12 |
+| [Serene](https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Serene](https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov) | 2:26 | 2023-10-26 |  |
 | [Serene \(Scaled Down Version\)](https://open.spotify.com/track/2wkNC1KAKnnV6hTzkWYTDy) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As The Years Go By](https://open.spotify.com/album/3mJDPP4Axx9itKVW5SPytr) | 1:53 | 2022-03-29 | 2022-04-09 |
 | [Serenitatem](https://open.spotify.com/track/63onMzJwEDrZsOKsAU3Sbg) | [Einstök](https://open.spotify.com/artist/2D8iiBcWBo3Z7XKCUgYS7L) | [Serenitatem](https://open.spotify.com/album/5bIFFdhhvluQVCH40SHIw4) | 2:11 | 2021-05-05 | 2022-04-15 |
 | [Serenity](https://open.spotify.com/track/2I9qjveKy0l2SqyDb1F9jj) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Mansellastica](https://open.spotify.com/album/57UbkSTXlX14SUDc7yakvx) | 3:49 | 2021-04-02 | 2022-07-27 |

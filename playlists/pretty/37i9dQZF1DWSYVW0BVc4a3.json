@@ -1,12 +1,12 @@
 {
   "description": "The stomping ground. ",
-  "num_followers": 101251,
+  "num_followers": 101348,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTljNzc4M2ZkM2NmNTMzMDQ3M2JhNzI4ZmFlMTg1MjViZWY3MTQ5",
+  "snapshot_id": "MCw3OTkyMTdlYjAyY2I1NTkyM2QyOTE2ZDIyYzYzM2ZmYjIzZjZmNjQy",
   "tracks": [
     {
       "added_at": "2023-11-02 22:00:00",
@@ -524,17 +524,13 @@
           "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         }
       ],
-      "duration_ms": 189783,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K"
+      "duration_ms": 213495,
+      "name": "The Sign (with CamelPhat)",
+      "url": "https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR"
     },
     {
       "added_at": "2023-11-02 22:00:00",
@@ -716,13 +712,17 @@
           "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 213495,
-      "name": "The Sign (with CamelPhat)",
-      "url": "https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR"
+      "duration_ms": 189783,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K"
     },
     {
       "added_at": "2023-11-02 22:00:00",
@@ -815,22 +815,30 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
-        "name": "Ray Of Solar (Mau P Remix)",
-        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
+        "name": "Tina",
+        "url": "https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         },
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        },
+        {
+          "name": "The Vic",
+          "url": "https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR"
         }
       ],
-      "duration_ms": 251428,
-      "name": "Ray Of Solar - Mau P Remix",
-      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
+      "duration_ms": 262500,
+      "name": "Tina",
+      "url": "https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz"
     },
     {
       "added_at": "2023-11-02 22:00:00",
@@ -859,30 +867,22 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
-        "name": "Tina",
-        "url": "https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8"
+        "name": "Ray Of Solar (Mau P Remix)",
+        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Meca",
-          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
-        },
-        {
-          "name": "The Vic",
-          "url": "https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR"
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
         }
       ],
-      "duration_ms": 262500,
-      "name": "Tina",
-      "url": "https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz"
+      "duration_ms": 251428,
+      "name": "Ray Of Solar - Mau P Remix",
+      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
     },
     {
       "added_at": "2023-11-02 22:00:00",
@@ -979,6 +979,26 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
+        "name": "Pipi Dormir",
+        "url": "https://open.spotify.com/album/38FvCoA5CE5mO9PY7CHqtU"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        }
+      ],
+      "duration_ms": 394838,
+      "name": "Pipi Dormir",
+      "url": "https://open.spotify.com/track/0ba74twsUUtdjG6nTc1b83"
+    },
+    {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
         "name": "Something On My Mind (Solomun Remix) (feat. Nothing But Thieves)",
         "url": "https://open.spotify.com/album/5Nhg2ajevsFpPQM2wwccGH"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 243013,
       "name": "Something On My Mind (Solomun Remix)",
       "url": "https://open.spotify.com/track/7qoIMEX58PlFTai18Uf1ic"
-    },
-    {
-      "added_at": "2023-11-02 22:00:00",
-      "album": {
-        "name": "Pipi Dormir",
-        "url": "https://open.spotify.com/album/38FvCoA5CE5mO9PY7CHqtU"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Grigor\u00e9",
-          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
-        }
-      ],
-      "duration_ms": 394838,
-      "name": "Pipi Dormir",
-      "url": "https://open.spotify.com/track/0ba74twsUUtdjG6nTc1b83"
     },
     {
       "added_at": "2023-11-02 22:00:00",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
-        "name": "Breathe In (Short Mix)",
-        "url": "https://open.spotify.com/album/1FchiEL5g79UaUVnwdGQcK"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "Another Life",
-          "url": "https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ"
-        }
-      ],
-      "duration_ms": 247559,
-      "name": "Breathe In (Short Mix)",
-      "url": "https://open.spotify.com/track/3LBWAYCXn4GCkg0jOgWD7D"
-    },
-    {
-      "added_at": "2023-11-02 22:00:00",
-      "album": {
         "name": "A Prayer",
         "url": "https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD"
       },
@@ -1295,6 +1275,22 @@
       "duration_ms": 210000,
       "name": "A Prayer",
       "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
+    },
+    {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 415748,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
     },
     {
       "added_at": "2023-11-02 22:00:00",
@@ -1407,22 +1403,6 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 415748,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
-    },
-    {
-      "added_at": "2023-11-02 22:00:00",
-      "album": {
         "name": "This Feeling (Yotto Remix)",
         "url": "https://open.spotify.com/album/6Rub1KknGrXsGBPJK2mJqN"
       },
@@ -1463,6 +1443,26 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
+        "name": "Youth Is Wasted on the Young",
+        "url": "https://open.spotify.com/album/1xyLsl3uoCDONSqfrr3RPT"
+      },
+      "artists": [
+        {
+          "name": "Anden",
+          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 193623,
+      "name": "Grouplove",
+      "url": "https://open.spotify.com/track/4eDptQXtxI2beJWkxNV4jo"
+    },
+    {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
         "name": "Dope Dance",
         "url": "https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k"
       },
@@ -1487,22 +1487,22 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
-        "name": "Youth Is Wasted on the Young",
-        "url": "https://open.spotify.com/album/1xyLsl3uoCDONSqfrr3RPT"
+        "name": "Breathe In (Short Mix)",
+        "url": "https://open.spotify.com/album/1FchiEL5g79UaUVnwdGQcK"
       },
       "artists": [
         {
-          "name": "Anden",
-          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         },
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Another Life",
+          "url": "https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ"
         }
       ],
-      "duration_ms": 193623,
-      "name": "Grouplove",
-      "url": "https://open.spotify.com/track/4eDptQXtxI2beJWkxNV4jo"
+      "duration_ms": 247559,
+      "name": "Breathe In (Short Mix)",
+      "url": "https://open.spotify.com/track/3LBWAYCXn4GCkg0jOgWD7D"
     },
     {
       "added_at": "2023-11-02 22:00:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
-        "name": "All Night (Kevin de Vries Remix)",
-        "url": "https://open.spotify.com/album/56T4BCmupSgieIJXAMgYwi"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        }
-      ],
-      "duration_ms": 247747,
-      "name": "All Night - Kevin De Vries Remix",
-      "url": "https://open.spotify.com/track/3DzX6TFiElYym9LAecMZW4"
-    },
-    {
-      "added_at": "2023-11-02 22:00:00",
-      "album": {
         "name": "The Greatest Thing Alive",
         "url": "https://open.spotify.com/album/4pO9irtP1FElMi4HaIUct0"
       },
@@ -1623,26 +1603,22 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
-        "name": "Diamond Therapy",
-        "url": "https://open.spotify.com/album/6Ts98dV2mvynqieN4j3TOO"
+        "name": "All Night (Kevin de Vries Remix)",
+        "url": "https://open.spotify.com/album/56T4BCmupSgieIJXAMgYwi"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
         },
         {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         }
       ],
-      "duration_ms": 277453,
-      "name": "Diamond Therapy - VIP",
-      "url": "https://open.spotify.com/track/2Mu2YlVCDCZ6VDnLEHIVG4"
+      "duration_ms": 247747,
+      "name": "All Night - Kevin De Vries Remix",
+      "url": "https://open.spotify.com/track/3DzX6TFiElYym9LAecMZW4"
     },
     {
       "added_at": "2023-11-02 22:00:00",
@@ -1667,6 +1643,30 @@
       "duration_ms": 417999,
       "name": "Slow Down - James Cole Remix",
       "url": "https://open.spotify.com/track/7IasAOphluLSAmgMtg9jYA"
+    },
+    {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
+        "name": "Diamond Therapy",
+        "url": "https://open.spotify.com/album/6Ts98dV2mvynqieN4j3TOO"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 277453,
+      "name": "Diamond Therapy - VIP",
+      "url": "https://open.spotify.com/track/2Mu2YlVCDCZ6VDnLEHIVG4"
     },
     {
       "added_at": "2023-11-02 22:00:00",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
-        "name": "Your Mind",
-        "url": "https://open.spotify.com/album/25fUzY5qFM0Fm6ESlFOJFu"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Josh Gigante",
-          "url": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
-        }
-      ],
-      "duration_ms": 354647,
-      "name": "Your Mind",
-      "url": "https://open.spotify.com/track/4zDG66t4CS5gD2WLq4K9JK"
-    },
-    {
-      "added_at": "2023-11-02 22:00:00",
-      "album": {
         "name": "Renegade EP",
         "url": "https://open.spotify.com/album/6dgVJGpji0wnAeEt6xc9PA"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 333658,
       "name": "Renegade - Adam Ten & Mita Gami Remix",
       "url": "https://open.spotify.com/track/1DdpxHPTsrivn3X0KumOQz"
+    },
+    {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
+        "name": "Your Mind",
+        "url": "https://open.spotify.com/album/25fUzY5qFM0Fm6ESlFOJFu"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Josh Gigante",
+          "url": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
+        }
+      ],
+      "duration_ms": 354647,
+      "name": "Your Mind",
+      "url": "https://open.spotify.com/track/4zDG66t4CS5gD2WLq4K9JK"
     },
     {
       "added_at": "2023-11-02 22:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
-        "name": "Spiritual Milk",
-        "url": "https://open.spotify.com/album/4sonMTh4GV9Y1rvJTfdZ8R"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 246294,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/6uEJCO0lG0px9ibsdA3g9a"
-    },
-    {
-      "added_at": "2023-11-02 22:00:00",
-      "album": {
         "name": "Sway (feat. Dope Earth Alien)",
         "url": "https://open.spotify.com/album/5TFBzrKDfvyAfqfkWiqETf"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 167619,
       "name": "Sway (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/0KgDKuaHnbZOzz8adnnfxd"
+    },
+    {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
+        "name": "Spiritual Milk",
+        "url": "https://open.spotify.com/album/4sonMTh4GV9Y1rvJTfdZ8R"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 246294,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/6uEJCO0lG0px9ibsdA3g9a"
     },
     {
       "added_at": "2023-11-02 22:00:00",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
+        "name": "You Can Dance Now",
+        "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "duration_ms": 244802,
+      "name": "You Can Dance Now",
+      "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
+    },
+    {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
         "name": "The Loop",
         "url": "https://open.spotify.com/album/4yn1R7xr2O30X7H3kgto2h"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 181625,
       "name": "The Loop",
       "url": "https://open.spotify.com/track/7dQibCVyq03l5tGPWZwXjf"
-    },
-    {
-      "added_at": "2023-11-02 22:00:00",
-      "album": {
-        "name": "You Can Dance Now",
-        "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
-      },
-      "artists": [
-        {
-          "name": "Liva K",
-          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
-        }
-      ],
-      "duration_ms": 244802,
-      "name": "You Can Dance Now",
-      "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
     }
   ],
   "unique_name": "Open Air",

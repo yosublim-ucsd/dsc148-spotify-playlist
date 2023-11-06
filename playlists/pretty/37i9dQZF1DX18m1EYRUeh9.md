@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Dana and Alden
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,621 likes - 85 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,738 likes - 85 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 22 | [Light Years](https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB) | 4:07 |
 | 23 | [Nothing on Me](https://open.spotify.com/track/4qsv98a7IMkAJQzO1k8hkx) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:44 |
 | 24 | [Never Fight The Way You Feel](https://open.spotify.com/track/1dO4drroXmLL5YcJ2NtYLl) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Never Fight The Way You Feel](https://open.spotify.com/album/3zc7JOm4n76FkKzaNwV3qQ) | 2:43 |
-| 25 | [Bad State](https://open.spotify.com/track/2V4vuCR0VyMyq2zyb0Ou0u) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Bad State](https://open.spotify.com/album/129jl3rEjJF4JnicTq4N4R) | 2:23 |
+| 25 | [Bad State](https://open.spotify.com/track/5CiWTX6qSqNtHIAUcRaSmS) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Diagnosis](https://open.spotify.com/album/1KE5ZOll4qVQTZNLOjp3qa) | 2:23 |
 | 26 | [FUGAZI](https://open.spotify.com/track/5xWvtdIspTn4RK8Ki3IjtR) | [Boyboy](https://open.spotify.com/artist/3atKvJHxeZCllkWawVbmXc) | [FUGAZI](https://open.spotify.com/album/782lLDVj2EifDWu5JAgGgh) | 3:05 |
 | 27 | [Too Much](https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [edbl & friends – Jackson Mathod](https://open.spotify.com/album/4Dm4vJNsXbsutvoeNRqjSI) | 2:52 |
 | 28 | [Stalemate \(Edit\)](https://open.spotify.com/track/6Nc3VlsiqEZNvF42ziCCAl) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate \(Edit\)](https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd) | 6:43 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 84 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 85 | [Been and Gone](https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Wallace](https://open.spotify.com/artist/0MyoWugdPYngWgagHhIbWa) | [Been and Gone](https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89) | 4:40 |
 
-Snapshot ID: `MCwxMjM4NjMxOTZiMjVmNjc1ZDFlMGJlNWU4OWQ4YTQwM2I2YmI3MTc0`
+Snapshot ID: `MCw0MGJlODM3MmZmOGFiYjliZDFlODU2OGQxMTdiNzcxYzcyMWMwYmEz`

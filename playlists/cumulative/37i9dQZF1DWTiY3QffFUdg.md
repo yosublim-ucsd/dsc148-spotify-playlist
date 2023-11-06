@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-101 songs - 6 hr 3 min
+102 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Low \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Low \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V) | 2:46 | 2023-10-06 |  |
 | [Make Way](https://open.spotify.com/track/3OJKxDtTQCVCMZ4dCvFcep) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Make Way](https://open.spotify.com/album/7MVKL0h5yHt8L2VP7W7NgM) | 3:17 | 2023-08-11 | 2023-09-19 |
 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-08-11 |  |
-| [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 | 2023-08-11 |  |
+| [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 | 2023-08-11 | 2023-11-06 |
 | [Moar Ghosts 'n' Stuff \- Extended Mix](https://open.spotify.com/track/1iAzwiJpnYXCI3xRfoEuYk) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [For Lack of A Better Name \(The Extended Mixes\)](https://open.spotify.com/album/2KAXIfaWLIK2WJFL9bBubR) | 4:57 | 2023-08-11 | 2023-08-19 |
 | [Move It](https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Move It](https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n) | 3:05 | 2023-10-06 |  |
 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 | 2023-08-18 |  |
@@ -98,6 +98,7 @@
 | [The Chant](https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Accepted Concept](https://open.spotify.com/album/5026e5pinYOgls5mjv1duU) | 2:51 | 2023-10-20 |  |
 | [The Parade \(Techno Remix\)](https://open.spotify.com/track/3j9RucX8VImndwic630g9w) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D) | [The Parade \(Techno Remix\)](https://open.spotify.com/album/7phtUgPQObPbFNrWOMyyiK) | 1:55 | 2023-09-01 | 2023-09-28 |
 | [The Procedure \- Original Mix](https://open.spotify.com/track/4ECckb5B0UtR6f9RbKL5SS) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [The Procedure EP](https://open.spotify.com/album/1nKD4vwGp5TJPRsKjFCKiQ) | 3:13 | 2023-08-25 | 2023-10-08 |
+| [The Procedure \- Radio Edit](https://open.spotify.com/track/3dqRuioP7B3hXwKdcUEPrg) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [The Procedure](https://open.spotify.com/album/5tnVe6nQE4skLdV919H5qQ) | 3:13 | 2023-11-03 |  |
 | [The Stutter](https://open.spotify.com/track/6TIZPCn9PQ9kmfK4SbhIKS) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [The Stutter](https://open.spotify.com/album/77Q9sOBlstkdIyA2gmNbv4) | 3:27 | 2023-08-11 | 2023-09-17 |
 | [The Unexpected](https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [The Unexpected](https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z) | 4:00 | 2023-09-15 | 2023-10-30 |
 | [The Violator](https://open.spotify.com/track/3WMSOkdBmgxgkQkZkkgqZc) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [The Violator](https://open.spotify.com/album/1kLSXmk2rBzGoPizreKGnB) | 4:01 | 2023-09-19 |  |

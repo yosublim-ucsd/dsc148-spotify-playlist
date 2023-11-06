@@ -4,7 +4,7 @@
 
 > When everything around you is falling apart.
 
-88 songs - 5 hr 52 min
+89 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Khush to Hai Na](https://open.spotify.com/track/2bGCXKKxk0FyTwYeJooaJH) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Khush to Hai Na](https://open.spotify.com/album/6mgPdNVamEDDLXbbe0dtiT) | 3:11 | 2023-05-15 |  |
 | [Kitna Tha Roka](https://open.spotify.com/track/1Al9f0Dpm7b2pTl1iglDob) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx) | [Kitna Tha Roka](https://open.spotify.com/album/0Izwjjcs0pfPSh4xRX444g) | 3:19 | 2023-09-12 |  |
 | [Kitna Tha Roka](https://open.spotify.com/track/5P6xN9gXr14GLfxr3F4Rua) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/2fFlhMvx7IMrgnz79ZJ52j) | [Kitna Tha Roka](https://open.spotify.com/album/4ZW08VKjCR3P3Z3ENLMLm8) | 3:17 | 2023-05-15 | 2023-09-15 |
-| [Koi Jaane Na](https://open.spotify.com/track/1qJEPAY2PNphzM8o1VFEtt) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/5tazHyKeXejqqmwDIziUkU) | 4:16 | 2023-05-15 |  |
+| [Koi Jaane Na](https://open.spotify.com/track/1qJEPAY2PNphzM8o1VFEtt) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/5tazHyKeXejqqmwDIziUkU) | 4:16 | 2023-05-15 | 2023-11-06 |
+| [Koi Jaane Na](https://open.spotify.com/track/3g572Upfd1UZat0EBLGtns) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/2rNs9qqP3dovmTUuNPXJwT) | 4:16 | 2023-10-26 |  |
 | [Kya Loge Tum](https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Loge Tum](https://open.spotify.com/album/76spwPLkGkvPtADGCTkNeT) | 3:53 | 2023-06-23 |  |
 | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/track/2rjCLFdX8n9xLoMZgdMMxt) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/album/6jN4E5miEwdQBUqU0HP0Dg) | 3:32 | 2023-05-15 |  |
 | [Lehrein](https://open.spotify.com/track/2n6Y0uDH6hzDj9sWh34f68) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Aisha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4h2SfJt00zfnnoQSCuOmkc) | 4:50 | 2023-05-15 |  |

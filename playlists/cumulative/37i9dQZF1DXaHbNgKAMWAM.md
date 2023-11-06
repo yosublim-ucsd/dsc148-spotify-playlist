@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaHbNgKAMWAM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaHbNgKAMWAM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaHbNgKAMWAM)
 
-### [사랑하는 너에게.](https://open.spotify.com/playlist/37i9dQZF1DXaHbNgKAMWAM)
+### [사랑하는 너에게\. \(K\-Pop Love Songs\)](https://open.spotify.com/playlist/37i9dQZF1DXaHbNgKAMWAM)
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-244 songs - 14 hr 38 min
+246 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Be My Love](https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [LOVE PLAYLIST 4 Part.1](https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5) | 3:35 | 2022-05-11 |  |
 | [Be there](https://open.spotify.com/track/7k9sKYkyH1wLeOVC3C5zsa) | [Ikki](https://open.spotify.com/artist/1PbvNmIOnL1ZJgNvxUpomb) | [Be there](https://open.spotify.com/album/7AWQVSj3AYCK7kBdrf5ICJ) | 3:19 | 2022-07-04 | 2022-07-26 |
 | [Be With Me \(Duet\. 10cm\)](https://open.spotify.com/track/4mXANk6U0t0NbrMQCoRNEs) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Be With Me \(Duet\. 10cm\)](https://open.spotify.com/album/0ly98tyVLAitL5zpHF8SAF) | 3:36 | 2022-05-11 | 2022-07-21 |
+| [Be Your Love](https://open.spotify.com/track/7nNdcIrE2rIybmnLdvjgBA) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Strong Girl Nam\-soon \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/52RD1LIAFhL4YrqrMxUpXN) | 3:12 | 2023-11-03 |  |
 | [Beautiful](https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 | 2022-05-11 |  |
 | [Beautiful \(Feat\. Gaho, Moti, Jung Jin Woo\)](https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6), [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc), [Moti](https://open.spotify.com/artist/2douezlnzbINNdpIBZoYWT), [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:31 | 2022-05-11 |  |
 | [Beautiful \(feat\. Hankyul Kim, Yeonhee\)](https://open.spotify.com/track/04J6gmJm4Pa4R3inTJmxtL) | [EUNJI](https://open.spotify.com/artist/2IHZ8x0ukUpGjzHqxFzUHc), [Hankyul Kim](https://open.spotify.com/artist/6mOGOlzmhO2tjAZLxtmAwM), [Yeonhee 연희](https://open.spotify.com/artist/6xsQ8SQfovk9UWyeSKpM27) | [Beautiful](https://open.spotify.com/album/3yekjX5tOlz4dfFLw1UnHA) | 3:53 | 2022-06-20 | 2022-06-27 |
@@ -33,7 +34,7 @@
 | [BEHIND YOU](https://open.spotify.com/track/3KslL1oHw2JreJF9RBzuVt) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 4:29 | 2022-05-11 | 2022-07-20 |
 | [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 | 2022-10-05 |  |
 | [best song](https://open.spotify.com/track/259vEYIeuiVqTcJsaaE696) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:41 | 2022-05-11 | 2022-11-02 |
-| [best song](https://open.spotify.com/track/7p3pFIgcbsFCvX4SLtZkUS) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF) | 3:41 | 2023-10-16 |  |
+| [best song](https://open.spotify.com/track/7p3pFIgcbsFCvX4SLtZkUS) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF) | 3:41 | 2023-10-16 | 2023-11-06 |
 | [Beyond My Dreams](https://open.spotify.com/track/5NVkktUlAylhk7f0t63eth) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Extraordinary Attorney Woo \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6WHeV5qrp1tAPcMJ0ieZts) | 3:05 | 2022-07-08 |  |
 | [blooming](https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [blooming](https://open.spotify.com/album/4m6i862LBcQlLoDR5INrN3) | 3:59 | 2022-05-11 | 2022-07-15 |
 | [Bom](https://open.spotify.com/track/0jnUqXkSxqe8hLkPVfzIjz) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/4pR0eatWzDISWS8LHv5dzZ) | 3:37 | 2022-05-11 | 2022-07-29 |
@@ -60,9 +61,10 @@
 | [Dearest \(feat\. Sllo\)](https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Sllo](https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc) | [Dearest \(feat\. Sllo\)](https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ) | 2:47 | 2022-05-11 | 2023-07-08 |
 | [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 | 2022-05-11 | 2022-07-27 |
 | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 | 2022-07-08 | 2023-01-13 |
+| [Don't be mad](https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Don't be mad](https://open.spotify.com/album/0sIbn4BGuc7oG21Fkl5x46) | 3:04 | 2023-11-03 |  |
 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 | 2022-06-09 |  |
 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 | 2023-03-31 |  |
-| [Dream Catcher](https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:46 | 2022-05-11 |  |
+| [Dream Catcher](https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:46 | 2022-05-11 | 2023-11-06 |
 | [Endless](https://open.spotify.com/track/0ezXTASjQ1CZlqOKeH75r9) | [JIN](https://open.spotify.com/artist/4qXqEpcMnp74cCHrVW9rRJ) | [Endless](https://open.spotify.com/album/7cFVNdjx9pLLD2s6FfQCc5) | 3:15 | 2023-02-03 | 2023-02-26 |
 | [Errr Day](https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Errr Day](https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK) | 3:24 | 2023-03-28 |  |
 | [Especially For You](https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ) | [Lee Daneung](https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO) | [Especially For You](https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl) | 2:34 | 2022-12-26 |  |
@@ -80,7 +82,7 @@
 | [First Love](https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [First Love](https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE) | 3:02 | 2022-07-04 | 2023-04-28 |
 | [FLAVONO](https://open.spotify.com/track/1KeXQ2tuWBgEkF1sAKQ3sA) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [FLAVONO](https://open.spotify.com/album/0YLOzSD8x1vqN3UahvhJRn) | 4:00 | 2022-06-09 | 2022-07-28 |
 | [Fling](https://open.spotify.com/track/3WdgA44BJij5X8qYdynTXO) | [DIVE](https://open.spotify.com/artist/57wwJWPNlKaN300irTjaM9) | [Fling](https://open.spotify.com/album/46bhJQcDLQhGs2kFPGx5UJ) | 2:54 | 2023-01-19 | 2023-02-18 |
-| [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 | 2022-09-05 | 2023-11-01 |
+| [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 | 2022-09-05 |  |
 | [Forever](https://open.spotify.com/track/6TtJ8RqkT729SKTzSdnZgH) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor) | 3:48 | 2022-05-11 | 2022-07-22 |
 | [FRR](https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [FRR](https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC) | 3:40 | 2023-05-02 | 2023-08-06 |
 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 | 2022-07-08 |  |
@@ -162,7 +164,7 @@
 | [promise](https://open.spotify.com/track/6IHakeR5yzcnNIP2lBuJ0e) | [Jaeha Jeong](https://open.spotify.com/artist/6smIT6IalnLeu9BWwutlq1) | [promise](https://open.spotify.com/album/2AH3hVk3NtpcRvnRvsyAfh) | 3:50 | 2022-07-04 | 2022-07-29 |
 | [PUZZLE](https://open.spotify.com/track/1l3qnaenScIWpAyJRbjLmP) | [Sugarbowl](https://open.spotify.com/artist/0SzEYg3WelMs62HakSDhPH) | [PUZZLE](https://open.spotify.com/album/3E8XbM9gn0N2V5bkRaDDHA) | 3:31 | 2022-05-11 | 2022-07-27 |
 | [Real LOVE](https://open.spotify.com/track/0O2ZW0yhiRQ3HKNCzGDzMj) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:16 | 2022-07-04 | 2022-10-30 |
-| [Real Love](https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Love in Contract, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF) | 3:19 | 2022-10-08 |  |
+| [Real Love](https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Love in Contract, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF) | 3:19 | 2022-10-08 | 2023-11-06 |
 | [Right](https://open.spotify.com/track/4rqkl7cIZMZL6kBWox0D6B) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Right](https://open.spotify.com/album/3MmSYZityjpYQXOfCYiJrS) | 4:08 | 2022-05-11 | 2022-07-29 |
 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 | 2023-03-31 |  |
 | [Savior](https://open.spotify.com/track/4AQkhL8MzSguNeDS3vwu0G) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [SAVIOR](https://open.spotify.com/album/5YgIjOkNrrkQnCNFMnMQFB) | 3:23 | 2022-05-11 | 2022-08-02 |

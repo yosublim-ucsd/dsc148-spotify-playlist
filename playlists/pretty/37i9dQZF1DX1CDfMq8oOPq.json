@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Ajuliacosta",
-  "num_followers": 42412,
+  "num_followers": 42435,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjQ1NjljYWQ2MmY1N2NlYThjMzI0Yzc5Njk5YzYwY2JjMjRmNzBl",
+  "snapshot_id": "MCxiOWQ1ZjdiZjI0YmVjMmUzNTJmNTY4NTQyMzY3ZDI3MjFiN2MzNWI1",
   "tracks": [
     {
       "added_at": "2023-11-03 03:01:00",
@@ -23,6 +23,22 @@
       "duration_ms": 182854,
       "name": "Brutas Tamb\u00e9m Choram",
       "url": "https://open.spotify.com/track/7gTStq2OMkjtHyH09GGKkO"
+    },
+    {
+      "added_at": "2023-11-03 03:01:00",
+      "album": {
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
       "added_at": "2023-11-03 03:01:00",
@@ -47,18 +63,26 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+        "name": "Para Todos os Garotos que j\u00e1 Mamei",
+        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
       "artists": [
         {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         }
       ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+      "duration_ms": 177230,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
     },
     {
       "added_at": "2023-11-03 03:01:00",
@@ -91,30 +115,6 @@
       "duration_ms": 119008,
       "name": "Larga Essa Vida",
       "url": "https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C"
-    },
-    {
-      "added_at": "2023-11-03 03:01:00",
-      "album": {
-        "name": "Para Todos os Garotos que j\u00e1 Mamei",
-        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
     },
     {
       "added_at": "2023-11-03 03:01:00",
@@ -287,26 +287,6 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Marcos Beatman",
-          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
-        }
-      ],
-      "duration_ms": 196165,
-      "name": "Rotina",
-      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
-    },
-    {
-      "added_at": "2023-11-03 03:01:00",
-      "album": {
         "name": "Faz Assim",
         "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 217263,
       "name": "Faz Assim",
       "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
+    },
+    {
+      "added_at": "2023-11-03 03:01:00",
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Marcos Beatman",
+          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
+        }
+      ],
+      "duration_ms": 196165,
+      "name": "Rotina",
+      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
     },
     {
       "added_at": "2023-11-03 03:01:00",
@@ -415,6 +415,30 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
+        "name": "HSEH",
+        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 150260,
+      "name": "HSEH",
+      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
+    },
+    {
+      "added_at": "2023-11-03 03:01:00",
+      "album": {
         "name": "Hentai",
         "url": "https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02"
       },
@@ -459,30 +483,6 @@
       "duration_ms": 175922,
       "name": "Levado - Spotify Singles",
       "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
-    },
-    {
-      "added_at": "2023-11-03 03:01:00",
-      "album": {
-        "name": "HSEH",
-        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 150260,
-      "name": "HSEH",
-      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
     },
     {
       "added_at": "2023-11-03 03:01:00",
@@ -543,30 +543,22 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
-        "name": "5min",
-        "url": "https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b"
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
       },
       "artists": [
         {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
         }
       ],
-      "duration_ms": 128181,
-      "name": "5min",
-      "url": "https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw"
+      "duration_ms": 187350,
+      "name": "Maldita",
+      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
     },
     {
       "added_at": "2023-11-03 03:01:00",
@@ -675,48 +667,36 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        },
-        {
-          "name": "Kash",
-          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
-        }
-      ],
-      "duration_ms": 224841,
-      "name": "N.I.N.A",
-      "url": "https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ"
-    },
-    {
-      "added_at": "2023-11-03 03:01:00",
-      "album": {
-        "name": "Glossy",
-        "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
+        "name": "5min",
+        "url": "https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b"
       },
       "artists": [
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
         }
       ],
-      "duration_ms": 151596,
-      "name": "Glossy",
-      "url": "https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6"
+      "duration_ms": 128181,
+      "name": "5min",
+      "url": "https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw"
     },
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
       },
       "artists": [
         {
@@ -728,45 +708,9 @@
           "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
         }
       ],
-      "duration_ms": 187350,
-      "name": "Maldita",
-      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
-    },
-    {
-      "added_at": "2023-11-03 03:01:00",
-      "album": {
-        "name": "Aquecimento",
-        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
-      },
-      "artists": [
-        {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 123444,
-      "name": "Aquecimento",
-      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
-    },
-    {
-      "added_at": "2023-11-03 03:01:00",
-      "album": {
-        "name": "Ashley Banks",
-        "url": "https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY"
-      },
-      "artists": [
-        {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
-        }
-      ],
-      "duration_ms": 208264,
-      "name": "Ashley Banks",
-      "url": "https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x"
+      "duration_ms": 199986,
+      "name": "Seu Particular",
+      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
     },
     {
       "added_at": "2023-11-03 03:01:00",
@@ -791,6 +735,82 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Kash",
+          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
+        }
+      ],
+      "duration_ms": 224841,
+      "name": "N.I.N.A",
+      "url": "https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ"
+    },
+    {
+      "added_at": "2023-11-03 03:01:00",
+      "album": {
+        "name": "Ashley Banks",
+        "url": "https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        }
+      ],
+      "duration_ms": 208264,
+      "name": "Ashley Banks",
+      "url": "https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x"
+    },
+    {
+      "added_at": "2023-11-03 03:01:00",
+      "album": {
+        "name": "Aquecimento",
+        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
+      },
+      "artists": [
+        {
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 123444,
+      "name": "Aquecimento",
+      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
+    },
+    {
+      "added_at": "2023-11-03 03:01:00",
+      "album": {
+        "name": "Glossy",
+        "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 151596,
+      "name": "Glossy",
+      "url": "https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6"
+    },
+    {
+      "added_at": "2023-11-03 03:01:00",
+      "album": {
         "name": "SOU + EU",
         "url": "https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV"
       },
@@ -807,6 +827,30 @@
       "duration_ms": 154500,
       "name": "Zero Buxixo",
       "url": "https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9"
+    },
+    {
+      "added_at": "2023-11-03 03:01:00",
+      "album": {
+        "name": "Chica Mala",
+        "url": "https://open.spotify.com/album/0QjPI0ICniI92V1VuXl40U"
+      },
+      "artists": [
+        {
+          "name": "O Compl\u00f4",
+          "url": "https://open.spotify.com/artist/3FyAD47F118oSKTeFy4v0Y"
+        },
+        {
+          "name": "Suppa Fla",
+          "url": "https://open.spotify.com/artist/4P4XoMWWVzc9YJhrFBe0Xa"
+        },
+        {
+          "name": "Grand Master Duda",
+          "url": "https://open.spotify.com/artist/5uqY9GPy0XodzrS3JDfiE0"
+        }
+      ],
+      "duration_ms": 171210,
+      "name": "Chica Mala",
+      "url": "https://open.spotify.com/track/3vOCetJgzOxCDeGcrQ6YTI"
     },
     {
       "added_at": "2023-11-03 03:01:00",
@@ -851,30 +895,6 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
-        "name": "Chica Mala",
-        "url": "https://open.spotify.com/album/0QjPI0ICniI92V1VuXl40U"
-      },
-      "artists": [
-        {
-          "name": "O Compl\u00f4",
-          "url": "https://open.spotify.com/artist/3FyAD47F118oSKTeFy4v0Y"
-        },
-        {
-          "name": "Suppa Fla",
-          "url": "https://open.spotify.com/artist/4P4XoMWWVzc9YJhrFBe0Xa"
-        },
-        {
-          "name": "Grand Master Duda",
-          "url": "https://open.spotify.com/artist/5uqY9GPy0XodzrS3JDfiE0"
-        }
-      ],
-      "duration_ms": 171210,
-      "name": "Chica Mala",
-      "url": "https://open.spotify.com/track/3vOCetJgzOxCDeGcrQ6YTI"
-    },
-    {
-      "added_at": "2023-11-03 03:01:00",
-      "album": {
         "name": "Pretchuka",
         "url": "https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 153020,
       "name": "Pretchuka",
       "url": "https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf"
-    },
-    {
-      "added_at": "2023-11-03 03:01:00",
-      "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "Seu Particular",
-      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
     },
     {
       "added_at": "2023-11-03 03:01:00",

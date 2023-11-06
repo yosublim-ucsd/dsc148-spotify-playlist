@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Dolly Parton and Lainey Wilson",
-  "num_followers": 99626,
+  "num_followers": 99685,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjVmOWYwMmI1ZjA2ZmYyMjhhNDRhOGMyMzllNTk3ZGI2NGVjYmIx",
+  "snapshot_id": "MCw3MzY5YTA3MmMzMWEwYzlhMTA3NmMyMjM3ZTdkNWQ5OWQ4ZDFjZTEy",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1291,8 +1291,8 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "The Way You Look Tonight (Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016)",
-        "url": "https://open.spotify.com/album/2WuFm7aAOlcyGhDC4BDkLt"
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
       },
       "artists": [
         {
@@ -1300,9 +1300,9 @@
           "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 204533,
-      "name": "The Way You Look Tonight - Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016",
-      "url": "https://open.spotify.com/track/0xN5D4yc3mJyU42fUzU6hC"
+      "duration_ms": 260252,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/3KwXjiZwQHSsqQAnrcH8uZ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1387,8 +1387,8 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+        "name": "The Way You Look Tonight (Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016)",
+        "url": "https://open.spotify.com/album/2WuFm7aAOlcyGhDC4BDkLt"
       },
       "artists": [
         {
@@ -1396,9 +1396,9 @@
           "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 260252,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/3KwXjiZwQHSsqQAnrcH8uZ"
+      "duration_ms": 204533,
+      "name": "The Way You Look Tonight - Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016",
+      "url": "https://open.spotify.com/track/0xN5D4yc3mJyU42fUzU6hC"
     },
     {
       "added_at": "2023-11-03 04:00:00",

@@ -6542,6 +6542,28 @@
     {
       "album": {
         "name": "Watch Ya Scent",
+        "url": "https://open.spotify.com/album/799XAImbwjxdhYf1v7Y2Hm"
+      },
+      "artists": [
+        {
+          "name": "Behic Fellowes",
+          "url": "https://open.spotify.com/artist/6fp4rzbBMXpaPNSmL7hpPK"
+        },
+        {
+          "name": "George Smeddles",
+          "url": "https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Watch Ya Scent",
+      "url": "https://open.spotify.com/track/1cXk8gOtQjY4sDFyq7BYLn"
+    },
+    {
+      "album": {
+        "name": "Watch Ya Scent",
         "url": "https://open.spotify.com/album/0eVvdpJsbNs38OVqThaVxj"
       },
       "artists": [
@@ -6556,7 +6578,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 214000,
       "name": "Watch Ya Scent",
       "url": "https://open.spotify.com/track/5FyizYtpHGXVd3IEQHcq54"

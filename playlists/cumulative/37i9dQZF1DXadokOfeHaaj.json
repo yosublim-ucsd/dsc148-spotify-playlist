@@ -24,7 +24,7 @@
     {
       "album": {
         "name": "1000`s",
-        "url": "https://open.spotify.com/album/2R6u6bIw881N5arKpqDl4y"
+        "url": "https://open.spotify.com/album/7d1NlyJ4nVYyAWWTnMHAho"
       },
       "artists": [
         {
@@ -39,6 +39,28 @@
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 396714,
+      "name": "1000\u00b4s",
+      "url": "https://open.spotify.com/track/16cL5ee3a1tGdlTKRe6T6f"
+    },
+    {
+      "album": {
+        "name": "1000`s",
+        "url": "https://open.spotify.com/album/2R6u6bIw881N5arKpqDl4y"
+      },
+      "artists": [
+        {
+          "name": "This & That",
+          "url": "https://open.spotify.com/artist/66kf3vcvdUC9ew1GSb1VC6"
+        },
+        {
+          "name": "Tunel",
+          "url": "https://open.spotify.com/artist/4uO6d2Bsmguh9jOOuS0QWD"
+        }
+      ],
+      "date_added": "2021-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-06",
       "duration_ms": 396714,
       "name": "1000\u00b4s",
       "url": "https://open.spotify.com/track/3DElMfmAXdWQqB8AMjvXMV"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas do pop rock + invasão do Måneskin! Convidamos a banda pra adc suas maiores refs aqui e olha só no q deu!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,088 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,237 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 49 | [Die 4 Me](https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Die 4 Me](https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz) | 3:35 |
 | 50 | [Talvez o Problema Seja Eu](https://open.spotify.com/track/5TsG8Dd14xcMcQ8Ze3U0t9) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Talvez o Problema Seja Eu](https://open.spotify.com/album/4Wx7IxNpv0caspljzbFMKL) | 2:35 |
 
-Snapshot ID: `MCw0Y2I2ODI2N2QzNDBjNWQ1MWZiZjQxMWI4ZDgyZTc5NmVjMGQ0OTU3`
+Snapshot ID: `MCw4MmUxOGRiYjQ3ZTA3ZDVmYmU5MDI5OWEwODhjMmJkZjI5N2RjNzg4`

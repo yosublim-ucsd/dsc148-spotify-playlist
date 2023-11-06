@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house music, updated every friday\. Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,712 likes - 40 songs - 2 hr 9 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,723 likes - 41 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 38 | [Who's Playing](https://open.spotify.com/track/1ELgCSMAtSPlzp1V82xW5h) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Who's Playing](https://open.spotify.com/album/1nTyqbjzTgp0w4X2GcEQog) | 2:33 |
 | 39 | [Time to Run](https://open.spotify.com/track/4OdYcOJMWqWd7y3LSq0K7D) | [Modapit](https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb) | [Time to Run](https://open.spotify.com/album/2BfG7gr3eZ6rC3FcJyWM9O) | 4:19 |
 | 40 | [Sun Goes Down](https://open.spotify.com/track/08rbuRBxTx39Ppf51TjAFN) | [Nicolas Lacaille](https://open.spotify.com/artist/6NkOSPVA2uRT8CjOADs1Us) | [Sun Goes Down](https://open.spotify.com/album/0fYSpObevgnNk6MLDkwjhG) | 3:01 |
+| 41 | [Listen \- Austin Pettit Remix](https://open.spotify.com/track/09ysaqWecuRW7gGLBrxTDm) | [Stan Kolev](https://open.spotify.com/artist/6MzHMxgYcbj6ue5w9pbNp9), [Austin Pettit](https://open.spotify.com/artist/2hvTEkJIyi0TLuwpRX1awn) | [Listen \[The Remixes\]](https://open.spotify.com/album/2khLaEBxaaisEWt7lGTPg3) | 6:16 |
 
-Snapshot ID: `Nzg1OCw5MDgxYTM2YWVkYjdkZmViMGUwNDZlNjI0MjQ1OTE0OWU5ZmUyZmFj`
+Snapshot ID: `Nzg1OSw3NWY5OTAxMzMxMmJkN2ZiNjE1MDE4MjYzMTliYjEyYjdiYmE0YTc5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: biskuwi
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,941 likes - 89 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,038 likes - 89 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [Show Me A Sign \(Shermanology Remix\) \[feat\. Conquer Jones\]](https://open.spotify.com/track/4bWH7CQYWerk06TvOt4kKu) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Conquer Jones](https://open.spotify.com/artist/07QL1ZOB6Uq7ucRf6poEiW), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Show Me A Sign \(Shermanology Remix\) \[feat\. Conquer Jones\]](https://open.spotify.com/album/1ppi1rMwooZxaY9FuOjhuy) | 3:20 |
 | 89 | [Thirsty](https://open.spotify.com/track/2Buoe3DXKE5VL5w0JCeuQz) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [DJ Friendly](https://open.spotify.com/album/0wrBtOddeFuzNoYO6aLFlx) | 5:11 |
 
-Snapshot ID: `MCwxYmI1ZTFmOTQwYWY5ZTBjZDBjNTQwNjQxNzI5YjgwY2E0MDZjMTc5`
+Snapshot ID: `MCxjOTdlNWEwZjgzMzc5YjIzYjAwZWE3MTEwNDk3OWUxYzg0YTMzYWI5`

@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: ZZ Ward
 
-245 songs - 14 hr 17 min
+246 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Give Praises](https://open.spotify.com/track/6Sa3ga6JEhzguGcmH4cAJV) | [The 32 Golden Souls](https://open.spotify.com/artist/2zDq66Zcl7NcRY1XViXBN8), [Lymie Murray](https://open.spotify.com/artist/6A53ujYIa2XYuZQou20kGI), [Winston McAnuff](https://open.spotify.com/artist/3KnbABMv83BtL1scL56svt) | [Give Praises](https://open.spotify.com/album/60cMUwLJw5peMZnQb0FFP4) | 3:36 | 2022-09-02 |  |
 | [Gone](https://open.spotify.com/track/33hXeP9dCStIHmtUWNepnA) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Gone](https://open.spotify.com/album/2xheRzFSbejr9p1g18pQOu) | 3:02 | 2021-08-30 | 2022-06-19 |
 | [Good for Nothing](https://open.spotify.com/track/5TWEKe4IotZ7WK5sWE3krv) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Good for Nothing](https://open.spotify.com/album/3uflPsxAFtm3IWLcb8yoY5) | 3:10 | 2021-12-17 | 2022-06-19 |
-| [Good Times](https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Good Times](https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx) | 3:14 | 2022-04-08 |  |
+| [Good Times](https://open.spotify.com/track/5cUjDokJ7BpzghS8gcRhWi) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Good Times](https://open.spotify.com/album/4LtBDjPPZbgcinG0qCyuwR) | 3:14 | 2022-04-08 |  |
+| [Good Times](https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Good Times](https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx) | 3:14 | 2022-04-08 | 2023-11-06 |
 | [Grown Folks Love](https://open.spotify.com/track/60Bnlpj51IUFDK7Tcyinii) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Grown Folks Love](https://open.spotify.com/album/4IPV2zybll9xnQg8r1vx6J) | 2:48 | 2023-05-12 |  |
 | [Hey Gringo](https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:44 | 2021-04-23 | 2022-05-07 |
 | [Hits Like Lightning](https://open.spotify.com/track/2LqmcwGSsTg7D97UMr0u0s) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Hits Like Lightning](https://open.spotify.com/album/3OU9uPVaZH8WIXW2lCFd45) | 2:42 | 2022-04-08 |  |

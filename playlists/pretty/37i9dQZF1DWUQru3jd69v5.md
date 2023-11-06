@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Sadturs, KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,516 likes - 49 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,545 likes - 49 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 2 | [Passa Il Tempo \(feat\. Nabi\)](https://open.spotify.com/track/2eVBudzixqw5GDDXy7D9H7) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [OFFLINE](https://open.spotify.com/album/4QjJhfVACjKRN34TYYSDAE) | 3:26 |
 | 3 | [Valentino Rossi](https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Valentino Rossi](https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ) | 1:59 |
 | 4 | [HI TECH \(feat\. Dardan\)](https://open.spotify.com/track/4l2ATeURkBNDMaj1s7cU6U) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [HI TECH \(feat\. Dardan\)](https://open.spotify.com/album/6AajVc17THqnxw38GIWRji) | 2:13 |
-| 5 | [Madame](https://open.spotify.com/track/1YuwtGNJID9U7nfvhTovql) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/44QCkU2JXCsvOfwRHCXCxZ) | 2:13 |
+| 5 | [Madame](https://open.spotify.com/track/0JPyVgLem5a4HcXEADJXg5) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/5di5PgxR4cs1PveHPkgKtr) | 2:13 |
 | 6 | [Salam Alaykum](https://open.spotify.com/track/6LI8B0UaQ70WdO2vlmKQK5) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Salam Alaykum](https://open.spotify.com/album/3ZeuySAYlaZN1QFlWPHIBS) | 3:12 |
 | 7 | [BVLGARI](https://open.spotify.com/track/1WibnlA9JXDEOewy0mr71I) | [R1MKA](https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc) | [BVLGARI](https://open.spotify.com/album/1959Xf6EJPqYLaxFJxsYXD) | 2:24 |
 | 8 | [N.47](https://open.spotify.com/track/4xkvFol7qRPv0OTbOF1iSj) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [N.47](https://open.spotify.com/album/6fUu9JsM3bqDrC6K9SFSlC) | 2:25 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 48 | [Passaggi Di Mano](https://open.spotify.com/track/4J1mgFkAYXbDV2Zm2X1LlB) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Passaggi Di Mano](https://open.spotify.com/album/078xzTGG29Ef2GowUOGWDt) | 2:24 |
 | 49 | [Carhartt \(feat\. Kuremino\)](https://open.spotify.com/track/4SluBeyc807T4WowzQgILG) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [Goss Vinyard](https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Carhartt \(feat\. Kuremino\)](https://open.spotify.com/album/5dlmCQA1unPeHuiwfHatwP) | 2:20 |
 
-Snapshot ID: `MCxlNDBiOTk0ODJjODg0MmMzMGZmMzE3ZDZiMDc5MDk0ZTVmYTlkYzky`
+Snapshot ID: `MCw4ODM4OGY1NDVkZTMxMjEzNzY5NDQyYzI3MmNiYzM1YTNlMjhmZDcz`

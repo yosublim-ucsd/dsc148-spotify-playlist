@@ -1722,7 +1722,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 244693,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4"
@@ -6702,6 +6702,24 @@
       "duration_ms": 173434,
       "name": "I Wish I Was Someone Else",
       "url": "https://open.spotify.com/track/1XWCk0iPODzTX9cNMpFzps"
+    },
+    {
+      "album": {
+        "name": "I Wish I Was Someone Else",
+        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173434,
+      "name": "I Wish I Was Someone Else",
+      "url": "https://open.spotify.com/track/3m5tZaadIfIGzc25Q2QiNV"
     },
     {
       "album": {

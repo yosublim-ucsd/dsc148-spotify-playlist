@@ -4,7 +4,7 @@
 
 > Over 5 hours of classic heaters 🔥
 
-108 songs - 5 hr 47 min
+109 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Make Me Feel Good](https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Me Feel Good](https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi) | 3:17 | 2023-05-16 |  |
 | [Make Your Move](https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF) | [Make Your Move](https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq) | 2:48 | 2023-05-16 |  |
 | [Me & U \(feat\. Kelsey\)](https://open.spotify.com/track/45iBqrcycpuwrqxbTEyLGa) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Kelsey](https://open.spotify.com/artist/1hr92eQ2ZzoZHa6aUeIye5) | [Me & U \(feat\. Kelsey\)](https://open.spotify.com/album/28LlrkMOdET1kQfi6RP7HO) | 3:30 | 2023-05-16 |  |
-| [Memories \(feat\. Kid Cudi\)](https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:30 | 2023-05-16 |  |
+| [Memories \(feat\. Kid Cudi\)](https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:30 | 2023-05-16 | 2023-11-06 |
+| [Memories \(feat\. Kid Cudi\)](https://open.spotify.com/track/5xYC48nOppVemY6U5GRGTb) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:30 | 2023-09-05 |  |
 | [Million Voices \- Radio Edit](https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 3:12 | 2023-05-16 |  |
 | [My Head Is A Jungle](https://open.spotify.com/track/2aoShPqc0QRhzDVrNoKB1h) | [sysx1337](https://open.spotify.com/artist/7o1sl0E7S8pf7E8YETeBZD), [Shamoryo](https://open.spotify.com/artist/5ypoEsxvCfwoM8dWqpRQhq) | [My Head Is A Jungle](https://open.spotify.com/album/4vm22Z5zpdFdcn3E1AxC9f) | 3:26 | 2023-05-16 | 2023-05-23 |
 | [My Head Is A Jungle \(MK Remix\)](https://open.spotify.com/track/0BqGOXOlhbxZ0qEDTEEYjG) | [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg) | [My Head Is A Jungle \(MK Remix\)](https://open.spotify.com/album/7C15SGQEeYhm2EN05O9KBU) | 3:25 | 2023-05-16 | 2023-06-29 |

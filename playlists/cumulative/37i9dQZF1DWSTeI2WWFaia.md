@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Westside Gunn
 
-558 songs - 1 day 5 hr 36 min
+559 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [DEATHFAME](https://open.spotify.com/track/30jfHyUlszF66IV2xlp8BM) | [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi) | [Deathfame](https://open.spotify.com/album/3gNLleI1petZq52QmMkcNW) | 3:25 | 2022-06-10 | 2022-07-26 |
 | [Decoded \(feat\. Scarface\)](https://open.spotify.com/track/56fofPwaABXBc5qHGkxacV) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:14 | 2022-09-30 | 2023-02-18 |
 | [Deebo](https://open.spotify.com/track/0oVkNzVdwPeaGytgc55v4o) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Black Habits \(Deluxe\)](https://open.spotify.com/album/0WkqYoTVOLg2ady3z0vusJ) | 2:30 | 2022-04-01 | 2022-04-20 |
+| [DeNiro & Pesci](https://open.spotify.com/track/1FJWjfuUpgm8Amd9Wg5Gt3) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8) | [DeNiro & Pesci](https://open.spotify.com/album/0FH0RTdtqMNg8dtXmM785x) | 2:55 | 2023-11-03 |  |
 | [Derrick Boleman](https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 3:34 | 2022-07-08 | 2022-10-31 |
 | [Devil's Work 2](https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Devil's Work 2](https://open.spotify.com/album/54LfEBAO7J0GYfR9YH3hUr) | 5:01 | 2023-03-10 | 2023-07-08 |
 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 | 2022-02-08 | 2022-10-01 |
@@ -490,7 +491,7 @@
 | [Tetris](https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Tetris](https://open.spotify.com/album/3ybxNYXKxSUKMuZOuwJPc5) | 2:04 | 2022-04-29 | 2022-07-21 |
 | [Tetris](https://open.spotify.com/track/7tQpKKS4Jis0pCotemeLdz) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 2:04 | 2022-07-15 | 2022-10-01 |
 | [Thanksgiving](https://open.spotify.com/track/3nZD0cDcEiz8rqK48SYhgn) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Thanksgiving](https://open.spotify.com/album/6slT6nHyQrMQaUj2jMl52i) | 2:30 | 2021-09-03 | 2022-03-18 |
-| [That's Tuff!](https://open.spotify.com/track/0c2DtieVbDxUUf1lxpBJLX) | [Kwajo](https://open.spotify.com/artist/7yPxEd332R2RPIbaexg5Y6), [Tal Cohen](https://open.spotify.com/artist/3vnyQqnb4LP5Wmt3qUUstR) | [Spleck](https://open.spotify.com/album/05pZKIa1i7qGQL7AfQrm8X) | 3:07 | 2023-11-03 |  |
+| [That's Tuff!](https://open.spotify.com/track/0c2DtieVbDxUUf1lxpBJLX) | [Kwajo](https://open.spotify.com/artist/7yPxEd332R2RPIbaexg5Y6), [Tal Cohen](https://open.spotify.com/artist/3vnyQqnb4LP5Wmt3qUUstR) | [Spleck](https://open.spotify.com/album/05pZKIa1i7qGQL7AfQrm8X) | 3:07 | 2023-11-03 | 2023-11-06 |
 | [The Black Slim Shady](https://open.spotify.com/track/42DZT2eoL7rJBw21f3sb0h) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 10:25 | 2022-08-19 | 2022-09-03 |
 | [The Caliphate \(feat\. Vince Staples\)](https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [The Caliphate \(feat\. Vince Staples\)](https://open.spotify.com/album/3MIxWOJ1dM0H5mO4p6OXGD) | 3:50 | 2023-09-15 |  |
 | [The Chosen](https://open.spotify.com/track/1Zo6ZeUSMDTrYICaunEW4y) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Jae Skeese](https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ) | [The Chosen](https://open.spotify.com/album/1Xbrko0o19AaO2GzsNbWRE) | 2:55 | 2023-04-28 | 2023-05-13 |

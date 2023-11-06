@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y c\u1ee7a rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en",
-  "num_followers": 80687,
+  "num_followers": 80781,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2NiZWNhMGZmYjY3NzY4YTBmYmRkZGQ0ZDU0ZWIxY2Q1NWFiMjg5",
+  "snapshot_id": "MCxiYmI0YjE4OWI1ODdlMGFmYzdmMTFkZGY2ZTUwMTNjZDllZWMwM2Qy",
   "tracks": [
     {
       "added_at": "2023-10-19 04:21:35",
@@ -85,28 +85,24 @@
       "url": "https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7"
     },
     {
-      "added_at": "2023-11-02 13:00:00",
+      "added_at": "2023-10-19 04:21:35",
       "album": {
-        "name": "\u0110an Xinh In Love",
-        "url": "https://open.spotify.com/album/3e5xMNYYXwVCpLwxUJDud5"
+        "name": "N\u1ea5u \u0103n cho em",
+        "url": "https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t"
       },
       "artists": [
         {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
         },
         {
-          "name": "Gonzo",
-          "url": "https://open.spotify.com/artist/3Ib80uqrBka6P4ncx6vJRF"
-        },
-        {
-          "name": "Nomovodka",
-          "url": "https://open.spotify.com/artist/79BbybQeUyNyFB8ghq4neb"
+          "name": "PiaLinh",
+          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
         }
       ],
-      "duration_ms": 251034,
-      "name": "Men Cry (feat. Gonzo & Nomovodka)",
-      "url": "https://open.spotify.com/track/7Jz4a41gsJnaEH7FxgaEGR"
+      "duration_ms": 241340,
+      "name": "N\u1ea5u \u0103n cho em",
+      "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
     },
     {
       "added_at": "2023-10-19 04:21:35",
@@ -255,46 +251,6 @@
     {
       "added_at": "2023-10-19 04:21:35",
       "album": {
-        "name": "N\u1ea5u \u0103n cho em",
-        "url": "https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t"
-      },
-      "artists": [
-        {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
-        },
-        {
-          "name": "PiaLinh",
-          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
-        }
-      ],
-      "duration_ms": 241340,
-      "name": "N\u1ea5u \u0103n cho em",
-      "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
-    },
-    {
-      "added_at": "2023-10-19 04:21:35",
-      "album": {
-        "name": "Ch\u00ecm S\u00e2u",
-        "url": "https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "Trung Tr\u1ea7n",
-          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Ch\u00ecm S\u00e2u",
-      "url": "https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH"
-    },
-    {
-      "added_at": "2023-10-19 04:21:35",
-      "album": {
         "name": "3 1 0 7 (feat. Duongg & N\u00e2u)",
         "url": "https://open.spotify.com/album/35lcJMXPJ00gMqMdKo7iFK"
       },
@@ -319,6 +275,46 @@
     {
       "added_at": "2023-10-19 04:21:35",
       "album": {
+        "name": "Ch\u00ecm S\u00e2u",
+        "url": "https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Trung Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Ch\u00ecm S\u00e2u",
+      "url": "https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH"
+    },
+    {
+      "added_at": "2023-10-19 04:21:35",
+      "album": {
+        "name": "\u0110\u00e1nh \u0110\u1ed5i",
+        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
+      },
+      "artists": [
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        },
+        {
+          "name": "Shiki",
+          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
+        }
+      ],
+      "duration_ms": 224175,
+      "name": "Tell the kids i love them (ft. Shiki)",
+      "url": "https://open.spotify.com/track/2UtFCtiSoc30GJ4MUcHDKr"
+    },
+    {
+      "added_at": "2023-10-19 04:21:35",
+      "album": {
         "name": "\u0110\u00e1nh \u0110\u1ed5i",
         "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
       },
@@ -337,6 +333,22 @@
       "url": "https://open.spotify.com/track/0SLhB9JLM4Ksz1XdwK3aQD"
     },
     {
+      "added_at": "2023-11-02 15:50:41",
+      "album": {
+        "name": "M\u1eddi Ng\u01b0\u1eddi K\u1ebf Ti\u1ebfp",
+        "url": "https://open.spotify.com/album/4Bv4yCjXhMtvZSfpqeT49W"
+      },
+      "artists": [
+        {
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+        }
+      ],
+      "duration_ms": 192022,
+      "name": "M\u1eddi Ng\u01b0\u1eddi K\u1ebf Ti\u1ebfp",
+      "url": "https://open.spotify.com/track/1LbwyRBfBWzjjl7dSykk9Z"
+    },
+    {
       "added_at": "2023-10-19 04:21:35",
       "album": {
         "name": "\u00e1i",
@@ -351,22 +363,6 @@
       "duration_ms": 147475,
       "name": "ng\u01b0\u1eddi \u0111i\u00ean",
       "url": "https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk"
-    },
-    {
-      "added_at": "2023-10-19 04:21:35",
-      "album": {
-        "name": "Nghe Nh\u01b0 T\u00ecnh Y\u00eau",
-        "url": "https://open.spotify.com/album/0sZdkAO0Feo6xjbn8DUJVD"
-      },
-      "artists": [
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        }
-      ],
-      "duration_ms": 193049,
-      "name": "Nghe Nh\u01b0 T\u00ecnh Y\u00eau",
-      "url": "https://open.spotify.com/track/769IjpjHNrN36SPvj2ZBKu"
     },
     {
       "added_at": "2023-10-19 04:21:35",
@@ -439,38 +435,18 @@
     {
       "added_at": "2023-10-19 04:21:35",
       "album": {
-        "name": "\u0110\u00e1nh \u0110\u1ed5i",
-        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
+        "name": "Nghe Nh\u01b0 T\u00ecnh Y\u00eau",
+        "url": "https://open.spotify.com/album/0sZdkAO0Feo6xjbn8DUJVD"
       },
       "artists": [
         {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
-        },
-        {
-          "name": "Shiki",
-          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
         }
       ],
-      "duration_ms": 224175,
-      "name": "Tell the kids i love them (ft. Shiki)",
-      "url": "https://open.spotify.com/track/2UtFCtiSoc30GJ4MUcHDKr"
-    },
-    {
-      "added_at": "2023-10-19 04:21:35",
-      "album": {
-        "name": "\u00e1i",
-        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
-      },
-      "artists": [
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 133784,
-      "name": "t\u00ecnh y\u00eau c\u00f3 ngh\u0129a l\u00e0 g\u00ec?",
-      "url": "https://open.spotify.com/track/1Vla7vXcM0zimotYpresDT"
+      "duration_ms": 193049,
+      "name": "Nghe Nh\u01b0 T\u00ecnh Y\u00eau",
+      "url": "https://open.spotify.com/track/769IjpjHNrN36SPvj2ZBKu"
     },
     {
       "added_at": "2023-10-19 04:21:35",
@@ -487,6 +463,22 @@
       "duration_ms": 269021,
       "name": "Th\u1ee9c Gi\u1ea5c",
       "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
+    },
+    {
+      "added_at": "2023-10-19 04:21:35",
+      "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "duration_ms": 133784,
+      "name": "t\u00ecnh y\u00eau c\u00f3 ngh\u0129a l\u00e0 g\u00ec?",
+      "url": "https://open.spotify.com/track/1Vla7vXcM0zimotYpresDT"
     },
     {
       "added_at": "2023-10-19 04:21:35",
@@ -511,26 +503,6 @@
     {
       "added_at": "2023-10-19 04:21:35",
       "album": {
-        "name": "Ai C\u0169ng Ph\u1ea3i B\u1eaft \u0110\u1ea7u T\u1eeb \u0110\u00e2u \u0110\u00f3",
-        "url": "https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u"
-      },
-      "artists": [
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        },
-        {
-          "name": "marzuz",
-          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
-        }
-      ],
-      "duration_ms": 201589,
-      "name": "Exit Sign",
-      "url": "https://open.spotify.com/track/3UX7FjJDl6RodnWekzFwEB"
-    },
-    {
-      "added_at": "2023-10-19 04:21:35",
-      "album": {
         "name": "\u0110i V\u1ec1 Nh\u00e0",
         "url": "https://open.spotify.com/album/7C3WHnNZ5zcUutPtsB7KjD"
       },
@@ -547,6 +519,26 @@
       "duration_ms": 200000,
       "name": "\u0110i V\u1ec1 Nh\u00e0",
       "url": "https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt"
+    },
+    {
+      "added_at": "2023-10-19 04:21:35",
+      "album": {
+        "name": "Ai C\u0169ng Ph\u1ea3i B\u1eaft \u0110\u1ea7u T\u1eeb \u0110\u00e2u \u0110\u00f3",
+        "url": "https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "marzuz",
+          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
+        }
+      ],
+      "duration_ms": 201589,
+      "name": "Exit Sign",
+      "url": "https://open.spotify.com/track/3UX7FjJDl6RodnWekzFwEB"
     },
     {
       "added_at": "2023-10-19 04:21:35",
@@ -911,22 +903,6 @@
     {
       "added_at": "2023-10-19 04:21:35",
       "album": {
-        "name": "Y\u00eau 5",
-        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
-      },
-      "artists": [
-        {
-          "name": "Rhymastic",
-          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Y\u00eau 5",
-      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
-    },
-    {
-      "added_at": "2023-10-19 04:21:35",
-      "album": {
         "name": "Blue Tequila",
         "url": "https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU"
       },
@@ -939,6 +915,22 @@
       "duration_ms": 202624,
       "name": "Blue Tequila",
       "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
+    },
+    {
+      "added_at": "2023-10-19 04:21:35",
+      "album": {
+        "name": "Y\u00eau 5",
+        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
+      },
+      "artists": [
+        {
+          "name": "Rhymastic",
+          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Y\u00eau 5",
+      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
     },
     {
       "added_at": "2023-10-19 04:21:35",

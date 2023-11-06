@@ -4,7 +4,7 @@
 
 > A levantar polvadera con lo mejor de la música de sax\. Los Primos del Este en portada.
 
-107 songs - 5 hr 38 min
+108 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,8 +81,9 @@
 | [Para Que No Te Acuerdes](https://open.spotify.com/track/0TWn1HjLio4jhaka6rUe2v) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Para Que No Te Acuerdes](https://open.spotify.com/album/3shHERdaWkHmrHloMSHbCg) | 2:54 | 2023-05-05 | 2023-09-30 |
 | [Piquetitos](https://open.spotify.com/track/6G2VETYnLl1Psobu809yQY) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Un Sueño](https://open.spotify.com/album/3Qx23oTyQnS2tYthd6ihEs) | 3:08 | 2023-03-06 |  |
 | [Pobre Corazón](https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8) | [Conjunto Relincho](https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Pobre Corazón](https://open.spotify.com/album/4rJVWswYNiKmh9HVB3WXxd) | 4:00 | 2023-07-14 |  |
+| [Por las Noches](https://open.spotify.com/track/0p8lGoIPQESNxb79UOt80R) | [La Zona X](https://open.spotify.com/artist/6CREnDoHW0llPJeNfOJYUI) | [On The Road](https://open.spotify.com/album/1ix9kL2uDaBIf1HDhiSLhG) | 2:52 | 2023-09-29 |  |
 | [Por Las Noches](https://open.spotify.com/track/2GD55mkAhSzw6dKFJR6A7H) | [La Zona X](https://open.spotify.com/artist/6CREnDoHW0llPJeNfOJYUI), [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Por Las Noches](https://open.spotify.com/album/1qrllTt5txCvAzOUx25gMS) | 2:52 | 2023-05-19 | 2023-06-01 |
-| [Por las Noches](https://open.spotify.com/track/468QGXzfE7d46DeJ7ncjGz) | [La Zona X](https://open.spotify.com/artist/6CREnDoHW0llPJeNfOJYUI), [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Por las Noches](https://open.spotify.com/album/1FZvdjfWsyqKBDFlRWPTfP) | 2:52 | 2023-05-19 |  |
+| [Por las Noches](https://open.spotify.com/track/468QGXzfE7d46DeJ7ncjGz) | [La Zona X](https://open.spotify.com/artist/6CREnDoHW0llPJeNfOJYUI), [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Por las Noches](https://open.spotify.com/album/1FZvdjfWsyqKBDFlRWPTfP) | 2:52 | 2023-05-19 | 2023-11-06 |
 | [Pídeme](https://open.spotify.com/track/1diebTiolD8N22iuOfmvSy) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Pídeme](https://open.spotify.com/album/1TGPYyBwqTXBovx6vxjJ9t) | 3:27 | 2023-03-06 |  |
 | [Que Voy A Hacer Con Mi Amor](https://open.spotify.com/track/5rgcyEhTnv8Lc92NQ9bgkL) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Que Voy A Hacer Con Mi Amor](https://open.spotify.com/album/0CfMME8cZVpXWZ0nUhnFPs) | 2:29 | 2023-07-14 | 2023-09-30 |
 | [Quiero Saber de Ti](https://open.spotify.com/track/5EYvfSYETZF8vBAuQV9OET) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Nunca Imaginé](https://open.spotify.com/album/4rGVMonf0nBGkWWR8nnuEL) | 3:52 | 2023-03-06 |  |

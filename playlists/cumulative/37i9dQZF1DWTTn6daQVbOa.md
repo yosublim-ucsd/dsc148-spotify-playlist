@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1970s\. Cover: Elton John
 
-289 songs - 18 hr 34 min
+290 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Rock with You \- Single Version](https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:40 | 2021-04-22 |  |
 | [Rocket Man \(I Think It's Going To Be A Long, Long Time\)](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 4:41 | 2021-04-22 |  |
 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:43 | 2021-04-22 |  |
-| [Sad Eyes \- Remastered 2002](https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog) | [Robert John](https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ) | [Classic Masters](https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo) | 4:13 | 2021-04-22 |  |
+| [Sad Eyes \- Remastered 2002](https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog) | [Robert John](https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ) | [Classic Masters](https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo) | 4:13 | 2021-04-22 | 2023-11-06 |
 | [Sail On](https://open.spotify.com/track/2XMjijS8aVAP1ztyNpVEy8) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [All The Great Love Songs](https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o) | 4:00 | 2022-09-23 |  |
 | [Sail On](https://open.spotify.com/track/71Py1OGkgBQVTHa0aUyG4y) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [All The Great Love Songs](https://open.spotify.com/album/1M2c57R5rPEqZzTzh2yooj) | 4:00 | 2021-04-22 | 2022-07-29 |
 | [Sealed with a Kiss](https://open.spotify.com/track/26mlDJoh5bQiC7efK7xq9z) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [Sealed With A Kiss](https://open.spotify.com/album/5q8NaDLTXTNHtAmROLoQeF) | 2:49 | 2021-04-22 | 2022-04-20 |
@@ -252,6 +252,7 @@
 | [Three Times A Lady](https://open.spotify.com/track/4ztwMHfPZhPoruZdBbgriM) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [All The Great Love Songs](https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o) | 3:37 | 2021-04-22 |  |
 | [Three Times A Lady \- Single Version](https://open.spotify.com/track/4kaBnHk9bo1x9NlxU4Q2hG) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Very Best Of The Commodores](https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn) | 3:36 | 2021-04-22 | 2022-07-29 |
 | [Time in a Bottle](https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy) | 2:26 | 2021-04-22 | 2023-11-04 |
+| [Time in a Bottle](https://open.spotify.com/track/6FlNxt8Mw5ki0Ccjt2mNWJ) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [The Original Albums…Plus](https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu) | 2:28 | 2022-09-23 |  |
 | [Times Of Your Life](https://open.spotify.com/track/3AdX0KdVoMBqe82b19rWAU) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Feelings](https://open.spotify.com/album/0lbELQG6SSHy7LvBttGF2d) | 3:15 | 2021-04-22 | 2022-07-29 |
 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 | 2021-04-22 |  |
 | [Too Much Heaven](https://open.spotify.com/track/6T5GTy1l6dRmagqpNPjdoc) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Spirits Having Flown](https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm) | 4:56 | 2021-04-22 |  |

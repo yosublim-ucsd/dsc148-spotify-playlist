@@ -2945,6 +2945,28 @@
     },
     {
       "album": {
+        "name": "Boom Kah (feat. Gasellit) [Vain el\u00e4m\u00e4\u00e4 kausi 14]",
+        "url": "https://open.spotify.com/album/4hh0ymRJGAZZbDmEQ0hphX"
+      },
+      "artists": [
+        {
+          "name": "H\u00e4t\u00e4-Miikka",
+          "url": "https://open.spotify.com/artist/7DrOSQztawCu1w7Ni8uMZK"
+        },
+        {
+          "name": "Gasellit",
+          "url": "https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF"
+        }
+      ],
+      "date_added": "2023-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162928,
+      "name": "Boom Kah (feat. Gasellit) - Vain el\u00e4m\u00e4\u00e4 kausi 14",
+      "url": "https://open.spotify.com/track/0iUJbklRVkIJ9iPkhsr8gu"
+    },
+    {
+      "album": {
         "name": "Bored",
         "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
       },
@@ -3644,7 +3666,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
@@ -10661,6 +10683,24 @@
     },
     {
       "album": {
+        "name": "Ihan helmi (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
+        "url": "https://open.spotify.com/album/3kbG1zQXJKDDwJovaWtxTW"
+      },
+      "artists": [
+        {
+          "name": "JANNA",
+          "url": "https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3"
+        }
+      ],
+      "date_added": "2023-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201404,
+      "name": "Ihan helmi - Vain el\u00e4m\u00e4\u00e4 kausi 14",
+      "url": "https://open.spotify.com/track/396KiDHDV0wqARQv7yj8Tf"
+    },
+    {
+      "album": {
         "name": "Ihana kipu",
         "url": "https://open.spotify.com/album/3XxoOZ0yPeoig9wjK31bR7"
       },
@@ -12672,7 +12712,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 188130,
       "name": "Kaks nimee",
       "url": "https://open.spotify.com/track/50pA8yCdGu3vCn2ThG4ctV"
@@ -16860,7 +16900,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 150487,
       "name": "Maailman ymp\u00e4ri",
       "url": "https://open.spotify.com/track/0Md23O27tBkiiuzsCTetpl"
@@ -20584,7 +20624,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 248333,
       "name": "Now And Then",
       "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
@@ -20906,7 +20946,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 231137,
       "name": "Oispa Gasellit",
       "url": "https://open.spotify.com/track/6KWqTgvnmd5LHVJ0Zq1aWE"
@@ -23244,7 +23284,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 158321,
       "name": "Purjehtija",
       "url": "https://open.spotify.com/track/3NnWBahFgXNI7ICnETZEkP"
@@ -27766,7 +27806,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 171872,
       "name": "S\u00e4 et ole hullu - Vain el\u00e4m\u00e4\u00e4 kausi 14",
       "url": "https://open.spotify.com/track/1gn4yOS6xUYMtMf4F6ApAv"
@@ -30884,7 +30924,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-06",
       "duration_ms": 84857,
       "name": "VENAA (mul on ongelma)",
       "url": "https://open.spotify.com/track/184SCXHn6goKw51RgExVcQ"
