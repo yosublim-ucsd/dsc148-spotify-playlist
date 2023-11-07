@@ -30495,6 +30495,28 @@
     },
     {
       "album": {
+        "name": "Spalarkle",
+        "url": "https://open.spotify.com/album/6Hhdo0OvNA7iuFw4uvmil5"
+      },
+      "artists": [
+        {
+          "name": "felicita",
+          "url": "https://open.spotify.com/artist/6GmZBJpAV2nkNPFbF64QcX"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246654,
+      "name": "Spalarkle (Alys)",
+      "url": "https://open.spotify.com/track/4N19YTJ4RcOve6wzSWYINm"
+    },
+    {
+      "album": {
         "name": "insignia's manor",
         "url": "https://open.spotify.com/album/4cGpcf400VAqKAIBeFeB9a"
       },

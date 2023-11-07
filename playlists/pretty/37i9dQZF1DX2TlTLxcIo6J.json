@@ -1,13 +1,101 @@
 {
-  "description": "From across the globe. New Songwriters on the horizon. Cover: <a href=\"https://artists.spotify.com/songwriter/0Na8xJd70B204c85CX7s7K\">Alessandro La Cava</a>",
-  "num_followers": 5416,
+  "description": "From across the globe. New Songwriters on the horizon. Cover: <a href=\"https://artists.spotify.com/songwriter/0ZY43VwD4Dvf0ZO9SwivN5\">Valentina Rico</a>",
+  "num_followers": 5435,
   "original_name": "RADAR Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODY5MmFlZDI2ODM5OTE2NDMwOTU0ZGNhMTM2MDYwOGI2NmVhOTNm",
+  "snapshot_id": "MCxkNzQzMzhlZTM0MzkyNTk5NjZkNGRhZDQ1NjUwN2NiNTAxMjA4NTk3",
   "tracks": [
+    {
+      "added_at": "2023-11-06 20:01:00",
+      "album": {
+        "name": "Si Te Soy M\u00e1s Sincera",
+        "url": "https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 212698,
+      "name": "Nuez",
+      "url": "https://open.spotify.com/track/4xNsLmMkJW8dq9b8NMDAm5"
+    },
+    {
+      "added_at": "2023-11-06 20:01:00",
+      "album": {
+        "name": "20 A\u00f1os Contigo",
+        "url": "https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "Vuelve, Vuelve",
+      "url": "https://open.spotify.com/track/7wNLoMwhGrGBsFozJrzUlg"
+    },
+    {
+      "added_at": "2023-11-06 20:01:00",
+      "album": {
+        "name": "Nada de Nada",
+        "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Nada de Nada",
+      "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
+    },
+    {
+      "added_at": "2023-11-06 20:01:00",
+      "album": {
+        "name": "La Ni\u00f1a XXL",
+        "url": "https://open.spotify.com/album/3EcUGvI4ePuIEzzBg1GUSC"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 179912,
+      "name": "Toy Story",
+      "url": "https://open.spotify.com/track/5NYWJiGd4Qnej6kvPnH1sR"
+    },
+    {
+      "added_at": "2023-11-06 20:01:00",
+      "album": {
+        "name": "Aunque No Sea Conmigo",
+        "url": "https://open.spotify.com/album/1nv68APHpQMhYtlqln442M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 179648,
+      "name": "Aunque No Sea Conmigo",
+      "url": "https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb"
+    },
     {
       "added_at": "2023-10-05 08:37:41",
       "album": {

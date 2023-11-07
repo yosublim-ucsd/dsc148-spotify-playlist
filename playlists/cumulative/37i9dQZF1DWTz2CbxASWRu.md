@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-385 songs - 1 day 4 hr 20 min
+386 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Exodus](https://open.spotify.com/track/3UuqC9dKWG0bLu6TrPIe4F) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 7:40 | 2023-07-10 |  |
 | [Fantastic Man](https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 6:26 | 2023-07-10 |  |
 | [Feel da Fayah](https://open.spotify.com/track/2viGSjnyloxhBaVA5JXXnx) | [La Inedita](https://open.spotify.com/artist/0iazHkXB3jfE8iVb1IV5AF) | [Feel da Fayah](https://open.spotify.com/album/0FgRpGEp4MAPo34WAPZb9y) | 2:26 | 2023-07-10 |  |
-| [Feel Good \(feat\. Khruangbin\) \- Edit](https://open.spotify.com/track/5EhyJGUafXNnPniaIQnSER) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Feel Good \(feat\. Khruangbin\)](https://open.spotify.com/album/1UsruEVoYrg43BOPvwAHry) | 3:37 | 2023-07-10 |  |
+| [Feel Good \(feat\. Khruangbin\) \- Edit](https://open.spotify.com/track/5EhyJGUafXNnPniaIQnSER) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Feel Good \(feat\. Khruangbin\)](https://open.spotify.com/album/1UsruEVoYrg43BOPvwAHry) | 3:37 | 2023-07-10 | 2023-11-07 |
 | [Flores y Tamales](https://open.spotify.com/track/6gucJfZpSTJp3g0Do75dgM) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [The Thread That Keeps Us \(Deluxe Edition\)](https://open.spotify.com/album/5Ws4bwfBSjDopuj2oUISaU) | 2:48 | 2023-07-10 |  |
 | [Floricanto](https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 4:10 | 2023-07-10 |  |
 | [Footsteps](https://open.spotify.com/track/6LN5AQcUWItYKTSwJPFIWy) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:51 | 2023-07-10 |  |
@@ -299,6 +299,7 @@
 | [Qué vendrá](https://open.spotify.com/track/1Om2ZfnIx2dueS6LcMzlyO) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Effet miroir](https://open.spotify.com/album/5aM8gkw3dJQ7XSc2Uq8g8a) | 2:58 | 2023-07-10 |  |
 | [Redemption Song](https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:53 | 2023-07-10 |  |
 | [Redención \(feat\. Angá Díaz, Amadito Valdés, Carlos González & Manuel Galbán\)](https://open.spotify.com/track/7zJ4CxDxMHaO6fIHey0iMG) | [Orlando "Cachaíto" López](https://open.spotify.com/artist/46NzAs7obt30YFHdDt0O2m), [Angá Diaz](https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz), [Amadito Valdés](https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D), [Carlos Gonzalez](https://open.spotify.com/artist/4yBGwLykrZ7TsKLIepDxYJ), [Manuel Galbán](https://open.spotify.com/artist/5uG50qso5XAfxs6BeXdnld) | [Cachaito](https://open.spotify.com/album/6ZJvZAcBuJjkuq2KZHJYCS) | 4:50 | 2023-07-10 | 2023-11-04 |
+| [Redención \(feat\. Angá Díaz, Amadito Valdés, Carlos González & Manuel Galbán\)](https://open.spotify.com/track/4NN5IrRr7sji3QimhwzZcr) | [Orlando "Cachaíto" López](https://open.spotify.com/artist/46NzAs7obt30YFHdDt0O2m), [Angá Diaz](https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz), [Amadito Valdés](https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D), [Carlos Gonzalez](https://open.spotify.com/artist/4yBGwLykrZ7TsKLIepDxYJ), [Manuel Galbán](https://open.spotify.com/artist/5uG50qso5XAfxs6BeXdnld) | [Cachaito](https://open.spotify.com/album/46lsKMxwjR0uLeTZJl6gFn) | 4:50 | 2023-07-10 |  |
 | [Respiração](https://open.spotify.com/track/0E4zeEDvhfg0XuPYn70NMx) | [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [We Saw Blue](https://open.spotify.com/album/7chq6VXsRNWMf5s5SH2z9T) | 3:15 | 2023-07-10 |  |
 | [Rojo Carmín](https://open.spotify.com/track/1Mc4emiQC31XYufQGRcnAr) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb) | [Newen Afrobeat](https://open.spotify.com/album/7pZPR1shvyc15uXqC0fVVv) | 4:56 | 2023-07-10 |  |
 | [Ruby](https://open.spotify.com/track/37IbDeC2CfODD3OGcAO8Vd) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH) | 5:55 | 2023-07-10 |  |

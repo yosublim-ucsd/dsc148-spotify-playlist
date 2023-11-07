@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Fruits of the Harvest 432 Hz (Piano)",
+        "url": "https://open.spotify.com/album/4AZFWxNOHsHIWfDKkI15f8"
+      },
+      "artists": [
+        {
+          "name": "Jaime Jacobs",
+          "url": "https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134693,
+      "name": "Fruits of the Harvest 432 Hz - Piano",
+      "url": "https://open.spotify.com/track/6XIpwHcF7w11Q8OEcwKTUs"
+    },
+    {
+      "album": {
         "name": "Get To Know You",
         "url": "https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz"
       },

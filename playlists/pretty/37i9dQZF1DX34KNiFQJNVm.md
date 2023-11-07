@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Hariel, Xamã e Major RD, The Beatles, Lucas Lucco e Lauana Prado e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,917,953 likes - 89 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,917,982 likes - 89 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 34 | [Numa Cidade Muito Longe Daqui \- Ao Vivo](https://open.spotify.com/track/0Lw7RW3BebEmzUMBC8GFqG) | [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q), [Mc Max](https://open.spotify.com/artist/3eCFjjDBb2VCcFADfzFKD3) | [Numa Cidade Muito Longe Daqui \(Ao Vivo\)](https://open.spotify.com/album/7G5PQgwhvVo0Ks5kWyu6GS) | 4:01 |
 | 35 | [Casalzão](https://open.spotify.com/track/7yQ6RKQ7WSEBOTGOHTg8Zu) | [Aballou](https://open.spotify.com/artist/6m74mx1iisfZQ2RUgQnkjk), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Casalzão](https://open.spotify.com/album/5GA2JSohc03dLDN13V1Fg9) | 2:55 |
 | 36 | [Cães & Fogos](https://open.spotify.com/track/45wFv5zyrIumgSYb4bpLpF) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Torha](https://open.spotify.com/artist/0qTWpm6bIsQteve5t3Cyqg) | [Cães & Fogos](https://open.spotify.com/album/4aOwl45iVsDnB9xZKaA7P7) | 4:08 |
-| 37 | [Lembrar de Você](https://open.spotify.com/track/2svYjzzHXvUcW6dMJHm8qm) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Romântico, Pt\. 1](https://open.spotify.com/album/7iGK5BUubDY6GZrxADD9Gy) | 2:04 |
+| 37 | [Lembrar de Você](https://open.spotify.com/track/2svYjzzHXvUcW6dMJHm8qm) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Suarez](https://open.spotify.com/artist/2IQGi2QDVAYaIPRER0Pzrd) | [Romântico, Pt\. 1](https://open.spotify.com/album/7iGK5BUubDY6GZrxADD9Gy) | 2:04 |
 | 38 | [Xuxu](https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Xuxu](https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O) | 2:52 |
 | 39 | [Vasto Litoral](https://open.spotify.com/track/08UckTcTh162R7w90ZjNbj) | [Maskavo](https://open.spotify.com/artist/4wvAGBushcLkCZ1lEZsYMf) | [Terra Multicor](https://open.spotify.com/album/25hJpudGnOWOa8L61OT0No) | 3:46 |
 | 40 | [SINISTRO](https://open.spotify.com/track/5el598sUlXakm1lmy4MboR) | [Tvlyssxn](https://open.spotify.com/artist/05heTCx2RPHzKtw4GTtwny), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [SINISTRO](https://open.spotify.com/album/21QuyqSUWN9Yu13mVDDgdr) | 1:51 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 88 | [Problemão](https://open.spotify.com/track/1Mmy9LHPZQ8dC4uHxNqVuh) | [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs) | [Problemão](https://open.spotify.com/album/7GrORnwPrNSWqhlMulKxW7) | 2:28 |
 | 89 | [Te Esquecer É Impossível \(Not That Different\) \- Ao Vivo](https://open.spotify.com/track/3v9jJJM4ln4x9Kap8aOsnV) | [Patrícia & Adriana](https://open.spotify.com/artist/0ygrwj3UeDfNrxhPDtSCe2) | [Moagem Em Casa \(Ao Vivo\)](https://open.spotify.com/album/7sKu2jSxWIEkeIHj8TgYUG) | 4:24 |
 
-Snapshot ID: `MCw3MzQxYjQ2ODcxMDExOGU4NWQxNjRlOGYzNjc3OWExYTZiZTU1MGNm`
+Snapshot ID: `MCxlMGYzOGRkNjZhNzJlMDU1N2Q5MzZiM2IzMzQyOGZiNGFlZmNiZmRj`

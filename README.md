@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6949\)
+## Playlists \(6951\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -194,7 +194,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [2009](/playlists/pretty/1fLy5EE5473UueC82LvQub.md)
 - [2010](/playlists/pretty/2eCpwX876ZuWtIsZweYMnr.md)
 - [2010s Country](/playlists/pretty/37i9dQZF1DWXdiK4WAVRUW.md)
-- [2010s POP HITS \| TOP 100 SONGS 🔥](/playlists/pretty/1tPWTwuxOLsE2Do1JQSUxA.md)
+- [2010s HITS \| TOP 100 SONGS 🔥](/playlists/pretty/1tPWTwuxOLsE2Do1JQSUxA.md)
 - [2010년대 베스트](/playlists/pretty/37i9dQZF1DX4winw66sZTE.md)
 - [2011](/playlists/pretty/0BXZJ6BiA151CzaMcTKPMN.md)
 - [2012](/playlists/pretty/7z2Wo5a21ENb24YGcEdoTE.md)
@@ -997,6 +997,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [COUNTER//CULTURE: KennyHoopla](/playlists/pretty/37i9dQZF1DX9Qt5e1zZYbU.md)
 - [COUNTER//CULTURE: Kevin Abstract](/playlists/pretty/37i9dQZF1DX9n1dvGkpvfI.md)
 - [COUNTER//CULTURE: PVRIS](/playlists/pretty/37i9dQZF1DXaPYCwLnB6q1.md)
+- [COUNTER//CULTURE: Poppy](/playlists/pretty/37i9dQZF1DWWtVG5o02Mg3.md)
 - [COUNTER//CULTURE: Teezo Touchdown](/playlists/pretty/37i9dQZF1DX6sLOMujY5ZJ.md)
 - [COUNTER//CULTURE: Turnstile](/playlists/pretty/37i9dQZF1DX6gC5r0uG7De.md)
 - [COWBOY BEBOP \-カウボーイビバップ\-](/playlists/pretty/37i9dQZF1DX2niMzbAczXW.md)
@@ -1765,7 +1766,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Electro Funk](/playlists/pretty/37i9dQZF1DWSkwtKvzMAAN.md)
 - [Electro Heat](/playlists/pretty/37i9dQZF1DX2R0a3scWaq6.md)
 - [Electro Mix](/playlists/pretty/37i9dQZF1DWW668oFRU96k.md)
-- [Electro Swing Halloween Edition](/playlists/pretty/37i9dQZF1DX3bH0P2uDnWA.md)
+- [Electro Swing](/playlists/pretty/37i9dQZF1DX3bH0P2uDnWA.md)
 - [ElectroPop](/playlists/pretty/37i9dQZF1DX1JKB9ugFP7X.md)
 - [Electronic + Dance Frequency](/playlists/pretty/37i9dQZF1DXa1pcUVlBhYz.md)
 - [Electronic Christmas](/playlists/pretty/37i9dQZF1DX2zhLcnFr1qI.md)
@@ -3593,7 +3594,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Noisia DJ Mix: Retrospective](/playlists/pretty/37i9dQZF1DXcoeTjyAlVWI.md)
 - [Noisy](/playlists/pretty/37i9dQZF1DX98f0uoU1Pcs.md)
 - [Nolja!](/playlists/pretty/37i9dQZF1DXdR77H5Z8MIM.md)
-- [Non\-Stop Pop](/playlists/pretty/37i9dQZF1DX5dyzSiETSEk.md)
 - [Nordic Folk](/playlists/pretty/37i9dQZF1DX4jUyNIMkj6N.md)
 - [Nordic Jazz](/playlists/pretty/37i9dQZF1DX3joPD88EypN.md)
 - [Norske viser](/playlists/pretty/37i9dQZF1DWXBG5kM768S1.md)
@@ -3913,6 +3913,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Pop Up presents: Best of 2022](/playlists/pretty/37i9dQZF1DX7pbeEjdF4tQ.md)
 - [Pop con Ñ](/playlists/pretty/37i9dQZF1DX3sCT1ItXgNd.md)
 - [Pop en Inglés](/playlists/pretty/37i9dQZF1DX2oVzuo0LbVg.md)
+- [Pop for Kids](/playlists/pretty/37i9dQZF1DX5dyzSiETSEk.md)
 - [Pop for Life](/playlists/pretty/37i9dQZF1DX03azgB68xev.md)
 - [Pop n' Fresh](/playlists/pretty/37i9dQZF1DX50KNyX4Fc9O.md)
 - [Pop para Niños](/playlists/pretty/37i9dQZF1DWXGjZNum410i.md)
@@ -6988,6 +6989,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [드라이빙 댄스+ \(K\-Pop Dance Driving\)](/playlists/pretty/37i9dQZF1DX3sCx6B9EAOr.md)
 - [디즈니+ 인기곡](/playlists/pretty/37i9dQZF1DWVLLXSxmZy0O.md)
 - [딜리버리맨 \(Delivery Man\)](/playlists/pretty/37i9dQZF1DWSSPWTO4n5fg.md)
+- [무인도의 디바 \(Castaway Diva\)](/playlists/pretty/37i9dQZF1DX1golRcLMcrP.md)
 - [바닥에서 위로](/playlists/pretty/37i9dQZF1DWXUijuqw3Znk.md)
 - [반짝이는 워터멜론\(Twinkling Watermelon\)](/playlists/pretty/37i9dQZF1DXb87XV8ITnbK.md)
 - [발라드, 려요 \(K\-Pop Ballad Hits\)](/playlists/pretty/37i9dQZF1DX5LEXW9eXA0n.md)

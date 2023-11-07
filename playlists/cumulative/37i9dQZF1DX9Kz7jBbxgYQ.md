@@ -2,7 +2,7 @@
 
 ### [Desi Indie ](https://open.spotify.com/playlist/37i9dQZF1DX9Kz7jBbxgYQ)
 
-> Home to the best of South Asian Indie scene\. Cover: Talal Qureshi
+> Home to the best of South Asian Indie scene\. Cover: AUR
 
 215 songs - 12 hr 8 min
 

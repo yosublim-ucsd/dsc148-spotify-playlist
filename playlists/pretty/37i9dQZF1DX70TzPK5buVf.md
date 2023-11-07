@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 
 > Funk to these good ol' funky soul classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,579 likes - 80 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,706 likes - 80 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 | 79 | [It's Serious](https://open.spotify.com/track/5KV0kTuocyu9UT2aq2fuiB) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [We All Know Who We Are](https://open.spotify.com/album/4kwAmxSWZndrH076YU2VgY) | 8:09 |
 | 80 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(Original Soundtrack\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 |
 
-Snapshot ID: `MCwzNTU1OGVhMzhlYmYxNzAxYjkxZjdkYzIyODljN2ZkNjljNzQ3Y2M3`
+Snapshot ID: `MCwzYWRmNjVhMzdhNjc1NDU1ZmFlMWUyMzAxOWU3OTU1MmI2Zjk3M2Vh`

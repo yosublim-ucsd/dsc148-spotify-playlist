@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 406000,
       "name": "Astral",
       "url": "https://open.spotify.com/track/0q1pqbC1RDYWmYIXRdcOAx"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 401767,
       "name": "B2",
       "url": "https://open.spotify.com/track/5Qu22Kw7QfF6Q46mcEI2uI"
@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Glitch In Time EP",
+        "url": "https://open.spotify.com/album/2cX9QC3jope2AZovyjGmih"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515820,
+      "name": "Glitch In Time",
+      "url": "https://open.spotify.com/track/5VbAmXpu7hkFdF31o0FSYZ"
+    },
+    {
+      "album": {
         "name": "Green Rework",
         "url": "https://open.spotify.com/album/1qtJVVV0QmXTWzIv0FCif4"
       },
@@ -470,6 +488,24 @@
       "duration_ms": 433278,
       "name": "Green Rework",
       "url": "https://open.spotify.com/track/6dDHMXEY5Vm2yXakvnwALO"
+    },
+    {
+      "album": {
+        "name": "Hera",
+        "url": "https://open.spotify.com/album/7zCZCLV0eO0TPCxl3iFobd"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Hera - Radio Edit",
+      "url": "https://open.spotify.com/track/3vvI4AgjiuPerFxIkhLxXy"
     },
     {
       "album": {
@@ -678,6 +714,24 @@
       "duration_ms": 203738,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks"
+    },
+    {
+      "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
+      },
+      "artists": [
+        {
+          "name": "Iniko",
+          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158133,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
     },
     {
       "album": {
@@ -935,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Relax Shiva",
+        "url": "https://open.spotify.com/album/0Qp3gmNLo5zqYutS7F0wDe"
+      },
+      "artists": [
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236065,
+      "name": "Relax Shiva",
+      "url": "https://open.spotify.com/track/6bU5V5LKTHjFB9LvJaH0xH"
+    },
+    {
+      "album": {
         "name": "Riches & Sins",
         "url": "https://open.spotify.com/album/2Eyncv9jxoyXALC7491aIf"
       },
@@ -950,7 +1022,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 442874,
       "name": "Riches & Sins",
       "url": "https://open.spotify.com/track/7AfsFC5zcsv5yXt5Te4RAn"
@@ -1172,7 +1244,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 512000,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/2ex7NzlDpZ7uIqVd6sQIX4"
@@ -1194,7 +1266,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 404040,
       "name": "The Power Plant - Bardeeya Remix",
       "url": "https://open.spotify.com/track/5KKSzFYseqKgygFpMcVrGD"
@@ -1260,6 +1332,24 @@
       "duration_ms": 345610,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/5X0Jg0pte4sHFIaSHa1sXL"
+    },
+    {
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/01Jp0tJMYp8MNRQVAk7liX"
+      },
+      "artists": [
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372040,
+      "name": "UTOPIA",
+      "url": "https://open.spotify.com/track/3HdrzXCHvjBX39wYnAKc2c"
     },
     {
       "album": {

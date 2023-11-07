@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: VIVIZ",
+  "description": "Future K-Pop hits! Cover: ZEROBASEONE",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -8631,6 +8631,24 @@
     },
     {
       "album": {
+        "name": "LIME (I'm So)",
+        "url": "https://open.spotify.com/album/0aprCwpiI13bDJeQ5JRL40"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130308,
+      "name": "LIME (I'm So)",
+      "url": "https://open.spotify.com/track/4uLvMzr4BxERpvkeEAgxhS"
+    },
+    {
+      "album": {
         "name": "THE BOYZ 2ND ALBUM [PHANTASY] Pt.1 Christmas In August",
         "url": "https://open.spotify.com/album/6j0bF8s6Kptbr4y8tuIhOY"
       },
@@ -9716,6 +9734,24 @@
       "duration_ms": 180423,
       "name": "MELODY",
       "url": "https://open.spotify.com/track/6JeleVHUHrdvgiFESE33ZU"
+    },
+    {
+      "album": {
+        "name": "MELTING POINT",
+        "url": "https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173029,
+      "name": "MELTING POINT",
+      "url": "https://open.spotify.com/track/6Sj39jSqhxjJ8K66Mw8hrU"
     },
     {
       "album": {
@@ -14890,7 +14926,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 223026,
       "name": "The 6th Summer",
       "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
@@ -16956,7 +16992,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 179826,
       "name": "With UNIVERSE",
       "url": "https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODVmMjc0MmQyY2Y0MjU1ZmYyMWY5YjkyNGFiNWU0M2I1MGZiNWQx",
+  "snapshot_id": "MCwwMGUxNTc3ZWMyNTE5NzczZTRmNzNlZDBiMTNlN2Y1ZGU0OWVmOGU4",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "The Hand Washing Song",
+        "url": "https://open.spotify.com/album/5n1id3LSVpPphLIpQ4wSXb"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 157363,
+      "name": "The Hand Washing Song",
+      "url": "https://open.spotify.com/track/4CxHoh9FDpv8z6tx0F5RVl"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Junior Express - Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 157173,
       "name": "El Juego de las Verduras",
       "url": "https://open.spotify.com/track/7htnCgZlRosLtszzgGQXeB"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "The Hand Washing Song",
-        "url": "https://open.spotify.com/album/5n1id3LSVpPphLIpQ4wSXb"
-      },
-      "artists": [
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        }
-      ],
-      "duration_ms": 157363,
-      "name": "The Hand Washing Song",
-      "url": "https://open.spotify.com/track/4CxHoh9FDpv8z6tx0F5RVl"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -371,6 +371,26 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Un Nuevo Viaje",
+      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "El Primer D\u00eda de Escuela",
         "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 109896,
       "name": "Nice 'N' Clean",
       "url": "https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
-      },
-      "artists": [
-        {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Un Nuevo Viaje",
-      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Miss Patylu, vol. 1",
-        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 155193,
-      "name": "Leche Con Pan",
-      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv"
       },
@@ -579,22 +563,34 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Sesame Street: Splish Splash - Bath Time Fun",
-        "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
+        "name": "Miss Patylu, vol. 1",
+        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
       },
       "artists": [
         {
-          "name": "Sesame Street's Bicuspids",
-          "url": "https://open.spotify.com/artist/32xzvYpAc8iQSohhQ81QXF"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
         }
       ],
-      "duration_ms": 171800,
-      "name": "Kids Just Love to Brush",
-      "url": "https://open.spotify.com/track/6mb6WxUM7Fxh7GeCQalkW9"
+      "duration_ms": 155193,
+      "name": "Leche Con Pan",
+      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+      },
+      "artists": [
+        {
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+        }
+      ],
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -615,6 +611,26 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Sesame Street: Splish Splash - Bath Time Fun",
+        "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
+      },
+      "artists": [
+        {
+          "name": "Sesame Street's Bicuspids",
+          "url": "https://open.spotify.com/artist/32xzvYpAc8iQSohhQ81QXF"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "Kids Just Love to Brush",
+      "url": "https://open.spotify.com/track/6mb6WxUM7Fxh7GeCQalkW9"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "20 Canciones Infantiles",
         "url": "https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 112400,
       "name": "Ba\u00f1o de Burbujas",
       "url": "https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
-      },
-      "artists": [
-        {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
-        }
-      ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2023-03-17 09:43:03",

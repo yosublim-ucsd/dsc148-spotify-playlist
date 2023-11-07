@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 163999,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/21Ce5TcQah2Irg2HjBLtGP"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 216000,
       "name": "Gramathu Mayile",
       "url": "https://open.spotify.com/track/2cnOogJYYd7YuL7ZeMWlWf"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 225000,
       "name": "Hey Mudhal Siripey",
       "url": "https://open.spotify.com/track/1dOy2vIAWMPR3pUWrUp0E8"
@@ -2714,7 +2714,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 157777,
       "name": "Shy Boi",
       "url": "https://open.spotify.com/track/5dF6MnJUCc2LuLMQ5w82wA"
@@ -3182,6 +3182,50 @@
       "duration_ms": 181894,
       "name": "Unnai Arindhen",
       "url": "https://open.spotify.com/track/0Ftrt53lcsdxMuEpKBOqUE"
+    },
+    {
+      "album": {
+        "name": "Uyire Urave",
+        "url": "https://open.spotify.com/album/2LIKp3hkXZ7dnOXnUsQ8dV"
+      },
+      "artists": [
+        {
+          "name": "Joseph Vijay",
+          "url": "https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201411,
+      "name": "Uyire Urave",
+      "url": "https://open.spotify.com/track/4xtSrcg87lOmRLEsqISBVj"
+    },
+    {
+      "album": {
+        "name": "Vaa Pogalam",
+        "url": "https://open.spotify.com/album/0k7uezmNTyqTcaoThQnaKY"
+      },
+      "artists": [
+        {
+          "name": "Suryansh",
+          "url": "https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD"
+        },
+        {
+          "name": "Krithika Nelson",
+          "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237886,
+      "name": "Vaa Pogalam",
+      "url": "https://open.spotify.com/track/0L7eH4ECQWsHIsTW01lLZp"
     },
     {
       "album": {

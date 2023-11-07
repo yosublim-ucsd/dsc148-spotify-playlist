@@ -2606,7 +2606,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 217210,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/4ilrp6PdG89jBXDJlBmfvq"
@@ -4302,6 +4302,28 @@
       "duration_ms": 171265,
       "name": "FEMININE ENERGY",
       "url": "https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x"
+    },
+    {
+      "album": {
+        "name": "Festen (Remix)",
+        "url": "https://open.spotify.com/album/11m5bfHgmwNncfAoTZK7Ge"
+      },
+      "artists": [
+        {
+          "name": "IRMELI",
+          "url": "https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv"
+        },
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157511,
+      "name": "Festen - Remix",
+      "url": "https://open.spotify.com/track/4aCfUbfu8NiacDnodIMvLc"
     },
     {
       "album": {
@@ -13460,7 +13482,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 170322,
       "name": "Taste Of Heaven",
       "url": "https://open.spotify.com/track/2ByE2T6q6xsJ4540xka3pz"
@@ -13482,6 +13504,24 @@
       "duration_ms": 173320,
       "name": "Taxin",
       "url": "https://open.spotify.com/track/6fVsYWoMw8kR0pudjjEUb0"
+    },
+    {
+      "album": {
+        "name": "Youth And Why It Ends",
+        "url": "https://open.spotify.com/album/2rv9MHfgzqAvshO61zMdBn"
+      },
+      "artists": [
+        {
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160058,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/67WrJrYuDihmwIVhR4p7N1"
     },
     {
       "album": {

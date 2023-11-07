@@ -1768,7 +1768,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 169000,
       "name": "Edhuvum Kedaikalana? - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/5Qbu0YMMuM7CfiAmPhhFlb"
@@ -4183,6 +4183,28 @@
     },
     {
       "album": {
+        "name": "La La Heartu Nikkala (From \"MM Originals\") (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Z3fTQosbONJaCZXGRrLIY"
+      },
+      "artists": [
+        {
+          "name": "Harsha Vardhan",
+          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
+        },
+        {
+          "name": "K. Sivaangi",
+          "url": "https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157750,
+      "name": "La La Heartu Nikkala (From \"MM Originals\") (Original Soundtrack)",
+      "url": "https://open.spotify.com/track/5orsg8Rqsas06dNgt8qVIv"
+    },
+    {
+      "album": {
         "name": "LaaLaatu - Sangu Kazhuthazagu",
         "url": "https://open.spotify.com/album/2SiSFROqcGQDxPM4ye6YrM"
       },
@@ -5462,7 +5484,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 261440,
       "name": "Naan Nee",
       "url": "https://open.spotify.com/track/6msJ2Ah5DqRPYB1JIGj0lP"
@@ -7282,6 +7304,32 @@
       "duration_ms": 140434,
       "name": "Podhum Podhum",
       "url": "https://open.spotify.com/track/4j9tfODoDROp4fWAe7a2R7"
+    },
+    {
+      "album": {
+        "name": "Poi",
+        "url": "https://open.spotify.com/album/7iD5iNc0s503kuTzyQDDhE"
+      },
+      "artists": [
+        {
+          "name": "Kaber Vasuki",
+          "url": "https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb"
+        },
+        {
+          "name": "Atiium",
+          "url": "https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU"
+        },
+        {
+          "name": "Anjana Rajagopalan",
+          "url": "https://open.spotify.com/artist/108rmJvAaYolTjeqDao0x4"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Poi",
+      "url": "https://open.spotify.com/track/3svmW2GDrV5IO77FGyjPCz"
     },
     {
       "album": {
@@ -9509,6 +9557,32 @@
     },
     {
       "album": {
+        "name": "Veeravanam",
+        "url": "https://open.spotify.com/album/3FpsSrTUxc0ElnGgQuJIY6"
+      },
+      "artists": [
+        {
+          "name": "Jerard Felix",
+          "url": "https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        },
+        {
+          "name": "Diwakar",
+          "url": "https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276702,
+      "name": "Veeravanam",
+      "url": "https://open.spotify.com/track/1eCmpnUfMsno0j2cNLMj4Y"
+    },
+    {
+      "album": {
         "name": "Hi Hello Kaadhal",
         "url": "https://open.spotify.com/album/3IIPrMFgwsWjrJgjJUkt6r"
       },
@@ -9766,6 +9840,32 @@
       "duration_ms": 207000,
       "name": "Water Melon",
       "url": "https://open.spotify.com/track/0RZhsdFNZR0DZzwPRU28nW"
+    },
+    {
+      "album": {
+        "name": "What A Vadivu",
+        "url": "https://open.spotify.com/album/3yuXK9dHWz4XJR8YQKphk9"
+      },
+      "artists": [
+        {
+          "name": "Sahi Siva",
+          "url": "https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3"
+        },
+        {
+          "name": "Ratty Adhiththan",
+          "url": "https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF"
+        },
+        {
+          "name": "Selojan",
+          "url": "https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "What A Vadivu",
+      "url": "https://open.spotify.com/track/5C6vxne9RiZSnIDP25rrqg"
     },
     {
       "album": {

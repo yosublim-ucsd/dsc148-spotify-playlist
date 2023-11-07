@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "NIGHTINGALE",
+        "url": "https://open.spotify.com/album/4OL3Egiq2Gf4A8aq75B1Zr"
+      },
+      "artists": [
+        {
+          "name": "NAQT VANE",
+          "url": "https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "NIGHTINGALE",
+      "url": "https://open.spotify.com/track/27WwSBBpQmkCh5YlOmHpDm"
+    },
+    {
+      "album": {
         "name": "ninelie EP",
         "url": "https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN"
       },

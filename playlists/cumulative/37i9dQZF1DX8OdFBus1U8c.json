@@ -382,7 +382,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 226716,
       "name": "Blue Bucket Rebirth",
       "url": "https://open.spotify.com/track/6J77IL7C21HvGmMe6XHzWH"
@@ -448,6 +448,32 @@
       "duration_ms": 236602,
       "name": "BREAKFAST",
       "url": "https://open.spotify.com/track/6p21ywjrVlUnpmujl4S3dP"
+    },
+    {
+      "album": {
+        "name": "CALICITY",
+        "url": "https://open.spotify.com/album/3CoQQAOqbcFdCSRlHIrYED"
+      },
+      "artists": [
+        {
+          "name": "Shihab Huzzain",
+          "url": "https://open.spotify.com/artist/4upFgLK2iUIjC3fzj6nfLU"
+        },
+        {
+          "name": "MC MAC",
+          "url": "https://open.spotify.com/artist/3wVf68S73HpgPc03cYE5sD"
+        },
+        {
+          "name": "The Culturehood",
+          "url": "https://open.spotify.com/artist/7MI6r4NDDgVjonBkrnXAgx"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114606,
+      "name": "CALICITY",
+      "url": "https://open.spotify.com/track/5j71vL2fsf8BZUxPTbYeOF"
     },
     {
       "album": {
@@ -1514,7 +1540,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 153750,
       "name": "Oorakkudukku",
       "url": "https://open.spotify.com/track/6OPImTghaIDMXtdqDz99yL"
@@ -2156,7 +2182,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 234962,
       "name": "Trap Sundhari",
       "url": "https://open.spotify.com/track/51vzYdS2wo4peP0hu3i7au"

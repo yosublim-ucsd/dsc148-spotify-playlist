@@ -119,6 +119,32 @@
     },
     {
       "album": {
+        "name": "Ammaadi (From \"Hi Nanna\")",
+        "url": "https://open.spotify.com/album/0wSKxp1N4ux0vbWGFx7Fhs"
+      },
+      "artists": [
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        },
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219018,
+      "name": "Ammaadi (From \"Hi Nanna\")",
+      "url": "https://open.spotify.com/track/3bPDmXZO6aMcH3h8bkTAdN"
+    },
+    {
+      "album": {
         "name": "Butta Bomma",
         "url": "https://open.spotify.com/album/4gCBfKwcvxO4kRsBRnGPVG"
       },
@@ -736,7 +762,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 218385,
       "name": "Darshana",
       "url": "https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM"
@@ -916,7 +942,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 281723,
       "name": "Enno Ratrulosthayi Remix Song",
       "url": "https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM"
@@ -1176,6 +1202,32 @@
       "duration_ms": 277274,
       "name": "Holare Hola",
       "url": "https://open.spotify.com/track/0a9bofyF3tSrYRCu2uVVkI"
+    },
+    {
+      "album": {
+        "name": "Ooru Peru Bhairavakona",
+        "url": "https://open.spotify.com/album/6Sa8qfKnsIgzRch6aR7fga"
+      },
+      "artists": [
+        {
+          "name": "Shekar Chandra",
+          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
+        },
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "name": "Tirupathi Jaavana",
+          "url": "https://open.spotify.com/artist/6kRspxY3CqfVt2tiKbd8HP"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189621,
+      "name": "Humma Humma",
+      "url": "https://open.spotify.com/track/4gkjonokhGz5iVg0Af5z1A"
     },
     {
       "album": {
@@ -3001,6 +3053,32 @@
     },
     {
       "album": {
+        "name": "Nuvve Nuvve (From \"Sapta Sagaralu Dhaati - Side B\")",
+        "url": "https://open.spotify.com/album/6ZUTj4n7Kf5mtu2K41LdzV"
+      },
+      "artists": [
+        {
+          "name": "Charan Raj",
+          "url": "https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi"
+        },
+        {
+          "name": "Battu Vijay Kumar",
+          "url": "https://open.spotify.com/artist/3yywCO2Grag7FotoRYObNR"
+        },
+        {
+          "name": "Srilakshmi Belmannu",
+          "url": "https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192841,
+      "name": "Nuvve Nuvve (From \"Sapta Sagaralu Dhaati - Side B\")",
+      "url": "https://open.spotify.com/track/1rB5ytMmm0IjMOydmIwX75"
+    },
+    {
+      "album": {
         "name": "Nuvvunte Chaalu (From \"Rudhrudu\")",
         "url": "https://open.spotify.com/album/0T4mEjDL3HVG3vEwOEuXIf"
       },
@@ -3060,7 +3138,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 314342,
       "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
       "url": "https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U"

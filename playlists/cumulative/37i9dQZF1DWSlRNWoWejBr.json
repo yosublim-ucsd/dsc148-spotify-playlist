@@ -574,7 +574,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 115555,
       "name": "Calma Vai Devagar",
       "url": "https://open.spotify.com/track/18dmkxdajXGq04J8toQ1mZ"
@@ -644,6 +644,24 @@
       "duration_ms": 125029,
       "name": "Colo do pai",
       "url": "https://open.spotify.com/track/0iCA0rynWVmE5D9qWgas9s"
+    },
+    {
+      "album": {
+        "name": "DILATA\u00c7\u00c3O HIPN\u00d3TICA 6.0",
+        "url": "https://open.spotify.com/album/2bA0h58Fb6wT5ZgaP10sVs"
+      },
+      "artists": [
+        {
+          "name": "DJ FLG",
+          "url": "https://open.spotify.com/artist/6DlWUEM6Qr9z6p6YAOLBDh"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150524,
+      "name": "DILATA\u00c7\u00c3O HIPN\u00d3TICA 6.0",
+      "url": "https://open.spotify.com/track/6WyOuugKx4QEZl4PmIyT9G"
     },
     {
       "album": {
@@ -892,7 +910,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 117293,
       "name": "Gol Bolinha, Gol Quadrado 2",
       "url": "https://open.spotify.com/track/0U9CZWq6umZsN432nh3WWT"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 119182,
       "name": "J\u00e1 Ouviu Aquele Ditado",
       "url": "https://open.spotify.com/track/2vJCtLLG01jUOtM5p6CTtY"
@@ -1178,7 +1196,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 139384,
       "name": "MEU PILOTO DE FUGA",
       "url": "https://open.spotify.com/track/6T9TULKFZrTMqSlphJeq45"
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 139721,
       "name": "MEU PILOTO ELETROFUNK",
       "url": "https://open.spotify.com/track/4Ile5l3VkVVEuHjDNOMVER"
@@ -1229,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Montagem",
+        "url": "https://open.spotify.com/album/7GxR45yWGi9PznWarBRAeP"
+      },
+      "artists": [
+        {
+          "name": "Euphemism",
+          "url": "https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145055,
+      "name": "Montagem",
+      "url": "https://open.spotify.com/track/1CtO23S3CmPlV8l1mk0N0d"
+    },
+    {
+      "album": {
         "name": "MONTAGEM - PR FUNK",
         "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
       },
@@ -1248,7 +1284,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 61673,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
@@ -1326,7 +1362,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 145080,
       "name": "Montagem Coral",
       "url": "https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix"
@@ -1616,7 +1652,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 120014,
       "name": "Novidade na \u00c1rea",
       "url": "https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5"
@@ -1780,6 +1816,32 @@
       "duration_ms": 128063,
       "name": "Pa Pa Pa Terrorista",
       "url": "https://open.spotify.com/track/59O0Xlgmh1no1j1PcdDfif"
+    },
+    {
+      "album": {
+        "name": "Papo Furado",
+        "url": "https://open.spotify.com/album/6NKOol0j3zJG7G6XBkhcdr"
+      },
+      "artists": [
+        {
+          "name": "Brabas",
+          "url": "https://open.spotify.com/artist/3G9aFY0fRB76iotFz49wT8"
+        },
+        {
+          "name": "Dj Ph Da Vp",
+          "url": "https://open.spotify.com/artist/45tfKkQTzoP1w3tH3ThxYM"
+        },
+        {
+          "name": "McLOVIN",
+          "url": "https://open.spotify.com/artist/4A8TVxZZ2eu0vTXmNO7Ibt"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102901,
+      "name": "Papo Furado",
+      "url": "https://open.spotify.com/track/12w267rpvnuuTMkRdQQYzn"
     },
     {
       "album": {
@@ -1980,7 +2042,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 174627,
       "name": "Ritmadinha Magn\u00edfica",
       "url": "https://open.spotify.com/track/3iYnR3R920UjhmWaWI9OiE"
@@ -2242,7 +2304,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 122994,
       "name": "Toma Tapa",
       "url": "https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V"
@@ -2316,7 +2378,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 92093,
       "name": "T\u00e1 OK",
       "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"

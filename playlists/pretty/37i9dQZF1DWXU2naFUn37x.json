@@ -1,15 +1,15 @@
 {
   "description": "Solo il meglio dello street rap italiano. Cover: N\u00e9za",
-  "num_followers": 871502,
+  "num_followers": 871691,
   "original_name": "Street Culto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDRhNzI1Mzg5MzNmMzFkMDA4MmUwYmY2YjU2M2NlMWM4YzA4NmY2",
+  "snapshot_id": "MCw3YmE1OWQyMGZmODBmMTFlNWY1NjI0ZjU4ZmZiM2U0ZTk3ZDRlMTlh",
   "tracks": [
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "Cadillac (feat. Artie 5ive)",
         "url": "https://open.spotify.com/album/3mG2cIIIftDcBHTtfQrMMz"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/7IpsNYgP87QkLCSnctxSif"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "AGITATO",
         "url": "https://open.spotify.com/album/5NuXTus8ALMOuPhH2C3Co9"
@@ -49,10 +49,10 @@
       "url": "https://open.spotify.com/track/6OIPXBCDzV0RO0beUqoW42"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
-        "name": "ABC (feat. Bello Figo)",
-        "url": "https://open.spotify.com/album/5N2chCw2KvN4O0CNZTkXzR"
+        "name": "TRAPHOUSE",
+        "url": "https://open.spotify.com/album/64jt2HI09H65a1YPqhOYfS"
       },
       "artists": [
         {
@@ -60,16 +60,24 @@
           "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
         },
         {
-          "name": "Bello Figo",
-          "url": "https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
         }
       ],
-      "duration_ms": 143424,
-      "name": "ABC (feat. Bello Figo)",
-      "url": "https://open.spotify.com/track/50qPOMP2Kw8qOD1dsExaKQ"
+      "duration_ms": 177576,
+      "name": "Freaky (feat. Shiva & Niky Savage)",
+      "url": "https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "REALLY HER (INTL DELUXE)",
         "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
@@ -93,7 +101,7 @@
       "url": "https://open.spotify.com/track/79gZiOMkdqpBquK2tClkbn"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "OFFLINE",
         "url": "https://open.spotify.com/album/4QjJhfVACjKRN34TYYSDAE"
@@ -113,7 +121,7 @@
       "url": "https://open.spotify.com/track/1845mbE4B3oG3WtAMZCapo"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "INNOCENTE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3"
@@ -137,7 +145,7 @@
       "url": "https://open.spotify.com/track/4H8mFU6lQDvHVi4pIqrvku"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "NO REGULAR MUSIC",
         "url": "https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2"
@@ -173,7 +181,7 @@
       "url": "https://open.spotify.com/track/0bB8hmswtN9WvOQXV159CC"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "Syrup",
         "url": "https://open.spotify.com/album/5S1n1Vxz7yyKPhwGzy2d37"
@@ -189,7 +197,27 @@
       "url": "https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
+      "album": {
+        "name": "ABC (feat. Bello Figo)",
+        "url": "https://open.spotify.com/album/5N2chCw2KvN4O0CNZTkXzR"
+      },
+      "artists": [
+        {
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+        },
+        {
+          "name": "Bello Figo",
+          "url": "https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh"
+        }
+      ],
+      "duration_ms": 143424,
+      "name": "ABC (feat. Bello Figo)",
+      "url": "https://open.spotify.com/track/50qPOMP2Kw8qOD1dsExaKQ"
+    },
+    {
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "Nato Per Questo",
         "url": "https://open.spotify.com/album/3nrUsKXZlLAEKE5HUeoc0v"
@@ -205,7 +233,7 @@
       "url": "https://open.spotify.com/track/2YQx1HsasbXKv8nVvXKidO"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "DOV'ERI? (feat. Baby Gang)",
         "url": "https://open.spotify.com/album/1pITHFIU30Kt38axjWvvwY"
@@ -225,35 +253,7 @@
       "url": "https://open.spotify.com/track/1ayxvCxpk0oFaL8lbx88on"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
-      "album": {
-        "name": "TRAPHOUSE",
-        "url": "https://open.spotify.com/album/64jt2HI09H65a1YPqhOYfS"
-      },
-      "artists": [
-        {
-          "name": "Slings",
-          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        },
-        {
-          "name": "Finesse",
-          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
-        }
-      ],
-      "duration_ms": 177576,
-      "name": "Freaky (feat. Shiva & Niky Savage)",
-      "url": "https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6"
-    },
-    {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "LEVANTE (feat. Paky)",
         "url": "https://open.spotify.com/album/3eZqA45DiafIF7obBL69jg"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "Freddy Krueger Freestyle",
         "url": "https://open.spotify.com/album/6h801PlffuLHaO7tcmvz3y"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/6TbFOSCtOicAETFf0DxHFt"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "INNOCENTE",
         "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/7wj8OXiqdAfNsnWm2zRV9e"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "Umile",
         "url": "https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/1r5WCFulDtvAdCNmJfH1wA"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "Madame",
         "url": "https://open.spotify.com/album/5di5PgxR4cs1PveHPkgKtr"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/0JPyVgLem5a4HcXEADJXg5"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
@@ -393,7 +393,27 @@
       "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
+      "album": {
+        "name": "ADIOS (feat. Yunes LaGrintaa)",
+        "url": "https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4"
+      },
+      "artists": [
+        {
+          "name": "Fre_nky",
+          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
+        },
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "ADIOS (feat. Yunes LaGrintaa)",
+      "url": "https://open.spotify.com/track/5F5STJurlkKk31rguyet4N"
+    },
+    {
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "TAF TAF",
         "url": "https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u"
@@ -409,7 +429,7 @@
       "url": "https://open.spotify.com/track/6eJIQo4C9LR9sACJI5fP7O"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "WE THE SQUAD Vol. 1",
         "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
@@ -437,7 +457,7 @@
       "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "NO REGULAR MUSIC",
         "url": "https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2"
@@ -461,27 +481,7 @@
       "url": "https://open.spotify.com/track/50A2O8cyECu8gcIxOkck8p"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
-      "album": {
-        "name": "ADIOS (feat. Yunes LaGrintaa)",
-        "url": "https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4"
-      },
-      "artists": [
-        {
-          "name": "Fre_nky",
-          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
-        },
-        {
-          "name": "Yunes LaGrintaa",
-          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "ADIOS (feat. Yunes LaGrintaa)",
-      "url": "https://open.spotify.com/track/5F5STJurlkKk31rguyet4N"
-    },
-    {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "Seconda Generazione",
         "url": "https://open.spotify.com/album/24IVSn11Caw7nz7bbIAkFa"
@@ -517,103 +517,7 @@
       "url": "https://open.spotify.com/track/5JynzqA5qFHXs28M078yl6"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
-      "album": {
-        "name": "CVLT",
-        "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 192588,
-      "name": "BRUJERIA",
-      "url": "https://open.spotify.com/track/1bpLJUoNhsCLEZQ8CwBWEB"
-    },
-    {
-      "added_at": "2023-11-02 23:01:00",
-      "album": {
-        "name": "BLA",
-        "url": "https://open.spotify.com/album/7eKJ2EUwqxepLiIbPFFZ9n"
-      },
-      "artists": [
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        },
-        {
-          "name": "Blssd",
-          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
-        }
-      ],
-      "duration_ms": 137684,
-      "name": "BLA",
-      "url": "https://open.spotify.com/track/08z50YKD3TdfDQbrflFc8n"
-    },
-    {
-      "added_at": "2023-11-02 23:01:00",
-      "album": {
-        "name": "WAO",
-        "url": "https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD"
-      },
-      "artists": [
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        },
-        {
-          "name": "Blssd",
-          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
-        }
-      ],
-      "duration_ms": 149464,
-      "name": "WAO",
-      "url": "https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ"
-    },
-    {
-      "added_at": "2023-11-02 23:01:00",
-      "album": {
-        "name": "N.47",
-        "url": "https://open.spotify.com/album/6fUu9JsM3bqDrC6K9SFSlC"
-      },
-      "artists": [
-        {
-          "name": "Fre_nky",
-          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
-        }
-      ],
-      "duration_ms": 145851,
-      "name": "N.47",
-      "url": "https://open.spotify.com/track/4xkvFol7qRPv0OTbOF1iSj"
-    },
-    {
-      "added_at": "2023-11-02 23:01:00",
-      "album": {
-        "name": "INNOCENTE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
-        }
-      ],
-      "duration_ms": 194250,
-      "name": "Mocro Mafia (feat. Maes)",
-      "url": "https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5"
-    },
-    {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "OFFLINE",
         "url": "https://open.spotify.com/album/4QjJhfVACjKRN34TYYSDAE"
@@ -633,7 +537,91 @@
       "url": "https://open.spotify.com/track/2eVBudzixqw5GDDXy7D9H7"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
+      "album": {
+        "name": "BLA",
+        "url": "https://open.spotify.com/album/7eKJ2EUwqxepLiIbPFFZ9n"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "BLA",
+      "url": "https://open.spotify.com/track/08z50YKD3TdfDQbrflFc8n"
+    },
+    {
+      "added_at": "2023-11-06 10:31:54",
+      "album": {
+        "name": "N.47",
+        "url": "https://open.spotify.com/album/6fUu9JsM3bqDrC6K9SFSlC"
+      },
+      "artists": [
+        {
+          "name": "Fre_nky",
+          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
+        }
+      ],
+      "duration_ms": 145851,
+      "name": "N.47",
+      "url": "https://open.spotify.com/track/4xkvFol7qRPv0OTbOF1iSj"
+    },
+    {
+      "added_at": "2023-11-06 10:31:54",
+      "album": {
+        "name": "INNOCENTE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "duration_ms": 194250,
+      "name": "Mocro Mafia (feat. Maes)",
+      "url": "https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5"
+    },
+    {
+      "added_at": "2023-11-06 10:31:54",
+      "album": {
+        "name": "NO REGULAR MUSIC",
+        "url": "https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2"
+      },
+      "artists": [
+        {
+          "name": "Sadturs",
+          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        },
+        {
+          "name": "KIID",
+          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "duration_ms": 133874,
+      "name": "CLAP CLAP (feat. Artie 5ive, Niky Savage)",
+      "url": "https://open.spotify.com/track/4qFrGuly7KCl3WMmGuECFC"
+    },
+    {
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "VILLABANKS",
         "url": "https://open.spotify.com/album/1v4ennAZieVxb71tEgpjnZ"
@@ -661,7 +649,7 @@
       "url": "https://open.spotify.com/track/5qPSSvlfpcdX8YQnYNvnZ1"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
         "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
@@ -677,7 +665,7 @@
       "url": "https://open.spotify.com/track/5EL2pGymrFM9jpVjBbsZhn"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "Maltempo",
         "url": "https://open.spotify.com/album/1Jopcn1DSXFQzDvj53uDpw"
@@ -693,7 +681,7 @@
       "url": "https://open.spotify.com/track/7FZicMWhkxtQxIsV6Y9SZk"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "Suave (feat. VillaBanks)",
         "url": "https://open.spotify.com/album/2rILNUxABq3b74Ucczc1zV"
@@ -721,7 +709,7 @@
       "url": "https://open.spotify.com/track/4dswUsqTDCqWpmQlhFqedk"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "Hagra",
         "url": "https://open.spotify.com/album/3Xmje1BFiERvTm1aRpGi0S"
@@ -737,23 +725,27 @@
       "url": "https://open.spotify.com/track/1PAKJ4G5tpNK0YYloB6dBv"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
-        "name": "Valentino Rossi",
-        "url": "https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ"
+        "name": "CVLT",
+        "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
       },
       "artists": [
         {
-          "name": "Zefe",
-          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         }
       ],
-      "duration_ms": 119495,
-      "name": "Valentino Rossi",
-      "url": "https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH"
+      "duration_ms": 192588,
+      "name": "BRUJERIA",
+      "url": "https://open.spotify.com/track/1bpLJUoNhsCLEZQ8CwBWEB"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "Victoria's Secret (feat. Niky Savage)",
         "url": "https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9"
@@ -781,7 +773,7 @@
       "url": "https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "The Globe",
         "url": "https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv"
@@ -797,7 +789,7 @@
       "url": "https://open.spotify.com/track/0QZYznuUxIPXs7gY8CPvS4"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "VILLABANKS",
         "url": "https://open.spotify.com/album/1v4ennAZieVxb71tEgpjnZ"
@@ -825,7 +817,7 @@
       "url": "https://open.spotify.com/track/0MblKd4Gk1ppUG5EOLnbUl"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "CARACAS",
         "url": "https://open.spotify.com/album/5rvrYFIWTdEb3XsC38jtOe"
@@ -845,27 +837,23 @@
       "url": "https://open.spotify.com/track/17vItZcGnnlgsoV7HWhUF2"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
-        "name": "Rock\u2019n\u2019roll",
-        "url": "https://open.spotify.com/album/7gf7pKMdSzxtvwWfEv4AN3"
+        "name": "Valentino Rossi",
+        "url": "https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ"
       },
       "artists": [
         {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        },
-        {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
         }
       ],
-      "duration_ms": 128450,
-      "name": "Rock\u2019n\u2019roll",
-      "url": "https://open.spotify.com/track/2YrmLcCAL1TKde6P4zs0CR"
+      "duration_ms": 119495,
+      "name": "Valentino Rossi",
+      "url": "https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "INNOCENTE",
         "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
@@ -885,7 +873,7 @@
       "url": "https://open.spotify.com/track/0szf0BqOX6XXa2sHb8HtvC"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "Santana Season",
         "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
@@ -905,7 +893,7 @@
       "url": "https://open.spotify.com/track/0wSpx49DTwBplnkeqH6zep"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "PSG",
         "url": "https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk"
@@ -921,23 +909,7 @@
       "url": "https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
-      "album": {
-        "name": "Genkidama",
-        "url": "https://open.spotify.com/album/1VE2rt8pjEWu7kh1y6FqHY"
-      },
-      "artists": [
-        {
-          "name": "Vale Lambo",
-          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
-        }
-      ],
-      "duration_ms": 149559,
-      "name": "Genkidama",
-      "url": "https://open.spotify.com/track/5WUAZVcoe0g7MLnHA3akWy"
-    },
-    {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "Quarto di Bue",
         "url": "https://open.spotify.com/album/7LAZxfodTzgKt3qwGqgCMf"
@@ -961,7 +933,43 @@
       "url": "https://open.spotify.com/track/3NLdcu14EPntcZIn3mxSR7"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
+      "album": {
+        "name": "Rock\u2019n\u2019roll",
+        "url": "https://open.spotify.com/album/7gf7pKMdSzxtvwWfEv4AN3"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        }
+      ],
+      "duration_ms": 128450,
+      "name": "Rock\u2019n\u2019roll",
+      "url": "https://open.spotify.com/track/2YrmLcCAL1TKde6P4zs0CR"
+    },
+    {
+      "added_at": "2023-11-06 10:31:54",
+      "album": {
+        "name": "Genkidama",
+        "url": "https://open.spotify.com/album/1VE2rt8pjEWu7kh1y6FqHY"
+      },
+      "artists": [
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        }
+      ],
+      "duration_ms": 149559,
+      "name": "Genkidama",
+      "url": "https://open.spotify.com/track/5WUAZVcoe0g7MLnHA3akWy"
+    },
+    {
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "ALBV",
         "url": "https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF"
@@ -977,7 +985,7 @@
       "url": "https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "BULL TERRIER (feat. Gu\u00e8)",
         "url": "https://open.spotify.com/album/7GzcknHVFgNrZLV3IkJLBj"
@@ -997,7 +1005,7 @@
       "url": "https://open.spotify.com/track/5JWaU9orOfQnRyhiof2T2m"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "HI TECH (feat. Dardan)",
         "url": "https://open.spotify.com/album/6AajVc17THqnxw38GIWRji"
@@ -1017,7 +1025,7 @@
       "url": "https://open.spotify.com/track/4l2ATeURkBNDMaj1s7cU6U"
     },
     {
-      "added_at": "2023-11-02 23:01:00",
+      "added_at": "2023-11-06 10:31:54",
       "album": {
         "name": "BVLGARI",
         "url": "https://open.spotify.com/album/1959Xf6EJPqYLaxFJxsYXD"

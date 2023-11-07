@@ -3789,6 +3789,32 @@
     },
     {
       "album": {
+        "name": "Va Va Voom (From \"The Archies\")",
+        "url": "https://open.spotify.com/album/41efXRJaAdzIOCHeMuKNEJ"
+      },
+      "artists": [
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+        },
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128330,
+      "name": "Va Va Voom (From \"The Archies\")",
+      "url": "https://open.spotify.com/track/1vUau8NMY4vdUrdPzAAsLj"
+    },
+    {
+      "album": {
         "name": "Vaaste",
         "url": "https://open.spotify.com/album/7b0RW9Inq2jLmTGonmqv11"
       },

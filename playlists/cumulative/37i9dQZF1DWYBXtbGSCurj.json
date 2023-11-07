@@ -2780,7 +2780,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 202718,
       "name": "BLAH BLAH",
       "url": "https://open.spotify.com/track/2MHedU6XCsTFfXu6k8JFWZ"
@@ -3358,7 +3358,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 107055,
       "name": "CALA-BOCA, TRABALHO",
       "url": "https://open.spotify.com/track/3owg1lzgvzaaDnLgs2vs08"
@@ -5091,6 +5091,32 @@
     },
     {
       "album": {
+        "name": "Criminal Love",
+        "url": "https://open.spotify.com/album/2n3IYM5kthpXqiRHUX3UI3"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "DaHype",
+          "url": "https://open.spotify.com/artist/1Vqrbqh0krEgbroMuqp4aM"
+        },
+        {
+          "name": "Andy",
+          "url": "https://open.spotify.com/artist/3IHfZEC6zpFC24Ox8T8Q3G"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Criminal Love",
+      "url": "https://open.spotify.com/track/0lXSJqe80Mdr9Np56AwVoh"
+    },
+    {
+      "album": {
         "name": "Criminosa",
         "url": "https://open.spotify.com/album/3Nw944Sl9JCRll0hWLoEHJ"
       },
@@ -5184,7 +5210,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 175031,
       "name": "Cruzeiro do Ney",
       "url": "https://open.spotify.com/track/3FN25B7rk6JlKNFiPsP74t"
@@ -6586,6 +6612,32 @@
       "duration_ms": 190689,
       "name": "Dom Perignon",
       "url": "https://open.spotify.com/track/24Qz27YhZ8eVnJl6sD6hyd"
+    },
+    {
+      "album": {
+        "name": "DOMINICANA",
+        "url": "https://open.spotify.com/album/7mdplTcZJQnNK2KzR2sVco"
+      },
+      "artists": [
+        {
+          "name": "Kloe",
+          "url": "https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5"
+        },
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136258,
+      "name": "DOMINICANA",
+      "url": "https://open.spotify.com/track/5tOoWYZ0G9YFqiteziCtzI"
     },
     {
       "album": {
@@ -9117,6 +9169,36 @@
     },
     {
       "album": {
+        "name": "FREIA N\u00c3O",
+        "url": "https://open.spotify.com/album/6TDeR8aBcHTg0k9iZ6iFUA"
+      },
+      "artists": [
+        {
+          "name": "Raillow",
+          "url": "https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN"
+        },
+        {
+          "name": "Jovxm HS",
+          "url": "https://open.spotify.com/artist/7wBmxkxDF1G8ZJvs1hteLT"
+        },
+        {
+          "name": "RZ",
+          "url": "https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf"
+        },
+        {
+          "name": "MindHunters",
+          "url": "https://open.spotify.com/artist/0QRlMdCWxBYvMrUJT9R8Rj"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182871,
+      "name": "FREIA N\u00c3O",
+      "url": "https://open.spotify.com/track/70OEITtSlCqzRbwVR9ubqr"
+    },
+    {
+      "album": {
         "name": "Frida e Fredo (Remix)",
         "url": "https://open.spotify.com/album/72DOlqylGzDry1u8xdftRv"
       },
@@ -9914,7 +9996,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 191999,
       "name": "Guiado por Deus",
       "url": "https://open.spotify.com/track/5NiWPOiL1DXGcxHSQkZsIq"
@@ -15510,7 +15592,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 168000,
       "name": "Novo Inimigo",
       "url": "https://open.spotify.com/track/6Kbj25BTf05twbHGJPV3eF"
@@ -18012,6 +18094,28 @@
       "duration_ms": 96000,
       "name": "Porcos Engravatados",
       "url": "https://open.spotify.com/track/7vfBbGf6UO1mfnT706w7HW"
+    },
+    {
+      "album": {
+        "name": "Trap The Fato Deluxe",
+        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "The Boy",
+          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194430,
+      "name": "PORNSTAR",
+      "url": "https://open.spotify.com/track/1x4ADGTpBnBaMz4LEUl7Xn"
     },
     {
       "album": {

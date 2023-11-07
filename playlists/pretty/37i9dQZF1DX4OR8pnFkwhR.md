@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: フジタ カコ
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,856 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,871 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 79 | [ニール・ヤング聴いてた](https://open.spotify.com/track/3DvRDt09s9NC4dA2s6967e) | [MANGA HOUSE](https://open.spotify.com/artist/43k6rOAIFQZlBfGARAnSIX) | [\#3](https://open.spotify.com/album/2cSaeWKy6bcM7MVuDTyxy9) | 4:50 |
 | 80 | [vanilla](https://open.spotify.com/track/54ogyAllu07li203RXAS1E) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [vanilla](https://open.spotify.com/album/7bKtCF6j2F2aQi9Tvsy99Q) | 2:41 |
 
-Snapshot ID: `MCwxNGViOTBjZjBiZGI3MTNkOTg1ZGY0Y2VmMDRkNmUyYjA0OGZhMjBk`
+Snapshot ID: `MCw2N2FjNjNiMDI0MDI1NjcxYjFkOTkyZWMzNmZjZTA4NTE5MDZiNGE0`

@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 169534,
       "name": "Heavy Rain",
       "url": "https://open.spotify.com/track/0z5B28cI3u5hFxt6wiGCzX"
@@ -3674,6 +3674,24 @@
       "duration_ms": 140192,
       "name": "Raining After Midnight",
       "url": "https://open.spotify.com/track/0ngmRlW9zdGf52YSsZfhbM"
+    },
+    {
+      "album": {
+        "name": "Raining At Last",
+        "url": "https://open.spotify.com/album/4IIU1bpJUKA3W3M1EWJKYE"
+      },
+      "artists": [
+        {
+          "name": "Shaman",
+          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297099,
+      "name": "Raining At Last",
+      "url": "https://open.spotify.com/track/5YMvGUNipPBFQjODEgLMaL"
     },
     {
       "album": {

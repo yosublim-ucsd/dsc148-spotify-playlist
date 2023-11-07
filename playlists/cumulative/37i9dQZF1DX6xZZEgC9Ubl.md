@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-888 songs - 1 day 16 hr 17 min
+889 songs - 1 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -872,8 +872,9 @@
 | [WITHOUT YOU \- Spotify Singles](https://open.spotify.com/track/4vztZvxyCfrct6XQanbo4S) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Spotify Singles](https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy) | 2:51 | 2021-03-26 | 2021-04-30 |
 | [wondering how](https://open.spotify.com/track/5vraAGKBOoxAX44ftREyar) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [wondering how](https://open.spotify.com/album/2LtlOTWQmX9YYCVJ1VeNx9) | 3:24 | 2021-11-19 | 2021-12-21 |
 | [WORLD](https://open.spotify.com/track/6M3ptLy6a66pKAsqrsRIac) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [WORLD](https://open.spotify.com/album/0a1p0zXfILuWg3sNZ7FnSW) | 3:20 | 2020-12-18 | 2021-01-05 |
-| [Worlds a Fuck](https://open.spotify.com/track/1bie3CEnQNnp0Qa5pph1py) | [stack$](https://open.spotify.com/artist/3LbI3jgW1i4L37xd9Sm0rJ) | [Worlds a Fuck](https://open.spotify.com/album/1bwCPNJJwOvUxIL6C0etEm) | 3:00 | 2023-10-11 |  |
+| [Worlds a Fuck](https://open.spotify.com/track/1bie3CEnQNnp0Qa5pph1py) | [stack$](https://open.spotify.com/artist/3LbI3jgW1i4L37xd9Sm0rJ) | [Worlds a Fuck](https://open.spotify.com/album/1bwCPNJJwOvUxIL6C0etEm) | 3:00 | 2023-10-11 | 2023-11-07 |
 | [Worlds A Fuck](https://open.spotify.com/track/6KOgmHp7R9ZXIemshIs1J5) | [stack$](https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK), [dyingoutlay](https://open.spotify.com/artist/6vFGEdlUL64DHxlLPbhCAa) | [Emperor Road](https://open.spotify.com/album/4bg5HL2itZt0U9wb2oXPj5) | 3:00 | 2023-10-11 | 2023-11-05 |
+| [Worlds a Fuck](https://open.spotify.com/track/1103A9Sw6iNIP0lEmJTPaf) | [VampLeaks](https://open.spotify.com/artist/5AmviRRg2anzRgjnztq4sX) | [Worlds a Fuck](https://open.spotify.com/album/3X8e4A4EVZj9yQmomczHT0) | 2:58 | 2023-10-11 |  |
 | [Would Look Perfect](https://open.spotify.com/track/2L2mNkEWo818IE4fKbnP0O) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Letter's You Never Received](https://open.spotify.com/album/6Kw08aAjdRBrDbDXYiZk4P) | 2:29 | 2021-02-23 | 2021-03-14 |
 | [would you be my baby](https://open.spotify.com/track/0s1jF1PHS9oQ1rHSYg90XB) | [Enzo Iwamura](https://open.spotify.com/artist/6rECUDgdLKJnJ3L27h1MqJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [would you be my baby](https://open.spotify.com/album/36s99vXNlumFqVrvqmidCl) | 1:13 | 2022-07-22 | 2022-10-20 |
 | [would you be my baby](https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox) | [Enzo Iwamura](https://open.spotify.com/artist/6rECUDgdLKJnJ3L27h1MqJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [would you be my baby](https://open.spotify.com/album/5SGRuYzOCSloOXnKGv73ki) | 1:13 | 2022-10-07 | 2023-07-21 |

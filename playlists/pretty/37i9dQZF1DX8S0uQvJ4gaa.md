@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Kameron Marlowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,175,917 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,176,485 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Meant For Me](https://open.spotify.com/track/7Gt9tznlLCCe2gZoRzuLhD) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Along The Way](https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ) | 3:15 |
 | 100 | [Remember Us](https://open.spotify.com/track/1k0idEJ0uiXYxYkTFa3Al7) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Remember Us?](https://open.spotify.com/album/6aqxYkrdxD57QL2jJF17sk) | 3:29 |
 
-Snapshot ID: `MCw5ZGY5ODAxMWQ2NjVmNzY4YTZiODc5MGNiYjVkZmJlNmQwZWY1NzMx`
+Snapshot ID: `MCw5NzNmMjRjZTA0NmQ0YmJiZDM2MjBhODZmNjU4ZTA5ZWEwMWFmNjI4`

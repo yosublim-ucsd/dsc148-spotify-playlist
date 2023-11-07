@@ -4,7 +4,7 @@
 
 > Celebrate APIHM with music from Asian and Pacific Islander artists for the whole family\. Cover: Falu
 
-63 songs - 2 hr 51 min
+64 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Whole New World \(End Title\)](https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 4:02 | 2021-05-06 |  |
 | [Akatombo](https://open.spotify.com/track/5adXOZrM20D1AENYn3LKCy) | [Elena Moon Park](https://open.spotify.com/artist/4Okanr8CZ6f2oGudDIyv77) | [Rabbit Days and Dumplings](https://open.spotify.com/album/4YhjCfn1LfDFEzlu6JFxjy) | 3:24 | 2021-05-06 |  |
 | [Ako'Y Munting Tinig](https://open.spotify.com/track/6eWnt9e1advhO7PG64OguS) | [Bulilit Singers](https://open.spotify.com/artist/5rirrL1b5875YURFFqpk5w) | [Mga Awiting Pambata Collection, Vol\. 2 \(Tagalog Nursery Rhymes\)](https://open.spotify.com/album/45ftFJaE6qySqRvqMYHRmJ) | 4:00 | 2022-05-05 | 2023-10-25 |
+| [Ako'Y Munting Tinig](https://open.spotify.com/track/7xq3S2l8XTqB9MIelvX2Qe) | [Bulilit Singers](https://open.spotify.com/artist/5rirrL1b5875YURFFqpk5w) | [Mga Awiting Pambata Collection, Vol\. 2 \(Tagalog Nursery Rhymes\)](https://open.spotify.com/album/2RrKHFiuBh1HLuI4fzWsLn) | 4:00 | 2022-05-05 |  |
 | [Ako'Y Munting Tinig](https://open.spotify.com/track/5bIqPbw2XueeciJ7VTTDMJ) | [Bulilit Singers](https://open.spotify.com/artist/5rirrL1b5875YURFFqpk5w) | [Mga Awiting Pambata Collection, Vol\. 2 \(Tagalog Nursery Rhymes\)](https://open.spotify.com/album/0M8VxdwUXkU4sXezn69kH6) | 4:00 | 2021-05-06 | 2022-07-29 |
 | [All I Want](https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:57 | 2022-05-05 |  |
 | [Burung Kakak Tua](https://open.spotify.com/track/4y9k9bVppxdh4CGeFUedKA) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Legasi](https://open.spotify.com/album/2uw4S9AGL9WevXTwdGlNgj) | 4:04 | 2021-05-06 |  |
@@ -50,7 +51,7 @@
 | [Rocket to the Moon \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/7z6wKPYntTIAPLNOZRQq3t) | [Cathy Ang](https://open.spotify.com/artist/3qLXQKIfWi7roh2tmVRjzn) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 3:48 | 2021-05-21 |  |
 | [Savalivali \(Samoan\)](https://open.spotify.com/track/3M2TGqVFKoz2feiaf6lBOA) | [Loopy Tunes Preschool Music](https://open.spotify.com/artist/0nyv9lZZ2dBi8WzcRfyH6y), [Whānau Āwhina Plunket\-Pasifika Beatz](https://open.spotify.com/artist/69gi80HKXW67UHDsNLBTWT) | [Pasifika Beatz \- Sāmoa](https://open.spotify.com/album/3WJetsVWzIWH0MkPpD5aXL) | 2:13 | 2021-05-07 |  |
 | [Shapes](https://open.spotify.com/track/3XUg9zWwIhVe6y7EcjBCEa) | [Falu](https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1) | [Falu's Bazaar](https://open.spotify.com/album/3wy3vxrfLLj3LtqORejl5o) | 2:35 | 2021-05-06 | 2022-05-06 |
-| [Small but Mighty](https://open.spotify.com/track/2tSaIsNOHPULivFVlHejoG) | [Ginalina](https://open.spotify.com/artist/06QOnJaT57H3lQcrx3B1kP) | [Small but Mighty](https://open.spotify.com/album/02oEsC2mLDX2DcK13w23hI) | 2:54 | 2021-05-06 |  |
+| [Small but Mighty](https://open.spotify.com/track/2tSaIsNOHPULivFVlHejoG) | [Ginalina](https://open.spotify.com/artist/06QOnJaT57H3lQcrx3B1kP) | [Small but Mighty](https://open.spotify.com/album/02oEsC2mLDX2DcK13w23hI) | 2:54 | 2021-05-06 | 2023-11-07 |
 | [Sol Nal](https://open.spotify.com/track/2kQ8rAOOuOc0bU5WdF8ZP0) | [Elena Moon Park](https://open.spotify.com/artist/4Okanr8CZ6f2oGudDIyv77) | [Rabbit Days and Dumplings](https://open.spotify.com/album/4YhjCfn1LfDFEzlu6JFxjy) | 2:54 | 2021-05-06 | 2022-10-12 |
 | [Someday, Some Morning Sometime](https://open.spotify.com/track/2jB5gvwPTMTzg69jiPDZHr) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [Follow Me](https://open.spotify.com/album/0bZiuCtLj2PQjuYFl5HdvL) | 1:47 | 2021-05-06 | 2022-05-05 |
 | [Speechless \(Full\)](https://open.spotify.com/track/0XPsOSYzDJZJArevQNm2AR) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 3:28 | 2021-05-06 |  |

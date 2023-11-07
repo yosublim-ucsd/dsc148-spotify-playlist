@@ -171,6 +171,28 @@
     },
     {
       "album": {
+        "name": "Leo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2nZKDF0ZFy0Pv7uMakAwZh"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Lothika",
+          "url": "https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214330,
+      "name": "Anbenum",
+      "url": "https://open.spotify.com/track/4U4vgPosXiDSjR0gHQmvN2"
+    },
+    {
+      "album": {
         "name": "Anbenum (From \"Leo\")",
         "url": "https://open.spotify.com/album/4bf7T0AXRlgHjLZVxhIkfz"
       },
@@ -2062,6 +2084,28 @@
       "duration_ms": 243570,
       "name": "Naan Pizhai (From \"Kaathuvaakula Rendu Kaadhal\")",
       "url": "https://open.spotify.com/track/1UUgngRGzFWfgpyN0WAN1r"
+    },
+    {
+      "album": {
+        "name": "Naracha Mudi (From \"Dhruva Natchathiram\")",
+        "url": "https://open.spotify.com/album/7KZHEijOAQKEWRLsQYaWX0"
+      },
+      "artists": [
+        {
+          "name": "Harris Jayaraj",
+          "url": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
+        },
+        {
+          "name": "Srilekha Parthasarathy",
+          "url": "https://open.spotify.com/artist/4Q1srPVPObLkyNrevKLi5Q"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180223,
+      "name": "Naracha Mudi (From \"Dhruva Natchathiram\")",
+      "url": "https://open.spotify.com/track/5qDMGa2JB49NANJJvc4ICU"
     },
     {
       "album": {

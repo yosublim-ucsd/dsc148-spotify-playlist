@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 ### [Locker Room ](https://open.spotify.com/playlist/37i9dQZF1DX8SaiEt4OVJw)
 
-> The Final is here! GO BOKKE!
+> World Cup Champions!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,435 likes - 45 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,476 likes - 45 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 44 | [Omunye](https://open.spotify.com/track/22hkLLXbp1NZldZurvpjwO) | [Distruction Boyz](https://open.spotify.com/artist/44MG6uiTa2VeYlcy6VKDXe), [Benny Maverick](https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2), [Dladla Mshunqisi](https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt) | [Gqom Is the Future](https://open.spotify.com/album/0ubZdtHR6nLGW48oH1fzu4) | 5:20 |
 | 45 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 |
 
-Snapshot ID: `MCwzOTRkZDQwNDU5MTM3ODQwYjE3ZGMxNDMyOTkzN2VhMjFhNTU0YjA3`
+Snapshot ID: `MCw5MTFlMWU3YmEzNTI4OThhZTUwMGMyMjE4MmQ1YTM4ZTM2M2YzZmUy`

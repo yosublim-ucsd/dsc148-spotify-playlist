@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with ISOxo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,019,072 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,019,086 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 74 | [You Are In My System \- Faster Horses Sport Mix](https://open.spotify.com/track/4cxpgHXbVh4sGwb1C7TAG2) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul), [Troy Denari](https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv), [Faster Horses](https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ) | [You Are In My System \(Faster Horses Sport Mix\)](https://open.spotify.com/album/4x5rQlOXx23lz5aImLGMOt) | 3:17 |
 | 75 | [let me go\*](https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [let me go\*](https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK) | 2:19 |
 
-Snapshot ID: `MCw3NGUyNDJiNjAzZDFlMGMxY2NlZDE1MDcyMWJkNzUxMmRmMTZmNmRl`
+Snapshot ID: `MCxhYjQxYTk1ZjY3NDIzMDFiNTI0MGViNjU3MGFjYWRmYWUyNDQ3ZmVm`

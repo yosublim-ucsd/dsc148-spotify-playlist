@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. Foto: Marineros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,889 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,892 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 16 | [1999](https://open.spotify.com/track/0HBuytvVquWcI2j7Rhz8SS) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [1999](https://open.spotify.com/album/5kvOK1CHAKbfPOkYhAowFu) | 2:56 |
 | 17 | [Decidí](https://open.spotify.com/track/526Et8BPKtXBTIctZsrm3Z) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 3:26 |
 | 18 | [Pájaros de fuego \- Banda Sonora Original del documental "Hawker Hunter: El ruido del silencio"](https://open.spotify.com/track/4qsgzEP6xq3jYHdj7eocub) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Pájaros de fuego \(Banda Sonora Original del documental "Hawker Hunter: El ruido del silencio"\)](https://open.spotify.com/album/3Xc48Ap1RROgCr5OTr8w7C) | 4:36 |
-| 19 | [Amarte así](https://open.spotify.com/track/7KV3kUktIYB0dCnZCzHQac) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 3:35 |
-| 20 | [Misericordia](https://open.spotify.com/track/05xaOXkSjjALluPQDgYlhP) | [Luta Cruz](https://open.spotify.com/artist/6Fzbkrh3lrfCZYK8xzZLm7) | [Primera Mujer](https://open.spotify.com/album/5Y4PCUyOZ643BqblohiBjE) | 4:07 |
+| 19 | [Misericordia](https://open.spotify.com/track/05xaOXkSjjALluPQDgYlhP) | [Luta Cruz](https://open.spotify.com/artist/6Fzbkrh3lrfCZYK8xzZLm7) | [Primera Mujer](https://open.spotify.com/album/5Y4PCUyOZ643BqblohiBjE) | 4:07 |
+| 20 | [Amarte así](https://open.spotify.com/track/7KV3kUktIYB0dCnZCzHQac) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 3:35 |
 | 21 | [perfecta](https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [perfecta](https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK) | 2:40 |
 | 22 | [y las flores? \(en bruto 1/2\)](https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:36 |
 | 23 | [Dream Love](https://open.spotify.com/track/6vStWiIMErT2VNSGnpfXaj) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Dream Love](https://open.spotify.com/album/7fgGpLBb7ujLOECT2x5svf) | 2:55 |
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 34 | [Quiero Estar Sola](https://open.spotify.com/track/1ycM7HfsgQ6CvfU0HKnVsX) | [María Colores](https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan) | [Quiero Estar Sola](https://open.spotify.com/album/5sEEKD6TjMPKp8De3Ss7ra) | 2:54 |
 | 35 | [Valientes](https://open.spotify.com/track/25PChx1yPUT0BNmNyuxMsh) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Valientes](https://open.spotify.com/album/1K2HuoKRr6EcSECJ6pX66Z) | 4:01 |
 | 36 | [Dame Una Señal](https://open.spotify.com/track/3QuuNFeiWyDbUrRKpw8Ksq) | [Natalia Montenegro](https://open.spotify.com/artist/2UFybBcjbipkbyftHLfq8C), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [Dame Una Señal](https://open.spotify.com/album/6i15JANt80vWGTIm1zEtzF) | 3:14 |
-| 37 | [Desconectar](https://open.spotify.com/track/1Sc13wbZDy0ekBN71QES4p) | [Laurela](https://open.spotify.com/artist/6fw8yY5PcFEUHwCXH5dsHP) | [Terracota](https://open.spotify.com/album/5MtnxpR2ErMUS785q1GuJJ) | 2:45 |
-| 38 | [Ser Humano](https://open.spotify.com/track/0oXxVxgnejc4uRguZEcozJ) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Ser Humano](https://open.spotify.com/album/1Mo8Gl36Gf0PdHDPCxY8lk) | 3:16 |
+| 37 | [Ser Humano](https://open.spotify.com/track/0oXxVxgnejc4uRguZEcozJ) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Ser Humano](https://open.spotify.com/album/1Mo8Gl36Gf0PdHDPCxY8lk) | 3:16 |
+| 38 | [Desconectar](https://open.spotify.com/track/1Sc13wbZDy0ekBN71QES4p) | [Laurela](https://open.spotify.com/artist/6fw8yY5PcFEUHwCXH5dsHP) | [Terracota](https://open.spotify.com/album/5MtnxpR2ErMUS785q1GuJJ) | 2:45 |
 | 39 | [correr](https://open.spotify.com/track/6QjfzTIZ50ut9SqjnX4xu6) | [Vicenta](https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo), [Cabiria](https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC) | [virgen suicida](https://open.spotify.com/album/5cGNxuYfProCoCfmSFSdsH) | 2:53 |
 | 40 | [N de negación](https://open.spotify.com/track/18KcCLCM1WhhfKV5sKsAUI) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [fuckmatiz](https://open.spotify.com/artist/3MvNlnUSqVV1IxhCyykeWh) | [N de negación](https://open.spotify.com/album/6wIIPrWYpkMEpL82eRTtWO) | 3:06 |
 | 41 | [Te Fuiste](https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Un Recuerdo](https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M) | 3:16 |
 | 42 | [Lunar](https://open.spotify.com/track/68dbSDAiiO2yIPcExFiiIU) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Eclipse](https://open.spotify.com/album/7vcqpcmh9astj6anaLNERl) | 2:43 |
-| 43 | [Lo Que Hay Afuera](https://open.spotify.com/track/4Vd9rh7HoNEAyBmFNwArrx) | [Sofia Oportot](https://open.spotify.com/artist/17zDtZTCCbhhGIIC4jKyfQ) | [Lo Que Hay Afuera](https://open.spotify.com/album/3ED3VNY8X9WPtK3LN1Misf) | 3:26 |
-| 44 | [SUFICIENTE](https://open.spotify.com/track/6TtsnJTv8MVf4oHwITp1C5) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [SUFICIENTE](https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO) | 3:21 |
+| 43 | [SUFICIENTE](https://open.spotify.com/track/6TtsnJTv8MVf4oHwITp1C5) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [SUFICIENTE](https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO) | 3:21 |
+| 44 | [Lo Que Hay Afuera](https://open.spotify.com/track/4Vd9rh7HoNEAyBmFNwArrx) | [Sofia Oportot](https://open.spotify.com/artist/17zDtZTCCbhhGIIC4jKyfQ) | [Lo Que Hay Afuera](https://open.spotify.com/album/3ED3VNY8X9WPtK3LN1Misf) | 3:26 |
 | 45 | [Tarde](https://open.spotify.com/track/7AB2GfTdJKMt2NGYsGbYj1) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Tarde](https://open.spotify.com/album/5lzETSRR6bvofqCfW4VIuS) | 3:52 |
 | 46 | [Temores](https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N) | 4:14 |
 | 47 | [Luz](https://open.spotify.com/track/1VCR3tKkne22xzGKH3jQzb) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Camila Bañados](https://open.spotify.com/artist/70PLmIOAULXzPlvKP8Zliq) | [EP Agua](https://open.spotify.com/album/4PCgmB23blDBm7y8orvLpk) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Soltera \- Remix](https://open.spotify.com/track/73IXhWTLFCycLmvuAk33mY) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT), [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI) | [Soltera \(Remix\)](https://open.spotify.com/album/6oduJOhQOBYZ8gnfSyUMvn) | 3:23 |
 | 50 | [No Resultó](https://open.spotify.com/track/5b1iIkqkzCFRgpaTAB29do) | [Carolina Nissen](https://open.spotify.com/artist/1DqfzBVRtZaQXS63wWCYMM) | [No Resultó](https://open.spotify.com/album/5Xu25GHIBlSxtOzSBAKCPm) | 3:24 |
 
-Snapshot ID: `MCwzY2U1ZDI5N2FlM2Y1ZmM1NTYyZGIyNWRmMDRhOTU3Njg3NWE4NzM2`
+Snapshot ID: `MCwxYTE2M2U1MGMwMDc4MjFmYmQ4YWM0YjhjMjkzMzk1MDYxZjc2YzU5`

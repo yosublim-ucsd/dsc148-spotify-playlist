@@ -4,7 +4,7 @@
 
 > We're celebrating the 10th anniversary of Keith Urban's hit album "Fuse" on 2010s Country!
 
-249 songs - 14 hr 50 min
+250 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Every Little Thing](https://open.spotify.com/track/4EpLU30bi1KNWkBTfgZkoK) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/2iarUPEwf9aLuvE0PDvpfi) | 3:10 | 2021-05-12 | 2022-07-29 |
 | [Every Storm \(Runs Out Of Rain\)](https://open.spotify.com/track/6s3dgEQgen7G85NtYUTEbD) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Set You Free](https://open.spotify.com/album/6PcLI5dTPttZi5OrhqcBSA) | 3:45 | 2021-05-12 |  |
 | [Every Storm \(Runs Out Of Rain\)](https://open.spotify.com/track/6hIS1u7nuJmFE12rXAPMxm) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Every Storm \(Runs Out Of Rain\)](https://open.spotify.com/album/4HxlkaJe3sIRiSKfKqrCIK) | 3:46 | 2021-07-22 | 2022-07-28 |
+| [Eyes On You](https://open.spotify.com/track/4w95iGC6NrxZJ5o3D7bWyV) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/2jynxUXDGPBkMgbXhL3KGQ) | 3:02 | 2023-10-28 |  |
 | [Eyes On You](https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd) | 3:02 | 2021-05-12 | 2023-11-04 |
 | [Farmer's Daughter](https://open.spotify.com/track/5zGqTc1WQUe8XqqdnrpKTV) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [It's America](https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH) | 3:27 | 2021-06-07 |  |
 | [Fire Away](https://open.spotify.com/track/5j4hSQH0KaAc8f6cimnXIT) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:04 | 2021-06-07 |  |
@@ -146,7 +147,7 @@
 | [Knee Deep \(feat\. Jimmy Buffett\)](https://open.spotify.com/track/1yEwEiTpsaPhQi9lb5EVV4) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [You Get What You Give \(Deluxe\)](https://open.spotify.com/album/0AXoQGOZDaYSaOo0qCTiCr) | 3:23 | 2021-07-22 | 2022-07-29 |
 | [Knee Deep \(feat\. Jimmy Buffett\)](https://open.spotify.com/track/60IGhnH20N82dNxKnc8jDd) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [You Get What You Give](https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8) | 3:23 | 2022-07-24 |  |
 | [Leave The Night On](https://open.spotify.com/track/3wx2kQWPn9p5UppQbNhPAk) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:12 | 2021-06-07 |  |
-| [Let It Rain](https://open.spotify.com/track/0DAjiINHQTnPnnY939Qyhw) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6), [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Let It Rain](https://open.spotify.com/album/0sHqVmVxBi8pF8k3OhqQfp) | 3:42 | 2021-05-12 |  |
+| [Let It Rain](https://open.spotify.com/track/0DAjiINHQTnPnnY939Qyhw) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6), [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Let It Rain](https://open.spotify.com/album/0sHqVmVxBi8pF8k3OhqQfp) | 3:42 | 2021-05-12 | 2023-11-07 |
 | [Life Changes](https://open.spotify.com/track/4Vxu50qVrQcycjRyJQaZLC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 3:10 | 2021-05-12 | 2022-10-13 |
 | [Living](https://open.spotify.com/track/54K7AZoGpQklpygKrxZlKN) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 3:42 | 2021-05-12 |  |
 | [Lonely Eyes](https://open.spotify.com/track/2j79NtwxoWDmkiH4MGwdLq) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [A.M.](https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3) | 3:37 | 2021-05-12 |  |

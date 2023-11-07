@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Joy Anonymous
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,618 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,620 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Real Life](https://open.spotify.com/track/3U1fuAieIu6RcxAWFaLNTF) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Real Life](https://open.spotify.com/album/3dPn881z7xaKhuoKHXw9EX) | 4:32 |
 | 100 | [Late Bloomer](https://open.spotify.com/track/0vUoHXpzw65PaugUhkZBBl) | [Courage](https://open.spotify.com/artist/1kGMaFXRovFOZJqxbVdnHq) | [Late Bloomer](https://open.spotify.com/album/290FUMcTcfjiEObuULbrPG) | 3:26 |
 
-Snapshot ID: `MCw1MDNiOTI0OTgwNDBkYjZkNGY2Y2JmY2E2MzI4OWE4ODlmYjhiZTRm`
+Snapshot ID: `MCxlNmQ1MzFiOTM2MDA1OTI5ZTJhZjQwODYzZjBhNGNjN2RhNTViZWEw`

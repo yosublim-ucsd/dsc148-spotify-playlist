@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "XMAS 01",
+        "url": "https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133158,
+      "name": "Candy Cane Kisses",
+      "url": "https://open.spotify.com/track/0BZQBuRR8NN4NweUyw68Vj"
+    },
+    {
+      "album": {
         "name": "Carol Of The Bells (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/4cvOEpiN4d4YMwM4eB9NvY"
       },
@@ -1149,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "Don't Give Your Heart Away for Christmas",
+        "url": "https://open.spotify.com/album/2s3Wa5FblJ5qXPZsULI6co"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134307,
+      "name": "Don't Give Your Heart Away for Christmas",
+      "url": "https://open.spotify.com/track/6fE2Kjwd5Fh2xF9IeuiOY4"
+    },
+    {
+      "album": {
         "name": "Driving Home for Christmas",
         "url": "https://open.spotify.com/album/1q9hcTbgfH9d2rWK82sbIr"
       },
@@ -1778,7 +1814,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 225817,
       "name": "Home To You (This Christmas)",
       "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
@@ -1890,7 +1926,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 122186,
       "name": "I Saw Mommy Kissing Santa Claus - Spotify Holiday Single",
       "url": "https://open.spotify.com/track/6CXNzOwENnzLV09gvmqrH1"
@@ -1930,6 +1966,28 @@
       "duration_ms": 219653,
       "name": "I'll Be Home",
       "url": "https://open.spotify.com/track/0lTurWECr2XL607eJAj1A3"
+    },
+    {
+      "album": {
+        "name": "Christmas in The City",
+        "url": "https://open.spotify.com/album/2Fj2qfm8s99jksE5aTuyaC"
+      },
+      "artists": [
+        {
+          "name": "Lea Michele",
+          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+        },
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193586,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/3fiUXmUY9DZczfqMwGP3l0"
     },
     {
       "album": {
@@ -2478,7 +2536,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 186693,
       "name": "Make You Mine This Season (Happiest Season)",
       "url": "https://open.spotify.com/track/62k0PJ7guenoJoQHUYeN8o"
@@ -3090,6 +3148,24 @@
       "duration_ms": 239706,
       "name": "Ring Out The Bells",
       "url": "https://open.spotify.com/track/03qftRowv8aPZnNZbILxUR"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Holiday Special (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202075,
+      "name": "River",
+      "url": "https://open.spotify.com/track/0Nzivfp90nH1WCPAMm7PV4"
     },
     {
       "album": {

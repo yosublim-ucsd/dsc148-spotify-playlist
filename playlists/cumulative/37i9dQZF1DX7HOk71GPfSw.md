@@ -4,7 +4,7 @@
 
 > he was a boy, i was a horse\. could that make it any more difficult.
 
-1,865 songs - 3 day 12 hr 48 min
+1,866 songs - 3 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1529,6 +1529,7 @@
 | [southview](https://open.spotify.com/track/7AChzOkdQHkekPXQaKdrAP) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [southview](https://open.spotify.com/album/6FIkvrW09KvGQ3A9vcEqki) | 2:50 | 2021-03-26 | 2021-12-20 |
 | [space coaster](https://open.spotify.com/track/1YZYpXsFmmeJiUEHOrxu85) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Here or Heaven](https://open.spotify.com/album/0D52xN7k7iJuCAyJUo2gtw) | 2:27 | 2021-12-10 | 2022-04-29 |
 | [Spalarkle \(Alys\)](https://open.spotify.com/track/0olHacuNSrjufHYd5lvpCv) | [felicita](https://open.spotify.com/artist/6GmZBJpAV2nkNPFbF64QcX), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Spalarkle \(Alys\)](https://open.spotify.com/album/51VDi4dvyyzEm2BC2m1pqT) | 4:06 | 2023-04-04 | 2023-04-15 |
+| [Spalarkle \(Alys\)](https://open.spotify.com/track/4N19YTJ4RcOve6wzSWYINm) | [felicita](https://open.spotify.com/artist/6GmZBJpAV2nkNPFbF64QcX), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Spalarkle](https://open.spotify.com/album/6Hhdo0OvNA7iuFw4uvmil5) | 4:06 | 2023-11-06 |  |
 | [spawn](https://open.spotify.com/track/4MCpzM2jmfXrxpQ5GOYK1M) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [insignia's manor](https://open.spotify.com/album/4cGpcf400VAqKAIBeFeB9a) | 1:47 | 2021-06-12 | 2022-01-13 |
 | [Speed Drive \- jamesjamesjames Remix; From Barbie The Album](https://open.spotify.com/track/5Ww9JTu9VNftDjSvjlNzHz) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Speed Drive](https://open.spotify.com/album/3pUyExZz3VhtXDospnbazV) | 4:24 | 2023-09-15 |  |
 | [Spending all my time](https://open.spotify.com/track/6tEUPYdS5m5LmZnmARmOCT) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Spending all my time](https://open.spotify.com/album/16FgJ80Z3rjPHtxXuvksi5) | 3:54 | 2020-12-11 | 2021-01-08 |

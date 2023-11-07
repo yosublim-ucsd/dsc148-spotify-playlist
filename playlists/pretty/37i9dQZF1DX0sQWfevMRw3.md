@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DANSAR ALDRIG NYKTER!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,264 likes - 102 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,299 likes - 102 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 101 | [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/track/4lkJBloFZ3aXhsezo8BgO1) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/album/484DSeiUk7NvezjWAvI2iP) | 2:53 |
 | 102 | [FÖRSÖKER LE](https://open.spotify.com/track/3Jr1fTt0S8JZSVok1LwMR9) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [FÖRSÖKER LE](https://open.spotify.com/album/5bcB7h6aFU9mQj3hUjLmre) | 3:49 |
 
-Snapshot ID: `MCw2NmQ0ZjI3OGFkOTc4OTBmZTc0NmY0MDNkNGQ1NjhkMTcyNmZmYTdk`
+Snapshot ID: `MCw4ZDY2YTg3ZjNjNjBiMzIzOWM5NDFiNGZkNmQ5YjI2ZTkzNmVhOWFm`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest music from our Country Heroes. Cover: Reba McEntire",
+  "description": "The latest music from our Country Heroes. Cover: Craig Morgan",
   "name": "New Traditions Country Heroes",
   "tracks": [
     {
@@ -2460,6 +2460,24 @@
       "duration_ms": 181823,
       "name": "In My Book",
       "url": "https://open.spotify.com/track/71Em00OWrDMDT3tGJE9YoC"
+    },
+    {
+      "album": {
+        "name": "Praying' for Sunshine",
+        "url": "https://open.spotify.com/album/1DTqHjYNTSswC8OEF0V5VO"
+      },
+      "artists": [
+        {
+          "name": "Suzy Bogguss",
+          "url": "https://open.spotify.com/artist/13YoXxZt6SLg96dQE1vkHy"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243083,
+      "name": "It All Falls Down to the River",
+      "url": "https://open.spotify.com/track/5S6Wzgth3a8WfttfEdfRij"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 123425,
+  "num_followers": 123433,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDNkMDFmNjE2YWU4NzdmOTRlZThlM2NhMTY1MGFmZTNmNzNmNjMx",
+  "snapshot_id": "MCw0NDFhNWU3YmE5MTM2YjNhNWRjNDZiNTRhMjJiNGE1MTlkNzU3Y2Iy",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Give It To The Music",
-        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 294250,
-      "name": "Give It To The Music",
-      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Si Mami",
         "url": "https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 215280,
       "name": "Cuarzo",
       "url": "https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Give It To The Music",
+        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 294250,
+      "name": "Give It To The Music",
+      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Pieles",
-        "url": "https://open.spotify.com/album/6wnljTM7txuqv9nCu2sRAu"
-      },
-      "artists": [
-        {
-          "name": "Tyu",
-          "url": "https://open.spotify.com/artist/5IToOsTYhrDB6BqOxpWTxM"
-        }
-      ],
-      "duration_ms": 500869,
-      "name": "Pieles",
-      "url": "https://open.spotify.com/track/5kh71E46NXD2ub6OcvFVy5"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Shika Shika / Botanas",
         "url": "https://open.spotify.com/album/7dejiy33hxqxez4xhOs9Fo"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 206815,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/4MuqnWkSBc766XPkFhQU1G"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Pieles",
+        "url": "https://open.spotify.com/album/6wnljTM7txuqv9nCu2sRAu"
+      },
+      "artists": [
+        {
+          "name": "Tyu",
+          "url": "https://open.spotify.com/artist/5IToOsTYhrDB6BqOxpWTxM"
+        }
+      ],
+      "duration_ms": 500869,
+      "name": "Pieles",
+      "url": "https://open.spotify.com/track/5kh71E46NXD2ub6OcvFVy5"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -891,18 +891,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/3TG0EIcV4lRzXY6NQEZD1O"
+        "name": "Ananda",
+        "url": "https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb"
       },
       "artists": [
         {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+          "name": "Akkan",
+          "url": "https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
         }
       ],
-      "duration_ms": 265125,
-      "name": "Resistencia",
-      "url": "https://open.spotify.com/track/57JZk6IzsVOdSx7U3iAX58"
+      "duration_ms": 252936,
+      "name": "Ananda",
+      "url": "https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j"
     },
     {
       "added_at": "2022-08-18 23:29:09",

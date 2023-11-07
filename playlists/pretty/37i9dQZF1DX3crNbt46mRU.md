@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: The Beatles
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,562 likes - 103 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,557 likes - 103 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 102 | [Young & Free](https://open.spotify.com/track/6fAykULmAdoUNqIorQZAVs) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Young & Free](https://open.spotify.com/album/0UeyTVnph7j8kYLCJMcYai) | 3:02 |
 | 103 | [Polizisten](https://open.spotify.com/track/76T4OHNAVcEypDQEbviZnf) | [The Disco Boys](https://open.spotify.com/artist/0suokA0Exjok9HBfB0Oc3X), [Extrabreit](https://open.spotify.com/artist/24PlSVIGWBTu65G4tEUwGj) | [Polizisten](https://open.spotify.com/album/2kAXaGXyDUIqFxllECO4Yo) | 2:28 |
 
-Snapshot ID: `MCxkOWY4Y2ZiMzY3NjgzOGUyODQ0NmI2MmNjNTA5MGEyNzkzNGMxMDlm`
+Snapshot ID: `MCxhNTkxOTFjOGYxZGVhYWIzYzk3MDc4MDQ0MzBhNjNhNjgxNGIwZmQ0`

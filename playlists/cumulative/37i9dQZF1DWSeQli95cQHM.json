@@ -638,6 +638,24 @@
     {
       "album": {
         "name": "Machooka",
+        "url": "https://open.spotify.com/album/2LyS6BUbTN5dK2kIFPbXIT"
+      },
+      "artists": [
+        {
+          "name": "BADSISTA",
+          "url": "https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215764,
+      "name": "Machooka",
+      "url": "https://open.spotify.com/track/6fsL0sv1oEm97D6qk2L0Vh"
+    },
+    {
+      "album": {
+        "name": "Machooka",
         "url": "https://open.spotify.com/album/4DKH6UMr9R1PhRzeo1OJj7"
       },
       "artists": [
@@ -746,7 +764,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 308210,
       "name": "Minguante",
       "url": "https://open.spotify.com/track/0F7pdPtwD1hAgYcgvE07P0"

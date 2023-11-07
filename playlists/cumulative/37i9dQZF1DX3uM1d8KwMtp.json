@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Ala Bora",
+        "url": "https://open.spotify.com/album/7fmTLDZue9K4gAmTpW4UKE"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1kayan",
+          "url": "https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Ala Bora",
+      "url": "https://open.spotify.com/track/5XeqFQ1Pxlw1agkLvPlTQe"
+    },
+    {
+      "album": {
         "name": "Algerian Resurrection",
         "url": "https://open.spotify.com/album/3ZjvsoFEJSX0wKoqvf18M3"
       },
@@ -224,6 +242,28 @@
       "duration_ms": 430769,
       "name": "Anlar",
       "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
+    },
+    {
+      "album": {
+        "name": "Another Brick In The Wall",
+        "url": "https://open.spotify.com/album/670imi4qiQ6eE2TEarhY7y"
+      },
+      "artists": [
+        {
+          "name": "Darksidevinyl",
+          "url": "https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0"
+        },
+        {
+          "name": "Ucha",
+          "url": "https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241716,
+      "name": "Another Brick In The Wall",
+      "url": "https://open.spotify.com/track/6jQH7bOMrSecEmb3oWHeNW"
     },
     {
       "album": {
@@ -829,6 +869,28 @@
     },
     {
       "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/7yDnhoZzgyJhlNZ98S40sy"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432786,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/7GnTip5oYsQ8qF6sLQd4EB"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/146ZQxIBQIyEOA2oCLGD1c"
       },
@@ -852,6 +914,28 @@
       "duration_ms": 330500,
       "name": "Home",
       "url": "https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q"
+    },
+    {
+      "album": {
+        "name": "Hoshiana",
+        "url": "https://open.spotify.com/album/65QFI312IEIvG6Y2xvvWvZ"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        },
+        {
+          "name": "Dikla Hackmon",
+          "url": "https://open.spotify.com/artist/1WMzRg50fwSyMmnKQ0xEvj"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Hoshiana",
+      "url": "https://open.spotify.com/track/4Ok1LFzR4bamBRyztkDQfX"
     },
     {
       "album": {

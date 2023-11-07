@@ -2019,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "Blanket",
+        "url": "https://open.spotify.com/album/7MbhBlacUYoWPZYUhsWLxK"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210466,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/5khPTiW1Ufc5uXMEqOaOXP"
+    },
+    {
+      "album": {
         "name": "Excuses for Travellers",
         "url": "https://open.spotify.com/album/69Kl8ciY9o4lxA4qhdwPZD"
       },

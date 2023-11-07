@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Snelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,386 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,440 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Dansen In Het Donker](https://open.spotify.com/track/0m0Q9ty4ISWgeYDuWqk3Ne) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Dansen In Het Donker](https://open.spotify.com/album/6qXcyBnTbcX78WcGny0ZUI) | 2:51 |
 | 70 | [Wakker](https://open.spotify.com/track/3qD6YcX8EYahVoqfZyIzYC) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Wakker](https://open.spotify.com/album/1bEM1VmjCucrV6SRcN8PRL) | 2:19 |
 
-Snapshot ID: `MCxiZTk4NzgxZGE3MzU0Yjg4MGM2M2NlZmQwMTFmZjNmYmFiYTE4OTA1`
+Snapshot ID: `MCw3Zjk2YTg1ZTljNGFkMzY3NjU3MWVmZWQ4NzFkZTQwMDYzZjIyNjhk`

@@ -384,7 +384,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 364347,
       "name": "Carnival '95 (Pride Vocal Mix)",
       "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 368466,
       "name": "Equinox (Henrik Schwarz Remix)",
       "url": "https://open.spotify.com/track/5E1DUqZWjJXjUsOFXLh9RC"
@@ -1772,6 +1772,28 @@
     {
       "album": {
         "name": "Just Us",
+        "url": "https://open.spotify.com/album/73ReUfZDgkbWOWWzUuqnH7"
+      },
+      "artists": [
+        {
+          "name": "Joey Washington",
+          "url": "https://open.spotify.com/artist/24Pdayi4BAMrgqWVOdhojJ"
+        },
+        {
+          "name": "The Men's Club",
+          "url": "https://open.spotify.com/artist/58lQYKHylrFHj6VrCsqpB6"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227173,
+      "name": "Just Us (B.O.P. Radio Joint)",
+      "url": "https://open.spotify.com/track/30LrxBxBgJl2x4EQNVAEm2"
+    },
+    {
+      "album": {
+        "name": "Just Us",
         "url": "https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r"
       },
       "artists": [
@@ -2290,7 +2312,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 938544,
       "name": "Master Blaster (Turn It Up)",
       "url": "https://open.spotify.com/track/5MDM0VryFjBi6EiLuX2PyM"
@@ -2424,7 +2446,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 379760,
       "name": "Muzik (The Siren Mix)",
       "url": "https://open.spotify.com/track/5yFx6rMeGeQlfeBmGNZ7pr"
@@ -2800,6 +2822,24 @@
       "duration_ms": 468520,
       "name": "Set My Spirit Free (feat. Sandy Rivera)",
       "url": "https://open.spotify.com/track/1waCufNVr5c5kfOBzUEEPM"
+    },
+    {
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
+          "name": "Barbara Douglas",
+          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260065,
+      "name": "Shine (Sundown Dub)",
+      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
     },
     {
       "album": {

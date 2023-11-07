@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: VillaBanks
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,892 likes - 55 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,890 likes - 55 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 54 | [Sogni più grandi](https://open.spotify.com/track/66iaIDwL6Ud7g30xcdjGcY) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Sitcom triste](https://open.spotify.com/album/4s536NBIBRn8q829pTkzn6) | 2:43 |
 | 55 | [Strappami](https://open.spotify.com/track/2hwhhzr8w5BDJVYYLWINTV) | [FirkLøver](https://open.spotify.com/artist/4565nNjbVvjOjpZjtJnH3R) | [Strappami](https://open.spotify.com/album/1g68iPAK1qMQaC0uRHj98w) | 2:29 |
 
-Snapshot ID: `MCw4NmRlZWQ3OGQ2NDc2YjQ2MzA1N2EzN2RlYTZiMWQzOGVhMWFhOGZi`
+Snapshot ID: `MCw1ZDNmZTZlYjQxNWE1OTYzMzkxMDYwZGE1MDMxMGZmNTc1OGE2M2Ey`

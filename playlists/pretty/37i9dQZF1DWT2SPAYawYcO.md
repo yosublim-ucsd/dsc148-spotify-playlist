@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: The Beatles!
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,971 likes - 79 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,994 likes - 79 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 78 | [Tomorrow 1988](https://open.spotify.com/track/5fwbWqLQnR4AgcPL74E3hD) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV) | [Tomorrow 1988](https://open.spotify.com/album/3CcBPtlS6kvpmZB3hTRDZN) | 3:08 |
 | 79 | [Waves](https://open.spotify.com/track/4dU67U4sR9XGrmrZVM0EjF) | [ENOLA](https://open.spotify.com/artist/0JwAxa5LS26N0e6wEedRnB) | [All Is Forgiven](https://open.spotify.com/album/7COYNYmGjWNc59laFxaSql) | 4:27 |
 
-Snapshot ID: `MCwxMzg4N2JiOTYxNGZhNDBkNzkxODI2N2IxNjA3MGUzOTQxMDhjZmI2`
+Snapshot ID: `MCxjNWIyMzI4NDJjZmRmNDU1ZWM4ZTFhMzU3OGZkN2VmMTFiYTVkZDg1`

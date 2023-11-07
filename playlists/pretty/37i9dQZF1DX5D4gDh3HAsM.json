@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 512199,
+  "num_followers": 512576,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzMzZWEyZGMwZGQ5YzYwYmFhNDhiNDc1N2QwMWNmZDQyZmM2YzJm",
+  "snapshot_id": "MCwzNWE3OGFlN2EzYmJiNDMwMzQ3YjU1NjEwMzUyZjBlMjIzZWI1MmUy",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -55,22 +55,6 @@
       "duration_ms": 234341,
       "name": "Christmas Wish",
       "url": "https://open.spotify.com/track/6WARQvk8lSlBv7HTWpFpFv"
-    },
-    {
-      "added_at": "2022-11-18 16:07:05",
-      "album": {
-        "name": "Have Yourself A Merry Little Christmas / Marshmallow World",
-        "url": "https://open.spotify.com/album/50TrLFhQ6l7bDC73Ktr7jh"
-      },
-      "artists": [
-        {
-          "name": "Nikki Yanofsky",
-          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
-        }
-      ],
-      "duration_ms": 172759,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/1g6YL7uQluPt6dSIROKBhB"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -731,6 +715,22 @@
       "duration_ms": 285251,
       "name": "Presente De Natal",
       "url": "https://open.spotify.com/track/18LXMJGsZliL55WLM5RKSD"
+    },
+    {
+      "added_at": "2022-11-18 16:07:05",
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas / Marshmallow World",
+        "url": "https://open.spotify.com/album/50TrLFhQ6l7bDC73Ktr7jh"
+      },
+      "artists": [
+        {
+          "name": "Nikki Yanofsky",
+          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
+        }
+      ],
+      "duration_ms": 172759,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1g6YL7uQluPt6dSIROKBhB"
     },
     {
       "added_at": "2022-11-14 14:34:45",

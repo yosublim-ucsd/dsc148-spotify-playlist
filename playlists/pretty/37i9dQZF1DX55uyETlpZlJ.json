@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All OK",
-  "num_followers": 23028,
+  "num_followers": 23034,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODY2MzQ1NjMwMGYyMzk0MzJkNGJlZDYwOWM0Y2Y3NWNlNDI4NGE1",
+  "snapshot_id": "MCwwZjYwNzU5YTFiOGZlOTk2ZDU3YzlmMDY1OWY4NjU1YmUwMDhmZGEx",
   "tracks": [
     {
       "added_at": "2023-10-25 08:03:09",
@@ -29,6 +29,26 @@
       "url": "https://open.spotify.com/track/1B8McCxEmyLM7Xv64zx0Qc"
     },
     {
+      "added_at": "2023-11-06 09:59:28",
+      "album": {
+        "name": "Nee Nanna Kavithe",
+        "url": "https://open.spotify.com/album/3Jml0aCC8w631pREfwGKe5"
+      },
+      "artists": [
+        {
+          "name": "Kiran Manjunath",
+          "url": "https://open.spotify.com/artist/0aeYsI55Nh78rT5xnI5Pxz"
+        },
+        {
+          "name": "Shreesh Gombi",
+          "url": "https://open.spotify.com/artist/4hhkVfPFH7QhsFj1PpMypP"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Nee Nanna Kavithe",
+      "url": "https://open.spotify.com/track/5F8gPMjRT1zjpaIlyjSBNw"
+    },
+    {
       "added_at": "2023-10-26 12:26:30",
       "album": {
         "name": "Kannada Balso",
@@ -43,6 +63,46 @@
       "duration_ms": 166593,
       "name": "Kannada Balso",
       "url": "https://open.spotify.com/track/5XoGUpJ2Q7u2lBfpgznbxG"
+    },
+    {
+      "added_at": "2023-11-06 10:03:37",
+      "album": {
+        "name": "Kaarana",
+        "url": "https://open.spotify.com/album/1hWbDlBA3wscSNNq6dL8hA"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        },
+        {
+          "name": "Gagan SD",
+          "url": "https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP"
+        },
+        {
+          "name": "Karthik N B",
+          "url": "https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC"
+        }
+      ],
+      "duration_ms": 177923,
+      "name": "Kaarana",
+      "url": "https://open.spotify.com/track/77zBm2513kSoqZUwsvpr3r"
+    },
+    {
+      "added_at": "2023-11-06 09:56:40",
+      "album": {
+        "name": "Ninna Preethi",
+        "url": "https://open.spotify.com/album/0V48aBzTDzvRy2WuEcPhll"
+      },
+      "artists": [
+        {
+          "name": "Prasanna Bhojashettar",
+          "url": "https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ"
+        }
+      ],
+      "duration_ms": 238001,
+      "name": "Ninna Preethi",
+      "url": "https://open.spotify.com/track/23SkLenhmQOqaMm1jkFIo3"
     },
     {
       "added_at": "2023-09-29 12:57:07",

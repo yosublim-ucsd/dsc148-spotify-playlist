@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "BHAAVAM",
+        "url": "https://open.spotify.com/album/5Le5NUhFAZ65gKlxOSWe55"
+      },
+      "artists": [
+        {
+          "name": "Job Kurian",
+          "url": "https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323644,
+      "name": "BHAAVAM",
+      "url": "https://open.spotify.com/track/0tbRl9AXpgaT8EQLmAEWdh"
+    },
+    {
+      "album": {
         "name": "Bliss Adiche Dishqum Aayie (From \"Olam\")",
         "url": "https://open.spotify.com/album/4L9rh1Cfjg6m2Lx7csfrJl"
       },
@@ -756,7 +774,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 271611,
       "name": "Irulil",
       "url": "https://open.spotify.com/track/1fv3df6n4mqoseIx1oX8TP"
@@ -876,7 +894,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 334315,
       "name": "Kaalam Poya",
       "url": "https://open.spotify.com/track/1F8POVfqXiS5vKFYf6RmlT"
@@ -974,6 +992,24 @@
       "duration_ms": 226666,
       "name": "Kaantha Reprised",
       "url": "https://open.spotify.com/track/7qU4teUQNnqYr2vzTcLVZu"
+    },
+    {
+      "album": {
+        "name": "Kaattu",
+        "url": "https://open.spotify.com/album/6Ibrm7cHqLtIjOs0iOK5Na"
+      },
+      "artists": [
+        {
+          "name": "Nitin K Siva",
+          "url": "https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351428,
+      "name": "Kaattu",
+      "url": "https://open.spotify.com/track/47tjVaXO3x96dHu12nSQX2"
     },
     {
       "album": {
@@ -1492,7 +1528,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 304733,
       "name": "Nada Nada",
       "url": "https://open.spotify.com/track/7biM1l4aQn6P2XpDBLrE4t"
@@ -1872,7 +1908,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 324000,
       "name": "Parudeesa",
       "url": "https://open.spotify.com/track/6sp4cNauunLTbcBXBTV59N"
@@ -2447,6 +2483,24 @@
     },
     {
       "album": {
+        "name": "Uyaru",
+        "url": "https://open.spotify.com/album/0DGEz5m1xeGycBNgPgFvPY"
+      },
+      "artists": [
+        {
+          "name": "Ananthu Gopi",
+          "url": "https://open.spotify.com/artist/5SaT26rmsIGokgh2ZpxNnd"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Uyaru",
+      "url": "https://open.spotify.com/track/3rFUkoIS2Hb8ZUvNtpXoRc"
+    },
+    {
+      "album": {
         "name": "Vaarkadal",
         "url": "https://open.spotify.com/album/2TYy2MAcm8czR5fXD1Ayxp"
       },
@@ -2528,6 +2582,24 @@
       "duration_ms": 312000,
       "name": "When Nature Calls",
       "url": "https://open.spotify.com/track/4VI98l8ORvSMPjIrROndfc"
+    },
+    {
+      "album": {
+        "name": "Yaanam",
+        "url": "https://open.spotify.com/album/2MN3tPfDAg2PsBBb78uLCs"
+      },
+      "artists": [
+        {
+          "name": "Sangeeth Vijayan",
+          "url": "https://open.spotify.com/artist/2TPRb7Pr2jsn9U2QL9RQut"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200014,
+      "name": "Yaanam",
+      "url": "https://open.spotify.com/track/2k0m3S5y6J3RPBEwrYAHrU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1UloYFdbD8M"

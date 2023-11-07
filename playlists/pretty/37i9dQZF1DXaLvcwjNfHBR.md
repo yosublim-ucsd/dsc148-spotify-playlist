@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Jung Kook
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,722 likes - 74 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,795 likes - 74 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 73 | [Blue Eyed Māori](https://open.spotify.com/track/2G8vllTUQQHBjZORXRsMVP) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Road From 26](https://open.spotify.com/album/0hhJLGpa6DkMzy4P8EBw2L) | 3:16 |
 | 74 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
 
-Snapshot ID: `MCwwNjFmM2M3MmFlZjg5OWVkMjJmM2JkZDZlMDg0MDZmZmE1NTc4NGY2`
+Snapshot ID: `MCxhYjI4YzNhYTRmYzY1ZDdiM2VhNWY5NjY2OGY3Nzk0NjE3MDRhNzNi`

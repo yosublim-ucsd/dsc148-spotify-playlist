@@ -131,7 +131,7 @@
     },
     {
       "album": {
-        "name": "Best Of La Bouche feat. Melanie Thornton",
+        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
         "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
       },
       "artists": [
@@ -496,7 +496,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 236693,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/0pXhsuk0u7vzOtBYdFkaAs"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 215760,
       "name": "Hyper Hyper",
       "url": "https://open.spotify.com/track/2HTkjyB61A90e1sOziRJQc"
@@ -1293,7 +1293,7 @@
     },
     {
       "album": {
-        "name": "Best Of La Bouche feat. Melanie Thornton",
+        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
         "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
       },
       "artists": [

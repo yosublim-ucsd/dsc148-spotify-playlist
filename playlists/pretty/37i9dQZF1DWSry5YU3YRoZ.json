@@ -1,12 +1,12 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 3145,
+  "num_followers": 3153,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzQyOGQ3ZjMwZGJlOTE4ZmQ0YmRmYzAxMDA0OTZlY2EwMzc5MmQ4",
+  "snapshot_id": "MCxjYTExNjljOWQxZTFkMzBkMDZiYjI2Y2NjNjI1MDVkNzNlOGJiNjQw",
   "tracks": [
     {
       "added_at": "2023-11-03 06:18:49",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 200862,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI"
+    },
+    {
+      "added_at": "2023-11-03 06:18:49",
+      "album": {
         "name": "\uc548\ubd80 Greeting",
         "url": "https://open.spotify.com/album/1RLEVogJMDuU5CJgfaj371"
       },
@@ -227,18 +243,18 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 200862,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI"
+      "duration_ms": 240718,
+      "name": "When love passes by",
+      "url": "https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E"
     },
     {
       "added_at": "2023-11-03 06:18:49",
@@ -307,18 +323,18 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "A flower bookmark",
-        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
+        "name": "We need to meet now",
+        "url": "https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "109",
+          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
         }
       ],
-      "duration_ms": 240718,
-      "name": "When love passes by",
-      "url": "https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E"
+      "duration_ms": 229000,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr"
     },
     {
       "added_at": "2023-11-03 06:18:49",
@@ -343,18 +359,18 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "We need to meet now",
-        "url": "https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7"
+        "name": "\ub450 \uc0ac\ub78c The Lover",
+        "url": "https://open.spotify.com/album/3UioVSNzdRV1lxbzkIb0Il"
       },
       "artists": [
         {
-          "name": "109",
-          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
+          "name": "OKDAL",
+          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
         }
       ],
-      "duration_ms": 229000,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr"
+      "duration_ms": 185644,
+      "name": "\ub450 \uc0ac\ub78c The Lover",
+      "url": "https://open.spotify.com/track/5sBDtoaGEzE7rotVDcEFLq"
     },
     {
       "added_at": "2023-11-03 06:18:49",
@@ -375,18 +391,18 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "\ub450 \uc0ac\ub78c The Lover",
-        "url": "https://open.spotify.com/album/3UioVSNzdRV1lxbzkIb0Il"
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
       },
       "artists": [
         {
-          "name": "OKDAL",
-          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 185644,
-      "name": "\ub450 \uc0ac\ub78c The Lover",
-      "url": "https://open.spotify.com/track/5sBDtoaGEzE7rotVDcEFLq"
+      "duration_ms": 237035,
+      "name": "Dreams in summer night",
+      "url": "https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj"
     },
     {
       "added_at": "2023-11-03 06:18:49",
@@ -439,22 +455,6 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "A flower bookmark",
-        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 237035,
-      "name": "Dreams in summer night",
-      "url": "https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj"
-    },
-    {
-      "added_at": "2023-11-03 06:18:49",
-      "album": {
         "name": "Beautiful GunbarI OST",
         "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
       },
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
+        "name": "\ub300\ub2f5 Answer (stripped)",
+        "url": "https://open.spotify.com/album/7Cz6lmKK3rCibiIYLDHeke"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 182520,
+      "name": "\ub300\ub2f5 (stripped) Answer (stripped)",
+      "url": "https://open.spotify.com/track/5IpxJA8Wz0lX58IP7pyVhI"
+    },
+    {
+      "added_at": "2023-11-03 06:18:49",
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/0TYEpVePmN48ssaj40OrMy"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 253226,
       "name": "But I'm Trying To Tell You How Much I Love You (with Moonbit)",
       "url": "https://open.spotify.com/track/3k8zcUpzJjDrJ5RC297q1w"
-    },
-    {
-      "added_at": "2023-11-03 06:18:49",
-      "album": {
-        "name": "\ub300\ub2f5 Answer (stripped)",
-        "url": "https://open.spotify.com/album/7Cz6lmKK3rCibiIYLDHeke"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "\ub300\ub2f5 (stripped) Answer (stripped)",
-      "url": "https://open.spotify.com/track/5IpxJA8Wz0lX58IP7pyVhI"
     },
     {
       "added_at": "2023-11-03 06:18:49",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "\uc637\uc7a5 Closet",
-        "url": "https://open.spotify.com/album/0pguC5BCed8NAbhtHXTSOB"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 202413,
-      "name": "\ubc24, \uacb0 (stripped) The Night Time (stripped)",
-      "url": "https://open.spotify.com/track/0wIwa4JZbljozgeIEcSxsT"
-    },
-    {
-      "added_at": "2023-11-03 06:18:49",
-      "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
@@ -667,22 +651,6 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "Simple",
-        "url": "https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J"
-      },
-      "artists": [
-        {
-          "name": "JEONG EUN JI",
-          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
-        }
-      ],
-      "duration_ms": 250453,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g"
-    },
-    {
-      "added_at": "2023-11-03 06:18:49",
-      "album": {
         "name": "I can't sleep",
         "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
       },
@@ -699,18 +667,18 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "\uafc8 Dream",
-        "url": "https://open.spotify.com/album/5sXb3IWnfelEvKB7zzW0nV"
+        "name": "\uc637\uc7a5 Closet",
+        "url": "https://open.spotify.com/album/0pguC5BCed8NAbhtHXTSOB"
       },
       "artists": [
         {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
         }
       ],
-      "duration_ms": 374991,
-      "name": "\uafc8 Dream",
-      "url": "https://open.spotify.com/track/46eCeipMrAoRS5gTkmzgrK"
+      "duration_ms": 202413,
+      "name": "\ubc24, \uacb0 (stripped) The Night Time (stripped)",
+      "url": "https://open.spotify.com/track/0wIwa4JZbljozgeIEcSxsT"
     },
     {
       "added_at": "2023-11-03 06:18:49",
@@ -727,6 +695,38 @@
       "duration_ms": 247991,
       "name": "In Your Mind",
       "url": "https://open.spotify.com/track/3NmZPizM240GOHwnyIMVJv"
+    },
+    {
+      "added_at": "2023-11-03 06:18:49",
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "duration_ms": 250453,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g"
+    },
+    {
+      "added_at": "2023-11-03 06:18:49",
+      "album": {
+        "name": "\uafc8 Dream",
+        "url": "https://open.spotify.com/album/5sXb3IWnfelEvKB7zzW0nV"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "duration_ms": 374991,
+      "name": "\uafc8 Dream",
+      "url": "https://open.spotify.com/track/46eCeipMrAoRS5gTkmzgrK"
     },
     {
       "added_at": "2023-11-03 06:18:49",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "In Other Words",
-      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
-    },
-    {
-      "added_at": "2023-11-03 06:18:49",
-      "album": {
         "name": "Do You Know My Heart",
         "url": "https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD"
       },
@@ -815,18 +799,34 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "\ucda9\ubb34\uc5d0\uc11c Chungmu",
-        "url": "https://open.spotify.com/album/6GCrQlMtxQOCaloUci71fm"
+        "name": "\ubc84\ub4dc\ub098\ubb34 Willow Tree",
+        "url": "https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV"
       },
       "artists": [
         {
-          "name": "Kang Asol",
-          "url": "https://open.spotify.com/artist/16QTzUy1Yj7XeJv2jGMo79"
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
         }
       ],
-      "duration_ms": 219000,
-      "name": "\ucda9\ubb34\uc5d0\uc11c Chungmu",
-      "url": "https://open.spotify.com/track/79KSgQdO5ralCps7J3qG9I"
+      "duration_ms": 279610,
+      "name": "\ubc84\ub4dc\ub098\ubb34 Willow Tree",
+      "url": "https://open.spotify.com/track/0qS4pPDUt33BOb276wUT0H"
+    },
+    {
+      "added_at": "2023-11-03 06:18:49",
+      "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "In Other Words",
+      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

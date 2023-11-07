@@ -1,0 +1,586 @@
+{
+  "description": "Listen to the soundtracks of the Castaway Diva. (\ubb34\uc778\ub3c4\uc758 \ub514\ubc14 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to songs selected by the cast. (\ucd9c\uc5f0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uc815\ud55c \ucd94\ucc9c\uace1\ub4e4\ub3c4 \ub4e4\uc5b4\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
+  "num_followers": 34,
+  "original_name": "\ubb34\uc778\ub3c4\uc758 \ub514\ubc14 (Castaway Diva)",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MCw0OGNmN2EwYjRlYzlhYmUwMzA1YTdhNmFjYzJhN2QyNjgyZWVhZTQx",
+  "tracks": [
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "CASTAWAY DIVA OST SEO MOK HA (PARK EUN BIN) Vol.1",
+        "url": "https://open.spotify.com/album/3IJEj5V5TA7Dbz0LpE7nhJ"
+      },
+      "artists": [
+        {
+          "name": "Park Eunbin",
+          "url": "https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/3uZxAOpw6ZjMT36GrxqDoK"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "CASTAWAY DIVA OST Part.2",
+        "url": "https://open.spotify.com/album/2BNNCPXXFjTBBbRYfHJ4ix"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 247906,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/7kAs2Dw6ymVkriLrbjtGDD"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "CASTAWAY DIVA OST Part.1",
+        "url": "https://open.spotify.com/album/1tWQWkixw1RM7fqRONLMU6"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/6a2cutO8pmtSA9atoH041j"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "CASTAWAY DIVA OST Part.2",
+        "url": "https://open.spotify.com/album/2BNNCPXXFjTBBbRYfHJ4ix"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Butterfly (Inst.)",
+      "url": "https://open.spotify.com/track/08zV3QMrjLEpCfrvKlk4jn"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "CASTAWAY DIVA OST Part.1",
+        "url": "https://open.spotify.com/album/1tWQWkixw1RM7fqRONLMU6"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 220679,
+      "name": "Rest (Inst.)",
+      "url": "https://open.spotify.com/track/652CEApT97GNb3Q4EYxe3F"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "GAME PLAN",
+        "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 160578,
+      "name": "Fast Forward",
+      "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Stylish\u2026",
+        "url": "https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "duration_ms": 236147,
+      "name": "10 Minutes",
+      "url": "https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "SUNMI SPECIAL EDITION [Gashina]",
+        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Gashina",
+      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Gotta Go",
+        "url": "https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 221813,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "NUNA",
+        "url": "https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 195836,
+      "name": "NUNU NANA",
+      "url": "https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/5JgddHGpRW0BxtkIT0LZB4"
+      },
+      "artists": [
+        {
+          "name": "Uhm Jung Hwa",
+          "url": "https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB"
+        }
+      ],
+      "duration_ms": 234057,
+      "name": "Invitation",
+      "url": "https://open.spotify.com/track/0HmNuAoSYVsRRjKiAucFn7"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "The Third Eye",
+        "url": "https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Jung",
+          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "Bruise",
+      "url": "https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Lowlife Princess: Noir",
+        "url": "https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 165135,
+      "name": "BIBI Vengeance",
+      "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Let's Go To My Star",
+        "url": "https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc815\ud604",
+          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "\uc640",
+      "url": "https://open.spotify.com/track/1XrfEfQj3x4XfIM1nxMJJW"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "A`wesome",
+        "url": "https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "duration_ms": 199210,
+      "name": "How's this",
+      "url": "https://open.spotify.com/track/6Wqmn89a8tItOh3NLEhNTD"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Dally (feat. GRAY)",
+        "url": "https://open.spotify.com/album/29V7CreOSbyquvDJYiEs1Y"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Dally (feat. GRAY)",
+      "url": "https://open.spotify.com/track/1JD37Pmj6xJj8dlWHgLG9C"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Coming of age ceremony",
+        "url": "https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF"
+      },
+      "artists": [
+        {
+          "name": "parkjiyoon",
+          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
+        }
+      ],
+      "duration_ms": 210079,
+      "name": "Coming of age ceremony",
+      "url": "https://open.spotify.com/track/2adWXRegCboef5ZOjW3ffe"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Type B (1)",
+        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
+      },
+      "artists": [
+        {
+          "name": "Son Dam Bi",
+          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Lexury",
+        "url": "https://open.spotify.com/album/1S0t8xkMJqpO4IfX7Pz6Lj"
+      },
+      "artists": [
+        {
+          "name": "Lexy",
+          "url": "https://open.spotify.com/artist/5C9rYLjMoYuwbbM34ReBU5"
+        }
+      ],
+      "duration_ms": 231493,
+      "name": "\uc560\uc1a1\uc774 (CF - \uc368\ub2c8\ud150)",
+      "url": "https://open.spotify.com/track/2g0ZIGBR0gur3LMOiGBNfD"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "A Sweet Moment",
+        "url": "https://open.spotify.com/album/1JQEpesj1YaomwFhSSYsK8"
+      },
+      "artists": [
+        {
+          "name": "IVY",
+          "url": "https://open.spotify.com/artist/7wBrxhzcHVIis4VL3iR6hF"
+        }
+      ],
+      "duration_ms": 204199,
+      "name": "\uc720\ud639\uc758 \uc18c\ub098\ud0c0",
+      "url": "https://open.spotify.com/track/3SmsqaN5Hr7IFrvnzMQqvG"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Snappy Diva's Second Album",
+        "url": "https://open.spotify.com/album/4XG3swP5XIOrFzs1xd2lqF"
+      },
+      "artists": [
+        {
+          "name": "Diva",
+          "url": "https://open.spotify.com/artist/0CI6MkDddUbiuI8T7V5ZcF"
+        }
+      ],
+      "duration_ms": 247928,
+      "name": "Why calling",
+      "url": "https://open.spotify.com/track/6JrNdcEqbwt50I19SxJr2x"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Piero laughs at us",
+        "url": "https://open.spotify.com/album/7wla8Ntrpvs2VjRj5NB9qj"
+      },
+      "artists": [
+        {
+          "name": "Kim Wan-sun",
+          "url": "https://open.spotify.com/artist/3e0aTvNjIG93ye2YlL90UF"
+        }
+      ],
+      "duration_ms": 206710,
+      "name": "Piero laughs at us",
+      "url": "https://open.spotify.com/track/0fGbon58TJAGc3wNRkAUKV"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/7A1EVYsZJWJZsltnLGPkJa"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/5KDU7pnODWs7fe9DztpABP"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "\uc804\ud654\ubc1b\uc5b4",
+      "url": "https://open.spotify.com/track/0jtnTCnfUwTPFxEJLAg9ff"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Virginalness Bloom",
+        "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
+      },
+      "artists": [
+        {
+          "name": "\ucc44\uc5f0",
+          "url": "https://open.spotify.com/artist/5YdRA9BjzC3Xd36SBsK06D"
+        }
+      ],
+      "duration_ms": 183413,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Crazy In Love (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "duration_ms": 215672,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "Rude Boy",
+      "url": "https://open.spotify.com/track/60jzFy6Nn4M0iD1d94oteF"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
+    },
+    {
+      "added_at": "2023-11-06 02:29:24",
+      "album": {
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
+    }
+  ],
+  "unique_name": "\ubb34\uc778\ub3c4\uc758 \ub514\ubc14 (Castaway Diva)",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1golRcLMcrP"
+}

@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-497 songs - 1 day 8 hr 20 min
+498 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Catatonia](https://open.spotify.com/track/1yKyN555vTcZun8SLVDd8Y) | [Babirusa](https://open.spotify.com/artist/35yVMdlqtayJwkb192ePgh) | [Catatonia](https://open.spotify.com/album/7rdTTF62eg3jRAMcAamljf) | 3:44 | 2021-12-31 | 2022-07-28 |
 | [Cathedral](https://open.spotify.com/track/4Y5xe7x4gQkhgOwLvlGNY8) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [Cathedral](https://open.spotify.com/album/7lms8BTHcXigzIUEkTNUmK) | 2:55 | 2022-04-15 | 2022-07-24 |
 | [Cathedrals of Blood \(Twilight of the Idols\)](https://open.spotify.com/track/7tyqpGsyDgCTL8EOcqhJt5) | [Phobophilic](https://open.spotify.com/artist/1cdxNUejlVcTwgWocqB3eF) | [Enveloping Absurdity](https://open.spotify.com/album/0ULfAaYkPeQfu3f64qNiuy) | 4:15 | 2022-09-16 | 2023-02-12 |
+| [Caved In](https://open.spotify.com/track/1KKuUsADKAdwE90zxrvwuE) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Dedication To Flesh](https://open.spotify.com/album/5g8OeROCewoYawxiNCmFXU) | 2:57 | 2023-08-16 |  |
 | [Caved In](https://open.spotify.com/track/2BAuNSD3o86LargMzbXNrQ) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Caved In](https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG) | 2:58 | 2022-02-11 | 2023-11-04 |
 | [CHAIN \(feat\. Jacob Lilly\)](https://open.spotify.com/track/5vw6v6Fta7a4BwHvhMtnVW) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Chamber](https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN), [Jacob Lilly](https://open.spotify.com/artist/3liqJR5I9qc7zYvhrM0tUx) | [CHAIN \(feat\. Jacob Lilly\)](https://open.spotify.com/album/6M7pQm8mrIcrc57XXQfNmx) | 1:11 | 2023-04-28 | 2023-11-05 |
 | [Chainbreaker](https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD) | [Shrine of Malice](https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ) | [Chainbreaker](https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B) | 4:35 | 2021-12-17 |  |
@@ -346,7 +347,7 @@
 | [Paralysis](https://open.spotify.com/track/3smy2zZQdadYQpsKJ65tiL) | [The Escapist](https://open.spotify.com/artist/1Z6ld2svs06hAliYiTt8sV), [Filip Danielsson](https://open.spotify.com/artist/6DqJZcqPbU3yvqp0Ypx5V0) | [Paralysis](https://open.spotify.com/album/0gqTrfqM3rZVWC6ik838d9) | 3:55 | 2021-12-17 | 2022-04-21 |
 | [Paranoid Skizoid](https://open.spotify.com/track/15KxR0KLfryV2yNKU8WFf3) | [DeadSquad](https://open.spotify.com/artist/2By8ec9DQOnN2aiiFyrQ82) | [Paranoid Skizoid](https://open.spotify.com/album/3HX4nigXg6PaUMBhDgAFXO) | 3:02 | 2022-01-14 |  |
 | [Parasite](https://open.spotify.com/track/4V004qkJIj2kvRUvA28LI3) | [Abyss Walker](https://open.spotify.com/artist/0gJ0dOw0r6daBMmJr6ROvQ), [Sammy SlamDance](https://open.spotify.com/artist/64LYfCjQQZTG2ygTRfFzk1), [Nick Cross](https://open.spotify.com/artist/0YSnq2dV2heq3fiu5kacmH), [Divisive](https://open.spotify.com/artist/7J0ZwYG57Ruw6ExLKls9PC) | [Parasite](https://open.spotify.com/album/0Tr8yRpp0crtdCltwINpYP) | 3:51 | 2021-12-17 | 2022-07-27 |
-| [Passage](https://open.spotify.com/track/6rHuJ8vgYvsHT46uKhrAi9) | [Humanity's Last Breath](https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E) | [Passage](https://open.spotify.com/album/2GbDuyNFDrydBZIk8YcuT1) | 4:14 | 2023-07-21 |  |
+| [Passage](https://open.spotify.com/track/6rHuJ8vgYvsHT46uKhrAi9) | [Humanity's Last Breath](https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E) | [Passage](https://open.spotify.com/album/2GbDuyNFDrydBZIk8YcuT1) | 4:14 | 2023-07-21 | 2023-11-07 |
 | [Pernicious](https://open.spotify.com/track/7uDhTPFdGnIXGUWIlCoQl8) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Pernicious](https://open.spotify.com/album/41B7Vg1Vsc0W4bIFswKKOk) | 5:15 | 2021-12-17 |  |
 | [PIGS EAR](https://open.spotify.com/track/4ZJduIHjMVQ3RIxFOR7sHz) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [PIGS EAR](https://open.spotify.com/album/58CBeC9b0zQuOiFb0JniJT) | 2:11 | 2021-12-17 | 2022-07-28 |
 | [Pigs Ear](https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Hindsight](https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs) | 2:11 | 2022-07-08 |  |

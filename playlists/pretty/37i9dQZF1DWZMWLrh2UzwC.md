@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: The Beatles
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,016 likes - 84 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,021 likes - 84 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 83 | [Silver Girl](https://open.spotify.com/track/4p10J9MjARAhIKBIwQjpVl) | [The Reasonabilists](https://open.spotify.com/artist/1BnOjblyq65jltLsoegf8c) | [Silver Girl](https://open.spotify.com/album/6JgY5gWmcrUChVZzV05jYm) | 4:12 |
 | 84 | [Moove](https://open.spotify.com/track/3qWHPx1FZiXPj9LwyVNcjD) | [Two Pills After Meal](https://open.spotify.com/artist/3tEhENbTF4IxqaolMlwdvT) | [Moove](https://open.spotify.com/album/1EH2yn7TIxUHXX5kQjLp7s) | 4:10 |
 
-Snapshot ID: `MCxjOGVmNDc0ZWRiYjhkMmQxYjlmNDQ2NzJhZWQ5NTg0ZDlhMWZkM2Qx`
+Snapshot ID: `MCw3NmE1YmE1MmE4ZWE0NDE0NmMyNjdlZDQ0NWFjNTJmYjQ4MWMyMjkz`

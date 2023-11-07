@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:5yCOPpDHEQxwSJJL2LAqLj">Mack Brock</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,294 likes - 99 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,400 likes - 99 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Steady](https://open.spotify.com/track/6gGfORW04FjcMSn2u8zgHH) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Steady](https://open.spotify.com/album/2EWfsVbf3AwGAovgE7e5W2) | 3:46 |
 | 99 | [closer still](https://open.spotify.com/track/64YoJxyHwgBbrlvcKcE5tC) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR), [ISAI](https://open.spotify.com/artist/3od4hzDFA7cSnG8Ne7vsTD) | [closer still](https://open.spotify.com/album/56G4KGyNIq6EN5QDStqEpt) | 3:52 |
 
-Snapshot ID: `MCxkNWQyYWE2NDJlOTU3M2E5ZDhiNmFhNzdiZTBkMzExNzFiYWE3MzUw`
+Snapshot ID: `MCxiNTdlZDg1MzRlOWI5MTIzNTNlMjA0ZmUxNzg5YmY2YzNlNWQ4NjZm`

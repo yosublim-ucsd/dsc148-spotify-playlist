@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa?si=sBk9FMaTR6uCi2cDOz6lIw">Makaya McCraven</a> takes over Jazz NXT; a mix of personal and local favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,494 likes - 51 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,513 likes - 51 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 50 | [Autumn In New York](https://open.spotify.com/track/2G6rigRT2zK9yV2Xkbopnn) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 5:55 |
 | 51 | [Kalahari](https://open.spotify.com/track/1myFgXjtAzOmX2hP83Nck6) | [Dollar Brand](https://open.spotify.com/artist/6qshOTFUQhvYrza4Sc85Tl), [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ) | [Underground in Africa](https://open.spotify.com/album/2KlhYMywTqhnjsdMXDI8yc) | 23:08 |
 
-Snapshot ID: `MCxkNzBkNWNhOGI1ZTNhN2MyNmZkYmJlYWQxZGUwYWMxODQ0MDUxYmQ1`
+Snapshot ID: `MCw4NTNhYTlmZmMwMjk0ZDMxYjgxNTY3ZGZlMzViN2FiYWRmZTM5MDNi`

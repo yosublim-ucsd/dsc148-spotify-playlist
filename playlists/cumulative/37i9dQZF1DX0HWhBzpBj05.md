@@ -2,9 +2,9 @@
 
 ### [Happy Holidays](https://open.spotify.com/playlist/37i9dQZF1DX0HWhBzpBj05)
 
-> Spread some cheer with this list of new and old seasonal favorites.
+> Spread some cheer with this list of new and old seasonal favorites\. Cover: Brenda Lee
 
-161 songs - 9 hr 2 min
+163 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Holly Jolly Christmas](https://open.spotify.com/track/1UxgIFGB6em0vP1V9to5Ne) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 2:02 | 2022-12-02 |  |
 | [A Marshmallow World](https://open.spotify.com/track/3szI9hDVbyOYU0yd77G35n) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:40 | 2021-12-20 |  |
 | [Ain't No Chimneys in the Projects](https://open.spotify.com/track/0z8XkugfsVI0HtXJDph8RA) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/73nbM7q1KmaYMYbzD5KsHc) | 2:22 | 2021-12-20 | 2023-04-29 |
-| [Ain't No Chimneys in the Projects](https://open.spotify.com/track/4RZZkgTr9PtlcmSGVBezxu) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/206CtiH7Yc0YfOtW2UtP7T) | 2:22 | 2022-12-16 |  |
+| [Ain't No Chimneys in the Projects](https://open.spotify.com/track/4RZZkgTr9PtlcmSGVBezxu) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/206CtiH7Yc0YfOtW2UtP7T) | 2:22 | 2022-12-16 | 2023-11-07 |
 | [All Alone on Christmas](https://open.spotify.com/track/7kwAGjaoIvIEfL2poi9A1U) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [Christmas \(Baby, Please Come Home\)](https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6) | 4:09 | 2022-12-05 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-20 |  |
 | [Baby, It's Cold Outside \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/0cBCE4fJztY5LcB6P7P2io) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:38 | 2022-10-23 |  |
@@ -62,6 +62,7 @@
 | [Hard Candy Christmas](https://open.spotify.com/track/0uTVChzibEWKrXojPaJ9y1) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:37 | 2021-12-20 |  |
 | [Hark! The Herald Angels Sing \- Remastered 1999](https://open.spotify.com/track/2BLwLAc1swTc4TC7K3J506) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:21 | 2021-12-20 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3MKyA6s2XFSC70CTRHyDDe) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Merry Christmas](https://open.spotify.com/album/7zCvEkPCZcGWa1RHWjo2e0) | 3:23 | 2022-12-05 |  |
+| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5glfPRHTaZm1oyyfKlFC6e) | [Renée Zellweger](https://open.spotify.com/artist/4ZYtO7K6tpQGNgoRRseDOg), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Judy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kehYSGwHGUl5Sm1vDcRLm) | 2:58 | 2023-11-06 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 | 2021-12-20 | 2022-12-06 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6CHeVxecD2clOIpCpG0Nrm) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Play Christmas Music](https://open.spotify.com/album/3qPh58Q0uzQEzwrKsAMCVM) | 2:50 | 2022-10-23 | 2022-11-13 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7Hz6LLOVxrojLPIHJJ1S0E) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/6aT8FGBTfyAhIDQ0IDaebz) | 2:50 | 2021-12-20 | 2022-07-29 |
@@ -73,8 +74,9 @@
 | [I Like Christmas](https://open.spotify.com/track/7vbUA4qsHGQy7weCqhVmus) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:59 | 2023-10-20 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/0EwuAHdON2ma8UBa7Flpee) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:37 | 2022-11-23 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/7MnLsyO1JvYwgvEJrBPybg) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Phil Spector Definitive Collection](https://open.spotify.com/album/5raKUBsZf9x31UuRmJ5c9Z) | 2:41 | 2021-12-20 | 2022-11-23 |
+| [I'll Be Home for Christmas](https://open.spotify.com/track/3fiUXmUY9DZczfqMwGP3l0) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) | [Christmas in The City](https://open.spotify.com/album/2Fj2qfm8s99jksE5aTuyaC) | 3:13 | 2023-11-06 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/6kDt7UcDZJMrAluOxTSWV1) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [I'll Be Home for Christmas](https://open.spotify.com/album/0BeZLG9XcyUSSxhIS1QgpS) | 3:00 | 2021-12-20 | 2022-12-03 |
-| [I'll Be Home for Christmas](https://open.spotify.com/track/0GyXfYRuvG9nt71zF99SER) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 4:27 | 2022-12-05 |  |
+| [I'll Be Home for Christmas](https://open.spotify.com/track/0GyXfYRuvG9nt71zF99SER) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 4:27 | 2022-12-05 | 2023-11-07 |
 | [It May Be Winter Outside](https://open.spotify.com/track/1T4kXye2Sbxc7ivTV1mCBd) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Light Up The World](https://open.spotify.com/album/0Q1RU19YltjinesdXfxeMp) | 3:05 | 2021-12-20 | 2022-07-29 |
 | [It May Be Winter Outside](https://open.spotify.com/track/6lD9SwYTdBbaIKhmZhPBJD) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Light up the World](https://open.spotify.com/album/7KstBZj4EGlywQzCrgKdFL) | 3:05 | 2021-12-20 |  |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-12-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Bruses en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,259 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,289 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 59 | [Te Veo](https://open.spotify.com/track/22r2PyuHVwaIwuxNxrcQ9w) | [Todo Mal](https://open.spotify.com/artist/3jpWZ08DVKnL2nuzIBwxqe) | [Te Veo](https://open.spotify.com/album/6cd0HeMlqgvdz0a7nL0piG) | 3:28 |
 | 60 | [Riley](https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [Riley \(S\)](https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0) | 2:58 |
 
-Snapshot ID: `MCxlNTEyZmRkNjhkZjIzNWQ5ODg2OWJkOTk1ZTBkODFlMDU4YjI0NTIx`
+Snapshot ID: `MCxjODc0ODBlM2YwYWIzYjUxNDY0NjQzODc2MzI0Yjk1ZWUzN2Q1Zjk5`

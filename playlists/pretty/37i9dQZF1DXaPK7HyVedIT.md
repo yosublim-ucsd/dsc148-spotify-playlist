@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: RUBACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,222,481 likes - 83 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,492 likes - 83 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 82 | [CKULO](https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [CKULO](https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW) | 2:32 |
 | 83 | [Alcalina](https://open.spotify.com/track/4NNfMsL0JnIZXi16qF9HAM) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD) | [Sunlight / Alcalina](https://open.spotify.com/album/2jagSL9eFHxqGSYKcOKlfM) | 3:52 |
 
-Snapshot ID: `MCwyMzJlOWRiMDM1OThjODk5ZTVjZjEzNTRlMjkyOGYwNTg2YmFjZmU5`
+Snapshot ID: `MCxjMzRkMDQ2NzU2OGU1Y2FkMDdhMDgwYmVmMjBkYTQzNWEzZDdkNGU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Feli Colina y FLORIAN en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,145 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,164 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Frikiao](https://open.spotify.com/track/0G8i7QzYslP03bYv5ESHvm) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Frikiao](https://open.spotify.com/album/7p6qrHPY3NB69YktQ0PrMZ) | 3:51 |
 | 50 | [INSTITUTO Y TRABAJOS](https://open.spotify.com/track/0UIPJoQ2q1AVbhtv570Mao) | [BER](https://open.spotify.com/artist/6hyb6aOpQAw0VC1SQdq5P6) | [INSTITUTO Y TRABAJOS](https://open.spotify.com/album/7nejDqG7Fss1vKRGQ0ZBEs) | 2:27 |
 
-Snapshot ID: `MCxlMDQwYWU0OWE4ZThlNWM3NWNjNWUyOGIxMDFjYWI2ODM0ZDU2MDMz`
+Snapshot ID: `MCwzMDQ5ZGY2ZDZmMDdmODczNDRiZWVmZWUwY2QxODNmNDJmOGQxOTM0`

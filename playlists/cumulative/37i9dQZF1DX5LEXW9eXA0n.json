@@ -11869,6 +11869,24 @@
     },
     {
       "album": {
+        "name": "NO WHERE, NOW HERE",
+        "url": "https://open.spotify.com/album/4EPsnYqqFuaOX4NLypy8gR"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240280,
+      "name": "NO WHERE, NOW HERE",
+      "url": "https://open.spotify.com/track/28l1FPRsb1TcvotgqZjbAL"
+    },
+    {
+      "album": {
         "name": "No Worries",
         "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
       },

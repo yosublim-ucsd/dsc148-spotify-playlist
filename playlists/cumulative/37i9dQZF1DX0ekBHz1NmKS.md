@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-852 songs - 1 day 21 hr 3 min
+854 songs - 1 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Dancer](https://open.spotify.com/track/3FpsFW7PcGAUki4siWcvVk) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dancer](https://open.spotify.com/album/1RY6ffqngwYDOrQ9vHb5SC) | 3:57 | 2021-12-16 | 2022-02-27 |
 | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd), [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl) | 2:49 | 2023-02-18 | 2023-10-06 |
 | [Dansar på lakan](https://open.spotify.com/track/1Nhm9iD7DycxEiLzPjvSnV) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z) | [Dansar på lakan](https://open.spotify.com/album/7fkILnGxZDkcsnRVPjCcjS) | 3:11 | 2021-12-16 | 2022-01-10 |
-| [Dawn](https://open.spotify.com/track/4ilrp6PdG89jBXDJlBmfvq) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Dawn](https://open.spotify.com/album/6NK2HrpCmzxrMUniKoFhUR) | 3:37 | 2023-10-19 |  |
+| [Dawn](https://open.spotify.com/track/4ilrp6PdG89jBXDJlBmfvq) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Dawn](https://open.spotify.com/album/6NK2HrpCmzxrMUniKoFhUR) | 3:37 | 2023-10-19 | 2023-11-07 |
 | [De hade vart slut](https://open.spotify.com/track/5DpRttmHx6XejVWeGjO7D5) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [De hade vart slut](https://open.spotify.com/album/4oQfgrS3iJgbxDMbuPoqOJ) | 2:53 | 2023-10-19 | 2023-10-22 |
 | [Dead Man Walking](https://open.spotify.com/track/5X4EeFwgG6YYzU7xRt96RH) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Dead Man Walking](https://open.spotify.com/album/1gW2Nl2haUPLXN2FNHVpsb) | 2:57 | 2023-09-21 |  |
 | [Dead To Me](https://open.spotify.com/track/46NwQ3pZcIJdBL3Oh7R6D3) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Valentino](https://open.spotify.com/album/2HAQenAv2djFjcu5Qpv1GD) | 3:19 | 2023-10-19 |  |
@@ -238,6 +238,7 @@
 | [Feel Love](https://open.spotify.com/track/2rEepd7vMT7nySNBliu8VU) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Truth & Consequences](https://open.spotify.com/album/1ekyxoUytdZjVwOR5teXlm) | 3:43 | 2022-05-19 | 2022-07-28 |
 | [Feels Like A Dream](https://open.spotify.com/track/5mQmh9swNjNrfp1wKCZi8p) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Feels Like A Dream](https://open.spotify.com/album/4gyZv5JaaDicMnO1Ja3kBw) | 2:52 | 2022-09-01 | 2022-10-31 |
 | [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 | 2023-09-08 |  |
+| [Festen \- Remix](https://open.spotify.com/track/4aCfUbfu8NiacDnodIMvLc) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv), [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [Festen \(Remix\)](https://open.spotify.com/album/11m5bfHgmwNncfAoTZK7Ge) | 2:37 | 2023-11-03 |  |
 | [Fight Like A Girl](https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fight Like A Girl](https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e) | 3:32 | 2023-08-03 |  |
 | [Fine](https://open.spotify.com/track/3p52HKLY1X9Vfvkkajpfwd) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Fine](https://open.spotify.com/album/53p4lvVH4RV76OQj6evdOx) | 3:25 | 2022-03-10 | 2022-09-16 |
 | [Fint att få va med dig](https://open.spotify.com/track/6yz3bCneU0XztgwIu6CNxJ) | [Jimmy Ahlén](https://open.spotify.com/artist/0VdcztH2xzmGP5hFr9pUtg), [Hanna Christiansson](https://open.spotify.com/artist/50CfYjX4VlsiXgOXHc8aQG) | [Fint att få va med dig](https://open.spotify.com/album/0ct5SzIYbWiQfbrzEAjEvi) | 3:29 | 2023-01-19 | 2023-02-24 |
@@ -726,8 +727,9 @@
 | [Take A Chance On Me](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 | 2023-10-05 |  |
 | [Tappat \- Spotify Singles](https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Tappat \- Spotify Singles](https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW) | 2:30 | 2022-09-29 | 2023-10-06 |
 | [Tar det som det kommer](https://open.spotify.com/track/1Di5aUgV5pLRQhn9w1rQSx) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Tar det som det kommer](https://open.spotify.com/album/2YWizNtuqlm7GiBu6b68LU) | 3:27 | 2022-04-07 | 2022-11-08 |
-| [Taste Of Heaven](https://open.spotify.com/track/2ByE2T6q6xsJ4540xka3pz) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee) | [Taste Of Heaven](https://open.spotify.com/album/0Cbt2xiCAc1vjTCHnPdFDG) | 2:50 | 2023-11-03 |  |
+| [Taste Of Heaven](https://open.spotify.com/track/2ByE2T6q6xsJ4540xka3pz) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee) | [Taste Of Heaven](https://open.spotify.com/album/0Cbt2xiCAc1vjTCHnPdFDG) | 2:50 | 2023-11-03 | 2023-11-07 |
 | [Taxin](https://open.spotify.com/track/6fVsYWoMw8kR0pudjjEUb0) | [Broder Jakob](https://open.spotify.com/artist/6O55JxNwObW4tmmL0jO9zy) | [Taxin](https://open.spotify.com/album/4z5n7zYUidCJA6enyihZ6F) | 2:53 | 2022-05-05 | 2022-07-23 |
+| [Teach Me](https://open.spotify.com/track/67WrJrYuDihmwIVhR4p7N1) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Youth And Why It Ends](https://open.spotify.com/album/2rv9MHfgzqAvshO61zMdBn) | 2:40 | 2023-11-03 |  |
 | [Teach Me](https://open.spotify.com/track/69C61BkstEREBdizQrgbQi) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Teach Me](https://open.spotify.com/album/1G5PjW6Cy80XPTmyRr2nyv) | 2:40 | 2023-10-20 | 2023-11-05 |
 | [Tears](https://open.spotify.com/track/1KEXV4nhFG7lkOU7qqiQyi) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [What They'll Say About Us](https://open.spotify.com/album/4mdAcPpvearpFuQm4VZc6a) | 2:32 | 2021-12-16 | 2022-03-11 |
 | [Tears Are In Your Eyes](https://open.spotify.com/track/0ncmKS7QC4FIviZKZnIpXn) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Too Late for Edelweiss](https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS) | 4:07 | 2022-10-06 | 2022-11-08 |

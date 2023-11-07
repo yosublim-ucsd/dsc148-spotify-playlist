@@ -4942,7 +4942,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 138000,
       "name": "Back into Time",
       "url": "https://open.spotify.com/track/20THb4yF039Sea9oWiSVtq"
@@ -35340,6 +35340,28 @@
       "duration_ms": 83101,
       "name": "Lazy Day",
       "url": "https://open.spotify.com/track/6Y7qEot1GyDBdg3abzdNmY"
+    },
+    {
+      "album": {
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/2OLQX3inZvKYLQQwh4f0b2"
+      },
+      "artists": [
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        },
+        {
+          "name": "MALIWA",
+          "url": "https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142588,
+      "name": "Lazy Days",
+      "url": "https://open.spotify.com/track/0CRNh0vUwovaGDmVZ7bvYH"
     },
     {
       "album": {

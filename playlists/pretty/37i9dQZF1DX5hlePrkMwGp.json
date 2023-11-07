@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the romantic side of Ani",
-  "num_followers": 122975,
+  "num_followers": 123032,
   "original_name": "Romantic Anirudh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODE4ZWI5MGY3MWU5MzA5ODMxZmNhODIyOTY4YmQ0NDI5NzI5ZTcw",
+  "snapshot_id": "MCw5ZjJjMjMwODM5N2IxY2IxMTNhOGEyYWQ4MTY1OTBjOWUyY2VlYTA1",
   "tracks": [
     {
       "added_at": "2021-08-02 09:30:31",
@@ -199,30 +199,6 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Simba (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0DUTVOWLmclAk3pfhHUwbY"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q"
-        }
-      ],
-      "duration_ms": 189105,
-      "name": "Marandhadhae",
-      "url": "https://open.spotify.com/track/6djRqSJNZnkuWYXQWaeCL8"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
         "name": "3 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ"
       },
@@ -243,6 +219,30 @@
       "duration_ms": 205946,
       "name": "Kannazhaga - The Kiss of Love",
       "url": "https://open.spotify.com/track/2MwCoo4GeXpi8soWn9EiPo"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Simba (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0DUTVOWLmclAk3pfhHUwbY"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q"
+        }
+      ],
+      "duration_ms": 189105,
+      "name": "Marandhadhae",
+      "url": "https://open.spotify.com/track/6djRqSJNZnkuWYXQWaeCL8"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -907,6 +907,22 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
+        "name": "Rockstar Anirudh Special",
+        "url": "https://open.spotify.com/album/43MRDI02yQ8V1lGyveTq4C"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 262539,
+      "name": "Thangamey",
+      "url": "https://open.spotify.com/track/3Oh1zx6YSpHMk7R4grBIiI"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
         "name": "Best of Anirudh",
         "url": "https://open.spotify.com/album/66AenW3eBfgkiuBbtJr9wf"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 312280,
       "name": "Velicha Poove (From \"Ethir Neechal\")",
       "url": "https://open.spotify.com/track/0o2S5PKRkpTq8dLx8O7W4j"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Rockstar Anirudh Special",
-        "url": "https://open.spotify.com/album/43MRDI02yQ8V1lGyveTq4C"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 262539,
-      "name": "Thangamey",
-      "url": "https://open.spotify.com/track/3Oh1zx6YSpHMk7R4grBIiI"
     },
     {
       "added_at": "2021-08-02 09:30:31",

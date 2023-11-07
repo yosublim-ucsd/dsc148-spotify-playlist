@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: Zior Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,614 likes - 53 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,641 likes - 53 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 52 | [I Don’t Know Yet What Love Is](https://open.spotify.com/track/7odamia4OBBIYhTg0Fn5qx) | [TSUKI\(Billlie\)](https://open.spotify.com/artist/2AjQj6G5IYE4otAvSnTgoM) | [I Don’t Know Yet What Love Is](https://open.spotify.com/album/0D0qoAkmyItrDgRCSdiHsJ) | 2:47 |
 | 53 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 |
 
-Snapshot ID: `MCxjNWUxNDdjNTNhNzRmYWZlYzk4Y2IwMWNkOTZjMjU1Y2RhYjMxYmNl`
+Snapshot ID: `MCw1ZmE4N2FkNDY4MGQ1MjRhYjhmNzMzNDc1OGUxMWJjM2M2NmJhMjky`

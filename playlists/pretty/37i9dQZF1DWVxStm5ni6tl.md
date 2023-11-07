@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Fresh Finds will return next Wednesday! Cover: BEBEBOY, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,245 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,265 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [Toujours au Club](https://open.spotify.com/track/0v2pFObF3ehUue8l1erVb9) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc) | [Toujours au Club](https://open.spotify.com/album/4p907jZGIw3jqHzXbWQuGR) | 3:01 |
 | 75 | [Time Waits For No Woman](https://open.spotify.com/track/3AKH28rucpKMoNSdW6YHT5) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [Time Waits For No Woman](https://open.spotify.com/album/2xm99RI8jGtD0bQ7WuiZR9) | 3:48 |
 
-Snapshot ID: `MCxiMWVmZTIyZDk0M2RlYjMzZmRhNzRhZTQzNmRmNTRhMDU0YmE0NWU2`
+Snapshot ID: `MCw1MjU0OTA0ZDQ0MmQ1NjQ2OTQ5NDMxMjE1MTZkZmIwM2M5MTIyOGY2`

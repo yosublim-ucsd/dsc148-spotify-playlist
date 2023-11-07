@@ -4,7 +4,7 @@
 
 > we hear you.
 
-634 songs - 1 day 7 hr 24 min
+636 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Midnight Thoughts](https://open.spotify.com/track/19NEYj0nF2FHMr9X2HYxQd) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Midnight Thoughts](https://open.spotify.com/album/7MKPofXdvu9p8x9iNcx0D8) | 2:04 | 2022-03-29 | 2022-04-18 |
 | [minor](https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:40 | 2021-04-02 |  |
 | [Money, Love & Death](https://open.spotify.com/track/6SNbZkTjHMCLninZRWTjbJ) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Money, Love & Death](https://open.spotify.com/album/7oWB6Lfleo2iNyMXtYjBut) | 2:44 | 2022-07-19 | 2022-07-28 |
+| [Moon](https://open.spotify.com/track/3ShbZlcGlBLlsR3FBQzzL0) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [All Over Again b/w Moon](https://open.spotify.com/album/67qT5xrgw6491DQYbIh3ty) | 2:42 | 2023-11-06 |  |
 | [Moonlight Shawty](https://open.spotify.com/track/7wkgkIBYBH3xV2ob9Zmh87) | [Fatboibari](https://open.spotify.com/artist/13iQ9ZfyvF0fJPpT9uVzfi), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [Moonlight Shawty](https://open.spotify.com/album/40Clsjg6Obb6Bg3wb17anY) | 2:47 | 2022-11-08 | 2022-12-24 |
 | [more](https://open.spotify.com/track/0D2bQ8QLRSLeyuvEhSuaDD) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [more](https://open.spotify.com/album/3WRv5yZu3FmnQ0JR6eZ482) | 3:03 | 2021-04-02 | 2022-04-21 |
 | [more](https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:04 | 2022-07-15 | 2023-02-02 |
@@ -392,6 +393,7 @@
 | [Mr\. Lonely](https://open.spotify.com/track/7AyqUwYAXXzBMvH12lRUWo) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Parking Lot](https://open.spotify.com/album/3ljazEefHFWlgzR3Hbz4qG) | 2:48 | 2022-03-23 | 2022-04-17 |
 | [My American Life](https://open.spotify.com/track/2GtvxN6tjbqxPZKRNZcJ7x) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 1:27 | 2022-11-18 | 2023-01-03 |
 | [my fault](https://open.spotify.com/track/36WabQN781ejYiSWKQAzDD) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [crush \(demos\)](https://open.spotify.com/album/2ha2R9dZOJ6B0aYnNanUwQ) | 1:00 | 2022-12-22 | 2023-05-05 |
+| [My Friend](https://open.spotify.com/track/5khPTiW1Ufc5uXMEqOaOXP) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Blanket](https://open.spotify.com/album/7MbhBlacUYoWPZYUhsWLxK) | 3:30 | 2023-11-06 |  |
 | [MY HEAD :\(](https://open.spotify.com/track/13Qe9Ad3zLm58cIb9n4YtG) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [MY HEAD :\(](https://open.spotify.com/album/46Fu5oHyF6cVkhfu8QA9AY) | 1:32 | 2021-04-02 | 2022-07-14 |
 | [needle & thread](https://open.spotify.com/track/6wWflNzMVvWKvzgpgM6Oeb) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [needle & thread](https://open.spotify.com/album/0rrmT3DkwMLWW8CBK4uWfL) | 3:24 | 2021-04-02 | 2022-04-20 |
 | [Never Coming Home](https://open.spotify.com/track/417NzypnPVicWbske0doX7) | [Shirazee](https://open.spotify.com/artist/3yZDwFnQlK2pgG8hu5knnu) | [Never Coming Home](https://open.spotify.com/album/7mWOGsPRO497bpKlmSRMe8) | 4:00 | 2021-04-02 | 2022-07-23 |
@@ -453,7 +455,7 @@
 | [Pluto Projector](https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 4:27 | 2021-04-02 | 2022-10-15 |
 | [Poetic Vulgarity](https://open.spotify.com/track/0cVCSfdI0gl2jJopZPKCaO) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 4:00 | 2023-09-14 |  |
 | [porcupine](https://open.spotify.com/track/2ccIz3cyNeLnqD7bpt3fjZ) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [when you run away, do you close your eyes](https://open.spotify.com/album/2KBkwYcHVmeEN5PdGbBsFU) | 3:37 | 2022-07-19 | 2022-08-17 |
-| [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 | 2023-03-23 |  |
+| [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 | 2023-03-23 | 2023-11-07 |
 | [promise I won't mess up](https://open.spotify.com/track/6c4XR6urBbWreT60gkWTmu) | [Sølace](https://open.spotify.com/artist/62AlnDIQccDoQ5FPZRrSL3) | [promise I won't mess up](https://open.spotify.com/album/3j1zmRaTDsDLg5lkDzk352) | 3:00 | 2021-04-02 | 2022-06-24 |
 | [Punching Walls](https://open.spotify.com/track/5BJjtA7s7nEzg7zsCYnYuP) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Punching Walls](https://open.spotify.com/album/6rlcMDZnpBnr9QTZF1r9rE) | 2:34 | 2022-05-25 | 2022-07-29 |
 | [purgatory origami](https://open.spotify.com/track/2OpfVi6Bahpod9c6x7ShMC) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [purgatory origami](https://open.spotify.com/album/6GS2Ssx9tDfzUFZNYb9kl4) | 5:45 | 2021-10-08 | 2022-04-20 |
@@ -595,7 +597,7 @@
 | [Wasted](https://open.spotify.com/track/5182uhTVVUb0Lk9o8OWu0E) | [R.L\. Beats](https://open.spotify.com/artist/0EYPvjUpwFLKU6KHM6ecCO) | [Wasted](https://open.spotify.com/album/0Y1adZ6EInH99Ta295RH6M) | 2:37 | 2022-03-23 | 2022-07-23 |
 | [watch me bleed](https://open.spotify.com/track/5h7CTZmFFuApY6jJWW4RTj) | [badly](https://open.spotify.com/artist/2REKndUsYi3335RA5rxbTT) | [watch me bleed](https://open.spotify.com/album/2FoWGvxgTnUO95EJhEUUkA) | 1:33 | 2022-01-21 | 2022-06-17 |
 | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/album/70nZHV8zM4LY8Jm1WtJOaZ) | 2:36 | 2022-10-07 | 2022-11-09 |
-| [Wavvy](https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0) | 3:07 | 2021-04-02 |  |
+| [Wavvy](https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0) | 3:07 | 2021-04-02 | 2023-11-07 |
 | [We All Fall Sometimes](https://open.spotify.com/track/25FPmmk6UDS4B7pNCWQ4Kq) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [We All Fall Sometimes](https://open.spotify.com/album/7pRG5o3vxrPKtDcz4ywxaw) | 4:30 | 2021-09-10 | 2022-04-21 |
 | [We Need to Talk](https://open.spotify.com/track/4XHjtpHLcD4QIFjZHfkfO2) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/1hcwRc4Ic4tb2F8iLUGTTg) | 3:09 | 2021-10-08 | 2022-07-29 |
 | [WE NEVER MET](https://open.spotify.com/track/1BN1QSsfikuIbhccrSAkYs) | [2ND CHOICE](https://open.spotify.com/artist/6Icgjcj6DaFqznzYZG2nIj) | [WE NEVER MET](https://open.spotify.com/album/4BzTQYPZRomnv9NfrS15nz) | 1:47 | 2022-04-12 | 2022-07-29 |

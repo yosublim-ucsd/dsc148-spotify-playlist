@@ -303,6 +303,32 @@
     },
     {
       "album": {
+        "name": "Ayyo Haiyo (From \"Raid\")",
+        "url": "https://open.spotify.com/album/3tuNKc5bPcP620FeIEZsDY"
+      },
+      "artists": [
+        {
+          "name": "Ranina Reddy",
+          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
+        },
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198476,
+      "name": "Ayyo Haiyo (From \"Raid\")",
+      "url": "https://open.spotify.com/track/7d9hWEtDzTBlrDYaps2z1z"
+    },
+    {
+      "album": {
         "name": "Azhaiyaa Mazhai (From \"Pathaan\") - Tamil Version",
         "url": "https://open.spotify.com/album/2Vws0b3MjI2zHJJK11UPKL"
       },
@@ -864,7 +890,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 166956,
       "name": "I'm So Prabalam",
       "url": "https://open.spotify.com/track/1Hw4Tezkw26zKDuufsXyKA"
@@ -1705,6 +1731,36 @@
     },
     {
       "album": {
+        "name": "Jigarthanda DoubleX (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/66wPpXvuJUBh5lrHY0LmhS"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Meenakshi Elayaraja",
+          "url": "https://open.spotify.com/artist/5daBau8I9vfgnEtu3UzA7M"
+        },
+        {
+          "name": "Meenakshi Santhosh",
+          "url": "https://open.spotify.com/artist/694qJeY9ibnSYLnhPp1boa"
+        },
+        {
+          "name": "Aditya Ravindran",
+          "url": "https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224166,
+      "name": "Oyyaram",
+      "url": "https://open.spotify.com/track/6d0RU3NuKqXb4dv7lRfc1G"
+    },
+    {
+      "album": {
         "name": "Pacha Elai (From \"Love Today\")",
         "url": "https://open.spotify.com/album/5b57LEW0l5UPYSzgIyAnTT"
       },
@@ -2406,7 +2462,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 156763,
       "name": "Thunder Kaaran (Promo Song) (From \"Veeran\")",
       "url": "https://open.spotify.com/track/4XpcWXlyWijBdG2xOnh6nO"

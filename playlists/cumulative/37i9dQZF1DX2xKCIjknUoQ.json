@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Cr\u00e8vecoeur (2019 remastered)",
+        "url": "https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Darc",
+          "url": "https://open.spotify.com/artist/7iMdjNroWSI5FqRxeu2G5t"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199960,
+      "name": "Je me souviens, je me rappelle",
+      "url": "https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6"
+    },
+    {
+      "album": {
         "name": "Dolly (Edition Deluxe)",
         "url": "https://open.spotify.com/album/1nzF8zJTQEtuqCkOhWdX1Y"
       },
@@ -718,7 +736,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 207173,
       "name": "R\u00e9volution.com",
       "url": "https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg"

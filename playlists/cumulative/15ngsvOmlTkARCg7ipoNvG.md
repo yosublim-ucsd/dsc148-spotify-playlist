@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,051 songs - 23 hr 23 min
+1,052 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1037,6 +1037,7 @@
 | [Winter Afternoon Dreams](https://open.spotify.com/track/7oiZPTvoNEMu74wh3jYkAg) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Winter Afternoon Dreams](https://open.spotify.com/album/77yTybaDwDuOSKBEdzEl8B) | 1:01 | 2023-01-10 |  |
 | [Winter Dreams](https://open.spotify.com/track/7x9qvMCDgjmTP9pbIsmJKj) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Winter Dreams](https://open.spotify.com/album/2QAa1S8RsaQ2GQwBfQPgO7) | 2:26 | 2022-01-12 |  |
 | [Winter Dreamscape](https://open.spotify.com/track/7o01Hme8cCzNcFPqUcFC7K) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Resting For Now](https://open.spotify.com/album/0EZX5YZrwunVI1jToSLK0P) | 1:04 | 2022-02-21 |  |
+| [Winter Hymn](https://open.spotify.com/track/6cfarOqiDmfn5V4TMJ0Pk6) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Winter Hymn](https://open.spotify.com/album/2uE5riXkppeBRxf1gAuqnj) | 1:02 | 2023-11-06 |  |
 | [Winter Joy \- Cello Version](https://open.spotify.com/track/3lSCFg0RTevXxghYTTyMoI) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Winter Joy \(Cello Version\)](https://open.spotify.com/album/3aKy1dE8T76fPsnpNKVItx) | 1:01 | 2023-10-06 |  |
 | [Winter Joy Arr\. For Felt Piano](https://open.spotify.com/track/2Q7XjnRsbbKgsYN20oSoPe) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Felt Piano Lullabies](https://open.spotify.com/album/32PpJ7q4DdWKYEiy0EtRLw) | 1:00 | 2023-07-06 |  |
 | [Winter Night Dreaming](https://open.spotify.com/track/1qwNOmRur3omktx18WaMLP) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Winter Night Dreaming](https://open.spotify.com/album/7IARHzklJ27xLT4SanosIv) | 1:01 | 2022-11-26 |  |

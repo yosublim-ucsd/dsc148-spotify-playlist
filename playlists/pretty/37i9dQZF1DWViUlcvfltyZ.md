@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia\. Cover: Ibisco
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,620 likes - 65 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,629 likes - 65 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pugno Di Sabbia](https://open.spotify.com/track/5JusmvJVYnbLnqxHvzbHQM) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Pugno Di Sabbia](https://open.spotify.com/album/2eMHhaYiN4FETBFdhjcfBt) | 3:34 |
-| 2 | [Seduci](https://open.spotify.com/track/0CPsIehtiLTUnI85XGB4qP) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [LANGUORE](https://open.spotify.com/album/0zE57SWOx61FS3wjdY1UXL) | 3:19 |
+| 1 | [Seduci](https://open.spotify.com/track/0CPsIehtiLTUnI85XGB4qP) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [LANGUORE](https://open.spotify.com/album/0zE57SWOx61FS3wjdY1UXL) | 3:19 |
+| 2 | [Pugno Di Sabbia](https://open.spotify.com/track/5JusmvJVYnbLnqxHvzbHQM) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Pugno Di Sabbia](https://open.spotify.com/album/2eMHhaYiN4FETBFdhjcfBt) | 3:34 |
 | 3 | [Contare 0](https://open.spotify.com/track/0ErWsPtoGFO8qDnEbxJRkO) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Contare 0](https://open.spotify.com/album/0EPmGYYsxYtaCPJ7I7oQwQ) | 2:34 |
 | 4 | [Awful Thread](https://open.spotify.com/track/7kY3nelNouUqY5JJzKvR5J) | [Any Other](https://open.spotify.com/artist/5RECxqPUWytzhwKabZ1lWx) | [Awful Thread](https://open.spotify.com/album/0KtjgXUUul9V579ZrvyMxx) | 4:08 |
 | 5 | [Back in the loop](https://open.spotify.com/track/3INoRjtC6c0SZJaet3465R) | [MILANOSPORT](https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl) | [Back in the loop](https://open.spotify.com/album/6qtU0ESjKtzXKIJXABBN4C) | 3:47 |
@@ -22,28 +22,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 12 | [Nosferatu](https://open.spotify.com/track/3yn49UA6N8Xd0kVoX7UTF2) | [La Superluna di Drone Kong](https://open.spotify.com/artist/2yrGOWgivuL3OubJfHj5Xt), [Nikki](https://open.spotify.com/artist/1y9wN6EknDQynEF6123dXJ) | [Nosferatu](https://open.spotify.com/album/060zMrANzhIRsg0FWI8kDe) | 3:37 |
 | 13 | [Formica](https://open.spotify.com/track/2r9FyfGwi4BfXyU7dlK61f) | [JAGWARI](https://open.spotify.com/artist/7lEA9nHCMpZmdjHjKaZFns) | [Formica](https://open.spotify.com/album/5MILxJcZxxra3LlyGVuikM) | 3:13 |
 | 14 | [25](https://open.spotify.com/track/6fZfZubA9qnxEmQZZiHwoF) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [IMPORTED](https://open.spotify.com/album/23FHHOyoU1lpTpfdi24BaE) | 3:05 |
-| 15 | [Piccoli fuochi](https://open.spotify.com/track/3948BtXvNRZgyOB1saVXHf) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [Palo](https://open.spotify.com/album/4r4hX5EBmbqE8TCJIK3y2P) | 3:15 |
-| 16 | [Serenissima Malcontenta](https://open.spotify.com/track/2psFcaO2uKwA4PXoYyJI7Z) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [Serenissima Malcontenta](https://open.spotify.com/album/3iv1zXS4ks9OsT3uwJPHnW) | 4:22 |
-| 17 | [Hey Mon Amour](https://open.spotify.com/track/2gcVYbtY4GPLvnAzitTvee) | [Macadamia](https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen) | [Limine](https://open.spotify.com/album/1p1CplengpaQU0lsmzOBaB) | 3:13 |
-| 18 | [COME I CLASH](https://open.spotify.com/track/7x1L1aFTrBBJYi959kemtb) | [LEHAVRE](https://open.spotify.com/artist/4g4R5YQzDRaONaJuU3yUls) | [COME I CLASH](https://open.spotify.com/album/6oteA5eXo02tbnKUHV4u1f) | 3:02 |
-| 19 | [Per non pensarci più](https://open.spotify.com/track/0F3JQEhViqSr7ouimK5LO7) | [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [Per non pensarci più](https://open.spotify.com/album/74fX2Nb62K4SieqsRNDjvi) | 3:04 |
-| 20 | [amore/squallore](https://open.spotify.com/track/1XnatIIfDsklJ9Mmz5qci0) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [amore/squallore](https://open.spotify.com/album/1E3atzTv47V9738zZvx0px) | 2:55 |
+| 15 | [COME I CLASH](https://open.spotify.com/track/7x1L1aFTrBBJYi959kemtb) | [LEHAVRE](https://open.spotify.com/artist/4g4R5YQzDRaONaJuU3yUls) | [COME I CLASH](https://open.spotify.com/album/6oteA5eXo02tbnKUHV4u1f) | 3:02 |
+| 16 | [Piccoli fuochi](https://open.spotify.com/track/3948BtXvNRZgyOB1saVXHf) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [Palo](https://open.spotify.com/album/4r4hX5EBmbqE8TCJIK3y2P) | 3:15 |
+| 17 | [Serenissima Malcontenta](https://open.spotify.com/track/2psFcaO2uKwA4PXoYyJI7Z) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [Serenissima Malcontenta](https://open.spotify.com/album/3iv1zXS4ks9OsT3uwJPHnW) | 4:22 |
+| 18 | [Hey Mon Amour](https://open.spotify.com/track/2gcVYbtY4GPLvnAzitTvee) | [Macadamia](https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen) | [Limine](https://open.spotify.com/album/1p1CplengpaQU0lsmzOBaB) | 3:13 |
+| 19 | [Senza te](https://open.spotify.com/track/2oGdxKESOwgoRSKPuJtvdq) | [m0m0](https://open.spotify.com/artist/4Zua3WcaeHvivfRH9zPcl6) | [Senza te](https://open.spotify.com/album/2W3ozgLZa2fib6IpbeKHOd) | 2:39 |
+| 20 | [Per non pensarci più](https://open.spotify.com/track/0F3JQEhViqSr7ouimK5LO7) | [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [Per non pensarci più](https://open.spotify.com/album/74fX2Nb62K4SieqsRNDjvi) | 3:04 |
 | 21 | [Le prime luci dell'alba](https://open.spotify.com/track/79AsLIfPHXgSWeQWzwdPkq) | [Earthset](https://open.spotify.com/artist/27FihPbgJOaSdAyq9kgb9t) | [Nosferatu](https://open.spotify.com/album/3HdBLDZHW8ghJ7dRfPjD7Z) | 2:09 |
-| 22 | [Senza te](https://open.spotify.com/track/2oGdxKESOwgoRSKPuJtvdq) | [m0m0](https://open.spotify.com/artist/4Zua3WcaeHvivfRH9zPcl6) | [Senza te](https://open.spotify.com/album/2W3ozgLZa2fib6IpbeKHOd) | 2:39 |
+| 22 | [amore/squallore](https://open.spotify.com/track/1XnatIIfDsklJ9Mmz5qci0) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [amore/squallore](https://open.spotify.com/album/1E3atzTv47V9738zZvx0px) | 2:55 |
 | 23 | [ROCK AND ROLL](https://open.spotify.com/track/2yzrUpnqR8BD43EuTW9Rl4) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g) | [ROCK AND ROLL](https://open.spotify.com/album/76AWqOYMJCCYC7s1eylgfm) | 3:35 |
-| 24 | [VIVO](https://open.spotify.com/track/4vekb60d6nVafoqxOxSi1n) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [MALÈSSERE](https://open.spotify.com/album/7ha36SnBhWZtVsL0OQc9BP) | 2:39 |
-| 25 | [Badabum](https://open.spotify.com/track/2PEwvgXfaQpa6bY749iqfm) | [Girless](https://open.spotify.com/artist/0I43z1XvY83Y2gdmT4ZSHk) | [Los de afuera son de palo](https://open.spotify.com/album/69NJYg8iCMWraa7Pkw9fh3) | 2:29 |
-| 26 | [Calciobalilla](https://open.spotify.com/track/4Pz2xSB2FxfzsvIhWYj2wP) | [Monteluna](https://open.spotify.com/artist/6HWN4ZzmkY3LjJwqS4CFRb) | [Calciobalilla](https://open.spotify.com/album/7KWCYtMXCWOS6VulD55z6K) | 4:19 |
-| 27 | [Vera](https://open.spotify.com/track/61iQdnOwXVvI7QuALy5ZLV) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [LANGUORE](https://open.spotify.com/album/0zE57SWOx61FS3wjdY1UXL) | 3:58 |
-| 28 | [Sciara](https://open.spotify.com/track/27XUkuxktBq21cwyX7eQZY) | [Malmö](https://open.spotify.com/artist/6dHFhxw5uxV8SJtOmwbb3q) | [Sciara](https://open.spotify.com/album/1Z6J0VUdUpUkPR03ZughwS) | 5:15 |
-| 29 | [Verdena](https://open.spotify.com/track/3LTOhf5vn7ORLNvnPm72nU) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Nessuno vuole essere mio amico](https://open.spotify.com/album/1slYL7JoFfTB9OcBFK65hE) | 3:07 |
-| 30 | [MAI FATTO 31](https://open.spotify.com/track/76iQhtyetBmpoRlCUDEmpH) | [Bachi Da Pietra](https://open.spotify.com/artist/17E3eee30nez6YfwVxhHzH) | [MAI FATTO 31](https://open.spotify.com/album/3ly2EAqIwCplfBlcEow6mE) | 4:12 |
-| 31 | [DIFFIDENZA](https://open.spotify.com/track/5LUmYeaE8VlFMM6dY6d2vQ) | [INARIA](https://open.spotify.com/artist/27tgtbtrHISzeyzYjsEoyf) | [DIFFIDENZA](https://open.spotify.com/album/6AKrqoOxTszdwEwaK8CURk) | 3:52 |
-| 32 | [Come volevi essere](https://open.spotify.com/track/6Cvod0V1TVofdbAUyNLhYb) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Come volevi essere](https://open.spotify.com/album/16bYjHqs1R2worFGdbzSWi) | 3:40 |
-| 33 | [Eye of the Day](https://open.spotify.com/track/3M5zmqmD9yjsi9QuDNIWGk) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:11 |
-| 34 | [Saraceno](https://open.spotify.com/track/30IZCDeSKztWbsgBFa4snW) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Maledetta Quella Notte](https://open.spotify.com/album/53rZDVzeELEDGg9XSfoYym) | 3:54 |
-| 35 | [Colorare/Ritagliare](https://open.spotify.com/track/3B6n3BN9oX79k3JxQeJMn7) | [Renàra](https://open.spotify.com/artist/2RJIwXtGg34ECvKxTzYuNF) | [Colorare/Ritagliare](https://open.spotify.com/album/4BXbAi8pcEkXVMsDYmxvqP) | 3:08 |
-| 36 | [Storie Di Lacrime](https://open.spotify.com/track/2hiQgORiBC1Zr05h7QGWRf) | [Il Triangolo](https://open.spotify.com/artist/4Cco3ONl5H31a2rE7oGfQZ) | [Storie Di Lacrime](https://open.spotify.com/album/4cxscTorNCluaPbWuXL0GG) | 3:24 |
+| 24 | [Storie Di Lacrime](https://open.spotify.com/track/2hiQgORiBC1Zr05h7QGWRf) | [Il Triangolo](https://open.spotify.com/artist/4Cco3ONl5H31a2rE7oGfQZ) | [Storie Di Lacrime](https://open.spotify.com/album/4cxscTorNCluaPbWuXL0GG) | 3:24 |
+| 25 | [MAI FATTO 31](https://open.spotify.com/track/76iQhtyetBmpoRlCUDEmpH) | [Bachi Da Pietra](https://open.spotify.com/artist/17E3eee30nez6YfwVxhHzH) | [MAI FATTO 31](https://open.spotify.com/album/3ly2EAqIwCplfBlcEow6mE) | 4:12 |
+| 26 | [VIVO](https://open.spotify.com/track/4vekb60d6nVafoqxOxSi1n) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [MALÈSSERE](https://open.spotify.com/album/7ha36SnBhWZtVsL0OQc9BP) | 2:39 |
+| 27 | [Badabum](https://open.spotify.com/track/2PEwvgXfaQpa6bY749iqfm) | [Girless](https://open.spotify.com/artist/0I43z1XvY83Y2gdmT4ZSHk) | [Los de afuera son de palo](https://open.spotify.com/album/69NJYg8iCMWraa7Pkw9fh3) | 2:29 |
+| 28 | [Calciobalilla](https://open.spotify.com/track/4Pz2xSB2FxfzsvIhWYj2wP) | [Monteluna](https://open.spotify.com/artist/6HWN4ZzmkY3LjJwqS4CFRb) | [Calciobalilla](https://open.spotify.com/album/7KWCYtMXCWOS6VulD55z6K) | 4:19 |
+| 29 | [Vera](https://open.spotify.com/track/61iQdnOwXVvI7QuALy5ZLV) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [LANGUORE](https://open.spotify.com/album/0zE57SWOx61FS3wjdY1UXL) | 3:58 |
+| 30 | [Sciara](https://open.spotify.com/track/27XUkuxktBq21cwyX7eQZY) | [Malmö](https://open.spotify.com/artist/6dHFhxw5uxV8SJtOmwbb3q) | [Sciara](https://open.spotify.com/album/1Z6J0VUdUpUkPR03ZughwS) | 5:15 |
+| 31 | [Verdena](https://open.spotify.com/track/3LTOhf5vn7ORLNvnPm72nU) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Nessuno vuole essere mio amico](https://open.spotify.com/album/1slYL7JoFfTB9OcBFK65hE) | 3:07 |
+| 32 | [DIFFIDENZA](https://open.spotify.com/track/5LUmYeaE8VlFMM6dY6d2vQ) | [INARIA](https://open.spotify.com/artist/27tgtbtrHISzeyzYjsEoyf) | [DIFFIDENZA](https://open.spotify.com/album/6AKrqoOxTszdwEwaK8CURk) | 3:52 |
+| 33 | [Come volevi essere](https://open.spotify.com/track/6Cvod0V1TVofdbAUyNLhYb) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Come volevi essere](https://open.spotify.com/album/16bYjHqs1R2worFGdbzSWi) | 3:40 |
+| 34 | [Eye of the Day](https://open.spotify.com/track/3M5zmqmD9yjsi9QuDNIWGk) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:11 |
+| 35 | [Saraceno](https://open.spotify.com/track/30IZCDeSKztWbsgBFa4snW) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Maledetta Quella Notte](https://open.spotify.com/album/53rZDVzeELEDGg9XSfoYym) | 3:54 |
+| 36 | [Colorare/Ritagliare](https://open.spotify.com/track/3B6n3BN9oX79k3JxQeJMn7) | [Renàra](https://open.spotify.com/artist/2RJIwXtGg34ECvKxTzYuNF) | [Colorare/Ritagliare](https://open.spotify.com/album/4BXbAi8pcEkXVMsDYmxvqP) | 3:08 |
 | 37 | [Strade Smarrite](https://open.spotify.com/track/3qBZZ2wyZK89zBB0cLEh2o) | [Bull Brigade](https://open.spotify.com/artist/5L5QSj7U8OMEq0T4lvrEU5) | [Strade Smarrite](https://open.spotify.com/album/1Vf70Udh78YnTe6SLUwvDw) | 3:26 |
 | 38 | [Freddy Krueger](https://open.spotify.com/track/0cKNxtpixpYANQTUs168su) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [DIRTY](https://open.spotify.com/album/1K5OLvgZOg4Ix9MMrQqqyc) | 3:05 |
 | 39 | [In questo](https://open.spotify.com/track/4Up7N5Vy1iVHxkoKTVHGkp) | [m0m0](https://open.spotify.com/artist/4Zua3WcaeHvivfRH9zPcl6) | [In questo](https://open.spotify.com/album/7sZv0iHyefAHpq7WFUprMk) | 3:28 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 64 | [Acqua Bagnami](https://open.spotify.com/track/2cCxcIcuIRMRLEvDUrdHjN) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Acqua Bagnami](https://open.spotify.com/album/4BJj638K8ZAasjQw8YDEV5) | 5:08 |
 | 65 | [Medioriente](https://open.spotify.com/track/1DRTAkWNgNyjUknJ5zcXQE) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Medioriente / Miku五](https://open.spotify.com/album/2f31VolieJe7o0J9m1en3I) | 6:21 |
 
-Snapshot ID: `MCwzMGJlNmRhMzY1YzExNzBjNTU3OTc4ZmEzMGMyM2E0ZWQ0Zjc2MmM5`
+Snapshot ID: `MCw1NmMyZTdmNDlmNzk3NTliNWJhYjQ5ZTJmYmM1YmU3MGU2NzZhNDgy`

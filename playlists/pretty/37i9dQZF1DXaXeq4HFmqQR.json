@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. Foto: Marineros.",
-  "num_followers": 12889,
+  "num_followers": 12892,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2U1ZDI5N2FlM2Y1ZmM1NTYyZGIyNWRmMDRhOTU3Njg3NWE4NzM2",
+  "snapshot_id": "MCwxYTE2M2U1MGMwMDc4MjFmYmQ4YWM0YjhjMjkzMzk1MDYxZjc2YzU5",
   "tracks": [
     {
       "added_at": "2023-10-04 04:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Al calor de un sol que acaba de morir",
-        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 215596,
-      "name": "Amarte as\u00ed",
-      "url": "https://open.spotify.com/track/7KV3kUktIYB0dCnZCzHQac"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Primera Mujer",
         "url": "https://open.spotify.com/album/5Y4PCUyOZ643BqblohiBjE"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 247507,
       "name": "Misericordia",
       "url": "https://open.spotify.com/track/05xaOXkSjjALluPQDgYlhP"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Al calor de un sol que acaba de morir",
+        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 215596,
+      "name": "Amarte as\u00ed",
+      "url": "https://open.spotify.com/track/7KV3kUktIYB0dCnZCzHQac"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Terracota",
-        "url": "https://open.spotify.com/album/5MtnxpR2ErMUS785q1GuJJ"
-      },
-      "artists": [
-        {
-          "name": "Laurela",
-          "url": "https://open.spotify.com/artist/6fw8yY5PcFEUHwCXH5dsHP"
-        }
-      ],
-      "duration_ms": 165482,
-      "name": "Desconectar",
-      "url": "https://open.spotify.com/track/1Sc13wbZDy0ekBN71QES4p"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Ser Humano",
         "url": "https://open.spotify.com/album/1Mo8Gl36Gf0PdHDPCxY8lk"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 196328,
       "name": "Ser Humano",
       "url": "https://open.spotify.com/track/0oXxVxgnejc4uRguZEcozJ"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Terracota",
+        "url": "https://open.spotify.com/album/5MtnxpR2ErMUS785q1GuJJ"
+      },
+      "artists": [
+        {
+          "name": "Laurela",
+          "url": "https://open.spotify.com/artist/6fw8yY5PcFEUHwCXH5dsHP"
+        }
+      ],
+      "duration_ms": 165482,
+      "name": "Desconectar",
+      "url": "https://open.spotify.com/track/1Sc13wbZDy0ekBN71QES4p"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Lo Que Hay Afuera",
-        "url": "https://open.spotify.com/album/3ED3VNY8X9WPtK3LN1Misf"
-      },
-      "artists": [
-        {
-          "name": "Sofia Oportot",
-          "url": "https://open.spotify.com/artist/17zDtZTCCbhhGIIC4jKyfQ"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Lo Que Hay Afuera",
-      "url": "https://open.spotify.com/track/4Vd9rh7HoNEAyBmFNwArrx"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "SUFICIENTE",
         "url": "https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 201091,
       "name": "SUFICIENTE",
       "url": "https://open.spotify.com/track/6TtsnJTv8MVf4oHwITp1C5"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Lo Que Hay Afuera",
+        "url": "https://open.spotify.com/album/3ED3VNY8X9WPtK3LN1Misf"
+      },
+      "artists": [
+        {
+          "name": "Sofia Oportot",
+          "url": "https://open.spotify.com/artist/17zDtZTCCbhhGIIC4jKyfQ"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Lo Que Hay Afuera",
+      "url": "https://open.spotify.com/track/4Vd9rh7HoNEAyBmFNwArrx"
     },
     {
       "added_at": "2023-10-04 04:00:00",

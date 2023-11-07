@@ -2091,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "Fruits of the Harvest 432 Hz (Piano)",
+        "url": "https://open.spotify.com/album/4AZFWxNOHsHIWfDKkI15f8"
+      },
+      "artists": [
+        {
+          "name": "Jaime Jacobs",
+          "url": "https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134693,
+      "name": "Fruits of the Harvest 432 Hz - Piano",
+      "url": "https://open.spotify.com/track/6XIpwHcF7w11Q8OEcwKTUs"
+    },
+    {
+      "album": {
         "name": "Gavina",
         "url": "https://open.spotify.com/album/4RteWlcqa9xzb6iKmo0ZAr"
       },
@@ -3060,7 +3078,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 165500,
       "name": "Lib\u00e9lula",
       "url": "https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC"
@@ -3954,6 +3972,24 @@
       "duration_ms": 133874,
       "name": "Peace",
       "url": "https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI"
+    },
+    {
+      "album": {
+        "name": "Picture Life",
+        "url": "https://open.spotify.com/album/21ZXPpXidDE9KvpZRCB12d"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Sapphire",
+          "url": "https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149519,
+      "name": "Picture Life",
+      "url": "https://open.spotify.com/track/4bjAEUYwbMIcd3e86EinLN"
     },
     {
       "album": {

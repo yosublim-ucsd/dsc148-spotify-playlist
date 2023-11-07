@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,790 songs - 6 day 1 hr 14 min
+3,791 songs - 6 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [Baccaiano](https://open.spotify.com/track/2J4axnfqSSOB3NLb9Rg4h4) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Baccaiano](https://open.spotify.com/album/0W5hfZHDAiq1yVFDLNGvbL) | 2:07 | 2021-09-28 | 2021-10-16 |
 | [Back In The Days](https://open.spotify.com/track/3AkXuTySKHXvcnEZL82lzM) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Back In The Days](https://open.spotify.com/album/6u1RYOUtmgAHlQkX4yQLqr) | 1:36 | 2023-05-18 | 2023-07-28 |
 | [Back In the Days](https://open.spotify.com/track/2GhrJ0m8yCwr6M9MVAJFVQ) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv) | [Back In the Days](https://open.spotify.com/album/0S6Ru9qlWXW2KoLksdlsMS) | 2:08 | 2021-02-06 | 2021-04-06 |
-| [Back into Time](https://open.spotify.com/track/20THb4yF039Sea9oWiSVtq) | [Bipeula](https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2), [BiRdy SanJazz](https://open.spotify.com/artist/1VnKyzdYClAVXSfEuRhUZh) | [Back into Time](https://open.spotify.com/album/4lmc1sa1gk52J6znbYea3i) | 2:18 | 2023-10-19 |  |
+| [Back into Time](https://open.spotify.com/track/20THb4yF039Sea9oWiSVtq) | [Bipeula](https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2), [BiRdy SanJazz](https://open.spotify.com/artist/1VnKyzdYClAVXSfEuRhUZh) | [Back into Time](https://open.spotify.com/album/4lmc1sa1gk52J6znbYea3i) | 2:18 | 2023-10-19 | 2023-11-07 |
 | [Back of the Beyond](https://open.spotify.com/track/5ZOjlHB7CkMCESQG3c67L8) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Back of the Beyond](https://open.spotify.com/album/1IfWkoHfmUPSigjrXpuMgv) | 2:14 | 2021-07-25 | 2022-01-14 |
 | [Back to the Bap](https://open.spotify.com/track/6odZiVTBFDpBrb0aaAs09H) | [Anthony Drawn](https://open.spotify.com/artist/1TYsIU7QKwwZ3IieKIE6oo), [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Back to the Bap](https://open.spotify.com/album/10aYxtxK2S4qXzT80Y9lPH) | 3:25 | 2020-11-13 | 2021-01-29 |
 | [Back To You](https://open.spotify.com/track/7zhtyfJ3PjHXQDixq08QkF) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI), [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Sirens](https://open.spotify.com/album/5G3XMdc8v8fkiD8qLqDBDG) | 3:00 | 2020-09-25 | 2020-11-07 |
@@ -1765,6 +1765,7 @@
 | [Lazy Afternoon](https://open.spotify.com/track/5IA1nRR9lHApTNynMggPlm) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5), [3pmbeatz](https://open.spotify.com/artist/4a3EaoH3UoVXC5Kt68AeMe) | [Lazy Afternoon](https://open.spotify.com/album/4jj0HONZLYlmKFT6LCjOus) | 2:25 | 2022-11-17 | 2022-12-14 |
 | [Lazy Afternoon](https://open.spotify.com/track/648v8GJgMjvWmVOSrhEefM) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5), [3pmbeatz](https://open.spotify.com/artist/4a3EaoH3UoVXC5Kt68AeMe) | [Lazy Afternoon](https://open.spotify.com/album/1lwiYewkraRQA3PCobY7c4) | 2:25 | 2022-03-31 | 2022-11-20 |
 | [Lazy Day](https://open.spotify.com/track/6Y7qEot1GyDBdg3abzdNmY) | [Clément Matrat](https://open.spotify.com/artist/2E5tQr1KLcZjNEQQCOZM3C), [Hip Dozer](https://open.spotify.com/artist/4MtoPS2GV2hUxacTHz9J6p) | [Somethin' Jazzy](https://open.spotify.com/album/0ME7uJCpymEsBmf6MgzXAR) | 1:23 | 2020-11-20 | 2021-06-04 |
+| [Lazy Days](https://open.spotify.com/track/0CRNh0vUwovaGDmVZ7bvYH) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [MALIWA](https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I) | [Lazy Days](https://open.spotify.com/album/2OLQX3inZvKYLQQwh4f0b2) | 2:22 | 2023-10-26 |  |
 | [Lazy Evening](https://open.spotify.com/track/4oPrUHjfkWFqhvONDyZn5B) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy), [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Lazy Evening](https://open.spotify.com/album/3ncV1UqlRZv7Nto36AI8aU) | 2:02 | 2021-05-14 | 2021-06-18 |
 | [Lazy Lemonade](https://open.spotify.com/track/7byJGNqPE5gSASLRNdQlVo) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc) | [Lazy Lemonade](https://open.spotify.com/album/5fBVKh7VOwuNOV627jEGMa) | 2:02 | 2020-09-04 | 2021-04-09 |
 | [Lazy Sunday](https://open.spotify.com/track/1xgXgirtOEoOd0WUKkOda1) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Lazy Sunday](https://open.spotify.com/album/56AzpYAfHJhL9EEdNBddoH) | 2:42 | 2022-01-20 | 2022-09-09 |

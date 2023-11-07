@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-365 songs - 23 hr 52 min
+366 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Sprinkles](https://open.spotify.com/track/5MC4qpRJW1AshNqYRV54xb) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Sprinkles](https://open.spotify.com/album/1VCdlcicBdmBU7RESuPSik) | 2:21 | 2020-12-22 | 2022-07-29 |
 | [Starlight \(Goldroom Remix\)](https://open.spotify.com/track/0WctUeuJAHlewwqSm1OlIh) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl) | [Starlight Remixes](https://open.spotify.com/album/6IZpH59rXpdusTqgheflIA) | 6:26 | 2020-12-22 | 2022-04-19 |
 | [Starry Night \- Edit](https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie) | 3:53 | 2020-12-22 | 2023-11-05 |
+| [Starry Night \- Edit](https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI) | 3:53 | 2023-10-27 |  |
 | [Stranger Still \(Daniel T Remix\)](https://open.spotify.com/track/6wZnVO1mipek72VQfS36tY) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Stranger Still \(Daniel T Remix\) \- Single](https://open.spotify.com/album/12OCK0NAh1NIWGB5LyodAH) | 6:06 | 2020-12-22 | 2022-04-21 |
 | [Strangers](https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Strangers](https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit) | 3:40 | 2021-03-19 | 2022-07-29 |
 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 | 2021-03-19 |  |
@@ -317,7 +318,7 @@
 | [Temporary Love](https://open.spotify.com/track/139cV9ZeoqSgXAdPXIRrRU) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Temporary Love](https://open.spotify.com/album/1emDtbT8gHyccESticjljA) | 4:04 | 2021-03-19 | 2022-07-29 |
 | [Temporary Love](https://open.spotify.com/track/2ArO7GJPukDnhRvRfhB58n) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Temporary Love](https://open.spotify.com/album/4rR6MzkvCQw8P72RKJu7en) | 4:04 | 2021-03-19 | 2023-04-27 |
 | [The Future \(feat\. Antony, Cleopatra\)](https://open.spotify.com/track/0k5ruVHsxFD5ftK2Tpp8Ap) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [Antony](https://open.spotify.com/artist/3koJmQqTa9Eh7oy4y1XaZU), [Cleopatra](https://open.spotify.com/artist/7mu52yh5bBhhJOyVndAEZW) | [The Future \(feat\. Antony & Cleopatra\)](https://open.spotify.com/album/2X9CQvOdCiLxaPCPb3Hn5g) | 3:46 | 2020-12-22 | 2022-04-15 |
-| [The Heat](https://open.spotify.com/track/2ru82sMlycieEodGcKyszh) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:16 | 2023-08-25 |  |
+| [The Heat](https://open.spotify.com/track/2ru82sMlycieEodGcKyszh) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:16 | 2023-08-25 | 2023-11-07 |
 | [The Heat](https://open.spotify.com/track/3FJgTJCXXV2CjURjdNq1DP) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/7oZG5VZ4SukMmnylJ16O24) | 3:16 | 2020-12-22 | 2022-04-21 |
 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-08-27 |  |
 | [The Suburbs](https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Pocketknife](https://open.spotify.com/album/1OR04dRjURhlyUXQx91g0L) | 5:07 | 2020-12-22 |  |

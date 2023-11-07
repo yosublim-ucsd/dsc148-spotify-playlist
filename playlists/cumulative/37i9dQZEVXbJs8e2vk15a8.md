@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-1,458 songs - 3 day 7 hr 6 min
+1,459 songs - 3 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1059,7 +1059,7 @@
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2023-01-21 | 2023-02-08 |
 | [Quedate X Algo Me Gusta de Ti X Berlin](https://open.spotify.com/track/0Fk6TJrw1XwyQD03L2PYA3) | [Thomi DJ](https://open.spotify.com/artist/3b7LzlMj6sHCNwnoi51RsG) | [Quedate X Algo Me Gusta de Ti X Berlin](https://open.spotify.com/album/656L2VJlejUajfOo8sHIDw) | 6:48 | 2022-10-09 | 2022-10-15 |
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-06-06 | 2023-07-23 |
-| [Quema las Estrellas](https://open.spotify.com/track/6YJCMB7m2STptevEp6zW3v) | [Resonancia Etérea](https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB) | [Quema las Estrellas](https://open.spotify.com/album/3jJSZ03dxbChLZU2Hsuxxp) | 4:12 | 2023-11-05 |  |
+| [Quema las Estrellas](https://open.spotify.com/track/6YJCMB7m2STptevEp6zW3v) | [Resonancia Etérea](https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB) | [Quema las Estrellas](https://open.spotify.com/album/3jJSZ03dxbChLZU2Hsuxxp) | 4:12 | 2023-11-05 | 2023-11-07 |
 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 | 2022-07-13 | 2022-07-20 |
 | [Querer Querernos](https://open.spotify.com/track/6d3q0F9VNtdxQUTVlRcet6) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Querer Querernos](https://open.spotify.com/album/7xTUjhiCQyxFFUDHDNcW29) | 4:00 | 2023-09-06 | 2023-10-16 |
 | [Querer Querernos](https://open.spotify.com/track/15ItGp1Ugz6NBsRIdpBect) | [Fritrs rei](https://open.spotify.com/artist/59znsfjXjaGujWu9CyYOOV), [Canserberr1](https://open.spotify.com/artist/6K4qNicoWGe1LzpUjPt3Bt) | [Querer Querernos](https://open.spotify.com/album/4wSzIa7QnZ6s6SBdvKc6oU) | 3:51 | 2022-05-24 | 2023-06-08 |
@@ -1289,6 +1289,7 @@
 | [TNT](https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [COLABORACIONES](https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU) | 2:05 | 2023-05-09 | 2023-05-13 |
 | [Toaaa](https://open.spotify.com/track/3GeOq7rvgeKcFhydpuFPcO) | [klein jere](https://open.spotify.com/artist/3qOAzj9hqU0JGGPxyYBPnD) | [Toaaa](https://open.spotify.com/album/148EG711aR96cl0BaKDEHS) | 2:35 | 2023-10-16 |  |
 | [Toda Guapa](https://open.spotify.com/track/6XLOKUNpCZRkWAKfEDeArF) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Toda Guapa](https://open.spotify.com/album/5jBPkUmcXBzPyff2y1Wzc2) | 2:35 | 2023-05-16 | 2023-05-31 |
+| [Toda la vida \(Anuel x jairoVera\)](https://open.spotify.com/track/1fluixfMOLGUsdsSxSJ7h2) | [Cigarronmusic](https://open.spotify.com/artist/2zQJkv1Xsc0ilTQzCceVU2) | [Toda la vida \(Anuel x jairoVera\)](https://open.spotify.com/album/48Qeh0mAzjfgHzVFyyAmkd) | 2:27 | 2023-11-06 |  |
 | [Todo Contigo](https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Todo Contigo](https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE) | 2:45 | 2023-05-25 | 2023-05-27 |
 | [Todo Mentira](https://open.spotify.com/track/5xiJDUW4WvM7FpYkq40d4s) | [Maka](https://open.spotify.com/artist/4lHAjTCvXGu8QIM3cEe93m) | [Todo Mentira](https://open.spotify.com/album/6DnLVVNxEbvqpThiPxWwk9) | 3:12 | 2023-05-08 | 2023-06-06 |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-04-15 | 2022-05-19 |

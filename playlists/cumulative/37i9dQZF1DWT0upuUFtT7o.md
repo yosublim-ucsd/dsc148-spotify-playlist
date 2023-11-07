@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Meernaa <3
 
-1,946 songs - 4 day 10 hr 26 min
+1,948 songs - 4 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,6 +553,7 @@
 | [Face](https://open.spotify.com/track/4adUFO0GaeoZfdhdtj9RNZ) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [Face](https://open.spotify.com/album/3zzOvx0cCLS6z2M2iKj57F) | 3:22 | 2022-01-12 | 2023-01-12 |
 | [Facedown](https://open.spotify.com/track/1X7t118txYdt05uUfRUWGT) | [Holdan](https://open.spotify.com/artist/4VRRVLm2L1yeCKSFGR57zl) | [Facedown](https://open.spotify.com/album/6mgl9RP3MX4Sg4L6AbMSOQ) | 3:54 | 2022-02-09 | 2022-03-10 |
 | [Fake ID](https://open.spotify.com/track/2cWF2PNhZVa2Amajwxd5ss) | [Ryan Wright](https://open.spotify.com/artist/27zmUjQFgOyAfNtp48I9ZT) | [Fake ID](https://open.spotify.com/album/0z18Xa1psp76wXDl710NK5) | 3:04 | 2022-10-19 | 2022-12-01 |
+| [falco](https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [road 2 neverland](https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8) | 3:29 | 2023-11-07 |  |
 | [Falling \(OFF THE EDGE!\)](https://open.spotify.com/track/43pU0szehzJVA1Tq16vjbt) | [Cayo Coco](https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3) | [Falling \(OFF THE EDGE!\)](https://open.spotify.com/album/51fMuD33B6qGb8dvpAfHDH) | 3:23 | 2022-01-26 | 2022-03-10 |
 | [FANCY COAT](https://open.spotify.com/track/705ByH52ZWfGhvtZX50Q6G) | [FruitPunchLoverBoy](https://open.spotify.com/artist/7pAPdjGwblD7qvfnVNCtZ8) | [FANCY COAT](https://open.spotify.com/album/0zXRTfXeaaXQo5OBbRZ0Rn) | 2:21 | 2023-04-12 | 2023-05-18 |
 | [Fanfiction](https://open.spotify.com/track/02njNJivD3dlxfCYxqftnc) | [CIB](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Fanfiction](https://open.spotify.com/album/2Q9hQcn8EqQhQTWKQghxF2) | 3:14 | 2022-09-06 | 2022-10-20 |
@@ -1872,6 +1873,7 @@
 | [Wedding Song](https://open.spotify.com/track/0ygMnfa2wt8hYzBt7u9N0i) | [John Keek](https://open.spotify.com/artist/5hWFMEirsZnlatYOIcySVL) | [Do You Love John Keek?](https://open.spotify.com/album/6UDOx7cxZDuhchdmJut8I2) | 3:10 | 2023-01-11 | 2023-02-16 |
 | [Wedding Song](https://open.spotify.com/track/7qJy9SQil6dBiRCLM38gkh) | [John Keek](https://open.spotify.com/artist/5hWFMEirsZnlatYOIcySVL) | [Do You Love John Keek?](https://open.spotify.com/album/6uJCeD01KUEe8N61zChYRJ) | 3:10 | 2023-01-11 | 2023-02-02 |
 | [Weird Year](https://open.spotify.com/track/2M4lATbWDOOFX3bn5WPYMt) | [Blue Boredom](https://open.spotify.com/artist/5kRh2T7eaUDOiFfZ9536nH) | [Weird Year](https://open.spotify.com/album/3vXFSWbEZ8r89XfhDqgXTB) | 4:26 | 2022-09-28 | 2022-10-26 |
+| [Well bucket](https://open.spotify.com/track/3GGfbeDZ63Q4TVJnP9NlnA) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:16 | 2023-11-06 |  |
 | [Wet Batteries](https://open.spotify.com/track/5neneVsklOtlC0msU2OHgK) | [Dance Lessons](https://open.spotify.com/artist/52VhFwZRpWWiHCtoBMA6na) | [Wet Batteries / I Like Lies](https://open.spotify.com/album/04qsL0NEbRr8dnclselSid) | 4:52 | 2022-09-23 | 2022-10-06 |
 | [Wet Clothes](https://open.spotify.com/track/6PJQ48cSLvoTBwPkohXZwa) | [Dear Boy](https://open.spotify.com/artist/4FMlCZsSwNgGiNk6PHo796) | [Wet Clothes](https://open.spotify.com/album/7HwdLn7aZxYsFWIsCQbVns) | 4:13 | 2022-03-30 | 2022-04-27 |
 | [Wet Jesus](https://open.spotify.com/track/6GiL3h2qDN2FDfymWZ5jdI) | [Daggy Man](https://open.spotify.com/artist/4nlx8JC05qQU06qyOFo6Kg), [Thomas Calder](https://open.spotify.com/artist/5nM5PCz9TgE2054Kjup7lL) | [Wet Jesus](https://open.spotify.com/album/7KI1E1jLRlSA6JupqR6rpa) | 3:19 | 2023-09-13 |  |

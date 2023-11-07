@@ -1457,6 +1457,32 @@
     },
     {
       "album": {
+        "name": "Kaarana",
+        "url": "https://open.spotify.com/album/1hWbDlBA3wscSNNq6dL8hA"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        },
+        {
+          "name": "Gagan SD",
+          "url": "https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP"
+        },
+        {
+          "name": "Karthik N B",
+          "url": "https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177923,
+      "name": "Kaarana",
+      "url": "https://open.spotify.com/track/77zBm2513kSoqZUwsvpr3r"
+    },
+    {
+      "album": {
         "name": "Kalitha Hudugi 2.0",
         "url": "https://open.spotify.com/album/1eusEx2WLiPspt0YwUs0vU"
       },
@@ -2667,6 +2693,28 @@
     },
     {
       "album": {
+        "name": "Nee Nanna Kavithe",
+        "url": "https://open.spotify.com/album/3Jml0aCC8w631pREfwGKe5"
+      },
+      "artists": [
+        {
+          "name": "Kiran Manjunath",
+          "url": "https://open.spotify.com/artist/0aeYsI55Nh78rT5xnI5Pxz"
+        },
+        {
+          "name": "Shreesh Gombi",
+          "url": "https://open.spotify.com/artist/4hhkVfPFH7QhsFj1PpMypP"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Nee Nanna Kavithe",
+      "url": "https://open.spotify.com/track/5F8gPMjRT1zjpaIlyjSBNw"
+    },
+    {
+      "album": {
         "name": "Nee Saniha",
         "url": "https://open.spotify.com/album/5ZD61t4W97RsGNm1ds6nLr"
       },
@@ -3082,6 +3130,24 @@
       "duration_ms": 221509,
       "name": "Ninna Nodade",
       "url": "https://open.spotify.com/track/31fsnh7dvxBu8UFxKsKeuB"
+    },
+    {
+      "album": {
+        "name": "Ninna Preethi",
+        "url": "https://open.spotify.com/album/0V48aBzTDzvRy2WuEcPhll"
+      },
+      "artists": [
+        {
+          "name": "Prasanna Bhojashettar",
+          "url": "https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238001,
+      "name": "Ninna Preethi",
+      "url": "https://open.spotify.com/track/23SkLenhmQOqaMm1jkFIo3"
     },
     {
       "album": {

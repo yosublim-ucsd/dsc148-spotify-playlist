@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ke9w06Dmd4.md) - [plain]
 
 > JTBC's Crossover Men's Quartet Project <Phantom Singer> Official Playlist\. \(JTBC의 크로스오버 남성 4중창 프로젝트 '팬텀싱어'의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,899 likes - 188 songs - 16 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,903 likes - 188 songs - 16 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ke9w06Dmd4.md) - [plain]
 | 187 | [Love will never end](https://open.spotify.com/track/0V9HftMzD62Nm26KPvvDJX) | [길병민](https://open.spotify.com/artist/6X5Qw1sAw3iyiAozEvkier), [김민석](https://open.spotify.com/artist/44aFGXMIq0SKnXTB2BCPAL), [김성식](https://open.spotify.com/artist/6nj8vLX0iYmWmx3itkEnrI), [박현수](https://open.spotify.com/artist/4qjXSzjDL3PCdXGAs44LsS) | [Phantom Singer3 Episode.10](https://open.spotify.com/album/2NTZOKTBruisGO8BHpjW2K) | 4:53 |
 | 188 | [The Rose](https://open.spotify.com/track/7LVOsRwVu6GQQQhKFxyau6) | [박기훈](https://open.spotify.com/artist/6PLsTzmEOGzqh9ham8Kzf8), [You Chae Hoon](https://open.spotify.com/artist/5wkkqpuCF4BTuTJ3TKQl1n), [정민성](https://open.spotify.com/artist/5bxAUVwnEuhYP0o6QcswOG), [최성훈](https://open.spotify.com/artist/0TtspyzgERgPQKicFFB5fI) | [Phantom Singer3 Episode.10](https://open.spotify.com/album/2NTZOKTBruisGO8BHpjW2K) | 5:16 |
 
-Snapshot ID: `MCxhMDdkMTYwM2UwN2JkMjc1ODU4MTMxZWQwYjg5OGViN2I3OGQyNTE1`
+Snapshot ID: `MCw5ZTA1OWYwZjdlMTY1YTBmZWQ1ZTQ0YjAzNzIzZTBkNGM2NTBmY2Ji`

@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 184320,
       "name": "Ar Baby na Esquina",
       "url": "https://open.spotify.com/track/2kFp3K4F6bYKn6atpKTOAc"
@@ -7394,7 +7394,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 109004,
       "name": "Era Pra Valer",
       "url": "https://open.spotify.com/track/76DgASwQr3PHWWT0v0yfIW"
@@ -9359,6 +9359,24 @@
     },
     {
       "album": {
+        "name": "SHH",
+        "url": "https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3"
+      },
+      "artists": [
+        {
+          "name": "Rudies Flacko",
+          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78003,
+      "name": "GLORD",
+      "url": "https://open.spotify.com/track/7bwDy9YugqXLSkhpTB4MB1"
+    },
+    {
+      "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/7w5Yopn5PbMhheS3IcQxLa"
       },
@@ -10184,6 +10202,32 @@
       "duration_ms": 148571,
       "name": "Joias Cravejadas",
       "url": "https://open.spotify.com/track/5Z9sKrS7BUsjYC1SRpx3WH"
+    },
+    {
+      "album": {
+        "name": "JOIAS EM MIM",
+        "url": "https://open.spotify.com/album/79uW968vJawrpesZB3IV6Y"
+      },
+      "artists": [
+        {
+          "name": "mavyrmldy",
+          "url": "https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB"
+        },
+        {
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+        },
+        {
+          "name": "Rudies Flacko",
+          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125892,
+      "name": "JOIAS EM MIM",
+      "url": "https://open.spotify.com/track/0SMlYWcymwHTETbvdhwafd"
     },
     {
       "album": {
@@ -13330,7 +13374,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 177230,
       "name": "Novinha do Peito Bicudo",
       "url": "https://open.spotify.com/track/48t7p44DDZoJpHq0NDgGdG"
@@ -15478,6 +15522,28 @@
       "duration_ms": 165241,
       "name": "Pois \u00c9",
       "url": "https://open.spotify.com/track/11vfaxci6Y5tgXDu84odv0"
+    },
+    {
+      "album": {
+        "name": "POKAZIDEIA",
+        "url": "https://open.spotify.com/album/5JBXitOArUwgN2LQL1Ot0i"
+      },
+      "artists": [
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136334,
+      "name": "POKAZIDEIA",
+      "url": "https://open.spotify.com/track/7xdTUQQpYsMxgCj1LZqsaD"
     },
     {
       "album": {

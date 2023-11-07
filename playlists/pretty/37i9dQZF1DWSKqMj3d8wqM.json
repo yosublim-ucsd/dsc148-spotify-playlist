@@ -1,12 +1,12 @@
 {
   "description": "Your favorite tunes from classic family movies.",
-  "num_followers": 178678,
+  "num_followers": 178698,
   "original_name": "Classic Family Flicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzU0MTc0MDhmMjExZDQzZDdhNTM0MjY4MmMwNDg2M2QyZWExMDc0",
+  "snapshot_id": "MCxmMDc0MTdhOWEyNTYyY2RmYjYwMDdiMjYyMGUyZjhmMjQ1YThiMGFh",
   "tracks": [
     {
       "added_at": "2022-01-21 22:38:50",
@@ -207,22 +207,6 @@
       "duration_ms": 304960,
       "name": "Space Jam",
       "url": "https://open.spotify.com/track/683hRieVmYdAhVA1DkjSAk"
-    },
-    {
-      "added_at": "2022-01-21 22:38:50",
-      "album": {
-        "name": "The Karate Kid: The Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH"
-      },
-      "artists": [
-        {
-          "name": "Joe \"Bean\" Esposito",
-          "url": "https://open.spotify.com/artist/4PCSnq8Q3hxOTn3ro4cl0M"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "You're The Best",
-      "url": "https://open.spotify.com/track/4zXa17K83Pp6N2yXdVc2sv"
     },
     {
       "added_at": "2022-01-21 22:38:50",

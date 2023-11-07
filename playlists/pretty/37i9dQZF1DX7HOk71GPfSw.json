@@ -1,12 +1,12 @@
 {
   "description": "he was a boy, i was a horse. could that make it any more difficult. ",
-  "num_followers": 424047,
+  "num_followers": 424086,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTUxN2U0MTY5YjAzNGFmMjQ2N2Q2ODY5MjJhYjRhMWY1YzcwZDM0",
+  "snapshot_id": "MCw4NjQ3YzhlYWUzNTk1MGQ4OTA5MWJjMTFiNDdjMjkwMTFlZjM4MzIx",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -143,6 +143,26 @@
       "duration_ms": 184840,
       "name": "Beautiful (2023 Edit)",
       "url": "https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5"
+    },
+    {
+      "added_at": "2023-11-06 15:08:19",
+      "album": {
+        "name": "Spalarkle",
+        "url": "https://open.spotify.com/album/6Hhdo0OvNA7iuFw4uvmil5"
+      },
+      "artists": [
+        {
+          "name": "felicita",
+          "url": "https://open.spotify.com/artist/6GmZBJpAV2nkNPFbF64QcX"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 246654,
+      "name": "Spalarkle (Alys)",
+      "url": "https://open.spotify.com/track/4N19YTJ4RcOve6wzSWYINm"
     },
     {
       "added_at": "2023-10-27 04:00:00",

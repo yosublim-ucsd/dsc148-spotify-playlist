@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 378804,
       "name": "Black Sun",
       "url": "https://open.spotify.com/track/20JiYYRX4KyNPOj1ADNjd5"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 203428,
       "name": "Enjoy The Rain (feat. Nathan Daisy)",
       "url": "https://open.spotify.com/track/7F6vxNOUuo6unbeEmB0BpJ"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 248310,
       "name": "Flore Chico (feat. Chico Castillo)",
       "url": "https://open.spotify.com/track/4KEuR4qFFiCfnXit0db0PQ"
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 277894,
       "name": "Fortune Teller",
       "url": "https://open.spotify.com/track/1t8Q66Stnzgm6VExvVmNHG"
@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 379645,
       "name": "Henna",
       "url": "https://open.spotify.com/track/28GQ3bPbeW4UXJhqgE4irh"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 302521,
       "name": "Hokema (feat. Delaram Kamareh)",
       "url": "https://open.spotify.com/track/1VoTZU5zicdDgvKu2DLxRv"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 52000,
       "name": "L Train - Interlude",
       "url": "https://open.spotify.com/track/3VauKqe12IMSG01zZZQ8Bh"
@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 305345,
       "name": "Medieval",
       "url": "https://open.spotify.com/track/2BME859AuqQFpHSNvSpqWN"
@@ -2207,6 +2207,28 @@
     },
     {
       "album": {
+        "name": "Stray Man",
+        "url": "https://open.spotify.com/album/68DaViJtOktyyAHn1q3MJv"
+      },
+      "artists": [
+        {
+          "name": "Filippos",
+          "url": "https://open.spotify.com/artist/1p93D1YEV3oqMBq2W9bIqT"
+        },
+        {
+          "name": "Dimp",
+          "url": "https://open.spotify.com/artist/2RlHPqeP6PaOAIgHCu6oM6"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354200,
+      "name": "Places & Faces",
+      "url": "https://open.spotify.com/track/08oNJOCqaZNUTYp6VzRS6d"
+    },
+    {
+      "album": {
         "name": "Pliva",
         "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
       },
@@ -2444,7 +2466,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 273488,
       "name": "Rise And Fall",
       "url": "https://open.spotify.com/track/4zjDcQXCyGUOEXL1LiwELj"
@@ -2669,6 +2691,28 @@
     },
     {
       "album": {
+        "name": "Sutra",
+        "url": "https://open.spotify.com/album/1ZHiL8Pb2qKdQeDDevehMq"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Darmon",
+          "url": "https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244149,
+      "name": "Sutra",
+      "url": "https://open.spotify.com/track/4zE7xIXG4SAWsJJXIkRFYD"
+    },
+    {
+      "album": {
         "name": "Remix Crusades (2007-2013)",
         "url": "https://open.spotify.com/album/3ebvYDbbG9vfNFpyPlCf1A"
       },
@@ -2840,7 +2884,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "Tijuana",
       "url": "https://open.spotify.com/track/0GXNKuzGu6a5w9TcmDc6T2"
@@ -2986,7 +3030,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 421027,
       "name": "Two Zulu Men In Ibiza",
       "url": "https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8"
@@ -3178,7 +3222,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 314181,
       "name": "Wash Away",
       "url": "https://open.spotify.com/track/3QL6Q8HFEhAURfU5AqOBj7"

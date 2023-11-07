@@ -4,7 +4,7 @@
 
 > Announcing <a href="https://tickets.spotify.com/events/spotify\-stages\-presents\-fresh\-finds\-brooklyn">Fresh Finds Live in New York</a> @ Baby's 12/4 ft Arcy Drive, Rahill, slimdan\. The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Artwork by Isu Kim.
 
-5,297 songs - 12 day 0 hr 33 min
+5,298 songs - 12 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -850,7 +850,7 @@
 | [Cerebral Key](https://open.spotify.com/track/5r04RHUXIUzDvYfAEHaSq8) | [Noah Yorke](https://open.spotify.com/artist/1KgRATlxeAdHQLacHoIjgQ) | [Cerebral Key](https://open.spotify.com/album/1wcOAnp5LBvOLyHttjQcwP) | 3:42 | 2023-08-09 | 2023-08-17 |
 | [CERTI STURDY](https://open.spotify.com/track/72MlZqv1M9lKddrEvMI8vQ) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [CERTI STURDY](https://open.spotify.com/album/3AcTtM3Ntq1faNnnlMWFbr) | 3:10 | 2022-06-08 | 2022-06-16 |
 | [Chains](https://open.spotify.com/track/01WAJKPdjS8QQS4jlp08GZ) | [Index For Working Musik](https://open.spotify.com/artist/30pElb7BpcpII86h5dRpYK) | [Chains](https://open.spotify.com/album/7BugvsnTSyxg7jwbchyA2H) | 3:17 | 2023-02-01 | 2023-02-09 |
-| [Challenger Deep](https://open.spotify.com/track/1aFtASIZ0GtGLp1LTzj9ea) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Challenger Deep](https://open.spotify.com/album/3knmKpCfct2IfzWPPwFQjM) | 3:54 | 2023-10-04 |  |
+| [Challenger Deep](https://open.spotify.com/track/1aFtASIZ0GtGLp1LTzj9ea) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Challenger Deep](https://open.spotify.com/album/3knmKpCfct2IfzWPPwFQjM) | 3:54 | 2023-10-04 | 2023-11-07 |
 | [Chameleon](https://open.spotify.com/track/1pvUilXlvXaburqYE4A8hE) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Chameleon](https://open.spotify.com/album/0VG6QgJlk6saDf0KoZbIML) | 2:43 | 2022-05-04 | 2022-05-12 |
 | [Champion](https://open.spotify.com/track/07QjFaqY0lzahZXQ0jdjXc) | [Dom Ryan](https://open.spotify.com/artist/1U29RvolWLQ1YUTmf3We0L) | [Champion](https://open.spotify.com/album/4oPVG9WoUwe9VTs4MKw2vI) | 3:43 | 2022-07-20 | 2022-07-28 |
 | [Chance](https://open.spotify.com/track/2PoBcXVafvD2yIO4ynXtuu) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Sattalite](https://open.spotify.com/artist/5niYxHk8papS8g9sJ1cCSc), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Chance](https://open.spotify.com/album/32qr91TrfqvLaHackgWu8T) | 3:14 | 2022-10-27 | 2022-11-10 |
@@ -3835,6 +3835,7 @@
 | [Relief \- Remix](https://open.spotify.com/track/1LyuLrCGL9Ku02uhf4kNUm) | [Madeline](https://open.spotify.com/artist/3u5FXThTL9t0pv8PhUCElb), [Jeffrey Eli](https://open.spotify.com/artist/7y2o4IQi5QnL6PbsOYuNp5) | [Relief \(Remix feat\. Jeffrey Eli\)](https://open.spotify.com/album/7mRs2g5HvP6fLlmCHs98Gx) | 3:00 | 2023-03-22 | 2023-03-30 |
 | [Relinda](https://open.spotify.com/track/3f3vKpAxjOdEouwzp0VfDZ) | [Jose Villasenor](https://open.spotify.com/artist/6QEWBOQE8sY6aFA06i5ZMS) | [Relinda](https://open.spotify.com/album/6gzoZ2Gn31jXrcWlKO6J14) | 2:33 | 2023-07-26 | 2023-08-03 |
 | [Rely On \(頼らない\)](https://open.spotify.com/track/2S69l77xUUsxWYiljQaWeP) | [Camp Kona](https://open.spotify.com/artist/5rqWS4xeYZHjwthy8s9tYd) | [Rely On \(頼らない\)](https://open.spotify.com/album/6q8AeL3LB0PPnTKBL4ugHz) | 2:21 | 2022-11-09 | 2022-12-01 |
+| [Remember Me](https://open.spotify.com/track/2gd00D6APhLate8i83azYd) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Remember Me](https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8) | 4:11 | 2023-11-06 |  |
 | [Reminisce](https://open.spotify.com/track/2CjRcJNaSRM4bJAs0RvzL6) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [Reminisce](https://open.spotify.com/album/6L2XJSKEAb9ViAWIRXNX7p) | 2:32 | 2023-05-24 | 2023-06-01 |
 | [Remorse](https://open.spotify.com/track/5JhINHjwyLkOTJfcDy9HPg) | [Teielte](https://open.spotify.com/artist/4zKoRVXYWUNUAdUYtlZirU) | [Remorse](https://open.spotify.com/album/4bl2dFWb6IuEQXNSaRvkSH) | 3:23 | 2022-09-21 | 2022-09-29 |
 | [Renacer](https://open.spotify.com/track/5Szry6sR2vYm1fHh4X8T62) | [Códex Fénix](https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy) | [Renacer](https://open.spotify.com/album/3Lj47MHjUR21dtEfXxUXh3) | 4:38 | 2022-04-27 | 2022-05-05 |

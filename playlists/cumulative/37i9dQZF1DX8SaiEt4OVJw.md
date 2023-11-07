@@ -2,7 +2,7 @@
 
 ### [Locker Room ](https://open.spotify.com/playlist/37i9dQZF1DX8SaiEt4OVJw)
 
-> The Final is here! GO BOKKE!
+> World Cup Champions!
 
 274 songs - 16 hr 44 min
 

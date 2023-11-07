@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover:Lyn\(린\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,075 songs - 2 day 21 hr 41 min
+1,076 songs - 2 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,6 +650,7 @@
 | [No place to hide](https://open.spotify.com/track/60zGjGZpEd4EA5EJ6t1Zui) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [No place to hide](https://open.spotify.com/album/6lmLTu9uqEIE7RdS2bWgSz) | 3:39 | 2022-03-29 | 2022-04-16 |
 | [No Reason](https://open.spotify.com/track/2I0YGyXdCKdsaV8m3KLXnt) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [No Reason](https://open.spotify.com/album/1BN28wruHBne8PUA5cO9fK) | 4:05 | 2022-07-07 | 2022-08-13 |
 | [No Return](https://open.spotify.com/track/59928cqGkFZaX111vOsN8Y) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Trip: playlist \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/0CsIy00HwQuYUfnqBhpYI8) | 3:12 | 2023-10-27 |  |
+| [NO WHERE, NOW HERE](https://open.spotify.com/track/28l1FPRsb1TcvotgqZjbAL) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [NO WHERE, NOW HERE](https://open.spotify.com/album/4EPsnYqqFuaOX4NLypy8gR) | 4:00 | 2023-11-06 |  |
 | [No Worries](https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [No Worries](https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU) | 2:54 | 2022-03-29 | 2022-04-10 |
 | [Nobody else](https://open.spotify.com/track/5nq9Sj7bH80RAARWo08jIT) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Under the Oak Tree \(Original Soundtrack\), Part\. 2](https://open.spotify.com/album/0gJ7pmSDOSWTBEhibnuOuw) | 3:45 | 2022-01-26 | 2022-07-08 |
 | [Nostalgia](https://open.spotify.com/track/6B1rtnTMiYoQKtkSKMtXAK) | [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Nostalgia](https://open.spotify.com/album/4vMdxNFcddeFZSK3IqtzaD) | 4:39 | 2022-07-04 | 2022-09-30 |

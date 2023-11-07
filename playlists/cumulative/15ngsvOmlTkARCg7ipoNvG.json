@@ -18611,6 +18611,24 @@
     },
     {
       "album": {
+        "name": "Winter Hymn",
+        "url": "https://open.spotify.com/album/2uE5riXkppeBRxf1gAuqnj"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62604,
+      "name": "Winter Hymn",
+      "url": "https://open.spotify.com/track/6cfarOqiDmfn5V4TMJ0Pk6"
+    },
+    {
+      "album": {
         "name": "Winter Joy (Cello Version)",
         "url": "https://open.spotify.com/album/3aKy1dE8T76fPsnpNKVItx"
       },

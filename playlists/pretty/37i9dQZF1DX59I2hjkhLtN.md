@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Sandrini 2830.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,735 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,747 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [Miami](https://open.spotify.com/track/76pmiSAa2Lzx9LJi1AqytS) | [Sali](https://open.spotify.com/artist/6b2j8sTUYQJ8fiEXgrIoLb) | [Miami](https://open.spotify.com/album/5qXGhlIF5j32Vo4SuYBOy2) | 2:34 |
 | 100 | [Flores \(feat\. Fred Mineiro\)](https://open.spotify.com/track/18fRGty4s8QQSKxVrvOVUs) | [Kappa Young](https://open.spotify.com/artist/7BjaRn4pph6TUOZ33JfiDG), [Fred Mineiro](https://open.spotify.com/artist/1jtX2PZFt5F9F9bjZwLQDS) | [Flores \(feat\. Fred Mineiro\)](https://open.spotify.com/album/01XAxuMmJgrR74yZZBhERv) | 3:15 |
 
-Snapshot ID: `MCw2ZDhhMGU3OTVkNmQwMjU0OTZjOWFiMDZlNTJiNmVjYTAxYTNhODE0`
+Snapshot ID: `MCw3YjE0NmY3MTU3ZDVjMWIyMWRjY2IyMzZmMGIzYjBmYWIwODUwZDVi`

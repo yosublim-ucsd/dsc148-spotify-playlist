@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 685866,
+  "num_followers": 685867,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGQ3ODFhNmQ3MDYxNDU2YzQ4MDdjYTY0NzNjOGNkNjk2NmU5NDEx",
+  "snapshot_id": "MCwyODZiMzRjMGY0YTNlZWQyYzNjYWViMmJhZTVhMmQ2MDg0YzQ5M2U2",
   "tracks": [
     {
       "added_at": "2023-10-18 13:22:07",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
+        "name": "Groove Thang",
+        "url": "https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 220360,
+      "name": "Groove Thang",
+      "url": "https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
         "name": "What Would You Do?",
         "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 174215,
       "name": "What Would You Do?",
       "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
-        "name": "Groove Thang",
-        "url": "https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "Groove Thang",
-      "url": "https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -971,6 +971,26 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 186541,
+      "name": "Don't Stop Just Yet",
+      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 220581,
       "name": "Pump the Brakes",
       "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 186541,
-      "name": "Don't Stop Just Yet",
-      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "Mad At Me",
-        "url": "https://open.spotify.com/album/02oVf19wXURdIAfzgUW3xr"
-      },
-      "artists": [
-        {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
-        }
-      ],
-      "duration_ms": 238095,
-      "name": "Mad At Me",
-      "url": "https://open.spotify.com/track/5iKxBjFOldF5hCpCvcvcf0"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
         "name": "Coma Cat",
         "url": "https://open.spotify.com/album/6nw5kO6PPxOI2RzuNX7Bya"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 177621,
       "name": "Coma Cat",
       "url": "https://open.spotify.com/track/48gv7cE3Fs4DNNSgWkbu1f"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
+        "name": "Mad At Me",
+        "url": "https://open.spotify.com/album/02oVf19wXURdIAfzgUW3xr"
+      },
+      "artists": [
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        }
+      ],
+      "duration_ms": 238095,
+      "name": "Mad At Me",
+      "url": "https://open.spotify.com/track/5iKxBjFOldF5hCpCvcvcf0"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
+        "name": "Wanna Be",
+        "url": "https://open.spotify.com/album/3xUpADnjRH0Wsuky9k0ktp"
+      },
+      "artists": [
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Wanna Be",
+      "url": "https://open.spotify.com/track/7LaY0WEnbY6rTqzSfoU5jj"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
         "name": "Excuses",
         "url": "https://open.spotify.com/album/5IgB6Fk5htrX4vQAcmw4ga"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 208317,
       "name": "So Much Love (feat. Lloyd Wade)",
       "url": "https://open.spotify.com/track/6Z5rzJ6DefXJCzntIUYCWk"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
-        "name": "Wanna Be",
-        "url": "https://open.spotify.com/album/3xUpADnjRH0Wsuky9k0ktp"
-      },
-      "artists": [
-        {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Wanna Be",
-      "url": "https://open.spotify.com/track/7LaY0WEnbY6rTqzSfoU5jj"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "Who Let The Dogs Out (feat. EVALINA)",
-        "url": "https://open.spotify.com/album/6HuFQMd2x57nMXOImxw9Tm"
-      },
-      "artists": [
-        {
-          "name": "ABOUT THAT",
-          "url": "https://open.spotify.com/artist/6HMAEvj17gDdNB5EotNEOe"
-        },
-        {
-          "name": "EVALINA",
-          "url": "https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE"
-        }
-      ],
-      "duration_ms": 136120,
-      "name": "Who Let The Dogs Out (feat. EVALINA)",
-      "url": "https://open.spotify.com/track/5eF4cNJ30kdTXnlmUfN8dw"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
         "name": "So Sick",
         "url": "https://open.spotify.com/album/4ohKilHhD2WUbLkIXcuhMB"
       },
@@ -1583,6 +1563,26 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
+        "name": "Who Let The Dogs Out (feat. EVALINA)",
+        "url": "https://open.spotify.com/album/6HuFQMd2x57nMXOImxw9Tm"
+      },
+      "artists": [
+        {
+          "name": "ABOUT THAT",
+          "url": "https://open.spotify.com/artist/6HMAEvj17gDdNB5EotNEOe"
+        },
+        {
+          "name": "EVALINA",
+          "url": "https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "Who Let The Dogs Out (feat. EVALINA)",
+      "url": "https://open.spotify.com/track/5eF4cNJ30kdTXnlmUfN8dw"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
         "name": "My House",
         "url": "https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf"
       },
@@ -1595,30 +1595,6 @@
       "duration_ms": 175413,
       "name": "My House",
       "url": "https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
-        "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
-        "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        },
-        {
-          "name": "Elisabeth Troy",
-          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
-        }
-      ],
-      "duration_ms": 208217,
-      "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
-      "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1659,6 +1635,30 @@
       "duration_ms": 218015,
       "name": "Wifey",
       "url": "https://open.spotify.com/track/4p1hTT29zIfPbf8XVO1nHQ"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
+        "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
+        "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Elisabeth Troy",
+          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
+        }
+      ],
+      "duration_ms": 208217,
+      "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
+      "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "Tears For Later",
-        "url": "https://open.spotify.com/album/79k3hCGte01bmCcvPDEdwO"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Tears For Later",
-      "url": "https://open.spotify.com/track/0qLCGr3tEqsvk5FfHU2XqV"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/4M3rsAYpJxIVXqYHxylljj"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 235000,
       "name": "Louder Than Words",
       "url": "https://open.spotify.com/track/6UreohhsD15kzzKURwLZ07"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
+        "name": "Tears For Later",
+        "url": "https://open.spotify.com/album/79k3hCGte01bmCcvPDEdwO"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Tears For Later",
+      "url": "https://open.spotify.com/track/0qLCGr3tEqsvk5FfHU2XqV"
     }
   ],
   "unique_name": "PARTY MODE",

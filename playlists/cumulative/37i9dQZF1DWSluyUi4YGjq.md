@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Cover: Duster
 
-476 songs - 1 day 7 hr 9 min
+478 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,7 @@
 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 | 2022-12-15 | 2023-01-14 |
 | [Press](https://open.spotify.com/track/0PJtjnEPQamRRHIDVj1cGx) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/28us6d6Q9xD8vTkSUbL6Nu) | 3:31 | 2021-10-19 | 2022-12-01 |
 | [Press](https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 3:31 | 2021-10-19 | 2023-05-10 |
-| [Pressure](https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pressure](https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU) | 2:53 | 2023-04-14 |  |
+| [Pressure](https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pressure](https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU) | 2:53 | 2023-04-14 | 2023-11-07 |
 | [Pretend to Be Here](https://open.spotify.com/track/0yDvw3DK4JVV8VR1S7aQRZ) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [Nature Heart Software](https://open.spotify.com/album/25NpVtdgL29klIrre3mion) | 3:37 | 2021-10-19 | 2023-01-13 |
 | [Pretty Face](https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Dead Kids R.I.P\. City](https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3) | 2:31 | 2021-10-19 | 2023-06-08 |
 | [pretty scars](https://open.spotify.com/track/7dTs49ZdEWuHvyrbjrZyDa) | [w1sh](https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA) | [pretty scars](https://open.spotify.com/album/7rF8PnLMiuS6NyH8s2MVyo) | 2:16 | 2023-10-20 |  |
@@ -355,6 +355,7 @@
 | [Pulling Our Weight](https://open.spotify.com/track/6HhqiKpkJ37qa98TiuYla3) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/6hPFLCX84m3LzdOJDQlkTZ) | 3:21 | 2021-10-19 | 2022-10-07 |
 | [Pulling Stitches](https://open.spotify.com/track/4PJooaOdpgu1xjQgCtE6RJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Pulling Stitches](https://open.spotify.com/album/47Xo8CXT5kwVS21eK50jFi) | 4:12 | 2023-06-01 | 2023-07-01 |
 | [Radial](https://open.spotify.com/track/1pO7WwR4PQUS4aCQRxCG4y) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Radial](https://open.spotify.com/album/4LPazFPUDMRbGHODFirsKg) | 4:27 | 2022-08-03 | 2022-12-13 |
+| [Rdo](https://open.spotify.com/track/5uPwj0ULJrOIhCzJHt6hhz) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [I + II](https://open.spotify.com/album/05FbjkY4JGm3rrntaeGJDx) | 1:46 | 2023-11-06 |  |
 | [Reel](https://open.spotify.com/track/1SHkhQfzSnMFOAYlrJjVKA) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Reel](https://open.spotify.com/album/2RPg4cyOfekuhu7driK1jl) | 4:40 | 2021-10-19 | 2022-07-29 |
 | [reina de primavera](https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [reina de primavera](https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y) | 4:05 | 2023-03-24 | 2023-08-05 |
 | [Riptide \(feat\. The Haunted Youth\)](https://open.spotify.com/track/0qLerBz0rNYKARVqBTzLLX) | [King Viktor](https://open.spotify.com/artist/4O8MbCzsOScPb5KzkE1bdI), [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Riptide \(feat\. The Haunted Youth\)](https://open.spotify.com/album/5ooh3g7uYQIFXJCPuV7ff9) | 3:44 | 2023-05-05 |  |
@@ -394,6 +395,7 @@
 | [Spring and by Summer Fall](https://open.spotify.com/track/4H1WerRdoDxPnra8SJtW3R) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/7iOloZrq72k9GsuJUUo1pO) | 4:15 | 2021-10-19 | 2022-07-29 |
 | [Stare at the Sun](https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Pure Mood](https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb) | 4:19 | 2021-10-19 | 2023-06-08 |
 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 | 2021-10-19 | 2023-05-10 |
+| [Stay](https://open.spotify.com/track/5eD6Uxpntflv7HMCZ4P83Q) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [I + II](https://open.spotify.com/album/05FbjkY4JGm3rrntaeGJDx) | 2:10 | 2023-11-06 |  |
 | [Stick](https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH) | 3:22 | 2021-10-19 | 2023-04-16 |
 | [Stick](https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3) | 3:22 | 2021-10-19 | 2023-06-08 |
 | [Stick](https://open.spotify.com/track/6MVDqPlrnS0vfH8BI0DY4p) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Tomorrow's Fire](https://open.spotify.com/album/5GYQtBhrKfobrD0RkFF43Z) | 3:02 | 2023-10-13 |  |
@@ -457,7 +459,7 @@
 | [Waiting Around](https://open.spotify.com/track/4nyqv670J2KLyF6dw68Vo0) | [Lilts](https://open.spotify.com/artist/1FIiuU3QEVE9BolZFEL5FG) | [Waiting Around](https://open.spotify.com/album/3FhDSxuLJNOJKe6YZZgIUA) | 2:39 | 2023-09-08 |  |
 | [Wanting War](https://open.spotify.com/track/1hFjYgyZe58ZTNBK4mX6m1) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Dead Kids R.I.P\. City](https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3) | 3:36 | 2021-10-19 | 2022-12-16 |
 | [Waste My Mind](https://open.spotify.com/track/6NP8HBlNKQzsq8K9O5dK0f) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Waste My Mind](https://open.spotify.com/album/6HO2c5VcuxYJ8Akh9N0HUT) | 2:42 | 2023-06-16 | 2023-06-21 |
-| [Watchers](https://open.spotify.com/track/7qnvCyjTg93bXo2pD2yrkx) | [Small Black](https://open.spotify.com/artist/1J6xqDysFw6YiQ0vMvIKds) | [Small Black](https://open.spotify.com/album/6KIjE0i0JM6fiM46YBUV8s) | 4:06 | 2023-04-14 |  |
+| [Watchers](https://open.spotify.com/track/7qnvCyjTg93bXo2pD2yrkx) | [Small Black](https://open.spotify.com/artist/1J6xqDysFw6YiQ0vMvIKds) | [Small Black](https://open.spotify.com/album/6KIjE0i0JM6fiM46YBUV8s) | 4:06 | 2023-04-14 | 2023-11-07 |
 | [Weekends](https://open.spotify.com/track/7yqgtjcAV9TDDANthelCoU) | [Westkust](https://open.spotify.com/artist/6YXQAg2YzoPVppbDK7elYj) | [Last Forever](https://open.spotify.com/album/4jGKbW0UlcM89NRPVHDrwD) | 3:25 | 2023-01-04 | 2023-06-24 |
 | [What Does Moon Think](https://open.spotify.com/track/7L25MDmLQynJSzLm8hlj16) | [SIZ](https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo) | [What Does Moon Think](https://open.spotify.com/album/1xuR0TZ9uoVRPIWHqj7hu8) | 3:00 | 2023-06-23 |  |
 | [Where I Met U](https://open.spotify.com/track/2LQfCcWNrClF8BMujEK4de) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [House](https://open.spotify.com/album/5fSePu9nCtehVU2U2IBb2q) | 2:02 | 2023-03-24 | 2023-09-30 |

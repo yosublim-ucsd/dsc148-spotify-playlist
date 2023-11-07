@@ -2,7 +2,7 @@
 
 ### [Street Soul](https://open.spotify.com/playlist/37i9dQZF1DWTplaZ1W7ARf)
 
-> Neighborhood Storytellers\. Cover: Rod Wave
+> Neighborhood Storytellers\. Cover: Gunna
 
 232 songs - 11 hr 39 min
 

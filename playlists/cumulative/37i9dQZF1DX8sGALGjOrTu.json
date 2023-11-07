@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 267826,
       "name": "Ride The Wings Of Pestilence",
       "url": "https://open.spotify.com/track/5TljqB3tKMmYMRXUc95mjt"
@@ -3516,6 +3516,24 @@
       "duration_ms": 264546,
       "name": "Understanding in a Car Crash",
       "url": "https://open.spotify.com/track/4pBfU4RSvH0NzjEr2OgjWn"
+    },
+    {
+      "album": {
+        "name": "Dance Gavin Dance",
+        "url": "https://open.spotify.com/album/7FErRFVQYaG2c0UUBapFGT"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218453,
+      "name": "Uneasy Hearts Weigh The Most",
+      "url": "https://open.spotify.com/track/59RtbarKXlfmbKZjvkwoW7"
     },
     {
       "album": {

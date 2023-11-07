@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:44oncuQSlFMMh7PRslRKUk">Blocage</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,598 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,605 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Ripagnola Alle 19 \(feat\. Orelle, Martina Primavera\)](https://open.spotify.com/track/0c8mwvjTYUZUMwiLn4vhbX) | [Maladé](https://open.spotify.com/artist/4pLZb6eSKa9V8EB0vF0VTl), [Orelle](https://open.spotify.com/artist/759n9HvatPa0PARbAtn6Cs), [Martina Primavera](https://open.spotify.com/artist/1f7xLN7zodIwUg2W2McjNn) | [Ripagnola Alle 19 \(feat\. Orelle, Martina Primavera\)](https://open.spotify.com/album/4FrLdV5HORBNYmyFTHgQhF) | 2:56 |
 | 50 | [C'est magique](https://open.spotify.com/track/7oynHAPhWJiIpRtyDQVLa2) | [\(+39\) 375\-649\-94\-64 My Telephone Number](https://open.spotify.com/artist/00xSgiKwSnRaE9zYqlRCoH) | [DEMO \#01](https://open.spotify.com/album/52hUlx8W1cnwA4G79nazsF) | 2:12 |
 
-Snapshot ID: `MCxhZmQ0OTcxMWNhYTdkZjczNWI2NTIwYWM3NjJkNjYzZmI0ZjBiODli`
+Snapshot ID: `MCw2NTg3NDljMDg1YTkxODIwYTAwYjE4Y2JjOTBhNGVmYzU4ZDU3NGUz`

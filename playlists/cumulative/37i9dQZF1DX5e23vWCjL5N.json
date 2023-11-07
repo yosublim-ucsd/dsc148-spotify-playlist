@@ -1164,10 +1164,32 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 206000,
       "name": "IN HEAVEN (feat. Ernia)",
       "url": "https://open.spotify.com/track/0IEMAsKTp3fbnlBI2T92Yl"
+    },
+    {
+      "album": {
+        "name": "OUTSIDER",
+        "url": "https://open.spotify.com/album/2YrxUX2oROEmzhkfZ2K8ry"
+      },
+      "artists": [
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "IN HEAVEN (feat. Ernia)",
+      "url": "https://open.spotify.com/track/3NG6Yb6AxRfF5RLplmiTzZ"
     },
     {
       "album": {

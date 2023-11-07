@@ -1,37 +1,13 @@
 {
-  "description": "Neighborhood Storytellers. Cover: Rod Wave",
-  "num_followers": 56442,
+  "description": "Neighborhood Storytellers. Cover: Gunna",
+  "num_followers": 56441,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZThjOGZkNjJkMzFhMjljNGRlMTgwNDNhNjg4YzA3ZjQ0NTM2ZDA2",
+  "snapshot_id": "MCw2YTkxN2YzNzM1Y2Y3NDUzYjJhMzY1OWMyMzYyZWY4ZWZmNGVjNTYw",
   "tracks": [
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Been One",
-        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
-      },
-      "artists": [
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 286159,
-      "name": "Room Comfort (feat. Fridayy and Lil Durk)",
-      "url": "https://open.spotify.com/track/2pog8j1Dq6rzyWrkA3F6Zt"
-    },
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
@@ -63,6 +39,30 @@
       "duration_ms": 184026,
       "name": "alright",
       "url": "https://open.spotify.com/track/4zivXJkUD87842VhywHGFn"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Been One",
+        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 286159,
+      "name": "Room Comfort (feat. Fridayy and Lil Durk)",
+      "url": "https://open.spotify.com/track/2pog8j1Dq6rzyWrkA3F6Zt"
     },
     {
       "added_at": "2023-10-27 04:01:00",

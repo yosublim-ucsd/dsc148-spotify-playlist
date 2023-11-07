@@ -1,12 +1,12 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1096821,
+  "num_followers": 1097398,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjliMThiY2NiNjQ4Y2NkNDM1NWQ1N2QzOTcwZTkxY2UwYTNkN2Y2",
+  "snapshot_id": "MCwxNTUwOTI4NDdlODI2YWI2MzVmOTM5ZDY2NTkwMjJmMjQwMzIxMmRm",
   "tracks": [
     {
       "added_at": "2023-07-14 10:06:53",
@@ -423,7 +423,7 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Best Of La Bouche feat. Melanie Thornton",
+        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
         "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
       },
       "artists": [
@@ -467,22 +467,6 @@
       "duration_ms": 264000,
       "name": "Dreams (Will Come Alive)",
       "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 285426,
-      "name": "The Riddle",
-      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -531,6 +515,22 @@
       "duration_ms": 203440,
       "name": "Doctor Jones",
       "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 285426,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "L'Amour Toujour",
-        "url": "https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "L'amour Toujours (Small Mix)",
-      "url": "https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 236666,
       "name": "The Summer Is Magic (Radio Mix)",
       "url": "https://open.spotify.com/track/6bXFXDYcwHiuvW1IDayCPA"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "L'Amour Toujour",
+        "url": "https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "L'amour Toujours (Small Mix)",
+      "url": "https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
         "name": "Belle Epoque",
         "url": "https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr"
       },
@@ -883,7 +899,7 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Best Of La Bouche feat. Melanie Thornton",
+        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
         "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
       },
       "artists": [
@@ -963,22 +979,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
-      },
-      "artists": [
-        {
-          "name": "Dr. Alban",
-          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
-        }
-      ],
-      "duration_ms": 239933,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU"
       },
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Sing Hallelujah!",
+      "url": "https://open.spotify.com/track/2qjDNbgLzfBpCvDwfw11Qg"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
         "name": "Celebration",
         "url": "https://open.spotify.com/album/4R3t81cmGUQrTRFXTw7iI1"
       },
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Can\u2018t Stop Raving",
-        "url": "https://open.spotify.com/album/1hMjJNZT1jhuWNotbgTRsB"
-      },
-      "artists": [
-        {
-          "name": "Dune",
-          "url": "https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Can\u2018t Stop Raving (Video Mix)",
-      "url": "https://open.spotify.com/track/4Q7fEjeCZgU8oxjbLWrm7L"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/3iJwt0Sq44ZBzR7kNCxf0y"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 229626,
       "name": "Bailando - Video Edit",
       "url": "https://open.spotify.com/track/7cG3wfohoNDSp2M8FWrgTg"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Can\u2018t Stop Raving",
+        "url": "https://open.spotify.com/album/1hMjJNZT1jhuWNotbgTRsB"
+      },
+      "artists": [
+        {
+          "name": "Dune",
+          "url": "https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Can\u2018t Stop Raving (Video Mix)",
+      "url": "https://open.spotify.com/track/4Q7fEjeCZgU8oxjbLWrm7L"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/0Nt7LlU91CFX0yrtXL5DUM"
       },
       "artists": [
         {
-          "name": "Dr. Alban",
-          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
         }
       ],
-      "duration_ms": 240933,
-      "name": "Sing Hallelujah!",
-      "url": "https://open.spotify.com/track/2qjDNbgLzfBpCvDwfw11Qg"
+      "duration_ms": 236693,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/0pXhsuk0u7vzOtBYdFkaAs"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -1159,22 +1175,6 @@
       "duration_ms": 194560,
       "name": "Bellissima - Radio Edit",
       "url": "https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "Rough And Tough And Dangerous - The Singles 1994 - 1998",
-        "url": "https://open.spotify.com/album/0FXzH47HIVo1JoPHVT5i2N"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Hyper Hyper",
-      "url": "https://open.spotify.com/track/2HTkjyB61A90e1sOziRJQc"
     }
   ],
   "unique_name": "90s Dance Party",

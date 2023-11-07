@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sanathan Shree Krishnan",
-  "num_followers": 4752,
+  "num_followers": 4801,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2MzZmZkZTc4N2M2OGFiMDllMWQ4ZDY1ZjVlOGE1NjA0N2U5ZDM4",
+  "snapshot_id": "MCxjNGNmODI2ZGJkMzZhNzNlZWE3M2U2NDIwNTIwOTc4NzM2MDVlMzNi",
   "tracks": [
     {
       "added_at": "2023-10-27 09:17:06",
@@ -23,74 +23,6 @@
       "duration_ms": 184821,
       "name": "Thoongaadha",
       "url": "https://open.spotify.com/track/4LQA5c88VBjFmsLy4RRD0x"
-    },
-    {
-      "added_at": "2023-08-07 08:02:14",
-      "album": {
-        "name": "Shy Boi",
-        "url": "https://open.spotify.com/album/2JA7ebasiQYXt9jaw5cNz2"
-      },
-      "artists": [
-        {
-          "name": "Mk Muziq",
-          "url": "https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M"
-        },
-        {
-          "name": "Baila Curry",
-          "url": "https://open.spotify.com/artist/5DyGDTfz4KZ7XcUXHcXrly"
-        },
-        {
-          "name": "Double J The Rapper",
-          "url": "https://open.spotify.com/artist/4oS28QL714oJei3rN7QrIf"
-        }
-      ],
-      "duration_ms": 157777,
-      "name": "Shy Boi",
-      "url": "https://open.spotify.com/track/5dF6MnJUCc2LuLMQ5w82wA"
-    },
-    {
-      "added_at": "2023-06-15 08:39:45",
-      "album": {
-        "name": "Hey Mudhal Siripey",
-        "url": "https://open.spotify.com/album/4yHFrEJp5lyht4Z1NwvpL5"
-      },
-      "artists": [
-        {
-          "name": "Praveen Sriram",
-          "url": "https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6"
-        },
-        {
-          "name": "Hemanth Kumar MHD",
-          "url": "https://open.spotify.com/artist/0FdT37rY4wTmIF4B8kPjpV"
-        },
-        {
-          "name": "Tamil Mani",
-          "url": "https://open.spotify.com/artist/5GQclhWiFwYsMfPMMsdwx8"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Hey Mudhal Siripey",
-      "url": "https://open.spotify.com/track/1dOy2vIAWMPR3pUWrUp0E8"
-    },
-    {
-      "added_at": "2023-06-09 11:19:53",
-      "album": {
-        "name": "Gramathu Mayile",
-        "url": "https://open.spotify.com/album/0zS8HM9OOBiW4SgfUaIGfD"
-      },
-      "artists": [
-        {
-          "name": "Nitin K Siva",
-          "url": "https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis"
-        },
-        {
-          "name": "Lokesh Sambath Kumar",
-          "url": "https://open.spotify.com/artist/4MuRbk7Za0fITveN2rOPbv"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Gramathu Mayile",
-      "url": "https://open.spotify.com/track/2cnOogJYYd7YuL7ZeMWlWf"
     },
     {
       "added_at": "2023-08-16 07:16:41",
@@ -111,6 +43,26 @@
       "duration_ms": 201864,
       "name": "Kaatril Panju Pola",
       "url": "https://open.spotify.com/track/1Le18sKyKKy70uJfPlfweT"
+    },
+    {
+      "added_at": "2023-11-06 05:13:50",
+      "album": {
+        "name": "Vaa Pogalam",
+        "url": "https://open.spotify.com/album/0k7uezmNTyqTcaoThQnaKY"
+      },
+      "artists": [
+        {
+          "name": "Suryansh",
+          "url": "https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD"
+        },
+        {
+          "name": "Krithika Nelson",
+          "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
+        }
+      ],
+      "duration_ms": 237886,
+      "name": "Vaa Pogalam",
+      "url": "https://open.spotify.com/track/0L7eH4ECQWsHIsTW01lLZp"
     },
     {
       "added_at": "2023-07-04 11:25:29",
@@ -267,6 +219,26 @@
       "duration_ms": 240000,
       "name": "Manam",
       "url": "https://open.spotify.com/track/78aq6l0X3srW5K7kHkrUrK"
+    },
+    {
+      "added_at": "2023-11-06 06:51:41",
+      "album": {
+        "name": "Uyire Urave",
+        "url": "https://open.spotify.com/album/2LIKp3hkXZ7dnOXnUsQ8dV"
+      },
+      "artists": [
+        {
+          "name": "Joseph Vijay",
+          "url": "https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "duration_ms": 201411,
+      "name": "Uyire Urave",
+      "url": "https://open.spotify.com/track/4xtSrcg87lOmRLEsqISBVj"
     },
     {
       "added_at": "2023-07-26 13:04:53",
@@ -623,34 +595,6 @@
       "duration_ms": 230400,
       "name": "Vaasam Pesum",
       "url": "https://open.spotify.com/track/3oBLxR0GR0tCuhEvjamXM4"
-    },
-    {
-      "added_at": "2023-10-04 10:34:28",
-      "album": {
-        "name": "Gangster",
-        "url": "https://open.spotify.com/album/6RnOCuDGOqsPR2vy9aQ9D2"
-      },
-      "artists": [
-        {
-          "name": "Keshore Kumarr",
-          "url": "https://open.spotify.com/artist/5BD7bGKYa8EtnwRpEjYd2f"
-        },
-        {
-          "name": "RK Vilasini",
-          "url": "https://open.spotify.com/artist/01kF7XZb8f8B2aywaXOPXy"
-        },
-        {
-          "name": "GKV",
-          "url": "https://open.spotify.com/artist/0836tZWcZRyLXpyyHqi3oD"
-        },
-        {
-          "name": "Anbu",
-          "url": "https://open.spotify.com/artist/1hY1gCaCr5crn9Dznsg6GJ"
-        }
-      ],
-      "duration_ms": 163999,
-      "name": "Gangster",
-      "url": "https://open.spotify.com/track/21Ce5TcQah2Irg2HjBLtGP"
     },
     {
       "added_at": "2023-08-04 15:42:32",

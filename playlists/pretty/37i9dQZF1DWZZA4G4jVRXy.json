@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 126531,
+  "num_followers": 126544,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGQ0YmYzMGQxNmY1MzlmMzM4ZGQ2ZTFlOGE5OWU0ZmVlZGUzYzU0",
+  "snapshot_id": "MCw5NWFkY2U0MjNlNTgzNTIyMGVhYmVjZmNhZmZkMTJhNWYxODdhNTIz",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -317,6 +317,22 @@
       "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
     },
     {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+    },
+    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Swingin' sounds for the Jungle Jetset !",
@@ -335,22 +351,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Soul Of The Drums",
         "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
       },
@@ -363,22 +363,6 @@
       "duration_ms": 135946,
       "name": "Coffee Bean / Calabash Annie",
       "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Ultra-Lounge / Bachelor Pad Royale Volume Four",
-        "url": "https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI"
-      },
-      "artists": [
-        {
-          "name": "King Curtis",
-          "url": "https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Melancholy Serenade - Remastered",
-      "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -415,6 +399,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Ultra-Lounge / Bachelor Pad Royale Volume Four",
+        "url": "https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI"
+      },
+      "artists": [
+        {
+          "name": "King Curtis",
+          "url": "https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Melancholy Serenade - Remastered",
+      "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "The Home Recordings Vol. 1",
         "url": "https://open.spotify.com/album/4YvK4WVcx4sTClhZRvmST4"
       },
@@ -431,22 +431,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Dance Beat of Xavier Cugat",
         "url": "https://open.spotify.com/album/3fGARHzOLWrwfnyZSxt0L5"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 205893,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/7jvL2XQbyF5PzYu6X3X8da"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Makani Olu'olu",
-        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
-      },
-      "artists": [
-        {
-          "name": "Na Palapalai",
-          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
-        }
-      ],
-      "duration_ms": 163786,
-      "name": "Lepe Ula'ula",
-      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Primitiva",
         "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 143666,
       "name": "Glow Worm Cha Cha Cha - Remastered",
       "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Makani Olu'olu",
+        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
+      },
+      "artists": [
+        {
+          "name": "Na Palapalai",
+          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
+        }
+      ],
+      "duration_ms": 163786,
+      "name": "Lepe Ula'ula",
+      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -687,22 +687,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Vintage Jazz N\u00ba 32 - EPs Collectors \"Aquellos Ojos Verdes\"",
-        "url": "https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs"
-      },
-      "artists": [
-        {
-          "name": "Al Romero And His Orchestra",
-          "url": "https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0"
-        }
-      ],
-      "duration_ms": 162721,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Kiss Me Love",
         "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 138666,
       "name": "Blue Hawaii",
       "url": "https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Vintage Jazz N\u00ba 32 - EPs Collectors \"Aquellos Ojos Verdes\"",
+        "url": "https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs"
+      },
+      "artists": [
+        {
+          "name": "Al Romero And His Orchestra",
+          "url": "https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0"
+        }
+      ],
+      "duration_ms": 162721,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Vintage Dance Orchestras No. 304 - EP: Provocative Cha Cha Cha",
-        "url": "https://open.spotify.com/album/2lSnwuw4dkzBcVoXFP1RLM"
-      },
-      "artists": [
-        {
-          "name": "Enoch Light And His Orchestra",
-          "url": "https://open.spotify.com/artist/6OoJgs9H4YzzniwXUwY7Yc"
-        }
-      ],
-      "duration_ms": 161595,
-      "name": "Too Young Cha Cha",
-      "url": "https://open.spotify.com/track/0dCWH5s6UEeqsSGSVsdvCS"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Quiet Village",
@@ -763,6 +747,22 @@
       "duration_ms": 138133,
       "name": "Hawaiian War Chant",
       "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Vintage Dance Orchestras No. 304 - EP: Provocative Cha Cha Cha",
+        "url": "https://open.spotify.com/album/2lSnwuw4dkzBcVoXFP1RLM"
+      },
+      "artists": [
+        {
+          "name": "Enoch Light And His Orchestra",
+          "url": "https://open.spotify.com/artist/6OoJgs9H4YzzniwXUwY7Yc"
+        }
+      ],
+      "duration_ms": 161595,
+      "name": "Too Young Cha Cha",
+      "url": "https://open.spotify.com/track/0dCWH5s6UEeqsSGSVsdvCS"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -811,6 +811,26 @@
       "duration_ms": 196226,
       "name": "Hana Maui - Digitally Remastered 1995",
       "url": "https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Lounge Music Deluxe: 101 Strings",
+        "url": "https://open.spotify.com/album/2mvV5ZGc4Iq4h7cOltp31p"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        },
+        {
+          "name": "101 Strings Orchestra",
+          "url": "https://open.spotify.com/artist/1sLpCr5xThZkGHLw4H0mNE"
+        }
+      ],
+      "duration_ms": 157077,
+      "name": "Tropicando",
+      "url": "https://open.spotify.com/track/03URHmllzL0jELm41zDslA"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -893,26 +913,6 @@
       "url": "https://open.spotify.com/track/2j0cJ0WWmdbV9kaDYsUMLZ"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Lounge Music Deluxe: 101 Strings",
-        "url": "https://open.spotify.com/album/2mvV5ZGc4Iq4h7cOltp31p"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        },
-        {
-          "name": "101 Strings Orchestra",
-          "url": "https://open.spotify.com/artist/1sLpCr5xThZkGHLw4H0mNE"
-        }
-      ],
-      "duration_ms": 157077,
-      "name": "Tropicando",
-      "url": "https://open.spotify.com/track/03URHmllzL0jELm41zDslA"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Legend Of The Jivaro",
@@ -959,6 +959,26 @@
       "duration_ms": 142106,
       "name": "My Three Sons - Remastered",
       "url": "https://open.spotify.com/track/67OLtDm3jaMdhywCIxZNgP"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Ultra-Lounge/Mondo Exotica: Volume One",
+        "url": "https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        },
+        {
+          "name": "Bas Sheva",
+          "url": "https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/0lF6dbEwpoXr0efP2p2Nsm"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1027,42 +1047,6 @@
     {
       "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Eden's Island (Remastered)",
-        "url": "https://open.spotify.com/album/1zEXjYvmffHT5H3YMnR88Q"
-      },
-      "artists": [
-        {
-          "name": "Eden Ahbez",
-          "url": "https://open.spotify.com/artist/10uwDZEuXM1HzOeDlrybCS"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "La Mar",
-      "url": "https://open.spotify.com/track/1Z4aOyNZmQ95yBRzPWgFJ3"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Ultra-Lounge/Mondo Exotica: Volume One",
-        "url": "https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        },
-        {
-          "name": "Bas Sheva",
-          "url": "https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Lust",
-      "url": "https://open.spotify.com/track/0lF6dbEwpoXr0efP2p2Nsm"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
         "name": "Infinity in Sound, Vol. 2",
         "url": "https://open.spotify.com/album/5NYl6kCABFF9snRkzlamzc"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 171733,
       "name": "Bai\u0301a",
       "url": "https://open.spotify.com/track/2132EtRYeOiZFhWitl7QHx"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Eden's Island (Remastered)",
+        "url": "https://open.spotify.com/album/1zEXjYvmffHT5H3YMnR88Q"
+      },
+      "artists": [
+        {
+          "name": "Eden Ahbez",
+          "url": "https://open.spotify.com/artist/10uwDZEuXM1HzOeDlrybCS"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "La Mar",
+      "url": "https://open.spotify.com/track/1Z4aOyNZmQ95yBRzPWgFJ3"
     },
     {
       "added_at": "2021-01-20 03:50:53",

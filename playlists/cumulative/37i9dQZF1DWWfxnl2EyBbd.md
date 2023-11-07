@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-521 songs - 1 day 16 hr 3 min
+522 songs - 1 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,12 +119,13 @@
 | [Elegant As They Come](https://open.spotify.com/track/4kPYGarMXHC5eACXc17P25) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 4:22 | 2023-08-25 |  |
 | [Elegant Flower](https://open.spotify.com/track/1SY8ygEeUjQd0A3Tupx4EI) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Cyrus Chestnut](https://open.spotify.com/album/3TbBfPc80wHFp5GQKLW3vb) | 4:44 | 2022-02-10 |  |
 | [Elegie](https://open.spotify.com/track/3bYT76g5wumXxwrnNejxMf) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time for Ballads \- The Maene Sessions](https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5) | 5:08 | 2022-02-25 |  |
+| [Eleonora](https://open.spotify.com/track/2M7X4ryaIoYeM7ww1FLROU) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [Eleonora](https://open.spotify.com/album/4lJSfbX4EAYYeg4VfqK4cm) | 6:18 | 2023-10-27 |  |
 | [Eleventh Hour](https://open.spotify.com/track/5CKi0wTee5YOleBVAQd2B1) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ) | [Cape Town Flowers](https://open.spotify.com/album/3HAIZeXeNgbSvkXF7zTzej) | 4:22 | 2022-04-29 |  |
 | [Elinde Sazin Qurbani](https://open.spotify.com/track/0ywJlxGPnsWkPKWlo9RSfb) | [Shahin Novrasli](https://open.spotify.com/artist/1JeMulk2aODVLXA7qtiUS2) | [BAYATI](https://open.spotify.com/album/1IaXNjdDAOVD1Y1eXLP92c) | 6:07 | 2022-03-25 |  |
 | [Elise](https://open.spotify.com/track/7m8rFWJzA6VJQnLVqiWvGL) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Elise](https://open.spotify.com/album/5TdOcjjm9BUdSOVLzGIWV3) | 2:40 | 2022-11-12 |  |
 | [Ellegatan](https://open.spotify.com/track/0iFgDHjjfI0BIH6IdFyWmE) | [Emil Ingmar](https://open.spotify.com/artist/7p0xXqI5wsH4tLwPIEuZ5E) | [Karlavagnen](https://open.spotify.com/album/6RiKhHeJMrZVjggdWMdl2g) | 5:52 | 2022-05-25 |  |
 | [Ellipse](https://open.spotify.com/track/5kI32ifKfLTC0RuYZvsq2a) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Ellipse](https://open.spotify.com/album/4rkPj0jRJcL8S6pveZIvPu) | 2:35 | 2023-03-10 | 2023-10-29 |
-| [Embraceable You](https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN) | 3:54 | 2022-03-31 |  |
+| [Embraceable You](https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN) | 3:54 | 2022-03-31 | 2023-11-07 |
 | [Equilibrio](https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Equilibrio](https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF) | 2:31 | 2022-12-01 |  |
 | [Evergreen](https://open.spotify.com/track/7Lz3Iy3sUv0fNq0crfhDGA) | [Justin Salisbury](https://open.spotify.com/artist/0wCRGycyYyEg4vWwoi11SS), [Max Ridley](https://open.spotify.com/artist/0d6y1Xs0QqCMG2hg2lYnkC), [Dan Nadeau](https://open.spotify.com/artist/4S9by6hwhiUvkmHNTG5FXY) | [Evergreen](https://open.spotify.com/album/74bdbf4mh1BjApMO0quFNT) | 6:53 | 2022-04-14 | 2023-10-20 |
 | [Everybody's Got to Learn Sometime](https://open.spotify.com/track/5rdarWlLPfZvPafnUVj0AK) | [Moulin Roty Trio](https://open.spotify.com/artist/1I1PN78a9Sv7RiGsbLSnQl) | [Everybody's Got to Learn Sometime](https://open.spotify.com/album/15FCQHfWCgNgU6qXLvamP9) | 3:48 | 2023-03-23 |  |

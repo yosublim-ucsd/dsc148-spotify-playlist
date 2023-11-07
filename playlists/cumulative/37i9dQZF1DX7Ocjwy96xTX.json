@@ -3273,6 +3273,24 @@
     },
     {
       "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8"
+      },
+      "artists": [
+        {
+          "name": "Suzy Clue",
+          "url": "https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251818,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/2gd00D6APhLate8i83azYd"
+    },
+    {
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W"
       },
@@ -3934,6 +3952,24 @@
       "duration_ms": 279451,
       "name": "Under the Same Name",
       "url": "https://open.spotify.com/track/4HvvHSzR1fAS653pHO5XTu"
+    },
+    {
+      "album": {
+        "name": "Deep Divine",
+        "url": "https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239519,
+      "name": "Undress",
+      "url": "https://open.spotify.com/track/3vHTp0PSVjgnqocdLHCk19"
     },
     {
       "album": {

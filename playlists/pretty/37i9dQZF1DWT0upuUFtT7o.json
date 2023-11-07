@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Meernaa <3",
-  "num_followers": 192478,
+  "num_followers": 192524,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDUwNzkxNDNmZDRlODEzNzc1NmFlNzlmMzliZDc0ZjkxZDVhMmNh",
+  "snapshot_id": "MCxjZThmNWZiODczNTc1ODQyODM3YTg1ZDZmNDc1MmU3Nzg2ZWUzODlk",
   "tracks": [
     {
       "added_at": "2023-10-18 16:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 168960,
       "name": "Higha",
       "url": "https://open.spotify.com/track/6IhORoouo7WrDy1l2UZweD"
+    },
+    {
+      "added_at": "2023-11-06 23:16:09",
+      "album": {
+        "name": "Suntub",
+        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "duration_ms": 196304,
+      "name": "Well bucket",
+      "url": "https://open.spotify.com/track/3GGfbeDZ63Q4TVJnP9NlnA"
     },
     {
       "added_at": "2023-10-25 14:00:00",
@@ -87,6 +103,22 @@
       "duration_ms": 136153,
       "name": "pretty scars",
       "url": "https://open.spotify.com/track/7dTs49ZdEWuHvyrbjrZyDa"
+    },
+    {
+      "added_at": "2023-11-07 00:50:00",
+      "album": {
+        "name": "road 2 neverland",
+        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "falco",
+      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
     },
     {
       "added_at": "2023-10-25 14:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Silent Planet
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,171 likes - 59 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,269 likes - 59 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 58 | [Hero's Tale](https://open.spotify.com/track/3yUKSoRvzh9yh1Hfv0VJjp) | [Chamelion](https://open.spotify.com/artist/4bBRCXgu9Vhd8SOQsguNbI) | [Hero's Tale](https://open.spotify.com/album/4jQxCTLislUSrKcNLog2MI) | 5:14 |
 | 59 | [From the Shadows](https://open.spotify.com/track/4QiYDqnDCOxQWKWhvnApsf) | [Graven Sin](https://open.spotify.com/artist/15WnLCTAfMvaZ3LGkhYFNA) | [Veil of the Gods](https://open.spotify.com/album/1g8LfduUtxYCrMsYMYvUPJ) | 4:23 |
 
-Snapshot ID: `MCxmODI5Y2YzNjM2ODA1YWExNDQwYWMzMjA3NzdmNzVlZjhjM2ZlMjM5`
+Snapshot ID: `MCxmNDQ2OGUwMzQ1MTZkYzg4NWNlMGFhMTE0NTViY2JjYjM1OGYwZGIw`

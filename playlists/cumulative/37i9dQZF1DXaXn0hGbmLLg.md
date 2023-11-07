@@ -2,7 +2,7 @@
 
 ### [EQUAL Netherlands](https://open.spotify.com/playlist/37i9dQZF1DXaXn0hGbmLLg)
 
-> Listen to women at full volume! <a href="spotify:artist:4VUZyzya1v8H9StAeuKYXW">Nana Fofie</a> is EQUAL Netherlands ambassador for september
+> Listen to women at full volume! <a href="spotify:artist:4VUZyzya1v8H9StAeuKYXW">Nana Fofie</a> is EQUAL Netherlands ambassador for October
 
 1,216 songs - 2 day 16 hr 14 min
 

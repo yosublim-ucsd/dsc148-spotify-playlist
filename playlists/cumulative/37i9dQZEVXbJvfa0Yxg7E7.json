@@ -4962,7 +4962,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 143520,
       "name": "Dans P\u00e5 Bordet",
       "url": "https://open.spotify.com/track/56kyGGwLIVAR30ZFiASn8Q"
@@ -10684,7 +10684,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 123062,
       "name": "Hjertesorg Betaler Regninga",
       "url": "https://open.spotify.com/track/5TGxBvYjSCrG3cpLWgnEGW"
@@ -12822,7 +12822,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -14336,6 +14336,24 @@
       "duration_ms": 164195,
       "name": "Kriminell (feat. Lars Vaular)",
       "url": "https://open.spotify.com/track/3Vj7sTCwtzB78YZkHk7e8T"
+    },
+    {
+      "album": {
+        "name": "Et godt stup i et grunt vann",
+        "url": "https://open.spotify.com/album/0BrcpRYg40t0Ia6XUtkVU5"
+      },
+      "artists": [
+        {
+          "name": "Cezinando",
+          "url": "https://open.spotify.com/artist/504cl42JQLRqlZddfZ3S4z"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295840,
+      "name": "Kristoffer Robin",
+      "url": "https://open.spotify.com/track/6EfZLPYsaXiu9yszHkkc0w"
     },
     {
       "album": {

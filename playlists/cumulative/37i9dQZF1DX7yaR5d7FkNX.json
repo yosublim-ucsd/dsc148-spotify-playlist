@@ -576,7 +576,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 252786,
       "name": "Buenos D\u00edas, Tardes Ya",
       "url": "https://open.spotify.com/track/2R199UIEVC34Nou5YQahMj"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 181160,
       "name": "Dime",
       "url": "https://open.spotify.com/track/3kgBm26rI8faWMTxyzyJF3"
@@ -2416,10 +2416,32 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 356387,
       "name": "M\u00e1s All\u00e1 de Lo Que Ves",
       "url": "https://open.spotify.com/track/6nA04q3F78G9NbHIAUGUTA"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Amor",
+        "url": "https://open.spotify.com/album/05lBHsy6OFNJLNQuKFYJqZ"
+      },
+      "artists": [
+        {
+          "name": "Vicente J\u00e1uregui",
+          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163282,
+      "name": "M\u00e1s Amor",
+      "url": "https://open.spotify.com/track/4oOlfa8rQrTXq2eh0mKbpR"
     },
     {
       "album": {
@@ -3686,7 +3708,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 227000,
       "name": "\u00bfQu\u00e9 D\u00eda Es Hoy?",
       "url": "https://open.spotify.com/track/09E7AglgSKI6ec1QpzBysS"

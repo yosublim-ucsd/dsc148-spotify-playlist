@@ -13078,6 +13078,24 @@
     {
       "album": {
         "name": "Fantasize",
+        "url": "https://open.spotify.com/album/2plK9nhTdfhdjwoqo8vI7h"
+      },
+      "artists": [
+        {
+          "name": "Underground",
+          "url": "https://open.spotify.com/artist/6jWl5krBRUhdAvYKfQSWdd"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196634,
+      "name": "Fantasize",
+      "url": "https://open.spotify.com/track/6ACIrWty9KXeQlkYVz8E3g"
+    },
+    {
+      "album": {
+        "name": "Fantasize",
         "url": "https://open.spotify.com/album/7GBbrWdBiM0R899fGimRsC"
       },
       "artists": [
@@ -13432,6 +13450,24 @@
       "duration_ms": 168437,
       "name": "FEARLESS",
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
+    },
+    {
+      "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185552,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
     },
     {
       "album": {
@@ -14842,7 +14878,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 203520,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/5BLShRvEy6OQNXzkawWLvj"
@@ -33566,7 +33602,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-07",
       "duration_ms": 105461,
       "name": "Tchau",
       "url": "https://open.spotify.com/track/043UqjcBUxcuoKfaxujfLA"

@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Japanese women rock icons. Cover: ULTRA",
-  "num_followers": 45908,
+  "num_followers": 45921,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmQxMmVlNGJmZDQ5NjEzNTUwYjEwZTc1Yjk1YWI0MDYxOWYzODdm",
+  "snapshot_id": "MCxiZjdkZDM5ZTRiNWIwZDdiMGU0MDdkNjE3ZDAzYjZjZGY5MGUxZDcy",
   "tracks": [
     {
       "added_at": "2023-11-02 15:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-11-02 15:00:00",
       "album": {
-        "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
-        "url": "https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
-      "url": "https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv"
-    },
-    {
-      "added_at": "2023-11-02 15:00:00",
-      "album": {
         "name": "FOOL",
         "url": "https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2023-11-02 15:00:00",
       "album": {
+        "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
+        "url": "https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
+      "url": "https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv"
+    },
+    {
+      "added_at": "2023-11-02 15:00:00",
+      "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 198307,
       "name": "Kiddy",
       "url": "https://open.spotify.com/track/0XnzXvYScKwURM2Jf4vMlT"
-    },
-    {
-      "added_at": "2023-11-02 15:00:00",
-      "album": {
-        "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
-        "url": "https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Don!!",
-      "url": "https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk"
     },
     {
       "added_at": "2023-11-02 15:00:00",
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2023-11-02 15:00:00",
       "album": {
+        "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
+        "url": "https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Don!!",
+      "url": "https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk"
+    },
+    {
+      "added_at": "2023-11-02 15:00:00",
+      "album": {
         "name": "\uff12\u3007\uff14\uff15",
         "url": "https://open.spotify.com/album/3kAV4Hr5QkeWMWgcq2U6pU"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 221048,
       "name": "\uff12\u3007\uff14\uff15",
       "url": "https://open.spotify.com/track/6DsWs6Mx0A4LiT4GGqbvrk"
+    },
+    {
+      "added_at": "2023-11-02 15:00:00",
+      "album": {
+        "name": "BiSH THE BEST",
+        "url": "https://open.spotify.com/album/31ogU6hrmcIquFGKu9zcX3"
+      },
+      "artists": [
+        {
+          "name": "BiSH",
+          "url": "https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj"
+        }
+      ],
+      "duration_ms": 269200,
+      "name": "\u30d7\u30ed\u30df\u30b9\u30b6\u30b9\u30bf\u30fc \u201923",
+      "url": "https://open.spotify.com/track/7KqTlO3F2ADdDbKZvbl3Yc"
     },
     {
       "added_at": "2023-11-02 15:00:00",
@@ -1111,34 +1127,18 @@
     {
       "added_at": "2023-11-02 15:00:00",
       "album": {
-        "name": "\u5149\u306e\u306a\u3044\u8857",
-        "url": "https://open.spotify.com/album/6p4k2Cw0pgfk2BuYGmQUkK"
+        "name": "for you",
+        "url": "https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9"
       },
       "artists": [
         {
-          "name": "nano.RIPE",
-          "url": "https://open.spotify.com/artist/1GQptL2kOEsfMXerW4OjMT"
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
         }
       ],
-      "duration_ms": 253538,
-      "name": "\u5149\u306e\u306a\u3044\u8857",
-      "url": "https://open.spotify.com/track/4sFFRTI8G2aKOyR8Nzh0VA"
-    },
-    {
-      "added_at": "2023-11-02 15:00:00",
-      "album": {
-        "name": "BiSH THE BEST",
-        "url": "https://open.spotify.com/album/31ogU6hrmcIquFGKu9zcX3"
-      },
-      "artists": [
-        {
-          "name": "BiSH",
-          "url": "https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj"
-        }
-      ],
-      "duration_ms": 269200,
-      "name": "\u30d7\u30ed\u30df\u30b9\u30b6\u30b9\u30bf\u30fc \u201923",
-      "url": "https://open.spotify.com/track/7KqTlO3F2ADdDbKZvbl3Yc"
+      "duration_ms": 211833,
+      "name": "aaa",
+      "url": "https://open.spotify.com/track/2Srt34brSW8VItRqJStPAV"
     }
   ],
   "unique_name": "She Rocks",

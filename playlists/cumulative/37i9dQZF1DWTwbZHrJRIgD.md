@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-170 songs - 10 hr 34 min
+171 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Udja](https://open.spotify.com/track/3wcG9v5Z22SjvWsK7YGJvC) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS) | [Udja](https://open.spotify.com/album/4JYgsmgchIz72mRsNUcDph) | 3:19 | 2023-02-07 | 2023-02-16 |
 | [Uff Teri Adaa](https://open.spotify.com/track/0og9wKFGgFFNQnrBe7eisG) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Alyssa Mendonsa](https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN) | [Karthik Calling Karthik](https://open.spotify.com/album/13aLziSCr93ULLwPE2JURA) | 5:04 | 2022-03-09 |  |
 | [Ullu Ka Pattha](https://open.spotify.com/track/3rVBZoeJT4lIr1S9EeENtc) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Jagga Jasoos](https://open.spotify.com/album/0WzOuVoWthaS3HxiU7YY8G) | 3:31 | 2022-03-09 | 2023-02-14 |
+| [Va Va Voom \(From "The Archies"\)](https://open.spotify.com/track/1vUau8NMY4vdUrdPzAAsLj) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Va Va Voom \(From "The Archies"\)](https://open.spotify.com/album/41efXRJaAdzIOCHeMuKNEJ) | 2:08 | 2023-11-06 |  |
 | [Vaaste](https://open.spotify.com/track/0mJTAdmY8olbGQjopDYff3) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Vaaste](https://open.spotify.com/album/7b0RW9Inq2jLmTGonmqv11) | 3:16 | 2022-03-09 | 2023-03-16 |
 | [Wakhra Swag \(feat\. Badshah\)](https://open.spotify.com/track/5WoIz3RtJAsdiDCHzOjo0c) | [Navv Inder](https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Wakhra Swag \(feat\. Badshah\) \- Single](https://open.spotify.com/album/0hVHgld8E6E3pPln8axeCu) | 3:10 | 2023-02-20 | 2023-07-26 |
 | [What Jhumka ?](https://open.spotify.com/track/16n0AKZ6D5ZhIECp9Chbgb) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ranveer Singh](https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Rocky Aur Rani Kii Prem Kahaani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0sS6YgpAosPPZSRgvRawmu) | 3:33 | 2023-07-25 | 2023-08-13 |

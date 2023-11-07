@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💶 Kannessa ibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,773 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,790 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 3 | [Rajal \(feat\. ibe, Ares & Elastinen\)](https://open.spotify.com/track/5grPmKSW7p7wxMzaje5SRP) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Rajal \(feat\. ibe, Ares & Elastinen\)](https://open.spotify.com/album/43jsrZfxsf5FYf20772F3t) | 3:05 |
 | 4 | [Ghetto Love](https://open.spotify.com/track/4zClLaFTN76B9qHuXpJ2hH) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Ghetto Love](https://open.spotify.com/album/6h6gvLvzUFaap0qVojsrox) | 2:06 |
 | 5 | [3 Toivomusta](https://open.spotify.com/track/35RegtSScKod4jXc4XtQXz) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [3 Toivomusta](https://open.spotify.com/album/6h2PFdf9ziIyh9SHRnbgjb) | 2:22 |
-| 6 | [AINA](https://open.spotify.com/track/7EjyrRhPCsUHfq1odGNajx) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [AINA](https://open.spotify.com/album/6SMovWc6E3Q8LdKk0fVKZh) | 2:45 |
-| 7 | [Tunnettu Plugi](https://open.spotify.com/track/3K265QDIKTbM1MitKJdgOZ) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Tunnettu Plugi](https://open.spotify.com/album/5G3aPrmMwRdieq2KKVFVIF) | 2:25 |
-| 8 | [Vahinko](https://open.spotify.com/track/3EvLCrqp7tdbaNkEe68RoT) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Aino](https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6) | 3:34 |
-| 9 | [Kaks nimee](https://open.spotify.com/track/50pA8yCdGu3vCn2ThG4ctV) | [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn), [Tohtori Getto](https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY) | [Kaks nimee](https://open.spotify.com/album/7ujUbQSvkWH3BFvvVwPXMY) | 3:08 |
-| 10 | [CODEINE](https://open.spotify.com/track/0FAA25M2hH6Bc2ITh6nU5A) | [Ax & Huligan](https://open.spotify.com/artist/3jwBl4QHMabizUrnfyKaaq) | [CODEINE](https://open.spotify.com/album/4JwABEH57AD09VHGEXFubo) | 2:52 |
-| 11 | [WILLAIN \(feat\. ibe\)](https://open.spotify.com/track/0Ch46DVttxlt7dNSkYcpZG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Willain](https://open.spotify.com/album/4fIyn02l750ivFtjp3MXor) | 2:51 |
-| 12 | [Oispa Gasellit](https://open.spotify.com/track/6KWqTgvnmd5LHVJ0Zq1aWE) | [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M) | [Oispa Gasellit](https://open.spotify.com/album/6hUNkCPx56b46p8Pta73Ia) | 3:51 |
-| 13 | [Purjehtija](https://open.spotify.com/track/3NnWBahFgXNI7ICnETZEkP) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Purjehtija](https://open.spotify.com/album/4ChX26IMBE1mm5EIE4N9uA) | 2:38 |
+| 6 | [Purjehtija](https://open.spotify.com/track/3NnWBahFgXNI7ICnETZEkP) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Purjehtija](https://open.spotify.com/album/4ChX26IMBE1mm5EIE4N9uA) | 2:38 |
+| 7 | [AINA](https://open.spotify.com/track/7EjyrRhPCsUHfq1odGNajx) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [AINA](https://open.spotify.com/album/6SMovWc6E3Q8LdKk0fVKZh) | 2:45 |
+| 8 | [Tunnettu Plugi](https://open.spotify.com/track/3K265QDIKTbM1MitKJdgOZ) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Tunnettu Plugi](https://open.spotify.com/album/5G3aPrmMwRdieq2KKVFVIF) | 2:25 |
+| 9 | [Vahinko](https://open.spotify.com/track/3EvLCrqp7tdbaNkEe68RoT) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Aino](https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6) | 3:34 |
+| 10 | [Kaks nimee](https://open.spotify.com/track/50pA8yCdGu3vCn2ThG4ctV) | [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn), [Tohtori Getto](https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY) | [Kaks nimee](https://open.spotify.com/album/7ujUbQSvkWH3BFvvVwPXMY) | 3:08 |
+| 11 | [CODEINE](https://open.spotify.com/track/0FAA25M2hH6Bc2ITh6nU5A) | [Ax & Huligan](https://open.spotify.com/artist/3jwBl4QHMabizUrnfyKaaq) | [CODEINE](https://open.spotify.com/album/4JwABEH57AD09VHGEXFubo) | 2:52 |
+| 12 | [WILLAIN \(feat\. ibe\)](https://open.spotify.com/track/0Ch46DVttxlt7dNSkYcpZG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Willain](https://open.spotify.com/album/4fIyn02l750ivFtjp3MXor) | 2:51 |
+| 13 | [Oispa Gasellit](https://open.spotify.com/track/6KWqTgvnmd5LHVJ0Zq1aWE) | [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M) | [Oispa Gasellit](https://open.spotify.com/album/6hUNkCPx56b46p8Pta73Ia) | 3:51 |
 | 14 | [Muija on ku kone](https://open.spotify.com/track/4H3tZOuDW6SQsexjO45nYe) | [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Muija on ku kone](https://open.spotify.com/album/18aAtK2ZIO8KXjf1COHs2S) | 2:35 |
 | 15 | [käpy](https://open.spotify.com/track/62ta8BEEecanvSxeS3FldL) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [käpy](https://open.spotify.com/album/4dfL55wygzB20eJrboY838) | 2:57 |
 | 16 | [Tequila](https://open.spotify.com/track/4RcBdmcjMn7qv0BeVfW8ys) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Tequila](https://open.spotify.com/album/5dqIVgDv4K2MWPO7J5InuC) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [HALLOWEEN](https://open.spotify.com/track/1rnATApFPlKKn89xF8YoDy) | [Nick\-E Maggz](https://open.spotify.com/artist/4THoP0ZeHikbfshug7w8RG) | [HALLOWEEN](https://open.spotify.com/album/6RaBp6gF6EZKVjk9bBFoGf) | 2:37 |
 | 60 | [Vampyyrit](https://open.spotify.com/track/00tdWbLkXLbQgUjPlASRUS) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Vampyyrit](https://open.spotify.com/album/3cthnJNmrkmSCSBG9cF15v) | 2:26 |
 
-Snapshot ID: `MCwzOTRhMzNlYzBkZmJmNWNjMmQxZDBkZmJhNGQ1MjM2ZGM3ZGMzNDE1`
+Snapshot ID: `MCxlODFhMzJmNTkzNzVkZjEwMzZjZmY0MjdiNDFmMGZiNTkyNWYyZjJk`
