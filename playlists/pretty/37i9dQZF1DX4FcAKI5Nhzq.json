@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: ZEROBASEONE",
-  "num_followers": 785324,
+  "num_followers": 785663,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmYxYTdlOTJiYzA5MDljNTVmYWNkZmQ1ZTgyNzhmZmVhMTIxYjhj",
+  "snapshot_id": "MCw5Y2M2OGM4Zjk3ZDkwMTRmYWRhMzg2OTFmZmEyMmE2OTNlMzNhMjBk",
   "tracks": [
     {
       "added_at": "2023-11-06 10:10:39",
@@ -71,6 +71,22 @@
       "duration_ms": 190941,
       "name": "Talk Saxy",
       "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"
+    },
+    {
+      "added_at": "2023-11-07 03:40:51",
+      "album": {
+        "name": "Do It",
+        "url": "https://open.spotify.com/album/18YFtCJFxZpaI768o4TVnB"
+      },
+      "artists": [
+        {
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/7wqqCArjMYTtXRhw0uYLmc"
     },
     {
       "added_at": "2023-11-06 10:10:39",
@@ -703,22 +719,6 @@
       "duration_ms": 191359,
       "name": "INVITATION (Feat. Gaeko)",
       "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "LOVE EFFECT",
-        "url": "https://open.spotify.com/album/1TtgaKSwHIh4KPtwSD3Kwz"
-      },
-      "artists": [
-        {
-          "name": "ONF",
-          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Love Effect",
-      "url": "https://open.spotify.com/track/5jBdF52105JBOQN4HyBCW5"
     },
     {
       "added_at": "2023-11-06 10:10:39",

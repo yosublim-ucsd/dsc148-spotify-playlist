@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-271 songs - 15 hr 29 min
+272 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Concéntrica Canción](https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Concéntrica Canción](https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS) | 2:42 | 2021-07-16 |  |
 | [Confession](https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs) | [Zoe](https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn) | [Confession](https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x) | 4:09 | 2021-07-16 | 2022-07-29 |
 | [Configuraciones Onduladas](https://open.spotify.com/track/0eoPoF7uj2QlMmQ9OdcRaz) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Configuraciones Onduladas](https://open.spotify.com/album/4jjkFIeyBjwPwLK5DzvQ6O) | 2:10 | 2021-07-16 | 2022-07-29 |
+| [Configuraciones Onduladas](https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Claroscuro](https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh) | 2:10 | 2023-06-09 |  |
 | [Configuraciones Onduladas](https://open.spotify.com/track/6mCEdL597Bus5O4rTAkRDg) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Claroscuro](https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9) | 2:10 | 2021-07-16 | 2023-10-14 |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-03-31 |  |
 | [Correcto](https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a) | [Jero Romero](https://open.spotify.com/artist/6TCN68dPlpAJMADKP3LmYh) | [Cabeza de león](https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J) | 2:34 | 2021-07-16 |  |
@@ -160,7 +161,7 @@
 | [Lover](https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 4:02 | 2021-07-16 |  |
 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 | 2021-07-16 |  |
 | [Mi Gente \- Acoustic](https://open.spotify.com/track/1ci9VbZkSxkWmWkD5xGurr) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC), [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [Mi Gente \(Acoustic\)](https://open.spotify.com/album/6ygBeTx54rBIFb2YIkq5tj) | 2:40 | 2021-07-16 |  |
-| [Mito](https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Mito](https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW) | 3:54 | 2023-03-07 |  |
+| [Mito](https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Mito](https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW) | 3:54 | 2023-03-07 | 2023-11-08 |
 | [Mothers](https://open.spotify.com/track/6Nqtm7NVrrki8XxAhh5soI) | [Steady Holiday](https://open.spotify.com/artist/3jLDJWlhuDcbq1DTlWp0NM) | [Mothers](https://open.spotify.com/album/3yZAj3Ar12YiBbC2r0cHXr) | 3:49 | 2021-07-16 | 2022-07-28 |
 | [My Friend \(Solo Acoustic Version\)](https://open.spotify.com/track/5Bbi1jdMAmJBoDhV0yv4W8) | [Dani Doucette](https://open.spotify.com/artist/2alhJ7s3IXafk9N2mGHYF2) | [Acoustic for Elephants](https://open.spotify.com/album/0xDe8HcKuzwsqh360qI6Aa) | 3:31 | 2021-07-16 | 2022-07-26 |
 | [My Name](https://open.spotify.com/track/0UZrloJ3IvP3d8XmtDFFJA) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [My Name](https://open.spotify.com/album/3xoEJqvx6pNH54BclKBwDx) | 3:22 | 2021-07-16 | 2022-07-28 |

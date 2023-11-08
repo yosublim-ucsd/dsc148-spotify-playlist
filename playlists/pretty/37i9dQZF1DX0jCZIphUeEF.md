@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,682 likes - 66 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,693 likes - 66 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 27 | [Tibet](https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tibet](https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK) | 6:43 |
 | 28 | [Show Me Love \- Emmaculate Remix](https://open.spotify.com/track/1Uh50JCkzmtXUZKBMAshYO) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB) | [Show Me Love \(Remixed by Emmaculate\)](https://open.spotify.com/album/3POv2LmAO0VZuUl4ExX6rC) | 6:01 |
 | 29 | [Messiah \- Edit](https://open.spotify.com/track/4BRPlCE7YYYlVzRzMwIesY) | [Brandon Markell Holmes](https://open.spotify.com/artist/49hxY3aryuNE1UJpuJ0YJf), [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH) | [Messiah](https://open.spotify.com/album/7yzm9oCXO5cVcbw2d6jwkc) | 4:38 |
-| 30 | [Colombiana](https://open.spotify.com/track/1CFDe1tZ32HojzxWp4Acy9) | [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Colombiana EP](https://open.spotify.com/album/5zyKgUqdNUzk7rF4C5iiH7) | 3:25 |
+| 30 | [Colombiana](https://open.spotify.com/track/4B0ZmhqgDOEkfkd6EDit8t) | [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Colombiana EP](https://open.spotify.com/album/0s0B2OM2flRhQVjVf4MPqE) | 3:25 |
 | 31 | [In My Mind \- Amine K Remix](https://open.spotify.com/track/15Ce71ZMT8bqN72qjDuOLz) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [Save The Kid](https://open.spotify.com/artist/4l8tuypmSeKwQGd0uWeL9O), [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [In My Mind \(Amine K Remix\)](https://open.spotify.com/album/1ifM3RIIphH8Jt3N9ZfkIb) | 6:15 |
-| 32 | [Panamera](https://open.spotify.com/track/4AyLlInZOKim5wDqoW0f6L) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Panamera](https://open.spotify.com/album/43K4COEdYbvCRGlJkjW1nK) | 3:28 |
+| 32 | [Panamera](https://open.spotify.com/track/4ZE0x0PjgfP6Widn57LNP3) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Panamera](https://open.spotify.com/album/2KUnkOPr3BVQAU7iI6vmuj) | 3:28 |
 | 33 | [Switch](https://open.spotify.com/track/27OHNB09536noXha5o0M2b) | [Martin Waslewski](https://open.spotify.com/artist/3qk4AowZhFKoYHocPk6l06) | [Switch EP](https://open.spotify.com/album/5QHo598Fn2lzsCUjzHPgdF) | 4:56 |
 | 34 | [Underwater](https://open.spotify.com/track/5VkBNt0nUlQoPkg0APK5Ep) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Underwater](https://open.spotify.com/album/3tqxbagniKI9O28YVKUiKo) | 3:36 |
 | 35 | [Trumpets Are Back](https://open.spotify.com/track/6dm3dc3rvODxGrvHqPougj) | [Danny Serrano](https://open.spotify.com/artist/3kerdbIX1DaNMNBcgvKtDR) | [Mantra / Trumpets Are Back](https://open.spotify.com/album/0EXK1efujpKOoGUZMhEv7R) | 4:01 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 65 | [Bangalora](https://open.spotify.com/track/59GRvXZLg7H7DJZkw4D7TJ) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Bangalora](https://open.spotify.com/album/1JYRYOsPFkzC4DBU5RW28h) | 7:47 |
 | 66 | [Dame Rabia \- Amine K Remix](https://open.spotify.com/track/1K68lCTAxaIHgamh0wiJZI) | [Chelabôm](https://open.spotify.com/artist/08aeUwOG7EXNoJSob9mawV), [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Buddha Bar by Amine K & Ravin](https://open.spotify.com/album/7Awsu0TzbHe1Wxt9cGg1EL) | 6:18 |
 
-Snapshot ID: `MCxjNTg2YWU0ZjA3MDZhMGQyMTQ4NjQ1OGY5NmNjZjJjNDQyMzE5MjU0`
+Snapshot ID: `MCxiNzg1NmIyM2QwOGU0NmE1NTg2ZjFkZGJmYTM2MTRlMDMwMzU0ZTY1`

@@ -456,10 +456,28 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 205365,
       "name": "Colombiana",
       "url": "https://open.spotify.com/track/1CFDe1tZ32HojzxWp4Acy9"
+    },
+    {
+      "album": {
+        "name": "Colombiana EP",
+        "url": "https://open.spotify.com/album/0s0B2OM2flRhQVjVf4MPqE"
+      },
+      "artists": [
+        {
+          "name": "Dean Mickoski",
+          "url": "https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205365,
+      "name": "Colombiana",
+      "url": "https://open.spotify.com/track/4B0ZmhqgDOEkfkd6EDit8t"
     },
     {
       "album": {
@@ -1720,10 +1738,32 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 208780,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/4AyLlInZOKim5wDqoW0f6L"
+    },
+    {
+      "album": {
+        "name": "Panamera",
+        "url": "https://open.spotify.com/album/2KUnkOPr3BVQAU7iI6vmuj"
+      },
+      "artists": [
+        {
+          "name": "DJ Chus",
+          "url": "https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg"
+        },
+        {
+          "name": "Dean Mickoski",
+          "url": "https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208780,
+      "name": "Panamera",
+      "url": "https://open.spotify.com/track/4ZE0x0PjgfP6Widn57LNP3"
     },
     {
       "album": {

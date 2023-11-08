@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,148 likes - 100 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,355 likes - 100 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Blue](https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Blue](https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU) | 6:46 |
+| 1 | [Blue](https://open.spotify.com/track/3e2cdlozr0ZKut6dWOer3q) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 6:46 |
 | 2 | [Meditations](https://open.spotify.com/track/28w36tSx14PJdKiruyLInl) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Matthew Sheens](https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E), [Matt Penman](https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k) | [Meditations](https://open.spotify.com/album/3I63JmX1Yud9Yuj6Zy3Vkm) | 7:54 |
 | 3 | [Don't Believe The Dancers \- Mophono Remix](https://open.spotify.com/track/7mt3MXHKqlXGwRwNL9tbAs) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Mophono](https://open.spotify.com/artist/5jMONVJ1q335buxCmXAo00) | [Don't Believe The Dancers \(Mophono Remix\)](https://open.spotify.com/album/4uLnZNggcGP2WrUOU9YcHM) | 5:15 |
 | 4 | [Não Ao Marco Temporal](https://open.spotify.com/track/242sgtNAjMw47sqowRPJ7s) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Não Ao Marco Temporal](https://open.spotify.com/album/4OhAAD1R2PQkCZnETwkkoz) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [The Good Life](https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [New Jawn](https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR) | [Prime](https://open.spotify.com/album/1vFLT0IUByItGLbFDb7NXJ) | 7:15 |
 | 100 | [JERICHO](https://open.spotify.com/track/6ggQiv5Hr3CHTqI7sFfnxV) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [JERICHO](https://open.spotify.com/album/2GSNn4nuV4BzdgIJoZZgYT) | 2:39 |
 
-Snapshot ID: `MCxkYTNjZWRkNzEwNjM3YzJkZWZkNTFlMjhiZWFkNjE0MTYxZjdmMmU1`
+Snapshot ID: `MCwzZDA1YmMyOWEwNzJmMWY4MjA2Y2UwODM1ODcwMTI5ZmQ1MTRiMjBi`

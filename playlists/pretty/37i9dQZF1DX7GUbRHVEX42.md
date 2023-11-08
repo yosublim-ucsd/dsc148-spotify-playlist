@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023, curated by Ras Kwame.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,927 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,965 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 39 | [Everybody Wants To Be Somebody](https://open.spotify.com/track/2wJmfApdSbwt3NqNnA8CTz) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 3:40 |
 | 40 | [Hills And Valleys](https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 4:33 |
 | 41 | [Open Your Eyes](https://open.spotify.com/track/3lzFCGcxBppNLlXAW3iBxP) | [Mo'kalamity](https://open.spotify.com/artist/3skP8Agw0LK6jsIF3hSVwf), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [One Love Vibration](https://open.spotify.com/album/0IGf0ZExc00oYTngiQ33wp) | 4:04 |
-| 42 | [It's Growing](https://open.spotify.com/track/10WzihaZhGPaWBjJIEd2cf) | [Garnett Silk](https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI) | [It's Growing](https://open.spotify.com/album/4TjHpHW4Ij2bOjdxTi1SJC) | 3:39 |
+| 42 | [It's Growing](https://open.spotify.com/track/7zcfbXEoaTYWPIUU2X1UJr) | [Garnett Silk](https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI) | [Reggae Anthology: Music Is The Rod](https://open.spotify.com/album/3JIyyQ4Re9JW5BB706adXk) | 3:36 |
 | 43 | [Rub a Dub](https://open.spotify.com/track/1NIOyoX5kS8Mb1jDFP6Ri0) | [Christopher Ellis](https://open.spotify.com/artist/1CEhqTYXYpWeVLCCZE0LEs) | [Rub a Dub](https://open.spotify.com/album/3J9pOnKkvIwqUcDVITu9Bl) | 3:11 |
 | 44 | [Lady In Red](https://open.spotify.com/track/5OJ3X6sG29MQH3FgeYg66k) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Lady In Red](https://open.spotify.com/album/4e7IXAGjHgtqDAALVF75cn) | 3:54 |
 | 45 | [Keep Blazing](https://open.spotify.com/track/6ObDSLe9IMdPSfqysvVmLx) | [Jemere Morgan](https://open.spotify.com/artist/7t3wkXOe1VYGzhIbhSPEV3) | [Keep Blazing](https://open.spotify.com/album/73U2SO4iwYZEh4xM6mgHEz) | 4:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 59 | [To Be Young Gifted and Black](https://open.spotify.com/track/7GH08yfGT4cZx9HTSoPW8q) | [Bob & Marcia](https://open.spotify.com/artist/2AaKscnKxoLM7W3KT9yjtQ) | [Young, Gifted & Black](https://open.spotify.com/album/0Vzuuk08qIyyAb8LQPQFRe) | 3:08 |
 | 60 | [Run Things \- Dub](https://open.spotify.com/track/64RGLg1LhhP0E1sznWg6LJ) | [Micah Shemaiah](https://open.spotify.com/artist/3eZZJk4Ik5kBSK2dsdxX6X) | [Jamaica Jamaica](https://open.spotify.com/album/1SvU6PNsPanhwTBghmBUVR) | 3:12 |
 
-Snapshot ID: `MCxlOTE3OGI0NmUwZmEwZDUwNTljMTFmOGNjMzIxOWQwNWE0ODQ3MTVi`
+Snapshot ID: `MCwzNmE5ZmYzOWJkOTczM2QyOGZlMjQzMjVmZDhjMWUxNTU0YWMxNDNj`

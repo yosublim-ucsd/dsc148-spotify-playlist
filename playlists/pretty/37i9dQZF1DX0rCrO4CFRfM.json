@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 955802,
+  "num_followers": 955992,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjM4NDM0MmNhMjAyZjdlMDJhYTMxNzc0ZDdlNjFmYWE1Y2M1Nzc0",
+  "snapshot_id": "MCw1OTA5NjdkODJjZWQ2YjhmMDEzMDJiYjI3MjE0OWFlM2JmYjRhMWU5",
   "tracks": [
     {
       "added_at": "2023-09-20 15:37:37",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-09-20 15:37:37",
       "album": {
+        "name": "Talihina Sky",
+        "url": "https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 206253,
+      "name": "Talihina Sky - Acoustic Version",
+      "url": "https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C"
+    },
+    {
+      "added_at": "2023-09-20 15:37:37",
+      "album": {
         "name": "Acoustic at The Ryman (Live)",
         "url": "https://open.spotify.com/album/7aXRvfGlrAyi8ALrvQBWTR"
       },
@@ -451,18 +467,18 @@
     {
       "added_at": "2023-09-20 15:37:37",
       "album": {
-        "name": "Talihina Sky",
-        "url": "https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG"
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 206253,
-      "name": "Talihina Sky - Acoustic Version",
-      "url": "https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C"
+      "duration_ms": 241560,
+      "name": "Zombie (Acoustic Version)",
+      "url": "https://open.spotify.com/track/1aZfq7TK3tNl9XJLkOpwKw"
     },
     {
       "added_at": "2023-09-20 15:37:37",
@@ -623,22 +639,6 @@
       "duration_ms": 275571,
       "name": "I Sat by the Ocean - Live Acoustic",
       "url": "https://open.spotify.com/track/7mGAH8wfCljwG0tBi9WMGJ"
-    },
-    {
-      "added_at": "2023-09-20 15:37:37",
-      "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Zombie (Acoustic Version)",
-      "url": "https://open.spotify.com/track/1aZfq7TK3tNl9XJLkOpwKw"
     },
     {
       "added_at": "2023-09-20 15:37:37",

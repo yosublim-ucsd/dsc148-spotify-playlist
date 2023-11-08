@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 135000,
       "name": "Berona",
       "url": "https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY"
@@ -859,7 +859,7 @@
     },
     {
       "album": {
-        "name": "Untukku",
+        "name": "Chrisye \"Untukku\"",
         "url": "https://open.spotify.com/album/3UDpNv0SOmaemdASkAtxO8"
       },
       "artists": [
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 200360,
       "name": "no more you and i",
       "url": "https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN"
@@ -1662,13 +1662,13 @@
       },
       "artists": [
         {
-          "name": "Ello",
-          "url": "https://open.spotify.com/artist/00o36BiAS5VuyfvzNtd3Ig"
+          "name": "Marcello Tahitoe",
+          "url": "https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp"
         }
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 267600,
       "name": "Pergi Untuk Kembali",
       "url": "https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2"
@@ -2160,6 +2160,24 @@
       "duration_ms": 223957,
       "name": "Somebody's Pleasure",
       "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
+    },
+    {
+      "album": {
+        "name": "Tutur Batin",
+        "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
+      },
+      "artists": [
+        {
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199555,
+      "name": "Sudut Memori",
+      "url": "https://open.spotify.com/track/2ZjaCEltPgL2WqEiCQ2bod"
     },
     {
       "album": {

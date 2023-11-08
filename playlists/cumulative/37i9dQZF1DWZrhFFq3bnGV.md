@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Thesar
 
-161 songs - 11 hr 31 min
+162 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Berdansa Sejenak](https://open.spotify.com/track/4wQc5aLDPH58ncFsv1EpnD) | [djalto](https://open.spotify.com/artist/17s3iWyEdWg6OnUePMXG7r) | [Berdansa Sejenak](https://open.spotify.com/album/2Hk1gGS699WYzv1L3UpHjp) | 3:15 | 2022-09-02 |  |
 | [Best Friend](https://open.spotify.com/track/0QMKNY9xswyHRqA7OjVrNj) | [Koko Wijanarko](https://open.spotify.com/artist/0c26hbkWSxPK07pXEzTvFK) | [Best Friend](https://open.spotify.com/album/1HJWP2NJ19Sa1TxZtpTou0) | 3:09 | 2022-09-02 |  |
 | [bitterlove](https://open.spotify.com/track/74OLXYsvpfmSgPCMMi898K) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [bitterlove](https://open.spotify.com/album/5pSxeG2bdlj3MYdBVRBexK) | 3:36 | 2022-09-02 | 2023-07-14 |
-| [Blue](https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Blue](https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU) | 6:46 | 2023-09-29 |  |
+| [Blue](https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Blue](https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU) | 6:46 | 2023-09-29 | 2023-11-08 |
+| [Blue](https://open.spotify.com/track/3e2cdlozr0ZKut6dWOer3q) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 6:46 | 2023-11-03 |  |
 | [Can Good Things Last Forever?](https://open.spotify.com/track/6MWw5eGSjfkNLmGTmMqTPn) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [Can Good Things Last Forever?](https://open.spotify.com/album/73536AVZgGnJQOCrfgCuve) | 5:22 | 2023-03-03 |  |
 | [Changes](https://open.spotify.com/track/69sr0eULGJPlIMphhtNNk6) | [Juhan Ongbrian](https://open.spotify.com/artist/7mEJxWdf21g1dRVwNDaLq8), [Shane Sato](https://open.spotify.com/artist/7A4XdB4WDsaYZzOySUSwhj) | [Changes](https://open.spotify.com/album/6K4SQ1N5cqEZmoy8beycUc) | 2:31 | 2023-05-05 | 2023-11-04 |
 | [Chega de Saudade](https://open.spotify.com/track/2eNQgIisOJLKnGSfZjUgPB) | [Rubina](https://open.spotify.com/artist/0CP7W95OO1zFAXieVsBwPN) | [Modinha](https://open.spotify.com/album/6AdW9SB1FDBv5mxA35VAZn) | 4:23 | 2023-03-03 |  |

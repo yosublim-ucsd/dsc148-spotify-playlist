@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: G Jones
 
-278 songs - 15 hr 19 min
+279 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Chicken Wang \(feat\. Diplo, Snappy Jit\)](https://open.spotify.com/track/0cl5BEHLkh9BmJG2ElaUPK) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Snappy Jit](https://open.spotify.com/artist/4liIX1dXOofAewkaoKrNHY) | [Chicken Wang \(feat\. Diplo, Snappy Jit\)](https://open.spotify.com/album/4YoITx9kq8TA5c64Henhc4) | 1:58 | 2021-11-19 | 2022-07-29 |
 | [Cobra](https://open.spotify.com/track/0BDmyy2xonhhvcl2QDg2Xh) | [Formal One](https://open.spotify.com/artist/7t9RzoO6u80uVTQGEt5p59) | [Cobra](https://open.spotify.com/album/1se7OjX41LBkLRQT73mR1t) | 4:15 | 2021-11-19 | 2021-12-28 |
 | [Coming Over \(feat\. James Hersey\)](https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [This Mixtape is Fire.](https://open.spotify.com/album/5yscEifoZw3M3abIVCr8ed) | 2:58 | 2022-02-01 | 2022-11-19 |
+| [Crash 2.0](https://open.spotify.com/track/7coX3jc5vGpywMWEZ8X8Mq) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Dallas Koehlke](https://open.spotify.com/artist/3tfGFqEhPNqf3mr5AetSVk) | [Red // Blue](https://open.spotify.com/album/0K7Og050SbKXSKXijCofik) | 4:14 | 2023-10-27 |  |
 | [Crash 2.0](https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 4:14 | 2022-02-01 | 2023-11-04 |
 | [Cream](https://open.spotify.com/track/6AuFHzc4WmOdOxUbSpXy3S) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Cream](https://open.spotify.com/album/4WfyVhM0WYciroTsLT9ZXs) | 3:04 | 2021-11-19 | 2022-02-02 |
 | [CRUISE N CRASH \- Litek & RNDM Beats Refix Edition](https://open.spotify.com/track/49MzTVgUcivXDmSQyDbutH) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [LiTek](https://open.spotify.com/artist/38UNDmwOPDx9LI028z8Bcw), [RNDM](https://open.spotify.com/artist/4FIohe40XNCk9HgvL2cxdT) | [CRUISE N CRASH \(Litek & RNDM Beats Refix Edition\)](https://open.spotify.com/album/28tKww6xlKuojAis24fRby) | 2:35 | 2022-01-21 | 2022-01-31 |
@@ -152,7 +153,7 @@
 | [Lone Wolf](https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Lone Wolf](https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY) | 4:16 | 2022-02-01 |  |
 | [Look Back](https://open.spotify.com/track/6uU3is35QYYPXgK2NylZ3E) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Look Back](https://open.spotify.com/album/1T6Rrzc39d1MpdSP0lB9pt) | 3:18 | 2021-11-19 | 2022-01-23 |
 | [Losing Time](https://open.spotify.com/track/6gHG0T5lelj7EluTAnJ2ox) | [Drew Wilken](https://open.spotify.com/artist/37jtB0pLZhl1UfKUxhcyiQ) | [Losing Time](https://open.spotify.com/album/45mk91pbbutiDTW6J4JTb7) | 3:44 | 2021-11-19 | 2022-02-01 |
-| [LOUD](https://open.spotify.com/track/4gWvFjp9fFZ77mOW5FUaDh) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Runnit](https://open.spotify.com/artist/0kojSSqjZ9LAAHpNwYObKb) | [LOUD](https://open.spotify.com/album/20YsYld8q3KoVj8uT7kHGK) | 2:45 | 2023-09-08 |  |
+| [LOUD](https://open.spotify.com/track/4gWvFjp9fFZ77mOW5FUaDh) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Runnit](https://open.spotify.com/artist/0kojSSqjZ9LAAHpNwYObKb) | [LOUD](https://open.spotify.com/album/20YsYld8q3KoVj8uT7kHGK) | 2:45 | 2023-09-08 | 2023-11-08 |
 | [Love Hotel](https://open.spotify.com/track/3D5T9c0O7IE2uM0pU4Q5SN) | [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu) | [Love Hotel](https://open.spotify.com/album/70Bek9HrCmMAku4HmZd0Sl) | 3:23 | 2023-10-27 |  |
 | [Lowkey \(feat\. Lil Traffic\)](https://open.spotify.com/track/0PCCk7RBQUE7RsoUq66nuW) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU), [Lil Traffic](https://open.spotify.com/artist/3eT3DxADMFeVVzczjXOreQ) | [Lowkey \(feat\. Lil Traffic\)](https://open.spotify.com/album/1vpHK5Bjp7vFHXpmHYzQWD) | 3:12 | 2021-11-19 | 2022-01-20 |
 | [Magic](https://open.spotify.com/track/0UU98KhDayXXXaP7y9ud7M) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Magic](https://open.spotify.com/album/08pD8uL8UL0LrBD6ceqZ5w) | 3:38 | 2021-11-19 | 2022-02-02 |

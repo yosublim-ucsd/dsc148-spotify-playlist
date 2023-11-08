@@ -713,6 +713,32 @@
     },
     {
       "album": {
+        "name": "A Little Of This",
+        "url": "https://open.spotify.com/album/6BespyVT6TQ8vdEtMvqZ5r"
+      },
+      "artists": [
+        {
+          "name": "leicht.",
+          "url": "https://open.spotify.com/artist/6tAmeduBCUXmwFWLFo4dxe"
+        },
+        {
+          "name": "Terce S.",
+          "url": "https://open.spotify.com/artist/3dUZsndiuWqeatgYQBhkI9"
+        },
+        {
+          "name": "POSTPARTUM.",
+          "url": "https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127616,
+      "name": "A Little Of This",
+      "url": "https://open.spotify.com/track/5gqK7FqeROzLsBjzLpITnO"
+    },
+    {
+      "album": {
         "name": "A Long Hot Summer",
         "url": "https://open.spotify.com/album/65DGtkoRmauzEKTjFT3rJz"
       },
@@ -53790,7 +53816,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 133406,
       "name": "Right Thing",
       "url": "https://open.spotify.com/track/2ugTMmn6H166ivXhQWsRjA"

@@ -4,7 +4,7 @@
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-124 songs - 10 hr 19 min
+125 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,8 +94,9 @@
 | [Pleasure \- Radio Edit](https://open.spotify.com/track/2wj7trLFGECTtGmOLYFj7A) | [Brasstooth](https://open.spotify.com/artist/6mR9xd8UBMUsLmKekY5wBj), [DJ Truce](https://open.spotify.com/artist/41MxByuwqP9PVaEYNBcJGb) | [Pleasure \(DJ Truce Remixes\)](https://open.spotify.com/album/4rDeHsBTGMgJfDi7cjp1Sr) | 2:57 | 2022-12-28 | 2023-01-19 |
 | [Poision](https://open.spotify.com/track/03vwrapDLyriXEYpM1GJPj) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [Scott Garcia](https://open.spotify.com/artist/4pmXP4rg8C8WmWtoCWdC9b), [Shy Cookie](https://open.spotify.com/artist/65wWCNrpeb8t3A6707RG5B) | [Poision](https://open.spotify.com/album/5hZRHbGRokvmSvRFsEdLGL) | 5:05 | 2022-12-28 |  |
 | [R U Sleeping \- Bump 'N' Flex Remix](https://open.spotify.com/track/1iNeRmlqIPPcxyCAuCOi3m) | [Indo](https://open.spotify.com/artist/4gt3u2InsxUukBFlEpri1l), [Bump N Flex](https://open.spotify.com/artist/0LvmNTiOy87XfAsYd1ubZp) | [R U Sleeping](https://open.spotify.com/album/2nRTDFUgW236bepQTOA5ST) | 5:04 | 2023-01-18 |  |
-| [Realise](https://open.spotify.com/track/2cIg9G9VSyYMsHiDSBzqyz) | [Jeremy Sylvester](https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l) | [UK Garage Classics \- Jeremy Sylvester in the Mix \(feat\. Tj Lewis\)](https://open.spotify.com/album/47tJaiF83pAwYUFetzOaDM) | 5:20 | 2023-01-18 |  |
+| [Realise](https://open.spotify.com/track/2cIg9G9VSyYMsHiDSBzqyz) | [Jeremy Sylvester](https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l) | [UK Garage Classics \- Jeremy Sylvester in the Mix \(feat\. Tj Lewis\)](https://open.spotify.com/album/47tJaiF83pAwYUFetzOaDM) | 5:20 | 2023-01-18 | 2023-11-08 |
 | [Rewind](https://open.spotify.com/track/5hultE7GeExA3RkTvtsear) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 5:33 | 2023-01-18 |  |
+| [RIP Groove \(Radio Edit\)](https://open.spotify.com/track/6CF9qg5FZFERIUzoYejIzH) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [RIP Groove](https://open.spotify.com/album/4RtEW9RRECxyfNEVN1uUTY) | 3:29 | 2023-08-11 |  |
 | [RIP Groove \- Radio Edit](https://open.spotify.com/track/47zdicM0GhuAVBNUBvBbf0) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [RIP Groove](https://open.spotify.com/album/1b5NUoEx4BCuzQgg0X2ZXE) | 3:29 | 2023-01-18 | 2023-11-05 |
 | [RIP Groove \- Radio Edit](https://open.spotify.com/track/5FO1NUarjrRlFpOTnyritk) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [RIP Groove](https://open.spotify.com/album/22IqOTt63ddQffgEDoghxf) | 3:29 | 2023-01-18 | 2023-06-18 |
 | [Sambuca](https://open.spotify.com/track/0RTVgbqTQmse8ttPORexQj) | [Wideboys](https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi), [Dennis G.](https://open.spotify.com/artist/7gNfNrp54riRjOw5Z03BDY) | [Pure Garage Rewind](https://open.spotify.com/album/2SUjSPglsVlIv9pom5A9vq) | 3:19 | 2022-12-28 | 2023-01-19 |

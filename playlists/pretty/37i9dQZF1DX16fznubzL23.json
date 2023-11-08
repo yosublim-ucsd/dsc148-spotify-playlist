@@ -1,12 +1,12 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 16559,
+  "num_followers": 16602,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjViZGIzM2M3NmNiMjhiZmQwZTk5NjU4NDAwOGI4YzFhMDM2MjNi",
+  "snapshot_id": "MCw1OThhYTQ0YjQ4NGQwNmFjMjAzMTU4NjMzOTYyMWU3ZmJhMDYxMmYw",
   "tracks": [
     {
       "added_at": "2023-11-03 00:01:00",
@@ -399,22 +399,6 @@
       "duration_ms": 203333,
       "name": "SCAR",
       "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
-        "name": "The Prince I Became",
-        "url": "https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        }
-      ],
-      "duration_ms": 179580,
-      "name": "Thunder Fire You",
-      "url": "https://open.spotify.com/track/272R7WaDdI1Wol1PHgAwIZ"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -935,6 +919,22 @@
       "duration_ms": 153569,
       "name": "Why",
       "url": "https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "Complete",
+        "url": "https://open.spotify.com/album/3WfxzL7q64BWBupbgHhhSD"
+      },
+      "artists": [
+        {
+          "name": "T'neeya",
+          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
+        }
+      ],
+      "duration_ms": 160862,
+      "name": "Complete",
+      "url": "https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN"
     }
   ],
   "unique_name": "End in Tears ",

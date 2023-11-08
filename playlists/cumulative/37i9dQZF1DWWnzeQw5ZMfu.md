@@ -4,18 +4,19 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Taylor Swift
 
-231 songs - 18 hr 11 min
+232 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Everything I Do\) I Do It For You \- Live At Sydney Opera House / 2013](https://open.spotify.com/track/0R7UmDZ9MP9LOiWdv4fDIK) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Live At Sydney Opera House](https://open.spotify.com/album/6wFQwkeJRlLi4wP5doOGlh) | 3:55 | 2022-04-14 | 2022-07-29 |
 | [7 rings \- live](https://open.spotify.com/track/6va6SjWz457IOZidBppAhz) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [k bye for now \(swt live\)](https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb) | 3:46 | 2022-04-14 | 2023-08-19 |
 | [7 Years \- \(Later\) \[Live\]](https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [7 Years \(Later\) \[Live\]](https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn) | 4:16 | 2022-12-09 |  |
+| [A Little Respect \(Live in Nashville\)](https://open.spotify.com/track/4a2dbJunlLGd87U7bNrwHh) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [On the Road to Nashville \(Live\)](https://open.spotify.com/album/7FKtqGJK8DhnAOUqHSfPqU) | 3:38 | 2023-11-03 |  |
 | [A Little Respect \- Live in Nashville](https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [On the Road to Nashville \(Live\)](https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk) | 3:38 | 2022-04-14 | 2023-11-04 |
 | [Against All Odds \(Take a Look at Me Now\) \- Live from the Serious Tour 1990; 2019 Remaster](https://open.spotify.com/track/61N8sBOfE9iM0uRhInFnKN) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Serious Hits...Live! \(2019 Remaster\)](https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV) | 3:29 | 2022-04-14 | 2023-08-19 |
 | [All Night Long \(All Night\) \- Live](https://open.spotify.com/track/26DAOgxkcKLSKdoHvHoAcn) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Hello From Las Vegas \(Deluxe\)](https://open.spotify.com/album/7FIU253gt9jvbTeLfKQbPC) | 6:16 | 2022-04-14 | 2022-07-29 |
 | [All of Me \- Live](https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [All of Me \(Live\)](https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2) | 4:59 | 2022-04-14 |  |
-| [Alone \- Live](https://open.spotify.com/track/3U8x5bb3UcDoYOBj9ksvEN) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Fanatic Live from Caesars Colosseum](https://open.spotify.com/album/4N4W7ZlX5DrFMMeQAPZUGC) | 4:22 | 2023-08-18 |  |
+| [Alone \- Live](https://open.spotify.com/track/3U8x5bb3UcDoYOBj9ksvEN) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Fanatic Live from Caesars Colosseum](https://open.spotify.com/album/4N4W7ZlX5DrFMMeQAPZUGC) | 4:22 | 2023-08-18 | 2023-11-08 |
 | [Alone \- Live](https://open.spotify.com/track/4gLEaNDI7wk8SJNqyprEAd) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Fanatic Live from Caesars Colosseum](https://open.spotify.com/album/4mvwgzxcwaa4bfl9A29xRe) | 4:22 | 2022-04-14 | 2022-07-29 |
 | [Always Be My Baby \- Live at the Tokyo Dome](https://open.spotify.com/track/58QgGWqvercpslOCOlxyEr) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 4:38 | 2022-04-29 |  |
 | [Always on My Mind \- Live at the O2 Arena, London \- 21 December 2009](https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Pandemonium \(Live at the O2 Arena, London \- 21 December 2009\)](https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL) | 3:43 | 2022-04-14 |  |

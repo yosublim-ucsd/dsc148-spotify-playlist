@@ -4,7 +4,7 @@
 
 > Vv Pete is our new RADAR artist to watch!
 
-264 songs - 13 hr 45 min
+265 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [Stay The Night](https://open.spotify.com/track/6d7kUzdgmoUARPNpR0vim0) | [Daffodils](https://open.spotify.com/artist/7rd77Dy0EZx6577VFjK13T) | [Stay The Night](https://open.spotify.com/album/438mozSf9BsetYlooJQDMH) | 3:12 | 2022-08-15 | 2023-03-02 |
 | [Stop & Stare](https://open.spotify.com/track/3HQkHblcaWYmYfP1jIRfsj) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Stop & Stare](https://open.spotify.com/album/1NBIz4sWJZtw76e5D6issj) | 2:36 | 2023-06-22 |  |
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-22 |  |
-| [Sunday Morning](https://open.spotify.com/track/2btftog5enfQLHGvpqNd4N) | [Aidan Fine](https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V) | [Sunday Morning](https://open.spotify.com/album/1eQ589pdoxuc82OSxCtk9j) | 2:07 | 2023-03-02 |  |
+| [Sunday Morning](https://open.spotify.com/track/2btftog5enfQLHGvpqNd4N) | [Aidan Fine](https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V) | [Sunday Morning](https://open.spotify.com/album/1eQ589pdoxuc82OSxCtk9j) | 2:07 | 2023-03-02 | 2023-11-08 |
+| [Sunday Morning](https://open.spotify.com/track/2rkM3PwHVDsuDDyYiv3KVM) | [Aidan Fine](https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V) | [Sunday Morning](https://open.spotify.com/album/5deglqPUxXOmdQjSFeMpMQ) | 2:07 | 2023-10-19 |  |
 | [Survive](https://open.spotify.com/track/0BVRgB9HkqkFSAvyrLvCzx) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Uncle Jack Charles](https://open.spotify.com/artist/4DpzkmnW2bhZq2YgobLcId) | [Gela](https://open.spotify.com/album/6U4EyQWAc1wCohtIV3wBqz) | 3:14 | 2021-10-15 | 2022-08-16 |
 | [Susan's Son](https://open.spotify.com/track/4y1rLtIUSmxfHGzKDZseDd) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Susan’s Son](https://open.spotify.com/album/43VNGLvaaGcCsMT27J6GYO) | 3:17 | 2021-10-15 | 2022-08-16 |
 | [Sweat You Out My System](https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Sweat You Out My System](https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi) | 3:09 | 2023-03-02 |  |

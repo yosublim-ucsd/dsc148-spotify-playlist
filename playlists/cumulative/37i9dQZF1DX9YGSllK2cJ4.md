@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-349 songs - 15 hr 41 min
+354 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 | 2022-08-01 | 2022-10-25 |
 | [Experience \- Solo Piano](https://open.spotify.com/track/5U87k9mIyu2sGQppcqV4Dw) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Experience \(Solo Piano\)](https://open.spotify.com/album/3Z7ioqwupmWCZx5hzWzbom) | 5:07 | 2023-02-06 | 2023-05-04 |
 | [Fate Alone](https://open.spotify.com/track/3ZEAYAgvudTytKaiH524XJ) | [Augustus Step](https://open.spotify.com/artist/6pLbnxGxHee8tyi6X1f44M) | [Fate Alone](https://open.spotify.com/album/2CnPdW7DQz44K9eLwW1tB5) | 2:17 | 2022-10-24 |  |
+| [Feathers](https://open.spotify.com/track/1CWes1ypvDpEAfpDpB5uWy) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Feathers](https://open.spotify.com/album/7jM0M6ag5Kcg2nK4sPWAl9) | 2:38 | 2023-11-07 |  |
 | [Fifth](https://open.spotify.com/track/42cd6z8jhsKWx5So4pKJ7k) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Fifth](https://open.spotify.com/album/4RodR70upWkY1uDVnTmq8s) | 1:58 | 2023-01-31 |  |
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2022-08-01 |  |
 | [First Love](https://open.spotify.com/track/2EoAF7NjMjqZ3OKT5q3XR6) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [First Love](https://open.spotify.com/album/5GNUj3rrZ78cE2KXcCeU6X) | 2:12 | 2023-02-21 |  |
@@ -93,6 +94,7 @@
 | [For Christiana](https://open.spotify.com/track/6eWx6cukp0II3hS8fTFFEy) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [For Christiana](https://open.spotify.com/album/7db9kAuhQFFmVZkAa0jHPx) | 2:16 | 2022-12-05 |  |
 | [For Mark](https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [For Mark](https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c) | 5:09 | 2022-08-01 | 2022-11-15 |
 | [For the Time Being](https://open.spotify.com/track/01Ta3xqx0lWGtiZupK2O7l) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [For the Time Being](https://open.spotify.com/album/5124C1o4Wm1P3BfMgw87T2) | 2:31 | 2022-08-25 | 2022-10-15 |
+| [Forbidden Chords](https://open.spotify.com/track/22MdrHbM2paKQswcbjHEsR) | [Eugenius R\. Malmgren](https://open.spotify.com/artist/2uODFqBJo1WlHbFBSuyLW9) | [Forbidden Chords](https://open.spotify.com/album/5qG5zlXidasaBblysEBt4A) | 2:19 | 2023-11-07 |  |
 | [Forever](https://open.spotify.com/track/1JUlfV6Dj06XkGLlVZaSEY) | [Richard Noé](https://open.spotify.com/artist/3aUTUUnDU6XhCLuYELfl4N) | [Forever](https://open.spotify.com/album/4VMVsxb3ooYMH6sV1m78kp) | 2:06 | 2023-01-31 | 2023-03-23 |
 | [Forever Changed](https://open.spotify.com/track/6u20TgouBczWOOlnR6703e) | [Winifred Kang](https://open.spotify.com/artist/5r0SmbwJ70z8AoUrrbdRnU) | [Forever Changed](https://open.spotify.com/album/5r8Z1CKRpkrqF8IqcHnEY7) | 1:59 | 2022-08-01 | 2022-11-15 |
 | [Fornaboda](https://open.spotify.com/track/0kMtMEFvFQjTa7H7bdkCKM) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Fornaboda](https://open.spotify.com/album/3LyjyHrROwekL8eomtUcxd) | 2:28 | 2023-03-07 |  |
@@ -114,6 +116,7 @@
 | [How it Used to Be](https://open.spotify.com/track/75erFAUKLzeaRHhaIOrTGM) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [How it Used to Be](https://open.spotify.com/album/7mSlDiBarb6ZuUScqXK9nz) | 2:06 | 2023-01-19 | 2023-04-05 |
 | [I Can Sail Without Wind](https://open.spotify.com/track/4t5vrwOH5r0aF9LxIXYC1y) | [Joakim Holgersson](https://open.spotify.com/artist/58iWubOtAjZXxTSSza46Kk) | [I Can Sail Without Wind](https://open.spotify.com/album/0TmcxX4WRWJDcRfgt3HJyn) | 2:26 | 2022-12-20 |  |
 | [Il Vicolo](https://open.spotify.com/track/72hmCwuZXRBt5kRDqVWr8C) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [Il Vicolo](https://open.spotify.com/album/4CbfYWMk84Su8dv2SfQWzf) | 3:20 | 2022-08-01 | 2022-09-13 |
+| [Illuminatum Caelum](https://open.spotify.com/track/34MGbM7YtHrPmcwPupkpY7) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Illuminatum Caelum](https://open.spotify.com/album/3sEf9lqccU180MIG73bvqB) | 2:18 | 2023-11-07 |  |
 | [Impasse des Bourdonnais](https://open.spotify.com/track/53JV92TTWHIllhui4TkoU2) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Impasse des Bourdonnais](https://open.spotify.com/album/2Kiy7znRPwbZjK1fQvOe0F) | 1:07 | 2022-08-01 | 2023-03-23 |
 | [Impermanence](https://open.spotify.com/track/6Kt3bzYXSLKXBa2nRMabOi) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Impermanence](https://open.spotify.com/album/5623NsetcNnDzzZf4xr9Oh) | 2:20 | 2022-08-25 |  |
 | [Impromptu](https://open.spotify.com/track/1oKOIu35J9znIA7JbtVlTK) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Impromptu](https://open.spotify.com/album/3FLWbNwSwVSII9yOJV8NjL) | 2:24 | 2023-01-19 |  |
@@ -243,6 +246,7 @@
 | [Sans fleurir](https://open.spotify.com/track/63myAMR7Vy54SvqpjwxG7V) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Sans fleurir](https://open.spotify.com/album/0c759BM7rHz7aHDOOBFC5u) | 2:24 | 2023-03-07 | 2023-03-23 |
 | [Sans fleurir](https://open.spotify.com/track/6BYUM69MpmpeqfOugH2yOo) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Éphémère](https://open.spotify.com/album/5Yi1okv4v6wokUG3C4BRAG) | 2:24 | 2023-05-09 |  |
 | [Sans fleurir](https://open.spotify.com/track/6CZct4mwXflH95xf38xDMG) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Une rose dans les ténèbres](https://open.spotify.com/album/0tLNp9dCdU3DJYYYfIjyxR) | 2:24 | 2023-03-22 | 2023-04-26 |
+| [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 | 2023-11-07 |  |
 | [Say My Name](https://open.spotify.com/track/2OrJ8SYAFfTHGzLKIurphr) | [Octane](https://open.spotify.com/artist/2KTIaiNCA1JqLtIeTLYzxp) | [Say My Name](https://open.spotify.com/album/2wCN4RpBcE9cWF0YBbpfW3) | 3:56 | 2022-11-14 | 2023-05-04 |
 | [Say Something](https://open.spotify.com/track/7mbVCa3RJ9fPAkssAkrQ2j) | [Lukas O' Kane](https://open.spotify.com/artist/72CucnBc9khzpqxeA6Npkp) | [Say Something](https://open.spotify.com/album/1sRnP9KSKkPAKGyaMTWNlA) | 3:47 | 2022-08-01 | 2022-12-06 |
 | [Scheme of Things](https://open.spotify.com/track/0Tkda9INoI8yK8YDWitmqK) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Scheme of Things](https://open.spotify.com/album/1H6USCW27B3FQ14QlQaTob) | 2:36 | 2023-02-21 |  |
@@ -290,6 +294,7 @@
 | [Tempered](https://open.spotify.com/track/3OMJ1MqryDgaIEJTWnrvkC) | [Cove Hollis](https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6) | [Tempered](https://open.spotify.com/album/5DcXeEG9J7ok6XtGsxpRRx) | 1:24 | 2022-12-20 | 2023-08-02 |
 | [Téli](https://open.spotify.com/track/22epH1mP5fU4Bg5fGVbnuc) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Téli](https://open.spotify.com/album/6smhLShr1DjFPuxW7EtB4d) | 2:30 | 2022-08-01 | 2022-09-13 |
 | [The Desolate Path](https://open.spotify.com/track/39sT7m26OUz1z2cfjShZYM) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [The Desolate Path](https://open.spotify.com/album/6wXpCHeggIpKl5qEZeqWsu) | 3:05 | 2023-01-31 |  |
+| [The Inevitable](https://open.spotify.com/track/0MMMM2hrWzqVn4Ecc6snOY) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Inevitable](https://open.spotify.com/album/3yuutfPOPpWqXB698Aq5tI) | 2:40 | 2023-11-07 |  |
 | [The Lantern Lighter](https://open.spotify.com/track/1hGglWU022gMZGk38kyDlQ) | [Mark Lieder](https://open.spotify.com/artist/3XabrLwWwxIntz6A6X9naj) | [The Lantern Lighter](https://open.spotify.com/album/2qoWjGZxC8e0uuyYrBGxq7) | 2:57 | 2022-10-04 |  |
 | [The letter](https://open.spotify.com/track/2DTroZVuzZfdKJJg9gG7G6) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [The letter](https://open.spotify.com/album/0TiRvvmrH6z4yAMRICchhY) | 2:25 | 2023-06-20 |  |
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2022-08-01 |  |

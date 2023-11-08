@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Gregory Porter
 
-405 songs - 1 day 5 hr 18 min
+406 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Black Crow](https://open.spotify.com/track/51zuwsjfn77J6NBQodv0WW) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [SuperBlue](https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe) | [Black Crow](https://open.spotify.com/album/08GqtDhcOftdywr5cL1Buv) | 3:34 | 2023-07-13 | 2023-09-22 |
 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 | 2022-04-14 | 2022-05-27 |
 | [Blossom's Blues](https://open.spotify.com/track/7mwxIlsW86NrePRjW19PZx) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Blossom's Blues](https://open.spotify.com/album/0G07A2zQJ41n8kRJdMw24w) | 3:27 | 2022-04-28 | 2022-09-23 |
-| [Blue](https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Blue](https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU) | 6:46 | 2023-09-14 |  |
+| [Blue](https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Blue](https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU) | 6:46 | 2023-09-14 | 2023-11-08 |
+| [Blue](https://open.spotify.com/track/3e2cdlozr0ZKut6dWOer3q) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 6:46 | 2023-11-02 |  |
 | [Body of Mine](https://open.spotify.com/track/59Ll82ces41ZPuIOi9SVua) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Body of Mine](https://open.spotify.com/album/0HD3cdbBgs3MJQcqgpGYLE) | 3:31 | 2023-07-13 | 2023-10-20 |
 | [Bonaventura](https://open.spotify.com/track/6GMqhc3dcBUExHWViNubtM) | [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Bonaventura](https://open.spotify.com/album/15HRPbNuHuuTmMkWHM9nKD) | 2:25 | 2023-06-08 | 2023-09-29 |
 | [Bones \- Philippa Dub](https://open.spotify.com/track/7iymZyW4zxRWaPs7nzAqfe) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Philippa](https://open.spotify.com/artist/4EJbiuIFj2HwW8NJe1ttIX) | [Blackbird Returns](https://open.spotify.com/album/0QjShtxDYqgNQ6rw6F7wyv) | 6:20 | 2023-09-28 | 2023-10-05 |

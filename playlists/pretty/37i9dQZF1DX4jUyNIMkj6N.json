@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 191955,
+  "num_followers": 192015,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmU1ODQxNTkxMDQ4YzdlMmU3NmJjNGZhNDk2ODNhMzNjZTQ3YWE4",
+  "snapshot_id": "MCwwYjU4ODU0OTkxYjdkNjA0ZTBlZDI5MGQ2MzBlMGU3ZTI4MTkyZmRi",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Rolling Thunder",
         "url": "https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 241785,
       "name": "Rolling Thunder",
       "url": "https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Palomino Deluxe (Child of Summer Edition)",
-        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Angel - Acoustic String Version",
-      "url": "https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Palomino Deluxe (Child of Summer Edition)",
+        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Angel - Acoustic String Version",
+      "url": "https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Grey",
         "url": "https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 232960,
       "name": "Grey",
       "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "By the time you hear this",
+        "url": "https://open.spotify.com/album/3QDLru0GgwjIQL3xox7mL9"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 194081,
+      "name": "By the time you hear this",
+      "url": "https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 167142,
       "name": "In The Silence",
       "url": "https://open.spotify.com/track/4Pyg2i2ZSUriQh5QuuBs0y"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "By the time you hear this",
-        "url": "https://open.spotify.com/album/3QDLru0GgwjIQL3xox7mL9"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 194081,
-      "name": "By the time you hear this",
-      "url": "https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6"
     }
   ],
   "unique_name": "Nordic Folk",

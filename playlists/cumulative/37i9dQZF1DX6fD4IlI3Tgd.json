@@ -214,7 +214,7 @@
     {
       "album": {
         "name": "Cantalo",
-        "url": "https://open.spotify.com/album/5uw2wsLG5KiH22BbduOtmH"
+        "url": "https://open.spotify.com/album/1ID1oLpVJ0wcBeYblNRiQn"
       },
       "artists": [
         {
@@ -229,6 +229,28 @@
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 242380,
+      "name": "Cantalo",
+      "url": "https://open.spotify.com/track/6UIqRcSumEv1ITtXB3rc8X"
+    },
+    {
+      "album": {
+        "name": "Cantalo",
+        "url": "https://open.spotify.com/album/5uw2wsLG5KiH22BbduOtmH"
+      },
+      "artists": [
+        {
+          "name": "Les Castizos",
+          "url": "https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M"
+        },
+        {
+          "name": "Cato Anaya",
+          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-08",
       "duration_ms": 242380,
       "name": "Cantalo",
       "url": "https://open.spotify.com/track/7zuNdvQ8KDEEu9wTGFKqyR"

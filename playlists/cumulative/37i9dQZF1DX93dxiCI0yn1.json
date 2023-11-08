@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "\"23freestyle\"",
+        "url": "https://open.spotify.com/album/41lrer5TP42nzqlxLdju8a"
+      },
+      "artists": [
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7"
+        },
+        {
+          "name": "Lil\u2019Yukichi",
+          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128250,
+      "name": "\"23freestyle\"",
+      "url": "https://open.spotify.com/track/5INsevpkX2eEBTe6Wsz8ZZ"
+    },
+    {
+      "album": {
         "name": "\"bounce back and forth\"",
         "url": "https://open.spotify.com/album/6S1Kg9bZTWsKfMJGpvgxoE"
       },
@@ -1134,6 +1156,24 @@
       "duration_ms": 179244,
       "name": "Legacy 2",
       "url": "https://open.spotify.com/track/23vNzL3iCyVelYeW0sg5dW"
+    },
+    {
+      "album": {
+        "name": "Leon S. Kennedy",
+        "url": "https://open.spotify.com/album/7bjrDn5KiMEdTrWtHHYMLu"
+      },
+      "artists": [
+        {
+          "name": "Kay-on",
+          "url": "https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173289,
+      "name": "Leon S. Kennedy",
+      "url": "https://open.spotify.com/track/4NriW0BNFdc1FVvNOGxeuQ"
     },
     {
       "album": {

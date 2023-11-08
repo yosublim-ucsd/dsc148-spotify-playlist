@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 292248,
+  "num_followers": 292327,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTRlZGQ5NjI5MzQ3OGE2ZjkxNmFmYTY3NGYzYWYyYjJiMjk1NzU0",
+  "snapshot_id": "MCwwNzY1Y2EwNzUxNjk1NTM0N2IxODBiM2M5NjA3ZjczOWJjYzNiNzVl",
   "tracks": [
     {
       "added_at": "2023-10-20 03:01:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Take On Me (MTV Unplugged / Edit)",
-        "url": "https://open.spotify.com/album/3wzeAwO1FHJbdBhmoc9LST"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Take On Me - MTV Unplugged / Edit",
-      "url": "https://open.spotify.com/track/2MQvD2O1ymooRTVduJTV4t"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Black Pumas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 341053,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/68o7eSZOP2kT4Of3mgiWKw"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Take On Me (MTV Unplugged / Edit)",
+        "url": "https://open.spotify.com/album/3wzeAwO1FHJbdBhmoc9LST"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Take On Me - MTV Unplugged / Edit",
+      "url": "https://open.spotify.com/track/2MQvD2O1ymooRTVduJTV4t"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Voc\u00ea Vai Lembrar de Mim (Edi\u00e7\u00e3o Especial)",
-        "url": "https://open.spotify.com/album/0WE73xCoDYeWVoU7b7Trlb"
-      },
-      "artists": [
-        {
-          "name": "NX Zero",
-          "url": "https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Voc\u00ea Vai Lembrar de Mim - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6Ewm2wXpotQexuHUJqdLuR"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0FVwOZ7tlwwXSymeRyPfud"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 396968,
       "name": "Sweet Child O' Mine - Acoustic",
       "url": "https://open.spotify.com/track/1Qq7Tq8zZHuelGv9LQE2Yy"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Voc\u00ea Vai Lembrar de Mim (Edi\u00e7\u00e3o Especial)",
+        "url": "https://open.spotify.com/album/0WE73xCoDYeWVoU7b7Trlb"
+      },
+      "artists": [
+        {
+          "name": "NX Zero",
+          "url": "https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Voc\u00ea Vai Lembrar de Mim - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6Ewm2wXpotQexuHUJqdLuR"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Cuts Like A Knife - 40th Anniversary, Live From The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "Straight From The Heart - Live at The Royal Albert Hall",
+      "url": "https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Moska Apresenta Zoombido: Dado Villa-Lobos",
         "url": "https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 227541,
       "name": "O Teatro dos Vampiros",
       "url": "https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Cuts Like A Knife - 40th Anniversary, Live From The Royal Albert Hall",
-        "url": "https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "Straight From The Heart - Live at The Royal Albert Hall",
-      "url": "https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Pop Brasil das Antigas",
-        "url": "https://open.spotify.com/album/1hszah1arYRilCMPwvB6Ib"
-      },
-      "artists": [
-        {
-          "name": "C\u00e1ssia Eller",
-          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
-        }
-      ],
-      "duration_ms": 240799,
-      "name": "Malandragem - Ao Vivo",
-      "url": "https://open.spotify.com/track/0brP1QBsJiMoqt3jqEHZaN"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Tit\u00e3s Trio Ac\u00fastico",
         "url": "https://open.spotify.com/album/58SJ5GEjT0MCqPJWft7osf"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 224066,
       "name": "Pra Dizer Adeus (Trio Ac\u00fastico)",
       "url": "https://open.spotify.com/track/27653ZiyisDWx0K25dH2Sa"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Pop Brasil das Antigas",
+        "url": "https://open.spotify.com/album/1hszah1arYRilCMPwvB6Ib"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        }
+      ],
+      "duration_ms": 240799,
+      "name": "Malandragem - Ao Vivo",
+      "url": "https://open.spotify.com/track/0brP1QBsJiMoqt3jqEHZaN"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Outros",
-        "url": "https://open.spotify.com/album/0CzqUT8e3oHcXOXWiSxyY0"
-      },
-      "artists": [
-        {
-          "name": "Nenhum De N\u00f3s",
-          "url": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "Can\u00e7\u00e3o Da Meia Noite",
-      "url": "https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Tit\u00e3s Trio Ac\u00fastico",
         "url": "https://open.spotify.com/album/58SJ5GEjT0MCqPJWft7osf"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 213760,
       "name": "Enquanto Houver Sol (Trio Ac\u00fastico)",
       "url": "https://open.spotify.com/track/2qv04G7U63Tzhe0k9Dt2ys"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Outros",
+        "url": "https://open.spotify.com/album/0CzqUT8e3oHcXOXWiSxyY0"
+      },
+      "artists": [
+        {
+          "name": "Nenhum De N\u00f3s",
+          "url": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "Can\u00e7\u00e3o Da Meia Noite",
+      "url": "https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ"
     },
     {
       "added_at": "2023-10-20 03:01:00",

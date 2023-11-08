@@ -1,37 +1,13 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Hi Nanna",
-  "num_followers": 112476,
+  "num_followers": 112517,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDFjZjJjODI0NGRkZDAwODI1NzE1YjQ3NDY0ZTk3NDM0MjAwMzBi",
+  "snapshot_id": "MCxlYjkwMGI1Zjg5ZmJkYzlmZThjM2MxMTAwYTFlYTJhOTlkNzFkMjBl",
   "tracks": [
-    {
-      "added_at": "2023-09-16 06:39:10",
-      "album": {
-        "name": "Samayama (From \"Hi Nanna\")",
-        "url": "https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Sithara Krishnakumar",
-          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
-        },
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 204181,
-      "name": "Samayama (From \"Hi Nanna\")",
-      "url": "https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo"
-    },
     {
       "added_at": "2023-11-06 09:56:31",
       "album": {
@@ -207,6 +183,30 @@
       "duration_ms": 224554,
       "name": "Oh Na Madhu (From \"Month Of Madhu\")",
       "url": "https://open.spotify.com/track/1Bw2vPShbMpG1icqIfsKlW"
+    },
+    {
+      "added_at": "2023-09-16 06:39:10",
+      "album": {
+        "name": "Samayama (From \"Hi Nanna\")",
+        "url": "https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "duration_ms": 204181,
+      "name": "Samayama (From \"Hi Nanna\")",
+      "url": "https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo"
     },
     {
       "added_at": "2023-10-05 12:03:17",
@@ -945,26 +945,6 @@
       "url": "https://open.spotify.com/track/4K21tbyME0wnR0jqGgLkyq"
     },
     {
-      "added_at": "2023-04-14 12:28:07",
-      "album": {
-        "name": "Ayyayyo (From \"Mem Famous\")",
-        "url": "https://open.spotify.com/album/4HUS7r8KwX10VFNc9EIv3H"
-      },
-      "artists": [
-        {
-          "name": "Rahul Sipligunj",
-          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
-        },
-        {
-          "name": "Kalyan Nayak",
-          "url": "https://open.spotify.com/artist/7tENuzTbvAI7BhqFbZI7Ul"
-        }
-      ],
-      "duration_ms": 222016,
-      "name": "Ayyayyo (From \"Mem Famous\")",
-      "url": "https://open.spotify.com/track/3dtfHypbH2717f8HlvY8DY"
-    },
-    {
       "added_at": "2023-06-09 06:14:03",
       "album": {
         "name": "Calling Sahasra",
@@ -1091,22 +1071,6 @@
       "duration_ms": 203052,
       "name": "Chamkeela Angeelesi (From \"Dasara\")",
       "url": "https://open.spotify.com/track/7Do3XWnRkEkyspwibizaBa"
-    },
-    {
-      "added_at": "2023-02-22 14:11:25",
-      "album": {
-        "name": "Malli Malli (From \"Agent\")",
-        "url": "https://open.spotify.com/album/3A4Wxcl3DMpWMInJiAvnPx"
-      },
-      "artists": [
-        {
-          "name": "Hiphop Tamizha",
-          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
-        }
-      ],
-      "duration_ms": 207210,
-      "name": "Malli Malli (From \"Agent\")",
-      "url": "https://open.spotify.com/track/2JwFf9z75lIfpLyIF7NDVU"
     },
     {
       "added_at": "2023-03-03 17:10:41",

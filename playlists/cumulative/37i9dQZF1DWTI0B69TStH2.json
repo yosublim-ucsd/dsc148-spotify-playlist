@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:6vLFrwrwUvLpMedfRzjik3\">Pierwiastek Z Trzech</a> | Playlista od\u015bwie\u017cana w ka\u017cd\u0105 \u015brod\u0119.",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:0JIgW2OFhm0hH8UdCMU5SU\">Jan Marczewski</a> | Playlista od\u015bwie\u017cana w ka\u017cd\u0105 \u015brod\u0119.",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -806,6 +806,24 @@
       "duration_ms": 159333,
       "name": "Abstrakt",
       "url": "https://open.spotify.com/track/3ICH9Q7KLFPcGbHYptNEDf"
+    },
+    {
+      "album": {
+        "name": "ADHD",
+        "url": "https://open.spotify.com/album/3OMDRd67lz9RmWqr3ZIXQb"
+      },
+      "artists": [
+        {
+          "name": "Ostatni Dzie\u0144 Lata",
+          "url": "https://open.spotify.com/artist/031rW8B8jh30aKYuYkwNVD"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142746,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/4BRoG1PJkPZJ0T9xuwVqhR"
     },
     {
       "album": {
@@ -3242,7 +3260,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 230327,
       "name": "Ca\u0142y \u015awiat",
       "url": "https://open.spotify.com/track/5Q49ihsa7fEzLnQb9YSTGy"
@@ -3622,6 +3640,24 @@
       "duration_ms": 233871,
       "name": "Chocia\u017c raz",
       "url": "https://open.spotify.com/track/1WvTTm1fsdWIfzJoVOZdqP"
+    },
+    {
+      "album": {
+        "name": "Something Indefinitely Good",
+        "url": "https://open.spotify.com/album/7Eazvuqul7gVWGZIEd6Od8"
+      },
+      "artists": [
+        {
+          "name": "Happy Pills",
+          "url": "https://open.spotify.com/artist/7nvAamPGscEhAUBOEXhqe9"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205026,
+      "name": "Choco Cherry Pie",
+      "url": "https://open.spotify.com/track/7rn5krzECMlezWdpGla7Tm"
     },
     {
       "album": {
@@ -4324,7 +4360,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 144000,
       "name": "CRISTAL CASINO",
       "url": "https://open.spotify.com/track/29aaauJDE3tgQO704qYhPi"
@@ -5870,6 +5906,24 @@
       "duration_ms": 240000,
       "name": "Drogowskazy",
       "url": "https://open.spotify.com/track/7J5PTOZCip4HiWap2LlpiO"
+    },
+    {
+      "album": {
+        "name": "Dropshit",
+        "url": "https://open.spotify.com/album/0On3ySFPzQZ6yd6EgEobzl"
+      },
+      "artists": [
+        {
+          "name": "Wiz 93",
+          "url": "https://open.spotify.com/artist/6oDWLn2YCWhjIDG3kHGVJZ"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "Dropshit",
+      "url": "https://open.spotify.com/track/7nxOszaFXoEHF6PMGbnURl"
     },
     {
       "album": {
@@ -7473,6 +7527,28 @@
     },
     {
       "album": {
+        "name": "GASN\u0118",
+        "url": "https://open.spotify.com/album/6oxvBCpZH0UnRNSMgpd9mv"
+      },
+      "artists": [
+        {
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        },
+        {
+          "name": "wojtman.fm",
+          "url": "https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157744,
+      "name": "GASN\u0118",
+      "url": "https://open.spotify.com/track/2Qqo7mkK8t7OII8AfOrdMO"
+    },
+    {
+      "album": {
         "name": "Gasn\u0119",
         "url": "https://open.spotify.com/album/1vG77iPxcQtOWy8E35IBj2"
       },
@@ -7683,6 +7759,24 @@
     },
     {
       "album": {
+        "name": "ghosts & spirits",
+        "url": "https://open.spotify.com/album/1jCgBJPbpuWxsG3s676WXw"
+      },
+      "artists": [
+        {
+          "name": "septembie",
+          "url": "https://open.spotify.com/artist/1jI2QdKTLGZ7gmfZ1HHHWD"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238397,
+      "name": "ghosts & spirits",
+      "url": "https://open.spotify.com/track/3GTiHgwZKPVqVwMWPAWWCa"
+    },
+    {
+      "album": {
         "name": "GIMME",
         "url": "https://open.spotify.com/album/7DSxjavJDIMHPFSATXioUK"
       },
@@ -7848,6 +7942,24 @@
       "duration_ms": 243034,
       "name": "Granie na czas",
       "url": "https://open.spotify.com/track/0VOMtIO3OeVOBfxfl0ZAOZ"
+    },
+    {
+      "album": {
+        "name": "GRAWITACJA",
+        "url": "https://open.spotify.com/album/5ym9WMsfSoAoEtoMs714sd"
+      },
+      "artists": [
+        {
+          "name": "Karolina Prasa\u0142",
+          "url": "https://open.spotify.com/artist/1hQJVFqdypfYIUK91Pzadr"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "GRAWITACJA",
+      "url": "https://open.spotify.com/track/6YqgYwxdQeAhkRqSpsWRQm"
     },
     {
       "album": {
@@ -8285,6 +8397,24 @@
     },
     {
       "album": {
+        "name": "Hi Fives",
+        "url": "https://open.spotify.com/album/4X2ADC9kq91HmqEefjatye"
+      },
+      "artists": [
+        {
+          "name": "Smo' sauce",
+          "url": "https://open.spotify.com/artist/4KrJZOrUJguQGgl806jK35"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Hi Fives",
+      "url": "https://open.spotify.com/track/4RJsN8oRz8nH70DrDlaarZ"
+    },
+    {
+      "album": {
         "name": "High Life",
         "url": "https://open.spotify.com/album/2Ki5DT2pRTpi4EBxFWvraP"
       },
@@ -8698,7 +8828,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 192905,
       "name": "I tak",
       "url": "https://open.spotify.com/track/7a5T4blqT06QsH8Y4RXa5Q"
@@ -10443,6 +10573,24 @@
     },
     {
       "album": {
+        "name": "Klub",
+        "url": "https://open.spotify.com/album/3gaxZiRFCRxg5PUzwz1AFp"
+      },
+      "artists": [
+        {
+          "name": "Misery Joy",
+          "url": "https://open.spotify.com/artist/72fB4ZARnT6TxSh07y34Bo"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191278,
+      "name": "Klub",
+      "url": "https://open.spotify.com/track/60Q9h7kJyJ4RjNa0Vz8n0n"
+    },
+    {
+      "album": {
         "name": "Satelity",
         "url": "https://open.spotify.com/album/0mZxkOxXV7AgwQi0f2Dhj8"
       },
@@ -10614,6 +10762,24 @@
       "duration_ms": 234482,
       "name": "Kolor nocy",
       "url": "https://open.spotify.com/track/0TLO3zXXYv8AyoU6A7dJxd"
+    },
+    {
+      "album": {
+        "name": "Kolorowy Ptak",
+        "url": "https://open.spotify.com/album/0EIEn7v9eyirMtwttdLsIB"
+      },
+      "artists": [
+        {
+          "name": "Leepy",
+          "url": "https://open.spotify.com/artist/1FGhkw3Cs1StnbMiB0AAbX"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208593,
+      "name": "Kolorowy Ptak",
+      "url": "https://open.spotify.com/track/0tJfA0MDBKbVBMlpniwGVd"
     },
     {
       "album": {
@@ -11870,7 +12036,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 206271,
       "name": "Lazarus Water",
       "url": "https://open.spotify.com/track/79HONyNQhbZpbe2wBM6UUk"
@@ -13878,7 +14044,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 179612,
       "name": "Mog\u0142abym by\u0107",
       "url": "https://open.spotify.com/track/0kaPmQXkjftitt1R4ToelP"
@@ -14468,7 +14634,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 215226,
       "name": "M\u00f3wisz, \u017ce \u0142adnie mi w tym",
       "url": "https://open.spotify.com/track/0zzK4a1n8Ks1VPriePPmnO"
@@ -15532,7 +15698,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 186000,
       "name": "Nie Mrzonki",
       "url": "https://open.spotify.com/track/0OV8q4z2MAXroTokfUIapP"
@@ -18758,7 +18924,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 208128,
       "name": "Peggy Brown na jednej z dzikich pla\u017c",
       "url": "https://open.spotify.com/track/3aHBjzHpSRBGp5Zezc6UYc"
@@ -19156,7 +19322,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 186315,
       "name": "PIRUET",
       "url": "https://open.spotify.com/track/6JhRgP2grP9aD22M6XQMww"
@@ -19342,7 +19508,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 202666,
       "name": "Planety",
       "url": "https://open.spotify.com/track/5XdB3W8tEIkYrsjXQU7bQ4"
@@ -20300,7 +20466,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 186750,
       "name": "Pracuj\u0119",
       "url": "https://open.spotify.com/track/0BwykuHKwQ58ojGqDNrBZj"
@@ -20835,6 +21001,24 @@
     },
     {
       "album": {
+        "name": "PussyBoi",
+        "url": "https://open.spotify.com/album/2fMouZqX4umRPGyqEE4MG5"
+      },
+      "artists": [
+        {
+          "name": "Baby V",
+          "url": "https://open.spotify.com/artist/0gnNmkzfTegBSI0Y3qrTso"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121358,
+      "name": "PussyBoi",
+      "url": "https://open.spotify.com/track/3iZ1W9MyvkkbgutAqHU6Ph"
+    },
+    {
+      "album": {
         "name": "puzzle",
         "url": "https://open.spotify.com/album/6vT5dhHCa2SApzIe3f2qIy"
       },
@@ -21050,7 +21234,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 260181,
       "name": "R E A D Y (ajaaak)",
       "url": "https://open.spotify.com/track/1icYrjKeZeCgWuki0yWUkp"
@@ -21802,6 +21986,24 @@
       "duration_ms": 251363,
       "name": "Sam",
       "url": "https://open.spotify.com/track/5Bwim2mqwp7ySmhPSwtg5N"
+    },
+    {
+      "album": {
+        "name": "sam na sam",
+        "url": "https://open.spotify.com/album/5polzqoPnSv6QWNlypX09S"
+      },
+      "artists": [
+        {
+          "name": "Bansho",
+          "url": "https://open.spotify.com/artist/74dn3ilj0vOkzgSsdJojj2"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "sam na sam",
+      "url": "https://open.spotify.com/track/770tl5sCaB5fNBGPfoVT6m"
     },
     {
       "album": {
@@ -23062,7 +23264,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 197604,
       "name": "Soft Boys",
       "url": "https://open.spotify.com/track/3YwRLTxsZNRpOVbZ5ppmZP"
@@ -25232,7 +25434,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 195750,
       "name": "Teraz",
       "url": "https://open.spotify.com/track/5vlx1LsnYCKAas31brZol9"
@@ -25254,6 +25456,24 @@
       "duration_ms": 173868,
       "name": "Teraz ta\u0144cz\u0119",
       "url": "https://open.spotify.com/track/1uAc19uWUDRTRr1303YoJv"
+    },
+    {
+      "album": {
+        "name": "Termowizja",
+        "url": "https://open.spotify.com/album/7AsYHxWunromkzM9cDZ4J4"
+      },
+      "artists": [
+        {
+          "name": "MONGIRD",
+          "url": "https://open.spotify.com/artist/41sW1tNUQ6QgKOonv2sIez"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228622,
+      "name": "Termowizja",
+      "url": "https://open.spotify.com/track/6njdnR6sNITmB7oUpEcjyd"
     },
     {
       "album": {
@@ -27859,6 +28079,24 @@
     },
     {
       "album": {
+        "name": "Warszawska Noc",
+        "url": "https://open.spotify.com/album/2VmJfbfCWma0iHqSOxVxhN"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Wrzos",
+          "url": "https://open.spotify.com/artist/4mxTm66QsRgChITSPcGvkI"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159321,
+      "name": "Warszawska Noc",
+      "url": "https://open.spotify.com/track/2G0EZB4tebWcd3JsM6AKAL"
+    },
+    {
+      "album": {
         "name": "Warszawski Spleen",
         "url": "https://open.spotify.com/album/6ylXlkEsBessUzLyrKSZpl"
       },
@@ -28931,6 +29169,24 @@
     },
     {
       "album": {
+        "name": "Wszystko co mam",
+        "url": "https://open.spotify.com/album/7oQ0a8u9tbo0b5JDun1JpE"
+      },
+      "artists": [
+        {
+          "name": "Powaby",
+          "url": "https://open.spotify.com/artist/251hX9AIf9vHOcswUOvA1j"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134766,
+      "name": "Wszystko co mam",
+      "url": "https://open.spotify.com/track/12uV7IHCVQndOM5MIpLCZN"
+    },
+    {
+      "album": {
         "name": "WSZYSTKO DOBRZE",
         "url": "https://open.spotify.com/album/7jhWLNJPLGw6pfbLtRq5ji"
       },
@@ -29778,7 +30034,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 213461,
       "name": "Zabierz Mnie",
       "url": "https://open.spotify.com/track/2tS0IdTi9J9vu3tfcOOVTZ"
@@ -30796,6 +31052,24 @@
       "duration_ms": 148732,
       "name": "Z\u0142oty T\u0142ok",
       "url": "https://open.spotify.com/track/4VNkkwFmYWLOPl5qlKmZ62"
+    },
+    {
+      "album": {
+        "name": "Z\u0142y",
+        "url": "https://open.spotify.com/album/47eEAhiW2LK1hgh6nZDSEK"
+      },
+      "artists": [
+        {
+          "name": "Toria",
+          "url": "https://open.spotify.com/artist/7en3fAhUJ8j0cl7ylW8rl6"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "Z\u0142y",
+      "url": "https://open.spotify.com/track/068thKNiZ2pLRgOAh5xs4t"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Perreo after hours.
 
-334 songs - 17 hr 43 min
+336 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Dile](https://open.spotify.com/track/72YHgP5Zueyh9ilIjkaEaB) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Dile/Intocable](https://open.spotify.com/album/4kcgkJgiTg9eUIhX2ZRuJo) | 3:25 | 2022-04-25 | 2022-07-29 |
 | [Dile](https://open.spotify.com/track/2H76zGXt2hHBeWWzbcgH1i) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Perreo On Fire](https://open.spotify.com/album/0tIE049CaXlx8hsUS0cKeM) | 3:26 | 2022-11-02 | 2022-11-13 |
 | [DON & TEGO](https://open.spotify.com/track/6wTX1zUPc2qdQnDZnVhuoV) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:04 | 2023-04-03 | 2023-05-26 |
-| [Donde?](https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [6.5](https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2) | 2:42 | 2023-05-25 |  |
+| [Donde?](https://open.spotify.com/track/2ZV9wvj6gu8C0oB16aD0vR) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [6.5](https://open.spotify.com/album/5QFR1S8bcR3YA68BC5tTUO) | 2:42 | 2023-09-08 |  |
+| [Donde?](https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [6.5](https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2) | 2:42 | 2023-05-25 | 2023-11-08 |
 | [Déjame](https://open.spotify.com/track/5F4Luyx9KX70MJqJHrG8jC) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:16 | 2023-05-25 |  |
 | [El Doggy \(feat\. Ovi & Randy\) \- Perreo](https://open.spotify.com/track/2HpFUVAWXnE9PbMTXaxtIT) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Randy](https://open.spotify.com/artist/6J4e8oWHITp1msfeyZg66B) | [El Doggy \(feat\. Ovi & Randy\) \[Perreo\]](https://open.spotify.com/album/2S5Py3y97OSaYRs8Fzldv9) | 3:00 | 2022-07-08 | 2023-02-25 |
 | [El Efecto](https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [El Efecto](https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r) | 3:37 | 2022-07-08 | 2023-05-26 |
@@ -311,7 +312,8 @@
 | [Tra Tra](https://open.spotify.com/track/46YrvybgPpjBL13f0uc8Oc) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Tra Tra](https://open.spotify.com/album/5KJG1LyqoEmWyidFAm5JYt) | 2:55 | 2022-09-16 | 2022-10-15 |
 | [Tra Tra Tra](https://open.spotify.com/track/3MnQStkhHNhKuOy5Uk8mHv) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [Tra Tra Tra](https://open.spotify.com/album/6lxv43EDhtc3OKxDXGuRws) | 3:07 | 2022-03-21 | 2022-07-09 |
 | [Trakatá](https://open.spotify.com/track/5fghgRsc8a3pSDXtjQ238F) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Trakatá](https://open.spotify.com/album/4v2y8esBwi06vh3jydfUA4) | 2:58 | 2022-03-21 | 2022-07-09 |
-| [Traketo](https://open.spotify.com/track/7oF41tECrpN5kAoHzJhrhA) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [6.5](https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2) | 2:57 | 2023-05-25 |  |
+| [Traketo](https://open.spotify.com/track/2E3jJO0LB4PRvqbsOVwxW4) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [6.5](https://open.spotify.com/album/5QFR1S8bcR3YA68BC5tTUO) | 2:57 | 2023-09-08 |  |
+| [Traketo](https://open.spotify.com/track/7oF41tECrpN5kAoHzJhrhA) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [6.5](https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2) | 2:57 | 2023-05-25 | 2023-11-08 |
 | [Tremendo Culón](https://open.spotify.com/track/1AW667mty3vPYS8niQFCYo) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Tremendo Culón](https://open.spotify.com/album/6tbSlpWCnjq57F93UsBKFP) | 2:17 | 2022-07-08 | 2023-05-26 |
 | [Tremendo Mujerón](https://open.spotify.com/track/25ZKFzKdib5i6dIaHvfjF8) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [Piligrossa](https://open.spotify.com/album/1eNFJZzILXXDuYzNI12w1x) | 2:52 | 2023-05-25 | 2023-06-06 |
 | [Tu Gato Bellaco \- Remix](https://open.spotify.com/track/6eB74UiUNkI7JJBhhr3Y6C) | [Milo Mae](https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Tu Gato Bellaco \(Remix\)](https://open.spotify.com/album/6JNQ7Gic3xnJI40wG6keLy) | 3:02 | 2023-01-27 | 2023-05-26 |

@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Sofía Reyes
 
-5,528 songs - 12 day 2 hr 57 min
+5,529 songs - 12 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Babel](https://open.spotify.com/track/20G5CFb10eulCPFSLTIpt8) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Babel](https://open.spotify.com/album/07i1aBWmIFnWK5yRQDu3Gk) | 4:18 | 2022-05-06 | 2022-05-14 |
 | [Baby](https://open.spotify.com/track/5iDNf2uMgRzmQpcmGAzOUk) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Baby](https://open.spotify.com/album/2IHFaeOioSGMuyxjWMXdQ9) | 3:52 | 2023-07-14 | 2023-07-21 |
 | [Baby](https://open.spotify.com/track/4USbB5ERRyw0md2C1KZdvg) | [Beyvi](https://open.spotify.com/artist/0qYK3HCQu7AxvQq8IqcALK), [Dime Ecua](https://open.spotify.com/artist/0hDiY6kqZJ4SuVHC6yLkdp) | [Baby](https://open.spotify.com/album/4XYPP066jyOA910BfnQfG3) | 2:53 | 2022-12-23 | 2023-01-06 |
+| [Baby](https://open.spotify.com/track/4oRTRl2xAr6QbljHRmop5k) | [ELYSANIJ](https://open.spotify.com/artist/6xLvSuN3p2uD8IorXxYmHg) | [Baby](https://open.spotify.com/album/6xexN6qWjy230OzxgwMRix) | 2:34 | 2023-11-07 |  |
 | [Baby](https://open.spotify.com/track/5GUlv9Q81CI6sfJO72X6s6) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Baby](https://open.spotify.com/album/54GCkhFCqit1AGzbcn7dEU) | 2:45 | 2022-06-24 | 2022-07-02 |
 | [Baby \(with Lunay\)](https://open.spotify.com/track/6M7gWN4WyOVJxvGDHaMV7E) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Baby \(with Lunay\)](https://open.spotify.com/album/1PXkLwDz944cu3Orl7aQsE) | 2:56 | 2023-08-18 | 2023-08-26 |
 | [Baby Beach](https://open.spotify.com/track/1UKUINOeO4YTd3tAIzOOnl) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [Baby Beach](https://open.spotify.com/album/0fy9mge9nUO1fAQKMzeLqU) | 3:10 | 2022-02-04 | 2022-02-12 |
@@ -5028,7 +5029,7 @@
 | [TROFEOS](https://open.spotify.com/track/0hMOoIuy8Rzk1sgC1PtZd4) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Bony Fly](https://open.spotify.com/artist/4txxnm9n7BbkE5Srh1hvhb), [Raka Rich](https://open.spotify.com/artist/1fG9KDXYSu1BHq76gjINpD) | [TROFEOS](https://open.spotify.com/album/7fxj7Kf9oHXw8IJQmPHjB8) | 3:02 | 2023-03-24 | 2023-04-01 |
 | [Trompeta](https://open.spotify.com/track/1xyz2xqqpnhT3k1ApFPu6S) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Trompeta](https://open.spotify.com/album/2CouSn57DmTvVmvNvYaApP) | 2:48 | 2022-02-18 | 2022-02-26 |
 | [Tronando Ligas](https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Tronando Ligas](https://open.spotify.com/album/7idHMYzKwME3BmhHiusrJ3) | 2:35 | 2023-03-24 | 2023-04-01 |
-| [Trono](https://open.spotify.com/track/1uBz0mO47fYXXf3SlAYKjL) | [ELYSANIJ](https://open.spotify.com/artist/6xLvSuN3p2uD8IorXxYmHg) | [Trono](https://open.spotify.com/album/7r292e5RSHappxfFKXmjAv) | 3:29 | 2023-09-29 |  |
+| [Trono](https://open.spotify.com/track/1uBz0mO47fYXXf3SlAYKjL) | [ELYSANIJ](https://open.spotify.com/artist/6xLvSuN3p2uD8IorXxYmHg) | [Trono](https://open.spotify.com/album/7r292e5RSHappxfFKXmjAv) | 3:29 | 2023-09-29 | 2023-11-08 |
 | [Tropicana \(La Noche\)](https://open.spotify.com/track/23dwwFPSWj3sH6IDAgeMh7) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Cucu Diamantes](https://open.spotify.com/artist/22GbdVx7qK79foK0sRWxTz) | [Tropicana \(La Noche\)](https://open.spotify.com/album/2NGYvRg59cNCPL8JfYZ1wX) | 3:20 | 2023-01-20 | 2023-01-28 |
 | [TROYA](https://open.spotify.com/track/1CEdDExqYCaf9UB3nwsBZs) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [TROYA](https://open.spotify.com/album/6lwxRxjLpoyE1BFnWumftN) | 2:43 | 2023-09-22 | 2023-09-30 |
 | [Trucho \- Remix](https://open.spotify.com/track/6HbeSHW3K4NAC8OPwT50tD) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Trucho \(Remix\)](https://open.spotify.com/album/7yadR0itW55qYbgI7Y15tf) | 4:14 | 2022-06-10 | 2022-06-18 |

@@ -2017,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Uber Driver",
+        "url": "https://open.spotify.com/album/0lFkTDYIcsWwiqVPA9Xcip"
+      },
+      "artists": [
+        {
+          "name": "Sminofu",
+          "url": "https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296751,
+      "name": "NGITHANDANA NE OWNER",
+      "url": "https://open.spotify.com/track/5twLen4btRsNxaiUVDfxiC"
+    },
+    {
+      "album": {
         "name": "Ngiyashisa Bhe!!",
         "url": "https://open.spotify.com/album/2XndIgHBdfGrQbU8qdBsdT"
       },
@@ -2424,7 +2442,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 379167,
       "name": "Sigubha umtswarelo",
       "url": "https://open.spotify.com/track/0ISd317cewsI9VNU1GIaAv"

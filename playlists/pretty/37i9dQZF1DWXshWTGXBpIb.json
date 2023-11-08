@@ -1,13 +1,29 @@
 {
   "description": "Featuring Daddy Yankee, Ozuna, Zion & Lennox  & more. Find this week's Fuego mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb\">here</a>.",
-  "num_followers": 2217,
+  "num_followers": 2232,
   "original_name": "Fuego #057",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWM2N2U3ZmZkOWIwZDFlNzY3YzYwNDQyYzgwM2I3MDNmMmM4ZDUz",
+  "snapshot_id": "MCxlZWNlZTY2ODMxNzNiYzBiYzcwYWRlODZkYmEzNzhmNWVlY2FjZjhj",
   "tracks": [
+    {
+      "added_at": "2023-06-29 17:26:55",
+      "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 210933,
+      "name": "Lo Que Pas\u00f3, Pas\u00f3",
+      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
+    },
     {
       "added_at": "2023-06-29 17:26:55",
       "album": {

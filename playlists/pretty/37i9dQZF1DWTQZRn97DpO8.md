@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : LYNN
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,700 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,171 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Corps Accord](https://open.spotify.com/track/76Fx5ruanK52uVQVTYtVlM) | [Lamarre](https://open.spotify.com/artist/6IX0WXkIrQX6mLHzCDf5oB) | [Corps Accord](https://open.spotify.com/album/0u75F1YavDI1EmhTtbD4OC) | 3:20 |
 | 50 | [Rouge](https://open.spotify.com/track/0MGa47R4L0OFTUd0H2AOBU) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [Rouge](https://open.spotify.com/album/5CEexTwatSOWIHJdarjQiR) | 2:34 |
 
-Snapshot ID: `MCw0Nzk3MmE2OWIyNGZkNTA1NDU4ODU3ODZmMWU3MWUxNzQwYzcxNjhm`
+Snapshot ID: `MCwwYzY2MjczMTIxZDhlN2I5MzFmYTlkNDFjZTQ5Y2M3ZjcwNDliYmU1`

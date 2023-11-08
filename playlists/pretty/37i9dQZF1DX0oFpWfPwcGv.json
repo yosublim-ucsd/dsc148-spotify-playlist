@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 54792,
+  "num_followers": 54878,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjc2MTFkODZmODIwZjAyY2VmM2M3OGRlNzJhZGRhMWY3NjVjNjdl",
+  "snapshot_id": "MCw3NDkzNmYyN2Y4MTVhMGJkYjc2NjMxNTViOTdmZWJjMGQ0ZDc1MjA4",
   "tracks": [
     {
       "added_at": "2023-09-18 17:33:17",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
+        "name": "Delusions (Bonus Version)",
+        "url": "https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj"
+      },
+      "artists": [
+        {
+          "name": "First Choice",
+          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
+        }
+      ],
+      "duration_ms": 481506,
+      "name": "Let No Man Put Asunder (Shep Pettibone 12\" Mix)",
+      "url": "https://open.spotify.com/track/2wlCVIwRXV5i36yUpcoFiw"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
         "name": "Reddy",
         "url": "https://open.spotify.com/album/7fX7vwOqp6YRQ3ZQcJR3xI"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 388920,
       "name": "Changin'",
       "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
-        "name": "Delusions (Bonus Version)",
-        "url": "https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj"
-      },
-      "artists": [
-        {
-          "name": "First Choice",
-          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
-        }
-      ],
-      "duration_ms": 481506,
-      "name": "Let No Man Put Asunder (Shep Pettibone 12\" Mix)",
-      "url": "https://open.spotify.com/track/2wlCVIwRXV5i36yUpcoFiw"
     },
     {
       "added_at": "2023-09-18 17:33:17",

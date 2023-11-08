@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMTYzNDAsMDAwMDAwMDBkNmEyNjAyYjg2MjQ2MGY4ODhlYWRjMzMxZjEwOGYyZA==",
+  "snapshot_id": "MjgzMTYzNDAsMDAwMDAwMDA1ODI0ZmU3ODZmMDdjOWNiYTRjMDRlZTgwZmM2N2M4OA==",
   "tracks": [
     {
       "added_at": "2023-11-03 03:00:00",
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 169644,
-      "name": "I Won't Back Down (Live in St Paul, 9/2/2023)",
-      "url": "https://open.spotify.com/track/5GBrB2R1sXEvCwhtrogzt3"
+      "duration_ms": 308258,
+      "name": "Release (Live in Chicago 9/5/2023)",
+      "url": "https://open.spotify.com/track/43VK7Okrq79cxXGuxvAIh3"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
-        "name": "And Still (Dark-Side Mix)",
-        "url": "https://open.spotify.com/album/5XSIbEUilFYGEbs27pDcjV"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 461243,
-      "name": "And Still - Dark-Side Mix",
-      "url": "https://open.spotify.com/track/0e2NW54lXBsVbolTn8MKZ0"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
         "name": "Live 1978 - 1992",
         "url": "https://open.spotify.com/album/14EWYgtvXZSz0pzvpUCsbL"
       },
@@ -171,18 +155,18 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
-        "name": "Catch A Fire (50th Anniversary)",
-        "url": "https://open.spotify.com/album/5fys4mnxoURHl9ThAEPoKU"
+        "name": "And Still (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/5XSIbEUilFYGEbs27pDcjV"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
         }
       ],
-      "duration_ms": 230506,
-      "name": "Stir It Up - Jamaican Extra Organ Version",
-      "url": "https://open.spotify.com/track/3J9JUxKFWfck2gA1IDn4Bh"
+      "duration_ms": 461243,
+      "name": "And Still - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/0e2NW54lXBsVbolTn8MKZ0"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -203,6 +187,22 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
+        "name": "Catch A Fire (50th Anniversary)",
+        "url": "https://open.spotify.com/album/5fys4mnxoURHl9ThAEPoKU"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Stir It Up - Jamaican Extra Organ Version",
+      "url": "https://open.spotify.com/track/3J9JUxKFWfck2gA1IDn4Bh"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
         "name": "Endlos",
         "url": "https://open.spotify.com/album/4jW8H7KBRZuRalIQ43bQKy"
       },
@@ -215,26 +215,6 @@
       "duration_ms": 332030,
       "name": "Hologramas",
       "url": "https://open.spotify.com/track/7fz3vtDl7DGXa5HLQTGXR1"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Children's Album, Op. 39, TH 141 - No. 21, Sweet Dreams",
-        "url": "https://open.spotify.com/album/2xPl9ZLcerc2gsaMdKT66r"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Samuel Bach",
-          "url": "https://open.spotify.com/artist/2XyNgb8Ze8izFqLFHgKe9b"
-        }
-      ],
-      "duration_ms": 138019,
-      "name": "Children's Album, Op. 39, TH 141 - No. 21, Sweet Dreams",
-      "url": "https://open.spotify.com/track/5CTuD5wnztFMArNVs0CxcV"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -259,6 +239,26 @@
       "duration_ms": 339693,
       "name": "Dov'\u00e8 l'amore - Emilio Estefan Jr. Extended Mix; 2023 Remaster",
       "url": "https://open.spotify.com/track/5lz0PgrxcI89hyW2TN5VD1"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
+        "name": "Children's Album, Op. 39, TH 141 - No. 21, Sweet Dreams",
+        "url": "https://open.spotify.com/album/2xPl9ZLcerc2gsaMdKT66r"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Samuel Bach",
+          "url": "https://open.spotify.com/artist/2XyNgb8Ze8izFqLFHgKe9b"
+        }
+      ],
+      "duration_ms": 138019,
+      "name": "Children's Album, Op. 39, TH 141 - No. 21, Sweet Dreams",
+      "url": "https://open.spotify.com/track/5CTuD5wnztFMArNVs0CxcV"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+        }
+      ],
+      "duration_ms": 199158,
+      "name": "Reloj de Viento",
+      "url": "https://open.spotify.com/track/0cGG17lAn1vhWje5CbVbQ0"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
         "name": "M\u00fasica Medicina",
         "url": "https://open.spotify.com/album/0nPqXBvJzhhaowJRXaArdD"
       },
@@ -347,18 +363,18 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb"
+        "name": "New Gold Dream - Live From Paisley Abbey",
+        "url": "https://open.spotify.com/album/10qu2t6AjSGBN0vXSZ86hU"
       },
       "artists": [
         {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
         }
       ],
-      "duration_ms": 245806,
-      "name": "Ni\u00f1a de Luna",
-      "url": "https://open.spotify.com/track/0ELPxmHPY3hV91LAwF4c7B"
+      "duration_ms": 255866,
+      "name": "Glittering Prize - Live From Paisley Abbey",
+      "url": "https://open.spotify.com/track/2yzyrPWGjrP5UNdbZPo3x9"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -375,22 +391,6 @@
       "duration_ms": 192813,
       "name": "Keep Going",
       "url": "https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "New Gold Dream - Live From Paisley Abbey",
-        "url": "https://open.spotify.com/album/10qu2t6AjSGBN0vXSZ86hU"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 255866,
-      "name": "Glittering Prize - Live From Paisley Abbey",
-      "url": "https://open.spotify.com/track/2yzyrPWGjrP5UNdbZPo3x9"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
-        "name": "I Want You (Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978)",
-        "url": "https://open.spotify.com/album/7abzPat9BsqJOZB5hn9TrT"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 151840,
-      "name": "I Want You - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
-      "url": "https://open.spotify.com/track/657ImOBEvaFXpGZn8Ck3LO"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
         "name": "The Retaliators Theme (21 Bullets) (feat. M\u00f6tley Cr\u00fce, Ice Nine Kills, Asking Alexandria, From Ashes To New) [Acoustic]",
         "url": "https://open.spotify.com/album/426F7edvwDBldhLL4UfVLg"
       },
@@ -575,6 +559,46 @@
       "duration_ms": 248083,
       "name": "The Retaliators Theme (21 Bullets) (feat. Ice Nine Kills, Asking Alexandria, From Ashes To New) - Acoustic",
       "url": "https://open.spotify.com/track/0nluh04rCNhjqVdPsQpjDq"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
+        "name": "I Want You (Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978)",
+        "url": "https://open.spotify.com/album/7abzPat9BsqJOZB5hn9TrT"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 151840,
+      "name": "I Want You - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
+      "url": "https://open.spotify.com/track/657ImOBEvaFXpGZn8Ck3LO"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
+        "name": "El Viaje Nunca Llega al Horizonte",
+        "url": "https://open.spotify.com/album/5jW99GeUF9H8mNoxaRZrWn"
+      },
+      "artists": [
+        {
+          "name": "Ed Neidhardt",
+          "url": "https://open.spotify.com/artist/3bNG06xa1cMet4wV0dg21h"
+        },
+        {
+          "name": "Bufalo Dit",
+          "url": "https://open.spotify.com/artist/7eC2HRtBhiXNWTAVdflUtK"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        }
+      ],
+      "duration_ms": 209250,
+      "name": "Tr\u00e1tate Bi\u00e9n",
+      "url": "https://open.spotify.com/track/0H9XzJ1wraMqsGheDlxsLH"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -627,30 +651,6 @@
       "duration_ms": 161449,
       "name": "Already Over (Live in Sydney) [feat. Stand Atlantic, Between You & Me, & Polaris]",
       "url": "https://open.spotify.com/track/6oCR6j4z7LVhPCxQ1hntnl"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "El Viaje Nunca Llega al Horizonte",
-        "url": "https://open.spotify.com/album/5jW99GeUF9H8mNoxaRZrWn"
-      },
-      "artists": [
-        {
-          "name": "Ed Neidhardt",
-          "url": "https://open.spotify.com/artist/3bNG06xa1cMet4wV0dg21h"
-        },
-        {
-          "name": "Bufalo Dit",
-          "url": "https://open.spotify.com/artist/7eC2HRtBhiXNWTAVdflUtK"
-        },
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        }
-      ],
-      "duration_ms": 209250,
-      "name": "Tr\u00e1tate Bi\u00e9n",
-      "url": "https://open.spotify.com/track/0H9XzJ1wraMqsGheDlxsLH"
     },
     {
       "added_at": "2023-11-03 03:00:00",

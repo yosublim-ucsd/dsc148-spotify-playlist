@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: JUGGER
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,631 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,644 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [Time Out](https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [PANIC](https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ) | 3:41 |
 | 49 | [My Man Freestyle](https://open.spotify.com/track/1G0wK7X9GhKZEQw491GYgH) | [Adonis](https://open.spotify.com/artist/4lH9Hfp5njYn6iDrOnNuWU) | [My Man Freestyle](https://open.spotify.com/album/7mbOe7hhECWqfxbHpwrtIP) | 3:48 |
 
-Snapshot ID: `MCxjMzViMDRiMTU5MjFmNWNmNGYwMTc1YjNhMGVlYjI4OWQ2ZGU0NGI3`
+Snapshot ID: `MCwzZDgzMThmYmZjNjJlMzcxYjBlOTI4NTk0OTBiOTViMDlmMzZjNGUw`

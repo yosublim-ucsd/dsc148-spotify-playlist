@@ -4,10 +4,11 @@
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-101 songs - 4 hr 59 min
+103 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["23freestyle"](https://open.spotify.com/track/5INsevpkX2eEBTe6Wsz8ZZ) | [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | ["23freestyle"](https://open.spotify.com/album/41lrer5TP42nzqlxLdju8a) | 2:08 | 2023-11-07 |  |
 | ["bounce back and forth"](https://open.spotify.com/track/2jbk3OPHsmUaipBXSZxasa) | [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7) | ["bounce back and forth"](https://open.spotify.com/album/6S1Kg9bZTWsKfMJGpvgxoE) | 2:21 | 2023-10-24 |  |
 | [777](https://open.spotify.com/track/6DJ0s5bEUNmJBh7eWmjXcp) | [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [777](https://open.spotify.com/album/1U58aSWBRUT090ypxNX1nH) | 1:41 | 2023-10-24 |  |
 | [9's SOUL](https://open.spotify.com/track/4DTk4QENo1c0RtebuhHFPi) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [9's SOUL](https://open.spotify.com/album/1ZIlT9iY0JoCIm02obryyh) | 2:14 | 2023-10-24 |  |
@@ -58,6 +59,7 @@
 | [Key](https://open.spotify.com/track/4kTyBRvPePNfzgvKtSshsn) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Key](https://open.spotify.com/album/2JT2qK2CGgfVfSy47YOIVA) | 1:55 | 2023-10-24 |  |
 | [Legacy](https://open.spotify.com/track/2Elr96P9cEKu1Rw9AHFJzT) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA) | [Legacy](https://open.spotify.com/album/1GjN9hdYlJaz6kXC75px8F) | 2:47 | 2023-10-24 |  |
 | [Legacy 2](https://open.spotify.com/track/23vNzL3iCyVelYeW0sg5dW) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [F4MILY](https://open.spotify.com/album/4jjKrBZLorZUgnxVc4qWvs) | 2:59 | 2023-10-24 |  |
+| [Leon S\. Kennedy](https://open.spotify.com/track/4NriW0BNFdc1FVvNOGxeuQ) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [Leon S\. Kennedy](https://open.spotify.com/album/7bjrDn5KiMEdTrWtHHYMLu) | 2:53 | 2023-11-07 |  |
 | [Life Is Good](https://open.spotify.com/track/6V03902cV0NrwHJvILf4ZZ) | [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO) | [IRNET](https://open.spotify.com/album/059NPtVmbNFLWpCISRhdPE) | 3:40 | 2023-10-24 |  |
 | [Loco](https://open.spotify.com/track/3cLmQ0RPh72AW6p18usijv) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [Loco](https://open.spotify.com/album/7uiVRra4nqJKnDNkw3dPrh) | 3:00 | 2023-10-24 |  |
 | [Loser](https://open.spotify.com/track/3x0LHL5mATNrin2nSbTNYv) | [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ) | [Loser](https://open.spotify.com/album/2obBWWiPMFc9l6N2hL1mQ1) | 2:00 | 2023-10-24 |  |

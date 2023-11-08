@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 284335,
+  "num_followers": 284498,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTI2ZDA0MWU5MzM1ZGJjNWE1M2I2NTg5MDMzMzI4NDNjNjc2ZTRi",
+  "snapshot_id": "MCxkM2YwMzBjZDNhZGFjM2MzZDlmYmFjYTYxMmY2OTA2N2ZjZDc2NjNj",
   "tracks": [
     {
       "added_at": "2023-10-20 03:01:00",
@@ -919,6 +919,26 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Terra do Sol",
+        "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
+      },
+      "artists": [
+        {
+          "name": "Calm\u00f4",
+          "url": "https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy"
+        },
+        {
+          "name": "Tupi Machine",
+          "url": "https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "Terra do Sol",
+      "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "O Que te Faz Viver",
         "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 192446,
       "name": "sei l\u00e1",
       "url": "https://open.spotify.com/track/1qZnStNVnb35sjENUA4G3B"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Terra do Sol",
-        "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
-      },
-      "artists": [
-        {
-          "name": "Calm\u00f4",
-          "url": "https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy"
-        },
-        {
-          "name": "Tupi Machine",
-          "url": "https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "Terra do Sol",
-      "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
     },
     {
       "added_at": "2023-10-20 03:01:00",

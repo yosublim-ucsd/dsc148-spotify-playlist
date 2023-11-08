@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 6510,
+  "num_followers": 6512,
   "original_name": "Date Night At Home",
   "owner": {
     "name": "Dave Barnes",
     "url": "https://open.spotify.com/user/thedavebarnes"
   },
-  "snapshot_id": "MjY5LDUwM2RhYzdjMGQ5NGY3NGM3MjdiNDE0ZDFlZjAyYjg5MDg5M2ExYWU=",
+  "snapshot_id": "Mjc0LDg0YmI4YzJkYzIwMTA1MmJkN2ZhNjJlMzAxNmY5MzE0YzcxNmM1ZDI=",
   "tracks": [
     {
       "added_at": "2020-05-12 20:35:03",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/52FKX00U3PnzrBQmbMTB8b"
     },
     {
+      "added_at": "2023-11-07 14:07:29",
+      "album": {
+        "name": "Featherbrained Wealth Motel",
+        "url": "https://open.spotify.com/album/3TJQWtOjyGVJ7UPXZIq7Uo"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "duration_ms": 203592,
+      "name": "Yearslong",
+      "url": "https://open.spotify.com/track/71uW8vimjz7N9045bcoyC8"
+    },
+    {
       "added_at": "2020-05-12 20:37:53",
       "album": {
         "name": "take me on",
@@ -57,10 +73,10 @@
       "url": "https://open.spotify.com/track/70hvCk6sUutFjKA1Y4W1mc"
     },
     {
-      "added_at": "2021-09-14 15:56:15",
+      "added_at": "2023-11-07 14:07:46",
       "album": {
-        "name": "Notes from Paris",
-        "url": "https://open.spotify.com/album/2ESaulPvwyTuw8IRjty9cE"
+        "name": "Featherbrained Wealth Motel",
+        "url": "https://open.spotify.com/album/3TJQWtOjyGVJ7UPXZIq7Uo"
       },
       "artists": [
         {
@@ -68,9 +84,9 @@
           "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
         }
       ],
-      "duration_ms": 252933,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/7hUb6tTIYqKpIEGoNd5fN6"
+      "duration_ms": 138948,
+      "name": "I Don't Like Sleeping Without You",
+      "url": "https://open.spotify.com/track/19GG2n6ATXDTqUfoMpwfUl"
     },
     {
       "added_at": "2020-05-12 20:38:47",
@@ -239,6 +255,22 @@
       "duration_ms": 204520,
       "name": "What Are We Waiting For (feat. Nicolette Robinson)",
       "url": "https://open.spotify.com/track/7eaOsEltlTILXKjKi0HCY8"
+    },
+    {
+      "added_at": "2021-09-14 15:56:15",
+      "album": {
+        "name": "Notes from Paris",
+        "url": "https://open.spotify.com/album/2ESaulPvwyTuw8IRjty9cE"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "duration_ms": 252933,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/7hUb6tTIYqKpIEGoNd5fN6"
     },
     {
       "added_at": "2021-05-13 16:49:51",

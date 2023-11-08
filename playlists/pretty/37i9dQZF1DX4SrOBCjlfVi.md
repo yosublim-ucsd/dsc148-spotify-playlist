@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Megan The Stallion, Jeezy and more\. Cover: NAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,170 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,237 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [its Lil 30](https://open.spotify.com/track/0LgRFRWXSe2VHRinn1kZ5o) | [D30](https://open.spotify.com/artist/1upBc1lccb3lLZhTfgDE40) | [its Lil 30](https://open.spotify.com/album/7uJDkbw62nDTPOVELWCab1) | 2:33 |
 | 50 | [sins \(let me in\) \- Remix](https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [sins \(let me in\) \[Remix\]](https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA) | 2:44 |
 
-Snapshot ID: `MCxmZDY1MDdjOThiNDE3OTJjYzBlYjk4YWFmMDA3M2NlMDBjOTcxZGIw`
+Snapshot ID: `MCwwMWE2YjRlYTIzZTkwNjRmODAzMDQ4ZGNjMDliOTUyNTc3YjVmYmE5`

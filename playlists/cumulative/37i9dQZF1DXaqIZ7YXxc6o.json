@@ -16639,32 +16639,6 @@
     },
     {
       "album": {
-        "name": "Let's Go (VisionV Remix)",
-        "url": "https://open.spotify.com/album/6t5iHYyCKEUlz9CqdpossF"
-      },
-      "artists": [
-        {
-          "name": "Prok & Fitch",
-          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
-        },
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        },
-        {
-          "name": "FLY BOY JACK",
-          "url": "https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ"
-        }
-      ],
-      "date_added": "2023-11-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149211,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/0104sIQMZgxXypN1oYEA0e"
-    },
-    {
-      "album": {
         "name": "LET'S GO",
         "url": "https://open.spotify.com/album/22ucq2C8fUF9VHN3dcVvan"
       },
@@ -16706,6 +16680,32 @@
       "duration_ms": 169769,
       "name": "Let's Go - Radio Edit",
       "url": "https://open.spotify.com/track/5U2xGiZd2Czaf2IyDrTV9y"
+    },
+    {
+      "album": {
+        "name": "Let's Go (VisionV Remix)",
+        "url": "https://open.spotify.com/album/6t5iHYyCKEUlz9CqdpossF"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        },
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        },
+        {
+          "name": "FLY BOY JACK",
+          "url": "https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149211,
+      "name": "Let's Go - VisionV Remix",
+      "url": "https://open.spotify.com/track/0104sIQMZgxXypN1oYEA0e"
     },
     {
       "album": {

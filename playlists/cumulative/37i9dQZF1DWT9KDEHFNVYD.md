@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-340 songs - 1 day 7 hr 30 min
+341 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Super Inuit \(Studio\)](https://open.spotify.com/track/1xeYbKA8tshHvtbEAZVskj) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11) | [Lovely Allen](https://open.spotify.com/album/70GJhjsFTh47FvAGJw5DXb) | 3:44 | 2021-07-30 | 2022-11-13 |
 | [Super\-Electric](https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Switched On](https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS) | 5:22 | 2021-07-30 |  |
 | [Surfing The Warm Industry](https://open.spotify.com/track/10JEpI1y7PMD9r3ZxF6CFZ) | [Kashmir](https://open.spotify.com/artist/6Jsq0AbwEKcmDuyA4ca9wu) | [Zitilites](https://open.spotify.com/album/6SRo0LgsrC4MV3nONDtr4c) | 4:26 | 2021-07-30 |  |
+| [Synapse](https://open.spotify.com/track/7vwIzkbkgex07UkXbTr5L2) | [AUTORHYTHM](https://open.spotify.com/artist/0BWEJ23wABuFbWXCdA0j5k) | [Synapse / Oxytocin](https://open.spotify.com/album/4B0I8VrDXo4wj2HfCZBvUD) | 2:04 | 2023-11-08 |  |
 | [Synchron](https://open.spotify.com/track/3io1rzJhFB9rfWBV0v2txa) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Remember I Was Carbon Dioxide](https://open.spotify.com/album/3qhe1rCL3GcwCebco99KWX) | 4:24 | 2021-07-30 | 2023-01-26 |
 | [Take It or Leave It](https://open.spotify.com/track/3LOIshI7mOuWUHsjeFqbd5) | [Turtle Skull](https://open.spotify.com/artist/128UKyvBiHlCxTKzkwmcK8) | [Turtle Skull](https://open.spotify.com/album/2kbtjfE3P9Kf4tJS9kLxIL) | 8:26 | 2021-07-30 | 2023-01-26 |
 | [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 | 2023-02-17 | 2023-03-18 |
@@ -338,7 +339,7 @@
 | [When \[Original by Vincent Gallo\]](https://open.spotify.com/track/34pHPFko6ozvZc9pTmhxk8) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Warp20 \(Recreated\)](https://open.spotify.com/album/7qL8Nysleo7WsXsSaTh1Pf) | 3:33 | 2021-07-30 | 2023-01-26 |
 | [Wow And Flutter](https://open.spotify.com/track/7I8lsynj5wHO1p2DxccDrX) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Mars Audiac Quintet](https://open.spotify.com/album/3p7TBwwN0OGa9UxpcbdeY4) | 3:08 | 2021-07-30 |  |
 | [Wow And Flutter](https://open.spotify.com/track/2IGX5DCaaPbfJ4ZsIJbsNU) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Mars Audiac Quintet \(Expanded Edition\)](https://open.spotify.com/album/4jqRIRi6aTObueLwb2DaVp) | 3:10 | 2021-07-30 | 2023-02-12 |
-| [Yatton](https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>](https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7) | 5:19 | 2021-07-30 |  |
+| [Yatton](https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>](https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7) | 5:19 | 2021-07-30 | 2023-11-08 |
 | [Yatton](https://open.spotify.com/track/4hJ2xsk7ZxwzXnE6xG7HNc) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>](https://open.spotify.com/album/19YlMqnryuKS17RYZ23jvm) | 5:19 | 2021-07-30 | 2022-07-29 |
 | [Yaya](https://open.spotify.com/track/6cy5LOfwc1QpePCqc57hd0) | [Sam Wave](https://open.spotify.com/artist/3k1f8dYJ88kt4aTPMb2hLj) | [Yaya](https://open.spotify.com/album/17M7xCoG5snzUFfZwltiXH) | 4:11 | 2021-07-30 | 2023-01-26 |
 | [You Look Certain \(I’m Not So Sure\)](https://open.spotify.com/track/4ZW7w36xfKuH5KndE37s5C) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Andrea Balency](https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 3:22 | 2021-07-30 |  |

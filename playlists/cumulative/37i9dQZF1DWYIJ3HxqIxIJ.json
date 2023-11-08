@@ -4088,10 +4088,28 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 127400,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/2btftog5enfQLHGvpqNd4N"
+    },
+    {
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/5deglqPUxXOmdQjSFeMpMQ"
+      },
+      "artists": [
+        {
+          "name": "Aidan Fine",
+          "url": "https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127400,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/2rkM3PwHVDsuDDyYiv3KVM"
     },
     {
       "album": {

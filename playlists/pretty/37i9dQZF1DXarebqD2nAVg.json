@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 442383,
+  "num_followers": 442584,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "[oops]",
-        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        }
-      ],
-      "duration_ms": 142182,
-      "name": "[oops]",
-      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
         "name": "Love Wounds",
         "url": "https://open.spotify.com/album/1h6VRZSqs4FANrEbUCraZc"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "Harbor",
-        "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
+        "name": "[oops]",
+        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
       },
       "artists": [
         {
-          "name": "Tomppabeats",
-          "url": "https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4"
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
         }
       ],
-      "duration_ms": 91504,
-      "name": "Monday Loop",
-      "url": "https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ"
+      "duration_ms": 142182,
+      "name": "[oops]",
+      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -279,6 +263,22 @@
       "duration_ms": 160000,
       "name": "frost",
       "url": "https://open.spotify.com/track/4bmuGIHRJYMjL02yXZeoCd"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
+        "name": "Harbor",
+        "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
+      },
+      "artists": [
+        {
+          "name": "Tomppabeats",
+          "url": "https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4"
+        }
+      ],
+      "duration_ms": 91504,
+      "name": "Monday Loop",
+      "url": "https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "Penthouse",
-        "url": "https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2"
+        "name": "falling down",
+        "url": "https://open.spotify.com/album/1ophVAxCyBO9AQ5Mvh2ALP"
       },
       "artists": [
         {
-          "name": "Wun Two",
-          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+          "name": "LoofiMixKichi",
+          "url": "https://open.spotify.com/artist/0L7TeDYhHDrrrZp2Mbzq6V"
         }
       ],
-      "duration_ms": 143132,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU"
+      "duration_ms": 96000,
+      "name": "falling down",
+      "url": "https://open.spotify.com/track/6gN6kwb5xLVfup7d2A33aS"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "falling down",
-        "url": "https://open.spotify.com/album/1ophVAxCyBO9AQ5Mvh2ALP"
+        "name": "Penthouse",
+        "url": "https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2"
       },
       "artists": [
         {
-          "name": "LoofiMixKichi",
-          "url": "https://open.spotify.com/artist/0L7TeDYhHDrrrZp2Mbzq6V"
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
         }
       ],
-      "duration_ms": 96000,
-      "name": "falling down",
-      "url": "https://open.spotify.com/track/6gN6kwb5xLVfup7d2A33aS"
+      "duration_ms": 143132,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
+        "name": "Dreemin'",
+        "url": "https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0"
+      },
+      "artists": [
+        {
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+        }
+      ],
+      "duration_ms": 131641,
+      "name": "Dreemin'",
+      "url": "https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
         "name": "D97",
         "url": "https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 230000,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
-        "name": "Dreemin'",
-        "url": "https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0"
-      },
-      "artists": [
-        {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
-        }
-      ],
-      "duration_ms": 131641,
-      "name": "Dreemin'",
-      "url": "https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -535,22 +535,6 @@
       "duration_ms": 123500,
       "name": "typewriter",
       "url": "https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
-        "name": "I Love You, That's the Problem",
-        "url": "https://open.spotify.com/album/26C68ZCAfMugnKcTp3Kf9u"
-      },
-      "artists": [
-        {
-          "name": "Kochetkovv",
-          "url": "https://open.spotify.com/artist/7BPQzcw927WoBtakErDh6d"
-        }
-      ],
-      "duration_ms": 142792,
-      "name": "I Love You, That's the Problem",
-      "url": "https://open.spotify.com/track/1tfAVU1HIrtlr79isORUW6"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -599,6 +583,22 @@
       "duration_ms": 113357,
       "name": "Memories & Notes",
       "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
+        "name": "I Love You, That's the Problem",
+        "url": "https://open.spotify.com/album/26C68ZCAfMugnKcTp3Kf9u"
+      },
+      "artists": [
+        {
+          "name": "Kochetkovv",
+          "url": "https://open.spotify.com/artist/7BPQzcw927WoBtakErDh6d"
+        }
+      ],
+      "duration_ms": 142792,
+      "name": "I Love You, That's the Problem",
+      "url": "https://open.spotify.com/track/1tfAVU1HIrtlr79isORUW6"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "Growing Up, Vol. 1",
-        "url": "https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD"
-      },
-      "artists": [
-        {
-          "name": "A L E X",
-          "url": "https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ"
-        }
-      ],
-      "duration_ms": 96026,
-      "name": "The Burn Marks on My Epiano Wont Go Away",
-      "url": "https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
         "name": "reflections in water",
         "url": "https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "In My Eyes",
-        "url": "https://open.spotify.com/album/0AN836ptcBD1Ob3fGqx7Di"
+        "name": "Growing Up, Vol. 1",
+        "url": "https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD"
       },
       "artists": [
         {
-          "name": "Beow\u00fclf",
-          "url": "https://open.spotify.com/artist/4owATw6JCMuUxeWdh3eiyg"
+          "name": "A L E X",
+          "url": "https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ"
         }
       ],
-      "duration_ms": 101198,
-      "name": "In My Eyes",
-      "url": "https://open.spotify.com/track/20uZlOriIFYJt21nCwyAah"
+      "duration_ms": 96026,
+      "name": "The Burn Marks on My Epiano Wont Go Away",
+      "url": "https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -763,6 +747,22 @@
       "duration_ms": 134030,
       "name": "Fonnes",
       "url": "https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
+        "name": "In My Eyes",
+        "url": "https://open.spotify.com/album/0AN836ptcBD1Ob3fGqx7Di"
+      },
+      "artists": [
+        {
+          "name": "Beow\u00fclf",
+          "url": "https://open.spotify.com/artist/4owATw6JCMuUxeWdh3eiyg"
+        }
+      ],
+      "duration_ms": 101198,
+      "name": "In My Eyes",
+      "url": "https://open.spotify.com/track/20uZlOriIFYJt21nCwyAah"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "No Awake Zone",
-        "url": "https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3"
-      },
-      "artists": [
-        {
-          "name": "Pat Laine",
-          "url": "https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g"
-        }
-      ],
-      "duration_ms": 138370,
-      "name": "No Awake Zone",
-      "url": "https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
         "name": "cabin in the woods",
         "url": "https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 122740,
       "name": "cabin in the woods",
       "url": "https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
+        "name": "No Awake Zone",
+        "url": "https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3"
+      },
+      "artists": [
+        {
+          "name": "Pat Laine",
+          "url": "https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g"
+        }
+      ],
+      "duration_ms": 138370,
+      "name": "No Awake Zone",
+      "url": "https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "With Somebody Else",
-        "url": "https://open.spotify.com/album/6vj6WrPqUx9sj5oPND8tb6"
-      },
-      "artists": [
-        {
-          "name": "Monty Datta",
-          "url": "https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S"
-        },
-        {
-          "name": "Dhan",
-          "url": "https://open.spotify.com/artist/4lQmhdlVTRQa2Frwp4V5Mi"
-        }
-      ],
-      "duration_ms": 161406,
-      "name": "With Somebody Else",
-      "url": "https://open.spotify.com/track/04BwBjVvvHshN9RbqNXfWQ"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
         "name": "Cozy Nights",
         "url": "https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B"
       },
@@ -995,18 +975,22 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "Soft Life",
-        "url": "https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV"
+        "name": "With Somebody Else",
+        "url": "https://open.spotify.com/album/6vj6WrPqUx9sj5oPND8tb6"
       },
       "artists": [
         {
-          "name": "Laflov",
-          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
+          "name": "Monty Datta",
+          "url": "https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S"
+        },
+        {
+          "name": "Dhan",
+          "url": "https://open.spotify.com/artist/4lQmhdlVTRQa2Frwp4V5Mi"
         }
       ],
-      "duration_ms": 132260,
-      "name": "Melatonin",
-      "url": "https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI"
+      "duration_ms": 161406,
+      "name": "With Somebody Else",
+      "url": "https://open.spotify.com/track/04BwBjVvvHshN9RbqNXfWQ"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -1071,6 +1055,22 @@
       "duration_ms": 150955,
       "name": "The Long Way Home",
       "url": "https://open.spotify.com/track/79MrXgKiUaVxK8BrAmWN2n"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
+        "name": "Soft Life",
+        "url": "https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV"
+      },
+      "artists": [
+        {
+          "name": "Laflov",
+          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
+        }
+      ],
+      "duration_ms": 132260,
+      "name": "Melatonin",
+      "url": "https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+      },
+      "artists": [
+        {
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+        }
+      ],
+      "duration_ms": 161238,
+      "name": "I Have Love for Everyone Besides Myself.",
+      "url": "https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
         "name": "$orries",
         "url": "https://open.spotify.com/album/4UC6UTIy5LGAxiRNrEh1of"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 214857,
       "name": "$orries",
       "url": "https://open.spotify.com/track/6F0gZWBvI3BnV39qCXfsbf"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
-      },
-      "artists": [
-        {
-          "name": "Barnes Blvd.",
-          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
-        }
-      ],
-      "duration_ms": 161238,
-      "name": "I Have Love for Everyone Besides Myself.",
-      "url": "https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "Home Soon",
-        "url": "https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k"
-      },
-      "artists": [
-        {
-          "name": "yuzu blur",
-          "url": "https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Home Soon",
-      "url": "https://open.spotify.com/track/0plIIWDys4UBGmura01RpY"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
         "name": "No I'm Not",
         "url": "https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh"
       },
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
+        "name": "Home Soon",
+        "url": "https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k"
+      },
+      "artists": [
+        {
+          "name": "yuzu blur",
+          "url": "https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Home Soon",
+      "url": "https://open.spotify.com/track/0plIIWDys4UBGmura01RpY"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
         "name": "Loofy",
         "url": "https://open.spotify.com/album/6V8ocqjbvuwO5bvVkCqgfK"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "Keep On Going",
-        "url": "https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD"
-      },
-      "artists": [
-        {
-          "name": "SPEECHLESS",
-          "url": "https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0"
-        }
-      ],
-      "duration_ms": 160403,
-      "name": "Keep On Going",
-      "url": "https://open.spotify.com/track/1t2o9QX8hlJGEQ4DA1oLNw"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/0pUE8rJ1nTr1JIVhOTXEaD"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 173426,
       "name": "Behind",
       "url": "https://open.spotify.com/track/4MKnTSEJuUFKvf4LcKMsw6"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
+        "name": "Keep On Going",
+        "url": "https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD"
+      },
+      "artists": [
+        {
+          "name": "SPEECHLESS",
+          "url": "https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0"
+        }
+      ],
+      "duration_ms": 160403,
+      "name": "Keep On Going",
+      "url": "https://open.spotify.com/track/1t2o9QX8hlJGEQ4DA1oLNw"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
+        "name": "Free Trees",
+        "url": "https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z"
+      },
+      "artists": [
+        {
+          "name": "Duos On Mars",
+          "url": "https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Free Trees",
+      "url": "https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
         "name": "Adomania",
         "url": "https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D"
       },
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "if you're reading this ily",
-        "url": "https://open.spotify.com/album/5WZFEyUjIgJL8iV04b9pwp"
-      },
-      "artists": [
-        {
-          "name": "fcj",
-          "url": "https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js"
-        }
-      ],
-      "duration_ms": 116918,
-      "name": "same stars",
-      "url": "https://open.spotify.com/track/0XFp0z42T0x3s3qxidqvTE"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
         "name": "diary 2018",
         "url": "https://open.spotify.com/album/4G6jljdW4ExppmD5dxfGHA"
       },
@@ -1647,34 +1647,18 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "Free Trees",
-        "url": "https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z"
+        "name": "if you're reading this ily",
+        "url": "https://open.spotify.com/album/5WZFEyUjIgJL8iV04b9pwp"
       },
       "artists": [
         {
-          "name": "Duos On Mars",
-          "url": "https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az"
+          "name": "fcj",
+          "url": "https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js"
         }
       ],
-      "duration_ms": 150857,
-      "name": "Free Trees",
-      "url": "https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
-        "name": "Pins & Needles",
-        "url": "https://open.spotify.com/album/0WV8HZAXe40X8lqsccHOgF"
-      },
-      "artists": [
-        {
-          "name": "VELVETEARS",
-          "url": "https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS"
-        }
-      ],
-      "duration_ms": 92508,
-      "name": "Love Myself",
-      "url": "https://open.spotify.com/track/6untVwGzuAI3zH6YzrISRX"
+      "duration_ms": 116918,
+      "name": "same stars",
+      "url": "https://open.spotify.com/track/0XFp0z42T0x3s3qxidqvTE"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -1691,6 +1675,22 @@
       "duration_ms": 123076,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
+        "name": "Pins & Needles",
+        "url": "https://open.spotify.com/album/0WV8HZAXe40X8lqsccHOgF"
+      },
+      "artists": [
+        {
+          "name": "VELVETEARS",
+          "url": "https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS"
+        }
+      ],
+      "duration_ms": 92508,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/6untVwGzuAI3zH6YzrISRX"
     }
   ],
   "unique_name": "sad lofi",

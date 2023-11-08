@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Aspres",
+        "url": "https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199119,
+      "name": "Aspres",
+      "url": "https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV"
+    },
+    {
+      "album": {
         "name": "Aster",
         "url": "https://open.spotify.com/album/3dGQkAUu05FoXDBLANmMow"
       },
@@ -1230,6 +1248,24 @@
       "duration_ms": 161339,
       "name": "Before We Leave",
       "url": "https://open.spotify.com/track/7H5L6f06Pxw0Lf8OO7dUa1"
+    },
+    {
+      "album": {
+        "name": "Belleville",
+        "url": "https://open.spotify.com/album/3BDMka3g88n2O8S0UZAdPQ"
+      },
+      "artists": [
+        {
+          "name": "Blake Hollow",
+          "url": "https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142102,
+      "name": "Belleville",
+      "url": "https://open.spotify.com/track/2QJXHDyxs9uqGvdcsR5g2h"
     },
     {
       "album": {
@@ -9573,6 +9609,24 @@
     },
     {
       "album": {
+        "name": "Si tu \u00e9tais mienne",
+        "url": "https://open.spotify.com/album/6XsYq2qqDSR9RGIvqsCiFT"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Aubin",
+          "url": "https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163099,
+      "name": "Si tu \u00e9tais mienne",
+      "url": "https://open.spotify.com/track/3mHJpUidVlJuBDZbXoJMvi"
+    },
+    {
+      "album": {
         "name": "Sunflower Field",
         "url": "https://open.spotify.com/album/2WcreYeMZTha6QjVopTaBo"
       },
@@ -11381,6 +11435,24 @@
     },
     {
       "album": {
+        "name": "Where Love Is Endless",
+        "url": "https://open.spotify.com/album/4RNFuZ5GkDi2Xlw7GtxzuH"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154625,
+      "name": "Until The Blissful Dawn",
+      "url": "https://open.spotify.com/track/2Q2kTuZPYXsiRlNisH6oPV"
+    },
+    {
+      "album": {
         "name": "Upraise",
         "url": "https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz"
       },
@@ -11936,6 +12008,24 @@
       "duration_ms": 133732,
       "name": "Whispering Pines",
       "url": "https://open.spotify.com/track/7Ia1tIQDGAFfZWYJc1vFcN"
+    },
+    {
+      "album": {
+        "name": "Whispers in the Fog",
+        "url": "https://open.spotify.com/album/13C3NpipjChcRCQIAERjk6"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136034,
+      "name": "Whispers in the Fog",
+      "url": "https://open.spotify.com/track/098b2wZzLGe9RwVCh1YZay"
     },
     {
       "album": {

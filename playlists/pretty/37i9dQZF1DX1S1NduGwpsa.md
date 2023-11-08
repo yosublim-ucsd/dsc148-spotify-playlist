@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gregory Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,871 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,012 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 35 | [Love is Never Too Late](https://open.spotify.com/track/1srnJ1GiGTgnTmc3uoOI3l) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Love is Never Too Late](https://open.spotify.com/album/7Ei7dL4kmIJhDlie2zHmOc) | 3:37 |
 | 36 | [Why Am I Treated So Bad \(with Questlove, Christian McBride\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/22OeSoWelZKWr5On4XIaKP) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Why Am I Treated So Bad \(with Questlove, Christian McBride\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/4JdmT4JJgQFP3dUgvpjx3H) | 5:23 |
 | 37 | [Heat Of The Moment](https://open.spotify.com/track/24eVMVDkDqLr1XGlnpOjtv) | [Mathis Picard](https://open.spotify.com/artist/53T4wv6PtAQK3Mm9mx4kxR) | [Heat Of The Moment](https://open.spotify.com/album/79Bhfp8xlbhgfZ0jLWMuSj) | 4:17 |
-| 38 | [Blue](https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Blue](https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU) | 6:46 |
+| 38 | [Blue](https://open.spotify.com/track/3e2cdlozr0ZKut6dWOer3q) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 6:46 |
 | 39 | [Call Off The Search \- Demo](https://open.spotify.com/track/7KdUI2n3d32uGGso0rD7wc) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Call Off The Search](https://open.spotify.com/album/2c6GalSbICqbbg7CW9U5KX) | 2:16 |
 | 40 | [Corner Kisses](https://open.spotify.com/track/1DUQwRzzAeOhFAc5CD7qD9) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Corner Kisses](https://open.spotify.com/album/3gGiLP5nx1WsiXLkulXYV4) | 5:00 |
 | 41 | [Deluxe Refuge](https://open.spotify.com/track/3bPk42yKpTX0UWkICl8btZ) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Behind the Tea Chronicles](https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9) | 5:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Haunted](https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:20 |
 | 50 | [If You Go Away](https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [If You Go Away / Ne me quitte pas](https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx) | 4:55 |
 
-Snapshot ID: `MCxmNWZjN2EwMWUxZjhiMDQwNDBiMjE2NTY0NjUzMzUzNjExMjE5MzEw`
+Snapshot ID: `MCxhNDU3MDIxYWJjMzBmZjE0OTFhMTE5YjQ4ODU5YTM3YmE4YmYxOGQz`

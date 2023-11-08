@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-255 songs - 17 hr 37 min
+256 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,8 +195,9 @@
 | [Saturn](https://open.spotify.com/track/1vgU4yZcYrAsAeYh5FeZ74) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/2UkCnAUvgigPDKmVjw9dQR) | 3:37 | 2020-11-13 | 2022-07-29 |
 | [Saturn](https://open.spotify.com/track/2WBAMsMuWEkQaO35GLAMyJ) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ) | 3:37 | 2020-11-13 |  |
 | [Say Goodbye](https://open.spotify.com/track/2Eblxsqy81aZDCjqJs3NAc) | [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG) | [Say Goodbye](https://open.spotify.com/album/2wzIY3mmvtjR0ejmZmbFrv) | 3:07 | 2020-11-13 | 2022-07-29 |
+| [Say Goodbye](https://open.spotify.com/track/55utNv9RnSr9iJlcUF3uWB) | [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG) | [Feel The Spirit](https://open.spotify.com/album/1aGGrO5uWpdaA37q0yOFc3) | 3:08 | 2023-08-04 |  |
 | [Say Goodbye](https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB) | [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Say Goodbye](https://open.spotify.com/album/5A2nu2JUX7DpEZ9koqOBaG) | 3:07 | 2020-11-13 | 2023-10-14 |
-| [Say Goodbye](https://open.spotify.com/track/5p6ClyVnopzx4FPS5YCM87) | [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Feel The Spirit](https://open.spotify.com/album/3Hg9U218D9EgPrcGGQ3JIQ) | 3:08 | 2023-08-04 |  |
+| [Say Goodbye](https://open.spotify.com/track/5p6ClyVnopzx4FPS5YCM87) | [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Feel The Spirit](https://open.spotify.com/album/3Hg9U218D9EgPrcGGQ3JIQ) | 3:08 | 2023-08-04 | 2023-11-08 |
 | [Shine It](https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [End Of The World Party \(Just In Case\)](https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX) | 4:59 | 2020-11-13 |  |
 | [Shiny Boots](https://open.spotify.com/track/5cmB8ZZ9FDQ3D03BzRG5u0) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Piers Green](https://open.spotify.com/artist/2BD3op8zryBDr5nhRg2Pm8) | [Shiny Boots](https://open.spotify.com/album/6COvwsnQ4Qkzy8QjgRuhEd) | 4:33 | 2020-11-13 | 2022-07-17 |
 | [Since You Wonder](https://open.spotify.com/track/1hoRpaGSnypLeqiqByLtco) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Since You Wonder](https://open.spotify.com/album/1kjrunpZTsPJ41i2fGRlU7) | 3:57 | 2021-04-09 | 2022-04-21 |

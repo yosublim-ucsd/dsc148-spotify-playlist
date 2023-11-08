@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Green Day
 
-1,416 songs - 2 day 22 hr 50 min
+1,417 songs - 2 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,7 +545,8 @@
 | [Hell on Earth](https://open.spotify.com/track/5vyC5H0TV5bM7rfQRYla4a) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Hell on Earth](https://open.spotify.com/album/4N7Df53D0phbFhcIEmmi8N) | 3:00 | 2022-11-11 | 2022-12-12 |
 | [HELLO//GOODBYE](https://open.spotify.com/track/0qbljrZfzWKZiBHlSKVay7) | [GARZI](https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv) | [HELLO//GOODBYE](https://open.spotify.com/album/3cHlK9W4aabTv21Arf0xmb) | 2:19 | 2022-08-25 | 2022-10-14 |
 | [Hennessy Brown](https://open.spotify.com/track/1iemBhrp9MVpTnxXYI3UnM) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [For Better, For Worse](https://open.spotify.com/album/38YQrMruyoZLOLI695h3xy) | 2:59 | 2023-06-29 | 2023-08-11 |
-| [Herberts On Holiday](https://open.spotify.com/track/1fvaUZkT3kUy4qwtEqTUsc) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Herberts On Holiday](https://open.spotify.com/album/3m3hEjQTaDq3QgiXR8XjW6) | 2:24 | 2023-09-28 |  |
+| [Herberts On Holiday](https://open.spotify.com/track/1fvaUZkT3kUy4qwtEqTUsc) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Herberts On Holiday](https://open.spotify.com/album/3m3hEjQTaDq3QgiXR8XjW6) | 2:24 | 2023-09-28 | 2023-11-08 |
+| [Herberts On Holiday](https://open.spotify.com/track/2SLS4rCsxzCVPLG6cS0wYe) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:24 | 2023-10-26 |  |
 | [Here In Your Bedroom \(feat\. Avril Lavigne\)](https://open.spotify.com/track/0eOKxLySILR9x85cknejae) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Never Look Back \(Deluxe\)](https://open.spotify.com/album/6qkETtOzEEXtL3fB4Jdatx) | 3:12 | 2022-08-04 | 2022-09-30 |
 | [Here's Looking At You, Kid!](https://open.spotify.com/track/3qrdJp0kQATq1WvXW0GNML) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Here's Looking At You, Kid!](https://open.spotify.com/album/0pQe7BNRBgq6IxafMBlCFY) | 2:44 | 2023-10-06 |  |
 | [HEY ASSHOLE](https://open.spotify.com/track/5EbeMB2XW1Gh0ExAawkBCJ) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [HEY ASSHOLE!](https://open.spotify.com/album/4WUzvidSHP2O30d27dShPZ) | 1:29 | 2023-05-25 | 2023-07-28 |

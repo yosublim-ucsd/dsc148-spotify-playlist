@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 131807,
+  "num_followers": 131818,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWIzZDliYjJjNzZhODlkYTgxMzE4NTY0MTZlMDBlNzk2OGFkZGFk",
+  "snapshot_id": "MCxlOTQ1MDI4NDM1Y2NkMWUxMTAyMmExODJhZjA3YzEyMTVmMmU4MzI5",
   "tracks": [
     {
       "added_at": "2023-08-02 08:46:27",
@@ -363,18 +363,22 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Echo to Echo",
-        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
+        "name": "Tyrkisk Pepper",
+        "url": "https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt"
       },
       "artists": [
         {
-          "name": "Magnus International",
-          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
+          "name": "Blackbelt Andersen",
+          "url": "https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL"
+        },
+        {
+          "name": "D\u00f8lle J\u00f8lle",
+          "url": "https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B"
         }
       ],
-      "duration_ms": 255909,
-      "name": "A Man Called Anthony",
-      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
+      "duration_ms": 482835,
+      "name": "Tyrkisk Pepper - Dolle Jolle Remix",
+      "url": "https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -403,22 +407,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Tyrkisk Pepper",
-        "url": "https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt"
+        "name": "Echo to Echo",
+        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
       },
       "artists": [
         {
-          "name": "Blackbelt Andersen",
-          "url": "https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL"
-        },
-        {
-          "name": "D\u00f8lle J\u00f8lle",
-          "url": "https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B"
+          "name": "Magnus International",
+          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
         }
       ],
-      "duration_ms": 482835,
-      "name": "Tyrkisk Pepper - Dolle Jolle Remix",
-      "url": "https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX"
+      "duration_ms": 255909,
+      "name": "A Man Called Anthony",
+      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Closing Shot",
-        "url": "https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD"
-      },
-      "artists": [
-        {
-          "name": "Lindstr\u00f8m",
-          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
-        }
-      ],
-      "duration_ms": 503648,
-      "name": "Closing Shot",
-      "url": "https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
         "name": "Shortwave Memories",
         "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 249672,
       "name": "Formanta",
       "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "Closing Shot",
+        "url": "https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD"
+      },
+      "artists": [
+        {
+          "name": "Lindstr\u00f8m",
+          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
+        }
+      ],
+      "duration_ms": 503648,
+      "name": "Closing Shot",
+      "url": "https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Tr\u00f8bbel",
-        "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
-        }
-      ],
-      "duration_ms": 282085,
-      "name": "Hard Trafikk",
-      "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
         "name": "Kosmetisk",
         "url": "https://open.spotify.com/album/5Tsih38nrHZzQPHaLkwjc7"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 342070,
       "name": "Kosmetisk",
       "url": "https://open.spotify.com/track/5Lx3mPW7NV7MCw31OofvV4"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "Tr\u00f8bbel",
+        "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+        }
+      ],
+      "duration_ms": 282085,
+      "name": "Hard Trafikk",
+      "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
+        "name": "Curse of the Cancelled",
+        "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
+      },
+      "artists": [
+        {
+          "name": "Ugress",
+          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
+        }
+      ],
+      "duration_ms": 142227,
+      "name": "Curse Of The Cancelled",
+      "url": "https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
         "name": "Vegvisir (Nils Olav Remix)",
         "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 372838,
       "name": "Vegvisir (Nils Olav Remix)",
       "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
-        "name": "Curse of the Cancelled",
-        "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
-      },
-      "artists": [
-        {
-          "name": "Ugress",
-          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
-        }
-      ],
-      "duration_ms": 142227,
-      "name": "Curse Of The Cancelled",
-      "url": "https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
+        "name": "Like a Petal but Not Really",
+        "url": "https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD"
+      },
+      "artists": [
+        {
+          "name": "Ugress",
+          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
+        }
+      ],
+      "duration_ms": 204821,
+      "name": "Like A Petal But Not Really",
+      "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
         "name": "The Point At The End Of Infinity",
         "url": "https://open.spotify.com/album/6xKexStWn3mgT7AIDeFbmZ"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Pass Deg For Trancen",
-        "url": "https://open.spotify.com/album/56nwZDDlMEx2qcAh2FSYd1"
-      },
-      "artists": [
-        {
-          "name": "Angermund",
-          "url": "https://open.spotify.com/artist/6lEonesLdaKa759afymnJv"
-        }
-      ],
-      "duration_ms": 398813,
-      "name": "Langt Der Borte",
-      "url": "https://open.spotify.com/track/4bj0QaHFcnQTGhkAMtZAvk"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
         "name": "Ramma EP",
         "url": "https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 426575,
       "name": "Bommelom",
       "url": "https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "Pass Deg For Trancen",
+        "url": "https://open.spotify.com/album/56nwZDDlMEx2qcAh2FSYd1"
+      },
+      "artists": [
+        {
+          "name": "Angermund",
+          "url": "https://open.spotify.com/artist/6lEonesLdaKa759afymnJv"
+        }
+      ],
+      "duration_ms": 398813,
+      "name": "Langt Der Borte",
+      "url": "https://open.spotify.com/track/4bj0QaHFcnQTGhkAMtZAvk"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -787,22 +803,6 @@
       "duration_ms": 388272,
       "name": "Motown",
       "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
-        "name": "Like a Petal but Not Really",
-        "url": "https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD"
-      },
-      "artists": [
-        {
-          "name": "Ugress",
-          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
-        }
-      ],
-      "duration_ms": 204821,
-      "name": "Like A Petal But Not Really",
-      "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
     },
     {
       "added_at": "2023-08-02 08:46:27",

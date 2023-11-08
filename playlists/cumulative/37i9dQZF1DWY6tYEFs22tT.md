@@ -4,7 +4,7 @@
 
 > Today's Hip\-Hop with NLE Choppa, Kodak Black and 42 Dugg!
 
-879 songs - 1 day 20 hr 1 min
+880 songs - 1 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,7 +520,8 @@
 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 | 2023-05-12 | 2023-09-09 |
 | [My 24th Birthday](https://open.spotify.com/track/5nXB98pCGSh1gXSovAlc0U) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [My 24th Birthday](https://open.spotify.com/album/5Q8Ac801if6yJwkbrFmV5D) | 6:23 | 2022-06-24 | 2022-08-13 |
 | [My All](https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [My All](https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg) | 3:17 | 2022-12-09 | 2023-02-18 |
-| [MY DAY IS RUINED !](https://open.spotify.com/track/7kxSAje77rPVfZZlWCqtGH) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY DAY IS RUINED !](https://open.spotify.com/album/0S2I5ehn7kCisujdvyYImy) | 2:13 | 2023-10-13 |  |
+| [MY DAY IS RUINED !](https://open.spotify.com/track/4vjZMm2Dz7sxgLfNWpiwTG) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY DAY IS RUINED !](https://open.spotify.com/album/4awPNl06D2VWOKJW63of3n) | 2:13 | 2023-10-27 |  |
+| [MY DAY IS RUINED !](https://open.spotify.com/track/7kxSAje77rPVfZZlWCqtGH) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY DAY IS RUINED !](https://open.spotify.com/album/0S2I5ehn7kCisujdvyYImy) | 2:13 | 2023-10-13 | 2023-11-08 |
 | [My Escape](https://open.spotify.com/track/5joeIfncVcIwkrOqyXvKCx) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [My Escape](https://open.spotify.com/album/1OM4rOFBBHRbN588TxCrD3) | 3:43 | 2021-12-31 | 2022-02-05 |
 | [My Fate](https://open.spotify.com/track/4iSq8Rg3fW1y7aqM6s0EJZ) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [My Fate](https://open.spotify.com/album/4gVfJ19WRPnoGMnr88QImt) | 2:13 | 2023-03-24 | 2023-09-16 |
 | [My Favorite Song](https://open.spotify.com/track/6d6Rm6ZHVz8AkE28HkO8eM) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Taylor Allderdice](https://open.spotify.com/album/5cpYhM2NdVjJXMy9uZhD2J) | 3:52 | 2022-04-22 | 2022-06-11 |

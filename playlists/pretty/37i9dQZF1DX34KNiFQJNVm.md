@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Hariel, Xamã e Major RD, The Beatles, Lucas Lucco e Lauana Prado e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,917,982 likes - 89 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,918,106 likes - 89 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 88 | [Problemão](https://open.spotify.com/track/1Mmy9LHPZQ8dC4uHxNqVuh) | [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs) | [Problemão](https://open.spotify.com/album/7GrORnwPrNSWqhlMulKxW7) | 2:28 |
 | 89 | [Te Esquecer É Impossível \(Not That Different\) \- Ao Vivo](https://open.spotify.com/track/3v9jJJM4ln4x9Kap8aOsnV) | [Patrícia & Adriana](https://open.spotify.com/artist/0ygrwj3UeDfNrxhPDtSCe2) | [Moagem Em Casa \(Ao Vivo\)](https://open.spotify.com/album/7sKu2jSxWIEkeIHj8TgYUG) | 4:24 |
 
-Snapshot ID: `MCxlMGYzOGRkNjZhNzJlMDU1N2Q5MzZiM2IzMzQyOGZiNGFlZmNiZmRj`
+Snapshot ID: `MCw3MzQxYjQ2ODcxMDExOGU4NWQxNjRlOGYzNjc3OWExYTZiZTU1MGNm`

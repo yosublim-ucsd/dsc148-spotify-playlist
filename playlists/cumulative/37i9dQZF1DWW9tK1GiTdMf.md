@@ -4,7 +4,7 @@
 
 > Green Day in cover 🩸 Punk rock, emo e pop punk 🇮🇹 e 🌎!
 
-702 songs - 1 day 8 hr 16 min
+703 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [lonely bitch](https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [lonely bitch](https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze) | 2:55 | 2023-01-12 | 2023-04-21 |
 | [Lontano](https://open.spotify.com/track/2kMP05gNWc3y1dzS3zDHkk) | [Aire](https://open.spotify.com/artist/1pePhxCgA1MOdEGgYjvNSZ), [Stellina Malinconica](https://open.spotify.com/artist/08oc2ijiHHssDF1GxDpG3E) | [Lontano](https://open.spotify.com/album/6fflIsKXpFuIePdGUpbI9C) | 2:39 | 2023-02-09 | 2023-03-25 |
 | [Lontano Da Qui](https://open.spotify.com/track/218oCaHB7IettSt4R7fHNr) | [TerzoGrado](https://open.spotify.com/artist/4LBzpop76F0OCdV1EvPkXd), [Don Marco](https://open.spotify.com/artist/4CdYqWx1aPBlXcXZPPy1ZN) | [Lontano Da Qui](https://open.spotify.com/album/18JrDsRl6IaU6iAV6KJRZn) | 2:12 | 2022-07-21 | 2022-08-26 |
+| [Look Ma, No Brains!](https://open.spotify.com/track/0Xs1aDAUmp3W6If2y5JQMK) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Look Ma, No Brains!](https://open.spotify.com/album/2alV6LwgUWGExud9ntcugb) | 2:03 | 2023-11-07 |  |
 | [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 | 2022-05-06 | 2022-05-14 |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-04 | 2023-08-11 |
 | [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 | 2022-08-11 | 2022-08-26 |

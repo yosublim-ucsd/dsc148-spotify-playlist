@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-131 songs - 6 hr 59 min
+132 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [arne](https://open.spotify.com/track/7eq7fc6tWLEGpsagJozBY2) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Schole Collection I](https://open.spotify.com/album/20qYMxPGgww0RK99l7d5Gr) | 3:35 | 2022-10-11 | 2022-11-14 |
 | [Arne](https://open.spotify.com/track/4ZqQqesPkASH1sqsnm6wmo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Grace](https://open.spotify.com/album/37vlYDRVRGH8sf5qZG3J6z) | 3:37 | 2022-10-11 |  |
 | [Ascension](https://open.spotify.com/track/2UMKFCOWHBozbqLm6VhcmG) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Serenity](https://open.spotify.com/album/24NndBbEzrcYKGYBBVhEgA) | 4:11 | 2022-10-11 |  |
+| [Autumn Stroll](https://open.spotify.com/track/2e1Lwrd6EJzbKWhHu8Qwf4) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Autumn Stroll](https://open.spotify.com/album/71RSiCtz3tWtw3ddFU7auT) | 2:39 | 2023-11-07 |  |
 | [Ayayai](https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Tamale](https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn) | 2:50 | 2022-10-11 |  |
 | [Beacon of Hope](https://open.spotify.com/track/13XZN3a9C43gOp6qerBqiB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Beacon of Hope](https://open.spotify.com/album/2vd2Y8qzCWMQ3MdEnHiVyo) | 3:40 | 2022-10-11 |  |
 | [BEAU PAYSAGE](https://open.spotify.com/track/1gsx2y5VHuGiVtHswvmZms) | [orbe](https://open.spotify.com/artist/3saLukWUrUkKxIDmKlqc1J), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Gen Tanabe](https://open.spotify.com/artist/5fwSjQceWBh8gO7PfG3FX7) | [Orbe / Orbe Feat\. Luca](https://open.spotify.com/album/4Cshw3Vv7DxoAkbVMs84jK) | 5:48 | 2022-10-11 |  |
@@ -124,7 +125,7 @@
 | [three](https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [three](https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl) | 3:07 | 2022-10-11 |  |
 | [Touch the Sky](https://open.spotify.com/track/3O4IXYk2mTnA4pTHjcRtdr) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Gyrefunk](https://open.spotify.com/artist/7eQEQLV4hM1kD1K0tKjI9u) | [Touch the Sky](https://open.spotify.com/album/5BFRRkW0hn1Wijw4LJUmtD) | 3:42 | 2022-10-11 |  |
 | [twilight](https://open.spotify.com/track/6rQbjszPzjL2Z11W1iQsSN) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [新しき光](https://open.spotify.com/album/7dIFqMgQwoK5p3znhbGOFt) | 8:39 | 2022-10-11 | 2022-11-13 |
-| [twilight](https://open.spotify.com/track/6xoab7Sxd9L2N43Gu9fIBd) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [twilight \(Deluxe Edition\)](https://open.spotify.com/album/35o0PH7bM6n9wjVpYrAzpY) | 8:40 | 2022-10-11 |  |
+| [twilight](https://open.spotify.com/track/6xoab7Sxd9L2N43Gu9fIBd) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [twilight \(Deluxe Edition\)](https://open.spotify.com/album/35o0PH7bM6n9wjVpYrAzpY) | 8:40 | 2022-10-11 | 2023-11-08 |
 | [Two Birds](https://open.spotify.com/track/741vcthcgaNVlg9Vtvb2OL) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Ouka](https://open.spotify.com/album/3RVSO5PGXwOqDyTfJCLIe6) | 3:04 | 2022-10-11 |  |
 | [ugotmyheart](https://open.spotify.com/track/3VbVcvK33AjjIC4iTvK0qK) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs), [Miyna Usui](https://open.spotify.com/artist/1TUVadr4tlnrjcvN4SSrqk) | [Nezumi Coo](https://open.spotify.com/album/1aJd14wjwAinjWL1tUMVSH) | 3:15 | 2022-10-11 |  |
 | [wait a second](https://open.spotify.com/track/1ZwluDxiaPLD9Jj5ugwZ3R) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [wait a second](https://open.spotify.com/album/7MzaAFwzLGQR3r9vwW1bJb) | 3:22 | 2023-06-28 |  |

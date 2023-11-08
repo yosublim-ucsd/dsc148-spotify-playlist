@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Spiritual Cramp
 
-1,953 songs - 4 day 6 hr 57 min
+1,954 songs - 4 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [Best Thing You Never Had \(The D Song\)](https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Everything Was Beautiful](https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK) | 5:52 | 2022-04-22 | 2022-05-28 |
 | [BETTER](https://open.spotify.com/track/2QgZpszbkDWUYtf0Khmrge) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IF I DIED WOULD ANYONE CARE](https://open.spotify.com/album/0Ze8BkvkvoZ9VmiIM7s2hQ) | 2:57 | 2022-01-28 | 2022-04-09 |
 | [Better Each Day](https://open.spotify.com/track/3Mdx0JOsOWRI76zIwZKEyL) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Better Each Day](https://open.spotify.com/album/35XWKWnRUNK5w3ievzNtPc) | 3:04 | 2021-11-19 | 2022-01-08 |
-| [Better Off This Way](https://open.spotify.com/track/0pvx9drHUQpBDdxqBg1hHP) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Better Off This Way](https://open.spotify.com/album/59rqjiTQgT4Iyn5KIbnZla) | 2:11 | 2023-10-13 |  |
+| [Better Off This Way](https://open.spotify.com/track/0pvx9drHUQpBDdxqBg1hHP) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Better Off This Way](https://open.spotify.com/album/59rqjiTQgT4Iyn5KIbnZla) | 2:11 | 2023-10-13 | 2023-11-08 |
+| [Better Off This Way](https://open.spotify.com/track/4J0J5yU0fmbsOwF1Rophkp) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:11 | 2023-11-03 |  |
 | [Better With](https://open.spotify.com/track/1O1GLjtl8cMiTLWWLU9hQc) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Better With](https://open.spotify.com/album/74RwAWj0wKofIBAyDLrxPS) | 2:43 | 2022-08-05 | 2022-10-22 |
 | [Beyond the Vale](https://open.spotify.com/track/7DkojvD8hlZZETvBOZp1TI) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM \- Act I](https://open.spotify.com/album/6lnwneHwAQkzRdRLf4W10i) | 3:42 | 2022-11-18 | 2023-01-14 |
 | [Big Air](https://open.spotify.com/track/4Lg9g0vN4guToh7068wPtT) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Big Air](https://open.spotify.com/album/0cB3kmKZuRiz1UvvNb7r7B) | 3:26 | 2023-09-15 |  |

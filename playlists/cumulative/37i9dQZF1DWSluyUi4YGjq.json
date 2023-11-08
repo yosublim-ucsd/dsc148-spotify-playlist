@@ -190,7 +190,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 161748,
       "name": "afraid",
       "url": "https://open.spotify.com/track/481A0KvGKhzGsQHM1RlODQ"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 220580,
       "name": "Bug",
       "url": "https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH"
@@ -4067,6 +4067,28 @@
     },
     {
       "album": {
+        "name": "TERESA",
+        "url": "https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5"
+      },
+      "artists": [
+        {
+          "name": "teddy<3",
+          "url": "https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW"
+        },
+        {
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218559,
+      "name": "i belong here",
+      "url": "https://open.spotify.com/track/3dX1DRDdGTy3Y3cDmD0Bf0"
+    },
+    {
+      "album": {
         "name": "I Can Show You Wonders",
         "url": "https://open.spotify.com/album/5BLy1t6Xz0XNBrHN2VIMeM"
       },
@@ -6409,6 +6431,24 @@
     },
     {
       "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8"
+      },
+      "artists": [
+        {
+          "name": "Suzy Clue",
+          "url": "https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251818,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/2gd00D6APhLate8i83azYd"
+    },
+    {
+      "album": {
         "name": "Riptide (feat. The Haunted Youth)",
         "url": "https://open.spotify.com/album/5ooh3g7uYQIFXJCPuV7ff9"
       },
@@ -8732,6 +8772,24 @@
       "duration_ms": 187326,
       "name": "\u041f\u0435\u0441\u043d\u044f \u043e \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438",
       "url": "https://open.spotify.com/track/3hezVtcUqncXSpBbV4dTCQ"
+    },
+    {
+      "album": {
+        "name": "(image for) drawing on canvas",
+        "url": "https://open.spotify.com/album/1mKYFaGZsIIjC3NFuQfNyg"
+      },
+      "artists": [
+        {
+          "name": "SPOOL",
+          "url": "https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275911,
+      "name": "\u3055\u3081\u306a\u3044",
+      "url": "https://open.spotify.com/track/1Z9HoCZq6RfaG3LLIKRHIQ"
     },
     {
       "album": {

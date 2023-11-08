@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 141500,
       "name": "Answer With Light",
       "url": "https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 150394,
       "name": "Avec un sourire",
       "url": "https://open.spotify.com/track/4PyMaTZJUWcSOhxK4cQQao"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 132786,
       "name": "Blanket Of Winter White",
       "url": "https://open.spotify.com/track/5JQAV4j0fRllcBAbD6VuFm"
@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Feathers",
+        "url": "https://open.spotify.com/album/7jM0M6ag5Kcg2nK4sPWAl9"
+      },
+      "artists": [
+        {
+          "name": "Kye Wood",
+          "url": "https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Feathers",
+      "url": "https://open.spotify.com/track/1CWes1ypvDpEAfpDpB5uWy"
+    },
+    {
+      "album": {
         "name": "Fiore",
         "url": "https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy"
       },
@@ -1694,6 +1712,24 @@
       "duration_ms": 118360,
       "name": "Florentin",
       "url": "https://open.spotify.com/track/6lE5ACHHqeEk7nLciGJH3P"
+    },
+    {
+      "album": {
+        "name": "ceiling clouds 432 Hz (Piano)",
+        "url": "https://open.spotify.com/album/6Q1FbHdxyBTDSAZXQYjw62"
+      },
+      "artists": [
+        {
+          "name": "warmest depths",
+          "url": "https://open.spotify.com/artist/1akeT46w4la2HMfty7dh4W"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142795,
+      "name": "flowers in the dark 432 Hz - Piano",
+      "url": "https://open.spotify.com/track/0bSx5lXmQ7SK49tUbCmF3W"
     },
     {
       "album": {
@@ -1769,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Forbidden Chords",
+        "url": "https://open.spotify.com/album/5qG5zlXidasaBblysEBt4A"
+      },
+      "artists": [
+        {
+          "name": "Eugenius R. Malmgren",
+          "url": "https://open.spotify.com/artist/2uODFqBJo1WlHbFBSuyLW9"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139263,
+      "name": "Forbidden Chords",
+      "url": "https://open.spotify.com/track/22MdrHbM2paKQswcbjHEsR"
+    },
+    {
+      "album": {
         "name": "Forever Changed",
         "url": "https://open.spotify.com/album/5r8Z1CKRpkrqF8IqcHnEY7"
       },
@@ -1834,7 +1888,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 162270,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu"
@@ -2266,7 +2320,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 170124,
       "name": "Isle of Arran",
       "url": "https://open.spotify.com/track/2VKWrVYPGgJzBmRGc8LWkh"
@@ -3106,7 +3160,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 152320,
       "name": "Moods Anemoia",
       "url": "https://open.spotify.com/track/1OypaCAJWzAKpsh9PEX2fk"
@@ -3254,7 +3308,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 144843,
       "name": "My",
       "url": "https://open.spotify.com/track/0sTrOSCppal1A15Pv3SmBY"
@@ -4421,6 +4475,24 @@
     },
     {
       "album": {
+        "name": "Sapphire Tears",
+        "url": "https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc"
+      },
+      "artists": [
+        {
+          "name": "Joy Meyer-Williams",
+          "url": "https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167921,
+      "name": "Sapphire Tears",
+      "url": "https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM"
+    },
+    {
+      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/2P0LRL1vg6759KzEwnlP9U"
       },
@@ -5096,7 +5168,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 150250,
       "name": "Te\u0301li",
       "url": "https://open.spotify.com/track/22epH1mP5fU4Bg5fGVbnuc"
@@ -5132,7 +5204,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 118235,
       "name": "The Corner Of Your Eye",
       "url": "https://open.spotify.com/track/2Ajr0zS7FbrGCYv0SmSIVI"
@@ -5924,7 +5996,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 155250,
       "name": "Vocalise",
       "url": "https://open.spotify.com/track/4yhdD7Igtyu7J3eCPj4APk"
@@ -6198,7 +6270,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 176400,
       "name": "Winter im Herzen",
       "url": "https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr"

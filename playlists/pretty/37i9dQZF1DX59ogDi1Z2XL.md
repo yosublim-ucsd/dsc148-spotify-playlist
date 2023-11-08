@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: NAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,110 likes - 103 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,179 likes - 103 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 24 | [Inevitable](https://open.spotify.com/track/1vzSwBeXpVwDfCoIG65jdd) | [Versvs](https://open.spotify.com/artist/6XUsxNud8j33iC6AS8iHbK), [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI) | [Inevitable](https://open.spotify.com/album/0TdfxCusCSwmfQWM6u95Br) | 2:42 |
 | 25 | [ONLY JESUS CAN SAVE ME](https://open.spotify.com/track/1Sn2E6JfwiydxK48NF9tBE) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [ONLY JESUS CAN SAVE ME](https://open.spotify.com/album/4oRcK6QGJRrFMZmmlfLYQJ) | 1:37 |
 | 26 | [Winner](https://open.spotify.com/track/304gunsibSamxVUt17GrLv) | [Dr\. Bushman](https://open.spotify.com/artist/67CMLRzkbiW2rmBS6LzhZ7), [BiigSlime](https://open.spotify.com/artist/3ah8lDlN0dpzcSiuhh4zhq) | [Winner](https://open.spotify.com/album/0WNKfdhHM2B4j9NpDe0tPd) | 3:03 |
-| 27 | [MY DAY IS RUINED !](https://open.spotify.com/track/7kxSAje77rPVfZZlWCqtGH) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY DAY IS RUINED !](https://open.spotify.com/album/0S2I5ehn7kCisujdvyYImy) | 2:13 |
+| 27 | [MY DAY IS RUINED !](https://open.spotify.com/track/4vjZMm2Dz7sxgLfNWpiwTG) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY DAY IS RUINED !](https://open.spotify.com/album/4awPNl06D2VWOKJW63of3n) | 2:13 |
 | 28 | [Splash](https://open.spotify.com/track/4h7qC8F6ivhuKC6n5vAOcf) | [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Splash](https://open.spotify.com/album/5gAl6jFFO9e92UV5Zb5ytY) | 2:45 |
 | 29 | [GRAVITY](https://open.spotify.com/track/0oddRg0UA25rYpkdodmUFH) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [GRAVITY](https://open.spotify.com/album/75QDU0nENUYaqLijRcyHRs) | 2:28 |
 | 30 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 102 | [Knee Deep](https://open.spotify.com/track/7mcR36AWiXCMuKSRdlX7fF) | [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs) | [Knee Deep](https://open.spotify.com/album/403towgCYJ3QoEl8wTlDGA) | 2:15 |
 | 103 | [Just Like Me feat\. NAV](https://open.spotify.com/track/3NNHfUOA7t6VEZ8j1hqtmv) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Mumble Rap 2](https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq) | 2:12 |
 
-Snapshot ID: `MCw3MzhhNGVkYmY1ZDVjNjY2YzZlNzZlZjE5MGY2ZmIyZGIyMTIwZmE0`
+Snapshot ID: `MCwyNmM0ZmM1YTQ1MjMxZjliOTUyMDg3YjI3ZDA1MzNjMGFjODg0NWY5`

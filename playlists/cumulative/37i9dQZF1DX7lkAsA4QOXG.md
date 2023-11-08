@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-178 songs - 14 hr 3 min
+179 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [I Am The Walrus](https://open.spotify.com/track/1FQ36swxT2Zn0K5xlwkxUg) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [I Am The Walrus](https://open.spotify.com/album/4Py5viNf0Lzt14Od4iTCNJ) | 4:14 | 2023-01-12 | 2023-02-28 |
 | [I Am The Walrus](https://open.spotify.com/track/7rs2rtBcpCH1PEUhapS3rE) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know: Brad Mehldau Plays The Beatles](https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT) | 4:14 | 2023-02-23 | 2023-04-20 |
 | [I Can't Make You Love Me](https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [I Can't Make You Love Me](https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a) | 4:26 | 2023-02-15 |  |
-| [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 | 2023-10-13 |  |
+| [I Can’t Make You Love Me](https://open.spotify.com/track/0ZhF5IXGeWPAyYe6dGP3LF) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 5:03 | 2023-10-27 |  |
+| [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 | 2023-10-13 | 2023-11-08 |
 | [I Got You \- I Feel Good](https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Joshua Redman](https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1) | 4:39 | 2022-09-13 |  |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/1W6p8Y996nO7Pd1JYEZIb6) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Shine](https://open.spotify.com/album/5IDEw0lSO7uTBsk8dWRQac) | 4:52 | 2022-10-05 | 2023-09-02 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/1vQPul9VZ1dODkVg9lxF3L) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/1wBXnntlEwlD9cuDdwmraq) | 3:39 | 2023-05-30 | 2023-09-02 |

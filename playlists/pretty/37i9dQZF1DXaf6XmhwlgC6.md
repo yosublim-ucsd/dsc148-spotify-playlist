@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,110 likes - 188 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,266 likes - 188 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 34 | [Emerald City](https://open.spotify.com/track/4hmVaRzWIGFALX6cFveZ0f) | [Kirabuo](https://open.spotify.com/artist/56ncV7I51jTZIqwrCWsOu0) | [Emerald City](https://open.spotify.com/album/3rRLNWhtlisf1F5jKLs5n2) | 2:06 |
 | 35 | [Clandestine](https://open.spotify.com/track/5sGxDzINFxlLXnj6zpDsQZ) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [Clandestine](https://open.spotify.com/album/4SArWhZxLUXZ1bGxoPfz4k) | 2:20 |
 | 36 | [The Way](https://open.spotify.com/track/0p0skXFLMR13GNiroa5cWQ) | [Auðura](https://open.spotify.com/artist/0DE6DqplF6aes6HrDbH29i) | [The Way](https://open.spotify.com/album/3tI5c6YGOY8VFLgaD89kI5) | 2:20 |
-| 37 | [january](https://open.spotify.com/track/0vXXGZStT6ksxuz00dwCQv) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [october](https://open.spotify.com/album/1iEjhoi66AQOTBzrMUEffc) | 5:05 |
+| 37 | [january](https://open.spotify.com/track/34EL3szkp3Z2x8c8D9AXaf) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [november](https://open.spotify.com/album/6iwzMBXyHmCswPRg9fNqIU) | 5:05 |
 | 38 | [High Windows](https://open.spotify.com/track/7dIO4IrjIlLhKsnj4o5nCn) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [High Windows](https://open.spotify.com/album/0UbucpkXmpzONj8JWSA6Zj) | 2:37 |
 | 39 | [Ocean Waves](https://open.spotify.com/track/0r2KqEOqDSn1bKZSZEVZsq) | [Ezeiu](https://open.spotify.com/artist/0Ip9Wm5iefxEQ8GNzx0rri) | [Ocean Waves](https://open.spotify.com/album/07IhREwpLxDAuxkUIhSk1Y) | 2:06 |
 | 40 | [Stoic](https://open.spotify.com/track/5MkNHsjfPQJT55YRNawXDC) | [Sun Kissed Sky](https://open.spotify.com/artist/5HkFsCNO0S6DI1nfvHxUi6) | [Stoic](https://open.spotify.com/album/1R188q8lWvdB1tXdr9j3Xe) | 2:23 |

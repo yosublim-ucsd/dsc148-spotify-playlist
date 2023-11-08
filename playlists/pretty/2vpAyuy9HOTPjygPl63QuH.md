@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house music, updated every friday\. Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,744 likes - 41 songs - 2 hr 15 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,749 likes - 41 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 22 | [Subject Study](https://open.spotify.com/track/21ZOkp2EWJw7whsBhds5U5) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB) | [Subject Study](https://open.spotify.com/album/2wz9kI2ozsay6rrECF49aR) | 3:30 |
 | 23 | [Back To You \- SUBSHIFT Remix](https://open.spotify.com/track/4RmkE2SMOY9R5HFLj4JuRz) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Back To You \(Deluxe Pack\)](https://open.spotify.com/album/6KtBNnZGglKI9hB3rLTt2K) | 3:32 |
 | 24 | [Take Me \(Where I Wanna Be\)](https://open.spotify.com/track/3vbEa4MOdRo3zgcf2mgdWW) | [Elternhouse](https://open.spotify.com/artist/2T0Pjvt0kNuyw1nE3s56wj) | [Take Me \(Where I Wanna Be\)](https://open.spotify.com/album/6NiqbaoPhfn0QGjTI7cpAW) | 2:15 |
-| 25 | [Wild](https://open.spotify.com/track/3xAJLVFd7ae8an0ht9c0we) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI), [Antoine Casadavall](https://open.spotify.com/artist/0HcNZmCqJDqOWgXvK5kEeX) | [Wild](https://open.spotify.com/album/7frZaD68FjAI9YJKDdaFce) | 5:01 |
+| 25 | [Wild](https://open.spotify.com/track/3xAJLVFd7ae8an0ht9c0we) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Wild](https://open.spotify.com/album/7frZaD68FjAI9YJKDdaFce) | 5:01 |
 | 26 | [Plata o Plomo](https://open.spotify.com/track/498GWiqMDmohr7Q6bJi007) | [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS), [MCH Music](https://open.spotify.com/artist/2c9A59cedJD3tYnE9Ynh9o) | [Plata o Plomo](https://open.spotify.com/album/4F9rcupe4i6RkNJCdCGWTa) | 2:46 |
 | 27 | [Get Down Low](https://open.spotify.com/track/6T53siWIthcX249qVObvu1) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [EDC Orlando 2023](https://open.spotify.com/album/16NYFe6WQwVUBd5c26Bc2t) | 5:12 |
 | 28 | [Breakout](https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Breakout](https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc) | 3:35 |

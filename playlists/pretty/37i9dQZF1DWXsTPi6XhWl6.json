@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33803,
+  "num_followers": 33800,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjA0MzdlNTMyODZlMWY0YWNjNzM5ZTNjODE2OTY1YmY4MjIxMjZj",
+  "snapshot_id": "MCwwYjQwYTQxZDcyOWJjZTYwMjZkMmI5MjQwZGI4ODdiODAxNTc2ZTBi",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Chutes Too Narrow (20th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/2fxQs4i9HfyRME7zjp0ZnB"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "Gone for Good - 2023 Remaster",
+      "url": "https://open.spotify.com/track/1tJEdsmqcWGSRDM9uU4a67"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Can't Wake Up",
         "url": "https://open.spotify.com/album/2Wfr01LIuo5Uy5Es51Q8b5"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 234240,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/5BM4OgN8Giv7Wi5K8TN02M"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Chutes Too Narrow (20th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/2fxQs4i9HfyRME7zjp0ZnB"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Gone for Good - 2023 Remaster",
-      "url": "https://open.spotify.com/track/1tJEdsmqcWGSRDM9uU4a67"
     }
   ],
   "unique_name": "Wide Awake",

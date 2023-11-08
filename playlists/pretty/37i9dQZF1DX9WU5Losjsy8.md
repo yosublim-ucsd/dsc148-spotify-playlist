@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Ist nur einmal im Jahr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,391 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,480 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 37 | [Griechischer Wein](https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Zeig mir den Platz an der Sonne](https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg) | 4:04 |
 | 38 | [Eine Woche wach](https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Eine Woche wach](https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA) | 3:55 |
 | 39 | [Hurra die Gams](https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV) | [Matty Valentino](https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h) | [Hurra die Gams](https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y) | 3:24 |
-| 40 | [Partysau](https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R) | [Malle Kalle](https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP), [Danergy](https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf) | [Partysau](https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI) | 1:55 |
-| 41 | [Disco Pogo](https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [Atzen Musik Vol.1, 2 & 3](https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh) | 3:24 |
+| 40 | [Disco Pogo](https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [Atzen Musik Vol.1, 2 & 3](https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh) | 3:24 |
+| 41 | [Partysau](https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R) | [Malle Kalle](https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP), [Danergy](https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf) | [Partysau](https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI) | 1:55 |
 | 42 | [Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Dorfdisko](https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL) | 3:26 |
 | 43 | [Kabinenparty](https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Nils\_Gucki](https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF) | [Kabinenparty](https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5) | 2:22 |
 | 44 | [Mallelelele](https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT) | [Rumbombe](https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Mallelelele](https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb) | 2:13 |
 | 45 | [Johnny Däpp \(Ich will Mallorca zurück\)](https://open.spotify.com/track/2TBimpeTwsFPzpSRuUHw18) | [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai) | [Johnny Däpp \(Ich will Mallorca zurück\)](https://open.spotify.com/album/268VrfGJQ200XIqhvZIypX) | 3:43 |
 | 46 | [Saufen aufm Spielplatz](https://open.spotify.com/track/5U20wHHKhsNDONaKQOC4JG) | [BroyS](https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO), [Pbb Yea](https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9) | [Saufen aufm Spielplatz](https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67) | 4:00 |
 | 47 | [Lea](https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD), [Andy Luxx](https://open.spotify.com/artist/09Mknlo1aOXbEtxUD41wH2), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Lea](https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq) | 2:39 |
-| 48 | [Scheißegal, ich feier \- Radio Edit](https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg) | [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Scheißegal, ich feier \(Radio Edit\)](https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY) | 2:44 |
-| 49 | [Heute nicht!](https://open.spotify.com/track/3edAKB1WUrzlgxhXJ2Vnar) | [Ben Zucker](https://open.spotify.com/artist/1ZHJdXXtKnmUh2qRN4LmbS) | [Heute nicht!](https://open.spotify.com/album/1FdsZbNb6kwDtcWpuikGhm) | 3:14 |
+| 48 | [Heute nicht!](https://open.spotify.com/track/3edAKB1WUrzlgxhXJ2Vnar) | [Ben Zucker](https://open.spotify.com/artist/1ZHJdXXtKnmUh2qRN4LmbS) | [Heute nicht!](https://open.spotify.com/album/1FdsZbNb6kwDtcWpuikGhm) | 3:14 |
+| 49 | [Scheißegal, ich feier \- Radio Edit](https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg) | [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Scheißegal, ich feier \(Radio Edit\)](https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY) | 2:44 |
 | 50 | [PECH & SCHWEFEL](https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [DORFDiSKO ZWEi](https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ) | 3:18 |
 | 51 | [Partyanimal](https://open.spotify.com/track/7gzdjkagK3pTVW8jYjcYBF) | [Micha von der Rampe](https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w) | [Partyanimal](https://open.spotify.com/album/4pXtlHGw6kiWyntGaLUxSx) | 2:19 |
 | 52 | [Ich liebe das Leben \- Stereoact \#Remix](https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L) | [Vicky Leandros](https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ich liebe das Leben \(Stereoact \#Remix\)](https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4) | 3:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 79 | [Bierkapitän](https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD) | [Bierkapitän](https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC) | 3:30 |
 | 80 | [Kleine Fee](https://open.spotify.com/track/6Hh3PWarkgiMwUP2klVS8h) | [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Kleine Fee](https://open.spotify.com/album/6mR5HHT7NuAD3ZA82tusHM) | 2:18 |
 
-Snapshot ID: `MCxlYTBkY2JkNGM0MzMwMGYzYjA2NzgwOGRkNDY3MzEyYzlhODlmOWUx`
+Snapshot ID: `MCxhMTJlMTNlN2U5NTZhYjIwZTExYjA1MmYxOGRlZTIxMWViYWY1ZGM5`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > Announcing <a href="https://tickets.spotify.com/events/spotify\-stages\-presents\-fresh\-finds\-brooklyn">Fresh Finds Live in New York</a> @ Baby's 12/4 ft Arcy Drive, Rahill, slimdan\. The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,819 likes - 110 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,804 likes - 110 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Time Shrinks](https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Time Shrinks](https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0) | 3:36 |
 | 2 | [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 |
-| 3 | [Celebrity Lookalikes](https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Celebrity Lookalikes](https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu) | 3:32 |
+| 3 | [Mozart in My Mind](https://open.spotify.com/track/1fTKaYCVdkPrFLto9Q36G8) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Mozart in My Mind](https://open.spotify.com/album/3yrSqrGXFiRjjETGudPFLQ) | 3:06 |
 | 4 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 |
 | 5 | [Bum Chick](https://open.spotify.com/track/1GYJs4h3xC7kYtPxk1nrWu) | [Terria Jai](https://open.spotify.com/artist/4S8zyeIJF0JZxYSQwkRQ5O) | [Bum Chick](https://open.spotify.com/album/6BkxAlUwMowAj56vfYdeIx) | 2:37 |
 | 6 | [L'Habitude](https://open.spotify.com/track/3bNgr5gy1gY3yoGRuVo5Wk) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [L'Habitude](https://open.spotify.com/album/1EIrvNHQ1MM1nI5N1zMicz) | 2:58 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 109 | [Otherside](https://open.spotify.com/track/65ybsaE29ZYqelgjXSc7xd) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock,](https://open.spotify.com/album/2vcW1BucVQMfVGN5LLb8XF) | 3:34 |
 | 110 | [Gloworm](https://open.spotify.com/track/1fwqhGIRtQeSNr21eSkhKF) | [Talik](https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz) | [Firefly](https://open.spotify.com/album/2Na8p20PZQm4jyeSoyLxst) | 4:20 |
 
-Snapshot ID: `MCxhZDIyN2Y5NmRmMTJlMTA4OGRhMjY5YzM2N2M1MGFlYzA1OTQzNzVj`
+Snapshot ID: `MCw1M2RhMDIyMWYwNWJlZjI5MWFlYWJmMWE4OTc3N2M0OTQxZTRjMTRk`

@@ -17867,6 +17867,24 @@
     },
     {
       "album": {
+        "name": "LOOK AT YOU NOW",
+        "url": "https://open.spotify.com/album/3rbXKITsDWzLR8sh8ZMSMG"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163229,
+      "name": "LOOK AT YOU NOW",
+      "url": "https://open.spotify.com/track/64N5LnrPAt4o012wuhNGEH"
+    },
+    {
+      "album": {
         "name": "Look Who's Cryin' Now",
         "url": "https://open.spotify.com/album/539ihh7Uywx0dY2NFAJbID"
       },

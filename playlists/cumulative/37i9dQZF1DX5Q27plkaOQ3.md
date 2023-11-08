@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: PEEKABOO
 
-447 songs - 1 day 1 hr 26 min
+448 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Dale \(with Blvkstn\)](https://open.spotify.com/track/5W7s8j8GWNSAyHl4D0F8ab) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Blvkstn](https://open.spotify.com/artist/70hTQzJxZt0JLvFzQVITHe) | [Dale \(with Blvkstn\)](https://open.spotify.com/album/0pfeHOCyMOltzXv1K0ZYBL) | 3:15 | 2023-07-14 |  |
 | [Dawn Of The Dead \- Radio Edit](https://open.spotify.com/track/6pFjkMjATusw4VfpxZ6tAy) | [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Dawn Of The Dead](https://open.spotify.com/album/4YTS70K2HHCXNdekQAgHDV) | 3:42 | 2022-04-01 | 2023-04-01 |
 | [Dead Man Walking](https://open.spotify.com/track/1BocvYKP6Khn2AXOLqNmUS) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Dead Man Walking Pt\. 1](https://open.spotify.com/album/5Rulijsb8lWwqPSFbzEHgD) | 4:47 | 2022-07-22 |  |
-| [Death Toll](https://open.spotify.com/track/0ihqMYXXNEHdW7jPrMtDhA) | [Figure](https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr), [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe) | [Death Toll](https://open.spotify.com/album/4krxVVR3y5FmU9UUVsbPun) | 3:33 | 2023-10-06 |  |
+| [Death Toll](https://open.spotify.com/track/0ihqMYXXNEHdW7jPrMtDhA) | [Figure](https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr), [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe) | [Death Toll](https://open.spotify.com/album/4krxVVR3y5FmU9UUVsbPun) | 3:33 | 2023-10-06 | 2023-11-08 |
 | [Death's Parade](https://open.spotify.com/track/4I0aTM1IBacOAnBpWTDaFG) | [Outcry](https://open.spotify.com/artist/4cni7thSCD6KeWMHdbRPFd), [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Death's Parade](https://open.spotify.com/album/0pFWrdhqNypSkJzpG6GMEg) | 3:31 | 2021-12-17 | 2022-08-07 |
 | [Decomposed \(feat\. TVBUU\)](https://open.spotify.com/track/6ivBy5kKmL1rbz0RTgH8KZ) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM), [Tvbuu](https://open.spotify.com/artist/5g88TrER5HETb6uDHUASGv) | [Decomposed \(feat\. TVBUU\)](https://open.spotify.com/album/39jpXJv2tcnolZ0Ch67D94) | 4:04 | 2023-05-12 | 2023-08-05 |
 | [Degrader](https://open.spotify.com/track/2y0sRxtiJblGeiLopVbYlU) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Degrader EP](https://open.spotify.com/album/3oyCL9NZzD5JMfTPG54xXN) | 3:02 | 2022-03-04 | 2022-10-01 |
@@ -113,6 +113,7 @@
 | [Destroyer](https://open.spotify.com/track/19z6t2S2gWWvlPwwnqUz4V) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Destroyer](https://open.spotify.com/album/3vPigQ0lyiT4gqmiijHKYe) | 3:33 | 2021-12-17 | 2022-07-29 |
 | [Die A God](https://open.spotify.com/track/3FBwxitVZMIu6cOJHujOwR) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Die A God](https://open.spotify.com/album/1PV9mX6O0HubbwVgiab2Mn) | 3:38 | 2023-02-10 | 2023-10-14 |
 | [DIFFRENT](https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [THATSHYM](https://open.spotify.com/artist/2G6zjE7TSKRPPpY8EgAnpq) | [DIFFRENT](https://open.spotify.com/album/68m1oLyZBu6bIRB4L1sHKL) | 3:05 | 2022-02-04 | 2023-04-01 |
+| [DIM THE LIGHTS](https://open.spotify.com/track/3dwPsG3yhdwyoVvapWVHcg) | [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG), [Autokorekt](https://open.spotify.com/artist/0qSe9ankWkiCVAS7zTd1fo) | [DEMOLITION DAYS](https://open.spotify.com/album/45ZATtU1Oh2haiLtfXNwNZ) | 2:33 | 2023-10-27 |  |
 | [Dimension](https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Dimension](https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4) | 2:39 | 2022-03-18 | 2023-04-01 |
 | [Discovery](https://open.spotify.com/track/1hL68mCCsLmtSJNr1W8HmR) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Discovery](https://open.spotify.com/album/4zPaHY0Q3lKzH151iHPL9A) | 4:20 | 2022-09-16 | 2023-10-14 |
 | [Disobey](https://open.spotify.com/track/6woe2jQjDfEpFK2JhC4rLk) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Topias Jokipii](https://open.spotify.com/artist/0K4Q4zrfJ28FXsKCemfrHn) | [Disobey](https://open.spotify.com/album/5d4dOyPky2LcccgZrskHkG) | 2:36 | 2023-04-28 | 2023-08-12 |

@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-385 songs - 1 day 3 hr 27 min
+386 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [666Teen](https://open.spotify.com/track/3FzPWVOfYBi646pFcei6f3) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Speed Between the Lines](https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA) | 2:56 | 2021-12-17 |  |
 | [A Bitter Pill](https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb) | [Razor](https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B) | [A Bitter Pill](https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr) | 2:47 | 2022-09-09 | 2023-01-06 |
 | [A Lesson in Violence](https://open.spotify.com/track/7INHJI8QevyNUri2JKinLO) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Bonded by Blood](https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD) | 3:48 | 2022-07-13 | 2022-07-22 |
-| [A New Land](https://open.spotify.com/track/4K21taEZsYaCLsWosMcqeq) | [Rage](https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x) | [Resurrection Day](https://open.spotify.com/album/4c91poPTEELsFj0yUPhoWl) | 3:50 | 2021-12-17 |  |
+| [A New Land](https://open.spotify.com/track/4K21taEZsYaCLsWosMcqeq) | [Rage](https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x) | [Resurrection Day](https://open.spotify.com/album/4c91poPTEELsFj0yUPhoWl) | 3:50 | 2021-12-17 | 2023-11-08 |
 | [A Sign of Things to Come](https://open.spotify.com/track/6RK8YZleqg0LUezZ9zh2rL) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [A Sign of Things to Come](https://open.spotify.com/album/0yAh1jpL4MX218VAVSPJIF) | 4:35 | 2023-07-31 |  |
 | [A Song and a Promise](https://open.spotify.com/track/5s84j81naFIV5VKH7OafOS) | [Crim](https://open.spotify.com/artist/2p7rRgVQsbzdA8zkpb83Q2), [Olga from the Toy Dolls](https://open.spotify.com/artist/4vsRDn0PxIibLIM3yz52hL) | [A Song and a Promise](https://open.spotify.com/album/71a9u0aGd3xp7OghvvRKOG) | 3:29 | 2022-02-11 | 2022-02-16 |
 | [Activate](https://open.spotify.com/track/6K4sl3JE7oeuUhDJvy9ku3) | [Vektor](https://open.spotify.com/artist/09mNj9XgCqgg6usfeXOoBg) | [Activate](https://open.spotify.com/album/0rfHDsz52JsOhrqHSosKRs) | 3:30 | 2021-12-17 | 2022-11-13 |
@@ -201,6 +201,7 @@
 | [Loss of Humanity](https://open.spotify.com/track/38K2DlgRYQ9dOTutG9vwIZ) | [EXA](https://open.spotify.com/artist/1h7Hmq4S3N6KmKYhCs4J6P) | [Cut the Past](https://open.spotify.com/album/2xQVSFMtpz9g3sjhPWeBPD) | 4:51 | 2021-12-17 | 2022-02-27 |
 | [Lowlife](https://open.spotify.com/track/5BPPlNliU7Ddz1uU20MQcG) | [Cryptic Slaughter](https://open.spotify.com/artist/20ml1U2ibB2HPnPpWrJIKT) | [Convicted](https://open.spotify.com/album/7mHgdfVzpEFJ3w5ZMM1Ehv) | 2:32 | 2022-07-13 |  |
 | [Lux Æterna](https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 3:25 | 2023-04-17 |  |
+| [M\-16](https://open.spotify.com/track/5IuHS16yRB8RKtuR4gAGYG) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [M\-16](https://open.spotify.com/album/1ens5WO0JQdJUE3GciGvjF) | 4:49 | 2023-06-27 |  |
 | [M\-16](https://open.spotify.com/track/6z8KgGwhwJPSq948Vk3mWk) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [M\-16](https://open.spotify.com/album/4z5S4xdou220mwTfA2mmZn) | 4:49 | 2022-07-13 | 2023-11-05 |
 | [M.O.A.B.](https://open.spotify.com/track/2R5VkpwntZikyvWLoeW0tp) | [Mammothor](https://open.spotify.com/artist/6L8W07NCv5iosKaHy29F46) | [M.O.A.B.](https://open.spotify.com/album/0jOS8ADvtpLrB8vkKV5JAx) | 4:04 | 2022-04-01 | 2022-07-30 |
 | [Mad Butcher](https://open.spotify.com/track/6qjOQSSLUealhSEd4Uy1dq) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Sentence Of Death](https://open.spotify.com/album/7HOTAkNpLiNtBg70E8BhV1) | 3:30 | 2022-07-13 | 2022-07-23 |

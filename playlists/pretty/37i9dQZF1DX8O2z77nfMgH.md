@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Foto: Arcángel y Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,834 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,849 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [NAORU](https://open.spotify.com/track/5Hb1pcMSavgBFU0NrOpZ49) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Sheng 33](https://open.spotify.com/artist/654zAEjMrBSV93V2PyfUgJ) | [NAORU](https://open.spotify.com/album/3TihytvP1vHrVUXtu9CiUf) | 2:44 |
 | 55 | [O Retorno de Jedi](https://open.spotify.com/track/1OCtpTqJdhOrn00sJYnWSt) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [O Retorno de Jedi](https://open.spotify.com/album/0BTjFs3Pbs2QwHktnSbBWL) | 2:50 |
 
-Snapshot ID: `MCwzYzcxYjhjYzI2NjQyYmY4NzNkMTcwOGZlN2YyNGU1MDM4ZDM4MjBk`
+Snapshot ID: `MCwzM2VjNDM5YjFlMjJlMzNhYmI5MDkwNjI5MDRhOGY5MDNhNjhjZjEy`

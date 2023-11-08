@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-522 songs - 2 day 1 hr 37 min
+523 songs - 2 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [30](https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR) | [ed leigh](https://open.spotify.com/artist/2HvZdoZCKiZBlILDLOk0ge) | [millennial falcon \(episode I\)](https://open.spotify.com/album/2a7aAujN1kAEj3KsECBpc8) | 3:14 | 2022-08-03 | 2022-08-24 |
 | [34\-46](https://open.spotify.com/track/5Utgg5uI7sMaYNcw6rLt1x) | [Mark Slater](https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF) | [34\-46](https://open.spotify.com/album/2BNq4qGhepJGroEyfTIJBU) | 4:01 | 2022-02-18 | 2022-07-28 |
 | [4am](https://open.spotify.com/track/7rypSj6MSHf8vEZ2rCh3Pg) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [1977](https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM) | 4:13 | 2023-04-14 | 2023-05-09 |
+| [5D Dub](https://open.spotify.com/track/4DqoVq7KnfCguft72zY82M) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [5D Dub](https://open.spotify.com/album/42YFQezKo7skzOMbFs3hiv) | 5:47 | 2023-11-08 |  |
 | [A Cat](https://open.spotify.com/track/28SyjgSjrXkge8GBgWxRTd) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Refuge](https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg) | 5:37 | 2022-03-30 | 2022-07-29 |
 | [A Forest](https://open.spotify.com/track/6MB7zOLjSrtY06e5ykZVGw) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [A Forest](https://open.spotify.com/album/3eUWleWNULYMRFI2noRZnT) | 9:59 | 2021-10-06 | 2022-05-30 |
 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 | 2022-08-03 | 2022-09-26 |
@@ -103,7 +104,7 @@
 | [Cairn VI.](https://open.spotify.com/track/3iRY4v04uIRVGkIGcsbSJd) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Marta Salogni](https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS) | [Landform](https://open.spotify.com/album/7dU8QnxYDKsg5yJN2zG1fP) | 6:43 | 2021-10-06 | 2022-07-29 |
 | [Calimayan](https://open.spotify.com/track/3y7lez26VNRGyrnjEuBnsD) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK) | [Flutes, Echoes, It's All Happening!](https://open.spotify.com/album/22aOMaVdU4T335x8n5CLM1) | 2:31 | 2021-10-06 | 2022-08-04 |
 | [Calimayan](https://open.spotify.com/track/73xAnUDRUQbZy65hOr80IJ) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK) | [Flutes, Echoes, It's All Happening!](https://open.spotify.com/album/1e52dh3GiiAVMNetdNA2pE) | 2:31 | 2021-10-06 | 2022-07-05 |
-| [Camille](https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:04 | 2021-10-06 |  |
+| [Camille](https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:04 | 2021-10-06 | 2023-11-08 |
 | [Canticle of Cryo](https://open.spotify.com/track/3U9PQdXemvi1gI5Rzrq3eN) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 7:42 | 2022-10-14 | 2022-10-28 |
 | [CAPEL CELYN](https://open.spotify.com/track/3rRLjBfDvixAxLUpHUOB3O) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Phantom Brickworks](https://open.spotify.com/album/3S4zFHeNv6oNLN8H9HXy2w) | 8:12 | 2021-10-06 | 2022-06-02 |
 | [capitOl pt\. 2](https://open.spotify.com/track/4pzTjCyzDTCJHwqg8GIQCo) | [Brady Cohan](https://open.spotify.com/artist/6HLiUGOcX8sVjmmxuEeCi6) | [Studies, Vol\. 2](https://open.spotify.com/album/2hJSbSTpW1GwZRciuKTIGK) | 6:21 | 2021-10-06 | 2022-07-19 |
@@ -496,7 +497,7 @@
 | [Ventus](https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q) | [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Ventus](https://open.spotify.com/album/2BeYKXlzWEn6CxsK1GRinY) | 5:04 | 2023-02-14 | 2023-06-04 |
 | [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 | 2021-10-06 | 2023-03-20 |
 | [Virtual U](https://open.spotify.com/track/39nTI9fKd7tB0AUuQObLf1) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Gallery Love](https://open.spotify.com/album/449aXZhYMnuXRL877ZFF64) | 5:02 | 2021-10-06 | 2022-10-15 |
-| [Vision of Self](https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:47 | 2022-10-14 | 2023-11-06 |
+| [Vision of Self](https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:47 | 2022-10-14 |  |
 | [Vixen](https://open.spotify.com/track/2pb6ojnggCASqe3AWA1Ty2) | [r o s so](https://open.spotify.com/artist/1gpMfVmjQR8tj5k0LWZ6Qx) | [Vixen](https://open.spotify.com/album/3EQfecdYQko209sbSGCN8O) | 3:48 | 2022-04-06 | 2022-07-10 |
 | [VLetrmx](https://open.spotify.com/track/7iupjrZvckPcvC4aeqeqcC) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/31nThm3LyQVvrndqxhvjWl) | 8:27 | 2021-10-06 | 2022-04-10 |
 | [Voicen](https://open.spotify.com/track/0FFOJsHgE6Egh6MEm2QnPu) | [tristan](https://open.spotify.com/artist/76wCQLbhdV3sr1eRfhSZhU), [Yearling](https://open.spotify.com/artist/2lZ8Jshc8PibJ2UNC7RwNc) | [Exchange](https://open.spotify.com/album/6Ytk3moNRtMnRSa75vrPvA) | 3:54 | 2022-03-30 | 2022-04-20 |
@@ -529,6 +530,6 @@
 | [Zorza](https://open.spotify.com/track/1KRAvMxcvm62rAHUzs9n00) | [Pruski](https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib) | [Zorza](https://open.spotify.com/album/6c4KbagJQzxCyefFMUbRCi) | 5:36 | 2022-02-18 | 2022-07-29 |
 | [Неизбежно](https://open.spotify.com/track/1zRpr4YLFJzoN72yrdteqN) | [Gospel Gin](https://open.spotify.com/artist/09eQPEAGFDxA3a7k5OvpLU) | [Неизбежно](https://open.spotify.com/album/459xB5WmsADeIOch0MsMv4) | 5:17 | 2022-03-11 | 2022-07-26 |
 | [ザ・ミラージュ](https://open.spotify.com/track/1fvrnSlOdMqNTsRMzZZLSZ) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 5:06 | 2021-10-06 | 2022-07-18 |
-| [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 | 2021-10-06 |  |
+| [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 | 2021-10-06 | 2023-11-08 |
 
 \*This playlist was first scraped on 2022-01-06. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: CARR \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,195 likes - 125 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,240 likes - 125 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 82 | [do you think it was the last time?](https://open.spotify.com/track/0htfRkYdvFdjhZOz3YCp1A) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [do you think it was the last time?](https://open.spotify.com/album/5GF1z8ApTTX7CgBk9Q31O4) | 2:41 |
 | 83 | [Keep Up!](https://open.spotify.com/track/775qkqGi3EuSKfglfvZvsP) | [sunfade](https://open.spotify.com/artist/4NnJCD1J8mF7lcBy4DSCSW) | [Keep Up!](https://open.spotify.com/album/4kXXloqfOzhOAxjyBtHZIw) | 3:10 |
 | 84 | [Taking Up Sports](https://open.spotify.com/track/0dlGaLCdoDKcrK7v3tdBHb) | [Cherym](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5) | [Taking Up Sports](https://open.spotify.com/album/5ogRaa13BvMAVcxVnOnsSf) | 3:04 |
-| 85 | [Lidocaine](https://open.spotify.com/track/41MYbtUtWEND9vbXanon9O) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Lidocaine](https://open.spotify.com/album/3SMBG7hypD1gVe1ow53E8A) | 2:31 |
+| 85 | [Lidocaine](https://open.spotify.com/track/01xBC2hkESbCnZ4rDwyod7) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Liar Liar](https://open.spotify.com/album/73mgU4EA3qgV9Dfko9TrZk) | 2:31 |
 | 86 | [My Inner Child Is Dead](https://open.spotify.com/track/7hw70vV9CVQrzIGFSmH0U2) | [Summer Hoop](https://open.spotify.com/artist/5bJpzOPrVuGyusOODkFeIM) | [My Inner Child Is Dead](https://open.spotify.com/album/1zgssCN5XnpbczycwWZHQZ) | 3:27 |
 | 87 | [Alone Again](https://open.spotify.com/track/3f0iEz11sOiYSPKorO53kx) | [Split System](https://open.spotify.com/artist/37jDGGhU8pF8nOMBhodmxW) | [Alone Again](https://open.spotify.com/album/3vlDabuf1YN9GRH24mAq25) | 3:21 |
 | 88 | [Autonomy Shop](https://open.spotify.com/track/1SQcpGtOW3xiInjzf63I3l) | [Thank You, I'm Sorry](https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU) | [Autonomy Shop](https://open.spotify.com/album/61qL8SJF5jDZmzlO23obrc) | 2:21 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 124 | [Olly Carp](https://open.spotify.com/track/2VspudiJVujvSewaidcfKZ) | [HYLA](https://open.spotify.com/artist/7hpxHWdnM6cECjtgqMiWOo) | [Olly Carp](https://open.spotify.com/album/09tgHx4T78MhsW4XP0GKte) | 4:35 |
 | 125 | [It's A Pain](https://open.spotify.com/track/6fYQfO8TdcHsrGsyiHcbP6) | [Bummer Camp](https://open.spotify.com/artist/03PQWgjoaJt88TpMi1dmm5) | [Big Deal](https://open.spotify.com/album/4hclPpxh4OdsHhYc14TpQV) | 2:54 |
 
-Snapshot ID: `MCxjOTMyNDAyZmQxZmIxNDA3M2NlOWVkNmU4YTYxYjE4ODU4YzZmY2Q5`
+Snapshot ID: `MCxhNzQ4M2UwNTdjMTcxY2Y2MjZiNDljNmY2ZDUyMDA4ZmM3YmFjNTBj`

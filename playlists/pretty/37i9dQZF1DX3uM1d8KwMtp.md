@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,654 likes - 53 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,684 likes - 53 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 43 | [Somebody \- Edit](https://open.spotify.com/track/6sGmDThWXd16RUqAI4VRFz) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk), [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Somebody \(Edit\)](https://open.spotify.com/album/294RRK6GjMAA3ezK8KTMxj) | 3:43 |
 | 44 | [Blaze](https://open.spotify.com/track/1O8YpzFXe7vbjck2Wtz1y4) | [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Blaze](https://open.spotify.com/album/6SwnBZstvXFzoepcQOPXJy) | 5:45 |
 | 45 | [When We Meet](https://open.spotify.com/track/4SMLbQZ9rM5BV8ZxLEOtGk) | [Zakem](https://open.spotify.com/artist/3aZZJkTAm6G2NRZ6DaiL7K) | [The Rain Dance](https://open.spotify.com/album/0TLE2OhP2Hspnn9DIJEKyb) | 7:40 |
-| 46 | [Mambo Jambo](https://open.spotify.com/track/1rSjmBi8rvl1mJg1eAOkan) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mambo Jambo](https://open.spotify.com/album/5TA2xPbvz4x9TJeWMJluGo) | 6:11 |
+| 46 | [Mambo Jambo](https://open.spotify.com/track/1n0d2fCAQCdohS6YPnXKWB) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mambo Jambo](https://open.spotify.com/album/18Eojx8WXtpxRLAqkmnRit) | 6:11 |
 | 47 | [Bilmediğim](https://open.spotify.com/track/5AHF5RqrJLftYSZmGJL8sz) | [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo), [Bahar Sönmez](https://open.spotify.com/artist/520KKfuqZPd2NsljBhWL5H) | [Bilmediğim](https://open.spotify.com/album/4L4HZ2HQ7lCD8C0FuP96aP) | 7:34 |
 | 48 | [Home](https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Home](https://open.spotify.com/album/146ZQxIBQIyEOA2oCLGD1c) | 5:30 |
 | 49 | [Zaman](https://open.spotify.com/track/7BLeCvppiINVHR1R11tLiQ) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Zaman](https://open.spotify.com/album/00cKNtxmJ6xdQue5uZ9Peo) | 6:38 |
 | 50 | [Malawi](https://open.spotify.com/track/0cxZ9Fv1rYRavkbVvdwBT7) | [SirYLL](https://open.spotify.com/artist/65Y8uaasPCKMctCyyk0qOw) | [Malawi](https://open.spotify.com/album/7ixdpATJyqFtWGevSD7PJU) | 4:43 |
-| 51 | [Amore](https://open.spotify.com/track/0m6fSWEw7QwLSrkS1tWsiJ) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs) | [Amore](https://open.spotify.com/album/1RJyJUZKnRR5NUgMC8d6k6) | 6:23 |
+| 51 | [Amore](https://open.spotify.com/track/3LvAMGMQt0GEPSBrDFxkRB) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs) | [Amore](https://open.spotify.com/album/1EYorKstvQBgM546TX9CNg) | 6:23 |
 | 52 | [Shikiria \- Zakem, Yescene Remix](https://open.spotify.com/track/65yxCD6MLeTiTiMLCENRhN) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25), [Zakem](https://open.spotify.com/artist/3aZZJkTAm6G2NRZ6DaiL7K), [Yescene](https://open.spotify.com/artist/2K81NzC5UFgLf1mgmHtbSt) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 7:32 |
 | 53 | [Madan](https://open.spotify.com/track/19UXAgu0PzHHWSlmzLv9Qj) | [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3), [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Madan](https://open.spotify.com/album/48CVbFIVq033H7ajrXaJTY) | 3:18 |
 
-Snapshot ID: `MCxiODcyNzFkMjEyODk0MDMyZjYxNTJlYzQ3MmE5Y2RiNjRmZTE2OTFj`
+Snapshot ID: `MCwwZmM2NTc1MjljMGU3MTE5OTkzOTY4ZTBmYTliOWVkZWQ4MzQyMGJm`

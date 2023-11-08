@@ -516,10 +516,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 80271,
       "name": "AREAMATE MIZ",
       "url": "https://open.spotify.com/track/6A3uNmMItYREVU0mKY84DO"
+    },
+    {
+      "album": {
+        "name": "AREAMATE MIZ",
+        "url": "https://open.spotify.com/album/5zjPzj6uBC7cKbBehDtsqc"
+      },
+      "artists": [
+        {
+          "name": "Imprviious",
+          "url": "https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80300,
+      "name": "AREAMATE MIZ",
+      "url": "https://open.spotify.com/track/0jFVh6ZKnTa7YeXhegoizc"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 3885,
+  "num_followers": 3902,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjgzZmMxZTU0OWVkZTM5MWE1NjZjNzUyNjdjMGY2Nzc4OWQ4ZmQ3",
+  "snapshot_id": "MCwyNjAyZGIxMmU3YjIwN2JiMTk5Yjk5OGFhZWVkMGI3ZGQzOGZmNjg0",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "La Espina",
-        "url": "https://open.spotify.com/album/31E2WkAxbbxIthqROYkvWp"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        },
-        {
-          "name": "Taiguerz",
-          "url": "https://open.spotify.com/artist/2Yi5LaK2meRKaZ7oUUFHPu"
-        }
-      ],
-      "duration_ms": 150636,
-      "name": "La Espina",
-      "url": "https://open.spotify.com/track/2K1PJYuqulzmR5zf6VqnmP"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Toco Madera",
         "url": "https://open.spotify.com/album/68UesQ9evFURlSjc4PJrr8"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 228073,
       "name": "Toco Madera",
       "url": "https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "La Espina",
+        "url": "https://open.spotify.com/album/31E2WkAxbbxIthqROYkvWp"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        },
+        {
+          "name": "Taiguerz",
+          "url": "https://open.spotify.com/artist/2Yi5LaK2meRKaZ7oUUFHPu"
+        }
+      ],
+      "duration_ms": 150636,
+      "name": "La Espina",
+      "url": "https://open.spotify.com/track/2K1PJYuqulzmR5zf6VqnmP"
     },
     {
       "added_at": "2023-11-03 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain]
 
 > The best of 2000s Y2K nostalgia, from Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 1,599,556 likes - 134 songs - 8 hr 49 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 1,599,506 likes - 134 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain]
 | 133 | [Take Da Charge](https://open.spotify.com/track/2XOKoaCWziW0W14DPeY7XS) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Layin' Da Smack Down \(Explicit Version\)](https://open.spotify.com/album/1SVEph4VG00L3vsmMeeBcC) | 3:06 |
 | 134 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
 
-Snapshot ID: `MTc5MCxhNmVhODMzZjEwMjRkNjNiY2U0NGRmMWYxMWQ5NDVmMmI5ZjZiMWJm`
+Snapshot ID: `MTc5MixhZWJkNTQ5Y2ExOTU1YzFjZTEyNGZmYjc4NmFmMzllOThhN2RjOTgz`

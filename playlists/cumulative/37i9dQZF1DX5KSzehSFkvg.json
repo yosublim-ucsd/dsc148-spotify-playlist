@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-11",
-  "description": "Les meilleurs Pop Hits Maghr\u00e9bins sont ici. Cover: Houssainy",
+  "description": "Les meilleurs Pop Hits Maghr\u00e9bins sont ici. Cover: Manal",
   "name": "Top Maghreb Pop",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 182272,
       "name": "3lah 3lah",
       "url": "https://open.spotify.com/track/6mjWcrUhGtvPwAaRMN00e5"
+    },
+    {
+      "album": {
+        "name": "9AD BIA",
+        "url": "https://open.spotify.com/album/5OW9hrQBgVAB4oDBuDEJp1"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166228,
+      "name": "9AD BIA",
+      "url": "https://open.spotify.com/track/5qV1jHWF80Pe3jQHHFzIol"
     },
     {
       "album": {
@@ -778,7 +796,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 180763,
       "name": "Makhelaw magalou",
       "url": "https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw"

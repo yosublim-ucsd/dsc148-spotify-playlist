@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:44oncuQSlFMMh7PRslRKUk\">Blocage</a>",
+  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:4ctoRm4PSfS4v7YdoHgIen\">Macadamia</a>",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 170434,
       "name": ".individui",
       "url": "https://open.spotify.com/track/3t2LvOTmxM5ap16sBQh4Jj"
@@ -324,6 +324,24 @@
       "duration_ms": 120208,
       "name": "2022",
       "url": "https://open.spotify.com/track/2axmOv5CUQUxScqDMitFII"
+    },
+    {
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/0wFCY6K8Ewgja70dzoYgrr"
+      },
+      "artists": [
+        {
+          "name": "Masha Palazzo",
+          "url": "https://open.spotify.com/artist/1Fq5o81IJx8izNt3g9PJs3"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149389,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/2A4gMABjLdqfqjZKqly1i6"
     },
     {
       "album": {
@@ -2774,7 +2792,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 132632,
       "name": "C'est magique",
       "url": "https://open.spotify.com/track/7oynHAPhWJiIpRtyDQVLa2"
@@ -2846,7 +2864,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 136484,
       "name": "Calle",
       "url": "https://open.spotify.com/track/4icuPzamIun545Wo0jbHNW"
@@ -5635,6 +5653,24 @@
     },
     {
       "album": {
+        "name": "FAMMI MALE",
+        "url": "https://open.spotify.com/album/0iD0mIHGkUWzQlGsHDsvpq"
+      },
+      "artists": [
+        {
+          "name": "ELETTRICA",
+          "url": "https://open.spotify.com/artist/2ZXPwoWGIuwqjLNLboL3pa"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155193,
+      "name": "FAMMI MALE",
+      "url": "https://open.spotify.com/track/568eUgYTIDmKZo8J01kecJ"
+    },
+    {
+      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/2RGUJun6AQFdrsZ29xy37C"
       },
@@ -7895,6 +7931,24 @@
     },
     {
       "album": {
+        "name": "Jev\u00e2",
+        "url": "https://open.spotify.com/album/45AaYGP6P09ZhDdfd3ZBje"
+      },
+      "artists": [
+        {
+          "name": "Massimo Silverio",
+          "url": "https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289266,
+      "name": "Jev\u00e2",
+      "url": "https://open.spotify.com/track/2FhZX9eE3EkQKhtNRAmfqO"
+    },
+    {
+      "album": {
         "name": "PARADISE SEEDS",
         "url": "https://open.spotify.com/album/4Z5iqfxXZrEnZvccgJlk3r"
       },
@@ -7914,6 +7968,24 @@
       "duration_ms": 191500,
       "name": "JOEL (feat. Loren)",
       "url": "https://open.spotify.com/track/0Ddr8FUbkmrgGBNy4PYJlo"
+    },
+    {
+      "album": {
+        "name": "JOKIC",
+        "url": "https://open.spotify.com/album/3muiUloDTKnQ4XlVFFnirZ"
+      },
+      "artists": [
+        {
+          "name": "Medho Laine",
+          "url": "https://open.spotify.com/artist/1FPlZpA48XK8WvFJ3vHvrm"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127547,
+      "name": "JOKIC",
+      "url": "https://open.spotify.com/track/2n2a2z8zvJiW0SCFpfUyAz"
     },
     {
       "album": {
@@ -9524,6 +9596,24 @@
       "duration_ms": 177643,
       "name": "MANIFESTO",
       "url": "https://open.spotify.com/track/3oxzgz3ryPufTNisCcNJC7"
+    },
+    {
+      "album": {
+        "name": "Marchigiano",
+        "url": "https://open.spotify.com/album/0RKJE8XzuCKa9QQiiEBHVp"
+      },
+      "artists": [
+        {
+          "name": "SANTO STEFANO",
+          "url": "https://open.spotify.com/artist/2WcspLiai7qmRn02e3x1m1"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163397,
+      "name": "Marchigiano",
+      "url": "https://open.spotify.com/track/1tbrM6wpL2IO8N6eMwomar"
     },
     {
       "album": {
@@ -11948,7 +12038,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 172000,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/4xebOpVE3l1zTybNlS2IOv"
@@ -12260,6 +12350,24 @@
       "duration_ms": 170303,
       "name": "PA PAROLE",
       "url": "https://open.spotify.com/track/0m88IfKB8vrEskhCtLSc7f"
+    },
+    {
+      "album": {
+        "name": "Pacific Coast Highway",
+        "url": "https://open.spotify.com/album/4c1NlLtA0zqLtcuPB4W06R"
+      },
+      "artists": [
+        {
+          "name": "Rue de Paradis",
+          "url": "https://open.spotify.com/artist/7EcEdJgnkzNf8IMl41JZNi"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209693,
+      "name": "Pacific Coast Highway",
+      "url": "https://open.spotify.com/track/1q8VvE2vA3ti6MvNMKfCOT"
     },
     {
       "album": {
@@ -12819,6 +12927,28 @@
     },
     {
       "album": {
+        "name": "Philosophia/Save Me",
+        "url": "https://open.spotify.com/album/0Ce4zxdguthYJNcQltOEnJ"
+      },
+      "artists": [
+        {
+          "name": "CRIPTABASEMENT",
+          "url": "https://open.spotify.com/artist/3ds0qpI9DlQv0nve3nCG4c"
+        },
+        {
+          "name": "Hyr\u00ecn",
+          "url": "https://open.spotify.com/artist/0MwTmw2jGIVUCZPYCZyeWa"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Philosophia/Save Me",
+      "url": "https://open.spotify.com/track/5f7WVcejmkNNOA6BjSVP2b"
+    },
+    {
+      "album": {
         "name": "Piangi mai (domani)",
         "url": "https://open.spotify.com/album/0MwrHf04OMj7HOG29XC5ev"
       },
@@ -13332,6 +13462,28 @@
       "duration_ms": 189428,
       "name": "Posso Tenerti Con Me",
       "url": "https://open.spotify.com/track/0SpalTBYUi9tZ66Ack8GcT"
+    },
+    {
+      "album": {
+        "name": "Potrei",
+        "url": "https://open.spotify.com/album/6ZZSMhzUcrdp8dyQKNy9Iz"
+      },
+      "artists": [
+        {
+          "name": "Bollenti Spiriti",
+          "url": "https://open.spotify.com/artist/0z0WIcFmz8Ongg6uNrHB5L"
+        },
+        {
+          "name": "o k h o",
+          "url": "https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Potrei",
+      "url": "https://open.spotify.com/track/4SsIglycFBzyJs5V62NBDz"
     },
     {
       "album": {
@@ -14176,7 +14328,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 176126,
       "name": "Ripagnola Alle 19 (feat. Orelle, Martina Primavera)",
       "url": "https://open.spotify.com/track/0c8mwvjTYUZUMwiLn4vhbX"
@@ -14248,7 +14400,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 120000,
       "name": "ROCKY & JORDAN",
       "url": "https://open.spotify.com/track/5K1heRDELc5W7dd8eZKyMa"
@@ -15419,6 +15571,24 @@
     },
     {
       "album": {
+        "name": "Sognavo tanto",
+        "url": "https://open.spotify.com/album/16XmqPu3kIuhqZnxvfF5lS"
+      },
+      "artists": [
+        {
+          "name": "Niclo",
+          "url": "https://open.spotify.com/artist/4C9IzYpcXBRkxWYQKS5zSv"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121741,
+      "name": "Sognavo tanto",
+      "url": "https://open.spotify.com/track/4eV4ZpQq3D1Ws57BNia7GP"
+    },
+    {
+      "album": {
         "name": "equilibrio",
         "url": "https://open.spotify.com/album/4AXNdeU9WSP3Gx0FybfuU5"
       },
@@ -16526,6 +16696,24 @@
       "duration_ms": 202105,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/5uG1GyUcuTt5t3BPFHbEVV"
+    },
+    {
+      "album": {
+        "name": "Super9",
+        "url": "https://open.spotify.com/album/3x909N70YmnXQDa55csaej"
+      },
+      "artists": [
+        {
+          "name": "Erika Lei",
+          "url": "https://open.spotify.com/artist/2UgoJ1vvaUXjKXn7C8BXp0"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189091,
+      "name": "Super9",
+      "url": "https://open.spotify.com/track/3hqhK6p7w8dobyP6nlTRjN"
     },
     {
       "album": {
@@ -18012,6 +18200,24 @@
       "duration_ms": 187086,
       "name": "Vertigine",
       "url": "https://open.spotify.com/track/414rYnSg7ihdTU9gD3mY3b"
+    },
+    {
+      "album": {
+        "name": "VERTIGINI",
+        "url": "https://open.spotify.com/album/1f5lAyEabaOLgGpbYupjjO"
+      },
+      "artists": [
+        {
+          "name": "Sunset Radio",
+          "url": "https://open.spotify.com/artist/1se8zzXJ2zpzQvdAQIhr4H"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162246,
+      "name": "VERTIGINI",
+      "url": "https://open.spotify.com/track/1jIcRFM32ZLlk4GlnV7ylt"
     },
     {
       "album": {

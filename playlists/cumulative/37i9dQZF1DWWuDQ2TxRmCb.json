@@ -142,12 +142,12 @@
       },
       "artists": [
         {
-          "name": "Divya Kumar",
-          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
-        },
-        {
           "name": "Shruti Pathak",
           "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
         }
       ],
       "date_added": "2023-03-10",

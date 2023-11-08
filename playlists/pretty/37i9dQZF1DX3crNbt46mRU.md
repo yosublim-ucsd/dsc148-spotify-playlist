@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: The Beatles
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,557 likes - 103 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,555 likes - 103 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 55 | [Someone Else](https://open.spotify.com/track/02BJ4G2eSGqO1vrTm8ZCEl) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Someone Else](https://open.spotify.com/album/4DfM93jNdKl5BFua7cPGfl) | 2:57 |
 | 56 | [BELLYDANCING](https://open.spotify.com/track/74HBdKMibHlpW312HTFReN) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BELLYDANCING](https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n) | 2:02 |
 | 57 | [Landslide \(feat\. Nafe Smallz\)](https://open.spotify.com/track/25roKnaj1LrahRrGjBcqQy) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Landslide \(feat\. Nafe Smallz\)](https://open.spotify.com/album/5IraEqtcwvylKHZlBX1V92) | 3:14 |
-| 58 | [STAGE](https://open.spotify.com/track/0vpAFF53lDswKfZophN5Fq) | [DAWY](https://open.spotify.com/artist/3v8vi3lmV320mhSk5tjTOv), [Migu](https://open.spotify.com/artist/6w2W92u6aBcEQXFP0u8OvG), [AP Supreme](https://open.spotify.com/artist/4nzgBQYgKrl1sQYeI0XwlZ) | [STAGE](https://open.spotify.com/album/7yA8j0Pdpvmg7NSlYb5jeZ) | 2:39 |
+| 58 | [STAGE](https://open.spotify.com/track/0vpAFF53lDswKfZophN5Fq) | [DAWY](https://open.spotify.com/artist/3v8vi3lmV320mhSk5tjTOv), [Migu](https://open.spotify.com/artist/6w2W92u6aBcEQXFP0u8OvG), [AP Supreme](https://open.spotify.com/artist/3YnrCAv1s0GVoRAPmdz1d3) | [STAGE](https://open.spotify.com/album/7yA8j0Pdpvmg7NSlYb5jeZ) | 2:39 |
 | 59 | [I Got You](https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Got You](https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv) | 2:44 |
 | 60 | [BLa\*\_\*](https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [BLa\*\_\*](https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK) | 2:27 |
 | 61 | [Wenn ich dich vermiss](https://open.spotify.com/track/2QgKmLATYP6flwZY1DdHdy) | [Sanko](https://open.spotify.com/artist/3flBJMGlVNawcnvurLNNFX) | [Wenn ich dich vermiss](https://open.spotify.com/album/4AWnSMaCPUUuO3okIPBGC4) | 2:12 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 79 | [why dont we go](https://open.spotify.com/track/54PYCknS6lsyUXSkgnj2OM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [why dont we go](https://open.spotify.com/album/5G5Ujsxpgm9F79YNkGfE4q) | 2:46 |
 | 80 | [EDELWEISS](https://open.spotify.com/track/0zsrAMseubr4yinw9wMIS2) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [C.B.A.](https://open.spotify.com/album/3TJZ4mrUVX6lVY4EuOqpr8) | 2:47 |
 | 81 | [du bist mein type \(maria 24\) \(feat\. Miss Platnum\)](https://open.spotify.com/track/5TKyo47hZby9FAGUt9OOiM) | [Maria Kalashnikow](https://open.spotify.com/artist/59nbqokb4bfEWoVaSsUndj), [Miss Platnum](https://open.spotify.com/artist/30SUIQhGDLj1pP0yg4fSMu) | [du bist mein type \(maria 24\) \(feat\. Miss Platnum\)](https://open.spotify.com/album/2xRX75FB4ixTaqKmbHnYpP) | 3:26 |
-| 82 | [NEVER WILL I LET YOU GO \(feat\. Simi\)](https://open.spotify.com/track/7vNG72ZHmA5PWIcnE9ta7H) | [Patrice](https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE), [Simi](https://open.spotify.com/artist/7MwjTVtCci9TjA2elekJQe) | [9](https://open.spotify.com/album/2DbL0zVF543WfNBeMRvuxa) | 2:28 |
+| 82 | [NEVER WILL I LET YOU GO \(feat\. Simi\)](https://open.spotify.com/track/7vNG72ZHmA5PWIcnE9ta7H) | [Patrice](https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [9](https://open.spotify.com/album/2DbL0zVF543WfNBeMRvuxa) | 2:28 |
 | 83 | [Deine Mama hat dich wohl nie geliebt \(TW\)](https://open.spotify.com/track/7riwwyxtiYwt6GLgaUuczW) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Deine Mama hat dich wohl nie geliebt \(TW\)](https://open.spotify.com/album/1dTCF0wijfIQrxaVq8kOld) | 2:51 |
 | 84 | [2'CY](https://open.spotify.com/track/3R0SI46gC5a9BfFKXtbtSo) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [2'CY](https://open.spotify.com/album/1OeImrfH0v0zDItzvbov9y) | 2:59 |
 | 85 | [Boys Lie](https://open.spotify.com/track/6VH7CHJl7t9pvUUyQOKVhf) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Boys Lie](https://open.spotify.com/album/4fg11InEwQRikdTiBWstPG) | 2:30 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 102 | [Young & Free](https://open.spotify.com/track/6fAykULmAdoUNqIorQZAVs) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Young & Free](https://open.spotify.com/album/0UeyTVnph7j8kYLCJMcYai) | 3:02 |
 | 103 | [Polizisten](https://open.spotify.com/track/76T4OHNAVcEypDQEbviZnf) | [The Disco Boys](https://open.spotify.com/artist/0suokA0Exjok9HBfB0Oc3X), [Extrabreit](https://open.spotify.com/artist/24PlSVIGWBTu65G4tEUwGj) | [Polizisten](https://open.spotify.com/album/2kAXaGXyDUIqFxllECO4Yo) | 2:28 |
 
-Snapshot ID: `MCxhNTkxOTFjOGYxZGVhYWIzYzk3MDc4MDQ0MzBhNjNhNjgxNGIwZmQ0`
+Snapshot ID: `MCxkOWY4Y2ZiMzY3NjgzOGUyODQ0NmI2MmNjNTA5MGEyNzkzNGMxMDlm`

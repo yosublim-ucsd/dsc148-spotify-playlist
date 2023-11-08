@@ -221,6 +221,32 @@
     },
     {
       "album": {
+        "name": "Bhoo Bandham",
+        "url": "https://open.spotify.com/album/1BpORTZsYI1axbf7yr5DBM"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338571,
+      "name": "Bhoo Bandham",
+      "url": "https://open.spotify.com/track/4UXkFdFmKnkZP6gcF3rb3a"
+    },
+    {
+      "album": {
         "name": "Bullettu Bandi",
         "url": "https://open.spotify.com/album/6sapVBhAdDDnyElCsUwEwn"
       },
@@ -360,7 +386,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 240407,
       "name": "Chilipi Gnapakam Female Version",
       "url": "https://open.spotify.com/track/6OpwxZxIW10ir69O7VKlED"
@@ -668,6 +694,24 @@
       "duration_ms": 186775,
       "name": "Gangulu",
       "url": "https://open.spotify.com/track/7w8FMDcDJcDWAw5UKXc2j7"
+    },
+    {
+      "album": {
+        "name": "Godavari",
+        "url": "https://open.spotify.com/album/2J4cu3KzM51Te8P8uTcFAC"
+      },
+      "artists": [
+        {
+          "name": "Arjun Vijay",
+          "url": "https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187383,
+      "name": "Godavari",
+      "url": "https://open.spotify.com/track/7EmSbTmg17FhujgxefuPBa"
     },
     {
       "album": {
@@ -2398,7 +2442,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 117500,
       "name": "Panipuri Anthem",
       "url": "https://open.spotify.com/track/0zBSq5bRDfTCu9p8XWjBbg"

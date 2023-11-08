@@ -4,7 +4,7 @@
 
 > 
 
-84 songs - 4 hr 54 min
+86 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 | 2020-08-17 |  |
 | [How Bad We Need Each Other](https://open.spotify.com/track/0gWcJrbC41WK5qsKowO0tz) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Out Of Style](https://open.spotify.com/album/2PbLPXxJ8Hh5PWVrcwgM5T) | 3:13 | 2020-08-19 |  |
 | [I Can't Tell](https://open.spotify.com/track/2kFfIqJrpXvP3IxE4WgKiO) | [Moorea Masa & the Mood](https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR) | [I Can't Tell](https://open.spotify.com/album/1nVqJdevwEeMRE8eXUqnlv) | 3:43 | 2020-05-12 |  |
+| [I Don't Like Sleeping Without You](https://open.spotify.com/track/19GG2n6ATXDTqUfoMpwfUl) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Featherbrained Wealth Motel](https://open.spotify.com/album/3TJQWtOjyGVJ7UPXZIq7Uo) | 2:18 | 2023-11-07 |  |
 | [I Like You](https://open.spotify.com/track/7Afr3PKTtlFGHGiXYgnv6P) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Walking in Between](https://open.spotify.com/album/0kuIIUFaebmwLCmhp6nwVu) | 2:18 | 2020-09-03 |  |
 | [I Will Always Be Yours](https://open.spotify.com/track/4m1lB7qJ78VPYsQy7RoBcU) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Magic](https://open.spotify.com/album/1FmtmLnB1KrXjK0uWLkyhq) | 3:46 | 2020-09-24 |  |
 | [It Would Be You](https://open.spotify.com/track/0roPf0bwAsBDZv1bR15m15) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [It Would Be You](https://open.spotify.com/album/58xzcDEz0sn7F36ZEnfYHV) | 3:39 | 2020-08-17 |  |
@@ -91,6 +92,7 @@
 | [What Would I Do Without You](https://open.spotify.com/track/11TK5KLtLZUdKr1C549bAw) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Good Light](https://open.spotify.com/album/4WXwjwVrr6TFi0HpE5QXq4) | 2:52 | 2020-08-17 |  |
 | [White Stripes](https://open.spotify.com/track/69OkhV0QbIXHHZCPhh14MF) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [White Stripes](https://open.spotify.com/album/0wjU2zzUESb62gtYHgtxXP) | 3:22 | 2020-05-12 |  |
 | [Workin' on Lovin'](https://open.spotify.com/track/31FE5PNTIS51l1OR8Jb2cy) | [Juice](https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E) | [Workin' on Lovin'](https://open.spotify.com/album/4GSCxebidDdcCIMgljn7gq) | 3:54 | 2021-09-14 |  |
+| [Yearslong](https://open.spotify.com/track/71uW8vimjz7N9045bcoyC8) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Featherbrained Wealth Motel](https://open.spotify.com/album/3TJQWtOjyGVJ7UPXZIq7Uo) | 3:23 | 2023-11-07 |  |
 | [You, Dear](https://open.spotify.com/track/7pO8ZYgR52OTF2xmEa22wM) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/6VtxEWVdKRHUyRnrtC3K7r) | 3:07 | 2020-08-17 |  |
 
 \*This playlist was first scraped on 2021-01-27. Prior content cannot be recovered.

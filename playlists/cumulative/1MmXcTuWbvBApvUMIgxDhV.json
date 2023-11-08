@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Featherbrained Wealth Motel",
+        "url": "https://open.spotify.com/album/3TJQWtOjyGVJ7UPXZIq7Uo"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138948,
+      "name": "I Don't Like Sleeping Without You",
+      "url": "https://open.spotify.com/track/19GG2n6ATXDTqUfoMpwfUl"
+    },
+    {
+      "album": {
         "name": "The Walking in Between",
         "url": "https://open.spotify.com/album/0kuIIUFaebmwLCmhp6nwVu"
       },
@@ -1548,6 +1566,24 @@
       "duration_ms": 234026,
       "name": "Workin' on Lovin'",
       "url": "https://open.spotify.com/track/31FE5PNTIS51l1OR8Jb2cy"
+    },
+    {
+      "album": {
+        "name": "Featherbrained Wealth Motel",
+        "url": "https://open.spotify.com/album/3TJQWtOjyGVJ7UPXZIq7Uo"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203592,
+      "name": "Yearslong",
+      "url": "https://open.spotify.com/track/71uW8vimjz7N9045bcoyC8"
     },
     {
       "album": {

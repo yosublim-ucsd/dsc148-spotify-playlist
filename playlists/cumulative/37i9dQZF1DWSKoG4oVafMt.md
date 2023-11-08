@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-791 songs - 1 day 18 hr 59 min
+792 songs - 1 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Ik Kahani](https://open.spotify.com/track/5QJnZIV6OuW6vgIQXgpOX9) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Ik Kahani \- Kaka](https://open.spotify.com/album/0UauqdFbTkrPPZZZvzDSbe) | 2:50 | 2022-01-14 | 2022-02-12 |
 | [Ik Kudi](https://open.spotify.com/track/4dpIFUAr0byE6N4oalHTFa) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8) | [Ik Kudi](https://open.spotify.com/album/6SQaMW7xiLvL8PmGdWZIwv) | 3:24 | 2022-12-08 | 2023-02-04 |
 | [Ik Mili Mainu Apsraa](https://open.spotify.com/track/39chWL7FFnxleLCBUXquv4) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Ik Mili Mainu Apsraa](https://open.spotify.com/album/6UBOEZZXK11zsgwekmcMKa) | 4:02 | 2022-01-15 | 2022-02-01 |
+| [Ikk Number](https://open.spotify.com/track/3IIfZy5KjNupxhlZfoPfOw) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Ikk Number](https://open.spotify.com/album/2zzVGCWpet59talzUugOaA) | 3:02 | 2023-11-07 |  |
 | [Ikk Taara Tuta \- From "P.R."](https://open.spotify.com/track/0XpQ26NbTXPyqCRRCoZ9Zp) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf), [Sabir Ali](https://open.spotify.com/artist/3tZ8wQquxUwLnS4yr7czym) | [Ikk Taara Tuta \(From "P.R."\)](https://open.spotify.com/album/3CiJDlIoqFmzcT4yaU1aTZ) | 8:29 | 2022-06-01 | 2022-07-06 |
 | [Iko Zindagi](https://open.spotify.com/track/3qTAXAJXCmYxbc9AnEeVlS) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Prince Rakhdi](https://open.spotify.com/artist/27D50vNC9ZMp58DGsWU2g2), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Iko Zindagi](https://open.spotify.com/album/0STaVuZue6lZ2VIbcGpZfh) | 2:51 | 2023-01-11 | 2023-02-04 |
 | [Ilahi \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/track/4TsopDP9uBKf0oBN01CKoC) | [Mehtab Virk](https://open.spotify.com/artist/6npKsb0CeJMFX3FwjKybfD) | [Ilahi \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/album/7Amx2o2pSvJHgoddju9d0p) | 3:33 | 2022-04-21 | 2022-04-29 |
@@ -775,7 +776,7 @@
 | [Whip](https://open.spotify.com/track/3xJwcFXAHXjlNQZOpAa2BQ) | [Rav Aulakh](https://open.spotify.com/artist/41mbGEbwlzaCzy3sDVuFoj) | [Whip](https://open.spotify.com/album/5GU2aCSt5rdDWYdpEu1h0p) | 3:02 | 2022-06-22 | 2022-07-06 |
 | [Why Cry](https://open.spotify.com/track/4V35lnM3sBuVQYUhm9E5vJ) | [Abhishek Bakhshi](https://open.spotify.com/artist/0XnfQkaJNBwnCCxrusdgAy) | [Patthar](https://open.spotify.com/album/1K8bZd1kecTp2F353DuNCv) | 2:52 | 2022-08-19 | 2022-09-01 |
 | [Why Nachdi Na](https://open.spotify.com/track/3vAuT0b6jFNuS6yylkJWbG) | [Jasbir Jassi](https://open.spotify.com/artist/2wmT2Bx63mrFKMYGQieYi3) | [Why Nachdi Na](https://open.spotify.com/album/76rFVsaTmYQcSTKI3H5F83) | 2:27 | 2022-01-17 | 2022-02-01 |
-| [With You](https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [With You](https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j) | 2:34 | 2023-08-21 |  |
+| [With You](https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [With You](https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j) | 2:34 | 2023-08-21 | 2023-11-08 |
 | [With You](https://open.spotify.com/track/6VOUQEmmoiL0UdLZobO3HT) | [Dev Gill](https://open.spotify.com/artist/3s4mWjKMhnjvqg6qH6iqkd) | [With You](https://open.spotify.com/album/2xsGSiN4JTiUlM66aheAt4) | 3:30 | 2022-08-12 | 2022-08-19 |
 | [WITH You](https://open.spotify.com/track/6f0bUz9NXrQ61Zj7mNutEN) | [DEV GILL](https://open.spotify.com/artist/6331JW7GefIgr9l5I5MTQa) | [WITH You](https://open.spotify.com/album/2HS0rhqXNMLejezBYGEKpR) | 3:30 | 2022-08-18 | 2022-09-01 |
 | [With You](https://open.spotify.com/track/4yITU6ac7XXzgvKyLAYGUR) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [With You](https://open.spotify.com/album/5Oy6JCgYwrlj1mkZzRtWfA) | 2:36 | 2022-07-13 | 2022-08-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the MENA region\. Cover: Alan Walker, Sophie Stray & Zena Emad
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,461 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,495 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 22 | [Motive](https://open.spotify.com/track/4KbfDwkYomFfWCnN80rBcL) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ) | [Motive](https://open.spotify.com/album/5AxqSoZnhNy5Na65UZTTIz) | 2:29 |
 | 23 | [Laar Ya Laar](https://open.spotify.com/track/6p1nVQXxuS3bI5jXxwZnnF) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Laar Ya Laar](https://open.spotify.com/album/4cpHlMvyOBWGHGAa9sufhw) | 2:10 |
 | 24 | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/track/7a4fFS88i5CiAn3zCkfoGk) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Bosy](https://open.spotify.com/artist/3wREoMa2oI5qs6NsmQcsKb), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/album/3wYZey6tv0VrSgpYUkCLQs) | 3:42 |
-| 25 | [Babale \- FNX Omar Remix](https://open.spotify.com/track/6wPq6H82E2mige9LIXk2Yx) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Babale](https://open.spotify.com/album/4U9EPs88vdcXt8Myq0ad4j) | 3:47 |
+| 25 | [Babale \- Fnx Omar Remix](https://open.spotify.com/track/3bVI4SanGkOw5DCtjOFULx) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Babale](https://open.spotify.com/album/2mFfoNM9RYDSRyLgymUQPQ) | 3:47 |
 | 26 | [Fog Elna Khil \- Tyrvnt Remix](https://open.spotify.com/track/29SkEO4EJVs2Wa5kTps3f9) | [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL), [Zamane](https://open.spotify.com/artist/12Idndj4QId8wutMkBpBcc), [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [Fog Elna Khil \(Tyrvnt Remix\)](https://open.spotify.com/album/5mL8U6uMNh6qOzwwvYa3cA) | 4:12 |
 | 27 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 |
 | 28 | [Nasini El Donya \( House Mix \)](https://open.spotify.com/track/2kuqe8VWo6jfzWhOjYKUFT) | [Eylie](https://open.spotify.com/artist/2LEuHMar2nVA7ohZ3oE8cj), [DJ Maximus](https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE) | [Nasini El Donya \( House Mix \)](https://open.spotify.com/album/7mZDbuKkM0yDAQqCD6zQM0) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 49 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 |
 | 50 | [Bel Ahlam \(Remix\)](https://open.spotify.com/track/5jonBF1ctoQZ3vkaTN5VIv) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM) | [Bel Ahlam \(Remix\)](https://open.spotify.com/album/7F8KwU004mAZFkyAzzK4qc) | 3:22 |
 
-Snapshot ID: `MCw3N2Y0NDllNTZkYmQ4NmU2MDYxZTE2YTM5MzI3MDg5MzU3ZjAyMWI3`
+Snapshot ID: `MCw0NGQ4MzdhNmFjMjQ3ZmRlYjA4NzMzM2MzOGEzOTJmYTk5MTRiZGM1`

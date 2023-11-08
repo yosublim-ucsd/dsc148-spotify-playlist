@@ -544,6 +544,28 @@
     {
       "album": {
         "name": "Christophonk (From \"Christopher\")",
+        "url": "https://open.spotify.com/album/7x7wOZn05pbLNI3EgEqw3C"
+      },
+      "artists": [
+        {
+          "name": "Justin Varghese",
+          "url": "https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh"
+        },
+        {
+          "name": "Jack' Styles",
+          "url": "https://open.spotify.com/artist/6kSff0CdORBb2zNCTuMeEX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183048,
+      "name": "Christophonk (From \"Christopher\")",
+      "url": "https://open.spotify.com/track/1UglxhqM4NJFs7Nzwrqg0q"
+    },
+    {
+      "album": {
+        "name": "Christophonk (From \"Christopher\")",
         "url": "https://open.spotify.com/album/0SV2MCJcut7l3iveH7Bz9i"
       },
       "artists": [
@@ -1109,6 +1131,32 @@
     },
     {
       "album": {
+        "name": "KARAM",
+        "url": "https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44"
+    },
+    {
+      "album": {
         "name": "Lokam Mayakathilo",
         "url": "https://open.spotify.com/album/43xEqVTSaLK0Yn1TrffeXS"
       },
@@ -1518,7 +1566,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 67058,
       "name": "NJ - Kattanchaya",
       "url": "https://open.spotify.com/track/1PnNh5twTnJ8Z4PVN6lgb1"
@@ -2086,7 +2134,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 130500,
       "name": "Therapara",
       "url": "https://open.spotify.com/track/5bcDMaATnR4HzSHzYjWRNS"

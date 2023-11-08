@@ -4,7 +4,7 @@
 
 > 世界中で話題のエレクトリニック・ダンスミュージックを一つのプレイリストに！Cover: Sloppy Disk \(KM, TJO\)
 
-264 songs - 13 hr 17 min
+265 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [All I Want](https://open.spotify.com/track/0U0hYjI9boxgmloVfMdfWe) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq), [N3RD](https://open.spotify.com/artist/5iBLTo15GS9kbESDXrC3pR) | [All I Want](https://open.spotify.com/album/1davgSnBAmq2l7EeDPelI2) | 2:56 | 2023-04-20 | 2023-05-05 |
 | [All Nighter](https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:14 | 2023-06-29 | 2023-10-27 |
 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 | 2023-03-16 | 2023-06-29 |
-| [All Or Nothing](https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [All Or Nothing](https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5) | 2:27 | 2023-03-16 |  |
+| [All Or Nothing](https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [All Or Nothing](https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5) | 2:27 | 2023-03-16 | 2023-11-08 |
 | [All The Things She Said](https://open.spotify.com/track/3a5VAKV2lXI2x2jQEgrX3B) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [All The Things She Said](https://open.spotify.com/album/6RaqLOaAQCJhhhn9xvTT9T) | 2:49 | 2023-10-05 | 2023-11-03 |
 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 | 2023-05-18 | 2023-07-07 |
 | [Alright](https://open.spotify.com/track/0gBGGCTXBFtTYguFXsaIOb) | [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY) | [Alright](https://open.spotify.com/album/7cJgycotBt21NHJTPeTFwo) | 3:20 | 2023-07-20 | 2023-10-27 |
@@ -236,6 +236,7 @@
 | [Super High](https://open.spotify.com/track/5IaEUlKfsmVeQlx50kpdDO) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 2:29 | 2023-11-02 |  |
 | [Sweet Cha Cha](https://open.spotify.com/track/3j3wCiF7XhCvxM20xqsIWV) | [Watanabe Sisters](https://open.spotify.com/artist/0NPbvHp500KC97smmnw5yU) | [Sweet Cha Cha](https://open.spotify.com/album/71ojkDVs6t5LWKMd0j7cgN) | 2:17 | 2023-06-08 | 2023-06-30 |
 | [Sweet Goodbye](https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sweet Goodbye](https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo) | 2:37 | 2023-03-16 | 2023-09-01 |
+| [T35T4R0554](https://open.spotify.com/track/7MbVUW01lIVDGqwTWUfW2j) | [Rave Racers](https://open.spotify.com/artist/7cAx8raTkmzauwfJqGj0Ug), [CYBERHACKSYSTEM](https://open.spotify.com/artist/6eO2Ox9tLupT0VS0mMQibZ) | [Overtake 2](https://open.spotify.com/album/5m4BMfuZYPROa1HGegtFs1) | 4:52 | 2023-11-07 |  |
 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 | 2023-03-16 | 2023-04-07 |
 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 | 2023-03-16 | 2023-04-05 |
 | [Tattoo \- Topic Remix](https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Tattoo \(Topic Remix\)](https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9) | 3:31 | 2023-10-19 |  |

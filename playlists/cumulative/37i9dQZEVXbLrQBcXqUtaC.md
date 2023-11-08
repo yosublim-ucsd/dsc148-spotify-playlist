@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-1,067 songs - 2 day 13 hr 41 min
+1,068 songs - 2 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,6 +586,7 @@
 | [nobody believes in you, you lost again and again and again](https://open.spotify.com/track/2r7AdorSjD8GWyMNO339Oz) | [Tirakiss](https://open.spotify.com/artist/2fyt0Q0BzCypPg07Fi6I8N) | [nobody believes in you, you lost again and again and again](https://open.spotify.com/album/4FfexOWNLHDApxZoaoc7LC) | 1:00 | 2023-03-03 | 2023-03-05 |
 | [nobody believes in you, you lost again and again and again](https://open.spotify.com/track/6xjRfN85FaVkJMcXkqPyhJ) | [Tirakiss](https://open.spotify.com/artist/2fyt0Q0BzCypPg07Fi6I8N) | [nobody believes in you, you lost again and again and again](https://open.spotify.com/album/1sz0dRKsgLmGtmkNGqramz) | 1:00 | 2023-02-18 | 2023-03-04 |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2023-01-23 | 2023-01-27 |
+| [Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 2:47 | 2023-11-07 |  |
 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:37 | 2022-01-03 | 2022-04-01 |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2022-02-09 | 2022-04-20 |
 | [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 | 2023-10-28 | 2023-11-03 |
@@ -988,7 +989,7 @@
 | [توادعني](https://open.spotify.com/track/079sdn3zsNpWS7JvJ6amUs) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [توادعني](https://open.spotify.com/album/39ORPPpwaDQoo8cv0CtjOk) | 3:50 | 2021-05-03 | 2021-05-09 |
 | [جابك الطاري](https://open.spotify.com/track/0qN5UU5wE0a3Tr9WwY27Ek) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [جابك الطاري](https://open.spotify.com/album/03KzNL2l4OnxXqlz96C2kB) | 4:24 | 2021-03-27\* | 2021-08-06 |
 | [جرح الخيانة](https://open.spotify.com/track/2kR9jxjX7j6wuHc3eaJhCq) | [سجاد حقي](https://open.spotify.com/artist/32Fg5G3aPFk7Eh19jsbWLY) | [SS 2050](https://open.spotify.com/album/0mUD9gBC7PiCzfD7sHjLM0) | 2:33 | 2022-09-03 | 2023-04-27 |
-| [جننت قلبي](https://open.spotify.com/track/6PnSITYfgUE5vTCLRy3Y8S) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [جننت قلبي](https://open.spotify.com/album/4pEnflTz0BQxSdcX2mptfP) | 4:47 | 2023-10-09 |  |
+| [جننت قلبي](https://open.spotify.com/track/6PnSITYfgUE5vTCLRy3Y8S) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [جننت قلبي](https://open.spotify.com/album/4pEnflTz0BQxSdcX2mptfP) | 4:47 | 2023-10-09 | 2023-11-08 |
 | [حرام عليك \- مسرع](https://open.spotify.com/track/5URLWQZJYEEGUdYABqpjzB) | [Toomyh](https://open.spotify.com/artist/20FKm9sbfyhN7cc5SWOII7) | [Toomyh](https://open.spotify.com/album/6WIS0caVaAe7rarRPQ9IcN) | 4:20 | 2023-05-25 | 2023-06-09 |
 | [حرام عليك \- مسرع](https://open.spotify.com/track/5Vsolt6OourbctzgPte7Ie) | [Toomyh](https://open.spotify.com/artist/20FKm9sbfyhN7cc5SWOII7) | [toomyh](https://open.spotify.com/album/5kSEhBR0RACs660oZlCtwP) | 4:20 | 2023-03-02 | 2023-06-10 |
 | [حلوة حياتي معاه](https://open.spotify.com/track/0pyDBJEGh4vtREyHaAhxUf) | [عبدالله ناصر](https://open.spotify.com/artist/34cgeyBX5QJGZ5aYXEmqwo) | [حلوة حياتي معاه \- Single](https://open.spotify.com/album/7htd8c6EY2OSVfXvj9FrRj) | 3:58 | 2021-09-01 | 2021-09-05 |

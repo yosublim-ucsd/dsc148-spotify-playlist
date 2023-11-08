@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: Mau P
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,016,310 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,016,440 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 74 | [Fell In Luv](https://open.spotify.com/track/5G7DvsOLvNE5HTVmJJyo6K) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW) | [Fell In Luv](https://open.spotify.com/album/16BgVS1U2T7UvDmewU2t5m) | 3:58 |
 | 75 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
 
-Snapshot ID: `MCw2YTdjNzIyMjUzOGI2ZGYzNDg2NmNhYzk3NmNjNTU2YjQxNjE0MmIz`
+Snapshot ID: `MCwxZmJhYzkzOWFmNDEwYTgzODJjYzQ4NDc0Y2EwN2ZjY2EzOGU5MDM3`

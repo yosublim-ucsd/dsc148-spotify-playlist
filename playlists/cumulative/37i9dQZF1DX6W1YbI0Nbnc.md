@@ -2,9 +2,9 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> 結集香港EQUAL女聲力量！\(cover: 鄧小巧\)
+> 結集香港EQUAL女聲力量！\(cover: 何韻詩\)
 
-248 songs - 15 hr 46 min
+252 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [人間英靈](https://open.spotify.com/track/7oNv5d0pYrSzIiYA5fRydi) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [人間英靈](https://open.spotify.com/album/1yzycSWu0g8BCJ63E5m9sj) | 4:10 | 2022-08-02 | 2022-12-01 |
 | [今生今世](https://open.spotify.com/track/2xXjrtNMkNqcstFSYMS4Ly) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [今生今世](https://open.spotify.com/album/2ZKCptfrAqWnIxrfjzZiUT) | 3:19 | 2023-08-01 |  |
 | [仍然記得嗰一次](https://open.spotify.com/track/0DL04wLVbCs1WBzmbv31B7) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S), [伍仲衡](https://open.spotify.com/artist/0EPxEvyoEu6btIkjX92Ppq) | [仍然記得嗰一次](https://open.spotify.com/album/17SU5pAR4mnMBLYIaxmoWI) | 3:27 | 2021-12-07 | 2022-01-05 |
+| [代你白頭](https://open.spotify.com/track/5uUX5BaMtNwlI2PTHmQOXF) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [代你白頭](https://open.spotify.com/album/46gHMQKqUktl7maDQU52gS) | 4:02 | 2023-11-07 |  |
 | [伴我左右 \- 劇集“金宵大廈2”主題曲](https://open.spotify.com/track/2XbaodHxkHDBCDQLFM3hzo) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [伴我左右 \(劇集“金宵大廈2”主題曲\)](https://open.spotify.com/album/5xiTVjKnIRIIDlomIss8eg) | 3:36 | 2022-05-03 | 2022-08-03 |
 | [何日不再來 \(電影《十二日》主題曲\)](https://open.spotify.com/track/6z9Ol4ibDWtwats8mfFjvR) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [何日不再來 \(電影《十二日》主題曲\)](https://open.spotify.com/album/0USshpbowLi0YbENwuD1zv) | 3:20 | 2022-01-04 | 2022-03-08 |
 | [你好嗎](https://open.spotify.com/track/78UjgHNRiFFjL9pgxic57h) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [你好嗎](https://open.spotify.com/album/1Ztu4bYqjnhm53sjM70cCI) | 5:33 | 2022-01-04 | 2022-03-08 |
@@ -142,6 +143,7 @@
 | [天荒不老 \- 劇集 "鐵拳英雄" 片尾曲](https://open.spotify.com/track/72XwUBOc3Co9XCy1CVeNO0) | [HANA](https://open.spotify.com/artist/3eMchOXfWkF7H7z3z8dGrf) | [天荒不老 \(劇集 "鐵拳英雄" 片尾曲\)](https://open.spotify.com/album/1Tg8Up1pF2ErVnZz87s1zg) | 3:48 | 2022-05-03 | 2022-08-03 |
 | [如何忍眼淚](https://open.spotify.com/track/5xvDtj7eVQNtygu89PCj8V) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [Listen To Mi](https://open.spotify.com/album/1dSQj1GKXlEGZSWH1rpwsK) | 3:48 | 2021-12-07 | 2022-01-05 |
 | [如愿](https://open.spotify.com/track/4x9retP0JqKa35zZZhNhNS) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [如愿](https://open.spotify.com/album/3uybtqPxUaSIC9qTh1Wxfg) | 4:25 | 2021-12-07 | 2022-01-05 |
+| [威廉](https://open.spotify.com/track/22roiMc12gcS8ftFLNzk0K) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [威廉](https://open.spotify.com/album/0uKpiHlej0yXKenTfDvr7t) | 5:05 | 2023-11-07 |  |
 | [小伊人愛護說明書](https://open.spotify.com/track/1iXcFABGhZSdrcTIzNcraa) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [小伊人愛護說明書](https://open.spotify.com/album/2nMO1JCBFcwzdlXe5tKLr4) | 3:33 | 2022-01-04 | 2022-02-03 |
 | [小島](https://open.spotify.com/track/2hn37fEFyplCS7stICKgAq) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [小島](https://open.spotify.com/album/13fTvWxRTs2t02FhPLCaGw) | 3:27 | 2022-03-07 |  |
 | [尚有一堆理由顯出我優秀](https://open.spotify.com/track/1cg1SNSHbG9LxIy539xi3U) | [Robynn Yip](https://open.spotify.com/artist/0FjCN42GXtXZktPmzmKWa2) | [尚有一堆理由顯出我優秀](https://open.spotify.com/album/1qvLWSZ1Sg4DQ3tUeGJPvC) | 4:10 | 2022-03-07 | 2022-05-04 |
@@ -167,6 +169,7 @@
 | [我的親人](https://open.spotify.com/track/0rYgIOQsdZVKgOHLTate7q) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [我的親人](https://open.spotify.com/album/4ZDixbvO20xlgjEixcOw0a) | 4:42 | 2023-05-02 |  |
 | [我真的受傷了](https://open.spotify.com/track/5mNanSqILS25aPhiiN1fxy) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [國語情歌集](https://open.spotify.com/album/1t1Q05AtGJ7aOTjl9XerWx) | 3:33 | 2022-11-01 | 2022-12-01 |
 | [我真的受傷了](https://open.spotify.com/track/1s28J2sYq5opmDzanJHK1E) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | ["1" \(壹\)](https://open.spotify.com/album/4QpN1uUfHM5o23UZ2HULPc) | 3:35 | 2022-11-01 | 2022-11-13 |
+| [我總是想像你離開後的日子](https://open.spotify.com/track/3tGaB12QhkhDD1xyvgZ4PU) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [我總是想像你離開後的日子](https://open.spotify.com/album/3SfQ31zdVlxOr2JgSmKVJ0) | 4:24 | 2023-11-07 |  |
 | [所有遺失的東西](https://open.spotify.com/track/02caGRpsw7IjGu99OZpJwf) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [Dark light of the soul](https://open.spotify.com/album/2M0U7cvfPl5cZ3YDsR3MuJ) | 3:36 | 2022-11-30 |  |
 | [手 \(電影《馬達‧蓮娜》主題曲\)](https://open.spotify.com/track/1SZuBGA36PNNPiH1gw0ePn) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [手 \(電影《馬達‧蓮娜》主題曲\)](https://open.spotify.com/album/4hh0r0Cs5eMjhuSE6LRaqr) | 3:38 | 2021-12-07 | 2022-01-05 |
 | [扭擰雪糕屋](https://open.spotify.com/track/2SUceujK5Dbt7YV5DTAqP6) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [扭擰雪糕屋](https://open.spotify.com/album/4ThopgD9mOzGmWMVek31hV) | 3:18 | 2022-11-01 | 2022-12-01 |
@@ -192,6 +195,7 @@
 | [末日](https://open.spotify.com/track/1x591BetVMT2xOu0Oijxle) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [Cinema of Love](https://open.spotify.com/album/1XXS5wwMFifcaYijzfRXiu) | 3:59 | 2022-11-30 |  |
 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 | 2022-05-03 |  |
 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-08-02 | 2022-12-01 |
+| [極夜後](https://open.spotify.com/track/2IrgjCGcxyYGwpr3CvpAcB) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [極夜後](https://open.spotify.com/album/31gdsPRodjQvgoD8o1dzt1) | 4:35 | 2023-11-07 |  |
 | [樹](https://open.spotify.com/track/2QYGFCVQTALeyYGNvKHn9T) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹](https://open.spotify.com/album/4RcQZBChNpUMXKcJmF5ErJ) | 3:55 | 2022-01-04 | 2022-12-01 |
 | [樹仔](https://open.spotify.com/track/67W3qb59EIvEW1PqkPL9h9) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹仔](https://open.spotify.com/album/3Ut8qXmLOY3YP7vL8cqsHQ) | 3:20 | 2022-11-30 |  |
 | [樹木真美](https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹木真美](https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU) | 4:06 | 2022-08-02 |  |

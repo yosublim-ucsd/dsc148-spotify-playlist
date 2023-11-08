@@ -4,7 +4,7 @@
 
 > Music from "That Time I Got Reincarnated as a Slime"! /アニメ「転生したらスライムだった件」の世界を彩る楽曲をプレイリストで。©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-58 songs - 2 hr 41 min
+59 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [VISIONS \(feat\. 寺島拓篤\)](https://open.spotify.com/track/3x3A39JV2eNNqyOrYvWCg1) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb), [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [VISIONS \(feat\. 寺島拓篤\)](https://open.spotify.com/album/0hYzLWKc546vSOTimwWMyY) | 3:35 | 2022-11-25 |  |
 | [おやすみオレンジ](https://open.spotify.com/track/27moDRtTrQ7TV7ePsIDxhp) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa) | [カモナ・テンペスト！／おやすみオレンジ](https://open.spotify.com/album/3WqqIxRHTGcAPg9TlFUWUP) | 4:13 | 2022-11-25 |  |
 | [カモナ・テンペスト！](https://open.spotify.com/track/1C1afAVzxCeRp77qYKs06l) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa), [大賢者 \(CV.豊口めぐみ\)](https://open.spotify.com/artist/6tDkmqVwpLXCFlLVLeR57d), [ヴェルドラ \(CV.前野智昭\)](https://open.spotify.com/artist/7ew672ZVlQDMzCgL0YrfOz), [シュナ \(CV.千本木彩花\)](https://open.spotify.com/artist/6XhyB9N3gjFRogJAjXq6YF), [シオン \(CV.M・A・O\)](https://open.spotify.com/artist/6K9Z1NbT4m9YWz2obskNwV), [ランガ \(CV.小林親弘\)](https://open.spotify.com/artist/2G2gEWJrkuAjSj69lefwLh), [ゴブタ \(CV.泊 明日菜\)](https://open.spotify.com/artist/6VSzjJS6Yv4VfvDECS3TOU) | [カモナ・テンペスト！／おやすみオレンジ](https://open.spotify.com/album/3WqqIxRHTGcAPg9TlFUWUP) | 3:46 | 2022-11-25 |  |
+| [ヒカリハナツ](https://open.spotify.com/track/4dvKQ8ic2ifWOFH87FBQdV) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [ヒカリハナツ](https://open.spotify.com/album/4UWYKyiyUnjkiTfrp8P3sU) | 3:20 | 2023-11-07 |  |
 | [ファントムライツ](https://open.spotify.com/track/2AOKmdBjUyXoxXdznUGHzO) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [LAYERING](https://open.spotify.com/album/0zkDqUmXN5wclz5CtXr3ey) | 3:50 | 2022-11-25 |  |
 | [メグルモノ](https://open.spotify.com/track/4ssMX3TcBfOlyWRvQxJywV) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [メグルモノ \(アーティスト盤\)](https://open.spotify.com/album/0lB8vkGw8JfaSWh8XbHmBM) | 4:42 | 2022-11-25 |  |
 | [ヨイハナビ](https://open.spotify.com/track/2FI3B2J9G4TwaTXvJKMLgz) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa) | [TVアニメ『転生したらスライムだった件 転スラ日記』オリジナルサウンドトラック「転生したら日記の音楽だった件」](https://open.spotify.com/album/6wgKf4HmPJf7uD4s77p0xw) | 4:07 | 2022-11-25 |  |

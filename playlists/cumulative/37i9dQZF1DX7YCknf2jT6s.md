@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Joey Alexander
 
-1,149 songs - 3 day 20 hr 31 min
+1,150 songs - 3 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [Blood Diamond](https://open.spotify.com/track/2nYINWjMcy78mubSgJHsT0) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [My Old Flame](https://open.spotify.com/album/0CnUlsfhJYEk4ZYfQJl0Qo) | 6:52 | 2022-06-24 | 2022-08-20 |
 | [Blood Diamond](https://open.spotify.com/track/3XwJ3KEhhRokcx1yAxdJdQ) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [Blood Diamond](https://open.spotify.com/album/62XolLgrIE94KkWdtm43LD) | 6:52 | 2022-06-24 | 2022-07-29 |
 | [Bluberri](https://open.spotify.com/track/208aFcXa7lY6wwHwkhZura) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Bluberri](https://open.spotify.com/album/7x7qo4Ed5RPWUmpsWAHQTE) | 2:15 | 2022-03-25 | 2022-04-13 |
-| [Blue](https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Blue](https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU) | 6:46 | 2023-09-15 |  |
+| [Blue](https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Blue](https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU) | 6:46 | 2023-09-15 | 2023-11-08 |
+| [Blue](https://open.spotify.com/track/3e2cdlozr0ZKut6dWOer3q) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 6:46 | 2023-11-03 |  |
 | [Blue](https://open.spotify.com/track/2I5SgAkJqpHCEaqjUTZ2mo) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Blue](https://open.spotify.com/album/1IjkEl3EsY1TN235FBZxkk) | 5:11 | 2022-07-01 | 2022-08-20 |
 | [Blue For You](https://open.spotify.com/track/2NE3hVkSulF5bTKa1uhJjV) | [Charlie Peacock](https://open.spotify.com/artist/4Dld5cUTz6eVReIWx9Dtyl), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Marcus Printup](https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf) | [Blue For You](https://open.spotify.com/album/0ate7tfSz0ilY0OEq8vKu9) | 7:30 | 2022-02-18 | 2022-05-14 |
 | [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 | 2023-02-10 | 2023-04-15 |

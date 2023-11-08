@@ -4,7 +4,7 @@
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-120 songs - 8 hr 16 min
+121 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [An Tagen wie diesen](https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH), [Pascal Finkenauer](https://open.spotify.com/artist/3uc18KTx2wsLk11fOtavsT) | [Am Wasser gebaut](https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg) | 4:01 | 2022-11-21 |  |
 | [An Tagen wie diesen](https://open.spotify.com/track/7jcxm0Ooi09u1LySzkBqm0) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH), [Pascal Finkenauer](https://open.spotify.com/artist/3uc18KTx2wsLk11fOtavsT) | [Am Wasser gebaut](https://open.spotify.com/album/0BfeBLEou8XkxOoXC7Q9fi) | 4:01 | 2022-03-17 | 2022-11-20 |
 | [Augen auf](https://open.spotify.com/track/0Jdx7iAwxJkx0h32wZlrJ5) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich & meine Maske \(Premium Version\)](https://open.spotify.com/album/3NsFn8eVQaA9yhT3rbiqyz) | 3:50 | 2022-03-17 | 2022-07-29 |
+| [Augen auf](https://open.spotify.com/track/1ZQdvTmo5eSs7N2LRQQSwa) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich & meine Maske \(Premium Version\)](https://open.spotify.com/album/2xBC5FpIToABiNhGz2x3jN) | 3:50 | 2023-10-11 |  |
 | [Augen auf](https://open.spotify.com/track/3nAJAotlLWvmSWHQ05D2ma) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich & meine Maske \(Premium Version\)](https://open.spotify.com/album/0fQtAAJlHLf5DQZJBVRt7t) | 3:50 | 2022-07-21 | 2023-11-05 |
 | [Authitenzität](https://open.spotify.com/track/0TubqhyX2cofKl4ZI8mBHL) | [Fatoni](https://open.spotify.com/artist/4riceIF5JCEKaSIwwLqIYt), [Dexter](https://open.spotify.com/artist/4dfYua3wPCN3mq8EStDZkZ) | [Yo, Picasso](https://open.spotify.com/album/0MLK80rpqaqJYH6EYp0OyH) | 3:21 | 2022-06-13 | 2022-06-26 |
 | [Bilder im Kopf](https://open.spotify.com/track/3AzVdNe7tCYbjjRzQyVLbN) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [\#Beste](https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE) | 3:58 | 2022-03-17 | 2023-02-03 |
@@ -82,7 +83,7 @@
 | [Lila Wolken](https://open.spotify.com/track/2i7LYnvqSFfmimscnZqVLn) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Miss Platnum](https://open.spotify.com/artist/30SUIQhGDLj1pP0yg4fSMu), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Lila Wolken \- EP](https://open.spotify.com/album/0uS3xAFBJqwjr0YqWBEGQo) | 3:48 | 2022-07-21 |  |
 | [Lila Wolken](https://open.spotify.com/track/3CT1nhEnqol4rHIdwD7Rr7) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU), [Miss Platnum](https://open.spotify.com/artist/30SUIQhGDLj1pP0yg4fSMu) | [Lila Wolken](https://open.spotify.com/album/3eXd6Kkk6nOYEbWhaivXH3) | 3:48 | 2022-03-17 | 2022-07-29 |
 | [Mein Block \(Beathoavenz Video Rmx\)](https://open.spotify.com/track/3ChqYKTyYIpK3jYd6kfN4D) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mein Block Remix](https://open.spotify.com/album/4jWszl7frUZyflSXaSNY3U) | 5:00 | 2022-03-17 | 2022-07-27 |
-| [Mit dir \(feat\. Joy Denalane\)](https://open.spotify.com/track/5EX0HiIyvhavnpjgbwDCeL) | [Freundeskreis](https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk), [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Esperanto](https://open.spotify.com/album/7vtEIlxot9pmKtv3KmSmTT) | 4:38 | 2023-07-13 |  |
+| [Mit dir \(feat\. Joy Denalane\)](https://open.spotify.com/track/5EX0HiIyvhavnpjgbwDCeL) | [Freundeskreis](https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk), [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Esperanto](https://open.spotify.com/album/7vtEIlxot9pmKtv3KmSmTT) | 4:38 | 2023-07-13 | 2023-11-08 |
 | [Mit freundlichen Grüßen](https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [4:99 \- Jubiläums\-Edition](https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl) | 3:35 | 2022-03-17 |  |
 | [Mittelfinger hoch](https://open.spotify.com/track/0t0x6vNJk3cY2YgOSOZlwM) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Favorite](https://open.spotify.com/artist/6iHHxsJtBAUzLXbqUr0bbK), [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [Chronik II](https://open.spotify.com/album/2lMQKOSTGFNQiHb50YkytY) | 3:35 | 2022-03-17 | 2022-07-11 |
 | [Mittelfinger hoch \- Remastered](https://open.spotify.com/track/6pUMwOnqt0DAvVYFtOLOb7) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y), [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Favorite](https://open.spotify.com/artist/6iHHxsJtBAUzLXbqUr0bbK) | [Legacy \- Best Of \(Remastered\)](https://open.spotify.com/album/6gZAZJfarP7nvsAumwx7dS) | 3:34 | 2022-11-21 | 2023-06-23 |

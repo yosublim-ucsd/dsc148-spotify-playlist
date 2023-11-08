@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "5D Dub",
+        "url": "https://open.spotify.com/album/42YFQezKo7skzOMbFs3hiv"
+      },
+      "artists": [
+        {
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347861,
+      "name": "5D Dub",
+      "url": "https://open.spotify.com/track/4DqoVq7KnfCguft72zY82M"
+    },
+    {
+      "album": {
         "name": "Refuge",
         "url": "https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg"
       },
@@ -1806,7 +1824,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 304144,
       "name": "Camille",
       "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
@@ -9408,7 +9426,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 347981,
       "name": "Vision of Self",
       "url": "https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n"
@@ -10014,7 +10032,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 238003,
       "name": "\u65e5\u672c\u306e\u7a7a\u6c17 - Air of Japan",
       "url": "https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw"

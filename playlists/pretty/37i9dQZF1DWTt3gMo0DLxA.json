@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover - OG",
-  "num_followers": 49282,
+  "num_followers": 49360,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjQyMGQwM2Y1YmVkYTEyNjcxMmYwMTdmOTc0NGRlYWQxOTc4ZTk4",
+  "snapshot_id": "MCxjYTAzM2MxYjhmZDU0MWUxYTJiYjAxNWFhOGVjODFmYmI5YzA2Nzhm",
   "tracks": [
     {
       "added_at": "2023-09-05 04:53:08",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-08-30 10:44:11",
       "album": {
-        "name": "Chitti (From \"Jathi Ratnalu\")",
-        "url": "https://open.spotify.com/album/3vcbeHMefvNcmt3UWddxe8"
-      },
-      "artists": [
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        },
-        {
-          "name": "Radhan",
-          "url": "https://open.spotify.com/artist/5FOhBMFQo0pDhvISlFmxdi"
-        }
-      ],
-      "duration_ms": 184128,
-      "name": "Chitti (From \"Jathi Ratnalu\")",
-      "url": "https://open.spotify.com/track/6Z40IRipd6pNcUULY6SXng"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
         "name": "Darling (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/13J2XQOZo0I8ZAufTXFvyd"
       },
@@ -895,26 +875,6 @@
       "duration_ms": 327640,
       "name": "Uppenantha",
       "url": "https://open.spotify.com/track/57zEYntUat0ofbFpoicN26"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Ayyayyo (From \"Mem Famous\")",
-        "url": "https://open.spotify.com/album/4HUS7r8KwX10VFNc9EIv3H"
-      },
-      "artists": [
-        {
-          "name": "Rahul Sipligunj",
-          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
-        },
-        {
-          "name": "Kalyan Nayak",
-          "url": "https://open.spotify.com/artist/7tENuzTbvAI7BhqFbZI7Ul"
-        }
-      ],
-      "duration_ms": 222016,
-      "name": "Ayyayyo (From \"Mem Famous\")",
-      "url": "https://open.spotify.com/track/3dtfHypbH2717f8HlvY8DY"
     },
     {
       "added_at": "2023-08-30 10:44:11",

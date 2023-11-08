@@ -4,7 +4,7 @@
 
 > Announcing <a href="https://tickets.spotify.com/events/spotify\-stages\-presents\-fresh\-finds\-brooklyn">Fresh Finds Live in New York</a> @ Baby's 12/4 ft Arcy Drive, Rahill, slimdan\. The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Artwork by Isu Kim.
 
-5,298 songs - 12 day 0 hr 37 min
+5,299 songs - 12 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -840,7 +840,7 @@
 | [CDWU](https://open.spotify.com/track/7BAx0TzD2eE7amrzEZH1Hg) | [Simon Kidzoo](https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA) | [CDWU EP](https://open.spotify.com/album/04CqfNadncHwswivDrT9xM) | 3:02 | 2022-07-27 | 2022-08-04 |
 | [Cedar Island](https://open.spotify.com/track/2mu4GuE7tG8vAiFsXgSQYC) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8) | [Cedar Island](https://open.spotify.com/album/69ppA0WybAHl4hpGqQQUqc) | 2:57 | 2023-04-26 | 2023-05-04 |
 | [Celebration \(feat\. Waayve, Temia, Liyah & Mannie\)](https://open.spotify.com/track/1OxmuIHpa6a9DM352tvhlG) | [Nycesound Production](https://open.spotify.com/artist/4KuYv8blOVBw5mqckQ4a6L), [Waayve](https://open.spotify.com/artist/43frrjZm4xIly8czdRd2ix), [Mannie](https://open.spotify.com/artist/0zgAhjlUqDIcAm9hwZmiFw), [Liyah](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu), [Temia](https://open.spotify.com/artist/1lNU1BvYhxDcUyXkgyUVMa) | [Celebration \(feat\. Waayve, Temia, Liyah & Mannie\)](https://open.spotify.com/album/7FJPusS9ib4zXgwL3gzEZv) | 3:02 | 2022-10-19 | 2022-10-27 |
-| [Celebrity Lookalikes](https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Celebrity Lookalikes](https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu) | 3:32 | 2023-08-23 |  |
+| [Celebrity Lookalikes](https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Celebrity Lookalikes](https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu) | 3:32 | 2023-08-23 | 2023-11-08 |
 | [Celle\-là](https://open.spotify.com/track/3hm9gts2ixxMsPEn0MiH9G) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Grand Eugène](https://open.spotify.com/album/60doKMH86BYnApXvT5jeic) | 3:19 | 2023-06-14 | 2023-06-29 |
 | [Cellule](https://open.spotify.com/track/5VWeApf5a7Qp8Rh2wy3QZn) | [Tomasi Brothers](https://open.spotify.com/artist/3lc2hwCYX5BRmUzqXVazyE) | [Cellule](https://open.spotify.com/album/3xFOdXk4AOyzMGixCcNQJS) | 5:16 | 2023-05-24 | 2023-06-01 |
 | [Cenizas](https://open.spotify.com/track/688BEx0xZQmWtgxEtZk43H) | [Rollo California](https://open.spotify.com/artist/23WprTctrNSgdvOPEGFfGp), [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Cenizas](https://open.spotify.com/album/6kYBHRqulDX38YUvBfTpUw) | 2:47 | 2023-06-28 | 2023-07-13 |
@@ -3114,6 +3114,7 @@
 | [Moving Light](https://open.spotify.com/track/4MrpDYKdZ8CYsfTw3hnNma) | [Ezra Glatt](https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek) | [Moving Light](https://open.spotify.com/album/4t4E8cI5Nxb1jRPwqmNDbA) | 1:32 | 2022-08-03 | 2022-08-11 |
 | [Moving On](https://open.spotify.com/track/6x8TBdLQ6XpAoF3c4bhYtW) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Moving On](https://open.spotify.com/album/5PdOlosh5fbfrbNm9XEh1M) | 3:10 | 2023-06-07 | 2023-06-15 |
 | [MOVING OUT](https://open.spotify.com/track/7fSTZhtVFJPwgnCT2OQjax) | [Whu Else](https://open.spotify.com/artist/4YzpHOw5CeN2PhIgiEyGML) | [MOVING OUT](https://open.spotify.com/album/62vcpQLftIASBmn5zLlsd5) | 2:16 | 2023-05-03 | 2023-05-11 |
+| [Mozart in My Mind](https://open.spotify.com/track/1fTKaYCVdkPrFLto9Q36G8) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Mozart in My Mind](https://open.spotify.com/album/3yrSqrGXFiRjjETGudPFLQ) | 3:06 | 2023-11-07 |  |
 | [Mr Brash](https://open.spotify.com/track/1jWjinqN5I8g9lv7ayD4dM) | [8SZN](https://open.spotify.com/artist/753JaXwtDiTrkoralInWtD) | [Mr Brash](https://open.spotify.com/album/74wEqu8uH8hfAOoRRLQgKv) | 3:05 | 2023-06-07 | 2023-06-15 |
 | [Mr\. Big Shot](https://open.spotify.com/track/7v1QhkWSqRXEuydfPZJLfe) | [UglyFace](https://open.spotify.com/artist/6cVTa42IphmDksBQ8O0Zsv) | [Mr\. Big Shot](https://open.spotify.com/album/3HTMsebm3qglzqCkIjpreQ) | 3:42 | 2022-09-07 | 2022-09-15 |
 | [Mr\. Daniels](https://open.spotify.com/track/71lebr8qkx1GzcdXxJBzSu) | [Honeyboys](https://open.spotify.com/artist/6oe3ko37znSjQrf7TYClYM) | [Mr\. Daniels](https://open.spotify.com/album/6XUnEcTBP1qH0DGwqpUUif) | 4:33 | 2023-01-11 | 2023-01-19 |

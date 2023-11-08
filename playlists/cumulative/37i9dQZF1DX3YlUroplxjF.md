@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-405 songs - 23 hr 12 min
+406 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Blue](https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [The Truth in Your Eyes](https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm) | 3:47 | 2022-04-01 |  |
 | [Blue](https://open.spotify.com/track/4Gfo5wAk8uPP5auPvQyC7y) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [Blue](https://open.spotify.com/album/4OZfH2lZxKgp7CK7whPze0) | 3:47 | 2021-11-30 | 2022-07-29 |
 | [BLURRY \(out of place\)](https://open.spotify.com/track/14uAFiZ94iMTeEpXq1cLCi) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Sudden Sky](https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb) | 3:20 | 2021-11-30 | 2023-11-04 |
+| [BLURRY \(out of place\)](https://open.spotify.com/track/5Zls4RuRbomkrthG1p18Tc) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Sudden Sky](https://open.spotify.com/album/7f8faOO0gxuG26Qo7GIlkr) | 3:20 | 2023-06-20 |  |
 | [Book Of Curses](https://open.spotify.com/track/0UsmHgJqLUvVBuFKyqB1VL) | [Adulkt Life](https://open.spotify.com/artist/66eBmk1nmbCCt0HE1VANWW) | [Split](https://open.spotify.com/album/7MjkIhfjC2XLpOtGqPYzny) | 3:16 | 2022-04-01 | 2022-04-21 |
 | [Break Me Down](https://open.spotify.com/track/6hUEwiltS9W4UdO3h2NCsK) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 | 2022-04-01 |  |
 | [Break Me Down](https://open.spotify.com/track/7fPtc6eLQKvSUAR4MjBo1f) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Break Me Down](https://open.spotify.com/album/4ZqklwVo7XWoyqCT8LTzv1) | 3:10 | 2021-11-30 | 2022-07-24 |
@@ -76,7 +77,7 @@
 | [Choke](https://open.spotify.com/track/7limjM5x3keqRzoEfZeoYh) | [Demon in Me](https://open.spotify.com/artist/3tcbtzaC4TyC6JbBzsQjnX) | [Choke](https://open.spotify.com/album/7uXIo2UMYhIMtB2GesdaL7) | 4:13 | 2021-11-30 | 2022-07-29 |
 | [Chrysanthemum](https://open.spotify.com/track/4J5ZNmOT4G5Veit9hz0MZl) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Chrysanthemum](https://open.spotify.com/album/2AWHSx7QvvbwQ6LVFpP4j6) | 3:20 | 2021-11-30 | 2022-05-19 |
 | [Circle The Drain](https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 3:35 | 2022-04-01 |  |
-| [Closer to Comfort](https://open.spotify.com/track/1KLmiSyLPgqc13H4gTBdoU) | [Dreamhouse](https://open.spotify.com/artist/46ByQLvGTasUlZZ0fzvop4), [Andy Cizek](https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta), [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Reverberating Silence](https://open.spotify.com/album/4J5uVKPMdxp2bJwyePzQVC) | 3:56 | 2021-11-30 |  |
+| [Closer to Comfort](https://open.spotify.com/track/1KLmiSyLPgqc13H4gTBdoU) | [Dreamhouse](https://open.spotify.com/artist/46ByQLvGTasUlZZ0fzvop4), [Andy Cizek](https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta), [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Reverberating Silence](https://open.spotify.com/album/4J5uVKPMdxp2bJwyePzQVC) | 3:56 | 2021-11-30 | 2023-11-08 |
 | [Cold](https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip) | [Bloom](https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl) | [Cold](https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O) | 3:39 | 2021-11-30 |  |
 | [COLD BLOOD](https://open.spotify.com/track/2IwBtsToltEHPDn8QJqHaC) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [COLD BLOOD](https://open.spotify.com/album/5gAZ9Iay75PXZITgGlIc1K) | 5:26 | 2022-02-28 | 2022-07-29 |
 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 | 2022-04-01 |  |

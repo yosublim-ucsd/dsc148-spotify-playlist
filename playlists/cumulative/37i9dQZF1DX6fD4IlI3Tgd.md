@@ -4,7 +4,7 @@
 
 > Desde México hasta Argentina, el hogar de los beats latinoamericanos\. Foto: MIEL
 
-62 songs - 3 hr 28 min
+63 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Body On My Mind](https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf) | 2:49 | 2023-08-18 |  |
 | [Brisas Del Mar](https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Brisas Del Mar](https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY) | 3:16 | 2023-08-18 |  |
 | [Cancún](https://open.spotify.com/track/2eLzS75uEe5NFXIWOhuoqy) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Lamic](https://open.spotify.com/artist/0kZghiFuW2mfJKbObHkwmA) | [Cancún](https://open.spotify.com/album/0wpYHCnXB6DjAtHODHQdj0) | 2:48 | 2023-08-18 |  |
-| [Cantalo](https://open.spotify.com/track/7zuNdvQ8KDEEu9wTGFKqyR) | [Les Castizos](https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Cantalo](https://open.spotify.com/album/5uw2wsLG5KiH22BbduOtmH) | 4:02 | 2023-08-18 |  |
+| [Cantalo](https://open.spotify.com/track/6UIqRcSumEv1ITtXB3rc8X) | [Les Castizos](https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Cantalo](https://open.spotify.com/album/1ID1oLpVJ0wcBeYblNRiQn) | 4:02 | 2023-08-18 |  |
+| [Cantalo](https://open.spotify.com/track/7zuNdvQ8KDEEu9wTGFKqyR) | [Les Castizos](https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Cantalo](https://open.spotify.com/album/5uw2wsLG5KiH22BbduOtmH) | 4:02 | 2023-08-18 | 2023-11-08 |
 | [Choir Roads](https://open.spotify.com/track/6VOLVcWyy5Rf0vSPYYN4JT) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Tálita](https://open.spotify.com/artist/18OPt8obRRChUWsZjRVqUx) | [Choir Roads](https://open.spotify.com/album/6R2CCusiNwKkFUj8HoHOYi) | 3:17 | 2023-08-18 |  |
 | [Dale](https://open.spotify.com/track/4jMTSIsfNucOQmnake770S) | [DJ Goozo](https://open.spotify.com/artist/5tnFFb9eJcPTwYReZWR8Zj), [Massianello](https://open.spotify.com/artist/6oARZ0ckg0uN1GEs22MQw7), [Di Dross](https://open.spotify.com/artist/1T4m9H4LGqdpXISE3VVEZ7) | [Dale](https://open.spotify.com/album/2NYGDO7TsqBv1IeuVVD3Tb) | 3:33 | 2023-08-18 |  |
 | [Dancing](https://open.spotify.com/track/4uRx9FjP15Z4Yiy6P0Z4lN) | [Guz Zanotto](https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI), [Kof](https://open.spotify.com/artist/32udpvcxCMsZ86JrmFD59a), [STÖRIE MUSIC](https://open.spotify.com/artist/3QMx1pN3uOTn188FWNHVwf) | [Dancing](https://open.spotify.com/album/49q4hEuHz3TbmMpAbLm0Xb) | 2:14 | 2023-08-18 |  |

@@ -1,13 +1,29 @@
 {
   "description": "For all the beautiful queens! Guest curated by Victoria Mon\u00e9t",
-  "num_followers": 68540,
+  "num_followers": 68780,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmU1ZDg4YjZhNTMzYzlhNmJkYjg0MDFmYTIwYzdlMDhlZmNjNmNh",
+  "snapshot_id": "MCw2NzE5YTQ5MTBlZTMzNDdkOTVkYzk2MTAwNWMzMzY3NDQ2NjJiOTMw",
   "tracks": [
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 184258,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
+    },
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {

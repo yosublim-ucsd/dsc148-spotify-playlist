@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- somanshu, Lisa Mishra, OAFF and The Rish
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,979 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,995 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 34 | [Until the Sun](https://open.spotify.com/track/6f8Oa07VVEiCuir7bIEtl7) | [Black Letters](https://open.spotify.com/artist/0glNGCIZztkKr1cmnsYdS6) | [Until the Sun](https://open.spotify.com/album/0ZFAqfOn9pmSorPseluRiS) | 4:52 |
 | 35 | [Dil Hi To Hai](https://open.spotify.com/track/7zBgwvwMEdFmTIOxYCoM3X) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Dil Hi To Hai](https://open.spotify.com/album/6gdK76yyTXbwBgRbPP5Ii5) | 2:38 |
 | 36 | [Kyu Duur Hai](https://open.spotify.com/track/65ri2V67w0oYnr2SkZEeTe) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Shor](https://open.spotify.com/artist/3S8X8QIU0sGRzRKYHDiXDX) | [Kyu Duur Hai](https://open.spotify.com/album/73agZtVf8E0inXNHq6KaLM) | 2:58 |
-| 37 | [Alone](https://open.spotify.com/track/07BBjWSQWHrmQ5HHoO09i9) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Alone](https://open.spotify.com/album/0yjjoGvVbYQQ2xlpI6Vfom) | 2:48 |
+| 37 | [Alone](https://open.spotify.com/track/5as5nPPMgQe8d6ckvsbam2) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Alone](https://open.spotify.com/album/2yChy4tPTlcy4cZ31dASyr) | 2:48 |
 | 38 | [Rut](https://open.spotify.com/track/5uh7keTPmUsignN5Ic4xz3) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Rut](https://open.spotify.com/album/63IaAvAME2z5eLC8qKkIhs) | 3:26 |
 | 39 | [Ghule](https://open.spotify.com/track/1SRw6AawwihNR3uQUOTSAi) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Ghule](https://open.spotify.com/album/2Lf8HLjJ8N9OxXiNloWMzA) | 5:36 |
 | 40 | [Soona](https://open.spotify.com/track/1qIDnZLs3KSHiMXGSdYmXL) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1) | [Soona](https://open.spotify.com/album/74I12Fwbyg8mR32aLMrnYa) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Mazaakiyan](https://open.spotify.com/track/6k7NmvQ4K4v2b9ZqOZ9GYz) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Mazaakiyan](https://open.spotify.com/album/4K8RsN4S41LAP7XAIpuMSM) | 2:28 |
 | 50 | [Aankhon Mein](https://open.spotify.com/track/0zTsDqhEFtHMj5SQCYdUcg) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Aankhon Mein](https://open.spotify.com/album/2PsdLAoCHDSE3r7paZG0HJ) | 3:28 |
 
-Snapshot ID: `MCxlNzMxMDYwOTU2ZWU0YzE1MzUyOGJjNzg0MWJiNmY5NmNmYWIzNzY3`
+Snapshot ID: `MCxkOThiM2QyMzBhNDJlZGI5YzUxYzczNDM5MDcwOWM1YzJhMDA4ZWY4`

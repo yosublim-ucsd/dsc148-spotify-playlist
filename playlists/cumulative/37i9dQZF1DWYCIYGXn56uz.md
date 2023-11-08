@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: VillaBanks
 
-257 songs - 11 hr 50 min
+259 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Casa Gigante](https://open.spotify.com/track/405myFSFhjIeFh83qXGtlW) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [Casa Gigante](https://open.spotify.com/album/01YVfpTlvvnbxjlyP4wxgd) | 2:37 | 2023-03-23 | 2023-04-21 |
 | [Cause Perse](https://open.spotify.com/track/7zbLHH0prN66iIognD95F6) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Cause Perse](https://open.spotify.com/album/3aJU4Ey5gJcUOIWwwG40ix) | 2:21 | 2023-03-23 | 2023-05-26 |
 | [Che bella che sei](https://open.spotify.com/track/5hKnSsWTspcGHY7iciiVwT) | [Cricca](https://open.spotify.com/artist/0oiJDgttDtTb1OGGPZmQBX) | [CRICCA](https://open.spotify.com/album/3GUQc2bZUzFlK9MwnrFfWI) | 2:43 | 2023-06-22 | 2023-07-07 |
+| [CHE FAI](https://open.spotify.com/track/2sTg9dCPOJKJ52BnZGRoBt) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [CHE FAI](https://open.spotify.com/album/0ZuHFQf7VRevzAHfXBbjah) | 2:21 | 2023-11-07 |  |
 | [Che mettevi sempre](https://open.spotify.com/track/5STrHzIUfsWe9glyyUCGjx) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK), [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L) | [Che mettevi sempre](https://open.spotify.com/album/2XdkDYtLGXJ8lAQaMWxtFN) | 3:03 | 2023-03-23 | 2023-04-14 |
 | [Che t'o dico a fa'](https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t'o dico a fa'](https://open.spotify.com/album/7kILSxiEN9pJrFyr7Bs8OE) | 3:07 | 2023-10-05 |  |
 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 | 2023-03-23 |  |
@@ -72,6 +73,7 @@
 | [Del + e del \-](https://open.spotify.com/track/3XLiJfgPLGbOhemWzuNpHO) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Del + e del \-](https://open.spotify.com/album/6biAzgZtwwShblArNSSzPs) | 2:56 | 2023-10-19 | 2023-11-03 |
 | [die young](https://open.spotify.com/track/0PB5FBrdJJYJb306JHZazg) | [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [die young](https://open.spotify.com/album/7wAwsRkIHJYFJ9OM4r8rn8) | 2:26 | 2023-10-26 |  |
 | [DIECIMILAVOCI \(con ARIETE\)](https://open.spotify.com/track/4XULNbLgh1OiOuYMbPOmyN) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:50 | 2023-03-23 | 2023-07-28 |
+| [DIMMI CHE NON È UN ADDIO](https://open.spotify.com/track/3nIDXarK9FuClYwZQTSoK2) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [DIMMI CHE NON È UN ADDIO](https://open.spotify.com/album/6U5GyoLm2UlkuMFAWMQ0s7) | 2:57 | 2023-11-07 |  |
 | [DIRTY LOVE](https://open.spotify.com/track/4BEeA6vmhoslMtRqePZMny) | [Wayne](https://open.spotify.com/artist/4FiPwqm4GHYuJyldqILugY) | [DIRTY LOVE](https://open.spotify.com/album/1X1EiUOZEtp2ELLUBF0RMz) | 2:44 | 2023-04-20 | 2023-05-26 |
 | [DISCO DANCE](https://open.spotify.com/track/2Er6snDRbWiaoag3n7fOTS) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [DISCO DANCE](https://open.spotify.com/album/3kS4dybdb45EishQ2DxFvI) | 3:02 | 2023-04-27 | 2023-05-19 |
 | [DISPERATO](https://open.spotify.com/track/1YR7Ed3gb7lTUiti5uJ3lB) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [DISPERATO](https://open.spotify.com/album/48gCOKhQJu8ffxwhib4xhb) | 2:42 | 2023-06-22 | 2023-09-22 |

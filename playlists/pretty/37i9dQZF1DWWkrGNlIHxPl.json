@@ -1,29 +1,13 @@
 {
   "description": "Global crossovers by/with Arab artists. Cover: Majid Jordan",
-  "num_followers": 151140,
+  "num_followers": 151141,
   "original_name": "Arab X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDY3MzAwYTkxN2NlZGU1ZjU4ZjI2NWY3MDFjOWUzNTFkMDZiNmJj",
+  "snapshot_id": "MCwwNWY3YzhhMjZmZjk4MDEwNDQyZWQzNWQzM2MyOWM5MjIwMzhjMjU3",
   "tracks": [
-    {
-      "added_at": "2023-10-27 07:49:21",
-      "album": {
-        "name": "Good People",
-        "url": "https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 438400,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/1EQjOZMvkOXWMK2gx6yTZd"
-    },
     {
       "added_at": "2023-10-27 07:49:21",
       "album": {
@@ -119,6 +103,22 @@
       "duration_ms": 123192,
       "name": "Pick up",
       "url": "https://open.spotify.com/track/2twgq4n0x2rxkosP5NgOME"
+    },
+    {
+      "added_at": "2023-10-27 07:49:21",
+      "album": {
+        "name": "Good People",
+        "url": "https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 438400,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/1EQjOZMvkOXWMK2gx6yTZd"
     },
     {
       "added_at": "2023-10-27 07:49:21",

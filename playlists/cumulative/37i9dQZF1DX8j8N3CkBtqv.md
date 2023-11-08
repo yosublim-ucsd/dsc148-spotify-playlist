@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover\- somanshu, Lisa Mishra, OAFF and The Rish
 
-291 songs - 16 hr 7 min
+292 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Adhoore Hum](https://open.spotify.com/track/7HTB2kvarPgyGQfH9KjEg4) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Adhoore Hum](https://open.spotify.com/album/6XPmY7pMPwJmP6KstQkBFJ) | 3:35 | 2023-04-14 | 2023-06-30 |
 | [Adorable](https://open.spotify.com/track/5p0g3E7EWCS9ggqu4YEWCA) | [Pulkit Arora](https://open.spotify.com/artist/2z0yNxAp5m9eZDHARjHwhQ) | [Adorable](https://open.spotify.com/album/0tdXyZnhsGXDE6ZnAxB9PP) | 3:11 | 2023-07-28 | 2023-08-25 |
 | [Akh Kashni](https://open.spotify.com/track/4fthu6zCZVWJJnPUPP0AJ2) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Akh Kashni](https://open.spotify.com/album/6w1nI9aKBoxgLOuzYP6Dfj) | 3:27 | 2023-10-27 |  |
-| [Alone](https://open.spotify.com/track/07BBjWSQWHrmQ5HHoO09i9) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Alone](https://open.spotify.com/album/0yjjoGvVbYQQ2xlpI6Vfom) | 2:48 | 2023-10-06 |  |
+| [Alone](https://open.spotify.com/track/5as5nPPMgQe8d6ckvsbam2) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Alone](https://open.spotify.com/album/2yChy4tPTlcy4cZ31dASyr) | 2:48 | 2023-10-20 |  |
+| [Alone](https://open.spotify.com/track/07BBjWSQWHrmQ5HHoO09i9) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Alone](https://open.spotify.com/album/0yjjoGvVbYQQ2xlpI6Vfom) | 2:48 | 2023-10-06 | 2023-11-08 |
 | [Antariksh](https://open.spotify.com/track/3JJtci5fSMdxYCVoHRHX2h) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Antariksh](https://open.spotify.com/album/41c3IoL1qIAvR38l2kB7Zj) | 2:45 | 2023-05-19 | 2023-07-15 |
 | [Antihero](https://open.spotify.com/track/0tmVekD1MN9NDAKntGbOyO) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Antihero](https://open.spotify.com/album/1mWgasxdZFASpH5ITWiVw8) | 3:33 | 2023-10-20 |  |
 | [Apni Jagah Sahi](https://open.spotify.com/track/4945eRkcCkeshCLvM6w2SF) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Apni Jagah Sahi](https://open.spotify.com/album/3vNwWeHm8XVRwJAsk0n8Qp) | 4:56 | 2023-09-15 | 2023-09-30 |

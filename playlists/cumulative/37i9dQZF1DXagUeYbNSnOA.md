@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring Baby City Club\. Updates every Wednesday.
 
-1,584 songs - 3 day 14 hr 40 min
+1,585 songs - 3 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1218,6 +1218,7 @@
 | [Reíte](https://open.spotify.com/track/1VWmj6TYc1UdEsamBt1VLf) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx) | [Reíte](https://open.spotify.com/album/2GvYbgbsVHC4SVDhqyFt2q) | 3:37 | 2022-09-21 | 2022-11-10 |
 | [Ribelli](https://open.spotify.com/track/4ElZMZM9imovaP3WeKPSWy) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Ribelli](https://open.spotify.com/album/3m8CH7rmsnU7giyuGuf0CB) | 3:05 | 2022-03-23 | 2022-04-07 |
 | [Rien de Gratuit](https://open.spotify.com/track/15ADBflaWuW4SjL6iDhIdS) | [Mango Flow](https://open.spotify.com/artist/31GJoOOSo8GvnOqT5Wyn9w), [Möre Beats](https://open.spotify.com/artist/5DVyNUkITuc6f16kpEivmg), [PCL](https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg) | [Rien de Gratuit](https://open.spotify.com/album/5cxFUUtscaXNxkugoZGycO) | 3:34 | 2022-02-02 | 2022-02-17 |
+| [Riley](https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [Riley \(S\)](https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0) | 2:58 | 2023-11-07 |  |
 | [Roberto](https://open.spotify.com/track/4SSs1ohUHZk8RNAOdzr85M) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Roberto](https://open.spotify.com/album/0K4ErZkCIFIz0L6Jtvp2a5) | 2:47 | 2022-03-16 | 2022-03-24 |
 | [Rojo Rubí \- Rompiendo La Cadera](https://open.spotify.com/track/00vDTKx0x8foQnP4NfCR1D) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Rojo Rubí \(Rompiendo La Cadera\)](https://open.spotify.com/album/4A9lQhzAsRXLZ8LnArdAUs) | 3:25 | 2023-07-05 | 2023-07-19 |
 | [Rojo Ámbar](https://open.spotify.com/track/4moWFvYhDEid0MplVp4Jm2) | [Joaco de Oro](https://open.spotify.com/artist/2JbHQvzDCKmGxWnGcqzpCK) | [Rojo Ámbar](https://open.spotify.com/album/6XA56ATkybh52VeDd7uGs9) | 3:09 | 2023-10-11 | 2023-10-19 |
@@ -1278,7 +1279,7 @@
 | [Siempre Tú](https://open.spotify.com/track/0VoZNaIkCcVKmUVenH84wj) | [Chell](https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId) | [Siempre Tú](https://open.spotify.com/album/5edAQbZLZJZ3PSkkNccA3H) | 2:49 | 2022-03-16 | 2022-04-07 |
 | [Siento una Pena](https://open.spotify.com/track/7mjDK5cQT1qcQUW3XWA0vB) | [Mito y Comadre](https://open.spotify.com/artist/4lVrLJoIiHaEL7E4Wrl04H) | [Siento Una Pena](https://open.spotify.com/album/5pKJCDonrVICh2G78hruAt) | 3:02 | 2023-10-25 |  |
 | [Siete Días](https://open.spotify.com/track/6lutS2K7aZB6p25VHQMF8Z) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [Fiesta a Cargo de E.R.](https://open.spotify.com/album/4ZUFIgo3YxWvIKzTCzBuAY) | 3:21 | 2022-01-26 | 2022-02-03 |
-| [Sigo Aquí](https://open.spotify.com/track/410ERvIbH3m8mM1zKVgV2Q) | [Intervenciones](https://open.spotify.com/artist/7He11U01wHq1zaIU6GXSKd) | [Las Flores](https://open.spotify.com/album/71dj5Mh0BvHxtiBoXOdivw) | 3:43 | 2023-10-18 |  |
+| [Sigo Aquí](https://open.spotify.com/track/410ERvIbH3m8mM1zKVgV2Q) | [Intervenciones](https://open.spotify.com/artist/7He11U01wHq1zaIU6GXSKd) | [Las Flores](https://open.spotify.com/album/71dj5Mh0BvHxtiBoXOdivw) | 3:43 | 2023-10-18 | 2023-11-08 |
 | [Sigo Huyendo](https://open.spotify.com/track/11CqiCkod0sGMRBB28exxh) | [REHHLL](https://open.spotify.com/artist/724iTm2hBMu6dcBIcrazRx) | [Sigo Huyendo](https://open.spotify.com/album/418ZTQIv5lGORXmPNWSfXn) | 3:28 | 2022-05-11 | 2022-06-08 |
 | [simeves](https://open.spotify.com/track/6X4L2Kb4a3CelHXEwMZSsq) | [Conttra](https://open.spotify.com/artist/0xRizCdjBtIyBeMCLDkcBg), [Strange Frequency](https://open.spotify.com/artist/5uj2Fb3Gbj083ASKjgMEpp) | [simeves](https://open.spotify.com/album/661S3vn7rgq7hscQdlRe5g) | 3:11 | 2022-08-04 | 2022-09-09 |
 | [Sin Equipaje](https://open.spotify.com/track/1D5k79Go7qwvOEuMKPdzBz) | [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [Sin Equipaje](https://open.spotify.com/album/2DakiSbV5vQqJB0Jk0t4Iy) | 4:36 | 2023-07-05 | 2023-07-20 |

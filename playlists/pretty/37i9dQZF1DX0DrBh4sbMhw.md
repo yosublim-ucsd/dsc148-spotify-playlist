@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 
 > umuulan nanaman?
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,228 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,365 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 | 64 | [Ang Pag\-ibig](https://open.spotify.com/track/639Wg7NFfgbwjSwDphqgvz) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ang Pag\-ibig](https://open.spotify.com/album/7lheyrZDUh2R6N2mBWXnqP) | 4:47 |
 | 65 | [Hindi Ikaw](https://open.spotify.com/track/4stLOefA68fsJ9fE6Xx9RN) | [LTNM](https://open.spotify.com/artist/081ibuzgI42pUawKfisL7G) | [Hindi Ikaw](https://open.spotify.com/album/6ZLY1zlqZMK98NEzYdx9z0) | 3:04 |
 | 66 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
-| 67 | [seasons](https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 4:16 |
+| 67 | [seasons](https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 4:15 |
 | 68 | [too much](https://open.spotify.com/track/0VQG0zuOXJd4JSTGJOUmJC) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [too much](https://open.spotify.com/album/5JciRe7QXL2zK8fMrwHtVk) | 2:11 |
 | 69 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 |
 | 70 | [You Don't Want It Back](https://open.spotify.com/track/7b13tBOkxS0nSZgDkTiWbE) | [The Rennisans](https://open.spotify.com/artist/4PVPAAh9nrdi0lMMuJxxtL) | [You Don't Want It Back](https://open.spotify.com/album/3mJqvzErN21GpD5tYKDQk9) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 | 99 | [Ulap](https://open.spotify.com/track/0yBycfuTYOoDrvfP5wY2Ux) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ulap](https://open.spotify.com/album/0LfDCKJ0MSBuR9CxJcS8tf) | 6:45 |
 | 100 | [Pelikula](https://open.spotify.com/track/663vZfMh88Uo2bfTx6wiE4) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pelikula](https://open.spotify.com/album/4Ufwb1ZIfcSK4GKGzfZipb) | 3:24 |
 
-Snapshot ID: `MCxjM2UxZTRiODYxNjM2MTQzZjAyODkyMzU2MmU2ZjljNzQ0OThjMTUz`
+Snapshot ID: `MCxhMmMwOTEzYjk2YzljYjQ2NWY1YjI1NzI3YzIyM2YwM2IwYzNlY2Vi`

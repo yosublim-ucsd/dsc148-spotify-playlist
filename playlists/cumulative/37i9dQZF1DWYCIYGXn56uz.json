@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "CHE FAI",
+        "url": "https://open.spotify.com/album/0ZuHFQf7VRevzAHfXBbjah"
+      },
+      "artists": [
+        {
+          "name": "Petit",
+          "url": "https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141436,
+      "name": "CHE FAI",
+      "url": "https://open.spotify.com/track/2sTg9dCPOJKJ52BnZGRoBt"
+    },
+    {
+      "album": {
         "name": "Che mettevi sempre",
         "url": "https://open.spotify.com/album/2XdkDYtLGXJ8lAQaMWxtFN"
       },
@@ -1254,6 +1272,24 @@
       "duration_ms": 170399,
       "name": "DIECIMILAVOCI (con ARIETE)",
       "url": "https://open.spotify.com/track/4XULNbLgh1OiOuYMbPOmyN"
+    },
+    {
+      "album": {
+        "name": "DIMMI CHE NON \u00c8 UN ADDIO",
+        "url": "https://open.spotify.com/album/6U5GyoLm2UlkuMFAWMQ0s7"
+      },
+      "artists": [
+        {
+          "name": "Holden",
+          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177769,
+      "name": "DIMMI CHE NON \u00c8 UN ADDIO",
+      "url": "https://open.spotify.com/track/3nIDXarK9FuClYwZQTSoK2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Meernaa <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,524 likes - 103 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,556 likes - 103 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 102 | [Goddess](https://open.spotify.com/track/0mlzyhSPLBbHc9XD4Nx3S3) | [Cathy Jain](https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ) | [Goddess](https://open.spotify.com/album/0xQcwc4n8pxAPVtJENtT2L) | 4:00 |
 | 103 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 |
 
-Snapshot ID: `MCxjZThmNWZiODczNTc1ODQyODM3YTg1ZDZmNDc1MmU3Nzg2ZWUzODlk`
+Snapshot ID: `MCw1N2MzOTIwMDY0ODYxYTcwMTRiNmIxYmU4MzJiZjFhNmUxNWZmNTNm`

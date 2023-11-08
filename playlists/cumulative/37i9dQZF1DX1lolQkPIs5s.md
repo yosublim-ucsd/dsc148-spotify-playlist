@@ -4,7 +4,7 @@
 
 > ディズニーの人気曲を集めた公式プレイリスト♪ディズニー映画最新作『ウィッシュ』の最新楽曲から、『リトル・マーメイド』『アナと雪の女王』『アラジン』等の名曲、パークの大人気楽曲までセレクト！
 
-157 songs - 8 hr 25 min
+158 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [I See the Light \- Japanese Version](https://open.spotify.com/track/4g345xmbPGGHDSv5sMLEsS) | [Hiroshi Hatanaka](https://open.spotify.com/artist/2lsQq6qbk4eh3WyteNu529), [Mari Okonogi](https://open.spotify.com/artist/1U4dK2EVPtKAZJzP7xw4vF) | [Tangled \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/2K4lTHYqxfUrgPiuqTCdSb) | 3:43 | 2022-12-28 |  |
 | [I Won't Say \(I'm in Love\) / Shizuka Kudo](https://open.spotify.com/track/47uXVw03YKVTUI2uQa14i5) | [Shizuka Kudo](https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W) | [Hercules \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/7EmZAi08IILcveityNOOg7) | 2:19 | 2022-12-28 |  |
 | [I'll Make a Man Out Of You](https://open.spotify.com/track/2kNZ0qkNtOLSdBMgbzNPLj) | [Koichi Yamadera](https://open.spotify.com/artist/0lo8UTi4CnnajMXlavxCDo), [Eri Ito](https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg), [Shintaro Sonooka](https://open.spotify.com/artist/2wMZWtMZaw1jCYkL9evMCZ), [Ryusei Nakao](https://open.spotify.com/artist/2RcS47TgXS4sQM2r0QfIBh), [Yutaka Oda](https://open.spotify.com/artist/4txzpEXMlLubRkm52dpMFe), [Kozo Shioya](https://open.spotify.com/artist/10D4tBG5mUPnF3ThELDaxp) | [Mulan \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/0lFW1DXVwIoHcn6Zr4xzZB) | 3:19 | 2022-12-28 |  |
+| [I'm A Star \- From "Wish"](https://open.spotify.com/track/7HphtEcMxf0ViBb8wtU8Re) | [Wish \- Cast](https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [I'm A Star \(From "Wish"\)](https://open.spotify.com/album/5d9Zsbx6BAiZcVgy2TWVG8) | 2:54 | 2023-11-07 |  |
 | [I'm Late](https://open.spotify.com/track/7joekz6jMhNuj3EQhyKsm2) | [Bill Thompson](https://open.spotify.com/artist/5qUyUS9vNS4ei4hm7ysj8W) | [Alice In Wonderland \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx) | 0:42 | 2022-12-28 |  |
 | [I've Got a Dream](https://open.spotify.com/track/0x6KKx5DATCW0tBdosjMyg) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu), [Brad Garrett](https://open.spotify.com/artist/7JpGJvNR3Uvftc3JlyacFH), [Ensemble \- Tangled](https://open.spotify.com/artist/1bhBH3mWYi8lCiitTXtkZL), [Zachary Levi](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st), [Jeffrey Tambor](https://open.spotify.com/artist/65Rokc4cfvKbRYPitoajAD) | [Tangled \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/2K4lTHYqxfUrgPiuqTCdSb) | 3:11 | 2022-12-28 |  |
 | [I've Got No Strings](https://open.spotify.com/track/7fjmYUeonVOEyr0lYOKvMy) | [Dickie Jones](https://open.spotify.com/artist/0bGGvfpbJAFYj1rX6ScbbJ) | [Pinocchio](https://open.spotify.com/album/5zsAzctyWGNrchLWXFvKgz) | 2:22 | 2023-07-14 |  |

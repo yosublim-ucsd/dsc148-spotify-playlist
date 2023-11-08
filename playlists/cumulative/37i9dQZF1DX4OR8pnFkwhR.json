@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u30d5\u30b8\u30bf \u30ab\u30b3",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: First Love is Never Returned",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -2993,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/0NgsDcQwVwQYZesTKao4nz"
+      },
+      "artists": [
+        {
+          "name": "ReiRay",
+          "url": "https://open.spotify.com/artist/0duSWX1mZpy1JmZzoQDVgd"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207378,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/2Jp00GjYQiQyEBsUr6w3JB"
+    },
+    {
+      "album": {
         "name": "Drink!",
         "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
       },
@@ -5100,7 +5118,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 180596,
       "name": "I say bye",
       "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
@@ -5284,6 +5302,24 @@
       "duration_ms": 175855,
       "name": "Ima Ni Muchusa -Hooked on Now-",
       "url": "https://open.spotify.com/track/6hA0jCjXVkz1ScvcPnBaQk"
+    },
+    {
+      "album": {
+        "name": "Imperfection",
+        "url": "https://open.spotify.com/album/547HGOx1RVJqsD6mp7241Z"
+      },
+      "artists": [
+        {
+          "name": "Nephew",
+          "url": "https://open.spotify.com/artist/11BUDylkl50Y6dsbZMZiCG"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196337,
+      "name": "Imperfection",
+      "url": "https://open.spotify.com/track/0yhd8yWyOhAc1beip5G0sm"
     },
     {
       "album": {
@@ -5594,7 +5630,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 245666,
       "name": "Kaka feat. punipunidenki",
       "url": "https://open.spotify.com/track/7ad6IlRnchYtUIBGC8BUdf"
@@ -7700,7 +7736,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 166426,
       "name": "No Pride",
       "url": "https://open.spotify.com/track/54q59o0Xv6QGFSG8uFrUxH"
@@ -7902,7 +7938,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 262267,
       "name": "nYc",
       "url": "https://open.spotify.com/track/1JDr7asmfcFccDoVmsVLW3"
@@ -7938,7 +7974,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 198088,
       "name": "OKACHIMACHI FRIDAY NIGHT",
       "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
@@ -9126,7 +9162,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 265961,
       "name": "Regrets",
       "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
@@ -9386,6 +9422,24 @@
       "duration_ms": 225013,
       "name": "room",
       "url": "https://open.spotify.com/track/2Kb5Afhsr63yGqa5yPiSQ6"
+    },
+    {
+      "album": {
+        "name": "Supply/Demand",
+        "url": "https://open.spotify.com/album/66GKqO8pdJu5J32LyIqZ2v"
+      },
+      "artists": [
+        {
+          "name": "MONONOKE",
+          "url": "https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225013,
+      "name": "room",
+      "url": "https://open.spotify.com/track/3kievy1iOkwTxa36cLSzPY"
     },
     {
       "album": {
@@ -10646,7 +10700,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 213894,
       "name": "Stay Here",
       "url": "https://open.spotify.com/track/20jvmCAKAFKay1QLulG4hJ"
@@ -14309,6 +14363,24 @@
     },
     {
       "album": {
+        "name": "\u306d\u3002",
+        "url": "https://open.spotify.com/album/5enEOSfhmsoLF7uhQDm6gu"
+      },
+      "artists": [
+        {
+          "name": "3markets[ ]",
+          "url": "https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148612,
+      "name": "\u306d\u3002",
+      "url": "https://open.spotify.com/track/6xBUnxD7foU3vFtoDO7m38"
+    },
+    {
+      "album": {
         "name": "\u306f\u3058\u307e\u308b",
         "url": "https://open.spotify.com/album/68xb9Fj47KT2j6YCerL0QL"
       },
@@ -14324,6 +14396,28 @@
       "duration_ms": 227841,
       "name": "\u306f\u3058\u307e\u308b",
       "url": "https://open.spotify.com/track/1CERFGNBkEUq68yxHyvGYs"
+    },
+    {
+      "album": {
+        "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
+        "url": "https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272319,
+      "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
+      "url": "https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz"
     },
     {
       "album": {
@@ -16077,6 +16171,24 @@
     },
     {
       "album": {
+        "name": "\u30d0\u30c3\u30af\u30df\u30e9\u30fc",
+        "url": "https://open.spotify.com/album/6CjRbmZievz0W5E2D5b7rc"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209388,
+      "name": "\u30d0\u30c3\u30af\u30df\u30e9\u30fc",
+      "url": "https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ"
+    },
+    {
+      "album": {
         "name": "\u30d0\u30fc\u30dc\u30f3 and \u30b3\u30fc\u30d2\u30fc",
         "url": "https://open.spotify.com/album/69GIVzC8NbF03BX4aZFB3E"
       },
@@ -17016,7 +17128,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 242400,
       "name": "\u30eb\u30b5\u30f3\u30c1\u30de\u30f3\u6216\u3044\u306f",
       "url": "https://open.spotify.com/track/4CwcNhOwPV38Kc0Wta5SAY"
@@ -18703,6 +18815,24 @@
     },
     {
       "album": {
+        "name": "\u304d\u3048\u305f\u304f\u306a\u308b\u5ea6\u541b\u3001\u523b\u3080\u2661",
+        "url": "https://open.spotify.com/album/6yOm2nYmsjtZm8ljCF0rPp"
+      },
+      "artists": [
+        {
+          "name": "\u3064\u304d\u307f",
+          "url": "https://open.spotify.com/artist/5CTOLdHtiGvfebSVgrmYgq"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349450,
+      "name": "\u5fae\u71b1",
+      "url": "https://open.spotify.com/track/735z8cQ5OKqboAveQPU68k"
+    },
+    {
+      "album": {
         "name": "\u5fc3\u3092\u7167\u3089\u305b!",
         "url": "https://open.spotify.com/album/60QWfUY2GUB0z7QoIlzp7G"
       },
@@ -19114,7 +19244,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 281000,
       "name": "\u611b\u306e\u56da\u4eba\u305f\u3061",
       "url": "https://open.spotify.com/track/4E8aWkJkqZjph3XM6p5ooS"

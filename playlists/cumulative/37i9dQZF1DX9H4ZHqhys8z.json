@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Accomplice",
+        "url": "https://open.spotify.com/album/1jdqCTiV4xBhoAdOekSG3e"
+      },
+      "artists": [
+        {
+          "name": "Cleoniki",
+          "url": "https://open.spotify.com/artist/7mDYKmiS8dFmoeHIvNg2FL"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195576,
+      "name": "Accomplice",
+      "url": "https://open.spotify.com/track/0WsaUbbEqImOkJLiOUMPhT"
+    },
+    {
+      "album": {
         "name": "Aformi",
         "url": "https://open.spotify.com/album/5Z4CzuxBkr072DokZVaTTD"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 232298,
       "name": "An Den Eisai Esy - Original Tv Series \"Mavro Rodo\" Soundtrack",
       "url": "https://open.spotify.com/track/56gfPYoQZrLq5FKdPISkYe"
@@ -517,6 +535,32 @@
     },
     {
       "album": {
+        "name": "ANASAINO KAI ZALIZOMAI",
+        "url": "https://open.spotify.com/album/2UgIdLydL04XUygE4rqF6j"
+      },
+      "artists": [
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158085,
+      "name": "ANASAINO KAI ZALIZOMAI",
+      "url": "https://open.spotify.com/track/0Wl2xRQZH2c5GdYLJIGCaN"
+    },
+    {
+      "album": {
         "name": "Anemones",
         "url": "https://open.spotify.com/album/6pCZ5SRFa7m4OsXKA64qXe"
       },
@@ -576,7 +620,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 226573,
       "name": "Anthismeno Kefali",
       "url": "https://open.spotify.com/track/3FNpoQXkWOjIpeE60qMEiV"
@@ -648,7 +692,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 173307,
       "name": "As Ta Leme Kala",
       "url": "https://open.spotify.com/track/1vX21J00Ck8YgzCtlUE4Gz"
@@ -692,7 +736,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 142031,
       "name": "ATOUTALER",
       "url": "https://open.spotify.com/track/2ZTxf5fvD1tXEEyjUcYxN1"
@@ -717,6 +761,42 @@
     },
     {
       "album": {
+        "name": "Ay Ay (Magissa)",
+        "url": "https://open.spotify.com/album/6bp22Qd1KGpDEe2K72HKz8"
+      },
+      "artists": [
+        {
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163548,
+      "name": "Ay Ay (Magissa)",
+      "url": "https://open.spotify.com/track/3QwDFpWlJ0tuaj1fG1K0Rc"
+    },
+    {
+      "album": {
+        "name": "BBB",
+        "url": "https://open.spotify.com/album/5Nr2blH4zPUwAD8DBt6NMB"
+      },
+      "artists": [
+        {
+          "name": "Kimi",
+          "url": "https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181046,
+      "name": "BBB",
+      "url": "https://open.spotify.com/track/2ALTXdJ5x92eyrc3iFckeJ"
+    },
+    {
+      "album": {
         "name": "Berdemata",
         "url": "https://open.spotify.com/album/4JhmbHvybBy2HbYlLJhlbV"
       },
@@ -728,7 +808,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 186562,
       "name": "Berdemata",
       "url": "https://open.spotify.com/track/7cZoFeauyfBUX1rDWmaJ9Y"
@@ -812,6 +892,24 @@
       "duration_ms": 158359,
       "name": "Charmed",
       "url": "https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f"
+    },
+    {
+      "album": {
+        "name": "Cityscapes",
+        "url": "https://open.spotify.com/album/6lT35XgBOJkkCtNyUrvNDM"
+      },
+      "artists": [
+        {
+          "name": "Sarah P.",
+          "url": "https://open.spotify.com/artist/5et5yif2ZImEGYYgBxbQvr"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213483,
+      "name": "Cityscapes",
+      "url": "https://open.spotify.com/track/64H3o5zG7lW78nL8oX1DSs"
     },
     {
       "album": {
@@ -942,7 +1040,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 158536,
       "name": "De Mou Ta Leei Kala",
       "url": "https://open.spotify.com/track/0UhhEcY0KZFyM3MjrAJIJN"
@@ -1580,7 +1678,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 157575,
       "name": "Entasi",
       "url": "https://open.spotify.com/track/21gjUdBj3n05d5BLJPUuFu"
@@ -1692,7 +1790,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 180326,
       "name": "Floga",
       "url": "https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49"
@@ -2034,7 +2132,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 168600,
       "name": "Gia Sena",
       "url": "https://open.spotify.com/track/7ugkvDqfRXJWZvNbj7zRvO"
@@ -2164,6 +2262,28 @@
       "duration_ms": 166000,
       "name": "Gurise?",
       "url": "https://open.spotify.com/track/683SWdCa6PzYLmsbSI6Glb"
+    },
+    {
+      "album": {
+        "name": "Gynaika",
+        "url": "https://open.spotify.com/album/0YTIngmqqmOlfImde2lkFr"
+      },
+      "artists": [
+        {
+          "name": "Eleni Tsaligopoulou",
+          "url": "https://open.spotify.com/artist/3Gk7fuRSYuQWqXGhRGPsG4"
+        },
+        {
+          "name": "Yorgos Kazantzis",
+          "url": "https://open.spotify.com/artist/1ZlQS24T617VHiHmizu0BB"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256358,
+      "name": "Gynaika",
+      "url": "https://open.spotify.com/track/0bG65AS8gTK6FvbEA2pq9N"
     },
     {
       "album": {
@@ -2584,7 +2704,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 206100,
       "name": "IOY",
       "url": "https://open.spotify.com/track/6EcBVtQYaDjktpmkk4Vy4F"
@@ -3503,6 +3623,28 @@
     },
     {
       "album": {
+        "name": "Lioness",
+        "url": "https://open.spotify.com/album/2lA8xsWx3r8G4tRiER07Og"
+      },
+      "artists": [
+        {
+          "name": "Joanne",
+          "url": "https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH"
+        },
+        {
+          "name": "BOREK",
+          "url": "https://open.spotify.com/artist/2aH3zt1AKkrOmiUYPmw9xe"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197595,
+      "name": "Lioness",
+      "url": "https://open.spotify.com/track/2twpqunLHdKpkCWt8WziTK"
+    },
+    {
+      "album": {
         "name": "Loulaki",
         "url": "https://open.spotify.com/album/2AOsWsylidQFWKNds7eSnp"
       },
@@ -3550,10 +3692,32 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 210797,
       "name": "Loved by You",
       "url": "https://open.spotify.com/track/0AagWG14CiyBY3ZpFL3v0o"
+    },
+    {
+      "album": {
+        "name": "M'Aresei",
+        "url": "https://open.spotify.com/album/4CbEMmmR31i0RWiR9cpz1s"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        },
+        {
+          "name": "Negros Tou Moria",
+          "url": "https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183999,
+      "name": "M'Aresei",
+      "url": "https://open.spotify.com/track/7f2eje3OY1OKUU9ZAStv1s"
     },
     {
       "album": {
@@ -3656,6 +3820,28 @@
       "duration_ms": 165333,
       "name": "Mavri Yli",
       "url": "https://open.spotify.com/track/7wAyDFlLAR6K0E4KwLGl3y"
+    },
+    {
+      "album": {
+        "name": "Mavro Kare Konto",
+        "url": "https://open.spotify.com/album/3xeqBhHS0nC1sZuYipwndW"
+      },
+      "artists": [
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        },
+        {
+          "name": "Solmeister",
+          "url": "https://open.spotify.com/artist/24Dj1piBfpK6bL3WwIFq48"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Mavro Kare Konto",
+      "url": "https://open.spotify.com/track/4WNrmNzY0gua8PxpmTFiNY"
     },
     {
       "album": {
@@ -3794,7 +3980,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 232000,
       "name": "Me Tin Proti Matia",
       "url": "https://open.spotify.com/track/3gtpC3RLHeS2g0AUe3vXmI"
@@ -3841,6 +4027,24 @@
     },
     {
       "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/6nUrVlC4SvGjLbYGPS5nvL"
+      },
+      "artists": [
+        {
+          "name": "Lydia",
+          "url": "https://open.spotify.com/artist/2YTGRExtfqji1DoyvkPBeT"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/2RhMc5lJdhfeBE5ksDcQmL"
+    },
+    {
+      "album": {
         "name": "Mi Milas",
         "url": "https://open.spotify.com/album/4QRjhM7jDsfWukybZStXEX"
       },
@@ -3856,6 +4060,46 @@
       "duration_ms": 178369,
       "name": "Mi Milas",
       "url": "https://open.spotify.com/track/0XEvweAMtxdcSOfNdrF1sT"
+    },
+    {
+      "album": {
+        "name": "Mi Milas",
+        "url": "https://open.spotify.com/album/5xzWngmnYZzhP0TDrVeFL2"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195324,
+      "name": "Mi Milas",
+      "url": "https://open.spotify.com/track/4d5b2vApvHqaJjz54pyNlA"
+    },
+    {
+      "album": {
+        "name": "Mi Mou Milas Gia Kalokeria",
+        "url": "https://open.spotify.com/album/6Qptz0IFlKdJbqB9R93fHL"
+      },
+      "artists": [
+        {
+          "name": "Andriana Babali",
+          "url": "https://open.spotify.com/artist/0jctFutxWwbuucO1HRhNgk"
+        },
+        {
+          "name": "Giorgis Christodoulou",
+          "url": "https://open.spotify.com/artist/4CHkOTzw1cZXPe8tCkdJ7Q"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Mi Mou Milas Gia Kalokeria",
+      "url": "https://open.spotify.com/track/6NcHI6nUIGQZcthNty0XS3"
     },
     {
       "album": {
@@ -3950,7 +4194,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 193064,
       "name": "Mia Fora",
       "url": "https://open.spotify.com/track/0xviah3N8e2JTv5AxzhJUJ"
@@ -3990,7 +4234,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 193730,
       "name": "Mia Kai Monadiki",
       "url": "https://open.spotify.com/track/4pNeGYQOJAnl2aDDPS1N0k"
@@ -4121,6 +4365,24 @@
     },
     {
       "album": {
+        "name": "Min Anavis To Fos",
+        "url": "https://open.spotify.com/album/6enMUir5Xq2UWz9QV9eccx"
+      },
+      "artists": [
+        {
+          "name": "Ilianna Zerva",
+          "url": "https://open.spotify.com/artist/6rDS4AGgg14z1cIlXClfik"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Min Anavis To Fos",
+      "url": "https://open.spotify.com/track/4JOrHkZPU8D7PvAPiErOA4"
+    },
+    {
+      "album": {
         "name": "Minimata",
         "url": "https://open.spotify.com/album/3ojiawI7ksy0U1AfJy0ycD"
       },
@@ -4132,10 +4394,28 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 183807,
       "name": "Minimata",
       "url": "https://open.spotify.com/track/3IVnASlod4hgr2IHOAeYBi"
+    },
+    {
+      "album": {
+        "name": "Ta Kala Koritsia",
+        "url": "https://open.spotify.com/album/5k1Gf4AvdraC33TbU9iBgc"
+      },
+      "artists": [
+        {
+          "name": "Josephine",
+          "url": "https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141551,
+      "name": "Moira",
+      "url": "https://open.spotify.com/track/0RHHTYRMbow3v1XASd8LEi"
     },
     {
       "album": {
@@ -4190,7 +4470,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 188500,
       "name": "Mono Esy",
       "url": "https://open.spotify.com/track/43jJzlvgyVboZgWG7KknJ2"
@@ -4230,6 +4510,28 @@
       "duration_ms": 220317,
       "name": "Mou To 'Pane",
       "url": "https://open.spotify.com/track/07Ip4OtiXawg1SoBKR6ZRp"
+    },
+    {
+      "album": {
+        "name": "Movin' Too Fast",
+        "url": "https://open.spotify.com/album/0G9XXhTxTUcqr3nHe00I06"
+      },
+      "artists": [
+        {
+          "name": "Playmen",
+          "url": "https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c"
+        },
+        {
+          "name": "Klavdia",
+          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Movin' Too Fast",
+      "url": "https://open.spotify.com/track/5AS6W5xL1DlooIPTzVkE5o"
     },
     {
       "album": {
@@ -4626,6 +4928,24 @@
       "duration_ms": 227893,
       "name": "O Hartis",
       "url": "https://open.spotify.com/track/77veey2PBLf6KBMShrI0H7"
+    },
+    {
+      "album": {
+        "name": "O Kosmos Olos",
+        "url": "https://open.spotify.com/album/3d1fIdJQ8Y8NTqJUwae9Zt"
+      },
+      "artists": [
+        {
+          "name": "Yanna Vasileiou",
+          "url": "https://open.spotify.com/artist/2aG0LtkScINaBgvSuVxDfx"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228477,
+      "name": "O Kosmos Olos",
+      "url": "https://open.spotify.com/track/3EkJnHeEH7v6eG2x6CZcnA"
     },
     {
       "album": {
@@ -5130,7 +5450,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 225360,
       "name": "Pame Gia Alla",
       "url": "https://open.spotify.com/track/3vRadnByc3KWW4Gs9VBtg4"
@@ -5846,7 +6166,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 187809,
       "name": "Psichi Ke Soma - Original Mix",
       "url": "https://open.spotify.com/track/3hHVNFDD6BOePnI99dPYxD"
@@ -6028,6 +6348,24 @@
       "duration_ms": 177232,
       "name": "Run Together",
       "url": "https://open.spotify.com/track/6hAlCAKjBmBfOZPOdavGhF"
+    },
+    {
+      "album": {
+        "name": "S' Agapao Kai Den Pao Kala",
+        "url": "https://open.spotify.com/album/66w9kLqtU9vOLEGllkaROT"
+      },
+      "artists": [
+        {
+          "name": "Despina Vandi",
+          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190231,
+      "name": "S' Agapao Kai Den Pao Kala",
+      "url": "https://open.spotify.com/track/4SQtq5RdjIvlyixVTthKqf"
     },
     {
       "album": {
@@ -6350,7 +6688,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 211199,
       "name": "Stohos",
       "url": "https://open.spotify.com/track/6J1bNEWWezdaQx0cDYAnvN"
@@ -6386,7 +6724,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 167812,
       "name": "Sugar Daddy",
       "url": "https://open.spotify.com/track/1SGJ9w1MipFc5HsghF5x4Y"
@@ -6411,6 +6749,24 @@
     },
     {
       "album": {
+        "name": "Ta Idia Les Pantou",
+        "url": "https://open.spotify.com/album/5vpWiOiBQJmKouolxRYeXV"
+      },
+      "artists": [
+        {
+          "name": "Kelly Kelekidou",
+          "url": "https://open.spotify.com/artist/6Q82RybMiymldGwcP6Al2M"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179579,
+      "name": "Ta Idia Les Pantou",
+      "url": "https://open.spotify.com/track/0Qvqf6uPVUKHSwsby0rtF1"
+    },
+    {
+      "album": {
         "name": "Ta Kalokairia Mou Misa",
         "url": "https://open.spotify.com/album/7LzU2vJ9aqwKNAGO3U1DTZ"
       },
@@ -6430,6 +6786,24 @@
       "duration_ms": 202148,
       "name": "Ta Kalokairia Mou Misa",
       "url": "https://open.spotify.com/track/5OuZNhMsVU2yf5cD11mOJw"
+    },
+    {
+      "album": {
+        "name": "Ta Kalytera",
+        "url": "https://open.spotify.com/album/7b7ppVdCsdND2loHeKun4q"
+      },
+      "artists": [
+        {
+          "name": "Andromache",
+          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "Ta Kalytera",
+      "url": "https://open.spotify.com/track/6P177lVcscT2irH7dM9Ez0"
     },
     {
       "album": {
@@ -6693,6 +7067,24 @@
     },
     {
       "album": {
+        "name": "Enas Anthropos Aplos",
+        "url": "https://open.spotify.com/album/4uasbvlgVVOOdHAECdM5oI"
+      },
+      "artists": [
+        {
+          "name": "Evridiki",
+          "url": "https://open.spotify.com/artist/0WxbpUPH6SN75TSFAj3MAa"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230882,
+      "name": "Thelo",
+      "url": "https://open.spotify.com/track/4lknfUwdyTkrkQDQXwCz4H"
+    },
+    {
+      "album": {
         "name": "Thelo Na Koitas",
         "url": "https://open.spotify.com/album/6eNsTt1Kgt7ayrF9Y9k4TS"
       },
@@ -6708,6 +7100,24 @@
       "duration_ms": 196000,
       "name": "Thelo Na Koitas",
       "url": "https://open.spotify.com/track/6mnOZyPcFolpNv80DIetwt"
+    },
+    {
+      "album": {
+        "name": "Thelo Na Me Kratas ('23 Version)",
+        "url": "https://open.spotify.com/album/2AcENdZSskOoQNmlGD8CRI"
+      },
+      "artists": [
+        {
+          "name": "Demy",
+          "url": "https://open.spotify.com/artist/12muvykhaMY3RlVrJQ2ApM"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Thelo Na Me Kratas - '23 Version",
+      "url": "https://open.spotify.com/track/6GAltM8d4Zzuhq97uYaXMX"
     },
     {
       "album": {
@@ -7181,6 +7591,24 @@
     },
     {
       "album": {
+        "name": "To Vlemma Sou",
+        "url": "https://open.spotify.com/album/4RzqEfo34seUVI9Ki1kxMf"
+      },
+      "artists": [
+        {
+          "name": "Emilia Kanareli",
+          "url": "https://open.spotify.com/artist/7wezviM9ufNW1yKmi5jaGR"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211433,
+      "name": "To Vlemma Sou",
+      "url": "https://open.spotify.com/track/692zrIv7tTrNGILgyjrTIr"
+    },
+    {
+      "album": {
         "name": "Toca Toca",
         "url": "https://open.spotify.com/album/2EsTVdiJtjBMe87QiiFaKD"
       },
@@ -7196,7 +7624,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 163533,
       "name": "Toca Toca",
       "url": "https://open.spotify.com/track/5GYnbVgPAxpISuM9oZ1vDs"
@@ -7366,7 +7794,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 206666,
       "name": "TUCUTUM",
       "url": "https://open.spotify.com/track/2sDBHUqdTjolmr3FKTaiNK"

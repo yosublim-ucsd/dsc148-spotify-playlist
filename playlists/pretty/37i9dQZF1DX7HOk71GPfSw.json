@@ -1,12 +1,12 @@
 {
   "description": "he was a boy, i was a horse. could that make it any more difficult. ",
-  "num_followers": 424086,
+  "num_followers": 424127,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQ3YzhlYWUzNTk1MGQ4OTA5MWJjMTFiNDdjMjkwMTFlZjM4MzIx",
+  "snapshot_id": "MCw3NjVhNTQ4ZmFlODJkZTIxNzMzMTYyMTIwMzc4N2IyYTVkMThiN2I2",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -93,22 +93,6 @@
       "url": "https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ"
     },
     {
-      "added_at": "2023-10-20 14:22:19",
-      "album": {
-        "name": "brown eyes",
-        "url": "https://open.spotify.com/album/2ZsjTlwVcwkYgcT0R7GA1X"
-      },
-      "artists": [
-        {
-          "name": "Swansea Skag",
-          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
-        }
-      ],
-      "duration_ms": 126624,
-      "name": "brown eyes",
-      "url": "https://open.spotify.com/track/2pLieFj49thsxTBBquLEz9"
-    },
-    {
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "Speed Drive",
@@ -129,22 +113,6 @@
       "url": "https://open.spotify.com/track/5Ww9JTu9VNftDjSvjlNzHz"
     },
     {
-      "added_at": "2023-07-28 14:33:00",
-      "album": {
-        "name": "Beautiful (2023 Edit)",
-        "url": "https://open.spotify.com/album/3LEJXj4WKlgjnEFQJscKJS"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Beautiful (2023 Edit)",
-      "url": "https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5"
-    },
-    {
       "added_at": "2023-11-06 15:08:19",
       "album": {
         "name": "Spalarkle",
@@ -163,6 +131,94 @@
       "duration_ms": 246654,
       "name": "Spalarkle (Alys)",
       "url": "https://open.spotify.com/track/4N19YTJ4RcOve6wzSWYINm"
+    },
+    {
+      "added_at": "2023-07-28 14:33:00",
+      "album": {
+        "name": "Beautiful (2023 Edit)",
+        "url": "https://open.spotify.com/album/3LEJXj4WKlgjnEFQJscKJS"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Beautiful (2023 Edit)",
+      "url": "https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5"
+    },
+    {
+      "added_at": "2023-11-07 14:43:46",
+      "album": {
+        "name": "Intercell [The Live Code Edits]",
+        "url": "https://open.spotify.com/album/0Xs07jxD1MaEd9qmOTuqwb"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        },
+        {
+          "name": "Lil Data",
+          "url": "https://open.spotify.com/artist/1MoWMC4GaNZklW2wmKENRl"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "Array [Lil Data Edit]",
+      "url": "https://open.spotify.com/track/39K9sFCNCv7H5kyQAfcePr"
+    },
+    {
+      "added_at": "2023-09-22 14:14:20",
+      "album": {
+        "name": "c u never",
+        "url": "https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A"
+      },
+      "artists": [
+        {
+          "name": "tomcbumpz",
+          "url": "https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "duration_ms": 175806,
+      "name": "c u never",
+      "url": "https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "CUT MY HEART OUT",
+        "url": "https://open.spotify.com/album/19luyasFEMkdg7KBXUQKjY"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 152428,
+      "name": "CUT MY HEART OUT",
+      "url": "https://open.spotify.com/track/087UWFehhhqmHr79g9H1kn"
+    },
+    {
+      "added_at": "2023-10-20 14:22:19",
+      "album": {
+        "name": "brown eyes",
+        "url": "https://open.spotify.com/album/2ZsjTlwVcwkYgcT0R7GA1X"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        }
+      ],
+      "duration_ms": 126624,
+      "name": "brown eyes",
+      "url": "https://open.spotify.com/track/2pLieFj49thsxTBBquLEz9"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -205,26 +261,6 @@
       "url": "https://open.spotify.com/track/2cwXZz5Xpredp9Mdg5jRvV"
     },
     {
-      "added_at": "2023-09-22 14:14:20",
-      "album": {
-        "name": "c u never",
-        "url": "https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A"
-      },
-      "artists": [
-        {
-          "name": "tomcbumpz",
-          "url": "https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy"
-        },
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        }
-      ],
-      "duration_ms": 175806,
-      "name": "c u never",
-      "url": "https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf"
-    },
-    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "good things 2 (with tana)",
@@ -243,22 +279,6 @@
       "duration_ms": 174656,
       "name": "good things 2 (with tana)",
       "url": "https://open.spotify.com/track/6A8z1ijn6ttUSg9Hy4Y1nr"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "CUT MY HEART OUT",
-        "url": "https://open.spotify.com/album/19luyasFEMkdg7KBXUQKjY"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 152428,
-      "name": "CUT MY HEART OUT",
-      "url": "https://open.spotify.com/track/087UWFehhhqmHr79g9H1kn"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1101,38 +1121,6 @@
       "url": "https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L"
     },
     {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 149390,
-      "name": "claws",
-      "url": "https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Personal Protocol",
-        "url": "https://open.spotify.com/album/2ScwqDiRQMrGkthrrsumoW"
-      },
-      "artists": [
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        }
-      ],
-      "duration_ms": 123196,
-      "name": "COOL_DNB_SONG",
-      "url": "https://open.spotify.com/track/6qplf0LC8lwZdWL7Ij0hlu"
-    },
-    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "iv. Deer in the Headlights",
@@ -1369,22 +1357,6 @@
       "url": "https://open.spotify.com/track/7kXvnImnh58cx8XH588EGb"
     },
     {
-      "added_at": "2023-05-31 17:21:00",
-      "album": {
-        "name": "music 2",
-        "url": "https://open.spotify.com/album/3mtpXUqqBnIkbEM9xauIRL"
-      },
-      "artists": [
-        {
-          "name": "estelle allen",
-          "url": "https://open.spotify.com/artist/2tjDBUi44p9i0zsZQW01o4"
-        }
-      ],
-      "duration_ms": 100562,
-      "name": "dui",
-      "url": "https://open.spotify.com/track/3RLI8S7KpEZs4SqePGjM2R"
-    },
-    {
       "added_at": "2023-08-05 11:58:21",
       "album": {
         "name": "Whatsername",
@@ -1607,22 +1579,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "No Getting over U",
-        "url": "https://open.spotify.com/album/0uFFnk89aYGXmASQeSbv20"
-      },
-      "artists": [
-        {
-          "name": "Bearson",
-          "url": "https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg"
-        }
-      ],
-      "duration_ms": 162162,
-      "name": "No Getting over U",
-      "url": "https://open.spotify.com/track/37vlhyd8B4lr2H4Icb4dF8"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "nerve",
         "url": "https://open.spotify.com/album/0TwXi6nwEIpyB4wxPpc31G"
       },
@@ -1683,22 +1639,6 @@
       "duration_ms": 168069,
       "name": "Let Me Fight",
       "url": "https://open.spotify.com/track/08tAIp0mVArkmIdUAnKMsb"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Cowgirl",
-        "url": "https://open.spotify.com/album/7l4MKPgYC1veEp2bqwFcAQ"
-      },
-      "artists": [
-        {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/5wW2bmnIVn2qPbAsK6BcDU"
     },
     {
       "added_at": "2023-07-10 17:45:24",
@@ -1765,26 +1705,6 @@
       "url": "https://open.spotify.com/track/0DgyAyvFmYA232P4jWheGP"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "WET DREAMS (w/ Nimstarr)",
-        "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "Nimstarr",
-          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
-        }
-      ],
-      "duration_ms": 124711,
-      "name": "WET DREAMS (w/ Nimstarr)",
-      "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
-    },
-    {
       "added_at": "2023-07-28 14:33:00",
       "album": {
         "name": "fairies have dreams too",
@@ -1825,126 +1745,6 @@
       "url": "https://open.spotify.com/track/47OXSrqD2OqBu3jI3R785W"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "MOLLY",
-        "url": "https://open.spotify.com/album/2RjhHJoNeRTYm3LTWvR8Xb"
-      },
-      "artists": [
-        {
-          "name": "River Moon",
-          "url": "https://open.spotify.com/artist/5RD4Hod68h5cQzoz965po2"
-        },
-        {
-          "name": "umru",
-          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "MOLLY",
-      "url": "https://open.spotify.com/track/3rupdmlpYVeQ2l2qn7V2ja"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Welcome To My Island (Remix)",
-        "url": "https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "George Daniel",
-          "url": "https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT"
-        }
-      ],
-      "duration_ms": 202494,
-      "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
-      "url": "https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "gf",
-        "url": "https://open.spotify.com/album/2AvJRCsDGQyDS2EqCnOktd"
-      },
-      "artists": [
-        {
-          "name": "fussy",
-          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
-        }
-      ],
-      "duration_ms": 113250,
-      "name": "gf",
-      "url": "https://open.spotify.com/track/55IRGQQOMiYQORMEA4yhEI"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "PURPLE APE",
-        "url": "https://open.spotify.com/album/4m5vlm9Ov71ASdcwUQYYLj"
-      },
-      "artists": [
-        {
-          "name": "CONNIE",
-          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 190214,
-      "name": "PURPLE APE",
-      "url": "https://open.spotify.com/track/0ZpKseo8xDyCcX9SVmZHRm"
-    },
-    {
-      "added_at": "2023-06-08 14:13:04",
-      "album": {
-        "name": "Sodom & Gomorrah",
-        "url": "https://open.spotify.com/album/6fGdCPc7IIJwoJM5wrWpFU"
-      },
-      "artists": [
-        {
-          "name": "Dorian Electra",
-          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
-        }
-      ],
-      "duration_ms": 189913,
-      "name": "Sodom & Gomorrah",
-      "url": "https://open.spotify.com/track/0cgUUrFj9pOmSKzm4MyfIf"
-    },
-    {
-      "added_at": "2023-06-15 14:05:47",
-      "album": {
-        "name": "Heart Racing",
-        "url": "https://open.spotify.com/album/11RjYIgoAoNjAYnCkLYidJ"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        },
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        },
-        {
-          "name": "Nimstarr",
-          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "Heart Racing",
-      "url": "https://open.spotify.com/track/2xkCK64mVslpApVL7i6Mxj"
-    },
-    {
       "added_at": "2023-06-30 07:33:00",
       "album": {
         "name": "W.U.S.S. (why you so scared)",
@@ -1963,38 +1763,6 @@
       "duration_ms": 184332,
       "name": "W.U.S.S. (why you so scared)",
       "url": "https://open.spotify.com/track/7Hf2AUc1VUOGDvsd8yy2Ou"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Baby My Phone",
-        "url": "https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq"
-      },
-      "artists": [
-        {
-          "name": "Yameii Online",
-          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
-        }
-      ],
-      "duration_ms": 215771,
-      "name": "Baby My Phone",
-      "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "lost n found",
-        "url": "https://open.spotify.com/album/24RsDhoXk1dS3xSCRWgB1w"
-      },
-      "artists": [
-        {
-          "name": "i9bonsai",
-          "url": "https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3"
-        }
-      ],
-      "duration_ms": 164143,
-      "name": "lost n found",
-      "url": "https://open.spotify.com/track/4QTb29gVaviE9RXyeeabkT"
     }
   ],
   "unique_name": "hyperpop",

@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 209095,
+  "num_followers": 209132,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTYyNWExNzdmOTg4OWQxNGVkYmM3YjBmYzYyYWNmYmQyODc3NDJj",
+  "snapshot_id": "MCxiMTRjMzZmZTQ2YjcxNTljZTNmNjBlMzU0OGRjYzQ4MjhjNzE1OWIw",
   "tracks": [
     {
       "added_at": "2023-10-27 08:04:03",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-10-27 08:04:03",
       "album": {
-        "name": "ANIMA",
-        "url": "https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm"
+        "name": "SPIRA",
+        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
       },
       "artists": [
         {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+          "name": "Daniela Pes",
+          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
         }
       ],
-      "duration_ms": 237040,
-      "name": "Not the News",
-      "url": "https://open.spotify.com/track/3ejjAD15KNXGwRG1lQMFPI"
+      "duration_ms": 243466,
+      "name": "Illa Sera",
+      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
     },
     {
       "added_at": "2023-10-27 08:04:03",
@@ -307,34 +307,34 @@
     {
       "added_at": "2023-10-27 08:04:03",
       "album": {
-        "name": "SPIRA",
-        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
+        "name": "ANIMA",
+        "url": "https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm"
       },
       "artists": [
         {
-          "name": "Daniela Pes",
-          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
         }
       ],
-      "duration_ms": 243466,
-      "name": "Illa Sera",
-      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
+      "duration_ms": 237040,
+      "name": "Not the News",
+      "url": "https://open.spotify.com/track/3ejjAD15KNXGwRG1lQMFPI"
     },
     {
-      "added_at": "2023-10-27 08:04:03",
+      "added_at": "2023-11-08 01:45:53",
       "album": {
-        "name": "Blood Be Fluid",
-        "url": "https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID"
+        "name": "Hotori",
+        "url": "https://open.spotify.com/album/1xDVA6oSMgse7hqqKoSFiP"
       },
       "artists": [
         {
-          "name": "Julia Romana",
-          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/7Kuucb5jItOXxUA4AG6wKt"
         }
       ],
-      "duration_ms": 227276,
-      "name": "Blood Be Fluid",
-      "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
+      "duration_ms": 172974,
+      "name": "Knitting night",
+      "url": "https://open.spotify.com/track/3W2O2Ysw9OhT39hVWyTmpU"
     },
     {
       "added_at": "2023-10-27 08:04:03",
@@ -355,6 +355,38 @@
     {
       "added_at": "2023-10-27 08:04:03",
       "album": {
+        "name": "Blood Be Fluid",
+        "url": "https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID"
+      },
+      "artists": [
+        {
+          "name": "Julia Romana",
+          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
+        }
+      ],
+      "duration_ms": 227276,
+      "name": "Blood Be Fluid",
+      "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
+    },
+    {
+      "added_at": "2023-11-08 01:41:45",
+      "album": {
+        "name": "Sigillata Luce",
+        "url": "https://open.spotify.com/album/2BQuo5nQfPmd4TD15usjva"
+      },
+      "artists": [
+        {
+          "name": "Samuele CYMA",
+          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+        }
+      ],
+      "duration_ms": 309975,
+      "name": "Inquietum",
+      "url": "https://open.spotify.com/track/2Kh7KOKvfe25khXSJYH4rA"
+    },
+    {
+      "added_at": "2023-10-27 08:04:03",
+      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/6XplDOCrKwqK9MzH7HZQvN"
       },
@@ -367,22 +399,6 @@
       "duration_ms": 340196,
       "name": "Shake well before use",
       "url": "https://open.spotify.com/track/6JnPiDL5e9Z56jWahzGWMY"
-    },
-    {
-      "added_at": "2023-10-27 08:04:03",
-      "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/0H6yPrBlXON15blsgmA4Aq"
-      },
-      "artists": [
-        {
-          "name": "Amnesia Scanner",
-          "url": "https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF"
-        }
-      ],
-      "duration_ms": 254500,
-      "name": "AS Too Wrong",
-      "url": "https://open.spotify.com/track/74wUpuW4tRQJJGiucm4JfJ"
     },
     {
       "added_at": "2023-10-27 08:04:03",
@@ -403,22 +419,6 @@
     {
       "added_at": "2023-10-27 08:04:03",
       "album": {
-        "name": "ANIMA",
-        "url": "https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm"
-      },
-      "artists": [
-        {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
-        }
-      ],
-      "duration_ms": 423173,
-      "name": "Twist",
-      "url": "https://open.spotify.com/track/1bIO8oWeMRyLUHUIUsTcTY"
-    },
-    {
-      "added_at": "2023-10-27 08:04:03",
-      "album": {
         "name": "I Hope You Can Forgive Me",
         "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
       },
@@ -431,6 +431,22 @@
       "duration_ms": 55860,
       "name": "Deep Sea",
       "url": "https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm"
+    },
+    {
+      "added_at": "2023-10-27 08:04:03",
+      "album": {
+        "name": "Classic Objects",
+        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 362428,
+      "name": "American Coffee",
+      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
     },
     {
       "added_at": "2023-10-27 08:04:03",
@@ -455,18 +471,18 @@
     {
       "added_at": "2023-10-27 08:04:03",
       "album": {
-        "name": "Classic Objects",
-        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+        "name": "ANIMA",
+        "url": "https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm"
       },
       "artists": [
         {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
         }
       ],
-      "duration_ms": 362428,
-      "name": "American Coffee",
-      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
+      "duration_ms": 423173,
+      "name": "Twist",
+      "url": "https://open.spotify.com/track/1bIO8oWeMRyLUHUIUsTcTY"
     },
     {
       "added_at": "2023-10-27 08:04:03",
@@ -483,6 +499,22 @@
       "duration_ms": 187632,
       "name": "Even It Out",
       "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
+    },
+    {
+      "added_at": "2023-11-08 01:40:24",
+      "album": {
+        "name": "Vibra\u00e7\u00f5es de Prata",
+        "url": "https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj"
+      },
+      "artists": [
+        {
+          "name": "Xexa",
+          "url": "https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8"
+        }
+      ],
+      "duration_ms": 128750,
+      "name": "Assim",
+      "url": "https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX"
     },
     {
       "added_at": "2023-10-27 08:04:03",
@@ -535,6 +567,22 @@
       "duration_ms": 245008,
       "name": "Unknown Tokyo",
       "url": "https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g"
+    },
+    {
+      "added_at": "2023-10-27 08:04:03",
+      "album": {
+        "name": "Radical Romantics",
+        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        }
+      ],
+      "duration_ms": 267763,
+      "name": "What They Call Us",
+      "url": "https://open.spotify.com/track/71ydsZmj3wLbdMkA6FPZIy"
     },
     {
       "added_at": "2023-10-27 08:04:03",
@@ -643,22 +691,6 @@
     {
       "added_at": "2023-10-27 08:04:03",
       "album": {
-        "name": "Radical Romantics",
-        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
-      },
-      "artists": [
-        {
-          "name": "Fever Ray",
-          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
-        }
-      ],
-      "duration_ms": 267763,
-      "name": "What They Call Us",
-      "url": "https://open.spotify.com/track/71ydsZmj3wLbdMkA6FPZIy"
-    },
-    {
-      "added_at": "2023-10-27 08:04:03",
-      "album": {
         "name": "Thin Air (WaterBABii_MiiX)",
         "url": "https://open.spotify.com/album/3m5gpzvJDi7wObxSwFjUmZ"
       },
@@ -695,22 +727,6 @@
     {
       "added_at": "2023-10-27 08:04:03",
       "album": {
-        "name": "The Distance Between Heart And Mouth",
-        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
-      },
-      "artists": [
-        {
-          "name": "Elaine Howley",
-          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
-        }
-      ],
-      "duration_ms": 233610,
-      "name": "Archeological Longing",
-      "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
-    },
-    {
-      "added_at": "2023-10-27 08:04:03",
-      "album": {
         "name": "\u00a1Ay!",
         "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
       },
@@ -727,6 +743,22 @@
     {
       "added_at": "2023-10-27 08:04:03",
       "album": {
+        "name": "The Distance Between Heart And Mouth",
+        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "duration_ms": 233610,
+      "name": "Archeological Longing",
+      "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
+    },
+    {
+      "added_at": "2023-10-27 08:04:03",
+      "album": {
         "name": "\u041a\u043e\u0436\u0430",
         "url": "https://open.spotify.com/album/4wCIFuLXlbqc5QQIj14H1S"
       },
@@ -739,6 +771,26 @@
       "duration_ms": 268184,
       "name": "\u041a\u043e\u0436\u0430",
       "url": "https://open.spotify.com/track/6O2IxBAZlVeQxgjQIQZtz1"
+    },
+    {
+      "added_at": "2023-10-27 08:04:03",
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u"
+      },
+      "artists": [
+        {
+          "name": "Johan Graden",
+          "url": "https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak"
+        },
+        {
+          "name": "Ellen Arkbro",
+          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
+        }
+      ],
+      "duration_ms": 320547,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW"
     },
     {
       "added_at": "2023-10-27 08:04:03",
@@ -791,26 +843,6 @@
     {
       "added_at": "2023-10-27 08:04:03",
       "album": {
-        "name": "Close",
-        "url": "https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u"
-      },
-      "artists": [
-        {
-          "name": "Johan Graden",
-          "url": "https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak"
-        },
-        {
-          "name": "Ellen Arkbro",
-          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
-        }
-      ],
-      "duration_ms": 320547,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW"
-    },
-    {
-      "added_at": "2023-10-27 08:04:03",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
       },
@@ -823,38 +855,6 @@
       "duration_ms": 437059,
       "name": "Aura",
       "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
-    },
-    {
-      "added_at": "2023-10-27 08:04:03",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu",
-      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
-    },
-    {
-      "added_at": "2023-10-27 08:04:03",
-      "album": {
-        "name": "B-Sides & Rarities: Volume 1",
-        "url": "https://open.spotify.com/album/27sproEBf122MWgqS30BiI"
-      },
-      "artists": [
-        {
-          "name": "Ethan P. Flynn",
-          "url": "https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Are You Doing This to Hurt Me",
-      "url": "https://open.spotify.com/track/0cfDDqPuyrpyVuxMzdotk0"
     }
   ],
   "unique_name": "Terra Incognita",

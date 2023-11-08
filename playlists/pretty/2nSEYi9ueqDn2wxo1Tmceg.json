@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 75923,
+  "num_followers": 75926,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzgwNiw3NjdjYmQ4N2I2NmRjNzdhOWY3NDJjNTU1OTM5ZDhmZDU2MDAwMzNl",
+  "snapshot_id": "MzgwNyw0MGY5MWUzNWJhNTJmOTg5YWQyZDhiYWMwZmFkYTI3NzM4MjExMDQ0",
   "tracks": [
+    {
+      "added_at": "2023-11-07 14:17:05",
+      "album": {
+        "name": "Sun Girl",
+        "url": "https://open.spotify.com/album/34cvl46Fs5VoDm7DzS5ZeR"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 352670,
+      "name": "Sun Girl",
+      "url": "https://open.spotify.com/track/0sMgwHapnEjJ7ixPHuvE8m"
+    },
     {
       "added_at": "2023-11-03 10:52:43",
       "album": {

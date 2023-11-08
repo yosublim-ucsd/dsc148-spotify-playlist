@@ -1,12 +1,12 @@
 {
   "description": "Nominees \u2014 and past winners \u2014 from the 95th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 265064,
+  "num_followers": 265053,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWQzOTgzMTg1Zjk4NGY2OGZmNzc5M2U1NmM5NWNmMTYzYjJiMDMx",
+  "snapshot_id": "MCxhOGZkNjBiMjM3ZDA3MDc3Yzc3NDc2ZmI2MTk0M2Q4ZDFmYzlmNGQ0",
   "tracks": [
     {
       "added_at": "2023-03-13 02:59:21",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa"
-      },
-      "artists": [
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 347600,
-      "name": "Into the West",
-      "url": "https://open.spotify.com/track/0gSEyG7pOFuHM05433EibX"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "Soul (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 228000,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 347600,
+      "name": "Into the West",
+      "url": "https://open.spotify.com/track/0gSEyG7pOFuHM05433EibX"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "Crazy Heart: Original Motion Picture Soundtrack (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/37dvCriHpMVzbmJGmNqLGz"
-      },
-      "artists": [
-        {
-          "name": "Ryan Bingham",
-          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
-        }
-      ],
-      "duration_ms": 258200,
-      "name": "The Weary Kind (Theme from Crazy Heart)",
-      "url": "https://open.spotify.com/track/4RNWtg4RBgomLc5evNQCsi"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "John Williams: At the Movies",
         "url": "https://open.spotify.com/album/3BRxBWpUZ9yerHGn1nY1Mr"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 225066,
       "name": "E.T.: Flying Theme",
       "url": "https://open.spotify.com/track/3lK9mpcQfPLMn2GhiOGSTG"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "Crazy Heart: Original Motion Picture Soundtrack (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/37dvCriHpMVzbmJGmNqLGz"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "duration_ms": 258200,
+      "name": "The Weary Kind (Theme from Crazy Heart)",
+      "url": "https://open.spotify.com/track/4RNWtg4RBgomLc5evNQCsi"
     },
     {
       "added_at": "2023-03-13 02:59:21",

@@ -4,7 +4,7 @@
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-176 songs - 10 hr 5 min
+177 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [My Best Friend's Girl](https://open.spotify.com/track/1SRkKyJ2JjMZgyDWC30zKv) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:43 | 2021-12-16 | 2023-03-22 |
 | [My Sharona](https://open.spotify.com/track/1de0oQBdeAmOVsvZlnyZqK) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Countdown To The New Year](https://open.spotify.com/album/5FXKTAsu4P2YjPKyuHr9Sl) | 3:59 | 2021-12-16 | 2022-06-03 |
 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 | 2023-03-21 |  |
-| [New Mistake](https://open.spotify.com/track/7a7y3aPXd5STF9BvCG6slI) | [Jellyfish](https://open.spotify.com/artist/10flBVEy5MiUXOJWTaFsyL) | [Spilt Milk](https://open.spotify.com/album/2xWIi4fDWJZT2Mw3ydTIO7) | 4:02 | 2021-12-16 |  |
+| [New Mistake](https://open.spotify.com/track/7a7y3aPXd5STF9BvCG6slI) | [Jellyfish](https://open.spotify.com/artist/10flBVEy5MiUXOJWTaFsyL) | [Spilt Milk](https://open.spotify.com/album/2xWIi4fDWJZT2Mw3ydTIO7) | 4:02 | 2021-12-16 | 2023-11-08 |
+| [New Mistake](https://open.spotify.com/track/0lDvjI92aVKb1BLoRV6FaH) | [Jellyfish](https://open.spotify.com/artist/10flBVEy5MiUXOJWTaFsyL) | [Spilt Milk](https://open.spotify.com/album/7dAjaIuG9a9Nt3jkYTcoxD) | 4:03 | 2023-01-18 |  |
 | [No Matter What](https://open.spotify.com/track/0139jdnQYneN6R0LsbV1Dc) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [No Matter What You Are](https://open.spotify.com/album/4cRdpAyhGpFJ3O7dkS5AQk) | 3:03 | 2021-12-16 | 2022-07-13 |
 | [No Myth](https://open.spotify.com/track/3mlnJWidDh0ASIJYNXDWxH) | [Michael Penn](https://open.spotify.com/artist/4GcBbZ5wVhNABLzm4MpJqG) | [March](https://open.spotify.com/album/3lqEMgImTV9K2ZQYl6JFhO) | 4:09 | 2021-12-16 | 2022-07-27 |
 | [Not If You Were The Last Junkie On Earth](https://open.spotify.com/track/3M7bAbqHp8mfI3DsYADdcS) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [The Dandy Warhols Come Down](https://open.spotify.com/album/1cYRtXjzkEueYaYTU8R2EX) | 3:11 | 2021-12-16 | 2023-01-17 |

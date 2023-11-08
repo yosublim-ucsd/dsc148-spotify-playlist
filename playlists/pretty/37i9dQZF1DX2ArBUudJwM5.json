@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. Foto: Juliana Gattas",
-  "num_followers": 39392,
+  "num_followers": 39390,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGJmNzRhYjI5Mzc5MDI1ZTllYTVhN2Q1N2U3YjQzNWNmOWVlYTAy",
+  "snapshot_id": "MCwzY2VhNzRiMjdmZTgyYjU0Yzk3ZmEyYTc0ODNhMjg4OTRmMjc5YjA4",
   "tracks": [
     {
       "added_at": "2023-10-04 03:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "Llorar en un ba\u00f1o p\u00fablico",
-        "url": "https://open.spotify.com/album/7z1h9TLRvhebaSIwuLIFFA"
-      },
-      "artists": [
-        {
-          "name": "Babeblade",
-          "url": "https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm"
-        }
-      ],
-      "duration_ms": 167665,
-      "name": "sola otra vez",
-      "url": "https://open.spotify.com/track/65tHJ2o2hFDyBPghXWLYtv"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
         "name": "En vivo en El Xirgu",
         "url": "https://open.spotify.com/album/1e44sKDnluTHDRNuuDyVeJ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 165000,
       "name": "La Cascada de Tu Pelo Enredado",
       "url": "https://open.spotify.com/track/3NsRU4E09BC9qlWS7Pn2wY"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
+        "name": "Llorar en un ba\u00f1o p\u00fablico",
+        "url": "https://open.spotify.com/album/7z1h9TLRvhebaSIwuLIFFA"
+      },
+      "artists": [
+        {
+          "name": "Babeblade",
+          "url": "https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm"
+        }
+      ],
+      "duration_ms": 167665,
+      "name": "sola otra vez",
+      "url": "https://open.spotify.com/track/65tHJ2o2hFDyBPghXWLYtv"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -595,6 +595,30 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
+        "name": "Pervertida",
+        "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
+      },
+      "artists": [
+        {
+          "name": "Vera Frod",
+          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
+        },
+        {
+          "name": "Punga",
+          "url": "https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk"
+        },
+        {
+          "name": "MAG",
+          "url": "https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Pervertida",
+      "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
         "name": "Varias Artistas - Pap\u00e1",
         "url": "https://open.spotify.com/album/02XtGpkPOvmvKFEt2TPERg"
       },
@@ -619,30 +643,6 @@
       "duration_ms": 246600,
       "name": "Diario \u00cdntimo",
       "url": "https://open.spotify.com/track/79k7bVBxAbInkypkIcfyKO"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
-        "name": "Pervertida",
-        "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
-      },
-      "artists": [
-        {
-          "name": "Vera Frod",
-          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
-        },
-        {
-          "name": "Punga",
-          "url": "https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk"
-        },
-        {
-          "name": "MAG",
-          "url": "https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Pervertida",
-      "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
+        "name": "Festejar",
+        "url": "https://open.spotify.com/album/160XSHPMZFnnDpPH9sUxdY"
+      },
+      "artists": [
+        {
+          "name": "Emme",
+          "url": "https://open.spotify.com/artist/46V95jm2XMU8IyaKSXjSfW"
+        }
+      ],
+      "duration_ms": 228290,
+      "name": "Festejar",
+      "url": "https://open.spotify.com/track/2Pl3nggNkBrthtJofSiPfh"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
         "name": "Salve",
         "url": "https://open.spotify.com/album/2QJdf3e2En6DGh99jd3ZlJ"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 198136,
       "name": "A Berisso",
       "url": "https://open.spotify.com/track/6iulOMwuf00k2yA4Hmw85h"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
-        "name": "Festejar",
-        "url": "https://open.spotify.com/album/160XSHPMZFnnDpPH9sUxdY"
-      },
-      "artists": [
-        {
-          "name": "Emme",
-          "url": "https://open.spotify.com/artist/46V95jm2XMU8IyaKSXjSfW"
-        }
-      ],
-      "duration_ms": 228290,
-      "name": "Festejar",
-      "url": "https://open.spotify.com/track/2Pl3nggNkBrthtJofSiPfh"
     },
     {
       "added_at": "2023-10-04 03:00:00",

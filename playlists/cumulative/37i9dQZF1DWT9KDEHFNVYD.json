@@ -5189,6 +5189,24 @@
     },
     {
       "album": {
+        "name": "Synapse / Oxytocin",
+        "url": "https://open.spotify.com/album/4B0I8VrDXo4wj2HfCZBvUD"
+      },
+      "artists": [
+        {
+          "name": "AUTORHYTHM",
+          "url": "https://open.spotify.com/artist/0BWEJ23wABuFbWXCdA0j5k"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124933,
+      "name": "Synapse",
+      "url": "https://open.spotify.com/track/7vwIzkbkgex07UkXbTr5L2"
+    },
+    {
+      "album": {
         "name": "Remember I Was Carbon Dioxide",
         "url": "https://open.spotify.com/album/3qhe1rCL3GcwCebco99KWX"
       },
@@ -6064,7 +6082,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 319853,
       "name": "Yatton",
       "url": "https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh"

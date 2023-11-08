@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Alan Walker, Sophie Stray & Zena Emad
 
-173 songs - 11 hr 32 min
+174 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [ANSAKI](https://open.spotify.com/track/4O3GYFwAk96plrsPBaTOAc) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [ANSAKI](https://open.spotify.com/album/5vkbZdEJqhnz7wgRfj6srU) | 2:47 | 2022-12-02 | 2023-06-24 |
 | [Anta](https://open.spotify.com/track/3SaJambg6zRQ6MWf2pOAC9) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl), [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7) | [Anta](https://open.spotify.com/album/4vPYDw5xJNhJwqFDDJXyfY) | 2:43 | 2022-08-29 | 2023-06-24 |
 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-10-20 |  |
-| [Babale \- FNX Omar Remix](https://open.spotify.com/track/6wPq6H82E2mige9LIXk2Yx) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Babale](https://open.spotify.com/album/4U9EPs88vdcXt8Myq0ad4j) | 3:47 | 2023-08-16 |  |
+| [Babale \- Fnx Omar Remix](https://open.spotify.com/track/3bVI4SanGkOw5DCtjOFULx) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Babale](https://open.spotify.com/album/2mFfoNM9RYDSRyLgymUQPQ) | 3:47 | 2023-11-02 |  |
+| [Babale \- FNX Omar Remix](https://open.spotify.com/track/6wPq6H82E2mige9LIXk2Yx) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Babale](https://open.spotify.com/album/4U9EPs88vdcXt8Myq0ad4j) | 3:47 | 2023-08-16 | 2023-11-08 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-06-23 |  |
 | [Baglami](https://open.spotify.com/track/6ZTOjC8lXAXK5AUw4SRfn1) | [DJ DALI](https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS) | [Baglami](https://open.spotify.com/album/07C07uz3IJt6aixCnd2uvM) | 5:30 | 2023-06-23 |  |
 | [Bahebak Wadari \- Royo Remix](https://open.spotify.com/track/7EJiLcIRikqeOWUQ5bURBT) | [Madeleine Matar](https://open.spotify.com/artist/2WRcWx0NGGiJNmkoIZETha), [Royo](https://open.spotify.com/artist/57wDmUaZi3U7qm3mmjC7em) | [Bahebak Wadari \(Royo Remix\)](https://open.spotify.com/album/0BK7X6x7MflBP1SQdwMevT) | 4:10 | 2022-11-05 | 2022-11-08 |

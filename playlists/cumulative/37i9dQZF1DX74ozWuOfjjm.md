@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: The Veronicas
 
-505 songs - 1 day 3 hr 15 min
+506 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,8 @@
 | [next life](https://open.spotify.com/track/0EMaDLab0jjbGS4OWzDUoW) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [next life](https://open.spotify.com/album/6PLd5OqpdGTqJYpULgXJA1) | 3:01 | 2022-05-02 | 2022-12-16 |
 | [next life](https://open.spotify.com/track/5poPzk8gK11QCegSKXGJbU) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [ten feet tall](https://open.spotify.com/album/6TETMIrJLfXnQQWSpavE5r) | 3:01 | 2022-11-30 | 2023-02-01 |
 | [nice](https://open.spotify.com/track/29wl32cIPkuiOcGLYdFGVv) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [nice](https://open.spotify.com/album/6VQGSVyGAftU1zhTJU4Q3t) | 1:57 | 2022-12-31 | 2023-11-01 |
-| [Night Drive](https://open.spotify.com/track/5s7oLHFgcsaYY1aM4eTDqh) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Superfeeling](https://open.spotify.com/album/4lpupHh13ucR6AOhtf9ZN8) | 2:55 | 2023-05-31 |  |
+| [Night Drive](https://open.spotify.com/track/5R5DE7LWo7in5KN24xdrrP) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Superfeeling](https://open.spotify.com/album/0eJlMpEZWQByqXul0fIAge) | 2:55 | 2023-10-31 |  |
+| [Night Drive](https://open.spotify.com/track/5s7oLHFgcsaYY1aM4eTDqh) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Superfeeling](https://open.spotify.com/album/4lpupHh13ucR6AOhtf9ZN8) | 2:55 | 2023-05-31 | 2023-11-08 |
 | [Nightmare](https://open.spotify.com/track/0JyWZ4BrLIlvyJ5lt7HNM1) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Nightmare](https://open.spotify.com/album/7kmb7rf1uASmCbFe3YLfhV) | 3:29 | 2022-02-03 | 2022-05-28 |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/2SMpPuLG1PDPz5tP2RhjWT) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/0iPEHKxVGBBka65r0AwUWz) | 3:03 | 2023-06-30 | 2023-10-14 |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/2hOKrPOGFsWinOWguSvjSR) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/3gKp0v7cx8VBr0C3dzgizg) | 3:03 | 2023-09-30 |  |

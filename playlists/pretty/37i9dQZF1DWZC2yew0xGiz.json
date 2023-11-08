@@ -1,12 +1,12 @@
 {
   "description": "This month: songs from an iconic era of Black film soundtracks.",
-  "num_followers": 1123814,
+  "num_followers": 1123806,
   "original_name": "Film & TV Favorites: 90s Black Cinema",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzQwYjQ0ZDVhZDQ1NGJiOTlmNzkyMTgzODUzNTk4ZDlkOWM2ZjEw",
+  "snapshot_id": "MCxjZDY2OGM0NjRjZDY4MDIyMTM1NTQwMTk4N2NmNzZkYzU5NDlkZjMy",
   "tracks": [
     {
       "added_at": "2021-02-02 15:31:39",
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
-        "name": "Boyz N The Hood",
-        "url": "https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep"
-      },
-      "artists": [
-        {
-          "name": "Tevin Campbell",
-          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
-        }
-      ],
-      "duration_ms": 248040,
-      "name": "Just Ask Me To",
-      "url": "https://open.spotify.com/track/0gzjfF1qKORte5h0kKHQfB"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
         "name": "Do The Right Thing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/39gQ1HiUS295YJs1NgRxkc"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 297666,
       "name": "My Fantasy - From \"Do The Right Thing\" Soundtrack",
       "url": "https://open.spotify.com/track/0f1uqm2rwQACn7mRbGQiOR"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
+        "name": "Boyz N The Hood",
+        "url": "https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep"
+      },
+      "artists": [
+        {
+          "name": "Tevin Campbell",
+          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
+        }
+      ],
+      "duration_ms": 248040,
+      "name": "Just Ask Me To",
+      "url": "https://open.spotify.com/track/0gzjfF1qKORte5h0kKHQfB"
     },
     {
       "added_at": "2021-02-02 15:31:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Néza
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,691 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,902 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [HI TECH \(feat\. Dardan\)](https://open.spotify.com/track/4l2ATeURkBNDMaj1s7cU6U) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [HI TECH \(feat\. Dardan\)](https://open.spotify.com/album/6AajVc17THqnxw38GIWRji) | 2:13 |
 | 50 | [BVLGARI](https://open.spotify.com/track/1WibnlA9JXDEOewy0mr71I) | [R1MKA](https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc) | [BVLGARI](https://open.spotify.com/album/1959Xf6EJPqYLaxFJxsYXD) | 2:24 |
 
-Snapshot ID: `MCw3YmE1OWQyMGZmODBmMTFlNWY1NjI0ZjU4ZmZiM2U0ZTk3ZDRlMTlh`
+Snapshot ID: `MCwyYzBlMzkzMDI3MWI2NzIxYmEzYzRjNjlmMjQzOTM3YmFiZDY4ZThj`

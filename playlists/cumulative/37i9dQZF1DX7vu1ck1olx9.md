@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-237 songs - 9 hr 36 min
+238 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [fluffy](https://open.spotify.com/track/0DQlBPWiOqVc4vevZPSbsT) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [fluffy](https://open.spotify.com/album/1QfEMseJ9uQmuA8ZFSgR50) | 2:05 | 2023-10-27 |  |
 | [Forever Dream](https://open.spotify.com/track/4QGm25bHKjIKYNgzTgoqRw) | [shapes](https://open.spotify.com/artist/4BTgiaeE6KnrTaHsfEOPDC) | [Forever Dream](https://open.spotify.com/album/3QCs3UZfTnPiDSvINQ90U7) | 2:31 | 2023-10-27 |  |
 | [Fractals](https://open.spotify.com/track/4ijwRNrJHhEPt1CNIzNG5E) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde), [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET) | [Jazz Cat](https://open.spotify.com/album/4VWW7BeHlH0jlMPQFtNSsu) | 2:59 | 2020-11-12 | 2023-10-29 |
-| [Fresh Breeze](https://open.spotify.com/track/3o1DqWwSOUp4GRvsYiB22N) | [Ky akasha](https://open.spotify.com/artist/4961tplpADAjhtfTzgBtKk) | [Fresh Breeze](https://open.spotify.com/album/4Uha6OYZNqoZJ9gvMHoXzW) | 2:14 | 2021-10-29 |  |
+| [Fresh Breeze](https://open.spotify.com/track/3o1DqWwSOUp4GRvsYiB22N) | [Ky akasha](https://open.spotify.com/artist/4961tplpADAjhtfTzgBtKk) | [Fresh Breeze](https://open.spotify.com/album/4Uha6OYZNqoZJ9gvMHoXzW) | 2:14 | 2021-10-29 | 2023-11-08 |
 | [Gin](https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 2:10 | 2020-11-12 | 2023-10-29 |
 | [Goiaba](https://open.spotify.com/track/4KCGYOHGExcKUlFkNajeVO) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7HKTZkhWHbRZmWgCifVwfv) | 2:19 | 2022-09-16 | 2022-11-21 |
 | [Goiaba](https://open.spotify.com/track/6nE6Gdm1JlMSS3mFfW2158) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7AeffHlBxwhazA5z5WikxD) | 2:19 | 2022-09-16 |  |
@@ -174,6 +174,7 @@
 | [Sandcastle](https://open.spotify.com/track/5o4sk4KHIHbLISuQ7SnKdE) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Sandcastle](https://open.spotify.com/album/6m5MWzSZKFcubFwcL0oMDD) | 1:44 | 2020-11-12 | 2022-07-29 |
 | [satellite reflection](https://open.spotify.com/track/7BgD05TVMtDDGznzDqikcB) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [satellite reflection & fresh morning](https://open.spotify.com/album/4qAmTd3CmU84rNsP5hhNSL) | 2:53 | 2023-10-27 |  |
 | [Saturnian Potion](https://open.spotify.com/track/1CBfTUq4k0OIL1eYhrM24o) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Saturnian Potion](https://open.spotify.com/album/0a6GJOHAnJ4FKPyck0llk8) | 3:37 | 2020-11-12 | 2022-07-29 |
+| [Serenity](https://open.spotify.com/track/02fGPghQgifZrjNwcASSh4) | [HLY WUD](https://open.spotify.com/artist/51htK4Ln3sMNbTBcs7Ft8S) | [Serenity](https://open.spotify.com/album/26Su9YAaY4v3OnZUakw4aU) | 2:19 | 2023-10-27 |  |
 | [Serenity](https://open.spotify.com/track/2c4ID1tG3Y0sp20zLRV8TI) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/49jIsH9XQXw0IYubfJK4Kv) | 3:12 | 2020-11-12 |  |
 | [Serenity](https://open.spotify.com/track/44Enofs0bXrGNbKuqtdx0k) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/7boAU92M1FypSBlYz0aeSg) | 3:12 | 2020-11-12 | 2023-09-16 |
 | [Serenity](https://open.spotify.com/track/4x1mZMYf8E239Ug0VeYvzQ) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/4n4VJqnZTaPg41iDIakpmE) | 3:12 | 2020-11-12 | 2022-07-29 |

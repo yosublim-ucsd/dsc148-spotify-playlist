@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Sadturs, KIID
 
-795 songs - 1 day 10 hr 40 min
+796 songs - 1 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [MASHALLAH](https://open.spotify.com/track/22WYQTGU6FSlvoUqnS5bjF) | [Grelmos](https://open.spotify.com/artist/1u50IuLSHEITB0XFdcMUyY) | [MASHALLAH](https://open.spotify.com/album/1TdFiqQSBhSjZ7f04YA8Nb) | 2:26 | 2023-05-04 | 2023-05-26 |
 | [Massafghanistan](https://open.spotify.com/track/2z8mWFWbz1dyBqbLWbmPWi) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Quarto di Bue](https://open.spotify.com/album/7LAZxfodTzgKt3qwGqgCMf) | 2:32 | 2023-06-15 | 2023-09-15 |
 | [Materia](https://open.spotify.com/track/0Hw8AUMZgyk70EkMcOZso8) | [Kira](https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC), [Depha Beat](https://open.spotify.com/artist/6bwVTFdmpdNygRD0jMUQGm) | [Materia](https://open.spotify.com/album/2hBOUQzzVit5kMCbrqYVG7) | 2:43 | 2022-10-27 | 2022-11-18 |
+| [MAYBACH](https://open.spotify.com/track/3B1wXfY9DgClNsa3eEOfVO) | [Malsho](https://open.spotify.com/artist/1QoHY2jVpZqUrqnpZjA811), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Stresi](https://open.spotify.com/artist/1xSxx6qkrEac8Ek7puk6FI), [Daxter](https://open.spotify.com/artist/7ml77C26I1LupIH1R4pEYa), [Riflo](https://open.spotify.com/artist/6v60ZvqjQ9FeNe0JDKzpSu) | [MAYBACH](https://open.spotify.com/album/5bhCxGsUz58QDmzUFtgvGp) | 3:08 | 2023-11-07 |  |
 | [Mc Queen](https://open.spotify.com/track/1gF5GQAtwds79fanKqsl1C) | [Oliver Green](https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK), [Macs](https://open.spotify.com/artist/6HVUM2E6gjSKOp5NZbEqau) | [Mc Queen](https://open.spotify.com/album/1Qyt1Qy9Cx9Dky8XI0Uvm8) | 2:44 | 2023-04-13 | 2023-04-21 |
 | [McLaren](https://open.spotify.com/track/7Ax1p1r79MiXy5Lcw0RG08) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk), [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc) | [McLaren](https://open.spotify.com/album/5fG48pQO2ZG0llt5DMIZ4t) | 2:05 | 2022-06-16 | 2022-08-12 |
 | [Me](https://open.spotify.com/track/1IvTiiP4S4GncH5xxYpUxS) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [NENNO](https://open.spotify.com/artist/7IADlwb8drI8AC1fpbvbla) | [Me](https://open.spotify.com/album/03pUFHkqxGNfNGqByFpXi4) | 2:27 | 2022-07-14 | 2022-09-07 |

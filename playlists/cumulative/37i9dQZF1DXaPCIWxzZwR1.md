@@ -4,7 +4,7 @@
 
 > next gen pop Cover: Tate McRae
 
-1,778 songs - 3 day 14 hr 22 min
+1,779 songs - 3 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -971,6 +971,7 @@
 | [loner](https://open.spotify.com/track/3MtZ7NDO0eVP2mltk9PdGA) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [loner](https://open.spotify.com/album/3QRGojp6gEqZf9QgxH6lMK) | 2:46 | 2023-03-10 | 2023-03-25 |
 | [Long Distance](https://open.spotify.com/track/0PWJ0Ojg6LNcIplsrhuwW5) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Long Distance](https://open.spotify.com/album/355fs1whVcaSZGXQm9ufbu) | 2:28 | 2021-02-19 | 2021-03-31 |
 | [Long Drives](https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Long Drives](https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU) | 2:39 | 2022-01-21 | 2022-04-29 |
+| [LOOK AT YOU NOW](https://open.spotify.com/track/64N5LnrPAt4o012wuhNGEH) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [LOOK AT YOU NOW](https://open.spotify.com/album/3rbXKITsDWzLR8sh8ZMSMG) | 2:43 | 2023-11-07 |  |
 | [Look Who's Cryin' Now](https://open.spotify.com/track/6Q0j526ymBAvizdCHmoM9x) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Look Who's Cryin' Now](https://open.spotify.com/album/539ihh7Uywx0dY2NFAJbID) | 2:21 | 2021-04-24 | 2021-07-04 |
 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 | 2021-08-25 | 2021-12-04 |
 | [Lose](https://open.spotify.com/track/7nVERWQXlgZRQsYw4fHf3b) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Lose](https://open.spotify.com/album/2KiivxtQQDKP8TfdXEfECf) | 3:25 | 2021-08-07 | 2021-09-11 |

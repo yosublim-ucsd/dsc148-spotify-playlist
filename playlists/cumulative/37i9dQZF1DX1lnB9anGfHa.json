@@ -330,7 +330,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 228586,
       "name": "Are You Doing This to Hurt Me",
       "url": "https://open.spotify.com/track/0cfDDqPuyrpyVuxMzdotk0"
@@ -384,10 +384,28 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 254500,
       "name": "AS Too Wrong",
       "url": "https://open.spotify.com/track/74wUpuW4tRQJJGiucm4JfJ"
+    },
+    {
+      "album": {
+        "name": "Vibra\u00e7\u00f5es de Prata",
+        "url": "https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj"
+      },
+      "artists": [
+        {
+          "name": "Xexa",
+          "url": "https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128750,
+      "name": "Assim",
+      "url": "https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX"
     },
     {
       "album": {
@@ -1567,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Sigillata Luce",
+        "url": "https://open.spotify.com/album/2BQuo5nQfPmd4TD15usjva"
+      },
+      "artists": [
+        {
+          "name": "Samuele CYMA",
+          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309975,
+      "name": "Inquietum",
+      "url": "https://open.spotify.com/track/2Kh7KOKvfe25khXSJYH4rA"
+    },
+    {
+      "album": {
         "name": "Jard\u00edn de Planetas",
         "url": "https://open.spotify.com/album/2pldZMO9zTtv2DLkMaIRa7"
       },
@@ -1705,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "Hotori",
+        "url": "https://open.spotify.com/album/1xDVA6oSMgse7hqqKoSFiP"
+      },
+      "artists": [
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/7Kuucb5jItOXxUA4AG6wKt"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172974,
+      "name": "Knitting night",
+      "url": "https://open.spotify.com/track/3W2O2Ysw9OhT39hVWyTmpU"
+    },
+    {
+      "album": {
         "name": "La Morte Muore (Part 3)",
         "url": "https://open.spotify.com/album/0a4gYYEd1DDv5bKbTi5wTi"
       },
@@ -1814,7 +1868,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 363346,
       "name": "Makkuroi Mizu",
       "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"

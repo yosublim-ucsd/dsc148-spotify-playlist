@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 128935,
+  "num_followers": 129049,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTg0MDE0Yjc0NDkzNjc0MWMwZWNhMDg1MjJhMDQ2ZGI3MGFjZGJm",
+  "snapshot_id": "MCw3ODFhMDZkY2I2M2YwYTgwNTBhY2QxMGZjNjNkZmZjNDg5N2U0NWZm",
   "tracks": [
     {
       "added_at": "2023-10-06 04:04:27",
@@ -223,8 +223,8 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Tantos Mares",
-        "url": "https://open.spotify.com/album/18fvdisM9gH3ZWH6ETAGBd"
+        "name": "Al\u00e9m do Que Se V\u00ea",
+        "url": "https://open.spotify.com/album/4ysGU8xBKFVw1aB1kowUQ2"
       },
       "artists": [
         {
@@ -232,13 +232,17 @@
           "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
         },
         {
-          "name": "Gabriella Stehling",
-          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
+          "name": "Paula Schneider",
+          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
+        },
+        {
+          "name": "Ventania",
+          "url": "https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1"
         }
       ],
-      "duration_ms": 280266,
-      "name": "Tantos Mares",
-      "url": "https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct"
+      "duration_ms": 301704,
+      "name": "Al\u00e9m do Que Se V\u00ea",
+      "url": "https://open.spotify.com/track/0x8YDLkajRloMiTP8UO9uM"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -315,8 +319,8 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Al\u00e9m do Que Se V\u00ea",
-        "url": "https://open.spotify.com/album/4ysGU8xBKFVw1aB1kowUQ2"
+        "name": "Tantos Mares",
+        "url": "https://open.spotify.com/album/18fvdisM9gH3ZWH6ETAGBd"
       },
       "artists": [
         {
@@ -324,17 +328,13 @@
           "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
         },
         {
-          "name": "Paula Schneider",
-          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
-        },
-        {
-          "name": "Ventania",
-          "url": "https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1"
+          "name": "Gabriella Stehling",
+          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
         }
       ],
-      "duration_ms": 301704,
-      "name": "Al\u00e9m do Que Se V\u00ea",
-      "url": "https://open.spotify.com/track/0x8YDLkajRloMiTP8UO9uM"
+      "duration_ms": 280266,
+      "name": "Tantos Mares",
+      "url": "https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct"
     },
     {
       "added_at": "2023-10-06 04:04:27",

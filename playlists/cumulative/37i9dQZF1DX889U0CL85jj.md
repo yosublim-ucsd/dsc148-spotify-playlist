@@ -4,10 +4,11 @@
 
 > Just chill, and potentially disassociate, in 2023.
 
-574 songs - 1 day 9 hr 11 min
+576 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(die Staadt\) Norm](https://open.spotify.com/track/0I0Bf4e97rly6Gi40MDlBb) | [ゆだち](https://open.spotify.com/artist/09ph2DVdEpcDKmJymXRNxc) | [夜の舟は白く折りたたまれて](https://open.spotify.com/album/5xxi1a9HApi8wUXSZylVKP) | 6:38 | 2023-11-07 |  |
 | [12:34 AM](https://open.spotify.com/track/16iNVfWKKZPDjctIcd0KMn) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [12:34 AM](https://open.spotify.com/album/4bJGMpZ7LqygIsCM3G9ZYQ) | 2:07 | 2021-02-02 | 2023-04-18 |
 | [2 Oceans](https://open.spotify.com/track/0goA2cYxU9k2XfQHzo6WcP) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Marieme](https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD) | [2 Oceans](https://open.spotify.com/album/1KsD536VfBAiqRASMt6VdL) | 3:33 | 2022-04-08 |  |
 | [20221102 The Truth](https://open.spotify.com/track/4ZhJuTXXGZrBYh96z32sQz) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 3:24 | 2023-04-28 |  |
@@ -184,7 +185,7 @@
 | [Fuck Tha World](https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Fuck Tha World](https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ) | 2:21 | 2023-01-13 | 2023-07-13 |
 | [Futari](https://open.spotify.com/track/6NGOmfOqrMgEBDsu0D7iGn) | [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb), [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL) | [Luv\-Fi Tape](https://open.spotify.com/album/0lmN3k9Q4MRga3tZxObCVK) | 2:00 | 2020-08-14 | 2022-01-22 |
 | [Futbol](https://open.spotify.com/track/1tBR4EX2S4YonuXB0mwRvT) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Futbol](https://open.spotify.com/album/22mAPVYMiTzEB2oe3llVGe) | 3:32 | 2023-05-22 |  |
-| [Game Over](https://open.spotify.com/track/1ud2UCQ3mDIKYxOTWvcZpM) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1) | [Game Over](https://open.spotify.com/album/3e91HWGq0MRSrivkscpoXZ) | 2:55 | 2023-05-12 |  |
+| [Game Over](https://open.spotify.com/track/1ud2UCQ3mDIKYxOTWvcZpM) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1) | [Game Over](https://open.spotify.com/album/3e91HWGq0MRSrivkscpoXZ) | 2:55 | 2023-05-12 | 2023-11-08 |
 | [Garden](https://open.spotify.com/track/50iDsxVvLyArwlS5PUuiy3) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [What Should We Do This Summer ?](https://open.spotify.com/album/63SUShWKQ0g7ttqbgN8b2P) | 3:12 | 2020-10-16 | 2022-01-22 |
 | [Garfield's Starfield](https://open.spotify.com/track/0sCyvGDXenmkGZdcwdamQl) | [Recess Radio](https://open.spotify.com/artist/76whwWZPwPoPY0e6ZP2doW) | [Garfield's Starfield](https://open.spotify.com/album/4i4VHdtF3h6m52AhgepHsm) | 3:04 | 2021-08-27 | 2022-10-22 |
 | [Genesis](https://open.spotify.com/track/3Od7Qyp7sEit3sm3Zq4e7L) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Genesis](https://open.spotify.com/album/5SAmkX4MiJ1soaVPAHxX9w) | 2:36 | 2019-02-04 | 2022-01-22 |
@@ -413,7 +414,8 @@
 | [SANCTUARY](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [SANCTUARY](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 | 2023-06-22 |  |
 | [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 | 2022-11-07 |  |
 | [Scarlet](https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Scarlet](https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV) | 3:18 | 2022-08-05 |  |
-| [seasons](https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 4:16 | 2023-07-12 |  |
+| [seasons](https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 4:15 | 2023-09-29 |  |
+| [seasons](https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 4:16 | 2023-07-12 | 2023-11-08 |
 | [Secrets](https://open.spotify.com/track/5ktGBmi2zJOqcoVxxuzmcD) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [Secrets](https://open.spotify.com/album/50QXe7xHd3i6rhYYxeQAJF) | 2:53 | 2023-02-16 | 2023-07-22 |
 | [Seigfried](https://open.spotify.com/track/2MccEWWQ00oLtGjeOQKibQ) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Favorites 3](https://open.spotify.com/album/140HPATke2m0iUEJ0kNb5D) | 6:13 | 2022-04-29 |  |
 | [Selene](https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Selene](https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7) | 4:54 | 2023-03-17 |  |

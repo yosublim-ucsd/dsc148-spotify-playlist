@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 196204,
+  "num_followers": 196215,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODc4MjRkMzM1MzFkMDhhZGU3ZjkzMDQ0NGU4NTY3OGViNDdmZTcy",
+  "snapshot_id": "MCwxNTY3ZjMyMGMzZmNkYTZhZWU1ZTI1OTEwNTBkODE0NDczMjJiYWZl",
   "tracks": [
     {
       "added_at": "2023-11-03 10:20:39",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-11-03 10:20:39",
       "album": {
-        "name": "Vi \u00e4lskar vackert",
-        "url": "https://open.spotify.com/album/0mouZHcfoMeCWzNXq0ZP2z"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 178986,
-      "name": "Vi \u00e4lskar vackert",
-      "url": "https://open.spotify.com/track/5qEvvzHzBwv7kLcx5iqhkS"
-    },
-    {
-      "added_at": "2023-11-03 10:20:39",
-      "album": {
         "name": "Moon Eyes",
         "url": "https://open.spotify.com/album/5E9eUYrMYgFRdN8IVcRvex"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 214253,
       "name": "Moon Eyes",
       "url": "https://open.spotify.com/track/408rMnVFcIlyrme7bc1Ma0"
+    },
+    {
+      "added_at": "2023-11-03 10:20:39",
+      "album": {
+        "name": "Vi \u00e4lskar vackert",
+        "url": "https://open.spotify.com/album/0mouZHcfoMeCWzNXq0ZP2z"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 178986,
+      "name": "Vi \u00e4lskar vackert",
+      "url": "https://open.spotify.com/track/5qEvvzHzBwv7kLcx5iqhkS"
     },
     {
       "added_at": "2023-11-03 10:20:39",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-11-03 10:20:39",
       "album": {
-        "name": "The Way You Had Me",
-        "url": "https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri"
-      },
-      "artists": [
-        {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
-        }
-      ],
-      "duration_ms": 190423,
-      "name": "The Way You Had Me",
-      "url": "https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS"
-    },
-    {
-      "added_at": "2023-11-03 10:20:39",
-      "album": {
         "name": "Kan n\u00e5tt fint f\u00e5 h\u00e4nda sen",
         "url": "https://open.spotify.com/album/44SEVloUXwb3w9NWJPXrAN"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 186354,
       "name": "Kan n\u00e5tt fint f\u00e5 h\u00e4nda sen",
       "url": "https://open.spotify.com/track/0QLmMEaOJKgLy1D6ICVNzF"
+    },
+    {
+      "added_at": "2023-11-03 10:20:39",
+      "album": {
+        "name": "The Way You Had Me",
+        "url": "https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri"
+      },
+      "artists": [
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        }
+      ],
+      "duration_ms": 190423,
+      "name": "The Way You Had Me",
+      "url": "https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS"
     },
     {
       "added_at": "2023-11-03 10:20:39",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-11-03 10:20:39",
       "album": {
-        "name": "Fooled by September",
-        "url": "https://open.spotify.com/album/52WD0YibkXc9CRfih5pDwK"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 173720,
-      "name": "Fooled by September",
-      "url": "https://open.spotify.com/track/2dtaWYzmEj4d3IJ601glS2"
-    },
-    {
-      "added_at": "2023-11-03 10:20:39",
-      "album": {
         "name": "Begrava dig",
         "url": "https://open.spotify.com/album/3QnFcFuPqIdEq8xA9RK4yD"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 192813,
       "name": "Begrava dig",
       "url": "https://open.spotify.com/track/75w415l2DWr3SwGMEreFpS"
+    },
+    {
+      "added_at": "2023-11-03 10:20:39",
+      "album": {
+        "name": "Fooled by September",
+        "url": "https://open.spotify.com/album/52WD0YibkXc9CRfih5pDwK"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 173720,
+      "name": "Fooled by September",
+      "url": "https://open.spotify.com/track/2dtaWYzmEj4d3IJ601glS2"
     },
     {
       "added_at": "2023-11-03 10:20:39",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-11-03 10:20:39",
       "album": {
-        "name": "Tiotusen",
-        "url": "https://open.spotify.com/album/3fKfngPRKG4XJACGK1vqtk"
+        "name": "Youth And Why It Ends",
+        "url": "https://open.spotify.com/album/2rv9MHfgzqAvshO61zMdBn"
       },
       "artists": [
         {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
         }
       ],
-      "duration_ms": 194643,
-      "name": "Tiotusen",
-      "url": "https://open.spotify.com/track/0hpsopcXjR8nXMXE7EWwn7"
+      "duration_ms": 160058,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/67WrJrYuDihmwIVhR4p7N1"
     },
     {
       "added_at": "2023-11-03 10:20:39",
@@ -1211,6 +1211,22 @@
       "duration_ms": 163361,
       "name": "Tr\u00e4ffa andra",
       "url": "https://open.spotify.com/track/12xfklEh742AncfxxkSIzY"
+    },
+    {
+      "added_at": "2023-11-03 10:20:39",
+      "album": {
+        "name": "Tiotusen",
+        "url": "https://open.spotify.com/album/3fKfngPRKG4XJACGK1vqtk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "duration_ms": 194643,
+      "name": "Tiotusen",
+      "url": "https://open.spotify.com/track/0hpsopcXjR8nXMXE7EWwn7"
     },
     {
       "added_at": "2023-11-03 10:20:39",
@@ -1335,18 +1351,22 @@
     {
       "added_at": "2023-11-03 10:20:39",
       "album": {
-        "name": "THERAPY",
-        "url": "https://open.spotify.com/album/3CBtXeUWfk0aRCx6Ri5YQU"
+        "name": "Festen (Remix)",
+        "url": "https://open.spotify.com/album/11m5bfHgmwNncfAoTZK7Ge"
       },
       "artists": [
         {
-          "name": "Elliphant",
-          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+          "name": "IRMELI",
+          "url": "https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv"
+        },
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
         }
       ],
-      "duration_ms": 197333,
-      "name": "THERAPY",
-      "url": "https://open.spotify.com/track/3ijEcYXQWIKn2Ndx0jubx2"
+      "duration_ms": 157511,
+      "name": "Festen - Remix",
+      "url": "https://open.spotify.com/track/4aCfUbfu8NiacDnodIMvLc"
     },
     {
       "added_at": "2023-11-03 10:20:39",
@@ -1387,22 +1407,18 @@
     {
       "added_at": "2023-11-03 10:20:39",
       "album": {
-        "name": "Regn",
-        "url": "https://open.spotify.com/album/4RRAIXVFdUa1YboX4IFpr5"
+        "name": "THERAPY",
+        "url": "https://open.spotify.com/album/3CBtXeUWfk0aRCx6Ri5YQU"
       },
       "artists": [
         {
-          "name": "Maxida M\u00e4rak",
-          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
-        },
-        {
-          "name": "Elz",
-          "url": "https://open.spotify.com/artist/7wIGeHEPQNYmDGIOuoJ8fY"
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Regn",
-      "url": "https://open.spotify.com/track/4iDTjX0zb7QSAJJX8F8q98"
+      "duration_ms": 197333,
+      "name": "THERAPY",
+      "url": "https://open.spotify.com/track/3ijEcYXQWIKn2Ndx0jubx2"
     },
     {
       "added_at": "2023-11-03 10:20:39",
@@ -1447,6 +1463,26 @@
     {
       "added_at": "2023-11-03 10:20:39",
       "album": {
+        "name": "Regn",
+        "url": "https://open.spotify.com/album/4RRAIXVFdUa1YboX4IFpr5"
+      },
+      "artists": [
+        {
+          "name": "Maxida M\u00e4rak",
+          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
+        },
+        {
+          "name": "Elz",
+          "url": "https://open.spotify.com/artist/7wIGeHEPQNYmDGIOuoJ8fY"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Regn",
+      "url": "https://open.spotify.com/track/4iDTjX0zb7QSAJJX8F8q98"
+    },
+    {
+      "added_at": "2023-11-03 10:20:39",
+      "album": {
         "name": "The Ick",
         "url": "https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN"
       },
@@ -1459,22 +1495,6 @@
       "duration_ms": 158987,
       "name": "The Ick",
       "url": "https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id"
-    },
-    {
-      "added_at": "2023-11-03 10:20:39",
-      "album": {
-        "name": "Youth And Why It Ends",
-        "url": "https://open.spotify.com/album/2rv9MHfgzqAvshO61zMdBn"
-      },
-      "artists": [
-        {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
-        }
-      ],
-      "duration_ms": 160058,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/67WrJrYuDihmwIVhR4p7N1"
     },
     {
       "added_at": "2023-11-03 10:20:39",
@@ -1511,22 +1531,6 @@
     {
       "added_at": "2023-11-03 10:20:39",
       "album": {
-        "name": "Blommorna p\u00e5 min tapet",
-        "url": "https://open.spotify.com/album/2kPi230tn7Lt9f8S4HOOWe"
-      },
-      "artists": [
-        {
-          "name": "Clara Klingenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
-        }
-      ],
-      "duration_ms": 176223,
-      "name": "Blommorna p\u00e5 min tapet",
-      "url": "https://open.spotify.com/track/1Ogr51K4YQisSHOwrK8Tfl"
-    },
-    {
-      "added_at": "2023-11-03 10:20:39",
-      "album": {
         "name": "Beh\u00f6ver inte dig",
         "url": "https://open.spotify.com/album/0vkWo7jXOSLoYJYePkUpVm"
       },
@@ -1543,6 +1547,54 @@
     {
       "added_at": "2023-11-03 10:20:39",
       "album": {
+        "name": "Blommorna p\u00e5 min tapet",
+        "url": "https://open.spotify.com/album/2kPi230tn7Lt9f8S4HOOWe"
+      },
+      "artists": [
+        {
+          "name": "Clara Klingenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
+        }
+      ],
+      "duration_ms": 176223,
+      "name": "Blommorna p\u00e5 min tapet",
+      "url": "https://open.spotify.com/track/1Ogr51K4YQisSHOwrK8Tfl"
+    },
+    {
+      "added_at": "2023-11-03 10:20:39",
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/3PwH45P3rTlpCJL6ArAyKC"
+      },
+      "artists": [
+        {
+          "name": "Anders Robert",
+          "url": "https://open.spotify.com/artist/3ORm1UuQlm3AsbEtV4Lmte"
+        }
+      ],
+      "duration_ms": 183375,
+      "name": "December",
+      "url": "https://open.spotify.com/track/25ttMdXx0DuAR2p6myYlF9"
+    },
+    {
+      "added_at": "2023-11-03 10:20:39",
+      "album": {
+        "name": "I Wish I Was Someone Else",
+        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 173434,
+      "name": "I Wish I Was Someone Else",
+      "url": "https://open.spotify.com/track/3m5tZaadIfIGzc25Q2QiNV"
+    },
+    {
+      "added_at": "2023-11-03 10:20:39",
+      "album": {
         "name": "I Got It All",
         "url": "https://open.spotify.com/album/7eIkDteTCxxbkjDahZkneg"
       },
@@ -1555,26 +1607,6 @@
       "duration_ms": 245247,
       "name": "I Got It All",
       "url": "https://open.spotify.com/track/1JHlUpeFlfNvlmHrQXL3bC"
-    },
-    {
-      "added_at": "2023-11-03 10:20:39",
-      "album": {
-        "name": "Festen (Remix)",
-        "url": "https://open.spotify.com/album/11m5bfHgmwNncfAoTZK7Ge"
-      },
-      "artists": [
-        {
-          "name": "IRMELI",
-          "url": "https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv"
-        },
-        {
-          "name": "BELL",
-          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
-        }
-      ],
-      "duration_ms": 157511,
-      "name": "Festen - Remix",
-      "url": "https://open.spotify.com/track/4aCfUbfu8NiacDnodIMvLc"
     },
     {
       "added_at": "2023-11-03 10:20:39",
@@ -1611,6 +1643,22 @@
     {
       "added_at": "2023-11-03 10:20:39",
       "album": {
+        "name": "Tack & F\u00f6rl\u00e5t",
+        "url": "https://open.spotify.com/album/7nuGipqlw2WLeXdIW1qm4m"
+      },
+      "artists": [
+        {
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+        }
+      ],
+      "duration_ms": 178020,
+      "name": "Tack & F\u00f6rl\u00e5t",
+      "url": "https://open.spotify.com/track/77EB8QJSuJ0oCrxsohpOMs"
+    },
+    {
+      "added_at": "2023-11-03 10:20:39",
+      "album": {
         "name": "If you wanna",
         "url": "https://open.spotify.com/album/5KHjG4kPN8WwTYWae6sQ8n"
       },
@@ -1639,54 +1687,6 @@
       "duration_ms": 175991,
       "name": "Tumbling Dice",
       "url": "https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H"
-    },
-    {
-      "added_at": "2023-11-03 10:20:39",
-      "album": {
-        "name": "Tack & F\u00f6rl\u00e5t",
-        "url": "https://open.spotify.com/album/7nuGipqlw2WLeXdIW1qm4m"
-      },
-      "artists": [
-        {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
-        }
-      ],
-      "duration_ms": 178020,
-      "name": "Tack & F\u00f6rl\u00e5t",
-      "url": "https://open.spotify.com/track/77EB8QJSuJ0oCrxsohpOMs"
-    },
-    {
-      "added_at": "2023-11-03 10:20:39",
-      "album": {
-        "name": "I Wish I Was Someone Else",
-        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 173434,
-      "name": "I Wish I Was Someone Else",
-      "url": "https://open.spotify.com/track/3m5tZaadIfIGzc25Q2QiNV"
-    },
-    {
-      "added_at": "2023-11-03 10:20:39",
-      "album": {
-        "name": "Again and Again",
-        "url": "https://open.spotify.com/album/47JRk1CbVTPi04WNz7uU9Z"
-      },
-      "artists": [
-        {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Again and Again",
-      "url": "https://open.spotify.com/track/0AzidKkUPGyBypvcwuKp0x"
     }
   ],
   "unique_name": "Made in Sweden",

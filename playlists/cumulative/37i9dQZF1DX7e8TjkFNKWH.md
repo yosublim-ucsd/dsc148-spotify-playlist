@@ -2,7 +2,7 @@
 
 ### [Party Hits 2000s](https://open.spotify.com/playlist/37i9dQZF1DX7e8TjkFNKWH)
 
-> Los mejores éxitos de fiesta de la década de los 2000\. Portada: Shakira.
+> The biggest party hits of the 2000s\. Cover: Shakira.
 
 305 songs - 19 hr 36 min
 

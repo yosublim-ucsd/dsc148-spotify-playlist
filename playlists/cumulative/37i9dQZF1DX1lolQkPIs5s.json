@@ -1131,6 +1131,28 @@
     },
     {
       "album": {
+        "name": "I'm A Star (From \"Wish\")",
+        "url": "https://open.spotify.com/album/5d9Zsbx6BAiZcVgy2TWVG8"
+      },
+      "artists": [
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174786,
+      "name": "I'm A Star - From \"Wish\"",
+      "url": "https://open.spotify.com/track/7HphtEcMxf0ViBb8wtU8Re"
+    },
+    {
+      "album": {
         "name": "Alice In Wonderland (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx"
       },

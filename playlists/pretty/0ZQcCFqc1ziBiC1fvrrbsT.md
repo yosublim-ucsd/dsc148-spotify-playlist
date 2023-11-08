@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 9,545 likes - 27 songs - 1 hr 30 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 9,544 likes - 27 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 23 | [Dyad](https://open.spotify.com/track/10bZf3XxN1swZIUyGSvMMC) | [Flying Raccoon Suit](https://open.spotify.com/artist/5T4XbWBBnboA8vDTWz2pCB) | [Moonflower](https://open.spotify.com/album/44ASESIE4S1Rw76k8AcRB5) | 3:24 |
 | 24 | [Moss Side Fish Fry](https://open.spotify.com/track/28HJJDTHudlwGXeurKzXrW) | [Steve Mason](https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU), [OneDa](https://open.spotify.com/artist/1DwRZpAKiTkUXcprfnxEFr) | [Moss Side Fish Fry](https://open.spotify.com/album/0SFpq0bSpEMX0xg0MLPMM0) | 4:12 |
 | 25 | [Musica](https://open.spotify.com/track/1PcorHXcbsQu0II44fnwAZ) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Musica](https://open.spotify.com/album/4h30UXcT18pyZ5YMmT8kdY) | 5:49 |
-| 26 | [I Touch](https://open.spotify.com/track/2n9x5USWpRg0c88EGbW6KV) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k), [Taylor Skye](https://open.spotify.com/artist/4fsQyHWKED0KhPzgQBPWh2) | [I<3UQTINVU](https://open.spotify.com/album/6dBMy5XXlOdEvj59IJC1WH) | 4:39 |
+| 26 | [I Touch \- Taylor Skye Remix](https://open.spotify.com/track/2n9x5USWpRg0c88EGbW6KV) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k), [Taylor Skye](https://open.spotify.com/artist/4fsQyHWKED0KhPzgQBPWh2) | [I<3UQTINVU](https://open.spotify.com/album/6dBMy5XXlOdEvj59IJC1WH) | 4:39 |
 | 27 | [Dream On](https://open.spotify.com/track/6mKUXhcPSwGMrPTgvnytJz) | [The Embassy](https://open.spotify.com/artist/2oyNl6Ds6rY648mcUFhVgT) | [E\-Numbers](https://open.spotify.com/album/6uBvLAUfc7PiEE6NPZEavh) | 3:18 |
 
 Snapshot ID: `NTY5Nyw1NGU3NjIyYTlkYmZhYjBlNzBhYWI0ZjEzMWMxNGNiYzU0ODIxYzBm`

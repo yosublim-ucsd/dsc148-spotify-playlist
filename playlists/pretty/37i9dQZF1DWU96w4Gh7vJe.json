@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 593437,
+  "num_followers": 593455,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjQ5ZWJiNjlmZDVjMjgzOTI2ZWJkMmMzYjU5ZDMxZGRlNzVkMjcz",
+  "snapshot_id": "MCw0OGYzYzY1YmEwYjdiODc5ZDg5Y2UwZmEwNmYzZjRiZmNlMmZhMzkx",
   "tracks": [
     {
       "added_at": "2023-10-25 08:30:29",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-10-25 08:30:29",
       "album": {
-        "name": "Halina Sa Parokya",
-        "url": "https://open.spotify.com/album/7g5RBMWC3jvPVmytLEZLZL"
+        "name": "Hale",
+        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
       },
       "artists": [
         {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
         }
       ],
-      "duration_ms": 242826,
-      "name": "Gitara",
-      "url": "https://open.spotify.com/track/7nbIGbDitZIYoMrMsXunAu"
+      "duration_ms": 242813,
+      "name": "Kung Wala Ka",
+      "url": "https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L"
     },
     {
       "added_at": "2023-10-25 08:30:29",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-10-25 08:30:29",
       "album": {
-        "name": "Hale",
-        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
+        "name": "Halina Sa Parokya",
+        "url": "https://open.spotify.com/album/7g5RBMWC3jvPVmytLEZLZL"
       },
       "artists": [
         {
-          "name": "Hale",
-          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
         }
       ],
-      "duration_ms": 242813,
-      "name": "Kung Wala Ka",
-      "url": "https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L"
+      "duration_ms": 242826,
+      "name": "Gitara",
+      "url": "https://open.spotify.com/track/7nbIGbDitZIYoMrMsXunAu"
     },
     {
       "added_at": "2023-10-25 08:30:29",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-10-25 08:30:29",
       "album": {
+        "name": "Monodramatic",
+        "url": "https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "duration_ms": 253360,
+      "name": "Sa'yo",
+      "url": "https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e"
+    },
+    {
+      "added_at": "2023-10-25 08:30:29",
+      "album": {
         "name": "LOVES7AGE",
         "url": "https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 282094,
       "name": "Kahit Di Mo Alam",
       "url": "https://open.spotify.com/track/6GIzDc4xBUeYHwubWwTrhC"
-    },
-    {
-      "added_at": "2023-10-25 08:30:29",
-      "album": {
-        "name": "Monodramatic",
-        "url": "https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib"
-      },
-      "artists": [
-        {
-          "name": "Silent Sanctuary",
-          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
-        }
-      ],
-      "duration_ms": 253360,
-      "name": "Sa'yo",
-      "url": "https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e"
     },
     {
       "added_at": "2023-10-25 08:30:29",

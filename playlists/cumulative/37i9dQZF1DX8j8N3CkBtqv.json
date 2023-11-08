@@ -444,6 +444,24 @@
     {
       "album": {
         "name": "Alone",
+        "url": "https://open.spotify.com/album/2yChy4tPTlcy4cZ31dASyr"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Visvanath",
+          "url": "https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168813,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5as5nPPMgQe8d6ckvsbam2"
+    },
+    {
+      "album": {
+        "name": "Alone",
         "url": "https://open.spotify.com/album/0yjjoGvVbYQQ2xlpI6Vfom"
       },
       "artists": [
@@ -454,7 +472,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 168836,
       "name": "Alone",
       "url": "https://open.spotify.com/track/07BBjWSQWHrmQ5HHoO09i9"

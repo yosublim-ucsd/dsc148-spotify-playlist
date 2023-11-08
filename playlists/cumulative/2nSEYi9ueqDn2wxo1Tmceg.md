@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-668 songs - 1 day 21 hr 53 min
+669 songs - 1 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,6 +558,7 @@
 | [Suicide Dream 1 \- Claire Rousay presents 'Suicide Dreams'](https://open.spotify.com/track/1eQYk19nwftc74b9OE4DMX) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [What Remains \(Remixes\)](https://open.spotify.com/album/106vLquuGTSOmZnGl9lHBq) | 7:37 | 2023-04-13 | 2023-05-24 |
 | [Suit Yourself](https://open.spotify.com/track/65PmREU4kDjDV3C40fWWKs) | [Simonie](https://open.spotify.com/artist/1HdUIqSdQPZdTdO8oEHRRm) | [Suit Yourself](https://open.spotify.com/album/0O2VP9QHV32YbBNEniaexT) | 3:03 | 2023-05-17 | 2023-06-29 |
 | [Summer Glass](https://open.spotify.com/track/08SHXQxXq1UZERSVWLhN77) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Summer Glass](https://open.spotify.com/album/3aFZOCDGN6YZLH6F3vgDc6) | 4:19 | 2023-04-26 | 2023-06-01 |
+| [Sun Girl](https://open.spotify.com/track/0sMgwHapnEjJ7ixPHuvE8m) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Sun Girl](https://open.spotify.com/album/34cvl46Fs5VoDm7DzS5ZeR) | 5:52 | 2023-11-07 |  |
 | [Sundown](https://open.spotify.com/track/3CGv4it1VeiRX7OaCjBmhW) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Sundown](https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM) | 4:48 | 2023-04-12 | 2023-05-18 |
 | [Sundown Lake](https://open.spotify.com/track/6vIQCQ7RDSZR3bnSYFJcqU) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [Sundown Lake](https://open.spotify.com/album/4G5DwjWXkJG8rXeXclTN0T) | 3:48 | 2022-11-23 | 2023-01-19 |
 | [Sunlight In Motion](https://open.spotify.com/track/62YkwzjdDsMv0jC88axnv5) | [Gently Tender](https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc) | [Sunlight In Motion](https://open.spotify.com/album/2QAT7VPy9T5uXUjfZqvqsq) | 5:05 | 2022-06-29 | 2022-08-11 |

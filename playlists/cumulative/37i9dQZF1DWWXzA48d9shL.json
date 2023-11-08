@@ -6892,7 +6892,7 @@
     {
       "album": {
         "name": "MY DAY IS RUINED !",
-        "url": "https://open.spotify.com/album/0S2I5ehn7kCisujdvyYImy"
+        "url": "https://open.spotify.com/album/4awPNl06D2VWOKJW63of3n"
       },
       "artists": [
         {
@@ -6903,6 +6903,24 @@
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 133286,
+      "name": "MY DAY IS RUINED !",
+      "url": "https://open.spotify.com/track/4vjZMm2Dz7sxgLfNWpiwTG"
+    },
+    {
+      "album": {
+        "name": "MY DAY IS RUINED !",
+        "url": "https://open.spotify.com/album/0S2I5ehn7kCisujdvyYImy"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-08",
       "duration_ms": 133286,
       "name": "MY DAY IS RUINED !",
       "url": "https://open.spotify.com/track/7kxSAje77rPVfZZlWCqtGH"

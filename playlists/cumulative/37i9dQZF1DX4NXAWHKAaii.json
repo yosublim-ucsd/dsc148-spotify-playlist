@@ -6,7 +6,7 @@
     {
       "album": {
         "name": "Adios",
-        "url": "https://open.spotify.com/album/07v8KQdjcb5VquyKQfjeKm"
+        "url": "https://open.spotify.com/album/2gmCQ9gvCd3NsafWBEvmNO"
       },
       "artists": [
         {
@@ -25,6 +25,32 @@
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 210967,
+      "name": "Adios",
+      "url": "https://open.spotify.com/track/16s2icAzxt9HJhTkEX4dZ5"
+    },
+    {
+      "album": {
+        "name": "Adios",
+        "url": "https://open.spotify.com/album/07v8KQdjcb5VquyKQfjeKm"
+      },
+      "artists": [
+        {
+          "name": "MOSKA",
+          "url": "https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "LA GUR\u00da",
+          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-08",
       "duration_ms": 210967,
       "name": "Adios",
       "url": "https://open.spotify.com/track/2aeKs92H27Dih96PkwNPAa"
@@ -316,10 +342,28 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 134634,
       "name": "El Monte",
       "url": "https://open.spotify.com/track/2FlSqd1pxa05xwpH9SMrB9"
+    },
+    {
+      "album": {
+        "name": "El Monte",
+        "url": "https://open.spotify.com/album/7J4j2gGEVZyVtNODxIQgXm"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134634,
+      "name": "El Monte",
+      "url": "https://open.spotify.com/track/6fXrQ7zyCmFBbD9reoVwlt"
     },
     {
       "album": {
@@ -338,10 +382,32 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 200000,
       "name": "Energ\u00edas",
       "url": "https://open.spotify.com/track/3qGehhfRanjTix270dHs82"
+    },
+    {
+      "album": {
+        "name": "Energ\u00edas",
+        "url": "https://open.spotify.com/album/6A1rOTYIAdYivWsatx1lSU"
+      },
+      "artists": [
+        {
+          "name": "Rumple",
+          "url": "https://open.spotify.com/artist/4M15DireOkdaQ6HeZFAzl4"
+        },
+        {
+          "name": "Aaron Sevilla",
+          "url": "https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Energ\u00edas",
+      "url": "https://open.spotify.com/track/55l2cOFxn37zkcKbS9HB7K"
     },
     {
       "album": {
@@ -664,10 +730,32 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 218360,
       "name": "Madan",
       "url": "https://open.spotify.com/track/6WnGITNOKFXawCwqnFuYbW"
+    },
+    {
+      "album": {
+        "name": "Madan",
+        "url": "https://open.spotify.com/album/7eXQIcdVzwDo3b7N03Zb9B"
+      },
+      "artists": [
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        },
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218360,
+      "name": "Madan",
+      "url": "https://open.spotify.com/track/71ny0Ahw0RGWoQzia1nCmb"
     },
     {
       "album": {
@@ -1160,7 +1248,7 @@
     {
       "album": {
         "name": "Vamonos",
-        "url": "https://open.spotify.com/album/6fqjsvw7ENyWIjpwYnPLnW"
+        "url": "https://open.spotify.com/album/1Iw15P4bkPDiRxcx4zAEIR"
       },
       "artists": [
         {
@@ -1175,6 +1263,28 @@
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 412561,
+      "name": "Vamonos",
+      "url": "https://open.spotify.com/track/3nXOr4yKNupaAOO1PIVcDm"
+    },
+    {
+      "album": {
+        "name": "Vamonos",
+        "url": "https://open.spotify.com/album/6fqjsvw7ENyWIjpwYnPLnW"
+      },
+      "artists": [
+        {
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+        },
+        {
+          "name": "Gabsy",
+          "url": "https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-08",
       "duration_ms": 412561,
       "name": "Vamonos",
       "url": "https://open.spotify.com/track/3sVp4qJWZ9S24KPDvEE1E7"

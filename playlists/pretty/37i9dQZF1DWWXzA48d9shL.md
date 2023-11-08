@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,348 likes - 117 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,796 likes - 117 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MY DAY IS RUINED !](https://open.spotify.com/track/7kxSAje77rPVfZZlWCqtGH) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY DAY IS RUINED !](https://open.spotify.com/album/0S2I5ehn7kCisujdvyYImy) | 2:13 |
+| 1 | [MY DAY IS RUINED !](https://open.spotify.com/track/4vjZMm2Dz7sxgLfNWpiwTG) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY DAY IS RUINED !](https://open.spotify.com/album/4awPNl06D2VWOKJW63of3n) | 2:13 |
 | 2 | [Not Even Ghosts Are This Empty](https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 3:00 |
 | 3 | [GUTS!](https://open.spotify.com/track/1TgfuMX9NCHkMTMlAf1yQB) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [GUTS!](https://open.spotify.com/album/5L148hAAOKZP6GsvjUzSXs) | 2:12 |
 | 4 | [POPTHATRUNK](https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S) | 2:13 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 116 | [MONEY POWER FAME](https://open.spotify.com/track/4EsaTQDXDnD9hsKUjqtSK1) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [MONEY POWER FAME](https://open.spotify.com/album/3X3p3ZZ7VnV5JYwtfHUVQy) | 3:04 |
 | 117 | [GOD MODE!](https://open.spotify.com/track/21yw08HRAH2A7XAse3huYT) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [GOD MODE!](https://open.spotify.com/album/2zHlG0i6QwyFox9mhxynMO) | 2:43 |
 
-Snapshot ID: `MCxjY2IzYzQ2ZDI4MTg2ODA0ODM1MWI5YjVmZTI5MTJkYzhiODUyNTQ4`
+Snapshot ID: `MCxjNWE2NjYxNGNjNjk5NGViMjQ5NTg1NzY4YWFmYWYwNDk5N2I3MTc1`

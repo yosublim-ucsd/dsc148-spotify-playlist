@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging Independent Artists in Telugu.\nCover : Damini Bhatla, Krishna Tejasvi",
-  "num_followers": 30819,
+  "num_followers": 30830,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDhkY2FlNTJiMDUxODE5MjBjZDE5MThiZmM5ZGQwYjM5Mjc0ZDY0",
+  "snapshot_id": "MCw2MjBkOTA4YzJlNDE3MWEzYjE5YTQwZGZiZTU1Y2NmMTNlZDVhODA3",
   "tracks": [
     {
       "added_at": "2023-10-10 05:04:58",
@@ -27,6 +27,62 @@
       "duration_ms": 249642,
       "name": "Premalekha",
       "url": "https://open.spotify.com/track/5Vwh2Q1i7rgCOPlINMI4Ju"
+    },
+    {
+      "added_at": "2023-11-07 10:28:16",
+      "album": {
+        "name": "Bhoo Bandham",
+        "url": "https://open.spotify.com/album/1BpORTZsYI1axbf7yr5DBM"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        }
+      ],
+      "duration_ms": 338571,
+      "name": "Bhoo Bandham",
+      "url": "https://open.spotify.com/track/4UXkFdFmKnkZP6gcF3rb3a"
+    },
+    {
+      "added_at": "2023-03-06 17:50:43",
+      "album": {
+        "name": "Noi",
+        "url": "https://open.spotify.com/album/4NgYkaGqkrfceZDU9ZJM1V"
+      },
+      "artists": [
+        {
+          "name": "Phani Kalyan",
+          "url": "https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0"
+        }
+      ],
+      "duration_ms": 285111,
+      "name": "Noi",
+      "url": "https://open.spotify.com/track/2dgzpgnsazXnZ6j1DrbjWU"
+    },
+    {
+      "added_at": "2023-11-07 10:35:27",
+      "album": {
+        "name": "Godavari",
+        "url": "https://open.spotify.com/album/2J4cu3KzM51Te8P8uTcFAC"
+      },
+      "artists": [
+        {
+          "name": "Arjun Vijay",
+          "url": "https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB"
+        }
+      ],
+      "duration_ms": 187383,
+      "name": "Godavari",
+      "url": "https://open.spotify.com/track/7EmSbTmg17FhujgxefuPBa"
     },
     {
       "added_at": "2023-10-13 11:00:41",
@@ -143,22 +199,6 @@
       "duration_ms": 277411,
       "name": "Priya Priya",
       "url": "https://open.spotify.com/track/16cpJ0xgeanA767VKsu4MC"
-    },
-    {
-      "added_at": "2023-10-17 12:08:09",
-      "album": {
-        "name": "Chilipi Gnapakam Female Version",
-        "url": "https://open.spotify.com/album/5lfL6nkYydI20rYyHn22Sj"
-      },
-      "artists": [
-        {
-          "name": "Pragathi Kanadamane",
-          "url": "https://open.spotify.com/artist/1hw5AMlFZLM4aLkPl8v7zl"
-        }
-      ],
-      "duration_ms": 240407,
-      "name": "Chilipi Gnapakam Female Version",
-      "url": "https://open.spotify.com/track/6OpwxZxIW10ir69O7VKlED"
     },
     {
       "added_at": "2022-11-25 09:35:35",
@@ -1057,22 +1097,6 @@
       "url": "https://open.spotify.com/track/1snRYWGCeIzCKQXvpYQFhD"
     },
     {
-      "added_at": "2023-03-06 17:50:43",
-      "album": {
-        "name": "Noi",
-        "url": "https://open.spotify.com/album/4NgYkaGqkrfceZDU9ZJM1V"
-      },
-      "artists": [
-        {
-          "name": "Phani Kalyan",
-          "url": "https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0"
-        }
-      ],
-      "duration_ms": 285111,
-      "name": "Noi",
-      "url": "https://open.spotify.com/track/2dgzpgnsazXnZ6j1DrbjWU"
-    },
-    {
       "added_at": "2023-05-02 06:51:31",
       "album": {
         "name": "Premaga",
@@ -1379,22 +1403,6 @@
       "duration_ms": 225001,
       "name": "Nee Vallane",
       "url": "https://open.spotify.com/track/6j7rVNsyDzoFPNhGmNy0k2"
-    },
-    {
-      "added_at": "2023-02-11 18:23:05",
-      "album": {
-        "name": "Panipuri Anthem",
-        "url": "https://open.spotify.com/album/1qRNd3zrxt7fyVzuxy6FwB"
-      },
-      "artists": [
-        {
-          "name": "Pranav Chaganty",
-          "url": "https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo"
-        }
-      ],
-      "duration_ms": 117500,
-      "name": "Panipuri Anthem",
-      "url": "https://open.spotify.com/track/0zBSq5bRDfTCu9p8XWjBbg"
     },
     {
       "added_at": "2022-07-18 06:19:46",

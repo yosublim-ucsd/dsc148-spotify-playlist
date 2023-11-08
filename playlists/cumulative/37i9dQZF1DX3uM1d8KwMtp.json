@@ -136,10 +136,32 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 383606,
       "name": "Amore",
       "url": "https://open.spotify.com/track/0m6fSWEw7QwLSrkS1tWsiJ"
+    },
+    {
+      "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/1EYorKstvQBgM546TX9CNg"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Augusto Yepes",
+          "url": "https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383606,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/3LvAMGMQt0GEPSBrDFxkRB"
     },
     {
       "album": {
@@ -1330,6 +1352,36 @@
     {
       "album": {
         "name": "Mambo Jambo",
+        "url": "https://open.spotify.com/album/18Eojx8WXtpxRLAqkmnRit"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        },
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        },
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371803,
+      "name": "Mambo Jambo",
+      "url": "https://open.spotify.com/track/1n0d2fCAQCdohS6YPnXKWB"
+    },
+    {
+      "album": {
+        "name": "Mambo Jambo",
         "url": "https://open.spotify.com/album/5TA2xPbvz4x9TJeWMJluGo"
       },
       "artists": [
@@ -1352,7 +1404,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 371803,
       "name": "Mambo Jambo",
       "url": "https://open.spotify.com/track/1rSjmBi8rvl1mJg1eAOkan"

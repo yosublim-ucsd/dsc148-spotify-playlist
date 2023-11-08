@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Baby City Club\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,636 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,636 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 36 | [Verito de la Perla](https://open.spotify.com/track/1TPyTg3Hws6vnF7I5zfJtA) | [Verito Asprilla](https://open.spotify.com/artist/38bNWh48s9AsoYUtdojwPm), [Bejuco](https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Verito de la Perla](https://open.spotify.com/album/0980mLZgi937qBV1Xuih8t) | 3:40 |
 | 37 | [SABI](https://open.spotify.com/track/30UQMD34yVMjJKnTS9QEjL) | [Amantina](https://open.spotify.com/artist/7hc53iJC9NjiLwr0BLWim7) | [SABI](https://open.spotify.com/album/0gvi2Qze85ds6I9cNEUDGU) | 2:40 |
 | 38 | [HOOKIA0](https://open.spotify.com/track/7lWzXhCH8Fa0qj4xa0vyqx) | [YE¥O](https://open.spotify.com/artist/7cTXxe0MaqxzG4inknB8Ov) | [HOOKIAO](https://open.spotify.com/album/6OILaDsLhUVPJBXG1YZd6h) | 2:20 |
-| 39 | [SE DESVANECIÓ](https://open.spotify.com/track/4q0AvJnUh3y2ADKcaIUYgi) | [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL) | [SE DESVANECIÓ](https://open.spotify.com/album/0yww6xqlxtNQLcb1EsAXGP) | 2:41 |
-| 40 | [Perdoname amor](https://open.spotify.com/track/60lkCw09ehFMdRAjSZSi8o) | [La Figui](https://open.spotify.com/artist/5QqWmfNdVYRaUOZ93oJJmn), [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Perdoname amor](https://open.spotify.com/album/4kJBJbwTiiWslEAx5S41KU) | 3:22 |
-| 41 | [Pintando el Humo](https://open.spotify.com/track/72Sy0iRM8dW4ZnF9XH16OC) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Pintando el Humo](https://open.spotify.com/album/3C4GHvi4luCWSrD276xE5n) | 3:22 |
-| 42 | [Hungry](https://open.spotify.com/track/58p1AX65B7OIVlxahsU8hl) | [Olivia Bec](https://open.spotify.com/artist/4PqejznzweGXKiJZimh7a6) | [Hungry](https://open.spotify.com/album/6zMdYzZ0KUzvCUlOVJvboc) | 3:48 |
+| 39 | [Riley](https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [Riley \(S\)](https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0) | 2:58 |
+| 40 | [SE DESVANECIÓ](https://open.spotify.com/track/4q0AvJnUh3y2ADKcaIUYgi) | [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL) | [SE DESVANECIÓ](https://open.spotify.com/album/0yww6xqlxtNQLcb1EsAXGP) | 2:41 |
+| 41 | [Perdoname amor](https://open.spotify.com/track/60lkCw09ehFMdRAjSZSi8o) | [La Figui](https://open.spotify.com/artist/5QqWmfNdVYRaUOZ93oJJmn), [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Perdoname amor](https://open.spotify.com/album/4kJBJbwTiiWslEAx5S41KU) | 3:22 |
+| 42 | [Pintando el Humo](https://open.spotify.com/track/72Sy0iRM8dW4ZnF9XH16OC) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Pintando el Humo](https://open.spotify.com/album/3C4GHvi4luCWSrD276xE5n) | 3:22 |
 | 43 | [DeGustarte < 3](https://open.spotify.com/track/31DAfrjCKYtuy0G8ppp9RB) | [Melej](https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py) | [DeGustarte < 3](https://open.spotify.com/album/22BZmWrAseNlVAkNnEEqs0) | 2:25 |
-| 44 | [Brinquitos Sanjoaquín](https://open.spotify.com/track/5qGjPXsFI3fvbWWoLH7RrS) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Brinquitos Sanjoaquín](https://open.spotify.com/album/46265H4cwQ05bXuK5mOTzW) | 5:10 |
-| 45 | [Querer Igual](https://open.spotify.com/track/2i7gJjc8igSlA0IPvhhcig) | [India Florece](https://open.spotify.com/artist/5s1SVgHQZbdCqVonwZH2nA), [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [Querer Igual](https://open.spotify.com/album/1qm0VQfxmXkPnNhFRd0oZd) | 2:26 |
-| 46 | [Dame de Ese Amor](https://open.spotify.com/track/1ESJXU1v2ZbTQCmPDI9lJT) | [CHICOCHICA](https://open.spotify.com/artist/6vdC8DQQOSdDudNNE2BCVI) | [Dame de Ese Amor](https://open.spotify.com/album/22rra4M4dp3eli8H7Xffgn) | 3:06 |
-| 47 | [Quédate](https://open.spotify.com/track/4ZIp2NKdKCXs4k4875KdTR) | [Punto Suite](https://open.spotify.com/artist/3oQpBNmR9NMxQMzrNXsbIC) | [Quédate](https://open.spotify.com/album/2dz6WdHjnouGayxcscOdNe) | 4:22 |
-| 48 | [Timelines](https://open.spotify.com/track/4qmVWUMmwUtl6NgPTH4iRU) | [Jasmine Alvarado](https://open.spotify.com/artist/48G4FvpaGSQAb2ZxhUc2Hv), [Jennifer Ortiz](https://open.spotify.com/artist/7ETpNY2OfYxqEdIYxiDvqF) | [Timelines / Moving](https://open.spotify.com/album/3SfAsoR4ad1qDK2uUIckEs) | 3:07 |
+| 44 | [Hungry](https://open.spotify.com/track/58p1AX65B7OIVlxahsU8hl) | [Olivia Bec](https://open.spotify.com/artist/4PqejznzweGXKiJZimh7a6) | [Hungry](https://open.spotify.com/album/6zMdYzZ0KUzvCUlOVJvboc) | 3:48 |
+| 45 | [Brinquitos Sanjoaquín](https://open.spotify.com/track/5qGjPXsFI3fvbWWoLH7RrS) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Brinquitos Sanjoaquín](https://open.spotify.com/album/46265H4cwQ05bXuK5mOTzW) | 5:10 |
+| 46 | [Querer Igual](https://open.spotify.com/track/2i7gJjc8igSlA0IPvhhcig) | [India Florece](https://open.spotify.com/artist/5s1SVgHQZbdCqVonwZH2nA), [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [Querer Igual](https://open.spotify.com/album/1qm0VQfxmXkPnNhFRd0oZd) | 2:26 |
+| 47 | [Dame de Ese Amor](https://open.spotify.com/track/1ESJXU1v2ZbTQCmPDI9lJT) | [CHICOCHICA](https://open.spotify.com/artist/6vdC8DQQOSdDudNNE2BCVI) | [Dame de Ese Amor](https://open.spotify.com/album/22rra4M4dp3eli8H7Xffgn) | 3:06 |
+| 48 | [Quédate](https://open.spotify.com/track/4ZIp2NKdKCXs4k4875KdTR) | [Punto Suite](https://open.spotify.com/artist/3oQpBNmR9NMxQMzrNXsbIC) | [Quédate](https://open.spotify.com/album/2dz6WdHjnouGayxcscOdNe) | 4:22 |
 | 49 | [Ya Lo Sé, Pero Igual](https://open.spotify.com/track/6XQfcsz1rjEYWhFKN6JXBR) | [Luciano Altair](https://open.spotify.com/artist/5zYGj1hsIxc6gjoLLTs9IQ) | [Ya Lo Sé, Pero Igual](https://open.spotify.com/album/5yYSt3CC3iidgCucpNRbe0) | 4:23 |
-| 50 | [Sigo Aquí](https://open.spotify.com/track/410ERvIbH3m8mM1zKVgV2Q) | [Intervenciones](https://open.spotify.com/artist/7He11U01wHq1zaIU6GXSKd) | [Las Flores](https://open.spotify.com/album/71dj5Mh0BvHxtiBoXOdivw) | 3:43 |
+| 50 | [Timelines](https://open.spotify.com/track/4qmVWUMmwUtl6NgPTH4iRU) | [Jasmine Alvarado](https://open.spotify.com/artist/48G4FvpaGSQAb2ZxhUc2Hv), [Jennifer Ortiz](https://open.spotify.com/artist/7ETpNY2OfYxqEdIYxiDvqF) | [Timelines / Moving](https://open.spotify.com/album/3SfAsoR4ad1qDK2uUIckEs) | 3:07 |
 
-Snapshot ID: `MCw3OWMwNGU5ZTNlMzZkMmEyZTNkMjZhNWNkMjE5MjM1Y2ZhMTA3ZmE1`
+Snapshot ID: `MCxiZTdjY2QzMzM2YzQwZTcwMGZjNmNlZjYzZmZmZDAxZGY3ZjQwMDNi`

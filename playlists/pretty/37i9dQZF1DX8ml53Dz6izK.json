@@ -1,12 +1,12 @@
 {
   "description": "< insert emo glitter gif here >",
-  "num_followers": 60353,
+  "num_followers": 60496,
   "original_name": "CrySpace",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2UxYjMzZWQ0Y2MzNGM0NWNlNTQ0MjA4NjVmYzAyYWU1MWVhMmI5",
+  "snapshot_id": "MCxjYWQxMDM3MDBlYTUyMWU1NGI3OGQzMTU1YjIxYmE5MjNmOTJiYjhi",
   "tracks": [
     {
       "added_at": "2023-10-20 22:49:42",
@@ -843,54 +843,6 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Damned If I Do Ya (Damned If I Don't)",
-      "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
-        "name": "Page Avenue",
-        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Anthem of Our Dying Day",
-      "url": "https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
-        "name": "Louder Now (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 191133,
-      "name": "Liar (It Takes One To Know One)",
-      "url": "https://open.spotify.com/track/5heRy6IDNiQXDJf1tZ6SUc"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
         "name": "Let's Cheers To This",
         "url": "https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl"
       },
@@ -919,6 +871,54 @@
       "duration_ms": 220146,
       "name": "Check Yes, Juliet",
       "url": "https://open.spotify.com/track/7N2PNxzZXxCdAHiAfsklhT"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "Louder Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "Liar (It Takes One To Know One)",
+      "url": "https://open.spotify.com/track/5heRy6IDNiQXDJf1tZ6SUc"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Damned If I Do Ya (Damned If I Don't)",
+      "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "Page Avenue",
+        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "Anthem of Our Dying Day",
+      "url": "https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
+        "name": "Instant Gratification",
+        "url": "https://open.spotify.com/album/60LbtmnmOLTkz8ZiVhbynM"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Death of a Strawberry",
+      "url": "https://open.spotify.com/track/3ztkQGYH19MDzZRGGpXbWk"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
         "name": "Rotation",
         "url": "https://open.spotify.com/album/7gfUPIouc3qyVtghc64CAX"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 224040,
       "name": "Practice Makes Perfect",
       "url": "https://open.spotify.com/track/70MLCfNoBdpSFjlvVTQE7c"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
-        "name": "Sorry You're Not a Winner / OK! Time for Plan B",
-        "url": "https://open.spotify.com/album/5pafHBblPtzj5WRLjQ3WqV"
-      },
-      "artists": [
-        {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
-        }
-      ],
-      "duration_ms": 240213,
-      "name": "Sorry You're Not a Winner",
-      "url": "https://open.spotify.com/track/2LK4xHEsGJF5aNx6yBjkOm"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "This is a Stick Up\u2026don't Make It a Murder",
-        "url": "https://open.spotify.com/album/4Sik3cj1yd7NilzGjI2u0B"
+        "name": "Sorry You're Not a Winner / OK! Time for Plan B",
+        "url": "https://open.spotify.com/album/5pafHBblPtzj5WRLjQ3WqV"
       },
       "artists": [
         {
-          "name": "Hit The Lights",
-          "url": "https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C"
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
         }
       ],
-      "duration_ms": 189253,
-      "name": "Bodybag",
-      "url": "https://open.spotify.com/track/4iplm64dNcvu82IbBOqSnX"
+      "duration_ms": 240213,
+      "name": "Sorry You're Not a Winner",
+      "url": "https://open.spotify.com/track/2LK4xHEsGJF5aNx6yBjkOm"
     }
   ],
   "unique_name": "CrySpace",

@@ -4,7 +4,7 @@
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: NAV
 
-1,220 songs - 2 day 8 hr 25 min
+1,221 songs - 2 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -712,7 +712,8 @@
 | [Must Be](https://open.spotify.com/track/7KpTMWKwHL4aX0bzUtyzXK) | [Tyleen](https://open.spotify.com/artist/2h8KSitN6L2gWv1pSMvE7m) | [Must Be](https://open.spotify.com/album/62YfeP2rYk9xIP3NsQsoat) | 2:13 | 2022-01-07 | 2022-05-28 |
 | [My Baby](https://open.spotify.com/track/47wQ6BvENAfbfz4YYKjHbv) | [King Reign](https://open.spotify.com/artist/2NBqojWIwPlNQC5yKru1OJ), [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [My Baby](https://open.spotify.com/album/1Jaclvhb4BFjq06hPT1Ari) | 3:14 | 2023-06-23 | 2023-09-09 |
 | [My Brudda](https://open.spotify.com/track/5oXulYmE2zM0f7IzdGi7UJ) | [Pilla B](https://open.spotify.com/artist/0AeNbKQZXqe4MI4AtRU3Px) | [My Brudda](https://open.spotify.com/album/62jWQh8WrHW5J1KWoDDL2r) | 3:05 | 2023-05-12 | 2023-06-17 |
-| [MY DAY IS RUINED !](https://open.spotify.com/track/7kxSAje77rPVfZZlWCqtGH) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY DAY IS RUINED !](https://open.spotify.com/album/0S2I5ehn7kCisujdvyYImy) | 2:13 | 2023-10-13 |  |
+| [MY DAY IS RUINED !](https://open.spotify.com/track/4vjZMm2Dz7sxgLfNWpiwTG) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY DAY IS RUINED !](https://open.spotify.com/album/4awPNl06D2VWOKJW63of3n) | 2:13 | 2023-11-03 |  |
+| [MY DAY IS RUINED !](https://open.spotify.com/track/7kxSAje77rPVfZZlWCqtGH) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY DAY IS RUINED !](https://open.spotify.com/album/0S2I5ehn7kCisujdvyYImy) | 2:13 | 2023-10-13 | 2023-11-08 |
 | [My Fate](https://open.spotify.com/track/4iSq8Rg3fW1y7aqM6s0EJZ) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [My Fate](https://open.spotify.com/album/4gVfJ19WRPnoGMnr88QImt) | 2:13 | 2022-11-11 | 2023-07-01 |
 | [MY HEART](https://open.spotify.com/track/2mfQZ8BfqSMy56vuURdr4J) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [MY HEART](https://open.spotify.com/album/03qaepLdPmVdfnAe6wgzGH) | 2:43 | 2022-06-17 | 2022-07-02 |
 | [My Life](https://open.spotify.com/track/03OovG00VLioAURPLfNMz7) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6) | [My Life](https://open.spotify.com/album/0LJvmoxuvd44oqlFhB6TTS) | 2:16 | 2022-06-03 | 2022-07-30 |

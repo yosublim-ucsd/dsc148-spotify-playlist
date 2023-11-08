@@ -1,15 +1,15 @@
 {
   "description": "\u30c7\u30a3\u30ba\u30cb\u30fc\u306e\u4eba\u6c17\u66f2\u3092\u96c6\u3081\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u266a\u30c7\u30a3\u30ba\u30cb\u30fc\u6620\u753b\u6700\u65b0\u4f5c\u300e\u30a6\u30a3\u30c3\u30b7\u30e5\u300f\u306e\u6700\u65b0\u697d\u66f2\u304b\u3089\u3001\u300e\u30ea\u30c8\u30eb\u30fb\u30de\u30fc\u30e1\u30a4\u30c9\u300f\u300e\u30a2\u30ca\u3068\u96ea\u306e\u5973\u738b\u300f\u300e\u30a2\u30e9\u30b8\u30f3\u300f\u7b49\u306e\u540d\u66f2\u3001\u30d1\u30fc\u30af\u306e\u5927\u4eba\u6c17\u697d\u66f2\u307e\u3067\u30bb\u30ec\u30af\u30c8\uff01",
-  "num_followers": 132726,
+  "num_followers": 132744,
   "original_name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30d2\u30c3\u30c4\u30fb\u30b8\u30e3\u30d1\u30f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWYwZGUwYThjM2YyZGEyNGMxMzY4N2I2MzUyZWNmZDI4Yjg3NzYx",
+  "snapshot_id": "MCxmMzExMmE1NzUyN2IyNWE2ODJiMGJiYjZkNWNkYTc4ZGZjOGZlMzMy",
   "tracks": [
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "\u6620\u753b\u300e\u30a6\u30a3\u30c3\u30b7\u30e5\u300f \u30a2\u30fc\u30b7\u30e3\u5f79\uff08\u65e5\u672c\u7248\u58f0\u512a\uff09\u751f\u7530\u7d75\u68a8\u82b1 \u30b3\u30e1\u30f3\u30c8",
         "url": "https://open.spotify.com/album/5xNHDQYEiG51CQ23P0nXr7"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2yp1HUTF9fcv3ReIWr2KmP"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "This Wish (From \"Wish\")",
         "url": "https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv"
@@ -41,7 +41,27 @@
       "url": "https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
+      "album": {
+        "name": "I'm A Star (From \"Wish\")",
+        "url": "https://open.spotify.com/album/5d9Zsbx6BAiZcVgy2TWVG8"
+      },
+      "artists": [
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 174786,
+      "name": "I'm A Star - From \"Wish\"",
+      "url": "https://open.spotify.com/track/7HphtEcMxf0ViBb8wtU8Re"
+    },
+    {
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "This Wish (From \"Wish\")",
         "url": "https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9"
@@ -61,7 +81,7 @@
       "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "This Is The Thanks I Get?! (From \"Wish\")",
         "url": "https://open.spotify.com/album/68aJkU3aeRGUW2p4lGnVzL"
@@ -81,7 +101,7 @@
       "url": "https://open.spotify.com/track/5jzCoRQd6YsKNWy4S3SUsx"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Living in Color (Tokyo Disney Resort 40th \"Dream-Go-Round\" Theme Song)",
         "url": "https://open.spotify.com/album/4jv70TSA1bEEW0ueROzvX1"
@@ -97,7 +117,7 @@
       "url": "https://open.spotify.com/track/0GqBIo3rT8QtPAwNqOP0V4"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Little Mermaid (Japanese Original Soundtrack)",
         "url": "https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/12kYjSO1K9XXM8z3w9KesN"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Yasashii Kimochide (Elemental ver.)",
         "url": "https://open.spotify.com/album/4KOXgc6qhvbZaTAnLVzHmC"
@@ -129,7 +149,7 @@
       "url": "https://open.spotify.com/track/3tiRhzgwHs7fQFdXegTFdU"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Every Wish Deserves a Dream",
         "url": "https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol"
@@ -145,7 +165,7 @@
       "url": "https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Jamboree Mickey!",
         "url": "https://open.spotify.com/album/6U9HfvlKv9jEcLF7xf3shY"
@@ -161,7 +181,7 @@
       "url": "https://open.spotify.com/track/2O70g7QJJRskIbAF596CHm"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Steal The Show (From \"Elemental\")",
         "url": "https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l"
@@ -177,7 +197,7 @@
       "url": "https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Under the Sea (From \"The Little Mermaid\"/Soundtrack Version)",
         "url": "https://open.spotify.com/album/5XksKAiSaaDbTg9wcLja1o"
@@ -197,7 +217,7 @@
       "url": "https://open.spotify.com/track/3hsTuFLSfcD3Mt4tIdtqrY"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Part of Your World (From \"The Little Mermaid\")",
         "url": "https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR"
@@ -213,7 +233,7 @@
       "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Little Mermaid (Japanese Original Soundtrack)",
         "url": "https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9"
@@ -241,7 +261,7 @@
       "url": "https://open.spotify.com/track/6FcOrtofHwhXq6MgsYZjBp"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tokyo Disney Resort 40th Anniversary \"Dream-Go-Round\" Music Album",
         "url": "https://open.spotify.com/album/2kBLwCMQhd7NmONNK360K7"
@@ -257,7 +277,7 @@
       "url": "https://open.spotify.com/track/6BewURGQdbQd7aqjQKFnOI"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tokyo DisneySea Big Band Beat",
         "url": "https://open.spotify.com/album/5b1e4ViGjcJvq0gMsnIPVm"
@@ -273,7 +293,7 @@
       "url": "https://open.spotify.com/track/638Kb3wa7e81jAqoYC0Kwr"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Little Mermaid (Japanese Original Soundtrack)",
         "url": "https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/6Bu4CzinfeuiUTEpAejj6Z"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Coco (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ"
@@ -305,7 +325,7 @@
       "url": "https://open.spotify.com/track/2MNE8IJCTzSTtlLslu55om"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Pinocchio (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2brEMZ0YlBCWGAU3ucYjlI"
@@ -321,7 +341,7 @@
       "url": "https://open.spotify.com/track/5Td2fdjAbtf6QRUxezycDu"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tokyo Disney Resort Summer Fun!",
         "url": "https://open.spotify.com/album/1jg6m5TvY95Qpu6M8ceN2g"
@@ -337,7 +357,7 @@
       "url": "https://open.spotify.com/track/19eUx0mqauCxsPjUfxJEMo"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Little Mermaid (Japanese Original Soundtrack)",
         "url": "https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9"
@@ -353,7 +373,7 @@
       "url": "https://open.spotify.com/track/4oJ3tZEYTw1Cf8KfGnTV50"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Aladdin (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/6N5otzqYgkhNWVpjvezbBK"
@@ -373,7 +393,7 @@
       "url": "https://open.spotify.com/track/5Vzko6BJyB4M3xKpoK5uHf"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Encanto (Japanese Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/0uiVxFsZ6FVItALcJ3wntd"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/3pkboIyEctoZm4KkfJUbKG"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/115JOdvpOV9hJs7W5rFING"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Zootopia (Original Motion Picture Soundtrack / Japanese version)",
         "url": "https://open.spotify.com/album/0gj5STwLy0dZ0cGFJb8Fht"
@@ -457,7 +477,7 @@
       "url": "https://open.spotify.com/track/5xxnw2k7QLSwL0mrGV1TaX"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Encanto (Japanese Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT"
@@ -481,7 +501,7 @@
       "url": "https://open.spotify.com/track/6doU37X8TTlex36JvqTQkT"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tangled (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/2K4lTHYqxfUrgPiuqTCdSb"
@@ -501,7 +521,7 @@
       "url": "https://open.spotify.com/track/4g345xmbPGGHDSv5sMLEsS"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Little Mermaid (Japanese Original Soundtrack)",
         "url": "https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/32yfH50Xx7HN5kwHCOzDoc"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/3pkboIyEctoZm4KkfJUbKG"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/0B1movspGuzySM8kWSzRFJ"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Encanto (Japanese Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/7MdcxLxlzq6h0bQf9NGaaL"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/0juMU08O9byWiRBtKM1j5E"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Moana/Vaiana/Oceania Multi-Language Songs, Vol. 2",
         "url": "https://open.spotify.com/album/5bNUCxcIfJrHeuPnBHoApQ"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/5cUmp5Dx9FEKFG3UJaVQP7"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Aladdin (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/6N5otzqYgkhNWVpjvezbBK"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/21BMip8RqunPokzxnkNe3A"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Nobody Like U (From \"Turning Red\")",
         "url": "https://open.spotify.com/album/2U90TlDd7K8I7Jgi3f4vwa"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/7EDAJplf3AW5a4I7MaHs5N"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tokyo DisneySea 20th Anniversary \"Time to Shine!\" Music Album",
         "url": "https://open.spotify.com/album/4iNUiMYiK9iZwP77Wttdgp"
@@ -645,7 +665,7 @@
       "url": "https://open.spotify.com/track/5vG1zUswz5HSkylwmzEEdK"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Frozen (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/37AeI9DQyORhrsOLFIJOnw"
@@ -665,7 +685,7 @@
       "url": "https://open.spotify.com/track/2DZHBh0fKKp6hZjXokqnuM"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Frozen (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/37AeI9DQyORhrsOLFIJOnw"
@@ -689,7 +709,7 @@
       "url": "https://open.spotify.com/track/7gWqCnoko61AOGSpnilRSU"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Toy Story (Original Motion Picture Soundtrack/Japan Release Version)",
         "url": "https://open.spotify.com/album/6Ow9UAuMC3nNdftY4JsZX4"
@@ -705,7 +725,7 @@
       "url": "https://open.spotify.com/track/1tpTMUY3JtRUhAwK3h4I2O"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/1OPAOaZk9VXEh6oYGYmw3q"
@@ -737,7 +757,7 @@
       "url": "https://open.spotify.com/track/2SBxx3R8xGPZmkgBMjRfm9"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Encanto (Japanese Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT"
@@ -753,7 +773,7 @@
       "url": "https://open.spotify.com/track/7ubnxt2Uz6bjgokIMinvkA"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tangled (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/2K4lTHYqxfUrgPiuqTCdSb"
@@ -769,7 +789,7 @@
       "url": "https://open.spotify.com/track/5FImOHLCkXcgj0uWiGrRQD"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Shounen Jidai (LUCA ver.)",
         "url": "https://open.spotify.com/album/6x9n5GEHgSrlMhomHbQdej"
@@ -785,7 +805,7 @@
       "url": "https://open.spotify.com/track/5ypjnnmHo6AyLX0JjFkd9X"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/1OPAOaZk9VXEh6oYGYmw3q"
@@ -805,7 +825,7 @@
       "url": "https://open.spotify.com/track/4QE3csw0rsqxoIQNoMUgsU"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Coco (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ"
@@ -825,7 +845,7 @@
       "url": "https://open.spotify.com/track/5fRJx95yalySCOXhYLI0A6"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Beauty and the Beast (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6fqZVTbMaJjEDYHDSnCXlh"
@@ -845,7 +865,7 @@
       "url": "https://open.spotify.com/track/3CSO1oNfgNnK4UrjLp7Z6O"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/1OPAOaZk9VXEh6oYGYmw3q"
@@ -865,7 +885,7 @@
       "url": "https://open.spotify.com/track/1SboZIzf7KlyTvqqtIzrs3"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS"
@@ -893,7 +913,7 @@
       "url": "https://open.spotify.com/track/1zSKtBze2IReYU44W0lDzd"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Starting Now",
         "url": "https://open.spotify.com/album/632QdkoBFjgW5XuFV29Pvt"
@@ -909,7 +929,7 @@
       "url": "https://open.spotify.com/track/7EGITWLpmKCzwZUdF5glhq"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Let It Go The Complete Set (From \u201cFrozen\u201d)",
         "url": "https://open.spotify.com/album/7q2jd3qhtvWlV6H22h2AGe"
@@ -925,7 +945,7 @@
       "url": "https://open.spotify.com/track/3uQWsXVaSbY6938V3tJQh3"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Coco (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ"
@@ -953,7 +973,7 @@
       "url": "https://open.spotify.com/track/03F37JsyH3JNgBrRjAFEkT"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -993,7 +1013,7 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "\u30bf\u30a4\u30e0\u30fb\u30c8\u30a5\u30fb\u30b7\u30e3\u30a4\u30f3! (\u6771\u4eac\u30c7\u30a3\u30ba\u30cb\u30fc\u30b7\u30fc20\u5468\u5e74:\u30bf\u30a4\u30e0\u30fb\u30c8\u30a5\u30fb\u30b7\u30e3\u30a4\u30f3!\u30c6\u30fc\u30de\u30bd\u30f3\u30b0)",
         "url": "https://open.spotify.com/album/7se4Oq7PqvUJk24q3GFACl"
@@ -1009,7 +1029,7 @@
       "url": "https://open.spotify.com/track/4eyqMs4aOzKQTKs7iGJD8Y"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Disney Happy Piano Tunes",
         "url": "https://open.spotify.com/album/7stNU1gFKceoC1MrANYV2x"
@@ -1025,7 +1045,7 @@
       "url": "https://open.spotify.com/track/5rL3JDnpLXp3DdkdkQsUW1"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Aladdin (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/6N5otzqYgkhNWVpjvezbBK"
@@ -1041,7 +1061,7 @@
       "url": "https://open.spotify.com/track/3wBhDAYr5vNS4gHAT0ffnL"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Raya e l'Ultimo Drago (Colonna Sonora Originale)",
         "url": "https://open.spotify.com/album/2GIC4pgqzQyphQbWXvP6mt"
@@ -1057,7 +1077,7 @@
       "url": "https://open.spotify.com/track/6TI7gSItoNapzom0hhuoOM"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Disney Happy Piano Tunes",
         "url": "https://open.spotify.com/album/7stNU1gFKceoC1MrANYV2x"
@@ -1073,7 +1093,7 @@
       "url": "https://open.spotify.com/track/0ShNjMCOJjqpQ0xESaeeXy"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The MousePack \u2013 Mickey and Friends Singing Classic Standards",
         "url": "https://open.spotify.com/album/7gPVGHm0w6sQWtCIAOmDgw"
@@ -1101,7 +1121,7 @@
       "url": "https://open.spotify.com/track/5jC1oRgGWIWjhX3uAg7rzc"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tokyo DisneySea 20th Anniversary \"Time to Shine!\" Music Album",
         "url": "https://open.spotify.com/album/4iNUiMYiK9iZwP77Wttdgp"
@@ -1117,7 +1137,7 @@
       "url": "https://open.spotify.com/track/0lCTJLYyYP3GgwivygFk5m"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Pinocchio (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2brEMZ0YlBCWGAU3ucYjlI"
@@ -1133,7 +1153,7 @@
       "url": "https://open.spotify.com/track/3J6ZqwIQXQs925Omn0hrXC"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tokyo DisneySea 20th Anniversary \"Time to Shine!\" Music Album",
         "url": "https://open.spotify.com/album/4iNUiMYiK9iZwP77Wttdgp"
@@ -1149,7 +1169,7 @@
       "url": "https://open.spotify.com/track/7LcHJfJ5BhiO4w7LWPc2uM"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "BE BRAVE",
         "url": "https://open.spotify.com/album/0MWFaihYS8wtvFTe6B7ReV"
@@ -1165,7 +1185,7 @@
       "url": "https://open.spotify.com/track/59LmCrnhtWgWwKQvno6yAe"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tokyo Disneyland Mickey's Magical Music World",
         "url": "https://open.spotify.com/album/0USSw01d6Y44HVowPhrAcD"
@@ -1181,7 +1201,7 @@
       "url": "https://open.spotify.com/track/4MTm9d6gbIlTCksLC9WE8e"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/1OPAOaZk9VXEh6oYGYmw3q"
@@ -1197,7 +1217,7 @@
       "url": "https://open.spotify.com/track/4InaqdMLtGw9yDiSSHkRrI"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc"
@@ -1217,7 +1237,7 @@
       "url": "https://open.spotify.com/track/7wMPhUSe6CZga1vOMpLTJP"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Encanto (Japanese Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT"
@@ -1233,7 +1253,7 @@
       "url": "https://open.spotify.com/track/1sEaewPCEzD98sy2cdD8eA"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tokyo Disneyland The Happy Ride with Baymax",
         "url": "https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k"
@@ -1249,7 +1269,7 @@
       "url": "https://open.spotify.com/track/3CTvENkGrXC47vyQNti7J4"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Kiseki Wo Nozomunara ... (soulful world ver.)",
         "url": "https://open.spotify.com/album/6MealZ6klqANxYw4Xg7p7n"
@@ -1265,7 +1285,7 @@
       "url": "https://open.spotify.com/track/6FF8QOdmmscdC6lkU1On4m"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack/Japanese Dubbed Version)",
         "url": "https://open.spotify.com/album/1KUIwgcM9y8VGfFN2XYddO"
@@ -1289,7 +1309,7 @@
       "url": "https://open.spotify.com/track/24s18dNsVfEZsrPfo0QkHJ"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Monsters, Inc. (Original Motion Picture Soundtrack/Japan Release Version)",
         "url": "https://open.spotify.com/album/14nVZESM3oqW12L2l4ToBW"
@@ -1309,7 +1329,7 @@
       "url": "https://open.spotify.com/track/2g7RfbrjDwkeFao5tk4iHv"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Disney Happy Piano Tunes",
         "url": "https://open.spotify.com/album/7stNU1gFKceoC1MrANYV2x"
@@ -1325,7 +1345,7 @@
       "url": "https://open.spotify.com/track/3VkiOh8cWGTfo77zq8UuhZ"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tokyo Disneyland The Happy Ride with Baymax",
         "url": "https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k"
@@ -1341,7 +1361,7 @@
       "url": "https://open.spotify.com/track/2UQDkNbv8wSQvvzyhAUSyC"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Frozen (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/37AeI9DQyORhrsOLFIJOnw"
@@ -1361,7 +1381,7 @@
       "url": "https://open.spotify.com/track/1EMluCabHs4pDVB1kx2QVR"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Little Mermaid Special Edition",
         "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
@@ -1381,7 +1401,7 @@
       "url": "https://open.spotify.com/track/7tUSJY4nsDBJTjd1UXKRsT"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Disney Music Parade \u2013 Game Theme Song",
         "url": "https://open.spotify.com/album/7IxudvLkUfdwzkwgs4c0u0"
@@ -1397,7 +1417,7 @@
       "url": "https://open.spotify.com/track/5n7jaiw5Ru54z8lA2s4Sx1"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "BE BRAVE",
         "url": "https://open.spotify.com/album/0MWFaihYS8wtvFTe6B7ReV"
@@ -1413,7 +1433,7 @@
       "url": "https://open.spotify.com/track/7cntX2d6eIlOcSCuuHG56O"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Hercules (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/7EmZAi08IILcveityNOOg7"
@@ -1445,7 +1465,7 @@
       "url": "https://open.spotify.com/track/1pIynPOpqprpV4WguxHFIy"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack/Japanese Dubbed Version)",
         "url": "https://open.spotify.com/album/1KUIwgcM9y8VGfFN2XYddO"
@@ -1465,7 +1485,7 @@
       "url": "https://open.spotify.com/track/6y4iN6dY1g6M5ABbwZi5x3"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack/Japanese Dubbed Version)",
         "url": "https://open.spotify.com/album/1KUIwgcM9y8VGfFN2XYddO"
@@ -1489,7 +1509,7 @@
       "url": "https://open.spotify.com/track/5sN2QKdhiOKaZX9HV5P4si"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Coco (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ"
@@ -1517,7 +1537,7 @@
       "url": "https://open.spotify.com/track/6uQQ3EUc2PYVlRBIHSCxDg"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "My First Disney Original Soundtrack Best Japanese Version",
         "url": "https://open.spotify.com/album/0Hu1cNb4uGnujq2XqOJrBx"
@@ -1541,7 +1561,7 @@
       "url": "https://open.spotify.com/track/03sKaMN0mq5p3ok6z2xYVQ"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Starting Now",
         "url": "https://open.spotify.com/album/2kn84J3BO4wj96uMaWKAnN"
@@ -1557,7 +1577,7 @@
       "url": "https://open.spotify.com/track/6N6Y1AdoGqw5H3lzli5DgL"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Hercules (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/7EmZAi08IILcveityNOOg7"
@@ -1573,7 +1593,7 @@
       "url": "https://open.spotify.com/track/08BRdD3nHhV1we2G4YkfLP"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Enchanted (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/0RhNiFVXaeFxFfYXc7kT3n"
@@ -1609,7 +1629,7 @@
       "url": "https://open.spotify.com/track/2bgG6ty4aQPvYkEI1ss6G2"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tokyo DisneySea Music Album (Tokyo Disney Resort 25th Anniversary Version)",
         "url": "https://open.spotify.com/album/54fbYaUvCzELWHUK1pyNSf"
@@ -1625,7 +1645,7 @@
       "url": "https://open.spotify.com/track/6nfiFW63WyrRp07xrBJN0s"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Princess and the Frog (Original Motion Picture Soundtrack/Japan Release Version)",
         "url": "https://open.spotify.com/album/2IaEl9NmzkiLSeZVqHM1xR"
@@ -1641,7 +1661,7 @@
       "url": "https://open.spotify.com/track/3zESmhpwKepaSFsQ3jJRQY"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Toy Story 4 (Japanese Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3eKxK3GqHexeJvi8XLE2xD"
@@ -1657,7 +1677,7 @@
       "url": "https://open.spotify.com/track/562r9e6J91tP6cDptGDImn"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Disney Best Japanese",
         "url": "https://open.spotify.com/album/6usBI43leSZFRQktMQcUv4"
@@ -1673,7 +1693,7 @@
       "url": "https://open.spotify.com/track/4L3ILkdcOEqCuWa9sH6FTd"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tokyo Disneyland Enchanted Tale of Beauty and the Beast",
         "url": "https://open.spotify.com/album/35PXCDVXWeN5UOIxYxRDu7"
@@ -1689,7 +1709,7 @@
       "url": "https://open.spotify.com/track/557f6dpF16fKrcE3TptXTx"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Mulan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6jjmiHPt4RoGkmDTmH4dnk"
@@ -1705,7 +1725,7 @@
       "url": "https://open.spotify.com/track/6XSSeiWfwiyRhAq2SzeeUb"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Aladdin (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/5S0T4c50ZC0VsUdJQyBDbQ"
@@ -1725,7 +1745,7 @@
       "url": "https://open.spotify.com/track/25W9H9MwBZ3Ju0nELdgTeS"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Hercules (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/7EmZAi08IILcveityNOOg7"
@@ -1741,7 +1761,7 @@
       "url": "https://open.spotify.com/track/47uXVw03YKVTUI2uQa14i5"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "My First Disney Original Soundtrack Best Japanese Version",
         "url": "https://open.spotify.com/album/0Hu1cNb4uGnujq2XqOJrBx"
@@ -1761,7 +1781,7 @@
       "url": "https://open.spotify.com/track/4y4VNLL6EuZp1fEy5S8t7O"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Mulan (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/0lFW1DXVwIoHcn6Zr4xzZB"
@@ -1797,7 +1817,7 @@
       "url": "https://open.spotify.com/track/2kNZ0qkNtOLSdBMgbzNPLj"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Pocahontas (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/2lV7tZKzKc3ZJTuFkwTjjk"
@@ -1813,7 +1833,7 @@
       "url": "https://open.spotify.com/track/6GUa2PovmLzPOycGsSFx7m"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Mulan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6jjmiHPt4RoGkmDTmH4dnk"
@@ -1829,7 +1849,7 @@
       "url": "https://open.spotify.com/track/0w0KKAb5KWnLmByZeeYuBC"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/3pkboIyEctoZm4KkfJUbKG"
@@ -1849,7 +1869,7 @@
       "url": "https://open.spotify.com/track/1vC9PjJBJzir6VoPwt8fCd"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -1865,7 +1885,7 @@
       "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tokyo Disneyland The Happy Ride with Baymax",
         "url": "https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k"
@@ -1881,7 +1901,7 @@
       "url": "https://open.spotify.com/track/5WHIxm29a6WehTfqQ1CxRi"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Celine Dion",
         "url": "https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO"
@@ -1901,7 +1921,7 @@
       "url": "https://open.spotify.com/track/7B3UAPLYAbwXVgbHSKEaTw"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Connected to Disney",
         "url": "https://open.spotify.com/album/7hASA0RLTlSJkWJSsECtMw"
@@ -1917,7 +1937,7 @@
       "url": "https://open.spotify.com/track/1lWiRlGQXRnl7vteFcelh7"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Enchanted (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/0RhNiFVXaeFxFfYXc7kT3n"
@@ -1949,7 +1969,7 @@
       "url": "https://open.spotify.com/track/1pHfFtFwU6OJ3TCqI74kMF"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Beauty and the Beast (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6fqZVTbMaJjEDYHDSnCXlh"
@@ -1973,7 +1993,7 @@
       "url": "https://open.spotify.com/track/1nQ681mi9D5HtmU1GEppue"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack/Japan Release Version)",
         "url": "https://open.spotify.com/album/3xEqS4UZ79bX70ByHs18Dy"
@@ -1997,7 +2017,7 @@
       "url": "https://open.spotify.com/track/614Ui9QhoUJKh9D4aKZFMX"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Disney Summer Songs , Vol. 2",
         "url": "https://open.spotify.com/album/4AORimNOUL0YaMx9jYx2G8"
@@ -2017,7 +2037,7 @@
       "url": "https://open.spotify.com/track/6lFJxmeD3Vak3nnoB9bDAi"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Beauty and the Beast (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6fqZVTbMaJjEDYHDSnCXlh"
@@ -2033,7 +2053,7 @@
       "url": "https://open.spotify.com/track/3WF068cVgmOr03T23HoM3S"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "My First Disney Original Soundtrack Best Japanese Version",
         "url": "https://open.spotify.com/album/0Hu1cNb4uGnujq2XqOJrBx"
@@ -2053,7 +2073,7 @@
       "url": "https://open.spotify.com/track/1O1gmfZyuoynkLyRJqU0zz"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Mulan (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/0lFW1DXVwIoHcn6Zr4xzZB"
@@ -2069,7 +2089,7 @@
       "url": "https://open.spotify.com/track/6HozDOA1E0OV6pMqKtxNeK"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Beauty and the Beast (Special Edition) [Original Motion Picture Soundtrack/Japanese Version]",
         "url": "https://open.spotify.com/album/0Bv3oUYbsQkrhByAy8U3ZB"
@@ -2093,7 +2113,7 @@
       "url": "https://open.spotify.com/track/0RHtoDRZcnPLlV0gWiGbpX"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Moana/Vaiana/Oceania Multi-Language Songs, Vol. 2",
         "url": "https://open.spotify.com/album/5bNUCxcIfJrHeuPnBHoApQ"
@@ -2109,7 +2129,7 @@
       "url": "https://open.spotify.com/track/2BAk6LyBHe77Ic2wfauniJ"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tokyo Disneyland The Happy Ride with Baymax",
         "url": "https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k"
@@ -2125,7 +2145,7 @@
       "url": "https://open.spotify.com/track/3q8anc3vW8V4qBANm8kal5"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Ralph Breaks the Internet (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/048JsTsIKUFtYHpsGfR3vj"
@@ -2141,7 +2161,7 @@
       "url": "https://open.spotify.com/track/5LpkHHpOsSIFCSjUhkpKzL"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tangled (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/2K4lTHYqxfUrgPiuqTCdSb"
@@ -2173,7 +2193,7 @@
       "url": "https://open.spotify.com/track/0x6KKx5DATCW0tBdosjMyg"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Beauty And The Beast (Special Edition)",
         "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
@@ -2209,7 +2229,7 @@
       "url": "https://open.spotify.com/track/7qQDSdhFkh0MMAE1LO5c3K"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Turning Red (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
@@ -2245,7 +2265,7 @@
       "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Cruella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0Os0o1zAzszqNfbg4yFsVj"
@@ -2261,7 +2281,7 @@
       "url": "https://open.spotify.com/track/1Jx8CmvsnWWfwNhSRMqDR9"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -2277,7 +2297,7 @@
       "url": "https://open.spotify.com/track/2Q5q1q01KOdHt5fM00WUJ8"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tarzan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C"
@@ -2293,7 +2313,7 @@
       "url": "https://open.spotify.com/track/3T74kgnbHw8JqkYGJKD4Tl"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Mulan (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/0lFW1DXVwIoHcn6Zr4xzZB"
@@ -2325,7 +2345,7 @@
       "url": "https://open.spotify.com/track/6kAopJAwSQ0TNhjmR6mZrj"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "A Goofy Movie",
         "url": "https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P"
@@ -2345,7 +2365,7 @@
       "url": "https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Incredibles (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
@@ -2361,7 +2381,7 @@
       "url": "https://open.spotify.com/track/3M7GXKcmP9WzW8zoOeTSTJ"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tokyo Disneyland The Happy Ride with Baymax",
         "url": "https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k"
@@ -2377,7 +2397,7 @@
       "url": "https://open.spotify.com/track/7rZQBusYuMdU7GLogyq0Ec"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Princess and the Frog (Original Motion Picture Soundtrack/Japan Release Version)",
         "url": "https://open.spotify.com/album/2IaEl9NmzkiLSeZVqHM1xR"
@@ -2393,7 +2413,7 @@
       "url": "https://open.spotify.com/track/2o1fUq9Ac6zt0ml20DyJQn"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Beauty and the Beast (Special Edition) [Original Motion Picture Soundtrack/Japanese Version]",
         "url": "https://open.spotify.com/album/0Bv3oUYbsQkrhByAy8U3ZB"
@@ -2409,7 +2429,7 @@
       "url": "https://open.spotify.com/track/4tvIQ57fWca31AYe7NujCz"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Alice In Wonderland (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx"
@@ -2425,7 +2445,7 @@
       "url": "https://open.spotify.com/track/04kx6QHqnBwpxC7kdRlCsn"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Princess Collection",
         "url": "https://open.spotify.com/album/5IxfjB9Ai8tD9cggC4GYkm"
@@ -2441,7 +2461,7 @@
       "url": "https://open.spotify.com/track/5nd0j6ix6kGVRIwve92WH6"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Aladdin (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/5S0T4c50ZC0VsUdJQyBDbQ"
@@ -2457,7 +2477,7 @@
       "url": "https://open.spotify.com/track/6V0ctW09GeGXwRwXYRcJG2"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack/Japan Release Version)",
         "url": "https://open.spotify.com/album/3xEqS4UZ79bX70ByHs18Dy"
@@ -2489,7 +2509,7 @@
       "url": "https://open.spotify.com/track/2cimYdaqIfLYbBXLb6v3kP"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "The Princess and the Frog (Original Motion Picture Soundtrack/Japan Release Version)",
         "url": "https://open.spotify.com/album/2IaEl9NmzkiLSeZVqHM1xR"
@@ -2509,7 +2529,7 @@
       "url": "https://open.spotify.com/track/3aycp7hfnfSstrSsn7v92I"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Ultimate Princess Celebration Album",
         "url": "https://open.spotify.com/album/07z5IZ9ZefZmMh0PCcriGS"
@@ -2525,7 +2545,7 @@
       "url": "https://open.spotify.com/track/7zciudnFmegWpz50ljlAyS"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Disney Villains Songbook",
         "url": "https://open.spotify.com/album/7qNyT8Uno8tTsAF3tHZ4As"
@@ -2541,7 +2561,7 @@
       "url": "https://open.spotify.com/track/2YbllTGzCL8kUadDbRZ06x"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Cruella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq"
@@ -2557,7 +2577,7 @@
       "url": "https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tokyo Disneyland The Happy Ride with Baymax",
         "url": "https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k"
@@ -2573,7 +2593,7 @@
       "url": "https://open.spotify.com/track/37kWdDQx7pDHYkBBBQi9rz"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Chip 'n Dale: Rescue Rangers (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2m4ziA2GytdOLHhglQEjsH"
@@ -2589,7 +2609,7 @@
       "url": "https://open.spotify.com/track/1X60krj9l60b8IPvKlfYmh"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Aladdin (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/5S0T4c50ZC0VsUdJQyBDbQ"
@@ -2605,7 +2625,7 @@
       "url": "https://open.spotify.com/track/6ecDTWvGTbF3494W7qjKXb"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q"
@@ -2621,7 +2641,7 @@
       "url": "https://open.spotify.com/track/5pUjRbA8aSPKNjv53OGyfz"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Alice In Wonderland (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx"
@@ -2637,7 +2657,7 @@
       "url": "https://open.spotify.com/track/7joekz6jMhNuj3EQhyKsm2"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Tokyo Disneyland Music Album",
         "url": "https://open.spotify.com/album/0hxYabTtNdn3SisbrYp6tU"
@@ -2653,7 +2673,7 @@
       "url": "https://open.spotify.com/track/0WihtMy7l4ET0YQF0DbdLh"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Alice in Wonderland: Music from the Score, Conducted by Camarata",
         "url": "https://open.spotify.com/album/2gVjsjlMIrC4iXyRJF5IZj"
@@ -2669,7 +2689,7 @@
       "url": "https://open.spotify.com/track/0W8jtYipop2puuuLaoRQbn"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Toy Story 4 (Japanese Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3eKxK3GqHexeJvi8XLE2xD"
@@ -2685,7 +2705,7 @@
       "url": "https://open.spotify.com/track/0SsRIXMqwZBRHlp1PdbXXn"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Oo-De-Lally (From \"Robin Hood\")",
         "url": "https://open.spotify.com/album/3FzDiTKbUb1EBE5PM5tmGC"
@@ -2701,7 +2721,7 @@
       "url": "https://open.spotify.com/track/0mWXrr6HQZUhCQG4JMkT2e"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Mickey Mouse and his Friends",
         "url": "https://open.spotify.com/album/4NqS1BaGSwcMHDpT1zUvJb"
@@ -2717,7 +2737,7 @@
       "url": "https://open.spotify.com/track/66i7ZhIWErcD2JoNVAzkxR"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Mickey Mouse and his Friends",
         "url": "https://open.spotify.com/album/4NqS1BaGSwcMHDpT1zUvJb"
@@ -2737,7 +2757,7 @@
       "url": "https://open.spotify.com/track/46ZH0FJ6pWW9R5u5tqwq6a"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Steamboat Willie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/10ahmVYvfoND25ZelOzUhB"
@@ -2753,7 +2773,7 @@
       "url": "https://open.spotify.com/track/0OFx1SDlSF7BueX3xZBjG4"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Disney Classics",
         "url": "https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0"
@@ -2769,7 +2789,7 @@
       "url": "https://open.spotify.com/track/5qFPYlhY3XrxB21gk4BKcU"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Bambi",
         "url": "https://open.spotify.com/album/30ztQHKhC0EqPNkAt6QQIK"
@@ -2805,7 +2825,7 @@
       "url": "https://open.spotify.com/track/1OwcR9OYz2vuUttTQSOVZN"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Dumbo",
         "url": "https://open.spotify.com/album/1vZDNugpxSBKlBkU2W1mR1"
@@ -2821,7 +2841,7 @@
       "url": "https://open.spotify.com/track/6nVWrXJT2XukhycmVmeDMu"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Pinocchio",
         "url": "https://open.spotify.com/album/5zsAzctyWGNrchLWXFvKgz"
@@ -2837,7 +2857,7 @@
       "url": "https://open.spotify.com/track/7fjmYUeonVOEyr0lYOKvMy"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Lady and the Tramp",
         "url": "https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk"
@@ -2857,7 +2877,7 @@
       "url": "https://open.spotify.com/track/195Ic4yPV2ITlcvmQbwWQC"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Winnie the Pooh 80th Anniversary Album",
         "url": "https://open.spotify.com/album/6GuR8bSNDEducyRg4269D4"
@@ -2873,7 +2893,7 @@
       "url": "https://open.spotify.com/track/1BXKzjmrLDWBcwkLsNodD5"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Peter Pan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1tCVqfTbVWmXFXx0HmGkob"
@@ -2905,7 +2925,7 @@
       "url": "https://open.spotify.com/track/1HTqoEMp8bRSfPDM7c5xIm"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q"
@@ -2925,7 +2945,7 @@
       "url": "https://open.spotify.com/track/6PiTsEEiNYU9a9xXowi9i5"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Super Friendship! - Disney Music Collection",
         "url": "https://open.spotify.com/album/7urwdqe8iByOWPF1mrZ6oI"
@@ -2945,7 +2965,7 @@
       "url": "https://open.spotify.com/track/4DItdR57qt33oRwfL7sWQE"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Alice In Wonderland (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx"
@@ -2973,7 +2993,7 @@
       "url": "https://open.spotify.com/track/0uDuqVAWCOYEH4qM3vWe1g"
     },
     {
-      "added_at": "2023-10-29 15:14:24",
+      "added_at": "2023-11-07 15:00:00",
       "album": {
         "name": "Snow White and the Seven Dwarfs (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk"

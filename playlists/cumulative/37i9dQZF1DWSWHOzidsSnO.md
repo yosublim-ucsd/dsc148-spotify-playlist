@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! En portada Las Áñez.
 
-246 songs - 13 hr 41 min
+247 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Dalias](https://open.spotify.com/track/6VFArLl0u2kyLtgjxg3DwO) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Hortalizas y Flores](https://open.spotify.com/album/2UzM01Won4grhMMwrKXagy) | 3:44 | 2022-01-05 | 2022-03-05 |
 | [De 0 a 100](https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [De 0 a 100](https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW) | 2:48 | 2022-03-09 | 2022-09-24 |
 | [De Curvo Cuerpo](https://open.spotify.com/track/2Pht8QhG9WqzrSQZDyK2rG) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [De Curvo Cuerpo](https://open.spotify.com/album/2uTm5GRSGAiNJkE3l96SsO) | 3:37 | 2022-04-06 | 2023-06-21 |
+| [De Curvo Cuerpo](https://open.spotify.com/track/2xsXk1ryjN5Z4nhODZuIcr) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Paralelas](https://open.spotify.com/album/0MuNavvFDWXSngWCiWMzAH) | 3:37 | 2023-11-07 |  |
 | [De Fuego](https://open.spotify.com/track/6WmA8K4fywCoN70Z4YmdiT) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [De Fuego](https://open.spotify.com/album/2t7K8A7GcSuiEG0Q3fMqW1) | 3:03 | 2022-01-05 | 2023-01-05 |
 | [DE LOS 90](https://open.spotify.com/track/5fcFq7JS7C68rbikZceuJd) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [DE LOS 90](https://open.spotify.com/album/1hWPmZie5B0qOC5JZD48Ox) | 1:58 | 2023-08-11 | 2023-11-02 |
 | [Delirante](https://open.spotify.com/track/3xQ8jCXftSa4l2gZvIegHw) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Nico Legreti](https://open.spotify.com/artist/0DqqjwKWuQhMcvHKrkY0ii) | [Delirante](https://open.spotify.com/album/618JrLJV9iCiUQp0u50yF1) | 2:45 | 2022-03-09 | 2022-04-09 |
@@ -126,7 +127,7 @@
 | [La reina del Delay](https://open.spotify.com/track/5ASPT1ujs8dudi9LWqYGbg) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [La reina del Delay](https://open.spotify.com/album/6hx57la49lxF2hmVZXg7jK) | 2:07 | 2023-06-30 | 2023-11-02 |
 | [La Sentada](https://open.spotify.com/track/6iql0jmyrOmtI58SGMI3IJ) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Más Canciones Crudas](https://open.spotify.com/album/72xjCUlKRiJbEtQo9Zt9BV) | 2:28 | 2022-01-05 | 2022-03-11 |
 | [La Sombra \(feat\. Leonel García\)](https://open.spotify.com/track/1AMzClglf6ggXTomlMOMkk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:40 | 2022-01-05 | 2022-09-09 |
-| [Las Aguas de Macondo](https://open.spotify.com/track/6vxYoxTN1sirDiQG5UtEei) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Las Aguas de Macondo](https://open.spotify.com/album/7ozRgrYIlS9h02aunepZLQ) | 2:43 | 2023-11-01 |  |
+| [Las Aguas de Macondo](https://open.spotify.com/track/6vxYoxTN1sirDiQG5UtEei) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Las Aguas de Macondo](https://open.spotify.com/album/7ozRgrYIlS9h02aunepZLQ) | 2:43 | 2023-11-01 | 2023-11-08 |
 | [Las de la Intuición](https://open.spotify.com/track/3uU6dqBjVKRTPis0RrTaT4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:40 | 2022-11-30 | 2023-05-13 |
 | [Las Ganas](https://open.spotify.com/track/7Jc2A3fxhUvNLt45IGcjGL) | [La Klinkert](https://open.spotify.com/artist/1jPMt3YAkFx3tcPFYxaMKx) | [MELODRAMA](https://open.spotify.com/album/3kRRslBCdKfnLRoOGBMChH) | 2:34 | 2023-11-01 |  |
 | [Lento](https://open.spotify.com/track/1UT81mWIvNdng0hb2qvHlL) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Lento](https://open.spotify.com/album/6kxkdZth2jAn69eCMbjpL2) | 2:55 | 2023-08-02 |  |

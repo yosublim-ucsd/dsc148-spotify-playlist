@@ -328,10 +328,32 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 383606,
       "name": "Amore",
       "url": "https://open.spotify.com/track/0m6fSWEw7QwLSrkS1tWsiJ"
+    },
+    {
+      "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/1EYorKstvQBgM546TX9CNg"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Augusto Yepes",
+          "url": "https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383606,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/3LvAMGMQt0GEPSBrDFxkRB"
     },
     {
       "album": {
@@ -940,6 +962,32 @@
       "duration_ms": 427000,
       "name": "Chaghaf",
       "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
+    },
+    {
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai"
+      },
+      "artists": [
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381322,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2"
     },
     {
       "album": {
@@ -1853,6 +1901,28 @@
     },
     {
       "album": {
+        "name": "Gorah",
+        "url": "https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Gorah",
+      "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
+    },
+    {
+      "album": {
         "name": "Hamdouchia (Yamil Remix)",
         "url": "https://open.spotify.com/album/51oPEqh2uOoTNxh7aEO56r"
       },
@@ -2322,7 +2392,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 502263,
       "name": "Jaffar",
       "url": "https://open.spotify.com/track/2hDT5xo6bgpLnqra8OZH7R"
@@ -2936,7 +3006,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 490389,
       "name": "Mbodiene",
       "url": "https://open.spotify.com/track/7HtwnNHm0I2hWxlpZOpaPn"
@@ -4080,7 +4150,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 300824,
       "name": "Sidi",
       "url": "https://open.spotify.com/track/1I5CUoUVsoFD33CXsUM91Z"
@@ -4490,6 +4560,28 @@
       "duration_ms": 397979,
       "name": "Tolo - FNX Omar Remix",
       "url": "https://open.spotify.com/track/7jlACTUszk1RZEmLOYVvVc"
+    },
+    {
+      "album": {
+        "name": "Bakone",
+        "url": "https://open.spotify.com/album/7KKssScoi6eEnGUYbgiG9l"
+      },
+      "artists": [
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        },
+        {
+          "name": "Da Africa Deep",
+          "url": "https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492000,
+      "name": "Tomorrowland",
+      "url": "https://open.spotify.com/track/3ykGXRHUjFxcSU0zJ7dOR7"
     },
     {
       "album": {

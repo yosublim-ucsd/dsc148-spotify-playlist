@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 142193,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr"
@@ -2018,6 +2018,24 @@
       "duration_ms": 543453,
       "name": "Opus",
       "url": "https://open.spotify.com/track/3v2oAQomhOcYCPPHafS3KV"
+    },
+    {
+      "album": {
+        "name": "P r a i s e Y o u u u u",
+        "url": "https://open.spotify.com/album/5dGWA0EWbJFi5GXJKYLCMY"
+      },
+      "artists": [
+        {
+          "name": "leydown n chill",
+          "url": "https://open.spotify.com/artist/5EKYmdWFCxbTsg2wGfgVtl"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230217,
+      "name": "P r a i s e Y o u u u u",
+      "url": "https://open.spotify.com/track/4XTjYgnaZJT8HmWZqlS9FX"
     },
     {
       "album": {

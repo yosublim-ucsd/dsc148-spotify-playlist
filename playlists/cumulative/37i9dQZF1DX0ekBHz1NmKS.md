@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-854 songs - 1 day 21 hr 8 min
+855 songs - 1 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [about you](https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [about you](https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe) | 2:47 | 2022-03-10 | 2022-09-13 |
 | [ABYSS](https://open.spotify.com/track/6gypzqa8LCZuGUnyPPCZCN) | [Franklin](https://open.spotify.com/artist/1QiIaPCrDLhnRfAg6xz8tT) | [ABYSS](https://open.spotify.com/album/5SO5qSja0Nm03HJcnJWzBq) | 2:08 | 2022-03-10 | 2022-05-08 |
 | [Afterlife](https://open.spotify.com/track/4bj8WRDUFsguMFAxG22e8c) | [Siqu](https://open.spotify.com/artist/29naRiyir00pkFnYm5H2X2) | [Afterlife](https://open.spotify.com/album/6vulfTqSVGblktuJ1K19Jx) | 2:38 | 2022-03-10 | 2022-06-24 |
-| [Again and Again](https://open.spotify.com/track/0AzidKkUPGyBypvcwuKp0x) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Again and Again](https://open.spotify.com/album/47JRk1CbVTPi04WNz7uU9Z) | 2:54 | 2023-10-19 |  |
+| [Again and Again](https://open.spotify.com/track/0AzidKkUPGyBypvcwuKp0x) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Again and Again](https://open.spotify.com/album/47JRk1CbVTPi04WNz7uU9Z) | 2:54 | 2023-10-19 | 2023-11-08 |
 | [Airforce blue](https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Airforce blue](https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn) | 2:48 | 2023-03-30 | 2023-08-16 |
 | [Aldrig haft något annat val](https://open.spotify.com/track/2aTbJ9yyMrseRuHq9c9jY2) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Aldrig haft något annat val](https://open.spotify.com/album/3Jmo7YMZXHnSGkLOPv7Dqb) | 3:09 | 2021-12-16 | 2022-03-11 |
 | [Aldrig mer tillbaka](https://open.spotify.com/track/0TRWebGVO0wuelGMnAHkkm) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Älskling EP](https://open.spotify.com/album/0ksVRgGY7uTN70btWV3ObS) | 2:56 | 2022-04-07 | 2023-01-16 |
@@ -153,6 +153,7 @@
 | [Dead To Me](https://open.spotify.com/track/46NwQ3pZcIJdBL3Oh7R6D3) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Valentino](https://open.spotify.com/album/2HAQenAv2djFjcu5Qpv1GD) | 3:19 | 2023-10-19 |  |
 | [Dear Havanna](https://open.spotify.com/track/1Sd8I2aucIUkPHja16CDu1) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw), [Havanna Werner Johnson](https://open.spotify.com/artist/5Jv214x15UoVfHMo4LIpLU) | [Dear Havanna](https://open.spotify.com/album/10OeMzAgC6XD8qTAqtxrEb) | 2:57 | 2021-12-16 | 2022-03-31 |
 | [Death Of Me](https://open.spotify.com/track/5OLWoMycnrKMQIB5g6hjZw) | [Lance & Linton](https://open.spotify.com/artist/6M3rUPqXzEcBsKFl0f9q8c) | [Death Of Me](https://open.spotify.com/album/4Jv7YmMG9g5NyzUgQJzFSS) | 3:23 | 2021-12-16 | 2022-03-07 |
+| [December](https://open.spotify.com/track/25ttMdXx0DuAR2p6myYlF9) | [Anders Robert](https://open.spotify.com/artist/3ORm1UuQlm3AsbEtV4Lmte) | [December](https://open.spotify.com/album/3PwH45P3rTlpCJL6ArAyKC) | 3:03 | 2023-11-03 |  |
 | [Deep Down \- From the Film ‘Avgrunden’](https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Deep Down \(From the Film ‘Avgrunden’\)](https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u) | 2:47 | 2023-09-14 |  |
 | [Den här gången är det på riktigt](https://open.spotify.com/track/1bYVmrLMimVUcFa1dzeZE4) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Poetiska försök](https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu) | 4:16 | 2023-09-08 | 2023-10-06 |
 | [Den här gången är det på riktigt](https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Den här gången är det på riktigt](https://open.spotify.com/album/5V4y3mYlWm8ic3VOLtykLw) | 4:16 | 2023-02-23 | 2023-08-26 |

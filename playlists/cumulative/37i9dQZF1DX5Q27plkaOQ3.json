@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 213877,
       "name": "Death Toll",
       "url": "https://open.spotify.com/track/0ihqMYXXNEHdW7jPrMtDhA"
@@ -2200,6 +2200,28 @@
       "duration_ms": 185600,
       "name": "DIFFRENT",
       "url": "https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884"
+    },
+    {
+      "album": {
+        "name": "DEMOLITION DAYS",
+        "url": "https://open.spotify.com/album/45ZATtU1Oh2haiLtfXNwNZ"
+      },
+      "artists": [
+        {
+          "name": "INF1N1TE",
+          "url": "https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG"
+        },
+        {
+          "name": "Autokorekt",
+          "url": "https://open.spotify.com/artist/0qSe9ankWkiCVAS7zTd1fo"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "DIM THE LIGHTS",
+      "url": "https://open.spotify.com/track/3dwPsG3yhdwyoVvapWVHcg"
     },
     {
       "album": {

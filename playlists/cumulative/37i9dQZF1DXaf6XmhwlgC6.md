@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-253 songs - 13 hr 11 min
+254 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,9 +101,10 @@
 | [Into Eternity](https://open.spotify.com/track/25yRT1t6w9wW1EusZfFVUM) | [Focus X](https://open.spotify.com/artist/6CIaQ7n8f0Q2C7zOg77Gw0) | [Into Eternity](https://open.spotify.com/album/3ukOH1Vyk15ymIIM4pRC2N) | 2:48 | 2023-02-03 |  |
 | [It's Clearer Now](https://open.spotify.com/track/595vc6ubtRdC13RRF7fpmX) | [elmtwig](https://open.spotify.com/artist/1FoIOzjaAdSvxVlT10cWwS) | [It's Clearer Now](https://open.spotify.com/album/1LHpeaSuu3SPArkwZIJahV) | 2:44 | 2023-08-18 |  |
 | [january](https://open.spotify.com/track/0P54f5kEDE7dpqgE0VARhL) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [july](https://open.spotify.com/album/1qdyW78nO5jD8U4ecLYBJ2) | 5:05 | 2023-06-30 | 2023-08-10 |
-| [january](https://open.spotify.com/track/0vXXGZStT6ksxuz00dwCQv) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [october](https://open.spotify.com/album/1iEjhoi66AQOTBzrMUEffc) | 5:05 | 2023-10-05 |  |
+| [january](https://open.spotify.com/track/0vXXGZStT6ksxuz00dwCQv) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [october](https://open.spotify.com/album/1iEjhoi66AQOTBzrMUEffc) | 5:05 | 2023-10-05 | 2023-11-08 |
 | [january](https://open.spotify.com/track/1V330yFk890DT0TDtqLPpk) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [september](https://open.spotify.com/album/4hs7MG8Rp5K2ofZCEQPuLl) | 5:05 | 2023-09-15 | 2023-10-06 |
 | [january](https://open.spotify.com/track/2YNDyBG7HzSwz38KYaE97J) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [april](https://open.spotify.com/album/13TLAy8ASNcpRwxbSjzwCc) | 5:05 | 2023-04-06 | 2023-05-04 |
+| [january](https://open.spotify.com/track/34EL3szkp3Z2x8c8D9AXaf) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [november](https://open.spotify.com/album/6iwzMBXyHmCswPRg9fNqIU) | 5:05 | 2023-10-20 |  |
 | [january](https://open.spotify.com/track/3gVpzDOglGzYT889bHF4Bs) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [january](https://open.spotify.com/album/45CIHuXt5fZk19GQB9Iz8x) | 5:05 | 2023-01-06 | 2023-04-01 |
 | [january](https://open.spotify.com/track/3gaklxqbiGCzd5KGsgDGWE) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [june](https://open.spotify.com/album/3kNdTr0IqphjVaVthCDxSU) | 5:05 | 2023-06-16 | 2023-07-08 |
 | [january](https://open.spotify.com/track/4SWK9ci2J6LOhVVkwM3XD0) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [march](https://open.spotify.com/album/1QatPz60thJwBAUGMgZlQV) | 5:05 | 2023-03-31 | 2023-04-07 |

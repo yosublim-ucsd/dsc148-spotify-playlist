@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,492 likes - 273 songs - 14 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,667 likes - 273 songs - 14 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 18 | [Lonely](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Lonely](https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj) | 2:45 |
 | 19 | [MISS YA](https://open.spotify.com/track/6Dop4DErxSA7f58ngteHvI) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [MISS YA](https://open.spotify.com/album/2kyxO943AlY8dFWRT3JAhG) | 2:37 |
 | 20 | [Shake](https://open.spotify.com/track/0al96kbwWxScOcA1iK7T0b) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Shake / In The Mood](https://open.spotify.com/album/6He6laSFhDHETaQaxulrtp) | 3:25 |
-| 21 | [Let's Go](https://open.spotify.com/track/0104sIQMZgxXypN1oYEA0e) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ) | [Let's Go \(VisionV Remix\)](https://open.spotify.com/album/6t5iHYyCKEUlz9CqdpossF) | 2:29 |
+| 21 | [Let's Go \- VisionV Remix](https://open.spotify.com/track/0104sIQMZgxXypN1oYEA0e) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ) | [Let's Go \(VisionV Remix\)](https://open.spotify.com/album/6t5iHYyCKEUlz9CqdpossF) | 2:29 |
 | 22 | [Alive \- Edit](https://open.spotify.com/track/6zynDuNBoBD7AITlS2htjj) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Alive](https://open.spotify.com/album/51BR1e1klcWNZWsD5SbX4P) | 3:36 |
 | 23 | [BYE.](https://open.spotify.com/track/4woipfCAkLPEBxKowGcB9G) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF), [B Martin](https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD) | [BYE.](https://open.spotify.com/album/3eVQAoOGoHQNhZShyVlA9C) | 2:25 |
 | 24 | [Wish You Well](https://open.spotify.com/track/007grkEd7bTnPSQILkslCZ) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB), [Homem](https://open.spotify.com/artist/5AGCm0GQFxSSAGRXWuQS0w), [doVicente](https://open.spotify.com/artist/3LZegs6tK4WeVei1K0WaNU) | [Wish You Well](https://open.spotify.com/album/3cSoAAG3sON0XcwTV3gAIn) | 2:35 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 272 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 273 | [Just The Way I Feel](https://open.spotify.com/track/26ZLujrsJ2JQ8QWHYOe9B3) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [EMIAH](https://open.spotify.com/artist/2SvY2cO17kdD3swIBGOxs8) | [Just The Way I Feel](https://open.spotify.com/album/2P642dj0EaJxTs1fRpkqxa) | 3:06 |
 
-Snapshot ID: `MCw4MzkwNmI3NTIwYWY1ZmQ1YzQyNmJiODNiZWE0NDQyMTI2MmZmODgz`
+Snapshot ID: `MCxjZDM1ZGJlNjYzODM1MGZlMTM3NzlhYTNhYjkzNTFlYTExZTE1OTdj`

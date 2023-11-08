@@ -1,12 +1,12 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Cover: Duster",
-  "num_followers": 126085,
+  "num_followers": 126294,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTYwOTBjNGU4NDFhNTU4NmZkNWU0NDNiY2VkNGJlZTEzYjJjMTk2",
+  "snapshot_id": "MCw4ZGRkYmI1MjQwN2U2ZDYxZjMzNGU5ZmFhYjI5ODcwYjcxOWNkNTNj",
   "tracks": [
     {
       "added_at": "2023-10-20 14:32:39",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto"
     },
     {
+      "added_at": "2023-11-07 03:33:41",
+      "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8"
+      },
+      "artists": [
+        {
+          "name": "Suzy Clue",
+          "url": "https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK"
+        }
+      ],
+      "duration_ms": 251818,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/2gd00D6APhLate8i83azYd"
+    },
+    {
       "added_at": "2023-10-20 14:32:39",
       "album": {
         "name": "NPC",
@@ -249,6 +265,22 @@
       "url": "https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq"
     },
     {
+      "added_at": "2023-11-07 17:10:12",
+      "album": {
+        "name": "(image for) drawing on canvas",
+        "url": "https://open.spotify.com/album/1mKYFaGZsIIjC3NFuQfNyg"
+      },
+      "artists": [
+        {
+          "name": "SPOOL",
+          "url": "https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK"
+        }
+      ],
+      "duration_ms": 275911,
+      "name": "\u3055\u3081\u306a\u3044",
+      "url": "https://open.spotify.com/track/1Z9HoCZq6RfaG3LLIKRHIQ"
+    },
+    {
       "added_at": "2023-09-29 15:11:53",
       "album": {
         "name": "catalogue",
@@ -295,6 +327,26 @@
       "duration_ms": 245666,
       "name": "Good Era Doom",
       "url": "https://open.spotify.com/track/1MZSPrg0ZwWYJyb5a39x5q"
+    },
+    {
+      "added_at": "2023-11-07 03:17:48",
+      "album": {
+        "name": "TERESA",
+        "url": "https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5"
+      },
+      "artists": [
+        {
+          "name": "teddy<3",
+          "url": "https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW"
+        },
+        {
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        }
+      ],
+      "duration_ms": 218559,
+      "name": "i belong here",
+      "url": "https://open.spotify.com/track/3dX1DRDdGTy3Y3cDmD0Bf0"
     },
     {
       "added_at": "2023-10-13 15:37:01",
@@ -771,22 +823,6 @@
       "duration_ms": 221703,
       "name": "Distortion Spear",
       "url": "https://open.spotify.com/track/18jxW8sLv8VwBAZJWKOez7"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "afraid",
-        "url": "https://open.spotify.com/album/5athKnedDAj44OMlwx4L2Y"
-      },
-      "artists": [
-        {
-          "name": "heylog",
-          "url": "https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c"
-        }
-      ],
-      "duration_ms": 161748,
-      "name": "afraid",
-      "url": "https://open.spotify.com/track/481A0KvGKhzGsQHM1RlODQ"
     },
     {
       "added_at": "2023-08-11 16:31:35",
@@ -1587,22 +1623,6 @@
       "duration_ms": 165519,
       "name": "youth+",
       "url": "https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "luminous",
-        "url": "https://open.spotify.com/album/2Zjoq94O4pZZW1cpNxGl6V"
-      },
-      "artists": [
-        {
-          "name": "ART-SCHOOL",
-          "url": "https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT"
-        }
-      ],
-      "duration_ms": 220580,
-      "name": "Bug",
-      "url": "https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH"
     },
     {
       "added_at": "2023-05-09 01:15:11",

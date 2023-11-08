@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 184766,
       "name": "AI no UTA",
       "url": "https://open.spotify.com/track/6C5dSHNpm31Xe9RR8bXqo4"
@@ -1293,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "hontono",
+        "url": "https://open.spotify.com/album/1c9Digq9eDqHfeUmlApRXi"
+      },
+      "artists": [
+        {
+          "name": "Sasuke Haraguchi",
+          "url": "https://open.spotify.com/artist/0lpGYhSy3qM3uvWAYF4fTf"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122210,
+      "name": "hontono",
+      "url": "https://open.spotify.com/track/3eOHIYuCUXVGYAFZ751im2"
+    },
+    {
+      "album": {
         "name": "Hungry song",
         "url": "https://open.spotify.com/album/7y8rGTJsU438lkwIBINbfq"
       },
@@ -1702,7 +1720,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "lower one's eyes",
       "url": "https://open.spotify.com/track/3P8sZzCeWXnBieW9XxE02Y"
@@ -3130,6 +3148,24 @@
       "duration_ms": 191133,
       "name": "YY",
       "url": "https://open.spotify.com/track/7MREY03s67e2toH9h84oUO"
+    },
+    {
+      "album": {
+        "name": "Zero Talking",
+        "url": "https://open.spotify.com/album/08EDcCxoefkH6TwGQ8NIpR"
+      },
+      "artists": [
+        {
+          "name": "Harumakigohan",
+          "url": "https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221052,
+      "name": "Zero Talking",
+      "url": "https://open.spotify.com/track/7E6Eo4TfaXSgXbGHPNmSSb"
     },
     {
       "album": {
@@ -6708,7 +6744,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 216827,
       "name": "\u30dd\u30b1\u30c3\u30c8\u306e\u30e2\u30f3\u30b9\u30bf\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/164JMtlCerJvMQPSDi5GDb"
@@ -6958,7 +6994,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 209999,
       "name": "\u30df\u30e9\u30a4\u3069\u3093\u306a\u3060\u308d\u3046 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5Yi76YNCI6gav37aKqZugz"
@@ -7012,7 +7048,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 192558,
       "name": "\u30e1\u30c6\u30aa\u30e9",
       "url": "https://open.spotify.com/track/2aiACmhUH2qbZOhSLZLQyi"
@@ -7986,6 +8022,24 @@
       "duration_ms": 252467,
       "name": "\u5343\u672c\u685c",
       "url": "https://open.spotify.com/track/38mUTswfszVFQ952r89AP8"
+    },
+    {
+      "album": {
+        "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui"
+      },
+      "artists": [
+        {
+          "name": "\u306a\u308b\u307f\u3084",
+          "url": "https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198733,
+      "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Revisit memories and make new ones with the best Kwaito songs ever released. Cover: Spikiri",
-  "num_followers": 34719,
+  "num_followers": 34785,
   "original_name": "Kwaito Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTI4MmRmYTg2YzE3MDc2NGU1MTJmOThjYmIwYzgyOTVlYjgyNTZl",
+  "snapshot_id": "MCw0MjU5ZDliMGVmMjlhMmEzOWQ0MDA0OTA5YTEzN2I5MDE5ODQ0NTQx",
   "tracks": [
     {
       "added_at": "2022-04-25 18:44:17",
@@ -103,18 +103,18 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "BullDawgz First Lady",
-        "url": "https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g"
+        "name": "Lenyora",
+        "url": "https://open.spotify.com/album/4kxZRm7DFKwEmwgqvMtAq4"
       },
       "artists": [
         {
-          "name": "Mshoza",
-          "url": "https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44"
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
         }
       ],
-      "duration_ms": 301853,
-      "name": "Kortes (Kasi Luv)",
-      "url": "https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws"
+      "duration_ms": 341506,
+      "name": "Groovers Prayer",
+      "url": "https://open.spotify.com/track/36RAIEs4JnZH2SQOVA0RxK"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -139,18 +139,18 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Lenyora",
-        "url": "https://open.spotify.com/album/4kxZRm7DFKwEmwgqvMtAq4"
+        "name": "BullDawgz First Lady",
+        "url": "https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g"
       },
       "artists": [
         {
-          "name": "Thebe",
-          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
+          "name": "Mshoza",
+          "url": "https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44"
         }
       ],
-      "duration_ms": 341506,
-      "name": "Groovers Prayer",
-      "url": "https://open.spotify.com/track/36RAIEs4JnZH2SQOVA0RxK"
+      "duration_ms": 301853,
+      "name": "Kortes (Kasi Luv)",
+      "url": "https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Simply The Best",
-        "url": "https://open.spotify.com/album/6nM1XBe20EowLogJ5BcFAM"
-      },
-      "artists": [
-        {
-          "name": "Spikiri",
-          "url": "https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi"
-        }
-      ],
-      "duration_ms": 345613,
-      "name": "Current",
-      "url": "https://open.spotify.com/track/25lPFTQtYnOjH2CMA7ROZ1"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "Top Dawg",
         "url": "https://open.spotify.com/album/0GNrvpXxZAAP8hZf8kIc3L"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 344426,
       "name": "Mazolo",
       "url": "https://open.spotify.com/track/15eELFlhtNrfrEuNkop7J2"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "Simply The Best",
+        "url": "https://open.spotify.com/album/6nM1XBe20EowLogJ5BcFAM"
+      },
+      "artists": [
+        {
+          "name": "Spikiri",
+          "url": "https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi"
+        }
+      ],
+      "duration_ms": 345613,
+      "name": "Current",
+      "url": "https://open.spotify.com/track/25lPFTQtYnOjH2CMA7ROZ1"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
+        "name": "24 Seven",
+        "url": "https://open.spotify.com/album/6jsx7AJpZo4VqKVD0PlvHU"
+      },
+      "artists": [
+        {
+          "name": "M'Du",
+          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
+        }
+      ],
+      "duration_ms": 317213,
+      "name": "Chomi Yabana",
+      "url": "https://open.spotify.com/track/3P51N4sDSQAgqmZxXJ5XpW"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
         "name": "Intwenjani",
         "url": "https://open.spotify.com/album/4VJK1hwYju24DtMhDAwDli"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Guz 2001",
-        "url": "https://open.spotify.com/album/7d1lS59Y8vA3hW3u8ir9RV"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Izinja Zam",
-      "url": "https://open.spotify.com/track/13kgXxmYBhTx8sG2fhlLLG"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "Mapantsula",
         "url": "https://open.spotify.com/album/14x1u7Nyu6nlhKFxeAUcyc"
       },
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
+        "name": "Guz 2001",
+        "url": "https://open.spotify.com/album/7d1lS59Y8vA3hW3u8ir9RV"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Izinja Zam",
+      "url": "https://open.spotify.com/track/13kgXxmYBhTx8sG2fhlLLG"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
         "name": "King Don Father 2002",
         "url": "https://open.spotify.com/album/7zK4L4LnMM2kQmd1A8PQAd"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 358426,
       "name": "Vat-En-Sit",
       "url": "https://open.spotify.com/track/6oYjN6OGK0NjnWxQCQ9Bgc"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
-        "name": "24 Seven",
-        "url": "https://open.spotify.com/album/6jsx7AJpZo4VqKVD0PlvHU"
-      },
-      "artists": [
-        {
-          "name": "M'Du",
-          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
-        }
-      ],
-      "duration_ms": 317213,
-      "name": "Chomi Yabana",
-      "url": "https://open.spotify.com/track/3P51N4sDSQAgqmZxXJ5XpW"
     },
     {
       "added_at": "2022-05-08 18:08:38",
@@ -483,18 +483,18 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Intwenjani",
-        "url": "https://open.spotify.com/album/4VJK1hwYju24DtMhDAwDli"
+        "name": "Y U 4 Me",
+        "url": "https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7"
       },
       "artists": [
         {
-          "name": "Mawillies",
-          "url": "https://open.spotify.com/artist/6Zd8RQbtBZ2ywALmjzwM7N"
+          "name": "M'Du",
+          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
         }
       ],
-      "duration_ms": 343546,
-      "name": "Thula Mabota",
-      "url": "https://open.spotify.com/track/268w5H4z4D5E8ER4Tt3qRY"
+      "duration_ms": 451466,
+      "name": "Y U 4 Me",
+      "url": "https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Icon",
-        "url": "https://open.spotify.com/album/7AHYVDAOsSJBL6YMKVXWPm"
+        "name": "Intwenjani",
+        "url": "https://open.spotify.com/album/4VJK1hwYju24DtMhDAwDli"
       },
       "artists": [
         {
-          "name": "Bongo Maffin",
-          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
+          "name": "Mawillies",
+          "url": "https://open.spotify.com/artist/6Zd8RQbtBZ2ywALmjzwM7N"
         }
       ],
-      "duration_ms": 328666,
-      "name": "Mari Ye Phepha",
-      "url": "https://open.spotify.com/track/3ClqIdHksnRs2pwyCGSYHd"
+      "duration_ms": 343546,
+      "name": "Thula Mabota",
+      "url": "https://open.spotify.com/track/268w5H4z4D5E8ER4Tt3qRY"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -567,18 +567,18 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Y U 4 Me",
-        "url": "https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7"
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7AHYVDAOsSJBL6YMKVXWPm"
       },
       "artists": [
         {
-          "name": "M'Du",
-          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
+          "name": "Bongo Maffin",
+          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
         }
       ],
-      "duration_ms": 451466,
-      "name": "Y U 4 Me",
-      "url": "https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu"
+      "duration_ms": 328666,
+      "name": "Mari Ye Phepha",
+      "url": "https://open.spotify.com/track/3ClqIdHksnRs2pwyCGSYHd"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Always Da Case",
-        "url": "https://open.spotify.com/album/5ZL4Mf3do60ZcBtyzlVonT"
-      },
-      "artists": [
-        {
-          "name": "M'Du",
-          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
-        }
-      ],
-      "duration_ms": 424653,
-      "name": "Ma Bankbook",
-      "url": "https://open.spotify.com/track/4ru4VcAOmoA8aYdEKVIa73"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "Yizo Yizo",
         "url": "https://open.spotify.com/album/0MI38qrVzFPVgRiHN4ocFU"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 280013,
       "name": "Tlo Be Rele Daar",
       "url": "https://open.spotify.com/track/03RGHM6AtZxkZ3rU3iAwQa"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "Always Da Case",
+        "url": "https://open.spotify.com/album/5ZL4Mf3do60ZcBtyzlVonT"
+      },
+      "artists": [
+        {
+          "name": "M'Du",
+          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
+        }
+      ],
+      "duration_ms": 424653,
+      "name": "Ma Bankbook",
+      "url": "https://open.spotify.com/track/4ru4VcAOmoA8aYdEKVIa73"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Lost 'N Found",
-        "url": "https://open.spotify.com/album/7FuyJJkcr7HPaCDZUUv8ys"
-      },
-      "artists": [
-        {
-          "name": "Mashamplani",
-          "url": "https://open.spotify.com/artist/4uSBcHbT1Gcsqy5V0Oqn5I"
-        }
-      ],
-      "duration_ms": 303200,
-      "name": "Lost 'N Found",
-      "url": "https://open.spotify.com/track/5bi5ot0tC37XOORKfehoRy"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "The Concerto",
         "url": "https://open.spotify.com/album/2FHJZ05xyERSOkHDsmAYPT"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 291613,
       "name": "Iphindlela",
       "url": "https://open.spotify.com/track/74HMKhYjNgCBRBShSVFJBD"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "Lost 'N Found",
+        "url": "https://open.spotify.com/album/7FuyJJkcr7HPaCDZUUv8ys"
+      },
+      "artists": [
+        {
+          "name": "Mashamplani",
+          "url": "https://open.spotify.com/artist/4uSBcHbT1Gcsqy5V0Oqn5I"
+        }
+      ],
+      "duration_ms": 303200,
+      "name": "Lost 'N Found",
+      "url": "https://open.spotify.com/track/5bi5ot0tC37XOORKfehoRy"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "It's Our Game (no need to claim)",
-        "url": "https://open.spotify.com/album/1dwxhGMk4MkAlFJ4yxEGHt"
-      },
-      "artists": [
-        {
-          "name": "Boom Shaka",
-          "url": "https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd"
-        }
-      ],
-      "duration_ms": 294200,
-      "name": "Ibuhlungu",
-      "url": "https://open.spotify.com/track/2SMayfL8qCOPA98aKdDTjN"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "Khokhovula",
         "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 317760,
       "name": "Sana Luma (Thats The Way Love Is)",
       "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "It's Our Game (no need to claim)",
+        "url": "https://open.spotify.com/album/1dwxhGMk4MkAlFJ4yxEGHt"
+      },
+      "artists": [
+        {
+          "name": "Boom Shaka",
+          "url": "https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd"
+        }
+      ],
+      "duration_ms": 294200,
+      "name": "Ibuhlungu",
+      "url": "https://open.spotify.com/track/2SMayfL8qCOPA98aKdDTjN"
     },
     {
       "added_at": "2022-04-25 18:44:17",

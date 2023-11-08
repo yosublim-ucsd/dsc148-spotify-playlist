@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Cover: Clara Rockmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,965 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,969 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 43 | [Requiebros \(Arr\. for Theremin & Piano\)](https://open.spotify.com/track/50zabl8L6p3aeF4i7x3sPz) | [Gaspar Cassadó](https://open.spotify.com/artist/69CqmqoqN7ZwMRAMODTUF6), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Dvořák, Ravel, Gershwin & Others: Chamber Works](https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn) | 4:00 |
 | 44 | [Bachianas Brasileiras: No\. 5, Aria](https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B) | [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [The Listening Room Ensemble](https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 7:56 |
 | 45 | [Piece en forme de habanera: Vocalise\-etude en forme de habanera \(Arr\. For theremin and piano\)](https://open.spotify.com/track/7MHZLkzhdDKi1F46A4F4nW) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Rachmaninov, S.: Vocalise / Saint\-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody \(The Art of the Theremin\)](https://open.spotify.com/album/4m0wpnl7Db40DawENitc78) | 2:45 |
-| 46 | [Thaïs: Méditation \(Arr\. for Theremin and Piano\)](https://open.spotify.com/track/5XhWzhaWzjzgPIYnGmGIcP) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Giulietta Koch](https://open.spotify.com/artist/4oPnpmC5oEb8v36lf4Didb) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 4:40 |
-| 47 | [Voice of Theremin](https://open.spotify.com/track/7o0FxcsUn7z7JLellv8W49) | [Vladimir Komarov](https://open.spotify.com/artist/1Ejt4SadlhMj7ijOeOC3iQ), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv) | [Music from the Ether: Original Works for Theremin](https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE) | 8:47 |
+| 46 | [Voice of Theremin](https://open.spotify.com/track/7o0FxcsUn7z7JLellv8W49) | [Vladimir Komarov](https://open.spotify.com/artist/1Ejt4SadlhMj7ijOeOC3iQ), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv) | [Music from the Ether: Original Works for Theremin](https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE) | 8:47 |
+| 47 | [Thaïs: Méditation \(Arr\. for Theremin and Piano\)](https://open.spotify.com/track/5XhWzhaWzjzgPIYnGmGIcP) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Giulietta Koch](https://open.spotify.com/artist/4oPnpmC5oEb8v36lf4Didb) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 4:40 |
 | 48 | [Concerto for 2 Violins in D minor, BWV 1043: 2nd movement](https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Erick Friedman](https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 8:34 |
 | 49 | [荒城の月](https://open.spotify.com/track/62iNNRWB0tpmE8O6RuMGqV) | [Masami Takeuchi](https://open.spotify.com/artist/7IwBB0pBWtf6xJrd1InDEq) | [Theremin Vox Collection Vol.1](https://open.spotify.com/album/7c94OMv4ypIwKaSL4DbLHu) | 3:02 |
 | 50 | [Keler Tsoler](https://open.spotify.com/track/4UqGOyOoFBHe5JuIhEc7K5) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Plays the Theremin](https://open.spotify.com/album/2m3gsqca2ZhFNLppQ7Ciwq) | 5:10 |
 
-Snapshot ID: `MCw1NzdjZjE5OTM5MTFmNDYzMDU5NDNmMDNmMDhlODZkZGU5ZTI5NTkw`
+Snapshot ID: `MCxhNGNlZGU0MjUwZmQxNzc4NWVlYzlhMmRjZTgyOGUwZDRmYTA2ZTZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Coone
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,980 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,120 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Everybody Cries \- Bass Prototype Remix](https://open.spotify.com/track/6RWiLrpRG0cSp5GvsjwPGs) | [Cleez](https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [Bass Prototype](https://open.spotify.com/artist/7yip7koKz1Y1oZ8EY7oX54) | [Everybody Cries \(Bass Prototype Remix\)](https://open.spotify.com/album/2DlISXOVLVpE4D5QI2oeIK) | 2:59 |
 | 100 | [Overdrive](https://open.spotify.com/track/1qfZJC2ZdTgzhb4l5RawGs) | [ZIGGY X](https://open.spotify.com/artist/02c73sVTVC2NrbEjCdhU83), [Daniel Seven](https://open.spotify.com/artist/4zRiD4QO1sRhP4BnHGhNkW) | [Overdrive](https://open.spotify.com/album/3xZylehst79tLUp3S4yBH2) | 2:17 |
 
-Snapshot ID: `MCxmYzk3NzcyNmViN2RkNGFkNDkwMWYzNjVlYWIxODFjZjhkZjdmZGY2`
+Snapshot ID: `MCwxMTM0YmNjNmY0YWI5MGZmMzllNDY2ZWI3MTk0MzBhZmQyNmZmODNl`

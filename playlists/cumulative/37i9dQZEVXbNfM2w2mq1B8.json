@@ -292,7 +292,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -4460,6 +4460,24 @@
       "duration_ms": 260173,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
+    },
+    {
+      "album": {
+        "name": "Men Si Tarsil",
+        "url": "https://open.spotify.com/album/5WNRNUPRA3iUd1IfJBt4tf"
+      },
+      "artists": [
+        {
+          "name": "Andrea",
+          "url": "https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "Dai Mi Vsichko",
+      "url": "https://open.spotify.com/track/7qmV6PWC86hFlYusuxAqwg"
     },
     {
       "album": {
@@ -9474,7 +9492,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -15592,7 +15610,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 208941,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/6rQCv5zfqq8NLcUJbS5G1u"
@@ -24264,7 +24282,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 191714,
       "name": "\u0418\u043c\u0435\u0442\u043e \u0442\u0438",
       "url": "https://open.spotify.com/track/5NiOXQipgtTWT7BSDJz8eg"
@@ -24561,6 +24579,24 @@
     },
     {
       "album": {
+        "name": "\u041c\u0430\u043c\u0430 \u0411\u0435\u0448\u0435 \u041f\u0440\u0430\u0432\u0430",
+        "url": "https://open.spotify.com/album/4E1qIGSbt0xAIHl8ELqsBf"
+      },
+      "artists": [
+        {
+          "name": "Yoana Sashova",
+          "url": "https://open.spotify.com/artist/0WFMejgWiqbnkzhp3c3p3L"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225454,
+      "name": "\u041c\u0430\u043c\u0430 \u0411\u0435\u0448\u0435 \u041f\u0440\u0430\u0432\u0430",
+      "url": "https://open.spotify.com/track/1RHGbJ4yGP0lJXKYV17WqC"
+    },
+    {
+      "album": {
         "name": "\u041c\u0430\u0445\u043b\u0435\u043d \u0411\u0438\u0437\u043d\u0435\u0441",
         "url": "https://open.spotify.com/album/4lva67iHVO0uAoaZDSTLl4"
       },
@@ -24696,6 +24732,28 @@
       "duration_ms": 185006,
       "name": "\u041c\u043e\u043c\u0447\u0435 \u041e\u0442 \u041d\u0430\u0440\u043e\u0434\u0430",
       "url": "https://open.spotify.com/track/4EzfqqBm0xS7LHKi7aTw7f"
+    },
+    {
+      "album": {
+        "name": "\u041c\u043e\u043d\u043e\u043f\u043e\u043b",
+        "url": "https://open.spotify.com/album/2u1eRbwrIxnHDr3ZrJquPW"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        },
+        {
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/6GGpI1ZhuoPg5d7nSx5sXx"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160879,
+      "name": "\u041c\u043e\u043d\u043e\u043f\u043e\u043b",
+      "url": "https://open.spotify.com/track/5UHIkr0EzHVc1aCvXArWRr"
     },
     {
       "album": {
@@ -26062,7 +26120,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 202857,
       "name": "\u0422\u043e\u043a\u0441\u0438\u0447\u0435\u043d",
       "url": "https://open.spotify.com/track/46w6RqZXx96cORKIbExvSu"

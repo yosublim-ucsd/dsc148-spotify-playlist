@@ -325,6 +325,24 @@
     },
     {
       "album": {
+        "name": "\u30d2\u30ab\u30ea\u30cf\u30ca\u30c4",
+        "url": "https://open.spotify.com/album/4UWYKyiyUnjkiTfrp8P3sU"
+      },
+      "artists": [
+        {
+          "name": "\u5bfa\u5cf6\u62d3\u7be4",
+          "url": "https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200893,
+      "name": "\u30d2\u30ab\u30ea\u30cf\u30ca\u30c4",
+      "url": "https://open.spotify.com/track/4dvKQ8ic2ifWOFH87FBQdV"
+    },
+    {
+      "album": {
         "name": "LAYERING",
         "url": "https://open.spotify.com/album/0zkDqUmXN5wclz5CtXr3ey"
       },

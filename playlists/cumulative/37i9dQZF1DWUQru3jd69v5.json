@@ -9413,6 +9413,40 @@
     },
     {
       "album": {
+        "name": "MAYBACH",
+        "url": "https://open.spotify.com/album/5bhCxGsUz58QDmzUFtgvGp"
+      },
+      "artists": [
+        {
+          "name": "Malsho",
+          "url": "https://open.spotify.com/artist/1QoHY2jVpZqUrqnpZjA811"
+        },
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        },
+        {
+          "name": "Stresi",
+          "url": "https://open.spotify.com/artist/1xSxx6qkrEac8Ek7puk6FI"
+        },
+        {
+          "name": "Daxter",
+          "url": "https://open.spotify.com/artist/7ml77C26I1LupIH1R4pEYa"
+        },
+        {
+          "name": "Riflo",
+          "url": "https://open.spotify.com/artist/6v60ZvqjQ9FeNe0JDKzpSu"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188690,
+      "name": "MAYBACH",
+      "url": "https://open.spotify.com/track/3B1wXfY9DgClNsa3eEOfVO"
+    },
+    {
+      "album": {
         "name": "Mc Queen",
         "url": "https://open.spotify.com/album/1Qyt1Qy9Cx9Dky8XI0Uvm8"
       },

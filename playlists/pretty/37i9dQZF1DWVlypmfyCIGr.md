@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: muque
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,186 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,211 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Anshin](https://open.spotify.com/track/3t6pKG8DLUbtlaLSSNr4z6) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Anshin](https://open.spotify.com/album/2YRdnx56DRkQl1qR8SdDI6) | 3:24 |
 | 80 | [雨上がりには好きだといって](https://open.spotify.com/track/4ZOOMTVsaIqqcTPXTCxE1J) | [COALAMODE.](https://open.spotify.com/artist/2BbazztW4wjJHFbtGdSzvP) | [COALAMODE.3 ～Blue Moment～](https://open.spotify.com/album/4RGJvnnzATAlWAJJhL7EKc) | 5:03 |
 
-Snapshot ID: `MCw3NzMyMGFlMTVjYTk5OGM4NTdjM2RjNGI1MmIwNjExMjU3NzAyYjRj`
+Snapshot ID: `MCxlMTBhNGIzZWExYjNhMjEzYmQ4YzlhNzlhOTQwMjI5YjljN2NkNDdh`

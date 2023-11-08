@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Salmo e Noyz, Tony Boy e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,970 likes - 96 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,998 likes - 96 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 59 | [MENTALITÉ](https://open.spotify.com/track/3qVucXBmqvWWsqM4wedd3o) | [Mido](https://open.spotify.com/artist/4IDQpLt670azHbRBQkwZQP) | [MENTALITÉ](https://open.spotify.com/album/6034Syj80TAAbBqcNmVB53) | 2:32 |
 | 60 | [ZITTO](https://open.spotify.com/track/59QhNZ02jxQR4B0Gdu3Xs7) | [AUCH](https://open.spotify.com/artist/7uivJimhMgnkSCaPYWQHog) | [ZITTO](https://open.spotify.com/album/1vc0uWXGdGEO52YIKwafcP) | 2:13 |
 | 61 | [NON È SCARFACE](https://open.spotify.com/track/0mApSYMiTRxf9zTt0UNyTA) | [Nolan](https://open.spotify.com/artist/3NPPrFIf8bMNlZmAN3ONxW) | [NON È SCARFACE](https://open.spotify.com/album/2AhPmkNzwvFUZkyu1kQQIg) | 2:19 |
-| 62 | [MERCY ON ME](https://open.spotify.com/track/1x6kn096z9mCsL7zocFhd7) | [Full Meth](https://open.spotify.com/artist/01jUEPQQLeIZFtu89BkPyV) | [MERCY ON ME](https://open.spotify.com/album/3xxFUqEMFZxoFHbYf0Jv3L) | 3:27 |
+| 62 | [MERCY ON ME](https://open.spotify.com/track/1x6kn096z9mCsL7zocFhd7) | [Full Meth](https://open.spotify.com/artist/01jUEPQQLeIZFtu89BkPyV), [Snark](https://open.spotify.com/artist/6BF3u0mCZazib7Qt0V9SUQ) | [MERCY ON ME](https://open.spotify.com/album/3xxFUqEMFZxoFHbYf0Jv3L) | 3:27 |
 | 63 | [Million Dollar](https://open.spotify.com/track/1rTwPO0jWUcjB6Qpwk4vKo) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Million Dollar](https://open.spotify.com/album/4wdR5BTgIKCnADDGb9eqIP) | 2:39 |
 | 64 | [Top Boy](https://open.spotify.com/track/1ulJFkCkrNued2jimxc8PL) | [Lele](https://open.spotify.com/artist/5Ef0bhKWbzbSgfKlCguEoQ) | [Top Boy](https://open.spotify.com/album/6bsDeN3YlLDok3kefnmSZF) | 2:47 |
 | 65 | [MAR7ABA \(feat\. Nabi\)](https://open.spotify.com/track/3WFlIMxM6GteBtgtt5nNFg) | [Y.E.B](https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [MAR7ABA \(feat\. Nabi\)](https://open.spotify.com/album/0EzPLBiSfAiOYD1q68c6ch) | 3:00 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 95 | [Libertad \(feat\. Morad\)](https://open.spotify.com/track/72pkk2rd9ncTTS6Czd32Yy) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:52 |
 | 96 | [CONNEXION \(feat\. Samara, Izi & AbSynapse\)](https://open.spotify.com/track/79Hlcx3lsgzE7ZdaSlUgMc) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [AbSynapse](https://open.spotify.com/artist/1gd8C8kLiAE3FcnkbbdAT9) | [CONNEXION \(feat\. Samara, Izi & AbSynapse\)](https://open.spotify.com/album/3nQyJKflMMrLQtNfNno51B) | 5:16 |
 
-Snapshot ID: `MCwxNDVkNjQwZWRhN2NhMzRkYzE1MmMwMDlhMzFmNDFlYmJlMDkwYTc0`
+Snapshot ID: `MCxjNWIxMWIwMWU0Y2NmYWYxNzAyYjA2ODllZDk1MThhYmZjNjAzM2I3`

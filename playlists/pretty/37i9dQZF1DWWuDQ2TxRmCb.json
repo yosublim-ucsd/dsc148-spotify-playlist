@@ -1,12 +1,12 @@
 {
   "description": "Best of the modern folk artists! Cover- Indian Ocean\n",
-  "num_followers": 68169,
+  "num_followers": 68223,
   "original_name": "Folk in India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmFlYjYyNWI4ZWE0YzZhMzRmZWJkMDBmM2MxODA2YzIzNTQ3OWEx",
+  "snapshot_id": "MCw2NWU5YWZjZDFkYzVhZGI3MzczNTdkNjQzZjQyZmRiNjFiOTZmMGUw",
   "tracks": [
     {
       "added_at": "2023-10-26 06:03:35",
@@ -568,12 +568,12 @@
       },
       "artists": [
         {
-          "name": "Divya Kumar",
-          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
-        },
-        {
           "name": "Shruti Pathak",
           "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
         }
       ],
       "duration_ms": 233644,

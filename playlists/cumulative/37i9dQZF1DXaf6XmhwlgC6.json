@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 305390,
       "name": "january",
       "url": "https://open.spotify.com/track/0vXXGZStT6ksxuz00dwCQv"
@@ -1746,6 +1746,24 @@
       "duration_ms": 305390,
       "name": "january",
       "url": "https://open.spotify.com/track/2YNDyBG7HzSwz38KYaE97J"
+    },
+    {
+      "album": {
+        "name": "november",
+        "url": "https://open.spotify.com/album/6iwzMBXyHmCswPRg9fNqIU"
+      },
+      "artists": [
+        {
+          "name": "ILIVEHERE.",
+          "url": "https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305390,
+      "name": "january",
+      "url": "https://open.spotify.com/track/34EL3szkp3Z2x8c8D9AXaf"
     },
     {
       "album": {

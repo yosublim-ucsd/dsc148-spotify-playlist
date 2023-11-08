@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,034 likes - 88 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,036 likes - 88 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 22 | [Olave Manasiga](https://open.spotify.com/track/3IACS9yiWikZUQRt4usjaQ) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Olave Manasiga](https://open.spotify.com/album/0jHmdudtk8RXjuFGnVk2fX) | 4:10 |
 | 23 | [MANIFEST](https://open.spotify.com/track/2aukHnHoljvfUz0q7KqNet) | [AGORAH](https://open.spotify.com/artist/0MS0PxbrMlTrqjSVLIdCaE) | [MANIFEST](https://open.spotify.com/album/5FTnu7pgquZYRIIhDdf5Gq) | 3:08 |
 | 24 | [Sorry](https://open.spotify.com/track/1mcABhQTHBUL2TiL8uLLsj) | [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Harshitha Shetty](https://open.spotify.com/artist/1p3Rdno6pABWuD9F49UqYu) | [Sorry](https://open.spotify.com/album/4FCuyD2KDLFjNJJfrho2Lb) | 2:46 |
-| 25 | [By2Love](https://open.spotify.com/track/2FLf8XNpQKxBEUbwPZocHn) | [Prashanth Kankanady](https://open.spotify.com/artist/0TG2p7nnb1iIbddC4YFyx5), [Ranjitha Yellur](https://open.spotify.com/artist/6tkM6pYWcSp6mai0rg8OLI) | [By2Love](https://open.spotify.com/album/2WHsDQKag50lnPXjQveFcG) | 3:37 |
+| 25 | [By2Love](https://open.spotify.com/track/2FLf8XNpQKxBEUbwPZocHn) | [Dolwin Kolalagiri](https://open.spotify.com/artist/7DDPhsid60HBOEoTP3bQOk), [Prashanth Kankanady](https://open.spotify.com/artist/0TG2p7nnb1iIbddC4YFyx5), [Ranjitha Yellur](https://open.spotify.com/artist/6tkM6pYWcSp6mai0rg8OLI) | [By2Love](https://open.spotify.com/album/2WHsDQKag50lnPXjQveFcG) | 3:37 |
 | 26 | [Dosthi](https://open.spotify.com/track/6kikzlcHn876UkFBtdYrai) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Dosthi](https://open.spotify.com/album/4d4tz7uQcWFs5H9G38FiG8) | 2:50 |
 | 27 | [Neene Neene](https://open.spotify.com/track/3oNl7SQVQnogVXaXdfbdhw) | [Drusti](https://open.spotify.com/artist/3cHpejJPT84dzssv89n0s7), [Kiran Bangera](https://open.spotify.com/artist/2LrYMr4C9gYroHRoyQQ6CY), [Manvith Karkera](https://open.spotify.com/artist/6lGuqxlQ4esOsUzZNZ1Pkw) | [Neene Neene](https://open.spotify.com/album/4V6OLQHOHCSYf8MM3xWisY) | 4:36 |
 | 28 | [Jai Ganesha](https://open.spotify.com/track/3AaghYGVFOfmrLui28QIq9) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Jai Ganesha](https://open.spotify.com/album/7tKACaZToxNtnW8y9yPr5N) | 4:18 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 87 | [Nenapaagiru](https://open.spotify.com/track/3pAb0JyhnVl8U6PGUpEmmL) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/5djLiHTiPKqbHxa6fhwYO8) | 3:44 |
 | 88 | [Ninnane Bayaside](https://open.spotify.com/track/2gVeV88YIQzA5zO0rTiyzu) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Ninnane Bayaside](https://open.spotify.com/album/65X3c2WdqKnrralQy9ccEm) | 2:52 |
 
-Snapshot ID: `MCwwZjYwNzU5YTFiOGZlOTk2ZDU3YzlmMDY1OWY4NjU1YmUwMDhmZGEx`
+Snapshot ID: `MCw4MjUyMzZmMjQ1ZWIzZjk1M2E5ODg1YTUzYmQxNjU5ZGQ0ZDJkZGI5`

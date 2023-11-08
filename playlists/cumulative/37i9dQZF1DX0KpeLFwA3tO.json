@@ -9990,10 +9990,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 144053,
       "name": "Herberts On Holiday",
       "url": "https://open.spotify.com/track/1fvaUZkT3kUy4qwtEqTUsc"
+    },
+    {
+      "album": {
+        "name": "Spiritual Cramp",
+        "url": "https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144053,
+      "name": "Herberts On Holiday",
+      "url": "https://open.spotify.com/track/2SLS4rCsxzCVPLG6cS0wYe"
     },
     {
       "album": {

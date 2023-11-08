@@ -2521,6 +2521,28 @@
     },
     {
       "album": {
+        "name": "Intercell [The Live Code Edits]",
+        "url": "https://open.spotify.com/album/0Xs07jxD1MaEd9qmOTuqwb"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        },
+        {
+          "name": "Lil Data",
+          "url": "https://open.spotify.com/artist/1MoWMC4GaNZklW2wmKENRl"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Array [Lil Data Edit]",
+      "url": "https://open.spotify.com/track/39K9sFCNCv7H5kyQAfcePr"
+    },
+    {
+      "album": {
         "name": "arroz",
         "url": "https://open.spotify.com/album/0jjEpl7QHid5llB360u7rE"
       },
@@ -2812,7 +2834,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 215771,
       "name": "Baby My Phone",
       "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
@@ -6516,7 +6538,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 149390,
       "name": "claws",
       "url": "https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc"
@@ -7308,7 +7330,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 123196,
       "name": "COOL_DNB_SONG",
       "url": "https://open.spotify.com/track/6qplf0LC8lwZdWL7Ij0hlu"
@@ -7424,7 +7446,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 191500,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/5wW2bmnIVn2qPbAsK6BcDU"
@@ -9640,7 +9662,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 100562,
       "name": "dui",
       "url": "https://open.spotify.com/track/3RLI8S7KpEZs4SqePGjM2R"
@@ -12966,7 +12988,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 113250,
       "name": "gf",
       "url": "https://open.spotify.com/track/55IRGQQOMiYQORMEA4yhEI"
@@ -14876,7 +14898,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 156106,
       "name": "Heart Racing",
       "url": "https://open.spotify.com/track/2xkCK64mVslpApVL7i6Mxj"
@@ -20008,7 +20030,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 164143,
       "name": "lost n found",
       "url": "https://open.spotify.com/track/4QTb29gVaviE9RXyeeabkT"
@@ -21780,7 +21802,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 162461,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/3rupdmlpYVeQ2l2qn7V2ja"
@@ -22954,7 +22976,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 162162,
       "name": "No Getting over U",
       "url": "https://open.spotify.com/track/37vlhyd8B4lr2H4Icb4dF8"
@@ -26176,7 +26198,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 190214,
       "name": "PURPLE APE",
       "url": "https://open.spotify.com/track/0ZpKseo8xDyCcX9SVmZHRm"
@@ -30216,7 +30238,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 189913,
       "name": "Sodom & Gomorrah",
       "url": "https://open.spotify.com/track/0cgUUrFj9pOmSKzm4MyfIf"
@@ -35710,7 +35732,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 202494,
       "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
       "url": "https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb"
@@ -35776,7 +35798,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-08",
       "duration_ms": 124711,
       "name": "WET DREAMS (w/ Nimstarr)",
       "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
