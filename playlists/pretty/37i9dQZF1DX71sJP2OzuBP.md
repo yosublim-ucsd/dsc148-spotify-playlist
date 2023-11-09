@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,642 likes - 101 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,645 likes - 101 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 100 | [玫瑰少年](https://open.spotify.com/track/61AGYnjOfbazJR7WFyMNgI) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq) | [玫瑰少年](https://open.spotify.com/album/7fm4EiWCHTagqHdKlBVg3r) | 3:11 |
 | 101 | [沒有名字的地方](https://open.spotify.com/track/3rKtWI49zelWKvyejCaLLE) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [半熟理想](https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs) | 4:05 |
 
-Snapshot ID: `MCwxNmY5MGRhZjVhNDNjZmEzNDNjYTUzYmQ3YjQxYzJjYzBmNzRmZTU2`
+Snapshot ID: `MCxmYTQ1MTQ0ZTQyMDJjZTBkNjQwYWFlNGI1ODdhNjg4MjMzMDJkMjg0`

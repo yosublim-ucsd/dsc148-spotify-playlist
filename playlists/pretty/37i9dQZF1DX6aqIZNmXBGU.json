@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTZhMjBlYWQ1YzU2NDE1ZjFmZDMxZmNjMjhlNmYxYTE1Yzg4OTZl",
+  "snapshot_id": "MCwzOTM2NGFkM2Y5ZjA4M2E3Y2I1N2VkNGMzM2U5ZDM3MWY5ZDNkYjM1",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -959,18 +959,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Black Moon Spell",
-        "url": "https://open.spotify.com/album/0XOhWOI7URvE4SmmGLTYop"
+        "name": "Oddments",
+        "url": "https://open.spotify.com/album/480wRHoZ8rOqp34KYGbD1Z"
       },
       "artists": [
         {
-          "name": "King Tuff",
-          "url": "https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 293280,
-      "name": "Black Moon Spell",
-      "url": "https://open.spotify.com/track/6V3zT1j43wmQU8Mk2rT35K"
+      "duration_ms": 209011,
+      "name": "Hot Wax",
+      "url": "https://open.spotify.com/track/687yagvo8PZFbeY8ctz3vL"
     }
   ],
   "unique_name": "Sun & Surf",

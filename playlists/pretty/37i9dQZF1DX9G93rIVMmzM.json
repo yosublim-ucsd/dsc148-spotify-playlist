@@ -1,12 +1,12 @@
 {
   "description": "seduced in the shadows.",
-  "num_followers": 40258,
+  "num_followers": 40989,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGNlOTQwYWNiNDdmNmVjODA3MGQ1Y2Y5YTU5NTQ2YzljODViNzVh",
+  "snapshot_id": "MCw1OGIxZTNhOGI4NzJlMjI3MGNjNDc5YjQzMzgwYWNmMTAzYmQyYWQ5",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -87,38 +87,6 @@
       "duration_ms": 195133,
       "name": "Weak And Powerless",
       "url": "https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 227477,
-      "name": "Sun Killer",
-      "url": "https://open.spotify.com/track/2glEXDEzubpETiDRXfC4oX"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "Vermilion, Pt. 2",
-      "url": "https://open.spotify.com/track/0O7lENhqOySbsL743G7PqD"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -215,6 +183,22 @@
       "duration_ms": 304023,
       "name": "Chokehold",
       "url": "https://open.spotify.com/track/6lssX4zmdtDiTw3eJhTjyg"
+    },
+    {
+      "added_at": "2023-11-08 15:55:13",
+      "album": {
+        "name": "The Fear of Fear",
+        "url": "https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 248888,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/6qR5axxGIS7JORzaYM0YRs"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -363,22 +347,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "DISDAIN",
-        "url": "https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        }
-      ],
-      "duration_ms": 145333,
-      "name": "DISDAIN",
-      "url": "https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Zig",
         "url": "https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk"
       },
@@ -395,18 +363,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
+        "name": "DISDAIN",
+        "url": "https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO"
       },
       "artists": [
         {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
         }
       ],
-      "duration_ms": 215440,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h"
+      "duration_ms": 145333,
+      "name": "DISDAIN",
+      "url": "https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -423,22 +391,6 @@
       "duration_ms": 245346,
       "name": "snarky",
       "url": "https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r"
-    },
-    {
-      "added_at": "2023-11-06 20:48:58",
-      "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8"
-      },
-      "artists": [
-        {
-          "name": "Suzy Clue",
-          "url": "https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK"
-        }
-      ],
-      "duration_ms": 251818,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/2gd00D6APhLate8i83azYd"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -459,6 +411,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 215440,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Shed",
         "url": "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
       },
@@ -471,6 +439,38 @@
       "duration_ms": 154800,
       "name": "Safe In Your Skin",
       "url": "https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU"
+    },
+    {
+      "added_at": "2023-11-06 20:48:58",
+      "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8"
+      },
+      "artists": [
+        {
+          "name": "Suzy Clue",
+          "url": "https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK"
+        }
+      ],
+      "duration_ms": 251818,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/2gd00D6APhLate8i83azYd"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "Vermilion, Pt. 2",
+      "url": "https://open.spotify.com/track/0O7lENhqOySbsL743G7PqD"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -735,6 +735,22 @@
       "duration_ms": 241499,
       "name": "THE DEATH OF PEACE OF MIND",
       "url": "https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 227477,
+      "name": "Sun Killer",
+      "url": "https://open.spotify.com/track/2glEXDEzubpETiDRXfC4oX"
     },
     {
       "added_at": "2023-10-27 04:00:00",

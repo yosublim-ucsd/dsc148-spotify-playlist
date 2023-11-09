@@ -1,15 +1,47 @@
 {
   "description": "\uc9c0\uae08 \uad6d\ub0b4\uc5d0\uc11c \uac00\uc7a5 \ud56b\ud55c \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (\ucee4\ubc84: \uc81c\ub2c8)",
-  "num_followers": 40136,
+  "num_followers": 40560,
   "original_name": "\uc778\uae30\uac00\uc694 Hot Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2EwYjMyMjUxYWQyYzlhYjhlNGExMGVhZTM3ZWU2MmY0ZWJjMTU1",
+  "snapshot_id": "MCxiOGNlMDRjN2U4NmYwYzY1NzBlYTUyNzVlNWNkNDNjMGQ1OGU5ZTQ3",
   "tracks": [
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
+      "album": {
+        "name": "JENNIE Special Single [You & Me]",
+        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 179164,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
+    },
+    {
+      "added_at": "2023-11-08 06:15:15",
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
+    },
+    {
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
@@ -29,7 +61,7 @@
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
@@ -49,23 +81,23 @@
       "url": "https://open.spotify.com/track/5Avril3IZ26DPVFHbJX8o6"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
-        "name": "JENNIE Special Single [You & Me]",
-        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
         }
       ],
-      "duration_ms": 179164,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
+      "duration_ms": 206019,
+      "name": "Standing Next to You",
+      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Street Woman Fighter2 (SWF2) Class Mission",
         "url": "https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb"
@@ -85,7 +117,7 @@
       "url": "https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Love Lee",
         "url": "https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF"
@@ -101,7 +133,7 @@
       "url": "https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "GODS",
         "url": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs"
@@ -121,23 +153,7 @@
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
-      "album": {
-        "name": "I'VE MINE",
-        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "Baddie",
-      "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
-    },
-    {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
         "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
@@ -153,7 +169,119 @@
       "url": "https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
+      "album": {
+        "name": "Do or Die",
+        "url": "https://open.spotify.com/album/0vZCxyaV5c4lcHqds3xfts"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Do or Die",
+      "url": "https://open.spotify.com/track/21ewxM3YvcdTj7cC0XwznO"
+    },
+    {
+      "added_at": "2023-11-08 06:15:15",
+      "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "added_at": "2023-11-08 06:15:15",
+      "album": {
+        "name": "GAME PLAN",
+        "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 160578,
+      "name": "Fast Forward",
+      "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
+    },
+    {
+      "added_at": "2023-11-08 06:15:15",
+      "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+    },
+    {
+      "added_at": "2023-11-08 06:15:15",
+      "album": {
+        "name": "Off The Record",
+        "url": "https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 188733,
+      "name": "Off The Record",
+      "url": "https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit"
+    },
+    {
+      "added_at": "2023-11-08 06:15:15",
+      "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 151373,
+      "name": "ETA",
+      "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
+    },
+    {
+      "added_at": "2023-11-08 06:15:15",
+      "album": {
+        "name": "Talk Saxy",
+        "url": "https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 190941,
+      "name": "Talk Saxy",
+      "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"
+    },
+    {
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Life is Once",
         "url": "https://open.spotify.com/album/0P9J5KQksLJqjdwBlqVUP6"
@@ -177,103 +305,7 @@
       "url": "https://open.spotify.com/track/0zqGsExr8GxWqoaYaa78xU"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
-      "album": {
-        "name": "Do or Die",
-        "url": "https://open.spotify.com/album/0vZCxyaV5c4lcHqds3xfts"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Do or Die",
-      "url": "https://open.spotify.com/track/21ewxM3YvcdTj7cC0XwznO"
-    },
-    {
-      "added_at": "2023-10-29 16:44:55",
-      "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Super Shy",
-      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
-    },
-    {
-      "added_at": "2023-10-29 16:44:55",
-      "album": {
-        "name": "GAME PLAN",
-        "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 160578,
-      "name": "Fast Forward",
-      "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
-    },
-    {
-      "added_at": "2023-10-29 16:44:55",
-      "album": {
-        "name": "Off The Record",
-        "url": "https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 188733,
-      "name": "Off The Record",
-      "url": "https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit"
-    },
-    {
-      "added_at": "2023-10-29 16:44:55",
-      "album": {
-        "name": "NewJeans 2nd EP 'Get Up'",
-        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 151373,
-      "name": "ETA",
-      "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
-    },
-    {
-      "added_at": "2023-10-29 16:44:55",
-      "album": {
-        "name": "Talk Saxy",
-        "url": "https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 190941,
-      "name": "Talk Saxy",
-      "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"
-    },
-    {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
@@ -289,7 +321,7 @@
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Get A Guitar",
         "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
@@ -305,7 +337,7 @@
       "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
@@ -321,7 +353,7 @@
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Either Way",
         "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
@@ -337,7 +369,7 @@
       "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Vancouver 2",
         "url": "https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq"
@@ -353,7 +385,7 @@
       "url": "https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "NewJeans 2nd EP 'Get Up'",
         "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
@@ -369,7 +401,7 @@
       "url": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "I feel",
         "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG"
@@ -385,7 +417,7 @@
       "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
@@ -401,7 +433,7 @@
       "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Love Lee",
         "url": "https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF"
@@ -417,7 +449,7 @@
       "url": "https://open.spotify.com/track/6f4CAdAmrOfGH3FOfwHMSV"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -433,7 +465,7 @@
       "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Better Things",
         "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
@@ -449,7 +481,7 @@
       "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "WHY..",
         "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
@@ -465,23 +497,7 @@
       "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
-      "album": {
-        "name": "KISS OF LIFE",
-        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Sugarcoat (NATTY Solo)",
-      "url": "https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9"
-    },
-    {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "MY WORLD - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "SEVENTEEN 10th Mini Album 'FML'",
         "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "NewJeans 'OMG'",
         "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
@@ -613,7 +629,7 @@
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Ditto",
         "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "exp\u00e9rgo",
         "url": "https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2XAl1NxzmOcAgtXNwYjqWn"
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/2UrBX2cG7ZSnN2SbgspmtK"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Teddy Bear",
         "url": "https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "BSS 1st Single Album 'SECOND WIND'",
         "url": "https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "on the street (with J. Cole)",
         "url": "https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO"
@@ -801,7 +817,7 @@
       "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "5-STAR",
         "url": "https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
@@ -837,7 +853,7 @@
       "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
         "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
@@ -853,7 +869,7 @@
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
     },
     {
-      "added_at": "2023-10-29 16:44:55",
+      "added_at": "2023-11-08 06:15:15",
       "album": {
         "name": "I love",
         "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"

@@ -4,7 +4,7 @@
 
 > Hop in.
 
-330 songs - 21 hr 9 min
+331 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 4:22 | 2020-10-29\* | 2022-07-28 |
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 | 2022-07-03 |  |
 | [Evicted](https://open.spotify.com/track/2JW4rkz1XshjSVV4LES2RJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Evicted](https://open.spotify.com/album/2Exf1TaOG1wElBCKNDzWdz) | 3:29 | 2023-08-14 | 2023-09-05 |
-| [Evicted](https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 3:29 | 2023-09-29 |  |
+| [Evicted](https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 3:29 | 2023-09-29 | 2023-11-09 |
 | [Excuses](https://open.spotify.com/track/2ARB3fKvRkMGhAtZuTnE5J) | [The Morning Benders](https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD) | [Big Echo](https://open.spotify.com/album/4GGwYDNw2tNHbmK93bygqm) | 5:17 | 2021-01-15 | 2022-07-23 |
 | [Eyes](https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc) | 2:28 | 2022-09-02 |  |
 | [Eyes](https://open.spotify.com/track/3HQdwlovzULm18PjvlA5wz) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/1EYKQBjyYJr8zu9CHxgeI2) | 2:28 | 2020-10-29\* | 2022-07-29 |
@@ -227,6 +227,7 @@
 | [Put a Light On](https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V) | 3:44 | 2022-11-29 |  |
 | [Put a Light On](https://open.spotify.com/track/4ZFHITy0bAeZ3oFfvR0HaI) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/34oLvXQWydwd1KOqgL8UiE) | 3:46 | 2021-01-15 | 2022-11-25 |
 | [QB Sneak](https://open.spotify.com/track/15unSgWwOrLUUv8EhaXBij) | [Active Bird Community](https://open.spotify.com/artist/52atJIClJ4KZuYaIBLbNbH) | [QB Sneak](https://open.spotify.com/album/6hL4yMntwTQ53G2BUBkoTD) | 2:24 | 2021-01-27 | 2021-10-13 |
+| [Ragged Wood](https://open.spotify.com/track/2qvToeBdYliw6n0nEsKJQa) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 5:07 | 2023-09-29 |  |
 | [Ragged Wood](https://open.spotify.com/track/5gXF3XyUkM9BVA8QW7uYUg) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX) | 5:07 | 2021-01-15 | 2022-07-29 |
 | [Range Life](https://open.spotify.com/track/6lAZ7xfP9su2ZvGk1rRc3R) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Crooked Rain, Crooked Rain: LA's Desert Origins](https://open.spotify.com/album/4YqxiKEVG0OuwX0g2XWW99) | 4:54 | 2020-10-29\* | 2021-10-11 |
 | [Remember When](https://open.spotify.com/track/5naar7XewEOAjOywIp6Jjq) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:35 | 2022-09-27 | 2022-11-30 |

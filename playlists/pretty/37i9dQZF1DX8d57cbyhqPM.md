@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde\. 🌍 Photo: Ferre Gola
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,283 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,334 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 3 | [Boss](https://open.spotify.com/track/3HeBKfgNiFgor7SjzzX85S) | [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED), [Guccima](https://open.spotify.com/artist/5ZsfSFTF5DlQ8gRSe65Mhh) | [Boss](https://open.spotify.com/album/0wGVLoQ4igKEYOiTbMaEWr) | 3:16 |
 | 4 | [Petit génie](https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD) | 3:37 |
 | 5 | [Toye Mabe](https://open.spotify.com/track/6RwlvDzQ4fmeZwpE3z0k4E) | [NO VISA](https://open.spotify.com/artist/2PamGIWcpRSlioFt6OpXkp), [Spilulu](https://open.spotify.com/artist/0JXiPfPtSuON62oSTp4w7j), [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7) | [Toye Mabe](https://open.spotify.com/album/5HXawg742Wf07m3nR4ixwq) | 3:54 |
-| 6 | [Σ\. MOROSE](https://open.spotify.com/track/6kXuDZGyFZAJqqnUVQFuiT) | [welazikmu](https://open.spotify.com/artist/2909t5LQgRVIcZGrHZEHR0) | [FLAQ](https://open.spotify.com/album/49wfKKJSZ2S2HhOPKuIRal) | 4:23 |
+| 6 | [Σ\. MOROSE](https://open.spotify.com/track/5Zy87pKyQRlV2HIK8HZlAM) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/5Sb84P0BZuvCnYV0xJcNT1) | 4:23 |
 | 7 | [God Bless](https://open.spotify.com/track/5tFxDBCS5t0af9v9HiysLr) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 4:41 |
 | 8 | [Bokoko](https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Bokoko \(Extra Musica\)](https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6) | 4:12 |
 | 9 | [LAISSE MOI](https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LAISSE MOI](https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 74 | [Eloko](https://open.spotify.com/track/4OXLcfffBxIt4uqwjFVI9N) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [Eloko](https://open.spotify.com/album/21U2ZROxX0JQiR91RQjt67) | 3:24 |
 | 75 | [Solola bien](https://open.spotify.com/track/2DojN92dP5pBFCQK5YLGQJ) | [Wenge Musica Maison Mère](https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp) | [Maison mère](https://open.spotify.com/album/5M8p6oL21ngPA4E5lSIGbU) | 7:02 |
 
-Snapshot ID: `MCxmZTVjMzVmNzIwYThmOTIwMjM3ODkwNzhhZmFkNjA3Nzk1MjQ5ODg1`
+Snapshot ID: `MCxiZGVlM2E4M2Y4ZjdhZGQ5N2I3ZTRkZGFkNWI4Y2M4OGJiMjg2NTk2`

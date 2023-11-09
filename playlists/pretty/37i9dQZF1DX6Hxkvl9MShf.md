@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 
 > Melodic house and techno to concentrate the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,853 likes - 91 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,974 likes - 91 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 55 | [Melodic Mind](https://open.spotify.com/track/4vRHOvD3C0sESg8srdkunk) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Melodic Mind](https://open.spotify.com/album/6U1k2aJKB0xIeHXAeG52mS) | 5:09 |
 | 56 | [Beauty in Chaos](https://open.spotify.com/track/6yP5OEYCfYX5xldBO2MEVA) | [This Other Space](https://open.spotify.com/artist/6lhdbR7pr8RR29VgTh2lqT) | [To the Other Side](https://open.spotify.com/album/5o5mo6GTWRfGwssThNcnij) | 5:33 |
 | 57 | [Faded Memories \(Mixed\)](https://open.spotify.com/track/2TO4pqzHjdo6GlY0c9vCyb) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn) | [The Void](https://open.spotify.com/album/06m4CHg1X4D2PWi1n1I5uL) | 4:48 |
-| 58 | [Meds \- yuma\. Remix](https://open.spotify.com/track/3aIjxH92Y5thPmaJZV8EtZ) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [DISPOSABLE SOCIETY \(DELUXE\)](https://open.spotify.com/album/2ToPwhMJhWGPPr1JXY0f6H) | 3:27 |
+| 58 | [Meds \- yuma\. Remix](https://open.spotify.com/track/3aIjxH92Y5thPmaJZV8EtZ) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [DISPOSABLE SOCIETY \(DELUXE\)](https://open.spotify.com/album/2ToPwhMJhWGPPr1JXY0f6H) | 3:27 |
 | 59 | [Prickles and Goo](https://open.spotify.com/track/3anEkpGQT5hDxtPwtX4itO) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Prickles and Goo / Singing Swan](https://open.spotify.com/album/02HQv9kLC7kNf5jtcVP7mc) | 6:06 |
 | 60 | [Freedom \- Original Mix](https://open.spotify.com/track/6wVaytq9Ssa01nMhKJELWO) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [fabric presents Mind Against: Exclusives](https://open.spotify.com/album/4gyiwaMaa84mwDuDbTLEPi) | 4:43 |
 | 61 | [Off the radar](https://open.spotify.com/track/6LpCOSM7ti0RkktlPHPBbK) | [Martin Monroi](https://open.spotify.com/artist/4IB5E37eyDYzrP0nQPogaq) | [Off the radar](https://open.spotify.com/album/1KmL8xWaFnWAWMbistk5L6) | 2:12 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 90 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
 | 91 | [Discovery](https://open.spotify.com/track/5npj4pyFmLxaV7sl59tZVB) | [Can Yıldızay](https://open.spotify.com/artist/5z9s8EUJoZ0HcoRqNrlFNg) | [Discovery](https://open.spotify.com/album/5jxCiCAEmvRsXosoyQXjok) | 3:46 |
 
-Snapshot ID: `MCwzNzBjNDExNGQ1ZDkyOTQ4MDVjMjJlNzhkNWZmOThkNjIzNWI5MGRm`
+Snapshot ID: `MCw3YmU3OWQ0NThlMTUyMDNhNmVlNjQ0YTMzMzkzY2QzMDFmMTIzZDdm`

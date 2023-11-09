@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-588 songs - 1 day 1 hr 1 min
+589 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Looking Back](https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Looking Back](https://open.spotify.com/album/1z7dnB4fPpXGtPC1GON9rY) | 2:50 | 2022-06-07 | 2022-09-15 |
 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 | 2023-08-15 |  |
 | [Lost Nights](https://open.spotify.com/track/6nyxFKqmeUId9413dTb2Hb) | [Dana Leccia](https://open.spotify.com/artist/4ptl0i0yjT7UQ3seccQ484) | [Lost Nights](https://open.spotify.com/album/4eUA9CEYNwwBPLoK5VHmXP) | 2:34 | 2022-06-07 | 2023-08-23 |
+| [Lost to memories](https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Lost to memories](https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj) | 2:14 | 2023-11-08 |  |
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2022-06-07 | 2022-07-29 |
 | [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-07-19 |  |
 | [Love Letter](https://open.spotify.com/track/51urgUMQVk7EIRoNshc36C) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Love Letter](https://open.spotify.com/album/0osEXsR2retxEFOQi7kn6S) | 1:41 | 2023-02-06 | 2023-06-08 |
@@ -579,7 +580,7 @@
 | [Why Do We Change?](https://open.spotify.com/track/4UJ9CeB5TeQfHdhGvwYKnH) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Why Do We Change?](https://open.spotify.com/album/6UgPmbtXd16KezvPEqgILh) | 2:46 | 2022-06-07 | 2023-08-11 |
 | [Windows](https://open.spotify.com/track/2mfV2cjYcEnBmqjT1qih83) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Windows](https://open.spotify.com/album/4SiQ4V6EHnYTjvE5tcaN0j) | 2:21 | 2022-06-07 | 2022-09-24 |
 | [Winged Melancholy](https://open.spotify.com/track/5zz75ole7gzWU3YhOHgx4P) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Winged Melancholy](https://open.spotify.com/album/4XXfes67gExeafFINOtoPL) | 2:19 | 2022-06-07 | 2022-09-15 |
-| [Wish of the Progeny](https://open.spotify.com/track/1Lz6DNlm1D9T1qc2JbAwit) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:29 | 2022-06-07 |  |
+| [Wish of the Progeny](https://open.spotify.com/track/1Lz6DNlm1D9T1qc2JbAwit) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:29 | 2022-06-07 | 2023-11-09 |
 | [Wishes](https://open.spotify.com/track/1KnTw354jtQmDvA6b3Fvi0) | [Mewael Yemane](https://open.spotify.com/artist/0F2QkwRNLwkdDnsY0LIA1x) | [Wishes](https://open.spotify.com/album/0qcFUWhrhzdUn1F0bC46wU) | 1:38 | 2022-06-07 | 2023-07-25 |
 | [Wisteria Blue](https://open.spotify.com/track/2uDpyb11bwgMOqLQ1ZQ9E9) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Wisteria Blue](https://open.spotify.com/album/53Dsdz4bBI6oIzsRBNSTh0) | 2:27 | 2022-06-07 |  |
 | [Without A Care](https://open.spotify.com/track/0KDSZ4vJdSoZDDqPxbFEuh) | [Martin Fox](https://open.spotify.com/artist/6V7ZjMzGpdbdYCux5JdAyL) | [Without A Care](https://open.spotify.com/album/0ZGt6oyCLeO0sD3fR1ysKD) | 2:44 | 2022-06-07 |  |

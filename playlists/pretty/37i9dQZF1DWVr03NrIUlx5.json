@@ -1,12 +1,12 @@
 {
   "description": "8 bit bangers.",
-  "num_followers": 103125,
+  "num_followers": 103241,
   "original_name": "8 Bit Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWI5MGRkYzFjMTgzMThhYTFmM2ViMjY2NWFmNTgxYTZlYjdlMzBk",
+  "snapshot_id": "MCxmYmFiMTEzZGJhNDAxZWU4ZWU2NTRjZGQ0MGJmNGRmZjM5N2ZiNjIx",
   "tracks": [
     {
       "added_at": "2022-09-30 05:34:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Dreaming In 8 Bit",
-        "url": "https://open.spotify.com/album/4yuqVZdbsyZrMnXRwqI0oW"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Schroeder",
-          "url": "https://open.spotify.com/artist/2MLypapYfbqYI5sfyVRdky"
-        }
-      ],
-      "duration_ms": 231588,
-      "name": "Cool Kids (8 Bit)",
-      "url": "https://open.spotify.com/track/108TitKiKNRVIkeliSK5GM"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "7 Rings (8-Bit Version)",
         "url": "https://open.spotify.com/album/4YhTjy4o5rOTczZixykftv"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 178273,
       "name": "7 Rings - 8-Bit Version",
       "url": "https://open.spotify.com/track/4uPLyaHq5ZnLuEVGZcfNKv"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "Dreaming In 8 Bit",
+        "url": "https://open.spotify.com/album/4yuqVZdbsyZrMnXRwqI0oW"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Schroeder",
+          "url": "https://open.spotify.com/artist/2MLypapYfbqYI5sfyVRdky"
+        }
+      ],
+      "duration_ms": 231588,
+      "name": "Cool Kids (8 Bit)",
+      "url": "https://open.spotify.com/track/108TitKiKNRVIkeliSK5GM"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Senorita (8-Bit Version)",
-        "url": "https://open.spotify.com/album/7i1dOfOhuycYD0Fh56Q6K0"
+        "name": "Life in 8 Bit",
+        "url": "https://open.spotify.com/album/2mvpFiWBrD3l6y5kXGMM4o"
       },
       "artists": [
         {
-          "name": "8-bit Flip",
-          "url": "https://open.spotify.com/artist/31BceWFvPscpDOmFhIPQ2P"
+          "name": "Benjamin Schroeder",
+          "url": "https://open.spotify.com/artist/2MLypapYfbqYI5sfyVRdky"
         }
       ],
-      "duration_ms": 196951,
-      "name": "Senorita - 8-Bit Version",
-      "url": "https://open.spotify.com/track/2Mb77YikcZ2oeCJKrKjPGm"
+      "duration_ms": 246329,
+      "name": "The Hills (8 Bit)",
+      "url": "https://open.spotify.com/track/6o1ssW7amUKXbXZXbGJsTu"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Life in 8 Bit",
-        "url": "https://open.spotify.com/album/2mvpFiWBrD3l6y5kXGMM4o"
+        "name": "Senorita (8-Bit Version)",
+        "url": "https://open.spotify.com/album/7i1dOfOhuycYD0Fh56Q6K0"
       },
       "artists": [
         {
-          "name": "Benjamin Schroeder",
-          "url": "https://open.spotify.com/artist/2MLypapYfbqYI5sfyVRdky"
+          "name": "8-bit Flip",
+          "url": "https://open.spotify.com/artist/31BceWFvPscpDOmFhIPQ2P"
         }
       ],
-      "duration_ms": 246329,
-      "name": "The Hills (8 Bit)",
-      "url": "https://open.spotify.com/track/6o1ssW7amUKXbXZXbGJsTu"
+      "duration_ms": 196951,
+      "name": "Senorita - 8-Bit Version",
+      "url": "https://open.spotify.com/track/2Mb77YikcZ2oeCJKrKjPGm"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
+        "name": "Life in 8 Bit",
+        "url": "https://open.spotify.com/album/2mvpFiWBrD3l6y5kXGMM4o"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Schroeder",
+          "url": "https://open.spotify.com/artist/2MLypapYfbqYI5sfyVRdky"
+        }
+      ],
+      "duration_ms": 190886,
+      "name": "Drag Me Down (8 Bit)",
+      "url": "https://open.spotify.com/track/4nanieJKGPcyUWgTwCGwk5"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
         "name": "8 Bit Dynasty",
         "url": "https://open.spotify.com/album/5OqBkQMrWzGEYFE6fhjrhJ"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 284944,
       "name": "Karma Police",
       "url": "https://open.spotify.com/track/6IVwzEF3ytrgYnqouyrM1J"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
-        "name": "Life in 8 Bit",
-        "url": "https://open.spotify.com/album/2mvpFiWBrD3l6y5kXGMM4o"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Schroeder",
-          "url": "https://open.spotify.com/artist/2MLypapYfbqYI5sfyVRdky"
-        }
-      ],
-      "duration_ms": 190886,
-      "name": "Drag Me Down (8 Bit)",
-      "url": "https://open.spotify.com/track/4nanieJKGPcyUWgTwCGwk5"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "8-Bit Versions of Queen",
-        "url": "https://open.spotify.com/album/1BUP3E3dL2AIFofpXV4umQ"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Misfits",
-          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
-        }
-      ],
-      "duration_ms": 338873,
-      "name": "Bohemian Rhapsody",
-      "url": "https://open.spotify.com/track/0Fj5KBQsHdeaKG8fJAyIWt"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "8-Bit Universe, Vol. 14",
         "url": "https://open.spotify.com/album/39cvCh6jfHDGfkrOAS1aOM"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 217245,
       "name": "Shake It Off - 8-Bit Version",
       "url": "https://open.spotify.com/track/6SGKOA0LzHTtZBue2RfaqF"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "8-Bit Versions of Queen",
+        "url": "https://open.spotify.com/album/1BUP3E3dL2AIFofpXV4umQ"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+        }
+      ],
+      "duration_ms": 338873,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/0Fj5KBQsHdeaKG8fJAyIWt"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Covered in 8 Bits",
-        "url": "https://open.spotify.com/album/4p17oi4kgKSwOEdAKReA0p"
-      },
-      "artists": [
-        {
-          "name": "8 Bit Universe",
-          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
-        }
-      ],
-      "duration_ms": 193875,
-      "name": "Bad Guy (8 Bit Version)",
-      "url": "https://open.spotify.com/track/70OF84RkZcbbFFG1OOc3uR"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "8-Bit Versions of Michael Jackson",
         "url": "https://open.spotify.com/album/72muLXH22HNmlYPdQRLsVO"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 206500,
       "name": "What I've Done",
       "url": "https://open.spotify.com/track/1QPqTG2MhhMJsXVfezJriJ"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "Covered in 8 Bits",
+        "url": "https://open.spotify.com/album/4p17oi4kgKSwOEdAKReA0p"
+      },
+      "artists": [
+        {
+          "name": "8 Bit Universe",
+          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
+        }
+      ],
+      "duration_ms": 193875,
+      "name": "Bad Guy (8 Bit Version)",
+      "url": "https://open.spotify.com/track/70OF84RkZcbbFFG1OOc3uR"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
+        "name": "8-Bit Versions of Metallica",
+        "url": "https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+        }
+      ],
+      "duration_ms": 272400,
+      "name": "One",
+      "url": "https://open.spotify.com/track/7dt3M5XtCreAQzRRIMZFNZ"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
         "name": "Program the Party",
         "url": "https://open.spotify.com/album/0YXTQKfMIT9bl4tQCyEa4O"
       },
@@ -1611,34 +1627,22 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Drippin with Chips",
-        "url": "https://open.spotify.com/album/6f0WuYg6qnztdDGNhvan49"
+        "name": "8 Bit Joyride",
+        "url": "https://open.spotify.com/album/6nBRHZwQ97d5UgRzhNLqxV"
       },
       "artists": [
         {
-          "name": "8 Bit Universe",
-          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
-        }
-      ],
-      "duration_ms": 186063,
-      "name": "Bury a Friend (8 Bit Version)",
-      "url": "https://open.spotify.com/track/2x689XEA8XF1sjnoACAl6Y"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
-        "name": "8-Bit Versions of Metallica",
-        "url": "https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S"
-      },
-      "artists": [
+          "name": "Benjamin Schroeder",
+          "url": "https://open.spotify.com/artist/2MLypapYfbqYI5sfyVRdky"
+        },
         {
-          "name": "8-Bit Misfits",
-          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+          "name": "N/A",
+          "url": "https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40"
         }
       ],
-      "duration_ms": 272400,
-      "name": "One",
-      "url": "https://open.spotify.com/track/7dt3M5XtCreAQzRRIMZFNZ"
+      "duration_ms": 230479,
+      "name": "Daddy (8 Bit Version)",
+      "url": "https://open.spotify.com/track/1Ufv5r4wrDzQp4axftrIbD"
     }
   ],
   "unique_name": "8 Bit Hits",

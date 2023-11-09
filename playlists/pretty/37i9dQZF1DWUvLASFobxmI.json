@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Primos del Este en portada.",
-  "num_followers": 429112,
+  "num_followers": 429224,
   "original_name": "Norte\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2Y0ODI0YjMzMzlkMmQzNjVlYmNiMTljZTljZjA1NmI3YTQ2NmU2",
+  "snapshot_id": "MCw1ZWI0ZjIxYjJjMGE2ZDk0MDk1MzNkODA5N2I0MTMxMzY3OTAwYjBk",
   "tracks": [
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "Vive Y Dejame Vivir",
         "url": "https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 175511,
       "name": "El H",
       "url": "https://open.spotify.com/track/6cGFQKwBZomwMQMiKf48ny"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "LALA",
-        "url": "https://open.spotify.com/album/7CNQuFMI9yYy8dHkPx9Y13"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 191213,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/4l2yplVehb4oiQ5qS5XCQc"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "No",
         "url": "https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 212915,
       "name": "Enloquecido",
       "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
+        "name": "LALA",
+        "url": "https://open.spotify.com/album/7CNQuFMI9yYy8dHkPx9Y13"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 191213,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/4l2yplVehb4oiQ5qS5XCQc"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Se Me Solt\u00f3 El Hocico",
-        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Se Me Solt\u00f3 El Hocico",
-      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "Las Ag\u00fcitas",
         "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Qu\u00e9 Guapo Estoy",
-        "url": "https://open.spotify.com/album/74bZsilu1tQq5V5VaoyqVl"
+        "name": "Se Me Solt\u00f3 El Hocico",
+        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 161332,
-      "name": "Qu\u00e9 Guapo Estoy",
-      "url": "https://open.spotify.com/track/3shsSGDlpSsll8rna0hSjt"
+      "duration_ms": 175319,
+      "name": "Se Me Solt\u00f3 El Hocico",
+      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1543,6 +1527,22 @@
       "duration_ms": 246251,
       "name": "La Loca (En Vivo)",
       "url": "https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
+        "name": "Qu\u00e9 Guapo Estoy",
+        "url": "https://open.spotify.com/album/74bZsilu1tQq5V5VaoyqVl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 161332,
+      "name": "Qu\u00e9 Guapo Estoy",
+      "url": "https://open.spotify.com/track/3shsSGDlpSsll8rna0hSjt"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
+        "name": "Con Una Mirada",
+        "url": "https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 201898,
+      "name": "Con Una Mirada",
+      "url": "https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 245915,
       "name": "Blindajes Pe\u00f1a (En Vivo)",
       "url": "https://open.spotify.com/track/6SmiLHeSXnURc3R5dc2CYp"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
-        "name": "Con Una Mirada",
-        "url": "https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 201898,
-      "name": "Con Una Mirada",
-      "url": "https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
+        "name": "Trilog\u00eda, Vol. 2",
+        "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 157645,
+      "name": "Un Amor Bonito",
+      "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
         "name": "B\u00e9lica Como Ninguna",
         "url": "https://open.spotify.com/album/2kEeiftlpYDuSfRmlwCh1K"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 141386,
       "name": "B\u00e9lica Como Ninguna",
       "url": "https://open.spotify.com/track/59XObm1gFYaUOdzsg0QApT"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
-        "name": "Trilog\u00eda, Vol. 2",
-        "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 157645,
-      "name": "Un Amor Bonito",
-      "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Obsesi\u00f3n",
-        "url": "https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 152448,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "Pobre Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4rJVWswYNiKmh9HVB3WXxd"
       },
@@ -2023,22 +2007,18 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Nada De Nada",
-        "url": "https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK"
+        "name": "Obsesi\u00f3n",
+        "url": "https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY"
       },
       "artists": [
         {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 181600,
-      "name": "Nada De Nada",
-      "url": "https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU"
+      "duration_ms": 152448,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -2063,6 +2043,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 232801,
+      "name": "Solo un D\u00eda - En Vivo",
+      "url": "https://open.spotify.com/track/79Y1VEAg69qr6BZaEewcsF"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq"
       },
@@ -2079,18 +2075,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
-        "url": "https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4"
+        "name": "Nada De Nada",
+        "url": "https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 232801,
-      "name": "Solo un D\u00eda - En Vivo",
-      "url": "https://open.spotify.com/track/79Y1VEAg69qr6BZaEewcsF"
+      "duration_ms": 181600,
+      "name": "Nada De Nada",
+      "url": "https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
+        "name": "Pap\u00e1 Mundo",
+        "url": "https://open.spotify.com/album/2cVrh5er4TOD47uUn6bRLA"
+      },
+      "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "duration_ms": 185735,
+      "name": "Pap\u00e1 Mundo",
+      "url": "https://open.spotify.com/track/5NttWarP12vtmBUYB6gfwy"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 335634,
       "name": "Retropopurr\u00ed (Calles Enlodadas, Pase Y Pase, Dos Pajaritos) (En Vivo)",
       "url": "https://open.spotify.com/track/08NvjgDsn0n0gIFbT3W436"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
-        "name": "Pap\u00e1 Mundo",
-        "url": "https://open.spotify.com/album/2cVrh5er4TOD47uUn6bRLA"
-      },
-      "artists": [
-        {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
-        }
-      ],
-      "duration_ms": 185735,
-      "name": "Pap\u00e1 Mundo",
-      "url": "https://open.spotify.com/track/5NttWarP12vtmBUYB6gfwy"
     },
     {
       "added_at": "2023-10-21 07:06:11",

@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene.
 
-287 songs - 12 hr 14 min
+288 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Black Clover](https://open.spotify.com/track/40hSfhLVRH8Unwiwk16WIA) | [HazTik](https://open.spotify.com/artist/6xZtfGoy2JCGqSUPdAUHbX) | [Black Clover](https://open.spotify.com/album/7JVokvPC8GQTmoDNHRvhpL) | 2:05 | 2022-05-25 | 2022-07-25 |
 | [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 | 2022-06-10 | 2023-09-30 |
 | [Blind Boy](https://open.spotify.com/track/0gqhiqBWmcXDrUiThfJmgf) | [Earl Stan](https://open.spotify.com/artist/3eCkVzIeYAyuPkVNoCKyUL) | [Blind Boy](https://open.spotify.com/album/7d0A9KYIGrTGoGbxMi6D4M) | 2:00 | 2022-05-25 | 2022-07-29 |
-| [Blood \(Alucard Rap\)](https://open.spotify.com/track/2deb24yUrqgOVwGJjaIaYp) | [Rustage](https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H), [TOPHAMHAT\-KYO](https://open.spotify.com/artist/2QGB8HqesnKeA5gcLJ0hiZ) | [Blood \(Alucard Rap\)](https://open.spotify.com/album/6qeRZqsdSTULbT0g2ihOoZ) | 3:17 | 2023-07-13 |  |
+| [Blood \(Alucard Rap\)](https://open.spotify.com/track/2deb24yUrqgOVwGJjaIaYp) | [Rustage](https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H), [TOPHAMHAT\-KYO](https://open.spotify.com/artist/2QGB8HqesnKeA5gcLJ0hiZ) | [Blood \(Alucard Rap\)](https://open.spotify.com/album/6qeRZqsdSTULbT0g2ihOoZ) | 3:17 | 2023-07-13 | 2023-11-09 |
 | [blood+ \(feat\. Witchouse 40k\)](https://open.spotify.com/track/2TL8BUI18wZJHlApaa9mex) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [in my restless dreams, i see you](https://open.spotify.com/album/3lKy1Ddnt6Jov2ALre3Cao) | 2:21 | 2023-09-29 |  |
 | [blood+ \(feat\. Witchouse 40k\)](https://open.spotify.com/track/4x6x2hydT6wyXfaP2u4DuE) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [in my restless dreams, i see you](https://open.spotify.com/album/5YlMDbNU9agz8VY656cNii) | 2:21 | 2023-09-29 | 2023-11-05 |
 | [Bluebird](https://open.spotify.com/track/09NzUAxEYgwlzlsx0z0Om7) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Bluebird](https://open.spotify.com/album/7F1O7eIMsLzwpLVcRMe9ka) | 3:34 | 2022-05-25 | 2022-07-29 |
@@ -102,6 +102,7 @@
 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 | 2023-07-13 |  |
 | [Gxth B!tch](https://open.spotify.com/track/47waplZLdcwNwtVUtQI9h8) | [Live Solum](https://open.spotify.com/artist/24wU3BBK0ZKIiSZq3zi9ZV) | [Gxth B!tch](https://open.spotify.com/album/6l54NDbgveDA1Lboi9xoBd) | 1:56 | 2022-06-10 | 2022-11-10 |
 | [Hands up!](https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Sassy Scene](https://open.spotify.com/album/5jBSw53XwT6G0slLxKSZLl) | 2:15 | 2023-09-15 | 2023-11-06 |
+| [Hands up!](https://open.spotify.com/track/6nH7G7zImTcBpqRMIPeHLK) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Sassy Scene](https://open.spotify.com/album/5kFLrTEOfgL2rMYMTxRrNC) | 2:15 | 2023-09-26 |  |
 | [Hatchback](https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Benbow Crescent](https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF) | 2:29 | 2022-05-25 |  |
 | [hate if ur mad \(● ˃̶͈̀ロ˂̶͈́\)੭ꠥ⁾⁾](https://open.spotify.com/track/58o6AY4WfMsGlVrpfsbtGs) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [hate if ur mad \(● ˃̶͈̀ロ˂̶͈́\)੭ꠥ⁾⁾](https://open.spotify.com/album/63heSQkoOwkxslMsR623dg) | 2:23 | 2022-09-23 | 2022-09-30 |
 | [Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hate.](https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV) | 2:14 | 2023-02-17 |  |

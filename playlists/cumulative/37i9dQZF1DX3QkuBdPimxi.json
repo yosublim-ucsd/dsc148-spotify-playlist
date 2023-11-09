@@ -515,6 +515,28 @@
     },
     {
       "album": {
+        "name": "Sesame Street: Platinum All-Time Favorites",
+        "url": "https://open.spotify.com/album/6o4ggCb797BhBa54pSqJzI"
+      },
+      "artists": [
+        {
+          "name": "Ernie",
+          "url": "https://open.spotify.com/artist/1qkEx9YPevCOQhazUZK1bJ"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142493,
+      "name": "I Don't Want to Live on the Moon",
+      "url": "https://open.spotify.com/track/0mAvUQlQeqpCtvX7W6RmC2"
+    },
+    {
+      "album": {
         "name": "A Rocket to the Moon",
         "url": "https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK"
       },
@@ -808,7 +830,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 88760,
       "name": "Mikey the Marsian",
       "url": "https://open.spotify.com/track/4EyzNFEd8U2fKUyEYOB45N"
@@ -1345,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "Under the Table and Dreaming (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0SeRWS3scHWplJhMppd6rJ"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291640,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/2BjUvisO4UVAtTHs4lYiqu"
+    },
+    {
+      "album": {
         "name": "For The Kids Three",
         "url": "https://open.spotify.com/album/1Dr9Qai7RQUBTtqLrJDo2A"
       },
@@ -1450,6 +1490,24 @@
       "duration_ms": 190880,
       "name": "Space Mountain - From \"Space Mountain\"",
       "url": "https://open.spotify.com/track/3ORWL1CHflFhOVxd7FJoi1"
+    },
+    {
+      "album": {
+        "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
+        "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318026,
+      "name": "Space Oddity - 2015 Remaster",
+      "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
     },
     {
       "album": {

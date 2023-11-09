@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-320 songs - 21 hr 54 min
+321 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Fine Brown Frame](https://open.spotify.com/track/0kkdbmP7KeI7d9akdryPmU) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/6VHzJNiSLGXkXw9NzY9GGX) | 3:16 | 2023-05-30 |  |
 | [Fine Brown Frame](https://open.spotify.com/track/6pYeOeWKMODk6lpyCfSiFN) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Fine Brown Frame](https://open.spotify.com/album/6nPUg45JLv3xKxAXVfeD6B) | 3:20 | 2022-06-28 | 2023-04-19 |
 | [Five Feet Tall](https://open.spotify.com/track/3Td12QdISvxCc924l70f8n) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Black Acid Soul](https://open.spotify.com/album/50rbF4FiainFjqW5wWIASV) | 3:20 | 2022-01-20 | 2023-11-04 |
+| [Five Feet Tall](https://open.spotify.com/track/07vEpZ3j37sDZN0Pmy2tsd) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Black Acid Soul](https://open.spotify.com/album/1FIfikFt7bZQb2Y23YEyDY) | 3:20 | 2023-10-25 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Shadow Of Your Smile](https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9) | 2:22 | 2022-01-20 | 2022-08-30 |
 | [For All We Know](https://open.spotify.com/track/2nixpMsReC7Pwwfanpk7IZ) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [For All We Know](https://open.spotify.com/album/7ox83NOG8GAo9qGavP8aQb) | 2:53 | 2022-02-24 | 2022-07-29 |
 | [For All We Know](https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 2:53 | 2022-07-14 | 2023-11-04 |
@@ -180,7 +181,7 @@
 | [L\-O\-V\-E](https://open.spotify.com/track/70gk9Y6aKEdWiASuu59T7Q) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd) | 2:08 | 2022-01-20 | 2022-07-29 |
 | [La vie en rose \(feat\. Cécile McLorin Salvant\)](https://open.spotify.com/track/1QELw50Dl95LusF6uOkDqk) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:49 | 2022-01-20 | 2022-06-01 |
 | [Language of Love \(Version with Orchestra\)](https://open.spotify.com/track/22hByVCjdms7oeWe3SgxL8) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language of Love \(Version with Orchestra\)](https://open.spotify.com/album/4sQ9xawfO2mAMnZ25hz2o0) | 4:08 | 2022-02-11 |  |
-| [Lazy Afternoon](https://open.spotify.com/track/2eLtQAYHNzglYKH2nGaBrn) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [Lazy Afternoon](https://open.spotify.com/album/2yH09Pu2HzYcIq4hrC9vwL) | 5:03 | 2023-10-25 |  |
+| [Lazy Afternoon](https://open.spotify.com/track/2eLtQAYHNzglYKH2nGaBrn) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [Lazy Afternoon](https://open.spotify.com/album/2yH09Pu2HzYcIq4hrC9vwL) | 5:03 | 2023-10-25 | 2023-11-09 |
 | [Let's Do It](https://open.spotify.com/track/67fFApZyHZ9LjsvkUQJShY) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/1B9CLt71zBlS87qDLXqcqQ) | 3:05 | 2022-01-20 | 2022-07-29 |
 | [Let's Do It](https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:05 | 2022-07-14 |  |
 | [Let's Fall in Love](https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [That Towering Feeling](https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos) | 1:58 | 2022-01-20 | 2023-08-26 |

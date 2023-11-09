@@ -1,12 +1,12 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 66861,
+  "num_followers": 66938,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGUzZDkyNmQ3ZGU4OTExNjA4NzEzYzEzZGMwYThiOWY5ZTlhMDA1",
+  "snapshot_id": "MCwxNjJkMjZiYTAyYTlkODI3MjM5MmY1OGMwYzQ3OGJmZWZiZTI0ZWVk",
   "tracks": [
     {
       "added_at": "2022-08-05 05:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "La Culebritica Guaracha",
-        "url": "https://open.spotify.com/album/0yIlDGzFCcM5LSCcJmvTf7"
-      },
-      "artists": [
-        {
-          "name": "DjMarcosIxtapanDeLaSal",
-          "url": "https://open.spotify.com/artist/2zCnj0m27R3to05GcUBsX5"
-        }
-      ],
-      "duration_ms": 220238,
-      "name": "La Culebritica Guaracha",
-      "url": "https://open.spotify.com/track/1FDDgSbicx6zDIciu8CuBk"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Siento",
         "url": "https://open.spotify.com/album/2buLINyvSP9CBHWvkpHusG"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 277565,
       "name": "Saxofon",
       "url": "https://open.spotify.com/track/7srKZVPwjXOy1ukLyVtaAL"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Noches de Soledad",
+        "url": "https://open.spotify.com/album/0pzTO3npRc2nVqQCKaLB1M"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cardona",
+          "url": "https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Noches de Soledad",
+      "url": "https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y"
     },
     {
       "added_at": "2023-01-20 06:00:00",
@@ -235,18 +235,22 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Noches de Soledad",
-        "url": "https://open.spotify.com/album/0pzTO3npRc2nVqQCKaLB1M"
+        "name": "El Ritmo Fa",
+        "url": "https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z"
       },
       "artists": [
         {
-          "name": "Santiago Cardona",
-          "url": "https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk"
+          "name": "DJ kLazH",
+          "url": "https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo"
+        },
+        {
+          "name": "Dj Kury",
+          "url": "https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS"
         }
       ],
-      "duration_ms": 218920,
-      "name": "Noches de Soledad",
-      "url": "https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y"
+      "duration_ms": 323076,
+      "name": "El Ritmo Fa",
+      "url": "https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ"
     },
     {
       "added_at": "2023-01-20 06:00:00",
@@ -275,22 +279,18 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "El Ritmo Fa",
-        "url": "https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z"
+        "name": "Los Reyes del Tribal",
+        "url": "https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF"
       },
       "artists": [
         {
-          "name": "DJ kLazH",
-          "url": "https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo"
-        },
-        {
-          "name": "Dj Kury",
-          "url": "https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS"
+          "name": "El Pel\u00f3n del Mikrophone",
+          "url": "https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw"
         }
       ],
-      "duration_ms": 323076,
-      "name": "El Ritmo Fa",
-      "url": "https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ"
+      "duration_ms": 194493,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/1zZakVmfBR7AkepHwBCWZ7"
     },
     {
       "added_at": "2023-06-09 02:11:02",
@@ -327,22 +327,6 @@
       "duration_ms": 156401,
       "name": "Dame",
       "url": "https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "Los Reyes del Tribal",
-        "url": "https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF"
-      },
-      "artists": [
-        {
-          "name": "El Pel\u00f3n del Mikrophone",
-          "url": "https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw"
-        }
-      ],
-      "duration_ms": 194493,
-      "name": "Celosa",
-      "url": "https://open.spotify.com/track/1zZakVmfBR7AkepHwBCWZ7"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -623,30 +607,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Imag\u00ednate",
-        "url": "https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "CID MX",
-          "url": "https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx"
-        },
-        {
-          "name": "TBX",
-          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "Imag\u00ednate",
-      "url": "https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Ya Se Tardaron",
         "url": "https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm"
       },
@@ -667,6 +627,30 @@
       "duration_ms": 175652,
       "name": "Ya Se Tardaron",
       "url": "https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "CID MX",
+          "url": "https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx"
+        },
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+        }
+      ],
+      "duration_ms": 157142,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -719,22 +703,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Pompi Cadera",
-        "url": "https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD"
-      },
-      "artists": [
-        {
-          "name": "Erick Rincon",
-          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
-        }
-      ],
-      "duration_ms": 140720,
-      "name": "Pompi Cadera",
-      "url": "https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Bao Bao",
         "url": "https://open.spotify.com/album/1FuElQORi4fKKJdzRESi9n"
       },
@@ -759,22 +727,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Pasito Chacalon",
-        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Pasito Chacalon",
-      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "NEAS DON'T CRY",
         "url": "https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD"
       },
@@ -795,6 +747,38 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
+        "name": "Pompi Cadera",
+        "url": "https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD"
+      },
+      "artists": [
+        {
+          "name": "Erick Rincon",
+          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
+        }
+      ],
+      "duration_ms": 140720,
+      "name": "Pompi Cadera",
+      "url": "https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Pasito Chacalon",
+        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Pasito Chacalon",
+      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1"
       },
@@ -807,22 +791,6 @@
       "duration_ms": 181818,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/7cO56Ywy5ddith2FRPTaM6"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "Generaci\u00f3n Tribal",
-        "url": "https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh"
-      },
-      "artists": [
-        {
-          "name": "Erick Rincon",
-          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Tierra Azteca (Azteks In Berl\u00edn)",
-      "url": "https://open.spotify.com/track/4hb66oTKdC2KrJaRgthbCo"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -863,22 +831,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Terror, Ep. 2",
-        "url": "https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2"
-      },
-      "artists": [
-        {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
-        }
-      ],
-      "duration_ms": 145145,
-      "name": "Vibora",
-      "url": "https://open.spotify.com/track/5KICj0zW5ZvAarj52tcEIF"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Zapatear",
         "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
       },
@@ -891,6 +843,22 @@
       "duration_ms": 162049,
       "name": "Zapatear",
       "url": "https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Terror, Ep. 2",
+        "url": "https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2"
+      },
+      "artists": [
+        {
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        }
+      ],
+      "duration_ms": 145145,
+      "name": "Vibora",
+      "url": "https://open.spotify.com/track/5KICj0zW5ZvAarj52tcEIF"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -923,6 +891,22 @@
       "duration_ms": 142514,
       "name": "Baila Conmigo (feat. Kelly Ruiz) - Alan Rosales & TBX Remix",
       "url": "https://open.spotify.com/track/58sJHwuNOrGWfKtwwUmrOI"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Generaci\u00f3n Tribal",
+        "url": "https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh"
+      },
+      "artists": [
+        {
+          "name": "Erick Rincon",
+          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Tierra Azteca (Azteks In Berl\u00edn)",
+      "url": "https://open.spotify.com/track/4hb66oTKdC2KrJaRgthbCo"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -971,6 +955,26 @@
       "duration_ms": 184146,
       "name": "Sheeqo, Get Loose",
       "url": "https://open.spotify.com/track/0kAQ4h2COEfGZCTu5KYOaK"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Brindemos Por Ellas",
+        "url": "https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        },
+        {
+          "name": "Baby Joss",
+          "url": "https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn"
+        }
+      ],
+      "duration_ms": 208146,
+      "name": "Brindemos Por Ellas",
+      "url": "https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2"
     }
   ],
   "unique_name": "Fiesta Tribal",

@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road. ",
-  "num_followers": 75928,
+  "num_followers": 75939,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWJhM2MxMjdiYWI1MjMzM2JjY2Y5YWJhNTZlYzUwODFmMzYxYTc2",
+  "snapshot_id": "MCxhNjlkMzRjNDZhNjg0ODA3MzA1MmI1YWFmYjIzYWY3ODk4YWY0YzFm",
   "tracks": [
     {
       "added_at": "2023-10-27 04:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "Building a Mystery",
-      "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Landmines",
         "url": "https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 175767,
       "name": "Landmines",
       "url": "https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "Building a Mystery",
+      "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Driving",
-        "url": "https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e"
-      },
-      "artists": [
-        {
-          "name": "Tyler Shaw",
-          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Born on a Pirate Ship (Enhanced Edition)",
         "url": "https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 209960,
       "name": "The Old Apartment",
       "url": "https://open.spotify.com/track/5HjviQMuDBIvcyNXJtka23"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Driving",
+        "url": "https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Navy Blues",
-        "url": "https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6"
-      },
-      "artists": [
-        {
-          "name": "Sloan",
-          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
-        }
-      ],
-      "duration_ms": 233916,
-      "name": "Money City Maniacs",
-      "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "A Blemish in the Great Light",
         "url": "https://open.spotify.com/album/0mW3Hyde2wbKVTSYPhYF2Q"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 297573,
       "name": "Flesh and Blood",
       "url": "https://open.spotify.com/track/5JNQ5leQ1NEZFHQxlojjBt"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Navy Blues",
+        "url": "https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6"
+      },
+      "artists": [
+        {
+          "name": "Sloan",
+          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
+        }
+      ],
+      "duration_ms": 233916,
+      "name": "Money City Maniacs",
+      "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"
     },
     {
       "added_at": "2023-10-27 04:01:00",

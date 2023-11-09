@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 938498,
+  "num_followers": 938559,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGRiNmEwY2I5MzNjYzBiY2I5MWEyMDQ1OGViNmY2ZTE1MTc1MDkx",
+  "snapshot_id": "MCw3M2NiMzc2Yjk2MTk3Zjg4Yzc0MjgzMDhlYzc4MGQ1ZjAwMTQ2ODRk",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -27,8 +27,8 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "One Chance (feat. Marlhy)",
-        "url": "https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu"
+        "name": "One Chance",
+        "url": "https://open.spotify.com/album/4whZCf4KZinQmHApTpVCn9"
       },
       "artists": [
         {
@@ -45,8 +45,8 @@
         }
       ],
       "duration_ms": 220952,
-      "name": "One Chance (feat. Marlhy)",
-      "url": "https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd"
+      "name": "One Chance",
+      "url": "https://open.spotify.com/track/1rFjOggo1LDoT6wqX41baU"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -615,8 +615,8 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Still Cutting Shapes",
-        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
+        "name": "2 Things",
+        "url": "https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 148571,
-      "name": "Still Cutting Shapes",
-      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
+      "duration_ms": 191250,
+      "name": "2 Things",
+      "url": "https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Club Romantech",
-        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 167362,
-      "name": "Stick Your Tongue Out",
-      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Lipstick (feat. Robbie Rise)",
         "url": "https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Club Romantech",
+        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 167362,
+      "name": "Stick Your Tongue Out",
+      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Backseat Tape",
         "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
       },
@@ -783,8 +783,8 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "2 Things",
-        "url": "https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S"
+        "name": "Still Cutting Shapes",
+        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 191250,
-      "name": "2 Things",
-      "url": "https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"
+      "duration_ms": 148571,
+      "name": "Still Cutting Shapes",
+      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Alok Club Series 2023",
         "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 188226,
       "name": "2 Much 2 Handle",
       "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja"
-      },
-      "artists": [
-        {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
-        }
-      ],
-      "duration_ms": 166954,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/1W09O51MifKfx4XAl851q9"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 171076,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/3FEDVRLhSQbtXKXrUhsEJa"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "duration_ms": 166954,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Certified",
-        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
+        "name": "Eyes On You EP",
+        "url": "https://open.spotify.com/album/4Kkj9lMLAjmrSOlETzGafy"
       },
       "artists": [
         {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
         }
       ],
-      "duration_ms": 175492,
-      "name": "Certified",
-      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
+      "duration_ms": 172920,
+      "name": "Hallucinate",
+      "url": "https://open.spotify.com/track/1mpChy2KY9BMiIrimM3cXV"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Eyes On You EP",
-        "url": "https://open.spotify.com/album/4Kkj9lMLAjmrSOlETzGafy"
-      },
-      "artists": [
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Hallucinate",
-      "url": "https://open.spotify.com/track/1mpChy2KY9BMiIrimM3cXV"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Set The Tempo (feat. HQA)",
         "url": "https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 183434,
       "name": "Set The Tempo (feat. HQA)",
       "url": "https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Certified",
+        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
     },
     {
       "added_at": "2023-11-03 04:00:00",

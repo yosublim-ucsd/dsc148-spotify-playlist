@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\bpH-1)",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: SINCE)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -18747,6 +18747,24 @@
     },
     {
       "album": {
+        "name": "Somozu Fever",
+        "url": "https://open.spotify.com/album/7AQZXlxfIbNV7oSUbSqLmi"
+      },
+      "artists": [
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172375,
+      "name": "Somozu Fever",
+      "url": "https://open.spotify.com/track/41U4WfkQ19MJUPux9zNBBJ"
+    },
+    {
+      "album": {
         "name": "Soorak San Remix",
         "url": "https://open.spotify.com/album/7gjDdQF0S5n4o9CIvUqSJa"
       },
@@ -22444,6 +22462,28 @@
       "duration_ms": 189103,
       "name": "WIN",
       "url": "https://open.spotify.com/track/3h7iRort6R0M8qIl1LgBbI"
+    },
+    {
+      "album": {
+        "name": "THE SOLOEST",
+        "url": "https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "CK",
+          "url": "https://open.spotify.com/artist/3h3QyNpmQBmQq0bYTPNdiw"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "WING (feat. CK)",
+      "url": "https://open.spotify.com/track/4j2mNJUDvI4CMkOoxIs3qA"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Perreo after hours.",
-  "num_followers": 87356,
+  "num_followers": 87381,
   "original_name": "4AM Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWJkMzVhNDA0MzFlZWYwMTU0MmJlZTVlNDgwODRkMTEzNTIzZDAx",
+  "snapshot_id": "MCw2ZWNkODdiM2Q4YjQ2MTM2M2U0NzU3ZmQ5MTdjMGNjMTU0OTI4NDlk",
   "tracks": [
     {
       "added_at": "2023-09-08 18:30:31",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
-        "name": "Una en un Mill\u00f3n",
-        "url": "https://open.spotify.com/album/297lExWtMv5C7vAlQhJcuC"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        }
-      ],
-      "duration_ms": 155828,
-      "name": "Una en un Mill\u00f3n",
-      "url": "https://open.spotify.com/track/3jYFhbevv3MUctaEUF68Vf"
-    },
-    {
-      "added_at": "2023-09-08 18:30:31",
-      "album": {
         "name": "Y Yo Me Le Pego",
         "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
       },
@@ -395,6 +379,26 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
+        "name": "Millonarios Juntos",
+        "url": "https://open.spotify.com/album/7eIXPgbyRIyGMrEao8zsPU"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "duration_ms": 182779,
+      "name": "Millonarios Juntos",
+      "url": "https://open.spotify.com/track/4g79mlIRCMtOvi1ZJVpq3t"
+    },
+    {
+      "added_at": "2023-09-08 18:30:31",
+      "album": {
         "name": "Te Cura (FAST X Soundtrack)",
         "url": "https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP"
       },
@@ -415,22 +419,22 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
-        "name": "Millonarios Juntos",
-        "url": "https://open.spotify.com/album/7eIXPgbyRIyGMrEao8zsPU"
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
       "artists": [
         {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+          "name": "Playero",
+          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
         }
       ],
-      "duration_ms": 182779,
-      "name": "Millonarios Juntos",
-      "url": "https://open.spotify.com/track/4g79mlIRCMtOvi1ZJVpq3t"
+      "duration_ms": 181621,
+      "name": "DE CAROLINA",
+      "url": "https://open.spotify.com/track/6J3kt4eAqRffh5lBuHJJSO"
     },
     {
       "added_at": "2023-09-08 18:30:31",
@@ -467,26 +471,6 @@
       "duration_ms": 142040,
       "name": "SHERATON",
       "url": "https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN"
-    },
-    {
-      "added_at": "2023-09-08 18:30:31",
-      "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Playero",
-          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
-        }
-      ],
-      "duration_ms": 181621,
-      "name": "DE CAROLINA",
-      "url": "https://open.spotify.com/track/6J3kt4eAqRffh5lBuHJJSO"
     },
     {
       "added_at": "2023-09-08 18:30:31",
@@ -587,26 +571,6 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "SI TE PEGAS",
-      "url": "https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY"
-    },
-    {
-      "added_at": "2023-09-08 18:30:31",
-      "album": {
         "name": "Tu Sicaria",
         "url": "https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR"
       },
@@ -643,6 +607,26 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "SI TE PEGAS",
+      "url": "https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY"
+    },
+    {
+      "added_at": "2023-09-08 18:30:31",
+      "album": {
         "name": "Tamagotchi",
         "url": "https://open.spotify.com/album/057rlsHQhvwj62HNgX52uA"
       },
@@ -667,26 +651,6 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
-        "name": "FANTASMA | AVC",
-        "url": "https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 285074,
-      "name": "FANTASMA | AVC",
-      "url": "https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB"
-    },
-    {
-      "added_at": "2023-09-08 18:30:31",
-      "album": {
         "name": "TE EXO DE MENOS :(",
         "url": "https://open.spotify.com/album/2nl4PR8ItbHzzjmhmW1m3p"
       },
@@ -703,26 +667,6 @@
       "duration_ms": 151117,
       "name": "TE EXO DE MENOS :(",
       "url": "https://open.spotify.com/track/72d8QGh77awoqnxiAOFRMI"
-    },
-    {
-      "added_at": "2023-09-08 18:30:31",
-      "album": {
-        "name": "1000CANCIONES",
-        "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "1000CANCIONES",
-      "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
     },
     {
       "added_at": "2023-09-08 18:30:31",
@@ -747,6 +691,26 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
+        "name": "1000CANCIONES",
+        "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "1000CANCIONES",
+      "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
+    },
+    {
+      "added_at": "2023-09-08 18:30:31",
+      "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
       },
@@ -763,6 +727,26 @@
       "duration_ms": 171640,
       "name": "HOOKIA",
       "url": "https://open.spotify.com/track/1WgyA7SYEzPRZkig3q1b0j"
+    },
+    {
+      "added_at": "2023-09-08 18:30:31",
+      "album": {
+        "name": "FANTASMA | AVC",
+        "url": "https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 285074,
+      "name": "FANTASMA | AVC",
+      "url": "https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB"
     },
     {
       "added_at": "2023-09-08 18:30:31",
@@ -1091,18 +1075,22 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
-        "name": "Xexo",
-        "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
+        "name": "6.5",
+        "url": "https://open.spotify.com/album/5QFR1S8bcR3YA68BC5tTUO"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "DONNER",
+          "url": "https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6"
         }
       ],
-      "duration_ms": 180588,
-      "name": "Xexo",
-      "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
+      "duration_ms": 177984,
+      "name": "Traketo",
+      "url": "https://open.spotify.com/track/2E3jJO0LB4PRvqbsOVwxW4"
     },
     {
       "added_at": "2023-09-08 18:30:31",
@@ -1119,6 +1107,22 @@
       "duration_ms": 154626,
       "name": "Kaleidosc\u00f3pica",
       "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
+    },
+    {
+      "added_at": "2023-09-08 18:30:31",
+      "album": {
+        "name": "Xexo",
+        "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Xexo",
+      "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
     },
     {
       "added_at": "2023-09-08 18:30:31",
@@ -1147,26 +1151,6 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
-        "name": "6.5",
-        "url": "https://open.spotify.com/album/5QFR1S8bcR3YA68BC5tTUO"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "DONNER",
-          "url": "https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6"
-        }
-      ],
-      "duration_ms": 177984,
-      "name": "Traketo",
-      "url": "https://open.spotify.com/track/2E3jJO0LB4PRvqbsOVwxW4"
-    },
-    {
-      "added_at": "2023-09-08 18:30:31",
-      "album": {
         "name": "Si Tu Supieras",
         "url": "https://open.spotify.com/album/2F04HyhZgd2R4BqrjV9vsD"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 225600,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/3FUihj0FmpYI4v3SbBVVfl"
+    },
+    {
+      "added_at": "2023-09-08 18:30:31",
+      "album": {
+        "name": "Mi Error",
+        "url": "https://open.spotify.com/album/2kV3nA7gQ7zKgZ0IlrHrXj"
+      },
+      "artists": [
+        {
+          "name": "Betzabeth",
+          "url": "https://open.spotify.com/artist/0YjAHyNe7ooAMJTgA7oPgm"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "No Es Culpa M\u00eda",
+      "url": "https://open.spotify.com/track/45UIS3lqRdp5c03bkkw0Un"
     },
     {
       "added_at": "2023-09-08 18:30:31",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
-        "name": "Mi Error",
-        "url": "https://open.spotify.com/album/2kV3nA7gQ7zKgZ0IlrHrXj"
-      },
-      "artists": [
-        {
-          "name": "Betzabeth",
-          "url": "https://open.spotify.com/artist/0YjAHyNe7ooAMJTgA7oPgm"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "No Es Culpa M\u00eda",
-      "url": "https://open.spotify.com/track/45UIS3lqRdp5c03bkkw0Un"
-    },
-    {
-      "added_at": "2023-09-08 18:30:31",
-      "album": {
         "name": "FELICIDADES",
         "url": "https://open.spotify.com/album/4MehKWkRVXk8Rx4237Ypdr"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 165396,
       "name": "FELICIDADES",
       "url": "https://open.spotify.com/track/1HMs2s2cawWk3ce1aeKsZn"
+    },
+    {
+      "added_at": "2023-09-08 18:30:31",
+      "album": {
+        "name": "Una en un Mill\u00f3n",
+        "url": "https://open.spotify.com/album/3JebjueoTKNGxKZhfoTVHj"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "duration_ms": 155011,
+      "name": "Una en un Mill\u00f3n",
+      "url": "https://open.spotify.com/track/5FWeCb2GK2vGopDenX0dVh"
     },
     {
       "added_at": "2023-09-08 18:30:31",

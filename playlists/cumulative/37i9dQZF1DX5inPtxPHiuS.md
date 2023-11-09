@@ -4,7 +4,7 @@
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-213 songs - 13 hr 9 min
+214 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Alquimia](https://open.spotify.com/track/0kZbVGfQ1As85qQQpqaAFP) | [Mad Tree](https://open.spotify.com/artist/5tYyhyk6c1hUFgxiIke31W) | [Centésimo Humano](https://open.spotify.com/album/4zHaKuOxtImXo927eeh6So) | 3:27 | 2022-03-11 | 2022-07-29 |
 | [Amor Depredador](https://open.spotify.com/track/5mfaWeUAGR81onvg2m1kmZ) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Babel \(Special Edition\)](https://open.spotify.com/album/1qDJZqRsBuvynficMP9CqK) | 3:57 | 2022-06-24 |  |
 | [Amor Depredador](https://open.spotify.com/track/1vG6SgW6amCI36waKCCpgj) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Babel \(Special Edition\)](https://open.spotify.com/album/54FlK7Mg1gDyCpE11R0hEs) | 3:58 | 2022-03-11 | 2022-07-29 |
-| [Analogía de una Laguna](https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Analogía de una Laguna](https://open.spotify.com/album/723DfEBve0LRScRimGdq9c) | 3:30 | 2022-03-11 |  |
+| [Analogía de una Laguna](https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Analogía de una Laguna](https://open.spotify.com/album/723DfEBve0LRScRimGdq9c) | 3:30 | 2022-03-11 | 2023-11-09 |
 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 | 2022-03-11 | 2022-07-20 |
 | [Antiamor](https://open.spotify.com/track/5vLg2iDE8pb6uLu11e1Vvf) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Antiamor](https://open.spotify.com/album/0uIgAixzHB6PT6MChRONXu) | 3:43 | 2022-10-13 |  |
 | [Antiamor](https://open.spotify.com/track/6bAxhfCA4JEeaSliO7pFUh) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Antiamor](https://open.spotify.com/album/3nNpSxqEyPHwuWh9bYkjIT) | 3:44 | 2022-03-11 | 2022-07-18 |
@@ -136,6 +136,7 @@
 | [No Tengo Idea de Nada](https://open.spotify.com/track/0WWvdLxl8fcI4QnCNoacSI) | [Red Sun Cult](https://open.spotify.com/artist/1rh41sScm5dg9xsmg4zGeX), [Malestar Delicioso](https://open.spotify.com/artist/2IE8XLyID5XGE5OGl2FDQ4) | [No Tengo Idea de Nada](https://open.spotify.com/album/47Fi7F1hdszTK2t4NojIUB) | 4:19 | 2022-03-11 | 2022-07-01 |
 | [Nubes Negras](https://open.spotify.com/track/4cO7TlWSvphDKXlYQVi2bl) | [Los De Adentro](https://open.spotify.com/artist/282UIRNs6aprjrs0ynDn6v) | [Volver Amar](https://open.spotify.com/album/7lNxWPJ2lAiCVWE3iACqpW) | 4:07 | 2022-03-11 |  |
 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 | 2022-03-11 | 2023-10-30 |
+| [Nómada](https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb) | 4:47 | 2023-10-07 |  |
 | [Ojalá](https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ojalá](https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb) | 3:13 | 2023-04-14 |  |
 | [Olvidarme de Todo](https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Oso Pardo](https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ) | [Olvidarme de Todo](https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB) | 3:21 | 2022-03-11 | 2022-07-15 |
 | [Oro](https://open.spotify.com/track/1zrGYwPwxPUzoBwDzutTlf) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1b7wcyINye4qF7MMNcYP7Y) | 3:26 | 2022-03-11 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 59764,
+  "num_followers": 59824,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2Y5NjRiN2RkZTdlMmE3NWRkY2M2ZDE4YTU3MmZlZWE5MzBmNjFj",
+  "snapshot_id": "MCxlOTdmNjUxNjhjNDNhYzY3ZDkxZWZlZGU5OTNkZDQwNmNjN2RhMDcz",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 217480,
       "name": "Almost (Sweet Music)",
       "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "All the Pretty Girls",
-      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 284000,
       "name": "Rivers and Roads",
       "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 269893,
+      "name": "All the Pretty Girls",
+      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
-        "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
+        "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Stay Gold",
-        "url": "https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "My Silver Lining",
-      "url": "https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Old Sea Brigade",
         "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 185746,
       "name": "Love Brought Weight",
       "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Stay Gold",
+        "url": "https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "My Silver Lining",
+      "url": "https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Muchacho",
-        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 370200,
-      "name": "Song for Zula",
-      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Imaginary Man",
         "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 230786,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song for Zula",
+      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "Poison & Wine",
-      "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "The Wild Hunt",
         "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 255853,
       "name": "Love is All",
       "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Poison & Wine",
+      "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Blindfaller",
-        "url": "https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 329893,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 174172,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Blindfaller",
+        "url": "https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 329893,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "I Want to See Pulaski at Night",
-        "url": "https://open.spotify.com/album/1XBBNeT50E40fWKY5SOvb5"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 289093,
-      "name": "Pulaski at Night",
-      "url": "https://open.spotify.com/track/3v6NuKeDbFbaq1lNjw3XtR"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Living Water",
         "url": "https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 242000,
       "name": "Recording 15",
       "url": "https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "I Want to See Pulaski at Night",
+        "url": "https://open.spotify.com/album/1XBBNeT50E40fWKY5SOvb5"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 289093,
+      "name": "Pulaski at Night",
+      "url": "https://open.spotify.com/track/3v6NuKeDbFbaq1lNjw3XtR"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 264320,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Helplessness Blues",
         "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 303386,
       "name": "Helplessness Blues",
       "url": "https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 264320,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "The Mother",
-      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Love Songs For Robots",
         "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 217606,
       "name": "Love Songs For Robots",
       "url": "https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Philharmonics",
+        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
     }
   ],
   "unique_name": "10s Indie Folk",

@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-292 songs - 18 hr 51 min
+293 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 | 2022-02-08 | 2022-05-25 |
 | [All of These Things](https://open.spotify.com/track/3q6QI77XHbUqMjrHCQFrCP) | [Emil Otto](https://open.spotify.com/artist/6J3pcOji8HrXy4nrnFd68H), [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq) | [Ain’t Love a Beautiful Thing](https://open.spotify.com/album/6Nwq21fNDkW9jVaJB7zQ1Y) | 3:34 | 2022-09-08 | 2023-05-06 |
 | [And Then There Was You](https://open.spotify.com/track/1Yo6lvTsNozmc9Y9SA275E) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 3:05 | 2022-12-08 | 2023-05-06 |
-| [And Time Froze](https://open.spotify.com/track/5iHOWdd8kt00RUGRp56Den) | [Duara](https://open.spotify.com/artist/1XOfH1UedJEI98CfjiDlyF) | [Flights of Imagination](https://open.spotify.com/album/2eLF1fJClf8VcIPAOhQafc) | 3:15 | 2021-11-19 |  |
+| [And Time Froze](https://open.spotify.com/track/5iHOWdd8kt00RUGRp56Den) | [Duara](https://open.spotify.com/artist/1XOfH1UedJEI98CfjiDlyF) | [Flights of Imagination](https://open.spotify.com/album/2eLF1fJClf8VcIPAOhQafc) | 3:15 | 2021-11-19 | 2023-11-09 |
 | [Anyone](https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8) | [Cosma Joy](https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ) | [Boy Boredom](https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN) | 3:41 | 2022-12-08 | 2023-05-06 |
 | [At Last](https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [At Last](https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR) | 2:44 | 2021-11-19 |  |
 | [At the End of the Day](https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm) | [Caleb Dinger](https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs) | [At the End of the Day](https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O) | 3:36 | 2021-11-19 |  |
@@ -118,6 +118,7 @@
 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 | 2023-02-09 | 2023-05-06 |
 | [Humphrey and me](https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712) | [Humphrey and Me](https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL) | 4:27 | 2021-11-19 |  |
 | [I Can't Make You Love Me](https://open.spotify.com/track/678zWynlu5RcyEnGUe0EQZ) | [Sam Parker](https://open.spotify.com/artist/4FYQFlxTwb3mnj5YJmnZfE), [Priya Marie Chantale](https://open.spotify.com/artist/23Foj0ZZhR6iwQu9mdOCvQ) | [I Can't Make You Love Me](https://open.spotify.com/album/6S7MfLDElqYq7SvyTIXRYq) | 4:16 | 2021-11-19 | 2023-10-13 |
+| [I Can’t Make You Love Me](https://open.spotify.com/track/0ZhF5IXGeWPAyYe6dGP3LF) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 5:03 | 2023-10-27 |  |
 | [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 | 2023-10-13 | 2023-11-08 |
 | [I Fall to Pieces](https://open.spotify.com/track/34QBDcwnUMlQCGpjUhXN8u) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [I Fall to Pieces](https://open.spotify.com/album/0AgqUaoymiX2pAQlHlwZKr) | 2:51 | 2021-11-19 |  |
 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/1YVmpBp53G1trEySVwJJPP) | [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/album/2DWRIlo1R10apEYqCk2fK7) | 3:12 | 2022-11-29 | 2023-05-06 |

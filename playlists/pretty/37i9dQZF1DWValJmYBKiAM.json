@@ -1,12 +1,12 @@
 {
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2000s.",
-  "num_followers": 129872,
+  "num_followers": 130073,
   "original_name": "Latin Chillout 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWUzYzE5OTg2MjkzODljNTJhYjUzZTQ1NmJiZmNmMGI1MzAxM2Qy",
+  "snapshot_id": "MCxmMDZhMTZjNzQyYTQxNTNjZTU5OGE2ZTA5ZmUzNTZhMjQ4ZTcxZGQw",
   "tracks": [
     {
       "added_at": "2022-12-30 17:16:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Mar\u00eda Jos\u00e9",
+        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "Aqui O Sistema \u00c9 Bruto",
         "url": "https://open.spotify.com/album/4FTV8aipNFzqQo10minF34"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 283706,
       "name": "Sin\u00f4nimos",
       "url": "https://open.spotify.com/track/5wn7dRsPFOd236GySyJqLx"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "Mar\u00eda Jos\u00e9",
-        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Laundry Service",
-        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Underneath Your Clothes",
-      "url": "https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Barrio Bravo",
         "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 213133,
       "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
       "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Underneath Your Clothes",
+      "url": "https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Laundry Service",
-        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+        "name": "Flamingos",
+        "url": "https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 287333,
-      "name": "Que Me Quedes T\u00fa",
-      "url": "https://open.spotify.com/track/3pWF6sOdKOtwtIbVaFMN6U"
+      "duration_ms": 262120,
+      "name": "...Y al final",
+      "url": "https://open.spotify.com/track/3LR1Ienv3nT4S8gbsie6bA"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Flamingos",
-        "url": "https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB"
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
       },
       "artists": [
         {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 262120,
-      "name": "...Y al final",
-      "url": "https://open.spotify.com/track/3LR1Ienv3nT4S8gbsie6bA"
+      "duration_ms": 287333,
+      "name": "Que Me Quedes T\u00fa",
+      "url": "https://open.spotify.com/track/3pWF6sOdKOtwtIbVaFMN6U"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "The Return of El Santo",
-        "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
-      },
-      "artists": [
-        {
-          "name": "King Chango",
-          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
-        }
-      ],
-      "duration_ms": 287013,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Canciones De Hotel",
         "url": "https://open.spotify.com/album/1s6NvhoX40Ob6g8C5E1C4v"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Elefante",
-        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
+        "name": "The Return of El Santo",
+        "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
       },
       "artists": [
         {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+          "name": "King Chango",
+          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
         }
       ],
-      "duration_ms": 324666,
-      "name": "Si T\u00fa Quieres",
-      "url": "https://open.spotify.com/track/51LfO8PLG7Qi0sUwA74tCw"
+      "duration_ms": 287013,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1447,6 +1431,22 @@
       "duration_ms": 217773,
       "name": "No Me Quiero Enamorar",
       "url": "https://open.spotify.com/track/6LUWcw7HapRK92mQI42Tzp"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Elefante",
+        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 324666,
+      "name": "Si T\u00fa Quieres",
+      "url": "https://open.spotify.com/track/51LfO8PLG7Qi0sUwA74tCw"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Barrilete",
-        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 349520,
-      "name": "Momento",
-      "url": "https://open.spotify.com/track/1eQU5ex4RcVjz55hWPeJzc"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Abrazar La Vida",
         "url": "https://open.spotify.com/album/7u8IWfPzlYcqN4N6tU4FcW"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 259399,
       "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/0Ky9DFq4xtsIZQiI0d2fnG"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Barrilete",
+        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 349520,
+      "name": "Momento",
+      "url": "https://open.spotify.com/track/1eQU5ex4RcVjz55hWPeJzc"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Quiz\u00e1s",
-        "url": "https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 245266,
-      "name": "Para Qu\u00e9 La Vida",
-      "url": "https://open.spotify.com/track/4ZwU8VMYnkigKVJgSgTBtK"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Paso A Paso",
         "url": "https://open.spotify.com/album/43GuWlqbeht6837v73SsMw"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 239826,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/5ToI5oXnUmX5Nsmg8enL1N"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Quiz\u00e1s",
+        "url": "https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 245266,
+      "name": "Para Qu\u00e9 La Vida",
+      "url": "https://open.spotify.com/track/4ZwU8VMYnkigKVJgSgTBtK"
     }
   ],
   "unique_name": "Latin Chillout 00s",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,869 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,881 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 17 | [CHEEKY](https://open.spotify.com/track/55uzraCUFDtQGFqDaJUoUr) | [EL7Z UP](https://open.spotify.com/artist/27xea8r2bsY7UlsbaRiwMQ) | [7+UP](https://open.spotify.com/album/4C6ab9EwBiR8Y5adO9o6bQ) | 2:54 |
 | 18 | [Together](https://open.spotify.com/track/4yLHe4OAlIFnHerGgHNXBm) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 4:04 |
 | 19 | [Running](https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6S327htVJnBi9GGZjUInui) | 3:29 |
-| 20 | [Heroine](https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heroine](https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2) | 3:15 |
-| 21 | [Guardian](https://open.spotify.com/track/1hXpqrmqmlYMfpF23fb8mK) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BASTIONS OST Part.4](https://open.spotify.com/album/0pjWgLVCGDd3mEJIOIqE0k) | 2:38 |
+| 20 | [Guardian](https://open.spotify.com/track/1hXpqrmqmlYMfpF23fb8mK) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BASTIONS OST Part.4](https://open.spotify.com/album/0pjWgLVCGDd3mEJIOIqE0k) | 2:38 |
+| 21 | [Heroine](https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heroine](https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2) | 3:15 |
 | 22 | [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 |
 | 23 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
 | 24 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 47 | [My Ultimate First Love](https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.4 \[My Ultimate First Love\]](https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT) | 4:26 |
 | 48 | [Can you stay](https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [Can you stay \(From Semantic Error\)](https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU) | 3:02 |
 | 49 | [INEEDYOURLOVE](https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [INEEDYOURLOVE](https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh) | 3:42 |
-| 50 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 |
-| 51 | [Celeb](https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:19 |
+| 50 | [Celeb](https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:19 |
+| 51 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 |
 | 52 | [PARADISE \(Feat\. meenoi\)](https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:33 |
 | 53 | [I FLY](https://open.spotify.com/track/3YW9BZAvwIvXF6C7D3cN6r) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [오늘의 웹툰 \(Original Soundtrack\) Pt\. 1](https://open.spotify.com/album/0eWeQtF47FUpI8kRLDEiCp) | 3:50 |
 | 54 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 59 | [DREAMLIKE](https://open.spotify.com/track/6d3pjHp69A5RABSAJ7zqJH) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:46 |
 | 60 | [상상한 꿈](https://open.spotify.com/track/16sVrdJ0NHmLwan43hH9BF) | [JAMIE](https://open.spotify.com/artist/12WC3s3087JX9hDaTj4nW8) | [START\-UP \(Original Television Soundtrack\) Pt\. 13](https://open.spotify.com/album/0WCGyBf5B1e4JsB6okoJmB) | 3:33 |
 
-Snapshot ID: `MCxiNzQ1ZTY2MDEwY2QwMDIxNzgwY2Q1OWIzZTZkNmQxOWQyMWYyNjRm`
+Snapshot ID: `MCxmOTAwYjM1Y2RlNzYyNDQxZmNhOTE4YzVjNWMyYmFkNmZkNTU4ODMy`

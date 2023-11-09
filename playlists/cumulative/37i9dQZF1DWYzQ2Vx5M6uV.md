@@ -4,7 +4,7 @@
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Feid & Rema
 
-124 songs - 6 hr 41 min
+125 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,8 +49,9 @@
 | [Fuego \(with Sean Paul & Anitta, feat\. Tainy\)](https://open.spotify.com/track/660eekzsNZ7sdATvfIsAkR) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:15 | 2022-02-16 | 2023-05-26 |
 | [Getting Late](https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Getting Late](https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6) | 4:14 | 2022-05-12 |  |
 | [Getting Late](https://open.spotify.com/track/7iPnbJ1W7wus9QqeBtpuII) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Getting Late](https://open.spotify.com/album/3fxqOwmITBpQnS5Ub5Zyjy) | 4:14 | 2022-02-16 | 2022-07-29 |
+| [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk) | 2:44 | 2023-11-08 |  |
 | [Guava Rose](https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Guava Rose](https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs) | 3:12 | 2023-03-05 |  |
-| [GUERRA](https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [GUERRA](https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt) | 3:52 | 2022-02-16 |  |
+| [GUERRA](https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [GUERRA](https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt) | 3:52 | 2022-02-16 | 2023-11-09 |
 | [Hapo Tu](https://open.spotify.com/track/5g90vbGDO2zc7tYUqUHtmN) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Hapo Tu](https://open.spotify.com/album/24PHVy5OkPyLKeR3Jjh6nc) | 3:07 | 2023-05-26 |  |
 | [Hapo Tu \(feat\. Chris Kaiga\)](https://open.spotify.com/track/6JR3F5nXtkkHwiCHIeYqSC) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Hapo Tu \(feat\. Chris Kaiga\)](https://open.spotify.com/album/1f29HZCzALO00lGskrXUOr) | 3:07 | 2022-02-16 | 2023-06-30 |
 | [iluminada](https://open.spotify.com/track/29pHChpWM7i7ut8F85LvRb) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Andrew Ace](https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG) | [iluminada](https://open.spotify.com/album/6ewkYNPHjChkje6k1L0qwy) | 2:35 | 2022-02-16 | 2022-07-29 |

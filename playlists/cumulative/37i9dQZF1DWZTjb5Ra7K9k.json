@@ -140,7 +140,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 224413,
       "name": "Beach in Hawaii",
       "url": "https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0"
@@ -760,10 +760,28 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 243600,
       "name": "La Mar",
       "url": "https://open.spotify.com/track/2huEHt0QsyntjJyzFb9jkV"
+    },
+    {
+      "album": {
+        "name": "Learn Yourself",
+        "url": "https://open.spotify.com/album/1OuDc65IgZ0nKnNwPMaylr"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful Girls",
+          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237840,
+      "name": "La Mar (The Ocean)",
+      "url": "https://open.spotify.com/track/0WuWrW1N8ofJBjM5ZHkFjH"
     },
     {
       "album": {
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 229933,
       "name": "What's My Scene",
       "url": "https://open.spotify.com/track/5Dpv08jVFM3UHvmY6zp7qi"

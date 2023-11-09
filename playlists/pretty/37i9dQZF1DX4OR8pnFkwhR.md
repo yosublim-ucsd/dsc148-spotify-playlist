@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: First Love is Never Returned
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,944 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,066 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 68 | [変わる、変わる。](https://open.spotify.com/track/78fyucC7nYQzEMnfe78czK) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [変わる、変わる。](https://open.spotify.com/album/6ySJgQzBL1Wp2TnqJRzcS2) | 4:48 |
 | 69 | [涙 \- NEWLY Remix](https://open.spotify.com/track/71kNMy61jtT0U0jsauyZny) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN), [Newly](https://open.spotify.com/artist/6x4LEGG2p8MEvmlWtHwhZu) | [MM&NC Remix](https://open.spotify.com/album/2H2rejC42XlQJw73MeiAB4) | 5:06 |
 | 70 | [微熱](https://open.spotify.com/track/735z8cQ5OKqboAveQPU68k) | [つきみ](https://open.spotify.com/artist/5CTOLdHtiGvfebSVgrmYgq) | [きえたくなる度君、刻む♡](https://open.spotify.com/album/6yOm2nYmsjtZm8ljCF0rPp) | 5:49 |
-| 71 | [ね。](https://open.spotify.com/track/6xBUnxD7foU3vFtoDO7m38) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [ね。](https://open.spotify.com/album/5enEOSfhmsoLF7uhQDm6gu) | 2:28 |
+| 71 | [Ne](https://open.spotify.com/track/3KV4EBhSRCwd9b81pR7bBb) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [Ne](https://open.spotify.com/album/3FxaatoFuQz99OLWgglHR4) | 2:28 |
 | 72 | [Dreaming](https://open.spotify.com/track/2Jp00GjYQiQyEBsUr6w3JB) | [ReiRay](https://open.spotify.com/artist/0duSWX1mZpy1JmZzoQDVgd) | [Dreaming](https://open.spotify.com/album/0NgsDcQwVwQYZesTKao4nz) | 3:27 |
 | 73 | [Soft](https://open.spotify.com/track/3QZ3RYgqaOvg56tOGxDQnB) | [VILLSHANA](https://open.spotify.com/artist/57weAzpeaELcDcAuqngdDo), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [KILL VILL](https://open.spotify.com/album/5dOuAEcGum8wvhvznPhDDM) | 2:56 |
 | 74 | [オリジナルスクープ](https://open.spotify.com/track/4XFDyEOJLCDYstSNPDqLnS) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [オリジナルスクープ](https://open.spotify.com/album/0Hh76GBDwAZUUiaNHTPUKZ) | 3:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 79 | [萌](https://open.spotify.com/track/0mKWFi26UzF83bie9CIrDm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [萌](https://open.spotify.com/album/6DnW96P5uz81LMRm3RnSEI) | 4:29 |
 | 80 | [last dance](https://open.spotify.com/track/2nx1LEedGMXPTuPT1FZ5d8) | [aldo van eyck](https://open.spotify.com/artist/0f0NPoMq6pvtisxkGo9uJ0) | [dead shot dan](https://open.spotify.com/album/4UNdAiKDgAD5P0RtkRkmB3) | 2:46 |
 
-Snapshot ID: `MCxhZWVlNjE4N2MwY2VjYzBiMTkyNzAzYjZiODhjNWUzM2FjZmU5ZWIx`
+Snapshot ID: `MCxmZjdmNjMyM2U1MzNkNTEwNDIxZThhMWRhYTZkYjM0MWNiMmYwYjM5`

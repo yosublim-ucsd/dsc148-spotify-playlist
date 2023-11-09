@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,554 likes - 80 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,595 likes - 80 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 7 | [Tsunyu \- 40D Remix \- Edit](https://open.spotify.com/track/1rVkrOyVCha9dUx3atfaKb) | [Anthony P.](https://open.spotify.com/artist/69YT6XOB8ZBuLEM3XthJzW), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [LLeiL](https://open.spotify.com/artist/2u6wkzdFPDDryBUHtRSnQO), [40D](https://open.spotify.com/artist/7uvCVtgyDcHAN5H0W1uF9x) | [Tsunyu \(40D Remix\)](https://open.spotify.com/album/0YDdbkTnJHGcQJ554wZoPr) | 3:54 |
 | 8 | [Isa \- Radio Edit](https://open.spotify.com/track/7BuHkhO4CemVoUKlep5JeS) | [Iam JDP](https://open.spotify.com/artist/6jQYaYockXtGGCX3o1OXOa), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Isa](https://open.spotify.com/album/1jD1MFLKMXiGmqmn792sq6) | 3:32 |
 | 9 | [Your love](https://open.spotify.com/track/4yX841eJ8Rc3bWGqpPCbFM) | [Tokyonite](https://open.spotify.com/artist/5WttUzDUxd2UC83jyglcBb), [INAMEIT](https://open.spotify.com/artist/6bOneog19MkwPOXivT4PeI) | [Your love](https://open.spotify.com/album/1PkYEyQiwJ5xzxaRlmczD7) | 2:59 |
-| 10 | [Baobá](https://open.spotify.com/track/3jRNrgXyjhMv5pj65gh9qm) | [Ramiro Moreno](https://open.spotify.com/artist/1RLeeU1F46y8aipI8BES4Y), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Baobá](https://open.spotify.com/album/2lQfMgl0U0ejWvzbhMGm8R) | 5:39 |
+| 10 | [Baoba](https://open.spotify.com/track/3jRNrgXyjhMv5pj65gh9qm) | [Ramiro Moreno](https://open.spotify.com/artist/1RLeeU1F46y8aipI8BES4Y), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Baoba'](https://open.spotify.com/album/2lQfMgl0U0ejWvzbhMGm8R) | 5:39 |
 | 11 | [Ni Wewe](https://open.spotify.com/track/3zkIvHYpO1jYjPHIelN1bh) | [Tony Shades](https://open.spotify.com/artist/05mqqOutOMYYx1n1vjYO7K), [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn), [Marco Pex](https://open.spotify.com/artist/0kJmBPLjuqYEXcq9JT1O1n) | [Ni Wewe](https://open.spotify.com/album/3xTWXcC5S3A7ab4IDWCG7K) | 6:09 |
 | 12 | [Umenitosha](https://open.spotify.com/track/7t1y3tsgDKQnIGp7jw10Po) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Polaris](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA) | [The 4th Republic](https://open.spotify.com/album/2XDjGP9eHn0YjnzS6AG19k) | 5:32 |
 | 13 | [I'll Be There \- Original](https://open.spotify.com/track/2seWEAts59TSfxKHqvPEz5) | [DJ Sbu](https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD) | [I'll Be There \(Original\)](https://open.spotify.com/album/2ub2bbZ37OG78pZIASi3Y7) | 6:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 79 | [Kingdom](https://open.spotify.com/track/1hga53NgwMC1yXWTbYaUjf) | [Vidza](https://open.spotify.com/artist/0AZXckUQ7wQXhFeueG0Vsu), [Olivia Ambani](https://open.spotify.com/artist/2x0SfE2JBElHrXnmMWVPqy) | [Kingdom](https://open.spotify.com/album/4KXXfTMrICIeagJ1RgYsMy) | 7:03 |
 | 80 | [Weche \- Radio Edit](https://open.spotify.com/track/1Auk0gMNtlgOlw6MiI5u6m) | [Punk Mbedzi](https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi), [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Weche \(Radio Edit\)](https://open.spotify.com/album/6L3HIE5eRD73FNzp4JMSdX) | 3:37 |
 
-Snapshot ID: `MCwwN2Q2NjNiYWQyZGZjYTdhYzM4Y2NiZGExODc5NDRkZmEwY2UyMGU0`
+Snapshot ID: `MCw2MTNkY2Y1ZjRlYjNhZGE5YWFhOGRmMTAzMTc1N2NiMWQ0OGFjYzhm`

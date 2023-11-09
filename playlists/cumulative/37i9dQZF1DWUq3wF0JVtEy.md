@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-367 songs - 17 hr 58 min
+368 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,8 @@
 | [Oh La La \(feat\. Mougleta\)](https://open.spotify.com/track/46Dxwh73hkHgPg2NCTCzmt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Oh La La \(feat\. Mougleta\)](https://open.spotify.com/album/3nt62cBy34uUk2SlkOyvSg) | 2:30 | 2021-10-29 | 2022-08-06 |
 | [Oh Lord](https://open.spotify.com/track/1Ti5Px7jctKkMuXbx4kTdA) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Deve](https://open.spotify.com/artist/3xP2q5RQ3YnQIWofwQyXqo) | [Oh Lord](https://open.spotify.com/album/6mUQJM02hQgWKI9HN5OBlC) | 2:38 | 2021-10-29 | 2022-08-27 |
 | [On & On](https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [On & On](https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf) | 2:20 | 2023-06-09 |  |
-| [One Chance \(feat\. Marlhy\)](https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu) | 3:40 | 2023-07-07 |  |
+| [One Chance](https://open.spotify.com/track/1rFjOggo1LDoT6wqX41baU) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance](https://open.spotify.com/album/4whZCf4KZinQmHApTpVCn9) | 3:40 | 2023-11-03 |  |
+| [One Chance \(feat\. Marlhy\)](https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu) | 3:40 | 2023-07-07 | 2023-11-09 |
 | [Other Side](https://open.spotify.com/track/00AM1H8UVnoPi3fOYvu5Nv) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Other Side](https://open.spotify.com/album/5NCLNQpMVsuEWQV5MlBefi) | 2:51 | 2023-04-07 | 2023-05-13 |
 | [Outer Space](https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Outer Space](https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY) | 3:12 | 2022-11-11 |  |
 | [Paradise](https://open.spotify.com/track/3KcUTtzg9W5Hse7RknCSZr) | [DJ Shaan](https://open.spotify.com/artist/274JojhV4zGJX0Z6WPgg5x), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Paradise](https://open.spotify.com/album/4Vl5A4SFNnw6BCjTWfWSQf) | 2:53 | 2021-10-29 | 2022-06-11 |

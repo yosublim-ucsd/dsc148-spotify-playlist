@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Whatever The Weather
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,835 likes - 100 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,856 likes - 100 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 30 | [New Dawn](https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 2:44 |
 | 31 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
 | 32 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 |
-| 33 | [Blue Shit](https://open.spotify.com/track/3ImFKblupPLY9oE5kMXhxJ) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Blue Alibi](https://open.spotify.com/album/2PPwihRPEkor4XCXlvEkc0) | 4:41 |
+| 33 | [ME](https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we), [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Comme Un Seul Narcisse](https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4) | 4:21 |
 | 34 | [Love Is The Tune](https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Love Is The Tune](https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ) | 3:40 |
-| 35 | [ME](https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we), [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Comme Un Seul Narcisse](https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4) | 4:21 |
+| 35 | [Blue Shit](https://open.spotify.com/track/3ImFKblupPLY9oE5kMXhxJ) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Blue Alibi](https://open.spotify.com/album/2PPwihRPEkor4XCXlvEkc0) | 4:41 |
 | 36 | [At Dawn](https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [No\. 4](https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe) | 2:50 |
 | 37 | [Russian Snow](https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Rising Fog](https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil) | 8:28 |
 | 38 | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3) | 4:48 |
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 49 | [The North Wind](https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG) | 4:11 |
 | 50 | [Rushes Recede](https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 6:34 |
 | 51 | [Nana \(Like A Star Made For Me\) \- Julianna Barwick remix](https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 6:00 |
-| 52 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 |
-| 53 | [Lear](https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Stuart Dempster](https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK), [Panaiotis](https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA) | [Deep Listening](https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC) | 24:56 |
+| 52 | [Lear](https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Stuart Dempster](https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK), [Panaiotis](https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA) | [Deep Listening](https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC) | 24:56 |
+| 53 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 |
 | 54 | [a path between the clouds](https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Frozen Passages](https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R) | 5:42 |
 | 55 | [Absolution](https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 2:24 |
 | 56 | [How to build an automaton](https://open.spotify.com/track/1yOj6SKeaEpGYwVbhMN9a7) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Welfare / Practice](https://open.spotify.com/album/1O05SuJmpU1j9PtraWRaXc) | 3:51 |
-| 57 | [Kali](https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Kali](https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt) | 6:40 |
-| 58 | [Falling Water Lullaby](https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj) | [Ulla](https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN) | [Memories of Log](https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b) | 6:40 |
+| 57 | [Falling Water Lullaby](https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj) | [Ulla](https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN) | [Memories of Log](https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b) | 6:40 |
+| 58 | [Kali](https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Kali](https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt) | 6:40 |
 | 59 | [CHU / 處](https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [CHU / 處](https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC) | 2:23 |
 | 60 | [Composition Of Flowers \(Excerpt\)](https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Selected Works Preview](https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ) | 6:21 |
 | 61 | [Becoming Ferromagnetic](https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Becoming Ferromagnetic](https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ) | 5:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 99 | [Laurus I](https://open.spotify.com/track/2Ghsr0ema2mSWWAFitSttM) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Laurus](https://open.spotify.com/album/002PfB3V3MwL05lAvCTC6l) | 4:05 |
 | 100 | [Pipe Inversions](https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Harmonic Series Volume 2](https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2) | 14:28 |
 
-Snapshot ID: `MCxiNzdkNTA3ZGJmZWFmYzZjYmEyNjNmMDQ5NWE3ZTQ4MTIxYjY5YzQ2`
+Snapshot ID: `MCw1MTM3NDRkMDk0Y2E0ZDhiNTEwOGJmOTViM2RjMDM4MTcwMzAxNmEy`

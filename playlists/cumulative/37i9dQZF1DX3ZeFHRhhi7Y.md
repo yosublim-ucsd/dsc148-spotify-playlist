@@ -4,7 +4,7 @@
 
 > Workout to K\-Pop? Count me in! \(Cover: Jung Kook\(정국\)\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-471 songs - 1 day 1 hr 46 min
+472 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Fireworks](https://open.spotify.com/track/3rF2f0xYN7FqPl2rRJkbsn) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49), [LUCY](https://open.spotify.com/artist/5G6kdMp4tAcaH4J2RQa0Ij) | [Fireworks](https://open.spotify.com/album/6HZDpgdjdt2bXNlIemZYX1) | 3:50 | 2022-03-08 | 2022-06-25 |
 | [FIRST](https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Last Melody](https://open.spotify.com/album/4ZDUTnUO9CDFmwdCUCQ6dG) | 3:32 | 2021-12-20 | 2022-08-19 |
 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-22 | 2022-08-19 |
-| [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-12 |  |
+| [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-12 | 2023-11-09 |
 | [Forever Yours](https://open.spotify.com/track/62txZsfsfNPkLDnnzZGRpu) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Forever Yours](https://open.spotify.com/album/7p9kyHQzs6rVOdlhhSaL06) | 3:29 | 2022-02-14 | 2022-05-23 |
 | [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-25 | 2023-02-06 |
 | [Foxxay](https://open.spotify.com/track/5AQzdkHmlUJil4V82QmnBP) | [Edge of Silence](https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW), [Baeeori](https://open.spotify.com/artist/1pHjQiHrT8MN5KZd6ueb7c) | [Foxxay](https://open.spotify.com/album/5LYClhrqpS2jbr540cD8rA) | 3:10 | 2022-03-22 | 2022-04-15 |
@@ -400,6 +400,7 @@
 | [Switch](https://open.spotify.com/track/4e378M6XRmJBW30gNws2TE) | [Gguggugi](https://open.spotify.com/artist/0SLGKxtZbiQFfJGtJ8TDTo) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 2:59 | 2023-05-01 | 2023-06-27 |
 | [Switch](https://open.spotify.com/track/2muZNT1f0eVDC6qbCto2Ma) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [3RD DESIRE \[Reve\]](https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY) | 3:23 | 2022-03-22 | 2022-07-18 |
 | [Talk & Talk](https://open.spotify.com/track/6Q5e2XpyGzMLgA3ul491pu) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Talk & Talk](https://open.spotify.com/album/3GxaqNCf6F7KAs1aDBSLVe) | 3:40 | 2021-12-20 | 2022-07-28 |
+| [Talk Saxy](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Talk Saxy](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) | 3:10 | 2023-11-03 |  |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 |  |
 | [Talkin’ About It \(Feat\. 24kGoldn\)](https://open.spotify.com/track/28mFFxAwJ9cx9j7z9yu64R) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 2:50 | 2023-08-18 | 2023-09-16 |
 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2021-12-20 |  |

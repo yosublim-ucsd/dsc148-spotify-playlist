@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5"
+      },
+      "artists": [
+        {
+          "name": "Jon Cossack",
+          "url": "https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139952,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx"
+    },
+    {
+      "album": {
         "name": "Between The lines",
         "url": "https://open.spotify.com/album/5jDKJJoabz0LeU11vXVfRR"
       },
@@ -3803,6 +3821,24 @@
     },
     {
       "album": {
+        "name": "Relief",
+        "url": "https://open.spotify.com/album/1COrB0wOkh7xmX4DLAJYiQ"
+      },
+      "artists": [
+        {
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158519,
+      "name": "Relief",
+      "url": "https://open.spotify.com/track/21Z5allNDVFrsznZvpdIl0"
+    },
+    {
+      "album": {
         "name": "Relinquishing",
         "url": "https://open.spotify.com/album/3O66GdoL4N2pmZf1PImUO1"
       },
@@ -3944,6 +3980,24 @@
       "duration_ms": 175152,
       "name": "Salt Skin",
       "url": "https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU"
+    },
+    {
+      "album": {
+        "name": "Sapphire Tears",
+        "url": "https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc"
+      },
+      "artists": [
+        {
+          "name": "Joy Meyer-Williams",
+          "url": "https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167921,
+      "name": "Sapphire Tears",
+      "url": "https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM"
     },
     {
       "album": {
@@ -4586,6 +4640,24 @@
       "duration_ms": 146250,
       "name": "That's why I stay",
       "url": "https://open.spotify.com/track/4foc5c5MA7gjjDSz5KcOp9"
+    },
+    {
+      "album": {
+        "name": "The book of love",
+        "url": "https://open.spotify.com/album/0GDaWajfUkhgS7rwQNonsJ"
+      },
+      "artists": [
+        {
+          "name": "Chloe Welch",
+          "url": "https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150780,
+      "name": "The book of love",
+      "url": "https://open.spotify.com/track/666JYU0w4jgwyB9xOsjR37"
     },
     {
       "album": {

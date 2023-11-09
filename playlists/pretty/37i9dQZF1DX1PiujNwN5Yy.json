@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 110017,
+  "num_followers": 110053,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTBkY2VjYmI0YTQ1OTM1Yzc5NDZiZTdjNjUwMTM0ODE2OTU5ODM4",
+  "snapshot_id": "MCxkNzc3ODE2ZjBhNWRmZWRjOGM2NGQ1YzBkYzMxN2Y2ZTFkYjEwNGUw",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 167866,
       "name": "P\u00e1rteme La Cara",
       "url": "https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Anhelos",
-        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
-      },
-      "artists": [
-        {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
-        }
-      ],
-      "duration_ms": 222474,
-      "name": "Anhelos",
-      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Garden of Lucid",
         "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 223465,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Anhelos",
+        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
+      },
+      "artists": [
+        {
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+        }
+      ],
+      "duration_ms": 222474,
+      "name": "Anhelos",
+      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "La Pared",
-        "url": "https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa"
-      },
-      "artists": [
-        {
-          "name": "Cupido",
-          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
-        }
-      ],
-      "duration_ms": 289762,
-      "name": "La Pared",
-      "url": "https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Vete Si Quieres",
         "url": "https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 228575,
       "name": "Vete Si Quieres",
       "url": "https://open.spotify.com/track/0eBNvFiuvRpKPzfEx7CVs6"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "La Pared",
+        "url": "https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        }
+      ],
+      "duration_ms": 289762,
+      "name": "La Pared",
+      "url": "https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Music Inspired by the Film Roma",
-        "url": "https://open.spotify.com/album/6fn5SvyjVLlUROm7dxny1s"
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 194506,
-      "name": "Con el Viento",
-      "url": "https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF"
+      "duration_ms": 191041,
+      "name": "Luna Llena",
+      "url": "https://open.spotify.com/track/3SOaZGYymRd6SdQXioeenz"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Music Inspired by the Film Roma",
+        "url": "https://open.spotify.com/album/6fn5SvyjVLlUROm7dxny1s"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Con el Viento",
+      "url": "https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "TE PERD\u00cd",
         "url": "https://open.spotify.com/album/4s69BmjZT7AVIFve6CNyar"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 145418,
       "name": "TE PERD\u00cd",
       "url": "https://open.spotify.com/track/1Pe2xnS2FndbzQ0TNAFwXk"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 191041,
-      "name": "Luna Llena",
-      "url": "https://open.spotify.com/track/3SOaZGYymRd6SdQXioeenz"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 237518,
-      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "La Banqueta",
         "url": "https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 188320,
       "name": "La Banqueta",
       "url": "https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 237518,
+      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
     },
     {
       "added_at": "2023-10-20 04:00:00",

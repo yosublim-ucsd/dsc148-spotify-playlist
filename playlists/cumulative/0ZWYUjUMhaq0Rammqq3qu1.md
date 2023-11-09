@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0ZWYUjUMhaq0Rammqq3qu1.md) - cumulative - [plain](/playlists/plain/0ZWYUjUMhaq0Rammqq3qu1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0ZWYUjUMhaq0Rammqq3qu1)
 
-### [HOUSE PARTY BANGERS 🔥 🔥 ](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
+### [HOUSE PARTY BANGERS ](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
 > Break the speakers with these absolute House Party BANGERS!!! Project X \| House Party \| Frat Party \| Pre\-Drink Playlist
 

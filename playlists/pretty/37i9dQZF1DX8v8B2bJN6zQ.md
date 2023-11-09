@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,608 likes - 65 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,636 likes - 65 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 6 | [Freak](https://open.spotify.com/track/6wZD3wwSe15cxUty6l5HPP) | [Undercue](https://open.spotify.com/artist/6BOGvgcLBptl2fGVXl93zk), [Hotweiller'S](https://open.spotify.com/artist/05PtQi4kXRQFPh1DOJkzce) | [Freak](https://open.spotify.com/album/1wSFyZNPmxrP7MF3ObmMAE) | 3:07 |
 | 7 | [Mayas](https://open.spotify.com/track/7C59TgKNzoPdXdOBjfxJyd) | [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6), [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb) | [Mayas](https://open.spotify.com/album/6O9KbQWhCCpPPapXiEWIDT) | 6:14 |
 | 8 | [Carbonize](https://open.spotify.com/track/7bFY0GIdH7PMOg4ZT0N7fo) | [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx) | [Carbonize](https://open.spotify.com/album/72reU1t9z5OItKzUWb9AnD) | 2:28 |
-| 9 | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF) | 2:57 |
+| 9 | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF) | 2:57 |
 | 10 | [Tira A Camisa](https://open.spotify.com/track/74wXmElNAq0vNBS47FiZSz) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Tira A Camisa](https://open.spotify.com/album/2uNjixcI6TJrlOcJfbJyuF) | 3:00 |
 | 11 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
 | 12 | [Down \- Vini Vici, Vegas Remix](https://open.spotify.com/track/4aTxLz00W4Gd5kWwZlyazJ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z) | [Down \(Vini Vici, Vegas Remix\)](https://open.spotify.com/album/64F2v768m88W4ICszMA837) | 2:58 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 64 | [Who Knows](https://open.spotify.com/track/6kLwtwP6LFgkT5AuH6Ke8v) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Who Knows](https://open.spotify.com/album/2aHDpFLOosTIylUlwg7Uft) | 3:16 |
 | 65 | [Future](https://open.spotify.com/track/32VQjdJsS3EPF9fmIUAIPl) | [Dualmind](https://open.spotify.com/artist/2gNRZGT58XSTrInywjcgil), [Gandolfi B.](https://open.spotify.com/artist/0Js4sdeapMvJ4hB3KDq58J) | [Future](https://open.spotify.com/album/5pVzwUaHFDj7fi0bN3l3Uq) | 1:24 |
 
-Snapshot ID: `MCw3MmM0OWMxMDcxMzY3NzFkZjJmOWIwOTgzNzk5ZmM0ODU5ZDk2ODUw`
+Snapshot ID: `MCxlOWUzZGE5Mzk2ODIzODhjMjQ1NjE5NWZiZjZlNDdiOGRiODk4NmQ4`

@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$
 
-534 songs - 21 hr 7 min
+535 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [Jekyll & Hyde](https://open.spotify.com/track/7DylVsrjhxN8sdlUcWbJMk) | [Kiing Loki](https://open.spotify.com/artist/27PvM4IkuVoTlz5uSQtYgD), [unknwnshi](https://open.spotify.com/artist/6WFULoKZ38376gTjf6KpHw) | [Jekyll & Hyde](https://open.spotify.com/album/5iCk6JXpLWMKygsqQqE2Nm) | 1:50 | 2022-04-15 | 2023-02-25 |
 | [JFK](https://open.spotify.com/track/1utP2KYqItjzrXnbqkwNmz) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7), [Pranav.Wav](https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP) | [JFK](https://open.spotify.com/album/7FIqHpb31hKyUEWv3imPRG) | 2:54 | 2023-01-06 |  |
 | [JIGSAW](https://open.spotify.com/track/3MokBYNhESWVOuZZtMoZNm) | [Cherry Ills](https://open.spotify.com/artist/2xltT1bsHxP4ogBIoaqIS3) | [JIGSAW](https://open.spotify.com/album/6k5aTXN5CQQh1T43IpCquG) | 1:38 | 2022-03-18 | 2022-04-21 |
-| [JOAN OF ARC](https://open.spotify.com/track/1nQwi9UGdNeN1FyzGE7jDt) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Goodnight Lovell](https://open.spotify.com/album/7DNZURhi8nhcGxhoRriZFS) | 2:25 | 2023-03-06 |  |
+| [JOAN OF ARC](https://open.spotify.com/track/1nQwi9UGdNeN1FyzGE7jDt) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Goodnight Lovell](https://open.spotify.com/album/7DNZURhi8nhcGxhoRriZFS) | 2:25 | 2023-03-06 | 2023-11-09 |
 | [JUNK BUNK FREESTYLE](https://open.spotify.com/track/03SH0B5uTEeiOqGQg3TXoX) | [Lu](https://open.spotify.com/artist/67ZBvSCWPfqDt63Bu1PmZ4), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [JUNK BUNK FREESTYLE](https://open.spotify.com/album/05ZPaRg4xcVaMJsBRYQe3C) | 1:42 | 2023-05-26 |  |
 | [JUST DANCE](https://open.spotify.com/track/2GSUNdq88OmOQnWTO8yhe1) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [Prompto](https://open.spotify.com/artist/55l8XOO8frgVTbpedazbWo) | [JUST DANCE](https://open.spotify.com/album/7gk0gpbOy0YP1nOlDAysCv) | 1:46 | 2021-10-01 | 2022-05-08 |
 | [Kayako](https://open.spotify.com/track/7k3muSX9HBE63Vi1yZtLiC) | [Numb$kull](https://open.spotify.com/artist/7wQoo6BKPCAnSZRgE3qjp2) | [Kayako](https://open.spotify.com/album/6a4Jm2VxAAj5EPLzb7TFmf) | 3:07 | 2022-08-26 | 2022-10-29 |
@@ -322,6 +322,7 @@
 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 | 2022-07-29 | 2023-04-15 |
 | [Mean](https://open.spotify.com/track/4gncrdopojb9Xe8KoNXKGY) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Mean](https://open.spotify.com/album/3cOGCXAKUcJGpk0vQvz5RX) | 2:04 | 2021-09-17 | 2022-05-17 |
 | [MeetYourMaker](https://open.spotify.com/track/3pJnx38vLQvVHcT3aDnOdH) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [Deergod](https://open.spotify.com/artist/0lcFNl4eBE4NcQATqbKEtc) | [PushingUpDaisies](https://open.spotify.com/album/1x9TicUl0wO9wIXpLWlUfq) | 2:44 | 2021-09-17 | 2022-05-17 |
+| [Memoirs of a Gorilla](https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA) | [Radical $uicide](https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t) | 2:02 | 2023-11-08 |  |
 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 | 2022-07-01 |  |
 | [Mercury: Retrograde](https://open.spotify.com/track/2Vc6NJ9PW9gD9q343XFRKx) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/4pzCKSWYNM2yUWrNvycC6e) | 2:04 | 2022-04-22 | 2022-07-29 |
 | [Metal](https://open.spotify.com/track/3Y7AlLapD7AYzmqS4CM5FR) | [Oh Gasm!](https://open.spotify.com/artist/1VMMM8J2XHnLHyTPQ0HS0s) | [Metal](https://open.spotify.com/album/021icRE8txfPQMBmEz6j2r) | 1:51 | 2022-07-08 | 2022-10-29 |

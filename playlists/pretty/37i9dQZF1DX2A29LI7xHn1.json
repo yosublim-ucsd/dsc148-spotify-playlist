@@ -1,12 +1,12 @@
 {
   "description": "Crossing over like Allen I. Cover: Lil Tecca",
-  "num_followers": 2021475,
+  "num_followers": 2021950,
   "original_name": "Signed XOXO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWJhYjhhNWY1YTk4YjJjMjllY2JkMTNkM2M2Y2U0ZDhmNThkZjJk",
+  "snapshot_id": "MCxiMTdiMWVlYzkzZDM3OWMxZjZjMDljMWEzOTZmNzAyOGE0Yzk4N2Yz",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -27,6 +27,26 @@
       "duration_ms": 203813,
       "name": "Peaches & Eggplants (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
       "added_at": "2023-11-03 04:00:00",

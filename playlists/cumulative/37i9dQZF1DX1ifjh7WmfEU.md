@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-216 songs - 9 hr 32 min
+218 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 | 2022-05-27 | 2022-09-16 |
 | [At The Other End](https://open.spotify.com/track/4UfJ7pMdJMCyg2nO2pLjBr) | [Benji Saito](https://open.spotify.com/artist/7aapBhkAQIThSLx9Iza17r) | [At The Other End](https://open.spotify.com/album/2pM2VdN7Mv3yaFa289bgp4) | 2:49 | 2022-07-27 |  |
 | [Aurora](https://open.spotify.com/track/2bHfIDLkWeCXSg4ehFuUlo) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Aurora](https://open.spotify.com/album/2Zf3XnfqZ8f23RyehUilEC) | 3:01 | 2023-10-10 |  |
+| [Autumn Song](https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Autumn Song](https://open.spotify.com/album/3wWlrBCF10tWs73IQIUnJA) | 2:30 | 2023-11-08 |  |
 | [Beautiful](https://open.spotify.com/track/7yXwSf40aUSSRQTAjg2TRV) | [Halbert Stone](https://open.spotify.com/artist/2iLk7f4nMNmLZytDO6vaYc) | [Beautiful](https://open.spotify.com/album/1u4j15TBVVYGUi7pZsYqGF) | 2:34 | 2022-05-27 |  |
 | [Belle Vie De Tous Les Jours](https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V) | [Baudouin Béringer](https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg) | [Belle Vie De Tous Les Jours](https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI) | 2:37 | 2022-05-27 |  |
 | [Beneath Your Smile](https://open.spotify.com/track/4XnsaU3RkUS7o0nqLIUqW7) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Beneath Your Smile](https://open.spotify.com/album/6pMxigWt9M25pZsLTaGam8) | 4:46 | 2022-05-27 | 2022-07-28 |
@@ -82,6 +83,7 @@
 | [Growing Old](https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Growing Old](https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS) | 2:06 | 2022-05-27 |  |
 | [Haven](https://open.spotify.com/track/4GJSed45B1222Uy3jY5NNr) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Haven](https://open.spotify.com/album/0H5QTuTm9ADsvHDlIONIMH) | 2:23 | 2022-05-27 | 2022-09-16 |
 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 | 2022-05-27 |  |
+| [Hearts of Desire](https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Hearts of Desire](https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb) | 2:19 | 2023-11-08 |  |
 | [Herz gebrochen](https://open.spotify.com/track/2x6qK1oorFfWjIZ9bRf1MZ) | [Frida Frisk](https://open.spotify.com/artist/7xLTHxwZlyswxyMpdZzI8C) | [Herz gebrochen](https://open.spotify.com/album/6MMQUxAJVvAbp1Vi3Rx2oL) | 2:14 | 2022-05-27 |  |
 | [Hiemalis](https://open.spotify.com/track/0UcRrIl4Ti4xSdp314ZASI) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Hiemalis](https://open.spotify.com/album/0qCnC2Syuf544DFygP9Q4i) | 2:47 | 2022-05-27 | 2022-07-28 |
 | [Homeward](https://open.spotify.com/track/6p8tAo2HjobS7Me75EJcBq) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Homeward](https://open.spotify.com/album/5bhd7KJdQuJfmpBlWFbQT9) | 2:31 | 2022-05-27 |  |

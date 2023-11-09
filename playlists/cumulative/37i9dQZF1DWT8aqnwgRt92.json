@@ -1966,6 +1966,24 @@
     {
       "album": {
         "name": "Azu is",
+        "url": "https://open.spotify.com/album/1b5lp3j4Z6XcAB8C8ltzXz"
+      },
+      "artists": [
+        {
+          "name": "Azuna Riko",
+          "url": "https://open.spotify.com/artist/1kJ9fWYKneqS73CIOMDWRx"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176995,
+      "name": "DAISY",
+      "url": "https://open.spotify.com/track/0MakkBf2ekyMyN8tyiEzHD"
+    },
+    {
+      "album": {
+        "name": "Azu is",
         "url": "https://open.spotify.com/album/1ySPJFxnsbnsWSiFZIJ5m6"
       },
       "artists": [
@@ -1976,7 +1994,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 176995,
       "name": "DAISY",
       "url": "https://open.spotify.com/track/1FvuLLe1ucGonMuFrOYO99"
@@ -4414,6 +4432,48 @@
       "duration_ms": 217499,
       "name": "Ignition!!! - feat. \u677e\u91ce\u5bb66\u5144\u5f1f & \u30d2\u30d4\u30dd\u65cf\u3068\u8d64\u585a\u533a\u306e\u4ef2\u9593\u305f\u3061",
       "url": "https://open.spotify.com/track/6C4o9z0wwUCoohbwNgfEiu"
+    },
+    {
+      "album": {
+        "name": "Ijigen BIGBANG",
+        "url": "https://open.spotify.com/album/5viWiiX3YocnLLAz9kICRH"
+      },
+      "artists": [
+        {
+          "name": "Uzuki Shimamura (CV: Ayaka Ohashi)",
+          "url": "https://open.spotify.com/artist/3xoyWve1jtl6V6v5vJ0jzj"
+        },
+        {
+          "name": "Shizuka Mogami (CV: Azusa Tadokoro)",
+          "url": "https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l"
+        },
+        {
+          "name": "KOGANE TSUKIOKA (CV: Karin Isobe)",
+          "url": "https://open.spotify.com/artist/4r40eoNekBoDSFuPtMaZf1"
+        },
+        {
+          "name": "Chika Takami (CV: Anju Inami)",
+          "url": "https://open.spotify.com/artist/1j1qyF4vDxo871CSuHzgY5"
+        },
+        {
+          "name": "Ayumu Uehara (CV: Aguri Onishi)",
+          "url": "https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF"
+        },
+        {
+          "name": "Kanon Shibuya (CV: Sayuri Date)",
+          "url": "https://open.spotify.com/artist/0d6TVcK3Wq84iMZ3T1kHHR"
+        },
+        {
+          "name": "Kaho Hinoshita (CV: Nozomi Nirei)",
+          "url": "https://open.spotify.com/artist/5VnkGk25NC41GkZEEZzQXy"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316213,
+      "name": "Ijigen BIGBANG",
+      "url": "https://open.spotify.com/track/3QRii5A35ZfsGGiPrv9k0j"
     },
     {
       "album": {
@@ -9542,7 +9602,7 @@
     {
       "album": {
         "name": "Super moon",
-        "url": "https://open.spotify.com/album/6shWYUsoQcWa36V9vz8Ouz"
+        "url": "https://open.spotify.com/album/0V9mhL26kn9cHji8KBcAjE"
       },
       "artists": [
         {
@@ -9553,6 +9613,24 @@
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Super moon",
+      "url": "https://open.spotify.com/track/67kIO6t0RAXrtDnOpfYkQj"
+    },
+    {
+      "album": {
+        "name": "Super moon",
+        "url": "https://open.spotify.com/album/6shWYUsoQcWa36V9vz8Ouz"
+      },
+      "artists": [
+        {
+          "name": "\u964d\u5e61 \u611b",
+          "url": "https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
       "duration_ms": 193200,
       "name": "Super moon",
       "url": "https://open.spotify.com/track/69qlpY2ZAvgHKYvNu3N3U9"
@@ -18018,7 +18096,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 316213,
       "name": "\u7570\u6b21\u5143\u2605\u2665BIGBANG",
       "url": "https://open.spotify.com/track/6bZiww7kdL6IXfYiPrr3Fr"

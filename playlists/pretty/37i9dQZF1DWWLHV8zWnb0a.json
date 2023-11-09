@@ -1,12 +1,12 @@
 {
   "description": "El sonido siniestro de los noventa. Foto: Smashing Pumpkins",
-  "num_followers": 91303,
+  "num_followers": 91549,
   "original_name": "Oscuros 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWQwYTg0MzE3Nzg1YTA3NTBkZDBiOGFjMTBjNGY2MWY1YzFlNjI4",
+  "snapshot_id": "MCxiZDkyZDY3ZmNhY2UxMjM0MDM4Y2E5ODc5Yzk2ZWIxOTBmY2Q0MWZj",
   "tracks": [
     {
       "added_at": "2023-02-13 22:53:29",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
+        "name": "Let Love In (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/3OlT3zr0bvzYYg2Dwn6Fkx"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 370573,
+      "name": "Red Right Hand",
+      "url": "https://open.spotify.com/track/0jVo3e34A15l6MNu1O3cfa"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
         "name": "Version 2.0 (20th Anniversary Deluxe Edition / Remastered)",
         "url": "https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 284600,
       "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
       "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 292586,
-      "name": "Jesus Built My Hotrod",
-      "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -1063,6 +1063,38 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 292586,
+      "name": "Jesus Built My Hotrod",
+      "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
+        "name": "The Boatman's Call (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
         "name": "La Sexorcisto: Devil Music Volume 1",
         "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
       },
@@ -1115,22 +1147,6 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Let Love In (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/3OlT3zr0bvzYYg2Dwn6Fkx"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 370573,
-      "name": "Red Right Hand",
-      "url": "https://open.spotify.com/track/0jVo3e34A15l6MNu1O3cfa"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
         "name": "Cure for Pain",
         "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 199666,
       "name": "Buena",
       "url": "https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 310293,
-      "name": "Just One Fix",
-      "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "The Boatman's Call (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 209266,
       "name": "Dirty Blvd.",
       "url": "https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "A Letter to Elise",
+      "url": "https://open.spotify.com/track/4DdXOLc1VMAY34ourCn1Xa"
     }
   ],
   "unique_name": "Oscuros 90",

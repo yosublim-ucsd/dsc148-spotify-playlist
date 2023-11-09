@@ -938,7 +938,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 260111,
       "name": "IDGAF (feat. Yeat)",
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
@@ -2058,6 +2058,32 @@
       "duration_ms": 142968,
       "name": "WE SEE YOU",
       "url": "https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ"
+    },
+    {
+      "album": {
+        "name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
+        "url": "https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199547,
+      "name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
+      "url": "https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck"
     },
     {
       "album": {

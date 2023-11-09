@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 28547,
+  "num_followers": 28615,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTA4NjJlZDBlMDQ0MzUzMGVjZjMyYWU3NTNjM2IxNmZkOWM2NTYy",
+  "snapshot_id": "MCw4NDkwMGNmODY1NTZkMTA3ZmU0ZWY4ZTMxZjczM2Q1OGVhN2E5YzIz",
   "tracks": [
     {
       "added_at": "2023-11-06 14:56:43",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-11-06 14:56:43",
       "album": {
+        "name": "Bongoloco",
+        "url": "https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Bongoloco",
+      "url": "https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f"
+    },
+    {
+      "added_at": "2023-11-06 14:56:43",
+      "album": {
         "name": "Provenance",
         "url": "https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 271200,
       "name": "Fakez",
       "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
-    },
-    {
-      "added_at": "2023-11-06 14:56:43",
-      "album": {
-        "name": "Bongoloco",
-        "url": "https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Bongoloco",
-      "url": "https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f"
     },
     {
       "added_at": "2023-11-06 14:56:43",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-11-06 14:56:43",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1DI8trL5leqaA8twkT4H0h"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 190874,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/4r2xLZbF6dz6Sq3DkEQF7Z"
-    },
-    {
-      "added_at": "2023-11-06 14:56:43",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 222923,
       "name": "Cold",
       "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
+    },
+    {
+      "added_at": "2023-11-06 14:56:43",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1DI8trL5leqaA8twkT4H0h"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 190874,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/4r2xLZbF6dz6Sq3DkEQF7Z"
     },
     {
       "added_at": "2023-11-06 14:56:43",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2023-11-06 14:56:43",
       "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/3071HCpBw7F9QvLMYV31Jq"
+      },
+      "artists": [
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "Audion",
+          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
+        }
+      ],
+      "duration_ms": 602761,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/0x90eVrDCcd5Xoq2HCWnMS"
+    },
+    {
+      "added_at": "2023-11-06 14:56:43",
+      "album": {
         "name": "Scout",
         "url": "https://open.spotify.com/album/5FMzEjhMgICTx0ynFYbTig"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 344000,
       "name": "Picante",
       "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
-    },
-    {
-      "added_at": "2023-11-06 14:56:43",
-      "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/3071HCpBw7F9QvLMYV31Jq"
-      },
-      "artists": [
-        {
-          "name": "Seth Troxler",
-          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
-        },
-        {
-          "name": "Audion",
-          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
-        }
-      ],
-      "duration_ms": 602761,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/0x90eVrDCcd5Xoq2HCWnMS"
     },
     {
       "added_at": "2023-11-06 14:56:43",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-11-06 14:56:43",
       "album": {
+        "name": "Strung Up",
+        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
+      },
+      "artists": [
+        {
+          "name": "Sorley",
+          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Strung Up",
+      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
+    },
+    {
+      "added_at": "2023-11-06 14:56:43",
+      "album": {
         "name": "Music4TheMasses (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2023-11-06 14:56:43",
       "album": {
-        "name": "Strung Up",
-        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
-      },
-      "artists": [
-        {
-          "name": "Sorley",
-          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Strung Up",
-      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
-    },
-    {
-      "added_at": "2023-11-06 14:56:43",
-      "album": {
         "name": "No Bueno (Extended Mix)",
         "url": "https://open.spotify.com/album/6z3pZ6w15ymHLm4dyOHo6u"
       },
@@ -1307,22 +1307,6 @@
       "duration_ms": 350125,
       "name": "No Bueno (Extended Mix)",
       "url": "https://open.spotify.com/track/3Ayzf6IFTLutVUf9Hyxx2d"
-    },
-    {
-      "added_at": "2023-11-06 14:56:43",
-      "album": {
-        "name": "Galactica",
-        "url": "https://open.spotify.com/album/4qQywGdWd8QiCiND1bwTk3"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 310289,
-      "name": "Galactica",
-      "url": "https://open.spotify.com/track/6mMSSMNcl1WXtSP5A5tG0u"
     },
     {
       "added_at": "2023-11-06 14:56:43",
@@ -1343,6 +1327,42 @@
     {
       "added_at": "2023-11-06 14:56:43",
       "album": {
+        "name": "Galactica",
+        "url": "https://open.spotify.com/album/4qQywGdWd8QiCiND1bwTk3"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 310289,
+      "name": "Galactica",
+      "url": "https://open.spotify.com/track/6mMSSMNcl1WXtSP5A5tG0u"
+    },
+    {
+      "added_at": "2023-11-06 14:56:43",
+      "album": {
+        "name": "Do One EP",
+        "url": "https://open.spotify.com/album/5aGWQJq8ewvgKOgRpIFddl"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Robinson",
+          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "0121 Do One",
+      "url": "https://open.spotify.com/track/02wFfnZKAuBcyxjtaxWwIA"
+    },
+    {
+      "added_at": "2023-11-06 14:56:43",
+      "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/7g0uWDHesKV8s9JvFHRLIS"
       },
@@ -1355,6 +1375,22 @@
       "duration_ms": 221818,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/5QQSZ36V2Jsh6jgnc2Bysn"
+    },
+    {
+      "added_at": "2023-11-06 14:56:43",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa"
+      },
+      "artists": [
+        {
+          "name": "Sam Paganini",
+          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        }
+      ],
+      "duration_ms": 420559,
+      "name": "Another Chance",
+      "url": "https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH"
     },
     {
       "added_at": "2023-11-06 14:56:43",
@@ -1411,22 +1447,6 @@
     {
       "added_at": "2023-11-06 14:56:43",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa"
-      },
-      "artists": [
-        {
-          "name": "Sam Paganini",
-          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
-        }
-      ],
-      "duration_ms": 420559,
-      "name": "Another Chance",
-      "url": "https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH"
-    },
-    {
-      "added_at": "2023-11-06 14:56:43",
-      "album": {
         "name": "LOL",
         "url": "https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 321818,
       "name": "LOL",
       "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
-    },
-    {
-      "added_at": "2023-11-06 14:56:43",
-      "album": {
-        "name": "Do One EP",
-        "url": "https://open.spotify.com/album/5aGWQJq8ewvgKOgRpIFddl"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Robinson",
-          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
-        },
-        {
-          "name": "DJ ADHD",
-          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "0121 Do One",
-      "url": "https://open.spotify.com/track/02wFfnZKAuBcyxjtaxWwIA"
     },
     {
       "added_at": "2023-11-06 14:56:43",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-11-06 14:56:43",
       "album": {
+        "name": "Jump Ship",
+        "url": "https://open.spotify.com/album/4BvWZEC1BIYEq0GM7Bw3qC"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 381431,
+      "name": "Jump Ship",
+      "url": "https://open.spotify.com/track/5V6srZGdQEeOMbwlcEOLqy"
+    },
+    {
+      "added_at": "2023-11-06 14:56:43",
+      "album": {
         "name": "Superlicious",
         "url": "https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y"
       },
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2023-11-06 14:56:43",
       "album": {
-        "name": "Jump Ship",
-        "url": "https://open.spotify.com/album/4BvWZEC1BIYEq0GM7Bw3qC"
-      },
-      "artists": [
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 381431,
-      "name": "Jump Ship",
-      "url": "https://open.spotify.com/track/5V6srZGdQEeOMbwlcEOLqy"
-    },
-    {
-      "added_at": "2023-11-06 14:56:43",
-      "album": {
         "name": "Pronosticos Cachito",
         "url": "https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e"
       },
@@ -1607,6 +1607,26 @@
       "duration_ms": 240000,
       "name": "Pronosticos Cachito",
       "url": "https://open.spotify.com/track/3lBQvzsycvySqg739cOGew"
+    },
+    {
+      "added_at": "2023-11-06 14:56:43",
+      "album": {
+        "name": "Nywtf (feat. Mikhail Beltran)",
+        "url": "https://open.spotify.com/album/1xiDEFjzO0Il22pdIk3oo7"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Mikhail Beltran",
+          "url": "https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "NYWTF (feat. Mikhail Beltran) - Edit",
+      "url": "https://open.spotify.com/track/3FoOzVf0Snj4ym2xjZCikn"
     },
     {
       "added_at": "2023-11-06 14:56:43",
@@ -1687,6 +1707,22 @@
     {
       "added_at": "2023-11-06 14:56:43",
       "album": {
+        "name": "summer '23",
+        "url": "https://open.spotify.com/album/2EbpNouTaGpQLUPQ6xfXJ4"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 379218,
+      "name": "street knowledge.",
+      "url": "https://open.spotify.com/track/711gJWmej4ldX9N7BJQvbR"
+    },
+    {
+      "added_at": "2023-11-06 14:56:43",
+      "album": {
         "name": "Beats On Fire",
         "url": "https://open.spotify.com/album/42KeFM94VajibjjWtsPq41"
       },
@@ -1703,18 +1739,18 @@
     {
       "added_at": "2023-11-06 14:56:43",
       "album": {
-        "name": "summer '23",
-        "url": "https://open.spotify.com/album/2EbpNouTaGpQLUPQ6xfXJ4"
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/12quZo2PlX4wa0k6S1NveB"
       },
       "artists": [
         {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
         }
       ],
-      "duration_ms": 379218,
-      "name": "street knowledge.",
-      "url": "https://open.spotify.com/track/711gJWmej4ldX9N7BJQvbR"
+      "duration_ms": 201172,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/68qcK1XoQLaaI3NNNEYdaQ"
     },
     {
       "added_at": "2023-11-06 14:56:43",
@@ -1739,18 +1775,22 @@
     {
       "added_at": "2023-11-06 14:56:43",
       "album": {
-        "name": "Unique EP",
-        "url": "https://open.spotify.com/album/1p5cdny6T3dcuF0vFlkpjF"
+        "name": "The Attention Deficit Track",
+        "url": "https://open.spotify.com/album/45KWFCVez0XRbv74zCYSTc"
       },
       "artists": [
         {
-          "name": "Fleur Shore",
-          "url": "https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil"
+          "name": "Jackmaster",
+          "url": "https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
         }
       ],
-      "duration_ms": 243720,
-      "name": "Unique",
-      "url": "https://open.spotify.com/track/7chDllCV1g3mIf27gjOJnl"
+      "duration_ms": 228420,
+      "name": "The Attention Deficit Track - Edit",
+      "url": "https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW"
     },
     {
       "added_at": "2023-11-06 14:56:43",
@@ -1771,42 +1811,6 @@
       "duration_ms": 267906,
       "name": "Porompompom",
       "url": "https://open.spotify.com/track/7CNtkmRjPUXyGfAleRmkvk"
-    },
-    {
-      "added_at": "2023-11-06 14:56:43",
-      "album": {
-        "name": "Samba Drone",
-        "url": "https://open.spotify.com/album/6YXJp70sOxhBtGJ1xjZ0xa"
-      },
-      "artists": [
-        {
-          "name": "Rony Seikaly",
-          "url": "https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB"
-        },
-        {
-          "name": "Paco Osuna",
-          "url": "https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3"
-        }
-      ],
-      "duration_ms": 430090,
-      "name": "Samba Drone - Paco Osuna Remix",
-      "url": "https://open.spotify.com/track/69pq8Gkwg6IeqfyhbgqESi"
-    },
-    {
-      "added_at": "2023-11-06 14:56:43",
-      "album": {
-        "name": "Persefone EP",
-        "url": "https://open.spotify.com/album/2ripLUy3pKcxCiA3Va7NX3"
-      },
-      "artists": [
-        {
-          "name": "Cuartero",
-          "url": "https://open.spotify.com/artist/3k9XSew0mrAQytiYyIXf18"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "Persefone",
-      "url": "https://open.spotify.com/track/6Y7zsTTF0NJgJGssD6BOJP"
     }
   ],
   "unique_name": "Minimal Tech",

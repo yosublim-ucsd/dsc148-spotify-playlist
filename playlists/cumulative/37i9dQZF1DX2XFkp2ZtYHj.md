@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-189 songs - 8 hr 0 min
+195 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Amalgam](https://open.spotify.com/track/0i4LbBW7DOlVcXThcRlbsP) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Amalgam](https://open.spotify.com/album/4fK4kG2XPZkaP9p0zrEV9k) | 2:12 | 2023-10-18 |  |
 | [An Inward Stillness](https://open.spotify.com/track/2uz5jMm6bt6UkoLtj6eaug) | [Augustino](https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC) | [An Inward Stillness](https://open.spotify.com/album/1DCzbv2wKumot4uzhCFAdW) | 2:42 | 2023-10-18 |  |
 | [Anima I](https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima I](https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG) | 3:01 | 2023-10-18 |  |
+| [Antique Clock](https://open.spotify.com/track/0LenKLAcx2fIHmPGBbLWpn) | [Vox Pacis](https://open.spotify.com/artist/5gu1Bq9TsFRfNLweos0T1Z) | [Antique Clock](https://open.spotify.com/album/1Pbl3p0NMDIm4LQXISV7WB) | 2:20 | 2023-11-08 |  |
 | [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 | 2023-10-18 |  |
 | [As light as the air](https://open.spotify.com/track/1SNBgthMKmIvlpKRA0iIOX) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [As light as the air](https://open.spotify.com/album/3a512iHJ1gKxDTl863RzKH) | 2:58 | 2023-10-18 |  |
 | [At A Glance](https://open.spotify.com/track/2UsLov7NMKkN1Uh9WUBEw9) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [At A Glance](https://open.spotify.com/album/4vBxCrmYU5niiq6ihQiYd0) | 2:37 | 2023-10-18 |  |
@@ -28,6 +29,8 @@
 | [Autumn Sky](https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Autumn Sky](https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT) | 2:38 | 2023-10-18 |  |
 | [Aviron](https://open.spotify.com/track/6AZJTapFookh7e2ot25hZE) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Prospicio](https://open.spotify.com/album/2Jva3LhKgM8We64wBcUtAX) | 2:30 | 2023-10-18 |  |
 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 | 2023-10-18 |  |
+| [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 | 2023-11-08 |  |
+| [Beckoning](https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Beckoning](https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a) | 2:00 | 2023-11-08 |  |
 | [Between the Heaves](https://open.spotify.com/track/67k8S3GXTelujadCL0MzZN) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Between the Heaves](https://open.spotify.com/album/50dcAZn3eoMrJlNtKq09qd) | 2:15 | 2023-10-18 |  |
 | [Between The Lines](https://open.spotify.com/track/33BPMNYcPhcua4D5MhJa6d) | [Michel Haspeslagh](https://open.spotify.com/artist/3pBbMbMr7qdCr9OA3hasPl) | [Between The lines](https://open.spotify.com/album/5jDKJJoabz0LeU11vXVfRR) | 2:35 | 2023-10-18 |  |
 | [Bird of Passage](https://open.spotify.com/track/79XrQYbxrhehKlaT70VfxN) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Bird of Passage](https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO) | 2:07 | 2023-10-18 |  |
@@ -73,6 +76,7 @@
 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 | 2023-10-18 |  |
 | [Free Falling](https://open.spotify.com/track/6ruIYimg1WHbK2ciDt1hWv) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Free Falling](https://open.spotify.com/album/1xX4HiqbN3j0R4F71pbLHe) | 3:19 | 2023-10-18 |  |
 | [Friedliebend](https://open.spotify.com/track/1DhBkcETHP709aHSpJozE7) | [Heike Blau](https://open.spotify.com/artist/3dcO6J0QtVq4xwePBwkq3W) | [Friedliebend](https://open.spotify.com/album/0ErzD4yq39nTwzDwAIIfhy) | 2:12 | 2023-10-18 |  |
+| [From the Seas and the Streams](https://open.spotify.com/track/2AotVdY2lkRFWn0j5dQymP) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [From the Seas and the Streams](https://open.spotify.com/album/0SFqRZjTN8wcgIPG4E7ulc) | 2:29 | 2023-11-08 |  |
 | [Garden Of Dreams](https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Garden Of Dreams](https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B) | 2:49 | 2023-10-18 |  |
 | [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-10-18 |  |
 | [Harsa](https://open.spotify.com/track/4ynhellTDGYbADxBswSGAS) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Harsa](https://open.spotify.com/album/52TFBADvgZIXGoLIoTs4z6) | 2:04 | 2023-10-18 |  |
@@ -89,6 +93,7 @@
 | [Ingénue](https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Ingénue](https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b) | 2:27 | 2023-10-18 |  |
 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 | 2023-10-18 |  |
 | [Insignia](https://open.spotify.com/track/17moSSyt9oOxVHyewjXLav) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Insignia](https://open.spotify.com/album/6KljnSEKSgk32JLRN4Vd9H) | 2:58 | 2023-10-18 |  |
+| [Interim](https://open.spotify.com/track/60CfZTCT1iHQdnjNrnvpZP) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Interim](https://open.spotify.com/album/1P6PbFhwgTaXXjsl9H6Nh0) | 2:19 | 2023-11-08 |  |
 | [Into The Wild](https://open.spotify.com/track/218oB0WObOdE8kYYVvrPpU) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Into The Wild](https://open.spotify.com/album/3RTuxds03kAxRjXfc2VyFR) | 3:11 | 2023-10-18 |  |
 | [Irenic](https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Irenic](https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx) | 2:57 | 2023-10-18 |  |
 | [It's You I'm Seeking](https://open.spotify.com/track/7pbAbWrlXKoycD9q6BGXqq) | [Matt van Stern](https://open.spotify.com/artist/6R18bmvwvBLIz0r9XsIOza) | [It's You I'm Seeking](https://open.spotify.com/album/3KMNb1SNtbjrIABtPcWEbR) | 2:40 | 2023-10-18 |  |
@@ -107,6 +112,7 @@
 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 | 2023-10-18 |  |
 | [Longing for You](https://open.spotify.com/track/33CNA3gUX4HkShLA3ILNjs) | [Gabriela Ohm](https://open.spotify.com/artist/3UvBxuvjgjOfzdIM84Pm2g) | [Longing for You](https://open.spotify.com/album/2v6a6jspsycdaJvdydLgRE) | 2:18 | 2023-10-18 |  |
 | [Looseleft](https://open.spotify.com/track/36TroPa4PgkiGIKPk3nKsM) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Looseleft](https://open.spotify.com/album/61w2XTrZbHL70AnfX5tzQp) | 2:37 | 2023-10-18 |  |
+| [Lost to memories](https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Lost to memories](https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj) | 2:14 | 2023-11-08 |  |
 | [Lugn](https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lugn](https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh) | 2:18 | 2023-10-18 |  |
 | [Luminous](https://open.spotify.com/track/08vlEPtp1Pxz4IJWsZnMJR) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Luminous](https://open.spotify.com/album/1hWA2NOx6oYqSDAyiEIn3q) | 3:24 | 2023-10-18 |  |
 | [Ma danse avec toi](https://open.spotify.com/track/0DZwhqf4al0ykWMR9azxz5) | [Oscar Latreux](https://open.spotify.com/artist/3sdfC805aK4OSRQ5YdlDLK) | [Ma danse avec toi](https://open.spotify.com/album/1g81bFVcK5rzjJuG4pzzRx) | 2:05 | 2023-10-18 |  |

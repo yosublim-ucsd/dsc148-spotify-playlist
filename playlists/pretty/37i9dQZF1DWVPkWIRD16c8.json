@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 113968,
+  "num_followers": 114260,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODkyNjA2OWJlMzBhYWZiZDA1YzAzMDg3NjM4ZTA1N2QxOTRjMTY2",
+  "snapshot_id": "MCwyOWQzOWQ4NTllNTM2M2NmN2E0ZWUzM2FkY2Y4Y2VjYTAzY2NjMjM4",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:16",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 261880,
+      "name": "The Only Name (Yours Will Be)",
+      "url": "https://open.spotify.com/track/3Ba5WQizFbQPRN7MtlXoTF"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "Royal Tailor",
         "url": "https://open.spotify.com/album/2VDnekBdHv9CuNpu3yBMZa"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 209440,
       "name": "Ready Set Go (feat. Capital Kings) (feat. Capital Kings)",
       "url": "https://open.spotify.com/track/0HbjDc4BM2kXEuiOGf8nPl"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "Love Come To Life",
-        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 261880,
-      "name": "The Only Name (Yours Will Be)",
-      "url": "https://open.spotify.com/track/3Ba5WQizFbQPRN7MtlXoTF"
     },
     {
       "added_at": "2023-02-07 17:43:16",

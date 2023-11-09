@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,564 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,777 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 24 | [La Cuichi](https://open.spotify.com/track/5MJWoHFH5pOemxZuObv42p) | [Banda Sinaloense El Recodo De Cruz Lizarraga](https://open.spotify.com/artist/7sDRPHDNEOmnPgyfYWUITM) | [Me Gusta Todo De Ti](https://open.spotify.com/album/4hvGomO1PrVwRkfBZqigSO) | 2:00 |
 | 25 | [El Ahualulco](https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Que Bonito Es Lo Bonito](https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl) | 2:46 |
 | 26 | [Flor de Piña](https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Carnavaleando con la Tierra Mojada](https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ) | 3:44 |
-| 27 | [Arriba Pichataro](https://open.spotify.com/track/2LlavtI2ZyzTEEgPwOXrLg) | [Banda La Jaripera](https://open.spotify.com/artist/5uZqerP5PYAlfakWKAU5DX) | [Banda La Jaripera Vol.1](https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn) | 2:25 |
-| 28 | [Molinos de Viento](https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Que Se Arme la Fiesta](https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO) | 4:00 |
+| 27 | [Molinos de Viento](https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Que Se Arme la Fiesta](https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO) | 4:00 |
+| 28 | [Arriba Pichataro](https://open.spotify.com/track/2LlavtI2ZyzTEEgPwOXrLg) | [Banda La Jaripera](https://open.spotify.com/artist/5uZqerP5PYAlfakWKAU5DX) | [Banda La Jaripera Vol.1](https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn) | 2:25 |
 | 29 | [Los Viejitos](https://open.spotify.com/track/57wRXy4jEeTVQvXCl4j2oq) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Underground](https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0) | 3:48 |
 | 30 | [Por Una Lagrima](https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5) | [Marcos Flores](https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D), [Banda Jerez](https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn) | [De Nueva Cuenta](https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4) | 2:58 |
 | 31 | [A Quién No Le Gusta Eso](https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Con Sangre Ranchera](https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 99 | [La Vaquilla, El Pájaro Chogüi](https://open.spotify.com/track/5hiixMpxeytn72OjwV0eFt) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 5:00 |
 | 100 | [El Colirio](https://open.spotify.com/track/5mP19u1ndgdqtegwiTXpoU) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Sones Raíces](https://open.spotify.com/album/3NBDJkiyvtvl77Zvs2JIph) | 2:07 |
 
-Snapshot ID: `MCxhYWE1NDk1ZGJhNjhiYWJiM2E0OGQ5YmZiZjVjNWUxYWQ1YzI4NzMz`
+Snapshot ID: `MCw0MjA5NDM3YmI2ZDJiOTlmMmQ1MTEyYzFmY2M4MzgwZWIxZmI2OWE5`

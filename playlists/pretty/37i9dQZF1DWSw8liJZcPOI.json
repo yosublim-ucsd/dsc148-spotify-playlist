@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 50775,
+  "num_followers": 50932,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGZkZTg0MmNjYmE0ZjUwODUzOTE0NmZmMTQ3ZmE4NzAyZTc4NDVk",
+  "snapshot_id": "MCxjZTQ5YTIwNjE2ODBiN2ZmMjk1ZGZmOGEwNWE3YjY1Y2EzZDVkODIz",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Old Friends New Friends",
+        "url": "https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 198584,
+      "name": "Late",
+      "url": "https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Deux Pens\u00e9es",
         "url": "https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA"
       },
@@ -263,26 +279,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "A Lifetime Rolls By (annasara Rework)",
-        "url": "https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo"
-      },
-      "artists": [
-        {
-          "name": "BPMoore",
-          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
-        },
-        {
-          "name": "annasara",
-          "url": "https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "A Lifetime Rolls By - annasara Rework",
-      "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Delicately",
         "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
       },
@@ -303,6 +299,26 @@
       "duration_ms": 123251,
       "name": "Delicately",
       "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "A Lifetime Rolls By (annasara Rework)",
+        "url": "https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo"
+      },
+      "artists": [
+        {
+          "name": "BPMoore",
+          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
+        },
+        {
+          "name": "annasara",
+          "url": "https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ"
+        }
+      ],
+      "duration_ms": 176120,
+      "name": "A Lifetime Rolls By - annasara Rework",
+      "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -367,22 +383,6 @@
       "duration_ms": 168398,
       "name": "Balcony Hotel - From 'Miss'",
       "url": "https://open.spotify.com/track/1ugTSkllKG0YdiPaOEPa0z"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Old Friends New Friends",
-        "url": "https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 198584,
-      "name": "Late",
-      "url": "https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Flow State Vestida 4",
-        "url": "https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE"
-      },
-      "artists": [
-        {
-          "name": "Danny Mulhern",
-          "url": "https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Flow State Vestida 4",
-      "url": "https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Suite in D IV (Dreamland)",
         "url": "https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 174107,
       "name": "Suite in D IV (Dreamland)",
       "url": "https://open.spotify.com/track/28sw29g4kMAqnsWHQkqRhZ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Flow State Vestida 4",
+        "url": "https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE"
+      },
+      "artists": [
+        {
+          "name": "Danny Mulhern",
+          "url": "https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Flow State Vestida 4",
+      "url": "https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Riverscape",
-        "url": "https://open.spotify.com/album/5TS8osFEMF2oHUwKWnS0Qw"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Paterlini",
-          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
-        }
-      ],
-      "duration_ms": 154041,
-      "name": "Riverscape",
-      "url": "https://open.spotify.com/track/5GwVkYN0uWaS9rwNezJAZg"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Longhope",
         "url": "https://open.spotify.com/album/4lSb0FHWXuVNF4aQCSJqI0"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 211000,
       "name": "Longhope - Edit",
       "url": "https://open.spotify.com/track/3KewUrX9nBSs6KMtFvw6wq"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Riverscape",
+        "url": "https://open.spotify.com/album/5TS8osFEMF2oHUwKWnS0Qw"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Paterlini",
+          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
+        }
+      ],
+      "duration_ms": 154041,
+      "name": "Riverscape",
+      "url": "https://open.spotify.com/track/5GwVkYN0uWaS9rwNezJAZg"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "In Cold Light",
-      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Esja",
         "url": "https://open.spotify.com/album/3aBD10mWdF7VfHpMRl9u1t"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+        "name": "Human",
+        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
       },
       "artists": [
         {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
         }
       ],
-      "duration_ms": 286986,
-      "name": "No Step on Wing",
-      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
+      "duration_ms": 232040,
+      "name": "In Cold Light",
+      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1099,6 +1083,22 @@
       "duration_ms": 159594,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/0sys3zb0Gssvi2mQNky4tB"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 286986,
+      "name": "No Step on Wing",
+      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Okno",
+        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
+      },
+      "artists": [
+        {
+          "name": "Julia Gjertsen",
+          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Okno",
+      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Escape (Hania Rani Remix)",
         "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 267330,
       "name": "Escape - Hania Rani Remix",
       "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Okno",
-        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
-      },
-      "artists": [
-        {
-          "name": "Julia Gjertsen",
-          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Okno",
-      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "A",
-        "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Farnon",
-          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "A",
-      "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Komorebi",
         "url": "https://open.spotify.com/album/4e7oJ12PgNYRY0tjPditKL"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 183653,
       "name": "From All Who Came Before",
       "url": "https://open.spotify.com/track/0iO5O7uyrySeuvOS4O5Azg"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Farnon",
+          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "A",
+      "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Time It Takes",
-        "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
-      },
-      "artists": [
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Tripping with Nils Frahm",
         "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Waterfelt",
-        "url": "https://open.spotify.com/album/6H5PZmSZzvTXLlt07qzNZk"
+        "name": "The Time It Takes",
+        "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
       },
       "artists": [
         {
-          "name": "Joel Christian Goffin",
-          "url": "https://open.spotify.com/artist/658h552Ad4Rs9s9jwcWVuF"
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
         }
       ],
-      "duration_ms": 223326,
-      "name": "Waterfelt",
-      "url": "https://open.spotify.com/track/0lWBHo6UlkykeDpwAiwOv4"
+      "duration_ms": 181106,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1475,6 +1459,22 @@
       "duration_ms": 234683,
       "name": "Next Winter",
       "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Waterfelt",
+        "url": "https://open.spotify.com/album/6H5PZmSZzvTXLlt07qzNZk"
+      },
+      "artists": [
+        {
+          "name": "Joel Christian Goffin",
+          "url": "https://open.spotify.com/artist/658h552Ad4Rs9s9jwcWVuF"
+        }
+      ],
+      "duration_ms": 223326,
+      "name": "Waterfelt",
+      "url": "https://open.spotify.com/track/0lWBHo6UlkykeDpwAiwOv4"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
-      },
-      "artists": [
-        {
-          "name": "Matteo de Grandis",
-          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
-        }
-      ],
-      "duration_ms": 201181,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Floreana",
         "url": "https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl"
       },
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
+      },
+      "artists": [
+        {
+          "name": "Matteo de Grandis",
+          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
+        }
+      ],
+      "duration_ms": 201181,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Nomadland (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
       },
@@ -1739,6 +1739,22 @@
       "duration_ms": 246257,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
+      },
+      "artists": [
+        {
+          "name": "Autonomy",
+          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+        }
+      ],
+      "duration_ms": 127995,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1795,22 +1811,6 @@
       "duration_ms": 173373,
       "name": "Tranquillant",
       "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Black Dog",
-        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
-      },
-      "artists": [
-        {
-          "name": "Autonomy",
-          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
-        }
-      ],
-      "duration_ms": 127995,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
     }
   ],
   "unique_name": "Not Quite Classical",

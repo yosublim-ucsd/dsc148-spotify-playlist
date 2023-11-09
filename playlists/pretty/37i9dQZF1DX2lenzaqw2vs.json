@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Rubio",
-  "num_followers": 133920,
+  "num_followers": 133924,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTUyY2M4ZGFmN2ZjNzYwZjNjMmMyZGZhZDMxMzE3MmUwZDM1MWNm",
+  "snapshot_id": "MCwyMDExMzk0OTc4NTgwNmIyODg5YjUwM2M1YWQwN2Q1NmIxNmJmNTIw",
   "tracks": [
     {
       "added_at": "2023-10-20 15:49:32",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-10-20 15:49:32",
       "album": {
+        "name": "Los Caminos Del Amor",
+        "url": "https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 232520,
+      "name": "Los Caminos Del Amor",
+      "url": "https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym"
+    },
+    {
+      "added_at": "2023-10-20 15:49:32",
+      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
-    },
-    {
-      "added_at": "2023-10-20 15:49:32",
-      "album": {
-        "name": "Los Caminos Del Amor",
-        "url": "https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 232520,
-      "name": "Los Caminos Del Amor",
-      "url": "https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym"
     },
     {
       "added_at": "2023-10-20 15:49:32",

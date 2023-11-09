@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Black Pumas
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,414 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,451 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 62 | [So Many Ways to Get Downtown](https://open.spotify.com/track/4omjWR9RUMNQlEWTRHaYk8) | [Próxima Parada](https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz) | [So Many Ways to Get Downtown](https://open.spotify.com/album/3tdYWWWZNhSlRDWpW3B629) | 4:42 |
 | 63 | [No Expectations](https://open.spotify.com/track/2JI4L5N7qckQcBTjGpa4B6) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [No Expectations](https://open.spotify.com/album/2fgZgqz3lF2s6VInAWqQdQ) | 3:20 |
 | 64 | [King for a Day](https://open.spotify.com/track/6QYYVuvynDJctOwwUTLfhX) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:44 |
-| 65 | [Repent \- Live](https://open.spotify.com/track/6QvdT4W0W66JZG2Lsf5W1u) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Repent \(Live\)](https://open.spotify.com/album/5YpSuMVamsS1LjbUNvhjZi) | 5:45 |
+| 65 | [Repent \- Live](https://open.spotify.com/track/4hadhnkBkGXXr64fo0pFts) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Raw In Amsterdam \(Live\)](https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd) | 5:45 |
 | 66 | [Mister Right on Time](https://open.spotify.com/track/6S8kMyXvoObx7Eoiw7W6S8) | [Alexis Evans](https://open.spotify.com/artist/1aThYS3aYrPrZWjgtZFhKp) | [Yours Truly](https://open.spotify.com/album/7Dxskns0C1Z3jizDl95R2Y) | 4:27 |
 | 67 | [When the Mask Comes Off](https://open.spotify.com/track/1x5s8V3Ap66zASK4fIFqwu) | [Leo Sidran](https://open.spotify.com/artist/2HpgbqUcGmk4M2dG9wph1h), [Das Pap](https://open.spotify.com/artist/5J22w8sQKDpPfnNlAlFm9K), [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Ben Flocks](https://open.spotify.com/artist/57Ce6izcYKvFOFlhsUFzLJ) | [What's Trending](https://open.spotify.com/album/6LQPy6YPlTKEgimOeUACAT) | 3:58 |
 | 68 | [The Shape You're In](https://open.spotify.com/track/1BJxmRt9saJHarR5ccoHAj) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [The Shape You're In](https://open.spotify.com/album/7hbu9HtrZzjg0WicqnlzxN) | 3:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 79 | [Crazy For You](https://open.spotify.com/track/1sRLsk8xQJA3dQPu6iglM7) | [Conor Hughes](https://open.spotify.com/artist/7uVGtNmhKU2sOSmAvr4ElW) | [Crazy For You](https://open.spotify.com/album/6kiv0BqEcRjmm7Ef4JYWKd) | 2:46 |
 | 80 | [Oceans Of Emotions](https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 3:53 |
 
-Snapshot ID: `MCw0YWE5OGU1OWNiNThmMDIzNDViNzhjYmFlNDM4NTJmOWNkNTI0MmRh`
+Snapshot ID: `MCxmNmQ0MTUyNmM4MGNjZDBhYThlNGRkY2NlZDJkNDdmNDMxMmNlZDcz`

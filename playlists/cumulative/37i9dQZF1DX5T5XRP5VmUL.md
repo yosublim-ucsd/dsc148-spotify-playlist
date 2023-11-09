@@ -4,7 +4,7 @@
 
 > Dreaming of a white Christmas ✨❄️
 
-325 songs - 17 hr 48 min
+326 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Mary, Did You Know?](https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:23 | 2023-10-13 |  |
 | [Maybe This Christmas](https://open.spotify.com/track/3TrwJl33jfgEJDdwpSa2lK) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [The O.C\. Mix 3 Have A Very Merry Chrismukkah](https://open.spotify.com/album/6NIY572otUHYWANBBa4fiq) | 1:52 | 2021-12-24 | 2022-07-28 |
 | [Maybe This Christmas](https://open.spotify.com/track/52qdJ88vESWGhFo3Hu7WEH) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Maybe This Christmas](https://open.spotify.com/album/2X4eD8NAwuPT9inq0yAZCY) | 1:52 | 2021-12-24 | 2023-10-30 |
+| [Maybe This Christmas](https://open.spotify.com/track/0c58Aj6LMtGrYASYmjl2kR) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Mellow Christmas Acoustic](https://open.spotify.com/album/7a9xO4nvdqFcrMb2eHtojJ) | 1:52 | 2023-10-27 |  |
 | [Merry Christmas](https://open.spotify.com/track/6B8tOwbbbvRkGBrFw2PJB1) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Merry Christmas](https://open.spotify.com/album/4e4Amgi25FhDCFIYhbyuEh) | 2:30 | 2021-12-24 |  |
 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 | 2023-10-13 |  |
 | [Merry Christmas Everybody](https://open.spotify.com/track/5y4tLbaZJ4Yzy5W5Flksmk) | [Eleven Past One](https://open.spotify.com/artist/3nkE7E51pOn9kif5cyC2eb) | [Merry Christmas Everybody](https://open.spotify.com/album/1yupCayowArixzFoXupKoz) | 3:16 | 2021-12-24 | 2022-07-27 |
@@ -314,7 +315,7 @@
 | [We'll Be Alright](https://open.spotify.com/track/4AXX2fes8GOdvuCUjadbmT) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [We'll Be Alright](https://open.spotify.com/album/4MEHD7eRexeF3cpIlauzM1) | 2:14 | 2022-10-29 |  |
 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/3Mtn0qUhUg0ykT0AKFkcWr) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [What Are You Doing New Year's Eve](https://open.spotify.com/album/0A3jVFaGT9SHplxTBzTQg4) | 1:55 | 2021-12-24 | 2023-10-14 |
 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/42DRM86n9XCMFrlgZQ0MZn) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [What Are You Doing New Year's Eve](https://open.spotify.com/album/0th0Dcu3NKB3LdlCZyQfZc) | 1:55 | 2021-12-24 | 2022-07-28 |
-| [What Are You Doing New Year's Eve?](https://open.spotify.com/track/4I8k8kj0EpsdrQXLlscgpF) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [What Are You Doing New Year's Eve?](https://open.spotify.com/album/4DPj2AE6aRUjDFMMSgfw9x) | 3:53 | 2023-10-27 |  |
+| [What Are You Doing New Year's Eve?](https://open.spotify.com/track/4I8k8kj0EpsdrQXLlscgpF) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [What Are You Doing New Year's Eve?](https://open.spotify.com/album/4DPj2AE6aRUjDFMMSgfw9x) | 3:53 | 2023-10-27 | 2023-11-09 |
 | [What Child Is This](https://open.spotify.com/track/0lEEDHdUyqVQKClt7cVUcF) | [Natalie MacMaster](https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t), [Donnell Leahy](https://open.spotify.com/artist/7zFuGV4X2lsYCF2QRZOCBu) | [A Celtic Family Christmas](https://open.spotify.com/album/5VK7arkKtcMJBTJOlB34cS) | 4:14 | 2021-12-24 | 2023-09-11 |
 | [What Child Is This](https://open.spotify.com/track/3xjspY9inGDfhKv6Ksl4D5) | [Natalie MacMaster](https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t), [Donnell Leahy](https://open.spotify.com/artist/7zFuGV4X2lsYCF2QRZOCBu) | [A Celtic Family Christmas](https://open.spotify.com/album/1Y6TIxPLTw9ZMPpRU3Qpry) | 4:14 | 2021-12-24 | 2022-07-28 |
 | [What Christmas Means To Me](https://open.spotify.com/track/5MPd7GzOkGRoFBaSqmqiSL) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:43 | 2023-10-13 |  |

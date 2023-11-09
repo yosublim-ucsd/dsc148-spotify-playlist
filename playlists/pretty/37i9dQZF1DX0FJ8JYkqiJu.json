@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 385073,
+  "num_followers": 385155,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDY0YTVkYzkzMzdkNGRlMzQzNmU1ZWE3NTIyMjBkZDg5NzQ4NTgy",
+  "snapshot_id": "MCxjMWQzOGZmYjMyODI5N2ZiZTBhOTMyYWIzYzk1NjQyZmFhMzNlMDkz",
   "tracks": [
     {
       "added_at": "2023-11-01 16:40:32",
@@ -167,18 +167,26 @@
     {
       "added_at": "2023-11-01 16:40:32",
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
+        "name": "Random Access Memories (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        },
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
         }
       ],
-      "duration_ms": 138951,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
+      "duration_ms": 239213,
+      "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
+      "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
     },
     {
       "added_at": "2023-11-01 16:40:32",
@@ -203,26 +211,18 @@
     {
       "added_at": "2023-11-01 16:40:32",
       "album": {
-        "name": "Random Access Memories (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0"
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
       },
       "artists": [
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        },
-        {
-          "name": "Julian Casablancas",
-          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
-        },
-        {
-          "name": "The Voidz",
-          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 239213,
-      "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
-      "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
     },
     {
       "added_at": "2023-11-01 16:40:32",
@@ -271,6 +271,26 @@
     {
       "added_at": "2023-11-01 16:40:32",
       "album": {
+        "name": "In Another Lifetime",
+        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Hero Baldwin",
+          "url": "https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6"
+        }
+      ],
+      "duration_ms": 284563,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
+    },
+    {
+      "added_at": "2023-11-01 16:40:32",
+      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 215000,
       "name": "Feel Like Makin' Love (feat. Roberta Flack)",
       "url": "https://open.spotify.com/track/5789JwERVglbf574Olz2Bi"
-    },
-    {
-      "added_at": "2023-11-01 16:40:32",
-      "album": {
-        "name": "In Another Lifetime",
-        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Hero Baldwin",
-          "url": "https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6"
-        }
-      ],
-      "duration_ms": 284563,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
     },
     {
       "added_at": "2023-11-01 16:40:32",
@@ -355,22 +355,18 @@
     {
       "added_at": "2023-11-01 16:40:32",
       "album": {
-        "name": "DO 4 LOVE (Black Coffee Remix)",
-        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 224281,
-      "name": "DO 4 LOVE - Black Coffee Remix",
-      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
+      "duration_ms": 214346,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
     },
     {
       "added_at": "2023-11-01 16:40:32",
@@ -391,18 +387,22 @@
     {
       "added_at": "2023-11-01 16:40:32",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+        "name": "DO 4 LOVE (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         }
       ],
-      "duration_ms": 214346,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
+      "duration_ms": 224281,
+      "name": "DO 4 LOVE - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
     },
     {
       "added_at": "2023-11-01 16:40:32",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-11-01 16:40:32",
       "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
+    },
+    {
+      "added_at": "2023-11-01 16:40:32",
+      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -519,38 +535,18 @@
     {
       "added_at": "2023-11-01 16:40:32",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+        "name": "Amman",
+        "url": "https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ"
       },
       "artists": [
         {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        },
-        {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 197739,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
-    },
-    {
-      "added_at": "2023-11-01 16:40:32",
-      "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 198813,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
+      "duration_ms": 208290,
+      "name": "Amman",
+      "url": "https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r"
     },
     {
       "added_at": "2023-11-01 16:40:32",
@@ -571,18 +567,22 @@
     {
       "added_at": "2023-11-01 16:40:32",
       "album": {
-        "name": "Amman",
-        "url": "https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
       },
       "artists": [
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        },
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
         }
       ],
-      "duration_ms": 208290,
-      "name": "Amman",
-      "url": "https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r"
+      "duration_ms": 197739,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
     },
     {
       "added_at": "2023-11-01 16:40:32",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-11-01 16:40:32",
       "album": {
-        "name": "Kahan (last year)",
-        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Kahan (last year)",
-      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
-    },
-    {
-      "added_at": "2023-11-01 16:40:32",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 254791,
       "name": "Deadbeat Gospel",
       "url": "https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT"
+    },
+    {
+      "added_at": "2023-11-01 16:40:32",
+      "album": {
+        "name": "Kahan (last year)",
+        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Kahan (last year)",
+      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
     },
     {
       "added_at": "2023-11-01 16:40:32",
@@ -747,6 +747,38 @@
     {
       "added_at": "2023-11-01 16:40:32",
       "album": {
+        "name": "Back In Love",
+        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 281253,
+      "name": "Back In Love",
+      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
+    },
+    {
+      "added_at": "2023-11-01 16:40:32",
+      "album": {
+        "name": "Tidal Waves",
+        "url": "https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772"
+      },
+      "artists": [
+        {
+          "name": "Isaak Young",
+          "url": "https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo"
+        }
+      ],
+      "duration_ms": 190820,
+      "name": "Tidal Waves",
+      "url": "https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx"
+    },
+    {
+      "added_at": "2023-11-01 16:40:32",
+      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -763,22 +795,6 @@
       "duration_ms": 322499,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
-    },
-    {
-      "added_at": "2023-11-01 16:40:32",
-      "album": {
-        "name": "Back In Love",
-        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 281253,
-      "name": "Back In Love",
-      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
     },
     {
       "added_at": "2023-11-01 16:40:32",
@@ -843,22 +859,6 @@
       "duration_ms": 430727,
       "name": "Touching My Body",
       "url": "https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh"
-    },
-    {
-      "added_at": "2023-11-01 16:40:32",
-      "album": {
-        "name": "Tidal Waves",
-        "url": "https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772"
-      },
-      "artists": [
-        {
-          "name": "Isaak Young",
-          "url": "https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo"
-        }
-      ],
-      "duration_ms": 190820,
-      "name": "Tidal Waves",
-      "url": "https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx"
     },
     {
       "added_at": "2023-11-01 16:40:32",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-11-01 16:40:32",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 287645,
-      "name": "Kong",
-      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
-    },
-    {
-      "added_at": "2023-11-01 16:40:32",
-      "album": {
         "name": "can you see me?",
         "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
       },
@@ -991,22 +975,18 @@
     {
       "added_at": "2023-11-01 16:40:32",
       "album": {
-        "name": "A Different Path",
-        "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
       },
       "artists": [
         {
-          "name": "Bellestar",
-          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
-        },
-        {
-          "name": "Trippynova",
-          "url": "https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx"
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
         }
       ],
-      "duration_ms": 135600,
-      "name": "A Different Path",
-      "url": "https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38"
+      "duration_ms": 287645,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
     },
     {
       "added_at": "2023-11-01 16:40:32",
@@ -1027,6 +1007,26 @@
       "duration_ms": 271025,
       "name": "Making Time",
       "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
+    },
+    {
+      "added_at": "2023-11-01 16:40:32",
+      "album": {
+        "name": "A Different Path",
+        "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
+      },
+      "artists": [
+        {
+          "name": "Bellestar",
+          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
+        },
+        {
+          "name": "Trippynova",
+          "url": "https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx"
+        }
+      ],
+      "duration_ms": 135600,
+      "name": "A Different Path",
+      "url": "https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38"
     },
     {
       "added_at": "2023-11-01 16:40:32",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-11-01 16:40:32",
       "album": {
+        "name": "Something About",
+        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Something About",
+      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+    },
+    {
+      "added_at": "2023-11-01 16:40:32",
+      "album": {
         "name": "Above Me",
         "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 290409,
       "name": "Raye",
       "url": "https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe"
-    },
-    {
-      "added_at": "2023-11-01 16:40:32",
-      "album": {
-        "name": "Something About",
-        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Something About",
-      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
     },
     {
       "added_at": "2023-11-01 16:40:32",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-11-01 16:40:32",
       "album": {
+        "name": "Heartaches",
+        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 207627,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
+    },
+    {
+      "added_at": "2023-11-01 16:40:32",
+      "album": {
         "name": "malo okoma",
         "url": "https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 245437,
       "name": "malo okoma - Radio Edit",
       "url": "https://open.spotify.com/track/7tdviypkABEstu9z7gSB27"
-    },
-    {
-      "added_at": "2023-11-01 16:40:32",
-      "album": {
-        "name": "Heartaches",
-        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 207627,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
     },
     {
       "added_at": "2023-11-01 16:40:32",

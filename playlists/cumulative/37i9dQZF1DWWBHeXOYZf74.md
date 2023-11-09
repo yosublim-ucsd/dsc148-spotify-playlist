@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Kevin Abstract
 
-2,270 songs - 5 day 7 hr 27 min
+2,273 songs - 5 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Compassion \(feat\. Chiiild\)](https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 4:22 | 2022-03-11 | 2022-06-10 |
 | [Compensating \(feat\. Young Thug\)](https://open.spotify.com/track/1Tpn9QCsj746NNbDxQ24gr) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Compensating](https://open.spotify.com/album/4DHGT0ILYkmFmKXK9akCpq) | 3:17 | 2020-07-08 | 2020-10-24 |
 | [Conceited](https://open.spotify.com/track/4hTej08FutmriOs7S1hWWy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:31 | 2022-12-16 | 2023-04-15 |
+| [concentrate](https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [concentrate](https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca) | 4:41 | 2023-11-08 |  |
 | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 | 2022-12-09 | 2023-03-11 |
 | [concrete](https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [concrete](https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT) | 3:32 | 2021-10-14 | 2022-04-02 |
 | [Confessions](https://open.spotify.com/track/6hNOIbjfIT6UCSYkqtE102) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Confessions](https://open.spotify.com/album/1a7y3bmUPtzxEYQN7O5HoZ) | 2:53 | 2019-08-29 | 2019-12-06 |
@@ -967,6 +968,7 @@
 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/1DRgiVyaCJ9PXO276H0Ak9) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/album/466wPD03sWZ4ohCe8ZdgeJ) | 2:44 | 2021-07-10 | 2021-11-06 |
 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 | 2021-12-24 | 2022-01-15 |
 | [I Can See](https://open.spotify.com/track/3R8CyhJfVjvgIROd5RSGhQ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 3:40 | 2020-01-24 | 2020-03-25 |
+| [I Care](https://open.spotify.com/track/558xYpvwBcoM9JmJEuYXfT) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P), [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [I Care](https://open.spotify.com/album/7kP2k3n4sb0iYbRVE918tY) | 4:18 | 2023-11-08 |  |
 | [I Deserve \(w/ NOS.\)](https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [NOS.](https://open.spotify.com/artist/7iRauMPdOJBF3RiDHKrXTB) | [I Deserve \(w/ NOS.\)](https://open.spotify.com/album/1jCHZ0ggPkFnm5b1r5ZY8V) | 2:42 | 2021-11-12 | 2022-03-26 |
 | [I Did It](https://open.spotify.com/track/4PwYS8MvNbD3qOCGJXZ8L9) | [Kris Yute](https://open.spotify.com/artist/0Q7gK5T29pJT5TXXRdt2pP) | [I Did It](https://open.spotify.com/album/2MMubyRaJMkOAajctIEBeK) | 2:45 | 2020-01-24 | 2020-07-24 |
 | [I Did It \- Channel Tres Remix](https://open.spotify.com/track/7cAlKkW6lYr66BUzYFIu6p) | [Kris Yute](https://open.spotify.com/artist/0Q7gK5T29pJT5TXXRdt2pP), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I Did It \(Channel Tres Remix\)](https://open.spotify.com/album/2cqUfh2C1Du1PMZuCY2eMb) | 3:21 | 2020-07-24 | 2020-08-21 |
@@ -1072,6 +1074,7 @@
 | [J'adore](https://open.spotify.com/track/0tlztRFDgCSnAbUxllcZJJ) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [A Butterfly In\-between Time](https://open.spotify.com/album/3yG67dwpot0imvZJ7nAXhv) | 4:12 | 2020-11-21 | 2021-01-15 |
 | [Jackie](https://open.spotify.com/track/1tEePg2AqDdRWLgYovr3yE) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Jackie](https://open.spotify.com/album/2Q02pptKl3XlbHJWtQmHmJ) | 2:56 | 2021-06-18 | 2021-08-07 |
 | [Jacuzzi](https://open.spotify.com/track/0ttKUQzxqOHHcdywn8rAFm) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Jacuzzi](https://open.spotify.com/album/1pkHGiBAZYMLpwq9k6jsm9) | 3:19 | 2021-03-26 | 2021-05-15 |
+| [Jasmine](https://open.spotify.com/track/6bniCXManaPDnCN34waQs6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Jasmine](https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ) | 3:39 | 2023-11-08 |  |
 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 | 2021-06-12 | 2022-01-15 |
 | [Jealous](https://open.spotify.com/track/5OfWbw2sIHfJnWP9kb3381) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Jealous](https://open.spotify.com/album/7yPMOeiZe1clMr90IvrvP2) | 3:36 | 2019-07-30\* | 2019-09-13 |
 | [Jealous \(feat\. Rico Nasty\)](https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Jealous \(feat\. Rico Nasty\)](https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p) | 3:19 | 2021-02-19 | 2021-04-07 |

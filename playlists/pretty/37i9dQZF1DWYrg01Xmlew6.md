@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. MV Killa in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,758 likes - 54 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,813 likes - 54 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 53 | [Peccati \(feat\. J Lord\)](https://open.spotify.com/track/5jmRPnT5jyMHDfhLsHzSrV) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Peccati \(feat\. J Lord\)](https://open.spotify.com/album/4YDkA7KQEWgRFBqt7uFDDb) | 2:31 |
 | 54 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 |
 
-Snapshot ID: `MCxhYzlmZDhjZWQyOTEwMjI1NTUwMTIyNzQzZGQ0NTY4ZGI1OWI0MjVh`
+Snapshot ID: `MCw5NDA1ZDJmNDZiNGVlNDcyZDkzNGVjZDM0OTNhMDgyNjMyZjllYzJm`

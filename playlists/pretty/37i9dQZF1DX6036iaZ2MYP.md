@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Skales
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,812 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,856 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi) | 2:53 |
 | 50 | [UMENIKAMATA](https://open.spotify.com/track/10SfX9KF3H6kUOk51zP8TN) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [UMENIKAMATA](https://open.spotify.com/album/2fNLMX9KrBkbWRim0t4OYg) | 2:38 |
 
-Snapshot ID: `MCxkMDk1Y2YyMzI0MzVlMjk5ZWZmMzI3MjE0Y2E5ODU4OTczYmVjZGE4`
+Snapshot ID: `MCxiMmUzMTE4ZjA5MmRkMzYzNTBiNzUxYTBmYWRjMTkwZTc2NmU2Njlm`

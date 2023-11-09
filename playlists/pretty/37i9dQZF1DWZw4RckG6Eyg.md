@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > 75 ways to cope with your Indie fomo\. Pixey on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,878 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,880 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 58 | [Enemy](https://open.spotify.com/track/2DvqIw0ToR8GriSbvlA4Ws) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 3:42 |
 | 59 | [Take Your Turn](https://open.spotify.com/track/1IPDQby1evDO1L3xEQId0d) | [Umair Ali](https://open.spotify.com/artist/7lMOrU8n2Q6m9j74CtTPBs), [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Take Your Turn](https://open.spotify.com/album/2WZnTtOIz6YawtLj8E2AFN) | 4:16 |
 | 60 | [I Won't Bite](https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 4:17 |
-| 61 | [單人房](https://open.spotify.com/track/4DW3Orxd68VtREToPclLWf) | [Aldo Tasbur](https://open.spotify.com/artist/7fuouuWQZnx4cSN19IEqHn) | [單人房](https://open.spotify.com/album/1QTnF0zX5zaqwbJNM87CQs) | 3:17 |
-| 62 | [Se Eu Acordar](https://open.spotify.com/track/6W5NgyZX9fv8GdXTvEh4R5) | [João Não](https://open.spotify.com/artist/5iOD5ECeTZmhUOiIoIPiHC), [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [Se Eu Acordar](https://open.spotify.com/album/0ivJ8dbksjJ3cP81AVaPE2) | 2:30 |
-| 63 | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/1jMFGctmGpa5qLqQZfpXNB) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Bastard Jargon](https://open.spotify.com/album/6JGb1JtCcQ0hco81PKvYqf) | 3:33 |
+| 61 | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/1jMFGctmGpa5qLqQZfpXNB) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Bastard Jargon](https://open.spotify.com/album/6JGb1JtCcQ0hco81PKvYqf) | 3:33 |
+| 62 | [單人房](https://open.spotify.com/track/4DW3Orxd68VtREToPclLWf) | [Aldo Tasbur](https://open.spotify.com/artist/7fuouuWQZnx4cSN19IEqHn) | [單人房](https://open.spotify.com/album/1QTnF0zX5zaqwbJNM87CQs) | 3:17 |
+| 63 | [Se Eu Acordar](https://open.spotify.com/track/6W5NgyZX9fv8GdXTvEh4R5) | [João Não](https://open.spotify.com/artist/5iOD5ECeTZmhUOiIoIPiHC), [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [Se Eu Acordar](https://open.spotify.com/album/0ivJ8dbksjJ3cP81AVaPE2) | 2:30 |
 | 64 | [Baby You’re the One I Need](https://open.spotify.com/track/7hbO2gpSh8ODI0K0iqytsC) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Baby You’re the One I Need](https://open.spotify.com/album/2uO9yAwV5SztvzqHRNmNb6) | 2:43 |
 | 65 | [Mott St](https://open.spotify.com/track/1JYFkTqtRNHYejAHPUF0ZJ) | [Celia](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Complete In Box](https://open.spotify.com/album/6jVRKAWfgTf7M1toxTi1VU) | 2:55 |
 | 66 | [Congratulations](https://open.spotify.com/track/2PvIxtvyws88h6LRmS5Bcc) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [The Year of February](https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI) | 3:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 74 | [Tajiharu Samba](https://open.spotify.com/track/4btSl2loLADohlFJAEaHIS) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2), [BAILEFUNK KAKEKO](https://open.spotify.com/artist/16AcJe0AnxrvpdJOy8IPXu) | [5000 trillion per hour](https://open.spotify.com/album/4mlm9EFYJlXKysgOBbmWqI) | 3:13 |
 | 75 | [melody wo koshiraeru](https://open.spotify.com/track/0w0BvlCBmvpo2C6IrgWCPy) | [Soul Babies](https://open.spotify.com/artist/4XcuqT0ZwHVBmB5sDUS0du) | [Soulbabies](https://open.spotify.com/album/4v6OaKJ1i0f9rNxAktNzCV) | 4:10 |
 
-Snapshot ID: `MCwwYTY4NWU3YzRjNWVmYjMxODM4ZWRkNmJhZjNlODRjNmM1N2Q5YjMy`
+Snapshot ID: `MCw1Y2FmOWM0ZWNmNjZkZjI2M2FjMjIzYzUzMWI1NWRiNTE3NzM3N2Fl`

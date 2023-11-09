@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Mujeres a todo volumen\. Foto: MARLENA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,036 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,099 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Red Flags](https://open.spotify.com/track/4ihlB1pDXbQEtaDoMfyaYs) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Red Flags](https://open.spotify.com/album/3xmrtrlaAAjBX7kVcAMB8G) | 3:10 |
+| 1 | [RED FLAGS](https://open.spotify.com/track/4ihlB1pDXbQEtaDoMfyaYs) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [RED FLAGS](https://open.spotify.com/album/3xmrtrlaAAjBX7kVcAMB8G) | 3:10 |
 | 2 | [Toto](https://open.spotify.com/track/6X6jlvBAIC3EFjcKT3eMmt) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Toto](https://open.spotify.com/album/2sImJwTBaPVoSEvOTQ98Il) | 2:24 |
 | 3 | [Diles](https://open.spotify.com/track/6V1lDPAv04ezqfgl58Hb58) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Diles](https://open.spotify.com/album/2LWDpyZcSAbCHCUnCqspOQ) | 3:23 |
 | 4 | [Cero](https://open.spotify.com/track/0T3HDSk6LqhMND9mgHoBdb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 49 | [Pogo En Casa](https://open.spotify.com/track/0GB2uORdNinfqBLLLwxFkg) | [Pipiolas](https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI) | [Crying Mañana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6R4YX3yjKA0U6jM72DI2IR) | 3:05 |
 | 50 | [Malaquita](https://open.spotify.com/track/0HOcYnImv5poNbCjtx4Thu) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Malaquita](https://open.spotify.com/album/6lzmMTWHXpPozI9u6Fsbtj) | 2:01 |
 
-Snapshot ID: `MCxlYjVjYjdjOTRiY2RhNWVmZTlhZDIxOTdlODAyNTUwM2M3MmM5YmQ4`
+Snapshot ID: `MCw2MDg1ZDRlNTFkZDhmZWQ2MGIzYTJjZWNkN2YwNGNlZmY2NTk4ZjU3`

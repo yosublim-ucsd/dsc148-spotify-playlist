@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 217872,
+  "num_followers": 218043,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWNhYTAyYTE4MDkyZmU2ZWJjNmRkMjlhN2ExMTZjMjliNTYyNzBj",
+  "snapshot_id": "MCxkZWVlNDVmZjc5MzRjNTAxM2RmNTIxMDcxYzAwNzZkYjg4ZmE3NWE4",
   "tracks": [
     {
       "added_at": "2023-11-03 07:44:24",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Your World",
-        "url": "https://open.spotify.com/album/2qaz1wPf35kHxD8q572mtS"
+        "name": "The Divide",
+        "url": "https://open.spotify.com/album/76mK4At5GGYawZGV4DKxIx"
       },
       "artists": [
         {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
         }
       ],
-      "duration_ms": 196830,
-      "name": "Your World",
-      "url": "https://open.spotify.com/track/2tgk4RT1YiWKiuWMmDLhf3"
+      "duration_ms": 193385,
+      "name": "The Divide",
+      "url": "https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -215,18 +215,18 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "The Divide",
-        "url": "https://open.spotify.com/album/76mK4At5GGYawZGV4DKxIx"
+        "name": "Your World",
+        "url": "https://open.spotify.com/album/2qaz1wPf35kHxD8q572mtS"
       },
       "artists": [
         {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
         }
       ],
-      "duration_ms": 193385,
-      "name": "The Divide",
-      "url": "https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7"
+      "duration_ms": 196830,
+      "name": "Your World",
+      "url": "https://open.spotify.com/track/2tgk4RT1YiWKiuWMmDLhf3"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 214989,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "This I Know",
         "url": "https://open.spotify.com/album/1KT8xnJzurscLm5UpElift"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 168236,
       "name": "This I Know",
       "url": "https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 214989,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "God Be Praised",
-        "url": "https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Yes I Do",
-      "url": "https://open.spotify.com/track/5Hq0aYRj1p1vD6w6JTe2sy"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "Down (Remix)",
         "url": "https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "God Be Praised",
+        "url": "https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/5Hq0aYRj1p1vD6w6JTe2sy"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "Get to Me",
         "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 198373,
       "name": "Get to Me",
       "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 223639,
+      "name": "Hands - Radio Version",
+      "url": "https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -663,18 +679,18 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Hands",
-        "url": "https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR"
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
         }
       ],
-      "duration_ms": 223639,
-      "name": "Hands - Radio Version",
-      "url": "https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ"
+      "duration_ms": 231879,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -695,22 +711,6 @@
       "duration_ms": 181776,
       "name": "New Day",
       "url": "https://open.spotify.com/track/5DPZx70S847lrn640OizK3"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 231879,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -775,22 +775,18 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Hard Times (feat. Mali Music)",
-        "url": "https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/4GC0oRuVTZR2a0yCnQRaNz"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
         }
       ],
-      "duration_ms": 205333,
-      "name": "Hard Times (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm"
+      "duration_ms": 163070,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/5TZQFrjxHT5rkR43PA4aF6"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -823,6 +819,26 @@
       "duration_ms": 175443,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/3MRPHk7P4vaj6N67sv3bWX"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Hard Times (feat. Mali Music)",
+        "url": "https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Hard Times (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -875,22 +891,6 @@
       "duration_ms": 172940,
       "name": "A Good Thing",
       "url": "https://open.spotify.com/track/5TgtiD1sCDSvlD6KjqrsJz"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/4GC0oRuVTZR2a0yCnQRaNz"
-      },
-      "artists": [
-        {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
-        }
-      ],
-      "duration_ms": 163070,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/5TZQFrjxHT5rkR43PA4aF6"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1063,22 +1063,18 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Kingdom Book One (Deluxe)",
-        "url": "https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj"
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Christ Encounter",
+          "url": "https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf"
         }
       ],
-      "duration_ms": 180678,
-      "name": "Exodus",
-      "url": "https://open.spotify.com/track/1nbFfUotkjhYnK9CYenld3"
+      "duration_ms": 248057,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
+        "name": "Kingdom Book One (Deluxe)",
+        "url": "https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj"
       },
       "artists": [
         {
-          "name": "Christ Encounter",
-          "url": "https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 248057,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K"
+      "duration_ms": 180678,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/1nbFfUotkjhYnK9CYenld3"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Edwards",
-          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
-        },
-        {
-          "name": "Rushawn",
-          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
-        }
-      ],
-      "duration_ms": 154218,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "Amidst",
         "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
       },
@@ -1211,22 +1191,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Pull My Heart Away",
-        "url": "https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
       },
       "artists": [
         {
-          "name": "Samuel Sweat",
-          "url": "https://open.spotify.com/artist/7aOUerIr7SYARgetssONKz"
+          "name": "Jermaine Edwards",
+          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
         },
         {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+          "name": "Rushawn",
+          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
         }
       ],
-      "duration_ms": 150638,
-      "name": "Pull My Heart Away",
-      "url": "https://open.spotify.com/track/4vFZjVQKlYM7vOPfvAc4dn"
+      "duration_ms": 154218,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1255,6 +1235,26 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "Pull My Heart Away",
+        "url": "https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sweat",
+          "url": "https://open.spotify.com/artist/7aOUerIr7SYARgetssONKz"
+        },
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "duration_ms": 150638,
+      "name": "Pull My Heart Away",
+      "url": "https://open.spotify.com/track/4vFZjVQKlYM7vOPfvAc4dn"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 210000,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "I'll Praise",
-        "url": "https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4"
-      },
-      "artists": [
-        {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
-        }
-      ],
-      "duration_ms": 160405,
-      "name": "I'll Praise",
-      "url": "https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1319,6 +1303,22 @@
       "duration_ms": 257896,
       "name": "Nothing To Something",
       "url": "https://open.spotify.com/track/4IE9nQZmfNXVJCRau4PzTz"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "I'll Praise",
+        "url": "https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 160405,
+      "name": "I'll Praise",
+      "url": "https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Sun Son",
-        "url": "https://open.spotify.com/album/0ftye6YVCqWInEykok7IJt"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Sun Son",
-      "url": "https://open.spotify.com/track/57Rq8hVJ3rZIS4LoHE2kBb"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 235994,
       "name": "Okay",
       "url": "https://open.spotify.com/track/0PSiRaqS435Yg2EReUCm0p"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Sun Son",
+        "url": "https://open.spotify.com/album/0ftye6YVCqWInEykok7IJt"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Sun Son",
+      "url": "https://open.spotify.com/track/57Rq8hVJ3rZIS4LoHE2kBb"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Work It Out",
-        "url": "https://open.spotify.com/album/4V9Uxlaq2YpXjTNmTsa7vB"
-      },
-      "artists": [
-        {
-          "name": "Yung Kriss",
-          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
-        }
-      ],
-      "duration_ms": 165400,
-      "name": "Work It Out",
-      "url": "https://open.spotify.com/track/5QkHs6c3bwJUqTSKjunArU"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "polaroids.",
         "url": "https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 155688,
       "name": "who.",
       "url": "https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/4V9Uxlaq2YpXjTNmTsa7vB"
+      },
+      "artists": [
+        {
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+        }
+      ],
+      "duration_ms": 165400,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/5QkHs6c3bwJUqTSKjunArU"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1615,18 +1615,26 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "VANILLA",
-        "url": "https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB"
+        "name": "Gotta Be God",
+        "url": "https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv"
       },
       "artists": [
         {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "Da' T.R.U.T.H.",
+          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
         }
       ],
-      "duration_ms": 148318,
-      "name": "VANILLA",
-      "url": "https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb"
+      "duration_ms": 168000,
+      "name": "Gotta Be God",
+      "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1655,30 +1663,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Gotta Be God",
-        "url": "https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv"
-      },
-      "artists": [
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        },
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        },
-        {
-          "name": "Da' T.R.U.T.H.",
-          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Gotta Be God",
-      "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "NO WORRIES",
         "url": "https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 212615,
       "name": "NO WORRIES",
       "url": "https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "VANILLA",
+        "url": "https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "duration_ms": 148318,
+      "name": "VANILLA",
+      "url": "https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "Thousands of Years",
+        "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
+      },
+      "artists": [
+        {
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+        }
+      ],
+      "duration_ms": 181352,
+      "name": "Thousands of Years",
+      "url": "https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "Perfect Love",
         "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 180375,
       "name": "You're The One",
       "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "Thousands of Years",
-        "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
-      },
-      "artists": [
-        {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
-        }
-      ],
-      "duration_ms": 181352,
-      "name": "Thousands of Years",
-      "url": "https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Wilder Wonderland",
-        "url": "https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF"
-      },
-      "artists": [
-        {
-          "name": "V. Rose",
-          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
-        }
-      ],
-      "duration_ms": 220684,
-      "name": "Just Wondering",
-      "url": "https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "Bad To The Bone",
         "url": "https://open.spotify.com/album/7KHmdsP2gT7wwUWyNMnnMH"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 161584,
       "name": "Bad To The Bone",
       "url": "https://open.spotify.com/track/72uOlb4ynq8xEWHhfYGGMl"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Wilder Wonderland",
+        "url": "https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF"
+      },
+      "artists": [
+        {
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        }
+      ],
+      "duration_ms": 220684,
+      "name": "Just Wondering",
+      "url": "https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy"
     },
     {
       "added_at": "2023-11-03 07:44:24",

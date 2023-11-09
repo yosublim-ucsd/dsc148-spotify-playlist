@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1540437,
+  "num_followers": 1540656,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmEyZThlNWVhY2ZlMjFlZGNjYjk4YmU0OWRjZTA2NzI5NGRjMThk",
+  "snapshot_id": "MCwxZmE4OWY5YmIyZjI0YjI5YTk4Zjc0ZDMzZDAwZjc3YjZhNDIxNzYy",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Pink Flag (2006 Remastered Version)",
-        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
-      },
-      "artists": [
-        {
-          "name": "Wire",
-          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "Mannequin - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Entertainment!",
         "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Spurts: The Richard Hell Story (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF"
+        "name": "Pink Flag (2006 Remastered Version)",
+        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
       },
       "artists": [
         {
-          "name": "Richard Hell",
-          "url": "https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB"
+          "name": "Wire",
+          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
         }
       ],
-      "duration_ms": 167840,
-      "name": "Blank Generation - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr"
+      "duration_ms": 157360,
+      "name": "Mannequin - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -883,6 +867,22 @@
       "duration_ms": 210866,
       "name": "Don't Want to Know If You Are Lonely",
       "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Spurts: The Richard Hell Story (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF"
+      },
+      "artists": [
+        {
+          "name": "Richard Hell",
+          "url": "https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Blank Generation - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Horses (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 205173,
-      "name": "Redondo Beach",
-      "url": "https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Pink Flag (2006 Remastered Version)",
         "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 139693,
       "name": "Ex Lion Tamer - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 205173,
+      "name": "Redondo Beach",
+      "url": "https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Born In A Trailer: The Session & Rehearsal Tapes '72-'73",
-        "url": "https://open.spotify.com/album/4FZ7coZzAHNQBNh8rWn5M3"
+        "name": "Damned Damned Damned",
+        "url": "https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2"
       },
       "artists": [
         {
-          "name": "The Stooges",
-          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+          "name": "The Damned",
+          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
         }
       ],
-      "duration_ms": 228920,
-      "name": "Search And Destroy - LA & Detroit Rehearsals, 1973",
-      "url": "https://open.spotify.com/track/7pvUnN9f4e7aF25Am8d37W"
+      "duration_ms": 163346,
+      "name": "Neat Neat Neat",
+      "url": "https://open.spotify.com/track/6cxU2pWVkqoBfuBsKGma62"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Damned Damned Damned",
-        "url": "https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2"
+        "name": "Born In A Trailer: The Session & Rehearsal Tapes '72-'73",
+        "url": "https://open.spotify.com/album/4FZ7coZzAHNQBNh8rWn5M3"
       },
       "artists": [
         {
-          "name": "The Damned",
-          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
         }
       ],
-      "duration_ms": 163346,
-      "name": "Neat Neat Neat",
-      "url": "https://open.spotify.com/track/6cxU2pWVkqoBfuBsKGma62"
+      "duration_ms": 228920,
+      "name": "Search And Destroy - LA & Detroit Rehearsals, 1973",
+      "url": "https://open.spotify.com/track/7pvUnN9f4e7aF25Am8d37W"
     }
   ],
   "unique_name": "Classic Punk",

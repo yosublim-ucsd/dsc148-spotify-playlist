@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 147611,
+  "num_followers": 147694,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWVjOWFjM2RhMmI5Yjc0MDk1YTRiNDk4YjFjYmEyMzkzZjVmMDg1",
+  "snapshot_id": "MCxkNDM2MWZmY2IxMzJjNGExODJjNzA4YThhOGYzM2ZmMGJmODM2YmY0",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "(un poco + de) FE",
-        "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/0sNyKcrJbxgd96dyN6wlIV"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 348339,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/4Zuez3lI8S1J0AbC8gG0Zx"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "(un poco + de) FE",
+        "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 162510,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "De Musica Ligera",
         "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 174096,
       "name": "De Musica Ligera",
       "url": "https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 162510,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "El Microbito",
-        "url": "https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR"
-      },
-      "artists": [
-        {
-          "name": "Kendra Soliz",
-          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
-        }
-      ],
-      "duration_ms": 194874,
-      "name": "El Microbito",
-      "url": "https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Rojo",
         "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "El Microbito",
+        "url": "https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR"
+      },
+      "artists": [
+        {
+          "name": "Kendra Soliz",
+          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
+        }
+      ],
+      "duration_ms": 194874,
+      "name": "El Microbito",
+      "url": "https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Chantaje",
         "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 207431,
       "name": "Chantaje",
       "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Adoro",
-        "url": "https://open.spotify.com/album/7MLPNcVin60lWrssZhKuMV"
-      },
-      "artists": [
-        {
-          "name": "Samo",
-          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
-        }
-      ],
-      "duration_ms": 196292,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/1QrO86DNflLQ0Y958UtvT8"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -691,18 +675,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Covers, Vol. 2",
-        "url": "https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5"
+        "name": "Adoro",
+        "url": "https://open.spotify.com/album/7MLPNcVin60lWrssZhKuMV"
       },
       "artists": [
         {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+          "name": "Samo",
+          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
         }
       ],
-      "duration_ms": 149292,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL"
+      "duration_ms": 196292,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/1QrO86DNflLQ0Y958UtvT8"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -727,6 +711,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 149292,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Lucha De Gigantes",
         "url": "https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 226113,
       "name": "Lucha De Gigantes",
       "url": "https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 172336,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -775,18 +759,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Amor Tumbado",
-        "url": "https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n"
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
       },
       "artists": [
         {
-          "name": "Francis Nola",
-          "url": "https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah"
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
         }
       ],
-      "duration_ms": 148750,
-      "name": "Amor Tumbado",
-      "url": "https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC"
+      "duration_ms": 172336,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -803,6 +787,22 @@
       "duration_ms": 189090,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Amor Tumbado",
+        "url": "https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n"
+      },
+      "artists": [
+        {
+          "name": "Francis Nola",
+          "url": "https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah"
+        }
+      ],
+      "duration_ms": 148750,
+      "name": "Amor Tumbado",
+      "url": "https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Otro trago",
-        "url": "https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx"
-      },
-      "artists": [
-        {
-          "name": "Xandra Garsem",
-          "url": "https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s"
-        },
-        {
-          "name": "Paul Fourmy",
-          "url": "https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo"
-        }
-      ],
-      "duration_ms": 167710,
-      "name": "Otro trago",
-      "url": "https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Mamita (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/77TsvmLS36GDZBQuZM4asl"
       },
@@ -1051,6 +1031,26 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Otro trago",
+        "url": "https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx"
+      },
+      "artists": [
+        {
+          "name": "Xandra Garsem",
+          "url": "https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s"
+        },
+        {
+          "name": "Paul Fourmy",
+          "url": "https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo"
+        }
+      ],
+      "duration_ms": 167710,
+      "name": "Otro trago",
+      "url": "https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Con la miel en los labios",
         "url": "https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Felices los 4 (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 249088,
-      "name": "Felices los 4 - Acoustic version",
-      "url": "https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Panacea Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/2kDtNPi673aOjPw9Mn6iEt"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 227088,
       "name": "La Bicicleta",
       "url": "https://open.spotify.com/track/5f3XhfWGMXQ4YTdqbmGLsZ"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Felices los 4 (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 249088,
+      "name": "Felices los 4 - Acoustic version",
+      "url": "https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/2D7ZcpIFrswCFzPsU72gAf"
+      },
+      "artists": [
+        {
+          "name": "Hermia Morillo",
+          "url": "https://open.spotify.com/artist/4i0yEZXVjUar6mABs3PTP4"
+        }
+      ],
+      "duration_ms": 248028,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/1N61SM8vfZG5T1X6A30a4P"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Bolero Falaz",
         "url": "https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 205794,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/2D7ZcpIFrswCFzPsU72gAf"
-      },
-      "artists": [
-        {
-          "name": "Hermia Morillo",
-          "url": "https://open.spotify.com/artist/4i0yEZXVjUar6mABs3PTP4"
-        }
-      ],
-      "duration_ms": 248028,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/1N61SM8vfZG5T1X6A30a4P"
     },
     {
       "added_at": "2022-02-18 06:00:00",

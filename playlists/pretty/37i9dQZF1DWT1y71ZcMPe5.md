@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Jung Kook
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,342,756 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,343,026 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [I Want That](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | 2:51 |
 | 50 | [Jacuzzi](https://open.spotify.com/track/3WS8Wul8jTZg9jvmN8556Q) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [DJ FLICT](https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX) | [Jacuzzi](https://open.spotify.com/album/3OZaC0jqmBwWn1CEScwzlt) | 2:51 |
 
-Snapshot ID: `MCwxMDFiOWJhNWEyNTc5MTIyYmJkODRjYjA1NmZkN2ExNzM2OGQ5OWIz`
+Snapshot ID: `MCwyZjYxMWYzOTBkYTgzYmFkY2Q1NWY1MDkzYTE0MTNmMDg5MDNlOTkx`

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "35 Sur",
+        "url": "https://open.spotify.com/album/1VKpvW0Ec9tVsyOMweuYad"
+      },
+      "artists": [
+        {
+          "name": "Los Avila",
+          "url": "https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207906,
+      "name": "35 Sur",
+      "url": "https://open.spotify.com/track/6qYTzTgdsQdUgJFLB9IVns"
+    },
+    {
+      "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf"
       },
@@ -564,7 +582,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 206506,
       "name": "El Telescopio",
       "url": "https://open.spotify.com/track/69PqKuwBzdPN1MaSwp5FrT"
@@ -762,7 +780,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 164650,
       "name": "La Boca Les Callamos",
       "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
@@ -874,7 +892,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 208645,
       "name": "Le Hace Falta un Beso",
       "url": "https://open.spotify.com/track/69wrJLYULpuJydmDN4J7IZ"
@@ -1221,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "Neta Que No",
+        "url": "https://open.spotify.com/album/376fuA7QIoerG2gtjViYaC"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164680,
+      "name": "Neta Que No",
+      "url": "https://open.spotify.com/track/19cazderNza33zgCCpxLxH"
+    },
+    {
+      "album": {
         "name": "No Es Mentira (Version Norte\u00f1a)",
         "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
       },
@@ -1322,7 +1358,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 188823,
       "name": "Piquetitos",
       "url": "https://open.spotify.com/track/6G2VETYnLl1Psobu809yQY"
@@ -1348,6 +1384,24 @@
       "duration_ms": 240128,
       "name": "Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8"
+    },
+    {
+      "album": {
+        "name": "Poema",
+        "url": "https://open.spotify.com/album/0osplrvbNNJVytqdKm61dH"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173426,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/7zVTdnX7aoY8GVaIuE9nba"
     },
     {
       "album": {
@@ -1593,6 +1647,28 @@
     },
     {
       "album": {
+        "name": "Sin Pagar Renta",
+        "url": "https://open.spotify.com/album/7FEVQ3o1EKEqa0RFRPjSEH"
+      },
+      "artists": [
+        {
+          "name": "DISTINTO NORTE",
+          "url": "https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L"
+        },
+        {
+          "name": "Conjunto Nuevo Amanecer",
+          "url": "https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180846,
+      "name": "Sin Pagar Renta",
+      "url": "https://open.spotify.com/track/5yFHXr3m32xB4fGGMBOcjJ"
+    },
+    {
+      "album": {
         "name": "Sobran Motivos",
         "url": "https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt"
       },
@@ -1652,7 +1728,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 167102,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/1lctBYvNCptEvAHz7s1yLb"
@@ -1818,6 +1894,24 @@
       "duration_ms": 157645,
       "name": "Un Amor Bonito",
       "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
+    },
+    {
+      "album": {
+        "name": "Vicio",
+        "url": "https://open.spotify.com/album/5i2uC3kpJdvOoo5VhpKlEv"
+      },
+      "artists": [
+        {
+          "name": "Adverzo",
+          "url": "https://open.spotify.com/artist/0NMJh5gFRAkN5uUsCujlCV"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186965,
+      "name": "Vicio",
+      "url": "https://open.spotify.com/track/52SbtvOGsw4RI8FkMH7udu"
     },
     {
       "album": {

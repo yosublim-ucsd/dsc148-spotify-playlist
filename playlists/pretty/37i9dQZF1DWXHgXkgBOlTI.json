@@ -1,12 +1,12 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: bohemianvoodoo",
-  "num_followers": 24878,
+  "num_followers": 24901,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDcyYjQ3MWZjYTZhMWVjYjJhYzVjMTNlZjgwMzJiZDMyMDdmZDMy",
+  "snapshot_id": "MCw4YjAyNDYxOTM2MDZmYTI2MWRmZGM2Y2Y0YzA0OGNlNmZlZjU0YjQw",
   "tracks": [
     {
       "added_at": "2023-10-17 15:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
-      },
-      "artists": [
-        {
-          "name": "SANOVA",
-          "url": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "\u67af\u8449 ~Autumn Leaves~ (jazz standard)",
-      "url": "https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
         "name": "Ready?",
         "url": "https://open.spotify.com/album/1gnPX2apuEEOkRwsDQOdtw"
       },
@@ -763,18 +747,34 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "I'll",
-        "url": "https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo"
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
       },
       "artists": [
         {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+          "name": "SANOVA",
+          "url": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
         }
       ],
-      "duration_ms": 245500,
-      "name": "Sad Premonition / Lilium",
-      "url": "https://open.spotify.com/track/2ZMpOq0n124MRPO8vxAgCi"
+      "duration_ms": 185000,
+      "name": "\u67af\u8449 ~Autumn Leaves~ (jazz standard)",
+      "url": "https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
+        "name": "PYRAMID4",
+        "url": "https://open.spotify.com/album/1YeWcKq1F4VLvGescahAG7"
+      },
+      "artists": [
+        {
+          "name": "Pyramid",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+        }
+      ],
+      "duration_ms": 306373,
+      "name": "Love Lights",
+      "url": "https://open.spotify.com/track/4kQbWhGdyt1OHTutPHlcjm"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "PYRAMID4",
-        "url": "https://open.spotify.com/album/1YeWcKq1F4VLvGescahAG7"
+        "name": "I'll",
+        "url": "https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo"
       },
       "artists": [
         {
-          "name": "Pyramid",
-          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
         }
       ],
-      "duration_ms": 306373,
-      "name": "Love Lights",
-      "url": "https://open.spotify.com/track/4kQbWhGdyt1OHTutPHlcjm"
+      "duration_ms": 245500,
+      "name": "Sad Premonition / Lilium",
+      "url": "https://open.spotify.com/track/2ZMpOq0n124MRPO8vxAgCi"
     },
     {
       "added_at": "2023-10-17 15:00:00",

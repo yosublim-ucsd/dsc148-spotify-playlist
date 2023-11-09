@@ -1422,7 +1422,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 216440,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
@@ -7236,6 +7236,24 @@
       "duration_ms": 199213,
       "name": "Mango",
       "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
+    },
+    {
+      "album": {
+        "name": "The 4th Mini Album 'VERSUS'",
+        "url": "https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195520,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
     },
     {
       "album": {

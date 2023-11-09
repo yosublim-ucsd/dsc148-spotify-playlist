@@ -511,6 +511,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Let Me Down",
+        "url": "https://open.spotify.com/album/427L6hniDKMN8kWwSI4uc8"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/2i7oYx3jb0r7sQtKovIfNz"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200391,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/5hsOIinKbxVIVIggR55OAQ"
+    },
+    {
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/0U3nZkZJbWCRK71MhORAFt"
       },
@@ -666,7 +688,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 195653,
       "name": "Get Up!",
       "url": "https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L"
@@ -1837,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Something Like This",
+        "url": "https://open.spotify.com/album/23pFZpDRnqG187lnu9rY1K"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198019,
+      "name": "Something Like This",
+      "url": "https://open.spotify.com/track/6BVV26Ih6kXP1j8JBsxXyd"
+    },
+    {
+      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
@@ -1920,7 +1960,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 193163,
       "name": "Take Me Home Boy",
       "url": "https://open.spotify.com/track/08wsm7epFKstVWWaE2n9XG"

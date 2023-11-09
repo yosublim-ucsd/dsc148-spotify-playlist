@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2586615,
+  "num_followers": 2586892,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDY1Y2I5YTc5ODE5OGQwN2FjY2Y0MjY1YWZhY2Y0ZjgyNWUwNjcy",
+  "snapshot_id": "MCw1Y2RiNmI3MGJjOGQ5ZmJiOWY2NGM0NDcyY2Q3YzNlYmU3NTY1YjQ2",
   "tracks": [
     {
       "added_at": "2023-10-24 23:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-10-24 23:00:00",
       "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        }
+      ],
+      "duration_ms": 223999,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0"
+    },
+    {
+      "added_at": "2023-10-24 23:00:00",
+      "album": {
         "name": "Gyrate (ft. Wreckno)",
         "url": "https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 176000,
       "name": "Gyrate (ft. Wreckno)",
       "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
-    },
-    {
-      "added_at": "2023-10-24 23:00:00",
-      "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN"
-      },
-      "artists": [
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        }
-      ],
-      "duration_ms": 223999,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0"
     },
     {
       "added_at": "2023-10-24 23:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-10-24 23:00:00",
       "album": {
+        "name": "Suffer In Silence",
+        "url": "https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 194248,
+      "name": "Suffer In Silence",
+      "url": "https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS"
+    },
+    {
+      "added_at": "2023-10-24 23:00:00",
+      "album": {
         "name": "HEADSH\u00d6T",
         "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
-    },
-    {
-      "added_at": "2023-10-24 23:00:00",
-      "album": {
-        "name": "Suffer In Silence",
-        "url": "https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 194248,
-      "name": "Suffer In Silence",
-      "url": "https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS"
     },
     {
       "added_at": "2023-10-24 23:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-10-24 23:00:00",
       "album": {
-        "name": "Sacrificial",
-        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Sacrificial",
-      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
-    },
-    {
-      "added_at": "2023-10-24 23:00:00",
-      "album": {
         "name": "Echo (Deluxe Version)",
         "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 226849,
       "name": "Burial (feat. Pusha T, Moody Good, TrollPhace)",
       "url": "https://open.spotify.com/track/7DHX1Ng0V186U2idfFfjGi"
+    },
+    {
+      "added_at": "2023-10-24 23:00:00",
+      "album": {
+        "name": "Sacrificial",
+        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Sacrificial",
+      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
     },
     {
       "added_at": "2023-10-24 23:00:00",
@@ -1163,30 +1163,6 @@
     {
       "added_at": "2023-10-24 23:00:00",
       "album": {
-        "name": "GORILLA WARFARE",
-        "url": "https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx"
-      },
-      "artists": [
-        {
-          "name": "DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "CELO",
-          "url": "https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "WARFARE",
-      "url": "https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g"
-    },
-    {
-      "added_at": "2023-10-24 23:00:00",
-      "album": {
         "name": "Bloodbath",
         "url": "https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt"
       },
@@ -1207,6 +1183,30 @@
       "duration_ms": 200662,
       "name": "Bloodbath",
       "url": "https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa"
+    },
+    {
+      "added_at": "2023-10-24 23:00:00",
+      "album": {
+        "name": "GORILLA WARFARE",
+        "url": "https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx"
+      },
+      "artists": [
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "CELO",
+          "url": "https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "WARFARE",
+      "url": "https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g"
     },
     {
       "added_at": "2023-10-24 23:00:00",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-10-24 23:00:00",
       "album": {
-        "name": "NEW WIP",
-        "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "MadeinTYO",
-          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "NEW WIP",
-      "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
-    },
-    {
-      "added_at": "2023-10-24 23:00:00",
-      "album": {
         "name": "NO FEAR",
         "url": "https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 174400,
       "name": "NO FEAR",
       "url": "https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc"
+    },
+    {
+      "added_at": "2023-10-24 23:00:00",
+      "album": {
+        "name": "NEW WIP",
+        "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "NEW WIP",
+      "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
     },
     {
       "added_at": "2023-10-24 23:00:00",
@@ -1467,6 +1467,30 @@
     {
       "added_at": "2023-10-24 23:00:00",
       "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/0LNjCowJXfTpBCyNyG65vR"
+      },
+      "artists": [
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/2GqpGnSsaS4WY4wgURygHO"
+    },
+    {
+      "added_at": "2023-10-24 23:00:00",
+      "album": {
         "name": "DISRUPTOR LP",
         "url": "https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa"
       },
@@ -1499,30 +1523,6 @@
       "duration_ms": 233615,
       "name": "Gainz",
       "url": "https://open.spotify.com/track/767R2eTuR9fBn4k82zLiXd"
-    },
-    {
-      "added_at": "2023-10-24 23:00:00",
-      "album": {
-        "name": "HEAT",
-        "url": "https://open.spotify.com/album/0LNjCowJXfTpBCyNyG65vR"
-      },
-      "artists": [
-        {
-          "name": "DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "HEAT",
-      "url": "https://open.spotify.com/track/2GqpGnSsaS4WY4wgURygHO"
     },
     {
       "added_at": "2023-10-24 23:00:00",

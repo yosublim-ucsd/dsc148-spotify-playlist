@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 3902,
+  "num_followers": 3914,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjAyZGIxMmU3YjIwN2JiMTk5Yjk5OGFhZWVkMGI3ZGQzOGZmNjg0",
+  "snapshot_id": "MCxkYjgzZmMxZTU0OWVkZTM5MWE1NjZjNzUyNjdjMGY2Nzc4OWQ4ZmQ3",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Diamante y L\u00e1grima",
-        "url": "https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY"
-      },
-      "artists": [
-        {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
-        }
-      ],
-      "duration_ms": 200174,
-      "name": "Diamante y L\u00e1grima",
-      "url": "https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Tu Mundo",
         "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 234041,
       "name": "Tu Mundo",
       "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Diamante y L\u00e1grima",
+        "url": "https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY"
+      },
+      "artists": [
+        {
+          "name": "Baby City Club",
+          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
+        }
+      ],
+      "duration_ms": 200174,
+      "name": "Diamante y L\u00e1grima",
+      "url": "https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "road 2 neverland",
+        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "falco",
+      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Miss Universos",
         "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 176236,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/2NoqbmRul942IxBxlE0IDE"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "road 2 neverland",
-        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "falco",
-      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Dama",
+        "url": "https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 226125,
+      "name": "Dama",
+      "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Tommy Bahama",
         "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Dama",
-        "url": "https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 226125,
-      "name": "Dama",
-      "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Maldita Cach\u00e1",
         "url": "https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo"
       },
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Beso Con Sal",
-        "url": "https://open.spotify.com/album/58E1Dd75D47aEixQBfwWmy"
-      },
-      "artists": [
-        {
-          "name": "Fux Beat",
-          "url": "https://open.spotify.com/artist/6hftbcqGKIFB01XfseVMN1"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Beso Con Sal",
-      "url": "https://open.spotify.com/track/6OOzp7GNfEPBbhCmEw8ycA"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Guarapo y Flor",
         "url": "https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 179541,
       "name": "Guarapo y Flor",
       "url": "https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Beso Con Sal",
+        "url": "https://open.spotify.com/album/58E1Dd75D47aEixQBfwWmy"
+      },
+      "artists": [
+        {
+          "name": "Fux Beat",
+          "url": "https://open.spotify.com/artist/6hftbcqGKIFB01XfseVMN1"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Beso Con Sal",
+      "url": "https://open.spotify.com/track/6OOzp7GNfEPBbhCmEw8ycA"
     },
     {
       "added_at": "2023-11-03 04:00:00",

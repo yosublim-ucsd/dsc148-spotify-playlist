@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 
 > Relaxing and soft piano, to get those chill sunday morning vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,315 likes - 208 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,309 likes - 208 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 | 24 | [Felt Improv No\. 31](https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 31](https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC) | 2:24 |
 | 25 | [Coucher de Solei](https://open.spotify.com/track/2ZIgXnNMJLDrxHwHCsXdP1) | [Herman Lundblad](https://open.spotify.com/artist/1NhLgbEEqvx0lMETdA9uWz) | [Coucher de Solei](https://open.spotify.com/album/5PfLYMjSFodhRzqGFVzsOt) | 2:12 |
 | 26 | [Delta](https://open.spotify.com/track/4VdPG8QlGPHNpLsBq7BquA) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Delta](https://open.spotify.com/album/2jxjPUO3rJTRyiJVxv1EwN) | 2:24 |
-| 27 | [Navždy](https://open.spotify.com/track/5zRMRrNfOZ4vZZ91Lcdz1d) | [Jan Kubec](https://open.spotify.com/artist/1qalElRe3QyFhucbpFX9On) | [Navždy](https://open.spotify.com/album/5qpAZsu5IrvgSL2owMSH4e) | 2:27 |
+| 27 | [Navždy](https://open.spotify.com/track/5zRMRrNfOZ4vZZ91Lcdz1d) | [Annebelle Coenraad](https://open.spotify.com/artist/3WBXpzZraL3JcZGch7287z) | [Navždy](https://open.spotify.com/album/5qpAZsu5IrvgSL2owMSH4e) | 2:27 |
 | 28 | [Fading Silhouette](https://open.spotify.com/track/5n3yGo7EFZQZXPeANw65yB) | [Florian Palmer](https://open.spotify.com/artist/1uEslan6MADlkRjoKgLKXB) | [Fading Silhouette](https://open.spotify.com/album/6aGMqOaH2MMA3P9wVM83zP) | 2:32 |
 | 29 | [Come What May](https://open.spotify.com/track/3fuGHLfy0z6LRDcu3vGfIT) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Come What May](https://open.spotify.com/album/4DNWLMMVjzAtXX0hXyctZi) | 2:39 |
 | 30 | [Eyes wide open](https://open.spotify.com/track/1DeqedzpBEzb1A9PbrZ601) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [Eyes wide open](https://open.spotify.com/album/3IMsQyfEDLaZfzcaJgq7bQ) | 2:02 |
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 | 207 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 |
 | 208 | [Isla De Flores](https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Isla De Flores](https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh) | 2:39 |
 
-Snapshot ID: `MCwzZmY1MmI2NzU4MTFlNTc5YzQzYjRiNTVmNDY1N2UxYjFlOGRiMWQ4`
+Snapshot ID: `MCxlMGIwYjcwYzZjMWYwMWUzYWJmN2EwZDZhYjVkYmU5MTI5ZDY4YTVm`

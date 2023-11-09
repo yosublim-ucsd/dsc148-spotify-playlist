@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 169500,
       "name": "Bread",
       "url": "https://open.spotify.com/track/1LWBKiR25hhbVACZREEDcG"
@@ -1897,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS"
+    },
+    {
+      "album": {
         "name": "Don't Call My Phone",
         "url": "https://open.spotify.com/album/64RbcLiK3CJmDNDoeDVhPE"
       },
@@ -2218,6 +2236,32 @@
       "duration_ms": 201897,
       "name": "Family",
       "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
+    },
+    {
+      "album": {
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/5kbGns9MNOAyvRhadymdy2"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        },
+        {
+          "name": "Victor AD",
+          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222056,
+      "name": "Family time",
+      "url": "https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx"
     },
     {
       "album": {
@@ -3374,6 +3418,28 @@
       "duration_ms": 162873,
       "name": "I Appreciate",
       "url": "https://open.spotify.com/track/3kjmP9UbEJyvmAHRgqKCTy"
+    },
+    {
+      "album": {
+        "name": "I Pray",
+        "url": "https://open.spotify.com/album/2gfJWeRGqTnAxIft7WB8Ow"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165663,
+      "name": "I Pray",
+      "url": "https://open.spotify.com/track/1Xlna9IA6XldZqXOjSpAcv"
     },
     {
       "album": {
@@ -4536,7 +4602,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 171130,
       "name": "Money is A Must",
       "url": "https://open.spotify.com/track/6XBjoQyHpxdNxkLKZb4j9u"
@@ -6150,7 +6216,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 192008,
       "name": "Running",
       "url": "https://open.spotify.com/track/21MSFhrfJzZOYUnKqNdkQr"

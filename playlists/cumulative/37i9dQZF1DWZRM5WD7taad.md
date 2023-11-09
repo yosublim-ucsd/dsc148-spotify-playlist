@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Ximbo en Portada
 
-237 songs - 12 hr 3 min
+238 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Como las Aves](https://open.spotify.com/track/27bBykUqwr8sdKtXfVQqGY) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/44uhTcHqT2A2ksmAIl0hWY) | 2:18 | 2023-05-19 |  |
 | [Confleis \(No Soy Santa\)](https://open.spotify.com/track/55SDauaBnxY86XsVfztdCU) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Confleis \(No Soy Santa\)](https://open.spotify.com/album/4yNqZUf4BwhDoDz6yIhkzP) | 2:03 | 2021-12-13 | 2023-07-01 |
 | [Cool Like Dat](https://open.spotify.com/track/0XnlNUYkMXpNESTtdrGk8O) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [La Guíshi Funk](https://open.spotify.com/artist/2ppo66CCmTdhe0okhe3iy1), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Cool Like Dat](https://open.spotify.com/album/0nhWsNAHopv82atzpgcNI2) | 2:19 | 2023-02-03 | 2023-09-02 |
-| [Copas de Vino](https://open.spotify.com/track/4jRh3Yu1lTJhIvJe5nuEvu) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu) | [Copas de Vino](https://open.spotify.com/album/1a6uvGC5dZSqwnLZHuQu7X) | 2:43 | 2023-06-23 |  |
+| [Copas de Vino](https://open.spotify.com/track/4jRh3Yu1lTJhIvJe5nuEvu) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu) | [Copas de Vino](https://open.spotify.com/album/1a6uvGC5dZSqwnLZHuQu7X) | 2:43 | 2023-06-23 | 2023-11-09 |
+| [Copas De Vino](https://open.spotify.com/track/7e4Q1PSvX8CxeQq4nDovgw) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu) | [Copas De Vino](https://open.spotify.com/album/5FLzqwbdp7qdijdHXIYgKd) | 2:43 | 2023-10-27 |  |
 | [Crazy](https://open.spotify.com/track/0rmIJMlqROo3rOp9fqipIs) | [Luisa Rincón](https://open.spotify.com/artist/0lBqLIj9upSXEjJ83N92O0), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Crazy](https://open.spotify.com/album/7yJVBYtkeQ6nHmQ8V0mGff) | 3:03 | 2023-02-24 |  |
 | [Cuánto Tienes, Cuánto Vales](https://open.spotify.com/track/6jJFu4CTv2pA9esFRVJXce) | [Jezzy P](https://open.spotify.com/artist/2hRGPSlRUReuHtM0Cx0R7W), [DJ Sonicko](https://open.spotify.com/artist/70FP3NmCeCiYbKnfDN5UcH) | [Rabiografía](https://open.spotify.com/album/2DtGzCXMVIPkKdzbB4h0Gx) | 3:33 | 2021-12-13 | 2023-10-28 |
 | [Cypher 1: Ella \(feat\. Delfina Dib\)](https://open.spotify.com/track/1syrgjPK0foTlggQJJ48GY) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Cypher 1: Ella \(feat\. Delfina Dib\)](https://open.spotify.com/album/308VA4UV7GdELyQHd5TGLD) | 3:29 | 2023-03-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from A\-Reece \(pictured\), Offset, Drake, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,456 likes - 55 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,521 likes - 55 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 54 | [Forecast 23](https://open.spotify.com/track/10FicYAHW4yw4ucDHq9dM9) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Forecast 23](https://open.spotify.com/album/5uFJvBk8muHSCeOtJhb4C8) | 3:52 |
 | 55 | [June 22nd](https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [June 22nd](https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC) | 3:10 |
 
-Snapshot ID: `MCw3MjFlYTJmYmFkZmJlNzJiYmM2NWQ4OGMxM2Q3ZjFmZTFmNDg3OTI3`
+Snapshot ID: `MCw5N2EyOGNjNDI3YWE2NGNiMzAzNzFjYjk3NThiNDI5MDg2ZjU1NzNj`

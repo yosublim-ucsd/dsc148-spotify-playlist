@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-855 songs - 1 day 21 hr 11 min
+856 songs - 1 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [All My Heroes](https://open.spotify.com/track/3kznrAMtKVUCyIwd6RPnYN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Circles](https://open.spotify.com/album/7tbUp2NTr7CxIgIF04Kf5U) | 3:25 | 2022-03-10 | 2022-05-11 |
 | [Alla måste älska mig](https://open.spotify.com/track/3xahTikNV7Arb70nJcavwM) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Alla måste älska mig](https://open.spotify.com/album/7DViMnpL50xK4xAUYmECH1) | 2:44 | 2022-06-09 | 2022-07-28 |
 | [Allt det vackra](https://open.spotify.com/track/3IrNhMvzard7nCKgfe18IW) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden \(del 2\)](https://open.spotify.com/album/2D0NU2s1xrC8wGRkMrJUjP) | 3:24 | 2021-12-16 | 2022-03-11 |
+| [Allt eller inget](https://open.spotify.com/track/2OqSyq3EM2IqsKPVavdy1t) | [Jakob Karlberg](https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1), [INGA\-BELL](https://open.spotify.com/artist/3JHG9IX0gaqigpBcq65Rrn) | [Allt eller inget](https://open.spotify.com/album/0nVlBIFa13okHGHBcOtnR1) | 2:35 | 2023-11-03 |  |
 | [Allt jag kan](https://open.spotify.com/track/7oBOc7PJvCvPTbwQEXgkBd) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG), [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Emily](https://open.spotify.com/album/0jiIw5BInP2WWcilBfQUJ2) | 2:58 | 2022-06-23 | 2022-11-06 |
 | [Allt som är bra tar slut](https://open.spotify.com/track/2iF61pNmL69bH2EgkjDePN) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Allt som är bra tar slut](https://open.spotify.com/album/2RI9f4DdEZFeFfJdYz471K) | 2:27 | 2022-04-22 | 2022-11-05 |
 | [Allt är som det ska](https://open.spotify.com/track/37sOZJZ6K2OTwI2IWfEHKw) | [Maydar](https://open.spotify.com/artist/0pufHUD9Nj4HnRY5PWnH3y) | [Gav allt och det får räcka](https://open.spotify.com/album/4VN1X12HIJTpnkDOagc1mH) | 3:11 | 2022-04-28 | 2022-07-26 |
@@ -375,7 +376,7 @@
 | [Iconic](https://open.spotify.com/track/4oVWH6Jo0vpDY3qusXMj5w) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Iconic](https://open.spotify.com/album/2odTVHhrNcmaKYnoiQ46yP) | 2:28 | 2022-10-28 | 2023-02-01 |
 | [Idiot](https://open.spotify.com/track/1K60A6axKbeTgDMzaoOgri) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Alla gör slut \(pt\. 1\)](https://open.spotify.com/album/4ODsYIvXJVM9pvUA3HJUQo) | 2:58 | 2021-12-16 | 2022-01-04 |
 | [Idén om oss](https://open.spotify.com/track/51KeFicZrswYfj2BxvOP3Z) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Idén om oss](https://open.spotify.com/album/0XBIH0lWaW3vHIrtQ2jx2L) | 2:38 | 2021-12-16 | 2022-03-11 |
-| [If you wanna](https://open.spotify.com/track/68Qmy9oN1WZ0ytvKNlKPaE) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [If you wanna](https://open.spotify.com/album/5KHjG4kPN8WwTYWae6sQ8n) | 3:09 | 2023-10-19 |  |
+| [If you wanna](https://open.spotify.com/track/68Qmy9oN1WZ0ytvKNlKPaE) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [If you wanna](https://open.spotify.com/album/5KHjG4kPN8WwTYWae6sQ8n) | 3:09 | 2023-10-19 | 2023-11-09 |
 | [Imagine](https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Imagine](https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6) | 3:12 | 2023-06-22 | 2023-10-20 |
 | [In i dimman](https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/28RPgvITk9r0msUN8PVJVX) | 2:53 | 2022-03-04 | 2022-03-18 |
 | [In The End](https://open.spotify.com/track/3UGZ9VUAZAJeIN1p0V7v8j) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [In The End](https://open.spotify.com/album/3Yp86nU21Kw0lMSBCL8iwO) | 3:18 | 2022-03-10 | 2022-04-21 |

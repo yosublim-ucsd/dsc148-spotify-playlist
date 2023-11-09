@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,144 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,202 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 13 | [Houses of American Style](https://open.spotify.com/track/5lSTpSh4DrzGCW4gmpMOao) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 4:04 |
 | 14 | [Digital Self](https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:46 |
 | 15 | [Playing With Fire](https://open.spotify.com/track/6Du6wbMKta7bWKuFeT2dVi) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Playing With Fire / ELF](https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF) | 3:23 |
-| 16 | [Hard To Breath](https://open.spotify.com/track/4rMyOa7oU75N4rA3mZERF0) | [Crossing i's Dotting t's](https://open.spotify.com/artist/7eNA56CKDh8uHvdk3Dsdbc) | [I Used To Be](https://open.spotify.com/album/16Rp0EdydEECBnaNR1oSex) | 3:15 |
+| 16 | [Hard To Breathe](https://open.spotify.com/track/4rMyOa7oU75N4rA3mZERF0) | [Crossing i's Dotting t's](https://open.spotify.com/artist/7eNA56CKDh8uHvdk3Dsdbc) | [I Used To Be](https://open.spotify.com/album/16Rp0EdydEECBnaNR1oSex) | 3:15 |
 | 17 | [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 |
 | 18 | [Starchild](https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY) | 3:49 |
 | 19 | [Lights Out](https://open.spotify.com/track/0DlW7YgEY7s5qgdmAzcvdj) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Never Saw It Coming](https://open.spotify.com/album/0VB2l8t71fOQXi9d4lCSeu) | 2:53 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | ['Til Forever](https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | ['Til Forever](https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q) | 2:48 |
 | 60 | [Feel Good](https://open.spotify.com/track/1SG5OMNLi4WIexCt7UDDj7) | [Nature Trip](https://open.spotify.com/artist/6pgJjdomiwN8ryoe9Ukqgg) | [Feel Good](https://open.spotify.com/album/14lddxFbU85X0qQCReRlW5) | 3:42 |
 
-Snapshot ID: `MCxkNmEyNjE5ZGExYjBhOGU2YjkxNGIwMTE1YWZiODkwNTljNzA3OWRj`
+Snapshot ID: `MCwxYjJkZjU2OThlNTU1NGMzM2FhOTFmZjY3ODMxOGQ2ODIyNDM0MzJh`

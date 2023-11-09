@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,930 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,962 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 28 | [Untitled Instrumental](https://open.spotify.com/track/2aUHr9nibVhoYHoKFlEw1T) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Motherlode](https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f) | 3:22 |
 | 29 | [Still in the Groove](https://open.spotify.com/track/4AaB8loejHKcwAQN0MT72B) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK), [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [A Woman Needs Love \(Expanded Edition\)](https://open.spotify.com/album/38993ejU6at3J4b0fxIien) | 6:21 |
 | 30 | [Unconditional Love](https://open.spotify.com/track/6rX8XrnLLIggn6ItYWnoMM) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [She Works Hard For The Money](https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2) | 4:44 |
-| 31 | [Ohue \- Frankie Francis & Simbad Edit](https://open.spotify.com/track/6mpWzzeF15T39cCZFCsvh0) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Sofrito: Tropical Discotheque](https://open.spotify.com/album/5AOELfqelmBhaAV5PsHHYr) | 5:34 |
-| 32 | [Come On Home](https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC) | 5:18 |
+| 31 | [Come On Home](https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC) | 5:18 |
+| 32 | [Ohue \- Frankie Francis & Simbad Edit](https://open.spotify.com/track/6mpWzzeF15T39cCZFCsvh0) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Sofrito: Tropical Discotheque](https://open.spotify.com/album/5AOELfqelmBhaAV5PsHHYr) | 5:34 |
 | 33 | [I Like Your Style](https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY) | [Tony Wilson](https://open.spotify.com/artist/3nwZKsmOiJjn7x0fS3L5ZR) | [I Like Your Style](https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g) | 3:05 |
 | 34 | [Living Music](https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd) | [Onyeka Onwenu](https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:04 |
 | 35 | [Friends](https://open.spotify.com/track/6TzkJUYcxbSHMiVYz3HpKl) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Friends / Go For It](https://open.spotify.com/album/39jaUqZfh7YUgQnemcgnXF) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 49 | [Trinidad \- Special Disco Mix](https://open.spotify.com/track/4Qb0va1gzVonFxU7vghCfp) | [John Gibbs](https://open.spotify.com/artist/0sByuZOX52ihgJcBMs4i0a), [U.S\. Steel Orchestra](https://open.spotify.com/artist/3Rd64MZkwo6mAbERZVt1aR) | [Joey Negro and Sean P present The Best of Disco Spectrum](https://open.spotify.com/album/4U62xyQiPH0CcBc5INVDK2) | 5:04 |
 | 50 | [The Warrior](https://open.spotify.com/track/5wY3a0tPSmZvdAxi9JfrRK) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4jklZxOxbnLsIdCCSTdn63) | 3:46 |
 
-Snapshot ID: `MCw2OTZhZmZmOTAwNjFjYTllYTkwZjVmYmM1NGJiMDVhNjg1ZDFkY2Fh`
+Snapshot ID: `MCwxNGIyOWEwZDIyZTY5MGFmZGNjNWE2YTg0MDNlNzgzYmNiMDljMjgw`

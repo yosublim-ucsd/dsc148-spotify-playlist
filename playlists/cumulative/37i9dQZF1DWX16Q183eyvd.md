@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around.
 
-78 songs - 3 hr 58 min
+79 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,8 +65,9 @@
 | [Panini](https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 1:54 | 2021-11-19 |  |
 | [Rise](https://open.spotify.com/track/00Nx5kFUJBcdGa0GNPH8Lx) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Tower to Tower 2](https://open.spotify.com/album/0FT8XvXuscoSlxZb5138Fq) | 3:03 | 2021-11-19 |  |
 | [Safari](https://open.spotify.com/track/0qaUiV6xlTRYqQZ2332Qsh) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:23 | 2021-11-19 | 2023-11-04 |
+| [Safari](https://open.spotify.com/track/1Cz147uNA3JuLlaF60TP5K) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Mouse\-A\-Mania](https://open.spotify.com/album/1XHsqic4Jn9koJxkRYwVNw) | 3:25 | 2023-10-10 |  |
 | [Shake Ya Tailfeather](https://open.spotify.com/track/2t3ZxwOLtpRYxctPbXRRns) | [Giggle Club](https://open.spotify.com/artist/0VXTiAhwelyAgBsxbbinnf) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:58 | 2021-11-19 |  |
-| [Take Me to Jamaica](https://open.spotify.com/track/6iRe9TNNsqheEko10IJGCN) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 3:18 | 2022-02-04 |  |
+| [Take Me to Jamaica](https://open.spotify.com/track/6iRe9TNNsqheEko10IJGCN) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 3:18 | 2022-02-04 | 2023-11-09 |
 | [Take Me to Jamaica](https://open.spotify.com/track/7cvnmohDKpVp825bUOehLr) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT) | 3:18 | 2022-02-04 | 2022-10-13 |
 | [Take Me To Jamaica \(feat\. Toots Hibbert\)](https://open.spotify.com/track/5AEyhmFToITN1n2Wa2zLHI) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/1OreWX3yJbrIozwosO1ELn) | 3:18 | 2021-11-19 | 2022-07-29 |
 | [TELL EM](https://open.spotify.com/track/4IrDPdjKLcQNnCoP4vWF6o) | [GoKeeKeeGo](https://open.spotify.com/artist/7zsyllxtoU29NBJPu96jbz) | [TELL EM](https://open.spotify.com/album/0cuRGPN7DtPu6M1Y0vAOzX) | 2:54 | 2021-11-19 |  |
@@ -74,11 +75,11 @@
 | [The Cypher](https://open.spotify.com/track/1RlNTr0g5m8b1juzyPEz1e) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [The Cypher](https://open.spotify.com/album/0iFJLdXv22Uam0ItEQ4076) | 2:52 | 2023-04-07 |  |
 | [The Volcano Song](https://open.spotify.com/track/0LixLuFCySCWfXxRWH0Esj) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Wonder Raps](https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH) | 3:09 | 2021-11-19 |  |
 | [The Word is Love](https://open.spotify.com/track/7lqd7pWvJgsCdyecGibcAy) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [The Word is Love](https://open.spotify.com/album/47FJMtS7LjWDAUD1r7ErEr) | 3:29 | 2022-02-04 |  |
-| [This Old Man](https://open.spotify.com/track/33brRRHTjeMZVXzt4tDOzp) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae for Kids](https://open.spotify.com/album/5jRkWa2bRjwJ6hdPrJ1odi) | 3:13 | 2023-10-10 | 2023-11-07 |
+| [This Old Man](https://open.spotify.com/track/33brRRHTjeMZVXzt4tDOzp) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae for Kids](https://open.spotify.com/album/5jRkWa2bRjwJ6hdPrJ1odi) | 3:13 | 2023-10-10 |  |
 | [This Old Man](https://open.spotify.com/track/7JaMhrgXmPSXDjVAVxrDav) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:13 | 2021-11-19 | 2023-11-04 |
 | [Three Little Birds \(feat\. Ziggy Marley\)](https://open.spotify.com/track/4lWJMQSOJIWSodi3Oe6Few) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [!Vamos a bailar! Let's Dance! The Dora the Explorer Music Collection](https://open.spotify.com/album/3fLxjCJkL1BANWMLA7uwok) | 3:25 | 2021-11-19 |  |
 | [Walk Tall](https://open.spotify.com/track/1uk67qKtIK0zYnuSHDYfRp) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT) | 3:16 | 2022-02-04 | 2022-10-13 |
-| [Walk Tall](https://open.spotify.com/track/58C6oflMuofn2CvZnO4nyt) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 3:16 | 2022-02-04 |  |
+| [Walk Tall](https://open.spotify.com/track/58C6oflMuofn2CvZnO4nyt) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 3:16 | 2022-02-04 | 2023-11-09 |
 | [Walk Tall \(feat\. Paul Simon\)](https://open.spotify.com/track/7j0tMRulMtwmNpyOZmHtD0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/1OreWX3yJbrIozwosO1ELn) | 3:16 | 2021-11-19 | 2022-07-29 |
 | [We Outside](https://open.spotify.com/track/2Jm5GHTsbMXbDvhIoyUikW) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [We Outside](https://open.spotify.com/album/5ojvCpVkbL7VQXK3RYdMen) | 2:44 | 2021-11-19 |  |
 | [Welcome To Karma's World](https://open.spotify.com/track/1AP554izviISI1m6Yb7O0o) | [Karma's World](https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS) | [Welcome To Karma's World](https://open.spotify.com/album/6afrouyfY9xZUlrSavHY57) | 2:45 | 2021-11-19 |  |

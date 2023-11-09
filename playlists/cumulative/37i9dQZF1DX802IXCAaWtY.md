@@ -4,7 +4,7 @@
 
 > Who doesn't love the 90s?
 
-83 songs - 5 hr 27 min
+84 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Feel the heat of the night \- Radio Edit](https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc) | [Masterboy](https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E) | [Feel the heat of the night](https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY) | 3:41 | 2022-12-28 |  |
 | [Flying High \- Radio Mix](https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Flying High](https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a) | 3:46 | 2022-12-28 |  |
 | [Freed From Desire \- prod\. Molella, Phil Jay](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2022-12-28 |  |
-| [Freedom](https://open.spotify.com/track/0pXhsuk0u7vzOtBYdFkaAs) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [Freedom](https://open.spotify.com/album/0Nt7LlU91CFX0yrtXL5DUM) | 3:56 | 2022-12-28 |  |
+| [Freedom](https://open.spotify.com/track/0pXhsuk0u7vzOtBYdFkaAs) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [Freedom](https://open.spotify.com/album/0Nt7LlU91CFX0yrtXL5DUM) | 3:56 | 2022-12-28 | 2023-11-09 |
 | [Get A Way](https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb) | [Maxx](https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX) | [To The Maxximum](https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG) | 3:46 | 2022-12-28 |  |
 | [Gonna Make You Sweat \(Everybody Dance Now\) \(feat\. Freedom Williams\)](https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF) | [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF), [Freedom Williams](https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR) | [Super Hits](https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7) | 4:04 | 2022-12-28 |  |
 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 | 2022-12-28 |  |
@@ -44,6 +44,7 @@
 | [Hyper Hyper](https://open.spotify.com/track/417MeJ40upxxf3aNlr5Xbi) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Encore \- Live and Direct](https://open.spotify.com/album/7CGUilfpm6TSrKtNRP43s2) | 3:30 | 2022-12-28 | 2023-03-23 |
 | [Hyper Hyper](https://open.spotify.com/track/2HTkjyB61A90e1sOziRJQc) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Rough And Tough And Dangerous \- The Singles 1994 \- 1998](https://open.spotify.com/album/0FXzH47HIVo1JoPHVT5i2N) | 3:35 | 2023-07-14 | 2023-11-07 |
 | [I Give You My Heart](https://open.spotify.com/track/5PTWlk21hqWnFu841NOp7k) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:35 | 2022-12-30 |  |
+| [I Like To Move It \(feat\. The Mad Stuntman\) \( Erick "More" Album Mix\)](https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7) | [Reel 2 Real](https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta), [The Mad Stuntman](https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5), [Erick Morillo](https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb) | [Move It!](https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff) | 3:50 | 2023-07-14 |  |
 | [I Like To Move It \(feat\. The Mad Stuntman\) \- Erick "More" Album Mix](https://open.spotify.com/track/6dHTkQYY3zdR9i9Nj0IGVW) | [Reel 2 Real](https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta), [The Mad Stuntman](https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5), [Erick Morillo](https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb) | [Move It!](https://open.spotify.com/album/4lXuOVx1V9uhjr0v6MWDRI) | 3:50 | 2022-12-28 | 2023-11-05 |
 | [It's a Rainy Day](https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:15 | 2022-12-28 |  |
 | [It's My Life](https://open.spotify.com/track/4539Tbm6Rt5BaNKXJJj9RH) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love](https://open.spotify.com/album/2f0OIKkTy3gT89i2N7BaHJ) | 3:59 | 2022-12-28 | 2023-11-03 |

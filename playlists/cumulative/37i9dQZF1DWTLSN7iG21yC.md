@@ -4,7 +4,7 @@
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-645 songs - 1 day 10 hr 22 min
+646 songs - 1 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2021-06-07 | 2022-04-20 |
 | [BLENDER](https://open.spotify.com/track/1xnsTtYlN5GYO30FqYLG1i) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:27 | 2022-07-15 | 2023-11-03 |
 | [BLENDER](https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 2:27 | 2022-07-15 | 2022-09-26 |
+| [BLENDER](https://open.spotify.com/track/5bV5ro4rvBpgxo7nAeveiT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 2:27 | 2023-10-27 |  |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2021-10-01 |  |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-06-07 | 2023-01-28 |
 | [Blindside](https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside](https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ) | 3:31 | 2023-08-04 |  |
@@ -252,7 +253,7 @@
 | [Goodbye, Me](https://open.spotify.com/track/0hSUdUI1hHnYZN2qbql863) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Goodbye, Me](https://open.spotify.com/album/4uW8uLZu4XDs4bQ3wy2eED) | 2:37 | 2021-08-13 | 2022-04-13 |
 | [Got Me Good](https://open.spotify.com/track/09S6z2BOILlj41DMEDogwK) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Got Me Good](https://open.spotify.com/album/7KoL9bx98E7ON3odg9nRuz) | 2:45 | 2022-07-08 |  |
 | [Grand](https://open.spotify.com/track/4WZ3liyYz5ZzDcL4ibAuOi) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Grand](https://open.spotify.com/album/6u32goyaQHOcbbmdooLRJ4) | 2:58 | 2022-07-22 | 2022-10-08 |
-| [Green Eyes](https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Green Eyes](https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz) | 2:30 | 2022-06-03 |  |
+| [Green Eyes](https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Green Eyes](https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz) | 2:30 | 2022-06-03 | 2023-11-09 |
 | [Green Green Grass](https://open.spotify.com/track/3rk4aJ0vAj3cFUIQEeASkT) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Green Green Grass](https://open.spotify.com/album/1p6j020MWD6BCELPZd8XVC) | 2:47 | 2022-04-22 | 2022-12-12 |
 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 | 2022-04-22 | 2023-01-28 |
 | [Happy For You](https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Happy For You](https://open.spotify.com/album/20cXMWG0KcvCA2N6O5ixbY) | 3:46 | 2021-06-25 |  |

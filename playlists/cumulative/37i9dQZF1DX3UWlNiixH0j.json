@@ -5761,6 +5761,24 @@
     },
     {
       "album": {
+        "name": "Kanash\u012b dekigoto -The overkill-",
+        "url": "https://open.spotify.com/album/4lroNwCV22vfbY1z1LkdiG"
+      },
+      "artists": [
+        {
+          "name": "Mom",
+          "url": "https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262056,
+      "name": "Last scene",
+      "url": "https://open.spotify.com/track/6xJ892EOZotDPZxxzu2n3R"
+    },
+    {
+      "album": {
         "name": "Leila",
         "url": "https://open.spotify.com/album/4OAMD29bLZWsPiMAI5EVAV"
       },
@@ -14356,7 +14374,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 262056,
       "name": "\u30e9\u30b9\u30c8\u30b7\u30fc\u30f3",
       "url": "https://open.spotify.com/track/0grJ6rU6nlczbq7Q1Hp90o"

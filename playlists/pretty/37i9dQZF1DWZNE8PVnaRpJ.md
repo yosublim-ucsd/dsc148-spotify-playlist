@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNE8PVnaRpJ.md) - [plain]
 
 > Voici la playlist ultime de votre réveillon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,113 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,105 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNE8PVnaRpJ.md) - [plain]
 | 99 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 |
 | 100 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 |
 
-Snapshot ID: `MCwyYmY2OTNmZGNkNTgyZjAyYzE2NjlhY2Q1ZGQwNTVkZWY1NzgyNTM3`
+Snapshot ID: `MCwzOTNkZGVhNDRmYTA5YTY0ZWZlNjNlY2NkZDM4MzhiYzAyYmFhNjQ4`

@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-932 songs - 1 day 16 hr 25 min
+933 songs - 1 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [Histoire d'un Jour](https://open.spotify.com/track/16QEKihp9N6eHLbeIat4jb) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Histoire d'un Jour](https://open.spotify.com/album/6E6rkMC4rUvfUbJr19ppjs) | 2:25 | 2021-07-05 |  |
 | [Hiányérzet](https://open.spotify.com/track/0TaFyNST7wUeJ8ymvt6sqR) | [Lôrinc Tzigane](https://open.spotify.com/artist/6vWNxay1gwQXx4uuB6pgms) | [Hiányérzet](https://open.spotify.com/album/3kSodbe541Sst0OYivwNmM) | 2:30 | 2020-08-14\* | 2020-09-16 |
 | [Hoffnungen](https://open.spotify.com/track/5MB8U2Q1V1RDhPWl16ojSG) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Hoffnungen](https://open.spotify.com/album/4QlOD9tJ3PX7gRRQcPzv2a) | 2:13 | 2021-06-18 | 2021-08-04 |
-| [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2021-05-20 |  |
+| [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2021-05-20 | 2023-11-09 |
 | [Homebound](https://open.spotify.com/track/2TSm3aFc5f0tgzsVhIbMxp) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Homebound](https://open.spotify.com/album/05upCw1lmnqV6dO7xFRTz8) | 2:53 | 2022-01-18 | 2022-06-08 |
 | [Homestead](https://open.spotify.com/track/2yZU1Y2Zagb4Ymm5gK72ab) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Homestead](https://open.spotify.com/album/2FSycLXewsbnvoqm6F5oKv) | 2:42 | 2022-03-01 | 2022-06-08 |
 | [Hope \(Felt\)](https://open.spotify.com/track/21S4oSMiR9K07kurcMTvgv) | [Danilo Stankovic](https://open.spotify.com/artist/656DEjf8bYlGw2DqBj28qz) | [Evoke](https://open.spotify.com/album/6drwsG0RvJaxNUS0oIz1c4) | 1:52 | 2021-05-20 | 2021-08-18 |
@@ -469,6 +469,7 @@
 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 | 2023-08-15 |  |
 | [Lost Nights](https://open.spotify.com/track/6nyxFKqmeUId9413dTb2Hb) | [Dana Leccia](https://open.spotify.com/artist/4ptl0i0yjT7UQ3seccQ484) | [Lost Nights](https://open.spotify.com/album/4eUA9CEYNwwBPLoK5VHmXP) | 2:34 | 2021-06-18 | 2022-07-20 |
 | [Lost Time](https://open.spotify.com/track/1nJE8TEWK9hf9Bl0pekJCi) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Lost Time](https://open.spotify.com/album/07lpIaggNhyyr47EJdGhDB) | 2:20 | 2021-04-12 | 2021-11-24 |
+| [Lost to memories](https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Lost to memories](https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj) | 2:14 | 2023-11-08 |  |
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2021-09-30 | 2021-11-11 |
 | [Love Is A Mirror](https://open.spotify.com/track/2Y3etIESkHdEBq4L7RL70W) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Love Is A Mirror](https://open.spotify.com/album/7ins1STZ34Ge8D9e3WUphi) | 2:30 | 2020-11-12 | 2021-05-20 |
 | [Love Letter](https://open.spotify.com/track/51urgUMQVk7EIRoNshc36C) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Love Letter](https://open.spotify.com/album/0osEXsR2retxEFOQi7kn6S) | 1:41 | 2023-02-06 | 2023-04-06 |

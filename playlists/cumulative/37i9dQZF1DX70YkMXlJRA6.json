@@ -267,6 +267,28 @@
     },
     {
       "album": {
+        "name": "Caribe Express",
+        "url": "https://open.spotify.com/album/4ab1kveCYeqKhuhYwX17P8"
+      },
+      "artists": [
+        {
+          "name": "Diego Raposo",
+          "url": "https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7wGtDLvDRGllVRX01cj9Ml"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181280,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/3ta4JlvWcD4hL86TXu8YWa"
+    },
+    {
+      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
       },
@@ -1224,7 +1246,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 244043,
       "name": "Ya Lleg\u00f3 - Captain Planet Remix",
       "url": "https://open.spotify.com/track/0PIeefi6RLeFt2O0NUfRps"

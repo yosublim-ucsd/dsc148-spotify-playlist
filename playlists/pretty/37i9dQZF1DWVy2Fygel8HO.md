@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 
 > Soft, soothing piano for you and your baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,953 likes - 118 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,011 likes - 118 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 | 41 | [Sunday breeze](https://open.spotify.com/track/1atf2cbN3stTERkx9AafmN) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Sunday breeze](https://open.spotify.com/album/31KA9JmcgGuefqDeQXak52) | 1:38 |
 | 42 | [Sun sinking at dusk](https://open.spotify.com/track/5Y223UTPJjOIDVS2vs73g0) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Sun sinking at dusk](https://open.spotify.com/album/0L7qsF3GOm7oJg68rmbWMI) | 2:33 |
 | 43 | [Close your Eyes](https://open.spotify.com/track/6koJtjGt395U7QwSpoPZBn) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [Close your Eyes](https://open.spotify.com/album/3aAxFLIoHyNo9FgAdrcGv7) | 1:46 |
-| 44 | [Navždy](https://open.spotify.com/track/5zRMRrNfOZ4vZZ91Lcdz1d) | [Jan Kubec](https://open.spotify.com/artist/1qalElRe3QyFhucbpFX9On) | [Navždy](https://open.spotify.com/album/5qpAZsu5IrvgSL2owMSH4e) | 2:27 |
+| 44 | [Navždy](https://open.spotify.com/track/5zRMRrNfOZ4vZZ91Lcdz1d) | [Annebelle Coenraad](https://open.spotify.com/artist/3WBXpzZraL3JcZGch7287z) | [Navždy](https://open.spotify.com/album/5qpAZsu5IrvgSL2owMSH4e) | 2:27 |
 | 45 | [Stay with me](https://open.spotify.com/track/7K1S5y76RWJY7jIxSWupEy) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Stay with me](https://open.spotify.com/album/72ApxPcjCBMGRaHZgmbByA) | 2:47 |
 | 46 | [Scarlet Crescent](https://open.spotify.com/track/5Qb1aO7gYbxh7TlpFTUTHg) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Scarlet Crescent](https://open.spotify.com/album/1DCoabskMz130Fc0zVBtS1) | 3:52 |
 | 47 | [Continuum](https://open.spotify.com/track/6r8KQsw5w6xLPgCcz5f9gX) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Continuum](https://open.spotify.com/album/5Kwp883TNLiSnBqgvsrQfV) | 1:21 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 | 117 | [Movement](https://open.spotify.com/track/3qowDmCLrK4mgwbbFW5unz) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Movement](https://open.spotify.com/album/7Jhzqb6xoRsAMWqXvC15Mf) | 2:54 |
 | 118 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 |
 
-Snapshot ID: `MCxlYjg3YTQzNjdjZDI2Y2Q5ZWIzMDg5Y2RiNzA4ZTRiNmQxZDRhMzdh`
+Snapshot ID: `MCxhZGEzZDk5ODM0NmEwZGJlNzA1NDRjZmU1YjRjMWM5NmU4ZjA0YzE3`

@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 517138,
+  "num_followers": 517174,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDhkNmNlNTlhY2NkNmU3YjI4MTdiODcwNmUxODRlMmZhOTdiNzc4",
+  "snapshot_id": "MCxlZjEwYWE0NTA0OTNmMTBmZmExZWE3YWZjZjc5MzkwNDczOWMwNWQx",
   "tracks": [
     {
       "added_at": "2023-08-28 16:45:24",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 209173,
-      "name": "Home Cookin'",
-      "url": "https://open.spotify.com/track/5iHt2zihQWvVBGdPIR4dKT"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
         "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
         "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
       },
@@ -351,22 +335,18 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "Noche de Amor",
-        "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
       "artists": [
         {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        },
-        {
-          "name": "Juancho Vargas",
-          "url": "https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT"
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
         }
       ],
-      "duration_ms": 443874,
-      "name": "Noche de Amor",
-      "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
+      "duration_ms": 209173,
+      "name": "Home Cookin'",
+      "url": "https://open.spotify.com/track/5iHt2zihQWvVBGdPIR4dKT"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -391,18 +371,38 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "Tito's Idea",
-        "url": "https://open.spotify.com/album/1kHWWswdYnqytKxTQS6rxE"
+        "name": "Noche de Amor",
+        "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
       },
       "artists": [
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        },
+        {
+          "name": "Juancho Vargas",
+          "url": "https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT"
         }
       ],
-      "duration_ms": 446040,
-      "name": "Yeah!",
-      "url": "https://open.spotify.com/track/24cOWyNs4aTr4Ol1dtXhh8"
+      "duration_ms": 443874,
+      "name": "Noche de Amor",
+      "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 305066,
+      "name": "Con Alma",
+      "url": "https://open.spotify.com/track/79dhjqvk5LOW1Ah1dQDGgU"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
+        "name": "Tito's Idea",
+        "url": "https://open.spotify.com/album/1kHWWswdYnqytKxTQS6rxE"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 305066,
-      "name": "Con Alma",
-      "url": "https://open.spotify.com/track/79dhjqvk5LOW1Ah1dQDGgU"
+      "duration_ms": 446040,
+      "name": "Yeah!",
+      "url": "https://open.spotify.com/track/24cOWyNs4aTr4Ol1dtXhh8"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "How Did You Get In My Dreams?",
-        "url": "https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 217376,
-      "name": "How Did You Get In My Dreams?",
-      "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
         "name": "E Music",
         "url": "https://open.spotify.com/album/40PuB9YHSod4WSW0Qkozh7"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 341066,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/40hvnBSpgJ9W6BsQe4v8UO"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
+        "name": "How Did You Get In My Dreams?",
+        "url": "https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 217376,
+      "name": "How Did You Get In My Dreams?",
+      "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "Live At The Village Vanguard",
-        "url": "https://open.spotify.com/album/2S1w7Sc9NukidqKfpylJDX"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 396226,
-      "name": "Como Traigo La Yuca - Live",
-      "url": "https://open.spotify.com/track/4ZMlEw8pXvHuwQwem5kpGF"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
         "name": "Selected Recordings",
         "url": "https://open.spotify.com/album/1LS9waBhjOGB9BrQSwkp3b"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 541680,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/5hGIRMjtrTpdMdTrZv4lh1"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
+        "name": "Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/2S1w7Sc9NukidqKfpylJDX"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 396226,
+      "name": "Como Traigo La Yuca - Live",
+      "url": "https://open.spotify.com/track/4ZMlEw8pXvHuwQwem5kpGF"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "The Best Of Chick Corea",
-        "url": "https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        },
-        {
-          "name": "Malcolm Addey",
-          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "My One And Only Love",
-      "url": "https://open.spotify.com/track/21WlpZiXLelHjdoMUhHfrm"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
         "name": "Havana Nocturne (Latin Jazz Vocal)",
         "url": "https://open.spotify.com/album/7610lSB81OET6JFHaahIp7"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 271173,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/6tulqYEcEWv8qXJrQzXZZG"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
+        "name": "The Best Of Chick Corea",
+        "url": "https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "Malcolm Addey",
+          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "My One And Only Love",
+      "url": "https://open.spotify.com/track/21WlpZiXLelHjdoMUhHfrm"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "Mango",
-        "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
-      },
-      "artists": [
-        {
-          "name": "The Bahama Soul Club",
-          "url": "https://open.spotify.com/artist/2xcyMeQhPSRjXrSVZDkVGo"
-        },
-        {
-          "name": "Arema Arega",
-          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
-        }
-      ],
-      "duration_ms": 221954,
-      "name": "Mango",
-      "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
         "name": "Que Ser\u00e1",
         "url": "https://open.spotify.com/album/4fx7ZSz7u8CQYVvJMdphUd"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 118500,
       "name": "Que Ser\u00e1",
       "url": "https://open.spotify.com/track/0qkWBfjH6DtB55RcQnM43Q"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
+        "name": "Mango",
+        "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
+      },
+      "artists": [
+        {
+          "name": "The Bahama Soul Club",
+          "url": "https://open.spotify.com/artist/2xcyMeQhPSRjXrSVZDkVGo"
+        },
+        {
+          "name": "Arema Arega",
+          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
+        }
+      ],
+      "duration_ms": 221954,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
         }
       ],
-      "duration_ms": 165440,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/5adCpfWaVDZUorqk15ScHj"
+      "duration_ms": 184626,
+      "name": "Going Out Of My Head",
+      "url": "https://open.spotify.com/track/3YHzAqT2wt90nVsBLHZ2UH"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
         "name": "The Latin Bit (Remastered)",
         "url": "https://open.spotify.com/album/25R1tDWaQANYeIQb60rwiX"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
         "name": "Trane's Delight",
         "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 357120,
       "name": "The Feeling Of Jazz",
       "url": "https://open.spotify.com/track/7IzKaEpu718xiAyPhMMmHg"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
+        "name": "Soul Burst",
+        "url": "https://open.spotify.com/album/06zt1aFTGlMq9n9y7kPOBN"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 375693,
+      "name": "Curacao",
+      "url": "https://open.spotify.com/track/1bq401DIP2Fvt6Cu95dZXt"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "Soul Burst",
-        "url": "https://open.spotify.com/album/06zt1aFTGlMq9n9y7kPOBN"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 375693,
-      "name": "Curacao",
-      "url": "https://open.spotify.com/track/1bq401DIP2Fvt6Cu95dZXt"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
         "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
         "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
       },
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
         }
       ],
-      "duration_ms": 184626,
-      "name": "Going Out Of My Head",
-      "url": "https://open.spotify.com/track/3YHzAqT2wt90nVsBLHZ2UH"
+      "duration_ms": 165440,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/5adCpfWaVDZUorqk15ScHj"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
+        "name": "The Best Of Paquito D'Rivera",
+        "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
+      },
+      "artists": [
+        {
+          "name": "Paquito D'Rivera",
+          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
+        }
+      ],
+      "duration_ms": 291733,
+      "name": "C\u00f3mo Fue",
+      "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
         "name": "Ascendentes",
         "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
       },
@@ -1267,6 +1283,22 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "A Night In Tunisia",
+      "url": "https://open.spotify.com/track/73z20rpc2F1BMJUTbvHmTq"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
         "name": "Too Late Now",
         "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
       },
@@ -1279,22 +1311,6 @@
       "duration_ms": 165933,
       "name": "Mambo Sangria",
       "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
-        "name": "The Best Of Paquito D'Rivera",
-        "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
-      },
-      "artists": [
-        {
-          "name": "Paquito D'Rivera",
-          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
-        }
-      ],
-      "duration_ms": 291733,
-      "name": "C\u00f3mo Fue",
-      "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -1319,22 +1335,6 @@
       "duration_ms": 130346,
       "name": "La Explicaci\u00f3n",
       "url": "https://open.spotify.com/track/2HlWEGp5Hefb38uuwEL4dI"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "A Night In Tunisia",
-      "url": "https://open.spotify.com/track/73z20rpc2F1BMJUTbvHmTq"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -1375,6 +1375,22 @@
       "duration_ms": 250080,
       "name": "El Incomprendido (feat. Pedro Cap\u00f3)",
       "url": "https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Manteca Theme",
+      "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -1439,6 +1455,22 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
+        "name": "Habana",
+        "url": "https://open.spotify.com/album/6wV9FgUyUXOqE84uz2uNIy"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 287173,
+      "name": "Afrodisia",
+      "url": "https://open.spotify.com/track/2agvDL6NkQfEjGgMbfqQMi"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
         "name": "Ultimate Duets",
         "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
@@ -1459,34 +1491,34 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "Habana",
-        "url": "https://open.spotify.com/album/6wV9FgUyUXOqE84uz2uNIy"
+        "name": "Indigenous",
+        "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
       },
       "artists": [
         {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+          "name": "Diego Rivera",
+          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
         }
       ],
-      "duration_ms": 287173,
-      "name": "Afrodisia",
-      "url": "https://open.spotify.com/track/2agvDL6NkQfEjGgMbfqQMi"
+      "duration_ms": 349165,
+      "name": "Sabor A Mi",
+      "url": "https://open.spotify.com/track/0zE1yiL5X6HZKSkvbuqncC"
     },
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "Listen Here",
-        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
       "artists": [
         {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
         }
       ],
-      "duration_ms": 341560,
-      "name": "In Flight",
-      "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
+      "duration_ms": 131386,
+      "name": "Seven Steps To Heaven",
+      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -1511,34 +1543,18 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "Indigenous",
-        "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
+        "name": "Listen Here",
+        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
       },
       "artists": [
         {
-          "name": "Diego Rivera",
-          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 349165,
-      "name": "Sabor A Mi",
-      "url": "https://open.spotify.com/track/0zE1yiL5X6HZKSkvbuqncC"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Manteca Theme",
-      "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
+      "duration_ms": 341560,
+      "name": "In Flight",
+      "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -1559,34 +1575,18 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "La Perfecta II",
-        "url": "https://open.spotify.com/album/2PMNAdxyoVxGkrECXSmzD1"
+        "name": "Keeper Of The Flame",
+        "url": "https://open.spotify.com/album/3e4bAbCTZq7nvw62WuFgOH"
       },
       "artists": [
         {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
         }
       ],
-      "duration_ms": 330826,
-      "name": "Tirandote Flores II",
-      "url": "https://open.spotify.com/track/7vhOv82NZMxWKx5VrfFBNf"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 131386,
-      "name": "Seven Steps To Heaven",
-      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
+      "duration_ms": 247693,
+      "name": "A Night In Tunisia",
+      "url": "https://open.spotify.com/track/5wRMcNaW1pCQjBIAw7ZY5t"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -1603,22 +1603,6 @@
       "duration_ms": 347803,
       "name": "Poinciana",
       "url": "https://open.spotify.com/track/1rxhAnn7mZAUwytVbBOLS3"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
-        "name": "Keeper Of The Flame",
-        "url": "https://open.spotify.com/album/3e4bAbCTZq7nvw62WuFgOH"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 247693,
-      "name": "A Night In Tunisia",
-      "url": "https://open.spotify.com/track/5wRMcNaW1pCQjBIAw7ZY5t"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -1655,6 +1639,38 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 412133,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
+        "name": "La Perfecta II",
+        "url": "https://open.spotify.com/album/2PMNAdxyoVxGkrECXSmzD1"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 330826,
+      "name": "Tirandote Flores II",
+      "url": "https://open.spotify.com/track/7vhOv82NZMxWKx5VrfFBNf"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
         "name": "Caminos",
         "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
       },
@@ -1671,18 +1687,18 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
       "artists": [
         {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
         }
       ],
-      "duration_ms": 412133,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
+      "duration_ms": 406400,
+      "name": "Sweet Cherry Pie",
+      "url": "https://open.spotify.com/track/2JzNBGnadj4bkVs3gzcdg5"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -1715,22 +1731,6 @@
       "duration_ms": 172680,
       "name": "Muita Bobeira",
       "url": "https://open.spotify.com/track/3yWwPTIZAw9qYkH1L3tIdO"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 406400,
-      "name": "Sweet Cherry Pie",
-      "url": "https://open.spotify.com/track/2JzNBGnadj4bkVs3gzcdg5"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "Acertijos",
-        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        },
-        {
-          "name": "Issac Delgado",
-          "url": "https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK"
-        }
-      ],
-      "duration_ms": 271013,
-      "name": "Ciudadano",
-      "url": "https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
         "name": "Tradiciones",
         "url": "https://open.spotify.com/album/2iLgvf9Z92h7zQXTnjucmm"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 291636,
       "name": "Cuadra 11",
       "url": "https://open.spotify.com/track/0LFUNTV7xNFurTxhF9IrWU"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
+        "name": "Acertijos",
+        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        },
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK"
+        }
+      ],
+      "duration_ms": 271013,
+      "name": "Ciudadano",
+      "url": "https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4"
     }
   ],
   "unique_name": "Latin Jazz",

@@ -1,12 +1,12 @@
 {
   "description": "Is \"indie sleaze\" in the room with us? ft. The Strokes ",
-  "num_followers": 114346,
+  "num_followers": 114482,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzBmM2ZiMmI3MTc1ZWY2YTVlYjFmOGI0YTA4ZDM3Y2U3MGI3MTVl",
+  "snapshot_id": "MCwyOTQ0ZjI0ZGMwNTNhNWJmNjFhZDFjNDY5ZTc1OTNiYThmNjM5N2Ez",
   "tracks": [
     {
       "added_at": "2023-09-05 19:58:53",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "duration_ms": 242960,
+      "name": "Vanished",
+      "url": "https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
         "name": "I Follow Rivers (The Magician Remix)",
         "url": "https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 280069,
       "name": "I Follow Rivers - The Magician Remix",
       "url": "https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "Crystal Castles",
-        "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 242960,
-      "name": "Vanished",
-      "url": "https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
     },
     {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 127920,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu"
-    },
-    {
       "added_at": "2023-09-05 20:03:48",
       "album": {
         "name": "(III)",
@@ -711,6 +695,22 @@
       "duration_ms": 192000,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 127920,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Miike Snow",
-        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 263426,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Master of My Make-Believe",
         "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 284400,
       "name": "Disparate Youth",
       "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Miike Snow",
+        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 263426,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
+        "name": "Santigold",
+        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "L.E.S. Artistes",
+      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
         "name": "Treats",
         "url": "https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 340786,
       "name": "My Girls",
       "url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "Santigold",
-        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "L.E.S. Artistes",
-      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "The Sex EP",
-        "url": "https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Standing in the Way of Control",
         "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 256398,
       "name": "Standing In the Way of Control",
       "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "The Sex EP",
+        "url": "https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J"
-      },
-      "artists": [
-        {
-          "name": "Ratatat",
-          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Wildcat",
-      "url": "https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 265706,
       "name": "This Modern Love",
       "url": "https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J"
+      },
+      "artists": [
+        {
+          "name": "Ratatat",
+          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Wildcat",
+      "url": "https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Paparazzi Lightning",
-        "url": "https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s"
+        "name": "Supernature",
+        "url": "https://open.spotify.com/album/3vtZKHDljhjJORS14a4qKx"
       },
       "artists": [
         {
-          "name": "Ghostland Observatory",
-          "url": "https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo"
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
         }
       ],
-      "duration_ms": 185360,
-      "name": "Sad Sad City",
-      "url": "https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o"
+      "duration_ms": 204373,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/3E0gVkirGK2ouGHPuOO9cN"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1579,6 +1579,22 @@
       "duration_ms": 287906,
       "name": "The Reeling",
       "url": "https://open.spotify.com/track/5noQJkpVfHt2D4df2GXieV"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Paparazzi Lightning",
+        "url": "https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s"
+      },
+      "artists": [
+        {
+          "name": "Ghostland Observatory",
+          "url": "https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Sad Sad City",
+      "url": "https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1631,22 +1647,6 @@
       "duration_ms": 192853,
       "name": "Heartbreaker (feat. John Legend)",
       "url": "https://open.spotify.com/track/3xwm0faDUX5DQxvNVpawjB"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "Supernature",
-        "url": "https://open.spotify.com/album/3vtZKHDljhjJORS14a4qKx"
-      },
-      "artists": [
-        {
-          "name": "Goldfrapp",
-          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/3E0gVkirGK2ouGHPuOO9cN"
     }
   ],
   "unique_name": "Indie Sleaze",

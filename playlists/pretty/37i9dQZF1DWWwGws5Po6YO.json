@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 31835,
+  "num_followers": 31856,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzdkNTA3ZGJmZWFmYzZjYmEyNjNmMDQ5NWE3ZTQ4MTIxYjY5YzQ2",
+  "snapshot_id": "MCw1MTM3NDRkMDk0Y2E0ZDhiNTEwOGJmOTViM2RjMDM4MTcwMzAxNmEy",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:07",
@@ -531,18 +531,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Blue Alibi",
-        "url": "https://open.spotify.com/album/2PPwihRPEkor4XCXlvEkc0"
+        "name": "Comme Un Seul Narcisse",
+        "url": "https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4"
       },
       "artists": [
         {
-          "name": "Mica Levi",
-          "url": "https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3"
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        },
+        {
+          "name": "Jefre Cantu-Ledesma",
+          "url": "https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5"
         }
       ],
-      "duration_ms": 281202,
-      "name": "Blue Shit",
-      "url": "https://open.spotify.com/track/3ImFKblupPLY9oE5kMXhxJ"
+      "duration_ms": 261565,
+      "name": "ME",
+      "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -563,22 +567,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Comme Un Seul Narcisse",
-        "url": "https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4"
+        "name": "Blue Alibi",
+        "url": "https://open.spotify.com/album/2PPwihRPEkor4XCXlvEkc0"
       },
       "artists": [
         {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
-        },
-        {
-          "name": "Jefre Cantu-Ledesma",
-          "url": "https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5"
+          "name": "Mica Levi",
+          "url": "https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3"
         }
       ],
-      "duration_ms": 261565,
-      "name": "ME",
-      "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
+      "duration_ms": 281202,
+      "name": "Blue Shit",
+      "url": "https://open.spotify.com/track/3ImFKblupPLY9oE5kMXhxJ"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 468000,
-      "name": "Long Dizzying Air Through A Balcony Door",
-      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Deep Listening",
         "url": "https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 1496133,
       "name": "Lear",
       "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 468000,
+      "name": "Long Dizzying Air Through A Balcony Door",
+      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Kali",
-        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Kali",
-      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Memories of Log",
         "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 400248,
       "name": "Falling Water Lullaby",
       "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Kali",
+        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Kali",
+      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
     },
     {
       "added_at": "2023-09-08 14:04:07",

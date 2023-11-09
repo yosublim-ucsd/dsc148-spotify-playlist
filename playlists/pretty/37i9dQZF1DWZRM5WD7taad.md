@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Ximbo en Portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,379 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,382 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 40 | [De Aquí Pa´ Allá](https://open.spotify.com/track/1p0LGo2lFLfJV6j0CPGIQx) | [Yaz Tarelo](https://open.spotify.com/artist/59JtSjLRASadXsL9hNlLXB), [Drama Theme](https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8) | [De Aquí Pa´ Allá](https://open.spotify.com/album/5jchWqjRUngsTZGDv4iOqL) | 2:58 |
 | 41 | [Me Escojo A Mi](https://open.spotify.com/track/5frQcUKGw1UXM04OW9pdIr) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Me Escojo A Mi](https://open.spotify.com/album/03sYBeXU2wGBf7gdfjf17V) | 2:48 |
 | 42 | [DISPARA \*\*\*](https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [DISPARA \*\*\*](https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX) | 2:23 |
-| 43 | [Copas de Vino](https://open.spotify.com/track/4jRh3Yu1lTJhIvJe5nuEvu) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu) | [Copas de Vino](https://open.spotify.com/album/1a6uvGC5dZSqwnLZHuQu7X) | 2:43 |
+| 43 | [Copas De Vino](https://open.spotify.com/track/7e4Q1PSvX8CxeQq4nDovgw) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu) | [Copas De Vino](https://open.spotify.com/album/5FLzqwbdp7qdijdHXIYgKd) | 2:43 |
 | 44 | [Merito Propio](https://open.spotify.com/track/6h4dbOFS5ofc1Bpl1sHwz5) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Merito Propio](https://open.spotify.com/album/5kQ7gbYGyfjU8Gq8mRc0CV) | 2:42 |
 | 45 | [Punto](https://open.spotify.com/track/5Y35DJ1fe2ZKS7CRfvhEdY) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Punto](https://open.spotify.com/album/0Qpzn4xD3HRyi22dQxUSQi) | 2:50 |
 | 46 | [Alto Voltaje](https://open.spotify.com/track/0kRc7CgL2zznefYVYfCM1u) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Alto Voltaje](https://open.spotify.com/album/1KDs7zf9avbajx2jtOTqOe) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 99 | [Espacio](https://open.spotify.com/track/4SrHJfvi1rwasva1uJe0KH) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Espacio](https://open.spotify.com/album/3arqwB5XTiXhJz7j6JZb62) | 3:37 |
 | 100 | [Mujer De Fuego](https://open.spotify.com/track/0Nb4vPSBX9mpoQg41wK6al) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mujer De Fuego](https://open.spotify.com/album/5NvV2UDzWL0STSOsmljLSz) | 3:17 |
 
-Snapshot ID: `MCw3ZTE1MzQ3NzE3OTdmMThmZGY3OTg3NDQ1YjAwZDZjMjUxYTI3MjI5`
+Snapshot ID: `MCwzNjAwM2ZhY2NkNWI2OTdlYzgwYjlkMGMwOTExNDVlYWQ0ZGFlMWYy`

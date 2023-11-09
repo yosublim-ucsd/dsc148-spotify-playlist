@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 155748,
+  "num_followers": 155787,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjRkODk3Y2M0MTA2Yjg5OTYwMDgyOWUyZTc4Nzc2NmQxNjdlNDZk",
+  "snapshot_id": "MCxhZmY4NjlkY2VmNjhhODQ2N2IwNDU5MThlNTA2MjUyNDEzNDNjMmI4",
   "tracks": [
     {
       "added_at": "2023-11-06 03:36:17",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
-    },
-    {
-      "added_at": "2023-11-06 03:36:17",
-      "album": {
         "name": "Good & Plenty",
         "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+    },
+    {
+      "added_at": "2023-11-06 03:36:17",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
     },
     {
       "added_at": "2023-11-06 03:36:17",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
+        "name": "Chilly",
+        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Chilly",
+      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
+    },
+    {
+      "added_at": "2023-11-06 03:36:17",
+      "album": {
         "name": "Watching Movies with the Sound Off (10th Anniversary)",
         "url": "https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 264217,
       "name": "The Star Room (OG Version) - Bonus Track",
       "url": "https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT"
-    },
-    {
-      "added_at": "2023-11-06 03:36:17",
-      "album": {
-        "name": "Chilly",
-        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Chilly",
-      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
     },
     {
       "added_at": "2023-11-06 03:36:17",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
-        "name": "Based On A Feeling",
-        "url": "https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 215117,
-      "name": "Better Version",
-      "url": "https://open.spotify.com/track/3TSi3kAdU1PLg3bEQbMKes"
-    },
-    {
-      "added_at": "2023-11-06 03:36:17",
-      "album": {
         "name": "Chilombo (Deluxe)",
         "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 196000,
       "name": "Summer 2020",
       "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
+    },
+    {
+      "added_at": "2023-11-06 03:36:17",
+      "album": {
+        "name": "Based On A Feeling",
+        "url": "https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 215117,
+      "name": "Better Version",
+      "url": "https://open.spotify.com/track/3TSi3kAdU1PLg3bEQbMKes"
     },
     {
       "added_at": "2023-11-06 03:36:17",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/16TtKhePgbLxoqSOvJVQKu"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 202230,
+      "name": "Revenge Of The Number",
+      "url": "https://open.spotify.com/track/1ScZSUcqKAYPoBhL8KL5pU"
+    },
+    {
+      "added_at": "2023-11-06 03:36:17",
+      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF"
       },
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/16TtKhePgbLxoqSOvJVQKu"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
         }
       ],
-      "duration_ms": 202230,
-      "name": "Revenge Of The Number",
-      "url": "https://open.spotify.com/track/1ScZSUcqKAYPoBhL8KL5pU"
+      "duration_ms": 200000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy"
     },
     {
       "added_at": "2023-11-06 03:36:17",
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz"
+        "name": "Oasis Sky",
+        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
       },
       "artists": [
         {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy"
+      "duration_ms": 202991,
+      "name": "Inkeri",
+      "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
     },
     {
       "added_at": "2023-11-06 03:36:17",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 238215,
-      "name": "Dearest Alfred",
-      "url": "https://open.spotify.com/track/1g8I4x4Hl8LEvTMlOmTkiS"
-    },
-    {
-      "added_at": "2023-11-06 03:36:17",
-      "album": {
         "name": "Wave002",
         "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
       },
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
-        "name": "Oasis Sky",
-        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
       "artists": [
         {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 202991,
-      "name": "Inkeri",
-      "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
+      "duration_ms": 238215,
+      "name": "Dearest Alfred",
+      "url": "https://open.spotify.com/track/1g8I4x4Hl8LEvTMlOmTkiS"
     },
     {
       "added_at": "2023-11-06 03:36:17",

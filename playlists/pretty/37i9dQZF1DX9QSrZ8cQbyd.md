@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QSrZ8cQbyd.md) - [plain]
 | 99 | [Dream Big](https://open.spotify.com/track/4BJhESuBfCJIPM8ZIr1rm3) | [Saxon Howland](https://open.spotify.com/artist/1GWprHthhoUHxSFNDIzkI9) | [Dream Big](https://open.spotify.com/album/4tUpNJ2xyrZedbfWYMug7W) | 1:44 |
 | 100 | [Things that makes me happy](https://open.spotify.com/track/6xcNRaz9hPMgkryyZgUi8L) | [Marla Palmer](https://open.spotify.com/artist/0Lb5pc59B3IA8uJj6eDcc1) | [At the end of the rainbow](https://open.spotify.com/album/0xoqZY93uOgFAoj5cgR5D0) | 1:00 |
 | 101 | [’Round Bedtime](https://open.spotify.com/track/4GWnLFPZHuoOrZ6w20PAP4) | [Jonty Kitchen](https://open.spotify.com/artist/6iHkOcJyOSWq4YC0LpBO2L) | [’Round Bedtime](https://open.spotify.com/album/7wDxb1WU5AJMVSJ9smiS4W) | 1:37 |
-| 102 | [Mi rayo de sol](https://open.spotify.com/track/2xeeRdL9B3iCrVkBAckGAy) | [Aline Almeida Rocha](https://open.spotify.com/artist/6D00zwiRArvpJycXcd0udR) | [Toma mi mano](https://open.spotify.com/album/4CyJ46CXZzbegrxs7OCaVg) | 1:30 |
+| 102 | [Mi rayo de sol](https://open.spotify.com/track/2xeeRdL9B3iCrVkBAckGAy) | [Archie Brier](https://open.spotify.com/artist/5t49t4BTV7PlLZ5FbiQpES) | [Toma mi mano](https://open.spotify.com/album/4CyJ46CXZzbegrxs7OCaVg) | 1:30 |
 | 103 | [White Pyjamas](https://open.spotify.com/track/14MRYeRX5S2u9o6Mev6tNC) | [Lyndon Cole](https://open.spotify.com/artist/4YuJWQXYXtQrXTNOFupZfI) | [White Pyjamas](https://open.spotify.com/album/4DS6GovDyxuwrZCrFNJuYa) | 1:31 |
 | 104 | [Let Me Tell You 'Bout My Sister](https://open.spotify.com/track/1a57prfKC1AI23femJL6nj) | [Gabbie Wriston](https://open.spotify.com/artist/3Xz1Nvore2HDjsx6c4Fuds) | [Let Me Tell You 'Bout My Sister](https://open.spotify.com/album/7dBRKmfqAzhp77JSQOKQE6) | 1:47 |
 | 105 | [Porque eu te amo](https://open.spotify.com/track/0vEfpWpXFQ1PvNjsyiGVxR) | [Leonora Magalhães](https://open.spotify.com/artist/7jpsbb109bwLhTQhqpPaOV) | [Porque eu te amo](https://open.spotify.com/album/6ivfoZDZ58MH7O1O2wzFt0) | 1:38 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QSrZ8cQbyd.md) - [plain]
 | 129 | [Wilhelmina](https://open.spotify.com/track/5NBemQIlOEOXrXFAidkLkw) | [Juliane Waechter](https://open.spotify.com/artist/7IsD38M0WKhRpntIENOowC) | [Wilhelmina](https://open.spotify.com/album/7jcNcm1BOg5zUsnM8ZRwYE) | 1:10 |
 | 130 | [Sunday Best](https://open.spotify.com/track/13JaY16Co0IQ86s2Zd9gXK) | [Liebe Glocken](https://open.spotify.com/artist/3p3unInQrETgfYGBCPatYA) | [Liebe Glocken](https://open.spotify.com/album/4N7Hefy1YjBOp9iQIPknLQ) | 3:01 |
 
-Snapshot ID: `MCxmYmM2M2EyYTUzNzg0YTJjMzY5ZTUzN2MzYTE1MDcxMjgwOTdjYmEx`
+Snapshot ID: `MCwzMzVlZDNiMjZlMGY2ODU4ZjM2ODAyZDU5MmQ5MjU0NTI3ZTA0NGI3`

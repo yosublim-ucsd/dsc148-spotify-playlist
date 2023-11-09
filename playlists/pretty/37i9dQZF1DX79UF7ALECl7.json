@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 120360,
+  "num_followers": 120386,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDEzZTVhMzE2ZTFlOWU4MWEzYmVmMDcyYWMzOTI2MDkzMmE3ZmYy",
+  "snapshot_id": "MCw5ODg1NjljNTE5NWI1ZmNhYzQ3Y2Y4YjM1YjAyNDQ5MTJkN2Y2MDg0",
   "tracks": [
     {
       "added_at": "2023-11-02 23:00:00",
@@ -203,18 +203,22 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Endurance / Heart",
-        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
+        "name": "Ltdblbl008",
+        "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
       },
       "artists": [
         {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+          "name": "Retromigration",
+          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
+        },
+        {
+          "name": "Nephews",
+          "url": "https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ"
         }
       ],
-      "duration_ms": 200126,
-      "name": "Endurance",
-      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
+      "duration_ms": 396501,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -235,22 +239,18 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Ltdblbl008",
-        "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
+        "name": "Endurance / Heart",
+        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
       },
       "artists": [
         {
-          "name": "Retromigration",
-          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
-        },
-        {
-          "name": "Nephews",
-          "url": "https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ"
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
         }
       ],
-      "duration_ms": 396501,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
+      "duration_ms": 200126,
+      "name": "Endurance",
+      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
+      },
+      "artists": [
+        {
+          "name": "Luminous",
+          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+        },
+        {
+          "name": "R.O",
+          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
         "name": "Someday",
         "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
       },
@@ -903,42 +923,6 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Reconnect",
-        "url": "https://open.spotify.com/album/3EP85qe0EoJe5p7TqEPqG7"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 252234,
-      "name": "Reconnect",
-      "url": "https://open.spotify.com/track/5f81kMkgmZLBsio8pAM6oA"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
-      },
-      "artists": [
-        {
-          "name": "Luminous",
-          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
-        },
-        {
-          "name": "R.O",
-          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
         "name": "Solar Nights - The Remixes",
         "url": "https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 261908,
       "name": "Athena - NTEIBINT Remix",
       "url": "https://open.spotify.com/track/0A4kpU4AJnf6l8TEni6RUh"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Reconnect",
+        "url": "https://open.spotify.com/album/3EP85qe0EoJe5p7TqEPqG7"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 252234,
+      "name": "Reconnect",
+      "url": "https://open.spotify.com/track/5f81kMkgmZLBsio8pAM6oA"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
+        "name": "Let Love Find Itself / You Blow My Mind",
+        "url": "https://open.spotify.com/album/5PFbIDeJUJm78Bs0Bch5TB"
+      },
+      "artists": [
+        {
+          "name": "KAYYAK",
+          "url": "https://open.spotify.com/artist/0CWKawzjg8jkvZX8HDogla"
+        }
+      ],
+      "duration_ms": 542983,
+      "name": "Let Love Find Itself",
+      "url": "https://open.spotify.com/track/6NLzOMEhcY7jBTHMxZf1Pn"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
         "name": "Echo Of Youth Remodel",
         "url": "https://open.spotify.com/album/736ZHBrEbC3XvvacaoA1t6"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 298440,
       "name": "Youth - Satin Jackets Remix",
       "url": "https://open.spotify.com/track/3Vm1sSi0FyIpQ7fYHHMW8Q"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
-        "name": "Let Love Find Itself / You Blow My Mind",
-        "url": "https://open.spotify.com/album/5PFbIDeJUJm78Bs0Bch5TB"
-      },
-      "artists": [
-        {
-          "name": "KAYYAK",
-          "url": "https://open.spotify.com/artist/0CWKawzjg8jkvZX8HDogla"
-        }
-      ],
-      "duration_ms": 542983,
-      "name": "Let Love Find Itself",
-      "url": "https://open.spotify.com/track/6NLzOMEhcY7jBTHMxZf1Pn"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Toledo",
-        "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
-      },
-      "artists": [
-        {
-          "name": "Luca Musto",
-          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
-        }
-      ],
-      "duration_ms": 301909,
-      "name": "What We Witness",
-      "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
         "name": "Late Night Obsession",
         "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 166798,
       "name": "Slow Goods",
       "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Toledo",
+        "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
+      },
+      "artists": [
+        {
+          "name": "Luca Musto",
+          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
+        }
+      ],
+      "duration_ms": 301909,
+      "name": "What We Witness",
+      "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
+        "name": "Reconnect",
+        "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 193377,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
         "name": "Arturia",
         "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
       },
@@ -1239,26 +1255,6 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Profound EP",
-        "url": "https://open.spotify.com/album/3SSZfZPuBVKpFaSriYWBUt"
-      },
-      "artists": [
-        {
-          "name": "Malik Faquir",
-          "url": "https://open.spotify.com/artist/1DFahMH74byTBAyyn1vn2z"
-        },
-        {
-          "name": "Pierre Johnson",
-          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
-        }
-      ],
-      "duration_ms": 392347,
-      "name": "Harmonic Dreams",
-      "url": "https://open.spotify.com/track/13yelaqEIzn1hOz2ZRx2xz"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
         "name": "At The Horizon",
         "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
       },
@@ -1275,18 +1271,22 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Reconnect",
-        "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
+        "name": "Profound EP",
+        "url": "https://open.spotify.com/album/3SSZfZPuBVKpFaSriYWBUt"
       },
       "artists": [
         {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+          "name": "Malik Faquir",
+          "url": "https://open.spotify.com/artist/1DFahMH74byTBAyyn1vn2z"
+        },
+        {
+          "name": "Pierre Johnson",
+          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
         }
       ],
-      "duration_ms": 193377,
-      "name": "Elsewhere",
-      "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
+      "duration_ms": 392347,
+      "name": "Harmonic Dreams",
+      "url": "https://open.spotify.com/track/13yelaqEIzn1hOz2ZRx2xz"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -1319,6 +1319,22 @@
       "duration_ms": 207500,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Yugen",
+        "url": "https://open.spotify.com/album/6Tn5DNwQCrPnXXU27jzOAu"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Yugen",
+      "url": "https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Yugen",
-        "url": "https://open.spotify.com/album/6Tn5DNwQCrPnXXU27jzOAu"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Yugen",
-      "url": "https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/0xA3Pyif2qZdMymcAMUXAI"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "small talk",
-        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 325680,
-      "name": "small talk",
-      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
         "name": "Killer Machine",
         "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 233316,
       "name": "Killer Machine",
       "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "small talk",
+        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 325680,
+      "name": "small talk",
+      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Voyage Direct (2020 Remaster)",
-        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
-      },
-      "artists": [
-        {
-          "name": "Tom Trago",
-          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
-        }
-      ],
-      "duration_ms": 277899,
-      "name": "Lost in the Streets of NYC - 2020 Remaster",
-      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
         "name": "Proto/Emotions",
         "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 319743,
       "name": "Ballo Da Solo",
       "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Voyage Direct (2020 Remaster)",
+        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
+      },
+      "artists": [
+        {
+          "name": "Tom Trago",
+          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
+        }
+      ],
+      "duration_ms": 277899,
+      "name": "Lost in the Streets of NYC - 2020 Remaster",
+      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
     },
     {
       "added_at": "2023-11-02 23:00:00",

@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Laufey & beabadoobee.
 
-645 songs - 1 day 9 hr 32 min
+646 songs - 1 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Almost](https://open.spotify.com/track/68VL7UkUzq4AYwKrDFILDr) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Almost](https://open.spotify.com/album/0Qzxp5849s75hQ80V5puOq) | 2:20 | 2022-11-04 | 2022-12-26 |
 | [alone](https://open.spotify.com/track/7B0UsAj5qR6NeYQq3y74rF) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [alone](https://open.spotify.com/album/0C1DeypOQyvRbU7Eg7917n) | 3:13 | 2023-01-13 | 2023-08-13 |
 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 | 2023-08-11 |  |
-| [ANGEL](https://open.spotify.com/track/1Hlb5As8d3o1wiWou14m2R) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [ANGEL](https://open.spotify.com/album/7dpjceNDgV9U67hEfAkEKO) | 2:04 | 2023-08-11 | 2023-11-06 |
+| [ANGEL](https://open.spotify.com/track/1Hlb5As8d3o1wiWou14m2R) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [ANGEL](https://open.spotify.com/album/7dpjceNDgV9U67hEfAkEKO) | 2:04 | 2023-08-11 |  |
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-05-27 | 2023-02-25 |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-14 | 2023-07-01 |
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-11-29 | 2023-08-12 |
@@ -457,6 +457,7 @@
 | [Regressa](https://open.spotify.com/track/1dlOr60VqwO8DIGn9TLeeu) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [STAR ANISE](https://open.spotify.com/album/3ZH3NAs9F36n7ZjWBQ9peo) | 1:39 | 2023-05-05 | 2023-07-01 |
 | [Reminisce \(feat\. Yuna\)](https://open.spotify.com/track/0tT9RlzcD5Of5w05TPQKxk) | [PARADISE RISING](https://open.spotify.com/artist/0bGLIWZrNjcM3mIwPqxBNo), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [semilucent 2](https://open.spotify.com/album/4cUc4EWmcbzamsCXOlJ8ez) | 3:22 | 2022-05-27 | 2022-07-29 |
 | [Revenge Body](https://open.spotify.com/track/46TPA4mVzk1WE4eFItCLG6) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [PARAVI](https://open.spotify.com/album/27d1Ladlcuhf4E10k07EVR) | 2:53 | 2023-09-22 |  |
+| [Right About Love](https://open.spotify.com/track/3bQ7nKbcQeq6r3baY1vLNB) | [Kevin Chung](https://open.spotify.com/artist/1VecMtyjxg6MDDJGVJnMJ2) | [Right About Love](https://open.spotify.com/album/7KrtzyHudvDuQVKwqQDeIk) | 2:02 | 2023-11-03 |  |
 | [Right Before Our Eyes](https://open.spotify.com/track/5xmQy57y7FuyUQxpeNlUbT) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Right Before Our Eyes](https://open.spotify.com/album/0485X59JRJJIQSRiH22WGd) | 3:04 | 2023-05-19 | 2023-10-04 |
 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 | 2022-06-10 | 2022-08-27 |
 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-05-27 | 2022-06-16 |
@@ -545,7 +546,7 @@
 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 | 2023-07-14 | 2023-10-14 |
 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 | 2023-05-12 |  |
 | [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 | 2022-10-07 | 2023-09-02 |
-| [TENNESSEE](https://open.spotify.com/track/2AFwCOahN4s0NlODlXLRFa) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [TENNESSEE](https://open.spotify.com/album/1FExYW4kwoxuHmCGgRYm8o) | 3:23 | 2023-07-01 |  |
+| [TENNESSEE](https://open.spotify.com/track/2AFwCOahN4s0NlODlXLRFa) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [TENNESSEE](https://open.spotify.com/album/1FExYW4kwoxuHmCGgRYm8o) | 3:23 | 2023-07-01 | 2023-11-09 |
 | [TGIF](https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [TGIF](https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c) | 2:51 | 2023-08-04 |  |
 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 | 2022-09-02 | 2023-07-01 |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-27 | 2022-07-25 |
@@ -563,7 +564,7 @@
 | [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 | 2022-09-23 | 2023-09-23 |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-09-23 | 2022-10-08 |
 | [The Rabbit Hole](https://open.spotify.com/track/0v8nJdCqaABu5ozagx1Hyp) | [Latir](https://open.spotify.com/artist/44oMko09F9g8RQTkh39GSr) | [The Rabbit Hole](https://open.spotify.com/album/3wrA10WAaoSGR1gOioQZm6) | 3:23 | 2023-02-07 | 2023-05-12 |
-| [The Show \- with JJ Lin](https://open.spotify.com/track/3MpC4En7qGkwcuzp8qnsrr) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [The Show \(with JJ Lin\)](https://open.spotify.com/album/5GJCAZCsQS8hCQsxjrVdvo) | 3:27 | 2023-05-26 |  |
+| [The Show \- with JJ Lin](https://open.spotify.com/track/3MpC4En7qGkwcuzp8qnsrr) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [The Show \(with JJ Lin\)](https://open.spotify.com/album/5GJCAZCsQS8hCQsxjrVdvo) | 3:27 | 2023-05-26 | 2023-11-09 |
 | [the space between us](https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [the space between us](https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx) | 4:13 | 2023-09-29 |  |
 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2022-05-27 | 2023-08-12 |
 | [The World Is Mine](https://open.spotify.com/track/2QlHmqaiWxytgiqFn8UL7A) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [The World Is Mine](https://open.spotify.com/album/5QNyRwivuuNW7gw7I9s4zu) | 3:02 | 2023-05-05 | 2023-05-13 |

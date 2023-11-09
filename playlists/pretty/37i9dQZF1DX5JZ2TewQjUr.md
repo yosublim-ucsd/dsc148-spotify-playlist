@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 東涌事發
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,484 likes - 99 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,489 likes - 99 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 98 | [Lucky Girl Syndrome](https://open.spotify.com/track/3cjzj5M52Jl0u6JHNTU7z8) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Lucky Girl Syndrome](https://open.spotify.com/album/4LA9YSzUkfXimeP4Tq7xmC) | 2:36 |
 | 99 | [Sorry呢度係香港](https://open.spotify.com/track/1RVoiNHphu8IfIJK8T1b2Q) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [Sorry呢度係香港](https://open.spotify.com/album/5FajEbPVB8XfS5TfpSy5Ui) | 3:26 |
 
-Snapshot ID: `MCw0Njk2NDg1NjE5OWJiZWJmM2RiZGEzZWJkMWRkMDQxMjIyMDE1MGFl`
+Snapshot ID: `MCw5ZWFjNDU4ZWMyNWQ4NDVkMmI4ZTRjNDU3NTE2ODZkZmU1YTFjZDQ1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Green Day in cover 🩸 Punk rock, emo e pop punk 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,056 likes - 87 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,065 likes - 87 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 86 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
 | 87 | [Pillole](https://open.spotify.com/track/7gBO9lts9MZomcwuZnIXTy) | [TVB](https://open.spotify.com/artist/05LOeuVeelln8qMq6s1Cz5) | [Pillole](https://open.spotify.com/album/2LFoEjRvmHKzcstDPLPLUi) | 2:47 |
 
-Snapshot ID: `MCw3ZWQ5YTIzNjBkNjUxYWUzMGU4Mjk2MWI3ZGQ2ZGM1OGJiYjZmN2Rl`
+Snapshot ID: `MCxhZmZlNTMxZTBkOWM3NjY3YjMxMTZhNGM3NGZiMmU4NGZlOTM5M2Mx`

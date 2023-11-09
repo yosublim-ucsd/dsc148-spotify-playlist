@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 397140,
+  "num_followers": 397175,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGZmZTA4NjhmYzg1Yzc5NjI1Nzg5NmM2ZjEwNzQxYjg0ZjZkOGQ0",
+  "snapshot_id": "MCxkZTEwMmFkNDY5YTI4NzM1ZDg0ZGIyMWMyNjBiY2RiMWQwY2YzOTc4",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -259,26 +259,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Eureka",
-        "url": "https://open.spotify.com/album/2LA3Z2VlhMWBAIpaAnJFmf"
-      },
-      "artists": [
-        {
-          "name": "Clemente Castillo",
-          "url": "https://open.spotify.com/artist/6xq8uO5PE2Vs9G6OsIicin"
-        },
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Calaveras y Diablitos",
-      "url": "https://open.spotify.com/track/3hEMRRpy1AiRma7mlsVqY7"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Ra\u00edz",
         "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 180640,
       "name": "Cumbia del Mole",
       "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Eureka",
+        "url": "https://open.spotify.com/album/2LA3Z2VlhMWBAIpaAnJFmf"
+      },
+      "artists": [
+        {
+          "name": "Clemente Castillo",
+          "url": "https://open.spotify.com/artist/6xq8uO5PE2Vs9G6OsIicin"
+        },
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Calaveras y Diablitos",
+      "url": "https://open.spotify.com/track/3hEMRRpy1AiRma7mlsVqY7"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "T\u00fa y Yo",
         "url": "https://open.spotify.com/album/5ZiEQlND2otG2zdBVzuQO9"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 209466,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/71vzHHi7B66IZWfJfjVN7W"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 227413,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/3EUxtYagZRbXB7is7UjSg7"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Treinta D\u00edas",
-        "url": "https://open.spotify.com/album/58Y71EOtzHbVnUfCqXC9NB"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "Monedita",
-      "url": "https://open.spotify.com/track/1dq5ewYIsKa4CgiTmE43by"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Las Olas",
         "url": "https://open.spotify.com/album/4RsOvbDDKueXvQSPHXTMi5"
       },
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Treinta D\u00edas",
+        "url": "https://open.spotify.com/album/58Y71EOtzHbVnUfCqXC9NB"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "Monedita",
+      "url": "https://open.spotify.com/track/1dq5ewYIsKa4CgiTmE43by"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Trebol (II)",
         "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 189900,
       "name": "Lo Mismo Que Usted",
       "url": "https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw"
-      },
-      "artists": [
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 227413,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/3EUxtYagZRbXB7is7UjSg7"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Mettavolution",
-        "url": "https://open.spotify.com/album/14PfZxWDjz2M104JSlhV5Q"
+        "name": "Tr\u00e9bol",
+        "url": "https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg"
       },
       "artists": [
         {
-          "name": "Rodrigo y Gabriela",
-          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+          "name": "Pantoja",
+          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
         }
       ],
-      "duration_ms": 238760,
-      "name": "Electric Soul",
-      "url": "https://open.spotify.com/track/4YhqlvorKX7kd9pHLLfWz1"
+      "duration_ms": 159790,
+      "name": "Si Te Contara",
+      "url": "https://open.spotify.com/track/4FZjsJCf0MO19udtVY4rfx"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Tr\u00e9bol",
-        "url": "https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg"
+        "name": "Mettavolution",
+        "url": "https://open.spotify.com/album/14PfZxWDjz2M104JSlhV5Q"
       },
       "artists": [
         {
-          "name": "Pantoja",
-          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
         }
       ],
-      "duration_ms": 159790,
-      "name": "Si Te Contara",
-      "url": "https://open.spotify.com/track/4FZjsJCf0MO19udtVY4rfx"
+      "duration_ms": 238760,
+      "name": "Electric Soul",
+      "url": "https://open.spotify.com/track/4YhqlvorKX7kd9pHLLfWz1"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -979,6 +979,26 @@
       "duration_ms": 224133,
       "name": "Chocolat (Swing)",
       "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Tregua",
+        "url": "https://open.spotify.com/album/0Z3WM0LZkRWEnrcJx8shtG"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        },
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Tregua",
+      "url": "https://open.spotify.com/track/3fjniKdHqy0VMgOphFTPNn"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1019,22 +1039,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Musica Para Despues De Almuerzo",
-        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
-      },
-      "artists": [
-        {
-          "name": "Bitman & Roban",
-          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Despues De Almuerzo Parte 3",
-      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
       },
@@ -1051,6 +1055,22 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Musica Para Despues De Almuerzo",
+        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
+      },
+      "artists": [
+        {
+          "name": "Bitman & Roban",
+          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Despues De Almuerzo Parte 3",
+      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1103,22 +1123,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Tregua",
-        "url": "https://open.spotify.com/album/0Z3WM0LZkRWEnrcJx8shtG"
+        "name": "bossa nova",
+        "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
       },
       "artists": [
         {
-          "name": "Mar\u00e9h",
-          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
-        },
-        {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
         }
       ],
-      "duration_ms": 183066,
-      "name": "Tregua",
-      "url": "https://open.spotify.com/track/3fjniKdHqy0VMgOphFTPNn"
+      "duration_ms": 188070,
+      "name": "bossa nova",
+      "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1139,42 +1155,6 @@
       "duration_ms": 370730,
       "name": "Pelo Negro",
       "url": "https://open.spotify.com/track/63lE9CBiNmJIdgkH2vPpVm"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "El Caudal",
-        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 237619,
-      "name": "El Caudal",
-      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "bossa nova",
-        "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 188070,
-      "name": "bossa nova",
-      "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1215,6 +1195,46 @@
       "duration_ms": 211586,
       "name": "Arturo Sandoval",
       "url": "https://open.spotify.com/track/35U6NyVIlRIdNiNBd7Hz6G"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "El Caudal",
+        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 237619,
+      "name": "El Caudal",
+      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Grietas",
+        "url": "https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3"
+      },
+      "artists": [
+        {
+          "name": "Newen Afrobeat",
+          "url": "https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb"
+        },
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "duration_ms": 313750,
+      "name": "Grietas",
+      "url": "https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1275,22 +1295,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Grietas",
-        "url": "https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3"
+        "name": "Parrilladas Vargas",
+        "url": "https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR"
       },
       "artists": [
         {
-          "name": "Newen Afrobeat",
-          "url": "https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb"
-        },
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
         }
       ],
-      "duration_ms": 313750,
-      "name": "Grietas",
-      "url": "https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf"
+      "duration_ms": 131897,
+      "name": "Una Piedra en el Cielo",
+      "url": "https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Parrilladas Vargas",
-        "url": "https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR"
-      },
-      "artists": [
-        {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
-        }
-      ],
-      "duration_ms": 131897,
-      "name": "Una Piedra en el Cielo",
-      "url": "https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "President Alien",
         "url": "https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH"
       },
@@ -1343,6 +1343,22 @@
       "duration_ms": 240226,
       "name": "Electric Boogaloo",
       "url": "https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Se\u00f1or Coconut / Around the World",
+        "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
+      },
+      "artists": [
+        {
+          "name": "Atom TM",
+          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
+        }
+      ],
+      "duration_ms": 167497,
+      "name": "Around the World (Intro)",
+      "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1363,22 +1379,6 @@
       "duration_ms": 172411,
       "name": "Para Llevar",
       "url": "https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Se\u00f1or Coconut / Around the World",
-        "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
-      },
-      "artists": [
-        {
-          "name": "Atom TM",
-          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
-        }
-      ],
-      "duration_ms": 167497,
-      "name": "Around the World (Intro)",
-      "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Somos Hermanas",
+        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 230877,
+      "name": "Somos Hermanas",
+      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Versus (EP)",
         "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
       },
@@ -1491,18 +1507,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Somos Hermanas",
-        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
+        "name": "Todo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
       },
       "artists": [
         {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
         }
       ],
-      "duration_ms": 230877,
-      "name": "Somos Hermanas",
-      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
+      "duration_ms": 218909,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1595,22 +1615,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Todo Cambi\u00f3",
-        "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
+        "name": "En Medio Del Jard\u00edn",
+        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
       },
       "artists": [
         {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Mariangela",
-          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+          "name": "DRIMS",
+          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
         }
       ],
-      "duration_ms": 218909,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
+      "duration_ms": 221986,
+      "name": "En Medio Del Jard\u00edn",
+      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1627,22 +1643,6 @@
       "duration_ms": 224826,
       "name": "Donde Est\u00e1",
       "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "En Medio Del Jard\u00edn",
-        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
-      },
-      "artists": [
-        {
-          "name": "DRIMS",
-          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "En Medio Del Jard\u00edn",
-      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
     },
     {
       "added_at": "2023-11-03 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,420 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,449 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,20 +73,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 63 | [Tempo](https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Tempo](https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh) | 2:58 |
 | 64 | [Friend](https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl) | [Friend](https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k) | 3:46 |
 | 65 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 |
-| 66 | [Future](https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Future](https://open.spotify.com/album/250asL6HXVThavIF7t9rBc) | 3:25 |
-| 67 | [The Same Jesus \- Reyer Remix](https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Oleven](https://open.spotify.com/artist/6hMyqOeb1TTUYkbNXpc6uB) | [The Same Jesus \(Reyer Remix\)](https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI) | 3:01 |
+| 66 | [The Same Jesus \- Reyer Remix](https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Oleven](https://open.spotify.com/artist/6hMyqOeb1TTUYkbNXpc6uB) | [The Same Jesus \(Reyer Remix\)](https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI) | 3:01 |
+| 67 | [Future](https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Future](https://open.spotify.com/album/250asL6HXVThavIF7t9rBc) | 3:25 |
 | 68 | [Fake It \- Warehouse Mix](https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Fake It](https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU) | 2:17 |
 | 69 | [Come and Be My Love](https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Come and Be My Love](https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85) | 2:42 |
 | 70 | [More Than Halfway](https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [More Than Halfway](https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n) | 3:41 |
 | 71 | [Step Into The Fight \- Gregatron Remix](https://open.spotify.com/track/7MmEyVUNFyNXvCUy67M6RD) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Step Into The Fight \(Gregatron Remix\)](https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk) | 3:33 |
 | 72 | [Father](https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Father](https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX) | 3:33 |
 | 73 | [Nothing But The Truth](https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Truth](https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh) | 3:24 |
-| 74 | [High Low \- Remix](https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw) | [High Low \(Remix\)](https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8) | 2:44 |
-| 75 | [Invited](https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part II](https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy) | 3:04 |
+| 74 | [Invited](https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part II](https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy) | 3:04 |
+| 75 | [High Low \- Remix](https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw) | [High Low \(Remix\)](https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8) | 2:44 |
 | 76 | [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 |
 | 77 | [I Will Follow You \- Live](https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [I Will Follow You \(Live\)](https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3) | 3:51 |
 | 78 | [Happy Day \- Retain Remix](https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Happy Day \- Retain Remix](https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk) | 3:20 |
 | 79 | [Overcomer \- Julie and Ruslan Remix](https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Julie Lov](https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR) | [Overcomer: The Remixes](https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc) | 3:16 |
 | 80 | [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 |
 
-Snapshot ID: `MCxlOGRhYzk1OGJmZTNmZGYyZTk1Mzg0NGY0OGJhYzUzZGFlOWFkM2Nl`
+Snapshot ID: `MCw3YmUwYmQ2MDdmYmJlOGRlZDI5YWY0NmU2YzA3ZTcyOTM0ZGIzZWYx`

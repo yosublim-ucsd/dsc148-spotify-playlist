@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-416 songs - 1 day 14 hr 18 min
+417 songs - 1 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Forever and Ever](https://open.spotify.com/track/0AaTNHKAophhP8sZuGqg1I) | [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh) | [Silent World](https://open.spotify.com/album/1TpgHVGapenLBD1Mcboy1L) | 4:32 | 2023-01-26 |  |
 | [From Gagarin's Point of View](https://open.spotify.com/track/3QxZooLdeJBAf0x405DDI7) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [From Gagarin's Point of View](https://open.spotify.com/album/1P7f9dheKiUWLPCCQ9RdS1) | 4:03 | 2021-02-26 | 2022-01-23 |
 | [From The Mountains](https://open.spotify.com/track/0x7F5NIdGbQWiTb1G34e6H) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Dream Box](https://open.spotify.com/album/7BRTdya6UKyz9xLxjU0Hio) | 8:20 | 2023-10-24 | 2023-11-05 |
+| [From The Mountains](https://open.spotify.com/track/2vrav3XxztyyB5jnvg3IEH) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Dream Box](https://open.spotify.com/album/65WGqUztAtgLA6KLy9rcwJ) | 8:20 | 2023-10-24 |  |
 | [From The Mountains](https://open.spotify.com/track/7evvPuIQkcJEPki0t5nkxd) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [From The Mountains](https://open.spotify.com/album/6eSbOxKBVFiUUF8iKSs9aB) | 8:20 | 2023-04-13 | 2023-11-04 |
 | [Gamla Stan](https://open.spotify.com/track/0hNhCLpa4cYWwQ5OBCdbu6) | [Jacob Gurevitsch](https://open.spotify.com/artist/1h9GstBf9XSQT3jzZqt3vH) | [Gamla Stan](https://open.spotify.com/album/27zhj34ju1kWcPj3sbTP5r) | 5:24 | 2020-05-08 | 2022-05-03 |
 | [Gary's Theme \- 2003 Remastered Version](https://open.spotify.com/track/4G3EKvGtqcUSZqPQIWJFxd) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring](https://open.spotify.com/album/6vYvLfw8EOf9OlLgc3IwaX) | 4:17 | 2020-05-04 | 2022-07-29 |
@@ -266,7 +267,7 @@
 | [One Step at a Time](https://open.spotify.com/track/4C85BJqQN5Ma1IG6klsRov) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Balanced](https://open.spotify.com/album/2TWBfz1Ob14EujlQGy34KJ) | 4:56 | 2023-02-12 |  |
 | [Opaque](https://open.spotify.com/track/4u5mFoRNJAOP1h2MedgInP) | [Johanna Linnea Jakobsson](https://open.spotify.com/artist/69am8UyQyXz2KgO2bnxkfP), [Robin Petersson](https://open.spotify.com/artist/3PJ3z4A0hSWE6Y9XU7AzDd), [Anders Fjeldsted](https://open.spotify.com/artist/3cMGXEInQZ35t6Qb3M1s8N), [Gustaf Rosenberg](https://open.spotify.com/artist/5oeyqY4yPOoegd5LFYTrZP), [John Fernold](https://open.spotify.com/artist/6zJbBjq6MYuLk6sFqdpmsV) | [Alone Together](https://open.spotify.com/album/0bTuaMPPREoKbTZixGGIpO) | 5:41 | 2022-06-02 |  |
 | [Opening Day](https://open.spotify.com/track/7FI4GNCpplLLHihNZPOwKW) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU), [Django Bates](https://open.spotify.com/artist/0aPobuZcU7C6OgpGU0R5V8) | [Blue Maqams](https://open.spotify.com/album/3G0UgD5jjf2pcwDH1fN5xK) | 7:01 | 2020-05-20 | 2021-08-19 |
-| [Out of Sight, Out of Mind](https://open.spotify.com/track/3OBokYRuPMAielITqkNQBg) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Passage](https://open.spotify.com/album/6pBPOLd5zU0AbHzGkUZm4z) | 7:07 | 2023-08-15 |  |
+| [Out of Sight, Out of Mind](https://open.spotify.com/track/3OBokYRuPMAielITqkNQBg) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Passage](https://open.spotify.com/album/6pBPOLd5zU0AbHzGkUZm4z) | 7:07 | 2023-08-15 | 2023-11-09 |
 | [Over The Rainbow](https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Everything I Play Is Funky](https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E) | 7:11 | 2020-05-02\* | 2022-10-05 |
 | [Owl Song 1 \(feat\. Bill Frisell & Herlin Riley\)](https://open.spotify.com/track/6ICJd5vAZPHxLB3zIt2u2u) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Herlin Riley](https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir) | [Owl Song 1 \(feat\. Bill Frisell & Herlin Riley\)](https://open.spotify.com/album/6NUxtWDXrctrTv06UTWx9L) | 5:52 | 2023-10-13 |  |
 | [Paranoid Android I](https://open.spotify.com/track/5Jz6iIgLRx5huCdlM8QDts) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Mon chien Stupide \(Bande originale du film\)](https://open.spotify.com/album/5jgEkCbqlHYIa7pMIS4spJ) | 1:41 | 2020-05-02\* | 2022-01-25 |

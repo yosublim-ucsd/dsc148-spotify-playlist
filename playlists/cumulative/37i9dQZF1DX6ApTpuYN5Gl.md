@@ -4,7 +4,7 @@
 
 > sad beats\. deep vibes.
 
-61 songs - 3 hr 32 min
+62 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 | 2023-08-25 |  |
 | [Into The Night](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Into The Night](https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr) | 7:03 | 2023-08-25 |  |
 | [Kyle \(i found you\)](https://open.spotify.com/track/6Ao5d7TMQ92h87jQqSHGyw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:16 | 2023-08-25 |  |
+| [life gets hard](https://open.spotify.com/track/0LoPQfWaoGGnu1tIA6FScX) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/64NXiz0recaVJwJl0Bzabp) | 2:05 | 2023-11-08 |  |
 | [Lonely](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Lonely](https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj) | 2:45 | 2023-08-25 |  |
 | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34) | 2:19 | 2023-08-25 |  |
 | [Love Like We're Dying](https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Love Like We're Dying](https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad) | 3:03 | 2023-08-25 | 2023-10-14 |
@@ -66,7 +67,7 @@
 | [Under the Moon](https://open.spotify.com/track/7JyZjlTWvCMJcbimNOAOkC) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Under the Moon](https://open.spotify.com/album/7fn5WEWdDR10ccAxgsrMKp) | 2:52 | 2023-08-25 | 2023-09-08 |
 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 | 2023-08-25 | 2023-09-08 |
 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 | 2023-08-25 |  |
-| [Why Does My Heart](https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Why Does My Heart](https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd) | 2:52 | 2023-08-25 |  |
+| [Why Does My Heart](https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Why Does My Heart](https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd) | 2:52 | 2023-08-25 | 2023-11-09 |
 | [With You](https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [With You](https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH) | 2:48 | 2023-09-21 |  |
 | [You've Done Enough](https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:32 | 2023-08-25 |  |
 

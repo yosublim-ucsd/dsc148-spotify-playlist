@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Black Pumas
 
-776 songs - 1 day 23 hr 41 min
+777 songs - 1 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,7 +537,8 @@
 | [Relay](https://open.spotify.com/track/7cHLutQTiJ5cMfVI5Bg7nQ) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Relay](https://open.spotify.com/album/43skczn9Io3vAXh97760qM) | 3:05 | 2021-06-18 | 2021-10-29 |
 | [Remedy](https://open.spotify.com/track/0hnpoj1FS6bpPbFXLXLBTH) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Remedy](https://open.spotify.com/album/1heefxZcK41kW2gzLtnwTM) | 3:39 | 2020-03-25\* | 2020-10-09 |
 | [Remember](https://open.spotify.com/track/0CkoWbWqoY8Blolkuz7LeS) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mumu Fresh](https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD) | [Remember](https://open.spotify.com/album/2Q9MzaTH0z8WWcPAt50CLP) | 3:01 | 2021-01-09 | 2021-12-01 |
-| [Repent \- Live](https://open.spotify.com/track/6QvdT4W0W66JZG2Lsf5W1u) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Repent \(Live\)](https://open.spotify.com/album/5YpSuMVamsS1LjbUNvhjZi) | 5:45 | 2023-06-07 |  |
+| [Repent \- Live](https://open.spotify.com/track/4hadhnkBkGXXr64fo0pFts) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Raw In Amsterdam \(Live\)](https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd) | 5:45 | 2023-10-26 |  |
+| [Repent \- Live](https://open.spotify.com/track/6QvdT4W0W66JZG2Lsf5W1u) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Repent \(Live\)](https://open.spotify.com/album/5YpSuMVamsS1LjbUNvhjZi) | 5:45 | 2023-06-07 | 2023-11-09 |
 | [Rhodes](https://open.spotify.com/track/6oLwWCpeJu2PnIObPWNGma) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Rhodes](https://open.spotify.com/album/2CRUQQC4EbWTaOxZMymSv6) | 3:54 | 2022-09-22 | 2022-09-26 |
 | [Ride or Die](https://open.spotify.com/track/40wfUw3Vf1V1a46CibHmt7) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/4ogV05oprfriua7n9icbvN) | 4:14 | 2021-07-30 | 2021-12-01 |
 | [Rise](https://open.spotify.com/track/6J9f6gb2Yqwzrzca4cZy7i) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Rise](https://open.spotify.com/album/4TnL5ML7n7N7NJtkbozZtD) | 4:34 | 2020-06-20 | 2020-07-18 |

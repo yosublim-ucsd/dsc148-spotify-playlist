@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 446453,
+  "num_followers": 446704,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2FhYmZiYjU3NTdiNDk3YTgxMmJhOWY1ZDI0MGQyYjk4MTM3Nzc5",
+  "snapshot_id": "MCw2MjJhMWE4OTc2MmRhNGEzNTI1YWQwODg3YWJhMmVjZmRiODhjZjcy",
   "tracks": [
     {
       "added_at": "2023-10-20 15:30:52",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-10-20 15:30:52",
       "album": {
+        "name": "Melt Away",
+        "url": "https://open.spotify.com/album/4aakJBO52AmbAK0sMy8blA"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "I'm a Kid",
+      "url": "https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr"
+    },
+    {
+      "added_at": "2023-10-20 15:30:52",
+      "album": {
         "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
         "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 271240,
       "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
       "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
-    },
-    {
-      "added_at": "2023-10-20 15:30:52",
-      "album": {
-        "name": "Melt Away",
-        "url": "https://open.spotify.com/album/4aakJBO52AmbAK0sMy8blA"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "I'm a Kid",
-      "url": "https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr"
     },
     {
       "added_at": "2023-10-20 15:30:52",
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-10-20 15:30:52",
       "album": {
-        "name": "DO 4 LOVE (Black Coffee Remix)",
-        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        }
-      ],
-      "duration_ms": 224281,
-      "name": "DO 4 LOVE - Black Coffee Remix",
-      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
-    },
-    {
-      "added_at": "2023-10-20 15:30:52",
-      "album": {
         "name": "Moon Shoes EP",
         "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 217013,
       "name": "Free Room (feat. Appleby)",
       "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+    },
+    {
+      "added_at": "2023-10-20 15:30:52",
+      "album": {
+        "name": "DO 4 LOVE (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "duration_ms": 224281,
+      "name": "DO 4 LOVE - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
     },
     {
       "added_at": "2023-10-20 15:30:52",

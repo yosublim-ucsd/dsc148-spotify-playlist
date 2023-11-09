@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-441 songs - 23 hr 35 min
+442 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [OK Not To Be OK](https://open.spotify.com/track/0zzVTGyRrWpQu8Fr28NRAv) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [OK Not To Be OK](https://open.spotify.com/album/3wCtCJ8O6SlGBWYfzAlsb2) | 2:39 | 2022-07-14 | 2022-10-01 |
 | [On & On](https://open.spotify.com/track/2uZWffKoemZDI0gHcBEcDc) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On](https://open.spotify.com/album/6Unm4KKxYtjR08J1wEOnkc) | 3:27 | 2022-07-14 | 2023-05-27 |
 | [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 | 2022-07-14 |  |
-| [One Chance \(feat\. Marlhy\)](https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu) | 3:40 | 2023-07-18 |  |
+| [One Chance \(feat\. Marlhy\)](https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu) | 3:40 | 2023-07-18 | 2023-11-09 |
 | [Oohla Oohla](https://open.spotify.com/track/3g36KmRGI8hmnCcTFak4Wn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Oohla Oohla](https://open.spotify.com/album/5Oibr2iQxlF15CXazabggs) | 2:23 | 2022-06-10 | 2022-06-30 |
 | [Other Side](https://open.spotify.com/track/2pHTtI2tvEjGJvwJyDyCpy) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:31 | 2023-05-05 |  |
 | [Out of Order](https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Out of Order](https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM) | 2:51 | 2022-07-14 | 2022-07-27 |
@@ -368,6 +368,7 @@
 | [Teardrops](https://open.spotify.com/track/439JiYk1AGzECwkEiJm6WX) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [2Hounds](https://open.spotify.com/artist/0qeQAOjEYyeV2opWZdRcU9) | [Teardrops](https://open.spotify.com/album/3PVnEPRSacSJZ4plVjLm7S) | 3:00 | 2023-09-29 |  |
 | [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 | 2023-08-25 |  |
 | [Tell Me How to Love](https://open.spotify.com/track/1e4xuwzSRHr6agxwXMEg16) | [Tenebrax](https://open.spotify.com/artist/1qO2kVWrIVuccNvIKXdeMC) | [Reflexia](https://open.spotify.com/album/3TNIy1LFJ7DDhFva73KGDV) | 3:34 | 2022-05-06 | 2022-07-29 |
+| [Tell Me Why](https://open.spotify.com/track/4BvBTmceA5V1pDuaC3RabS) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jack Holiday](https://open.spotify.com/artist/64yON9pK0j392YkionGKAF) | [Tell Me Why](https://open.spotify.com/album/224hEKX6NC4pzENbWL2vXj) | 2:15 | 2023-10-13 |  |
 | [Test Me](https://open.spotify.com/track/7D3KNbOAbyR7dYLX0BZuyU) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Watch Yo Back](https://open.spotify.com/album/60nbfXLI18M2vTXVwgsdT3) | 3:04 | 2022-05-06 | 2022-07-23 |
 | [That Could Be Me](https://open.spotify.com/track/12oJ36M1cTGvTwDURjK6tC) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [That Could Be Me](https://open.spotify.com/album/4bjkv0GJmnyFMhsqo2o7wj) | 3:15 | 2022-06-24 | 2022-06-26 |
 | [That's On You](https://open.spotify.com/track/48lhLOfFXp3p4tvsZXiGtK) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [That's On You](https://open.spotify.com/album/7um4O9Nuv72mZmq6Xpo4h7) | 3:49 | 2022-05-06 | 2022-07-29 |

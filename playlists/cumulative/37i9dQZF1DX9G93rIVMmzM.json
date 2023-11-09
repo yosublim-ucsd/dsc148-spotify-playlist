@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "The Fear of Fear",
+        "url": "https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248888,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/6qR5axxGIS7JORzaYM0YRs"
+    },
+    {
+      "album": {
         "name": "Vol. 3: The Subliminal Verses",
         "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 羊文学
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,929 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,945 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 22 | [青と青](https://open.spotify.com/track/0sc6y93qrCItmVWklh7YNK) | [浦小雪](https://open.spotify.com/artist/5PHZ4PVOsKViz2yF868wUP) | [青と青](https://open.spotify.com/album/1WwjpLF68zLv3lDHqNTK36) | 4:21 |
 | 23 | [OH! LOVE! 幻!](https://open.spotify.com/track/5asbnOYmKPgHfV9fCmuyoN) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [OH! LOVE! 幻!](https://open.spotify.com/album/70MlunmJxH9H09zr2VlxrU) | 1:33 |
 | 24 | [天誅 \- 雫 Solo Ver.](https://open.spotify.com/track/4niTdJjxV9I1VVgvespSlj) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [天誅 \(雫 Solo Ver.\)](https://open.spotify.com/album/7id6IiB550ml0ZlbjPUBNU) | 4:05 |
-| 25 | [M](https://open.spotify.com/track/0DrJQpDMgtQgvW1PmD0D7d) | [WAGAMAMA RAKIA](https://open.spotify.com/artist/0bnpBtGlXC8mn5fGHokarD) | [M](https://open.spotify.com/album/32kUmikbtBBde9KFd5J5TW) | 5:38 |
+| 25 | [M](https://open.spotify.com/track/3YoG17ExAvxnuWNYbaoMOB) | [WAGAMAMA RAKIA](https://open.spotify.com/artist/0bnpBtGlXC8mn5fGHokarD) | [M](https://open.spotify.com/album/5w9rdYGOCpSeNIQVaA435U) | 5:38 |
 | 26 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 |
 | 27 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 |
 | 28 | [ピンクブルー](https://open.spotify.com/track/1VRwCezjpvjnCrab92b1dk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [pink blue](https://open.spotify.com/album/07kXEBPM0KuSkMTr73giQ0) | 3:56 |
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 31 | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/track/5Us9nHV0bOYJI7uh3wJQFf) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/album/5zEchapHbkbcP85WGzHBwi) | 3:38 |
 | 32 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 |
 | 33 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
-| 34 | [虚像のCarousel](https://open.spotify.com/track/2FCkgW3vOc3IvpOCd0LJMT) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [虚像のCarousel](https://open.spotify.com/album/4HnTbIJinqxIvnHeIBaJv6) | 3:48 |
-| 35 | [FOOL](https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [FOOL](https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j) | 3:04 |
+| 34 | [FOOL](https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [FOOL](https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j) | 3:04 |
+| 35 | [虚像のCarousel](https://open.spotify.com/track/2FCkgW3vOc3IvpOCd0LJMT) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [虚像のCarousel](https://open.spotify.com/album/4HnTbIJinqxIvnHeIBaJv6) | 3:48 |
 | 36 | [rose \- feat\. Vaundy](https://open.spotify.com/track/72DWkd9AazMHYDafzpq4XF) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mixtape](https://open.spotify.com/album/3kbR4fhps595HxImAmVHvY) | 3:07 |
-| 37 | [ゴウスト](https://open.spotify.com/track/0WhtZQxZXkBJnqW4qVV0ML) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [マイナスゼロ](https://open.spotify.com/album/4N4TKInRqblIr0Vr9PddPj) | 3:22 |
+| 37 | [Ghost](https://open.spotify.com/track/1ty6M7cgiQ192ATax4vStT) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [Minus Zero](https://open.spotify.com/album/4RwGeFZqSvu8PfLEXsVqoP) | 3:22 |
 | 38 | [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 |
-| 39 | [やっちもねぇ](https://open.spotify.com/track/4BkkHqQaUxURJ0gyeGR6r9) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [内の臓が愚痴をこぼすもので](https://open.spotify.com/album/597GDPomiPLgVVq5vxQMZF) | 3:52 |
+| 39 | [Yacchimone](https://open.spotify.com/track/3Lob0K33hcKNsqevUt1ZOk) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Naino Zouga Guchiwo Kobosumonode](https://open.spotify.com/album/2fHkGXswIaHWRU0Y3KOIVw) | 3:52 |
 | 40 | [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 |
 | 41 | [0107](https://open.spotify.com/track/4QQcKmlm0EnacZVxDpbZrv) | [Niiiya](https://open.spotify.com/artist/2ouzqdQoRdpwti2dT4Kbqh) | [0107](https://open.spotify.com/album/1sgis2xTEfa02pLIWejBcf) | 3:51 |
 | 42 | [夢をみせて](https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [夢をみせて](https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm) | 5:24 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 62 | [故のLOVE](https://open.spotify.com/track/6vVKI6HXIsGssqGYGuKmF8) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [LOVEの飽和水蒸気量](https://open.spotify.com/album/6ZVZ2hZV5bnFpLFQOqptuM) | 3:30 |
 | 63 | [Believer \-cover](https://open.spotify.com/track/3PkLD9cDSN89Y5sxvqHNdl) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [Believer \-cover](https://open.spotify.com/album/31jgyEhHy7NJAAAtkXyjmW) | 3:22 |
 | 64 | [no future](https://open.spotify.com/track/49GZ0C0nN3kixGDD4zUS7s) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [no future](https://open.spotify.com/album/2SxIh4v9x8fGvezGfGLWGH) | 3:21 |
-| 65 | [baby blue eyes](https://open.spotify.com/track/1ZH8xfse7AimYhri5u29ew) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [baby blue eyes](https://open.spotify.com/album/1GGa1VAV3dcPJRCIT7Y8ue) | 3:11 |
-| 66 | [煙のジャンクション](https://open.spotify.com/track/1lZU2PKOokAeKaKnM6Bq6o) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [煙のジャンクション](https://open.spotify.com/album/3cP0SOZpq6yfAXskh6itoK) | 3:25 |
+| 65 | [煙のジャンクション](https://open.spotify.com/track/1lZU2PKOokAeKaKnM6Bq6o) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [煙のジャンクション](https://open.spotify.com/album/3cP0SOZpq6yfAXskh6itoK) | 3:25 |
+| 66 | [baby blue eyes](https://open.spotify.com/track/1ZH8xfse7AimYhri5u29ew) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [baby blue eyes](https://open.spotify.com/album/1GGa1VAV3dcPJRCIT7Y8ue) | 3:11 |
 | 67 | [ふたり](https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [ふたり](https://open.spotify.com/album/1atBgPVgFDAyqyt4wGYz8w) | 4:12 |
 | 68 | [人生オーバー](https://open.spotify.com/track/1WofPyCiUQ9I1XgczV8HV1) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [人生オーバー](https://open.spotify.com/album/1RBao56wV7JfUNLPFQoVN5) | 3:34 |
 | 69 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 |
 | 70 | [ルージュの伝言](https://open.spotify.com/track/5WAbPoq187MvAYExnuxPTM) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [スタジオジブリ トリビュートアルバム「ジブリをうたう」](https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0) | 3:18 |
 
-Snapshot ID: `MCxhNWJjNTY4MmFjZDk1NWVmYmQ1NDNiNmFmNjE2NGVjMzM5ZjlkZGI3`
+Snapshot ID: `MCw0NDkwYTk3ODhhOGI5ZGFhYWYxYmYxYmEzYjJmMDM1NWZmNDI2MjA1`

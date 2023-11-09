@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷 Miranda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,474 likes - 79 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,554 likes - 79 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 39 | [La Fuerza del Engaño](https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 3:27 |
 | 40 | [Años Luz](https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:13 |
 | 41 | [Monoambiente en Capital](https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS), [Nico Cotton](https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc) | [Monoambiente en Capital](https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7) | 3:01 |
-| 42 | [Las Flores \(feat\. Los Auténticos Decadentes\)](https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:33 |
+| 42 | [Para Siempre](https://open.spotify.com/track/5ILu4zdXzG4WCbX9GtMNJX) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:32 |
 | 43 | [Llamame](https://open.spotify.com/track/3oqI8s2Aj0MUOop1j2vqoN) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 3:28 |
 | 44 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 |
 | 45 | [La Cobra](https://open.spotify.com/track/598iUd0iLrNtDMzdyMXnUO) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [La Cobra](https://open.spotify.com/album/6pO1MphOTB3YjetIXCu2qP) | 3:08 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 47 | [Lloviendo Estrellas](https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Summer Pack](https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm) | 2:15 |
 | 48 | [Sin Haber Dormido](https://open.spotify.com/track/4NfO9rUJEMgZ1C9Vw059vc) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Hasta El Alma](https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox) | 3:07 |
 | 49 | [María](https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:49 |
-| 50 | [Para Siempre](https://open.spotify.com/track/5ILu4zdXzG4WCbX9GtMNJX) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:32 |
+| 50 | [Las Flores \(feat\. Los Auténticos Decadentes\)](https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:33 |
 | 51 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 |
 | 52 | [Quiero Verte](https://open.spotify.com/track/68hs0QwwcssOzKuqZgonw7) | [Lelé](https://open.spotify.com/artist/30zaUiWxGl2IDR0dTiRrXO), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Quiero Verte](https://open.spotify.com/album/2gnITQUWyhtqnZn6DgcjoI) | 3:52 |
 | 53 | [Olivia](https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Intemperie](https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f) | 3:42 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 78 | [Cambiar El Mundo](https://open.spotify.com/track/2k2xtMvEvDMs3e14CIteDp) | [El Purre](https://open.spotify.com/artist/4lrsMsdkZ3mpzBimMD0wel) | [Cambiar El Mundo](https://open.spotify.com/album/6pI0aOVKei9UgFn2kw0KSX) | 3:16 |
 | 79 | [Corazón Verde](https://open.spotify.com/track/7db88fb0PnqlhoVYS6OTvw) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Santo Entendimiento](https://open.spotify.com/album/270GF8UBhPXwdU6t5IvoZT) | 2:51 |
 
-Snapshot ID: `MCwyYjc1OGUyODNmMTA5NmQzZGUwZGM0YTA3NDRmODRkOWZlNDllMWQ2`
+Snapshot ID: `MCw1Y2I4NzFmYzgwNTE2YTcwYmE5MTMwNTIzZjdkYjRkNzZhY2U2NTA5`

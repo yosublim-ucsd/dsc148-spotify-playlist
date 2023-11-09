@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 229995,
+  "num_followers": 230088,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTA2YmE4NjFiY2JlNTI0OTUwYmI2NmRiYmRlNmNkYzZkMWExY2Qx",
+  "snapshot_id": "MCxjNjM4NDllZThmOTI4Y2E2NmQ5YWM3MmUzYWY1NDIxYTAwYzFjYWJm",
   "tracks": [
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
+        "name": "Morir Solo",
+        "url": "https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 242342,
+      "name": "Morir Solo",
+      "url": "https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
         "name": "Noche Primavera",
         "url": "https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 199277,
       "name": "Noche Primavera",
       "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
-        "name": "Morir Solo",
-        "url": "https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 242342,
-      "name": "Morir Solo",
-      "url": "https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1567,22 +1567,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Besito en la Boca",
-        "url": "https://open.spotify.com/album/6sMoPwb6EtFj5wBF60GYWk"
+        "name": "Pa' Que Te Duela",
+        "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
       },
       "artists": [
         {
-          "name": "Samanez",
-          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
-        },
-        {
-          "name": "Gaby Zambrano",
-          "url": "https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX"
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
         }
       ],
-      "duration_ms": 251250,
-      "name": "Besito en la Boca",
-      "url": "https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF"
+      "duration_ms": 215874,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1603,18 +1599,22 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Pa' Que Te Duela",
-        "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
+        "name": "Besito en la Boca",
+        "url": "https://open.spotify.com/album/6sMoPwb6EtFj5wBF60GYWk"
       },
       "artists": [
         {
-          "name": "JFab & Paola Fabre",
-          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
+          "name": "Samanez",
+          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
+        },
+        {
+          "name": "Gaby Zambrano",
+          "url": "https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX"
         }
       ],
-      "duration_ms": 215874,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs"
+      "duration_ms": 251250,
+      "name": "Besito en la Boca",
+      "url": "https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF"
     },
     {
       "added_at": "2023-04-27 23:54:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,955 likes - 126 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,956 likes - 126 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 77 | [bad day](https://open.spotify.com/track/5612zrK8d3HhPCobx2Kuci) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [bad day](https://open.spotify.com/album/7vTPUsgBPNHmB3T1hoQOJO) | 2:04 |
 | 78 | [i only want you when i'm fucked up](https://open.spotify.com/track/0W0qBaCp84sKDlQdvShs9n) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [i only want you when i'm fucked up](https://open.spotify.com/album/0q2LRN1sN3jd17d74QczFO) | 3:52 |
 | 79 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 |
-| 80 | [Time Goes "Bye"](https://open.spotify.com/track/5JIkpWBTRbDUacnjHeBwt9) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Time Goes "Bye"](https://open.spotify.com/album/55FALUa466PtpCqbVDbalm) | 4:21 |
+| 80 | [Time Goes "Bye"](https://open.spotify.com/track/01PUsoJjBsFweo5SHoQPeX) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Time Goes "Bye"](https://open.spotify.com/album/40VUN4AbGTVF4JQgnSRL0e) | 4:21 |
 | 81 | [Tendril](https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Fountain](https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL) | 4:36 |
 | 82 | [fxck it then](https://open.spotify.com/track/6C6CivPw9ew0qPgvvbSloL) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [fxck it then](https://open.spotify.com/album/5kNYmUqBUNBOvYhV6YqKhC) | 2:15 |
 | 83 | [Dragonfly](https://open.spotify.com/track/1hjAmj9H76OpPHs02Fbb5g) | [Fauness](https://open.spotify.com/artist/14nslvWjmuHwa9mEG4gGip) | [Dragonfly](https://open.spotify.com/album/0s2LAkNYxMlMgjTsLWUNoE) | 3:19 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 125 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 |
 | 126 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 |
 
-Snapshot ID: `MCxhOTIwNDQzMWY5OGQxMmViM2I4ZWUyNzNmYzNhMDUyMjRiM2E2MTA2`
+Snapshot ID: `MCw2OWQ3YTQxYzc1MzczM2VhZjZkZmQwMmMxNzg5OGQwYWQ0OTk3MGRm`

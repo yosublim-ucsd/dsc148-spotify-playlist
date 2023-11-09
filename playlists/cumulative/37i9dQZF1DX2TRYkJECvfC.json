@@ -634,7 +634,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 229000,
       "name": "Bad Love",
       "url": "https://open.spotify.com/track/6W2ZjBmxbpzETmwJQ5h7jA"
@@ -4714,6 +4714,28 @@
       "duration_ms": 267874,
       "name": "Natural Consequence",
       "url": "https://open.spotify.com/track/6aAIl1SKNgDGcZXlh841N6"
+    },
+    {
+      "album": {
+        "name": "Four (Remixes Deluxe)",
+        "url": "https://open.spotify.com/album/2fgej64OiBlYJdX6wMc7eb"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217154,
+      "name": "Never (Colyn Remix)",
+      "url": "https://open.spotify.com/track/701hEuWyG1EZepbD5Qiu3r"
     },
     {
       "album": {

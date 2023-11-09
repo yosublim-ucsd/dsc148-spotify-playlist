@@ -4,12 +4,12 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6?si=E0dIznQwRSuQRzQwCowtIQ"> Efya</a>
 
-253 songs - 13 hr 24 min
+254 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 | 2022-11-04 |  |
-| [2 Shots](https://open.spotify.com/track/7D5teOLgUBiDS4LrKIVNGe) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [2 Shots](https://open.spotify.com/album/3swkn0bH9u7TWbO9Jfe0YD) | 2:43 | 2022-11-04 |  |
+| [2 Shots](https://open.spotify.com/track/7D5teOLgUBiDS4LrKIVNGe) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [2 Shots](https://open.spotify.com/album/3swkn0bH9u7TWbO9Jfe0YD) | 2:43 | 2022-11-04 | 2023-11-09 |
 | [4LYFE](https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [4LYFE](https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m) | 2:47 | 2023-10-27 |  |
 | [A B C D](https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [PHOTO ALBUM](https://open.spotify.com/album/6zPEkNndmfR4MGU1N8kyVH) | 2:52 | 2023-03-17 | 2023-05-05 |
 | [Abena](https://open.spotify.com/track/416lJBohBXn07iQe3lf0JI) | [Yaw Dyro](https://open.spotify.com/artist/0KCWVye8eFEyOu2fpwfMHr), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Abena](https://open.spotify.com/album/5KZGcpVTuXFTzedSE0gCe4) | 2:40 | 2023-11-03 |  |
@@ -143,6 +143,7 @@
 | [Masesa](https://open.spotify.com/track/0h6KxX4VJVRUL2lQhCmMFE) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Masesa](https://open.spotify.com/album/3F2RjwQ9FAkP8gs6eGos0S) | 2:52 | 2023-10-06 |  |
 | [Miss You](https://open.spotify.com/track/0h7AuxckvEgyoaBzXZuYyB) | [Reefer Tym](https://open.spotify.com/artist/3HmAVmxYJSA0yC4fMhYE27) | [Miss You](https://open.spotify.com/album/3UsYwByBCsosmzI5ZMzqOL) | 2:36 | 2023-07-28 | 2023-08-02 |
 | [Mon Bebe](https://open.spotify.com/track/2QQk94CGXfsO5J6k6im7Jw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 2:31 | 2022-11-04 |  |
+| [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 | 2023-11-08 |  |
 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 | 2022-11-04 |  |
 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 | 2023-02-03 |  |
 | [Morning Stress](https://open.spotify.com/track/7b1g8V4WA0BEnWBkHv85RW) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Morning Stress](https://open.spotify.com/album/35ymxF17RFfoEdQ4KqlBzc) | 3:28 | 2023-01-27 |  |

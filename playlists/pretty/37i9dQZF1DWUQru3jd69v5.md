@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Sadturs, KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,573 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,620 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Pugno di soldi \(feat\. RRARI DAL TACCO\)](https://open.spotify.com/track/15VGccFmGsB50LdXPLJvTr) | [Mando](https://open.spotify.com/artist/4GvngXAxZMchFmLkDaZOAc), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [Pugno di soldi \(feat\. RRARI DAL TACCO\)](https://open.spotify.com/album/429jV6d8r4akIQeeyOIj4q) | 2:07 |
 | 50 | [Carhartt \(feat\. Kuremino\)](https://open.spotify.com/track/4SluBeyc807T4WowzQgILG) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [Goss Vinyard](https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Carhartt \(feat\. Kuremino\)](https://open.spotify.com/album/5dlmCQA1unPeHuiwfHatwP) | 2:20 |
 
-Snapshot ID: `MCw4NDNhZTIwMDM0MzQwOTMyNGQ4MWY2YmU3MDg5NmM2MDEwMGFkNzU4`
+Snapshot ID: `MCwxMmVkYWJmNzliYWU2NTVkZTA2Mjk5OTgxZDU1M2NjYzdlNWE5MWE4`

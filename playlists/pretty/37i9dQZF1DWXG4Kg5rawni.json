@@ -1,13 +1,29 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 94557,
+  "num_followers": 94615,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzI2MzA4YWEyOWMzMWFhYzQyZDAxZGM1OTM3NmFkYTU2MTFkOTg1",
+  "snapshot_id": "MCw0ODMxOTA2NmViMjZjNjM3ZDVjYTU2MGE4ZGQ0YmIxYzA5MDdiZjMx",
   "tracks": [
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Amo Voc\u00ea Vol. 13",
+        "url": "https://open.spotify.com/album/4gWlHYVevgt8sfoCzZZK3t"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 263174,
+      "name": "Soube que me Amava (Supe que me Amabas)",
+      "url": "https://open.spotify.com/track/5oFLARfYC6YY4lXNRqssl7"
+    },
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 280266,
       "name": "Tantos Mares",
       "url": "https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Amo Voc\u00ea Vol. 13",
-        "url": "https://open.spotify.com/album/4gWlHYVevgt8sfoCzZZK3t"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 263174,
-      "name": "Soube que me Amava (Supe que me Amabas)",
-      "url": "https://open.spotify.com/track/5oFLARfYC6YY4lXNRqssl7"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Somos Iguais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
-      },
-      "artists": [
-        {
-          "name": "Thiago Grulha",
-          "url": "https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu"
-        }
-      ],
-      "duration_ms": 155106,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "O Jeito Que Voc\u00ea Me Olha",
         "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 198067,
       "name": "O Jeito Que Voc\u00ea Me Olha",
       "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Somos Iguais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
+      },
+      "artists": [
+        {
+          "name": "Thiago Grulha",
+          "url": "https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu"
+        }
+      ],
+      "duration_ms": 155106,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -495,6 +495,22 @@
       "duration_ms": 209020,
       "name": "Presente de Deus",
       "url": "https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd"
+      },
+      "artists": [
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 230878,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -579,22 +595,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd"
-      },
-      "artists": [
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 230878,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
         "url": "https://open.spotify.com/album/7rFskntBzgFrrDxG76VHCT"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 267772,
       "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
       "url": "https://open.spotify.com/track/4iN9STysQ3gjrpsKkv8EoW"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aguiar",
+          "url": "https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -643,22 +659,6 @@
       "duration_ms": 223886,
       "name": "Com Voc\u00ea",
       "url": "https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aguiar",
-          "url": "https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -951,18 +951,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Amo Voc\u00ea Vol. 21",
-        "url": "https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj"
+        "name": "Chave do Amor",
+        "url": "https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp"
       },
       "artists": [
         {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+          "name": "Kelwin Ramos",
+          "url": "https://open.spotify.com/artist/2IKXmBcW5YsoNGGFVnQ1X4"
+        },
+        {
+          "name": "Michely Manuely",
+          "url": "https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV"
         }
       ],
-      "duration_ms": 303206,
-      "name": "Bem Maior Que o C\u00e9u",
-      "url": "https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u"
+      "duration_ms": 190377,
+      "name": "Chave do Amor",
+      "url": "https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -983,22 +987,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Chave do Amor",
-        "url": "https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp"
+        "name": "Amo Voc\u00ea Vol. 21",
+        "url": "https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj"
       },
       "artists": [
         {
-          "name": "Kelwin Ramos",
-          "url": "https://open.spotify.com/artist/2IKXmBcW5YsoNGGFVnQ1X4"
-        },
-        {
-          "name": "Michely Manuely",
-          "url": "https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV"
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
         }
       ],
-      "duration_ms": 190377,
-      "name": "Chave do Amor",
-      "url": "https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL"
+      "duration_ms": 303206,
+      "name": "Bem Maior Que o C\u00e9u",
+      "url": "https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u"
     },
     {
       "added_at": "2023-07-14 16:56:11",

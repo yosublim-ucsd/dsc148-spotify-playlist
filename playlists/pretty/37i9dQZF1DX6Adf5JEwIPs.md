@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Pesado & Edgardo Nuñez
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,658 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,845 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 23 | [El Ranchero](https://open.spotify.com/track/6I88kOQFIZ26R86IpajjW5) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ), [Los Nuñez de Culiacan](https://open.spotify.com/artist/7wKJTznuQ0Cx5IoDUJFNSx) | [El Ranchero](https://open.spotify.com/album/1re1ACtGGaX6maKK9m4Txu) | 2:21 |
 | 24 | [De Diseñador](https://open.spotify.com/track/3KrmfOUi4f6IE6JizbVMhs) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [De Diseñador](https://open.spotify.com/album/6QTrGFiAh0VzvqnfO4cOxf) | 2:42 |
 | 25 | [Linda Traición](https://open.spotify.com/track/53qHhFKNJhzpOUm379RxHB) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve), [Proyecto MG](https://open.spotify.com/artist/2Ldehp8QntvZtxxWdtIyCj) | [Linda Traición](https://open.spotify.com/album/6qEmM8Q8RhICmEcHYWiAwI) | 3:05 |
-| 26 | [Sello Guzmán](https://open.spotify.com/track/3i4OeOZe4NR3t6S5b64Gcl) | [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Sello Guzmán](https://open.spotify.com/album/2b27f93iD83CJJHRoU2wS2) | 2:32 |
+| 26 | [Sello Guzmán](https://open.spotify.com/track/3i4OeOZe4NR3t6S5b64Gcl) | [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Sello Guzmán](https://open.spotify.com/album/2b27f93iD83CJJHRoU2wS2) | 2:24 |
 | 27 | [Mentirme](https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y) | 3:08 |
 | 28 | [Amarte en Soledad](https://open.spotify.com/track/4Pv9MSC8Ydvcus01aUeEIb) | [Toño Lizarraga](https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv), [Christian Ayala](https://open.spotify.com/artist/5hb1MY6Ra6O9xyxY1UwRBA) | [Amarte en Soledad](https://open.spotify.com/album/3k1VjheBl3OT7InadcaKNx) | 3:07 |
 | 29 | [Soy El De La Plaza](https://open.spotify.com/track/5hSVqWTbK6wnGOXhXBGBJK) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [Soy El De La Plaza](https://open.spotify.com/album/1dcXrycg1WRngFrkZtXW8G) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Te Mega Amo](https://open.spotify.com/track/25Y6NulZkjTFFAJ8M4NQ9N) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Te Mega Amo](https://open.spotify.com/album/6uHpOt0bwU9YFbrQov5aL7) | 2:27 |
 | 50 | [Belika Mafiosa](https://open.spotify.com/track/0Oy3v2dIU4HPPXpi5Z9gJq) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belika Mafiosa](https://open.spotify.com/album/4f9JhZkS7xg6yZWR369ZT2) | 2:17 |
 
-Snapshot ID: `MCw2MGEwZTNkNWVkMmM0MGVjNDEzNTA2Zjk2YTZjN2NhZjNmMDk4YTYw`
+Snapshot ID: `MCwzZWNjNDIxNjllNzc0YTRkZWQwYjlkMmU0NzFhNTBiMjg5ZDQ1ZTVj`

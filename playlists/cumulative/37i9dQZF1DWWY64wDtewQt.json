@@ -96,10 +96,36 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 86709,
       "name": "9mm",
       "url": "https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY"
+    },
+    {
+      "album": {
+        "name": "Memphis Cult Vol. 6",
+        "url": "https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB"
+      },
+      "artists": [
+        {
+          "name": "Memphis Cult",
+          "url": "https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ"
+        },
+        {
+          "name": "Groove Dealers",
+          "url": "https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z"
+        },
+        {
+          "name": "SPLYXER",
+          "url": "https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86709,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
     },
     {
       "album": {
@@ -6690,7 +6716,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 145055,
       "name": "Montagem",
       "url": "https://open.spotify.com/track/1CtO23S3CmPlV8l1mk0N0d"
@@ -11714,6 +11740,24 @@
       "duration_ms": 128000,
       "name": "vitality!",
       "url": "https://open.spotify.com/track/66n3AI9LxzXkVymlKRzaUT"
+    },
+    {
+      "album": {
+        "name": "Vois sur ton chemin",
+        "url": "https://open.spotify.com/album/53FR5HN59YWVkNFlUqelaV"
+      },
+      "artists": [
+        {
+          "name": "Euphemism",
+          "url": "https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145055,
+      "name": "Vois sur ton chemin",
+      "url": "https://open.spotify.com/track/3EBW62oChNTesOLm7hnuEk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,213 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,282 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 49 | [Dus Bahane 2.0 \(From "Baaghi 3"\) \(feat\. K.K., Shaan, Tulsi Kumar\)](https://open.spotify.com/track/0z9lOAVgQT5bysEKZ6Wwbk) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Dus Bahane 2.0 \(From "Baaghi 3"\) \(feat\. K.K., Shaan, Tulsi Kumar\)](https://open.spotify.com/album/6apDnjHHb93tIEiPyNxhba) | 3:21 |
 | 50 | [Yaar Naa Miley](https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Kick](https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy) | 4:03 |
 
-Snapshot ID: `MCw4YzQwMDk3MGRiMDdhOTM1NTQ1NDYxMTc1ZWE5YTgyNzg1MjY1YjI2`
+Snapshot ID: `MCw0NmVkYTkwNGI3ZDY4Nzg2ZmRiYzFiMWU2NTBjNDVmNTkyMjJmMzk1`

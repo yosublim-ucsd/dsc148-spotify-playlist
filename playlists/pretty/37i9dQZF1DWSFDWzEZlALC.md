@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Levin Liam, Miksu / Macloud
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,096 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,297 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Offiziell Glücklich](https://open.spotify.com/track/4zD9KFD8awuhpSuzygS4Pf) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Offiziell Glücklich](https://open.spotify.com/album/5nI1xih2hIWj0zf056x31C) | 2:48 |
 | 75 | [primetime](https://open.spotify.com/track/2gsaXMADNny0n6eHFeBryZ) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [PRIMETIME](https://open.spotify.com/album/3RK4pNM1XeJ0ZxhKHdSuKr) | 2:51 |
 
-Snapshot ID: `MCw4NjI5NjAzMmMyMjQ1YTBkNTIzOTY5N2VlNjE2ODdhYzE4NDVlNzUy`
+Snapshot ID: `MCxhYTMyYWYzMjFkNWQxNjNjYjBiYzUwYTNhMzZiMTczMTgxODU2NGE5`

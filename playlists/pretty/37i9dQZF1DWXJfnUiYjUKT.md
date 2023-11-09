@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Jung Kook
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,806 likes - 98 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,816 likes - 98 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 97 | [Rover!](https://open.spotify.com/track/0s9eWn090LdFQxKqkPLiH3) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [SUPERSTAR!](https://open.spotify.com/album/7rRQ0fz5cgm4y6BmahyXCs) | 2:31 |
 | 98 | [post\-traumatic stress](https://open.spotify.com/track/36UlMEFIqpCzMOQmjK2IL4) | [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z) | [post\-traumatic stress](https://open.spotify.com/album/70pj9H22oLhKupwGu61zkw) | 2:32 |
 
-Snapshot ID: `MCxlYzFlODYyNzA4MDljNTA3N2Q1YWUzMjQzNzU3ZGFhMmUyYzZkYjBl`
+Snapshot ID: `MCxhNWEwM2QzYzk1N2UyMzQ4NzM3NGVhNDg3ZTMzMTRiYWJlMDgxNjc4`

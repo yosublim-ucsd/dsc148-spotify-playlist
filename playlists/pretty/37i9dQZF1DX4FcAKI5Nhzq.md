@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: ZEROBASEONE
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,663 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,829 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MELTING POINT](https://open.spotify.com/track/6Sj39jSqhxjJ8K66Mw8hrU) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:53 |
+| 1 | [CRUSH](https://open.spotify.com/track/2qiWQf7ka0C4XoA7JAZ1q5) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:49 |
 | 2 | [MANIAC](https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 4th Mini Album 'VERSUS'](https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y) | 3:15 |
 | 3 | [LIME \(I'm So\)](https://open.spotify.com/track/4uLvMzr4BxERpvkeEAgxhS) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [LIME \(I'm So\)](https://open.spotify.com/album/0aprCwpiI13bDJeQ5JRL40) | 2:10 |
 | 4 | [Talk Saxy](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Talk Saxy](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [HEAT](https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:14 |
 | 50 | [LET′S DANCE](https://open.spotify.com/track/5OJFA4FvJAML5CgPzTjRM8) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [The Move : Street](https://open.spotify.com/album/1O3e1rfT7WvtJYc19A6oLK) | 3:19 |
 
-Snapshot ID: `MCw5Y2M2OGM4Zjk3ZDkwMTRmYWRhMzg2OTFmZmEyMmE2OTNlMzNhMjBk`
+Snapshot ID: `MCw4YTVmMGIzY2JjNDIwOTM4Njc3NmI3NDllMDM4Y2UxMWE4MzNmOGQx`

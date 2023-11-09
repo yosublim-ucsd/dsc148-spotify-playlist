@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 63895,
+  "num_followers": 63949,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGFkMDdkZTE5YmExNGZjMzdjMDcwNjA5NTc2NzY4M2RlYTAwZGY5",
+  "snapshot_id": "MCxmNTk3YjIxMjU5ODExY2Q4ZGRhNmQ4NGI4MGU0NjNjYWJmNWNiNWFj",
   "tracks": [
     {
       "added_at": "2023-11-03 03:58:52",
@@ -939,26 +939,18 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "The Woods (Evida Remix)",
-        "url": "https://open.spotify.com/album/16Im37aeKNeMDeTxWb5OYc"
+        "name": "All Love Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/7xUEy3UR5uGEv3JvfrXKdb"
       },
       "artists": [
         {
-          "name": "Majozi",
-          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
-        },
-        {
-          "name": "TRESOR",
-          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
-        },
-        {
-          "name": "Evida",
-          "url": "https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN"
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
         }
       ],
-      "duration_ms": 191062,
-      "name": "The Woods - Evida Remix",
-      "url": "https://open.spotify.com/track/0MmNZy7ziTgINtA5CSOkGE"
+      "duration_ms": 210226,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3OgeKihJLTRcOM6Asy3z3u"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -983,6 +975,30 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
+        "name": "The Woods (Evida Remix)",
+        "url": "https://open.spotify.com/album/16Im37aeKNeMDeTxWb5OYc"
+      },
+      "artists": [
+        {
+          "name": "Majozi",
+          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+        },
+        {
+          "name": "TRESOR",
+          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
+        },
+        {
+          "name": "Evida",
+          "url": "https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN"
+        }
+      ],
+      "duration_ms": 191062,
+      "name": "The Woods - Evida Remix",
+      "url": "https://open.spotify.com/track/0MmNZy7ziTgINtA5CSOkGE"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
         "name": "Through the Night",
         "url": "https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 219500,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "All Love Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/7xUEy3UR5uGEv3JvfrXKdb"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3OgeKihJLTRcOM6Asy3z3u"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf"
-      },
-      "artists": [
-        {
-          "name": "Majozi",
-          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
         "name": "Two High (Acoustic)",
         "url": "https://open.spotify.com/album/0mpk26zd130uSjS2yFpF8K"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 260125,
       "name": "Oh My Soul (Bloukaas Remix)",
       "url": "https://open.spotify.com/track/6MpScQlifniy57CFLOxOCC"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
+        "name": "Taking It Easy",
+        "url": "https://open.spotify.com/album/7tpKCYCD9014y6vclyHMaG"
+      },
+      "artists": [
+        {
+          "name": "GoodLuck",
+          "url": "https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3"
+        }
+      ],
+      "duration_ms": 244030,
+      "name": "Taking It Easy",
+      "url": "https://open.spotify.com/track/3TxzxETVzNxcVgyH046azF"
     }
   ],
   "unique_name": "Feel Good Look Good",

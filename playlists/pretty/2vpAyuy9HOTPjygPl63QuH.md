@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain](/playlists/plain/2vpAyuy9HOTPjygPl63QuH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2vpAyuy9HOTPjygPl63QuH)
 
-### [Tech House Shift](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
+### [Tech House Shifters](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
 
-> The freshest tech house music, updated every friday\. Submit via Instagram: @subshiftmusic
+> The freshest tech house &amp; techno music, updated every friday 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,749 likes - 41 songs - 2 hr 15 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,755 likes - 41 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 40 | [Sun Goes Down](https://open.spotify.com/track/08rbuRBxTx39Ppf51TjAFN) | [Nicolas Lacaille](https://open.spotify.com/artist/6NkOSPVA2uRT8CjOADs1Us) | [Sun Goes Down](https://open.spotify.com/album/0fYSpObevgnNk6MLDkwjhG) | 3:01 |
 | 41 | [Listen \- Austin Pettit Remix](https://open.spotify.com/track/09ysaqWecuRW7gGLBrxTDm) | [Stan Kolev](https://open.spotify.com/artist/6MzHMxgYcbj6ue5w9pbNp9), [Austin Pettit](https://open.spotify.com/artist/2hvTEkJIyi0TLuwpRX1awn) | [Listen \[The Remixes\]](https://open.spotify.com/album/2khLaEBxaaisEWt7lGTPg3) | 6:16 |
 
-Snapshot ID: `Nzg1OSw3NWY5OTAxMzMxMmJkN2ZiNjE1MDE4MjYzMTliYjEyYjdiYmE0YTc5`
+Snapshot ID: `Nzg2NiwzYzRhNDhmYjBhODg0ZWNlM2RjMTQxNDdmYzJhZTQ3MDZhNWVkNDU2`

@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 112952,
+  "num_followers": 113077,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzZlNTBiODk4YzdjOTY3MTVjMTg0Mjc4MmQ3YzgzNDhlMTQ4MTJl",
+  "snapshot_id": "MCwyZTA0ZDdmNTdkNzk0NGMxZDJkZTAyZGEyMmIyZjI0NzI5NTlkNTJi",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "In Sides",
+        "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        }
+      ],
+      "duration_ms": 359586,
+      "name": "The Box - Part 2",
+      "url": "https://open.spotify.com/track/1kV6GsEtVGmPehcGpmYtnr"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "The Journey Man",
         "url": "https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 366387,
       "name": "I Adore You",
       "url": "https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "In Sides",
-        "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 359586,
-      "name": "The Box - Part 2",
-      "url": "https://open.spotify.com/track/1kV6GsEtVGmPehcGpmYtnr"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "U.F.Off: The Best Of The Orb",
+        "url": "https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "Toxygene - 7\" Edit",
+      "url": "https://open.spotify.com/track/3OBcUfsknT6UgaqOfh5S3a"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Clear",
         "url": "https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "U.F.Off: The Best Of The Orb",
-        "url": "https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp"
-      },
-      "artists": [
-        {
-          "name": "The Orb",
-          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "Toxygene - 7\" Edit",
-      "url": "https://open.spotify.com/track/3OBcUfsknT6UgaqOfh5S3a"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Preemptive Strike",
         "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Dead Cities",
-        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
-      },
-      "artists": [
-        {
-          "name": "The Future Sound Of London",
-          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
-        }
-      ],
-      "duration_ms": 379160,
-      "name": "We Have Explosive",
-      "url": "https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "In Sides",
         "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 388200,
       "name": "The Box, Pt. 1",
       "url": "https://open.spotify.com/track/5TbwZ0OSuU1fGtQ8aTgiZP"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Dead Cities",
+        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
+      },
+      "artists": [
+        {
+          "name": "The Future Sound Of London",
+          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
+        }
+      ],
+      "duration_ms": 379160,
+      "name": "We Have Explosive",
+      "url": "https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Dead Cities",
-        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
-      },
-      "artists": [
-        {
-          "name": "The Future Sound Of London",
-          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
-        }
-      ],
-      "duration_ms": 347106,
-      "name": "My Kingdom",
-      "url": "https://open.spotify.com/track/7mB5AgvBYc6QasgzTxrugB"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Abc Music - The Radio 1 Sessions",
         "url": "https://open.spotify.com/album/6OCHcY6z1QzM5zNCkwAvnl"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 183013,
       "name": "Blueski - Remastered",
       "url": "https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Dead Cities",
+        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
+      },
+      "artists": [
+        {
+          "name": "The Future Sound Of London",
+          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
+        }
+      ],
+      "duration_ms": 347106,
+      "name": "My Kingdom",
+      "url": "https://open.spotify.com/track/7mB5AgvBYc6QasgzTxrugB"
     },
     {
       "added_at": "2021-07-14 17:36:34",

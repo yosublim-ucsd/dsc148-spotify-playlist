@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-193 songs - 14 hr 22 min
+194 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Good Morning Heartache](https://open.spotify.com/track/13OsVT5orbu0nLcpsvJSVh) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [The Art of Jazz with Miriam Netti, Vol\. 2](https://open.spotify.com/album/01WOu4s6vmRdYC7eK2JMt8) | 5:08 | 2023-08-31 | 2023-09-16 |
 | [Guess Who I Saw Today](https://open.spotify.com/track/0HW2RKF80cPR9mnN5T5Rum) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:09 | 2022-09-20 | 2023-01-13 |
 | [Here You Come Again](https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR) | [Staci Griesbach](https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO) | [Here You Come Again](https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9) | 5:09 | 2022-04-13 |  |
-| [High, Wide and Handsome: The Folks Who Live on the Hill](https://open.spotify.com/track/2N8UU86Y1SOSMWpXtIqRV1) | [Paul Motian Trio 2000 + One](https://open.spotify.com/artist/6ablJgrdQ5HMaWKqxbGLSC) | [On Broadway, Vol\. 4: The Paradox of Continuity](https://open.spotify.com/album/5vy138qK08Tm7oqjBROeJn) | 4:56 | 2022-08-11 |  |
+| [High, Wide and Handsome: The Folks Who Live on the Hill](https://open.spotify.com/track/2N8UU86Y1SOSMWpXtIqRV1) | [Paul Motian Trio 2000 + One](https://open.spotify.com/artist/6ablJgrdQ5HMaWKqxbGLSC) | [On Broadway, Vol\. 4: The Paradox of Continuity](https://open.spotify.com/album/5vy138qK08Tm7oqjBROeJn) | 4:56 | 2022-08-11 | 2023-11-09 |
 | [How Deep Is The Ocean](https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [How Deep Is The Ocean](https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj) | 5:18 | 2022-04-13 | 2023-10-20 |
 | [How Long](https://open.spotify.com/track/3VKEFn4xRdTOcHrLsCOMFb) | [Ksenia Parkhatskaya](https://open.spotify.com/artist/6AZm6N0cbEAzLkxdlbzbmy) | [Colours](https://open.spotify.com/album/1mThTkKwU2AUYhDfs0hG2O) | 4:35 | 2022-04-13 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 | 2022-04-13 |  |
@@ -99,6 +99,7 @@
 | [It Might As Well Be Spring](https://open.spotify.com/track/2ZEkwS2dzMcOlBbl8Twr3h) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [More Than You Know](https://open.spotify.com/album/4VU42lLFiXY4Xcr4tcoPZa) | 3:07 | 2022-04-28 | 2023-02-18 |
 | [It Might as Well Be Spring](https://open.spotify.com/track/3J0Egyk01LWoJfsdvN4P42) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [More Than You Know](https://open.spotify.com/album/5RXXDpraIIfdtZjGLKqp95) | 3:07 | 2023-02-16 | 2023-04-19 |
 | [It Never Entered My Mind](https://open.spotify.com/track/0e1AN11cklltbh13wD66E8) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 4:28 | 2022-04-13 | 2023-11-04 |
+| [It Never Entered My Mind](https://open.spotify.com/track/3Di0QuYbltNHaIU85cpxvi) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ) | 4:28 | 2023-10-26 |  |
 | [It's Gonna Happen Tonight](https://open.spotify.com/track/2QcUiQ9NBgHJdX9sGQVaAp) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [It's Gonna Happen Tonight](https://open.spotify.com/album/4wRIv7VL7bUq6gOvccx0DU) | 3:16 | 2022-04-13 |  |
 | [It's Magic](https://open.spotify.com/track/3NqvtPL7TUtlNXpypf0n0a) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [John Chin](https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU), [Nick Tannura](https://open.spotify.com/artist/17rFfNiQpIFQGk04TNl3xB) | [It's Magic](https://open.spotify.com/album/2GmDXAz7riUllsiCGd0htY) | 5:05 | 2022-11-10 |  |
 | [Julian](https://open.spotify.com/track/6KRCAadm61n78dKm8UfamO) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Josef Kallerdahl](https://open.spotify.com/artist/5Wc1iOuZi2XsaM1ppRsAaN) | [Julian](https://open.spotify.com/album/63QrOaQz8pdeXGG7XfTAYb) | 3:41 | 2022-04-13 |  |

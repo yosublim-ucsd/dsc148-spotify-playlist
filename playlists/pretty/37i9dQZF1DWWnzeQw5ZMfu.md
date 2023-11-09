@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,337 likes - 100 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,392 likes - 100 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 48 | [Goodbye Yellow Brick Road \- Live](https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [One Night Only](https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY) | 3:18 |
 | 49 | [Smooth Operator \- Live](https://open.spotify.com/track/5nHNgVNXzsZLLBz29tfjkB) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Live](https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF) | 4:16 |
 | 50 | [I Kissed A Girl \- Live At MTV Unplugged, 2009](https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Unplugged \(Live At MTV Unplugged, New York, NY/2009\)](https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG) | 4:10 |
-| 51 | [Before You Go \- Live from Brixton Academy, London, 2019](https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go EP](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | 3:45 |
+| 51 | [Everything \- Live from Madison Square Garden](https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé Meets Madison Square Garden](https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt) | 3:37 |
 | 52 | [She Wolf \- El Dorado World Tour Live](https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira In Concert: El Dorado World Tour](https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN) | 5:40 |
-| 53 | [Everything \- Live from Madison Square Garden](https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé Meets Madison Square Garden](https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt) | 3:37 |
+| 53 | [Before You Go \- Live from Brixton Academy, London, 2019](https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go EP](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | 3:45 |
 | 54 | [Empire State of Mind \(Part II\) Broken Down \- Live at Metropolis Studios, New York, NY \- May 2013](https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Alicia Keys \- VH1 Storytellers](https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9) | 4:18 |
 | 55 | [Gimme! Gimme! Gimme! \(A Man After Midnight\) \- Live](https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 5:34 |
 | 56 | [Your Song \- Live At Madison Square Garden](https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton 60 \- Live At Madison Square Garden](https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [Warwick Avenue \- Live](https://open.spotify.com/track/7wLfeZcN4HW3qulI8CBNPs) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Divas En Directo](https://open.spotify.com/album/4ffR3iBOv3qVty8FmT1bLl) | 3:57 |
 | 100 | [A Little Respect \(Live in Nashville\)](https://open.spotify.com/track/4a2dbJunlLGd87U7bNrwHh) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [On the Road to Nashville \(Live\)](https://open.spotify.com/album/7FKtqGJK8DhnAOUqHSfPqU) | 3:38 |
 
-Snapshot ID: `MCxiY2Q5N2RjMGU2MDljM2NkMTZhZjI2NzViM2Y2NDE1ZGIyY2RiNzA1`
+Snapshot ID: `MCw3NTYyZTBhYjE1NTNhNTdhNmYzYmZiNzk4MDljMGZjYWYzMThmNjJm`

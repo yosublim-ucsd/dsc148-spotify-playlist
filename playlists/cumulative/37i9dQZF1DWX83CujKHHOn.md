@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-360 songs - 22 hr 19 min
+363 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Can I Be Him](https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 4:06 | 2021-12-06 |  |
 | [Can't Go Back](https://open.spotify.com/track/6oz8T0xhXzkEVxyelC3Hc3) | [Rosi Golan](https://open.spotify.com/artist/1eggYygEtBl6TJv5CtkYn7) | [Lead Balloon](https://open.spotify.com/album/5xcKokaga7HALAx6Iy2MBB) | 3:47 | 2022-01-05 | 2022-04-21 |
 | [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 | 2022-08-05 | 2023-05-31 |
-| [Champion](https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Champion](https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt) | 2:53 | 2021-12-06 |  |
+| [Champion](https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Champion](https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt) | 2:53 | 2021-12-06 | 2023-11-09 |
 | [Chandelier \- Piano Version](https://open.spotify.com/track/0Ha4WnjeGxmsnzTnlEvjvZ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:01 | 2022-01-05 |  |
 | [Ciao, Bella](https://open.spotify.com/track/1JxadVAaAPwYnzGV5KWTtu) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [Ciao, Bella](https://open.spotify.com/album/2FJiVWqvCTiDbPymkO43r4) | 4:12 | 2022-03-18 | 2022-07-29 |
 | [Close To You](https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:43 | 2021-12-06 |  |
@@ -100,6 +100,7 @@
 | [Goodbye](https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Goodbye](https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7) | 3:04 | 2022-05-27 |  |
 | [Goodbye My Lover](https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 4:18 | 2022-01-05 |  |
 | [Half a Heart](https://open.spotify.com/track/6nIE1oCE4udqMGv3bqVNVb) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:08 | 2021-12-06 |  |
+| [Half A Man](https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 2:59 | 2023-11-08 |  |
 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 | 2022-02-14 | 2023-04-04 |
 | [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 | 2021-12-06 |  |
 | [Hate Everything](https://open.spotify.com/track/52UDFFwUueOBfJ2vB5BqRr) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R) | 3:25 | 2022-08-26 |  |
@@ -273,7 +274,8 @@
 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 | 2022-07-08 |  |
 | [Someone Like You](https://open.spotify.com/track/6QPKYGnAW9QozVz2dSWqRg) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 4:45 | 2021-12-06 | 2022-07-29 |
 | [Someone to Break Your Heart](https://open.spotify.com/track/1j1eVY0fZLQH5W0UMNz5hd) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Someone to Break Your Heart](https://open.spotify.com/album/6uWWQBNQke5npCz2UwI5G3) | 3:19 | 2022-01-05 | 2022-07-25 |
-| [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 | 2021-12-06 |  |
+| [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 | 2021-12-06 | 2023-11-09 |
+| [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2023-11-08 |  |
 | [Someone You Loved \- Acoustic](https://open.spotify.com/track/7iSool3PmS50F5St2bhmTU) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm) | [Someone You Loved \(Acoustic\)](https://open.spotify.com/album/69WwEw6R3xBZgmwpp9aY5u) | 2:42 | 2021-12-06 | 2022-12-08 |
 | [Sorry](https://open.spotify.com/track/6MXJdqTuSDXkG21JHWiGko) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 4:15 | 2022-01-18 | 2022-11-14 |
 | [Sorry](https://open.spotify.com/track/2DyCLtTrd9f2DRRDq1ngJx) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/1fV3TdIojhb9lQXd72HiPq) | 3:40 | 2021-12-06 | 2022-07-29 |
@@ -339,7 +341,7 @@
 | [What Are Words](https://open.spotify.com/track/50A1WCxKycJUHRr4Rz6WrD) | [Chris Medina](https://open.spotify.com/artist/2uCmngYSlTEELzZXl1z1dV) | [What Are Words](https://open.spotify.com/album/156SSHnm8kNfMNl2QJub3I) | 3:09 | 2022-07-08 |  |
 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 | 2022-07-08 |  |
 | [What Hurts The Most](https://open.spotify.com/track/6Qgva9AMxlkf7MWkLUkdFH) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5uvQNw5Jr0aYdIStUYmX6o) | 3:34 | 2022-01-05 | 2022-04-20 |
-| [what if i took it off for you?](https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [what if i took it off for you?](https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM) | 2:16 | 2023-04-21 |  |
+| [what if i took it off for you?](https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [what if i took it off for you?](https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM) | 2:16 | 2023-04-21 | 2023-11-09 |
 | [What You Did \(feat\. Ella Mai\)](https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:26 | 2022-08-26 | 2022-09-24 |
 | [When A Heart Breaks](https://open.spotify.com/track/3YepPgEDVEXccOBcLHDZ3v) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Into the Morning](https://open.spotify.com/album/2mnghgVt3RyZeWS9wpjB4n) | 4:14 | 2022-01-05 | 2022-04-21 |
 | [When I Let Go](https://open.spotify.com/track/1knbAQeG852S5ebxsfYIao) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Borders](https://open.spotify.com/album/3Rv5ZcZTfEIRKqvWBhrYmv) | 3:55 | 2021-12-06 | 2022-06-09 |
@@ -362,6 +364,7 @@
 | [WONDER \(reimagined by Jagwar Twin\)](https://open.spotify.com/track/0qLYHvobT7ksOx4KqlyOqf) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [WONDER \[reimagined\]](https://open.spotify.com/album/0LtH1ybtOlMWZ9BLeXDLSQ) | 3:41 | 2021-12-06 | 2022-07-29 |
 | [Wrecked](https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Wrecked](https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG) | 4:04 | 2021-12-06 | 2022-03-31 |
 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 | 2022-01-05 |  |
+| [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2023-11-08 |  |
 | [You Don't Get To \- Stripped](https://open.spotify.com/track/6FtOjCh88PmVmDynhicvkc) | [Julia Gargano](https://open.spotify.com/artist/54IqzX9ecr68nJoastw0Nz) | [You Don't Get To \(Stripped\)](https://open.spotify.com/album/7B686IbMkI1dteleIZVSeR) | 3:16 | 2021-12-06 | 2022-04-21 |
 | [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 | 2023-05-26 |  |
 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 | 2022-01-05 |  |

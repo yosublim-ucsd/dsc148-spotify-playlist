@@ -1,13 +1,29 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Cover: Duster",
-  "num_followers": 126294,
+  "num_followers": 126480,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGRkYmI1MjQwN2U2ZDYxZjMzNGU5ZmFhYjI5ODcwYjcxOWNkNTNj",
+  "snapshot_id": "MCwzYjhmZTdmOTFiNTUyYjVlOGFiZjdjZTUwNDZiNjcxZjg0NzY5MjVm",
   "tracks": [
+    {
+      "added_at": "2023-11-08 15:04:21",
+      "album": {
+        "name": "South",
+        "url": "https://open.spotify.com/album/1CfNY3GnYDN6P2yoLFOdGd"
+      },
+      "artists": [
+        {
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "South",
+      "url": "https://open.spotify.com/track/6EC1Hkr4hqHXIylbwnNEu1"
+    },
     {
       "added_at": "2023-10-20 14:32:39",
       "album": {
@@ -231,6 +247,22 @@
       "duration_ms": 227340,
       "name": "Covet",
       "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF"
+    },
+    {
+      "added_at": "2023-11-08 15:04:21",
+      "album": {
+        "name": "Donut",
+        "url": "https://open.spotify.com/album/2JbvVS3C80ei8bBY8Xsvni"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "Donut",
+      "url": "https://open.spotify.com/track/1KDvMamqHZoGDNcjQ5FCKo"
     },
     {
       "added_at": "2023-04-14 04:00:00",

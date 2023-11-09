@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Juan Luis Guerra",
-  "num_followers": 385570,
+  "num_followers": 385628,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjI2NWMxOGM5ZmIzZWNlMTdkZGM5Y2FiOGU5YmRlOTZkNTM0MDdm",
+  "snapshot_id": "MCwxNjFiYmNlYzBkMjY3ODAwNjNlYTAwNjgyOWFhZGU5MzBiZGUzNTkx",
   "tracks": [
     {
       "added_at": "2023-11-06 16:28:48",
@@ -351,6 +351,54 @@
     {
       "added_at": "2023-11-06 16:28:48",
       "album": {
+        "name": "El Hombre Merengue",
+        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
+      },
+      "artists": [
+        {
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+        }
+      ],
+      "duration_ms": 283866,
+      "name": "Cachamba",
+      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
+    },
+    {
+      "added_at": "2023-11-06 16:28:48",
+      "album": {
+        "name": "Sin Medir Distancia",
+        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Era Mentira",
+      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
+    },
+    {
+      "added_at": "2023-11-06 16:28:48",
+      "album": {
+        "name": "Pintame",
+        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "P\u00edntame",
+      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
+    },
+    {
+      "added_at": "2023-11-06 16:28:48",
+      "album": {
         "name": "No Es Normal",
         "url": "https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163"
       },
@@ -375,50 +423,18 @@
     {
       "added_at": "2023-11-06 16:28:48",
       "album": {
-        "name": "El Hombre Merengue",
-        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
+        "name": "Ilegales",
+        "url": "https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg"
       },
       "artists": [
         {
-          "name": "Kinito Mendez",
-          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
         }
       ],
-      "duration_ms": 283866,
-      "name": "Cachamba",
-      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
-    },
-    {
-      "added_at": "2023-11-06 16:28:48",
-      "album": {
-        "name": "Pintame",
-        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "P\u00edntame",
-      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
-    },
-    {
-      "added_at": "2023-11-06 16:28:48",
-      "album": {
-        "name": "Sin Medir Distancia",
-        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Era Mentira",
-      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
+      "duration_ms": 264160,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo"
     },
     {
       "added_at": "2023-11-06 16:28:48",
@@ -439,22 +455,6 @@
       "duration_ms": 203273,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
-    },
-    {
-      "added_at": "2023-11-06 16:28:48",
-      "album": {
-        "name": "Ilegales",
-        "url": "https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg"
-      },
-      "artists": [
-        {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo"
     },
     {
       "added_at": "2023-11-06 16:28:48",
@@ -1067,38 +1067,6 @@
     {
       "added_at": "2023-11-06 16:28:48",
       "album": {
-        "name": "O.K. All Right",
-        "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
-      },
-      "artists": [
-        {
-          "name": "Jossie Esteban & La Patrulla 15",
-          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
-        }
-      ],
-      "duration_ms": 318306,
-      "name": "El Cantinero",
-      "url": "https://open.spotify.com/track/5FLMNeZEdB0No8TebOXc0J"
-    },
-    {
-      "added_at": "2023-11-06 16:28:48",
-      "album": {
-        "name": "12 Golden Hits",
-        "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
-      },
-      "artists": [
-        {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
-        }
-      ],
-      "duration_ms": 286520,
-      "name": "Asesina",
-      "url": "https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG"
-    },
-    {
-      "added_at": "2023-11-06 16:28:48",
-      "album": {
         "name": "Tiki Taka",
         "url": "https://open.spotify.com/album/7q1LgwudtZxkSfLcedzr9U"
       },
@@ -1119,6 +1087,38 @@
       "duration_ms": 155610,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/6Hy0Oa6k5asXoConmlsFx5"
+    },
+    {
+      "added_at": "2023-11-06 16:28:48",
+      "album": {
+        "name": "12 Golden Hits",
+        "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "duration_ms": 286520,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG"
+    },
+    {
+      "added_at": "2023-11-06 16:28:48",
+      "album": {
+        "name": "O.K. All Right",
+        "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
+      },
+      "artists": [
+        {
+          "name": "Jossie Esteban & La Patrulla 15",
+          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
+        }
+      ],
+      "duration_ms": 318306,
+      "name": "El Cantinero",
+      "url": "https://open.spotify.com/track/5FLMNeZEdB0No8TebOXc0J"
     },
     {
       "added_at": "2023-11-06 16:28:48",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-11-06 16:28:48",
       "album": {
-        "name": "O.K. All Right",
-        "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
-      },
-      "artists": [
-        {
-          "name": "Jossie Esteban & La Patrulla 15",
-          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
-        }
-      ],
-      "duration_ms": 272533,
-      "name": "El Moreno Esta",
-      "url": "https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch"
-    },
-    {
-      "added_at": "2023-11-06 16:28:48",
-      "album": {
         "name": "Exitos De",
         "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2023-11-06 16:28:48",
       "album": {
+        "name": "O.K. All Right",
+        "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
+      },
+      "artists": [
+        {
+          "name": "Jossie Esteban & La Patrulla 15",
+          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "El Moreno Esta",
+      "url": "https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch"
+    },
+    {
+      "added_at": "2023-11-06 16:28:48",
+      "album": {
         "name": "Mas Rika Que Nunca",
         "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
       },
@@ -1279,26 +1279,6 @@
       "duration_ms": 280533,
       "name": "Cutibili Pacha",
       "url": "https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl"
-    },
-    {
-      "added_at": "2023-11-06 16:28:48",
-      "album": {
-        "name": "Que No Se Acabe",
-        "url": "https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn"
-      },
-      "artists": [
-        {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        },
-        {
-          "name": "Urbanda",
-          "url": "https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov"
-        }
-      ],
-      "duration_ms": 198295,
-      "name": "Que No Se Acabe",
-      "url": "https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i"
     },
     {
       "added_at": "2023-11-06 16:28:48",
@@ -1319,6 +1299,22 @@
     {
       "added_at": "2023-11-06 16:28:48",
       "album": {
+        "name": "Ganas (Versi\u00f3n Merengue)",
+        "url": "https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 215478,
+      "name": "Ganas - Versi\u00f3n Merengue",
+      "url": "https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE"
+    },
+    {
+      "added_at": "2023-11-06 16:28:48",
+      "album": {
         "name": "Coleccion Diamante",
         "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
       },
@@ -1335,18 +1331,22 @@
     {
       "added_at": "2023-11-06 16:28:48",
       "album": {
-        "name": "Ganas (Versi\u00f3n Merengue)",
-        "url": "https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf"
+        "name": "Que No Se Acabe",
+        "url": "https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn"
       },
       "artists": [
         {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        },
+        {
+          "name": "Urbanda",
+          "url": "https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov"
         }
       ],
-      "duration_ms": 215478,
-      "name": "Ganas - Versi\u00f3n Merengue",
-      "url": "https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE"
+      "duration_ms": 198295,
+      "name": "Que No Se Acabe",
+      "url": "https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i"
     },
     {
       "added_at": "2023-11-06 16:28:48",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-11-06 16:28:48",
       "album": {
-        "name": "Trancazos Bailables, Vol. 4",
-        "url": "https://open.spotify.com/album/63U1jnXIx3yfezOGnUCW61"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
       },
       "artists": [
         {
-          "name": "Cuco Valoy",
-          "url": "https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE"
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
         }
       ],
-      "duration_ms": 378533,
-      "name": "Frutos Del Carnaval",
-      "url": "https://open.spotify.com/track/4uNsxCWSUEswepl4RP0689"
+      "duration_ms": 278973,
+      "name": "Alo",
+      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
     },
     {
       "added_at": "2023-11-06 16:28:48",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2023-11-06 16:28:48",
       "album": {
-        "name": "Tesoro Mio (Versi\u00f3n Merengue)",
-        "url": "https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY"
+        "name": "Trancazos Bailables, Vol. 4",
+        "url": "https://open.spotify.com/album/63U1jnXIx3yfezOGnUCW61"
       },
       "artists": [
         {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+          "name": "Cuco Valoy",
+          "url": "https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Tesoro Mio - Versi\u00f3n Merengue",
-      "url": "https://open.spotify.com/track/1ax8x6uKlotSCmv4ovNRdV"
+      "duration_ms": 378533,
+      "name": "Frutos Del Carnaval",
+      "url": "https://open.spotify.com/track/4uNsxCWSUEswepl4RP0689"
     },
     {
       "added_at": "2023-11-06 16:28:48",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-11-06 16:28:48",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
+        "name": "Tesoro Mio (Versi\u00f3n Merengue)",
+        "url": "https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY"
       },
       "artists": [
         {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 278973,
-      "name": "Alo",
-      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
+      "duration_ms": 192800,
+      "name": "Tesoro Mio - Versi\u00f3n Merengue",
+      "url": "https://open.spotify.com/track/1ax8x6uKlotSCmv4ovNRdV"
     },
     {
       "added_at": "2023-11-06 16:28:48",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-11-06 16:28:48",
       "album": {
+        "name": "Como Los Rayos Del Sol",
+        "url": "https://open.spotify.com/album/7460LMvayest0YKVf9u052"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Como Los Rayos Del Sol",
+      "url": "https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL"
+    },
+    {
+      "added_at": "2023-11-06 16:28:48",
+      "album": {
         "name": "No Toy En Ti",
         "url": "https://open.spotify.com/album/3ThubO1iZCTdnci01gnpSE"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 171428,
       "name": "No Toy En Ti",
       "url": "https://open.spotify.com/track/0YMxfbonjLYbG4m9iEox7y"
-    },
-    {
-      "added_at": "2023-11-06 16:28:48",
-      "album": {
-        "name": "Como Los Rayos Del Sol",
-        "url": "https://open.spotify.com/album/7460LMvayest0YKVf9u052"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Como Los Rayos Del Sol",
-      "url": "https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL"
     },
     {
       "added_at": "2023-11-06 16:28:48",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2023-11-06 16:28:48",
       "album": {
+        "name": "Con Las Canciones Que Crec\u00ed Vol. 1",
+        "url": "https://open.spotify.com/album/3lT1RrPQO1jpe19q7MzLoF"
+      },
+      "artists": [
+        {
+          "name": "Omar Enrique",
+          "url": "https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7"
+        },
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/2dHwYqYxsj7IEgGu6dxraM"
+        }
+      ],
+      "duration_ms": 273365,
+      "name": "T\u00fa Eres Ajena",
+      "url": "https://open.spotify.com/track/1H3buHXVp1smlFutuQTgZR"
+    },
+    {
+      "added_at": "2023-11-06 16:28:48",
+      "album": {
         "name": "Con El Machete En La Mano",
         "url": "https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol"
       },
@@ -1647,26 +1667,6 @@
       "duration_ms": 274840,
       "name": "Parece Una Nena",
       "url": "https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL"
-    },
-    {
-      "added_at": "2023-11-06 16:28:48",
-      "album": {
-        "name": "Con Las Canciones Que Crec\u00ed Vol. 1",
-        "url": "https://open.spotify.com/album/3lT1RrPQO1jpe19q7MzLoF"
-      },
-      "artists": [
-        {
-          "name": "Omar Enrique",
-          "url": "https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7"
-        },
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/2dHwYqYxsj7IEgGu6dxraM"
-        }
-      ],
-      "duration_ms": 273365,
-      "name": "T\u00fa Eres Ajena",
-      "url": "https://open.spotify.com/track/1H3buHXVp1smlFutuQTgZR"
     },
     {
       "added_at": "2023-11-06 16:28:48",

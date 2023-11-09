@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 216794,
       "name": "Ask Yourself (Can You Dance)",
       "url": "https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg"
@@ -3734,6 +3734,32 @@
       "duration_ms": 186000,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
+    },
+    {
+      "album": {
+        "name": "RAW EP",
+        "url": "https://open.spotify.com/album/1ZWwjrnhtz8V1QIScYEXEK"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "THEOS",
+          "url": "https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM"
+        },
+        {
+          "name": "Queen Rose",
+          "url": "https://open.spotify.com/artist/4ffLGz2xBwZ8DELkCT0T4h"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214749,
+      "name": "Set You Free (feat. Queen Rose)",
+      "url": "https://open.spotify.com/track/34cdkQW4SdWcX1K5v8G2FP"
     },
     {
       "album": {

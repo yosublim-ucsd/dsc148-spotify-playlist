@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 47405,
+  "num_followers": 47422,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGFlM2VjYzQzOGY1ZWYwZTM0ZjllMTM3NjhiZjBiZTU2NWI5MTVm",
+  "snapshot_id": "MCwwMDFiOTU2ZjM4YThkZDc0YTE4NTM0NjgyZDA4YjA0ZThlOTMzZGYx",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -353,26 +353,6 @@
       "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
     },
     {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Ojos Negros",
-        "url": "https://open.spotify.com/album/2TQo6pKbGNMHD8G2NmrhQe"
-      },
-      "artists": [
-        {
-          "name": "Desta French",
-          "url": "https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W"
-        },
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/5ZsRHRaOpGEYw9rjJECXR6"
-        }
-      ],
-      "duration_ms": 224394,
-      "name": "Ojos Negros",
-      "url": "https://open.spotify.com/track/1vRVJLRaCKiCdTRcfQmDNG"
-    },
-    {
       "added_at": "2023-03-23 21:34:53",
       "album": {
         "name": "Gato Negro (Daniel Hokum & Okuma Remix)",
@@ -395,6 +375,26 @@
       "duration_ms": 395632,
       "name": "Gato Negro - Daniel Hokum & okuma Remix",
       "url": "https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Ojos Negros",
+        "url": "https://open.spotify.com/album/2TQo6pKbGNMHD8G2NmrhQe"
+      },
+      "artists": [
+        {
+          "name": "Desta French",
+          "url": "https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W"
+        },
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/5ZsRHRaOpGEYw9rjJECXR6"
+        }
+      ],
+      "duration_ms": 224394,
+      "name": "Ojos Negros",
+      "url": "https://open.spotify.com/track/1vRVJLRaCKiCdTRcfQmDNG"
     },
     {
       "added_at": "2023-04-14 01:19:32",
@@ -477,6 +477,22 @@
       "url": "https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC"
     },
     {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Beat Cari",
+        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 332142,
+      "name": "Beat Cari",
+      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
+    },
+    {
       "added_at": "2023-05-24 02:19:29",
       "album": {
         "name": "El Tiempo (Captain Planet Remix)",
@@ -499,22 +515,6 @@
       "duration_ms": 223888,
       "name": "El Tiempo (Captain Planet Remix)",
       "url": "https://open.spotify.com/track/4c5nygEjIwHZSgAFPVXfiJ"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Beat Cari",
-        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 332142,
-      "name": "Beat Cari",
-      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -703,34 +703,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Sierra Madre (Remix)",
-        "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
-      },
-      "artists": [
-        {
-          "name": "Bial Hclap",
-          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
-        },
-        {
-          "name": "H\u00e9ctor Guerra",
-          "url": "https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz"
-        },
-        {
-          "name": "Danger",
-          "url": "https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH"
-        },
-        {
-          "name": "Noe Gonzalez Molina",
-          "url": "https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg"
-        }
-      ],
-      "duration_ms": 305866,
-      "name": "Sierra Madre (Remix)",
-      "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "#S\u00e1dico",
         "url": "https://open.spotify.com/album/37IMDq8KEAMXmi78I5UpDe"
       },
@@ -771,6 +743,34 @@
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Sierra Madre (Remix)",
+        "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
+      },
+      "artists": [
+        {
+          "name": "Bial Hclap",
+          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
+        },
+        {
+          "name": "H\u00e9ctor Guerra",
+          "url": "https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz"
+        },
+        {
+          "name": "Danger",
+          "url": "https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH"
+        },
+        {
+          "name": "Noe Gonzalez Molina",
+          "url": "https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg"
+        }
+      ],
+      "duration_ms": 305866,
+      "name": "Sierra Madre (Remix)",
+      "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Planeta",
-        "url": "https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R"
-      },
-      "artists": [
-        {
-          "name": "Bleepolar",
-          "url": "https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ"
-        }
-      ],
-      "duration_ms": 210748,
-      "name": "Planeta",
-      "url": "https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
       },
@@ -931,26 +915,38 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Calentura: Toque (Captain Planet Remixes)",
-        "url": "https://open.spotify.com/album/3mBNM16s2Nq2hfPNkhHSpz"
+        "name": "Planeta",
+        "url": "https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R"
       },
       "artists": [
         {
-          "name": "Mon Rivera",
-          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+          "name": "Bleepolar",
+          "url": "https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ"
         }
       ],
-      "duration_ms": 244043,
-      "name": "Ya Lleg\u00f3 - Captain Planet Remix",
-      "url": "https://open.spotify.com/track/0PIeefi6RLeFt2O0NUfRps"
+      "duration_ms": 210748,
+      "name": "Planeta",
+      "url": "https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Caribe Express",
+        "url": "https://open.spotify.com/album/4ab1kveCYeqKhuhYwX17P8"
+      },
+      "artists": [
+        {
+          "name": "Diego Raposo",
+          "url": "https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7wGtDLvDRGllVRX01cj9Ml"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/3ta4JlvWcD4hL86TXu8YWa"
     }
   ],
   "unique_name": "Club Electropical",

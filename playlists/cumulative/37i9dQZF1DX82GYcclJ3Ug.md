@@ -4,7 +4,7 @@
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: MGMT
 
-1,462 songs - 3 day 6 hr 14 min
+1,463 songs - 3 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,8 @@
 | [CLOSE ONE!](https://open.spotify.com/track/7DArJNtpFZrFQxb3o2arJe) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [MARCH](https://open.spotify.com/album/0My709th5LtXCtWpTfqhLp) | 3:31 | 2023-03-03 | 2023-04-01 |
 | [closure](https://open.spotify.com/track/3U9SYKpPhiIawcwUXj2IvX) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [closure](https://open.spotify.com/album/04JeFildc0BYKS3E24DaEN) | 2:22 | 2023-02-17 | 2023-04-15 |
 | [Cold Tea](https://open.spotify.com/track/597KzBs4KvD6HavNl0yiG1) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Cold Tea](https://open.spotify.com/album/7ouNonvlK1rcZey6noEvxg) | 3:55 | 2023-10-06 |  |
-| [COLLIDING](https://open.spotify.com/track/6sZM05GUBlSiCDd0LGmffK) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [COLLIDING](https://open.spotify.com/album/1FvHt3aswvRaEk5vm0pY58) | 2:43 | 2023-10-13 |  |
+| [COLLIDING](https://open.spotify.com/track/5OoKINatuviwC5o7vGyvDl) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 2:43 | 2023-11-03 |  |
+| [COLLIDING](https://open.spotify.com/track/6sZM05GUBlSiCDd0LGmffK) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [COLLIDING](https://open.spotify.com/album/1FvHt3aswvRaEk5vm0pY58) | 2:43 | 2023-10-13 | 2023-11-09 |
 | [Colorado](https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado](https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO) | 2:54 | 2021-11-26 | 2022-03-12 |
 | [Comatose](https://open.spotify.com/track/1nrY9vaRGbSu8Oyp5Wlyu1) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [Comatose](https://open.spotify.com/album/699HPxSGvoihD45uGQbBYv) | 3:48 | 2023-08-18 | 2023-09-23 |
 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 | 2022-07-22 | 2022-11-12 |

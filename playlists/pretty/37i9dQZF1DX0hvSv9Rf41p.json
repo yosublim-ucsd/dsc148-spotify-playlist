@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Chase & Status",
-  "num_followers": 976536,
+  "num_followers": 976563,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODI5NmYwMDY4NGJhOWIxNTcwMzEwODc5NDdlNWZkNmJhZDdmOWQx",
+  "snapshot_id": "MCwzNmE2YjNjZTdiMmY2NmE0YzA4ODQ1ZjE4YjM2NGRiMWQ5MTcwZDYy",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -57,7 +57,7 @@
         },
         {
           "name": "Takura",
-          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
+          "url": "https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ"
         }
       ],
       "duration_ms": 177291,
@@ -183,8 +183,8 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "One Chance (feat. Marlhy)",
-        "url": "https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu"
+        "name": "One Chance",
+        "url": "https://open.spotify.com/album/4whZCf4KZinQmHApTpVCn9"
       },
       "artists": [
         {
@@ -201,8 +201,8 @@
         }
       ],
       "duration_ms": 220952,
-      "name": "One Chance (feat. Marlhy)",
-      "url": "https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd"
+      "name": "One Chance",
+      "url": "https://open.spotify.com/track/1rFjOggo1LDoT6wqX41baU"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -961,6 +961,42 @@
       "url": "https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Swerve it",
+        "url": "https://open.spotify.com/album/5o9bTDEWsJpTReXH4LuoME"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "duration_ms": 167314,
+      "name": "Swerve It",
+      "url": "https://open.spotify.com/track/3IwA24jZLqPW3tFCWpkr7S"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Criminal",
@@ -999,42 +1035,6 @@
       "duration_ms": 188571,
       "name": "SAXORiDDiM",
       "url": "https://open.spotify.com/track/6DVZpwOZyjhPkL09b0mqtg"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Swerve it",
-        "url": "https://open.spotify.com/album/5o9bTDEWsJpTReXH4LuoME"
-      },
-      "artists": [
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        },
-        {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
-        },
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
-        }
-      ],
-      "duration_ms": 167314,
-      "name": "Swerve It",
-      "url": "https://open.spotify.com/track/3IwA24jZLqPW3tFCWpkr7S"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1081,24 +1081,20 @@
       "url": "https://open.spotify.com/track/1LeeXhb4CsZZAxb7VzRWng"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Scared",
-        "url": "https://open.spotify.com/album/6wtDx4QNiMVpSzpQgrX5N0"
+        "name": "InHer World",
+        "url": "https://open.spotify.com/album/0COY2S4CiGsR1dgwKKRqmc"
       },
       "artists": [
         {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        },
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
         }
       ],
-      "duration_ms": 243238,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/7DgRZtTKvoa6PlbOUbsU5N"
+      "duration_ms": 192344,
+      "name": "Redline",
+      "url": "https://open.spotify.com/track/4n7npue0fQKKmgC1CcHmao"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1123,6 +1119,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Scared",
+        "url": "https://open.spotify.com/album/6wtDx4QNiMVpSzpQgrX5N0"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 243238,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/7DgRZtTKvoa6PlbOUbsU5N"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Back For More",
         "url": "https://open.spotify.com/album/11kp1IYIHPxZhBKHNaeKgb"
       },
@@ -1143,46 +1159,6 @@
       "duration_ms": 148800,
       "name": "Back For More",
       "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "InHer World",
-        "url": "https://open.spotify.com/album/0COY2S4CiGsR1dgwKKRqmc"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 192344,
-      "name": "Redline",
-      "url": "https://open.spotify.com/track/4n7npue0fQKKmgC1CcHmao"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Skull Machine",
-        "url": "https://open.spotify.com/album/4N45nvS8gGoJ9kRxnBnk6J"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "Wasiu",
-          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "Skull Machine",
-      "url": "https://open.spotify.com/track/5ScWfZGzV29Pr9dk7gLl95"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1219,6 +1195,30 @@
       "duration_ms": 221142,
       "name": "dontstopme!",
       "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Skull Machine",
+        "url": "https://open.spotify.com/album/4N45nvS8gGoJ9kRxnBnk6J"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "Skull Machine",
+      "url": "https://open.spotify.com/track/5ScWfZGzV29Pr9dk7gLl95"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1313,6 +1313,38 @@
       "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Stone cold.",
+        "url": "https://open.spotify.com/album/0XegDwoQDiCJYLu4VODUzx"
+      },
+      "artists": [
+        {
+          "name": "The Caracal Project",
+          "url": "https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Stone cold.",
+      "url": "https://open.spotify.com/track/27hGDu6VTcXy0sugTIsDvv"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Muscaria / Everglade March (VIP)",
+        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "duration_ms": 169462,
+      "name": "Muscaria",
+      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "You Found Me",
@@ -1337,36 +1369,24 @@
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Muscaria / Everglade March (VIP)",
-        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        }
-      ],
-      "duration_ms": 169462,
-      "name": "Muscaria",
-      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Stone cold.",
-        "url": "https://open.spotify.com/album/0XegDwoQDiCJYLu4VODUzx"
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/3zgSMDDYMuWQJihpF9SFQX"
       },
       "artists": [
         {
-          "name": "The Caracal Project",
-          "url": "https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN"
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Stone cold.",
-      "url": "https://open.spotify.com/track/27hGDu6VTcXy0sugTIsDvv"
+      "duration_ms": 231529,
+      "name": "Going Insane",
+      "url": "https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1415,26 +1435,6 @@
       "duration_ms": 174400,
       "name": "NO FEAR",
       "url": "https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/3zgSMDDYMuWQJihpF9SFQX"
-      },
-      "artists": [
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "Going Insane",
-      "url": "https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Someone To Forget",
-        "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "Someone To Forget",
-      "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "kidsgonemad!",
         "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 208941,
       "name": "SHYPOP",
       "url": "https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Someone To Forget",
+        "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Someone To Forget",
+      "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Get Wompy",
+        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Get Wompy",
+      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Exodia",
         "url": "https://open.spotify.com/album/7MSWYmuDJAlBYUa0QrEqyo"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 175357,
       "name": "Exodia",
       "url": "https://open.spotify.com/track/0JIhwGegswRgXRVKYxa8lx"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Get Wompy",
-        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
-      },
-      "artists": [
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Get Wompy",
-      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Skanka (VIP)",
+        "url": "https://open.spotify.com/album/2vE6RgrsJmNO0gQWC9AQkW"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "duration_ms": 228004,
+      "name": "Skanka (VIP)",
+      "url": "https://open.spotify.com/track/4HUsOtjhCpXPUHZfYtPSo8"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/6FhJbGFOc9MO1SM5zrfMkg"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 197538,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Skanka (VIP)",
-        "url": "https://open.spotify.com/album/2vE6RgrsJmNO0gQWC9AQkW"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        }
-      ],
-      "duration_ms": 228004,
-      "name": "Skanka (VIP)",
-      "url": "https://open.spotify.com/track/4HUsOtjhCpXPUHZfYtPSo8"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2039,22 +2039,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Of Two Minds",
-        "url": "https://open.spotify.com/album/3WfUE3XbaPkBOkRF3wTYMy"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1"
       },
       "artists": [
         {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
         },
         {
-          "name": "Rhode",
-          "url": "https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi"
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
         }
       ],
-      "duration_ms": 279069,
-      "name": "Of Two Minds",
-      "url": "https://open.spotify.com/track/7Btth4NK0ICZC9DjYZPxgg"
+      "duration_ms": 189517,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
     }
   ],
   "unique_name": "Bass Arcade",

@@ -1,12 +1,12 @@
 {
   "description": "Nostalgic '70-ies and '80-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa. Get your boogie on!",
-  "num_followers": 180930,
+  "num_followers": 180962,
   "original_name": "AfroBoogie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTZhZmZmOTAwNjFjYTllYTkwZjVmYmM1NGJiMDVhNjg1ZDFkY2Fh",
+  "snapshot_id": "MCwxNGIyOWEwZDIyZTY5MGFmZGNjNWE2YTg0MDNlNzgzYmNiMDljMjgw",
   "tracks": [
     {
       "added_at": "2022-09-26 14:48:22",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
-        "name": "Sofrito: Tropical Discotheque",
-        "url": "https://open.spotify.com/album/5AOELfqelmBhaAV5PsHHYr"
-      },
-      "artists": [
-        {
-          "name": "Sir Victor Uwaifo",
-          "url": "https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU"
-        }
-      ],
-      "duration_ms": 334173,
-      "name": "Ohue - Frankie Francis & Simbad Edit",
-      "url": "https://open.spotify.com/track/6mpWzzeF15T39cCZFCsvh0"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
         "name": "Horizon Unlimited",
         "url": "https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 318785,
       "name": "Come On Home",
       "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
+        "name": "Sofrito: Tropical Discotheque",
+        "url": "https://open.spotify.com/album/5AOELfqelmBhaAV5PsHHYr"
+      },
+      "artists": [
+        {
+          "name": "Sir Victor Uwaifo",
+          "url": "https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU"
+        }
+      ],
+      "duration_ms": 334173,
+      "name": "Ohue - Frankie Francis & Simbad Edit",
+      "url": "https://open.spotify.com/track/6mpWzzeF15T39cCZFCsvh0"
     },
     {
       "added_at": "2022-09-26 14:48:22",

@@ -10407,6 +10407,32 @@
     },
     {
       "album": {
+        "name": "Raw In Amsterdam (Live)",
+        "url": "https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd"
+      },
+      "artists": [
+        {
+          "name": "Philip Lassiter",
+          "url": "https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345946,
+      "name": "Repent - Live",
+      "url": "https://open.spotify.com/track/4hadhnkBkGXXr64fo0pFts"
+    },
+    {
+      "album": {
         "name": "Repent (Live)",
         "url": "https://open.spotify.com/album/5YpSuMVamsS1LjbUNvhjZi"
       },
@@ -10426,7 +10452,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 345946,
       "name": "Repent - Live",
       "url": "https://open.spotify.com/track/6QvdT4W0W66JZG2Lsf5W1u"

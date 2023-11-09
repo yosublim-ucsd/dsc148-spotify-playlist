@@ -3359,6 +3359,24 @@
     },
     {
       "album": {
+        "name": "MELTING POINT",
+        "url": "https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169040,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/2qiWQf7ka0C4XoA7JAZ1q5"
+    },
+    {
+      "album": {
         "name": "DKZ 6th Single Album 'CHASE EPISODE 2. MAUM'",
         "url": "https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe"
       },
@@ -9766,7 +9784,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 173029,
       "name": "MELTING POINT",
       "url": "https://open.spotify.com/track/6Sj39jSqhxjJ8K66Mw8hrU"

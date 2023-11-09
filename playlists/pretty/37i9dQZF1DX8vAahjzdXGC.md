@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: The Beatles
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,548 likes - 89 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,561 likes - 89 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 88 | [Moove](https://open.spotify.com/track/3qWHPx1FZiXPj9LwyVNcjD) | [Two Pills After Meal](https://open.spotify.com/artist/3tEhENbTF4IxqaolMlwdvT) | [Moove](https://open.spotify.com/album/1EH2yn7TIxUHXX5kQjLp7s) | 4:10 |
 | 89 | [you're not a bad person](https://open.spotify.com/track/4ebE2i0CeVuKlOFtiCoKMA) | [Taylor Bickett](https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk) | [grown up and lonely](https://open.spotify.com/album/2xVOOfw2CwcLIhE06LqyIA) | 2:32 |
 
-Snapshot ID: `MCw4NTczYTg4NGNmYTkyYTlkZjA4OWM3YjJmNDEwZTUyZDU2MDA3NWMz`
+Snapshot ID: `MCwwZjZmMGY5M2U5M2RlZTk0YzlhMmUzZTlhMzA5NmY1MmNiZTNlMDA5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,760 likes - 111 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,084 likes - 111 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 36 | [Magical](https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:14 |
 | 37 | [My God](https://open.spotify.com/track/2reLCImNfQB4CkMUI6CicE) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [My God](https://open.spotify.com/album/7IzBRSEdgPZCgAsz3yhN75) | 3:21 |
 | 38 | [didn't you believe in me?](https://open.spotify.com/track/3p2OiTxp4ZKJ157XwXUegV) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [quite early one morning](https://open.spotify.com/album/5ev27RCycmECWHoSg7w491) | 2:15 |
-| 39 | [Atlas Hands](https://open.spotify.com/track/3mmfvZSZTTMSE8GTuS7rGH) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm \(Deluxe Version\)](https://open.spotify.com/album/1eS5FLI6q24t4wONeOzrj5) | 2:53 |
+| 39 | [Atlas Hands](https://open.spotify.com/track/3JEye8rsrvGdlrBvZUgNIL) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before The Snowstorm](https://open.spotify.com/album/6X4lsAafU2WXiThVoO9kF4) | 2:53 |
 | 40 | [Apple Pie](https://open.spotify.com/track/0zLnAV1lYEhVnKk3ITmCym) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 4:19 |
 | 41 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 |
 | 42 | [Deep End \(Paul’s in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 84 | [All The Tired Horses](https://open.spotify.com/track/5c16KjtfqaEDjYz1mWqUt0) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [All The Tired Horses](https://open.spotify.com/album/1IVK7m1FjVIy3YuzoAWgpR) | 3:04 |
 | 85 | [Coffee Cups and Cigarettes](https://open.spotify.com/track/5VDPZfalNAXmR2XVT7Ty1n) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Coffee Cups and Cigarettes](https://open.spotify.com/album/5cG58A87PVvfgppW0KqK0Q) | 3:27 |
 | 86 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 |
-| 87 | [You're Gonna Be A Daddy](https://open.spotify.com/track/0CH7gHUFZZTwRr482gmzj7) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [You At The Top Of The Driveway/You're Gonna Be A Daddy](https://open.spotify.com/album/4ZPRYPna0yIpEItgtKGmtr) | 3:39 |
+| 87 | [You're Gonna Be A Daddy](https://open.spotify.com/track/36ALNVgxdEj8fIio1RgTAM) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/5YjuYOxqBr5RPuXq6XB2VT) | 3:39 |
 | 88 | [Full Circle](https://open.spotify.com/track/2XOwaU5q0d1xBervr2uIts) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/02AD7LT0DrQSEkzhmvN7mJ) | 3:01 |
 | 89 | [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 |
 | 90 | [Maybe October](https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Won't Be Your Foe](https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV) | 2:44 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 110 | [In Plain Sight](https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [In Plain Sight](https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0) | 2:36 |
 | 111 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
 
-Snapshot ID: `MCxkMDQxYTM0YTBhNmNmZWNiMGJiYjQyNmZkZTY2MjYxODFlODk0OTky`
+Snapshot ID: `MCwxOWU4MTFjMTRiYTFkZDg0MDUwOWY5MGUxNWE2Yzk2MGIwZDFmYWUz`

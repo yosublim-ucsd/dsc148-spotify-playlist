@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover:  Channi Nattan, Inderpal Moga & AR Paisley
 
-75 songs - 3 hr 43 min
+76 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,12 +21,13 @@
 | [Be Careful](https://open.spotify.com/track/0dqsYMuzld5YZRM6jUToQq) | [Fastmoney RK](https://open.spotify.com/artist/48r4tbkl8jwyqxbqWsCkuh), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A) | [Be Careful](https://open.spotify.com/album/6nNopjEYxdELrzlNROKxnB) | 2:18 | 2023-03-18 | 2023-04-27 |
 | [Bold And Brave](https://open.spotify.com/track/2SFzf5hp9itASMzGykdVWZ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:30 | 2023-05-26 |  |
 | [Bulls Eye](https://open.spotify.com/track/7nMdJTQ4pxpu4Lhuldj9by) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Defcon 1](https://open.spotify.com/album/7rSDYG1PEOQP6aToDGxLNQ) | 2:28 | 2023-03-18 |  |
+| [Chhalla](https://open.spotify.com/track/449kMnMfoDIy55ELNelpWJ) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [MTV Hustle 03 Represent Episode 6](https://open.spotify.com/album/1IbAnKLZjXigERXiukqkiq) | 3:31 | 2023-11-08 |  |
 | [Clutch Baliye](https://open.spotify.com/track/3qWI4prgSotUOGR4BfOreW) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Gagan](https://open.spotify.com/artist/3kfNgIiPN2rdxVEQg6L3lW) | [Clutch Baliye](https://open.spotify.com/album/2a7G4hLUBoE9vnPOBeyb4C) | 2:32 | 2023-03-18 |  |
 | [DABBDA NAHI](https://open.spotify.com/track/6IXJSqbyXUf3yd2OIYxNVS) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Goldy Kingmeker](https://open.spotify.com/artist/3Py94OVGyh6M4Y5sNW5S7q) | [DABBDA NAHI](https://open.spotify.com/album/2o8fSGFa29bfbaCLr0af3b) | 3:49 | 2023-03-18 | 2023-04-27 |
 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2023-03-18 |  |
 | [Dance Kar](https://open.spotify.com/track/0sMzY83Awj6tdT09759Q2d) | [Bhai](https://open.spotify.com/artist/2NnN8kaWWfvuL35FmpNKtR) | [Dance Kar](https://open.spotify.com/album/3f058W1npXW3sV0luVaHDb) | 2:34 | 2023-03-18 | 2023-08-01 |
 | [Das Kon](https://open.spotify.com/track/1AbiSrDcgzcgQTFWhjwbwm) | [Davvy](https://open.spotify.com/artist/1vGOnQzBvNbdaaYBYzsU3z) | [Das Kon](https://open.spotify.com/album/1HJoUB62ImrVdJUmMG9s2U) | 2:03 | 2023-03-18 | 2023-04-27 |
-| [Dil vich chor](https://open.spotify.com/track/3SEjQj4ctOmLysGtlmCTUP) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Bhanu Dutta](https://open.spotify.com/artist/3egZ6i7sHHdlxxNElevw0C), [Yeda Anna](https://open.spotify.com/artist/4fCAkpPa7ipWAJdJveRQsd) | [Dil vich chor](https://open.spotify.com/album/78oKXjyOenCD0Yx7o34mVb) | 3:43 | 2023-10-26 |  |
+| [Dil vich chor](https://open.spotify.com/track/3SEjQj4ctOmLysGtlmCTUP) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Bhanu Dutta](https://open.spotify.com/artist/3egZ6i7sHHdlxxNElevw0C), [Yeda Anna](https://open.spotify.com/artist/4fCAkpPa7ipWAJdJveRQsd) | [Dil vich chor](https://open.spotify.com/album/78oKXjyOenCD0Yx7o34mVb) | 3:43 | 2023-10-26 | 2023-11-09 |
 | [Freestyle](https://open.spotify.com/track/3TbxASwEHPGuSWh7eZDjHB) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Mann Music](https://open.spotify.com/artist/7Itevk2MnbkjY8KqHyNhI7) | [Freestyle](https://open.spotify.com/album/3NQgwqRiApcEdpuwFyFNxV) | 2:30 | 2023-03-18 | 2023-10-12 |
 | [Friend Zone](https://open.spotify.com/track/35alWvmJmu77GoW3Y57cuT) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [Friend Zone](https://open.spotify.com/album/2WAsoRMaYtwcDwCofTMupE) | 2:41 | 2023-09-20 |  |
 | [FRIEND ZONE](https://open.spotify.com/track/3aTutDkFpZHOZ6roijWEjv) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [FRIEND ZONE](https://open.spotify.com/album/7lMOtrXJNjngIeAJqNE4WN) | 2:41 | 2023-03-18 | 2023-10-01 |

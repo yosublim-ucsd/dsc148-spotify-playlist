@@ -7475,6 +7475,24 @@
     },
     {
       "album": {
+        "name": "Ne",
+        "url": "https://open.spotify.com/album/3FxaatoFuQz99OLWgglHR4"
+      },
+      "artists": [
+        {
+          "name": "3markets[ ]",
+          "url": "https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148612,
+      "name": "Ne",
+      "url": "https://open.spotify.com/track/3KV4EBhSRCwd9b81pR7bBb"
+    },
+    {
+      "album": {
         "name": "Nectar.",
         "url": "https://open.spotify.com/album/1InAJl1AGu9H9hjt1lOtGe"
       },
@@ -14374,7 +14392,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 148612,
       "name": "\u306d\u3002",
       "url": "https://open.spotify.com/track/6xBUnxD7foU3vFtoDO7m38"

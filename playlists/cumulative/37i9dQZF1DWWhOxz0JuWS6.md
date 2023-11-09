@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-523 songs - 1 day 13 hr 51 min
+524 songs - 1 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Dear God \- Remastered 2001](https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:39 | 2020-12-08 |  |
 | [Devil Inside](https://open.spotify.com/track/0sTnQus7pGewDC0UHSyRDS) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick \(Remastered 2011\)](https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu) | 5:13 | 2020-12-08 | 2022-07-29 |
 | [Devil Inside](https://open.spotify.com/track/3m4OWJ3Ovl0pXwT79bw94N) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 5:14 | 2020-12-08 |  |
+| [Disintegration \- 2010 Remaster](https://open.spotify.com/track/0zY8t5dC1KQXcPUKByWMJM) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 8:19 | 2022-11-17 |  |
 | [Disintegration \- Remastered](https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 8:19 | 2020-12-08 | 2022-06-29 |
 | [Distant Early Warning](https://open.spotify.com/track/1bVnRjdVprR6ZoT67DBxML) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Grace Under Pressure](https://open.spotify.com/album/20RfdO7fta9qlXEWTFSWuT) | 4:56 | 2022-03-28 | 2022-07-29 |
 | [Do You Wanna Touch Me \(Oh Yeah\)](https://open.spotify.com/track/6Xprc4GuCejWA3BjU5knyw) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:46 | 2020-12-08 |  |
@@ -509,7 +510,7 @@
 | [Where Have All the Good Times Gone! \- 2015 Remaster](https://open.spotify.com/track/2IB6UYpGAFtP2H0YJCWpcw) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Diver Down \(Remastered\)](https://open.spotify.com/album/6Ft0JILsEo5ZP2ddjECznc) | 3:04 | 2022-03-28 | 2022-07-29 |
 | [White Wedding](https://open.spotify.com/track/0bvpSvOYt4KTfZIZJmyFOs) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se) | 8:26 | 2020-12-08 | 2022-07-29 |
 | [White Wedding \(Pts\. 1 & 2\) \- Shotgun Mix / Remastered 2001](https://open.spotify.com/track/4OYRJv1tcOEPe38Fwc7y1m) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei) | 8:25 | 2020-12-08 |  |
-| [Who Will You Run To](https://open.spotify.com/track/2G7ttyDosjWmunOYsNRm0C) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 4:06 | 2020-12-08 |  |
+| [Who Will You Run To](https://open.spotify.com/track/2G7ttyDosjWmunOYsNRm0C) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 4:06 | 2020-12-08 | 2023-11-09 |
 | [Why Worry?](https://open.spotify.com/track/3KRJx4PjRJBFPGFQD0p02H) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers In Arms](https://open.spotify.com/album/15J400U0rEpgE64UQgtvLs) | 8:29 | 2020-12-08 | 2022-07-28 |
 | [Wild Flower](https://open.spotify.com/track/75tCX7RI0eqD99yHMS8h4w) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Electric](https://open.spotify.com/album/40P0nhd8xLFpuWt6TmR4lB) | 3:37 | 2020-12-08 |  |
 | [Wild Flower](https://open.spotify.com/track/7kiYhGmh3BI9kAiuPJV4Ai) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Electric](https://open.spotify.com/album/2Ah76CkWPKnhhuwQT8DcHQ) | 3:38 | 2020-12-08 | 2022-07-29 |

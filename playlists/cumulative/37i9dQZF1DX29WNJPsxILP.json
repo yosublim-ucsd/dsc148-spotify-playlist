@@ -466,7 +466,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 120750,
       "name": "Desktop",
       "url": "https://open.spotify.com/track/1KXJ0DXzCA5ysq7i15ujKP"
@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "Mtv Hustle 03 Represent Episode 4",
+        "url": "https://open.spotify.com/album/2asL9qawShRF7ROBquzb6V"
+      },
+      "artists": [
+        {
+          "name": "Prince The Artist Singh",
+          "url": "https://open.spotify.com/artist/2kEU1NNJORHNJabD0tdO1E"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180459,
+      "name": "Dil De Lootere",
+      "url": "https://open.spotify.com/track/0qjMIcin9USqA40r5Nkfd0"
+    },
+    {
+      "album": {
         "name": "Dilli",
         "url": "https://open.spotify.com/album/5Uw4CQIzBTgd2PeGnlFnvc"
       },
@@ -526,6 +548,28 @@
       "duration_ms": 173932,
       "name": "Dilli",
       "url": "https://open.spotify.com/track/7yVqIPygOGA57KoWbwpGcc"
+    },
+    {
+      "album": {
+        "name": "Mtv Hustle 03 Represent Episode 1",
+        "url": "https://open.spotify.com/album/3Tlu6jzZC14qM7ywCYA1Hq"
+      },
+      "artists": [
+        {
+          "name": "Badal",
+          "url": "https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198117,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/4cbN08AlbNtanvMNhPVcPe"
     },
     {
       "album": {
@@ -1040,7 +1084,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 234000,
       "name": "Kami Na Bhai",
       "url": "https://open.spotify.com/track/6uJwgrnqGbvVghf9zRcGA2"
@@ -1278,6 +1322,32 @@
       "duration_ms": 398750,
       "name": "Machayenge 4",
       "url": "https://open.spotify.com/track/71VXewVKFs0HcwEom489zH"
+    },
+    {
+      "album": {
+        "name": "Mtv Hustle 03 Represent Episode 3",
+        "url": "https://open.spotify.com/album/5U4uel42AQiVrBGKmijYNA"
+      },
+      "artists": [
+        {
+          "name": "Burrah",
+          "url": "https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        },
+        {
+          "name": "Anurag Saikia",
+          "url": "https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237588,
+      "name": "Main Sochi Jaavan",
+      "url": "https://open.spotify.com/track/2s17eFnO0RayQYOitJj2xQ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 934543,
+  "num_followers": 934618,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDgwYzkzYWM2ZjJmYWQ0OGNiYjcwNDRhYzI3YjBlNGNlOGY5MzA0",
+  "snapshot_id": "MCw4NTg5NGVlN2FlNjBhMTQ2MWI3MGFhNDRiNmQ2MmJjOGE1ZWRlYjlh",
   "tracks": [
     {
       "added_at": "2023-10-27 20:10:59",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "Broken By Desire To Be Heavenly Sent",
-        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "Jericho",
-        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
-      },
-      "artists": [
-        {
-          "name": "Iniko",
-          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
         "name": "The Show",
         "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 203666,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
+      },
+      "artists": [
+        {
+          "name": "Iniko",
+          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "At Your Worst",
-        "url": "https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 167201,
-      "name": "At Your Worst",
-      "url": "https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
         "name": "Superache",
         "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 153096,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
+        "name": "At Your Worst",
+        "url": "https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 167201,
+      "name": "At Your Worst",
+      "url": "https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "All 4 Nothing",
-        "url": "https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 164688,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
         "name": "Chasing Stars (feat. James Bay)",
         "url": "https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 170457,
       "name": "Chasing Stars (feat. James Bay)",
       "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
+        "name": "All 4 Nothing",
+        "url": "https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 164688,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "Be The One (with Khalid)",
-        "url": "https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 200814,
-      "name": "Be The One (with Khalid)",
-      "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
         "name": "Here\u2019s Your Perfect (with salem ilese)",
         "url": "https://open.spotify.com/album/5GniWbyYasCTUi8UZO6JZA"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 158594,
       "name": "Here\u2019s Your Perfect (with salem ilese)",
       "url": "https://open.spotify.com/track/4Cw1fQBX3TaiZQwOAyddnj"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
+        "name": "Be The One (with Khalid)",
+        "url": "https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 200814,
+      "name": "Be The One (with Khalid)",
+      "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
+        "name": "No One Dies From Love",
+        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
         "name": "NOTED...EP",
         "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 167232,
       "name": "Never A Good Time",
       "url": "https://open.spotify.com/track/5l60Z7gXN9MhAyhdZdy3uA"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
-        "name": "No One Dies From Love",
-        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "When I Get There",
-        "url": "https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "When I Get There",
-      "url": "https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
         "name": "In The Meantime",
         "url": "https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 211837,
       "name": "Best Days",
       "url": "https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
+        "name": "When I Get There",
+        "url": "https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "When I Get There",
+      "url": "https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "Heart Wants What It Wants",
-        "url": "https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 182085,
-      "name": "Heart Wants What It Wants",
-      "url": "https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
         "name": "Butterflies (feat. FLETCHER)",
         "url": "https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 191250,
       "name": "Butterflies (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
+        "name": "Heart Wants What It Wants",
+        "url": "https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 182085,
+      "name": "Heart Wants What It Wants",
+      "url": "https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -2375,22 +2375,18 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "Chicken Little",
-        "url": "https://open.spotify.com/album/54Pdjd4Q1XSYJqt2dAdYko"
+        "name": "These Tears",
+        "url": "https://open.spotify.com/album/60fN3YpVgSWbGeJ1REe2zO"
       },
       "artists": [
         {
-          "name": "Spencer Sutherland",
-          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
         }
       ],
-      "duration_ms": 162014,
-      "name": "Chicken Little",
-      "url": "https://open.spotify.com/track/5NzrfsIkCCexhDh2R9A2cG"
+      "duration_ms": 169656,
+      "name": "These Tears",
+      "url": "https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -2411,34 +2407,22 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "Waking Up Dreaming",
-        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
+        "name": "Chicken Little",
+        "url": "https://open.spotify.com/album/54Pdjd4Q1XSYJqt2dAdYko"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 198802,
-      "name": "Waking Up Dreaming",
-      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
-        "name": "These Tears",
-        "url": "https://open.spotify.com/album/60fN3YpVgSWbGeJ1REe2zO"
-      },
-      "artists": [
+          "name": "Spencer Sutherland",
+          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
+        },
         {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
         }
       ],
-      "duration_ms": 169656,
-      "name": "These Tears",
-      "url": "https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX"
+      "duration_ms": 162014,
+      "name": "Chicken Little",
+      "url": "https://open.spotify.com/track/5NzrfsIkCCexhDh2R9A2cG"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -2455,6 +2439,22 @@
       "duration_ms": 181945,
       "name": "A LOT",
       "url": "https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
+        "name": "Waking Up Dreaming",
+        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 198802,
+      "name": "Waking Up Dreaming",
+      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -2523,6 +2523,22 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 147744,
+      "name": "BLENDER",
+      "url": "https://open.spotify.com/track/5bV5ro4rvBpgxo7nAeveiT"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
         "name": "Once",
         "url": "https://open.spotify.com/album/1m9aMm03qhLgwJb7SNFhS6"
       },
@@ -2535,6 +2551,22 @@
       "duration_ms": 184346,
       "name": "Once",
       "url": "https://open.spotify.com/track/5SYYZNpzQ42443RzIhqNWG"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
+        "name": "Like A Saviour",
+        "url": "https://open.spotify.com/album/0bAL4OMaZIgjmUH3j7q6kb"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 220403,
+      "name": "Like A Saviour",
+      "url": "https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -2559,22 +2591,6 @@
       "duration_ms": 183986,
       "name": "Closure (feat. BIRDY and Mishaal)",
       "url": "https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
-        "name": "Like A Saviour",
-        "url": "https://open.spotify.com/album/0bAL4OMaZIgjmUH3j7q6kb"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 220403,
-      "name": "Like A Saviour",
-      "url": "https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -2623,22 +2639,6 @@
       "duration_ms": 212649,
       "name": "Queen of New York City",
       "url": "https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 150180,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY"
     }
   ],
   "unique_name": "Work From Home",

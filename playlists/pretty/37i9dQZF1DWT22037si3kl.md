@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do trap\. Foto: Igão
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,422 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,655 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 44 | [LEGO](https://open.spotify.com/track/0irSVZzJLj4hYIDj9kyxTq) | [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o), [mavyrmldy](https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB) | [SHH](https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3) | 2:24 |
 | 45 | [Glamourosa](https://open.spotify.com/track/61J7CbEFiX6ziu4SijfwFO) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [PK Delas](https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Glamourosa](https://open.spotify.com/album/51r6acz5Y24A4J5JkKK6KA) | 2:46 |
 | 46 | [Minha História \(As Respostas\)](https://open.spotify.com/track/3KCozDZaYfEAved8Uofo1Y) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Apesar De Você \(Mixtape\)](https://open.spotify.com/album/4hEwNsdQMT8r1ue2X4KMDX) | 2:12 |
-| 47 | [JOIAS EM MIM](https://open.spotify.com/track/0SMlYWcymwHTETbvdhwafd) | [mavyrmldy](https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o) | [JOIAS EM MIM](https://open.spotify.com/album/79uW968vJawrpesZB3IV6Y) | 2:05 |
-| 48 | [Criminal Love](https://open.spotify.com/track/0lXSJqe80Mdr9Np56AwVoh) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [DaHype](https://open.spotify.com/artist/1Vqrbqh0krEgbroMuqp4aM), [Andy](https://open.spotify.com/artist/3IHfZEC6zpFC24Ox8T8Q3G) | [Criminal Love](https://open.spotify.com/album/2n3IYM5kthpXqiRHUX3UI3) | 2:57 |
+| 47 | [Criminal Love](https://open.spotify.com/track/0lXSJqe80Mdr9Np56AwVoh) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [DaHype](https://open.spotify.com/artist/1Vqrbqh0krEgbroMuqp4aM), [Andy](https://open.spotify.com/artist/3IHfZEC6zpFC24Ox8T8Q3G) | [Criminal Love](https://open.spotify.com/album/2n3IYM5kthpXqiRHUX3UI3) | 2:57 |
+| 48 | [JOIAS EM MIM](https://open.spotify.com/track/0SMlYWcymwHTETbvdhwafd) | [mavyrmldy](https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o) | [JOIAS EM MIM](https://open.spotify.com/album/79uW968vJawrpesZB3IV6Y) | 2:05 |
 | 49 | [Carro Filmado](https://open.spotify.com/track/40JOKn2wTQpXtYDsDl8hty) | [AK SAITO](https://open.spotify.com/artist/7g2naiPJNLtDQg6hesnj6K), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [Carro Filmado](https://open.spotify.com/album/6aK7y6lZboIDRF3dnU4KbF) | 1:48 |
 | 50 | [Processo](https://open.spotify.com/track/0LKvEb3dAuhIrlY2oMRVVg) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Ike Avila](https://open.spotify.com/artist/5lhE76UOmRgymO8trdoYCH), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 3:06 |
 
-Snapshot ID: `MCw0YzdmNGE5ZGMwMzQ0YTdlODA5NGZjNjVjMDQ2MmRhYTczYTI0ZDM4`
+Snapshot ID: `MCxlZmZhNTU1MDJjMjQyNWU5ODAyMjBkZWM2M2M0YzZmOTk4YWIzMWIw`

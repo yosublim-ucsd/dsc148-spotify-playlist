@@ -4,11 +4,11 @@
 
 > Welcome to the universe of complex rhythms and mesmerizing loops\. Cover: Elephant Gym
 
-134 songs - 9 hr 32 min
+135 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 | 2021-10-15 |  |
+| [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 | 2021-10-15 | 2023-11-09 |
 | [1\-800\-GHOST\-DANCE](https://open.spotify.com/track/135UPaNucXPVEKvwdRczfM) | [Hella](https://open.spotify.com/artist/1n861RIk6CTAWncgHR9UHg) | [Hold Your Horse Is](https://open.spotify.com/album/2RHAyIlKGMvJ8cHlK4zpXw) | 3:44 | 2021-10-15 | 2022-05-21 |
 | [14.12](https://open.spotify.com/track/344wbdXGPVYz3ADRrFUdW0) | [Pirámides](https://open.spotify.com/artist/5rADjgosAgoE3fWHogrbvu) | [Caíste al Suelo](https://open.spotify.com/album/5Eb2EeJRJXydzt7afPGowl) | 3:23 | 2021-10-15 | 2023-08-30 |
 | [Aftermath](https://open.spotify.com/track/60qzUWBoLLARs9B82yD346) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Time Will Die and Love Will Bury It](https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG) | 3:52 | 2023-08-09 |  |
@@ -43,6 +43,7 @@
 | [Cut Self Not](https://open.spotify.com/track/1aT2dSJgcxRs4q0sfB188o) | [Faraquet](https://open.spotify.com/artist/5OBJZtgvHxSJZYyQ8T9AoS) | [The View From This Tower](https://open.spotify.com/album/4fNXymFLxgp2wfBWunVaeN) | 2:54 | 2022-05-20 |  |
 | [D \- feat\. Tomotaka Tsuji](https://open.spotify.com/track/4VtDX2nzP5TY2CwiTenZKq) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [Tomotaka Tsuji](https://open.spotify.com/artist/4I4peCBKiAH2e9Lggqn7X2) | [Fraction](https://open.spotify.com/album/179Fhkk5OUsNFh46JDJ6vl) | 4:43 | 2021-10-15 |  |
 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 | 2021-10-15 |  |
+| [Deep Inside](https://open.spotify.com/track/1jDOObnZ18kkIqZAFIv1j1) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [STRATA \(Preview\)](https://open.spotify.com/album/6qppQkSHafK4PIhHEiwetT) | 4:09 | 2023-11-08 |  |
 | [Delaylay](https://open.spotify.com/track/1p274dHeFsOiiK4b2t7mKt) | [Stage Kids](https://open.spotify.com/artist/6PA6cOkr31WIibRMDZXZkU) | [Intra Mental](https://open.spotify.com/album/0Lx7i91oEDoGwzy4Bp07al) | 3:45 | 2021-10-15 |  |
 | [Dogs and Ducks](https://open.spotify.com/track/6XANNQ4GfMK8fubNkEcYzI) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [Dogs and Ducks](https://open.spotify.com/album/3Gn1YUG8g4AxV7PCeZquTz) | 2:41 | 2021-10-15 |  |
 | [Dogtooth](https://open.spotify.com/track/0C2DnMB8wfbAXa1GUjs3eU) | [Things Amazing](https://open.spotify.com/artist/3IKfDchQeepBjDeBvaDNQd) | [Dogtooth](https://open.spotify.com/album/7JIhOZy6mKt1hTk4D9qYHr) | 3:19 | 2021-10-15 | 2022-05-21 |

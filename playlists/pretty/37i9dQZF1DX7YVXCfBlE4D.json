@@ -1,12 +1,12 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 531928,
+  "num_followers": 532079,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDNlMjRmYWNmZTZmYmJmYjg2MzhmMmI2MjRiYjM5MDFhN2RiMTQ1",
+  "snapshot_id": "MCw2NmJmNmVmMDhkMTBmNTVmMzU3NGRkZjM3MGU2MTRjMjE4Mjc5NDIw",
   "tracks": [
     {
       "added_at": "2022-12-30 18:28:06",
@@ -327,18 +327,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+        "name": "Cuba: Bienvenido Granda",
+        "url": "https://open.spotify.com/album/3RxQinQEYdWBtAZkrMGfRt"
       },
       "artists": [
         {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+          "name": "Bienvenido Granda",
+          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
         }
       ],
-      "duration_ms": 174213,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
+      "duration_ms": 170811,
+      "name": "En la orilla del mar (Bolero version)",
+      "url": "https://open.spotify.com/track/4ok44lUrhQgJEoyQq5Ot3N"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -391,18 +391,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Cuba: Bienvenido Granda",
-        "url": "https://open.spotify.com/album/3RxQinQEYdWBtAZkrMGfRt"
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
       },
       "artists": [
         {
-          "name": "Bienvenido Granda",
-          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
         }
       ],
-      "duration_ms": 170811,
-      "name": "En la orilla del mar (Bolero version)",
-      "url": "https://open.spotify.com/track/4ok44lUrhQgJEoyQq5Ot3N"
+      "duration_ms": 174213,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
+        "name": "Una Rockola en el Cielo, Vol. 1",
+        "url": "https://open.spotify.com/album/5dcGv6iJb00Ba4YP3xMrRU"
+      },
+      "artists": [
+        {
+          "name": "Lucho Barrios",
+          "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "Me Enga\u00f1as Mujer",
+      "url": "https://open.spotify.com/track/5Sr5Jpy291i4d07B2tWruy"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
         "name": "Los \u00daltimos De Celio Gonz\u00e1lez",
         "url": "https://open.spotify.com/album/53o3CHCIpAvcNWBMVBSWV8"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 165080,
       "name": "Cien Mil Cosas",
       "url": "https://open.spotify.com/track/2r8h4sI14yTfjs8CVGNDP4"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
-        "name": "Una Rockola en el Cielo, Vol. 1",
-        "url": "https://open.spotify.com/album/5dcGv6iJb00Ba4YP3xMrRU"
-      },
-      "artists": [
-        {
-          "name": "Lucho Barrios",
-          "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "Me Enga\u00f1as Mujer",
-      "url": "https://open.spotify.com/track/5Sr5Jpy291i4d07B2tWruy"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Trio Delfines",
-        "url": "https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb"
-      },
-      "artists": [
-        {
-          "name": "Trio Delfines",
-          "url": "https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm"
-        }
-      ],
-      "duration_ms": 149269,
-      "name": "Abril En Portugal",
-      "url": "https://open.spotify.com/track/6OemD5ewXr2TnG9TQgKSoP"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Boleros Bonitos",
         "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 169773,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Trio Delfines",
+        "url": "https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb"
+      },
+      "artists": [
+        {
+          "name": "Trio Delfines",
+          "url": "https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm"
+        }
+      ],
+      "duration_ms": 149269,
+      "name": "Abril En Portugal",
+      "url": "https://open.spotify.com/track/6OemD5ewXr2TnG9TQgKSoP"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/5dTJ5OQ4fMlMXVyxXwIVpA"
-      },
-      "artists": [
-        {
-          "name": "Sonia Lopez",
-          "url": "https://open.spotify.com/artist/412SQ2pwIYKv7NgaOg1uty"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Voy Gritando por la Calle",
-      "url": "https://open.spotify.com/track/0q8qmkWirShRjnOB2Nc2Ae"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Cuando Te Duermas",
         "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 162927,
       "name": "Cuando Te Duermas",
       "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/5dTJ5OQ4fMlMXVyxXwIVpA"
+      },
+      "artists": [
+        {
+          "name": "Sonia Lopez",
+          "url": "https://open.spotify.com/artist/412SQ2pwIYKv7NgaOg1uty"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Voy Gritando por la Calle",
+      "url": "https://open.spotify.com/track/0q8qmkWirShRjnOB2Nc2Ae"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Luis Arcar\u00e1z y Gabriel Ru\u00edz",
         "url": "https://open.spotify.com/album/0tzk5gxyBoOlp14Id6TtnB"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 174306,
       "name": "Viajera",
       "url": "https://open.spotify.com/track/1eldeMIMAWefISKWWQLSGg"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
+        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        }
+      ],
+      "duration_ms": 294293,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/6T8G2zuDFwIV0z5TTx0apb"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
         "name": "Tan Enamorados",
         "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 164500,
       "name": "Llorando Estoy Por Ti",
       "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
-        "name": "Boleros Tr\u00edos, Vol. 1",
-        "url": "https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA"
-      },
-      "artists": [
-        {
-          "name": "Los 3 Paraguayos",
-          "url": "https://open.spotify.com/artist/4d2uAPKUyg1aMWXOnyPibN"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/2apgz0JhPuDcEslrWzbJ2F"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
+        "name": "Boleros Tr\u00edos, Vol. 1",
+        "url": "https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA"
+      },
+      "artists": [
+        {
+          "name": "Los 3 Paraguayos",
+          "url": "https://open.spotify.com/artist/4d2uAPKUyg1aMWXOnyPibN"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/2apgz0JhPuDcEslrWzbJ2F"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
         "name": "La Consentida",
         "url": "https://open.spotify.com/album/6DXALbPNgKm6YOUYeksMkL"
       },
@@ -1935,22 +1951,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "La Triunfadora Sonora Santanera",
-        "url": "https://open.spotify.com/album/354MRjHGrHN7podHW6Wyo6"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 195413,
-      "name": "Escarcha",
-      "url": "https://open.spotify.com/track/1ugGKlwldUL94oICQEf8oC"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Me Vuelves Loco",
         "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
       },
@@ -1963,6 +1963,22 @@
       "duration_ms": 146250,
       "name": "Me Vuelves Loco",
       "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "La Triunfadora Sonora Santanera",
+        "url": "https://open.spotify.com/album/354MRjHGrHN7podHW6Wyo6"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "Escarcha",
+      "url": "https://open.spotify.com/track/1ugGKlwldUL94oICQEf8oC"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1995,22 +2011,6 @@
       "duration_ms": 255133,
       "name": "So\u00f1ando Con Puerto Rico",
       "url": "https://open.spotify.com/track/5fJGJPo1HrdfZHgIYP1UTt"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        }
-      ],
-      "duration_ms": 294293,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/6T8G2zuDFwIV0z5TTx0apb"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2059,6 +2059,22 @@
       "duration_ms": 178200,
       "name": "Amor de Mis Amores",
       "url": "https://open.spotify.com/track/5LI6baS6dpvHBDlQUzn1S7"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "La Sitiera",
+      "url": "https://open.spotify.com/track/0RNoltWT0pfyfjAWgLgUa9"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2187,18 +2203,22 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw"
+        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
       },
       "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        },
         {
           "name": "Omara Portuondo",
           "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 237000,
-      "name": "La Sitiera",
-      "url": "https://open.spotify.com/track/0RNoltWT0pfyfjAWgLgUa9"
+      "duration_ms": 278640,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/7fEJ3BTR7OsNVeTylr3NsL"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2283,22 +2303,34 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
+        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw"
       },
       "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        },
         {
           "name": "Omara Portuondo",
           "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 278640,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/7fEJ3BTR7OsNVeTylr3NsL"
+      "duration_ms": 229426,
+      "name": "He Perdido Contigo",
+      "url": "https://open.spotify.com/track/18idOLCyv0OZaQdNkmJia4"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Martinez Gil",
+          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "La Novia Blanca",
+      "url": "https://open.spotify.com/track/2uzsKG7DmFeI5PsAVXdAqJ"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2343,6 +2375,22 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
+        "name": "Antolog\u00eda ...Boleros*",
+        "url": "https://open.spotify.com/album/4hrLWzDuaYiKlQeExrmjVP"
+      },
+      "artists": [
+        {
+          "name": "Martha Triana",
+          "url": "https://open.spotify.com/artist/2yrWpGwML5NXC2b69g64xK"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "No vuelvo contigo",
+      "url": "https://open.spotify.com/track/3mvTuk8kQW3sAP3kSXJov0"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
         "name": "Tesoros de Colecci\u00f3n - Las Estrellas de la Hora Azul",
         "url": "https://open.spotify.com/album/5BOUGL5DKea3WtnFxX93YP"
       },
@@ -2375,22 +2423,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Martinez Gil",
-          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "La Novia Blanca",
-      "url": "https://open.spotify.com/track/2uzsKG7DmFeI5PsAVXdAqJ"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Pimpollo",
         "url": "https://open.spotify.com/album/6aehEUwIFJ4SRYm8lJRBwt"
       },
@@ -2407,22 +2439,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Antolog\u00eda ...Boleros*",
-        "url": "https://open.spotify.com/album/4hrLWzDuaYiKlQeExrmjVP"
-      },
-      "artists": [
-        {
-          "name": "Martha Triana",
-          "url": "https://open.spotify.com/artist/2yrWpGwML5NXC2b69g64xK"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "No vuelvo contigo",
-      "url": "https://open.spotify.com/track/3mvTuk8kQW3sAP3kSXJov0"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Un Coraz\u00f3n y Otros \u00c9xitos Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/4NGs9444ruo2dE1XG1t3xJ"
       },
@@ -2435,22 +2451,6 @@
       "duration_ms": 197480,
       "name": "El Plebeyo",
       "url": "https://open.spotify.com/track/4UNgRsK7rnNcAHDMFsJt8M"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
-        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw"
-      },
-      "artists": [
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "He Perdido Contigo",
-      "url": "https://open.spotify.com/track/18idOLCyv0OZaQdNkmJia4"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2567,22 +2567,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Las Estrellas de la \u00c9poca Azul",
-        "url": "https://open.spotify.com/album/6olTcTdrs68Kz3NID8ExPM"
-      },
-      "artists": [
-        {
-          "name": "Fernando Fernandez",
-          "url": "https://open.spotify.com/artist/5c1i7WEYcHjAGxDQMYSWkS"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "Hip\u00f3crita",
-      "url": "https://open.spotify.com/track/0dnqeapHPn6cmyheDxXGXb"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Lo Mejor de Alfonso Ort\u00edz Tirado",
         "url": "https://open.spotify.com/album/3X2pCUdaiIe2PA6BZ5zuV0"
       },
@@ -2611,6 +2595,22 @@
       "duration_ms": 209040,
       "name": "Noche de Ronda",
       "url": "https://open.spotify.com/track/6cgRCSeDjACyJJA20Uzvdd"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Las Estrellas de la \u00c9poca Azul",
+        "url": "https://open.spotify.com/album/6olTcTdrs68Kz3NID8ExPM"
+      },
+      "artists": [
+        {
+          "name": "Fernando Fernandez",
+          "url": "https://open.spotify.com/artist/5c1i7WEYcHjAGxDQMYSWkS"
+        }
+      ],
+      "duration_ms": 168346,
+      "name": "Hip\u00f3crita",
+      "url": "https://open.spotify.com/track/0dnqeapHPn6cmyheDxXGXb"
     },
     {
       "added_at": "2022-12-30 18:28:06",

@@ -5518,7 +5518,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 200142,
       "name": "Hayyoda (From \"Jawan\")",
       "url": "https://open.spotify.com/track/6aQIGqAo9PxRKjUkhYtR6R"
@@ -8174,7 +8174,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 148615,
       "name": "Laado",
       "url": "https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n"
@@ -13361,6 +13361,32 @@
     },
     {
       "album": {
+        "name": "Satranga (From \"ANIMAL\")",
+        "url": "https://open.spotify.com/album/5mZX4EMwEyohNmVfLTDtXn"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreyas Puranik",
+          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
+        },
+        {
+          "name": "Siddharth - Garima",
+          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271169,
+      "name": "Satranga (From \"ANIMAL\")",
+      "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -13820,7 +13846,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"

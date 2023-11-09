@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: KING
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,839 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,129 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 99 | [Srivalli \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/track/7sVEoPc5ZUUQerRkgTypUZ) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Srivalli \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/album/0o80h7hMTz2wjzJSvckOcr) | 3:44 |
 | 100 | [Laung Laachi Title Track \(From "Laung Laachi"\)](https://open.spotify.com/track/31EqumBCMNGK3kt1sSL4gV) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF) | [Laung Laachi Title Track \(From "Laung Laachi"\)](https://open.spotify.com/album/396twavEqFLIB2wPhSOVsl) | 2:40 |
 
-Snapshot ID: `MCxmNjEzYmYwZTA0MDllOWM3OWZlMWUzNWRhZDI3MDliNDVjYzg1MTVj`
+Snapshot ID: `MCwwY2ViMzQ5NDE4OTI5MDQ5MTRhMTZiZDg4MjYzNDkwMGFkZDBmNmFj`

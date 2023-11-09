@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,760 likes - 40 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,923 likes - 40 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 25 | [Before I Let Go](https://open.spotify.com/track/6e9xnBJPs0y9omrSU3C3N4) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Great R&B](https://open.spotify.com/album/0ToSKqQnHTBeIVybrONR8V) | 3:56 |
 | 26 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/7KEguG3CDoestm50v6XET5) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Gold \- '80s Soul](https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr) | 3:54 |
 | 27 | [Casanova](https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb) | [Levert](https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS) | [The Best of Gerald Levert](https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82) | 4:22 |
-| 28 | [Nights Over Egypt](https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:39 |
-| 29 | [Oh Sheila](https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG) | [Ready For The World](https://open.spotify.com/artist/6h29EZDlc2NTvmCUe4yoXV) | [Ready For The World](https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg) | 4:00 |
+| 28 | [Oh Sheila](https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG) | [Ready For The World](https://open.spotify.com/artist/6h29EZDlc2NTvmCUe4yoXV) | [Ready For The World](https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg) | 4:00 |
+| 29 | [Nights Over Egypt](https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:39 |
 | 30 | [Square Biz](https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Best Of/20th Century](https://open.spotify.com/album/0kCD8uT94URPZcr2vZOhW7) | 6:23 |
 | 31 | [I'll Be Good](https://open.spotify.com/track/2SPNs07BKygbkbf48KNFEQ) | [Rene & Angela](https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y) | [Street Called Desire \(Expanded Edition\)](https://open.spotify.com/album/3pUaS5txjbE7K6LwdTTay5) | 5:21 |
 | 32 | [Jungle Love](https://open.spotify.com/track/0QUpBXTOdB4JJyTGFN6dH1) | [The Time](https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv) | [Ice Cream Castle](https://open.spotify.com/album/6U9fEF6ZUIDM8M03JNB9I4) | 5:33 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 39 | [Love Come Down](https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Love Come Down: The Best of Evelyn "Champagne" King](https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz) | 6:04 |
 | 40 | [Juicy Fruit](https://open.spotify.com/track/2hn1lerQkPC6fOI0QFjr8r) | [Mtume](https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:32 |
 
-Snapshot ID: `MCw5MGEzZjAxMzlkYmEwZGMzZDYzYzljYzlkNDJhYTJiYmYwZGMyMGIy`
+Snapshot ID: `MCxlYmFhZmM3Nzk1MTdjZDg2NDQxNWJkNDgwMGVmY2U5MDY1NTg2NWFi`

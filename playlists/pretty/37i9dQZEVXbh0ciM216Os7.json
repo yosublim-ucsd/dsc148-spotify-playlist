@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMTY0NjAsMDAwMDAwMDAwM2JhYmJjZWQ5M2Q0OWI5MWZiNGNhMTYxMWZjNDY4Mg==",
+  "snapshot_id": "MjgzMTY0NjAsMDAwMDAwMDA1OWJmNzZkMjMyMDliNTAzOGFlNzUyM2RjZDA0ZTNlZQ==",
   "tracks": [
     {
       "added_at": "2023-11-03 05:00:00",
@@ -91,26 +91,6 @@
     {
       "added_at": "2023-11-03 05:00:00",
       "album": {
-        "name": "LARP (feat. Gorillaz)",
-        "url": "https://open.spotify.com/album/3JgH82hJ7SwEnursNTfJkV"
-      },
-      "artists": [
-        {
-          "name": "Uriel Bromberg",
-          "url": "https://open.spotify.com/artist/4nVMdaAC2qe0LLrTvBgaKb"
-        },
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 251865,
-      "name": "LARP (feat. Gorillaz)",
-      "url": "https://open.spotify.com/track/23IDNOVwC0W7IDxu2VUU4e"
-    },
-    {
-      "added_at": "2023-11-03 05:00:00",
-      "album": {
         "name": "Demon Muppy",
         "url": "https://open.spotify.com/album/1fDOFgGZtEyXDIT3FMQtA4"
       },
@@ -139,22 +119,6 @@
     {
       "added_at": "2023-11-03 05:00:00",
       "album": {
-        "name": "The Messy EP",
-        "url": "https://open.spotify.com/album/08l5xqoj3C3BhosTQQh50h"
-      },
-      "artists": [
-        {
-          "name": "Margaux Beylier",
-          "url": "https://open.spotify.com/artist/4amsobhlIB2YEtsZAVbODH"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/2RFej8NhyS655ukYAFr0XN"
-    },
-    {
-      "added_at": "2023-11-03 05:00:00",
-      "album": {
         "name": "Paint the Town Red (Metal Version)",
         "url": "https://open.spotify.com/album/2Wc2oJUbt0mqO1RZUNQFxV"
       },
@@ -167,6 +131,22 @@
       "duration_ms": 275024,
       "name": "Paint the Town Red (Metal Version)",
       "url": "https://open.spotify.com/track/5XyeErJVvaXIO030a2abWA"
+    },
+    {
+      "added_at": "2023-11-03 05:00:00",
+      "album": {
+        "name": "The Messy EP",
+        "url": "https://open.spotify.com/album/08l5xqoj3C3BhosTQQh50h"
+      },
+      "artists": [
+        {
+          "name": "Margaux Beylier",
+          "url": "https://open.spotify.com/artist/4amsobhlIB2YEtsZAVbODH"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/2RFej8NhyS655ukYAFr0XN"
     },
     {
       "added_at": "2023-11-03 05:00:00",
@@ -191,22 +171,22 @@
     {
       "added_at": "2023-11-03 05:00:00",
       "album": {
-        "name": "BOBBY ON THE DIGITAL",
-        "url": "https://open.spotify.com/album/3emzO8yEOyIxkfpJbMmdAr"
+        "name": "I Left My Heart In Ladera",
+        "url": "https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN"
       },
       "artists": [
         {
-          "name": "YOKAY",
-          "url": "https://open.spotify.com/artist/1mqNtc8stMyp6fvbWvro2Y"
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         },
         {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
         }
       ],
-      "duration_ms": 150507,
-      "name": "BOBBY ON THE DIGITAL",
-      "url": "https://open.spotify.com/track/0ZyWUNPYd7kx09U40YX0BN"
+      "duration_ms": 135189,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM"
     },
     {
       "added_at": "2023-11-03 05:00:00",
@@ -231,22 +211,50 @@
     {
       "added_at": "2023-11-03 05:00:00",
       "album": {
-        "name": "I Left My Heart In Ladera",
-        "url": "https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN"
+        "name": "BOBBY ON THE DIGITAL",
+        "url": "https://open.spotify.com/album/3emzO8yEOyIxkfpJbMmdAr"
       },
       "artists": [
         {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+          "name": "YOKAY",
+          "url": "https://open.spotify.com/artist/1mqNtc8stMyp6fvbWvro2Y"
         },
         {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
-      "duration_ms": 135189,
-      "name": "Glad I Found You",
-      "url": "https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM"
+      "duration_ms": 150507,
+      "name": "BOBBY ON THE DIGITAL",
+      "url": "https://open.spotify.com/track/0ZyWUNPYd7kx09U40YX0BN"
+    },
+    {
+      "added_at": "2023-11-03 05:00:00",
+      "album": {
+        "name": "Tech N9ne Presents: NNUTTHOWZE - Siqnaling The Siqly",
+        "url": "https://open.spotify.com/album/6vjunWiWVIjEkOeXJIZALU"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Zkeircrow",
+          "url": "https://open.spotify.com/artist/0EBQs3FuhHrwUixSsKI2Dn"
+        },
+        {
+          "name": "Phlaque The Grimstress",
+          "url": "https://open.spotify.com/artist/4uUHXzdIW2IXKy362FjGMB"
+        },
+        {
+          "name": "X-Raided",
+          "url": "https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No"
+        }
+      ],
+      "duration_ms": 228088,
+      "name": "Wanna See Me Fall",
+      "url": "https://open.spotify.com/track/2RL7SOWWbKW9o5pdcbN4q0"
     },
     {
       "added_at": "2023-11-03 05:00:00",
@@ -267,6 +275,34 @@
       "duration_ms": 120032,
       "name": "Diabolical Swordsmen",
       "url": "https://open.spotify.com/track/5Y7hrzpVZ8TLlIremdAMjI"
+    },
+    {
+      "added_at": "2023-11-03 05:00:00",
+      "album": {
+        "name": "P.H.O.N.C",
+        "url": "https://open.spotify.com/album/786QKYKy8ISr3YOmrffEah"
+      },
+      "artists": [
+        {
+          "name": "Metacaum",
+          "url": "https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "Jason Greenhart",
+          "url": "https://open.spotify.com/artist/0iLyV4LIHbZMNmuXP6kCKG"
+        },
+        {
+          "name": "ONIONZ BEATZ",
+          "url": "https://open.spotify.com/artist/5skjLaINJfBnJESjMLuQwM"
+        }
+      ],
+      "duration_ms": 192966,
+      "name": "P.H.O.N.C",
+      "url": "https://open.spotify.com/track/5iHmsTWDE0giImCe85B8Bw"
     },
     {
       "added_at": "2023-11-03 05:00:00",
@@ -323,62 +359,6 @@
     {
       "added_at": "2023-11-03 05:00:00",
       "album": {
-        "name": "P.H.O.N.C",
-        "url": "https://open.spotify.com/album/786QKYKy8ISr3YOmrffEah"
-      },
-      "artists": [
-        {
-          "name": "Metacaum",
-          "url": "https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm"
-        },
-        {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
-        },
-        {
-          "name": "Jason Greenhart",
-          "url": "https://open.spotify.com/artist/0iLyV4LIHbZMNmuXP6kCKG"
-        },
-        {
-          "name": "ONIONZ BEATZ",
-          "url": "https://open.spotify.com/artist/5skjLaINJfBnJESjMLuQwM"
-        }
-      ],
-      "duration_ms": 192966,
-      "name": "P.H.O.N.C",
-      "url": "https://open.spotify.com/track/5iHmsTWDE0giImCe85B8Bw"
-    },
-    {
-      "added_at": "2023-11-03 05:00:00",
-      "album": {
-        "name": "Tech N9ne Presents: NNUTTHOWZE - Siqnaling The Siqly",
-        "url": "https://open.spotify.com/album/6vjunWiWVIjEkOeXJIZALU"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Zkeircrow",
-          "url": "https://open.spotify.com/artist/0EBQs3FuhHrwUixSsKI2Dn"
-        },
-        {
-          "name": "Phlaque The Grimstress",
-          "url": "https://open.spotify.com/artist/4uUHXzdIW2IXKy362FjGMB"
-        },
-        {
-          "name": "X-Raided",
-          "url": "https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No"
-        }
-      ],
-      "duration_ms": 228088,
-      "name": "Wanna See Me Fall",
-      "url": "https://open.spotify.com/track/2RL7SOWWbKW9o5pdcbN4q0"
-    },
-    {
-      "added_at": "2023-11-03 05:00:00",
-      "album": {
         "name": "Kaamos (Live In Helsinki St. John's Church)",
         "url": "https://open.spotify.com/album/5uOJwEGPdY1jeEsW61ugSr"
       },
@@ -391,26 +371,6 @@
       "duration_ms": 260200,
       "name": "Kaamos - Live In Helsinki St. John's Church",
       "url": "https://open.spotify.com/track/7tHc7q634GxvivLKJfMcmY"
-    },
-    {
-      "added_at": "2023-11-03 05:00:00",
-      "album": {
-        "name": "Dreamteam",
-        "url": "https://open.spotify.com/album/15YushxelouREDwAN3cdV1"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 181312,
-      "name": "Dreamteam",
-      "url": "https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL"
     },
     {
       "added_at": "2023-11-03 05:00:00",
@@ -431,6 +391,26 @@
       "duration_ms": 215682,
       "name": "Only the Young - Steve Perry & Bryce Miller Remix",
       "url": "https://open.spotify.com/track/4qwEhHH34RHH1B16vXj93L"
+    },
+    {
+      "added_at": "2023-11-03 05:00:00",
+      "album": {
+        "name": "Dreamteam",
+        "url": "https://open.spotify.com/album/15YushxelouREDwAN3cdV1"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "Dreamteam",
+      "url": "https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL"
     },
     {
       "added_at": "2023-11-03 05:00:00",
@@ -474,11 +454,15 @@
         {
           "name": "Keith Rice",
           "url": "https://open.spotify.com/artist/3ZR45l2gVP68kMaKxREjmu"
+        },
+        {
+          "name": "Ayun Bassa",
+          "url": "https://open.spotify.com/artist/1A06CtA0JeIuUw1zXkSsOy"
         }
       ],
-      "duration_ms": 122857,
-      "name": "New Years",
-      "url": "https://open.spotify.com/track/14FMsS40jodaZepDEXs5T1"
+      "duration_ms": 182068,
+      "name": "World",
+      "url": "https://open.spotify.com/track/7jGI5qvcVypacai13L88DT"
     },
     {
       "added_at": "2023-11-03 05:00:00",
@@ -551,22 +535,6 @@
     {
       "added_at": "2023-11-03 05:00:00",
       "album": {
-        "name": "NFL",
-        "url": "https://open.spotify.com/album/6rsIciAfxrSApDOpNXZSll"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 185678,
-      "name": "NFL",
-      "url": "https://open.spotify.com/track/1X1dy95bo2OirAmMkBIwkS"
-    },
-    {
-      "added_at": "2023-11-03 05:00:00",
-      "album": {
         "name": "Te Mata",
         "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
       },
@@ -599,6 +567,22 @@
       "duration_ms": 244271,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
+    },
+    {
+      "added_at": "2023-11-03 05:00:00",
+      "album": {
+        "name": "NFL",
+        "url": "https://open.spotify.com/album/6rsIciAfxrSApDOpNXZSll"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 185678,
+      "name": "NFL",
+      "url": "https://open.spotify.com/track/1X1dy95bo2OirAmMkBIwkS"
     },
     {
       "added_at": "2023-11-03 05:00:00",

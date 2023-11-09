@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Judas Priest
 
-763 songs - 2 day 8 hr 35 min
+764 songs - 2 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Greedy Bastards](https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Greedy Bastards](https://open.spotify.com/album/320YsD7ccYfPwARI17GgMw) | 4:12 | 2023-01-27 | 2023-04-14 |
 | [Green Machine](https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Blues for the Red Sun](https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f) | 3:37 | 2022-08-19 |  |
 | [Grooming My Replacement](https://open.spotify.com/track/07QE1QxgiKnWwVOtTgf4K4) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 2:54 | 2023-10-27 |  |
-| [Guess Who's Back](https://open.spotify.com/track/1ryULElwveye7LHLbLQPeO) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Guess Who's Back](https://open.spotify.com/album/4bfZCNIZkasFV5Aa1LurE0) | 2:41 | 2023-05-26 |  |
+| [Guess Who's Back](https://open.spotify.com/track/1ryULElwveye7LHLbLQPeO) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Guess Who's Back](https://open.spotify.com/album/4bfZCNIZkasFV5Aa1LurE0) | 2:41 | 2023-05-26 | 2023-11-09 |
 | [Guiding Light](https://open.spotify.com/track/580BXGwESv2tV5K7YR9GI0) | [Veonity](https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH) | [Guiding Light](https://open.spotify.com/album/7D7bLUMdrReUVeavqhMlkX) | 6:00 | 2022-01-14 | 2022-04-20 |
 | [Gunfire](https://open.spotify.com/track/0fMuzQi38wXOcW4lVLJYpW) | [Axel Rudi Pell](https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl) | [Gunfire](https://open.spotify.com/album/4OIbjD6PkHuR2kwIkl6Bsk) | 5:20 | 2021-12-17 | 2022-07-06 |
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2022-08-19 |  |
@@ -317,7 +317,7 @@
 | [I Want Out](https://open.spotify.com/track/5ObemyuL5dhT67hyz1iWlA) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pts\. I & II \(Deluxe Edition\)](https://open.spotify.com/album/6YpYaGFJFed2XKq26Qthz5) | 4:40 | 2023-10-27 |  |
 | [I Want Out](https://open.spotify.com/track/5VZwMq6yaFb04PCTfdNY3K) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pt\. II \(Expanded Edition\)](https://open.spotify.com/album/0C00ibrtAGw59osJUg5qOO) | 4:40 | 2021-12-17 | 2023-11-05 |
 | [I Will Be Heard](https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Perseverance](https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG) | 2:58 | 2022-08-19 |  |
-| [I'll Be Your Hero \- Single Edit](https://open.spotify.com/track/5dwI4Uips5iK1Q7q0vAcHU) | [Rhapsody](https://open.spotify.com/artist/0zQfrabOFYf36Ikb6PXcCY) | [I'll Be Your Hero](https://open.spotify.com/album/5smEbdNLzzhh7WdBmW5rtJ) | 4:12 | 2021-12-17 |  |
+| [I'll Be Your Hero \- Single Edit](https://open.spotify.com/track/5dwI4Uips5iK1Q7q0vAcHU) | [Rhapsody of Fire](https://open.spotify.com/artist/0zQfrabOFYf36Ikb6PXcCY) | [I'll Be Your Hero](https://open.spotify.com/album/5smEbdNLzzhh7WdBmW5rtJ) | 4:12 | 2021-12-17 |  |
 | [Icon of Sin](https://open.spotify.com/track/5g64OWLbV0DFtLGCxOFmAo) | [Icon of Sin](https://open.spotify.com/artist/1Pr3Zk2s1bZpX2WVkKdmkP) | [Icon of Sin](https://open.spotify.com/album/5NYtZtQ2T687s5qhLTOlSa) | 5:47 | 2021-12-17 | 2022-07-04 |
 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-04-14 |  |
 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 | 2023-04-17 |
@@ -439,6 +439,7 @@
 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:23 | 2022-07-29 | 2023-04-22 |
 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 | 2022-08-19 |  |
 | [No One Like You \- 2015 Remaster](https://open.spotify.com/track/0hLQWHwB6GZlkASpS7DkdW) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/5FdpusvFzKwUmygqmgDzKG) | 3:58 | 2023-05-26 | 2023-11-05 |
+| [No Pain No Gain](https://open.spotify.com/track/6Mz38ZM9eEqQ3QV1duTXyb) | [Austrian Death Machine](https://open.spotify.com/artist/0oxUux1OSwZpIpSK0JbqSS), [Craig Golias](https://open.spotify.com/artist/1phweDlzfACpfdwXWZDkKj), [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK) | [No Pain No Gain](https://open.spotify.com/album/4IyzMlNKvYJt7tgTGbE66V) | 4:06 | 2023-10-27 |  |
 | [No Prayer At Midnight](https://open.spotify.com/track/0VEYwIJluTQyPwq5y86EeZ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [No Prayer At Midnight](https://open.spotify.com/album/32KYjm5c695xOIy3yL33AT) | 3:41 | 2023-03-10 |  |
 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-22 |  |
 | [Nobody's Fool](https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 4:47 | 2022-08-19 |  |

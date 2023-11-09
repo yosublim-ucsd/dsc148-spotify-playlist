@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Kali Uchis en portada.",
-  "num_followers": 533091,
+  "num_followers": 533155,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjBjMmRiY2YxMjhhOTUxMzllMjY5MTUxZGU5ZDk4OGRhYzBiYTM1",
+  "snapshot_id": "MCw2MzIxMWRjOTJmM2I0ZWY1MDQzZDZhNDFjYmVjMzg5OWNmYWM2M2Jk",
   "tracks": [
     {
       "added_at": "2023-10-21 00:43:02",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
-        "name": "Para No Romperme",
-        "url": "https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 171413,
-      "name": "Para No Romperme",
-      "url": "https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
         "name": "Saudade (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 296671,
       "name": "Saudade - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
+        "name": "Para No Romperme",
+        "url": "https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 171413,
+      "name": "Para No Romperme",
+      "url": "https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
-        "name": "Armando Manzanero Duetos 2",
-        "url": "https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero Duetos 2",
-          "url": "https://open.spotify.com/artist/3ynESLbVr0i6wxyRMMF08A"
-        }
-      ],
-      "duration_ms": 192666,
-      "name": "Nada personal (A dueto con Ana Torroja)",
-      "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
         "name": "Tengo",
         "url": "https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 189320,
       "name": "La Copa Rota",
       "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
+        "name": "Armando Manzanero Duetos 2",
+        "url": "https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero Duetos 2",
+          "url": "https://open.spotify.com/artist/3ynESLbVr0i6wxyRMMF08A"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Nada personal (A dueto con Ana Torroja)",
+      "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
         "name": "Homenaje A Las Grandes Canciones, Vol. II",
         "url": "https://open.spotify.com/album/2A03ukPh044CVuW70bSKeW"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 206520,
       "name": "Te Ofrezco",
       "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
-        "name": "Manzanero presenta a Fabiola Finkmann",
-        "url": "https://open.spotify.com/album/65smolEH2NZeq5XztHRbxP"
-      },
-      "artists": [
-        {
-          "name": "Fabiola Finkmann",
-          "url": "https://open.spotify.com/artist/4fU1U7dEb19U1HlP9TyUtn"
-        }
-      ],
-      "duration_ms": 222593,
-      "name": "Punto de partida",
-      "url": "https://open.spotify.com/track/77et43mdYaaaqBu1r4sEpE"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
         "name": "Amar Y Vivir (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
         "url": "https://open.spotify.com/album/37552bcHW2vZ5tGBvs4rey"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 182733,
       "name": "Amar Y Vivir - En Vivo",
       "url": "https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
+        "name": "Manzanero presenta a Fabiola Finkmann",
+        "url": "https://open.spotify.com/album/65smolEH2NZeq5XztHRbxP"
+      },
+      "artists": [
+        {
+          "name": "Fabiola Finkmann",
+          "url": "https://open.spotify.com/artist/4fU1U7dEb19U1HlP9TyUtn"
+        }
+      ],
+      "duration_ms": 222593,
+      "name": "Punto de partida",
+      "url": "https://open.spotify.com/track/77et43mdYaaaqBu1r4sEpE"
     },
     {
       "added_at": "2023-10-21 00:43:02",

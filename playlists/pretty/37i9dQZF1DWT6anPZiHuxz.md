@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,478 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,625 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [This Is Me \- Dave Audé Remix; from "The Greatest Showman"](https://open.spotify.com/track/1NNhZKNrg8WVmU6Ok8TDtO) | [Keala Settle](https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS), [The Greatest Showman Ensemble](https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [This Is Me \(Dave Audé Remix; from "The Greatest Showman"\)](https://open.spotify.com/album/1bbOecKvywdyRfSBxKbbCO) | 3:36 |
 | 50 | [Close To Me \(with Diplo\) \(feat\. Swae Lee\) \- Felix Cartal Remix](https://open.spotify.com/track/5mYNWSc1AE7pWS3Ax4e8Dl) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Close To Me \(Remixes\)](https://open.spotify.com/album/2tRRqWb7Zfodd3bO0cTDwc) | 3:43 |
 
-Snapshot ID: `MCxlZWI5NDViZjAzMWIxNDk2OWNmZGRmM2MxZDM0N2M2ZGNiZWFiZDg0`
+Snapshot ID: `MCxiZWE5MTEwMDMwZTU2ODM3ZjgzNDJkZjRiMmJmM2Q0NDNjYjgyZjE5`

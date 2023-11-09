@@ -4,7 +4,7 @@
 
 > Classic hits from the 50s and 60s.
 
-372 songs - 16 hr 51 min
+373 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Crying](https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI) | 2:46 | 2022-03-07 |  |
 | [Crying in the Rain](https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Golden Hits of The Everly Brothers](https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD) | 2:00 | 2020-12-16 | 2022-10-11 |
 | [Cupid](https://open.spotify.com/track/5Iev69m1Jnf7oc79VvPjpd) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best of Sam Cooke](https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8) | 2:38 | 2023-03-04 |  |
-| [Da Doo Ron Ron \(When He Walked Me Home\)](https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:20 | 2022-03-07 |  |
+| [Da Doo Ron Ron \(When He Walked Me Home\)](https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:20 | 2022-03-07 | 2023-11-09 |
 | [Dance to the Music](https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:59 | 2020-12-16 |  |
 | [Dancing In The Street \- Stereo](https://open.spotify.com/track/5wJcMwXuy1x6EatowWOxha) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [The Definitive Collection](https://open.spotify.com/album/01RvfxmmHb3cmgYHv8ghip) | 2:39 | 2020-12-16 | 2022-11-13 |
 | [Day\-O](https://open.spotify.com/track/3wBEiVtKNaLBRImRtlZRbZ) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [All Time Greatest Hits Volume 1](https://open.spotify.com/album/7fi394FGU8dioWCI02DqXr) | 3:03 | 2022-03-07 | 2022-04-20 |
@@ -208,6 +208,7 @@
 | [Mr\. Sandman](https://open.spotify.com/track/1T3tP6HvCgDF8ewpRqwM1e) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl) | 2:23 | 2022-03-07 | 2023-11-07 |
 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 | 2020-12-16 |  |
 | [Mustang Sally](https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Wicked Pickett](https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC) | 3:07 | 2022-10-11 |  |
+| [My Baby Just Cares for Me \(2013 \- Remaster\)](https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:35 | 2023-08-03 |  |
 | [My Baby Just Cares for Me \- 2013 Remastered Version](https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 3:35 | 2022-10-11 | 2023-11-04 |
 | [My Boyfriend's Back](https://open.spotify.com/track/5NiFSI8iIDtVm1NCwdYrHS) | [The Angels](https://open.spotify.com/artist/6YtJeguOS8yoMkmLLnzU7q) | [My Boyfriend's Back](https://open.spotify.com/album/42pUInY6KQcFg0L6ySYZsa) | 2:16 | 2020-12-16 | 2022-07-29 |
 | [My Cherie Amour](https://open.spotify.com/track/5OaBN89f3MvgZfl3k2CR58) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Best Of/20th Century](https://open.spotify.com/album/5nwBtLyOuY8tNUxH4cRuwH) | 2:51 | 2020-12-16 | 2022-06-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Dj Black Spygo, Djodje and Chelsea Dinorath.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,509 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,586 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 49 | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Ary](https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST) | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw) | 3:20 |
 | 50 | [Viagem](https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a) | [Damásio Brothers](https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Ney Chiqui](https://open.spotify.com/artist/56hCHYdCpPCLU1fzXAIObp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Viagem](https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO) | 3:57 |
 | 51 | [Safadeza](https://open.spotify.com/track/4py0bZESzc62qRBlwSWFrZ) | [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Safadeza](https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB) | 3:09 |
-| 52 | [Vais Me Perder](https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Vais Me Perder](https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx) | 3:41 |
-| 53 | [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 |
-| 54 | [Preparado](https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Klasszik](https://open.spotify.com/artist/4eHjLzgTRHd3OOmNaMkBRD) | [Preparado](https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf) | 4:39 |
-| 55 | [Felicidade](https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Felicidade](https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i) | 2:46 |
+| 52 | [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 |
+| 53 | [Vais Me Perder](https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Vais Me Perder](https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx) | 3:41 |
+| 54 | [Felicidade](https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Felicidade](https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i) | 2:46 |
+| 55 | [Preparado](https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Klasszik](https://open.spotify.com/artist/4eHjLzgTRHd3OOmNaMkBRD) | [Preparado](https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf) | 4:39 |
 | 56 | [Desculpa](https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H) | 3:32 |
 | 57 | [Já Te Conheço \(feat\. Bruna Tatiana\) \- Remix](https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Bruna Tatiana](https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H) | [Já Te Conheço \(feat\. Bruna Tatiana\) \[Remix\]](https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n) | 3:57 |
 | 58 | [Benka Benka](https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU) | [Benka Benka](https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 99 | [Sentimento](https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Filho do Zua](https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm) | [Sentimento](https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3) | 3:12 |
 | 100 | [Belissima](https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP) | [Charbel](https://open.spotify.com/artist/0vqtKHzprbtQCJOGCIOA6B) | [Apaxonado](https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb) | 4:51 |
 
-Snapshot ID: `MCw2NjYzNzRhN2RhMTRjNGMxN2E1OGRlYmRlMzk3NzZhYmM4OTEyMmQz`
+Snapshot ID: `MCwyZGEzMGIyYjFmNDk4ZTlhYWQzMWMxNzc4MWU5YjZiYjVkMjg1NmQ3`

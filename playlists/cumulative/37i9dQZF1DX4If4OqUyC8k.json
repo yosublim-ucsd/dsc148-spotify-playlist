@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Earth Songs",
+        "url": "https://open.spotify.com/album/6NAPijO8VmR4BTn0Aw39gq"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273866,
+      "name": "Earth Day Every Day (Celebrate)",
+      "url": "https://open.spotify.com/track/4Ra038eR3Jknu2ZQaBgXaY"
+    },
+    {
+      "album": {
         "name": "Here Comes Science",
         "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
       },
@@ -591,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Poems, Prayers and Promises",
+        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311893,
+      "name": "Sunshine On My Shoulders",
+      "url": "https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND"
+    },
+    {
+      "album": {
         "name": "Sing-A-Longs & Lullabies For The Film Curious George",
         "url": "https://open.spotify.com/album/0kYv61g7n6ZPe2TVaIBeeJ"
       },
@@ -732,6 +768,42 @@
       "duration_ms": 78878,
       "name": "This Is the Savanna",
       "url": "https://open.spotify.com/track/6N1sYOiZBbRVpSWOd3bbLp"
+    },
+    {
+      "album": {
+        "name": "This Land is Your Land: The Asch Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/6Q75uix22iebN7q6WwNLDt"
+      },
+      "artists": [
+        {
+          "name": "Woody Guthrie",
+          "url": "https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139693,
+      "name": "This Land is Your Land",
+      "url": "https://open.spotify.com/track/3ZjrfGcb3A2PMGA1vRNgSk"
+    },
+    {
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139226,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
     },
     {
       "album": {

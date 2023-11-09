@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ?si=PFFIe7I2RSWQfzn29t12Tw">Paul Tomisin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,551 likes - 110 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,599 likes - 110 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 109 | [Surrender](https://open.spotify.com/track/1FP3EFM7Ktu4THDKl1HxP5) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Surrender](https://open.spotify.com/album/7gWyosA6T2BtuHil6La76X) | 3:27 |
 | 110 | [What He Says](https://open.spotify.com/track/6K5t19OfWRrRTsvBk5u8Od) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [What He Says](https://open.spotify.com/album/1jJ1jrDmtORosDh9Uc3XY9) | 2:11 |
 
-Snapshot ID: `MCxhYjZjZTNkYjA1MTkxOTA1NDc3ZWY4YjM5ODdmZmFlNTE5ZjZlNmYy`
+Snapshot ID: `MCxmZDNkNmE0NDkwZjYzMzdiOTY0MDhlYWFiN2VkZWYyYzAyODNjZTY1`

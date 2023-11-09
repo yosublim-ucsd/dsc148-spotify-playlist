@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > The hottest tracks you want to hear all in one playlist! Cover: Taylor Swift
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 81,969 likes - 177 songs - 9 hr 4 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 81,966 likes - 177 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

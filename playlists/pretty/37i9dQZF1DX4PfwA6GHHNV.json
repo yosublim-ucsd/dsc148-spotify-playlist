@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 12760,
+  "num_followers": 12806,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjUwOTFjNjUwZmM5MWViMjY2NjJiZDM3NTUyMzA5ZGZhZGFjMTE0",
+  "snapshot_id": "MCwwYTM4NjBmMzg5MWUzMzcyZmJlZmI3NWY1MWQzM2RiZGM2OWEzZTFk",
   "tracks": [
     {
       "added_at": "2023-11-03 14:45:03",
@@ -71,6 +71,26 @@
       "duration_ms": 194400,
       "name": "AluSina",
       "url": "https://open.spotify.com/track/1C7fLnGDAGlJZhCwSNbeKS"
+    },
+    {
+      "added_at": "2023-11-03 14:45:03",
+      "album": {
+        "name": "Ele Me Falou",
+        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "Ele Me Falou",
+      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
     },
     {
       "added_at": "2023-11-03 14:45:03",
@@ -143,26 +163,6 @@
       "duration_ms": 158109,
       "name": "Do Mesmo Lado",
       "url": "https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u"
-    },
-    {
-      "added_at": "2023-11-03 14:45:03",
-      "album": {
-        "name": "Ele Me Falou",
-        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 209268,
-      "name": "Ele Me Falou",
-      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
     },
     {
       "added_at": "2023-11-03 14:45:03",
@@ -251,6 +251,34 @@
     {
       "added_at": "2023-11-03 14:45:03",
       "album": {
+        "name": "Causa",
+        "url": "https://open.spotify.com/album/6dLaJeU1l2LzBNWZV4ul2C"
+      },
+      "artists": [
+        {
+          "name": "Don",
+          "url": "https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+        },
+        {
+          "name": "Pascon",
+          "url": "https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi"
+        }
+      ],
+      "duration_ms": 127627,
+      "name": "Causa",
+      "url": "https://open.spotify.com/track/5RlkuQxjxRw6oASf7wTvBC"
+    },
+    {
+      "added_at": "2023-11-03 14:45:03",
+      "album": {
         "name": "A Volta Do Astro-Rei",
         "url": "https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p"
       },
@@ -311,34 +339,6 @@
       "duration_ms": 138666,
       "name": "Abelha",
       "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
-    },
-    {
-      "added_at": "2023-11-03 14:45:03",
-      "album": {
-        "name": "Causa",
-        "url": "https://open.spotify.com/album/6dLaJeU1l2LzBNWZV4ul2C"
-      },
-      "artists": [
-        {
-          "name": "Don",
-          "url": "https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA"
-        },
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        },
-        {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
-        },
-        {
-          "name": "Pascon",
-          "url": "https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi"
-        }
-      ],
-      "duration_ms": 127627,
-      "name": "Causa",
-      "url": "https://open.spotify.com/track/5RlkuQxjxRw6oASf7wTvBC"
     },
     {
       "added_at": "2023-11-03 14:45:03",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-11-03 14:45:03",
       "album": {
+        "name": "Deixa Falar",
+        "url": "https://open.spotify.com/album/3dHxbFlLTseVIyhHyusGqu"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Deixa Falar",
+      "url": "https://open.spotify.com/track/0FiYoFSKLu3UgbmfR6i0Ph"
+    },
+    {
+      "added_at": "2023-11-03 14:45:03",
+      "album": {
         "name": "Perigo",
         "url": "https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 160000,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/5hFhHT6WwgT6u7uiX3zlFQ"
-    },
-    {
-      "added_at": "2023-11-03 14:45:03",
-      "album": {
-        "name": "Deixa Falar",
-        "url": "https://open.spotify.com/album/3dHxbFlLTseVIyhHyusGqu"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Deixa Falar",
-      "url": "https://open.spotify.com/track/0FiYoFSKLu3UgbmfR6i0Ph"
     },
     {
       "added_at": "2023-11-03 14:45:03",

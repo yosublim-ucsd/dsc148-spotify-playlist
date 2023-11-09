@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sanathan Shree Krishnan
 
-160 songs - 9 hr 7 min
+161 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Black Money](https://open.spotify.com/track/6uCfBP1TOwqBIbqKPvDzT1) | [Bshaa](https://open.spotify.com/artist/6irJTMyYRu8hCEuOOsPRMh) | [Black Money](https://open.spotify.com/album/2mwG5EsqZDjVSoZ0Hc4GsE) | 2:58 | 2023-09-04 |  |
 | [Bodhai](https://open.spotify.com/track/0gLk5qIZFQJAXc4bkom7qL) | [Sheyel Rajahselvam](https://open.spotify.com/artist/0tuS7DqEUTKWxChYOAn4ix), [Nira](https://open.spotify.com/artist/0mzyuFfvjtJ6z6F3vqUzll), [Cozzy](https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5) | [Bodhai](https://open.spotify.com/album/2TYEJwV05IgVXJwPxtfd1j) | 2:37 | 2023-04-18 | 2023-07-25 |
 | [Bodhai Penne Nee](https://open.spotify.com/track/3v4TGyHakUilgOmxsWNlJ6) | [GKV](https://open.spotify.com/artist/0836tZWcZRyLXpyyHqi3oD) | [Bodhai Penne Nee](https://open.spotify.com/album/6kbDQ0mrYj9QQBJQrgvMhQ) | 3:17 | 2023-03-21 | 2023-07-25 |
+| [Boomer Uncle](https://open.spotify.com/track/76Rduf0fn3F5UsCZI4X17J) | [Ritchie Godson Paul](https://open.spotify.com/artist/5jhGaixWICC5S0iZfD48pd), [Thee Raa](https://open.spotify.com/artist/2CNe7ZJ7hnd3e0hsYKIA5l) | [Boomer Uncle](https://open.spotify.com/album/1tj08LiuGmC7H66Vd3lmmA) | 3:42 | 2023-11-08 |  |
 | [Bubble](https://open.spotify.com/track/5njRRuTqS5jc0hnRLEiuAv) | [Jayden Paul](https://open.spotify.com/artist/29gvU820Nffy7b3TfB4bUl) | [Bubble](https://open.spotify.com/album/6vGV23SUU5PIUicPWy9NA4) | 4:50 | 2023-03-21 | 2023-06-24 |
 | [Chance eh ille](https://open.spotify.com/track/5fLu5jziyGa6W9sO6hQjDw) | [Abhilash Gupta](https://open.spotify.com/artist/1BoGQCuyexXTqacYNHCN3M) | [Chance eh ille](https://open.spotify.com/album/7KY5QzrzH4bwic3HK7IPJI) | 3:06 | 2023-09-25 |  |
 | [Chance Kedacha](https://open.spotify.com/track/7isPmXyAHlX7VSOsAqVdBg) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX), [LD.PAUL](https://open.spotify.com/artist/6124V60CMyUWc1GWcI0Q9G), [LIL.PUT](https://open.spotify.com/artist/3Xie5axUlJUtpepNj6dbqx) | [Chance Kedacha](https://open.spotify.com/album/2vliLICqA3XGHrLX7nPldg) | 2:16 | 2023-04-18 | 2023-08-01 |

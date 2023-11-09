@@ -1,12 +1,12 @@
 {
   "description": "cute moments in fields and on dancefloors #SpotifyWrapped",
-  "num_followers": 55760,
+  "num_followers": 55815,
   "original_name": "dance tracks we hugged our friends to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmNkYzk5ZGQ2NDNlY2Y0ZDFhOGRhNjU2YTg3MGU3MzY0Mjc0ZTEz",
+  "snapshot_id": "MCwxZWViMjlkOWMzNGUwNGFmNGZkMGZlMDFhODVkMWM5Mjc3NzM5MjY2",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -487,18 +487,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Something About",
-        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+        "name": "Love Is Real",
+        "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
       },
       "artists": [
         {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Something About",
-      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+      "duration_ms": 197727,
+      "name": "Love Is Real",
+      "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -523,22 +527,18 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Love Is Real",
-        "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
+        "name": "Something About",
+        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
       },
       "artists": [
         {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 197727,
-      "name": "Love Is Real",
-      "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
+      "duration_ms": 224826,
+      "name": "Something About",
+      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Arms",
-        "url": "https://open.spotify.com/album/3tIcgx98A4fcBEwvIoH7EQ"
-      },
-      "artists": [
-        {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
-        }
-      ],
-      "duration_ms": 244672,
-      "name": "Arms",
-      "url": "https://open.spotify.com/track/4NSe5EhRScbUpixWwojp7o"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 295230,
       "name": "Alright",
       "url": "https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Arms",
+        "url": "https://open.spotify.com/album/3tIcgx98A4fcBEwvIoH7EQ"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "duration_ms": 244672,
+      "name": "Arms",
+      "url": "https://open.spotify.com/track/4NSe5EhRScbUpixWwojp7o"
     },
     {
       "added_at": "2022-11-30 13:46:00",

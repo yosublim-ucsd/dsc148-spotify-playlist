@@ -2,7 +2,7 @@
 
 ### [Latest Love Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Romance Tracks.<br/>Cover : Leo
+> Check out the Latest Romance Tracks.<br/>Cover : Dhruva Natchathiram
 
 161 songs - 10 hr 46 min
 
@@ -85,7 +85,7 @@
 | [Mayakirriye](https://open.spotify.com/track/23netDpLwSCf0IxldbbMuF) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mayakirriye \- Single](https://open.spotify.com/album/3SPqv6jQCx2HoaO3qna0A5) | 3:09 | 2022-02-21 | 2023-11-07 |
 | [Mayakirriye](https://open.spotify.com/track/5Xm4pHOZjks21F81pIdAba) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mayakirriye](https://open.spotify.com/album/5do7NqMxzn5MD3HWYdjDGy) | 3:09 | 2022-02-21 | 2022-07-29 |
 | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y) | 4:50 | 2022-07-16 |  |
-| [Mehabooba](https://open.spotify.com/track/0SeQF0O4k5Fj91qZOspKYe) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/55ocrn3kExKaTHbH2P8DJg) | 3:32 | 2022-04-22 |  |
+| [Mehabooba](https://open.spotify.com/track/0SeQF0O4k5Fj91qZOspKYe) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/55ocrn3kExKaTHbH2P8DJg) | 3:32 | 2022-04-22 | 2023-11-09 |
 | [Meherezylaa \- From "Maanaadu"](https://open.spotify.com/track/2kAZP4MIGCitpBHn358pgU) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4), [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5) | [Meherezylaa \(From "Maanaadu"\)](https://open.spotify.com/album/7sZ0rgDMsrmo98UY0z98c9) | 4:19 | 2021-11-29 | 2022-10-19 |
 | [Menmayaay](https://open.spotify.com/track/5HVrUNujrjrn7Ewfk018S2) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Chinmayi Sripada](https://open.spotify.com/artist/3MB1ePz3FVSQzFfI9v6KgD), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Samrat Prithviraj \- Tamil](https://open.spotify.com/album/7rFNqCSbDKvket5UXHyNw4) | 4:04 | 2022-05-19 | 2022-06-29 |
 | [Minnal Kannile \- From "Pizza 3"](https://open.spotify.com/track/1xID80L3QzO9MeD4qAwT4Q) | [Arun Raj](https://open.spotify.com/artist/2bhsKK1QgLs7fCGEYn0luF), [Ashwin Kakamanu](https://open.spotify.com/artist/0vg6LtT9PSFYAG54GabpY7), [Pavithra Marimuthu](https://open.spotify.com/artist/4BnC9jsalyyLYBN58aeMts) | [Minnal Kannile \(From "Pizza 3"\)](https://open.spotify.com/album/4jVYlDstzcVRH6z1bXCOC7) | 3:45 | 2022-06-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: CHASEDAE\(차세대\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,635 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,674 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [HAPPENING](https://open.spotify.com/track/5dpQn0AXTRnJV0Ik1FcU47) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [HAPPENING](https://open.spotify.com/album/3C5U9NYko3wIPimlaCaZZz) | 3:44 |
 | 50 | [I Loved You](https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb) | 3:54 |
 
-Snapshot ID: `MCwzMTljNGI2NzlmOTUzYjYzMmZlYjY2Nzc1N2RjYzdjYTc5ZDQxYmU3`
+Snapshot ID: `MCw0NjExMTg3NDI2YmFlODM4NzdlMDdmNWQ3NWY1YmVhZjMxMzBkZDY5`

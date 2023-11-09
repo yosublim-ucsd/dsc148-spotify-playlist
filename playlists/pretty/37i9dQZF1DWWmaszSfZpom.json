@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 1002387,
+  "num_followers": 1002432,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTY0ZjE1NTQ2NjdlZjM2ZmU3ZTQ3OTMyNDFhYzgwZjMwZmE5MGUw",
+  "snapshot_id": "MCw5Y2VlNWJkYzBiOGI0ZjUwZGY3MTAzMmI0YWYzNGZiMjJkOTc2MTBi",
   "tracks": [
     {
       "added_at": "2023-06-26 14:06:50",
@@ -151,26 +151,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Gaiola \u00c9 o Troco",
-        "url": "https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d"
-      },
-      "artists": [
-        {
-          "name": "MC Du Black",
-          "url": "https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc"
-        },
-        {
-          "name": "DJ 2F",
-          "url": "https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET"
-        }
-      ],
-      "duration_ms": 187245,
-      "name": "Gaiola \u00c9 o Troco",
-      "url": "https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Liberdade (Quando o Grave Bate Forte)",
         "url": "https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 150461,
       "name": "Liberdade (Quando o Grave Bate Forte)",
       "url": "https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Gaiola \u00c9 o Troco",
+        "url": "https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d"
+      },
+      "artists": [
+        {
+          "name": "MC Du Black",
+          "url": "https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc"
+        },
+        {
+          "name": "DJ 2F",
+          "url": "https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET"
+        }
+      ],
+      "duration_ms": 187245,
+      "name": "Gaiola \u00c9 o Troco",
+      "url": "https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "ATEN\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/165xKO20rqbbSdv9TKNZ93"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 135111,
+      "name": "ATEN\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/5AhnPqydkYbZAp4NkyJ7ED"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Amor ou o Litr\u00e3o",
         "url": "https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn"
       },
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "ATEN\u00c7\u00c3O",
-        "url": "https://open.spotify.com/album/165xKO20rqbbSdv9TKNZ93"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 135111,
-      "name": "ATEN\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/5AhnPqydkYbZAp4NkyJ7ED"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Olha A Explos\u00e3o (Remix)",
         "url": "https://open.spotify.com/album/69krsAEiMZ6nClROTNExfp"
       },
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Envolvimento",
-        "url": "https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv"
-      },
-      "artists": [
-        {
-          "name": "MC Loma e As G\u00eameas Lacra\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u"
-        }
-      ],
-      "duration_ms": 146602,
-      "name": "Envolvimento",
-      "url": "https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "LEXA",
         "url": "https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi"
       },
@@ -1255,6 +1239,42 @@
       "duration_ms": 140800,
       "name": "Quebrar Seu Cora\u00e7\u00e3o (feat. Lu\u00edsa Sonza)",
       "url": "https://open.spotify.com/track/3K9ruAxOYy8PDRHz85He2T"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "LARISSA",
+        "url": "https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Luan Otten",
+          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+        }
+      ],
+      "duration_ms": 125304,
+      "name": "LARISSA",
+      "url": "https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Envolvimento",
+        "url": "https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv"
+      },
+      "artists": [
+        {
+          "name": "MC Loma e As G\u00eameas Lacra\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u"
+        }
+      ],
+      "duration_ms": 146602,
+      "name": "Envolvimento",
+      "url": "https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1327,46 +1347,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "LARISSA",
-        "url": "https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Luan Otten",
-          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
-        }
-      ],
-      "duration_ms": 125304,
-      "name": "LARISSA",
-      "url": "https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Sapequinha",
-        "url": "https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "MC Lan",
-          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
-        }
-      ],
-      "duration_ms": 134106,
-      "name": "Sapequinha",
-      "url": "https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Tudo Ok",
         "url": "https://open.spotify.com/album/33h1DnrztGgynGDWwzQEiA"
       },
@@ -1431,6 +1411,42 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "FICA \u00c0 VONTADE",
+        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "FICA \u00c0 VONTADE",
+      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Sapequinha",
+        "url": "https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "MC Lan",
+          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
+        }
+      ],
+      "duration_ms": 134106,
+      "name": "Sapequinha",
+      "url": "https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Talarica",
         "url": "https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 162000,
       "name": "Talarica",
       "url": "https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Finalidade Era Ficar em Casa",
-        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "Finalidade Era Ficar em Casa",
-      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Finalidade Era Ficar em Casa",
+        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "Finalidade Era Ficar em Casa",
+      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "BALAN\u00c7A A GLOCK",
         "url": "https://open.spotify.com/album/42TXAMMWEFePqDR95N7Cpm"
       },
@@ -1511,6 +1527,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Kikadinha",
+        "url": "https://open.spotify.com/album/1SFRgpdcJKaTeGQmU1Pq6E"
+      },
+      "artists": [
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "duration_ms": 146158,
+      "name": "Kikadinha",
+      "url": "https://open.spotify.com/track/4cVhsNXSwSLIZJjwexEoYe"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Chama Ela (feat. Pedro Sampaio)",
         "url": "https://open.spotify.com/album/5st5iXtyMBDo6OLBUBqSpW"
       },
@@ -1527,38 +1559,6 @@
       "duration_ms": 120200,
       "name": "Chama Ela (feat. Pedro Sampaio)",
       "url": "https://open.spotify.com/track/14kRWkCWBYfQqILflEcpSJ"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "FICA \u00c0 VONTADE",
-        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "FICA \u00c0 VONTADE",
-      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Kikadinha",
-        "url": "https://open.spotify.com/album/1SFRgpdcJKaTeGQmU1Pq6E"
-      },
-      "artists": [
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 146158,
-      "name": "Kikadinha",
-      "url": "https://open.spotify.com/track/4cVhsNXSwSLIZJjwexEoYe"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Solta a batida",
+        "url": "https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Solta a batida",
+      "url": "https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Baila Comigo (feat. Kelly Ruiz) [Rennan da Penha Remix]",
         "url": "https://open.spotify.com/album/3Gu3HmwNT034cGipAs175M"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 120050,
       "name": "Baila Comigo (feat. Kelly Ruiz) - Rennan da Penha Remix",
       "url": "https://open.spotify.com/track/7M6D0ACikinC39ZtuEwMPo"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Solta a batida",
-        "url": "https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "Solta a batida",
-      "url": "https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "N\u00e3o encosta",
-        "url": "https://open.spotify.com/album/0FVXKp0wuQJikYk6qg1cW3"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "DJ Will22",
-          "url": "https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn"
-        }
-      ],
-      "duration_ms": 144039,
-      "name": "N\u00e3o encosta",
-      "url": "https://open.spotify.com/track/3TLik0AUo5Ri65DFrEivd4"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Bumbum caliente (Participa\u00e7\u00e3o especial de De La Ghetto)",
         "url": "https://open.spotify.com/album/6D1FwIdsvzNSEKtOXKzTTU"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 150886,
       "name": "Bumbum caliente (Participa\u00e7\u00e3o especial de De La Ghetto)",
       "url": "https://open.spotify.com/track/2WXpTKDvFRRAKKwaNbT6OW"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "N\u00e3o encosta",
+        "url": "https://open.spotify.com/album/0FVXKp0wuQJikYk6qg1cW3"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "DJ Will22",
+          "url": "https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn"
+        }
+      ],
+      "duration_ms": 144039,
+      "name": "N\u00e3o encosta",
+      "url": "https://open.spotify.com/track/3TLik0AUo5Ri65DFrEivd4"
     },
     {
       "added_at": "2023-06-26 14:06:50",

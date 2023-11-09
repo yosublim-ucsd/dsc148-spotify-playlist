@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,368,378 likes - 85 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,368,853 likes - 85 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 8 | [Kura Kura](https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kura Kura](https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen) | 3:11 |
 | 9 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 |
 | 10 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
-| 11 | [異次元★♥BIGBANG](https://open.spotify.com/track/6bZiww7kdL6IXfYiPrr3Fr) | [島村卯月 \(CV: 大橋彩香\)](https://open.spotify.com/artist/6RQ5VjHW97K397QfPd0aXt), [最上静香 \(CV.田所あずさ\)](https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH), [月岡恋鐘 \(CV.礒部花凜\)](https://open.spotify.com/artist/2Nascsj90mN48cZBUS4CPA), [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ), [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF), [日野下花帆 \(CV.楡井希実\)](https://open.spotify.com/artist/3K0kUxY4moTB2FF7nYLgzs) | [異次元★♥BIGBANG](https://open.spotify.com/album/5hS6PiorOQmALMSbjh0nHx) | 5:16 |
+| 11 | [Ijigen BIGBANG](https://open.spotify.com/track/3QRii5A35ZfsGGiPrv9k0j) | [Uzuki Shimamura \(CV: Ayaka Ohashi\)](https://open.spotify.com/artist/3xoyWve1jtl6V6v5vJ0jzj), [Shizuka Mogami \(CV: Azusa Tadokoro\)](https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l), [KOGANE TSUKIOKA \(CV: Karin Isobe\)](https://open.spotify.com/artist/4r40eoNekBoDSFuPtMaZf1), [Chika Takami \(CV: Anju Inami\)](https://open.spotify.com/artist/1j1qyF4vDxo871CSuHzgY5), [Ayumu Uehara \(CV: Aguri Onishi\)](https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF), [Kanon Shibuya \(CV: Sayuri Date\)](https://open.spotify.com/artist/0d6TVcK3Wq84iMZ3T1kHHR), [Kaho Hinoshita \(CV: Nozomi Nirei\)](https://open.spotify.com/artist/5VnkGk25NC41GkZEEZzQXy) | [Ijigen BIGBANG](https://open.spotify.com/album/5viWiiX3YocnLLAz9kICRH) | 5:16 |
 | 12 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 13 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 14 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 23 | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/track/3h05x3Bh7SOzINsxBMgFDS) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy), [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/album/3wh5pzFmCbKM93X2pgcdTj) | 2:28 |
 | 24 | [Invisible Wings](https://open.spotify.com/track/66S1A6ve3RwtldpheI2GGt) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite Resonance 2](https://open.spotify.com/album/7JOsrDjoqyUxg47pHxvxc1) | 5:36 |
 | 25 | [Kataomoi \- From CrosSing](https://open.spotify.com/track/5ZZrQwgtdm0pGC8YA3qO50) | [Hasegawa Ikumi](https://open.spotify.com/artist/2ry3SeF9037A5uPeb8FaYx) | [Kataomoi \- From CrosSing](https://open.spotify.com/album/42oVq6U7nskgpDQNdjCGga) | 3:25 |
-| 26 | [DAISY](https://open.spotify.com/track/1FvuLLe1ucGonMuFrOYO99) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [Azu is](https://open.spotify.com/album/1ySPJFxnsbnsWSiFZIJ5m6) | 2:56 |
+| 26 | [DAISY](https://open.spotify.com/track/0MakkBf2ekyMyN8tyiEzHD) | [Azuna Riko](https://open.spotify.com/artist/1kJ9fWYKneqS73CIOMDWRx) | [Azu is](https://open.spotify.com/album/1b5lp3j4Z6XcAB8C8ltzXz) | 2:56 |
 | 27 | [HELP](https://open.spotify.com/track/6qzigrdGbzParrcscn1707) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/15OxWt5Wd6QKRr3BM2SI1K) | 3:47 |
 | 28 | [ハロ](https://open.spotify.com/track/69cF34CNjzxX1ySIPJxtMf) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [ハロ](https://open.spotify.com/album/0mzoRF3WErpncvKCQqoHEu) | 3:18 |
 | 29 | [Suki ni Naccha Dame na Hito](https://open.spotify.com/track/4qnO8leJ0xIAvEkEnYB4nu) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Suki ni Naccha Dame na Hito](https://open.spotify.com/album/2VnYRRWGs3kat0GeFjwzwl) | 3:37 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 47 | [Black Crack](https://open.spotify.com/track/50YCh8wL8YVI0W18apljDC) | [葛葉](https://open.spotify.com/artist/2U6KmGMil4ClWZB9vHEwSb) | [Black Crack](https://open.spotify.com/album/2Cmm7oVYSSjY2rsQozUu3b) | 3:04 |
 | 48 | [GET BACK](https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GET BACK](https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo) | 3:15 |
 | 49 | [Welcome!](https://open.spotify.com/track/5kcPYZhmbe7M7rcO3bI9PV) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [Welcome!](https://open.spotify.com/album/2KlzKHbKhBL8n3jWNUnUfd) | 3:14 |
-| 50 | [Super moon](https://open.spotify.com/track/69qlpY2ZAvgHKYvNu3N3U9) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Super moon](https://open.spotify.com/album/6shWYUsoQcWa36V9vz8Ouz) | 3:13 |
+| 50 | [Super moon](https://open.spotify.com/track/67kIO6t0RAXrtDnOpfYkQj) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Super moon](https://open.spotify.com/album/0V9mhL26kn9cHji8KBcAjE) | 3:13 |
 | 51 | [眠れない](https://open.spotify.com/track/12al9sDYshsCcdF4HMuIpZ) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [眠れない](https://open.spotify.com/album/70pTLXqIjxiRFycmU3VRB4) | 3:47 |
 | 52 | [know me...](https://open.spotify.com/track/2E5ysbHpbYGmJvwyhQubaG) | [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [know me...](https://open.spotify.com/album/36lFXBqcHUeZAW9Cij58xE) | 3:30 |
 | 53 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [6を撫でる](https://open.spotify.com/track/5R2p1rjy9nzGx2Do6Vqulo) | [ももすももす](https://open.spotify.com/artist/09xFgYi2WMH18mnuipigzN) | [6を撫でる](https://open.spotify.com/album/0XwsUFo91VTzQDNc2WSIOw) | 3:00 |
 | 85 | [Perfect World](https://open.spotify.com/track/0wbjzPFuDHLWQs3Aw0vRIH) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Perfect World EP](https://open.spotify.com/album/2pEkFJTFkRgN9CkpJ8mRwJ) | 3:42 |
 
-Snapshot ID: `MCwxM2ZlMDM1YzliMGVmYWE0ZDlhZGJhYTQ0Yzk3OTlkODQ5Yjc3MWUz`
+Snapshot ID: `MCxhY2FiMjU5MWI0YmEyM2RiNWViNWI1YzZiYWI0OGQ2NmU2MDI4M2E1`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Trending songs from Tollywood! \nCover - OG",
+  "description": "Trending songs from Tollywood! \nCover - MAD",
   "name": "Trending Now Telugu",
   "tracks": [
     {
@@ -744,6 +744,32 @@
       "duration_ms": 252195,
       "name": "Drunk and Drive",
       "url": "https://open.spotify.com/track/13AC9I9D1SMZDxoZBXkiUV"
+    },
+    {
+      "album": {
+        "name": "Guntur Kaaram",
+        "url": "https://open.spotify.com/album/2JTcQYxkWCph2DFYHljgnS"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206830,
+      "name": "Dum Masala",
+      "url": "https://open.spotify.com/track/3yNhGgQMPOdqVFpjRu8k8x"
     },
     {
       "album": {

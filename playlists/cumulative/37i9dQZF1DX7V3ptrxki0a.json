@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "AMOR PROPIO",
+        "url": "https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172485,
+      "name": "AMOR PROPIO",
+      "url": "https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip"
+    },
+    {
+      "album": {
         "name": "Ando Bien Agusto",
         "url": "https://open.spotify.com/album/6Vd6fo2eFRRZvxCILrySBa"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 190682,
       "name": "Ando Bien Agusto",
       "url": "https://open.spotify.com/track/5heouRKOr5RdKXWd4tdZZw"
@@ -237,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Chimenea (En Vivo)",
+        "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180491,
+      "name": "Chimenea - En Vivo",
+      "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
+    },
+    {
+      "album": {
         "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
         "url": "https://open.spotify.com/album/2irJrOSLxOnQJz6POcqJQF"
       },
@@ -292,6 +328,28 @@
       "duration_ms": 215066,
       "name": "Cumbia Con La Luna",
       "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
+    },
+    {
+      "album": {
+        "name": "Cumbia Del Clavi",
+        "url": "https://open.spotify.com/album/4ICPECk52pvNK0J0nvVPYY"
+      },
+      "artists": [
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        },
+        {
+          "name": "El Clavijas",
+          "url": "https://open.spotify.com/artist/10t2ZueXTVRNzyjd7tOXTQ"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169738,
+      "name": "Cumbia Del Clavi",
+      "url": "https://open.spotify.com/track/7H5t2fboweenWJMXeNGRVu"
     },
     {
       "album": {
@@ -429,6 +487,24 @@
     },
     {
       "album": {
+        "name": "Eras Tu",
+        "url": "https://open.spotify.com/album/7r8FGGeBs2UtyDkdfUkN9n"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/28Mr2I45NyUzzMI2SRs3OR"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Eras Tu",
+      "url": "https://open.spotify.com/track/4e0VWtGHbwVRC33HL35pRD"
+    },
+    {
+      "album": {
         "name": "Jugo A La Vida",
         "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
       },
@@ -530,10 +606,28 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 173480,
       "name": "La \u00c9tica",
       "url": "https://open.spotify.com/track/5lme9vHMk1a85L6bEUvp6G"
+    },
+    {
+      "album": {
+        "name": "Linda Mujer",
+        "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169471,
+      "name": "Linda Mujer",
+      "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
     },
     {
       "album": {
@@ -732,7 +826,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 521690,
       "name": "Popurr\u00ed Cumbias: Se Muri\u00f3 De Amor/Desvelado/Otra Vez - En Vivo",
       "url": "https://open.spotify.com/track/2rNksx1mb49Vb35MiKgUiJ"
@@ -866,7 +960,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 168851,
       "name": "Sin Explicaci\u00f3n",
       "url": "https://open.spotify.com/track/1jy5sQaEm4XMvmknpDMGjB"
@@ -960,7 +1054,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 209415,
       "name": "TULUM",
       "url": "https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu"

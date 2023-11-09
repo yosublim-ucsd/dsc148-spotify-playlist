@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,370 songs - 3 day 2 hr 53 min
+1,371 songs - 3 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [7am On Bridle Path](https://open.spotify.com/track/42m3eP1JJhtzffal9B136J) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:59 | 2021-09-05 | 2021-09-06 |
 | [9 5 \. s o u t h](https://open.spotify.com/track/4GSBObGq3DuiKFlytKBbEw) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/7amgMBFiedsknMot03NgQ4) | 3:16 | 2021-05-16 | 2021-05-17 |
 | [9 Padangės](https://open.spotify.com/track/0iSy5nJYJ2o5vUiyyNxPNg) | [Karolina Meschino](https://open.spotify.com/artist/0EmTcVVfERPflXiBTySUmq) | [9 Padangės](https://open.spotify.com/album/0kRjurbPCj0oi0jjfgVsu7) | 2:34 | 2023-07-08 | 2023-07-13 |
+| [9mm](https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB) | 1:26 | 2023-11-08 |  |
 | [A Bit High](https://open.spotify.com/track/3CmeWai5fvSIvgOy8Nw6sc) | [NOT BAD BOY](https://open.spotify.com/artist/5FQ2t3fQMz2VU681aAZBHH) | [A Bit High](https://open.spotify.com/album/6M5DIlgWbuWTGKK3luf2ZP) | 2:50 | 2023-10-18 | 2023-10-28 |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2021-12-24 | 2022-12-29 |
 | [A Lyga](https://open.spotify.com/track/3fo43dOoOAMvzLs1mu3rRV) | [Angelou](https://open.spotify.com/artist/1n6KR5r29Zj7X33Ey1pod0) | [FAZĖ](https://open.spotify.com/album/3hgpjeq03f1u4Ap1d8BMcI) | 2:53 | 2021-07-09 | 2021-08-10 |
@@ -276,7 +277,7 @@
 | [Disko](https://open.spotify.com/track/5bx4DPSuvBUn6luswgF7Ez) | [LPS](https://open.spotify.com/artist/3R4uNy42CP2VFBRVS8oQYg) | [Disko](https://open.spotify.com/album/1jvIu5RH2i2YjNYqdV0jNB) | 2:59 | 2022-05-12 | 2022-05-22 |
 | [Divided](https://open.spotify.com/track/1BcR6Hi28MIxGqeT3W71Cz) | [Jason Ivy](https://open.spotify.com/artist/7neiealXQonQMJ0OsOJa3P), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Shuba](https://open.spotify.com/artist/0g1qXit5R0uGl8Ulzl2F5I) | [Divided](https://open.spotify.com/album/2XdkSMXvdB5sFn2oNugp5W) | 3:48 | 2022-11-21 | 2022-11-23 |
 | [dj susivėlus](https://open.spotify.com/track/6zk9RiqbRAPEm0Hx7pKScV) | [dj nevykele](https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg) | [OŽKA](https://open.spotify.com/album/0NRRBv2yjlSUgjhKdkyTc5) | 2:02 | 2023-06-06 | 2023-06-10 |
-| [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2023-11-06 |  |
+| [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2023-11-06 | 2023-11-09 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-11-05 | 2022-05-10 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It's Christmas?](https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5) | 3:42 | 2021-12-24 | 2021-12-27 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 | 2022-12-24 | 2022-12-28 |

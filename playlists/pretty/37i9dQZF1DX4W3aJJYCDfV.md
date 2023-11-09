@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from The Beatles, Cat Burns, Joy Anonymous and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,801 likes - 117 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,836 likes - 117 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 94 | [I Got You](https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Got You](https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv) | 2:44 |
 | 95 | [Super Trapstar](https://open.spotify.com/track/08jyPy9GX4KSH4ZIagv7bu) | [Steve Drive](https://open.spotify.com/artist/5kx5NGT0XdiL2UoUrsxYgD) | [Super Trapstar](https://open.spotify.com/album/3iYQVgsLyW2wOQwDxw9zJG) | 2:55 |
 | 96 | [MILF](https://open.spotify.com/track/4KrukUctcQveDcPFxXvI0M) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [MILF](https://open.spotify.com/album/3FgmJByJ2eCaZwbFXoHdsO) | 2:00 |
-| 97 | [Free](https://open.spotify.com/track/05dsewKoowRsvsnRjUEXvX) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/3zGQP6owFJBRTz6oU4tJvX) | [Free EP](https://open.spotify.com/album/0zZG5gWDyQXDTJUXbpSyxl) | 3:26 |
+| 97 | [Free](https://open.spotify.com/track/05dsewKoowRsvsnRjUEXvX) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Free EP](https://open.spotify.com/album/0zZG5gWDyQXDTJUXbpSyxl) | 3:26 |
 | 98 | [Hex](https://open.spotify.com/track/6yopQomQqrwmXTAUwQrp30) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Hex](https://open.spotify.com/album/6oE1ZAoKvEzA8LK43TWv81) | 2:37 |
 | 99 | [Ninetynine](https://open.spotify.com/track/1Ly3K26YPGfRc802bd8jsn) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Ninetynine](https://open.spotify.com/album/4nfGboE0gBkRA3x1fd4vBn) | 3:20 |
 | 100 | [BEDBUGZ](https://open.spotify.com/track/5w9owMSI1RTYmEczzlPvCo) | [OURAA](https://open.spotify.com/artist/3bQnpQzxvtefA2xaVzhN0e) | [BEDBUGZ](https://open.spotify.com/album/6FLh10IEOCaxq8vcWrjdP1) | 2:31 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 116 | [Thunder](https://open.spotify.com/track/4o2d35Wt5bSONtEry13b9C) | [Sunburn](https://open.spotify.com/artist/16BNZHiTlD6vCCWewqSNUy) | [Thunder](https://open.spotify.com/album/5sXsxApr7oIRx9jNfsmGNH) | 3:10 |
 | 117 | [End Of The World](https://open.spotify.com/track/4up9cZOgCa0T7i8IQU0JuT) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Otherness \- Side A \(Storm\)](https://open.spotify.com/album/2z0tcLf51fmNNGyuparjbO) | 4:00 |
 
-Snapshot ID: `MCwxYTViODY5NzNjNmQ5OWU4MTBmNzUzYWU1OWQ4YTZjNGQzODA0MDJl`
+Snapshot ID: `MCwzNmZiZDIxZDRjNzE5MGVhODA5NDljZGE1NTAyNDI0Yzk0MzBlODU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,502 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,607 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 19 | [Me Puse Pedo](https://open.spotify.com/track/3ixbxMZyybv4j4iLrwc7gx) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Me Puse Pedo](https://open.spotify.com/album/5U5Qffh1u1LA7thN8NS5kx) | 3:10 |
 | 20 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
 | 21 | [Anda Y Ve](https://open.spotify.com/track/21GrZqnug24ENdZ5e6seWN) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Los Aguacates De Jilquilpan](https://open.spotify.com/album/1WjKGOdClpJdzlMAtdg8uF) | 4:52 |
-| 22 | [Tres Delinquentes \- Radio Version](https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U) | [Hip Hop 100 Hits \- Urban rap & R n B anthems inc\. Jay Z, A$ap Rocky, Wu\-Tang Clan & Nas](https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX) | 4:15 |
-| 23 | [Sirve Mi Café Temprano](https://open.spotify.com/track/7j4P6of6eyZDe49HUYSU2h) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Sirve Mi Café Temprano](https://open.spotify.com/album/0I7niYRGKf1mfAjVdrkogE) | 3:59 |
+| 22 | [Sirve Mi Café Temprano](https://open.spotify.com/track/7j4P6of6eyZDe49HUYSU2h) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Sirve Mi Café Temprano](https://open.spotify.com/album/0I7niYRGKf1mfAjVdrkogE) | 3:59 |
+| 23 | [Tres Delinquentes \- Radio Version](https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U) | [Hip Hop 100 Hits \- Urban rap & R n B anthems inc\. Jay Z, A$ap Rocky, Wu\-Tang Clan & Nas](https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX) | 4:15 |
 | 24 | [Mextasis](https://open.spotify.com/track/7hUGy5dnyRVXzHOv9LoZB9) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 3:16 |
 | 25 | [Pues Que Pues](https://open.spotify.com/track/4pWMXmEgwEMBoBMyw8BCG4) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 4:56 |
 | 26 | [Solo Como Amigos](https://open.spotify.com/track/0LC8PbKuTyhCpsrdLtL3jz) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Luces Fantasma](https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 49 | [La Durango](https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Durango](https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT) | 4:10 |
 | 50 | [La Plaga \(Digitally Remastered Remix\)](https://open.spotify.com/track/6U6UoE9LfZjeM6esvEdgCP) | [Tha Mexakinz](https://open.spotify.com/artist/6oDlyUPSZb2qkvuqN3hGyN) | [La Plaga \(Digitally Remastered Remix\)](https://open.spotify.com/album/38NnPJUlEj4ciQ1kdZ3ND7) | 3:47 |
 
-Snapshot ID: `MCw1MzM3ZWUwZDJlMzE1MGU5ZDQyMmNmNjU4Yzg2NWMwMmYxYzM5YTQy`
+Snapshot ID: `MCw0NDlkM2MxODhiNTI5ZWI4NzhiOWI5MWFhOTYzYzMwMmYyMGE4N2Nj`

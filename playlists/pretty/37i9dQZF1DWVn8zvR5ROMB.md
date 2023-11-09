@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Jason Aldean, Cody Johnson, Tyler Hubbard and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,839 likes - 81 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,072 likes - 81 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 80 | [California Line](https://open.spotify.com/track/0OS7U2hR23djT3yxD6bXdj) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [California Line](https://open.spotify.com/album/7zKc7KZgx3trD0qmB1Z8xb) | 3:35 |
 | 81 | ['Til The Day One Does](https://open.spotify.com/track/7hOeEAhCGCOG6hzBWp54vO) | [Colin Stough](https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds) | [Promiseland](https://open.spotify.com/album/44MP986oBgL08PtTWHgY2G) | 3:22 |
 
-Snapshot ID: `MCxhMzc2NmM2YjEwMTYyNTA4NDM1NWFlMWM4MTdjMTgwNDYxNDA0MTNl`
+Snapshot ID: `MCxjZGY5Zjk3N2ExMDQ0YTRjMzcyODUxOTEwYTc2NTMyODQwNjFhOGVk`

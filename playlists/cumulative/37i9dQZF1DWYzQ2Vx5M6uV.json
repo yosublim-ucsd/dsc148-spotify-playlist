@@ -955,6 +955,28 @@
     },
     {
       "album": {
+        "name": "GOOD DAY (feat. Camidoh)",
+        "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164765,
+      "name": "GOOD DAY (feat. Camidoh)",
+      "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
+    },
+    {
+      "album": {
         "name": "Guava Rose",
         "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
       },
@@ -988,7 +1010,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 232000,
       "name": "GUERRA",
       "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"

@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-498 songs - 1 day 8 hr 23 min
+499 songs - 1 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Caved In](https://open.spotify.com/track/1KKuUsADKAdwE90zxrvwuE) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Dedication To Flesh](https://open.spotify.com/album/5g8OeROCewoYawxiNCmFXU) | 2:57 | 2023-08-16 |  |
 | [Caved In](https://open.spotify.com/track/2BAuNSD3o86LargMzbXNrQ) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Caved In](https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG) | 2:58 | 2022-02-11 | 2023-11-04 |
 | [CHAIN \(feat\. Jacob Lilly\)](https://open.spotify.com/track/5vw6v6Fta7a4BwHvhMtnVW) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Chamber](https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN), [Jacob Lilly](https://open.spotify.com/artist/3liqJR5I9qc7zYvhrM0tUx) | [CHAIN \(feat\. Jacob Lilly\)](https://open.spotify.com/album/6M7pQm8mrIcrc57XXQfNmx) | 1:11 | 2023-04-28 | 2023-11-05 |
+| [CHAIN \(feat\. Jacob Lilly\)](https://open.spotify.com/track/0tWAwVdhIgLTWiaAbcjwYF) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Jacob Lilly](https://open.spotify.com/artist/3liqJR5I9qc7zYvhrM0tUx) | [Step Into The Light](https://open.spotify.com/album/61G3s23PmUvfgZMBJ7EGu3) | 1:11 | 2023-08-16 |  |
 | [Chainbreaker](https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD) | [Shrine of Malice](https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ) | [Chainbreaker](https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B) | 4:35 | 2021-12-17 |  |
 | [Charlotte](https://open.spotify.com/track/1E0wg7h8fvowWXUOyrYose) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [God Hand](https://open.spotify.com/album/64CVhMqlsSVEtCLDXCHvvB) | 3:16 | 2021-12-17 | 2022-07-29 |
 | [Charlotte](https://open.spotify.com/track/1MCRmDZQsbB1r2KP8dsWKO) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [God Hand](https://open.spotify.com/album/3vnofNSDDHTomiI8cIZrpb) | 3:16 | 2023-02-10 |  |
@@ -427,7 +428,7 @@
 | [The Butcher](https://open.spotify.com/track/3WCGIWQbdYCj5bdFai2Ybs) | [Sever the King](https://open.spotify.com/artist/7glvEG8KLnlUQVDEo8v4rs) | [The Butcher](https://open.spotify.com/album/70OOddXUV5T3yefa1yW1wn) | 5:07 | 2021-12-17 | 2022-04-06 |
 | [The Cycle Of Violence : Chapter 1](https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [The Cycle Of Violence: Chapter 1](https://open.spotify.com/album/54Dzy1tTjwERCoPDRZm3zR) | 2:38 | 2022-05-06 |  |
 | [The Dancer](https://open.spotify.com/track/2tLrbpHb53B7W0emqz1ukL) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [The Dancer](https://open.spotify.com/album/7uoaxWYLmec17U1qIbQkol) | 4:02 | 2022-02-11 | 2022-07-24 |
-| [The Empress](https://open.spotify.com/track/4lLWQ8QqCnkLK7RtJ69q6b) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [The Empress](https://open.spotify.com/album/0aDF2jUuIoRCiQC1A7YnZ0) | 3:56 | 2021-12-17 |  |
+| [The Empress](https://open.spotify.com/track/4lLWQ8QqCnkLK7RtJ69q6b) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [The Empress](https://open.spotify.com/album/0aDF2jUuIoRCiQC1A7YnZ0) | 3:56 | 2021-12-17 | 2023-11-09 |
 | [The End Of Us](https://open.spotify.com/track/0Ul9OzpPL3sdJPd02W7mni) | [Resist The Thought](https://open.spotify.com/artist/48RlvjoKZtNIcimFZ6BDbL) | [The End Of Us](https://open.spotify.com/album/7cPGjcKZTpD9dpoDgDb8eO) | 3:06 | 2021-12-31 | 2022-07-24 |
 | [The Failsafe Fallacy](https://open.spotify.com/track/7i0yLsdCMj0GbkqlpVKAhS) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Luciferous](https://open.spotify.com/album/1TKgsk77shaDKEi2SmgK9R) | 4:45 | 2022-07-08 | 2023-08-03 |
 | [The Failsafe Fallacy](https://open.spotify.com/track/7vJtcOCXf4g2FoGTcIQMdJ) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Luciferous](https://open.spotify.com/album/6tBRG2SO2SNDL1UdMp6A5P) | 4:45 | 2021-12-17 | 2022-07-29 |

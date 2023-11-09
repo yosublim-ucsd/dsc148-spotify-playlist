@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1980s.
 
-309 songs - 21 hr 19 min
+310 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Gold \- 2003 Remaster](https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [True \(Special Edition\)](https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B) | 4:50 | 2021-09-08 |  |
 | [Good Thing](https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:21 | 2021-09-08 |  |
 | [Got My Mind Set On You](https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc) | 3:54 | 2021-01-07 | 2023-11-04 |
+| [Got My Mind Set on You](https://open.spotify.com/track/4wswaG5vmNINMZcVBsAyBP) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/7MD06W6wJm7J6jqkBszV22) | 3:54 | 2021-01-07 |  |
 | [Got My Mind Set On You \- Remastered 2004](https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq) | 3:54 | 2021-01-07 | 2023-02-19 |
 | [Green Door](https://open.spotify.com/track/4aX2lcnR7KKRvhZbkgB2xc) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Rockin' The Blues](https://open.spotify.com/album/7zlJYcJMvxhPgSGsGDFWce) | 3:11 | 2021-09-08 | 2022-07-29 |
 | [Hand on Your Heart](https://open.spotify.com/track/3AT2gH4qI0zz54Y1wKt650) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Enjoy Yourself](https://open.spotify.com/album/6hkyHkAO27W5dDX9HZ0qJD) | 3:51 | 2021-09-08 | 2022-07-13 |
@@ -145,7 +146,7 @@
 | [Invisible Touch \- 2007 Remaster](https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch \(2007 Remaster\)](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 3:28 | 2021-01-07 |  |
 | [Invisible Touch \- Remastered 2007](https://open.spotify.com/track/480dDrqG7LO6qDaphHeXlM) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/5BDGtXKMQ6k267KX4PoGhP) | 3:30 | 2021-01-07 | 2022-07-29 |
 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 | 2021-09-08 |  |
-| [It's Only Love](https://open.spotify.com/track/5xGsNXXTu545MWoeuFfjxT) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:14 | 2021-09-08 |  |
+| [It's Only Love](https://open.spotify.com/track/5xGsNXXTu545MWoeuFfjxT) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:14 | 2021-09-08 | 2023-11-09 |
 | [It's Raining Men](https://open.spotify.com/track/7iFwfXNYy0goAL54aupC7Q) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [Super Hits](https://open.spotify.com/album/31eNtoMOM0eUpPwJKtAxTL) | 5:26 | 2021-01-07 | 2022-07-29 |
 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 2:56 | 2021-09-08 |  |
 | [It's Tricky](https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 3:03 | 2021-12-14 |  |

@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-191 songs - 17 hr 24 min
+193 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Don't Look Back](https://open.spotify.com/track/1ZRbpnhN6gxTJEnaCBlD0z) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/2dWojT5wPowGSARgpHAENj) | 3:51 | 2023-06-02 |  |
 | [Don't Look Back](https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl) | 3:51 | 2022-07-05 | 2023-07-02 |
 | [Doppler](https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Formula EP](https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5) | 7:13 | 2022-07-05 | 2023-11-05 |
-| [Driving Mad](https://open.spotify.com/track/6MZ7wWLT1jd2oF21p3TPKl) | [Carbon](https://open.spotify.com/artist/5BSvQ8klrDFPpCJ3TujFoK), [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Driving Mad](https://open.spotify.com/album/1yZvuAfsG01K9gad20PbqF) | 6:00 | 2022-07-05 |  |
+| [Doppler](https://open.spotify.com/track/7J2ZnqSaDNijHboyFFkwpV) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Formula EP](https://open.spotify.com/album/3KjkZXHlDZMbQKqdYPtsUn) | 7:13 | 2023-10-13 |  |
+| [Driving Mad](https://open.spotify.com/track/6MZ7wWLT1jd2oF21p3TPKl) | [Carbon](https://open.spotify.com/artist/5BSvQ8klrDFPpCJ3TujFoK), [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Driving Mad](https://open.spotify.com/album/1yZvuAfsG01K9gad20PbqF) | 6:00 | 2022-07-05 | 2023-11-09 |
 | [Elysium](https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Elysium](https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw) | 4:13 | 2022-07-05 |  |
 | [Endless](https://open.spotify.com/track/1P7gXbnZAqtAfRmW0R4Ovw) | [GNTN](https://open.spotify.com/artist/6guwuHIjpVnmvaBjzertzu) | [Endless](https://open.spotify.com/album/3c31jZDrixWGeAypQK3tS0) | 6:42 | 2022-07-05 | 2022-07-29 |
 | [Epoche](https://open.spotify.com/track/5Gxh6WPQVqsfESePvpHsDf) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Epoche](https://open.spotify.com/album/2Md53Ho2kXNMATFL8pK3go) | 6:26 | 2022-07-05 | 2022-07-22 |
@@ -140,6 +141,7 @@
 | [Reflection](https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Reflection EP](https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe) | 6:46 | 2023-03-29 | 2023-05-07 |
 | [Ritual](https://open.spotify.com/track/5tPC9sy0oSG2snV5L3PYB1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Umbilicis Universalis](https://open.spotify.com/album/67vRbAKHrUlH3ejiXFDKQy) | 7:00 | 2022-07-05 | 2022-07-24 |
 | [Rock With Me](https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock With Me](https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP) | 3:25 | 2022-07-05 | 2023-11-05 |
+| [Rock With Me](https://open.spotify.com/track/4JOOUSb29WBiwpH47QUmif) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock with Me](https://open.spotify.com/album/34gHhZJ8XW3Q9o73E7FQMP) | 3:25 | 2023-10-13 |  |
 | [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 | 2023-04-07 |  |
 | [Rush](https://open.spotify.com/track/7GSCbkKiC0yW0OJt8KG9T7) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Rush](https://open.spotify.com/album/1HNzqVzl0u8EuZIoQNAWeo) | 6:36 | 2022-07-05 | 2022-09-15 |
 | [Sakura](https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs), [Prinz \(DE\)](https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK) | [Sakura](https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6) | 4:28 | 2023-08-25 | 2023-10-04 |
@@ -175,7 +177,7 @@
 | [Timeless \- Original Mix](https://open.spotify.com/track/76P1a7VfRpxXqBUqcIi3Ub) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Timeless EP](https://open.spotify.com/album/6iutev2dbJ6dSkLunk50cG) | 6:43 | 2022-07-05 | 2022-09-10 |
 | [Tisatek](https://open.spotify.com/track/6S0LWbeU6x67M4QXNUH4q4) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX), [Rico Puestel](https://open.spotify.com/artist/6onCOduLbP6KH26LqSRV69) | [Tisatek](https://open.spotify.com/album/2e7LQoH4FxzVWjMzEC1M6s) | 6:38 | 2022-07-05 | 2022-07-24 |
 | [Together One Time](https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Together One Time](https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM) | 4:48 | 2022-07-05 | 2023-06-03 |
-| [Together One Time](https://open.spotify.com/track/5UH3wpmBqgrTqMjtBdDv2s) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Together One Time](https://open.spotify.com/album/7oF7soCZFmCFhnLeDKQ19Y) | 4:48 | 2023-10-03 |  |
+| [Together One Time](https://open.spotify.com/track/5UH3wpmBqgrTqMjtBdDv2s) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Together One Time](https://open.spotify.com/album/7oF7soCZFmCFhnLeDKQ19Y) | 4:48 | 2023-10-03 | 2023-11-09 |
 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 | 2023-05-12 |  |
 | [Tribal Space](https://open.spotify.com/track/4VfF4RBRiKKV969cXUX8or) | [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX) | [Tribal Space](https://open.spotify.com/album/4UeZWgfQSO0fsHpCDudHzs) | 5:59 | 2022-07-05 | 2022-09-02 |
 | [Tunnel](https://open.spotify.com/track/6J8CNMeXUBKpoTxGNxvHG1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Tunnel](https://open.spotify.com/album/5uDI9IsrUmEBWXT9hFRZpN) | 6:01 | 2022-07-05 | 2022-07-29 |

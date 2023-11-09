@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Tenille Arts",
-  "num_followers": 455109,
+  "num_followers": 455142,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjA0NWQ4YzY0ZjlhYWI1YzQ1YjcwMGMxZTRhZWQ2ZTc1N2EwYTc3",
+  "snapshot_id": "MCxiY2I0MDgxODhmNDBhZmZhMzk1Y2Q5MjM3NGZmMzVjMDljZTZkY2Y2",
   "tracks": [
     {
       "added_at": "2023-10-27 11:41:08",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-27 11:41:08",
       "album": {
-        "name": "Whiskey On You",
-        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 183789,
-      "name": "Whiskey On You",
-      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
-    },
-    {
-      "added_at": "2023-10-27 11:41:08",
-      "album": {
         "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
         "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 200346,
       "name": "Save Me The Trouble",
       "url": "https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK"
+    },
+    {
+      "added_at": "2023-10-27 11:41:08",
+      "album": {
+        "name": "Whiskey On You",
+        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 183789,
+      "name": "Whiskey On You",
+      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
     },
     {
       "added_at": "2023-10-27 11:41:08",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2023-10-27 11:41:08",
       "album": {
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        },
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "duration_ms": 171626,
+      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
+      "url": "https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK"
+    },
+    {
+      "added_at": "2023-10-27 11:41:08",
+      "album": {
         "name": "I Should Have Married You",
         "url": "https://open.spotify.com/album/3HSreInK13c45aTK0Sqemr"
       },
@@ -1159,22 +1179,6 @@
       "duration_ms": 163533,
       "name": "I Should Have Married You",
       "url": "https://open.spotify.com/track/3XhhXPBUI2BKs8FTOOdHfR"
-    },
-    {
-      "added_at": "2023-10-27 11:41:08",
-      "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 190451,
-      "name": "Same Boat",
-      "url": "https://open.spotify.com/track/4HD9SLK4s9rwRyuFt3n8N7"
     },
     {
       "added_at": "2023-10-27 11:41:08",
@@ -1195,22 +1199,18 @@
     {
       "added_at": "2023-10-27 11:41:08",
       "album": {
-        "name": "Blue In The Sky",
-        "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC"
       },
       "artists": [
         {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        },
-        {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 171626,
-      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
-      "url": "https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK"
+      "duration_ms": 190451,
+      "name": "Same Boat",
+      "url": "https://open.spotify.com/track/4HD9SLK4s9rwRyuFt3n8N7"
     },
     {
       "added_at": "2023-10-27 11:41:08",

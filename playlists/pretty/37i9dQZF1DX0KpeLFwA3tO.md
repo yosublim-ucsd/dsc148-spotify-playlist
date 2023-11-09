@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Green Day
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,003 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,041 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [USA](https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [USA](https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG) | 1:38 |
 | 100 | [Fallen Short](https://open.spotify.com/track/1mbnRS3a0TgqsrahokSF43) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Fallen Short](https://open.spotify.com/album/7Dcgqmfp566cAcShiWhUqi) | 2:37 |
 
-Snapshot ID: `MCw3YTZkMTM2OWJkYjJhYmZiZTAxMzhmZGY5NzMzMzE3NTg3YjA5YzM3`
+Snapshot ID: `MCw5YTBiYzA4ODVmMmNkY2Q0MDBhOWUwOGY0MTM2NTg5MWU0NjgxZGMw`

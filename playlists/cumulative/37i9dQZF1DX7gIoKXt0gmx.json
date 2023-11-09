@@ -652,7 +652,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 130882,
       "name": "CINDERELLA, Pt. 2",
       "url": "https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 167019,
       "name": "Don't Love Me",
       "url": "https://open.spotify.com/track/1hUhr4K3DD2iva88RMVAyY"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2021-02-11",
+      "date_removed": null,
       "duration_ms": 194613,
       "name": "Exchange",
       "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 322160,
       "name": "From Time",
       "url": "https://open.spotify.com/track/0GaBIpyHvytM1UBYmqXu08"
@@ -1777,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198370,
+      "name": "Heartbreak Anniversary",
+      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
+    },
+    {
+      "album": {
         "name": "A Place Like This",
         "url": "https://open.spotify.com/album/1iMD6TkaGBK3tYuD7hi16A"
       },
@@ -2146,7 +2164,7 @@
       ],
       "date_added": "2020-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 171173,
       "name": "Inhale",
       "url": "https://open.spotify.com/track/0ycIrEpkyb4lrqE7M1emju"
@@ -2284,7 +2302,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 320400,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
@@ -2378,6 +2396,24 @@
       "duration_ms": 153658,
       "name": "LANSDOWNE",
       "url": "https://open.spotify.com/track/6Dv76051LlfL1LvMpcPLKw"
+    },
+    {
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "album": {
@@ -3269,6 +3305,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Hill",
+        "url": "https://open.spotify.com/album/659XtuIbCfz9UWWrlMmq7v"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253584,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2X62E2rxNuCK3IdwnutBbI"
+    },
+    {
+      "album": {
         "name": "Often",
         "url": "https://open.spotify.com/album/3KOSzvZlRyhU6grHpI7y4m"
       },
@@ -3428,7 +3482,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 174306,
       "name": "PERSIAN RUGS",
       "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
@@ -3772,7 +3826,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 159230,
       "name": "Self Love",
       "url": "https://open.spotify.com/track/5jT6jENoyDH8YwvKT2NlnC"
@@ -4228,7 +4282,7 @@
       ],
       "date_added": "2020-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 214437,
       "name": "Take Care of You (feat. Syd)",
       "url": "https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv"
@@ -4409,6 +4463,24 @@
     },
     {
       "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237539,
+      "name": "THINGS & SUCH",
+      "url": "https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk"
+    },
+    {
+      "album": {
         "name": "Morning After",
         "url": "https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd"
       },
@@ -4504,6 +4576,24 @@
       "duration_ms": 211204,
       "name": "This Way - From SUPERFLY - Original Soundtrack",
       "url": "https://open.spotify.com/track/6fbYL76UWbHdYq4B91TPQi"
+    },
+    {
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "Throw It Away",
+      "url": "https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP"
     },
     {
       "album": {

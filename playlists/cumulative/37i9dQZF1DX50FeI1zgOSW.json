@@ -295,6 +295,28 @@
     },
     {
       "album": {
+        "name": "Boomer Uncle",
+        "url": "https://open.spotify.com/album/1tj08LiuGmC7H66Vd3lmmA"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Godson Paul",
+          "url": "https://open.spotify.com/artist/5jhGaixWICC5S0iZfD48pd"
+        },
+        {
+          "name": "Thee Raa",
+          "url": "https://open.spotify.com/artist/2CNe7ZJ7hnd3e0hsYKIA5l"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222375,
+      "name": "Boomer Uncle",
+      "url": "https://open.spotify.com/track/76Rduf0fn3F5UsCZI4X17J"
+    },
+    {
+      "album": {
         "name": "Bubble",
         "url": "https://open.spotify.com/album/6vGV23SUU5PIUicPWy9NA4"
       },

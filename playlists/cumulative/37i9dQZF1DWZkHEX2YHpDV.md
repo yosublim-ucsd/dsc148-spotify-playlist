@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Magnolia Park
 
-1,056 songs - 2 day 7 hr 45 min
+1,057 songs - 2 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Changing of Seasons](https://open.spotify.com/track/3eQJPPAwjrsnJtO0R4A3MK) | [Santa Cruz](https://open.spotify.com/artist/1ZP10xzJoQljzTHiaU2Gri) | [Changing of Seasons](https://open.spotify.com/album/6WAetoimROIvqKjMCpjEzo) | 2:45 | 2022-03-25 | 2022-04-19 |
 | [Checking In](https://open.spotify.com/track/7t2YrgFxbTxTUxkl8bbYHa) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Checking In](https://open.spotify.com/album/1BSES1gYrSt5nUVPfDunDQ) | 2:59 | 2023-05-12 | 2023-07-10 |
 | [Chemical Drugs](https://open.spotify.com/track/5pgRkSw1elCTQP8EDUaZvs) | [Karma Kids](https://open.spotify.com/artist/2tolFkeeZ90dTrTpuSUTiK) | [Chemical Drugs](https://open.spotify.com/album/7woZ2Lt8fIjmWEBLW77jIG) | 3:24 | 2022-02-04 | 2022-04-18 |
+| [Cherryland](https://open.spotify.com/track/2CP5TuxVJD1IggS5rw0goV) | [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Cherryland](https://open.spotify.com/album/5RdopBmBV7XPu36hcHbrTX) | 2:34 | 2023-10-27 |  |
 | [Childhood Eyes](https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN) | 3:13 | 2023-06-09 | 2023-07-28 |
 | [Childhood Eyes](https://open.spotify.com/track/2ttWOp5QoqdO6zkIJJ4bFh) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/7g4Iij7EeDIraxCXQRQAQo) | 3:13 | 2023-07-14 |  |
 | [Children of The Dark](https://open.spotify.com/track/17bqduRY9LL8WWXtsSE1Kp) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Children of The Dark](https://open.spotify.com/album/78MIA5qaj5wiJgE9pTA9py) | 2:32 | 2021-12-10 | 2023-04-11 |
@@ -702,7 +703,7 @@
 | [Perfect](https://open.spotify.com/track/5Vfl6AYr1PyG4BcEMIr8oT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Perfect](https://open.spotify.com/album/7Ecotv7Pdu4utXTqulJ45n) | 2:33 | 2023-10-23 |  |
 | [Perfectly Imperfect](https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Perfectly Imperfect](https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx) | 2:24 | 2022-06-17 | 2023-10-28 |
 | [Perfume \(feat\. Awsten Knight\)](https://open.spotify.com/track/2cWMwxmJ2TPuPLcNQdEaq5) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Awsten Knight](https://open.spotify.com/artist/6ORwdLfpd4q9V1BlktwYfZ) | [Perfume \(feat\. Awsten Knight\)](https://open.spotify.com/album/1qqoHvXacvsatI0g8bO2L7) | 2:50 | 2021-12-10 | 2022-06-18 |
-| [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-08-26 |  |
+| [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-08-26 | 2023-11-09 |
 | [phuck u](https://open.spotify.com/track/0kJv6Szx4qBhr7byrlgzgH) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [phuck u](https://open.spotify.com/album/7Ft8Bqn9YSbK1GS4iT2M0k) | 2:41 | 2021-12-10 | 2022-07-29 |
 | [PILL BREAKER \(feat\. blackbear & Machine Gun Kelly\)](https://open.spotify.com/track/7jjnn6K7p5MgOFuqLypAcM) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Pegasus: Neon Shark vs Pegasus Presented By Travis Barker \(Deluxe\)](https://open.spotify.com/album/4Sj1MJMO2jaIZyr00ipCkl) | 2:57 | 2021-12-10 | 2022-05-24 |
 | [Pillbox Hill](https://open.spotify.com/track/6fF8MC0N5q8bpcXnsj45Wy) | [Big Smile](https://open.spotify.com/artist/6aRUlxUt0AIBeAkMVykgbM) | [Dependent](https://open.spotify.com/album/5Xxw0o24d4VYOwHmDovXmp) | 3:43 | 2021-12-10 | 2022-07-07 |

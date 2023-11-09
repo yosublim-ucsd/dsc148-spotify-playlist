@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,437 likes - 171 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,468 likes - 171 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 62 | [Don't Lose Heart](https://open.spotify.com/track/2RIjhcqCoUbl4D5y436PDy) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Don't Lose Heart](https://open.spotify.com/album/2cHZv5Cwg4lWvi6NVs0g0f) | 3:31 |
 | 63 | [Thought About You](https://open.spotify.com/track/6CWzNUUmNLpiBMyR5cMzJK) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth \(Ultimate Edition\)](https://open.spotify.com/album/5kNJYMb1mTyoqKx1tBTt53) | 3:46 |
 | 64 | [Good To Be Loved By You \(with Tyler Hubbard\)](https://open.spotify.com/track/62q03kZpF2r4d8rfLcExsu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Chris Tomlin & Friends: Summer EP](https://open.spotify.com/album/7pfDAfc2EmNkl5TTVdVx5z) | 3:21 |
-| 65 | [Grew Up On That](https://open.spotify.com/track/54tkmSblWo5WzUA00yzJkm) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Grew Up On That](https://open.spotify.com/album/24OC3wKBc8NgSyQyeh8abB) | 2:52 |
+| 65 | [Grew up on That](https://open.spotify.com/track/54tkmSblWo5WzUA00yzJkm) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Grew Up On That](https://open.spotify.com/album/24OC3wKBc8NgSyQyeh8abB) | 2:52 |
 | 66 | [Cowboy Amen](https://open.spotify.com/track/59jOEV2zHNXIIDWxoJ20Bh) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Cowboy Amen](https://open.spotify.com/album/3UzARTHtTqFD3ffs4X2ToZ) | 2:44 |
 | 67 | [Sunday Sermons](https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Sunday Sermons](https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ) | 3:20 |
 | 68 | [Tell Somebody 'Bout You](https://open.spotify.com/track/4L4wkF5VyUrFXVSp5TPt1T) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Tell Somebody 'Bout You](https://open.spotify.com/album/3nYkJBH8aukTHcj3AacU22) | 3:56 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 170 | [A Little Love](https://open.spotify.com/track/6dtFZkJdNJljSlWI9dL1kg) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 3:08 |
 | 171 | [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 |
 
-Snapshot ID: `MCwyYzZjNjNhYTY1ZGQ2ODM2OTZiYjc5MjE5ZjJjNWExYTMwYzljYjYy`
+Snapshot ID: `MCxjZGZjZDZmMjgwMTRjN2MzYzQxNzhmOTQ3YTc3MzAxZDE0Zjc1ZmZh`

@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: The Used",
-  "num_followers": 442924,
+  "num_followers": 443118,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjg2OTBiMzY3MDAxNTk0MmNhZjBkNTJjNmE4ODUxMWFlYWVmMmI4",
+  "snapshot_id": "MCw0Y2NmMjY5NzI5YjhkZWM5ZjI4YTdiMTAyZmIyMGFhNWZkYzQxY2Jm",
   "tracks": [
     {
       "added_at": "2023-03-28 16:00:32",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "Let's Cheers To This",
+        "url": "https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 250240,
+      "name": "If You Can't Hang",
+      "url": "https://open.spotify.com/track/2Tc9VznHtQUmfOgE3L1RdN"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "Define The Great Line",
         "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)",
-        "url": "https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 95586,
-      "name": "Such Small Hands",
-      "url": "https://open.spotify.com/track/31Hx0pInhn2tSq5gdhWv0d"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "This War Is Ours (Deluxe Edition)",
         "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 266733,
       "name": "This War Is Ours (The Guillotine II)",
       "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)",
+        "url": "https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "duration_ms": 95586,
+      "name": "Such Small Hands",
+      "url": "https://open.spotify.com/track/31Hx0pInhn2tSq5gdhWv0d"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -523,22 +539,6 @@
       "duration_ms": 231096,
       "name": "Honey, This Mirror Isn't Big Enough for the Two of Us",
       "url": "https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "Let's Cheers To This",
-        "url": "https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 250240,
-      "name": "If You Can't Hang",
-      "url": "https://open.spotify.com/track/2Tc9VznHtQUmfOgE3L1RdN"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "They're Only Chasing Safety",
-        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Reinventing Your Exit",
-      "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Page Avenue",
         "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 216026,
       "name": "Anthem of Our Dying Day",
       "url": "https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "They're Only Chasing Safety",
+        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Reinventing Your Exit",
+      "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -667,6 +667,22 @@
       "duration_ms": 203240,
       "name": "Stare At The Sun",
       "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "With Ears To See And Eyes To Hear",
+        "url": "https://open.spotify.com/album/1oRHYWmIhP5bmXYerh9qXj"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "If I'm James Dean, You're Audrey Hepburn",
+      "url": "https://open.spotify.com/track/2D4LEUzvLRCQOLMxnajH72"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -763,22 +779,6 @@
       "duration_ms": 247426,
       "name": "Roses for the Dead",
       "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "With Ears To See And Eyes To Hear",
-        "url": "https://open.spotify.com/album/1oRHYWmIhP5bmXYerh9qXj"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "If I'm James Dean, You're Audrey Hepburn",
-      "url": "https://open.spotify.com/track/2D4LEUzvLRCQOLMxnajH72"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "Dance Gavin Dance",
+        "url": "https://open.spotify.com/album/7FErRFVQYaG2c0UUBapFGT"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "Uneasy Hearts Weigh The Most",
+      "url": "https://open.spotify.com/track/59RtbarKXlfmbKZjvkwoW7"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "His Last Walk",
         "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
       },
@@ -1055,6 +1071,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "Let's Cheers To This",
+        "url": "https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Do It Now Remember It Later",
+      "url": "https://open.spotify.com/track/3I9c2OFpB0al6qmYNcyMht"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "When Broken Is Easily Fixed",
         "url": "https://open.spotify.com/album/3fEej3BLA97fBcKe61PeSc"
       },
@@ -1067,22 +1099,6 @@
       "duration_ms": 222813,
       "name": "Smashed Into Pieces",
       "url": "https://open.spotify.com/track/1CKfTyQ4JMJxM9HFlvz187"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "Dance Gavin Dance",
-        "url": "https://open.spotify.com/album/7FErRFVQYaG2c0UUBapFGT"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 218453,
-      "name": "Uneasy Hearts Weigh The Most",
-      "url": "https://open.spotify.com/track/59RtbarKXlfmbKZjvkwoW7"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "After The Eulogy",
-        "url": "https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX"
-      },
-      "artists": [
-        {
-          "name": "Boysetsfire",
-          "url": "https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj"
-        }
-      ],
-      "duration_ms": 253440,
-      "name": "Rookie",
-      "url": "https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "On Frail Wings Of Vanity And Wax",
         "url": "https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Let's Cheers To This",
-        "url": "https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl"
+        "name": "After The Eulogy",
+        "url": "https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX"
       },
       "artists": [
         {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+          "name": "Boysetsfire",
+          "url": "https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj"
         }
       ],
-      "duration_ms": 203093,
-      "name": "Do It Now Remember It Later",
-      "url": "https://open.spotify.com/track/3I9c2OFpB0al6qmYNcyMht"
+      "duration_ms": 253440,
+      "name": "Rookie",
+      "url": "https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej"
     },
     {
       "added_at": "2023-03-28 16:00:32",

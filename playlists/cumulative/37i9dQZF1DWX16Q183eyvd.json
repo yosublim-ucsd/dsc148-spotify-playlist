@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Mouse-A-Mania",
+        "url": "https://open.spotify.com/album/1XHsqic4Jn9koJxkRYwVNw"
+      },
+      "artists": [
+        {
+          "name": "Eek-A-Mouse",
+          "url": "https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205680,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/1Cz147uNA3JuLlaF60TP5K"
+    },
+    {
+      "album": {
         "name": "Kids Rap Radio",
         "url": "https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5"
       },
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 198066,
       "name": "Take Me to Jamaica",
       "url": "https://open.spotify.com/track/6iRe9TNNsqheEko10IJGCN"
@@ -1292,7 +1310,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 193240,
       "name": "This Old Man",
       "url": "https://open.spotify.com/track/33brRRHTjeMZVXzt4tDOzp"
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 196293,
       "name": "Walk Tall",
       "url": "https://open.spotify.com/track/58C6oflMuofn2CvZnO4nyt"

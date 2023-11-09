@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Hollow Front
 
-766 songs - 2 day 0 hr 2 min
+767 songs - 2 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,8 @@
 | [Lost](https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [The Collapse](https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr) | 3:30 | 2022-06-10 | 2022-12-17 |
 | [Lost Boy](https://open.spotify.com/track/5jFuZGmz1VmEmx31wP7lDy) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [Lost Boy](https://open.spotify.com/album/3ZULFLjv3iyEZCgOzmmKHp) | 3:58 | 2022-07-13 | 2022-07-23 |
 | [Lost In Doubt](https://open.spotify.com/track/0VUnK5QjwA7t5r5B15S0K7) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Lost In Doubt](https://open.spotify.com/album/4MTpanFO4qaYv9OMltyt4e) | 2:37 | 2022-03-11 | 2022-05-14 |
-| [Lost In The Fall](https://open.spotify.com/track/2eNQotmrqiMh175jBPePJ2) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Lost In The Fall](https://open.spotify.com/album/2AaUKwRWLjWC01DQ8BzwwE) | 4:04 | 2023-09-15 |  |
+| [Lost In The Fall](https://open.spotify.com/track/2I0XplFdMIGiEJJYfPTwZ9) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Symptoms of Survival](https://open.spotify.com/album/5BO87WU4XaRXEU2Uxrg2le) | 4:04 | 2023-10-27 |  |
+| [Lost In The Fall](https://open.spotify.com/track/2eNQotmrqiMh175jBPePJ2) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Lost In The Fall](https://open.spotify.com/album/2AaUKwRWLjWC01DQ8BzwwE) | 4:04 | 2023-09-15 | 2023-11-09 |
 | [Low](https://open.spotify.com/track/1HG4TOUb5ETGmd6mJAwQrZ) | [Cabin Boy Jumped Ship](https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S) | [Sentiments](https://open.spotify.com/album/7lMBWUI1LBTAEIY4RiKu6m) | 4:12 | 2022-05-27 | 2022-10-08 |
 | [Lowborn](https://open.spotify.com/track/7nGc6tq27wHwpF7iFdUaWr) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lowborn](https://open.spotify.com/album/2VUudJnXj6o9SR1m0OlcXL) | 4:25 | 2021-12-17 | 2022-02-11 |
 | [Lucy](https://open.spotify.com/track/1tHk8blCzRJQKQd10K6i8I) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Lucy](https://open.spotify.com/album/78Aw9KMCkXDEOwogJ6h5lE) | 3:36 | 2022-03-03 | 2022-07-23 |

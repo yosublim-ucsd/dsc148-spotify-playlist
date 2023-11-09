@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-149 songs - 15 hr 51 min
+150 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Ocean Drive](https://open.spotify.com/track/55NdNir1D7TTBKKBITlJBD) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Muppet Anthem](https://open.spotify.com/album/4LNvAckfjyAPWt4uoZzxpZ) | 7:25 | 2021-08-12 |  |
 | [On Your Way](https://open.spotify.com/track/1Txy239Azz9buzEQ9034kF) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [Diviniti](https://open.spotify.com/artist/4pvP1lgFGxqJfIJU28bPPA) | [The Best!](https://open.spotify.com/album/1wDqXn3xaevYmKx4ER5P4H) | 7:57 | 2021-08-12 |  |
 | [One Moment](https://open.spotify.com/track/6v29e9ZravvxVPW9ICCmIn) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [One Moment](https://open.spotify.com/album/43DNy0NyAXS603IPelGSTR) | 5:45 | 2021-08-12 |  |
-| [PAMOJA \- Tayllor Remix](https://open.spotify.com/track/1UN9wXD1hlNsIUu4qY4lr2) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [PAMOJA \(Tayllor Remix\)](https://open.spotify.com/album/5Tm2zn1M6vfctd1USxtAg1) | 4:07 | 2023-03-07 |  |
+| [PAMOJA \- Tayllor Remix](https://open.spotify.com/track/1UN9wXD1hlNsIUu4qY4lr2) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [PAMOJA \(Tayllor Remix\)](https://open.spotify.com/album/5Tm2zn1M6vfctd1USxtAg1) | 4:07 | 2023-03-07 | 2023-11-09 |
+| [PAMOJA \- Tayllor Remix](https://open.spotify.com/track/2bHG9ylEwtJuUwc5knX1wt) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25) | [Pamoja](https://open.spotify.com/album/2f1YfhjkfNEcjkWDdRgVEA) | 4:07 | 2023-03-07 |  |
 | [Paradise \(feat\. Insight\) \- Extended](https://open.spotify.com/track/1V4ik8IUnOhdqJtlq7LWba) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Insight](https://open.spotify.com/artist/4mNqgCpPwkwYyr6xlqJViu) | [Paradise \(feat\. Insight\)](https://open.spotify.com/album/1itJyuA4M8mMBAdNuNXqHo) | 6:42 | 2021-08-12 | 2023-03-08 |
 | [Party in progress B Side](https://open.spotify.com/track/6UYXvuqW8Bj4nGrVrVTYwb) | [Pat Wilson](https://open.spotify.com/artist/08J8IIaUH1bt16yRIhEdvP) | [Party in Progress EP](https://open.spotify.com/album/0P8SfnU0u9bWNaqqogvb1s) | 6:03 | 2021-08-12 |  |
 | [Peru \- Original Mix](https://open.spotify.com/track/72lYfha9WcI0rPEesPnKk4) | [DC Salas](https://open.spotify.com/artist/5Je9stfFSgHo3TZgyOPsUw) | [Ibiza Underground 2011](https://open.spotify.com/album/173eL8LOalcV39QJW3ZjZF) | 6:31 | 2021-08-12 | 2023-03-08 |

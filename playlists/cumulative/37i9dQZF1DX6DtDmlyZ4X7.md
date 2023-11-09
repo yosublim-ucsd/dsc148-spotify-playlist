@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-641 songs - 1 day 3 hr 44 min
+642 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 | 2023-08-15 |  |
 | [Lost Nights](https://open.spotify.com/track/6nyxFKqmeUId9413dTb2Hb) | [Dana Leccia](https://open.spotify.com/artist/4ptl0i0yjT7UQ3seccQ484) | [Lost Nights](https://open.spotify.com/album/4eUA9CEYNwwBPLoK5VHmXP) | 2:34 | 2021-12-07 | 2023-08-20 |
 | [Lost Time](https://open.spotify.com/track/1nJE8TEWK9hf9Bl0pekJCi) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Lost Time](https://open.spotify.com/album/07lpIaggNhyyr47EJdGhDB) | 2:20 | 2021-12-07 | 2022-12-24 |
+| [Lost to memories](https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Lost to memories](https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj) | 2:14 | 2023-11-08 |  |
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2021-12-07 | 2022-07-29 |
 | [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-06-07 |  |
 | [Love Letter](https://open.spotify.com/track/51urgUMQVk7EIRoNshc36C) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Love Letter](https://open.spotify.com/album/0osEXsR2retxEFOQi7kn6S) | 1:41 | 2023-03-01 | 2023-05-12 |
@@ -625,7 +626,7 @@
 | [We Will Last](https://open.spotify.com/track/37lSjTwceAafdpm011tsGb) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [We Will Last](https://open.spotify.com/album/5S6G0M716lcPw7KHAFmUCJ) | 2:28 | 2022-04-13 | 2022-05-05 |
 | [Weaving](https://open.spotify.com/track/2HZqH4rqLWKZDZheQK0EUz) | [Moy Finneas](https://open.spotify.com/artist/1SlY8qPtaWfHek8pWieEkw) | [Weaving](https://open.spotify.com/album/389iBNdZJJo5xUYdDWjW3i) | 2:13 | 2021-12-07 | 2023-10-08 |
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2021-12-07 | 2023-09-22 |
-| [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2021-12-07 |  |
+| [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2021-12-07 | 2023-11-09 |
 | [When I Am With Her](https://open.spotify.com/track/6ubtoV4XYNXmXAonor5OGG) | [Hattie Sanford](https://open.spotify.com/artist/5Y9w5YkP5VxVumV37PL7tU) | [When I Am With Her](https://open.spotify.com/album/1gHtrb53NvHOPooEuQls2e) | 2:40 | 2021-12-07 | 2022-09-24 |
 | [when softness lifted us](https://open.spotify.com/track/4YJFGtMJbQsPtBFNaLVJVy) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [when softness lifted us](https://open.spotify.com/album/7gKhonZ8cfp8AuuCXVWflm) | 2:41 | 2021-12-07 | 2023-10-07 |
 | [Where Are You Now](https://open.spotify.com/track/3evKJGk8medQPPcA38Y3Tb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/65JGL9v0jvQqAWUqolwr2E) | 2:38 | 2022-06-07 | 2023-07-05 |

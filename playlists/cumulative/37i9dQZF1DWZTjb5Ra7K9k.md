@@ -4,7 +4,7 @@
 
 > Hora de aumentar o som e cair na água!
 
-81 songs - 4 hr 54 min
+82 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Amber](https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:31 | 2022-05-17 |  |
 | [Are You In?](https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:24 | 2022-05-17 |  |
 | [Bad News](https://open.spotify.com/track/1qexQ5omdTZEY5W1YteopP) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Poetry In Motion](https://open.spotify.com/album/4Zf1Hm15ddDthWt93135aK) | 3:49 | 2022-05-17 |  |
-| [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 | 2022-05-17 |  |
+| [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 | 2022-05-17 | 2023-11-09 |
 | [Beautiful Day](https://open.spotify.com/track/7MpEUigVg8fKHyyEKM1WNT) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Move By Yourself](https://open.spotify.com/album/5dZKE378q8mx9ZpE8pg0CG) | 3:26 | 2022-05-17 |  |
 | [Brother the Cloud](https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Brother the Cloud](https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB) | 4:22 | 2022-05-17 |  |
 | [Burn One Down](https://open.spotify.com/track/2QzMJkYUhThZxM94ahgOzN) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 3:31 | 2022-05-17 |  |
@@ -48,7 +48,8 @@
 | [Jumpin' Jack Flash \- Mono Version](https://open.spotify.com/track/3V4XaPTKFMigQEqzH9HDKS) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO) | 3:43 | 2023-07-28 | 2023-10-21 |
 | [Kingston Town](https://open.spotify.com/track/2OHQhOiGIYaXqqJVIMpNrF) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Soul Pirate](https://open.spotify.com/album/3hhWPRjFBsNYm3v3nbOqQC) | 3:12 | 2022-05-17 |  |
 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 | 2022-05-17 |  |
-| [La Mar](https://open.spotify.com/track/2huEHt0QsyntjJyzFb9jkV) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [Water](https://open.spotify.com/album/5vtFTKi1A14L6JelNYKZvW) | 4:03 | 2022-05-17 |  |
+| [La Mar](https://open.spotify.com/track/2huEHt0QsyntjJyzFb9jkV) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [Water](https://open.spotify.com/album/5vtFTKi1A14L6JelNYKZvW) | 4:03 | 2022-05-17 | 2023-11-09 |
+| [La Mar \(The Ocean\)](https://open.spotify.com/track/0WuWrW1N8ofJBjM5ZHkFjH) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [Learn Yourself](https://open.spotify.com/album/1OuDc65IgZ0nKnNwPMaylr) | 3:57 | 2023-07-28 |  |
 | [Lake Michigan](https://open.spotify.com/track/30lubdu2sSFsZsGQJVGjRG) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Asleep At Heaven's Gate \(Remastered And Expanded Edition\)](https://open.spotify.com/album/47B9Lff4byhHeFXL9Wr73F) | 3:48 | 2022-05-17 |  |
 | [Life, Love & Laughter](https://open.spotify.com/track/4d0mp3RK1yCY2RkWvLibNV) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Pass It Around](https://open.spotify.com/album/5UGyKjOCdpxPkamcLkJNZL) | 3:10 | 2022-05-17 |  |
 | [Light On](https://open.spotify.com/track/1mAqeDjQMfKhjT6nLyQBZQ) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Light On](https://open.spotify.com/album/5zbsXC9sAXCkpNjso1U3au) | 3:25 | 2023-07-28 | 2023-10-22 |
@@ -87,7 +88,7 @@
 | [Walk Away](https://open.spotify.com/track/2zpWbK58RhiLysM201bT3W) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Daydreams](https://open.spotify.com/album/5R8yRYP7TqrGXsjV6xaLVJ) | 3:23 | 2022-05-17 |  |
 | [Walk, Don't Run \- Stereo](https://open.spotify.com/track/7B2pUwzvlbNG9D855r9ugf) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Walk Don't Run](https://open.spotify.com/album/63nMHrHgu1xVuaWMT9eEap) | 2:02 | 2022-05-17 |  |
 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 | 2022-05-17 |  |
-| [What's My Scene](https://open.spotify.com/track/5Dpv08jVFM3UHvmY6zp7qi) | [Hoodoo Gurus](https://open.spotify.com/artist/7HZQqtnOYmjJl8XAB3Vg8y) | [Blow Your Cool](https://open.spotify.com/album/47CRqx6c9sIWmzpM5GXFYG) | 3:49 | 2022-05-17 | 2023-11-06 |
+| [What's My Scene](https://open.spotify.com/track/5Dpv08jVFM3UHvmY6zp7qi) | [Hoodoo Gurus](https://open.spotify.com/artist/7HZQqtnOYmjJl8XAB3Vg8y) | [Blow Your Cool](https://open.spotify.com/album/47CRqx6c9sIWmzpM5GXFYG) | 3:49 | 2022-05-17 |  |
 | [Young and Able](https://open.spotify.com/track/5zFsvJDJ48m45J82CipNpD) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Protect Your Own](https://open.spotify.com/album/5go4cEu6ll2JbN7ANcJ1xd) | 4:06 | 2022-05-17 |  |
 
 \*This playlist was first scraped on 2023-07-10. Prior content cannot be recovered.

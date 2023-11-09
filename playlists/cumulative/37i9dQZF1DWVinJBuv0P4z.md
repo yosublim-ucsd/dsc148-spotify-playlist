@@ -4,7 +4,7 @@
 
 > Happy tunes from the 50s, 60s & 70s\. Cover: The Beach Boys.
 
-343 songs - 19 hr 20 min
+344 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Knock on Wood \- 7" Edit](https://open.spotify.com/track/7vMRj40Rw8PPgZiDcbyUdj) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock On Wood: The Anthology](https://open.spotify.com/album/6brPlzSCD2ucBdhqmasvdf) | 3:47 | 2021-04-29 | 2022-04-20 |
 | [Knock Three Times](https://open.spotify.com/track/4Z0K8WzmzsPpX0Po6qMfEh) | [The Dawn](https://open.spotify.com/artist/5z348neb55aaKyQhVgqEvS) | [Knock Three Times](https://open.spotify.com/album/3ZOLIQrSyuIcrek9YB7zys) | 3:00 | 2021-04-29 | 2022-07-29 |
 | [Kung Fu Fighting](https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [The Soul of the Kung Fu Fighter](https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX) | 3:17 | 2021-04-29 | 2023-11-04 |
+| [Kung Fu Fighting](https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [Kung Fu Fighter](https://open.spotify.com/album/53DDpuRxvNAUby9WODE3h2) | 3:17 | 2023-01-03 |  |
 | [La Bamba \- Single Version](https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:06 | 2021-04-29 |  |
 | [Ladies Night](https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 6:25 | 2021-04-29 | 2023-11-07 |
 | [Lady Marmalade](https://open.spotify.com/track/3GGcwG519BTMdvMeFy7meT) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Best Of Patti Labelle](https://open.spotify.com/album/2fgrmnOGJzwU79xlHe4Iub) | 3:55 | 2021-04-29 | 2022-11-13 |
@@ -305,7 +306,7 @@
 | [The Stairway Of Love](https://open.spotify.com/track/74g6fBNXehjKdVFNlswnSk) | [Terry Dene](https://open.spotify.com/artist/67hWqsLUH3NHcnxHXqH3qu) | [True 50's love](https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y) | 1:58 | 2021-04-29 | 2022-07-06 |
 | [The Twist](https://open.spotify.com/track/5GVhFvXo4Q3LfM1gZi46F5) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [The Twist](https://open.spotify.com/album/2weCSeNXba4E04VrgOoVO3) | 2:34 | 2021-04-29 | 2022-07-29 |
 | [The Twist](https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [Dancin' Party: The Chubby Checker Collection \(1960\-1966\)](https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY) | 2:35 | 2022-05-11 |  |
-| [The Wanderer](https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [The Best Of Dion](https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N) | 2:47 | 2021-04-29 |  |
+| [The Wanderer](https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [The Best Of Dion](https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N) | 2:47 | 2021-04-29 | 2023-11-09 |
 | [The Way You Do The Things You Do](https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Meet The Temptations](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) | 2:45 | 2021-04-29 |  |
 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 | 2021-04-29 |  |
 | [There´s A Whole Lot Of Loving](https://open.spotify.com/track/5ZYrnQZRxAQZW28pJtIDO2) | [Guys 'n' Dolls](https://open.spotify.com/artist/4HsXQK2GlotKLQtOD1DLzG) | [Guys 'N Dolls, The Greatest Hits](https://open.spotify.com/album/6RAhvTgnJCLyleANO5Sgci) | 3:13 | 2021-04-29 | 2022-07-27 |

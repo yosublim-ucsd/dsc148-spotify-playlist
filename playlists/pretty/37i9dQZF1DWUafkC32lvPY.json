@@ -1,12 +1,12 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 7696,
+  "num_followers": 7742,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTRlNzNjNzg5ZDQ4OTdkYjNjNGFkMzIxMjZjZmE5ZWZhZjM4OTY1",
+  "snapshot_id": "MCxkM2IyOTFlNDcxZjVhNGE5OTU0ZjA5M2E4Yzg2N2M3NTBkNTk2ZmI3",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Floripa",
+        "url": "https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce"
+      },
+      "artists": [
+        {
+          "name": "Ray Ben Rue",
+          "url": "https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv"
+        }
+      ],
+      "duration_ms": 119998,
+      "name": "Floripa",
+      "url": "https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Aves del Sur",
         "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 189811,
       "name": "Aves del Sur",
       "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Floripa",
-        "url": "https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce"
-      },
-      "artists": [
-        {
-          "name": "Ray Ben Rue",
-          "url": "https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv"
-        }
-      ],
-      "duration_ms": 119998,
-      "name": "Floripa",
-      "url": "https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -475,26 +475,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Mi Pueblo",
-        "url": "https://open.spotify.com/album/02WfhEBpCed81725wg1lsx"
+        "name": "Guaguansoul",
+        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
       },
       "artists": [
         {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
         }
       ],
-      "duration_ms": 114000,
-      "name": "Mi Pueblo",
-      "url": "https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB"
+      "duration_ms": 175156,
+      "name": "Cat\u00e1 Surf",
+      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -519,18 +511,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Guaguansoul",
-        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+        "name": "Mi Pueblo",
+        "url": "https://open.spotify.com/album/02WfhEBpCed81725wg1lsx"
       },
       "artists": [
         {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
         }
       ],
-      "duration_ms": 175156,
-      "name": "Cat\u00e1 Surf",
-      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
+      "duration_ms": 114000,
+      "name": "Mi Pueblo",
+      "url": "https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "En el Tianguis Lo-Fi",
+        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
+      },
+      "artists": [
+        {
+          "name": "Bandido Beat",
+          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
+        }
+      ],
+      "duration_ms": 319062,
+      "name": "En el Tianguis Lo-Fi",
+      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "un atardecer a tu lado",
         "url": "https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "En el Tianguis Lo-Fi",
-        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
+        "name": "Donde Estas?",
+        "url": "https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j"
       },
       "artists": [
         {
-          "name": "Bandido Beat",
-          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
         }
       ],
-      "duration_ms": 319062,
-      "name": "En el Tianguis Lo-Fi",
-      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
+      "duration_ms": 124245,
+      "name": "Donde Estas?",
+      "url": "https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -639,22 +655,6 @@
       "duration_ms": 124500,
       "name": "Te Adoro",
       "url": "https://open.spotify.com/track/1sagWkuNSjjj1juUOTQNRF"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Donde Estas?",
-        "url": "https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j"
-      },
-      "artists": [
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        }
-      ],
-      "duration_ms": 124245,
-      "name": "Donde Estas?",
-      "url": "https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Quiet Process",
-        "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
-      },
-      "artists": [
-        {
-          "name": "Baskito",
-          "url": "https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "love in medell\u00edn",
         "url": "https://open.spotify.com/album/6IHUbJzZ2P4XMC9fq4O7TA"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 109723,
       "name": "love in medell\u00edn",
       "url": "https://open.spotify.com/track/5mGAQqsga5RzDp8NoQgmsH"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Quiet Process",
+        "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
+      },
+      "artists": [
+        {
+          "name": "Baskito",
+          "url": "https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Alc\u00e1zar",
-        "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
-      },
-      "artists": [
-        {
-          "name": "Tranquilo",
-          "url": "https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE"
-        }
-      ],
-      "duration_ms": 98653,
-      "name": "Alc\u00e1zar",
-      "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "lucky monkey",
         "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 133333,
       "name": "lucky monkey",
       "url": "https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Alc\u00e1zar",
+        "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
+      },
+      "artists": [
+        {
+          "name": "Tranquilo",
+          "url": "https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE"
+        }
+      ],
+      "duration_ms": 98653,
+      "name": "Alc\u00e1zar",
+      "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1151,22 +1151,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Sample Saga: Brazil",
-        "url": "https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe"
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
       },
       "artists": [
         {
-          "name": "Beagle Bonnie",
-          "url": "https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3"
-        },
-        {
-          "name": "DJ No\u00e9",
-          "url": "https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3"
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
         }
       ],
-      "duration_ms": 117446,
-      "name": "Devagar",
-      "url": "https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw"
+      "duration_ms": 122273,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
+        "name": "Sample Saga: Brazil",
+        "url": "https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe"
       },
       "artists": [
         {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+          "name": "Beagle Bonnie",
+          "url": "https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3"
+        },
+        {
+          "name": "DJ No\u00e9",
+          "url": "https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3"
         }
       ],
-      "duration_ms": 122273,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
+      "duration_ms": 117446,
+      "name": "Devagar",
+      "url": "https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1215,6 +1215,30 @@
       "duration_ms": 134400,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Monstera",
+        "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Acrylic Label",
+          "url": "https://open.spotify.com/artist/2lxS712XGJoaF1xUVsOz2F"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Monstera",
+      "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1247,30 +1271,6 @@
       "duration_ms": 120000,
       "name": "Metro Mexico",
       "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Monstera",
-        "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Acrylic Label",
-          "url": "https://open.spotify.com/artist/2lxS712XGJoaF1xUVsOz2F"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Monstera",
-      "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Aesthetic Beach",
-        "url": "https://open.spotify.com/album/58M5ZhKOSGd2ZHis9sZJsW"
-      },
-      "artists": [
-        {
-          "name": "Arkei",
-          "url": "https://open.spotify.com/artist/0zRhlnZOOvpAwow405hTFw"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Orange Waves",
-      "url": "https://open.spotify.com/track/00L0ighVhKptSsIG49Ywnh"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Beautiful Lights",
         "url": "https://open.spotify.com/album/3ok7EPy5XclmIyEs3XgPtR"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 148860,
       "name": "Diamond Sparkle",
       "url": "https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Aesthetic Beach",
+        "url": "https://open.spotify.com/album/58M5ZhKOSGd2ZHis9sZJsW"
+      },
+      "artists": [
+        {
+          "name": "Arkei",
+          "url": "https://open.spotify.com/artist/0zRhlnZOOvpAwow405hTFw"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Orange Waves",
+      "url": "https://open.spotify.com/track/00L0ighVhKptSsIG49Ywnh"
     },
     {
       "added_at": "2023-11-03 04:00:00",

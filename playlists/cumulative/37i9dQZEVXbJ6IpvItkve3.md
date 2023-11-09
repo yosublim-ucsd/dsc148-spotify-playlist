@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-839 songs - 1 day 23 hr 20 min
+840 songs - 1 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,7 +517,7 @@
 | [ברקים ורעמים](https://open.spotify.com/track/6zu28NOvkZEhkB7vMM88Go) | [David Broza](https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL) | [המיטב \(לעכשיו\)](https://open.spotify.com/album/4YEgGMuzfPb7iuPjfDXqNl) | 3:14 | 2023-04-22 | 2023-04-25 |
 | [בשורות טובות](https://open.spotify.com/track/5dUG9RrLElsi2sxJAhVUZJ) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i), [הפשוטע](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) | [בשורות טובות](https://open.spotify.com/album/1oBfvjTLPPfUEO4R6FqzRl) | 2:54 | 2022-06-07 | 2022-10-14 |
 | [גברת טיקטוק](https://open.spotify.com/track/6PTG6Ez6N2wIusaKM3J9GV) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:38 | 2021-09-26 | 2021-10-23 |
-| [גדל לי קצת זקן](https://open.spotify.com/track/4abB8WdkswrxWxcV2e56x9) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:17 | 2021-12-07 |  |
+| [גדל לי קצת זקן](https://open.spotify.com/track/4abB8WdkswrxWxcV2e56x9) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:17 | 2021-12-07 | 2023-11-09 |
 | [גדל לי קצת זקן](https://open.spotify.com/track/7kJ3RSCzrosxxkNgJtQ53v) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [גדל לי קצת זקן](https://open.spotify.com/album/347aXzYbHwsLtqyMX99CZO) | 3:17 | 2021-03-27\* | 2021-12-07 |
 | [גולם](https://open.spotify.com/track/3p8VuChjDae8lY7fx91Esy) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:35 | 2021-09-26 | 2021-10-10 |
 | [גוף](https://open.spotify.com/track/4o58kocggjTMh0HxRq0mlO) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Adi Ulmansky](https://open.spotify.com/artist/3USGrdyXkg1eLoWJ7KhrhJ) | [גוף](https://open.spotify.com/album/0ctkqPBtwL776H7wXGsTui) | 3:55 | 2023-03-18 | 2023-04-06 |
@@ -621,6 +621,7 @@
 | [כפיות](https://open.spotify.com/track/02hXZxgl6XwtAdK9y2sb6B) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [שמישהו יעצור אותי](https://open.spotify.com/album/5i2fynlwfVB6CzJfeYP0uH) | 2:59 | 2023-09-15 | 2023-10-21 |
 | [כפרה שלי](https://open.spotify.com/track/7mBGGsJwx4o8NiqWfmAJ96) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [שפל וגאות](https://open.spotify.com/album/5JoChxeUG2tSn3EWUAEtrh) | 4:21 | 2023-05-22 | 2023-06-02 |
 | [כשאת הולכת](https://open.spotify.com/track/2TE9K4A2YjHxkw7Um4Mudu) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [The 8](https://open.spotify.com/album/5dMa0I7cyLtXLn47oxGpph) | 3:30 | 2021-03-27\* | 2021-04-08 |
+| [כשיגמר לכם הקיץ](https://open.spotify.com/track/3cXhJh34pRLkZegiL5cfy9) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [כשיגמר לכם הקיץ](https://open.spotify.com/album/5ffae8gMxaLwO0uWij6pUT) | 3:03 | 2023-11-08 |  |
 | [לא היה מעולם](https://open.spotify.com/track/5pZmyjoGBrQ1inaZmXXpFA) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [לא היה מעולם](https://open.spotify.com/album/0g1opMY6902IcH7XIBrbLN) | 3:21 | 2022-06-18 | 2022-07-31 |
 | [לא להיות לבד](https://open.spotify.com/track/16tcNezkJ5VETVDVC4m7gj) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [לא להיות לבד](https://open.spotify.com/album/0k6UX8ZPGWtQ0ilP6r6knR) | 3:00 | 2021-10-23 | 2022-07-14 |
 | [לא להיות לבד](https://open.spotify.com/track/3R07e1YzlIJATTjA3aT0Et) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [לא להיות לבד](https://open.spotify.com/album/4Np2OvJnHaEdZiosQLMQJd) | 3:00 | 2022-07-13 | 2022-08-18 |

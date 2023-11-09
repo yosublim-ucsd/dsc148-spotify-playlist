@@ -1,12 +1,12 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 6694,
+  "num_followers": 6696,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzEwNjAxNDgxNjgyNzBkYTJiYzZjMDZmNzYyMGI0OTMyMGI2YzFj",
+  "snapshot_id": "MCxhYzQ4NmE0MTgzMjc5NWFkZWZjMDY1NDhiZTJlMWU1ZWQwNThkZjU2",
   "tracks": [
     {
       "added_at": "2020-04-27 15:43:16",
@@ -927,6 +927,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "Un Mundo De Canciones",
+        "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
+      },
+      "artists": [
+        {
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
+        }
+      ],
+      "duration_ms": 103613,
+      "name": "El Zapatero",
+      "url": "https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "Miss Patylu Vol. 2",
         "url": "https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 152198,
       "name": "Sana Sana",
       "url": "https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "Rondas y Cl\u00e1sicos Infantiles 2",
-        "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
-      },
-      "artists": [
-        {
-          "name": "El Reino Infantil",
-          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
-        }
-      ],
-      "duration_ms": 98226,
-      "name": "Feliz En Tu D\u00eda",
-      "url": "https://open.spotify.com/track/0fKjKCEvHshLPqzuBpAg6c"
     }
   ],
   "unique_name": "Cantando con tus Favoritos",

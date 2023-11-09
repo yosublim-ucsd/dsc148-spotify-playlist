@@ -4,14 +4,14 @@
 
 > Come on, man\. Just smile!
 
-88 songs - 5 hr 7 min
+89 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Pound a Kali](https://open.spotify.com/track/4ueCKMfynKI8B2SzoPJaTr) | [Green Lion Crew](https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m), [Cut Stone](https://open.spotify.com/artist/2n90OvLEoTFhRC0AT0bS48), [Kali Blaxx](https://open.spotify.com/artist/6847AhFVSj1r1KknNDt6uz) | [100 Pound a Kali \(feat\. Kali Blaxx\) \- Single](https://open.spotify.com/album/2gpLJUMuesqNvhRWastDjC) | 2:39 | 2021-10-24 |  |
 | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw) | 2:43 | 2021-10-24 |  |
 | [Beach In Hawaii](https://open.spotify.com/track/1ZPsdTkzhDeHjA5c2Rnt2I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI) | 3:40 | 2021-10-24 | 2022-07-29 |
-| [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 | 2022-10-13 |  |
+| [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 | 2022-10-13 | 2023-11-09 |
 | [Beach in Hawaii](https://open.spotify.com/track/7nCQ6Q6HJeHnwDHydc7x05) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/3DbhHwKGkBX7OEUzmYlgbu) | 3:44 | 2022-06-20 | 2022-10-13 |
 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 | 2021-10-24 |  |
 | [Blessings](https://open.spotify.com/track/28XBIzpPzfgXwrno4B8U1f) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Blessings](https://open.spotify.com/album/6YvdsRy3lNHkjwK7L4ojMi) | 3:08 | 2021-10-24 |  |
@@ -36,6 +36,7 @@
 | [Iron Lion Zion](https://open.spotify.com/track/7jzdw79XZtbF2HcX4ofHge) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Gold](https://open.spotify.com/album/3Nvfpup2KU1NjD4uVEbxzz) | 3:13 | 2021-10-24 | 2022-07-29 |
 | [Iron Lion Zion \- 7" Mix](https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Iron Lion Zion](https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK) | 3:22 | 2022-06-20 |  |
 | [It Must Be True Love](https://open.spotify.com/track/1pZcY3kqDfEmJjrQ2CLP3B) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [The Best of The Maytals](https://open.spotify.com/album/1B30XX0WLRtky9va3mGmiE) | 3:09 | 2022-06-20 | 2022-12-26 |
+| [It Must Be True Love](https://open.spotify.com/track/2DWNvyAsE7yZWUDAPQqHw0) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [The Best of The Maytals](https://open.spotify.com/album/07vKVYq96EdCHfqQ47aJSo) | 3:24 | 2022-10-13 |  |
 | [It Must Be True Love](https://open.spotify.com/track/7HwXZSIKEqVEkVRarpUELt) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Trojan Lovers Collection](https://open.spotify.com/album/5EuOQL9gsUcmO3khx4JSCG) | 3:24 | 2022-10-13 | 2023-11-02 |
 | [It Must Be True Love](https://open.spotify.com/track/4fs7A0HgWe9guaNh3jPBFz) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Trojan Lovers Collection](https://open.spotify.com/album/1nmApsog19BD430O3mPzXm) | 3:24 | 2021-10-24 | 2022-07-29 |
 | [Jah Is There](https://open.spotify.com/track/05aGKJ2UcIjF9DetAnU0qF) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Dread & Terrible Project \- 5th Anniversary \(Deluxe Edition\)](https://open.spotify.com/album/3T5KaIlXqSnWUlnM99mOjv) | 4:17 | 2021-10-24 |  |

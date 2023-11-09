@@ -4,7 +4,7 @@
 
 > Descubre lo más fresco de la electrónica mexicana\. Lex en portada.
 
-227 songs - 12 hr 54 min
+228 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Boomerang](https://open.spotify.com/track/51kQKB6qJIJSAOJ4C03Kc4) | [Mastachi](https://open.spotify.com/artist/2FUdSx0y6GUemXtB1xXIax), [Zailor](https://open.spotify.com/artist/6vr59vSBFI4Xp4qs1Hbilt) | [Boomerang](https://open.spotify.com/album/48JnQPI5SyVLaXSFfne6PX) | 2:37 | 2022-12-21 | 2023-03-25 |
 | [Brake Test](https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN) | [Kevin Brand](https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS), [Guztavo MX](https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q), [Nitai Charan](https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I) | [Brake Test](https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI) | 2:17 | 2022-07-28 |  |
 | [Brake Test](https://open.spotify.com/track/26B6PP5os25Rwwy7mJKbpw) | [Kevin Brand](https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS), [Guztavo MX](https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q), [Nitai Charan](https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I) | [Brake Test](https://open.spotify.com/album/2DnM4ema2GMD0Yxmp3Kf9d) | 2:17 | 2022-05-06 | 2022-07-29 |
+| [Brisa](https://open.spotify.com/track/1mhD6azpk9jqaSudGsNiXW) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Brisa](https://open.spotify.com/album/5mI4q6IaLxQiumiAQ69jmj) | 2:45 | 2023-10-31 |  |
 | [Brisa](https://open.spotify.com/track/55D5YIajNyBqrpWCnmXuRr) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Brisa](https://open.spotify.com/album/3rVW7u5AB3qf6NGGAs2MdY) | 2:45 | 2023-07-04 | 2023-11-08 |
 | [Bum Bum](https://open.spotify.com/track/1rUfAnT35qS7hL6okyDOH0) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Bum Bum](https://open.spotify.com/album/0xILTcOCna3TN6GQSF4ncV) | 2:46 | 2022-07-28 | 2023-03-25 |
 | [Bye Bye](https://open.spotify.com/track/1kMVjZ6gDQpMckNs895asT) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Bye Bye](https://open.spotify.com/album/4QHSMXk4TjKaRpHGMDaCCo) | 3:48 | 2022-05-06 | 2022-12-16 |
@@ -190,7 +191,7 @@
 | [Slow Motion](https://open.spotify.com/track/2r8Wq7tUVdkIZpeuI8TBsE) | [Betoko](https://open.spotify.com/artist/48aaubPa3RsbAp4uCPhoS7) | [Tándem 003](https://open.spotify.com/album/71edUZkWDVsyQjUwC4Bb3d) | 8:00 | 2022-05-06 | 2022-07-26 |
 | [Someone Else's Love](https://open.spotify.com/track/30HuQuGTnEumX2PmUWdLo8) | [Jake Silva](https://open.spotify.com/artist/5RLODyL9SNX8KYZ0yiiXvL), [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93) | [Someone Else's Love](https://open.spotify.com/album/4sAZLc3KOCg7sZ6CA6wRWK) | 2:54 | 2023-09-29 |  |
 | [Sorry](https://open.spotify.com/track/0avt9Jr2hdNXeqaRWOv1SA) | [Youth In Circles](https://open.spotify.com/artist/35FbwufKDprqJfq8Qnk31b) | [Sorry](https://open.spotify.com/album/56XAoIyyXf4gbRyBO7uEur) | 3:49 | 2022-05-06 | 2022-07-16 |
-| [Space](https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3) | [NØRBY](https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Space](https://open.spotify.com/album/3r4UauxvbGR8am8API7124) | 2:58 | 2022-05-06 |  |
+| [Space](https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3) | [NØRBY](https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Space](https://open.spotify.com/album/3r4UauxvbGR8am8API7124) | 2:58 | 2022-05-06 | 2023-11-09 |
 | [Sr\. Tigre \- French Braids Rework](https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Sr\. Tigre \(French Braids Rework\)](https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp) | 3:32 | 2023-01-13 | 2023-03-25 |
 | [Stereo Love](https://open.spotify.com/track/6X9hD9medguWs5mMGy6S0X) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [Donovan's Playground](https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ), [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Stereo Love](https://open.spotify.com/album/3G5JR3RJrRSVJTQv2QfcGH) | 3:07 | 2022-05-06 | 2023-03-25 |
 | [Sunrise](https://open.spotify.com/track/63qjpIJeOAK2EW5IEFBv6M) | [VINIIUM](https://open.spotify.com/artist/01wEzy3mqT1ofEGTAz0Li8), [Cuish](https://open.spotify.com/artist/61RmCUTCpJE6fDpVAerv0e), [J R](https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn) | [Sunrise](https://open.spotify.com/album/30vmI1DiwumAQksOw5OqMm) | 2:48 | 2022-07-28 | 2022-09-02 |

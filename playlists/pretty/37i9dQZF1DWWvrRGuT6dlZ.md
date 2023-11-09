@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Leeray\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,751 likes - 173 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,758 likes - 173 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 172 | [Shackle](https://open.spotify.com/track/2BPyKPCI4MMzUishOYGYJu) | [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul), [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx) | [Shackle](https://open.spotify.com/album/0PMR3GiPKDrdJslDDoEgHN) | 3:16 |
 | 173 | [Twenty](https://open.spotify.com/track/3iGMa0hrJQv9EtFeTnBbyA) | [Wen Wei](https://open.spotify.com/artist/12LXmUdAbhmRP9CCa7wGHn) | [Twenty](https://open.spotify.com/album/6lzxaxTTPsO3OXnXHcEqJI) | 3:48 |
 
-Snapshot ID: `MCxkNDEzMzA5YTI5MjI5M2VhYTIwYTRjM2NmZTFiZjc1ZjViNTAxMzlj`
+Snapshot ID: `MCw3OWEyYjFiNzVjMDA3YzkxY2YyZjNmZWE3ZDM2ZGZlNzY3MDI3N2Ux`

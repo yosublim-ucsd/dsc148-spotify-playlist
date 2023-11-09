@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Vv Pete is our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,002 likes - 66 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,009 likes - 66 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 65 | [Perfect For You](https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Perfect For You](https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir) | 2:58 |
 | 66 | [Rhythms](https://open.spotify.com/track/7B1k04cXHoNGF1ve0k3acD) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Rhythms](https://open.spotify.com/album/2J7YuvDTltVy6R3noYv416) | 3:15 |
 
-Snapshot ID: `MCwzNjBlNTNkODA0NmZiOWMyOGExM2Y2MTFiMmUwY2RmOGMzYWMzNjk3`
+Snapshot ID: `MCxkYzE1N2Y4ZTRkNTE4OWY4ZDk4NGFhMTZmNTQwOTQ2ZWRkZjI5YWRj`

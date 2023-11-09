@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTdlMWQxMDJkMmFhNGVkNjQxOWZkMjdiODk5NDkxZjFlMTY3ODI4",
+  "snapshot_id": "MCw0MDg1NGE3ZGJiNTBhM2UyM2FjNTc4ZmFjODhjYjI0MjA1YjlmODVk",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Le blanc des yeux",
-        "url": "https://open.spotify.com/album/0JAW79jDrxy7bv5INPuC4z"
-      },
-      "artists": [
-        {
-          "name": "Roxane Bruneau",
-          "url": "https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ"
-        }
-      ],
-      "duration_ms": 177282,
-      "name": "Le blanc des yeux",
-      "url": "https://open.spotify.com/track/49pEcB0pNVNQPh70gnRL1m"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Carnaval de Finesse 2 : Les Chroniques d'un Jeune Entrepreneur",
         "url": "https://open.spotify.com/album/6XHp29DWqSqCS2UIZislPO"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 162206,
       "name": "Devil May Cry",
       "url": "https://open.spotify.com/track/3iw9cmv0VuAhwLI9HPkcx6"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Le blanc des yeux",
+        "url": "https://open.spotify.com/album/0JAW79jDrxy7bv5INPuC4z"
+      },
+      "artists": [
+        {
+          "name": "Roxane Bruneau",
+          "url": "https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ"
+        }
+      ],
+      "duration_ms": 177282,
+      "name": "Le blanc des yeux",
+      "url": "https://open.spotify.com/track/49pEcB0pNVNQPh70gnRL1m"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "La symphonie des \u00e9clairs",
+        "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "duration_ms": 211327,
+      "name": "Tristesse",
+      "url": "https://open.spotify.com/track/5FjLuHP3oJYLxqPZ3APut1"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Tout \u00e9cartill\u00e9 (\u00c9dition deluxe)",
         "url": "https://open.spotify.com/album/6CVsvtnm5djtroRFwBmbJ2"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 193613,
       "name": "Joli danger",
       "url": "https://open.spotify.com/track/31VGwATdNbbwhAQ3coOOBq"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "La symphonie des \u00e9clairs",
-        "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
-      },
-      "artists": [
-        {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
-        }
-      ],
-      "duration_ms": 211327,
-      "name": "Tristesse",
-      "url": "https://open.spotify.com/track/5FjLuHP3oJYLxqPZ3APut1"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "AlgeVita",
-        "url": "https://open.spotify.com/album/5cH69HuM6EUg7Onj2rMzbt"
-      },
-      "artists": [
-        {
-          "name": "S\u2019tano",
-          "url": "https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc"
-        }
-      ],
-      "duration_ms": 154070,
-      "name": "AlgeVita",
-      "url": "https://open.spotify.com/track/6YkVOrkg6wSrXQeVb0Pbtl"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Parler",
         "url": "https://open.spotify.com/album/16AkdXaH7x32OT9RQm6pol"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 218403,
       "name": "Parler",
       "url": "https://open.spotify.com/track/2uNHNErhFsnhlLvjFaufZT"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "AlgeVita",
+        "url": "https://open.spotify.com/album/5cH69HuM6EUg7Onj2rMzbt"
+      },
+      "artists": [
+        {
+          "name": "S\u2019tano",
+          "url": "https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc"
+        }
+      ],
+      "duration_ms": 154070,
+      "name": "AlgeVita",
+      "url": "https://open.spotify.com/track/6YkVOrkg6wSrXQeVb0Pbtl"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Le soleil et la mer",
+        "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "duration_ms": 168190,
+      "name": "Le matin",
+      "url": "https://open.spotify.com/track/1vNQPck3HugkKRZrmRrRp6"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Cosmologie",
         "url": "https://open.spotify.com/album/34KGYEvoB2LUHCH9BnPnRY"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 223186,
       "name": "Plan Large",
       "url": "https://open.spotify.com/track/3YZFGlIsPQafYIMJMR4UFI"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Le soleil et la mer",
-        "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
-      },
-      "artists": [
-        {
-          "name": "Bibi Club",
-          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
-        }
-      ],
-      "duration_ms": 168190,
-      "name": "Le matin",
-      "url": "https://open.spotify.com/track/1vNQPck3HugkKRZrmRrRp6"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Danser",
-        "url": "https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55"
-      },
-      "artists": [
-        {
-          "name": "Grand Eug\u00e8ne",
-          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "Danser",
-      "url": "https://open.spotify.com/track/6AT0rc6dhB4f5cjULRyd7Z"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Waska Matisiwin",
         "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 118609,
       "name": "Wactenamaci - Illumine-moi",
       "url": "https://open.spotify.com/track/3gyVI0iEcLv4DPMHq1VXfX"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Danser",
+        "url": "https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55"
+      },
+      "artists": [
+        {
+          "name": "Grand Eug\u00e8ne",
+          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "Danser",
+      "url": "https://open.spotify.com/track/6AT0rc6dhB4f5cjULRyd7Z"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Agnus Dei",
-        "url": "https://open.spotify.com/album/6fECpj4Mk2Doh94CsJJ1SC"
-      },
-      "artists": [
-        {
-          "name": "Gros Men\u00e9",
-          "url": "https://open.spotify.com/artist/0dTjZUMqyvErZOdHwPQjaT"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "V\u00e9nus",
-      "url": "https://open.spotify.com/track/4E1oxvahPId9N9qjdBKX4M"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Nouvelle administration",
         "url": "https://open.spotify.com/album/6TwsW9yNX4nRdcLE29dykh"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 198145,
       "name": "Nouvelle administration",
       "url": "https://open.spotify.com/track/5zKfgwMZ96rJuLESVrucMW"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Agnus Dei",
+        "url": "https://open.spotify.com/album/6fECpj4Mk2Doh94CsJJ1SC"
+      },
+      "artists": [
+        {
+          "name": "Gros Men\u00e9",
+          "url": "https://open.spotify.com/artist/0dTjZUMqyvErZOdHwPQjaT"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "V\u00e9nus",
+      "url": "https://open.spotify.com/track/4E1oxvahPId9N9qjdBKX4M"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Am\u00e9rica",
-        "url": "https://open.spotify.com/album/7oUfp7K3bbzupkxaXBNtdi"
-      },
-      "artists": [
-        {
-          "name": "Simon Kearney",
-          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "Deux pieds dans la tombe",
-      "url": "https://open.spotify.com/track/6rbzZ9CreR1hNoejCuOq5Z"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Mitshuap",
         "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 240010,
       "name": "Nimueshtaten nete",
       "url": "https://open.spotify.com/track/5X9LT75w5F75O2XmsAn2Pp"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Am\u00e9rica",
+        "url": "https://open.spotify.com/album/7oUfp7K3bbzupkxaXBNtdi"
+      },
+      "artists": [
+        {
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "Deux pieds dans la tombe",
+      "url": "https://open.spotify.com/track/6rbzZ9CreR1hNoejCuOq5Z"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Naomi",
-        "url": "https://open.spotify.com/album/732MHsEpWkJRnAkrvXdtoi"
-      },
-      "artists": [
-        {
-          "name": "Naomi",
-          "url": "https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Pas le temps de jouer",
-      "url": "https://open.spotify.com/track/5IYD6Jw0CdpEZTuQF3Jw0K"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Teinte",
         "url": "https://open.spotify.com/album/5OhCrmOqckXZRLicXsmMWS"
       },
@@ -1675,22 +1659,6 @@
       "duration_ms": 184946,
       "name": "Juillet",
       "url": "https://open.spotify.com/track/2C1YPDheJPxdmcheCMYvhP"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "M\u00e9tastases",
-        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
-      },
-      "artists": [
-        {
-          "name": "Keith Kouna",
-          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
-        }
-      ],
-      "duration_ms": 312653,
-      "name": "A\u00e9roplane",
-      "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1715,6 +1683,38 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "M\u00e9tastases",
+        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
+      },
+      "artists": [
+        {
+          "name": "Keith Kouna",
+          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
+        }
+      ],
+      "duration_ms": 312653,
+      "name": "A\u00e9roplane",
+      "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Naomi",
+        "url": "https://open.spotify.com/album/732MHsEpWkJRnAkrvXdtoi"
+      },
+      "artists": [
+        {
+          "name": "Naomi",
+          "url": "https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Pas le temps de jouer",
+      "url": "https://open.spotify.com/track/5IYD6Jw0CdpEZTuQF3Jw0K"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "La fable de la grenouille dor\u00e9e",
         "url": "https://open.spotify.com/album/2tcDyiKN4BWbQXgW494el5"
       },
@@ -1727,6 +1727,22 @@
       "duration_ms": 224000,
       "name": "03.04.19",
       "url": "https://open.spotify.com/track/1rnnLXCZgFbnXw529B21H6"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/25Fs9y1TTVzAtTyxzUtJ7T"
+      },
+      "artists": [
+        {
+          "name": "Peanut Butter Sunday",
+          "url": "https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/1gyGXCiMFynb95T18Oc8yl"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1747,22 +1763,6 @@
       "duration_ms": 172440,
       "name": "C-17",
       "url": "https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Soleil",
-        "url": "https://open.spotify.com/album/25Fs9y1TTVzAtTyxzUtJ7T"
-      },
-      "artists": [
-        {
-          "name": "Peanut Butter Sunday",
-          "url": "https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/1gyGXCiMFynb95T18Oc8yl"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "L'\u00e9chec h\u00e9ro\u00efque",
+        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
+      },
+      "artists": [
+        {
+          "name": "Thick Glasses",
+          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
+        }
+      ],
+      "duration_ms": 204461,
+      "name": "Mydriase",
+      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Hauterive",
         "url": "https://open.spotify.com/album/2T3H2zGJ0OAdpDDful41Bn"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 165973,
       "name": "Diff\u00e9rent de toi",
       "url": "https://open.spotify.com/track/3lBN3qdOdRezs6VgKbqJ6r"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "L'\u00e9chec h\u00e9ro\u00efque",
-        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
-      },
-      "artists": [
-        {
-          "name": "Thick Glasses",
-          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
-        }
-      ],
-      "duration_ms": 204461,
-      "name": "Mydriase",
-      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Moteur super sport",
+        "url": "https://open.spotify.com/album/61Ducr5serAJxHZqNONiPt"
+      },
+      "artists": [
+        {
+          "name": "Tom Chicoine",
+          "url": "https://open.spotify.com/artist/2AFmNRNeW4gaF0E0fro7QG"
+        }
+      ],
+      "duration_ms": 191420,
+      "name": "Moteur super sport",
+      "url": "https://open.spotify.com/track/0S1RVvLHeDxRU4tcVbyWJX"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "normal",
         "url": "https://open.spotify.com/album/6oCINsAkkdM3RguhaI8IOI"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 257880,
       "name": "creusercreuser",
       "url": "https://open.spotify.com/track/6Z9RMVyBJkWnF6GlemwMIk"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Moteur super sport",
-        "url": "https://open.spotify.com/album/61Ducr5serAJxHZqNONiPt"
-      },
-      "artists": [
-        {
-          "name": "Tom Chicoine",
-          "url": "https://open.spotify.com/artist/2AFmNRNeW4gaF0E0fro7QG"
-        }
-      ],
-      "duration_ms": 191420,
-      "name": "Moteur super sport",
-      "url": "https://open.spotify.com/track/0S1RVvLHeDxRU4tcVbyWJX"
     },
     {
       "added_at": "2023-05-25 23:46:15",

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Up From Below - 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232690,
+      "name": "40 Day Dream (2019 Remaster)",
+      "url": "https://open.spotify.com/track/6qSViwr8Z1ERkL2ZVun3VY"
+    },
+    {
+      "album": {
         "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
         "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
       },
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 234240,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/5BM4OgN8Giv7Wi5K8TN02M"

@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 160428,
+  "num_followers": 160583,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTllNGM3NjI5ODRiMWQxOWFhZDA3Nzc0NTNlY2U5ODE4ZTI2MzYz",
+  "snapshot_id": "MCwyNDhlNmUxZDVkOTRkMWNlZjFjNTc5MTE0NjJmMjM3OTgwNTA3ZjM1",
   "tracks": [
     {
       "added_at": "2023-10-13 04:59:00",
@@ -83,22 +83,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Glorioso Rey",
-        "url": "https://open.spotify.com/album/0gGh9W1G0gVNvn6oINKeB2"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/5cS1TaKqN5z5brcTnG2Ory"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Mi Casa Y Yo",
         "url": "https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 223735,
       "name": "Mi Casa Y Yo",
       "url": "https://open.spotify.com/track/43n69z6ySqLtXjkmeWeBEe"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Glorioso Rey",
+        "url": "https://open.spotify.com/album/0gGh9W1G0gVNvn6oINKeB2"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/5cS1TaKqN5z5brcTnG2Ory"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "El Cielo Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik"
+      },
+      "artists": [
+        {
+          "name": "Art Aguilera",
+          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "Hay Libertad",
+      "url": "https://open.spotify.com/track/4nxxZtSpkS3tEmuYxNMPmr"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "Piedras Vivas",
         "url": "https://open.spotify.com/album/2Z3y8daO4p0u99UfYxeGzG"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 315653,
       "name": "Gracia Sublime Es",
       "url": "https://open.spotify.com/track/5fx0pSrRtDq2u7qlaly8fC"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "El Cielo Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik"
-      },
-      "artists": [
-        {
-          "name": "Art Aguilera",
-          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "Hay Libertad",
-      "url": "https://open.spotify.com/track/4nxxZtSpkS3tEmuYxNMPmr"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Gente Comun Sue\u00f1os Extraordinarios",
-        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 279457,
-      "name": "Exagerado Amor",
-      "url": "https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Cielo En La Tierra",
         "url": "https://open.spotify.com/album/62ZcFS2JhS73t3fhAZ6rZX"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 386426,
       "name": "Cielo En La Tierra",
       "url": "https://open.spotify.com/track/4LTqkLILC2Vfrbg0C85i5b"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Gente Comun Sue\u00f1os Extraordinarios",
+        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 279457,
+      "name": "Exagerado Amor",
+      "url": "https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "En Las Alas Del Amor",
-        "url": "https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI"
-      },
-      "artists": [
-        {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
-        }
-      ],
-      "duration_ms": 260295,
-      "name": "El No Pereci\u00f3",
-      "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Lev\u00e1ntate Y Resplandece",
         "url": "https://open.spotify.com/album/77GhJZHeuVtEMLzQob3AWk"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Sin Ti No Vivo (En Vivo)",
-        "url": "https://open.spotify.com/album/0tVI6eSPZ2WMOcG4nqmPHy"
+        "name": "En Las Alas Del Amor",
+        "url": "https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI"
       },
       "artists": [
         {
-          "name": "Alejandro Del Bosque",
-          "url": "https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h"
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
         }
       ],
-      "duration_ms": 299773,
-      "name": "Me Entrego a Ti (En Vivo)",
-      "url": "https://open.spotify.com/track/08p6rede6WyjmjbPzzuDsw"
+      "duration_ms": 260295,
+      "name": "El No Pereci\u00f3",
+      "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -991,6 +975,22 @@
       "duration_ms": 271419,
       "name": "Eterna luz",
       "url": "https://open.spotify.com/track/5aJL7N6W2oXcZsMB9njrYH"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Sin Ti No Vivo (En Vivo)",
+        "url": "https://open.spotify.com/album/0tVI6eSPZ2WMOcG4nqmPHy"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Del Bosque",
+          "url": "https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h"
+        }
+      ],
+      "duration_ms": 299773,
+      "name": "Me Entrego a Ti (En Vivo)",
+      "url": "https://open.spotify.com/track/08p6rede6WyjmjbPzzuDsw"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Muerte Por Vida",
-        "url": "https://open.spotify.com/album/0gTUTqQo7JdXl9yaj5wUcg"
-      },
-      "artists": [
-        {
-          "name": "Belen Losa",
-          "url": "https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw"
-        }
-      ],
-      "duration_ms": 368683,
-      "name": "Muerte Por Vida",
-      "url": "https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Colecci\u00f3n Ac\u00fastica I",
         "url": "https://open.spotify.com/album/02jkCYZGrqvDsMFPnsY2JS"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 431034,
       "name": "Cristo Te Amamos",
       "url": "https://open.spotify.com/track/73j54D0rwXFPoCW50ZWkEb"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Muerte Por Vida",
+        "url": "https://open.spotify.com/album/0gTUTqQo7JdXl9yaj5wUcg"
+      },
+      "artists": [
+        {
+          "name": "Belen Losa",
+          "url": "https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw"
+        }
+      ],
+      "duration_ms": 368683,
+      "name": "Muerte Por Vida",
+      "url": "https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Love Shines - EP",
-        "url": "https://open.spotify.com/album/4nPsZ7BBTtYcWw52GmeTRO"
-      },
-      "artists": [
-        {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
-        }
-      ],
-      "duration_ms": 321697,
-      "name": "Brilla Tu Amor",
-      "url": "https://open.spotify.com/track/59huk4RfMDJiRfgYaicID9"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Gloria al Rey",
         "url": "https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 264626,
       "name": "Gloria al Rey",
       "url": "https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Love Shines - EP",
+        "url": "https://open.spotify.com/album/4nPsZ7BBTtYcWw52GmeTRO"
+      },
+      "artists": [
+        {
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+        }
+      ],
+      "duration_ms": 321697,
+      "name": "Brilla Tu Amor",
+      "url": "https://open.spotify.com/track/59huk4RfMDJiRfgYaicID9"
     },
     {
       "added_at": "2023-10-13 04:59:00",

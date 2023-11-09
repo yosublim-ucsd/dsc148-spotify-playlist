@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 178107,
+  "num_followers": 178245,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDUwMDg2OTU0OWRlOGYyZTE0YmJiNTI2OTA1OWFmNDAxMzAzMDY1",
+  "snapshot_id": "MCwzZDJmZGViZGM5OTU1NGExODVlYzJlZmU4MDUzMjcxMWEzYzA4Zjdj",
   "tracks": [
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Por el Buen Camino",
-        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
+        "name": "Cant\u00e1ndole al Amor, Vol. 2",
+        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
       },
       "artists": [
         {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 336160,
-      "name": "Aventura",
-      "url": "https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS"
+      "duration_ms": 320040,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/7N2EXSUvmjcJGkuhMHZjrb"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
+        "name": "Por el Buen Camino",
+        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "duration_ms": 336160,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 286413,
       "name": "Date un Chance",
       "url": "https://open.spotify.com/track/0kBdq1VTuJNeAX3gF3A7Mj"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "Cant\u00e1ndole al Amor, Vol. 2",
-        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 320040,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/7N2EXSUvmjcJGkuhMHZjrb"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
+        "name": "Mas Grande Que Nunca",
+        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 266013,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/7cmBAZF5FSlNLRKaPmBKHZ"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
         "name": "Serie Sensacional: Marvin Santiago",
         "url": "https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 331333,
       "name": "Vasos De Colores",
       "url": "https://open.spotify.com/track/4Bg55jW2gCF4YOLYVErCOT"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "Simplemente... Lalo",
-        "url": "https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 458760,
-      "name": "M\u00e1ximo Chamorro",
-      "url": "https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5"
     }
   ],
   "unique_name": "Salsa: Los '80",

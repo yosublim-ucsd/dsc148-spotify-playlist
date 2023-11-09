@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 613166,
+  "num_followers": 613773,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjFlYWZlMjdlMDJlZjJlYWNkMjlmNjE2MTc3YjMxMjhlZGJhNmFm",
+  "snapshot_id": "MCw2ZGFmOTJiZWQ3MDQxYTc4NWFkNGJjZWM1ODMzOTQ4NjViNDk0NGU5",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 323346,
-      "name": "I'm Coming Out",
-      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Cosmic Thing",
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Glass Houses",
-        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 176440,
-      "name": "It's Still Rock and Roll to Me",
-      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
+      "duration_ms": 323346,
+      "name": "I'm Coming Out",
+      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1175,6 +1159,22 @@
       "duration_ms": 208653,
       "name": "Fight For Your Right",
       "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Glass Houses",
+        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "It's Still Rock and Roll to Me",
+      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1469,20 +1469,20 @@
       "url": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
+      "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Somebody's Watching Me",
-        "url": "https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw"
+        "name": "The Mike Oldfield Collection",
+        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
       },
       "artists": [
         {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
         }
       ],
-      "duration_ms": 298866,
-      "name": "Somebody's Watching Me",
-      "url": "https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA"
+      "duration_ms": 218186,
+      "name": "Moonlight Shadow",
+      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "The Mike Oldfield Collection",
-        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
-      },
-      "artists": [
-        {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
-        }
-      ],
-      "duration_ms": 218186,
-      "name": "Moonlight Shadow",
-      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 247360,
       "name": "Bad - 2012 Remaster",
       "url": "https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Somebody's Watching Me",
+        "url": "https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "duration_ms": 298866,
+      "name": "Somebody's Watching Me",
+      "url": "https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "True Confessions (Collector's Edition)",
+        "url": "https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h"
+      },
+      "artists": [
+        {
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+        }
+      ],
+      "duration_ms": 229164,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Riptide",
@@ -1603,22 +1619,6 @@
       "duration_ms": 363640,
       "name": "Addicted To Love",
       "url": "https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "True Confessions (Collector's Edition)",
-        "url": "https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h"
-      },
-      "artists": [
-        {
-          "name": "Bananarama",
-          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
-        }
-      ],
-      "duration_ms": 229164,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1957,22 +1957,6 @@
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "Club Tropicana",
-      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Word Up",
@@ -1987,6 +1971,22 @@
       "duration_ms": 260000,
       "name": "Word Up",
       "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "Club Tropicana",
+      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2197,20 +2197,20 @@
       "url": "https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
+      "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "True (Special Edition)",
-        "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/7MD06W6wJm7J6jqkBszV22"
       },
       "artists": [
         {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
         }
       ],
-      "duration_ms": 290720,
-      "name": "Gold - 2003 Remaster",
-      "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
+      "duration_ms": 234653,
+      "name": "Got My Mind Set on You",
+      "url": "https://open.spotify.com/track/4wswaG5vmNINMZcVBsAyBP"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2227,6 +2227,22 @@
       "duration_ms": 308933,
       "name": "I Ran (So Far Away)",
       "url": "https://open.spotify.com/track/4OdhffpvG3HxDJMxYOKh97"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "True (Special Edition)",
+        "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 290720,
+      "name": "Gold - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2263,22 +2279,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Arista Heritage Series: Ray Parker",
-        "url": "https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Invisible Touch (2007 Remaster)",
         "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
       },
@@ -2309,6 +2309,22 @@
       "url": "https://open.spotify.com/track/4yKZACkuudvfd600H2dQie"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Arista Heritage Series: Ray Parker",
+        "url": "https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Everything",
@@ -2327,22 +2343,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "In the Heat of the Night",
-        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
-      },
-      "artists": [
-        {
-          "name": "Imagination",
-          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
-        }
-      ],
-      "duration_ms": 387866,
-      "name": "Just an Illusion",
-      "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Blah-Blah-Blah",
         "url": "https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c"
       },
@@ -2355,6 +2355,22 @@
       "duration_ms": 218306,
       "name": "Real Wild Child (Wild One)",
       "url": "https://open.spotify.com/track/6ZAwEE4kTdtvyE66iRhFxR"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "In the Heat of the Night",
+        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
+      },
+      "artists": [
+        {
+          "name": "Imagination",
+          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
+        }
+      ],
+      "duration_ms": 387866,
+      "name": "Just an Illusion",
+      "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2435,26 +2451,6 @@
       "duration_ms": 307933,
       "name": "Master Blaster (Jammin')",
       "url": "https://open.spotify.com/track/5EAgXGJ8Kw5QAfhQkZXYqT"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        },
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 194618,
-      "name": "It's Only Love",
-      "url": "https://open.spotify.com/track/5xGsNXXTu545MWoeuFfjxT"
     }
   ],
   "unique_name": "80s Party",

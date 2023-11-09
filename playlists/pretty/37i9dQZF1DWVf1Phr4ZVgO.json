@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1034582,
+  "num_followers": 1034838,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmY5NGI2MTk0ZTVmZGQ2NmViNTAyNWY2ZTA5MGE4OWY4YzJhMGU3",
+  "snapshot_id": "MCw5NDU5NzMyMjE3ZTAwZTBiNjBkMmM1NjUyZGJiZjQ1ZTRlODVkY2Q0",
   "tracks": [
     {
       "added_at": "2023-10-25 10:42:46",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-10-25 10:42:46",
       "album": {
+        "name": "Little Girl Blue (2013 - Remaster)",
+        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "My Baby Just Cares for Me (2013 - Remaster)",
+      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534"
+    },
+    {
+      "added_at": "2023-10-25 10:42:46",
+      "album": {
         "name": "This Guy's In Love",
         "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 152000,
       "name": "I've Got a Crush On You",
       "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
-    },
-    {
-      "added_at": "2023-10-25 10:42:46",
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
-        "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Sway (Quien Sera)",
-      "url": "https://open.spotify.com/track/3QyPsavxL681NX7SPVGd5T"
     },
     {
       "added_at": "2023-10-25 10:42:46",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-10-25 10:42:46",
       "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
+        "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Sway (Quien Sera)",
+      "url": "https://open.spotify.com/track/3QyPsavxL681NX7SPVGd5T"
+    },
+    {
+      "added_at": "2023-10-25 10:42:46",
+      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 176013,
       "name": "One for My Baby (And One More for the Road)",
       "url": "https://open.spotify.com/track/1c4oqyJGptLz2Yt7LLheX8"
-    },
-    {
-      "added_at": "2023-10-25 10:42:46",
-      "album": {
-        "name": "Little Girl Blue (2013 - Remaster)",
-        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "My Baby Just Cares for Me (2013 - Remaster)",
-      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534"
     },
     {
       "added_at": "2023-10-25 10:42:46",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-10-25 10:42:46",
       "album": {
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/2EIaO5knwUA3F2qnf9LV3S"
+    },
+    {
+      "added_at": "2023-10-25 10:42:46",
+      "album": {
         "name": "This Time I'm Swingin'",
         "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 134893,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr"
-    },
-    {
-      "added_at": "2023-10-25 10:42:46",
-      "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/2EIaO5knwUA3F2qnf9LV3S"
     },
     {
       "added_at": "2023-10-25 10:42:46",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-10-25 10:42:46",
       "album": {
-        "name": "Love Is Here To Stay",
-        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj"
-    },
-    {
-      "added_at": "2023-10-25 10:42:46",
-      "album": {
         "name": "Skylark (Std. Version)",
         "url": "https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 283093,
       "name": "When I Fall in Love (feat. Chris Botti)",
       "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
+    },
+    {
+      "added_at": "2023-10-25 10:42:46",
+      "album": {
+        "name": "Love Is Here To Stay",
+        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj"
     },
     {
       "added_at": "2023-10-25 10:42:46",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-10-25 10:42:46",
       "album": {
-        "name": "I Belong To You",
-        "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
+        "name": "Something Cool (1955 Version)",
+        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
       },
       "artists": [
         {
-          "name": "Emilia Mitiku",
-          "url": "https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2"
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
         }
       ],
-      "duration_ms": 196320,
-      "name": "I Belong to You",
-      "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
+      "duration_ms": 258893,
+      "name": "Something Cool - Mono",
+      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
     },
     {
       "added_at": "2023-10-25 10:42:46",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-10-25 10:42:46",
       "album": {
-        "name": "Something Cool (1955 Version)",
-        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
+        "name": "I Belong To You",
+        "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
       },
       "artists": [
         {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+          "name": "Emilia Mitiku",
+          "url": "https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2"
         }
       ],
-      "duration_ms": 258893,
-      "name": "Something Cool - Mono",
-      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
+      "duration_ms": 196320,
+      "name": "I Belong to You",
+      "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
     },
     {
       "added_at": "2023-10-25 10:42:46",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-10-25 10:42:46",
       "album": {
-        "name": "The Big Band Era , Volume 1 - The Passing Of An Era",
-        "url": "https://open.spotify.com/album/2XB8gzQ41ScpEhwY6vgdOH"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 187453,
-      "name": "Rusty Dusty Blues",
-      "url": "https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG"
-    },
-    {
-      "added_at": "2023-10-25 10:42:46",
-      "album": {
         "name": "Loads Of Love",
         "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 231826,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
+    },
+    {
+      "added_at": "2023-10-25 10:42:46",
+      "album": {
+        "name": "The Big Band Era , Volume 1 - The Passing Of An Era",
+        "url": "https://open.spotify.com/album/2XB8gzQ41ScpEhwY6vgdOH"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 187453,
+      "name": "Rusty Dusty Blues",
+      "url": "https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG"
     },
     {
       "added_at": "2023-10-25 10:42:46",

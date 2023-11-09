@@ -4,7 +4,7 @@
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=\_z2LDODzSQS0aTJTRTn8rQ">Sarkodie</a>  and <a href="https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H?si=r7fAFvPOQW6GORG5CG1ObQ">Ruger</a>
 
-220 songs - 11 hr 15 min
+221 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Momo \(Mobile Money\)](https://open.spotify.com/track/1jyqRZ9DcWyv39i53rXqAt) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Blackstar](https://open.spotify.com/album/5CDWXHmONdhYTPfF44za7O) | 4:11 | 2021-02-22 | 2023-04-28 |
 | [Momo \- Mobile Money](https://open.spotify.com/track/699TWY18PQcoXRO1NMh7Qf) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Momo \(Mobile Money\)](https://open.spotify.com/album/7fqgEzowQWVzNFfZB9QvRF) | 4:11 | 2021-02-22 | 2022-12-25 |
 | [Mon Bebe](https://open.spotify.com/track/2QQk94CGXfsO5J6k6im7Jw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 2:31 | 2022-01-27 | 2023-05-27 |
+| [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 | 2023-11-08 |  |
 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 | 2021-05-25 | 2023-02-24 |
 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 | 2023-02-03 | 2023-05-27 |
 | [New Religion](https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [New Religion](https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1) | 2:33 | 2023-06-02 | 2023-06-23 |
@@ -214,7 +215,7 @@
 | [Turn On The Lights](https://open.spotify.com/track/6RstYH2vOXeXnz5hj3Ppnv) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Turn On The Lights](https://open.spotify.com/album/7J1jyEOZjy5DJwPk3bXuou) | 2:50 | 2021-02-22 | 2023-05-27 |
 | [Twatis](https://open.spotify.com/track/2rc4Zd60xMdF9Jwmcr0hO4) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Big Trapper](https://open.spotify.com/album/7xUXpYKzxq1kz52vJERR7i) | 2:59 | 2023-05-26 | 2023-09-28 |
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-04-20 |  |
-| [Unfortunately](https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 4:00 | 2023-09-14 |  |
+| [Unfortunately](https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 4:00 | 2023-09-14 | 2023-11-09 |
 | [Vero](https://open.spotify.com/track/0yjxAenLJwPCCcn19XSYG3) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Vero](https://open.spotify.com/album/7fshzXhS2s2VwC9bvzBFiC) | 2:04 | 2023-06-16 | 2023-07-14 |
 | [Wahala](https://open.spotify.com/track/6XVdYBT39Q4OBHgrRIOi6g) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Wahala](https://open.spotify.com/album/25OljjPyLcE3VQ7LWZ4RMY) | 3:17 | 2023-07-28 | 2023-09-15 |
 | [Wasteman](https://open.spotify.com/track/3jKFt4kXB8EjY9beWwdvOv) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:31 | 2023-02-23 | 2023-05-27 |

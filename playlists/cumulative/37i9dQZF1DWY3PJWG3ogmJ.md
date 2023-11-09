@@ -4,7 +4,7 @@
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-250 songs - 15 hr 5 min
+251 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Love Me to Death](https://open.spotify.com/track/4CqiQWMP6T0SL1aGSmsFqZ) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Love Me to Death](https://open.spotify.com/album/1BsrM4ejn8ZHhyc907yZKn) | 4:15 | 2022-01-14 | 2022-07-29 |
 | [ManiaCult](https://open.spotify.com/track/72YghcscYUxL9GyUWTsqZn) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [ManiaCult](https://open.spotify.com/album/1jhN2yRAz1ZEwPkdLlBdir) | 3:37 | 2022-01-14 | 2022-07-28 |
 | [Masochistic Healing](https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D) | [Tethra](https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3) | [Tethra](https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77) | 4:49 | 2022-01-14 |  |
-| [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 | 2022-01-14 |  |
+| [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 | 2022-01-14 | 2023-11-09 |
 | [Mental Demolition](https://open.spotify.com/track/4Obgv6ehZRZaYCzFtXmbk9) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [Mental Demolition](https://open.spotify.com/album/58MR0Tyfck1L7dyVcbruWx) | 2:07 | 2022-01-14 | 2022-07-11 |
 | [Moaner](https://open.spotify.com/track/4zobz1X0Sv4NVgsbZy6jpu) | [TRC](https://open.spotify.com/artist/56FWp4djoIWzcpgm4AQ5G6) | [Lifestyle](https://open.spotify.com/album/1cEZPFrC3JHjXNOSp2BFKG) | 3:09 | 2022-01-14 | 2022-07-25 |
 | [Monarch](https://open.spotify.com/track/5axywwd0Rf7S0kZjeVWTfb) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl) | [Monarch](https://open.spotify.com/album/3H0H3YBTBTKLuGN36nmcrR) | 3:27 | 2022-04-22 | 2023-03-11 |
@@ -229,6 +229,7 @@
 | [The Summoning](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 6:35 | 2023-02-08 |  |
 | [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 | 2023-02-08 | 2023-05-23 |
 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-02-08 | 2023-02-17 |
+| [The Truest Love](https://open.spotify.com/track/0bQQFw0ODv0XVqrquk0CDQ) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Absolute](https://open.spotify.com/album/38mLnAiZLCLqUjs4DzOZdG) | 3:51 | 2023-01-18 |  |
 | [The Truest Love](https://open.spotify.com/track/3kE1wgi0cTUqHNlfoTbiFh) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [The Truest Love](https://open.spotify.com/album/4H3kBhmrI8PHiAapclIuzP) | 3:51 | 2022-01-14 | 2023-11-04 |
 | [The Truest Love](https://open.spotify.com/track/47IBVPYJrAXNFFfteQWW1U) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Absolute](https://open.spotify.com/album/6klYyVkzntFBjJch93UB6y) | 3:51 | 2023-01-18 | 2023-11-05 |
 | [Thief](https://open.spotify.com/track/5y8nTCIANwdeLQ8yRtlGdn) | [Johnny Booth](https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc) | [Firsthand Accounts](https://open.spotify.com/album/2hSmn7TSh7erJZw8IcmNsA) | 3:14 | 2022-01-14 |  |

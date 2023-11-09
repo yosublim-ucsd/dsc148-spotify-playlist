@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Cata Raybaud y Benjamin Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,662 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,678 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 58 | [Mujer Amante \(versión acústica\)](https://open.spotify.com/track/6D1Theo7lCIUYI8SPtwdN2) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [XX Aniversario En Vivo \- Magos, Espadas Y Rosas](https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE) | 6:52 |
 | 59 | [Musikita del Cielo](https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Musikita del Cielo](https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz) | 3:00 |
 | 60 | [El Viejo Comunista](https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [El Viejo Comunista](https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke) | 4:57 |
-| 61 | [Pitada](https://open.spotify.com/track/2IAfP9ex8Vv70VESb0D3C0) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 4:03 |
-| 62 | [Todas las Flores de Enero](https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Todas las Flores de Enero](https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a) | 2:14 |
+| 61 | [Todas las Flores de Enero](https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Todas las Flores de Enero](https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a) | 2:14 |
+| 62 | [Pitada](https://open.spotify.com/track/2IAfP9ex8Vv70VESb0D3C0) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 4:03 |
 | 63 | [Fanky \- Live](https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:27 |
 | 64 | [No me pidas que no sea un inconsciente](https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [No me pidas que no sea un inconsciente](https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g) | 2:13 |
 | 65 | [Mensajes en el Mar](https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre) | 4:07 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 74 | [Mírenla \(Acústico\)](https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 4:25 |
 | 75 | [A Little Respect](https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Tú Ve](https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV) | 3:28 |
 | 76 | [Fin del Mundo](https://open.spotify.com/track/4s6KoIwPyCL8vXFCTCXKCw) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Fin del Mundo](https://open.spotify.com/album/1T24IS66qX4DlVj1xIhUv0) | 3:52 |
-| 77 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 |
+| 77 | [Desapego](https://open.spotify.com/track/6PscXiZTVBaoEzDAMr46uN) | [Purahei Soul](https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p) | [Desapego](https://open.spotify.com/album/0MPnc6VlU541t0tzoHqbxi) | 3:38 |
 | 78 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 |
-| 79 | [Desapego](https://open.spotify.com/track/6PscXiZTVBaoEzDAMr46uN) | [Purahei Soul](https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p) | [Desapego](https://open.spotify.com/album/0MPnc6VlU541t0tzoHqbxi) | 3:38 |
+| 79 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 |
 | 80 | [De Musica Ligera](https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT) | [Sámdalo](https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7) | [De Musica Ligera](https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK) | 2:54 |
 | 81 | [Deja de Pedir Perdón \- MTV Unplugged](https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:10 |
 | 82 | [Soldado Raso \- Versión Acústica](https://open.spotify.com/track/2UVD0QU951KBWGaACek9e0) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Hecho a la Antigua](https://open.spotify.com/album/5HnvoKpp1JTDYP3SNWvl2V) | 3:37 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 92 | [Pasos Al Costado](https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turf](https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV) | 4:31 |
 | 93 | [Mágica](https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Mágica](https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ) | 2:16 |
 | 94 | [Acuarela](https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc) | [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Primavera](https://open.spotify.com/album/20QbwxEHyGQbWzhfr6uUqP) | 4:02 |
-| 95 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
-| 96 | [Tren Al Sur](https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Tren Al Sur](https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS) | 3:55 |
+| 95 | [Tren Al Sur](https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Tren Al Sur](https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS) | 3:55 |
+| 96 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
 | 97 | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/album/2nmLLO4dGuIfQ8wTr9esh5) | 4:33 |
 | 98 | [Me Gusta \(Acústico\)](https://open.spotify.com/track/1Cv81Tk7LCeTgZgQPwKxUe) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 4:24 |
 | 99 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 |
 | 100 | [Arrancacorazones \- Acústico en Vivo](https://open.spotify.com/track/1S5nq7DelsGNc4DVFaJHul) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 3:46 |
 
-Snapshot ID: `MCxmN2UzMWVhZWIwZDMxZjJmMjk1MTQ1YzIxZTk4N2M5YjRmZTRjZGRm`
+Snapshot ID: `MCw3ODBjY2YyNjgzZDJhZWQ1MzBiZWFmMGZiMmFkZjA0ZTAwOWUzODI5`

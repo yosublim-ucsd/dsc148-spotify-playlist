@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Hollow Front
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,205 likes - 90 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,487 likes - 90 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 58 | [Wasted Space](https://open.spotify.com/track/2swqb0ij8Xpksi4A7tqE6i) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Wasted Space](https://open.spotify.com/album/6kldsD8IODEdYNlNAXPCed) | 3:26 |
 | 59 | [A.N.X.I.E.T.Y.](https://open.spotify.com/track/2FlSBOa7In5PcpL5SXFwkW) | [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [A.N.X.I.E.T.Y.](https://open.spotify.com/album/4Qiu3xzymfFETMN7yEDCP3) | 2:59 |
 | 60 | [guilt](https://open.spotify.com/track/3RYluxwP7PfEywwILPUv7a) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [guilt](https://open.spotify.com/album/0LVttb1RQtilr2pH65rk7S) | 2:36 |
-| 61 | [Lost In The Fall](https://open.spotify.com/track/2eNQotmrqiMh175jBPePJ2) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Lost In The Fall](https://open.spotify.com/album/2AaUKwRWLjWC01DQ8BzwwE) | 4:04 |
+| 61 | [Lost In The Fall](https://open.spotify.com/track/2I0XplFdMIGiEJJYfPTwZ9) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Symptoms of Survival](https://open.spotify.com/album/5BO87WU4XaRXEU2Uxrg2le) | 4:04 |
 | 62 | [Chewing The Scenery](https://open.spotify.com/track/5BsNWRk2n7MCzm1IeugikG) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Chewing The Scenery](https://open.spotify.com/album/3Mhb8bZlvkUh7QsofvZvkE) | 3:49 |
 | 63 | [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 |
 | 64 | [Hear You Scream](https://open.spotify.com/track/5fegfkA0EiK5yL8gSJi8o4) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [Hear You Scream](https://open.spotify.com/album/0uUoMHRLw4sC5BWRjQlK3O) | 3:28 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 89 | [away](https://open.spotify.com/track/4rNn6vx1vmzJfr894A5bM7) | [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [away](https://open.spotify.com/album/0TWnG9BOpdFeMZAKTWFVUT) | 4:22 |
 | 90 | [Reap](https://open.spotify.com/track/0sG0I67b53eGXCKryNCgmC) | [Shallowsky](https://open.spotify.com/artist/0OggfRsxbs119D8rf3rXvG) | [Reap](https://open.spotify.com/album/4cBmWgK6BWMuh5NakqcOIi) | 3:27 |
 
-Snapshot ID: `MCw5ZGI2ZTQwODkzOTNmNWNkOTc3MWI1YjAxZjIxMzFjYzJlNDFkMmFh`
+Snapshot ID: `MCxiZjg3MTcwN2JlZGNlYzUzNDRlMTFhNTNlNTIxNjIwNmY2YmU5ZWJj`

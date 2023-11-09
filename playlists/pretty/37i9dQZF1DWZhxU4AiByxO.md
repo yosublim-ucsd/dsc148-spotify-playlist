@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 
 > Enjoy some kid\-friendly pop tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,683 likes - 188 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,313 likes - 188 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 74 | [Levitating](https://open.spotify.com/track/0jElcVB3zyu75HmlrbA8XE) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:04 |
 | 75 | [Blinding Lights](https://open.spotify.com/track/0e5xc0NhC8ijMtVlH3LHl8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Blinding Lights](https://open.spotify.com/album/1wNqNP2pFo9PHNJZ4jmFQM) | 3:00 |
 | 76 | [CAN'T STOP THE FEELING! \- Film Version](https://open.spotify.com/track/4sQmCQUZcnBPaVm4dEUKv7) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [James Corden](https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P), [Zooey Deschanel](https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx), [Ron Funches](https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP), [Caroline Hjelt](https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME), [Aino Jawo](https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV), [Christopher Mintz\-Plasse](https://open.spotify.com/artist/32Y2h6dku6Q2wNpZjj0bHj), [Kunal Nayyar](https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
-| 77 | [Music Is in Everything](https://open.spotify.com/track/6LC6CSWaaGZoyQKi87lfuG) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [More Family Time](https://open.spotify.com/album/7C4QjjsOqV2XxrcWiDNOqo) | 3:25 |
+| 77 | [Music Is in Everything](https://open.spotify.com/track/3Xap7tj9dcUEhpThrLgdsJ) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [More Family Time](https://open.spotify.com/album/4X4l0Ez8pj5bjmFisNs2m1) | 3:24 |
 | 78 | [Smile](https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs) | 2:46 |
 | 79 | [Drivers License](https://open.spotify.com/track/3kBM4lKVb37U2uhXaui0j4) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:28 |
 | 80 | [Bang!](https://open.spotify.com/track/268uz3MBAXyGQNQGoFvqhL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Bang!](https://open.spotify.com/album/3asGV841gsVVgwCvwEUuQX) | 2:53 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 187 | [Meant to Be](https://open.spotify.com/track/6UVyRn5CmTr2hXjC4mtmLK) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 16](https://open.spotify.com/album/2Of9F4htVY5MPY8KWs96E9) | 2:45 |
 | 188 | [Mercy](https://open.spotify.com/track/5hx745zVn9ydtxVTPoRU6I) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 35](https://open.spotify.com/album/446h1jQEUAz94QrRd9Ry3y) | 3:10 |
 
-Snapshot ID: `MCxkMzY3YmI4ZDM1ZTg3MzcxMjIzNjBjODkxNDljYzdhZjgxOGNkMDVm`
+Snapshot ID: `MCw0ZGFiNTE4MjJhYmNjMmRkNWY0MjYwODg1OGI2NzViMjEwYTJiMDhi`

@@ -2,9 +2,9 @@
 
 ### [Trending Now Telugu](https://open.spotify.com/playlist/37i9dQZF1DWTt3gMo0DLxA)
 
-> Trending songs from Tollywood! <br/>Cover \- OG
+> Trending songs from Tollywood! <br/>Cover \- MAD
 
-129 songs - 8 hr 21 min
+130 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Darshana](https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Vinaro Bhagyamu Vishnu Katha](https://open.spotify.com/album/5IYnCIHoayjRyzW6OiumQb) | 3:38 | 2023-08-30 |  |
 | [Dinchak \(From "Red"\)](https://open.spotify.com/track/0iT2FnhutL3yJh7DXy1SOG) | [Keerthana Sharma](https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7), [Saketh Komanduri](https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L), [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Dinchak \(From "Red"\)](https://open.spotify.com/album/1935AnvPstXORnGqOf8rgW) | 5:19 | 2021-09-24 | 2023-08-31 |
 | [Drunk and Drive](https://open.spotify.com/track/13AC9I9D1SMZDxoZBXkiUV) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 4:12 | 2021-09-24 | 2023-08-31 |
+| [Dum Masala](https://open.spotify.com/track/3yNhGgQMPOdqVFpjRu8k8x) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Guntur Kaaram](https://open.spotify.com/album/2JTcQYxkWCph2DFYHljgnS) | 3:26 | 2023-11-08 |  |
 | [Ek Baar](https://open.spotify.com/track/7KWksSySkwqGS3vo59yygt) | [Dsp](https://open.spotify.com/artist/2TxDLvRVA0F4LAIyqakei7), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Vinaya Vidheya Rama](https://open.spotify.com/album/6LgFMvJH3ChdcFHgpCYCkF) | 4:19 | 2021-09-24 | 2023-08-31 |
 | [Ek Dum Ek Dum \(From "Tiger Nageswara Rao"\) \(Telugu\)](https://open.spotify.com/track/4ciFHjXGTCFCx7FhTPfPTS) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Ek Dum Ek Dum \(From "Tiger Nageswara Rao"\) \(Telugu\)](https://open.spotify.com/album/016OrddyZeTJNOebIQ0GLE) | 4:20 | 2023-09-25 | 2023-11-07 |
 | [Elluvochi Godaramma](https://open.spotify.com/track/5lYYiDQZ0QiW8CjrpNSB8D) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [P\. Susheela](https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK) | [Elluvochi Godaramma \- Valmiki](https://open.spotify.com/album/0DkRiIbXQOSUBW1OOOqdIs) | 3:27 | 2021-09-24 | 2022-07-29 |

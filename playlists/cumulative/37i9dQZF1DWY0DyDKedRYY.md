@@ -4,7 +4,7 @@
 
 > The most exciting new music, featuring RADAR official artist Peso Pluma on the cover.
 
-606 songs - 1 day 7 hr 17 min
+607 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,7 +403,8 @@
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2023-08-30 |  |
 | [On The Ground](https://open.spotify.com/track/4FHJqPdhIHhHn1JfcdwQOL) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:25 | 2022-06-14 | 2022-07-27 |
 | [on the pisces moon](https://open.spotify.com/track/6UOl3Yfcfo2qC7f1awCYWB) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Exodus the North Star](https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um) | 2:46 | 2023-03-31 | 2023-05-09 |
-| [One Chance \(feat\. Marlhy\)](https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu) | 3:40 | 2023-08-30 |  |
+| [One Chance](https://open.spotify.com/track/1rFjOggo1LDoT6wqX41baU) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance](https://open.spotify.com/album/4whZCf4KZinQmHApTpVCn9) | 3:40 | 2023-10-05 |  |
+| [One Chance \(feat\. Marlhy\)](https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu) | 3:40 | 2023-08-30 | 2023-11-09 |
 | [One Day](https://open.spotify.com/track/55uncgNeYZapB3aGNAECF6) | [FredAtlast](https://open.spotify.com/artist/1vguJ2wOoF42u22rVIw4pr) | [One Day](https://open.spotify.com/album/0dGR8p2HbuqWS5F7fdxnXU) | 4:27 | 2022-06-14 | 2022-07-27 |
 | [One More Weekend](https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [One More Weekend](https://open.spotify.com/album/4tylLsr8HZOfL4FQ6h7SB7) | 2:22 | 2021-12-01 | 2022-04-09 |
 | [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 | 2023-05-08 | 2023-08-31 |

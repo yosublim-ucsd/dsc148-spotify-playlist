@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 63925,
+  "num_followers": 63996,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDM0ZGEyMjgwZGU3OTUwMGQ2NDYzMzU1MTY0YTg5ZDU3MDczNmQ2",
+  "snapshot_id": "MCwwMTFlOGY3OTg2ZjJiNjk1MTEyOTM3NzY2ZTQ3N2FmNDQwMjQ4ZDUy",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Nobody Is Not Loved",
+        "url": "https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 221090,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6ekLy1OsrYdLMbcqc0KZ8G"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Anatolia",
         "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
       },
@@ -159,26 +175,6 @@
       "duration_ms": 309840,
       "name": "Anatolia",
       "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN"
-      },
-      "artists": [
-        {
-          "name": "TRYM",
-          "url": "https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z"
-        },
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 443026,
-      "name": "Trinity - Amelie Lens Remix",
-      "url": "https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -199,6 +195,26 @@
       "duration_ms": 494256,
       "name": "Opal - Four Tet Remix",
       "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN"
+      },
+      "artists": [
+        {
+          "name": "TRYM",
+          "url": "https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z"
+        },
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 443026,
+      "name": "Trinity - Amelie Lens Remix",
+      "url": "https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -259,22 +275,6 @@
       "duration_ms": 361160,
       "name": "Blurred - Bonobo Remix",
       "url": "https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Nobody Is Not Loved",
-        "url": "https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk"
-      },
-      "artists": [
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 221090,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6ekLy1OsrYdLMbcqc0KZ8G"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Kopernikus EP",
-        "url": "https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8"
-      },
-      "artists": [
-        {
-          "name": "Stil & Bense",
-          "url": "https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH"
-        }
-      ],
-      "duration_ms": 440118,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 272346,
       "name": "The Right Place (feat. Teira)",
       "url": "https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Kopernikus EP",
+        "url": "https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8"
+      },
+      "artists": [
+        {
+          "name": "Stil & Bense",
+          "url": "https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH"
+        }
+      ],
+      "duration_ms": 440118,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Interlife",
-        "url": "https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1"
-      },
-      "artists": [
-        {
-          "name": "Aroma Pitch",
-          "url": "https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC"
-        }
-      ],
-      "duration_ms": 281531,
-      "name": "Lotus Bass",
-      "url": "https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "WWDKF",
         "url": "https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 344470,
       "name": "Archive Seven",
       "url": "https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Interlife",
+        "url": "https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1"
+      },
+      "artists": [
+        {
+          "name": "Aroma Pitch",
+          "url": "https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC"
+        }
+      ],
+      "duration_ms": 281531,
+      "name": "Lotus Bass",
+      "url": "https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bortz",
-          "url": "https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi"
-        }
-      ],
-      "duration_ms": 308877,
-      "name": "Holding You",
-      "url": "https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "The Haunted House of House",
         "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 346640,
       "name": "Cow Palace",
       "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bortz",
+          "url": "https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi"
+        }
+      ],
+      "duration_ms": 308877,
+      "name": "Holding You",
+      "url": "https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx"
     },
     {
       "added_at": "2023-06-09 18:05:35",

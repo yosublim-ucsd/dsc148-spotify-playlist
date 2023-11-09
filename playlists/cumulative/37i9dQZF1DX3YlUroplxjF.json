@@ -676,7 +676,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 192504,
       "name": "Bad Idea",
       "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
@@ -4082,6 +4082,24 @@
       "duration_ms": 236050,
       "name": "Lyrics Lie",
       "url": "https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz"
+    },
+    {
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236050,
+      "name": "Lyrics Lie",
+      "url": "https://open.spotify.com/track/56rDsioIJVni7hmFio7yZU"
     },
     {
       "album": {

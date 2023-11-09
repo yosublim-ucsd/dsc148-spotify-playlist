@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain](/playlists/plain/0ZWYUjUMhaq0Rammqq3qu1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0ZWYUjUMhaq0Rammqq3qu1)
 
-### [HOUSE PARTY BANGERS 🔥 🔥 ](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
+### [HOUSE PARTY BANGERS ](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
 > Break the speakers with these absolute House Party BANGERS!!! Project X \| House Party \| Frat Party \| Pre\-Drink Playlist
 
-[Digster](https://open.spotify.com/user/digster.fm) - 114,763 likes - 60 songs - 3 hr 22 min
+[Digster](https://open.spotify.com/user/digster.fm) - 114,761 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 59 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 |
 | 60 | [I Got U](https://open.spotify.com/track/023H4I7HJnxRqsc9cqeFKV) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [I Got U](https://open.spotify.com/album/5U06Y2CHfkglWCTyqY98pN) | 4:45 |
 
-Snapshot ID: `NDY5NixmODczNzBkZDNlMDk4YTczNWNkMGU2NWI4MjkxODM4YTg1NmY1NzBl`
+Snapshot ID: `NDY5NyxjZjg3Mzg1ZjAwNzJmMGQyNmFmYzE5MTFmYTY2MzJhNDM5ZTQ0YzVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: Azawi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,865 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,864 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 35 | [Bega Bega](https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Lover Man](https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz) | 2:52 |
 | 36 | [Omwana](https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Omwana](https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2) | 3:32 |
 | 37 | [Chai Mata](https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Chai Mata](https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw) | 2:55 |
-| 38 | [Pretty Young Thing](https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Pretty Young Thing](https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF) | 3:10 |
-| 39 | [Ekyama](https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf) | [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Will84](https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09) | [Ekyama](https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0) | 3:37 |
-| 40 | [Fertilizer](https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Fertilizer](https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp) | 2:55 |
+| 38 | [Ekyama](https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf) | [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Will84](https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09) | [Ekyama](https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0) | 3:37 |
+| 39 | [Fertilizer](https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Fertilizer](https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp) | 2:55 |
+| 40 | [Pretty Young Thing](https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Pretty Young Thing](https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF) | 3:10 |
 | 41 | [Kitooke Kyagonja](https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7) | [B2c](https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4) | [Kitooke Kyagonja](https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa) | 3:10 |
 | 42 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 |
 | 43 | [Mama I Made It](https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 2:17 |
 | 44 | [Kika Buka](https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kika Buka](https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc) | 2:36 |
-| 45 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 |
-| 46 | [Wanting Me](https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Wanting Me](https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b) | 2:45 |
+| 45 | [Wanting Me](https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Wanting Me](https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b) | 2:45 |
+| 46 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 |
 | 47 | [Tattoo](https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [Caspian Marvin](https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU) | [Tattoo](https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB) | 3:34 |
 | 48 | [Oasis](https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [OASIS](https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV) | 2:30 |
 | 49 | [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 |
 | 50 | [Gukuba](https://open.spotify.com/track/17rKr1FfnEDzA1LfyoAZqx) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6), [Vyroota](https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R) | [Gukuba](https://open.spotify.com/album/2sGJOLxu38C9Fzin1iwB8z) | 2:52 |
 
-Snapshot ID: `MCw2OGRkODY1YTc2OGU2ZjZiODE4ZWQ2YmM1MjQwZGM4NjY2MWY5YjEy`
+Snapshot ID: `MCxmZTA2NzM0Yjk2NzE4MmY5OTlkMzIwMzNkNzc1OGYxNGFlOWY0MWM0`

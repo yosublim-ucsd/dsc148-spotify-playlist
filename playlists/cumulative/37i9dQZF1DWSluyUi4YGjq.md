@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Cover: Duster
 
-481 songs - 1 day 7 hr 25 min
+483 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Don't Give Up](https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 1:52 | 2023-02-09 | 2023-09-30 |
 | [Don't Give Up](https://open.spotify.com/track/7cDPpQ4ZGoX8pUctXfBQIw) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Don't Give Up](https://open.spotify.com/album/5zvDBwrFpUGpLkYM382Ix0) | 1:52 | 2023-02-09 | 2023-03-12 |
 | [don't tell me](https://open.spotify.com/track/2WDPqvuis3DnNimYRgjEAm) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [don't tell me](https://open.spotify.com/album/1yHTOsFz7Lji0xZ06oN1oL) | 4:39 | 2023-04-14 | 2023-09-30 |
+| [Donut](https://open.spotify.com/track/1KDvMamqHZoGDNcjQ5FCKo) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Donut](https://open.spotify.com/album/2JbvVS3C80ei8bBY8Xsvni) | 3:23 | 2023-11-08 |  |
 | [Dopamine](https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:55 | 2021-10-19 | 2023-06-08 |
 | [Dopamine](https://open.spotify.com/track/53FCh1Yv1gdlnybyYWsyca) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:55 | 2021-10-19 | 2022-07-29 |
 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 | 2021-10-19 | 2023-06-08 |
@@ -391,6 +392,7 @@
 | [Sometimes](https://open.spotify.com/track/1bd7Jt9jIg3mKe2AT08RJI) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Sometimes](https://open.spotify.com/album/1blwMKDfziJJU9R14pQ5iD) | 3:04 | 2023-08-04 | 2023-08-19 |
 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 | 2021-10-19 | 2023-06-08 |
 | [Sour Punch](https://open.spotify.com/track/13pNdu3UOvwz0NxU2EEgVD) | [Blushing](https://open.spotify.com/artist/27rWdoCAtvpwChpCDz9PK0) | [Possessions](https://open.spotify.com/album/1sZkGikz7VbeytHdaBgWhr) | 2:32 | 2023-02-17 | 2023-10-21 |
+| [South](https://open.spotify.com/track/6EC1Hkr4hqHXIylbwnNEu1) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [South](https://open.spotify.com/album/1CfNY3GnYDN6P2yoLFOdGd) | 3:31 | 2023-11-08 |  |
 | [Spiral](https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Spiral](https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie) | 2:48 | 2023-09-01 |  |
 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 | 2023-08-11 |  |
 | [Spring and by Summer Fall](https://open.spotify.com/track/3plzNcg0RAtFKTR3y7uPRy) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 4:15 | 2021-10-19 | 2022-12-16 |

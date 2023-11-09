@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Formula EP",
+        "url": "https://open.spotify.com/album/3KjkZXHlDZMbQKqdYPtsUn"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433971,
+      "name": "Doppler",
+      "url": "https://open.spotify.com/track/7J2ZnqSaDNijHboyFFkwpV"
+    },
+    {
+      "album": {
         "name": "Driving Mad",
         "url": "https://open.spotify.com/album/1yZvuAfsG01K9gad20PbqF"
       },
@@ -908,7 +926,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 360007,
       "name": "Driving Mad",
       "url": "https://open.spotify.com/track/6MZ7wWLT1jd2oF21p3TPKl"
@@ -2549,6 +2567,24 @@
     },
     {
       "album": {
+        "name": "Rock with Me",
+        "url": "https://open.spotify.com/album/34gHhZJ8XW3Q9o73E7FQMP"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205696,
+      "name": "Rock With Me",
+      "url": "https://open.spotify.com/track/4JOOUSb29WBiwpH47QUmif"
+    },
+    {
+      "album": {
         "name": "Roll the Dice",
         "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
       },
@@ -3278,7 +3314,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 288671,
       "name": "Together One Time",
       "url": "https://open.spotify.com/track/5UH3wpmBqgrTqMjtBdDv2s"

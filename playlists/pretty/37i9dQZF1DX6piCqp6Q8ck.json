@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 101108,
+  "num_followers": 101203,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzhiZmE3NWI2NmJlMGI4YTg3MzEyODlkNTVhZmU0NTc5YTY0ZGZl",
+  "snapshot_id": "MCxhM2I1ZjI4MDUzNzk5YTg0NWI2NzBlYzNkODkwN2VkMThmZjAyNDVh",
   "tracks": [
     {
       "added_at": "2023-10-20 00:01:00",
@@ -767,38 +767,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "O Tannenbaum",
-        "url": "https://open.spotify.com/album/5gvEyLq9MnZJBsWLDly7TG"
-      },
-      "artists": [
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        },
-        {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        },
-        {
-          "name": "Clas Lassbo",
-          "url": "https://open.spotify.com/artist/23eGVdEKiBmGYKEvFVlyzP"
-        },
-        {
-          "name": "Johan Norberg",
-          "url": "https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr"
-        },
-        {
-          "name": "Jonas Knutsson",
-          "url": "https://open.spotify.com/artist/4epZWwhakogZTfyKbGpvQa"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "O Tannenbaum",
-      "url": "https://open.spotify.com/track/2mvo1rm7jcZdcKRWEGD917"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "My Christmas Night",
         "url": "https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 175243,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/76zNFKrXOPYwHoiYGZ4xmV"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "O Tannenbaum",
+        "url": "https://open.spotify.com/album/5gvEyLq9MnZJBsWLDly7TG"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        },
+        {
+          "name": "Clas Lassbo",
+          "url": "https://open.spotify.com/artist/23eGVdEKiBmGYKEvFVlyzP"
+        },
+        {
+          "name": "Johan Norberg",
+          "url": "https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr"
+        },
+        {
+          "name": "Jonas Knutsson",
+          "url": "https://open.spotify.com/artist/4epZWwhakogZTfyKbGpvQa"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/2mvo1rm7jcZdcKRWEGD917"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "A Very Swingin\u2019 Basie Christmas!",
+        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
+      },
+      "artists": [
+        {
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        }
+      ],
+      "duration_ms": 290826,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
         "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
       },
@@ -939,22 +955,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "A Very Swingin\u2019 Basie Christmas!",
-        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
-      },
-      "artists": [
-        {
-          "name": "Count Basie Orchestra",
-          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
-        }
-      ],
-      "duration_ms": 290826,
-      "name": "Little Drummer Boy",
-      "url": "https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
       },
@@ -967,22 +967,6 @@
       "duration_ms": 146022,
       "name": "O Little Town Of Bethlehem",
       "url": "https://open.spotify.com/track/6V23uUPhBn3NZuUVq1aOlz"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Christmas Time Is Here",
-        "url": "https://open.spotify.com/album/2I3uMBceHIZ4NXGM2HMl3Y"
-      },
-      "artists": [
-        {
-          "name": "Dianne Reeves",
-          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Carol Of The Bells",
-      "url": "https://open.spotify.com/track/5YmJtoST7bbcxCycpyw2yL"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1011,6 +995,22 @@
       "duration_ms": 312440,
       "name": "O Come, All Ye Faithful",
       "url": "https://open.spotify.com/track/1B0jJzbxFwEBrsfVKOlSfx"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/2I3uMBceHIZ4NXGM2HMl3Y"
+      },
+      "artists": [
+        {
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/5YmJtoST7bbcxCycpyw2yL"
     },
     {
       "added_at": "2023-10-20 00:01:00",

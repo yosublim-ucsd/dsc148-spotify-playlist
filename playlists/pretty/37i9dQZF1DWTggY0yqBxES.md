@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Danny Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,145 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,179 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [Hello There \(with Lil Tracy, Corbin & Black Kray\)](https://open.spotify.com/track/4EEhiTd2tMLmb7v24EnmG7) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi), [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff), [Black Kray](https://open.spotify.com/artist/7EmyqxxYZltYLKFk9sAHzM) | [Hello There](https://open.spotify.com/album/2VXqiwHHi96GwC3lApC1Cg) | 3:14 |
 | 100 | [cracked screen](https://open.spotify.com/track/74iw3OCAb3it0SjOVw4Dnq) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [cracked screen](https://open.spotify.com/album/5JzrI4ObDjPuTLfD84VmAm) | 3:32 |
 
-Snapshot ID: `MCxjYWI3YjYxNTc3OGRlMWNhMjM4OTBiNTJkNWUyZTA2YTkxOTM5NGYy`
+Snapshot ID: `MCxkNmMwNWMyYWY0NGFjYTQwOGIwZmUyODY2MTA2YTA2OTcwZGIzYWY4`

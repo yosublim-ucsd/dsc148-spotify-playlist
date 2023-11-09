@@ -496,7 +496,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 236693,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/0pXhsuk0u7vzOtBYdFkaAs"
@@ -674,6 +674,32 @@
       "duration_ms": 215066,
       "name": "I Give You My Heart",
       "url": "https://open.spotify.com/track/5PTWlk21hqWnFu841NOp7k"
+    },
+    {
+      "album": {
+        "name": "Move It!",
+        "url": "https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff"
+      },
+      "artists": [
+        {
+          "name": "Reel 2 Real",
+          "url": "https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta"
+        },
+        {
+          "name": "The Mad Stuntman",
+          "url": "https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5"
+        },
+        {
+          "name": "Erick Morillo",
+          "url": "https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230760,
+      "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
+      "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
     },
     {
       "album": {

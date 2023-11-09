@@ -1,12 +1,12 @@
 {
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
-  "num_followers": 103934,
+  "num_followers": 104046,
   "original_name": "Taco Placero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmFlZDAxN2VhZjE0ZGIzMjI5M2IxZGFhOGM5MWNlMmMzNzBjZWVm",
+  "snapshot_id": "MCw0OGUxNGNlMjZiM2YyOTA0NjQzNDc2YWVjYmM3NDMxODQ3ZDQ2MzQ1",
   "tracks": [
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Soy El Aventurero",
-        "url": "https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy"
-      },
-      "artists": [
-        {
-          "name": "Los Felinos",
-          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
-        }
-      ],
-      "duration_ms": 186247,
-      "name": "Yo Quiero Quebrarte",
-      "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Y Para Siempre ...",
         "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 190053,
       "name": "Mi Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2W1H5fQD5rGHq0SduYaTbM"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Soy El Aventurero",
+        "url": "https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy"
+      },
+      "artists": [
+        {
+          "name": "Los Felinos",
+          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
+        }
+      ],
+      "duration_ms": 186247,
+      "name": "Yo Quiero Quebrarte",
+      "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
-        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 235240,
-      "name": "Cari\u00f1ito Sin MI",
-      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Inv\u00e9ntame Un Amor",
         "url": "https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 227288,
       "name": "Pero La Recuerdo (Cumbia Santa Mar\u00eda)",
       "url": "https://open.spotify.com/track/7xbRLQyE9t7zkA3osC8S2d"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
+        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 235240,
+      "name": "Cari\u00f1ito Sin MI",
+      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1873,10 +1873,10 @@
       "url": "https://open.spotify.com/track/4B3PNNSg06yZ6Jj7novC8l"
     },
     {
-      "added_at": "2023-01-10 17:48:12",
+      "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Serie 32",
-        "url": "https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u"
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
       },
       "artists": [
         {
@@ -1884,9 +1884,9 @@
           "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
         }
       ],
-      "duration_ms": 201813,
-      "name": "La Coloreteada",
-      "url": "https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR"
+      "duration_ms": 149160,
+      "name": "Pobre Gato",
+      "url": "https://open.spotify.com/track/7cRV3X1VcYkgeyp4WrJgqa"
     },
     {
       "added_at": "2023-01-10 17:48:12",
@@ -1921,10 +1921,10 @@
       "url": "https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC"
     },
     {
-      "added_at": "2022-01-25 19:05:16",
+      "added_at": "2023-01-10 17:48:12",
       "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
+        "name": "Serie 32",
+        "url": "https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u"
       },
       "artists": [
         {
@@ -1932,9 +1932,9 @@
           "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
         }
       ],
-      "duration_ms": 149160,
-      "name": "Pobre Gato",
-      "url": "https://open.spotify.com/track/7cRV3X1VcYkgeyp4WrJgqa"
+      "duration_ms": 201813,
+      "name": "La Coloreteada",
+      "url": "https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR"
     },
     {
       "added_at": "2022-01-25 19:05:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,211 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,231 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 36 | [Ligga low](https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Ligga low](https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d) | 2:31 |
 | 37 | [Granada](https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Ungkar med dobbelseng](https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y) | 3:10 |
 | 38 | [Rundt neste sving](https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 3:55 |
-| 39 | [Danse på panseret](https://open.spotify.com/track/4docWah77XQ5t9jexaJKBG) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X) | [Danse på panseret](https://open.spotify.com/album/3oKQTXaW1WRLsWcf3LH57F) | 2:24 |
+| 39 | [Du kan inte få min öl](https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Du kan inte få min öl](https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN) | 2:16 |
 | 40 | [MEDVETSLÖS \- Ringnes\-Ronny Remix](https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [MEDVETSLÖS \(Ringnes\-Ronny Remix\)](https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv) | 3:06 |
-| 41 | [Du kan inte få min öl](https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Du kan inte få min öl](https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN) | 2:16 |
+| 41 | [Danse på panseret](https://open.spotify.com/track/4docWah77XQ5t9jexaJKBG) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X) | [Danse på panseret](https://open.spotify.com/album/3oKQTXaW1WRLsWcf3LH57F) | 2:24 |
 | 42 | [En jävel på att ragga bil](https://open.spotify.com/track/1wzf0oO2OT51wljEGIprag) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [En jävel på att ragga bil](https://open.spotify.com/album/5tsqsn7LIbz7dNsdrhs82C) | 2:46 |
 | 43 | [TANTE](https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k) | [Kevin Lauren](https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1), [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [TANTE](https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU) | 2:13 |
 | 44 | [Raggen måste gå](https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Raggen måste gå](https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF) | 2:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Langt av sted](https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Langt av sted](https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i) | 2:40 |
 | 70 | [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 |
 
-Snapshot ID: `MCw0NjA0NWQzOTQzMzE5OGY2OWYwMGQ2MzZlYzI0ZDI3YzJiZWRlYTc2`
+Snapshot ID: `MCwwYWM2ZWFiODcxMDJlOGU4OTAwOTQ4YjI5YTM3ZDJmNDc4Nzc4MmE0`

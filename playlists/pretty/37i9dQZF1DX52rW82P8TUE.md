@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,642 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,678 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 10 | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/track/3lRfG9FccT67tuGboXeEZs) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/album/1F1pwnUBYMI9vFVpIQF97W) | 2:12 |
 | 11 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 |
 | 12 | [Dança do Pinguim](https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:56 |
-| 13 | [Pororó](https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr) | [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Sou Livre](https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M) | 4:12 |
-| 14 | [Coral dos Bichos](https://open.spotify.com/track/0pWnhGVmpCVXcKe4DZnQXR) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Minha Vida É uma Viagem 6](https://open.spotify.com/album/1A7Sa3Wv1F3XhTcaLug07F) | 3:51 |
+| 13 | [Coral dos Bichos](https://open.spotify.com/track/0pWnhGVmpCVXcKe4DZnQXR) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Minha Vida É uma Viagem 6](https://open.spotify.com/album/1A7Sa3Wv1F3XhTcaLug07F) | 3:51 |
+| 14 | [Pororó](https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr) | [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Sou Livre](https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M) | 4:12 |
 | 15 | [A Alegria Está no Coração / Celebrai / Solta o Cabo da Nau](https://open.spotify.com/track/7FNueAtAXOl1aImDlO9jO0) | [Trio R3](https://open.spotify.com/artist/1j80V5H3SnqrUDKhpAo1OE) | [Trio R3 Kids](https://open.spotify.com/album/3iXWPgtTT7O1t7e5eZoDmf) | 3:22 |
 | 16 | [Brilhando](https://open.spotify.com/track/6aMHKxUyAUsbVNJa8TbyuX) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Turminha da Cristina Mel \- Fazendo a Diferença](https://open.spotify.com/album/6T5y5A3YoPNXQsUu7OlAaX) | 3:08 |
 | 17 | [Tesouro](https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Tesouro](https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v) | 3:25 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 19 | [Caminho no Deserto \- Versão Kids](https://open.spotify.com/track/1J1eBc6ECu1cZq7JslY4VG) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp), [Kaiky Mello](https://open.spotify.com/artist/576aczLz6CXzj9E0WZ1EJw) | [Caminho no Deserto \(Versão Kids\)](https://open.spotify.com/album/34EQIvp5R1X7n4chgsK1PR) | 5:33 |
 | 20 | [Pedro, Tiago e João no Barquinho](https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:09 |
 | 21 | [Caminhando Vou Para Canaã](https://open.spotify.com/track/1gjyW1dkU6SfYlo6dwByJz) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Caminhando Vou Para Canaã](https://open.spotify.com/album/051Ck9PEoQhBlON1mnw0gN) | 2:17 |
-| 22 | [Cristo Fez os Peixes](https://open.spotify.com/track/447JeTRzLtyTxjo4eJT9CA) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Cristo Fez os Peixes](https://open.spotify.com/album/0X87Se7GHxCvdXsYP3anvv) | 1:52 |
-| 23 | [Sapo Abençoado](https://open.spotify.com/track/6udRCH0KMT8k4GrXAsoI6e) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 3:06 |
+| 22 | [Sapo Abençoado](https://open.spotify.com/track/6udRCH0KMT8k4GrXAsoI6e) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 3:06 |
+| 23 | [Cristo Fez os Peixes](https://open.spotify.com/track/447JeTRzLtyTxjo4eJT9CA) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Cristo Fez os Peixes](https://open.spotify.com/album/0X87Se7GHxCvdXsYP3anvv) | 1:52 |
 | 24 | [Rei Davi](https://open.spotify.com/track/4v1Yf5GPWOAgOk67CSU0dP) | [Mara Maravilha](https://open.spotify.com/artist/2vEZbLLAKRqzoiTR9aupGu) | [Reluz](https://open.spotify.com/album/4Oolk7dVn9F9EfQoomK1w8) | 3:46 |
 | 25 | [Hit da Formiguinha](https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Brincando de Escolinha](https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja) | 3:06 |
 | 26 | [Erguei as Mãos](https://open.spotify.com/track/7GTVVZiren9LxoyNW4pATK) | [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Mara Lima e Seus Amiguinhos, Vol\. 5](https://open.spotify.com/album/5hCu7mordTwYqr2n2rW0LR) | 3:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 45 | [Toc Toc Toc \- Baby Fun \- Remix](https://open.spotify.com/track/6KjIPIOhwSHq2K4ItYRDJb) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Toc Toc Toc \- Baby Fun \(Remix\)](https://open.spotify.com/album/1g7vUqTtKS2DzSRn3lugll) | 2:17 |
 | 46 | [Chevere \(feat\. Lito Atalaia\)](https://open.spotify.com/track/3Ecllma7tEPF8gZZZsNp1v) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Chevere \(feat\. Lito Atalaia\)](https://open.spotify.com/album/2nuYrKJ4TCQ1B9ZV2Mjupg) | 3:33 |
 | 47 | [Galileia](https://open.spotify.com/track/1NxGlZCXHdExP3sPld6UV0) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Galileia](https://open.spotify.com/album/1WsqUCNmbFJOsA4Ukmu8lV) | 2:37 |
-| 48 | [Eu Sou Um Cordeirinho](https://open.spotify.com/track/3S638bURBDmKdnoFbTEwXE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Eu Sou Um Cordeirinho](https://open.spotify.com/album/7uVIoEnQpDw7N8hRh07uUo) | 2:42 |
-| 49 | [Satisfação](https://open.spotify.com/track/5rmBG2lYpzQFXU5LXrWHTE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Satisfação](https://open.spotify.com/album/7dNxBMr0QOAUD3ydFcCH8f) | 2:17 |
+| 48 | [Satisfação](https://open.spotify.com/track/5rmBG2lYpzQFXU5LXrWHTE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Satisfação](https://open.spotify.com/album/7dNxBMr0QOAUD3ydFcCH8f) | 2:17 |
+| 49 | [Eu Sou Um Cordeirinho](https://open.spotify.com/track/3S638bURBDmKdnoFbTEwXE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Eu Sou Um Cordeirinho](https://open.spotify.com/album/7uVIoEnQpDw7N8hRh07uUo) | 2:42 |
 | 50 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
 
-Snapshot ID: `MCwyYTNjNmQ0ZmM4ZTNiNzEzMzQ3OTNlYTNkZGFjMWVhYTI0ZjBmMmRi`
+Snapshot ID: `MCw0MzY0OTk4MTg4ZmExODIxYjM3YTRlMGIwMGMwMjFhYmUyY2IwYjM4`

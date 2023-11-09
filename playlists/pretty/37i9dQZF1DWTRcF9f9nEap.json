@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 81918,
+  "num_followers": 81976,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjQ4NGJmZWExYjUwYWNlMDFmYWY5ZjQ5NzkxZWMyNGNjMGY3Y2M1",
+  "snapshot_id": "MCw4Njg5ZjRhN2Q0ZWFhMzRiOWM4OWRhYzdiYWQ3OWZmMDE2ZmI3MWU3",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -683,18 +683,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Dig In Deep",
-        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        },
+        {
+          "name": "Tyler Bryant",
+          "url": "https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi"
         }
       ],
-      "duration_ms": 249093,
-      "name": "Gypsy In Me",
-      "url": "https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq"
+      "duration_ms": 219637,
+      "name": "Mississippi (feat. Tyler Bryant)",
+      "url": "https://open.spotify.com/track/7I6sXnSLWoc3LEQisxG86Y"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -715,22 +719,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+        "name": "Dig In Deep",
+        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
       },
       "artists": [
         {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        },
-        {
-          "name": "Tyler Bryant",
-          "url": "https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 219637,
-      "name": "Mississippi (feat. Tyler Bryant)",
-      "url": "https://open.spotify.com/track/7I6sXnSLWoc3LEQisxG86Y"
+      "duration_ms": 249093,
+      "name": "Gypsy In Me",
+      "url": "https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq"
     },
     {
       "added_at": "2023-01-16 21:05:55",

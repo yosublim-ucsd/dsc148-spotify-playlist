@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: JeBel
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,846 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,851 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 59 | [Brandy & Monica](https://open.spotify.com/track/7D0lKhGUyoJvXA83Gko8ou) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Brandy & Monica](https://open.spotify.com/album/2TGJGvjsRyiNZub7jgeIcM) | 2:40 |
 | 60 | [salvare](https://open.spotify.com/track/4jQCFTq0WPVBHayDkgzIFf) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [salvare](https://open.spotify.com/album/2YjaCfTIJi5ehsSPOIflxu) | 3:04 |
 
-Snapshot ID: `MCw0YzI4NWRmNzY4ODM2NWVhMDVjZmJkOGFjZDNkY2I4MGUxYTdkNTA0`
+Snapshot ID: `MCxjMWMwYzM0ZDM3YmYyYTA3NGNlZmNmNjllOTNiMWVmODhhMjdlY2Y4`

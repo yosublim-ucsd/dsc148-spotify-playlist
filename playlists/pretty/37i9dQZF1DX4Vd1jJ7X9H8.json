@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 291350,
+  "num_followers": 292035,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWY5Y2RlNTNlNmU5MjNkNWQxNmIwOWI3YzU4YTYwMDdlZTIxNDJi",
+  "snapshot_id": "MCw1NmQ3YWY0MGEyNzAzMGEzYzAwNjc4Njk5YzIxNzRmMzc0MWY1YjVj",
   "tracks": [
     {
       "added_at": "2023-09-29 19:53:20",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "HIT EM WHERE IT HURTS",
-        "url": "https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 165499,
-      "name": "HIT EM WHERE IT HURTS",
-      "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "Gamesofluck",
         "url": "https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 348093,
       "name": "Gamesofluck",
       "url": "https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "HIT EM WHERE IT HURTS",
+        "url": "https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 165499,
+      "name": "HIT EM WHERE IT HURTS",
+      "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 226280,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "If This Is House I Want My Money Back 3",
-        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 285440,
-      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
-      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 220726,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "If This Is House I Want My Money Back 3",
+        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 285440,
+      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
+      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
     },
     {
       "added_at": "2023-09-29 19:53:20",

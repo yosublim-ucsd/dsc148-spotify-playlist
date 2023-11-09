@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,436 likes - 159 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,524 likes - 159 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 | 158 | [Stella by Starlight](https://open.spotify.com/track/3TVpiMoI86chM88b0I712D) | [Sophie Lemon Jazz](https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON) | [Tea for Two](https://open.spotify.com/album/2ogUu6iYKmNTdddXXHBwp5) | 5:02 |
 | 159 | [I´ll Be Around](https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´ll Be Around](https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao) | 3:35 |
 
-Snapshot ID: `MCxlMzRiNmJlMGNhYmMwYzhjMjhjMzJjZTBmZWViYjdmODdkZTllZTVh`
+Snapshot ID: `MCwxMDZmYjViOTczYTRhYTc3ZmIyZTI0M2Y3NmFkZTYzMWExNTZlNDU3`

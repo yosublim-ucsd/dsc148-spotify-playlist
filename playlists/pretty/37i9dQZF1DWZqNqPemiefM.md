@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,505 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,541 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,17 +24,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 14 | [lust](https://open.spotify.com/track/6l2XwFCDccPyfvrAvZ97hC) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [\[lust\]](https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05) | 5:00 |
 | 15 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 |
 | 16 | [Selves](https://open.spotify.com/track/5pkvDUPmXkTuzE5eH52dxI) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [unpeople](https://open.spotify.com/album/1Ot0Gz2lPVgWSKK0ErnCxI) | 4:59 |
-| 17 | [Sacred Play Secret Place](https://open.spotify.com/track/5IJ1XPg1t3IAfhxfLRSuA9) | [matryoshka](https://open.spotify.com/artist/4NRS2lkQBjAEWBihpcKUGK) | [Laideronnette](https://open.spotify.com/album/79ayoalAp1qHjyD1UlvNWs) | 5:17 |
+| 17 | [Utai IV: Reawakening](https://open.spotify.com/track/2aOT7WhCfzhQmoTCH3R3Fq) | [Kenji Kawai](https://open.spotify.com/artist/0lzVrkjlIZJH18hk2Gcjkp) | [Ghost in the Shell \(Music Inspired by the Motion Picture\)](https://open.spotify.com/album/7mA7Z5oy212NMRL8lqFzhO) | 2:37 |
 | 18 | [Misunderstood](https://open.spotify.com/track/0oxrapKkwUQf865tPTOByL) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Junebug Rhapsody](https://open.spotify.com/album/4kyh3E4DolanD3BMxcxG04) | 5:44 |
-| 19 | [Utai IV: Reawakening](https://open.spotify.com/track/2aOT7WhCfzhQmoTCH3R3Fq) | [Kenji Kawai](https://open.spotify.com/artist/0lzVrkjlIZJH18hk2Gcjkp) | [Ghost in the Shell \(Music Inspired by the Motion Picture\)](https://open.spotify.com/album/7mA7Z5oy212NMRL8lqFzhO) | 2:37 |
+| 19 | [Sacred Play Secret Place](https://open.spotify.com/track/5IJ1XPg1t3IAfhxfLRSuA9) | [matryoshka](https://open.spotify.com/artist/4NRS2lkQBjAEWBihpcKUGK) | [Laideronnette](https://open.spotify.com/album/79ayoalAp1qHjyD1UlvNWs) | 5:17 |
 | 20 | [jellyfish](https://open.spotify.com/track/4rzhdIO9I6nhGWHwKDtRiZ) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [jellyfish](https://open.spotify.com/album/3VXWeLX3SNXLdAi2DEURpY) | 2:44 |
 | 21 | [Azukiiro No Kaori](https://open.spotify.com/track/5J94BE34S8gqfmhTFQzHmM) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 2:39 |
 | 22 | [Contrast](https://open.spotify.com/track/7F5kSxc7LxDdvq0XA9YYid) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Contrast](https://open.spotify.com/album/1Vm8ygfXCkpWTVX8accHWU) | 3:23 |
 | 23 | [Clouds](https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 5:54 |
 | 24 | [Rev.3](https://open.spotify.com/track/24L5wD0DUMyGVk8iJQFg6L) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn) | [001](https://open.spotify.com/album/2zDHmZdQLOGHnTjYPmYnpF) | 7:19 |
-| 25 | [Nami](https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:56 |
+| 25 | [DNA](https://open.spotify.com/track/0dVOO1yFYNeWjsrIdWi9u7) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [In The Dark Woods](https://open.spotify.com/album/3IZstlhdTOOtJ5HPQDjEFw) | 5:16 |
 | 26 | [pacific oceanap](https://open.spotify.com/track/5n5VPlLd25pZm7MmVeB8NL) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [pacific oceanap](https://open.spotify.com/album/6iUzAUPUgaMkuEJjmBD9lp) | 2:40 |
-| 27 | [DNA](https://open.spotify.com/track/0dVOO1yFYNeWjsrIdWi9u7) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [In The Dark Woods](https://open.spotify.com/album/3IZstlhdTOOtJ5HPQDjEFw) | 5:16 |
+| 27 | [Nami](https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:56 |
 | 28 | [Past From \- Rebelski Remix](https://open.spotify.com/track/1pGAxg8f3DBIcXbJE7EvZJ) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV), [Rebelski](https://open.spotify.com/artist/18zTVJ6fMHo39oGuHINfOX) | [Revise](https://open.spotify.com/album/6lnT4LoKtSoAL5lVfTqpOY) | 4:55 |
 | 29 | [Arne](https://open.spotify.com/track/4ZqQqesPkASH1sqsnm6wmo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Grace](https://open.spotify.com/album/37vlYDRVRGH8sf5qZG3J6z) | 3:37 |
 | 30 | [JJ](https://open.spotify.com/track/5mDMtKrEbFyVwdLMqLS7jO) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [JJ](https://open.spotify.com/album/4FIFNBWXW67UsD1PNX0XrE) | 3:34 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 46 | [Chōchin](https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:24 |
 | 47 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC) | 3:47 |
 | 48 | [Love is a personal thing](https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:13 |
-| 49 | [Stars](https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Vapor](https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt) | 6:19 |
-| 50 | [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 |
+| 49 | [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 |
+| 50 | [Stars](https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Vapor](https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt) | 6:19 |
 
-Snapshot ID: `MCwwMTNlZmJiNDU3OTg5ZGRiNTc4MzdiM2Q2MTNlZDdlOWZmMDI5MDVh`
+Snapshot ID: `MCw1OWY5YTE3OGMxZTI4NTk4NmIyYmQ4MDlkNzdlNmY1MDBmMjJjMDgx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,776 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,035 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [Make U SWEAT!](https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [Make U SWEAT!](https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3) | 3:54 |
 | 50 | [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 |
 
-Snapshot ID: `MCxhMjdkOWViNTUyNWQyMDUzM2Y4MzhkMzQyODI3MjY2NDgwOTU3MmI4`
+Snapshot ID: `MCxjMzBhZjVjODA5MjA1MjVmMzBiMDc3ZmJhMjJjODBmYzAxMTZjMzAz`

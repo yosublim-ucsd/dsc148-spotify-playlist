@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\. Cover: Sabrina Carpenter
 
-408 songs - 1 day 1 hr 13 min
+409 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Creep](https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz) | 2:41 | 2022-10-03 | 2022-12-09 |
 | [Creep](https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79) | 2:41 | 2022-10-03 |  |
 | [Creep \- mint Singles](https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf) | 2:41 | 2022-03-24 | 2022-11-02 |
+| [Creep \- Spotify Singles](https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Spotify Singles](https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4) | 5:02 | 2023-11-08 |  |
 | [Cry For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0w1Dln7VMjPDCNIIQLidgg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P) | 3:01 | 2021-09-24 | 2022-07-27 |
 | [Cry For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3XpryMvmOzzlLfqAq8WLN2) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/0YppXqlu9VxA7tFteqmjMn) | 3:01 | 2023-01-11 | 2023-09-21 |
 | [Cry Me a River \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles](https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc) | 5:01 | 2021-09-24 |  |
@@ -231,7 +232,7 @@
 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 | 2021-09-24 |  |
 | [Love and Happiness](https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 5:08 | 2022-06-07 |  |
 | [Love And Happiness \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1OgjvzxeljGaL4LrZmV1Qj) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Spotify Singles](https://open.spotify.com/album/3DkpSX4WupAad9H3DgdVji) | 5:07 | 2021-09-24 | 2022-05-01 |
-| [lovely \- Spotify Singles](https://open.spotify.com/track/7FHDb1W6EtQq7WnoX73Rpy) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [Spotify Singles](https://open.spotify.com/album/4sajM6GOU3Z1lbsO99C7WD) | 3:18 | 2022-10-12 |  |
+| [lovely \- Spotify Singles](https://open.spotify.com/track/7FHDb1W6EtQq7WnoX73Rpy) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [Spotify Singles](https://open.spotify.com/album/4sajM6GOU3Z1lbsO99C7WD) | 3:18 | 2022-10-12 | 2023-11-09 |
 | [Lover \- Recorded at Air Studios, London](https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui) | 3:59 | 2021-09-24 |  |
 | [Lovesong \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:11 | 2021-09-24 | 2022-07-25 |
 | [Lucid Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0wvfD7NmJ73vdBdFgPBEy6) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Spotify Singles](https://open.spotify.com/album/5Hh5BX1UpNACzemVSz78Y1) | 2:45 | 2022-03-24 | 2022-04-21 |

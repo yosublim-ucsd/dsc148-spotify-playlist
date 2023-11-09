@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,608 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,676 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 42 | [Rain](https://open.spotify.com/track/6JZj90z1LqUkSyhdT6PEKm) | [Froman](https://open.spotify.com/artist/2XmYUy3NJHRuT3hBb8IS76) | [Rain](https://open.spotify.com/album/1rWGsnrgkXJ8hc3DDGZL5l) | 4:16 |
 | 43 | [Henney & Coke](https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi) | [Deadly Habitz](https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy) | [Lost City Archives, Vol\. 7](https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp) | 4:05 |
 | 44 | [REPLAY](https://open.spotify.com/track/78bKo5cD6JUPHfsY7sxSKj) | [ŚWIĘTY BASS](https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP), [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [MoreNight](https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N) | [REPLAY](https://open.spotify.com/album/4rNLK6g8hfpXK5wkpHAZ6n) | 2:54 |
-| 45 | [With Me \(feat\. Sâlo\)](https://open.spotify.com/track/7qERcHhtCTltMIGZl4nmYp) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [With Me](https://open.spotify.com/album/76CVi2dGMcEgtoDcxeQWlH) | 3:48 |
-| 46 | [nobody but u](https://open.spotify.com/track/0Mq7DQeSqhxaw8l4H42Wfw) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [nobody but u](https://open.spotify.com/album/6bECVAhAp8eX6fsRjQLNpe) | 3:56 |
+| 45 | [nobody but u](https://open.spotify.com/track/0Mq7DQeSqhxaw8l4H42Wfw) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [nobody but u](https://open.spotify.com/album/6bECVAhAp8eX6fsRjQLNpe) | 3:56 |
+| 46 | [With Me \(feat\. Sâlo\)](https://open.spotify.com/track/7qERcHhtCTltMIGZl4nmYp) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [With Me](https://open.spotify.com/album/76CVi2dGMcEgtoDcxeQWlH) | 3:48 |
 | 47 | [lovergirl \- Tommy Villiers VIP Mix](https://open.spotify.com/track/2DwCBAxLXCx9DBFTNYnL2R) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [lovergirl \(Tommy Villiers VIP Mix\)](https://open.spotify.com/album/4WLHi3wJB7Kb7Av8xftYKN) | 3:36 |
 | 48 | [Big & Bad Riddim](https://open.spotify.com/track/1MiQKWnyI47pXvW5wWf9ts) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Big & Bad Riddim](https://open.spotify.com/album/48MB8hbQNRWWy5C1DHa4WG) | 2:55 |
 | 49 | [How It Goes](https://open.spotify.com/track/0G8WDiAyLXfmL4cfDGZ3SF) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [How It Goes](https://open.spotify.com/album/5CCDmc3BqXYVmO0LVD4Wmd) | 2:55 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 57 | [Love Me, Leave Me Alone](https://open.spotify.com/track/55MckToyWVSitUdMySgApN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Love Me, Leave Me Alone](https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM) | 3:13 |
 | 58 | [Home To You \- Champion Remix](https://open.spotify.com/track/62Ov2zdV4Vb13eARWW89fT) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Home To You \(Champion Remix\)](https://open.spotify.com/album/2fdWviFHYoSVi8QX8lHFgy) | 3:57 |
 | 59 | [Dart](https://open.spotify.com/track/0VECtX3A6GhmPmbJ6M9joL) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Dart](https://open.spotify.com/album/6PCFhgjvZglMGPLPd5en3W) | 4:04 |
-| 60 | [345](https://open.spotify.com/track/5uD2NZgs3MKQHj9fUiVIZN) | [Hilts](https://open.spotify.com/artist/2UvkNW59ABnaOlkGXCGxot), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [345](https://open.spotify.com/album/5qV7RWCvG3uCjzt1MdAU0G) | 3:20 |
+| 60 | [Doubt](https://open.spotify.com/track/7uQJer8Iyw9DxpwexyeCLV) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [132.00FM](https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL) | 3:24 |
 
-Snapshot ID: `MCwyMmYxNjliMmI3ZDZkMDZlNTRjZmU5ZTNlODlhOGI5YjkwODJmNWI3`
+Snapshot ID: `MCw1OWYyOTY4ZTJlY2IyZmQwMDBjNTExNTZjZWI5OTU1MzlhNmE1NTcz`

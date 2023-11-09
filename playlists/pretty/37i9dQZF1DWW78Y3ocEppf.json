@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: VEDO",
-  "num_followers": 43141,
+  "num_followers": 43145,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTAyMzk1YjkyNzQ4M2UzYjVjYzFlOGRjNTZmN2E2YTcxMDNhYzBj",
+  "snapshot_id": "MCwzZjE3MzhhNzViMmE4NWIwNGJlM2VkMDhjMGE2OTNhOGVkZDViZDUy",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/1LADKWKeq6I21w6j9wDSad"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "it's not you, it's me",
-        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 132106,
-      "name": "143",
-      "url": "https://open.spotify.com/track/3923eUQ7hXHpceXtoqJVRO"
-    },
-    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Nuclear Reactor",
@@ -723,6 +707,22 @@
       "duration_ms": 195498,
       "name": "Nuclear Reactor",
       "url": "https://open.spotify.com/track/12P1Scb3vywGXUU5LdJIxi"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "it's not you, it's me",
+        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 132106,
+      "name": "143",
+      "url": "https://open.spotify.com/track/3923eUQ7hXHpceXtoqJVRO"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -789,20 +789,20 @@
       "url": "https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
+      "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "it's not you, it's me",
-        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
+        "name": "Out The Way",
+        "url": "https://open.spotify.com/album/3ZqHjjh7jnUEGPf4b5xbwO"
       },
       "artists": [
         {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
         }
       ],
-      "duration_ms": 120493,
-      "name": "cascade road",
-      "url": "https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh"
+      "duration_ms": 155414,
+      "name": "Out The Way",
+      "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -819,22 +819,6 @@
       "duration_ms": 189929,
       "name": "Don\u2019t Mind Me",
       "url": "https://open.spotify.com/track/1ZsNLqqBzUbDG9LDosVk2p"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Out The Way",
-        "url": "https://open.spotify.com/album/3ZqHjjh7jnUEGPf4b5xbwO"
-      },
-      "artists": [
-        {
-          "name": "Samaria",
-          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
-        }
-      ],
-      "duration_ms": 155414,
-      "name": "Out The Way",
-      "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -891,6 +875,22 @@
       "duration_ms": 150361,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/4zEy7q415WjIawOFLhsMBN"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "it's not you, it's me",
+        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 120493,
+      "name": "cascade road",
+      "url": "https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1113,26 +1113,6 @@
       "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "On Mine",
-        "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
-      },
-      "artists": [
-        {
-          "name": "Imani Williams",
-          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 143986,
-      "name": "On Mine",
-      "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
-    },
-    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "Smoke, Drink, Break Up (feat. Wale)",
@@ -1151,6 +1131,26 @@
       "duration_ms": 131542,
       "name": "Smoke, Drink, Break Up (feat. Wale)",
       "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "On Mine",
+        "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
+      },
+      "artists": [
+        {
+          "name": "Imani Williams",
+          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 143986,
+      "name": "On Mine",
+      "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1245,6 +1245,26 @@
       "url": "https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1"
     },
     {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Tripolar 3",
+        "url": "https://open.spotify.com/album/5vwy12wlYqVXOcsyhdcoiM"
+      },
+      "artists": [
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        },
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Strip for You (feat. Vedo)",
+      "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
+    },
+    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Presence",
@@ -1265,24 +1285,20 @@
       "url": "https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Tripolar 3",
-        "url": "https://open.spotify.com/album/5vwy12wlYqVXOcsyhdcoiM"
+        "name": "Meet Me Upstrz",
+        "url": "https://open.spotify.com/album/7z4HTLft71X47PyAgLMJZU"
       },
       "artists": [
         {
-          "name": "Ann Marie",
-          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
-        },
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+          "name": "Upstrz",
+          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
         }
       ],
-      "duration_ms": 219500,
-      "name": "Strip for You (feat. Vedo)",
-      "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
+      "duration_ms": 156107,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/4k3xMb6tDbhVa7RDD2dISb"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1317,26 +1333,6 @@
       "url": "https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK"
     },
     {
-      "added_at": "2023-09-08 05:11:32",
-      "album": {
-        "name": "No Rules (Slut Me Out) (Single)",
-        "url": "https://open.spotify.com/album/6KSFtsn6YSViWcgLtrHBYd"
-      },
-      "artists": [
-        {
-          "name": "Sy Ari Da Kid",
-          "url": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
-        },
-        {
-          "name": "Paxquiao",
-          "url": "https://open.spotify.com/artist/1YhthHHCDrrokQ3xsYImWd"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "No Rules (Slut Me Out)",
-      "url": "https://open.spotify.com/track/2av5w5YWi6lZAJKueee1gs"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Cold Toronto",
@@ -1369,20 +1365,24 @@
       "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2023-09-08 05:11:32",
       "album": {
-        "name": "Meet Me Upstrz",
-        "url": "https://open.spotify.com/album/7z4HTLft71X47PyAgLMJZU"
+        "name": "No Rules (Slut Me Out) (Single)",
+        "url": "https://open.spotify.com/album/6KSFtsn6YSViWcgLtrHBYd"
       },
       "artists": [
         {
-          "name": "Upstrz",
-          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
+          "name": "Sy Ari Da Kid",
+          "url": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
+        },
+        {
+          "name": "Paxquiao",
+          "url": "https://open.spotify.com/artist/1YhthHHCDrrokQ3xsYImWd"
         }
       ],
-      "duration_ms": 156107,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/4k3xMb6tDbhVa7RDD2dISb"
+      "duration_ms": 172666,
+      "name": "No Rules (Slut Me Out)",
+      "url": "https://open.spotify.com/track/2av5w5YWi6lZAJKueee1gs"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1565,6 +1565,38 @@
       "url": "https://open.spotify.com/track/596mDgt5lAcoFLQn3FrXQ7"
     },
     {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa"
+      },
+      "artists": [
+        {
+          "name": "Nbdy",
+          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
+        }
+      ],
+      "duration_ms": 143903,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "WNTRS OUTCAST",
+        "url": "https://open.spotify.com/album/1LA1WiLkc7Md9u6ABOU1Zl"
+      },
+      "artists": [
+        {
+          "name": "Melii",
+          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3QfAjgURz2FywuZFyTM8z5"
+    },
+    {
       "added_at": "2023-05-05 04:18:58",
       "album": {
         "name": "Take II",
@@ -1585,20 +1617,20 @@
       "url": "https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Take Control",
-        "url": "https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa"
+        "name": "Songs for Women, Free Game for Niggas - EP",
+        "url": "https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1"
       },
       "artists": [
         {
-          "name": "Nbdy",
-          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
         }
       ],
-      "duration_ms": 143903,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
+      "duration_ms": 181911,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
     },
     {
       "added_at": "2023-09-01 04:55:52",
@@ -1615,38 +1647,6 @@
       "duration_ms": 165428,
       "name": "five more",
       "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "WNTRS OUTCAST",
-        "url": "https://open.spotify.com/album/1LA1WiLkc7Md9u6ABOU1Zl"
-      },
-      "artists": [
-        {
-          "name": "Melii",
-          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3QfAjgURz2FywuZFyTM8z5"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Songs for Women, Free Game for Niggas - EP",
-        "url": "https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1"
-      },
-      "artists": [
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 181911,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1681,22 +1681,6 @@
       "url": "https://open.spotify.com/track/1HWiS9m9JP4WrVycahNud7"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Too Good",
-        "url": "https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Riptide",
@@ -1711,6 +1695,22 @@
       "duration_ms": 194400,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "Too Good",
+        "url": "https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf"
     },
     {
       "added_at": "2023-03-10 05:00:00",

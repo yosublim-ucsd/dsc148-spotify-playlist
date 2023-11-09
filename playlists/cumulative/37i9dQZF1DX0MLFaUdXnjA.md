@@ -2,7 +2,7 @@
 
 ### [Chill Pop](https://open.spotify.com/playlist/37i9dQZF1DX0MLFaUdXnjA)
 
-> Keeping it lowkey with the best of today's chill pop\. Cover: Lizzy McAlpine & Niall Horan
+> Keeping it lowkey with the best of today's chill pop\. Cover: Sabrina Carpenter
 
 1,467 songs - 3 day 6 hr 49 min
 
@@ -1140,7 +1140,7 @@
 | [slow summer](https://open.spotify.com/track/4JEGeqPF0RH7oi1lHdtbK6) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [slow summer](https://open.spotify.com/album/5h57maDhvtnrVnJa7ihR7D) | 2:48 | 2020-08-20 | 2020-12-04 |
 | [slower](https://open.spotify.com/track/1bd4heB3yXc5iFTPoOMPuo) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [slower](https://open.spotify.com/album/4NwShGLn0PyyJ7AC7cEqBz) | 3:07 | 2021-03-06 | 2021-06-26 |
 | [Small Doses](https://open.spotify.com/track/3U1zgAed3FGsfb4bE2GOtn) | [Camille](https://open.spotify.com/artist/2X1AUAAyXLbTxQGfnvsNL6) | [Small Doses](https://open.spotify.com/album/32dtZ5mPoCxJZRaSBmihPU) | 2:48 | 2023-02-17 | 2023-04-01 |
-| [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-09-05 |  |
+| [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-09-05 | 2023-11-09 |
 | [snowflake \(feat\. Jaden & Sarcastic Sounds\)](https://open.spotify.com/track/7KW1AtQKFToSoF1kmyk2wE) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [tell me your feelings and i won't tell you mine](https://open.spotify.com/album/0nyUIJbb1bEIRCTpD2sQ2R) | 3:07 | 2021-10-09 | 2022-02-19 |
 | [So Far Away](https://open.spotify.com/track/6cjrJbXoA0VscOXEPgLdYv) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [So Far Away](https://open.spotify.com/album/0TnwHpwza2o3cMyklfOmCJ) | 3:27 | 2021-06-05 | 2021-08-14 |
 | [So Good \- Stripped](https://open.spotify.com/track/4vi0VouKDXJZEBANYxwCFN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good \(Stripped\)](https://open.spotify.com/album/1THYS7xuqQeUFgZcKoapie) | 3:11 | 2022-07-01 | 2023-04-01 |

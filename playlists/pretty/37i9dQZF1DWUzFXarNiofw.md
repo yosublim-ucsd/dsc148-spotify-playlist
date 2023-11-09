@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Majid Jordan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,483 likes - 175 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,620 likes - 175 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 |
 | 175 | [Good Ex](https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World](https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI) | 2:35 |
 
-Snapshot ID: `MCw1MjQ3YWEyMmNiMjFmMTY0YzYxNGFlMGI0OTllMGRiZTA1NzRmNWQw`
+Snapshot ID: `MCwxNTQyZjJjNmE1OTdmZTYzMDY5NWY3ODViZDM2MTMxYjk0MTFmZGM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: HotWax
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,902 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,913 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 67 | [Boys in the Band](https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [You're Welcome](https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9) | 2:35 |
 | 68 | [Tell Me I'm Wrong](https://open.spotify.com/track/18JEq5IGhMshPnIeX2HJyY) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Tell Me I'm Wrong](https://open.spotify.com/album/12SxXpf86LVJYuNqQhkSPx) | 3:22 |
 | 69 | [EYELIDS](https://open.spotify.com/track/1iGKMqKV0GBLX9Q6yXTDER) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2), [Cole Bleu](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [EYELIDS](https://open.spotify.com/album/0NNdMw7RTuQpUZ6fU1zZcM) | 2:06 |
-| 70 | [Living Room](https://open.spotify.com/track/2cVpWE4QSNt52FNKLBNpvW) | [The Kites](https://open.spotify.com/artist/3ozhwCsC7L5vosnIQrX1jy) | [Living Room](https://open.spotify.com/album/7ImWwG4QYO9qSx2fuJKSSt) | 4:33 |
+| 70 | [Living Room](https://open.spotify.com/track/0oLn6RJMQRHciUKebSyqW6) | [The Kites](https://open.spotify.com/artist/2Q9k03aufzYcuO2jZFupal) | [Living Room](https://open.spotify.com/album/69A5eUFU5OAkrk4Qwcr0F8) | 4:33 |
 | 71 | [Swallow](https://open.spotify.com/track/0bDFmPqNCXQcfAc3njZszA) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Swallow](https://open.spotify.com/album/7hXMo6KNd71w3y7Zd4r134) | 3:09 |
 | 72 | [We'll Be Alreet](https://open.spotify.com/track/5wqlwFwHMCrVo4bKSjM17X) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [We'll Be Alreet](https://open.spotify.com/album/2GzKx7KP1WCpmNp59035C6) | 2:57 |
 | 73 | [Bleachers Yard](https://open.spotify.com/track/0f62033IA2CQh9Y5t4zMJt) | [Cucamaras](https://open.spotify.com/artist/2Zy8a1P2tEwHdQK56s0v8T) | [Buck Rogers Time](https://open.spotify.com/album/1omvo1hvCG4XzDRmreWjLJ) | 4:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [Egregore](https://open.spotify.com/track/2l7yet2WjW2JbQi9mVvuOG) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Egregore](https://open.spotify.com/album/06p7KNMP9DaSOQgJKtbItt) | 3:03 |
 | 80 | [Fed Rock](https://open.spotify.com/track/5N9WqVbPaNU6HqS4Z5as5r) | [Island of Love](https://open.spotify.com/artist/6Owu7hgXQkNtgcVMo7UYqn) | [Fed Rock](https://open.spotify.com/album/2jMOIQCfCluYqndppMEU4Z) | 2:47 |
 
-Snapshot ID: `MCw2MzAxMWJlNDhkZmQzMjFhYTQzNWFiNjA4ZjAzN2I4OWQ3ZWQ2Yjhi`
+Snapshot ID: `MCxhMTEyZDc5YjgwN2NlYWZmYzBhN2Q5NzUwZDY1YzAxYzBiNWE1MmQ4`

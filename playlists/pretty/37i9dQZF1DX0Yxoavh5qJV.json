@@ -1,12 +1,12 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5322494,
+  "num_followers": 5325831,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzY1MDAzOWQ0NDhjZDUzNWYwZTNkYjUyN2E5NGVmZjYxNTAzZTc3",
+  "snapshot_id": "MCw3MmVhMzlhYzE0YTU4MjhkNDVhNjg5YmY4ZmMxZGEwNGVmMWRjYzNm",
   "tracks": [
     {
       "added_at": "2023-11-06 23:21:21",
@@ -691,18 +691,22 @@
     {
       "added_at": "2023-11-06 23:21:21",
       "album": {
-        "name": "Christmas Lights",
-        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
         }
       ],
-      "duration_ms": 242495,
-      "name": "Christmas Lights",
-      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
+      "duration_ms": 175333,
+      "name": "Mele Kalikimaka (Merry Christmas)",
+      "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
     },
     {
       "added_at": "2023-11-06 23:21:21",
@@ -759,22 +763,18 @@
     {
       "added_at": "2023-11-06 23:21:21",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
+        "name": "Christmas Lights",
+        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 175333,
-      "name": "Mele Kalikimaka (Merry Christmas)",
-      "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
+      "duration_ms": 242495,
+      "name": "Christmas Lights",
+      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
     },
     {
       "added_at": "2023-11-06 23:21:21",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-11-06 23:21:21",
       "album": {
-        "name": "Christmas Without You",
-        "url": "https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 169245,
-      "name": "Christmas Without You",
-      "url": "https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm"
-    },
-    {
-      "added_at": "2023-11-06 23:21:21",
-      "album": {
         "name": "The Beach Boys' Christmas Album",
         "url": "https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 118840,
       "name": "Little Saint Nick - 1991 Remix",
       "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
+    },
+    {
+      "added_at": "2023-11-06 23:21:21",
+      "album": {
+        "name": "Christmas Without You",
+        "url": "https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 169245,
+      "name": "Christmas Without You",
+      "url": "https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm"
     },
     {
       "added_at": "2023-11-06 23:21:21",
@@ -939,18 +939,22 @@
     {
       "added_at": "2023-11-06 23:21:21",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+        "name": "You Make It Feel Like Christmas",
+        "url": "https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 266933,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
+      "duration_ms": 156773,
+      "name": "You Make It Feel Like Christmas (feat. Blake Shelton)",
+      "url": "https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ"
     },
     {
       "added_at": "2023-11-06 23:21:21",
@@ -971,22 +975,18 @@
     {
       "added_at": "2023-11-06 23:21:21",
       "album": {
-        "name": "You Make It Feel Like Christmas",
-        "url": "https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
       "artists": [
         {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        },
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 156773,
-      "name": "You Make It Feel Like Christmas (feat. Blake Shelton)",
-      "url": "https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ"
+      "duration_ms": 266933,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
     },
     {
       "added_at": "2023-11-06 23:21:21",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-11-06 23:21:21",
       "album": {
-        "name": "Christmas Classics",
-        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 143026,
-      "name": "Baby, It's Cold Outside - Remastered 2004",
-      "url": "https://open.spotify.com/track/4uQqahi1iUP35xE2qGdKdo"
-    },
-    {
-      "added_at": "2023-11-06 23:21:21",
-      "album": {
         "name": "Together With Cliff Richard",
         "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 245333,
       "name": "Mistletoe and Wine",
       "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
+    },
+    {
+      "added_at": "2023-11-06 23:21:21",
+      "album": {
+        "name": "Christmas Classics",
+        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 143026,
+      "name": "Baby, It's Cold Outside - Remastered 2004",
+      "url": "https://open.spotify.com/track/4uQqahi1iUP35xE2qGdKdo"
     },
     {
       "added_at": "2023-11-06 23:21:21",

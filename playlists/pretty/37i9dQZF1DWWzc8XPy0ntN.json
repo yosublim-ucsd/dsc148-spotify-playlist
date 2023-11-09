@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 123435,
+  "num_followers": 123437,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDNkMDFmNjE2YWU4NzdmOTRlZThlM2NhMTY1MGFmZTNmNzNmNjMx",
+  "snapshot_id": "MCw0NDFhNWU3YmE5MTM2YjNhNWRjNDZiNTRhMjJiNGE1MTlkNzU3Y2Iy",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
-      },
-      "artists": [
-        {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
-        }
-      ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Night in Tijuana",
         "url": "https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 170909,
       "name": "Dancehall, Audubon Ballroom",
       "url": "https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+      },
+      "artists": [
+        {
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+        }
+      ],
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -743,6 +743,26 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Nuestra Forma",
+        "url": "https://open.spotify.com/album/1yubXuGPPftP0P8KcOhIZx"
+      },
+      "artists": [
+        {
+          "name": "DJs Pareja",
+          "url": "https://open.spotify.com/artist/5oTo90z4UYa7QUQ3Je3dQ7"
+        },
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 347073,
+      "name": "No Puedo Funcionar",
+      "url": "https://open.spotify.com/track/6NTvPhG0uLiXLSjhNMOZAT"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "I Can't Find",
         "url": "https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe"
       },
@@ -755,22 +775,6 @@
       "duration_ms": 224000,
       "name": "I Can't Find",
       "url": "https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Tu Sonrisa",
-        "url": "https://open.spotify.com/album/7xPLGR9YXVHdPw3MpqsYDn"
-      },
-      "artists": [
-        {
-          "name": "Dapuntobeat",
-          "url": "https://open.spotify.com/artist/1V45Te1AQmLsqtRGylNLKs"
-        }
-      ],
-      "duration_ms": 348226,
-      "name": "Tu Sonrisa",
-      "url": "https://open.spotify.com/track/6m8LqOQxrQXSGbS6q55khu"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -803,26 +807,6 @@
       "duration_ms": 500869,
       "name": "Pieles",
       "url": "https://open.spotify.com/track/5kh71E46NXD2ub6OcvFVy5"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Nuestra Forma",
-        "url": "https://open.spotify.com/album/1yubXuGPPftP0P8KcOhIZx"
-      },
-      "artists": [
-        {
-          "name": "DJs Pareja",
-          "url": "https://open.spotify.com/artist/5oTo90z4UYa7QUQ3Je3dQ7"
-        },
-        {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
-        }
-      ],
-      "duration_ms": 347073,
-      "name": "No Puedo Funcionar",
-      "url": "https://open.spotify.com/track/6NTvPhG0uLiXLSjhNMOZAT"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -863,22 +847,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Collateral",
-        "url": "https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV"
-      },
-      "artists": [
-        {
-          "name": "Dr Honey",
-          "url": "https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr"
-        }
-      ],
-      "duration_ms": 271878,
-      "name": "Collateral",
-      "url": "https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Poliformo",
         "url": "https://open.spotify.com/album/7HNzwLPaPAzrvlyJcLLoke"
       },
@@ -895,18 +863,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Ancient Astronauts",
-        "url": "https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq"
+        "name": "Collateral",
+        "url": "https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV"
       },
       "artists": [
         {
-          "name": "Bertoldi",
-          "url": "https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE"
+          "name": "Dr Honey",
+          "url": "https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr"
         }
       ],
-      "duration_ms": 415971,
-      "name": "Forerunner",
-      "url": "https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde"
+      "duration_ms": 271878,
+      "name": "Collateral",
+      "url": "https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -927,6 +895,38 @@
       "duration_ms": 252936,
       "name": "Ananda",
       "url": "https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Ancient Astronauts",
+        "url": "https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq"
+      },
+      "artists": [
+        {
+          "name": "Bertoldi",
+          "url": "https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE"
+        }
+      ],
+      "duration_ms": 415971,
+      "name": "Forerunner",
+      "url": "https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/632kGPMnxUSMHTngCCeb4Z"
+      },
+      "artists": [
+        {
+          "name": "Dietscha Jung",
+          "url": "https://open.spotify.com/artist/6DYNkp4jACOeI3bn2gmKqg"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "K Royal Con Las de Harina",
+      "url": "https://open.spotify.com/track/08V1tV1HjwZeV04MaV9dpQ"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

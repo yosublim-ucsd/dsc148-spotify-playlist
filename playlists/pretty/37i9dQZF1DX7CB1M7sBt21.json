@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 6007,
+  "num_followers": 6024,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2UxMTYzZWI4MDBkZmIyMmNiMTg4ZWEyNzZlNDJjY2U5ODRjY2Q1",
+  "snapshot_id": "MCxhZTA3YjIyYzAyNmFmZjIyNTMwM2VlMjFiZTQ2Yjk3ZmM3MTVhMjc2",
   "tracks": [
     {
       "added_at": "2023-11-02 23:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 147656,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
         "name": "Kernkraft 400 (A Better Day) [MistaJam Remix]",
         "url": "https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 140078,
       "name": "Kernkraft 400 (A Better Day) - MistaJam Remix",
       "url": "https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 147656,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Something Stupid (feat. AWA)",
-        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "AWA",
-          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
-        }
-      ],
-      "duration_ms": 176734,
-      "name": "Something Stupid (feat. AWA)",
-      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
         "name": "Hollywood",
         "url": "https://open.spotify.com/album/5SQuqccOnKASxj94o2C5ro"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 145591,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/1n2zcm9jlZA5g82K6rE9cB"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Something Stupid (feat. AWA)",
+        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "AWA",
+          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
+        }
+      ],
+      "duration_ms": 176734,
+      "name": "Something Stupid (feat. AWA)",
+      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "what would you do? (Galantis Remix)",
-        "url": "https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 161462,
-      "name": "what would you do? - Galantis Remix",
-      "url": "https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
         "name": "Shine Your Light (feat. Akon)",
         "url": "https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 189390,
       "name": "Shine Your Light (feat. Akon)",
       "url": "https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "what would you do? (Galantis Remix)",
+        "url": "https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 161462,
+      "name": "what would you do? - Galantis Remix",
+      "url": "https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -1567,42 +1567,6 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Grown-ish",
-        "url": "https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 195199,
-      "name": "Dance For The Hell Of It",
-      "url": "https://open.spotify.com/track/1G8nKybzD7qlBxfZYFSybv"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
-        "name": "Leave A Little Love",
-        "url": "https://open.spotify.com/album/7b6PW07JgJwP6ONZo0ipbS"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 187029,
-      "name": "Leave A Little Love",
-      "url": "https://open.spotify.com/track/3RQMCAfUMzRCSW93LCRiJy"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/60X8z7chpkxZa3WlICcscf"
       },
@@ -1623,6 +1587,42 @@
       "duration_ms": 182050,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/5XwBIBZIkw84eYKXQZjjrG"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "22 (Deluxe)",
+        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/41za80kTVaQpZwtPfPtPYB"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Grown-ish",
+        "url": "https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 195199,
+      "name": "Dance For The Hell Of It",
+      "url": "https://open.spotify.com/track/1G8nKybzD7qlBxfZYFSybv"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

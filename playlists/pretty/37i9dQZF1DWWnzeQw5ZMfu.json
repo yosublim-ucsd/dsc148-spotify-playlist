@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Taylor Swift",
-  "num_followers": 64337,
+  "num_followers": 64392,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2Q5N2RjMGU2MDljM2NkMTZhZjI2NzViM2Y2NDE1ZGIyY2RiNzA1",
+  "snapshot_id": "MCw3NTYyZTBhYjE1NTNhNTdhNmYzYmZiNzk4MDljMGZjYWYzMThmNjJm",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Before You Go EP",
-        "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
+        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
+        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 225047,
-      "name": "Before You Go - Live from Brixton Academy, London, 2019",
-      "url": "https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW"
+      "duration_ms": 217173,
+      "name": "Everything - Live from Madison Square Garden",
+      "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
-        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
+        "name": "Before You Go EP",
+        "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 217173,
-      "name": "Everything - Live from Madison Square Garden",
-      "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
+      "duration_ms": 225047,
+      "name": "Before You Go - Live from Brixton Academy, London, 2019",
+      "url": "https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW"
     },
     {
       "added_at": "2023-11-03 04:00:00",

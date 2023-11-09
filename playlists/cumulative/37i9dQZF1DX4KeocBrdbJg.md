@@ -4,7 +4,7 @@
 
 > perro salchicha, gordo bachicha 🎶
 
-480 songs - 1 day 2 hr 26 min
+482 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 | 2022-07-18 | 2022-09-23 |
 | [10:10](https://open.spotify.com/track/6hd1qFV2nSAOeFprnZbHGp) | [Xavi Jordan](https://open.spotify.com/artist/5H1dqpna1LZM58Estbgg6B), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [10: 10](https://open.spotify.com/album/7b2yJGGSgLWMENS1LROLaN) | 3:10 | 2022-10-25 | 2023-03-07 |
 | [505](https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 4:13 | 2022-03-09 | 2022-06-15 |
-| [9mm](https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5TaVh9bj30QqGbvmC2CFoq) | 1:26 | 2023-11-02 |  |
+| [9mm](https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5TaVh9bj30QqGbvmC2CFoq) | 1:26 | 2023-11-02 | 2023-11-09 |
+| [9mm](https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB) | 1:26 | 2023-11-02 |  |
 | [A Man Without Love](https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:23 | 2022-05-11 | 2022-06-15 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-15 | 2022-06-07 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-06 | 2023-07-14 |
@@ -231,7 +232,8 @@
 | [La Noche Mas Linda](https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9) | [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [Sex Symbol](https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst) | 5:43 | 2022-07-26 |  |
 | [La Triple M](https://open.spotify.com/track/6QX6tanKOhwMpPtu1p0zAL) | [Mawell](https://open.spotify.com/artist/6UO7zshgw0fLVF6DVKg9PN) | [La Triple M](https://open.spotify.com/album/4Mw8E2g1o54rGBTFeOd5lA) | 3:21 | 2023-10-04 |  |
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-07-06 |  |
-| [Las Monjitas Electronica](https://open.spotify.com/track/3DrE18WV89hl5EtyDoOtMp) | [DJ VAQUEROZ](https://open.spotify.com/artist/5VRrNAyhe8qVk62gwkQGx4) | [Las Monjitas Electronica](https://open.spotify.com/album/3qOzKv1LHSl01vrN6DS6bA) | 3:34 | 2023-10-17 |  |
+| [Las Monjitas Electronica](https://open.spotify.com/track/3DrE18WV89hl5EtyDoOtMp) | [DJ VAQUEROZ](https://open.spotify.com/artist/5VRrNAyhe8qVk62gwkQGx4) | [Las Monjitas Electronica](https://open.spotify.com/album/3qOzKv1LHSl01vrN6DS6bA) | 3:34 | 2023-10-17 | 2023-11-09 |
+| [Las Monjitas Electronica](https://open.spotify.com/track/4fmvhazH24LJ1nOcj8AvlR) | [young god](https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT) | [Las Montijas Electronica](https://open.spotify.com/album/7JJ90ySZRkf2SHZv9GWkNM) | 3:36 | 2023-11-02 |  |
 | [Las Montijas](https://open.spotify.com/track/6g1NMytc3WHFM5sImVGUs7) | [young god](https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT) | [Las Monjitas](https://open.spotify.com/album/53ZjaC1tqeSpG7HKrSSxNO) | 3:36 | 2023-10-17 | 2023-11-01 |
 | [Las Montijas](https://open.spotify.com/track/7bFVbauSFafZ9FFNcwMuKo) | [young god](https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT) | [Las Monjitas](https://open.spotify.com/album/181sUdrrF2cwpDgaSRDvcC) | 3:36 | 2023-11-02 | 2023-11-04 |
 | [Le Monde \- From Talk to Me](https://open.spotify.com/track/424DkevE18QJazwlljiTD4) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Talk to Me \(Original Soundtrack\)](https://open.spotify.com/album/1d1ZEmPwvPZXIOQRqjDBkw) | 2:14 | 2023-09-23 |  |

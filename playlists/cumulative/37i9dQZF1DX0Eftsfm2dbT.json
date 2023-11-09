@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 284000,
       "name": "Be a Good Neighbor",
       "url": "https://open.spotify.com/track/0cub0o5LgyxsaOlGgdG8OK"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 222653,
       "name": "CHAMPION SOUND - Scratch by DJ MATTO",
       "url": "https://open.spotify.com/track/2RNOM5GBxH9pcVdCy4iCst"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 122517,
       "name": "DIY",
       "url": "https://open.spotify.com/track/21Dfcbq9Fiki70prHOhhdJ"
@@ -1586,7 +1586,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 141200,
       "name": "Forever Street",
       "url": "https://open.spotify.com/track/4hICL79aIU4z62Cvh5GBDw"
@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 217500,
       "name": "Fucking New",
       "url": "https://open.spotify.com/track/6la5iywVzJB1ZkIPIJxJDI"
@@ -1988,7 +1988,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 181005,
       "name": "GRID",
       "url": "https://open.spotify.com/track/5LSbE6Avzu5D7c3JELofP2"
@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 215202,
       "name": "HARDEST",
       "url": "https://open.spotify.com/track/0xS0L74Yals1CsvxtVgpYc"
@@ -2168,7 +2168,7 @@
     {
       "album": {
         "name": "Hey Lady",
-        "url": "https://open.spotify.com/album/3AQ1YoUI6z12tsYNH9ZybQ"
+        "url": "https://open.spotify.com/album/4OYUTrIpGrQGJWUtUxuD2n"
       },
       "artists": [
         {
@@ -2187,6 +2187,32 @@
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 189083,
+      "name": "Hey Lady",
+      "url": "https://open.spotify.com/track/4IIAdk29wn31gHN3p9v6LD"
+    },
+    {
+      "album": {
+        "name": "Hey Lady",
+        "url": "https://open.spotify.com/album/3AQ1YoUI6z12tsYNH9ZybQ"
+      },
+      "artists": [
+        {
+          "name": "DJ TATSUKI",
+          "url": "https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5"
+        },
+        {
+          "name": "MUD",
+          "url": "https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q"
+        },
+        {
+          "name": "ZENDAMAN",
+          "url": "https://open.spotify.com/artist/2NfJkHz3wokHxqlHYWMw45"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
       "duration_ms": 189083,
       "name": "Hey Lady",
       "url": "https://open.spotify.com/track/4RXwsA32oemCCInCYNUU2u"
@@ -2358,6 +2384,24 @@
       "duration_ms": 218117,
       "name": "IKA letter GAME",
       "url": "https://open.spotify.com/track/5aPAncEGI6VzGEplT2Kcw2"
+    },
+    {
+      "album": {
+        "name": "INAZMA",
+        "url": "https://open.spotify.com/album/01SXicU5VYRgyKJf02JV7E"
+      },
+      "artists": [
+        {
+          "name": "Kamui",
+          "url": "https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119546,
+      "name": "INAZMA",
+      "url": "https://open.spotify.com/track/3hOFLp8wvYrM9Yq7I2IoUl"
     },
     {
       "album": {
@@ -2550,7 +2594,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 155000,
       "name": "Knight - Remix",
       "url": "https://open.spotify.com/track/5rZdxr0t14LEcU4BUZ15xR"
@@ -3346,7 +3390,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 177273,
       "name": "New Potion",
       "url": "https://open.spotify.com/track/2QkbkhrWEPkOq04zrBQqbk"
@@ -3488,7 +3532,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 138591,
       "name": "On The Stage",
       "url": "https://open.spotify.com/track/4917OdwyM95TyLIWDPBeLn"
@@ -3572,7 +3616,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 144653,
       "name": "Opp Otaku",
       "url": "https://open.spotify.com/track/1pQLpuVC0QSfubYz6T9maE"
@@ -3824,7 +3868,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 157500,
       "name": "Popcorn and Coke",
       "url": "https://open.spotify.com/track/7tAOf5J6GJo1KFcszKgQ1c"
@@ -4110,7 +4154,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 136986,
       "name": "rose",
       "url": "https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG"
@@ -4764,7 +4808,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 165675,
       "name": "Verano - Remix",
       "url": "https://open.spotify.com/track/5B0o09FCKdm8JP0yCSUeQv"

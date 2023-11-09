@@ -1,12 +1,12 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u30af\u30b8\u30e9\u591c\u306e\u8857",
-  "num_followers": 10204,
+  "num_followers": 10238,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODdkNGE4OGYwZDJkYmMyNDdhYjc5YmYxMTFmMzlhYzIxODcyNjc4",
+  "snapshot_id": "MCwwYTE0NmU0MmU4ZjNmMDExZDIxYjA4ZjRiNDRkMjdkZDM1NTdjNDJm",
   "tracks": [
     {
       "added_at": "2023-11-07 15:00:00",
@@ -235,8 +235,8 @@
     {
       "added_at": "2023-11-07 15:00:00",
       "album": {
-        "name": "\u30de\u30a4\u30ca\u30b9\u30bc\u30ed",
-        "url": "https://open.spotify.com/album/4N4TKInRqblIr0Vr9PddPj"
+        "name": "Minus Zero",
+        "url": "https://open.spotify.com/album/4RwGeFZqSvu8PfLEXsVqoP"
       },
       "artists": [
         {
@@ -245,8 +245,8 @@
         }
       ],
       "duration_ms": 202866,
-      "name": "\u30b4\u30a6\u30b9\u30c8",
-      "url": "https://open.spotify.com/track/0WhtZQxZXkBJnqW4qVV0ML"
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1ty6M7cgiQ192ATax4vStT"
     },
     {
       "added_at": "2023-11-07 15:00:00",
@@ -283,8 +283,8 @@
     {
       "added_at": "2023-11-07 15:00:00",
       "album": {
-        "name": "\u30da\u30d1\u30fc\u30df\u30f3\u30c8\u30ac\u30e0",
-        "url": "https://open.spotify.com/album/78VrQrdbnCEtU6QoA7JYMi"
+        "name": "Peppermint Gum",
+        "url": "https://open.spotify.com/album/4tGCW6bLt5nbGQSFVECn1I"
       },
       "artists": [
         {
@@ -293,8 +293,8 @@
         }
       ],
       "duration_ms": 230898,
-      "name": "\u30da\u30d1\u30fc\u30df\u30f3\u30c8\u30ac\u30e0",
-      "url": "https://open.spotify.com/track/7dX5rnJ4N8Ee1mJZkLQgHP"
+      "name": "Peppermint Gum",
+      "url": "https://open.spotify.com/track/0ALSxIhd5E0qfXBum5AQCa"
     },
     {
       "added_at": "2023-11-07 15:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-11-07 15:00:00",
       "album": {
+        "name": "\u30c9\u30ad\u30c9\u30ad\u3059\u308b",
+        "url": "https://open.spotify.com/album/76fKJdmm2j4KGKtKgiMYW1"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        }
+      ],
+      "duration_ms": 181570,
+      "name": "\u30c9\u30ad\u30c9\u30ad\u3059\u308b",
+      "url": "https://open.spotify.com/track/2PHZVtdPCqi7oTIw7jsyM1"
+    },
+    {
+      "added_at": "2023-11-07 15:00:00",
+      "album": {
         "name": "\u304e\u3085\u3063\u3068\u3057\u3066\u3001",
         "url": "https://open.spotify.com/album/4LzD5Xdc0hq088OeuA0JCH"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2023-11-07 15:00:00",
       "album": {
-        "name": "\u30c9\u30ad\u30c9\u30ad\u3059\u308b",
-        "url": "https://open.spotify.com/album/76fKJdmm2j4KGKtKgiMYW1"
-      },
-      "artists": [
-        {
-          "name": "PEOPLE 1",
-          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
-        }
-      ],
-      "duration_ms": 181570,
-      "name": "\u30c9\u30ad\u30c9\u30ad\u3059\u308b",
-      "url": "https://open.spotify.com/track/2PHZVtdPCqi7oTIw7jsyM1"
-    },
-    {
-      "added_at": "2023-11-07 15:00:00",
-      "album": {
         "name": "\u6843\u6e90\u90f7",
         "url": "https://open.spotify.com/album/7JN2dM1jZOPxwdonfULaU3"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 243055,
       "name": "\u6843\u6e90\u90f7",
       "url": "https://open.spotify.com/track/0Tjvz28oGJvg6EIyQHIWvo"
+    },
+    {
+      "added_at": "2023-11-07 15:00:00",
+      "album": {
+        "name": "GOLD",
+        "url": "https://open.spotify.com/album/2nxVvU7LqydShGwRUuto85"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        }
+      ],
+      "duration_ms": 129785,
+      "name": "\u590f\u306f\u5de1\u308b",
+      "url": "https://open.spotify.com/track/2EHUDtTMLscFB0DKXp03A7"
     },
     {
       "added_at": "2023-11-07 15:00:00",
@@ -843,22 +859,6 @@
     {
       "added_at": "2023-11-07 15:00:00",
       "album": {
-        "name": "GOLD",
-        "url": "https://open.spotify.com/album/2nxVvU7LqydShGwRUuto85"
-      },
-      "artists": [
-        {
-          "name": "PEOPLE 1",
-          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
-        }
-      ],
-      "duration_ms": 129785,
-      "name": "\u590f\u306f\u5de1\u308b",
-      "url": "https://open.spotify.com/track/2EHUDtTMLscFB0DKXp03A7"
-    },
-    {
-      "added_at": "2023-11-07 15:00:00",
-      "album": {
         "name": "midori",
         "url": "https://open.spotify.com/album/0F02EF6jnrk9JAZJ5kXaQd"
       },
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-11-07 15:00:00",
       "album": {
-        "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
-        "url": "https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs"
+        "name": "closer",
+        "url": "https://open.spotify.com/album/0e9G7JCQHMSv7g2BHCGxVZ"
       },
       "artists": [
         {
-          "name": "\u3042\u305f\u3089\u3088",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
         }
       ],
-      "duration_ms": 322100,
-      "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
-      "url": "https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh"
+      "duration_ms": 216911,
+      "name": "closer",
+      "url": "https://open.spotify.com/track/6WrU3YrEmcTestJKyhPBKt"
     },
     {
       "added_at": "2023-11-07 15:00:00",
@@ -939,38 +939,6 @@
     {
       "added_at": "2023-11-07 15:00:00",
       "album": {
-        "name": "closer",
-        "url": "https://open.spotify.com/album/0e9G7JCQHMSv7g2BHCGxVZ"
-      },
-      "artists": [
-        {
-          "name": "PEOPLE 1",
-          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
-        }
-      ],
-      "duration_ms": 216911,
-      "name": "closer",
-      "url": "https://open.spotify.com/track/6WrU3YrEmcTestJKyhPBKt"
-    },
-    {
-      "added_at": "2023-11-07 15:00:00",
-      "album": {
-        "name": "\u3042\u3048\u305f\u306d",
-        "url": "https://open.spotify.com/album/1fC6Aqu2kawbXzNG2CTu5I"
-      },
-      "artists": [
-        {
-          "name": "Galileo Galilei",
-          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
-        }
-      ],
-      "duration_ms": 274838,
-      "name": "\u3042\u3048\u305f\u306d",
-      "url": "https://open.spotify.com/track/3q2jE9eYlkRRI8L9bAHsKs"
-    },
-    {
-      "added_at": "2023-11-07 15:00:00",
-      "album": {
         "name": "\u7fbd\u5316",
         "url": "https://open.spotify.com/album/2AbNjfO01Yyyeew0oYsHNR"
       },
@@ -987,6 +955,22 @@
     {
       "added_at": "2023-11-07 15:00:00",
       "album": {
+        "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
+        "url": "https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u305f\u3089\u3088",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "duration_ms": 322100,
+      "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
+      "url": "https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh"
+    },
+    {
+      "added_at": "2023-11-07 15:00:00",
+      "album": {
         "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30a2",
         "url": "https://open.spotify.com/album/2d10zH0AGWJj0StVZPpRAS"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 244000,
       "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30a2",
       "url": "https://open.spotify.com/track/0yRUhx3oxxTNwbg1CDM1kp"
+    },
+    {
+      "added_at": "2023-11-07 15:00:00",
+      "album": {
+        "name": "\u3042\u3048\u305f\u306d",
+        "url": "https://open.spotify.com/album/1fC6Aqu2kawbXzNG2CTu5I"
+      },
+      "artists": [
+        {
+          "name": "Galileo Galilei",
+          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
+        }
+      ],
+      "duration_ms": 274838,
+      "name": "\u3042\u3048\u305f\u306d",
+      "url": "https://open.spotify.com/track/3q2jE9eYlkRRI8L9bAHsKs"
     },
     {
       "added_at": "2023-11-07 15:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-11-07 15:00:00",
       "album": {
-        "name": "PRIDE",
-        "url": "https://open.spotify.com/album/2NJhxr7Tt12VB7urrMuZmt"
-      },
-      "artists": [
-        {
-          "name": "\u30c1\u30e7\u30fc\u30ad\u30e5\u30fc\u30e1\u30a4",
-          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
-        }
-      ],
-      "duration_ms": 246876,
-      "name": "PRIDE",
-      "url": "https://open.spotify.com/track/6YSiCQPEEEimysown5ad19"
-    },
-    {
-      "added_at": "2023-11-07 15:00:00",
-      "album": {
         "name": "\u541b\u3068\u7656",
         "url": "https://open.spotify.com/album/425Y4ywoE1Ab2GNCXWEjU7"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 238429,
       "name": "\u541b\u3068\u7656",
       "url": "https://open.spotify.com/track/4bpZMZWxnYc9zDejhHgjbN"
+    },
+    {
+      "added_at": "2023-11-07 15:00:00",
+      "album": {
+        "name": "PRIDE",
+        "url": "https://open.spotify.com/album/2NJhxr7Tt12VB7urrMuZmt"
+      },
+      "artists": [
+        {
+          "name": "\u30c1\u30e7\u30fc\u30ad\u30e5\u30fc\u30e1\u30a4",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "duration_ms": 246876,
+      "name": "PRIDE",
+      "url": "https://open.spotify.com/track/6YSiCQPEEEimysown5ad19"
     },
     {
       "added_at": "2023-11-07 15:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-11-07 15:00:00",
       "album": {
-        "name": "baby blue eyes",
-        "url": "https://open.spotify.com/album/1GGa1VAV3dcPJRCIT7Y8ue"
-      },
-      "artists": [
-        {
-          "name": "Conton Candy",
-          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "baby blue eyes",
-      "url": "https://open.spotify.com/track/1ZH8xfse7AimYhri5u29ew"
-    },
-    {
-      "added_at": "2023-11-07 15:00:00",
-      "album": {
         "name": "Aoiharu",
         "url": "https://open.spotify.com/album/3iKkkzM6MXkAYSvYLWTVxN"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 178473,
       "name": "Aoiharu",
       "url": "https://open.spotify.com/track/3VSNqUnc1KhmPmlZXsbN40"
+    },
+    {
+      "added_at": "2023-11-07 15:00:00",
+      "album": {
+        "name": "baby blue eyes",
+        "url": "https://open.spotify.com/album/1GGa1VAV3dcPJRCIT7Y8ue"
+      },
+      "artists": [
+        {
+          "name": "Conton Candy",
+          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "baby blue eyes",
+      "url": "https://open.spotify.com/track/1ZH8xfse7AimYhri5u29ew"
     },
     {
       "added_at": "2023-11-07 15:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-11-07 15:00:00",
       "album": {
+        "name": "Sweet sweet candy time",
+        "url": "https://open.spotify.com/album/57YQjhQNWCkmpt0OTUG9d6"
+      },
+      "artists": [
+        {
+          "name": "Mr.FanTastiC",
+          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
+        }
+      ],
+      "duration_ms": 321103,
+      "name": "Sweet sweet candy time",
+      "url": "https://open.spotify.com/track/7KIYIwWDNssdv7tsw90Z8V"
+    },
+    {
+      "added_at": "2023-11-07 15:00:00",
+      "album": {
         "name": "FANFARE (Deluxe Version)",
         "url": "https://open.spotify.com/album/6jeDa7srx82eoknJmpBkgT"
       },
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2023-11-07 15:00:00",
       "album": {
-        "name": "Sweet sweet candy time",
-        "url": "https://open.spotify.com/album/57YQjhQNWCkmpt0OTUG9d6"
+        "name": "\u8db3\u308a\u306a\u3044\u304f\u3089\u3044\u304c\u3061\u3087\u3046\u3069\u3044\u3044",
+        "url": "https://open.spotify.com/album/3o9xBUEP8K9RCApLjEmr5b"
       },
       "artists": [
         {
-          "name": "Mr.FanTastiC",
-          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
+          "name": "YUTORI-SEDAI",
+          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
         }
       ],
-      "duration_ms": 321103,
-      "name": "Sweet sweet candy time",
-      "url": "https://open.spotify.com/track/7KIYIwWDNssdv7tsw90Z8V"
+      "duration_ms": 155627,
+      "name": "\u8db3\u308a\u306a\u3044\u304f\u3089\u3044\u304c\u3061\u3087\u3046\u3069\u3044\u3044",
+      "url": "https://open.spotify.com/track/1KzqFsguec79BMBJ5eG4M6"
     },
     {
       "added_at": "2023-11-07 15:00:00",
@@ -1415,22 +1431,6 @@
       "duration_ms": 251142,
       "name": "\u4eca\u591c2\u4eba\u3060\u3051\u306e\u30c0\u30f3\u30b9\u3092",
       "url": "https://open.spotify.com/track/6ljAfGfbmkBnhEwREQQsAY"
-    },
-    {
-      "added_at": "2023-11-07 15:00:00",
-      "album": {
-        "name": "\u8db3\u308a\u306a\u3044\u304f\u3089\u3044\u304c\u3061\u3087\u3046\u3069\u3044\u3044",
-        "url": "https://open.spotify.com/album/3o9xBUEP8K9RCApLjEmr5b"
-      },
-      "artists": [
-        {
-          "name": "YUTORI-SEDAI",
-          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
-        }
-      ],
-      "duration_ms": 155627,
-      "name": "\u8db3\u308a\u306a\u3044\u304f\u3089\u3044\u304c\u3061\u3087\u3046\u3069\u3044\u3044",
-      "url": "https://open.spotify.com/track/1KzqFsguec79BMBJ5eG4M6"
     },
     {
       "added_at": "2023-11-07 15:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-11-07 15:00:00",
       "album": {
+        "name": "Identify",
+        "url": "https://open.spotify.com/album/66ZFlm59P8mAeHRsnQ0BpA"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "duration_ms": 216517,
+      "name": "Identify",
+      "url": "https://open.spotify.com/track/7eHQ769Mbys4ALmMnpDE2p"
+    },
+    {
+      "added_at": "2023-11-07 15:00:00",
+      "album": {
         "name": "recall",
         "url": "https://open.spotify.com/album/5SYk8LvAZkkxmMVHpmkliD"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 286402,
       "name": "recall",
       "url": "https://open.spotify.com/track/04Wk3MtRXqnX7iNbcqszMQ"
-    },
-    {
-      "added_at": "2023-11-07 15:00:00",
-      "album": {
-        "name": "Crop",
-        "url": "https://open.spotify.com/album/1TV3g1CcsSAQcqAtkLp7Dm"
-      },
-      "artists": [
-        {
-          "name": "\u30aa\u30ec\u30f3\u30b8\u30b9\u30d1\u30a4\u30cb\u30af\u30e9\u30d6",
-          "url": "https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN"
-        }
-      ],
-      "duration_ms": 234077,
-      "name": "hug.",
-      "url": "https://open.spotify.com/track/7MhElI8fkwK5W4w5o8KMQw"
     },
     {
       "added_at": "2023-11-07 15:00:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-11-07 15:00:00",
       "album": {
-        "name": "Identify",
-        "url": "https://open.spotify.com/album/66ZFlm59P8mAeHRsnQ0BpA"
+        "name": "Crop",
+        "url": "https://open.spotify.com/album/1TV3g1CcsSAQcqAtkLp7Dm"
       },
       "artists": [
         {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+          "name": "\u30aa\u30ec\u30f3\u30b8\u30b9\u30d1\u30a4\u30cb\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN"
         }
       ],
-      "duration_ms": 216517,
-      "name": "Identify",
-      "url": "https://open.spotify.com/track/7eHQ769Mbys4ALmMnpDE2p"
+      "duration_ms": 234077,
+      "name": "hug.",
+      "url": "https://open.spotify.com/track/7MhElI8fkwK5W4w5o8KMQw"
     },
     {
       "added_at": "2023-11-07 15:00:00",

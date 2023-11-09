@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTA1Ie7iu8r.md) - [plain]
 
 > Get your creep on with these freaky 'love' songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,087 likes - 56 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,093 likes - 56 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTA1Ie7iu8r.md) - [plain]
 | 29 | [Heart Killer](https://open.spotify.com/track/2InuluQy6REaPieZ2r5TKp) | [Gossling](https://open.spotify.com/artist/0NnyKz36MvIC2R3dFht35A) | [Intentional Living](https://open.spotify.com/album/4gtSfQzqmmYmwOVIVIYvFO) | 3:48 |
 | 30 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 |
 | 31 | [Hello](https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 4:11 |
-| 32 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
+| 32 | [Alone \- Remastered](https://open.spotify.com/track/0h17TpfCKbbib1J37Qgj7r) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Greatest Hits 1985\-1995](https://open.spotify.com/album/5bOhnWhieBJGivUovmtob5) | 3:39 |
 | 33 | [I Will Possess Your Heart](https://open.spotify.com/track/77vYwoC7e3pVoPq8BA9CuL) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Narrow Stairs](https://open.spotify.com/album/7G84Q2FcA43cjLeWBSIedv) | 8:25 |
 | 34 | [Let Me Put My Love Into You](https://open.spotify.com/track/5XeMsYb1rWxQL1bUUaZajn) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
 | 35 | [Found Love in a Graveyard](https://open.spotify.com/track/6o1oknbpGILs6eG8q3j8vV) | [Veronica Falls](https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV) | [Veronica Falls](https://open.spotify.com/album/14vFC84BzjOc8Ud9ga0vFi) | 3:59 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTA1Ie7iu8r.md) - [plain]
 | 55 | [Love Song for a Vampire](https://open.spotify.com/track/3ik79qXV15D3ae33uveasw) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [The Annie Lennox Collection](https://open.spotify.com/album/6VXTaHgpeG2fZDwyHsn6eJ) | 4:19 |
 | 56 | [Die, Die My Darling](https://open.spotify.com/track/4Rme8TxEaNV09wp64AWd2y) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Collection](https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10) | 3:09 |
 
-Snapshot ID: `MCw5NTMwYmM1NjE4YmMyN2NjZDQ2ZDBmOWFkZTQ1ZWIzOWZkNjNhMTE5`
+Snapshot ID: `MCwwOTI2ZDdmMTllNjgwZWM0NDk0MjJmZjk1N2M2YWU3YzA2YTg2MDgx`

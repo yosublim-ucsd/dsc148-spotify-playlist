@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 487780,
+  "num_followers": 487968,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDA3ZTdiNDlhYWNlMjhmNWYwMzhiZTNhYWY4MzQ1MTllNGY0MGU0",
+  "snapshot_id": "MCwzMTlmNzE2N2Q0NWQ4OGFmN2I1MmY2OTlmYTc2NzdmNGZlMzNmNTU4",
   "tracks": [
     {
       "added_at": "2023-10-27 19:17:49",
@@ -323,6 +323,26 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Alex Maher",
+          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
+        }
+      ],
+      "duration_ms": 240009,
+      "name": "Matter of Time",
+      "url": "https://open.spotify.com/track/5z49EsoURUXq88RSLBmYPG"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
         "name": "Casita",
         "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 368773,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
-        "name": "When The Light Breaks",
-        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        },
-        {
-          "name": "Alex Maher",
-          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
-        }
-      ],
-      "duration_ms": 240009,
-      "name": "Matter of Time",
-      "url": "https://open.spotify.com/track/5z49EsoURUXq88RSLBmYPG"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -463,18 +463,22 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/3yjqJkHqnGlO6wpE9GPxV3"
       },
       "artists": [
         {
           "name": "NEIL FRANCES",
           "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "The Undercover Dream Lovers",
+          "url": "https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV"
         }
       ],
-      "duration_ms": 233454,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
+      "duration_ms": 198000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1FJYX0a18UBzFOWzec43Ih"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -495,6 +499,22 @@
       "duration_ms": 197894,
       "name": "Luv Is Not Enough",
       "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -531,22 +551,6 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -563,22 +567,18 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/3yjqJkHqnGlO6wpE9GPxV3"
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
       },
       "artists": [
         {
           "name": "NEIL FRANCES",
           "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "The Undercover Dream Lovers",
-          "url": "https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/1FJYX0a18UBzFOWzec43Ih"
+      "duration_ms": 233454,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
+        "name": "Hidden Youth",
+        "url": "https://open.spotify.com/album/0p6lFaFEpTcukkXu793jXB"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/4zgGNKt9YQGUQHRu9FgZPM"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
         "name": "Heights",
         "url": "https://open.spotify.com/album/59IswWk54vUt2dT0tvSzPJ"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 174607,
       "name": "Heights",
       "url": "https://open.spotify.com/track/1OCrb7dmygmJiDcjdFAPR8"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
         "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
         "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 213733,
       "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
       "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
-        "name": "Hidden Youth",
-        "url": "https://open.spotify.com/album/0p6lFaFEpTcukkXu793jXB"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 178780,
-      "name": "I Can't Help But Feel",
-      "url": "https://open.spotify.com/track/4zgGNKt9YQGUQHRu9FgZPM"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -839,6 +839,22 @@
       "duration_ms": 163758,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 233978,
+      "name": "Starry Night - Edit",
+      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -979,22 +995,6 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Starry Night - Edit",
-      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
       },
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "Should be Fine",
+      "url": "https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
         "name": "Woodstock (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 194434,
       "name": "Feel It Still - Medasin Remix",
       "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "Should be Fine",
-      "url": "https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "Rust & Gold",
-        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "How Much (You Want Her) 2017",
-      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
         "name": "Sunlight (feat. Years & Years) [Remixes]",
         "url": "https://open.spotify.com/album/08jeLY28AzZc8yEQ9jcUBO"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 244202,
       "name": "Sunlight (feat. Years and Years) - Darius Remix",
       "url": "https://open.spotify.com/track/2FsGvAxjBVUCaFrm3uDmHV"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
+        "name": "Rust & Gold",
+        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "How Much (You Want Her) 2017",
+      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "Purple Noon",
-        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 252409,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
         "name": "What Falling in Love Is For",
         "url": "https://open.spotify.com/album/7FFeFU5wRax5sTF3LurA68"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 174791,
       "name": "What Falling in Love Is For",
       "url": "https://open.spotify.com/track/6TYT1WKmZXZOkZDqDoNuAX"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
+        "name": "Purple Noon",
+        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 252409,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 156293,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
         "name": "Loom",
         "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
       },
@@ -1395,6 +1379,38 @@
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 156293,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+        "name": "Chihiro (Remixes)",
+        "url": "https://open.spotify.com/album/5PQgIvaINhDN7I3RNmtYyQ"
       },
       "artists": [
         {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+          "name": "Yoste",
+          "url": "https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf"
         }
       ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
+      "duration_ms": 212963,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/4sa0z53uQH0pBQPDaAnQcl"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -1471,22 +1487,6 @@
       "duration_ms": 310340,
       "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
       "url": "https://open.spotify.com/track/2TfHuXx68GAVR71kUQttvJ"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
-        "name": "Chihiro (Remixes)",
-        "url": "https://open.spotify.com/album/5PQgIvaINhDN7I3RNmtYyQ"
-      },
-      "artists": [
-        {
-          "name": "Yoste",
-          "url": "https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf"
-        }
-      ],
-      "duration_ms": 212963,
-      "name": "Chihiro",
-      "url": "https://open.spotify.com/track/4sa0z53uQH0pBQPDaAnQcl"
     },
     {
       "added_at": "2023-10-27 19:17:49",

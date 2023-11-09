@@ -1711,6 +1711,24 @@
     },
     {
       "album": {
+        "name": "Follia",
+        "url": "https://open.spotify.com/album/2QVkDVj1xNoSE0Pk7sZMBb"
+      },
+      "artists": [
+        {
+          "name": "Lil Jolie",
+          "url": "https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Follia",
+      "url": "https://open.spotify.com/track/6MndhxNWKY5Du4pIGk3CW0"
+    },
+    {
+      "album": {
         "name": "Fulmini",
         "url": "https://open.spotify.com/album/4tXExS7JYMwZ6bqntI0YqV"
       },
@@ -2596,6 +2614,24 @@
       "duration_ms": 204486,
       "name": "MARE DI GUAI",
       "url": "https://open.spotify.com/track/5coGRpcrHdoLBuTLAeKGxu"
+    },
+    {
+      "album": {
+        "name": "MERCOLED\u00cc MAI",
+        "url": "https://open.spotify.com/album/7Ib2YfkSm802GqCNw5RNnk"
+      },
+      "artists": [
+        {
+          "name": "mew",
+          "url": "https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174879,
+      "name": "MERCOLED\u00cc MAI",
+      "url": "https://open.spotify.com/track/6QxdN1k7aMhkFiTmuFRUPs"
     },
     {
       "album": {
@@ -3866,6 +3902,24 @@
       "duration_ms": 147976,
       "name": "RONDINI",
       "url": "https://open.spotify.com/track/5qt5YZOEUCejoPMrXFXRQq"
+    },
+    {
+      "album": {
+        "name": "ROSSOFUOCO",
+        "url": "https://open.spotify.com/album/4r6P74TpYpXFgHam09a8KA"
+      },
+      "artists": [
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162684,
+      "name": "ROSSOFUOCO",
+      "url": "https://open.spotify.com/track/5B5p5w9QV0QFBsnASmtL24"
     },
     {
       "album": {

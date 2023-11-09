@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Girl Ultra.",
-  "num_followers": 761891,
+  "num_followers": 761872,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2M1MGEzMTYwYWUxYWIxNjdkMzcwNzgzNDY2YjVmZWMwNGRkMDcx",
+  "snapshot_id": "MCw0ZWVhNzI1OTQ4OWM1MzZkZjljMTliMzQ5MDBiNTc3ZGMxZjgzOTlm",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 140735,
-      "name": "HOUSE OF LUX",
-      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Donde Est\u00e1s",
         "url": "https://open.spotify.com/album/3P1vHJYr9mrJYvIEWNm8yb"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 249040,
       "name": "Donde Est\u00e1s",
       "url": "https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 140735,
+      "name": "HOUSE OF LUX",
+      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -487,6 +487,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Tu Camisa",
+        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Shantty",
+          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+        }
+      ],
+      "duration_ms": 188139,
+      "name": "Tu Camisa",
+      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Me Gusta Ese Lokito",
         "url": "https://open.spotify.com/album/7lmbsT7oWscPE7qr4fwOXU"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 167272,
       "name": "Me Gusta Ese Lokito",
       "url": "https://open.spotify.com/track/0nArt1Dx0sI8WnBmXuh8FR"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Bolero Apocal\u00edptico (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 262853,
-      "name": "En La Oscuridad",
-      "url": "https://open.spotify.com/track/69UvsEF4Kah8cbACRyREqF"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -539,22 +539,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Tu Camisa",
-        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
+        "name": "Bolero Apocal\u00edptico (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0"
       },
       "artists": [
         {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
         },
         {
-          "name": "Shantty",
-          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 188139,
-      "name": "Tu Camisa",
-      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
+      "duration_ms": 262853,
+      "name": "En La Oscuridad",
+      "url": "https://open.spotify.com/track/69UvsEF4Kah8cbACRyREqF"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "D15BLO",
+        "url": "https://open.spotify.com/album/7feac3wBnvITrv4dKTjLWZ"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 169046,
+      "name": "D15BLO",
+      "url": "https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 253747,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "estrella / nadie",
-        "url": "https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 166303,
-      "name": "estrella",
-      "url": "https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Siempre Tendr\u00e9 Mi Voz",
+        "url": "https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 165300,
+      "name": "Siempre Tendr\u00e9 Mi Voz",
+      "url": "https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "egodeath",
         "url": "https://open.spotify.com/album/4ryLP6ODKCP7I0uG9gjnjU"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Siempre Tendr\u00e9 Mi Voz",
-        "url": "https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 165300,
-      "name": "Siempre Tendr\u00e9 Mi Voz",
-      "url": "https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/11mzVM4ZtpOUxescgnFUsN"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 72133,
       "name": "Garden - SIDE A",
       "url": "https://open.spotify.com/track/4pGnWlr2Lk5MDPI6zgG972"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "D15BLO",
-        "url": "https://open.spotify.com/album/7feac3wBnvITrv4dKTjLWZ"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 169046,
-      "name": "D15BLO",
-      "url": "https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -819,6 +803,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "estrella / nadie",
+        "url": "https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 166303,
+      "name": "estrella",
+      "url": "https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Rojo Rub\u00ed",
         "url": "https://open.spotify.com/album/0XteKwNr7uXZXz92CIE1Xe"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "SOL",
-      "url": "https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "rimas del verbo amar",
         "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 162746,
       "name": "\u00f3diame si quieres",
       "url": "https://open.spotify.com/track/3xWcHcH4ISXng1Y2IowtMm"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "SOL",
+      "url": "https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ"
     },
     {
       "added_at": "2023-11-03 04:00:00",

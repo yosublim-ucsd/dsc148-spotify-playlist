@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 10044,
+  "num_followers": 10054,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGYwZTM3MjJkMWU2NTlhYjIxOGEzYzJmYzIxMjkzNDkwZjJhN2U4",
+  "snapshot_id": "MCwxYjBhZWU4YjZjOTE2ZWFmMzRkY2NiMWU5ZjJkNzZkMmM1MzI4ZDU1",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Icy Hot",
+        "url": "https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Solo $exo",
+      "url": "https://open.spotify.com/track/79Mko9WRph1VIsxiUom4zv"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "T'as peur",
         "url": "https://open.spotify.com/album/5iq2ffpT0zwW0CLI646Z8d"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 215284,
       "name": "T'as peur",
       "url": "https://open.spotify.com/track/0KERPiv5izyNsVcXYNEugE"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Icy Hot",
-        "url": "https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Solo $exo",
-      "url": "https://open.spotify.com/track/79Mko9WRph1VIsxiUom4zv"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Se Me Nota (Agarrame)",
         "url": "https://open.spotify.com/album/00mQxAKvOHizdj5yoK6iMj"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 141335,
       "name": "KI-KI",
       "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Rosa Melo",
+        "url": "https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX"
+      },
+      "artists": [
+        {
+          "name": "La Gabi",
+          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
+        }
+      ],
+      "duration_ms": 164853,
+      "name": "Rosa Melo",
+      "url": "https://open.spotify.com/track/7cd4zZ97AjsD9AbU0zZQxI"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "Taka Taka",
         "url": "https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 155326,
       "name": "Taka Taka",
       "url": "https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Rosa Melo",
-        "url": "https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX"
-      },
-      "artists": [
-        {
-          "name": "La Gabi",
-          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
-        }
-      ],
-      "duration_ms": 164853,
-      "name": "Rosa Melo",
-      "url": "https://open.spotify.com/track/7cd4zZ97AjsD9AbU0zZQxI"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/1BSgpeCZhcy8xuonUDsNcD"
-      },
-      "artists": [
-        {
-          "name": "La Dame Blanche",
-          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
-        }
-      ],
-      "duration_ms": 195303,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/4CLM8zLq72polDBRjlo8K4"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Si Tu Quieres",
         "url": "https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti"
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/1BSgpeCZhcy8xuonUDsNcD"
       },
       "artists": [
         {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+          "name": "La Dame Blanche",
+          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
         }
       ],
-      "duration_ms": 217411,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
+      "duration_ms": 195303,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/4CLM8zLq72polDBRjlo8K4"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -883,6 +867,22 @@
       "duration_ms": 157297,
       "name": "Holy Ghost $$$",
       "url": "https://open.spotify.com/track/4JNxvjgaJyYdRAc1yhUPKj"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Pa' El Alma",
-        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
-      },
-      "artists": [
-        {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/2D4OJpTUpKLIyVHi1upoUj"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 172500,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/0n3jrfZNBxQXAezu2WwrTd"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Pa' El Alma",
+        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Rojo Rub\u00ed",
-        "url": "https://open.spotify.com/album/6S1KXwY7uaibxhjMmKGCbk"
-      },
-      "artists": [
-        {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
-      "url": "https://open.spotify.com/track/54vDLytP2uR0XvSPFNJ45q"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Champion Ninz",
         "url": "https://open.spotify.com/album/4jRjuppvJlqiNdlxcl3Z31"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 139603,
       "name": "Solita",
       "url": "https://open.spotify.com/track/3gV9Ru9Kdkq5RcF0A2WjZj"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Rojo Rub\u00ed",
+        "url": "https://open.spotify.com/album/6S1KXwY7uaibxhjMmKGCbk"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
+      "url": "https://open.spotify.com/track/54vDLytP2uR0XvSPFNJ45q"
     }
   ],
   "unique_name": "Latin Frequency",

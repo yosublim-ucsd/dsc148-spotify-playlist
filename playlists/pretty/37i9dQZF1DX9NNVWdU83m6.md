@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,821 likes - 121 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,895 likes - 121 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 120 | [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 |
 | 121 | [Earthrise \- Remastered 2023](https://open.spotify.com/track/4ZuilI3GqubKxMFMyuWGWH) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage \(2023 Remastered & Expanded Edition\)](https://open.spotify.com/album/2dfny28poOXsb8HxYGbRYf) | 6:41 |
 
-Snapshot ID: `MCxkM2YxNzBmYzdkNTJjZDE1ZjY1ZDg0MGVlYmExNmQzMzk2NmQyOGEz`
+Snapshot ID: `MCw0YjNhZGVjMmY3NWE0ODZkZjI4MzYyY2M5NWIxN2IxZTllM2NkMDQw`

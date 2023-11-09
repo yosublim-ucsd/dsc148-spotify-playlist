@@ -636,10 +636,36 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 86709,
       "name": "9mm",
       "url": "https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY"
+    },
+    {
+      "album": {
+        "name": "Memphis Cult Vol. 6",
+        "url": "https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB"
+      },
+      "artists": [
+        {
+          "name": "Memphis Cult",
+          "url": "https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ"
+        },
+        {
+          "name": "Groove Dealers",
+          "url": "https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z"
+        },
+        {
+          "name": "SPLYXER",
+          "url": "https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86709,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
     },
     {
       "album": {
@@ -3186,7 +3212,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 121860,
       "name": "Automotivo Solitude",
       "url": "https://open.spotify.com/track/0yHyFqe0f1MZXpAisMdSVb"
@@ -12717,6 +12743,28 @@
     },
     {
       "album": {
+        "name": "Eu Vou Catucar X 123 Joga o Tambor pro Alto",
+        "url": "https://open.spotify.com/album/14vXp5bUf8rfefTkDqWZjx"
+      },
+      "artists": [
+        {
+          "name": "RN TUBAR\u00c3O",
+          "url": "https://open.spotify.com/artist/73TGbHkJ7A8u6AUAmy54oW"
+        },
+        {
+          "name": "DJ Lp da Zo",
+          "url": "https://open.spotify.com/artist/0wghsfFBxVKtRtFJ4gPAVo"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122481,
+      "name": "Eu Vou Catucar X 123 Joga o Tambor pro Alto",
+      "url": "https://open.spotify.com/track/63rxKRDhn5zaMsh7a9y0Mf"
+    },
+    {
+      "album": {
         "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
         "url": "https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv"
       },
@@ -13146,7 +13194,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 196634,
       "name": "Fantasize",
       "url": "https://open.spotify.com/track/6ACIrWty9KXeQlkYVz8E3g"
@@ -34724,7 +34772,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"

@@ -1,12 +1,12 @@
 {
   "description": "Get in touch with nature with these songs about our environment.",
-  "num_followers": 5634,
+  "num_followers": 5644,
   "original_name": "Mother Nature",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzViM2UyMDY5MmZkOTg4ZjI5MWJjMjY5ZjgwYzcyZWJlNWRhZTFh",
+  "snapshot_id": "MCwyODhjNjAxYTgxMDA5ZjU4ZTFlMDFiYmZkZDc3ZTBmZTdlMmE0Mzdi",
   "tracks": [
     {
       "added_at": "2022-04-15 08:00:00",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/7kTmndsuOxGut8Oy85Mn62"
     },
     {
+      "added_at": "2023-11-08 15:55:26",
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 139226,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
+    },
+    {
       "added_at": "2022-04-15 08:00:00",
       "album": {
         "name": "F Is for Fun!",
@@ -201,6 +217,22 @@
       "url": "https://open.spotify.com/track/6HfXSByXlK7TGTwOOi4b2l"
     },
     {
+      "added_at": "2023-11-08 15:55:26",
+      "album": {
+        "name": "This Land is Your Land: The Asch Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/6Q75uix22iebN7q6WwNLDt"
+      },
+      "artists": [
+        {
+          "name": "Woody Guthrie",
+          "url": "https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1"
+        }
+      ],
+      "duration_ms": 139693,
+      "name": "This Land is Your Land",
+      "url": "https://open.spotify.com/track/3ZjrfGcb3A2PMGA1vRNgSk"
+    },
+    {
       "added_at": "2022-04-15 08:00:00",
       "album": {
         "name": "Summer Days",
@@ -235,6 +267,22 @@
       "duration_ms": 202400,
       "name": "Big Beautiful Planet",
       "url": "https://open.spotify.com/track/6a1yed5oiA1bsQ2HHT79pB"
+    },
+    {
+      "added_at": "2023-11-08 15:55:26",
+      "album": {
+        "name": "Poems, Prayers and Promises",
+        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "Sunshine On My Shoulders",
+      "url": "https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND"
     },
     {
       "added_at": "2022-04-15 08:00:00",
@@ -535,6 +583,22 @@
       "duration_ms": 183000,
       "name": "The Rainforest",
       "url": "https://open.spotify.com/track/7mBERVrtotBdXmUrdDTiim"
+    },
+    {
+      "added_at": "2023-11-08 15:55:26",
+      "album": {
+        "name": "Earth Songs",
+        "url": "https://open.spotify.com/album/6NAPijO8VmR4BTn0Aw39gq"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 273866,
+      "name": "Earth Day Every Day (Celebrate)",
+      "url": "https://open.spotify.com/track/4Ra038eR3Jknu2ZQaBgXaY"
     },
     {
       "added_at": "2022-04-15 08:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Tr\u00e9 Burt",
-  "num_followers": 413370,
+  "num_followers": 413379,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjFlMGI0M2I5ZTZlMDhlNTY3ZGI3ODUxY2I2NmI5N2NmMmViZTdh",
+  "snapshot_id": "MCxmMzI0MWVhYTU4NzI3YWUyMTQyN2IyZDUzM2RmNWM2MjhiZGQ0MjA4",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -579,26 +579,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Another Friday Night / Hot Heavy Summer / Sister",
-        "url": "https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 229291,
-      "name": "Hot Heavy Summer",
-      "url": "https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Another Friday Night / Hot Heavy Summer / Sister",
+        "url": "https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 229291,
+      "name": "Hot Heavy Summer",
+      "url": "https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "What A Day - Edit",
-      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Digital Meadow",
         "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 136320,
       "name": "Multiply",
       "url": "https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "What A Day - Edit",
+      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Puppy and a Truck",
-      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Terms of Surrender",
         "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 197596,
       "name": "I Need a Teacher",
       "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Puppy and a Truck",
+      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Old Bone / Trust No Man",
-        "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "Old Bone",
-      "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Right on Time",
         "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 185228,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Old Bone / Trust No Man",
+        "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "Old Bone",
+      "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Joy'All",
-      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Tales Of America",
         "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 229906,
       "name": "Saying Goodbye",
       "url": "https://open.spotify.com/track/4PqgB442TI25iz4G6d6BBD"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Joy'All",
+      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 186269,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 224106,
       "name": "Can\u2019t Do Much",
       "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 186269,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Easy Way",
-        "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Got a Lotta Love",
-      "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Seventeen Again (feat. Novo Amor)",
         "url": "https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 204520,
       "name": "Seventeen Again (feat. Novo Amor)",
       "url": "https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Easy Way",
+        "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Got a Lotta Love",
+      "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Desert Woman",
-        "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 256402,
-      "name": "Desert Woman",
-      "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Satan / Jacob Rose",
         "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 196264,
       "name": "Satan",
       "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Desert Woman",
+        "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 256402,
+      "name": "Desert Woman",
+      "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Wisteria",
-        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        }
-      ],
-      "duration_ms": 169823,
-      "name": "Wisteria",
-      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Fun House",
         "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 173303,
       "name": "Just to Hear You (feat. Perfume Genius)",
       "url": "https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 169823,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Shepherd in a Sheepskin Vest",
-        "url": "https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "What Comes After Certainty",
-      "url": "https://open.spotify.com/track/3sSfpC7N0UC5GeaqwquTMq"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Loving You Is Lonely",
         "url": "https://open.spotify.com/album/1Zs8YINM2uPmsWes22fCkQ"
       },
@@ -2511,18 +2495,34 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Into the Depths of Hell",
-        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
+        "name": "Shepherd in a Sheepskin Vest",
+        "url": "https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp"
       },
       "artists": [
         {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
         }
       ],
-      "duration_ms": 205875,
-      "name": "Under the Concrete",
-      "url": "https://open.spotify.com/track/0P3tGih9Q0WCRZObKwCujT"
+      "duration_ms": 222453,
+      "name": "What Comes After Certainty",
+      "url": "https://open.spotify.com/track/3sSfpC7N0UC5GeaqwquTMq"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57"
+      },
+      "artists": [
+        {
+          "name": "War & Pierce",
+          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
+        }
+      ],
+      "duration_ms": 220970,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj"
     }
   ],
   "unique_name": "Modern Eclectic",

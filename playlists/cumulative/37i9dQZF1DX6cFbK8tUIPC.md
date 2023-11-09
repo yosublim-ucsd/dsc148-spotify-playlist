@@ -4,7 +4,7 @@
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-292 songs - 18 hr 31 min
+294 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,8 +33,9 @@
 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 | 2022-08-15 |  |
 | [Artwork](https://open.spotify.com/track/0Kr6LvnbS1WtYIMk373tY7) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [All Our Ceiling Sees](https://open.spotify.com/album/7dSE4DyqCxVW95ALh5ORna) | 4:19 | 2023-08-08 |  |
 | [Astrovan](https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:06 | 2021-12-03 | 2022-09-17 |
-| [Atlas Hands](https://open.spotify.com/track/3mmfvZSZTTMSE8GTuS7rGH) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm \(Deluxe Version\)](https://open.spotify.com/album/1eS5FLI6q24t4wONeOzrj5) | 2:53 | 2023-09-21 |  |
+| [Atlas Hands](https://open.spotify.com/track/3mmfvZSZTTMSE8GTuS7rGH) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm \(Deluxe Version\)](https://open.spotify.com/album/1eS5FLI6q24t4wONeOzrj5) | 2:53 | 2023-09-21 | 2023-11-09 |
 | [Atlas Hands](https://open.spotify.com/track/4gSYPXqENGdaJiwm6W0hkQ) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm](https://open.spotify.com/album/2V5uxReEmjn0j5tAG6oHI0) | 2:53 | 2021-12-03 | 2023-11-05 |
+| [Atlas Hands](https://open.spotify.com/track/3JEye8rsrvGdlrBvZUgNIL) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before The Snowstorm](https://open.spotify.com/album/6X4lsAafU2WXiThVoO9kF4) | 2:53 | 2023-09-21 |  |
 | [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 | 2021-12-03 | 2022-08-27 |
 | [August](https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Citrona](https://open.spotify.com/album/7iTm9yZznLHb1GBOVm5IB1) | 4:21 | 2023-08-08 |  |
 | [August](https://open.spotify.com/track/3DWro5zPJbh7bCUg6DYOgh) | [Michael B Thomas](https://open.spotify.com/artist/0SQMSsL2ds4MNdzP5sKv0B) | [August](https://open.spotify.com/album/1ZAwfHmdIMn3nlzkPQpbc7) | 3:38 | 2022-08-26 | 2023-09-15 |
@@ -298,7 +299,8 @@
 | [yeti](https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [yeti](https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy) | 4:12 | 2023-08-08 |  |
 | [You Deserve an Oscar](https://open.spotify.com/track/1TLnYF9GcPBQipGxZQ5nPF) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [You Deserve an Oscar](https://open.spotify.com/album/5mBw87XE7nAC5ohYHk9i4F) | 3:36 | 2021-12-03 | 2022-07-29 |
 | [You Deserve an Oscar](https://open.spotify.com/track/4K2TmH3Luk6dF8dVEmq6m0) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku) | 3:36 | 2022-06-22 | 2022-08-16 |
-| [You're Gonna Be A Daddy](https://open.spotify.com/track/0CH7gHUFZZTwRr482gmzj7) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [You At The Top Of The Driveway/You're Gonna Be A Daddy](https://open.spotify.com/album/4ZPRYPna0yIpEItgtKGmtr) | 3:39 | 2023-08-25 |  |
+| [You're Gonna Be A Daddy](https://open.spotify.com/track/0CH7gHUFZZTwRr482gmzj7) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [You At The Top Of The Driveway/You're Gonna Be A Daddy](https://open.spotify.com/album/4ZPRYPna0yIpEItgtKGmtr) | 3:39 | 2023-08-25 | 2023-11-09 |
+| [You're Gonna Be A Daddy](https://open.spotify.com/track/36ALNVgxdEj8fIio1RgTAM) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/5YjuYOxqBr5RPuXq6XB2VT) | 3:39 | 2023-09-21 |  |
 | [Your Life Your Time \- Acoustic](https://open.spotify.com/track/33whXaknBDUx53evCaViv1) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time \(Acoustic\)](https://open.spotify.com/album/4sxRXwPnLAWdfg4TwA4D1v) | 2:57 | 2021-12-03 | 2022-08-16 |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

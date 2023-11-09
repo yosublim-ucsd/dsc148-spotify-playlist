@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Latvia.
 
-1,682 songs - 3 day 18 hr 29 min
+1,683 songs - 3 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [9 5 \. s o u t h](https://open.spotify.com/track/4GSBObGq3DuiKFlytKBbEw) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/7amgMBFiedsknMot03NgQ4) | 3:16 | 2021-05-16 | 2021-05-17 |
 | [9 5 \. s o u t h](https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:16 | 2021-05-16 | 2021-05-17 |
 | [99 Problems](https://open.spotify.com/track/0r9fpWPI6z3V3YZXIiVaNC) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:39 | 2021-10-23 | 2022-03-14 |
-| [9mm](https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5TaVh9bj30QqGbvmC2CFoq) | 1:26 | 2023-10-31 |  |
+| [9mm](https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5TaVh9bj30QqGbvmC2CFoq) | 1:26 | 2023-10-31 | 2023-11-09 |
+| [9mm](https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB) | 1:26 | 2023-11-08 |  |
 | [A Bit High](https://open.spotify.com/track/3CmeWai5fvSIvgOy8Nw6sc) | [NOT BAD BOY](https://open.spotify.com/artist/5FQ2t3fQMz2VU681aAZBHH) | [A Bit High](https://open.spotify.com/album/6M5DIlgWbuWTGKK3luf2ZP) | 2:50 | 2023-10-18 | 2023-10-31 |
 | [A Happy Place](https://open.spotify.com/track/0LiQY2kkWNccvLfksfHLBd) | [Inspo](https://open.spotify.com/artist/1WOHTl0F9d2tuoHi3czAWn) | [Space Between](https://open.spotify.com/album/3Y9rbjjVJUK1dFAVk1e90W) | 3:45 | 2022-02-14 | 2022-02-17 |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2021-12-20 | 2022-12-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,105 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,160 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,13 +74,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 64 | [They Didn’t Know II](https://open.spotify.com/track/4kQ8n8jv9d755g6gB9YIoX) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [They Didn’t Know II](https://open.spotify.com/album/26C59sslJoOpwYIWhV8PvA) | 2:58 |
 | 65 | [I Can't Fail](https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:22 |
 | 66 | [MAD 2 THE MAX](https://open.spotify.com/track/6y6hyRiHnfwHKd2D8oy00W) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [TRANSCENDENT](https://open.spotify.com/album/6rIfLRsHOsNEsLsRV3V5RG) | 2:24 |
-| 67 | [Pray](https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Pray](https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V) | 2:56 |
-| 68 | [Lord Knows](https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Lord Knows](https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o) | 3:02 |
+| 67 | [Lord Knows](https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Lord Knows](https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o) | 3:02 |
+| 68 | [Pray](https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Pray](https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V) | 2:56 |
 | 69 | [Praise](https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Praise](https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3) | 2:03 |
 | 70 | [Your Word My Mind](https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Your Word My Mind](https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6) | 2:29 |
-| 71 | [No Loss](https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [No Loss](https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN) | 2:55 |
+| 71 | [Holy](https://open.spotify.com/track/5BiDQrKv72yjGNB0zUSBwO) | [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG), [J1W](https://open.spotify.com/artist/1rinkeYozGduW14ex0aiuM) | [Holy](https://open.spotify.com/album/444xhOTpphGpSrqG7uSLwP) | 2:29 |
 | 72 | [Tricky](https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Tricky](https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB) | 2:12 |
-| 73 | [Holy](https://open.spotify.com/track/5BiDQrKv72yjGNB0zUSBwO) | [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG), [J1W](https://open.spotify.com/artist/1rinkeYozGduW14ex0aiuM) | [Holy](https://open.spotify.com/album/444xhOTpphGpSrqG7uSLwP) | 2:29 |
+| 73 | [No Loss](https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [No Loss](https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN) | 2:55 |
 | 74 | [Catch These Hands \- Remix](https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [KJ\-52](https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP), [Pettidee](https://open.spotify.com/artist/0qehlCsv0Di0jyb9tWOmvO) | [Catch These Hands \(Remix\)](https://open.spotify.com/album/7APamlqElimCKW62z0yKFf) | 2:24 |
 | 75 | [It Could Be Worse](https://open.spotify.com/track/1pn9N05evZd09npQBnsC31) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [It Could Be Worse](https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw) | 2:24 |
 | 76 | [NOTHING](https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [NOTHING BUT JESUS](https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw) | 2:37 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 91 | [butterfly vibes 2](https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:00 |
 | 92 | [bounce back.](https://open.spotify.com/track/4tNgJIUHrkkHt6iFESuJRi) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [bounce back.](https://open.spotify.com/album/748L8OCoABosEZF41AzgtM) | 3:07 |
 | 93 | [Hold Me Back](https://open.spotify.com/track/1ahWWaHuP2LtyLfoB1g9By) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Hold Me Back](https://open.spotify.com/album/4D5iRWNKdcqfryA717B96y) | 2:18 |
-| 94 | [SIX THIRTY](https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w) | [Sean C\. Johnson](https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H) | [SIX THIRTY](https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV) | 3:42 |
-| 95 | [97](https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [97](https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM) | 2:55 |
+| 94 | [97](https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [97](https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM) | 2:55 |
+| 95 | [SIX THIRTY](https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w) | [Sean C\. Johnson](https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H) | [SIX THIRTY](https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV) | 3:42 |
 | 96 | [Another Day](https://open.spotify.com/track/72s5XT0NrfnntJguAKikwB) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Another Day](https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn) | 3:04 |
 | 97 | [Be Gone \(feat\. Mike Teezy\)](https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Be Gone \(feat\. Mike Teezy\)](https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5) | 2:56 |
 | 98 | [GOOD TO ME](https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW) | [nathan huang](https://open.spotify.com/artist/4dzy2MaxMOZwVTWXXq3JAL), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [GOOD TO ME](https://open.spotify.com/album/3Cfnat6JaNYV3ol0qOzzek) | 3:27 |
 | 99 | [PRESSURE](https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [PRESSURE](https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL) | 2:37 |
 | 100 | [Fight for It](https://open.spotify.com/track/58lm2xr6l8ql6EXiDtm4JS) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Fight for It](https://open.spotify.com/album/78EFbUt7aY0OUn4KLgW7aM) | 2:33 |
 
-Snapshot ID: `MCw3YTQyODZiYWI1YzI0MDZhN2ZjOGQyOTA3MDBkZmJmZWQ0YTlhMGY1`
+Snapshot ID: `MCw1NmQ5NmU4ZTI4MTJkMmZiZTYwMmI2M2UxZmRkYTU1MzliOTE3MTA0`

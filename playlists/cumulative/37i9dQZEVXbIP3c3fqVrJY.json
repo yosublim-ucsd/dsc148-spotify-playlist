@@ -990,7 +990,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 144000,
       "name": "Ape Song",
       "url": "https://open.spotify.com/track/7HGH1kLRr6niK7GCdleGxY"
@@ -14898,7 +14898,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 131662,
       "name": "Nep\u0159estanu",
       "url": "https://open.spotify.com/track/0vwbXMtY0ppHKsSfKJsSBV"
@@ -17506,7 +17506,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 187744,
       "name": "PR\u0160\u00cd, PR\u0160\u00cd",
       "url": "https://open.spotify.com/track/27FjG8BCMk1UjOcBfffHk4"
@@ -17624,6 +17624,28 @@
       "duration_ms": 242026,
       "name": "Pussy & Millions (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
+    },
+    {
+      "album": {
+        "name": "DVOJBODKAHVIEZDI\u010cKA",
+        "url": "https://open.spotify.com/album/5ZO9skyaJfbTUwr6M0Fwt4"
+      },
+      "artists": [
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        },
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179556,
+      "name": "Pussy Power (feat. Porsche Boy)",
+      "url": "https://open.spotify.com/track/7vdva8hlSprUQjNNuw0PJC"
     },
     {
       "album": {
@@ -20924,7 +20946,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 146796,
       "name": "Sv\u011btlo (feat. Calin)",
       "url": "https://open.spotify.com/track/5R4Ura4Wazydkl2N8VnaER"
@@ -21068,7 +21090,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 174666,
       "name": "S\u00edla Starejch V\u00edn",
       "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"

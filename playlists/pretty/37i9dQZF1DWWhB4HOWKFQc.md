@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Jaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,765 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138,169 likes - 74 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 68 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
 | 69 | [Cinta Tak Dibalas Cinta](https://open.spotify.com/track/1kmgwyc2YFSoK5SSLhScwT) | [Indah Aqila](https://open.spotify.com/artist/0W9e1Ynzjurb3VAE1atJGD) | [Cinta Tak Dibalas Cinta](https://open.spotify.com/album/2hCvXNwO6pfbzM0tkYeR57) | 3:54 |
 | 70 | [Forever Star\(《偷偷藏不住》电视剧插曲\)](https://open.spotify.com/track/4hZUa0IFUOHhvZhK1YwXHu) | [張洢豪](https://open.spotify.com/artist/5kzjeV6bqyVmLPQfx5kfL1) | [《偷偷藏不住》影视原声专辑](https://open.spotify.com/album/0Iu6Uth2kvGcJsEm9enE22) | 3:22 |
-| 71 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 |
-| 72 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 |
-| 73 | [Bukan Begitu Caramu](https://open.spotify.com/track/3NdCAbNYphC9p2gSKPV877) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK) | [Bukan Begitu Caramu](https://open.spotify.com/album/6VRfToOj7zRnB7ZZlwxNGE) | 4:02 |
-| 74 | [Mana Bisa](https://open.spotify.com/track/107DmfhQVuWiJ9jktnoG7g) | [Rachel Manroe](https://open.spotify.com/artist/4C5054Vlxnz7iU385I6obf) | [Mana Bisa](https://open.spotify.com/album/0gyPTwhdqFs81j0I4nhNyg) | 4:01 |
-| 75 | [Teman Teman Ku Udah Nikah Aku Masih Nonton Spongebob](https://open.spotify.com/track/0NONHlrayFnoTefgMLmq5D) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Krisis Seperempat Dewasa](https://open.spotify.com/album/3KI6xFkUSU1nXf5eBeniYG) | 2:46 |
+| 71 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 |
+| 72 | [Bukan Begitu Caramu](https://open.spotify.com/track/3NdCAbNYphC9p2gSKPV877) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK) | [Bukan Begitu Caramu](https://open.spotify.com/album/6VRfToOj7zRnB7ZZlwxNGE) | 4:02 |
+| 73 | [Mana Bisa](https://open.spotify.com/track/107DmfhQVuWiJ9jktnoG7g) | [Rachel Manroe](https://open.spotify.com/artist/4C5054Vlxnz7iU385I6obf) | [Mana Bisa](https://open.spotify.com/album/0gyPTwhdqFs81j0I4nhNyg) | 4:01 |
+| 74 | [Teman Teman Ku Udah Nikah Aku Masih Nonton Spongebob](https://open.spotify.com/track/0NONHlrayFnoTefgMLmq5D) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Krisis Seperempat Dewasa](https://open.spotify.com/album/3KI6xFkUSU1nXf5eBeniYG) | 2:46 |
 
-Snapshot ID: `MCwzMjUzM2ZlYzlhZmEzNjA1Y2QzYzYzZWY0MTkxMGNhYzIxZGIxYzNj`
+Snapshot ID: `MCxiZTc0YmU1NGU4ZjU1NDVlNTU4NjBlNWI1OGExZjY0NmYwZWRjMTY1`

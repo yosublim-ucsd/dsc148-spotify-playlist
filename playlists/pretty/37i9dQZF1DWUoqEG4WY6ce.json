@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1057247,
+  "num_followers": 1057327,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTA0MjMwM2RjMDkzMGEyZTk5NTgxMzljZjgzYmM4NmZlMzY1NmUw",
+  "snapshot_id": "MCwyODc1MWIyM2ExZjYxNTM1NTEyMTFmYjBlZGUwZDBjYTNmNjMxODlj",
   "tracks": [
     {
       "added_at": "2023-09-29 19:49:08",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Black Pumas",
-        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Conditions",
         "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 230800,
       "name": "Sweet Disposition",
       "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "Black Pumas",
+        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Wincing The Night Away",
-        "url": "https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 236711,
-      "name": "Australia",
-      "url": "https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Broken Bells",
         "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 232200,
       "name": "The High Road",
       "url": "https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "Wincing The Night Away",
+        "url": "https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 236711,
+      "name": "Australia",
+      "url": "https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "A Black Mile To The Surface",
-        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 117173,
-      "name": "The Sunshine",
-      "url": "https://open.spotify.com/track/63k361zOGEhmvgzBdzzSGP"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 183894,
       "name": "Paul",
       "url": "https://open.spotify.com/track/2MYidPOz5NHAtKUySTzbwx"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "A Black Mile To The Surface",
+        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 117173,
+      "name": "The Sunshine",
+      "url": "https://open.spotify.com/track/63k361zOGEhmvgzBdzzSGP"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
-      },
-      "artists": [
-        {
-          "name": "The Lagoons",
-          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "California",
-      "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Landmark",
         "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 245456,
       "name": "Way It Goes",
       "url": "https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
+      },
+      "artists": [
+        {
+          "name": "The Lagoons",
+          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "California",
+      "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Great Big Blue",
-        "url": "https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH"
-      },
-      "artists": [
-        {
-          "name": "Geowulf",
-          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
-        }
-      ],
-      "duration_ms": 247280,
-      "name": "Saltwater",
-      "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Bad Dream Baby",
         "url": "https://open.spotify.com/album/1TBnwPS0Mbn5DsRNeSlvrR"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 178150,
       "name": "Bad Dream Baby",
       "url": "https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "Great Big Blue",
+        "url": "https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH"
+      },
+      "artists": [
+        {
+          "name": "Geowulf",
+          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
+        }
+      ],
+      "duration_ms": 247280,
+      "name": "Saltwater",
+      "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 307213,
+      "name": "Ragged Wood",
+      "url": "https://open.spotify.com/track/2qvToeBdYliw6n0nEsKJQa"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 207519,
       "name": "Amadeus",
       "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
-        "name": "Cousin",
-        "url": "https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Evicted",
-      "url": "https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5"
     }
   ],
   "unique_name": "Indie Rock Road Trip",

@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Marta Del Grandi on cover. Updates every Wednesday.",
-  "num_followers": 120781,
+  "num_followers": 120928,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmIzZTExYmIxYzI2MDQyNGVkMjYwZjAzOTgyZDJkOWRkZjVlOTJi",
+  "snapshot_id": "MCw5YmFiN2U5ZDdkYTBlOTdkYjk3ZWI1Y2YxMDk5NDgyZmUzYWNkZjli",
   "tracks": [
     {
       "added_at": "2023-10-25 14:01:56",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/5EFssJc6Liga3EDx3ZKyt2"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/2Na8p20PZQm4jyeSoyLxst"
-      },
-      "artists": [
-        {
-          "name": "Talik",
-          "url": "https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz"
-        }
-      ],
-      "duration_ms": 260157,
-      "name": "Gloworm",
-      "url": "https://open.spotify.com/track/1fwqhGIRtQeSNr21eSkhKF"
-    },
-    {
       "added_at": "2023-10-25 14:01:56",
       "album": {
         "name": "Wake In Might",
@@ -679,6 +663,22 @@
       "duration_ms": 211459,
       "name": "Wake In Might",
       "url": "https://open.spotify.com/track/5Ad2MmfRQlCue9adixQyrw"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/2Na8p20PZQm4jyeSoyLxst"
+      },
+      "artists": [
+        {
+          "name": "Talik",
+          "url": "https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz"
+        }
+      ],
+      "duration_ms": 260157,
+      "name": "Gloworm",
+      "url": "https://open.spotify.com/track/1fwqhGIRtQeSNr21eSkhKF"
     },
     {
       "added_at": "2023-10-11 18:36:09",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/4M4ote4L4R4Zs4JeOmHzo6"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Hint",
-        "url": "https://open.spotify.com/album/6kuAtwn4IGu4L0NnlBOJHc"
-      },
-      "artists": [
-        {
-          "name": "SPIME.IM",
-          "url": "https://open.spotify.com/artist/6zOLowG2X8FkUqPSEmetDJ"
-        }
-      ],
-      "duration_ms": 303500,
-      "name": "Hint",
-      "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
-    },
-    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Signals At Both Ears",
@@ -759,6 +743,22 @@
       "duration_ms": 668266,
       "name": "Blue Emperor",
       "url": "https://open.spotify.com/track/2WEb5xogCboXRtXnU3W2a8"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Hint",
+        "url": "https://open.spotify.com/album/6kuAtwn4IGu4L0NnlBOJHc"
+      },
+      "artists": [
+        {
+          "name": "SPIME.IM",
+          "url": "https://open.spotify.com/artist/6zOLowG2X8FkUqPSEmetDJ"
+        }
+      ],
+      "duration_ms": 303500,
+      "name": "Hint",
+      "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-10-04 14:25:37",
       "album": {
+        "name": "Signals At Both Ears",
+        "url": "https://open.spotify.com/album/6eyXuQBXVEcv3KU5cZxXM8"
+      },
+      "artists": [
+        {
+          "name": "Gonubie",
+          "url": "https://open.spotify.com/artist/5GUhu2CDRcOkRLjmz4051y"
+        }
+      ],
+      "duration_ms": 354694,
+      "name": "Baiji Returns",
+      "url": "https://open.spotify.com/track/2OPTGR15eGkXZQfBUBPtK7"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
         "name": "The Year of Pornography",
         "url": "https://open.spotify.com/album/101nL8Co3vPsZg6rxQ1UFz"
       },
@@ -877,20 +893,20 @@
       "url": "https://open.spotify.com/track/1QJa6X5nPTV24H5exa8Juv"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
+      "added_at": "2023-10-25 14:01:56",
       "album": {
-        "name": "Signals At Both Ears",
-        "url": "https://open.spotify.com/album/6eyXuQBXVEcv3KU5cZxXM8"
+        "name": "October",
+        "url": "https://open.spotify.com/album/0ESqmNRSe1gA2yXIJmopkP"
       },
       "artists": [
         {
-          "name": "Gonubie",
-          "url": "https://open.spotify.com/artist/5GUhu2CDRcOkRLjmz4051y"
+          "name": "Mejiwahn",
+          "url": "https://open.spotify.com/artist/5nwqAZGgbbZOuK11nRCGyj"
         }
       ],
-      "duration_ms": 354694,
-      "name": "Baiji Returns",
-      "url": "https://open.spotify.com/track/2OPTGR15eGkXZQfBUBPtK7"
+      "duration_ms": 196996,
+      "name": "October",
+      "url": "https://open.spotify.com/track/4BlcZJBXjWCffLynTahdVD"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -909,20 +925,20 @@
       "url": "https://open.spotify.com/track/6OQoynBENCLciCInK8T3YH"
     },
     {
-      "added_at": "2023-10-25 14:01:56",
+      "added_at": "2023-10-04 14:25:37",
       "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/0ESqmNRSe1gA2yXIJmopkP"
+        "name": "Synth Spirit",
+        "url": "https://open.spotify.com/album/4IP9MB3gCJKcrtayUfrECI"
       },
       "artists": [
         {
-          "name": "Mejiwahn",
-          "url": "https://open.spotify.com/artist/5nwqAZGgbbZOuK11nRCGyj"
+          "name": "AshRamus",
+          "url": "https://open.spotify.com/artist/3o6p4MvUQmLHmxtjDGvzST"
         }
       ],
-      "duration_ms": 196996,
-      "name": "October",
-      "url": "https://open.spotify.com/track/4BlcZJBXjWCffLynTahdVD"
+      "duration_ms": 171962,
+      "name": "Synth Spirit",
+      "url": "https://open.spotify.com/track/1NGSf4OOcZaorLoH0DVcMp"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -959,22 +975,6 @@
       "duration_ms": 343666,
       "name": "Cascara",
       "url": "https://open.spotify.com/track/1lMkjU3ZlTXJR7HsblUglU"
-    },
-    {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "Synth Spirit",
-        "url": "https://open.spotify.com/album/4IP9MB3gCJKcrtayUfrECI"
-      },
-      "artists": [
-        {
-          "name": "AshRamus",
-          "url": "https://open.spotify.com/artist/3o6p4MvUQmLHmxtjDGvzST"
-        }
-      ],
-      "duration_ms": 171962,
-      "name": "Synth Spirit",
-      "url": "https://open.spotify.com/track/1NGSf4OOcZaorLoH0DVcMp"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-10-25 14:01:56",
       "album": {
-        "name": "Trementina",
-        "url": "https://open.spotify.com/album/5KnGI6HyME7eLLoGP9DZwN"
-      },
-      "artists": [
-        {
-          "name": "Torso Corso",
-          "url": "https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8"
-        }
-      ],
-      "duration_ms": 127652,
-      "name": "Trementina",
-      "url": "https://open.spotify.com/track/1kqh6ZavA3h4PpkRAJgG8o"
-    },
-    {
-      "added_at": "2023-10-25 14:01:56",
-      "album": {
         "name": "The Infinite Hour",
         "url": "https://open.spotify.com/album/7uNdcqyAS2lganZAE5FkTc"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 385016,
       "name": "Infinity of Stasis",
       "url": "https://open.spotify.com/track/4cIeV58evWPE5jInvjirNK"
+    },
+    {
+      "added_at": "2023-10-25 14:01:56",
+      "album": {
+        "name": "Trementina",
+        "url": "https://open.spotify.com/album/5KnGI6HyME7eLLoGP9DZwN"
+      },
+      "artists": [
+        {
+          "name": "Torso Corso",
+          "url": "https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8"
+        }
+      ],
+      "duration_ms": 127652,
+      "name": "Trementina",
+      "url": "https://open.spotify.com/track/1kqh6ZavA3h4PpkRAJgG8o"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1145,6 +1145,38 @@
       "url": "https://open.spotify.com/track/1ttEhhzFufoxZYJw2S4l69"
     },
     {
+      "added_at": "2023-11-08 01:45:00",
+      "album": {
+        "name": "Vibra\u00e7\u00f5es de Prata",
+        "url": "https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj"
+      },
+      "artists": [
+        {
+          "name": "Xexa",
+          "url": "https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8"
+        }
+      ],
+      "duration_ms": 128750,
+      "name": "Assim",
+      "url": "https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX"
+    },
+    {
+      "added_at": "2023-10-25 14:01:56",
+      "album": {
+        "name": "DESOLATION",
+        "url": "https://open.spotify.com/album/2xAK7yGGfnLgyG771lfhWJ"
+      },
+      "artists": [
+        {
+          "name": "REBEL YELL",
+          "url": "https://open.spotify.com/artist/08BlEXQUX2YD1cGlk9RBNw"
+        }
+      ],
+      "duration_ms": 212465,
+      "name": "The Hell We Chose",
+      "url": "https://open.spotify.com/track/4wwDdd8G1kkBlMZ5FjbgYe"
+    },
+    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Boundless",
@@ -1159,22 +1191,6 @@
       "duration_ms": 155903,
       "name": "Boundless",
       "url": "https://open.spotify.com/track/2X3U6oC0OOfZ2rGMhf8AxQ"
-    },
-    {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "Introduction / C (Featuring the Voice of Fred Moten)",
-        "url": "https://open.spotify.com/album/0su3LyRPZ1IXvLvcOuS5TL"
-      },
-      "artists": [
-        {
-          "name": "Markus Floats",
-          "url": "https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z"
-        }
-      ],
-      "duration_ms": 263999,
-      "name": "C (Featuring the Voice of Fred Moten)",
-      "url": "https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1197,6 +1213,22 @@
       "url": "https://open.spotify.com/track/58jFqGaWoYufUkm8ZKlH05"
     },
     {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "Introduction / C (Featuring the Voice of Fred Moten)",
+        "url": "https://open.spotify.com/album/0su3LyRPZ1IXvLvcOuS5TL"
+      },
+      "artists": [
+        {
+          "name": "Markus Floats",
+          "url": "https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z"
+        }
+      ],
+      "duration_ms": 263999,
+      "name": "C (Featuring the Voice of Fred Moten)",
+      "url": "https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg"
+    },
+    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "Space Mirror",
@@ -1211,22 +1243,6 @@
       "duration_ms": 380695,
       "name": "Summer Session #3",
       "url": "https://open.spotify.com/track/1pnhHHes46zmwyrMY5VoUm"
-    },
-    {
-      "added_at": "2023-11-08 01:45:00",
-      "album": {
-        "name": "Vibra\u00e7\u00f5es de Prata",
-        "url": "https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj"
-      },
-      "artists": [
-        {
-          "name": "Xexa",
-          "url": "https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8"
-        }
-      ],
-      "duration_ms": 128750,
-      "name": "Assim",
-      "url": "https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1247,34 +1263,34 @@
     {
       "added_at": "2023-10-25 14:01:56",
       "album": {
-        "name": "DESOLATION",
-        "url": "https://open.spotify.com/album/2xAK7yGGfnLgyG771lfhWJ"
+        "name": "depois do sonho, s\u00f3 a saudade de quem nunca fomos",
+        "url": "https://open.spotify.com/album/2dejoMCn59YdyfVP5ICt6a"
       },
       "artists": [
         {
-          "name": "REBEL YELL",
-          "url": "https://open.spotify.com/artist/08BlEXQUX2YD1cGlk9RBNw"
+          "name": "Gil Dion\u00edsio",
+          "url": "https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn"
         }
       ],
-      "duration_ms": 212465,
-      "name": "The Hell We Chose",
-      "url": "https://open.spotify.com/track/4wwDdd8G1kkBlMZ5FjbgYe"
+      "duration_ms": 667000,
+      "name": "depois do sonho, s\u00f3 a saudade de quem nunca fomos",
+      "url": "https://open.spotify.com/track/3u5W72Xf3KTreCDcQDSxhu"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
+      "added_at": "2023-10-25 14:01:56",
       "album": {
-        "name": "An Imaginary Autumn",
-        "url": "https://open.spotify.com/album/2S7q3Tf1DuU6AQ0qbTwADh"
+        "name": "Mezz'Aller",
+        "url": "https://open.spotify.com/album/41DJZPj8K5fIE7oM7iJ0JD"
       },
       "artists": [
         {
-          "name": "TATSURO MURAKAMI",
-          "url": "https://open.spotify.com/artist/0LFWj0uI5FspWoS9XiTxO1"
+          "name": "Malad\u00e9",
+          "url": "https://open.spotify.com/artist/4pLZb6eSKa9V8EB0vF0VTl"
         }
       ],
-      "duration_ms": 259026,
-      "name": "Misplaced Dream",
-      "url": "https://open.spotify.com/track/5TXE8o5Te1UKMvRFtRyFis"
+      "duration_ms": 178000,
+      "name": "Contrabbando",
+      "url": "https://open.spotify.com/track/08pJydMv87jAQmuy2PGqK6"
     },
     {
       "added_at": "2023-10-18 18:20:20",
@@ -1293,20 +1309,20 @@
       "url": "https://open.spotify.com/track/3YY9jc0TCCJHJRzrNN9mly"
     },
     {
-      "added_at": "2023-10-25 14:01:56",
+      "added_at": "2023-10-04 14:25:37",
       "album": {
-        "name": "depois do sonho, s\u00f3 a saudade de quem nunca fomos",
-        "url": "https://open.spotify.com/album/2dejoMCn59YdyfVP5ICt6a"
+        "name": "An Imaginary Autumn",
+        "url": "https://open.spotify.com/album/2S7q3Tf1DuU6AQ0qbTwADh"
       },
       "artists": [
         {
-          "name": "Gil Dion\u00edsio",
-          "url": "https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn"
+          "name": "TATSURO MURAKAMI",
+          "url": "https://open.spotify.com/artist/0LFWj0uI5FspWoS9XiTxO1"
         }
       ],
-      "duration_ms": 667000,
-      "name": "depois do sonho, s\u00f3 a saudade de quem nunca fomos",
-      "url": "https://open.spotify.com/track/3u5W72Xf3KTreCDcQDSxhu"
+      "duration_ms": 259026,
+      "name": "Misplaced Dream",
+      "url": "https://open.spotify.com/track/5TXE8o5Te1UKMvRFtRyFis"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1323,22 +1339,6 @@
       "duration_ms": 297527,
       "name": "\u041f\u0440\u043e\u0440\u043e\u0447\u0435\u0441\u0442\u0432\u043e / \u041f-\u041f",
       "url": "https://open.spotify.com/track/5tpvGcFAp8rF3MGy0laB7D"
-    },
-    {
-      "added_at": "2023-10-25 14:01:56",
-      "album": {
-        "name": "Mezz'Aller",
-        "url": "https://open.spotify.com/album/41DJZPj8K5fIE7oM7iJ0JD"
-      },
-      "artists": [
-        {
-          "name": "Malad\u00e9",
-          "url": "https://open.spotify.com/artist/4pLZb6eSKa9V8EB0vF0VTl"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Contrabbando",
-      "url": "https://open.spotify.com/track/08pJydMv87jAQmuy2PGqK6"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1513,20 +1513,20 @@
       "url": "https://open.spotify.com/track/6IEZQrtG6Wm2hHweerVfKC"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
+      "added_at": "2023-10-25 14:01:56",
       "album": {
-        "name": "W1 Sprokla",
-        "url": "https://open.spotify.com/album/28dZkYCyUdUlNXrZEZdxp4"
+        "name": "FUTURA 2000",
+        "url": "https://open.spotify.com/album/1S6SYtisVAy2Nx4R4aLAPp"
       },
       "artists": [
         {
-          "name": "Index For Working Musik",
-          "url": "https://open.spotify.com/artist/30pElb7BpcpII86h5dRpYK"
+          "name": "San Leo",
+          "url": "https://open.spotify.com/artist/1g7G97GbkEAtBcEiMFVJdy"
         }
       ],
-      "duration_ms": 734064,
-      "name": "W1 Sprokla",
-      "url": "https://open.spotify.com/track/2D4zZ1OwJP2WjVbAj926bT"
+      "duration_ms": 704253,
+      "name": "FUTURA 2000",
+      "url": "https://open.spotify.com/track/7taqxrAe5xltbEdeamlD0m"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1545,6 +1545,22 @@
       "url": "https://open.spotify.com/track/25BuQvUTwj33xcJqbOfKsx"
     },
     {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "W1 Sprokla",
+        "url": "https://open.spotify.com/album/28dZkYCyUdUlNXrZEZdxp4"
+      },
+      "artists": [
+        {
+          "name": "Index For Working Musik",
+          "url": "https://open.spotify.com/artist/30pElb7BpcpII86h5dRpYK"
+        }
+      ],
+      "duration_ms": 734064,
+      "name": "W1 Sprokla",
+      "url": "https://open.spotify.com/track/2D4zZ1OwJP2WjVbAj926bT"
+    },
+    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "If Yer Dreamin",
@@ -1561,20 +1577,20 @@
       "url": "https://open.spotify.com/track/7vCCMfYUSapBh426uTrChQ"
     },
     {
-      "added_at": "2023-10-25 14:01:56",
+      "added_at": "2023-10-18 18:20:20",
       "album": {
-        "name": "FUTURA 2000",
-        "url": "https://open.spotify.com/album/1S6SYtisVAy2Nx4R4aLAPp"
+        "name": "The Sorcerer & The Demon",
+        "url": "https://open.spotify.com/album/7lXMEWlnHRbUsfXr9kJZua"
       },
       "artists": [
         {
-          "name": "San Leo",
-          "url": "https://open.spotify.com/artist/1g7G97GbkEAtBcEiMFVJdy"
+          "name": "Luca Nieri",
+          "url": "https://open.spotify.com/artist/4Wq9oYkkB8oK6CUSYLSNCC"
         }
       ],
-      "duration_ms": 704253,
-      "name": "FUTURA 2000",
-      "url": "https://open.spotify.com/track/7taqxrAe5xltbEdeamlD0m"
+      "duration_ms": 117418,
+      "name": "A Fresh Soul",
+      "url": "https://open.spotify.com/track/0eLwrkWrMU0OzJwJiEf4On"
     },
     {
       "added_at": "2023-10-18 18:20:20",
@@ -1591,22 +1607,6 @@
       "duration_ms": 182031,
       "name": "Coat of Arms",
       "url": "https://open.spotify.com/track/4stozFL4dSnWNakPG44z8P"
-    },
-    {
-      "added_at": "2023-10-18 18:20:20",
-      "album": {
-        "name": "The Sorcerer & The Demon",
-        "url": "https://open.spotify.com/album/7lXMEWlnHRbUsfXr9kJZua"
-      },
-      "artists": [
-        {
-          "name": "Luca Nieri",
-          "url": "https://open.spotify.com/artist/4Wq9oYkkB8oK6CUSYLSNCC"
-        }
-      ],
-      "duration_ms": 117418,
-      "name": "A Fresh Soul",
-      "url": "https://open.spotify.com/track/0eLwrkWrMU0OzJwJiEf4On"
     },
     {
       "added_at": "2023-10-18 18:20:20",

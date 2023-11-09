@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: SUPER BEAVER
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,960 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,164 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 16 | [るろうの形代](https://open.spotify.com/track/5CIkjGfSK8B46So8gmbwCV) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [るろうの形代](https://open.spotify.com/album/1z3z4NyD2ZqalZB8HsumO4) | 3:24 |
 | 17 | [カンナ](https://open.spotify.com/track/2fu6UREZVLHnPgioQYmscb) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [哀愁演劇](https://open.spotify.com/album/1wB0GF3mOb21xgSTuHBZ80) | 4:42 |
 | 18 | [Nichijo](https://open.spotify.com/track/6rFRQKFyluXEJhM5ANu2XB) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Nichijo](https://open.spotify.com/album/0KOyJBfietC8GvIOWIGVze) | 5:53 |
-| 19 | [ペパーミントガム](https://open.spotify.com/track/7dX5rnJ4N8Ee1mJZkLQgHP) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [ペパーミントガム](https://open.spotify.com/album/78VrQrdbnCEtU6QoA7JYMi) | 3:50 |
+| 19 | [Peppermint Gum](https://open.spotify.com/track/0ALSxIhd5E0qfXBum5AQCa) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Peppermint Gum](https://open.spotify.com/album/4tGCW6bLt5nbGQSFVECn1I) | 3:50 |
 | 20 | [ボーイズ ドント クライ](https://open.spotify.com/track/2oZM29QXfk0Oi6d15PjoSp) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [ボーイズ ドント クライ](https://open.spotify.com/album/2ukBR6yPc7n60KjGcXxy0V) | 3:01 |
 | 21 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 |
 | 22 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 27 | [Hyper](https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N) | 4:17 |
 | 28 | [Mix](https://open.spotify.com/track/0ObVtzwc7YEuMjDQSTQyCW) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Mix](https://open.spotify.com/album/00p5rwTYsV62tV3RXRYZAO) | 3:29 |
 | 29 | [ユートピア](https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BACK](https://open.spotify.com/album/7Ej2LUL0yWgp3eHjLROaNd) | 2:39 |
-| 30 | [サーセン](https://open.spotify.com/track/7jorhoSgW90sLDbeO5UnSs) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [サーセン](https://open.spotify.com/album/2s10bWcSTRHSYPvXp84p1x) | 3:44 |
+| 30 | [sasen](https://open.spotify.com/track/7xy7oiS6rUvZdiqyH451Wd) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [sasen](https://open.spotify.com/album/20YOPbsbWH9Oh3O6H0S2Yc) | 3:44 |
 | 31 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 |
 | 32 | [リカ](https://open.spotify.com/track/41P1hFCw1uLYt25JKktlst) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [FANFARE \(Deluxe Version\)](https://open.spotify.com/album/6jeDa7srx82eoknJmpBkgT) | 3:38 |
 | 33 | [No Gravity](https://open.spotify.com/track/2rlj5ywKI8pjdnZiJg4cpQ) | [SHE'S](https://open.spotify.com/artist/6TNooB9HDJ9Xs1GFPl2Fiv) | [No Gravity](https://open.spotify.com/album/5HmKiqg7uDMGtE5etxKVug) | 3:35 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 56 | [see you again](https://open.spotify.com/track/0w4hlRc6uXXCQbX9dGGJWm) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [Whisper of the heart](https://open.spotify.com/album/6Dfjxy6p9bcxmrUxXv4lwR) | 3:12 |
 | 57 | [Kimi ni Sayonara](https://open.spotify.com/track/1XORfqcIaAjoEMLkR4GKou) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Kimi ni Sayonara](https://open.spotify.com/album/1Kur4QhXrFJo651o4sBTxq) | 4:19 |
 | 58 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 |
-| 59 | [雑稿 pt.2](https://open.spotify.com/track/4YPXhMFkDZbkiotEFi6BfV) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [悲しい出来事 \-THE OVERKILL\-](https://open.spotify.com/album/0ZaodFLySbuZiNxjzmlNUz) | 3:36 |
+| 59 | [Zakkou pt.2](https://open.spotify.com/track/4OgVsCeGytlrOThG3srn0M) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Kanashī dekigoto \-The overkill\-](https://open.spotify.com/album/4lroNwCV22vfbY1z1LkdiG) | 3:36 |
 | 60 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 |
 | 61 | [TadaSayonara,InochiMoetsukiruMade](https://open.spotify.com/track/0Neuw3qMNXv2IO7jftQbAs) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [TadaSayonara,InochiMoetsukiruMade](https://open.spotify.com/album/7gngBY9MJCQ2omm0sDhRXC) | 3:50 |
 | 62 | [Tsuki No Iro](https://open.spotify.com/track/3koTe4YqyBEQ17Zj7v5mUQ) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [Confession e.p.](https://open.spotify.com/album/5FOTNyL4xFBXyq38UcREhy) | 4:18 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 78 | [Memory](https://open.spotify.com/track/5VjIsZGx4Io1lGrjDeZZtI) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Memory](https://open.spotify.com/album/1BZIL3wcac9vq6EQUXZMbl) | 3:37 |
 | 79 | [Mooner](https://open.spotify.com/track/540AqCI7F7nr7rLuFHF99z) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [Mooner](https://open.spotify.com/album/43TSOsFkPqzEgkynkPev0D) | 3:17 |
 | 80 | [ジャガーノート](https://open.spotify.com/track/5wPW2TG7Pk3paFuG2NaJcn) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [ジャガーノート](https://open.spotify.com/album/2TBNmBacaxlCcGZNAPdwhH) | 3:11 |
-| 81 | [ゴウスト](https://open.spotify.com/track/0WhtZQxZXkBJnqW4qVV0ML) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [マイナスゼロ](https://open.spotify.com/album/4N4TKInRqblIr0Vr9PddPj) | 3:22 |
+| 81 | [Ghost](https://open.spotify.com/track/1ty6M7cgiQ192ATax4vStT) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [Minus Zero](https://open.spotify.com/album/4RwGeFZqSvu8PfLEXsVqoP) | 3:22 |
 | 82 | [PYG](https://open.spotify.com/track/13IMFBAxT8hngUC79TTcXR) | [DOGADOGA](https://open.spotify.com/artist/5rGVSXTLvetVl0pjdCrDM6) | [PYG](https://open.spotify.com/album/1azSY0WroNiGGqLapyhbeK) | 4:00 |
 | 83 | [球体](https://open.spotify.com/track/23BSWH4BeycYgpbA9CF3w1) | [GOOD ON THE REEL](https://open.spotify.com/artist/5qnfrFRZ95ll1wX2c9Lfhg) | [新呼吸](https://open.spotify.com/album/2HGtVS35vHWgcfa6V593s5) | 4:11 |
 | 84 | [リップシンク](https://open.spotify.com/track/1bvbHclmu1q5yLsGuaV1pS) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [リップシンク](https://open.spotify.com/album/1Hf7LSW4yGAhlTgOdsvBJU) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [君の音](https://open.spotify.com/track/5XEaQghgECUNbFHSV3xk5e) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [君の音](https://open.spotify.com/album/5vYjeixgLrxQB4hVEqtHkW) | 2:26 |
 | 100 | [Coming Outs!](https://open.spotify.com/track/1dWxTJLqaSBSxqtsLxgWYj) | [SUBARASHIKA](https://open.spotify.com/artist/6aNahzVflJNhU49Ttmvsq5) | [Coming Outs!](https://open.spotify.com/album/5njxeWgiKaS7tnYFPj7LUv) | 2:55 |
 
-Snapshot ID: `MCw3MjBlNTVkMzFiOWU2NTc0NjhlYTYwNzk0ZmY4YWQ5NTZlY2NjNDBl`
+Snapshot ID: `MCw2ZTNiNWQ5MDZjNDEzYTU5ZWYwMDNmY2NjODEyYTMzMDc2NzgyZGM2`

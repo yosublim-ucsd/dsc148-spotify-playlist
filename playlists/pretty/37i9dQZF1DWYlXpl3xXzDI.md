@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,618 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,622 likes - 99 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 76 | [Hold On](https://open.spotify.com/track/19bvVIF88d0PkFp8PNqX3q) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Berry Street](https://open.spotify.com/album/73iqhOAp4BFEv6F4Hkp7uQ) | 3:51 |
 | 77 | [Work](https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 3:44 |
 | 78 | [Anywhere We Go \- Stripped Down](https://open.spotify.com/track/1ySq58mz23a7QPEks7l0bk) | [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Friends](https://open.spotify.com/album/6cvpbHwqX983HJKRLZgWH3) | 3:38 |
-| 79 | [Shine](https://open.spotify.com/track/40N7Wlb7vjw5XRIo6XhlDr) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm \(Deluxe Version\)](https://open.spotify.com/album/1eS5FLI6q24t4wONeOzrj5) | 3:02 |
+| 79 | [Shine](https://open.spotify.com/track/1z7ipCbtUKz3Nepd2r39bc) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before The Snowstorm](https://open.spotify.com/album/6X4lsAafU2WXiThVoO9kF4) | 3:02 |
 | 80 | [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 |
 | 81 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
 | 82 | [Flowers in Your Hair](https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 1:49 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 98 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 |
 | 99 | [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/3KuZx7FPNcqXG8YFN5Y0OG) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Faith \(From "Sing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vcfCbzB0B72zI8fF5zBEv) | 2:40 |
 
-Snapshot ID: `MCw5MzlkNDIwN2JjZjExYjhhZDQxYzFkODAyMjAzNjhlYzZjZjQ1M2Nm`
+Snapshot ID: `MCw4YmJlMjc3YWZiYTlhYzhkZjY5YzUwMjE0OGFlMmRiNTEyYTBjM2E3`

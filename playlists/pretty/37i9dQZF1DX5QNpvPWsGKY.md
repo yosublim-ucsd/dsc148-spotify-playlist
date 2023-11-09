@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 
 > Un buffet de ritmos sabrositos para satisfacer tu paladar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,934 likes - 125 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,046 likes - 125 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 | 65 | [Notas de Sociedad](https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Desde El Corazon](https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5) | 2:53 |
 | 66 | [Pídeme La Luna](https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR) | [Los Carlos](https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq) | [En La Luna](https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase) | 3:12 |
 | 67 | [Jugo De Piña](https://open.spotify.com/track/1bpxGmisHNZpDSaGfdIcyi) | [El Super Show De Los Vaskez](https://open.spotify.com/artist/5RN0qzNnwv5WsXSNiDjuio) | [3 En 1 Super Show De Los Vaskez](https://open.spotify.com/album/5sFWeLEilmm41a93FXouql) | 4:26 |
-| 68 | [Yo Quiero Quebrarte](https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Soy El Aventurero](https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy) | 3:06 |
-| 69 | [Mi Pobre Corazón](https://open.spotify.com/track/2W1H5fQD5rGHq0SduYaTbM) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 3:10 |
+| 68 | [Mi Pobre Corazón](https://open.spotify.com/track/2W1H5fQD5rGHq0SduYaTbM) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 3:10 |
+| 69 | [Yo Quiero Quebrarte](https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Soy El Aventurero](https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy) | 3:06 |
 | 70 | [Fuiste Mala](https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Ricardo Muñoz](https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 3:18 |
 | 71 | [Corazón Adolorido](https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [20 Cumbias Andinas](https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R) | 3:50 |
 | 72 | [El Zancudito Loco](https://open.spotify.com/track/0B6dN8EPnrZmM8OJGwlcRj) | [Los Plebeyos](https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a) | [16 Exitos Super Tropicales](https://open.spotify.com/album/3f4RJ24ZEtH5lgMy9hrTb4) | 2:04 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 | 76 | [Dulcemente Enamorada](https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Viva el Amor](https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN) | 2:39 |
 | 77 | [Sabes A Chocolate](https://open.spotify.com/track/1JxRbEr1CKM16m4ovHg2hz) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [THE BEST OF](https://open.spotify.com/album/4gqN1u9QLecW2piklO69l0) | 3:47 |
 | 78 | [Caballo Viejo](https://open.spotify.com/track/1anvIYY3hAtLL72lJA5z44) | [Roberto Torres](https://open.spotify.com/artist/0tMEHta5p06GCSdnSPNS8B) | [Roberto Torres y su Charanga Vallenata, Vol\. 2](https://open.spotify.com/album/0c5HlxTCquVn8DrNWikQsE) | 7:00 |
-| 79 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
-| 80 | [Pero La Recuerdo \(Cumbia Santa María\)](https://open.spotify.com/track/7xbRLQyE9t7zkA3osC8S2d) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Mariachi Santa María](https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ) | [Invéntame Un Amor](https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J) | 3:47 |
+| 79 | [Pero La Recuerdo \(Cumbia Santa María\)](https://open.spotify.com/track/7xbRLQyE9t7zkA3osC8S2d) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Mariachi Santa María](https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ) | [Invéntame Un Amor](https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J) | 3:47 |
+| 80 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
 | 81 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
 | 82 | [El Pipiripau](https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk) | [Los Plebeyos](https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a) | [Exitos Para Amanecer Bailando](https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz) | 2:04 |
 | 83 | [Pero Tu No Estas](https://open.spotify.com/track/00c81raDwIJa803nmAgcU3) | [Grupo Flash](https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK) | [20 Joyas de la Historia Musical](https://open.spotify.com/album/2WSLrdOSbaiTS6efB7Xk2B) | 2:34 |
@@ -122,10 +122,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 | 112 | [Por volverte a ver](https://open.spotify.com/track/23Fn6sIQVjJYwgtMYDbEd0) | [Grupo Zaaz](https://open.spotify.com/artist/3reo0BlmIcT0KnUfkolHuw) | [Las 20 Número 1](https://open.spotify.com/album/59NP8wzLJzFNaJAjRFHP8H) | 3:13 |
 | 113 | [Nuestra Pobreza](https://open.spotify.com/track/6Xj44VfAolXC0X2Nr8oyXK) | [Joe Rodriguez Y Su Grupo Latino](https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU) | [Pideme](https://open.spotify.com/album/3xnYyynD3TJl3b2Uv1S34t) | 3:17 |
 | 114 | [Paloma Ajena](https://open.spotify.com/track/4B3PNNSg06yZ6Jj7novC8l) | [Claudio Moran Y Los Universales](https://open.spotify.com/artist/6a3OLR11JHsrfpr7E2YTOs) | [Cumbiando Este 5 De Mayo](https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb) | 4:03 |
-| 115 | [La Coloreteada](https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Serie 32](https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u) | 3:21 |
+| 115 | [Pobre Gato](https://open.spotify.com/track/7cRV3X1VcYkgeyp4WrJgqa) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Mi Historia](https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS) | 2:29 |
 | 116 | [Se Le Ve](https://open.spotify.com/track/3iL9tmKDG1vgSvuALf9miJ) | [Impacto De Montemorelos](https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm) | [Impacto de Montemorelos Sus Mejores 25 Canciones](https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf) | 3:10 |
 | 117 | [Cumbia En La Playa](https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Cumbiando Este 5 De Mayo](https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb) | 5:24 |
-| 118 | [Pobre Gato](https://open.spotify.com/track/7cRV3X1VcYkgeyp4WrJgqa) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Mi Historia](https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS) | 2:29 |
+| 118 | [La Coloreteada](https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Serie 32](https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u) | 3:21 |
 | 119 | [La Enfermera](https://open.spotify.com/track/1MYQWI4rfKa6q1aUZpjPxT) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:36 |
 | 120 | [Ella Se Olvido De Mí](https://open.spotify.com/track/5eFByyYnqWv7euW1wTGUle) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Nunca Te Olvidaré](https://open.spotify.com/album/45zzHjXdJoNXKFLysKLj88) | 3:25 |
 | 121 | [Ay Amor](https://open.spotify.com/track/3PuT7cXPJNHCAnl0eZlZdp) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:49 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 | 124 | [El Muñeco](https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Pensando En Ella](https://open.spotify.com/album/7chUnyKUwq88xEWfyGEV7a) | 2:42 |
 | 125 | [Ojitos Mentirosos](https://open.spotify.com/track/3ZPxSh4Tif71ilz50LOrAT) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [20 Exitos: Lo Mejor de la Cumbia](https://open.spotify.com/album/6J9GMOkFYIg8wPPmsiirSt) | 3:37 |
 
-Snapshot ID: `MCw5MmFlZDAxN2VhZjE0ZGIzMjI5M2IxZGFhOGM5MWNlMmMzNzBjZWVm`
+Snapshot ID: `MCw0OGUxNGNlMjZiM2YyOTA0NjQzNDc2YWVjYmM3NDMxODQ3ZDQ2MzQ1`

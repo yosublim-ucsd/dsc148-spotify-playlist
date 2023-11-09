@@ -1,12 +1,12 @@
 {
   "description": "Guitarra c\u00e1lida e instrumental para un agradable inicio de d\u00eda.",
-  "num_followers": 11920,
+  "num_followers": 11925,
   "original_name": "wuen dia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzVkNWRiNTJlMmQ4OWM1MmFlOWE3NGU4OTQ3MDU3ODgyMDgwZTc1",
+  "snapshot_id": "MCw2MDlhM2NjZjZlMjA3ZmRkYTgyNDU5Mjg3MjllZGExNjhkMjBkYTky",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "When You Came Along",
-        "url": "https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ"
-      },
-      "artists": [
-        {
-          "name": "Jonnie Snoilsky",
-          "url": "https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4"
-        }
-      ],
-      "duration_ms": 126575,
-      "name": "When You Came Along",
-      "url": "https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "In Search of Miracles",
         "url": "https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 147374,
       "name": "In Search of Miracles",
       "url": "https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "When You Came Along",
+        "url": "https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ"
+      },
+      "artists": [
+        {
+          "name": "Jonnie Snoilsky",
+          "url": "https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4"
+        }
+      ],
+      "duration_ms": 126575,
+      "name": "When You Came Along",
+      "url": "https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Under the Stars",
-        "url": "https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91"
-      },
-      "artists": [
-        {
-          "name": "Maria Isabel Ferrer",
-          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
-        }
-      ],
-      "duration_ms": 136609,
-      "name": "Under the Stars",
-      "url": "https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Millst\u00e4tter See",
         "url": "https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 157034,
       "name": "Millst\u00e4tter See",
       "url": "https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Under the Stars",
+        "url": "https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "duration_ms": 136609,
+      "name": "Under the Stars",
+      "url": "https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "A Sweet Portrait",
-        "url": "https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl"
-      },
-      "artists": [
-        {
-          "name": "Adone Alleva",
-          "url": "https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "A Sweet Portrait",
-      "url": "https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Wonder's Pyre",
         "url": "https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 169921,
       "name": "Wonder's Pyre",
       "url": "https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "A Sweet Portrait",
+        "url": "https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl"
+      },
+      "artists": [
+        {
+          "name": "Adone Alleva",
+          "url": "https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "A Sweet Portrait",
+      "url": "https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Past & Present",
-        "url": "https://open.spotify.com/album/1YkLOGEug3hxm0QZPfWkcs"
-      },
-      "artists": [
-        {
-          "name": "Isabella Molinero",
-          "url": "https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV"
-        }
-      ],
-      "duration_ms": 181174,
-      "name": "Past & Present",
-      "url": "https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Shapes in the Sky",
         "url": "https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 171874,
       "name": "Sunset on the Farmland",
       "url": "https://open.spotify.com/track/5tvM2CxNOcCBY7Z2H9Xa12"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Past & Present",
+        "url": "https://open.spotify.com/album/1YkLOGEug3hxm0QZPfWkcs"
+      },
+      "artists": [
+        {
+          "name": "Isabella Molinero",
+          "url": "https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV"
+        }
+      ],
+      "duration_ms": 181174,
+      "name": "Past & Present",
+      "url": "https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Valle dei Templi",
-        "url": "https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM"
-      },
-      "artists": [
-        {
-          "name": "Amma Lerato",
-          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
-        }
-      ],
-      "duration_ms": 180070,
-      "name": "Valle dei Templi",
-      "url": "https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Keep A Secret",
         "url": "https://open.spotify.com/album/4OhHkRhQyMXykmpn8D6PBi"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Bougainvillea",
-        "url": "https://open.spotify.com/album/1oBJWPznqae6yadezYaRQW"
+        "name": "Valle dei Templi",
+        "url": "https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM"
       },
       "artists": [
         {
-          "name": "Antonio y Lola",
-          "url": "https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41"
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
         }
       ],
-      "duration_ms": 123662,
-      "name": "Bougainvillea",
-      "url": "https://open.spotify.com/track/1ZUJLGUSLAhLfWQQduDsb5"
+      "duration_ms": 180070,
+      "name": "Valle dei Templi",
+      "url": "https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1195,6 +1179,22 @@
       "duration_ms": 183750,
       "name": "Great Moments",
       "url": "https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Bougainvillea",
+        "url": "https://open.spotify.com/album/1oBJWPznqae6yadezYaRQW"
+      },
+      "artists": [
+        {
+          "name": "Antonio y Lola",
+          "url": "https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41"
+        }
+      ],
+      "duration_ms": 123662,
+      "name": "Bougainvillea",
+      "url": "https://open.spotify.com/track/1ZUJLGUSLAhLfWQQduDsb5"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e"
-      },
-      "artists": [
-        {
-          "name": "Amine Ortega",
-          "url": "https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc"
-        }
-      ],
-      "duration_ms": 192857,
-      "name": "Archetype",
-      "url": "https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Two Trees",
         "url": "https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 174216,
       "name": "Evenings at Point Reyes",
       "url": "https://open.spotify.com/track/2OZrAhYxb2v5ZCFGb7QrD6"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e"
+      },
+      "artists": [
+        {
+          "name": "Amine Ortega",
+          "url": "https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "Archetype",
+      "url": "https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Misty Midnight",
-        "url": "https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1"
-      },
-      "artists": [
-        {
-          "name": "Alina Hussain",
-          "url": "https://open.spotify.com/artist/1J9m2S0qeC1r2n3BlvE61K"
-        }
-      ],
-      "duration_ms": 134498,
-      "name": "Misty Midnight",
-      "url": "https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Am Flussufer",
         "url": "https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 175476,
       "name": "Im Sonnenblumenfeld",
       "url": "https://open.spotify.com/track/3IFZMY6ohZsOgTVcMyL5b8"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Misty Midnight",
+        "url": "https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1"
+      },
+      "artists": [
+        {
+          "name": "Alina Hussain",
+          "url": "https://open.spotify.com/artist/1J9m2S0qeC1r2n3BlvE61K"
+        }
+      ],
+      "duration_ms": 134498,
+      "name": "Misty Midnight",
+      "url": "https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Todo Es Mi Culpa",
-        "url": "https://open.spotify.com/album/44eI4HIrozxOlv4KKa8DYf"
-      },
-      "artists": [
-        {
-          "name": "Ringunguinja",
-          "url": "https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Todo Es",
-      "url": "https://open.spotify.com/track/3kDWeQXbGzzeGVTvmLlpFy"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "El Antiguo Camino",
         "url": "https://open.spotify.com/album/092tdrmx3Ot8b75qGeZg0q"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 156501,
       "name": "El Antiguo Camino",
       "url": "https://open.spotify.com/track/6c7m8DqA9iH8R1PrA3DzVn"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Todo Es Mi Culpa",
+        "url": "https://open.spotify.com/album/44eI4HIrozxOlv4KKa8DYf"
+      },
+      "artists": [
+        {
+          "name": "Ringunguinja",
+          "url": "https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Todo Es",
+      "url": "https://open.spotify.com/track/3kDWeQXbGzzeGVTvmLlpFy"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "The Dreams We Share",
-        "url": "https://open.spotify.com/album/0Y4oF7iixVxQATzaMDZqcV"
-      },
-      "artists": [
-        {
-          "name": "Rafaela Moreno",
-          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "The Dreams We Share",
-      "url": "https://open.spotify.com/track/0Ov6sQ561WULCx9ixzMNzG"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Borealis",
         "url": "https://open.spotify.com/album/0k1jQLyYEcR3mNhzhusrdd"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 270000,
       "name": "Borealis",
       "url": "https://open.spotify.com/track/2ysFggjX4SCyNJET0h7d7r"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "The Dreams We Share",
+        "url": "https://open.spotify.com/album/0Y4oF7iixVxQATzaMDZqcV"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "The Dreams We Share",
+      "url": "https://open.spotify.com/track/0Ov6sQ561WULCx9ixzMNzG"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Within You, Within Me",
-        "url": "https://open.spotify.com/album/5oKe4TVgb8IRk347ZVxQmS"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hansen-Agard",
-          "url": "https://open.spotify.com/artist/46KklrpIr7r0aD2p8vmOMu"
-        }
-      ],
-      "duration_ms": 164390,
-      "name": "Within You, Within Me",
-      "url": "https://open.spotify.com/track/4d1mlzslIWzM9Ky1YJ2vpQ"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Alloa",
         "url": "https://open.spotify.com/album/2hs44iF5KvsJbTBzEz87FS"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 128873,
       "name": "Stirling",
       "url": "https://open.spotify.com/track/1HDPEUzDPniGZpULtKa4q4"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Within You, Within Me",
+        "url": "https://open.spotify.com/album/5oKe4TVgb8IRk347ZVxQmS"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hansen-Agard",
+          "url": "https://open.spotify.com/artist/46KklrpIr7r0aD2p8vmOMu"
+        }
+      ],
+      "duration_ms": 164390,
+      "name": "Within You, Within Me",
+      "url": "https://open.spotify.com/track/4d1mlzslIWzM9Ky1YJ2vpQ"
     },
     {
       "added_at": "2023-09-15 09:04:35",

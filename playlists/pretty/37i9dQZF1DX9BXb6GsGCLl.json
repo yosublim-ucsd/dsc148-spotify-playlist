@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 543500,
+  "num_followers": 543629,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTAwM2VmMTk2MDA0Y2FlNTBjOWFkYjliMDk4OTlkZmU4ZDYxMDFk",
+  "snapshot_id": "MCw1NWRhNDdiYzJjNjdhZDI3MjhiZWExNDc1MWM2MzdlMzNlOTQ4NzZi",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -847,6 +847,26 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "All Around The World (La La La)",
+        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "All Around The World (La La La)",
+      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "Lifestyle (feat. Adam Levine)",
         "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 153865,
       "name": "Lifestyle (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "All Around The World (La La La)",
-        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "A Touch Of Class",
-          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "All Around The World (La La La)",
-      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Get To Know You",
-        "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
-      },
-      "artists": [
-        {
-          "name": "Samantha Harvey",
-          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Get To Know You",
-      "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Close To Me (feat. Swae Lee)",
         "url": "https://open.spotify.com/album/4bLCVUEB9YWKEeaJm8FfqQ"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 182623,
       "name": "Close To Me (with Diplo) (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Get To Know You",
+        "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
+      },
+      "artists": [
+        {
+          "name": "Samantha Harvey",
+          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Get To Know You",
+      "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Speechless (feat. Erika Sirola)",
-        "url": "https://open.spotify.com/album/6c9vwMfJN8ojcFFmPWEPRE"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Erika Sirola",
-          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
-        }
-      ],
-      "duration_ms": 214941,
-      "name": "Speechless (feat. Erika Sirola)",
-      "url": "https://open.spotify.com/track/1rCcsYnmqbMYdkG7kS9GC5"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
         "url": "https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 195924,
       "name": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
       "url": "https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Speechless (feat. Erika Sirola)",
+        "url": "https://open.spotify.com/album/6c9vwMfJN8ojcFFmPWEPRE"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Erika Sirola",
+          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
+        }
+      ],
+      "duration_ms": 214941,
+      "name": "Speechless (feat. Erika Sirola)",
+      "url": "https://open.spotify.com/track/1rCcsYnmqbMYdkG7kS9GC5"
     },
     {
       "added_at": "2021-08-20 08:20:52",

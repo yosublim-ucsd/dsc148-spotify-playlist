@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-183 songs - 9 hr 30 min
+184 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,8 @@
 | [Superstar](https://open.spotify.com/track/5Vh9t1vLFVmsITgWQxBQB7) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [We're all gonna die, but here's my contribution](https://open.spotify.com/album/77tLO7JjvrESbaB1jkjwlS) | 2:52 | 2021-12-01 | 2023-06-23 |
 | [Tendril](https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Fountain](https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL) | 4:36 | 2021-12-01 |  |
 | [Think About Me](https://open.spotify.com/track/0onq6klC19tB7MT54gob65) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Think About Me](https://open.spotify.com/album/0PRgtSEi8WEu8AHNNFNK9d) | 3:37 | 2021-12-01 |  |
-| [Time Goes "Bye"](https://open.spotify.com/track/5JIkpWBTRbDUacnjHeBwt9) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Time Goes "Bye"](https://open.spotify.com/album/55FALUa466PtpCqbVDbalm) | 4:21 | 2021-12-01 |  |
+| [Time Goes "Bye"](https://open.spotify.com/track/01PUsoJjBsFweo5SHoQPeX) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Time Goes "Bye"](https://open.spotify.com/album/40VUN4AbGTVF4JQgnSRL0e) | 4:21 | 2021-12-01 |  |
+| [Time Goes "Bye"](https://open.spotify.com/track/5JIkpWBTRbDUacnjHeBwt9) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Time Goes "Bye"](https://open.spotify.com/album/55FALUa466PtpCqbVDbalm) | 4:21 | 2021-12-01 | 2023-11-09 |
 | [Time Goes By](https://open.spotify.com/track/6QXoQhDw7HyTQvbdtIJBh3) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Time Goes By](https://open.spotify.com/album/1pzWzxEYfQ1pp04EAJgy9r) | 2:01 | 2021-12-01 |  |
 | [Trap Salsa](https://open.spotify.com/track/736NMAWokZxwV7oLQzj8OH) | [NOKKI CABRERA](https://open.spotify.com/artist/1UBVQhdDEHGqhMYpUFSM29) | [TRAP SALSA](https://open.spotify.com/album/71ppda8M3GxuTJPy4CwJCc) | 2:57 | 2021-12-01 |  |
 | [Used To This](https://open.spotify.com/track/187EmOhwfEME52mf8hF03c) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Do Your Worst](https://open.spotify.com/album/2zoKhONaJBKUHsbPZLFubF) | 2:59 | 2021-12-01 | 2023-10-14 |

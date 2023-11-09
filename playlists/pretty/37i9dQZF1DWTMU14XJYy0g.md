@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Árbol
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,495 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,516 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 64 | [Arte Arte Arte](https://open.spotify.com/track/2rfxEjASx8ppSSn2aQUwQG) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 3:34 |
 | 65 | [Eso no es Amor](https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [Día del Trabajador](https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI) | 4:45 |
 
-Snapshot ID: `MCwwN2M1NzhjM2I4Yzc0OWQxOTIyYjdmODM5MjZiZmMyZDQwMzBlNWMw`
+Snapshot ID: `MCxhZjlmYWRjZTBiZTZlZTMxY2Y1YzY2OGVkYzZlMWUzNGQ1NjAwMzU3`

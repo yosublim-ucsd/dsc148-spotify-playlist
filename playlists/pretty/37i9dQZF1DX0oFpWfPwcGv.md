@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,878 likes - 75 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,998 likes - 75 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 62 | [A Night in New York \- Remastered](https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2) | [Elbow Bones And The Racketeers](https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj) | [Kid Creole \- Ze August Darnell Sessions \(Remastered 2018\)](https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ) | 4:21 |
 | 63 | [Begin the Beguine](https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 4:18 |
 | 64 | [This Time Baby \- Special 12" Version](https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI) | [Jackie Moore](https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w) | [Club Columbia](https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI) | 7:13 |
-| 65 | [What's Your Name, What's Your Number](https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 3:17 |
-| 66 | [Lady America](https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd) | [Voyage](https://open.spotify.com/artist/0LmhgMzqvIdR5ZPF1imPL6) | [Twelve Inch Classics from the 70s, Vol\. 2](https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa) | 6:47 |
+| 65 | [Lady America](https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd) | [Voyage](https://open.spotify.com/artist/0LmhgMzqvIdR5ZPF1imPL6) | [Twelve Inch Classics from the 70s, Vol\. 2](https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa) | 6:47 |
+| 66 | [What's Your Name, What's Your Number](https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 3:17 |
 | 67 | [The Love I Lost \- A Tom Moulton Mix](https://open.spotify.com/track/6kTRD53rZvscOShCDotKVy) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Philadelphia International Records: The Tom Moulton Remixes](https://open.spotify.com/album/25R1Y9bt82lbSwZemUBJ1A) | 12:30 |
 | 68 | [Soul Makossa](https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Crooklyn Volume II](https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l) | 4:26 |
 | 69 | [Put Your Body In It](https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Gold](https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5) | 4:04 |
-| 70 | [If You Could Read My Mind \- The Disconet Re\-Edit](https://open.spotify.com/track/3EG8FaTTO2uCoWv0KRP696) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [If You Could Read My Mind](https://open.spotify.com/album/4RorVVZCpGY24vI4HpGW4L) | 12:03 |
-| 71 | [Sinner Man](https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8) | [Sarah Dash](https://open.spotify.com/artist/40GzTuEPg9xjzGeXJESEMH) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 5:38 |
-| 72 | [Let No Man Put Asunder \(Shep Pettibone 12" Mix\)](https://open.spotify.com/track/2wlCVIwRXV5i36yUpcoFiw) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj) | 8:01 |
+| 70 | [Let No Man Put Asunder \(Shep Pettibone 12" Mix\)](https://open.spotify.com/track/2wlCVIwRXV5i36yUpcoFiw) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj) | 8:01 |
+| 71 | [If You Could Read My Mind \- The Disconet Re\-Edit](https://open.spotify.com/track/3EG8FaTTO2uCoWv0KRP696) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [If You Could Read My Mind](https://open.spotify.com/album/4RorVVZCpGY24vI4HpGW4L) | 12:03 |
+| 72 | [Sinner Man](https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8) | [Sarah Dash](https://open.spotify.com/artist/40GzTuEPg9xjzGeXJESEMH) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 5:38 |
 | 73 | [Make Love To Me](https://open.spotify.com/track/1tUNwvT6XuZU8I3yOPwkNm) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [Reddy](https://open.spotify.com/album/7fX7vwOqp6YRQ3ZQcJR3xI) | 6:39 |
 | 74 | [Changin'](https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE) | [Ms\. \(Sharon\) Ridley](https://open.spotify.com/artist/1bN0ObJIFfCWF5Pa0vXROz) | [Full Moon](https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp) | 6:28 |
-| 75 | [Stay Free](https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi), [James Simpson](https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf) | [Stay Free](https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV) | 5:22 |
+| 75 | [Ain't No Mountain High Enough](https://open.spotify.com/track/06xAJjt8HY09e14cLmBmgP) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [Inner Life](https://open.spotify.com/album/2DqaJOmf1G5MxRPSRonwlB) | 7:59 |
 
-Snapshot ID: `MCw3NDkzNmYyN2Y4MTVhMGJkYjc2NjMxNTViOTdmZWJjMGQ0ZDc1MjA4`
+Snapshot ID: `MCxiMjc2MTFkODZmODIwZjAyY2VmM2M3OGRlNzJhZGRhMWY3NjVjNjdl`

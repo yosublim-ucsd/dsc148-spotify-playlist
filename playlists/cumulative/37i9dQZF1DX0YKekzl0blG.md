@@ -4,7 +4,7 @@
 
 > All the indelible tunes from the other side of the 00s\. Cover: Santigold
 
-246 songs - 15 hr 14 min
+247 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Helicopter](https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:40 | 2022-09-29 | 2022-11-13 |
 | [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 | 2022-11-17 |  |
 | [Home](https://open.spotify.com/track/10ViidwjGLCfVtGPfdcszR) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below](https://open.spotify.com/album/3yfisavFdGTrjFf9Ecpbio) | 5:06 | 2021-11-15 | 2022-07-29 |
+| [Home \(2019 Remaster\)](https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \- 10th Anniversary Edition](https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd) | 5:06 | 2022-11-17 |  |
 | [Home \- 2019 \- Remaster](https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 5:06 | 2021-11-15 | 2023-11-04 |
 | [Hoppípolla](https://open.spotify.com/track/1LLV80tEAoaoKrboB79vWJ) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/3PWYP9XSZghMAO7ClKCJLz) | 4:30 | 2021-11-15 | 2022-07-13 |
 | [Hounds of Love](https://open.spotify.com/track/7mAF2MJdbNT75VrVcgwT6F) | [The Futureheads](https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8) | [The Futureheads \(new version\)](https://open.spotify.com/album/2G9UuU6wxAa4FoIv1rwHBo) | 3:02 | 2021-11-15 | 2022-11-13 |
@@ -213,7 +214,7 @@
 | [The Beginning Of The Twist](https://open.spotify.com/track/5WO4u8XmvXocAsK9rIMTwJ) | [The Futureheads](https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8) | [This Is Not The World](https://open.spotify.com/album/5WBxcZbQ2mxSnamfAN3mHa) | 3:36 | 2021-11-15 | 2022-07-27 |
 | [The Funeral](https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3) | 5:22 | 2021-11-15 |  |
 | [The Great Escape](https://open.spotify.com/track/37MkbRqfMdO4qlNj7C4Wfa) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [With Love And Squalor](https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa) | 3:18 | 2021-11-15 | 2022-03-08 |
-| [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 | 2022-09-29 |  |
+| [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 | 2022-09-29 | 2023-11-09 |
 | [The Hardest Button to Button](https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:32 | 2021-11-15 |  |
 | [The Rat](https://open.spotify.com/track/2YIOkqKgg3jZEFoL5qcEPT) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [Bows + Arrows](https://open.spotify.com/album/4QR9jaNP6Ifh7eqXjhAHw2) | 4:22 | 2021-11-15 | 2022-11-13 |
 | [The Skin Of My Yellow Country Teeth](https://open.spotify.com/track/5ZKjYGhHe7J3xJmJP6Vyag) | [Clap Your Hands Say Yeah](https://open.spotify.com/artist/1jSaZgaKHmgc7VTgML528r) | [Clap Your Hands Say Yeah](https://open.spotify.com/album/554HQdOkOKS1CyVIvbgUnR) | 5:43 | 2021-11-15 | 2022-01-07 |

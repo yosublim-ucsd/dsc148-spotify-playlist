@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: ヒグチアイ
 
-1,895 songs - 5 day 2 hr 35 min
+1,896 songs - 5 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Death Anniversary](https://open.spotify.com/track/27worzTIPbLIOFS2LPkzTw) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Death Anniversary](https://open.spotify.com/album/2uoDeHqFLAKJLxwddkzGQt) | 3:21 | 2023-08-17 | 2023-10-20 |
 | [debbie](https://open.spotify.com/track/4Nz3rcsMoe7SVKZ98Frt5E) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 3:43 | 2022-07-28 | 2022-08-03 |
 | [debbie](https://open.spotify.com/track/1L3KhykfkDwn8e0thZQCl1) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [debbie](https://open.spotify.com/album/3hbyV1y0FBu458IiNEu7o8) | 3:44 | 2022-05-29 | 2022-07-22 |
-| [December](https://open.spotify.com/track/6OTYbrTn8BUb1WViI9HaAS) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [5am](https://open.spotify.com/album/1dLcTY0iMPyX7i6yrz5KjP) | 4:15 | 2023-08-29 |  |
+| [December](https://open.spotify.com/track/6OTYbrTn8BUb1WViI9HaAS) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [5am](https://open.spotify.com/album/1dLcTY0iMPyX7i6yrz5KjP) | 4:15 | 2023-08-29 | 2023-11-09 |
 | [deep](https://open.spotify.com/track/2x8fdufCi4pMEY6Hddi0kh) | [Pink Sea](https://open.spotify.com/artist/1oV4nakuVx667vDeKwRemA) | [deep](https://open.spotify.com/album/3RK0QaIu5j5XygjGzzr5E4) | 4:16 | 2023-02-28 | 2023-03-02 |
 | [deep](https://open.spotify.com/track/4yYS3wucJBmdeRWFiaqbuJ) | [Pink Sea](https://open.spotify.com/artist/1oV4nakuVx667vDeKwRemA) | [deep](https://open.spotify.com/album/7fB5sYBtF3UF31NvBu6sdD) | 4:16 | 2023-02-28 | 2023-03-08 |
 | [Deep Dive](https://open.spotify.com/track/5itC9A1VIudCnfVHeBO4ni) | [POOL](https://open.spotify.com/artist/2dvTZ5JWjRhkzd8QSBIhDo) | [Non Faketion](https://open.spotify.com/album/1QbR4hxZMmHtNHg11ybuHl) | 3:57 | 2022-11-08 | 2022-11-16 |
@@ -508,6 +508,7 @@
 | [Kimi ni Sayonara](https://open.spotify.com/track/1XORfqcIaAjoEMLkR4GKou) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Kimi ni Sayonara](https://open.spotify.com/album/1Kur4QhXrFJo651o4sBTxq) | 4:19 | 2023-10-17 | 2023-11-01 |
 | [Kiss and Kiss](https://open.spotify.com/track/487QBEyUb4H3qOgak5CR7z) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [Kiss and Kiss](https://open.spotify.com/album/00oiWDc5ZM9WOGVYCX6Zkb) | 3:00 | 2023-08-15 | 2023-08-23 |
 | [Kiss and Kiss](https://open.spotify.com/track/7DOgPkHKuEYHSaaTD4agIr) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [Kiss and Kiss](https://open.spotify.com/album/2RaIUSGUMiGXuKGwG4IkLr) | 3:00 | 2023-08-15 | 2023-08-17 |
+| [Kita wing \-CLASSIC\-](https://open.spotify.com/track/0bIsJCMtFLe7VcOFJukUJ8) | [Akina Nakamori](https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J) | [50th Anniversary Special A Tribute of Hayashi Tetsuji \- Saudade \-](https://open.spotify.com/album/1IL41vFj4phgdUsajpKFa1) | 6:22 | 2023-11-07 |  |
 | [KMHH \- grooveman Spot Cali Remix with Kzyboost](https://open.spotify.com/track/1Rg9ZcIfY1zbeiWIs8lVj3) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa), [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil) | [KMHH \(grooveman Spot Cali Remix with Kzyboost\)](https://open.spotify.com/album/6g3wkHACW8jHGcdtbtEJeU) | 3:42 | 2022-07-19 | 2022-07-27 |
 | [Kodoku na Rhapsody](https://open.spotify.com/track/5EzgUSV8GCGZgJr5VLcJkV) | [Shizuka Kudo](https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W) | [Yusha no Hata](https://open.spotify.com/album/6zCFijetFngLSbrBKSb0tH) | 5:13 | 2023-08-01 | 2023-08-09 |
 | [koi](https://open.spotify.com/track/6aR2Dy2Ur9TZ6PifgvJYFJ) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [koi](https://open.spotify.com/album/3kmSRwmaYAPQDBPkG3WZJL) | 3:16 | 2023-10-31 |  |
@@ -1515,7 +1516,7 @@
 | [前説ADvance](https://open.spotify.com/track/4BmL1q2aXSsgOJkGExlIjZ) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [前説ADvance](https://open.spotify.com/album/7B3cMK62VedHD4Jjqf7Fce) | 4:11 | 2022-08-30 | 2022-09-07 |
 | [前髪上げたくない](https://open.spotify.com/track/60XvZljQEykw4K5iQuR9ek) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/6P0h9ZA6Vf5Drg76VGFLSe) | 1:55 | 2023-10-12 | 2023-10-18 |
 | [劇場](https://open.spotify.com/track/53hfzcJKgWPNFpfjORtTKC) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [最悪最愛](https://open.spotify.com/album/3HrPqqK8s7gsSEa7fFHNjv) | 5:58 | 2022-06-02 | 2022-07-27 |
-| [北ウイング \-CLASSIC\-](https://open.spotify.com/track/07OiQkDWUwgatxU5WUWxXN) | [中森明菜](https://open.spotify.com/artist/2wFUR5ok8quJNgr0YloAcM) | [50th Anniversary Special A Tribute of Hayashi Tetsuji \- Saudade \-](https://open.spotify.com/album/5xsy4iKnYN4g8uM3KWiMLf) | 6:22 | 2023-11-07 |  |
+| [北ウイング \-CLASSIC\-](https://open.spotify.com/track/07OiQkDWUwgatxU5WUWxXN) | [中森明菜](https://open.spotify.com/artist/2wFUR5ok8quJNgr0YloAcM) | [50th Anniversary Special A Tribute of Hayashi Tetsuji \- Saudade \-](https://open.spotify.com/album/5xsy4iKnYN4g8uM3KWiMLf) | 6:22 | 2023-11-07 | 2023-11-09 |
 | [十字路に立つ](https://open.spotify.com/track/5UgmUHaao6b2QwcDV5tBaw) | [HARUKATOMIYUKI](https://open.spotify.com/artist/6NEfWGRmyUfFmRTzlfWUWl) | [十字路に立つ](https://open.spotify.com/album/4XqRzPApAFVEyJblH6GCcs) | 4:18 | 2022-11-23 | 2023-01-25 |
 | [卑弥呼](https://open.spotify.com/track/3TEVu2fI0WZJmug0xuY6PP) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:07 | 2022-05-29 | 2022-08-20 |
 | [卒業写真](https://open.spotify.com/track/1H2g5KkF6b4V0nmJ35xzKa) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [卒業写真](https://open.spotify.com/album/25qpu2qyXCVcEBdwbjXpDc) | 4:21 | 2022-05-29 | 2022-07-26 |
@@ -1899,7 +1900,7 @@
 | [香雪蘭～好きより愛してる～](https://open.spotify.com/track/4qsINclA2ueiY5NbOnjcZg) | [Shizuka Kudo](https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W) | [香雪蘭～好きより愛してる～](https://open.spotify.com/album/35Xz4RG7yTO7WMXK91ZjZk) | 6:02 | 2023-10-26 | 2023-10-28 |
 | [駒沢公園](https://open.spotify.com/track/4HbI0Ub0XNyrQ5W0JFuWiC) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [さらりさら / ずっとそばで見守っているよ / Everybody needs a smile / 駒沢公園](https://open.spotify.com/album/3H8Cmaov0wOTqXMd964jRZ) | 5:21 | 2022-08-16 | 2022-08-24 |
 | [骨まで愛して](https://open.spotify.com/track/76eXC94QzPqx9XcxQSxcAZ) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [骨まで愛して](https://open.spotify.com/album/1zGhKpqriVQSXKLl4ItJI0) | 3:26 | 2023-01-19 | 2023-01-25 |
-| [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 | 2022-07-19 | 2023-10-20 |
+| [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 | 2022-07-19 |  |
 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 | 2022-05-29 | 2022-10-26 |
 | [黎明のワルツ](https://open.spotify.com/track/3N5vaLucgDy1N8Z9nHpq1p) | [大槻美奈](https://open.spotify.com/artist/2t7oBLvbMC9ykeWssrjZpY) | [LAND](https://open.spotify.com/album/3c5lgHH5BUczJKFMMPuYPj) | 3:36 | 2022-12-27 | 2023-01-04 |
 | [鼓動](https://open.spotify.com/track/33HrWYjijsnYrjiETDlHEk) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [鼓動](https://open.spotify.com/album/47YNWei4YtzRWYs5eYNvRR) | 2:41 | 2022-06-07 | 2022-07-18 |

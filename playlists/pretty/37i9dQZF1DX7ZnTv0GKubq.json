@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 356476,
+  "num_followers": 356561,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTYzNDE1OTJkNGZhMDgzNDI3N2ZjOWFjMTEyNmM0NGE0ZWFmMzUw",
+  "snapshot_id": "MCw4N2NhZGY0YTMyYmY1M2I5NjNjZDU0YzYxMTgyOThiMGVjYTlkMzMy",
   "tracks": [
     {
       "added_at": "2023-07-21 10:20:44",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-07-21 10:20:44",
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 226118,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
+    },
+    {
+      "added_at": "2023-07-21 10:20:44",
+      "album": {
         "name": "WASTELAND",
         "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 198005,
       "name": "GHETTO GATSBY (FEAT. ALICIA KEYS)",
       "url": "https://open.spotify.com/track/2krESug6AyfOL07tlaGwts"
-    },
-    {
-      "added_at": "2023-07-21 10:20:44",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 226118,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
     },
     {
       "added_at": "2023-07-21 10:20:44",

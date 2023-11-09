@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,899 likes - 104 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,919 likes - 104 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 | 7 | [All I Want](https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE) | [Rosebud Nash](https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE) | [All I Want](https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS) | 3:18 |
 | 8 | [Cool](https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/3Y5mbHm9zcwmAmhKlORakx) | 4:03 |
 | 9 | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA) | 3:22 |
-| 10 | [Pictures](https://open.spotify.com/track/4UB5tDnWwrFefdfC6hebdS) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm \(Deluxe Version\)](https://open.spotify.com/album/1eS5FLI6q24t4wONeOzrj5) | 2:57 |
+| 10 | [Pictures](https://open.spotify.com/track/0nC1qkOgwU7yQZLpUQmUms) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before The Snowstorm](https://open.spotify.com/album/6X4lsAafU2WXiThVoO9kF4) | 2:57 |
 | 11 | [I'm So Tired...](https://open.spotify.com/track/3KUBVgFUF0JfXI0MkcHgQO) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [I'm So Tired...](https://open.spotify.com/album/3XqIOJaJckjEYwx8zOhslK) | 2:55 |
 | 12 | [Let Me Love You](https://open.spotify.com/track/0Vdw0avLSgSt2uZoSZOXTx) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Let Me Love You](https://open.spotify.com/album/0UkPFZiEY8VJLDiWFuYiqd) | 3:11 |
 | 13 | [drivers license](https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [drivers license](https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB) | 4:06 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 | 103 | [Thunder](https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l) | [The Freed](https://open.spotify.com/artist/1kU8z1cAsNbINQt3ZyFka8) | [Thunder](https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC) | 3:24 |
 | 104 | [Fast Car](https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [Fast Car](https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4) | 5:31 |
 
-Snapshot ID: `MCwzZWZiODUwZmYyZTFkZmZmODdjYzVlMzczYWE1N2YwMmFhZjlhYWVl`
+Snapshot ID: `MCwyNTFhNjY2MjlkZTdhNDNiZmM1NGMyNTVlMzE2YjU0MzM1OTczNjBk`

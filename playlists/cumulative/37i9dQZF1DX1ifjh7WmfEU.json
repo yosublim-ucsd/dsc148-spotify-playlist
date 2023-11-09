@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Autumn Song",
+        "url": "https://open.spotify.com/album/3wWlrBCF10tWs73IQIUnJA"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Sapphire",
+          "url": "https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150514,
+      "name": "Autumn Song",
+      "url": "https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq"
+    },
+    {
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/1u4j15TBVVYGUi7pZsYqGF"
       },
@@ -1338,6 +1356,24 @@
       "duration_ms": 149786,
       "name": "heart pieces",
       "url": "https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za"
+    },
+    {
+      "album": {
+        "name": "Hearts of Desire",
+        "url": "https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb"
+      },
+      "artists": [
+        {
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139312,
+      "name": "Hearts of Desire",
+      "url": "https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv"
     },
     {
       "album": {

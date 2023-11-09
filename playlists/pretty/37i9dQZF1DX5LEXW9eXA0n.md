@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:Lyn\(린\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,955 likes - 104 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,981 likes - 104 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 103 | [Monthly Project 2023 August Yoon Jong Shin \- HEEKAK](https://open.spotify.com/track/3bxZL7GTRzd58F3hqobv1R) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2023 August Yoon Jong Shin \- HEEKAK](https://open.spotify.com/album/26Imwvx2Z6xc7CPe0WFxcS) | 4:31 |
 | 104 | [Alarm](https://open.spotify.com/track/0bWaehT6suvoyAVP0RwpNd) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [My Lovely Liar, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/7qnNNyNveamlqSXk8AhrQT) | 3:19 |
 
-Snapshot ID: `MCxlZTNiMjFkMjU4MGZlYjI3ZWEyZjkwMGI1NmI3OWM2YTYxMjdmZjk1`
+Snapshot ID: `MCw3ZWFjOGJiNjNiNWRlM2I2N2UwNDMxYjJjNGE0NTRmMjEzMTU2NDY1`

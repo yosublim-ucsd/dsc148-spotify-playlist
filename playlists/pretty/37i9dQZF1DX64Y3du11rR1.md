@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,498 likes - 117 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,553 likes - 117 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
-| 2 | [It'll Be Okay](https://open.spotify.com/track/0ctJr4dFdrk0Fv1CWW9cSW) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [It'll Be Okay](https://open.spotify.com/album/1HKldziO5FowynQw8MaTv5) | 3:52 |
+| 2 | [It'll Be Okay](https://open.spotify.com/track/12JibKnU95fEOzPediC8xg) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [It'll Be Okay](https://open.spotify.com/album/50F5l0I3C1tGbjp8eFTYlu) | 3:52 |
 | 3 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 |
 | 4 | [Fix You \- Live for There With Care](https://open.spotify.com/track/5mXqmmuvjxHXHrn2tGsSXv) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Fix You \(Live for There With Care\)](https://open.spotify.com/album/023LZ57ICg2J7J8LiIBmlQ) | 6:09 |
 | 5 | [Flowers](https://open.spotify.com/track/6mg7fwFJk743tkHUCl1eHU) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Flowers](https://open.spotify.com/album/7zAhFzI9v5nrtBQBiNDXR6) | 3:31 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 116 | [The Joke](https://open.spotify.com/track/6KLO6Ycu2Y03i3nLw6PgyW) | [Nicole Serrano](https://open.spotify.com/artist/1Q3Bf69OLRJEZBigSjtUs5) | [The Joke](https://open.spotify.com/album/3NYJFYtOLRXbDJzAHN3eie) | 4:03 |
 | 117 | [Giant](https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Giant](https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak) | 2:59 |
 
-Snapshot ID: `MCw4ZGYyNGRjZjhjNDc3ZDMzMjNkZjUxYzk5YTI2ZTVhZWM3YzBlYmFl`
+Snapshot ID: `MCxhYTQ5YmI0NTg4OWY1MDczYTgzMDMyZmU3NmU3MTcxMDAxMzdjMjVh`

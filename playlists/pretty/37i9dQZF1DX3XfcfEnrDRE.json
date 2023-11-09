@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 235535,
+  "num_followers": 235564,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjk2MThiODJmMGNhMmYzMjBlNDg2MTM3ZjkyMTQyMzVmNjYxMzEw",
+  "snapshot_id": "MCwyOGExMGMzYWMxMTkxZDllZjM5M2M1Mzc2NjFlNDU3YjcyZmRiNjA4",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -147,22 +147,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "I Believe It Now",
-        "url": "https://open.spotify.com/album/4jiACLAncMZpfDbGuMkYkk"
+        "name": "Chrysaline",
+        "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
       },
       "artists": [
         {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
-        },
-        {
-          "name": "Olivia Lane",
-          "url": "https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6"
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
         }
       ],
-      "duration_ms": 228886,
-      "name": "I Believe It Now",
-      "url": "https://open.spotify.com/track/1tfjjxTZZhNeiAAsgWtlNe"
+      "duration_ms": 309354,
+      "name": "Closer Than a Brother",
+      "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -187,18 +183,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Chrysaline",
-        "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
+        "name": "I Believe It Now",
+        "url": "https://open.spotify.com/album/4jiACLAncMZpfDbGuMkYkk"
       },
       "artists": [
         {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        },
+        {
+          "name": "Olivia Lane",
+          "url": "https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6"
         }
       ],
-      "duration_ms": 309354,
-      "name": "Closer Than a Brother",
-      "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
+      "duration_ms": 228886,
+      "name": "I Believe It Now",
+      "url": "https://open.spotify.com/track/1tfjjxTZZhNeiAAsgWtlNe"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -407,18 +407,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "imagination",
-        "url": "https://open.spotify.com/album/02agWXzHUBYG9YBeyJV0Cl"
+        "name": "Kyrie Eleison (It's Mercy We Need)",
+        "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
       },
       "artists": [
+        {
+          "name": "Elias Dummer",
+          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
+        },
         {
           "name": "Citizens",
           "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 200200,
-      "name": "imagination",
-      "url": "https://open.spotify.com/track/02spa6OzWWL8tludrb8hPg"
+      "duration_ms": 261239,
+      "name": "Kyrie Eleison (It's Mercy We Need)",
+      "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -439,22 +443,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Kyrie Eleison (It's Mercy We Need)",
-        "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
+        "name": "imagination",
+        "url": "https://open.spotify.com/album/02agWXzHUBYG9YBeyJV0Cl"
       },
       "artists": [
-        {
-          "name": "Elias Dummer",
-          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
-        },
         {
           "name": "Citizens",
           "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 261239,
-      "name": "Kyrie Eleison (It's Mercy We Need)",
-      "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
+      "duration_ms": 200200,
+      "name": "imagination",
+      "url": "https://open.spotify.com/track/02spa6OzWWL8tludrb8hPg"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -831,6 +831,26 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Nothing To Buy",
+        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
+      },
+      "artists": [
+        {
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        },
+        {
+          "name": "kalley",
+          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Nothing To Buy",
+      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "WILD THINGS",
         "url": "https://open.spotify.com/album/5XaKKyhMqIAie5hIND1f6i"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 183000,
       "name": "WILD THINGS",
       "url": "https://open.spotify.com/track/1l6q0BU9csN5AEvVBdyc2l"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Nothing To Buy",
-        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
-      },
-      "artists": [
-        {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        },
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Nothing To Buy",
-      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Every Morning",
-        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Move of Heaven",
         "url": "https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 339706,
       "name": "Peter",
       "url": "https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Every Morning",
+        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Fighting Myself",
-        "url": "https://open.spotify.com/album/22JJVIcCRz2yqjVH5WIZqx"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 218775,
-      "name": "Fighting Myself",
-      "url": "https://open.spotify.com/track/3W2UszPJ6jF0OYE5FTtetQ"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "No Fear In Love",
         "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 204000,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Fighting Myself",
+        "url": "https://open.spotify.com/album/22JJVIcCRz2yqjVH5WIZqx"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 218775,
+      "name": "Fighting Myself",
+      "url": "https://open.spotify.com/track/3W2UszPJ6jF0OYE5FTtetQ"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Between The Joy And The Sorrow - Part 2",
+        "url": "https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ"
+      },
+      "artists": [
+        {
+          "name": "Ian Yates",
+          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Between The Joy And The Sorrow",
+      "url": "https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Can't Stop My Heart From Singing",
         "url": "https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 348714,
       "name": "Nothing is Wasted - Live",
       "url": "https://open.spotify.com/track/5WNl2SPKaMGaasoArkhmKv"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Between The Joy And The Sorrow - Part 2",
-        "url": "https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ"
-      },
-      "artists": [
-        {
-          "name": "Ian Yates",
-          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Between The Joy And The Sorrow",
-      "url": "https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e"
     },
     {
       "added_at": "2022-12-16 05:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "El sonido experimental del Caribe \ud83c\udf34\ud83e\udd80\u269b\ufe0f",
-  "num_followers": 418,
+  "num_followers": 419,
   "original_name": "Caribe At\u00f3mico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzlmN2EyYTExMjBiZjY3MGU0OGNiZjdjZGI1NTk1NThjY2FlMDNm",
+  "snapshot_id": "MCw3ZDhiZGMwYWFmZjcwMjEyOTFjNThiZTE3N2U1Mjg2MmUyOGFhMzhi",
   "tracks": [
     {
       "added_at": "2023-10-13 15:25:21",
@@ -559,18 +559,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Cr\u00f3nico",
-        "url": "https://open.spotify.com/album/0TO7obZfq3fJWuorgrTUae"
+        "name": "El Juidero",
+        "url": "https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj"
       },
       "artists": [
         {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+          "name": "Rita Indiana",
+          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
+        },
+        {
+          "name": "Los Misterios",
+          "url": "https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj"
         }
       ],
-      "duration_ms": 181874,
-      "name": "Cr\u00f3nico",
-      "url": "https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA"
+      "duration_ms": 299533,
+      "name": "Bajito a selva",
+      "url": "https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -611,22 +615,18 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "El Juidero",
-        "url": "https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj"
+        "name": "Cr\u00f3nico",
+        "url": "https://open.spotify.com/album/0TO7obZfq3fJWuorgrTUae"
       },
       "artists": [
         {
-          "name": "Rita Indiana",
-          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
-        },
-        {
-          "name": "Los Misterios",
-          "url": "https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj"
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
         }
       ],
-      "duration_ms": 299533,
-      "name": "Bajito a selva",
-      "url": "https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R"
+      "duration_ms": 181874,
+      "name": "Cr\u00f3nico",
+      "url": "https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA"
     },
     {
       "added_at": "2022-08-13 03:00:56",

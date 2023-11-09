@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,946 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,041 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [lower one's eyes](https://open.spotify.com/track/3P8sZzCeWXnBieW9XxE02Y) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [lower one's eyes](https://open.spotify.com/album/0NEXeWlwwR6b4zfHF4bvgk) | 3:50 |
 | 50 | [Whisper Whisper Whisper](https://open.spotify.com/track/1fcR1xtq85n7k14tRuCsjw) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Whisper Whisper Whisper](https://open.spotify.com/album/7DGoBmJVnFgvFxu3zBBa6O) | 2:04 |
 
-Snapshot ID: `MCxiMDllNTRiMDMwNjcxMzAxZDJjZjhiNWZiMjJiMTdkOWU1N2NmYjZh`
+Snapshot ID: `MCwyMjRmZjIyYTkyNDNmMDhjNmE4MjJkNDI2NDljZDczODY3NGIxZDNl`

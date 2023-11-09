@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 19257,
+  "num_followers": 19339,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjdjMThlYzNhYmFhYzQwMWM5ODM5MzMxODBiMzQwNDUyMDQzNTc5",
+  "snapshot_id": "MCw1MWNiNzIxNGUwY2E1YzhlYzZlYWU3MDljZDAwM2FkYTQ3YzBkMDgy",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -227,22 +227,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "SUNMI SPECIAL EDITION [Gashina]",
-        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Gashina",
-      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "MOVE - The 2nd Album",
         "url": "https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 211949,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "SUNMI SPECIAL EDITION [Gashina]",
+        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Gashina",
+      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 214380,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "FATE NUMBER FOR",
         "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 203056,
       "name": "REALLY REALLY",
       "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 214380,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -559,22 +559,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "HANN (Alone)",
-        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 205820,
-      "name": "HANN (Alone)",
-      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "SEOULITE",
         "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 288915,
       "name": "BREATHE",
       "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "HANN (Alone)",
+        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 205820,
+      "name": "HANN (Alone)",
+      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -623,26 +623,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "NCT 2018 EMPATHY",
-        "url": "https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX"
-      },
-      "artists": [
-        {
-          "name": "NCT",
-          "url": "https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG"
-        },
-        {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
-        }
-      ],
-      "duration_ms": 214035,
-      "name": "The 7th Sense",
-      "url": "https://open.spotify.com/track/6BdchFAP4TUZUceAsAEb5U"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "I - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 206038,
       "name": "I",
       "url": "https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "NCT 2018 EMPATHY",
+        "url": "https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX"
+      },
+      "artists": [
+        {
+          "name": "NCT",
+          "url": "https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG"
+        },
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 214035,
+      "name": "The 7th Sense",
+      "url": "https://open.spotify.com/track/6BdchFAP4TUZUceAsAEb5U"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "WINTER",
-        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Last Goodbye",
-      "url": "https://open.spotify.com/track/0x50cQ1pZeV4xl737GhKBk"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Only One - The 7th Album",
         "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 217085,
       "name": "Only One",
       "url": "https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "WINTER",
+        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/0x50cQ1pZeV4xl737GhKBk"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Pink Tape - The 2nd Album",
-        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 197672,
-      "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
-      "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Rain - SM STATION",
         "url": "https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 222047,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 197672,
+      "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
+      "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
     },
     {
       "added_at": "2021-03-01 03:07:22",

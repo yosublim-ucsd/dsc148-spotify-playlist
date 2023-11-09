@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-1,007 songs - 2 day 8 hr 2 min
+1,008 songs - 2 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,8 @@
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2022-04-30 |
 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 | 2023-06-04 | 2023-11-05 |
-| [El Merengue](https://open.spotify.com/track/74V5ewqxsojlKtGQ6lFR0d) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Sugar Papi](https://open.spotify.com/album/1D2dEzZ6Wv1ckHmSkayTuJ) | 3:09 | 2023-11-04 |  |
+| [El Merengue](https://open.spotify.com/track/5KbBVSj6AJZ5662fO8EYFh) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:09 | 2023-11-08 |  |
+| [El Merengue](https://open.spotify.com/track/74V5ewqxsojlKtGQ6lFR0d) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Sugar Papi](https://open.spotify.com/album/1D2dEzZ6Wv1ckHmSkayTuJ) | 3:09 | 2023-11-04 | 2023-11-09 |
 | [Ela me Falou Que Quer Rave](https://open.spotify.com/track/0JdkDCdrhMOaeXjIZdeBXN) | [MC Levin](https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY), [DJ Nikolas Alves Exclusive](https://open.spotify.com/artist/23buF7CmOZll8oQveAvsut), [DJ Kaioken](https://open.spotify.com/artist/1aQbanZ6xPrOtTYtsMdm3Q), [DJ Gege](https://open.spotify.com/artist/2BvV4u6AUwFCrAriUIo9Sm) | [Ela me Falou Que Quer Rave](https://open.spotify.com/album/7oquoqetiWHdL6JIp7LrEw) | 3:55 | 2022-01-02 | 2022-01-04 |
 | [Ela Voltou de Perna Bamba](https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv) | [MC Guh SR](https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR), [MC Pê Original](https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC), [Dj Pikeno Mpc](https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP) | [Ela Voltou de Perna Bamba](https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs) | 3:19 | 2023-05-29 | 2023-09-12 |
 | [Ella Baila Sola](https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:45 | 2023-05-25 | 2023-07-12 |

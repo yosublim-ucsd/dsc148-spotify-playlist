@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 
 > Meditate to the sound of soothing voices and flutes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,378 likes - 98 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,433 likes - 98 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 | 94 | [Forward](https://open.spotify.com/track/6fy6hBtZMY8sAjG8ynqUbV) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Forward](https://open.spotify.com/album/7Hp3Glq4Aoy8ubBEXCQtlj) | 2:33 |
 | 95 | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/track/6gfL880RuRTk3toqkVxjGO) | [Yue Yan Jen](https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU) | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/album/7fbFR0qZouklk3kM5voFNw) | 3:09 |
 | 96 | [Amethyst](https://open.spotify.com/track/5X6MJD3WhozugWHrV86ENo) | [Vanessa Mill](https://open.spotify.com/artist/4Ep50Q4m0c6GJxZ9pxPpIH) | [Amethyst](https://open.spotify.com/album/5P0Bhww1awDkLtAh5CKi9k) | 2:12 |
-| 97 | [Are We Still Here](https://open.spotify.com/track/5rjIqwdOptcSeam8iWsYfJ) | [Jelena Vanags](https://open.spotify.com/artist/7DXjl9ExxUi8xScl5bFZJS) | [Are We Still Here](https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi) | 2:59 |
+| 97 | [Are We Still Here](https://open.spotify.com/track/5rjIqwdOptcSeam8iWsYfJ) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Are We Still Here](https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi) | 2:59 |
 | 98 | [Dreaming Of Pine Trees](https://open.spotify.com/track/3YSkrDZCRG0bcZ4AZw5rIj) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Gentle Breeze](https://open.spotify.com/album/33KDHAdMUVYaeDxgPuYxka) | 2:53 |
 
-Snapshot ID: `MCwwOWE3M2QxNDc5ZjFlZDZlYzIwMTM1NWVlY2U0MDRjNDk0YzU1ZjE4`
+Snapshot ID: `MCw3YmRjOTRkMjhhODc5MGI5MDhmMWIxOThmMzQ2YzA1ODM4ZWU3YTE0`

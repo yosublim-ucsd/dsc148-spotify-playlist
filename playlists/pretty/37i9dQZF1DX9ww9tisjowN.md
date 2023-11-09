@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: JO1
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,600 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,678 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 |
 | 75 | [Brand New World](https://open.spotify.com/track/7M1nS90qYk8A3J1e9mJz9x) | [FANCYLABO](https://open.spotify.com/artist/34MPZmd0trUjRPtfDVUrwo), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Aoi Yagawa](https://open.spotify.com/artist/7w3N4hKPh9CssP6wIKDaww), [Miori Ichikawa](https://open.spotify.com/artist/47FeV9K8iEFuZTUwneophb) | [Brand New World](https://open.spotify.com/album/0RAPOQ0Hojp8W8ZZ6KACSP) | 3:06 |
 
-Snapshot ID: `MCxlNTEyYmZkNWNmOGYyZGU2Y2ZkYjUzNTAwZTA0ZTE4NzBlYmZhMmEy`
+Snapshot ID: `MCwyNDkyZTA0ZmFhNzViMjJiYTM5MzllNDk3Yjg2NDg2YTRlODc2YmMw`

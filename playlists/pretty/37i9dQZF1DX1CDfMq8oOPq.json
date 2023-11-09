@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Ajuliacosta",
-  "num_followers": 42488,
+  "num_followers": 42521,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWQ1ZjdiZjI0YmVjMmUzNTJmNTY4NTQyMzY3ZDI3MjFiN2MzNWI1",
+  "snapshot_id": "MCxjNjQ1NjljYWQ2MmY1N2NlYThjMzI0Yzc5Njk5YzYwY2JjMjRmNzBl",
   "tracks": [
     {
       "added_at": "2023-11-03 03:01:00",
@@ -507,6 +507,26 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
+        "name": "Ele Me Falou",
+        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "Ele Me Falou",
+      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+    },
+    {
+      "added_at": "2023-11-03 03:01:00",
+      "album": {
         "name": "Copy",
         "url": "https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 181778,
       "name": "Copy",
       "url": "https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX"
-    },
-    {
-      "added_at": "2023-11-03 03:01:00",
-      "album": {
-        "name": "Ele Me Falou",
-        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 209268,
-      "name": "Ele Me Falou",
-      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
     },
     {
       "added_at": "2023-11-03 03:01:00",
@@ -895,22 +895,18 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
-        "name": "Pretchuka",
-        "url": "https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd"
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/2JH0I5n2AvaTzWjyJIsKuC"
       },
       "artists": [
         {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        },
-        {
-          "name": "Vitor Akin",
-          "url": "https://open.spotify.com/artist/6CsiuADjEWXV6FvM7Hhoik"
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
         }
       ],
-      "duration_ms": 153020,
-      "name": "Pretchuka",
-      "url": "https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf"
+      "duration_ms": 158980,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/7258f9ip4DludOiLU5i7HV"
     },
     {
       "added_at": "2023-11-03 03:01:00",
@@ -947,18 +943,22 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/2JH0I5n2AvaTzWjyJIsKuC"
+        "name": "Pretchuka",
+        "url": "https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd"
       },
       "artists": [
         {
-          "name": "Mc Soffia",
-          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Vitor Akin",
+          "url": "https://open.spotify.com/artist/6CsiuADjEWXV6FvM7Hhoik"
         }
       ],
-      "duration_ms": 158980,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/7258f9ip4DludOiLU5i7HV"
+      "duration_ms": 153020,
+      "name": "Pretchuka",
+      "url": "https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf"
     },
     {
       "added_at": "2023-11-03 03:01:00",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-11-03 03:01:00",
       "album": {
-        "name": "Loucona de Toddyn",
-        "url": "https://open.spotify.com/album/0OTEIZb8v2VfSKwLZ06MgD"
-      },
-      "artists": [
-        {
-          "name": "Mih",
-          "url": "https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj"
-        },
-        {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Loucona de Toddyn",
-      "url": "https://open.spotify.com/track/3ix7zsFUG6OAW7QMjZbgns"
-    },
-    {
-      "added_at": "2023-11-03 03:01:00",
-      "album": {
         "name": "Clich\u00ea",
         "url": "https://open.spotify.com/album/21EDTsmTC6wD7BKbOwE2bP"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 149131,
       "name": "Clich\u00ea",
       "url": "https://open.spotify.com/track/2P6d6hmkuYHnwGr9VX4XPH"
+    },
+    {
+      "added_at": "2023-11-03 03:01:00",
+      "album": {
+        "name": "Loucona de Toddyn",
+        "url": "https://open.spotify.com/album/0OTEIZb8v2VfSKwLZ06MgD"
+      },
+      "artists": [
+        {
+          "name": "Mih",
+          "url": "https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Loucona de Toddyn",
+      "url": "https://open.spotify.com/track/3ix7zsFUG6OAW7QMjZbgns"
     },
     {
       "added_at": "2023-11-03 03:01:00",

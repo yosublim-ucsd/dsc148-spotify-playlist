@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 83806,
+  "num_followers": 83900,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmJjZjRiNmQ1NjRkOTNiMjczYTg0YzUyYWYxZjY1Y2YwYjEyNDc3",
+  "snapshot_id": "MCw0MmJkOWQ1NTQ1Zjk0ZTZmYzQzZjJjYTVlOTg2OGU5NjY5NzYzMTY0",
   "tracks": [
     {
       "added_at": "2023-09-29 15:52:17",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
+        "name": "Random Forest",
+        "url": "https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T"
+      },
+      "artists": [
+        {
+          "name": "Random Forest",
+          "url": "https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia"
+        }
+      ],
+      "duration_ms": 327720,
+      "name": "Shadows Fall",
+      "url": "https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
         "name": "Cluster & Eno",
         "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 311600,
       "name": "Ho Renomo",
       "url": "https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
-        "name": "Random Forest",
-        "url": "https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T"
-      },
-      "artists": [
-        {
-          "name": "Random Forest",
-          "url": "https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia"
-        }
-      ],
-      "duration_ms": 327720,
-      "name": "Shadows Fall",
-      "url": "https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
+        "name": "Sacrifice & Isolation",
+        "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
+      },
+      "artists": [
+        {
+          "name": "Collapse Under The Empire",
+          "url": "https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY"
+        }
+      ],
+      "duration_ms": 311555,
+      "name": "What the Heart Craves For",
+      "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
         "name": "nothing is real, part XI",
         "url": "https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 366290,
       "name": "In Light",
       "url": "https://open.spotify.com/track/3de74WrhYh5VKf6t86acCb"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
-        "name": "Sacrifice & Isolation",
-        "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
-      },
-      "artists": [
-        {
-          "name": "Collapse Under The Empire",
-          "url": "https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY"
-        }
-      ],
-      "duration_ms": 311555,
-      "name": "What the Heart Craves For",
-      "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Into The Mountains",
-        "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
-      },
-      "artists": [
-        {
-          "name": "Dan Caine",
-          "url": "https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A"
-        }
-      ],
-      "duration_ms": 203012,
-      "name": "The Sun In The Trees",
-      "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Drifting Ever Shifting",
         "url": "https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5"
+        "name": "Into The Mountains",
+        "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
       },
       "artists": [
         {
-          "name": "The Aquaerials",
-          "url": "https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc"
+          "name": "Dan Caine",
+          "url": "https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A"
         }
       ],
-      "duration_ms": 364166,
-      "name": "Dust Bowl",
-      "url": "https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM"
+      "duration_ms": 203012,
+      "name": "The Sun In The Trees",
+      "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -907,6 +891,22 @@
       "duration_ms": 450666,
       "name": "Sailing to Byzantium",
       "url": "https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5"
+      },
+      "artists": [
+        {
+          "name": "The Aquaerials",
+          "url": "https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc"
+        }
+      ],
+      "duration_ms": 364166,
+      "name": "Dust Bowl",
+      "url": "https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1015,6 +1015,38 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
+        "name": "Succour (Redux)",
+        "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 393195,
+      "name": "Monastic",
+      "url": "https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "In Gardens",
+        "url": "https://open.spotify.com/album/354ugiF6zocDzbvq5jgSGm"
+      },
+      "artists": [
+        {
+          "name": "HOLM",
+          "url": "https://open.spotify.com/artist/1V45eg22S9YuA3rdgVPXKt"
+        }
+      ],
+      "duration_ms": 323395,
+      "name": "In Gardens",
+      "url": "https://open.spotify.com/track/104iLe9xEka0rgjZYrvZsa"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
         "name": "Enfold",
         "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
       },
@@ -1027,22 +1059,6 @@
       "duration_ms": 226760,
       "name": "Enfold",
       "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
-        "name": "Mockingbird Love",
-        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        }
-      ],
-      "duration_ms": 173853,
-      "name": "My Courtesan",
-      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Succour (Redux)",
-        "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
+        "name": "Mockingbird Love",
+        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
       },
       "artists": [
         {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
         }
       ],
-      "duration_ms": 393195,
-      "name": "Monastic",
-      "url": "https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL"
+      "duration_ms": 173853,
+      "name": "My Courtesan",
+      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1091,22 +1107,6 @@
       "duration_ms": 334866,
       "name": "Forever Rain",
       "url": "https://open.spotify.com/track/5eLUHTUUnkiIrDE3TgtgjA"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
-        "name": "In Gardens",
-        "url": "https://open.spotify.com/album/354ugiF6zocDzbvq5jgSGm"
-      },
-      "artists": [
-        {
-          "name": "HOLM",
-          "url": "https://open.spotify.com/artist/1V45eg22S9YuA3rdgVPXKt"
-        }
-      ],
-      "duration_ms": 323395,
-      "name": "In Gardens",
-      "url": "https://open.spotify.com/track/104iLe9xEka0rgjZYrvZsa"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
+        "name": "The Blurred Horizon",
+        "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
+      },
+      "artists": [
+        {
+          "name": "Tuesday The Sky",
+          "url": "https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "The Blurred Horizon",
+      "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/3AKrk1nvaTNAxwb17DEheV"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 262285,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/3iGE1kGYpyDTHVSVTS55os"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
-        "name": "The Blurred Horizon",
-        "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
-      },
-      "artists": [
-        {
-          "name": "Tuesday The Sky",
-          "url": "https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "The Blurred Horizon",
-      "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Love is a Shelter",
-        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3DpIliaV7VrcKNmf4DrgNd"
       },
       "artists": [
         {
-          "name": "All Stars Dying",
-          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
-        },
-        {
-          "name": "Make Like A Tree",
-          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
+          "name": "Olma",
+          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
         }
       ],
-      "duration_ms": 360006,
-      "name": "Love is a Shelter",
-      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
+      "duration_ms": 146117,
+      "name": "Mystik",
+      "url": "https://open.spotify.com/track/6HlZwaeJ51bkVTQICzKDKn"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1319,18 +1315,22 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "(not) alone",
-        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
+        "name": "Love is a Shelter",
+        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
       },
       "artists": [
         {
-          "name": "Johannes Baumer",
-          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
+          "name": "All Stars Dying",
+          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
+        },
+        {
+          "name": "Make Like A Tree",
+          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
         }
       ],
-      "duration_ms": 279197,
-      "name": "(not) alone",
-      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
+      "duration_ms": 360006,
+      "name": "Love is a Shelter",
+      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1347,6 +1347,22 @@
       "duration_ms": 171958,
       "name": "10",
       "url": "https://open.spotify.com/track/5URbMHeFpOmRGUDZHs01po"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "(not) alone",
+        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
+      },
+      "artists": [
+        {
+          "name": "Johannes Baumer",
+          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
+        }
+      ],
+      "duration_ms": 279197,
+      "name": "(not) alone",
+      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "As She Bends Towards the Sun",
-        "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
-      },
-      "artists": [
-        {
-          "name": "Teoay",
-          "url": "https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1"
-        }
-      ],
-      "duration_ms": 287388,
-      "name": "As She Bends Towards the Sun",
-      "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Songs to Disappear to",
         "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 257568,
       "name": "Old Moon",
       "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "As She Bends Towards the Sun",
+        "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
+      },
+      "artists": [
+        {
+          "name": "Teoay",
+          "url": "https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1"
+        }
+      ],
+      "duration_ms": 287388,
+      "name": "As She Bends Towards the Sun",
+      "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/3DpIliaV7VrcKNmf4DrgNd"
-      },
-      "artists": [
-        {
-          "name": "Olma",
-          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
-        }
-      ],
-      "duration_ms": 146117,
-      "name": "Mystik",
-      "url": "https://open.spotify.com/track/6HlZwaeJ51bkVTQICzKDKn"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Bloodsport",
         "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
       },
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Screen Time",
-        "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
+        "name": "Lakeshore",
+        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
       },
       "artists": [
         {
-          "name": "Thurston Moore",
-          "url": "https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs"
+          "name": "Lost Horse Mine",
+          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
         }
       ],
-      "duration_ms": 164453,
-      "name": "The Station",
-      "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
+      "duration_ms": 164589,
+      "name": "Lakeshore",
+      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Lakeshore",
-        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
+        "name": "Screen Time",
+        "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
       },
       "artists": [
         {
-          "name": "Lost Horse Mine",
-          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
+          "name": "Thurston Moore",
+          "url": "https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs"
         }
       ],
-      "duration_ms": 164589,
-      "name": "Lakeshore",
-      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
+      "duration_ms": 164453,
+      "name": "The Station",
+      "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Volcan",
-        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
-      },
-      "artists": [
-        {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Deliveries",
-      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Northwarder",
         "url": "https://open.spotify.com/album/43p0klhjyFgB5XOWqwsmku"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 211418,
       "name": "The Biting Air, the Howling Wind",
       "url": "https://open.spotify.com/track/3uVEwa1M8LSuDd6kR845SW"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
+      },
+      "artists": [
+        {
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Deliveries",
+      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
     },
     {
       "added_at": "2023-09-29 15:52:17",

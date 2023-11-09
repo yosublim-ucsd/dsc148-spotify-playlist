@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 453581,
+  "num_followers": 453587,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzM1ZTAxZWU3NjY2ZTkyMDEyNmU0NjJmZDcyNjI0ZjZhMDE5OGIw",
+  "snapshot_id": "MCxmYjliZjBkODZlYjRhYmUwOWViZTI0ZTBhZGFlNGRlZDI0Nzg3MWNi",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 165120,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Talk Too Much",
+        "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Talk Too Much",
-        "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
-      },
-      "artists": [
-        {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "555",
         "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 148538,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Corolla 94",
+        "url": "https://open.spotify.com/album/0ntx5OUeKXWlmEiXHh7jXN"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 201176,
+      "name": "Corolla 94",
+      "url": "https://open.spotify.com/track/2n9rhvlYHPaMEFOmw5Y1QX"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -819,22 +835,6 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Corolla 94",
-        "url": "https://open.spotify.com/album/0ntx5OUeKXWlmEiXHh7jXN"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 201176,
-      "name": "Corolla 94",
-      "url": "https://open.spotify.com/track/2n9rhvlYHPaMEFOmw5Y1QX"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Por qu\u00e9 te quiero tanto?",
-        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 231109,
-      "name": "Por qu\u00e9 te quiero tanto?",
-      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 218479,
       "name": "No S\u00e9 (feat. Girl Ultra)",
       "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Por qu\u00e9 te quiero tanto?",
+        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 231109,
+      "name": "Por qu\u00e9 te quiero tanto?",
+      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Hasta Que T\u00fa Me Quieras",
-        "url": "https://open.spotify.com/album/3nfX5TcvGZzpuG28qO1rbs"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 235013,
-      "name": "Hasta Que T\u00fa Me Quieras",
-      "url": "https://open.spotify.com/track/2hpIeSPVeZwDdwMPSRK0ti"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/056KBSR2KBMankHXTbizsL"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 175470,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Hasta Que T\u00fa Me Quieras",
+        "url": "https://open.spotify.com/album/3nfX5TcvGZzpuG28qO1rbs"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 235013,
+      "name": "Hasta Que T\u00fa Me Quieras",
+      "url": "https://open.spotify.com/track/2hpIeSPVeZwDdwMPSRK0ti"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1115,6 +1115,26 @@
       "duration_ms": 182320,
       "name": "D\u00edas Negros",
       "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
+        "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 167753,
+      "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
+      "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1219,26 +1239,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
-        "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 167753,
-      "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
-      "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Pelo Negro",
         "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
       },
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 153132,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 279840,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 153132,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "buena vista!",
-        "url": "https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv"
-      },
-      "artists": [
-        {
-          "name": "Ariel & The Culture",
-          "url": "https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4"
-        }
-      ],
-      "duration_ms": 175007,
-      "name": "t\u00fa y yo",
-      "url": "https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "jard\u00edn de flores",
         "url": "https://open.spotify.com/album/2idEQxQV3mza8cCtCZQbW2"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 199523,
       "name": "jard\u00edn de flores",
       "url": "https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "buena vista!",
+        "url": "https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv"
+      },
+      "artists": [
+        {
+          "name": "Ariel & The Culture",
+          "url": "https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4"
+        }
+      ],
+      "duration_ms": 175007,
+      "name": "t\u00fa y yo",
+      "url": "https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1427,18 +1427,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "CARISMA",
-        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
       },
       "artists": [
         {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
+      "duration_ms": 210763,
+      "name": "NO TE ALEJES",
+      "url": "https://open.spotify.com/track/3x5uBmNaBtm8l843nO15P1"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1459,6 +1463,22 @@
       "duration_ms": 178285,
       "name": "Fugaz",
       "url": "https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "CARISMA",
+        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1527,26 +1547,6 @@
       "duration_ms": 181910,
       "name": "Un Animal (Divina Existencia)",
       "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        },
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 210763,
-      "name": "NO TE ALEJES",
-      "url": "https://open.spotify.com/track/3x5uBmNaBtm8l843nO15P1"
     },
     {
       "added_at": "2023-10-27 04:00:00",

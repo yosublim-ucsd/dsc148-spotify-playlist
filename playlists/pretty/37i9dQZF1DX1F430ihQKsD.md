@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Busty and the Bass
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,736 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,767 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 45 | [Espoir](https://open.spotify.com/track/0znL4gWKujsTEvn9dj20ZG) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Souvenirs](https://open.spotify.com/album/6aqa8GOrqhN63ac0NygKvi) | 2:54 |
 | 46 | [Poem \#2](https://open.spotify.com/track/3VwZnKXI8wSNUxDP2pHPJh) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Poem \#2](https://open.spotify.com/album/0bPJLBHHf4CFfTjE1VOwud) | 3:52 |
 | 47 | [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 |
-| 48 | [Manteau d'ardoise](https://open.spotify.com/track/7E4auyJcpWwOAJPJUsIo6h) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Manteau d'ardoise](https://open.spotify.com/album/1p7Jqg1d1gI8dAJWCk8Tfh) | 10:00 |
+| 48 | [Manteau d'ardoise](https://open.spotify.com/track/7GHFXRGBr12mXbgBqbZ7CE) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [L'heure des fontaines](https://open.spotify.com/album/2bjM6zDrQDanqa1AGX2QWA) | 10:00 |
 | 49 | [Combien ça coûte](https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Combien ça coûte](https://open.spotify.com/album/4K1UtFvw0FZPItqqW11rG6) | 2:43 |
 | 50 | [You can have it all](https://open.spotify.com/track/62ciFxmwDZB4O3ZHu9rTrq) | [Or Bleu](https://open.spotify.com/artist/1UZOfkZHdPNjus7591XY2G), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Beaucoup](https://open.spotify.com/album/5Lpgfnms4qU0uwtTDGBetH) | 2:37 |
 | 51 | [Central Park La Fontaine](https://open.spotify.com/track/4sKRzvs3WsNQSyCOivbiSl) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Central Park La Fontaine](https://open.spotify.com/album/1ivGuq5opyNFHIrm3cv7gl) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Mieux que rien](https://open.spotify.com/track/2ThckaIohgGpUHiG87yObp) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Mieux que rien](https://open.spotify.com/album/4t1WcLs8gT4RlqptceZk6L) | 4:49 |
 | 100 | [Almost Lost You](https://open.spotify.com/track/0MipSSCvBt5vFU1bGlOJXw) | [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9) | [Almost Lost You](https://open.spotify.com/album/0XxfQHSabJLZtrkGGLMiTN) | 3:47 |
 
-Snapshot ID: `MCxkYmI2ZTZkY2YzNzU2OGZmNTFiNjcwOTYyNmUwYjIwMmJhNDM0NGY1`
+Snapshot ID: `MCwzMGRkYmFkYjlhOWE2ZGI4YTgzNmE3NGM0YjU4OTkyYjlhMDZkY2Q1`

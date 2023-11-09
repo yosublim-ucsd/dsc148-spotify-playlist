@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,662 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,711 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 37 | [Valicha](https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I) | [Sentimiento Andino](https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs) | [Caminando Y Cantando](https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI) | 3:35 |
 | 38 | [El Pio, Pio](https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Huaylash Pio Pio](https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO) | 3:39 |
 | 39 | [Chall Huaschallay](https://open.spotify.com/track/756FMK950mmLA7hFN05QT2) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Huayno, Vol\. 1](https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P) | 2:39 |
-| 40 | [Dónde Está tu Dinero](https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo) | [Alicia Delgado](https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW) | [La princesa del Folklore](https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR) | 4:30 |
-| 41 | [Nuestra Promesa](https://open.spotify.com/track/2z6PQ65b5pTBnI8lqMMwrR) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw), [Magaly Solier](https://open.spotify.com/artist/2XftZLqhgVPUlCn4g0uBZ6) | [Nuestra Promesa](https://open.spotify.com/album/1y5FGSrv0xgzhqJRSkvFob) | 4:50 |
-| 42 | [Linda Warmisitay](https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4) | [Yawar](https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW) | [De Colores](https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00) | 4:14 |
+| 40 | [Linda Warmisitay](https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4) | [Yawar](https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW) | [De Colores](https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00) | 4:14 |
+| 41 | [Dónde Está tu Dinero](https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo) | [Alicia Delgado](https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW) | [La princesa del Folklore](https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR) | 4:30 |
+| 42 | [Nuestra Promesa](https://open.spotify.com/track/2z6PQ65b5pTBnI8lqMMwrR) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw), [Magaly Solier](https://open.spotify.com/artist/2XftZLqhgVPUlCn4g0uBZ6) | [Nuestra Promesa](https://open.spotify.com/album/1y5FGSrv0xgzhqJRSkvFob) | 4:50 |
 | 43 | [Benditas las Madres](https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 3:01 |
 | 44 | [Juntito a Ti](https://open.spotify.com/track/7nPN1YXRgC737Z5W0FM0G9) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Lejos de Ti](https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7) | 5:16 |
-| 45 | [Profesorita](https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7) | [Los Campesinos](https://open.spotify.com/artist/4Y6bDQ3ZuNk1IcX4FmdrBZ) | [Grandes Exitos](https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE) | 2:51 |
-| 46 | [Mi Linda Niña](https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH) | [Mario Mendoza](https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ) | [Lo Mejor del Incomparable...Mario Mendoza](https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw) | 2:43 |
+| 45 | [Mi Linda Niña](https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH) | [Mario Mendoza](https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ) | [Lo Mejor del Incomparable...Mario Mendoza](https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw) | 2:43 |
+| 46 | [Profesorita](https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7) | [Los Campesinos](https://open.spotify.com/artist/4Y6bDQ3ZuNk1IcX4FmdrBZ) | [Grandes Exitos](https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE) | 2:51 |
 | 47 | [Serenata Condemayta](https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx) | 2:53 |
 | 48 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 |
 | 49 | [Granadita](https://open.spotify.com/track/7KU47DKSR3mZVPCHYoQnQw) | [Tupay](https://open.spotify.com/artist/0AMd5Lv1a9CTAdLfbIkf8F) | [Folklore](https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h) | 3:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 59 | [Carrito del Gobierno](https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 2:40 |
 | 60 | [Para Ti Pucarinita](https://open.spotify.com/track/4aoxRYIWNE4uLg5VKa23I8) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Huaylash Macho](https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz) | 3:47 |
 
-Snapshot ID: `MCwyODk4MzEwYTg5MzRmZjE1ZGFiOTczNDRmNDIzMTYwNTg1Y2U4MDk3`
+Snapshot ID: `MCwwNDA2MjFjNzNmOWU5MTMwODk1Yjg5MjVlZTY3ODgxM2QwYzVkOGNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Junior H en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,031 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,124 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 39 | [Uno mas Uno Igual a Zero](https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Uno Mas Uno Igual A Zero](https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL) | 2:39 |
 | 40 | [Amor](https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Amor](https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd) | 4:41 |
 | 41 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 |
-| 42 | [Por Clave Caiman](https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Por Clave El Caiman](https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g) | 2:38 |
+| 42 | [Perfecta](https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [Las Pacas](https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX) | 4:41 |
 | 43 | [Brillo](https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:34 |
-| 44 | [Perfecta](https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [Las Pacas](https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX) | 4:41 |
+| 44 | [Por Clave Caiman](https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Por Clave El Caiman](https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g) | 2:38 |
 | 45 | [Cuando Tú Me Miras](https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:35 |
 | 46 | [La Bolsa Gucci](https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Bolsa Gucci](https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C) | 2:16 |
 | 47 | [Si Me Ven](https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Si Me Ven](https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r) | 2:54 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 110 | [Los Envidiosos](https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Los Envidiosos](https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL) | 3:01 |
 | 111 | [Y Yo Voy](https://open.spotify.com/track/1ld0TsEKmNTl3FptSEu0dI) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Y Yo Voy](https://open.spotify.com/album/7qnA2gzuQmvSI07ddFCiIu) | 2:57 |
 | 112 | [Te Encontré \- En Vivo](https://open.spotify.com/track/5MyH0HWPtx6Ua7IVdCsrjE) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Amor y Dolor \(En Vivo\)](https://open.spotify.com/album/07MjejZluBKxlicNhE0WMq) | 3:14 |
-| 113 | [Aguanta Corazón](https://open.spotify.com/track/7iUHkEl7p5ooN0Kq2IrmwH) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Fantasma Sin Limites](https://open.spotify.com/album/20DBzLmBV3sbpgST1u1575) | 2:53 |
-| 114 | [Falta de Química](https://open.spotify.com/track/3MuDbrQKyn0MzBlWjQyr4q) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Falta de Química](https://open.spotify.com/album/3MtbsSNUXZBC8WGGsdSIRS) | 3:42 |
+| 113 | [Falta de Química](https://open.spotify.com/track/3MuDbrQKyn0MzBlWjQyr4q) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Falta de Química](https://open.spotify.com/album/3MtbsSNUXZBC8WGGsdSIRS) | 3:42 |
+| 114 | [Aguanta Corazón](https://open.spotify.com/track/7iUHkEl7p5ooN0Kq2IrmwH) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Fantasma Sin Limites](https://open.spotify.com/album/20DBzLmBV3sbpgST1u1575) | 2:53 |
 | 115 | [A 180](https://open.spotify.com/track/4R5boTls8v2TvV88wv0dCz) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [A 180](https://open.spotify.com/album/5CBwX2peGRvpXpNDo6q7V4) | 3:01 |
 | 116 | [Lo Que Construimos](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 117 | [Quién Se Apunta](https://open.spotify.com/track/5Dkh7EU3hI96fawhX1OE1n) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Quién Se Apunta](https://open.spotify.com/album/0K96amjgXLbldWdd3tDrjO) | 3:13 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 124 | [Ando Triste](https://open.spotify.com/track/2NSr6ZIecxwvuLuMZIyQpm) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Ando Triste](https://open.spotify.com/album/0QGvhNBMCUs4UKSyHUSdyW) | 2:40 |
 | 125 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 |
 
-Snapshot ID: `MCxmOWYzMzEwYTA5Y2ZmMGFkOGZiMzQwZDdhMjY0YzNiNmUzOWU0OWY3`
+Snapshot ID: `MCw5MzhiOTJjODdkMGZjMGI3MjhlNzA1NWQ2M2YzMTYwYTlkZDY3ODY4`

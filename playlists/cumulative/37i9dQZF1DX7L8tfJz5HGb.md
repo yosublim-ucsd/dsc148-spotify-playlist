@@ -4,7 +4,7 @@
 
 > Enjoy the Weverse Con Festival 2023 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 위버스 콘 페스티벌 2023 LIVE SET을 즐겨보세요!\)
 
-171 songs - 9 hr 32 min
+172 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [Tribute speech from MIDNATT](https://open.spotify.com/track/2Veqo40XxlJAMhc0C7ejw9) | [MIDNATT](https://open.spotify.com/artist/1gfsloydrPP6CvkltAHUTd) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 1:52 | 2023-06-23 |  |
 | [Tribute speech from XIA](https://open.spotify.com/track/7FnFuyWc13VDGnafaPqJHv) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 3:00 | 2023-06-23 |  |
 | [true colors](https://open.spotify.com/track/1OmIb0rOyZWdZ2bu0p9Fwa) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [lost](https://open.spotify.com/album/131Eo9LOhFcv05gClAIpCT) | 3:44 | 2023-06-01 | 2023-06-24 |
-| [Turtle Ship \(feat\. G2, B\-Free, Okasian & ZICO\) \- Remix Version](https://open.spotify.com/track/4I5po5l2a2KeUfEI3xhmY7) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Turtle Ship](https://open.spotify.com/album/5QQvwOHGq54quW34DV6Qxn) | 4:40 | 2023-06-23 |  |
+| [Turtle Ship \(Feat\. G2, B\-Free, Okasian & ZICO\) \- Remix Version](https://open.spotify.com/track/41oduPJNrnq4SZlkQmjf5N) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Turtle Ship \(Feat\. G2, B\-Free, Okasian & ZICO\) \[Remix Version\]](https://open.spotify.com/album/1arOVJRtpyPFpAIkc8RRuU) | 4:40 | 2023-06-26 |  |
+| [Turtle Ship \(feat\. G2, B\-Free, Okasian & ZICO\) \- Remix Version](https://open.spotify.com/track/4I5po5l2a2KeUfEI3xhmY7) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Turtle Ship](https://open.spotify.com/album/5QQvwOHGq54quW34DV6Qxn) | 4:40 | 2023-06-23 | 2023-11-09 |
 | [Under the skin](https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Under the skin](https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K) | 3:11 | 2023-06-01 | 2023-06-24 |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-06-01 |  |
 | [Universe](https://open.spotify.com/track/3405IqUnA0hudruF9yTpqG) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Universe](https://open.spotify.com/album/0nL58v8QzssCRKopDDRSqd) | 3:21 | 2023-06-23 |  |

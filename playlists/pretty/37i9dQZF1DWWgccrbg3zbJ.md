@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,344 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,761 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 26 | [Samba De Uma Nota Só](https://open.spotify.com/track/1CKhZVUyHhXKtN6Bo68xqq) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Inédito](https://open.spotify.com/album/2A8A15YTJJEXGUNAJRKMPW) | 3:00 |
 | 27 | [Chega de Saudade](https://open.spotify.com/track/7jcLeqojncPZAFh2VUO7mD) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 2:03 |
 | 28 | [Insensatez](https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [O Melhor da Parceria](https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz) | 2:40 |
-| 29 | [Brigas Nunca Mais](https://open.spotify.com/track/3SkLW48Xt2knevezFTs0pY) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 1:42 |
+| 29 | [Este Seu Olhar](https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara Dez Anos Depois](https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd) | 2:32 |
 | 30 | [Vivo Sohando \- Stereo Version](https://open.spotify.com/track/6bGoOBQ8bAorlQ5LoEOdiG) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:56 |
-| 31 | [Este Seu Olhar](https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara Dez Anos Depois](https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd) | 2:32 |
+| 31 | [Brigas Nunca Mais](https://open.spotify.com/track/3SkLW48Xt2knevezFTs0pY) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 1:42 |
 | 32 | [Bluchanga](https://open.spotify.com/track/2hJdrboSGU5cXyrYanuqza) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Bluchanga](https://open.spotify.com/album/2FVxlH0rwcQiNbdvF620Xo) | 4:26 |
 | 33 | [Samba Do Aviao \- Live](https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Rio Revisited](https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd) | 3:23 |
 | 34 | [Outra Vez](https://open.spotify.com/track/31qmV57ho2T38s9fB1xiuJ) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW) | [Canção do Amor Demais](https://open.spotify.com/album/416m16l0FUDAkyckFQRJqn) | 1:53 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 64 | [Rosa Morena](https://open.spotify.com/track/2lUwmS0xS6X1JelcbzWNFI) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 2:06 |
 | 65 | [Pra Que Discutir Com Madame? \- Live](https://open.spotify.com/track/66nRcgioGhlcdlhUhUWpND) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Summer Samba! \- João Gilberto](https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc) | 6:01 |
 
-Snapshot ID: `MCxlNzY4NDczMWE3ODE2N2FkZmY2OTdjZjcyMjMxMzZmYjZkYmJiZmFi`
+Snapshot ID: `MCw5ZWVlYTBmMDRhYTE4MGM0ZDEzMDBkNWJkYmY1ZDI3YjQ0OTI1YTVh`

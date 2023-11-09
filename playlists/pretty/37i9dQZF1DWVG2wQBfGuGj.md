@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,481 likes - 168 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,535 likes - 168 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 153 | [delusion](https://open.spotify.com/track/18eyp5yPA0eyuSzcMt5WXb) | [Yim](https://open.spotify.com/artist/79EyYkNpcR3MlT972PZoUc) | [delusion](https://open.spotify.com/album/2GB4a6t2Ly9fBUfrelTSKs) | 3:48 |
 | 154 | [The Hamptons](https://open.spotify.com/track/0mfXh24MxeIm3kIJ9gDDOp) | [Schwarz & Funk](https://open.spotify.com/artist/5tOiT7pdFoQN3hf2OWj2fv) | [The Hamptons](https://open.spotify.com/album/7rCpLRT2NW2mEf8blkCkgs) | 3:00 |
 | 155 | [Another Day](https://open.spotify.com/track/4lbgrO7sGhdLx8UM28lHa1) | [Tim Olsson](https://open.spotify.com/artist/3efoFjvdNKj8La91WgFA1j) | [Another Day](https://open.spotify.com/album/6pWv9L9GIK68UUyQV72rQW) | 2:36 |
-| 156 | [Sleepless](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Sleepless](https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9) | 2:45 |
+| 156 | [Sleepless](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Sleepless](https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9) | 2:45 |
 | 157 | [The man from Belvedere](https://open.spotify.com/track/1FejRJLhghkDcEEoxDpA6s) | [KaeL Juno](https://open.spotify.com/artist/3C2WXVThyB23oE9HICCnux) | [The man from Belvedere](https://open.spotify.com/album/3gl6i7N9soagDkaOrImZVk) | 2:54 |
 | 158 | [GET UP](https://open.spotify.com/track/4PTetq6Z4Cc303H1NirgC4) | [VE MODET](https://open.spotify.com/artist/6rdjLu0a5ZWIDkSttlY2SW) | [GET UP](https://open.spotify.com/album/0uRWrXQ3kQ7Sw9smm9OA4r) | 2:36 |
 | 159 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 167 | [Natural High](https://open.spotify.com/track/0MipaVV2aqz544mFEehXaB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 4:58 |
 | 168 | [Paloma](https://open.spotify.com/track/549JBVNjLZt5BN6qfphBbQ) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Paloma](https://open.spotify.com/album/04mofxzUHsD7zVCAKzbpWu) | 2:37 |
 
-Snapshot ID: `MCxiNjk0ZmRlNTA3MDA5YWQ4NjY3NjdjZmU3MmFlNGMxN2QyY2M5YWQ3`
+Snapshot ID: `MCwwNDc1NWU3ODQyZWE4NGYxMzBiMGNjYzBkMTZhZTBmY2I0MDE0Y2Rk`

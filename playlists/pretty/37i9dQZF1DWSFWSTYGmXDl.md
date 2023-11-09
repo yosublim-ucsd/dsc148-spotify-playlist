@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,367 likes - 111 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,495 likes - 111 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 110 | [Alone On Christmas Eve](https://open.spotify.com/track/7bzSuLGzLwcEhfAi5FjliA) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Alone On Christmas Eve](https://open.spotify.com/album/4CtHrZwvJqIm13Naqpim0S) | 3:45 |
 | 111 | [The Dream Of Christmas](https://open.spotify.com/track/4ocBbhGJ8mvnEz6OXbVa27) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [The Dream of Christmas](https://open.spotify.com/album/79AQ93mdfqoaRrCQuYYeLq) | 3:32 |
 
-Snapshot ID: `MCxlOTNmNmU2YTMwMTUwMmJkZjRhYzEwYzlmODc4OWIzZTNjOTlkMTUw`
+Snapshot ID: `MCwwNDA3NjJlYzE5ZGQ2ZWUyOWYxYWMzNGNkMzg4OWE5NTJlMDZjZjcy`

@@ -3427,6 +3427,24 @@
     },
     {
       "album": {
+        "name": "Philharmonics",
+        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228546,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
+    },
+    {
+      "album": {
         "name": "Hundred Acres",
         "url": "https://open.spotify.com/album/7J2oRTfH14BbakDbmqMgiM"
       },
@@ -4098,7 +4116,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 196973,
       "name": "The Mother",
       "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"

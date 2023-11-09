@@ -4,7 +4,7 @@
 
 > The best soft rock from the 1970s\. Cover: Styx
 
-230 songs - 15 hr 37 min
+231 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [I'd Have You Anytime \- Remastered 2014](https://open.spotify.com/track/0wZuvGn7nZbKoyKOlwZQMF) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 2:57 | 2021-11-23 | 2023-02-19 |
 | [I'd Love You to Want Me](https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [Of A Simple Man](https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u) | 4:07 | 2021-11-23 |  |
 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2) | 2:39 | 2023-03-29 |  |
+| [I'll Have to Say I Love You in a Song](https://open.spotify.com/track/6UcbxO3C7bgwkjjVdFxqim) | [Ekin Cheng](https://open.spotify.com/artist/2DNe29u3NiB7u8k8RS5IuD) | [初夏之戀](https://open.spotify.com/album/1SlXTGrq3PAkRlCFQUJkAl) | 2:32 | 2023-03-29 |  |
 | [I'll Have To Say I Love You In A Song](https://open.spotify.com/track/4t8tx6o7oM6Ax66ZUU361y) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [I Got a Name](https://open.spotify.com/album/4ieaeNOAdq6VoYQrY0hkhq) | 2:34 | 2023-03-29 | 2023-11-04 |
 | [I'm Not In Love](https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj) | 6:06 | 2021-11-23 | 2023-03-30 |
 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 | 2021-11-23 |  |
@@ -98,7 +99,7 @@
 | [Junk \- Remastered 2011](https://open.spotify.com/track/4zkVFDUVmZpib8E1z4c4Sa) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney](https://open.spotify.com/album/24lX0YfUlQfqb2T2GioLji) | 1:55 | 2021-11-23 | 2022-07-29 |
 | [Just a Song Before I Go](https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 2:13 | 2022-07-05 |  |
 | [Just Another Nervous Wreck \- 2010 Remastered](https://open.spotify.com/track/6o8nZVzweaEOLDLOgaogX5) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:25 | 2021-11-23 | 2023-03-30 |
-| [Just Remember I Love You](https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Luna Sea](https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75) | 3:16 | 2023-03-29 |  |
+| [Just Remember I Love You](https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Luna Sea](https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75) | 3:16 | 2023-03-29 | 2023-11-09 |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Pat Garrett & Billy The Kid \(Soundtrack From The Motion Picture\)](https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL) | 2:29 | 2021-11-23 | 2023-03-30 |
 | [Lady](https://open.spotify.com/track/0nPE9ko1pKiKDzuDcC0b40) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Greatest Hits](https://open.spotify.com/album/5OajcRNtdKugFqYgIsEkRY) | 4:54 | 2021-11-23 | 2022-10-20 |
 | [Lady \- Remastered 2022](https://open.spotify.com/track/23TrwDkYnBPea6i6FPd6Wd) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:49 | 2021-11-23 |  |

@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Lenny Tavárez
 
-326 songs - 19 hr 3 min
+327 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [El Jala Jala \- Remix](https://open.spotify.com/track/5FAKHrmhsggTdqyCtML3u6) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [El Jala Jala \(Remix\)](https://open.spotify.com/album/2Y9QFIbAvw7w9q46GBhXzf) | 2:42 | 2022-01-28 | 2022-06-30 |
 | [El Malecón Vio el Final](https://open.spotify.com/track/6tx5V273Y6muqSkOTiyZEj) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D), [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa) | [El Malecón Vio el Final](https://open.spotify.com/album/0cXowypQNuZ8P4t5NmVmAV) | 4:33 | 2022-03-25 | 2022-06-30 |
 | [El Me Mintio](https://open.spotify.com/track/7wu15FnrKjvMP3GXANoo2f) | [Jae Camilo](https://open.spotify.com/artist/40S2INZWrAhcI6NlpY7mwC) | [El Me Mintio](https://open.spotify.com/album/5rcxrwf0ngHnF2WSxuPVwp) | 3:05 | 2022-03-25 | 2022-06-30 |
-| [El Merengue](https://open.spotify.com/track/6lpGP2JvV7grJ8LBZ5obQS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:09 | 2023-03-24 |  |
+| [El Merengue](https://open.spotify.com/track/6lpGP2JvV7grJ8LBZ5obQS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:09 | 2023-03-24 | 2023-11-09 |
 | [el paso](https://open.spotify.com/track/6nu7Fpg5sarNYs8ElOozRQ) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [el paso](https://open.spotify.com/album/5QBjcz2tdsRVsmPtmg8h5Z) | 3:05 | 2023-08-11 | 2023-11-04 |
 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 | 2023-04-28 |  |
 | [EL YATE \(feat\. Sergio George\) \- Versión Salsa](https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [EL YATE \(feat\. Sergio George\) \[Versión Salsa\]](https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1) | 3:13 | 2023-10-27 |  |
@@ -141,6 +141,7 @@
 | [Hipnotizados](https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Hipnotizados](https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7) | 2:22 | 2023-03-24 |  |
 | [Hoy en Dia](https://open.spotify.com/track/19z37VNtPVvo0HzXxkdCsn) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Hoy en Dia](https://open.spotify.com/album/6LaKlyiwH8L2DH49eGXBgu) | 3:46 | 2022-03-04 | 2022-06-30 |
 | [Incomparable \(feat\. El Revulú\)](https://open.spotify.com/track/65MT3EZxqOxnLhiGo9VqIe) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7), [El Revulú](https://open.spotify.com/artist/7K1bbLxw75tGqQXDjByXNs) | [Las Salsas](https://open.spotify.com/album/4mkfaIk2LDSQwRaxz7osID) | 2:53 | 2023-02-10 | 2023-02-25 |
+| [Incomprendido](https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Incomprendido](https://open.spotify.com/album/1QquGCJr1NtfXM1quq6qAw) | 2:59 | 2023-11-03 |  |
 | [inexplorado](https://open.spotify.com/track/2fXu56oDbvq1DWP6ZFlHVI) | [Savi](https://open.spotify.com/artist/1Evvp2uRCiq188dEeyUvpP) | [TUNES](https://open.spotify.com/album/72kTLeYTpvRgwJxUYUb8t8) | 2:48 | 2022-03-04 | 2022-06-30 |
 | [JotaBé](https://open.spotify.com/track/3CrTrdgbJQl6NWUBTsLyYd) | [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [JotaBé](https://open.spotify.com/album/037Atxwv4mxxFRXM4564RS) | 2:47 | 2023-07-28 | 2023-09-06 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-06-29 | 2023-05-13 |

@@ -4,7 +4,7 @@
 
 > Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Sleepy Hallow
 
-102 songs - 5 hr 5 min
+103 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Highs & Lows](https://open.spotify.com/track/1jrjUPWrfMw8RBbZ9PlX0W) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9), [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Highs & Lows](https://open.spotify.com/album/3SNsgXJZISh5mWsElUjRZ6) | 2:04 | 2023-09-22 |  |
 | [Hometown](https://open.spotify.com/track/09aJ1FZotZStzoUgJchhwf) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Kush](https://open.spotify.com/artist/3zBZhGMFBeqdhCdJB60a5g), [Akz](https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o), [YF](https://open.spotify.com/artist/4qRbNvzOP9UxQIqOIbJMUb), [Kash](https://open.spotify.com/artist/1wDiHQM5CoaSnHrNP3HG5V) | [M.A.R.K](https://open.spotify.com/album/64eGGtowHL74uQ4MnIMZri) | 6:02 | 2023-09-22 | 2023-11-03 |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-09-28 |  |
-| [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-10-19 |  |
+| [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-10-19 | 2023-11-09 |
 | [ILL WHAT I BLEED](https://open.spotify.com/track/2k8JxnsUCkaxpE50KTGFHn) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [ILL WHAT I BLEED](https://open.spotify.com/album/13qwsJ7ZhrTSPJLN8nhBCH) | 2:53 | 2023-10-26 |  |
 | [In My Head](https://open.spotify.com/track/6fCiV4Va30fsGJRzmydwT2) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG) | [In My Head](https://open.spotify.com/album/2rGjY3rlkDMvI9clmlxWgo) | 2:55 | 2023-09-22 | 2023-11-03 |
 | [In Ya City \(feat\. Arz\)](https://open.spotify.com/track/0XpMPVilzy675zPWVvj3Pl) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [In Ya City \(feat\. Arz\)](https://open.spotify.com/album/6nmMiiuzDkpcdKI6uOLZhz) | 2:36 | 2023-09-22 | 2023-11-03 |
@@ -106,6 +106,7 @@
 | [Us Against the World](https://open.spotify.com/track/4TaS4giQQK01vKzBB40AEY) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Us Against the World](https://open.spotify.com/album/5m2xRmSB1D30YZHDHr8556) | 2:19 | 2023-09-22 |  |
 | [We Ride](https://open.spotify.com/track/0ZndP0d6W6ICRmSlKgMiS4) | [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe) | [We Ride](https://open.spotify.com/album/54BeNq6d1lkoLM8foqjx9k) | 3:07 | 2023-09-22 |  |
 | [WE SEE YOU](https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [WE SEE YOU](https://open.spotify.com/album/1cjqc70Mk83ImBsBPQ7Qix) | 2:22 | 2023-10-26 |  |
+| [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF) | 3:19 | 2023-11-08 |  |
 | [Why Would I?](https://open.spotify.com/track/5IN2qvFpISNge4Bed3fJz4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Why Would I?](https://open.spotify.com/album/2lAvIgCeAzIgdjJHLjuBt5) | 1:59 | 2023-10-05 | 2023-10-27 |
 | [Winner](https://open.spotify.com/track/2EsD0WwgZ3ZxbrDbGkZZyS) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [A Gift & A Kers](https://open.spotify.com/album/50NMkihJxtR4jaTddZKqkS) | 3:33 | 2023-09-22 | 2023-09-29 |
 | [WOO \[Feat\. PlayThatBoiZay, Chief Pound\]](https://open.spotify.com/track/4RjLOOdis03Tfu8rpcnUBu) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [Chief Pound](https://open.spotify.com/artist/6LaTLiY08GpquuOk8433Wb) | [SKED \[Feat\. Kenny Mason\]](https://open.spotify.com/album/3ECd3BfxdM6KTjoYpITN0R) | 3:01 | 2023-10-06 | 2023-11-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 
 > El sonido experimental del Caribe 🌴🦀⚛️
 
-[Spotify](https://open.spotify.com/user/spotify) - 418 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 419 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 | 30 | [El Futuro Ya Pasó \(feat\. iLe\)](https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 3:08 |
 | 31 | [Agua Que Quema](https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:19 |
 | 32 | [Babylon Will Fall](https://open.spotify.com/track/2t8F5RetPO9gKWAUKoQjcI) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [At 333 House](https://open.spotify.com/album/1ZoJQSxfZempYe5j2auBLh) | 3:06 |
-| 33 | [Crónico](https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Crónico](https://open.spotify.com/album/0TO7obZfq3fJWuorgrTUae) | 3:01 |
+| 33 | [Bajito a selva](https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp), [Los Misterios](https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj) | [El Juidero](https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj) | 4:59 |
 | 34 | [Déjame Decirte \(feat\. Eddie Palmieri\)](https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 5:23 |
 | 35 | [El arca de Mima](https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw) | [El arca de Mima](https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n) | 4:22 |
-| 36 | [Bajito a selva](https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp), [Los Misterios](https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj) | [El Juidero](https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj) | 4:59 |
+| 36 | [Crónico](https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Crónico](https://open.spotify.com/album/0TO7obZfq3fJWuorgrTUae) | 3:01 |
 | 37 | [NTE](https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:51 |
 | 38 | [Yo Sé Que Tú Me Conoces](https://open.spotify.com/track/3H2VzqCdBQCJ5I0Zd8iUlp) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 4:18 |
 | 39 | [Heart Full of Love](https://open.spotify.com/track/0GKfAI5sNpbv1ALYiPgbU0) | [ÌFÉ](https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF) | [0000+0000](https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 | 49 | [Nice & Easy](https://open.spotify.com/track/7G01Y33GZ4IA2BJMoGtWTt) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE), [Gomba Jahbari](https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c) | [Nice & Easy](https://open.spotify.com/album/5O9Q89o5XsnZB2wT7qO7Nk) | 3:36 |
 | 50 | [Miedo](https://open.spotify.com/track/5O5uV0ywfQ4Hl1LVyHdJp7) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Mandinga Times](https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6) | 3:31 |
 
-Snapshot ID: `MCwxNzlmN2EyYTExMjBiZjY3MGU0OGNiZjdjZGI1NTk1NThjY2FlMDNm`
+Snapshot ID: `MCw3ZDhiZGMwYWFmZjcwMjEyOTFjNThiZTE3N2U1Mjg2MmUyOGFhMzhi`

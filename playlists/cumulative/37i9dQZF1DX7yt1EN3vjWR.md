@@ -4,7 +4,7 @@
 
 > 【全セットリスト公開！特別インタビューも】国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>。2023年5月27日\(土\)、5月28日\(日\)に幕張メッセで二日間開催！
 
-266 songs - 14 hr 45 min
+267 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Ghost Town](https://open.spotify.com/track/0SP8m5JqXMzf2s6xKl47sf) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Cool Kids](https://open.spotify.com/album/2kvpjbQNiHfjqeJpsuPvKE) | 2:37 | 2023-06-07 |  |
 | [GILA GILA](https://open.spotify.com/track/7AsWduh1mkB8uKOox5NH0X) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 4:13 | 2023-06-07 |  |
 | [Give You the World](https://open.spotify.com/track/07bYL5vBc46wZiVIZn6FdL) | [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez) | [Give You the World](https://open.spotify.com/album/6bxWcYnAqmU1aaGHEs2cA1) | 3:02 | 2023-06-07 |  |
-| [GO DJ \-Hey Daddy\-](https://open.spotify.com/track/4z0KvxFBl2TJA9bBZtXJem) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [GO DJ \-Hey Daddy\-](https://open.spotify.com/album/04Q1klLYpyplEou1uzZdEJ) | 1:44 | 2023-06-07 |  |
+| [GO DJ \- Hey Daddy](https://open.spotify.com/track/4JcxyHlXOuLKdGxcD7WWuW) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [KAWAII BUBBLY LOVELY III](https://open.spotify.com/album/6qEMRBsppEDrGMF3RdgNN1) | 1:43 | 2023-06-07 |  |
+| [GO DJ \-Hey Daddy\-](https://open.spotify.com/track/4z0KvxFBl2TJA9bBZtXJem) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [GO DJ \-Hey Daddy\-](https://open.spotify.com/album/04Q1klLYpyplEou1uzZdEJ) | 1:44 | 2023-06-07 | 2023-11-09 |
 | [GOKU VIBES](https://open.spotify.com/track/3ONpcsH0VHshaLqnghaq0S) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Futuristic Swaver](https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF) | [GOLDEN ROUTE](https://open.spotify.com/album/7g8P5rDMl5Y0n5hSVYImn4) | 4:08 | 2023-06-07 |  |
 | [GOLD](https://open.spotify.com/track/21Qk5888Ac0pe1PihX7vKH) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [LOGIC](https://open.spotify.com/album/5ftRmSBjH02fMedZmn1alL) | 2:52 | 2023-06-07 |  |
 | [Gotham City](https://open.spotify.com/track/1TJoKc4l1ty9SFRe8hgddq) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [BOHEMIAN JOKE](https://open.spotify.com/album/1XG5tqqv1x1BxWymWgPC7y) | 3:06 | 2023-06-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: The HU",
-  "num_followers": 339083,
+  "num_followers": 339185,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTExMjc0ZGQ1YjUyM2JiNjg0ODExYjE3ZDhmYjZjYTU4ZDg2NGIz",
+  "snapshot_id": "MCw2YzRiODQ5MGUyMjJjYTllYzNlNzlhMDE0NjViNGFjNTM1ZjdmNTVm",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Life Is But a Dream\u2026",
-        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 353986,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 174283,
       "name": "War",
       "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 353986,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j"
     },
     {
       "added_at": "2023-09-29 04:00:00",

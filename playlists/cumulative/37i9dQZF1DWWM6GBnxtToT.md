@@ -4,7 +4,7 @@
 
 > Diese Songs zaubern dir ein Grinsen ins Gesicht.
 
-116 songs - 6 hr 28 min
+118 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25) | 3:35 | 2023-08-24 | 2023-10-23 |
 | [Diving \- feat\. Holly Humberstone](https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:35 | 2023-10-19 |  |
 | [Don't Let Me Down](https://open.spotify.com/track/4hoNqOv7FRMefk6yC83yqP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Don't Let Me Down](https://open.spotify.com/album/1q5yqfGMptiI6uTXKxXT1o) | 3:20 | 2023-07-20 | 2023-11-04 |
+| [Don't Let Me Down](https://open.spotify.com/track/5hsOIinKbxVIVIggR55OAQ) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Jack Johnson](https://open.spotify.com/artist/2i7oYx3jb0r7sQtKovIfNz) | [Don’t Let Me Down](https://open.spotify.com/album/427L6hniDKMN8kWwSI4uc8) | 3:20 | 2023-10-19 |  |
 | [Drowning](https://open.spotify.com/track/32QjoM6mbNCEFxS8OYiPYB) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Drowning](https://open.spotify.com/album/0U3nZkZJbWCRK71MhORAFt) | 2:54 | 2023-07-20 |  |
 | [Easy Way Out](https://open.spotify.com/track/59eGr21mOIQP3rcodg2IfL) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Twister](https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc) | 3:52 | 2023-07-20 |  |
 | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:39 | 2023-07-20 | 2023-08-25 |
@@ -43,7 +44,7 @@
 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 | 2023-07-20 |  |
 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 | 2023-07-20 |  |
 | [Get High](https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Get High](https://open.spotify.com/album/4NqTaiWEVCaEK4AXrPCgyn) | 3:42 | 2023-07-20 |  |
-| [Get Up!](https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Get Up!](https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao) | 3:15 | 2023-07-20 |  |
+| [Get Up!](https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Get Up!](https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao) | 3:15 | 2023-07-20 | 2023-11-09 |
 | [Go Out](https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Go Out](https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4) | 2:34 | 2023-07-20 |  |
 | [Going with You](https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Here, Right Now](https://open.spotify.com/album/0pz6QxOt98LbnryystoGza) | 2:55 | 2023-07-20 |  |
 | [Heartworks](https://open.spotify.com/track/2y0zJlae50VyzO7NCrQe06) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Heartworks](https://open.spotify.com/album/0WBpc7PSDbgRZIHZ4mAY0q) | 2:39 | 2023-07-20 |  |
@@ -106,11 +107,12 @@
 | [Smiling Face](https://open.spotify.com/track/083YqmGxSLpgr8Hr6HeFNx) | [Cinemagraph](https://open.spotify.com/artist/7zMxkD6FhVkm8hBRy7jyJP) | [Smiling Face](https://open.spotify.com/album/75E23gvtdp9zPvRpKXWcIA) | 3:35 | 2023-10-19 |  |
 | [Someone You Love](https://open.spotify.com/track/2JUXU13VveY6JMvPgpRJJZ) | [Some Sprouts](https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp) | [Someone You Love](https://open.spotify.com/album/3osxMWTR97vYigGuiqVhxM) | 3:23 | 2023-07-20 |  |
 | [Something Like This](https://open.spotify.com/track/2Xn7cHKdRP0hBXaUr38J7R) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Something Like This](https://open.spotify.com/album/614lKhTpvtyBqnU7C5w5e4) | 3:18 | 2023-07-20 | 2023-11-03 |
+| [Something Like This](https://open.spotify.com/track/6BVV26Ih6kXP1j8JBsxXyd) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Something Like This](https://open.spotify.com/album/23pFZpDRnqG187lnu9rY1K) | 3:18 | 2023-10-19 |  |
 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 | 2023-07-20 |  |
 | [Sweet Melancholy](https://open.spotify.com/track/6pPQ49LVCxxxjxJArSvdxl) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Sweet Melancholy](https://open.spotify.com/album/3eR4Py7KIGQ0hsLtnFUYH8) | 2:58 | 2023-07-20 |  |
 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 | 2023-07-20 |  |
 | [Take Me Home Boy](https://open.spotify.com/track/31hKb1hxqNKGY5JW9yrCxj) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Road](https://open.spotify.com/album/5wsDrnB9aUVEhvsvgX01KI) | 3:13 | 2023-07-20 | 2023-09-15 |
-| [Take Me Home Boy](https://open.spotify.com/track/08wsm7epFKstVWWaE2n9XG) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Take Me Home Boy](https://open.spotify.com/album/5FZw2VvfuXtRP77R0vnK0L) | 3:13 | 2023-10-19 |  |
+| [Take Me Home Boy](https://open.spotify.com/track/08wsm7epFKstVWWaE2n9XG) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Take Me Home Boy](https://open.spotify.com/album/5FZw2VvfuXtRP77R0vnK0L) | 3:13 | 2023-10-19 | 2023-11-09 |
 | [Tender love](https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [I Need Space](https://open.spotify.com/album/6OYxfg1u6ltNaciFUxduEY) | 3:23 | 2023-07-20 |  |
 | [Tenderfoot](https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N) | [The Day](https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN) | [Tenderfoot](https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV) | 2:08 | 2023-07-20 |  |
 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 | 2023-07-20 |  |

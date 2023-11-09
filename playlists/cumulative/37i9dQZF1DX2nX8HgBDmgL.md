@@ -4,7 +4,7 @@
 
 > Catch the amazing South Asian artists with Raja Kumari.
 
-140 songs - 7 hr 22 min
+142 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-07-18 | 2022-09-04 |
 | [Oehnana ft\. TM Bax](https://open.spotify.com/track/5lUWDZXEFuQ6MjUYKx5guu) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [TM Bax](https://open.spotify.com/artist/0RN2n6EdV90CQmfhfxqv0f) | [The Blend](https://open.spotify.com/album/6C6VvGruQ0ezA6QewMUGPj) | 3:06 | 2022-02-25 | 2022-07-19 |
 | [ON](https://open.spotify.com/track/5aX3nsMieI6ELp3qfFihr9) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [HBIC](https://open.spotify.com/album/6mRkk5VyWx27K4vZjD6sqM) | 2:36 | 2022-07-18 |  |
+| [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 | 2023-11-08 |  |
 | [Out of Love](https://open.spotify.com/track/6x4fJlgsoGqklYyMQN7vLN) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Ammy Gill](https://open.spotify.com/artist/1NoTBZs4sL9RD5taUdv1Kh) | [Out of Love](https://open.spotify.com/album/1bv1UnuDeOnL6odVRPJksM) | 3:17 | 2022-07-18 |  |
 | [Over You](https://open.spotify.com/track/7DIy5vxJsbvAQqtN6zIYvp) | [Rishi Rich](https://open.spotify.com/artist/2DpITTpb4v5SQtB3iA4A44), [Roach Killa](https://open.spotify.com/artist/62RUJAVFb2U8n54mYnZAmS), [Kiranee](https://open.spotify.com/artist/0A8jiUMRlCzO8eDWnvtE3Y) | [Over You](https://open.spotify.com/album/4qzK6pkjG3mO9AUz1Z7SQT) | 3:15 | 2021-11-11 | 2022-07-19 |
 | [Para Rum Pa](https://open.spotify.com/track/3D5w9GsRZBPw8F5t6e6BhU) | [Jernade Miah](https://open.spotify.com/artist/7eymaZJllgRKh54C1slh3M), [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Para Rum Pa](https://open.spotify.com/album/31qUEnN9ehlK2v9t3QMgSy) | 2:25 | 2021-11-11 | 2022-07-19 |
@@ -143,6 +144,7 @@
 | [Waqt](https://open.spotify.com/track/7ACSQpHGwFWqEBoygjPYeX) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT) | [Waqt](https://open.spotify.com/album/0tn5e3YPdGEnOk5k74miWa) | 3:22 | 2021-11-11 | 2022-07-19 |
 | [Where You Been](https://open.spotify.com/track/57xWJEl3Odq80nBFK51EvL) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Where You Been](https://open.spotify.com/album/4rsDasY2baKkPMdgXiSbgM) | 3:32 | 2021-11-11 | 2022-07-19 |
 | [Ya Baba](https://open.spotify.com/track/0BQrLEaZ9Y618LSOP1maf7) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Rami Beatz](https://open.spotify.com/artist/1cgsLN7cUduNA4uc8riOwC) | [Ya Baba](https://open.spotify.com/album/7yND8RNR0dn4fxm3U34SEl) | 3:51 | 2021-11-11 | 2022-07-19 |
+| [Yaar Ki Shaadi](https://open.spotify.com/track/5JLeNYBwqJJAMrpn3KblTl) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Yaar Ki Shaadi](https://open.spotify.com/album/2RUKEhQZVl09sBtf6MdXXb) | 3:10 | 2023-11-08 |  |
 | [Yaara Tu](https://open.spotify.com/track/4EDJQR7mhUeSMGgmHvZTqV) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Yaara Tu](https://open.spotify.com/album/6ti72F8nhkUeSOI0pS2ZJK) | 3:26 | 2021-11-11 | 2022-07-19 |
 | [Yarri Yeah](https://open.spotify.com/track/2Cby9QLsraYQ5Thh7GbxIh) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t), [Nani Anjali](https://open.spotify.com/artist/3CTcuoJ9PcfvNOLwcdQWDe) | [Magic](https://open.spotify.com/album/6DAj9M8xI1WiZJudRL7lBB) | 3:58 | 2021-11-11 | 2022-07-19 |
 | [Ykwim](https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Ykwim](https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V) | 3:14 | 2022-07-18 |  |

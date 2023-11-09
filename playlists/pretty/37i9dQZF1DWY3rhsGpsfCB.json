@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 16678,
+  "num_followers": 16716,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGU0YWE4M2JhYTU1YzM5YWEyOThmM2Y0YTg1OWJiNDlmNDdkOGMx",
+  "snapshot_id": "MCwwMzVlOWVhNWE0ZDdhNjQ2YWQ4ZjMwY2JhMmIyYzIwMGFlNDRkZGM2",
   "tracks": [
     {
       "added_at": "2023-11-03 00:01:00",
@@ -403,42 +403,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 191952,
-      "name": "Kilimanjaro (with BEAM)",
-      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
-        "name": "KAIEN",
-        "url": "https://open.spotify.com/album/71miAiUyj1kOLJ0yiLgvip"
-      },
-      "artists": [
-        {
-          "name": "Kaien Cruz",
-          "url": "https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Tell No One",
-      "url": "https://open.spotify.com/track/3kdZmjXZCsZGvYgSiigWhn"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "Tequila Ever After",
         "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
       },
@@ -459,6 +423,42 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
+        "name": "KAIEN",
+        "url": "https://open.spotify.com/album/71miAiUyj1kOLJ0yiLgvip"
+      },
+      "artists": [
+        {
+          "name": "Kaien Cruz",
+          "url": "https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Tell No One",
+      "url": "https://open.spotify.com/track/3kdZmjXZCsZGvYgSiigWhn"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
         "name": "7 SEAS",
         "url": "https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc"
       },
@@ -475,54 +475,6 @@
       "duration_ms": 186500,
       "name": "Messi",
       "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
-        "name": "PALMWINE DIARIES VOL.1",
-        "url": "https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Unfortunately",
-      "url": "https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
-        "name": "Why Evils",
-        "url": "https://open.spotify.com/album/2fVShUxmaAvcMC4sCA1PyV"
-      },
-      "artists": [
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 240261,
-      "name": "Why Evils",
-      "url": "https://open.spotify.com/track/7poPPZ1XEZfgjYSqjnzi9r"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -551,6 +503,54 @@
       "duration_ms": 182400,
       "name": "Honest",
       "url": "https://open.spotify.com/track/2vnNYl3UDY9Grubs0VAK5m"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "Why Evils",
+        "url": "https://open.spotify.com/album/2fVShUxmaAvcMC4sCA1PyV"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 240261,
+      "name": "Why Evils",
+      "url": "https://open.spotify.com/track/7poPPZ1XEZfgjYSqjnzi9r"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "PALMWINE DIARIES VOL.1",
+        "url": "https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Unfortunately",
+      "url": "https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
+        "name": "Selling Dreams",
+        "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "duration_ms": 148283,
+      "name": "Selling Dreams",
+      "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
         "name": "I Lay (feat. Xenia Manasseh)",
         "url": "https://open.spotify.com/album/5ANLOAQ4aeLFY3XOsdJ48i"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 148601,
       "name": "I Lay (feat. Xenia Manasseh)",
       "url": "https://open.spotify.com/track/3OfnodXWoUyR7bgKckTe5p"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
-        "name": "Selling Dreams",
-        "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 148283,
-      "name": "Selling Dreams",
-      "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 169031,
+      "name": "safe haven",
+      "url": "https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 238917,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 169031,
-      "name": "safe haven",
-      "url": "https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -787,6 +787,26 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/2NHXAtrSy811tF6Jz99BXy"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 142415,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/0FQmt8YjhSXx2KMvJSiHQ3"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -867,22 +887,18 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/2NHXAtrSy811tF6Jz99BXy"
+        "name": "For Keeps - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3"
       },
       "artists": [
         {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        },
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "Lisa Oduor-Noah",
+          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
         }
       ],
-      "duration_ms": 142415,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/0FQmt8YjhSXx2KMvJSiHQ3"
+      "duration_ms": 254726,
+      "name": "For Keeps - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "For Keeps - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3"
-      },
-      "artists": [
-        {
-          "name": "Lisa Oduor-Noah",
-          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
-        }
-      ],
-      "duration_ms": 254726,
-      "name": "For Keeps - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "TROUBLE - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 148800,
       "name": "TROUBLE - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "Only You - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "duration_ms": 166670,
+      "name": "Only You - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Only You - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk"
-      },
-      "artists": [
-        {
-          "name": "Karun",
-          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
-        }
-      ],
-      "duration_ms": 166670,
-      "name": "Only You - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "Sarafina",
         "url": "https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe"
       },
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/1HNJe2oOOTJFm04zLVaOB5"
+      },
+      "artists": [
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        },
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/3GGqmMO9i3fS3kONWUsSxE"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/0yMD9zrKIky3GRSNn2VC25"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 148695,
       "name": "Sail",
       "url": "https://open.spotify.com/track/26mrUHchbcgiCahub27gZY"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
-        "name": "AMEN",
-        "url": "https://open.spotify.com/album/1HNJe2oOOTJFm04zLVaOB5"
-      },
-      "artists": [
-        {
-          "name": "Moelogo",
-          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
-        },
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/3GGqmMO9i3fS3kONWUsSxE"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Asali (Sweeter)",
-        "url": "https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R"
-      },
-      "artists": [
-        {
-          "name": "Maya Amolo",
-          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
-        }
-      ],
-      "duration_ms": 181903,
-      "name": "Wildin'",
-      "url": "https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "Lazizi - Spotify Singles (Cover)",
         "url": "https://open.spotify.com/album/3sKcmVnqk37Sgsdg9GBfce"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 280418,
       "name": "Lazizi - Spotify Singles - Cover",
       "url": "https://open.spotify.com/track/4rutxh0KdzzxPNR75CCgJR"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "Asali (Sweeter)",
+        "url": "https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "duration_ms": 181903,
+      "name": "Wildin'",
+      "url": "https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa"
     },
     {
       "added_at": "2023-11-03 00:01:00",

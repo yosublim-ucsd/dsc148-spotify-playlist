@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-120 songs - 4 hr 6 min
+123 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,9 @@
 | [Dogs](https://open.spotify.com/track/2RsQZgQHJw9hyd9QUGRu6Z) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Two](https://open.spotify.com/album/6eFe2gk6yWva9NWjnf1OZ8) | 1:18 | 2022-02-01 | 2022-07-29 |
 | [Dogs](https://open.spotify.com/track/473e0j6PiArwNNJQpoWYBx) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Kids Greatest Hits](https://open.spotify.com/album/5kKwfM44v9L2Qwd9tT5GLp) | 1:18 | 2022-07-25 | 2022-11-13 |
 | [Dogs](https://open.spotify.com/track/52YD3sS5nlxobEQMFIqHTQ) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Two](https://open.spotify.com/album/74vPkTi3lT9XeI5lmiKSkr) | 1:18 | 2022-07-25 |  |
+| [Domingo the Flamingo](https://open.spotify.com/track/16jiHSEtoXq6FKJKlVsxrr) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [In a Heartbeat](https://open.spotify.com/album/1kXmKhiwSs5PubFMRhvY2w) | 2:28 | 2023-11-08 |  |
 | [Eensy Weensy Spider](https://open.spotify.com/track/73Idku6pDpul8PXHnfeA1N) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Animal Songs](https://open.spotify.com/album/36tbGzLkVELzT9bF5SUus0) | 1:30 | 2022-02-01 |  |
+| [Five Little Monkeys](https://open.spotify.com/track/1Cx3wEBRVnepDsjbOFbFzO) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [best of Canzoni per Bambini](https://open.spotify.com/album/71osmZEAbGmgATVSk4bcua) | 1:39 | 2023-11-08 |  |
 | [Four Little Duckies](https://open.spotify.com/track/0wgqHDiVFNBM4eevAF2SEp) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Ralph's World](https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa) | 2:47 | 2022-02-01 |  |
 | [Goin' To The Zoo](https://open.spotify.com/track/12qifYZaGo99iWx5cJyLrn) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Animal Songs](https://open.spotify.com/album/36tbGzLkVELzT9bF5SUus0) | 1:39 | 2022-02-01 |  |
 | [Good Morning, Farm Animals](https://open.spotify.com/track/2Uc4LVXQM6pVFPH3ehFv0e) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 3:34 | 2022-02-01 |  |
@@ -79,6 +81,7 @@
 | [I'm A Cow](https://open.spotify.com/track/1WeI7KjHAp0X1vOPsNPFYO) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Hit Songs & Rarities](https://open.spotify.com/album/2Op3dWBKGOXkOOzSHxh3On) | 0:31 | 2022-02-01 | 2022-07-29 |
 | [I'm a Cow](https://open.spotify.com/track/1qFTAz02KIOglffJJ0R3wW) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Here Comes the Big Red Car](https://open.spotify.com/album/576st95zAvurKHUNm6GWNA) | 0:31 | 2022-07-25 |  |
 | [I've Got A Goat](https://open.spotify.com/track/5aOmYquQylHT2GhJ5TjSu6) | [The Not\-Its!](https://open.spotify.com/artist/4Eo7yzZ7LoM4Cg8AySUWry) | [Tag, You're It!](https://open.spotify.com/album/5O0lrEav82bSTfEbcl37h3) | 2:16 | 2022-02-01 |  |
+| [Jellyfish Jones](https://open.spotify.com/track/32GZOJVBjAyJem2WVIqYhW) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Away We Go!](https://open.spotify.com/album/6gXAuYlj9SA4b0APIF1CGS) | 2:29 | 2023-11-08 |  |
 | [Jungle Boogie](https://open.spotify.com/track/1pwkwI43EaA79HlDWNSEok) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:40 | 2022-02-01 |  |
 | [Lil' red Rooster](https://open.spotify.com/track/2kqx7Js7xvJNFHABI75LRS) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [A Potluck](https://open.spotify.com/album/4uBGyDlwFP7tlfLma1DDJk) | 2:49 | 2022-02-01 |  |
 | [Little Sharks](https://open.spotify.com/track/4CXd8asKpF6SGH3qImlZfa) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 2:44 | 2022-02-01 |  |

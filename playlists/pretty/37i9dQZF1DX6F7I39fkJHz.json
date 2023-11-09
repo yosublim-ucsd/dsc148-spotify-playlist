@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s bichotas de la escena featuring Aura BAE.",
-  "num_followers": 31975,
+  "num_followers": 31988,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjBiYWNlM2JiNmFjYzNiMGRlYWNlN2E2YTQ1ZWUxMTBhNmUyMzM3",
+  "snapshot_id": "MCxkNjY2YjEyMTlkMjIxMTBiMGVkN2Q4Yzk4YWQyZGFhYWM5MTBhMzA0",
   "tracks": [
     {
       "added_at": "2023-10-26 18:33:52",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-10-26 18:33:52",
       "album": {
+        "name": "La Piti",
+        "url": "https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9"
+      },
+      "artists": [
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6NFlEQvg4h41e08fj70zxd"
+    },
+    {
+      "added_at": "2023-10-26 18:33:52",
+      "album": {
         "name": "Bicha",
         "url": "https://open.spotify.com/album/2LhBFY1mquGDfrsIw0oPaS"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 149696,
       "name": "Bicha",
       "url": "https://open.spotify.com/track/3Xv4C3ZIpd1D0S9lUh4S1b"
-    },
-    {
-      "added_at": "2023-10-26 18:33:52",
-      "album": {
-        "name": "La Piti",
-        "url": "https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9"
-      },
-      "artists": [
-        {
-          "name": "Pitizion",
-          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
-        }
-      ],
-      "duration_ms": 173653,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6NFlEQvg4h41e08fj70zxd"
     },
     {
       "added_at": "2023-10-26 18:33:52",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-10-26 18:33:52",
       "album": {
-        "name": "Toma",
-        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 162330,
-      "name": "Toma",
-      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
-    },
-    {
-      "added_at": "2023-10-26 18:33:52",
-      "album": {
         "name": "ACTIVA",
         "url": "https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 261527,
       "name": "ACTIVA",
       "url": "https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx"
+    },
+    {
+      "added_at": "2023-10-26 18:33:52",
+      "album": {
+        "name": "Toma",
+        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 162330,
+      "name": "Toma",
+      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
     },
     {
       "added_at": "2023-10-26 18:33:52",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-10-26 18:33:52",
       "album": {
-        "name": "Nena Trampa",
-        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 147370,
-      "name": "Nena Trampa",
-      "url": "https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN"
-    },
-    {
-      "added_at": "2023-10-26 18:33:52",
-      "album": {
         "name": "LENTO",
         "url": "https://open.spotify.com/album/4eYCA1xUqDbj74cyKm1mG8"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2023-10-26 18:33:52",
       "album": {
-        "name": "Ricota",
-        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
+        "name": "Nena Trampa",
+        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
       },
       "artists": [
         {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 160880,
-      "name": "Ricota",
-      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
+      "duration_ms": 147370,
+      "name": "Nena Trampa",
+      "url": "https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN"
     },
     {
       "added_at": "2023-10-26 18:33:52",
@@ -1567,6 +1551,22 @@
       "duration_ms": 146553,
       "name": "AKRI TU ERE UN XULO",
       "url": "https://open.spotify.com/track/6eAB8tVW7rhRgggH472v9U"
+    },
+    {
+      "added_at": "2023-10-26 18:33:52",
+      "album": {
+        "name": "Ricota",
+        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 160880,
+      "name": "Ricota",
+      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
     }
   ],
   "unique_name": "EQUAL Urbano",

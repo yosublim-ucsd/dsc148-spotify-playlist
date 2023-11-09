@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,391 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,495 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 21 | [La Gloria Eres Tú](https://open.spotify.com/track/3cLKEKUpFKhlLXCTwZ9IrM) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK) | 2:51 |
 | 22 | [Odiame](https://open.spotify.com/track/3HjPZTAWOTNDh1j1TDXwB0) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Tríos \(Vol\. 1\)](https://open.spotify.com/album/3CV7VovZe9pkaIrQg8TNdT) | 3:13 |
 | 23 | [Alma Corazón y Vida](https://open.spotify.com/track/0qvWXX08lA2pjELemRL13w) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Mexican Love Songs](https://open.spotify.com/album/6RVVjKPl18XM1KR5Hf8ldV) | 3:12 |
-| 24 | [Cerezo Rosa](https://open.spotify.com/track/37Z7PlwDB0OUv2VWHO3tPw) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 3:02 |
-| 25 | [Embrujo](https://open.spotify.com/track/32xpnvh67XUNcjh0iW0dj6) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Consentida Y Otros Exitos](https://open.spotify.com/album/6TaghakmbT1QLgzoatmg4Y) | 3:11 |
-| 26 | [Cenizas](https://open.spotify.com/track/3Zv4Z2YsgVoLoKKMahdDAN) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/3IqPx1fXB2GeEPcvT9RKn7) | 3:12 |
+| 24 | [Dime la Verdad](https://open.spotify.com/track/4DWL15gnQwM9I2VG9vdmXU) | [Iván Cruz](https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L) | [Ya Te Conozco](https://open.spotify.com/album/4RHQFgF2drijGZq5I2v60Z) | 2:56 |
+| 25 | [Cerezo Rosa](https://open.spotify.com/track/37Z7PlwDB0OUv2VWHO3tPw) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 3:02 |
+| 26 | [Embrujo](https://open.spotify.com/track/32xpnvh67XUNcjh0iW0dj6) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Consentida Y Otros Exitos](https://open.spotify.com/album/6TaghakmbT1QLgzoatmg4Y) | 3:11 |
 | 27 | [La Barca](https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 3:17 |
-| 28 | [Como un Duende](https://open.spotify.com/track/5rjxLGoHgUg5P1IsvHRYQM) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:58 |
-| 29 | [Dime la Verdad](https://open.spotify.com/track/4DWL15gnQwM9I2VG9vdmXU) | [Iván Cruz](https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L) | [Ya Te Conozco](https://open.spotify.com/album/4RHQFgF2drijGZq5I2v60Z) | 2:56 |
+| 28 | [Cenizas](https://open.spotify.com/track/3Zv4Z2YsgVoLoKKMahdDAN) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/3IqPx1fXB2GeEPcvT9RKn7) | 3:12 |
+| 29 | [Como un Duende](https://open.spotify.com/track/5rjxLGoHgUg5P1IsvHRYQM) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:58 |
 | 30 | [Solamente una Vez](https://open.spotify.com/track/3KXT4z3ZtA8yasFoqltxzP) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Mi Primer Piano..\. Y Mis Primeras Canciones](https://open.spotify.com/album/2JRYd3QxaIm8bzIpY8V6Ci) | 2:41 |
 | 31 | [Total](https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:54 |
 | 32 | [Perdon](https://open.spotify.com/track/6Vdz67EdEfB0d7BItvj9kt) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl) | 3:12 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 79 | [Pensando En Ti](https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Pensando En Ti](https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK) | 2:42 |
 | 80 | [Te Amaré Toda la Vida](https://open.spotify.com/track/0Rc0EKY8krlTnrBHwVyJSr) | [Trio Fantasia](https://open.spotify.com/artist/2APenj3Xk0M7dVCtFZGm3X) | [Bolerísimo](https://open.spotify.com/album/6FD7LaF3pJ6E3nLRm1LA4D) | 2:47 |
 | 81 | [Luna Orgullosa](https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 3:21 |
-| 82 | [Perfume de Gardenias](https://open.spotify.com/track/3Vb2RVcd98LSdUMZwEsBxx) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Exitos de los Tres Reyes](https://open.spotify.com/album/5Eis1ZpyaTosGqOTYD0drt) | 2:57 |
-| 83 | [Canción del alma](https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:33 |
+| 82 | [Canción del alma](https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:33 |
+| 83 | [Perfume de Gardenias](https://open.spotify.com/track/3Vb2RVcd98LSdUMZwEsBxx) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Exitos de los Tres Reyes](https://open.spotify.com/album/5Eis1ZpyaTosGqOTYD0drt) | 2:57 |
 | 84 | [Mi Negra Linda](https://open.spotify.com/track/4M7UWuLSDGn1L1ICwE5jGS) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 3:08 |
 | 85 | [Empiezo a Extrañarte](https://open.spotify.com/track/3lLSg8IEC1MEjk4zA1Dz0U) | [Las Sombras](https://open.spotify.com/artist/1QDqOOONr11np0HEOPMVTI) | [Personalidad \- Los Grandes Trios \- Las Sombras](https://open.spotify.com/album/7y2WIsOp0LrL9dJjjhDE66) | 2:38 |
 | 86 | [No](https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [No](https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 99 | [Perdoname](https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Perdoname](https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M) | 2:24 |
 | 100 | [Señora tentación](https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG) | [Hermanas Aguila](https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv) | [Antología\. \. .Hermanas Aguila](https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi) | 3:30 |
 
-Snapshot ID: `MCw2NzkwNDMyNDQ3MzZlMDdiMDBmOTA1MDA0YTJhYWQ2ZWNlMmU3ODc1`
+Snapshot ID: `MCw5MWJhMmM2YjcxNGFmODkzY2Y3OGZkOWY3ZmVmZGJmYWQ2ZjA0NTI3`

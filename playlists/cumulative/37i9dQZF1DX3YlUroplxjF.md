@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-406 songs - 23 hr 15 min
+407 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [AVERAGE DEATH](https://open.spotify.com/track/06rUSp5vUkWsZrU1g2DYx1) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [AVERAGE DEATH](https://open.spotify.com/album/3tJMthBdjOgApxrUaFsvEy) | 4:31 | 2022-04-01 | 2022-04-18 |
 | [Azure](https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Azure](https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN) | 4:14 | 2022-04-01 | 2022-11-13 |
 | [Back Then](https://open.spotify.com/track/2dfj52tghhrk33hKJtFDx9) | [Amoura](https://open.spotify.com/artist/5HnOeFjaoIdjavGtQluzbh) | [Back Then](https://open.spotify.com/album/6R6wqSrVxGIG6yp3b1QTfX) | 3:42 | 2021-11-30 | 2022-11-15 |
-| [Bad Idea](https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Bad Idea](https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K) | 3:12 | 2022-04-01 |  |
+| [Bad Idea](https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Bad Idea](https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K) | 3:12 | 2022-04-01 | 2023-11-09 |
 | [Bankrupt](https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me](https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX) | 3:21 | 2022-12-13 |  |
 | [Bashem](https://open.spotify.com/track/1T2fVxlG7hQE169zlNQGE5) | [Wolfrik](https://open.spotify.com/artist/6Yyr4z6ZKxZu9y3Wa0Vs2o) | [Clones](https://open.spotify.com/album/5gUhgvoU6u50Seadl0Bk5K) | 2:53 | 2022-03-11 | 2022-04-21 |
 | [Before I Cave In](https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Before I Cave In](https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr) | 4:20 | 2021-11-30 |  |
@@ -230,6 +230,7 @@
 | [Love is War](https://open.spotify.com/track/1jG8barnM7s5bKFp86920v) | [Madina Lake](https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA) | [Love is War](https://open.spotify.com/album/56cmXy0uY6SO7wJo4JVZ2q) | 3:17 | 2021-11-30 | 2022-07-28 |
 | [Low Budget Horror](https://open.spotify.com/track/2jY2PFrpUfA43XcQtDbSdz) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Low Budget Horror](https://open.spotify.com/album/1mfUf7rjQRTRGbMIc7vucK) | 3:01 | 2022-01-21 | 2023-06-02 |
 | [Lyrics Lie](https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Afterburner](https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S) | 3:56 | 2021-11-30 | 2023-11-04 |
+| [Lyrics Lie](https://open.spotify.com/track/56rDsioIJVni7hmFio7yZU) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Afterburner](https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U) | 3:56 | 2023-06-20 |  |
 | [Madness](https://open.spotify.com/track/3rjnoSxE4F6fww3Vgai4LL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Madness](https://open.spotify.com/album/2op8CZ1RctYSFzdo2qzC0M) | 3:38 | 2021-11-30 | 2022-07-29 |
 | [Make Believe](https://open.spotify.com/track/0V3hjJUbKQBhyhbJCFsIaP) | [Outwaves](https://open.spotify.com/artist/3n8rcXlEh8rkRwEJ3mJlvk) | [The Darkest Secrets I'll Ever Tell Myself](https://open.spotify.com/album/4yErwkhQGK3jGhv8eLn3gD) | 3:25 | 2022-04-01 | 2022-04-19 |
 | [Make It out Alive](https://open.spotify.com/track/3QiXPvdTlpghLHrmGy0UWB) | [Assuming We Survive](https://open.spotify.com/artist/2vfLzfNgADEVYZiFBgopeP) | [Chapters](https://open.spotify.com/album/6mTVXlfzrdspsGJxxW1fsl) | 3:43 | 2021-11-30 | 2022-07-29 |

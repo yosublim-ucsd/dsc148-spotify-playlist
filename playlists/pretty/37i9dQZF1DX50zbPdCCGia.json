@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Styx",
-  "num_followers": 224568,
+  "num_followers": 224690,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTcwZDU3OTMwZWIwMmZmYWJjNzQ2MzY0ODdhNTVkNWMyMWY3NjA1",
+  "snapshot_id": "MCxhZTkyNTA1ZTI0ODI2YWU3ZDNmODNmNjEzYjcwMWRhMTQ1NGMxZDU3",
   "tracks": [
     {
       "added_at": "2023-03-29 17:34:27",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Deceptive Bends",
         "url": "https://open.spotify.com/album/6D3RQD5AQZ4P2aDzsZmBI4"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 207573,
       "name": "The Things We Do For Love",
       "url": "https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "The Michael Johnson Album",
-        "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
+        "name": "The Original Albums\u2026Plus",
+        "url": "https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu"
       },
       "artists": [
         {
-          "name": "Michael Johnson",
-          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 179666,
-      "name": "Bluer Than Blue",
-      "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
+      "duration_ms": 148586,
+      "name": "Time in a Bottle",
+      "url": "https://open.spotify.com/track/6FlNxt8Mw5ki0Ccjt2mNWJ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "The Michael Johnson Album",
+        "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
+      },
+      "artists": [
+        {
+          "name": "Michael Johnson",
+          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Bluer Than Blue",
+      "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "Jack Rabbit Slim",
         "url": "https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 212471,
       "name": "Romeo's Tune",
       "url": "https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "The Original Albums\u2026Plus",
-        "url": "https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 148586,
-      "name": "Time in a Bottle",
-      "url": "https://open.spotify.com/track/6FlNxt8Mw5ki0Ccjt2mNWJ"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 133960,
-      "name": "Just a Song Before I Go",
-      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Red Rose Speedway",
         "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 247733,
       "name": "My Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Lost Without Your Love",
+        "url": "https://open.spotify.com/album/67VoVoP15uIXTKG7dqMlwW"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 176893,
+      "name": "Lost Without Your Love",
+      "url": "https://open.spotify.com/track/1aRncYBtdizYoVKcSt8oaY"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Lost Without Your Love",
-        "url": "https://open.spotify.com/album/67VoVoP15uIXTKG7dqMlwW"
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
       },
       "artists": [
         {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
         }
       ],
-      "duration_ms": 176893,
-      "name": "Lost Without Your Love",
-      "url": "https://open.spotify.com/track/1aRncYBtdizYoVKcSt8oaY"
+      "duration_ms": 133960,
+      "name": "Just a Song Before I Go",
+      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "The Original Albums\u2026Plus",
+        "url": "https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 229706,
+      "name": "Operator (That's Not the Way It Feels)",
+      "url": "https://open.spotify.com/track/1DnVmFsTHw1hizKGauDgMv"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "What Were Once Vices Are Now Habits",
         "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Desperado (2013 Remaster)",
-        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 207059,
-      "name": "Doolin-Dalton - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0huHTieLTlluurvasQLB74"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Turnstiles",
         "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "The Original Albums\u2026Plus",
-        "url": "https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu"
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
       },
       "artists": [
         {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 229706,
-      "name": "Operator (That's Not the Way It Feels)",
-      "url": "https://open.spotify.com/track/1DnVmFsTHw1hizKGauDgMv"
+      "duration_ms": 207059,
+      "name": "Doolin-Dalton - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0huHTieLTlluurvasQLB74"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1163,6 +1163,22 @@
       "duration_ms": 181009,
       "name": "What Can I Say (2023 Remaster)",
       "url": "https://open.spotify.com/track/74t8MRGyoMSIkiN1f43gKc"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "\u521d\u590f\u4e4b\u6200",
+        "url": "https://open.spotify.com/album/1SlXTGrq3PAkRlCFQUJkAl"
+      },
+      "artists": [
+        {
+          "name": "Ekin Cheng",
+          "url": "https://open.spotify.com/artist/2DNe29u3NiB7u8k8RS5IuD"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "I'll Have to Say I Love You in a Song",
+      "url": "https://open.spotify.com/track/6UcbxO3C7bgwkjjVdFxqim"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1195,22 +1211,6 @@
       "duration_ms": 195160,
       "name": "Song Sung Blue - Single Version",
       "url": "https://open.spotify.com/track/4FZ8wtTaOAbYvyChBt4GEQ"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Luna Sea",
-        "url": "https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75"
-      },
-      "artists": [
-        {
-          "name": "Firefall",
-          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Just Remember I Love You",
-      "url": "https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO"
     }
   ],
   "unique_name": "70s Soft Rock",

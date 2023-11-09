@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 13161,
+  "num_followers": 13188,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTVlY2YwMDYxZTY4MTk3ZmViNjFhNzFmMjM4MDAxYTQ0YjNlZWFh",
+  "snapshot_id": "MCw3NWMyNjk1MWYyN2IzM2Q4ZWU5OTNiYWFkYTljZGIzZWM1ZWUyZjRl",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -911,18 +911,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "It's Different",
-        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
+        "name": "Swan Songs",
+        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
       "artists": [
         {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Amin. J",
+          "url": "https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2"
         }
       ],
-      "duration_ms": 271893,
-      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
-      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
+      "duration_ms": 201226,
+      "name": "Fly (feat. Amin. J)",
+      "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -959,22 +963,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Swan Songs",
-        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
+        "name": "It's Different",
+        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
       },
       "artists": [
         {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Amin. J",
-          "url": "https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 201226,
-      "name": "Fly (feat. Amin. J)",
-      "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
+      "duration_ms": 271893,
+      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "T.O.P - The 2nd Album",
-        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
+        "name": "The Windows Of My Soul",
+        "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
       },
       "artists": [
         {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
         }
       ],
-      "duration_ms": 281760,
-      "name": "T.O.P. (Twinkling Of Paradise)",
-      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
+      "duration_ms": 238393,
+      "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
+      "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Windows Of My Soul",
-        "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
+        "name": "T.O.P - The 2nd Album",
+        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
       },
       "artists": [
         {
-          "name": "Yangpa",
-          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
         }
       ],
-      "duration_ms": 238393,
-      "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
-      "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
+      "duration_ms": 281760,
+      "name": "T.O.P. (Twinkling Of Paradise)",
+      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "N001",
-        "url": "https://open.spotify.com/album/6uHdPehfuo9Es9tWGatg8c"
+        "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
+        "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
       },
       "artists": [
         {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
         }
       ],
-      "duration_ms": 217533,
-      "name": "Bad Man",
-      "url": "https://open.spotify.com/track/40SeJqkDwPJp9tcVWMEgMB"
+      "duration_ms": 220760,
+      "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1307,34 +1307,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Remake Romantic 2",
-        "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
+        "name": "N001",
+        "url": "https://open.spotify.com/album/6uHdPehfuo9Es9tWGatg8c"
       },
       "artists": [
         {
-          "name": "Seo Young Eun",
-          "url": "https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB"
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
         }
       ],
-      "duration_ms": 215248,
-      "name": "\ub110 \uc0ac\ub791\ud558\uaca0\uc5b4",
-      "url": "https://open.spotify.com/track/1cSPBiaK1NydJnQaYxKwDt"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
-        "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
-      },
-      "artists": [
-        {
-          "name": "Yangpa",
-          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
+      "duration_ms": 217533,
+      "name": "Bad Man",
+      "url": "https://open.spotify.com/track/40SeJqkDwPJp9tcVWMEgMB"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1355,34 +1339,34 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "One Time For Your Mind",
-        "url": "https://open.spotify.com/album/2SVamLzGfpr4QCyCWjmXjT"
+        "name": "Remake Romantic 2",
+        "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
       "artists": [
         {
-          "name": "1TYM",
-          "url": "https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS"
+          "name": "Seo Young Eun",
+          "url": "https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB"
         }
       ],
-      "duration_ms": 210626,
-      "name": "1Tym",
-      "url": "https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw"
+      "duration_ms": 215248,
+      "name": "\ub110 \uc0ac\ub791\ud558\uaca0\uc5b4",
+      "url": "https://open.spotify.com/track/1cSPBiaK1NydJnQaYxKwDt"
     },
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "It's Raining",
-        "url": "https://open.spotify.com/album/45ngiRidCweoSOwjcSsj0A"
+        "name": "Double Life ; The Other Side",
+        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
       },
       "artists": [
         {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
         }
       ],
-      "duration_ms": 225306,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/42dgKh54xg8W39NDDIrmCz"
+      "duration_ms": 252906,
+      "name": "\ucc28\ub9c8...",
+      "url": "https://open.spotify.com/track/1sAWuJLbUYdNdl8rrCxK5A"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1407,34 +1391,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Double Life ; The Other Side",
-        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
+        "name": "One Time For Your Mind",
+        "url": "https://open.spotify.com/album/2SVamLzGfpr4QCyCWjmXjT"
       },
       "artists": [
         {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+          "name": "1TYM",
+          "url": "https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS"
         }
       ],
-      "duration_ms": 252906,
-      "name": "\ucc28\ub9c8...",
-      "url": "https://open.spotify.com/track/1sAWuJLbUYdNdl8rrCxK5A"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Digital Bounce",
-        "url": "https://open.spotify.com/album/3o9MuNv5noRVl9IJL01BK6"
-      },
-      "artists": [
-        {
-          "name": "SE7EN",
-          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
-        }
-      ],
-      "duration_ms": 218120,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/07BrAHEuDfgZ3mtHZyCa6u"
+      "duration_ms": 210626,
+      "name": "1Tym",
+      "url": "https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1455,8 +1423,24 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "RAIN 2",
-        "url": "https://open.spotify.com/album/0COc1yDwr8FL4dCcUQ6DWk"
+        "name": "Digital Bounce",
+        "url": "https://open.spotify.com/album/3o9MuNv5noRVl9IJL01BK6"
+      },
+      "artists": [
+        {
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
+        }
+      ],
+      "duration_ms": 218120,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/07BrAHEuDfgZ3mtHZyCa6u"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "It's Raining",
+        "url": "https://open.spotify.com/album/45ngiRidCweoSOwjcSsj0A"
       },
       "artists": [
         {
@@ -1464,25 +1448,9 @@
           "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
         }
       ],
-      "duration_ms": 231173,
-      "name": "How to Run From the Sun (Gtr.Remix)",
-      "url": "https://open.spotify.com/track/67A5HpruURs2HzdC9wAN7F"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "My Fair Lady (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6IPH808fsWagTBK9SusndW"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Hot Stuff",
-      "url": "https://open.spotify.com/track/0mBqZHt102BjZ6Rb6EQJ2a"
+      "duration_ms": 225306,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/42dgKh54xg8W39NDDIrmCz"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1499,6 +1467,22 @@
       "duration_ms": 273059,
       "name": "\uc544\ubb34\ub9ac \uc0dd\uac01\ud574\ub3c4 \ub09c \ub108\ub97c",
       "url": "https://open.spotify.com/track/4yTuqkCAUwPuW0cHqEKdcm"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "My Fair Lady (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6IPH808fsWagTBK9SusndW"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Hot Stuff",
+      "url": "https://open.spotify.com/track/0mBqZHt102BjZ6Rb6EQJ2a"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1567,22 +1551,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Kim Hyung Joong Vol.2",
-        "url": "https://open.spotify.com/album/2F5VPglaJbVVV7L8YxaUk9"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyung Joong",
-          "url": "https://open.spotify.com/artist/1jradFWIr4pb2BP15kl3a5"
-        }
-      ],
-      "duration_ms": 269377,
-      "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544",
-      "url": "https://open.spotify.com/track/4B3wiMUUtr0r2DNhLKw8Bu"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Double Life ; The Other Side",
         "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
       },
@@ -1595,6 +1563,38 @@
       "duration_ms": 266933,
       "name": "\uc678\uc6cc \ub450\uc138\uc694",
       "url": "https://open.spotify.com/track/5mwewbv8nbk1rC6s8MowP1"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "RAIN 2",
+        "url": "https://open.spotify.com/album/0COc1yDwr8FL4dCcUQ6DWk"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "How to Run From the Sun (Gtr.Remix)",
+      "url": "https://open.spotify.com/track/67A5HpruURs2HzdC9wAN7F"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Kim Hyung Joong Vol.2",
+        "url": "https://open.spotify.com/album/2F5VPglaJbVVV7L8YxaUk9"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyung Joong",
+          "url": "https://open.spotify.com/artist/1jradFWIr4pb2BP15kl3a5"
+        }
+      ],
+      "duration_ms": 269377,
+      "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544",
+      "url": "https://open.spotify.com/track/4B3wiMUUtr0r2DNhLKw8Bu"
     },
     {
       "added_at": "2021-03-11 16:26:11",

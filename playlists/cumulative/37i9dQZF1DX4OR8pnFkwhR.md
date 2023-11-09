@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: First Love is Never Returned
 
-1,201 songs - 3 day 1 hr 42 min
+1,202 songs - 3 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [NANIMONO](https://open.spotify.com/track/71piqHMTaaVbYWEWuaCk32) | [ISAFAT](https://open.spotify.com/artist/33wEh0YSqRNAP4PZrH0zkt) | [NANIMONO](https://open.spotify.com/album/3p1A4cDKrymxq8rThTl6Vz) | 3:38 | 2023-08-08 | 2023-09-06 |
 | [narashite](https://open.spotify.com/track/7IIRN7KZksXp9ieBFmNuHI) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [harutosyura](https://open.spotify.com/album/6or18qH3INbHS0kyALV2HL) | 3:19 | 2023-01-12 | 2023-02-02 |
 | [narcissism](https://open.spotify.com/track/0Zq6r6hxA47VIvokSKO3Zu) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL) | [narcissism](https://open.spotify.com/album/1p7VQ1wJ2LXWxrAUJjtSic) | 2:19 | 2023-09-19 | 2023-10-18 |
+| [Ne](https://open.spotify.com/track/3KV4EBhSRCwd9b81pR7bBb) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [Ne](https://open.spotify.com/album/3FxaatoFuQz99OLWgglHR4) | 2:28 | 2023-11-07 |  |
 | [Nectar.](https://open.spotify.com/track/5YamNEPEtoovtVgLWPZThg) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar.](https://open.spotify.com/album/1InAJl1AGu9H9hjt1lOtGe) | 3:00 | 2023-01-12 | 2023-02-02 |
 | [Nectar\. \- uin Remix](https://open.spotify.com/track/0lOKFVFJDrueXNPWcXAXI5) | [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar\. \(uin Remix\)](https://open.spotify.com/album/1HEmSU08rWCzt867p5uOYo) | 3:06 | 2022-06-21 | 2022-07-13 |
 | [Neighbor](https://open.spotify.com/track/5Gfd9OVeGAntRYosUS0ZCy) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Neighbor](https://open.spotify.com/album/4SMsvmN93mpnD23tZXZikV) | 4:32 | 2023-02-21 | 2023-03-22 |
@@ -779,7 +780,7 @@
 | [どうでもよくなれ](https://open.spotify.com/track/1HloaDHtP0xBQOsG7iUdX0) | [anewhite](https://open.spotify.com/artist/1t3Ztvll4l7XhrpkePZKfM) | [どうでもよくなれ](https://open.spotify.com/album/2KRvTKJjSSuSIxyfqzvtj7) | 3:27 | 2023-03-07 | 2023-03-29 |
 | [どぎまぎ](https://open.spotify.com/track/27wRgdpVu61YL1LJq5H6dZ) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Branch](https://open.spotify.com/album/6Slv8BDdb7322gk9MghxHb) | 3:35 | 2022-12-20 | 2023-02-22 |
 | [なんてったっけタイトル](https://open.spotify.com/track/20rrZeWHRaGY8iGx4WDJgU) | [少年キッズボウイ](https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5) | [なんてったっけタイトル](https://open.spotify.com/album/3I2d15qzktWcG6itZBZPuE) | 2:45 | 2023-06-27 | 2023-08-16 |
-| [ね。](https://open.spotify.com/track/6xBUnxD7foU3vFtoDO7m38) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [ね。](https://open.spotify.com/album/5enEOSfhmsoLF7uhQDm6gu) | 2:28 | 2023-11-07 |  |
+| [ね。](https://open.spotify.com/track/6xBUnxD7foU3vFtoDO7m38) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [ね。](https://open.spotify.com/album/5enEOSfhmsoLF7uhQDm6gu) | 2:28 | 2023-11-07 | 2023-11-09 |
 | [はじまる](https://open.spotify.com/track/1CERFGNBkEUq68yxHyvGYs) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [はじまる](https://open.spotify.com/album/68xb9Fj47KT2j6YCerL0QL) | 3:47 | 2022-04-05 | 2022-05-11 |
 | [はなにあらし](https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [はなにあらし](https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk) | 4:32 | 2023-11-07 |  |
 | [ひかり](https://open.spotify.com/track/24qLak5ULUj0680uqueJOl) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [ひかり](https://open.spotify.com/album/3LmFbVc7PaFeAMxonbW21A) | 3:47 | 2022-05-03 | 2022-06-15 |

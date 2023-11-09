@@ -1,12 +1,12 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 812414,
+  "num_followers": 812443,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDliNWQ2YWJkZmQ5ZjhkYTdjN2E1ODE1ODc0YzU1YWE2YWE5YWRh",
+  "snapshot_id": "MCwxMzM5NzhiZGUxZDMwNDllYTU5YjU2YWVhYjNhZWQ3OTJiNGUyZmIw",
   "tracks": [
     {
       "added_at": "2023-06-09 14:25:05",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
+      },
+      "artists": [
+        {
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+        }
+      ],
+      "duration_ms": 206100,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
         "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 194884,
       "name": "South of the Border (feat. Camila Cabello) - Acoustic",
       "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
-      },
-      "artists": [
-        {
-          "name": "Dan Berk",
-          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
-        }
-      ],
-      "duration_ms": 206100,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Sunday Best (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
-      },
-      "artists": [
-        {
-          "name": "Brandon Chase",
-          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
-        }
-      ],
-      "duration_ms": 150538,
-      "name": "Sunday Best - Acoustic Version",
-      "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Starboy (Acoustic)",
         "url": "https://open.spotify.com/album/5Bh0yujzOhMqly3ONkprWR"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 225790,
       "name": "Starboy - Acoustic",
       "url": "https://open.spotify.com/track/2QoyYV4YAuw9T9UgsDoam2"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Sunday Best (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "duration_ms": 150538,
+      "name": "Sunday Best - Acoustic Version",
+      "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 149062,
-      "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Somebody That I Used To Know",
         "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 172454,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 149062,
+      "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "You Get What You Give",
+        "url": "https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "You Get What You Give",
+      "url": "https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "City Of Stars",
         "url": "https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 143487,
       "name": "What a wonderful world",
       "url": "https://open.spotify.com/track/01qdqaZOIx9JIlsvIvTa33"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "You Get What You Give",
-        "url": "https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd"
-      },
-      "artists": [
-        {
-          "name": "Jenny Thorn",
-          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "You Get What You Give",
-      "url": "https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/3dS1DCljr8LjIweYoUhbgB"
-      },
-      "artists": [
-        {
-          "name": "Dan Berk",
-          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
-        }
-      ],
-      "duration_ms": 198712,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4ptDJbJl35d7gQfeNteBwp"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Happy Now (Acoustic Version)",
         "url": "https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 194285,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/3dS1DCljr8LjIweYoUhbgB"
+      },
+      "artists": [
+        {
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+        }
+      ],
+      "duration_ms": 198712,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4ptDJbJl35d7gQfeNteBwp"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/2fYaBSkUVlzK5nTDxLYMZ3"
-      },
-      "artists": [
-        {
-          "name": "Powell Sullivan",
-          "url": "https://open.spotify.com/artist/2m1anAOoOQM3Df2j3tNelS"
-        }
-      ],
-      "duration_ms": 281302,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/7mFKhrFYjNsC2IMHCMzsDg"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 242011,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/2fYaBSkUVlzK5nTDxLYMZ3"
+      },
+      "artists": [
+        {
+          "name": "Powell Sullivan",
+          "url": "https://open.spotify.com/artist/2m1anAOoOQM3Df2j3tNelS"
+        }
+      ],
+      "duration_ms": 281302,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/7mFKhrFYjNsC2IMHCMzsDg"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Cabeza de le\u00f3n",
-        "url": "https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J"
-      },
-      "artists": [
-        {
-          "name": "Jero Romero",
-          "url": "https://open.spotify.com/artist/6TCN68dPlpAJMADKP3LmYh"
-        }
-      ],
-      "duration_ms": 154628,
-      "name": "Correcto",
-      "url": "https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 145075,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/67Mij0TZUmIB9ZmjkZXtN8"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Cabeza de le\u00f3n",
+        "url": "https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J"
+      },
+      "artists": [
+        {
+          "name": "Jero Romero",
+          "url": "https://open.spotify.com/artist/6TCN68dPlpAJMADKP3LmYh"
+        }
+      ],
+      "duration_ms": 154628,
+      "name": "Correcto",
+      "url": "https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Ransom",
+        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 166698,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Off Off On",
         "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
@@ -1951,54 +1967,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Ransom",
-        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 166698,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Hearts",
-        "url": "https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt"
-      },
-      "artists": [
-        {
-          "name": "Nari",
-          "url": "https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl"
-        }
-      ],
-      "duration_ms": 170571,
-      "name": "Hearts",
-      "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 274040,
-      "name": "Shadow Captain",
-      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -2043,6 +2011,38 @@
       "duration_ms": 188712,
       "name": "Sweet but Psycho - Acoustic",
       "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt"
+      },
+      "artists": [
+        {
+          "name": "Nari",
+          "url": "https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl"
+        }
+      ],
+      "duration_ms": 170571,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 274040,
+      "name": "Shadow Captain",
+      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Fractal",
-        "url": "https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 265173,
-      "name": "Fractal",
-      "url": "https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Songs of Dylan",
         "url": "https://open.spotify.com/album/0g3wrEeb4CHYrCf1mVM9xJ"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 158491,
       "name": "Knockin' On Heaven's Door",
       "url": "https://open.spotify.com/track/20VC8UqK5YUBDQZIozqdGV"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Fractal",
+        "url": "https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 265173,
+      "name": "Fractal",
+      "url": "https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2459,6 +2459,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 130470,
+      "name": "Configuraciones Onduladas",
+      "url": "https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Two Lives EP",
         "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
       },
@@ -2487,22 +2503,6 @@
       "duration_ms": 192168,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 130470,
-      "name": "Configuraciones Onduladas",
-      "url": "https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf"
     },
     {
       "added_at": "2023-06-09 14:25:05",

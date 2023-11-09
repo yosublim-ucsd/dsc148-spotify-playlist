@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 418410,
+  "num_followers": 418493,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWNjNTJhMDQ0YmQxZmQ0YTIzZGM5ZWJjYTcyZjcxNTE1OGU1ZDJk",
+  "snapshot_id": "MCw5ZWIyMzg2NTExNDcwYjYwY2UwMGZiMjUzMDFiOTAxZjQ0MDc0NDg5",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Bad Contestant",
-        "url": "https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 200093,
-      "name": "Strange Time",
-      "url": "https://open.spotify.com/track/4eCXQY1vh9XMW66LmS5alP"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Hard Candy",
         "url": "https://open.spotify.com/album/0G92mUSxbHxB804ldhPOru"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 113454,
       "name": "Hard Candy",
       "url": "https://open.spotify.com/track/4eEvoOiMlEaE2jbEPbYN7b"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Bad Contestant",
+        "url": "https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 200093,
+      "name": "Strange Time",
+      "url": "https://open.spotify.com/track/4eCXQY1vh9XMW66LmS5alP"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "My Cosmos Is Mine",
-        "url": "https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 316899,
-      "name": "My Cosmos Is Mine",
-      "url": "https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "xx",
         "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 216853,
       "name": "Night Time",
       "url": "https://open.spotify.com/track/53AfCfybXX2rNfTSej1mOB"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "My Cosmos Is Mine",
+        "url": "https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 316899,
+      "name": "My Cosmos Is Mine",
+      "url": "https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Services",
+        "url": "https://open.spotify.com/album/4uj1BNKsrRaeis2VjnVfvU"
+      },
+      "artists": [
+        {
+          "name": "Tempers",
+          "url": "https://open.spotify.com/artist/0yIDrFWDGrnVk3FPLJmsX2"
+        }
+      ],
+      "duration_ms": 250211,
+      "name": "Strange Harvest",
+      "url": "https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Horror Scene (feat. aldn)",
         "url": "https://open.spotify.com/album/5HHUqHd5DFN8wjAdarGnvX"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 119396,
       "name": "Horror Scene (feat. aldn)",
       "url": "https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Services",
-        "url": "https://open.spotify.com/album/4uj1BNKsrRaeis2VjnVfvU"
-      },
-      "artists": [
-        {
-          "name": "Tempers",
-          "url": "https://open.spotify.com/artist/0yIDrFWDGrnVk3FPLJmsX2"
-        }
-      ],
-      "duration_ms": 250211,
-      "name": "Strange Harvest",
-      "url": "https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1039,6 +1039,42 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Take Me Down (Nourished by Time Version)",
+        "url": "https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 243387,
+      "name": "Take Me Down - Nourished by Time Version",
+      "url": "https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Spelling",
+        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
+      },
+      "artists": [
+        {
+          "name": "Lolahol",
+          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
+        }
+      ],
+      "duration_ms": 241133,
+      "name": "Spelling",
+      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Fire Leap",
         "url": "https://open.spotify.com/album/648ChSAlKMM1uPUvWjvpKr"
       },
@@ -1063,42 +1099,6 @@
       "duration_ms": 171098,
       "name": "Fire Leap",
       "url": "https://open.spotify.com/track/5WbLDvtHGLuqsVVWIJrP7U"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Spelling",
-        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
-      },
-      "artists": [
-        {
-          "name": "Lolahol",
-          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
-        }
-      ],
-      "duration_ms": 241133,
-      "name": "Spelling",
-      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Take Me Down (Nourished by Time Version)",
-        "url": "https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr"
-      },
-      "artists": [
-        {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
-        },
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 243387,
-      "name": "Take Me Down - Nourished by Time Version",
-      "url": "https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Flower of Devotion",
-        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 177316,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 264746,
       "name": "L'Inconnue",
       "url": "https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Flower of Devotion",
+        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 177316,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Serfs Up!",
-        "url": "https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ"
-      },
-      "artists": [
-        {
-          "name": "Fat White Family",
-          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
-        }
-      ],
-      "duration_ms": 342538,
-      "name": "Tastes Good With The Money",
-      "url": "https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Somebody Told Me",
         "url": "https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 231242,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Serfs Up!",
+        "url": "https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "duration_ms": 342538,
+      "name": "Tastes Good With The Money",
+      "url": "https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "The Waves Pt. 1",
-        "url": "https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW"
-      },
-      "artists": [
-        {
-          "name": "Kele",
-          "url": "https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0"
-        }
-      ],
-      "duration_ms": 262040,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Heart Under",
         "url": "https://open.spotify.com/album/6zVROv27567N68Hu6EVbxb"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 230133,
       "name": "I Am You",
       "url": "https://open.spotify.com/track/1hH8iCAI7si2uM6JGn7Pdl"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "The Waves Pt. 1",
+        "url": "https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW"
+      },
+      "artists": [
+        {
+          "name": "Kele",
+          "url": "https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0"
+        }
+      ],
+      "duration_ms": 262040,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Toner",
-        "url": "https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq"
+        "name": "The Wetlands",
+        "url": "https://open.spotify.com/album/1f9aZDpwbuGpridBmTHi8h"
       },
       "artists": [
         {
-          "name": "PVA",
-          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
+          "name": "Aoife Wolf",
+          "url": "https://open.spotify.com/artist/0UjP3boKokgDROjh9HzfYg"
         }
       ],
-      "duration_ms": 340813,
-      "name": "Exhaust / Surroundings",
-      "url": "https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW"
+      "duration_ms": 237000,
+      "name": "The Wetlands",
+      "url": "https://open.spotify.com/track/4bA08mTRGaTbyAdZedkgaX"
     }
   ],
   "unique_name": "Spooky",

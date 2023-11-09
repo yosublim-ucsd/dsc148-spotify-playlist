@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 134402,
+  "num_followers": 134532,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTM4MWViMGJiYmFkY2Q3NmU1MzdkNzU4NzBjYzUzMzE3M2JkZDVi",
+  "snapshot_id": "MCxjMTBlYjA5OWM5YTNlZjhkMGVhM2ViYzA1Nzg1M2IwODNhYjMyZjcz",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -175,26 +175,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Bocelli (Remastered)",
-        "url": "https://open.spotify.com/album/3uARqNN4bYqts3Ltg5Jku3"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "Giorgia",
-          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
-        }
-      ],
-      "duration_ms": 265584,
-      "name": "Vivo per lei",
-      "url": "https://open.spotify.com/track/6cPLCU7hKjgjvLWzCevl7R"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 206120,
       "name": "Un Poco De Tu Amor",
       "url": "https://open.spotify.com/track/64mK5Yd0rdGeXVkMFspEyt"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Bocelli (Remastered)",
+        "url": "https://open.spotify.com/album/3uARqNN4bYqts3Ltg5Jku3"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "duration_ms": 265584,
+      "name": "Vivo per lei",
+      "url": "https://open.spotify.com/track/6cPLCU7hKjgjvLWzCevl7R"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "El Privilegio De Amar",
+        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "El Privilegio De Amar",
+      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 214306,
       "name": "Rebelde",
       "url": "https://open.spotify.com/track/56tOMi4N980gmsdUoyaLb3"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "El Privilegio De Amar",
-        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "El Privilegio De Amar",
-      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "El Amor Manda",
-        "url": "https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9rica Sierra",
-          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Porque El Amor Manda",
-      "url": "https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Te Amo Tv - Exitos Originales de las Telenovelas",
         "url": "https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 191306,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "El Amor Manda",
+        "url": "https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9rica Sierra",
+          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Porque El Amor Manda",
+      "url": "https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Mar\u00eda Jos\u00e9... De Noche",
-        "url": "https://open.spotify.com/album/0yAXAYtFvoAV3j5FsL1eg4"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "El Amor Manda",
-      "url": "https://open.spotify.com/track/2pJYqi7AXzGfw6Tl3G8rZq"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Dicen",
         "url": "https://open.spotify.com/album/4H1sa79MAZ1neRpTKa5Idz"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 226906,
       "name": "Simplemente T\u00fa",
       "url": "https://open.spotify.com/track/6n5bmDFKf6PNPfyMBxYdyA"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Mar\u00eda Jos\u00e9... De Noche",
+        "url": "https://open.spotify.com/album/0yAXAYtFvoAV3j5FsL1eg4"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "El Amor Manda",
+      "url": "https://open.spotify.com/track/2pJYqi7AXzGfw6Tl3G8rZq"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Alegrije",
-        "url": "https://open.spotify.com/album/0Nmu9Wqf6bBvVzGlT5RejR"
-      },
-      "artists": [
-        {
-          "name": "Soundtrack Alegrijes y Rebujos",
-          "url": "https://open.spotify.com/artist/78Gki9mhnVIJYJdogQyno5"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "Alegrijes y rebujos",
-      "url": "https://open.spotify.com/track/2U0eZH4CmdPMcfUPqsMqae"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "1985-1998",
         "url": "https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 205800,
       "name": "La Usurpadora",
       "url": "https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Alegrije",
+        "url": "https://open.spotify.com/album/0Nmu9Wqf6bBvVzGlT5RejR"
+      },
+      "artists": [
+        {
+          "name": "Soundtrack Alegrijes y Rebujos",
+          "url": "https://open.spotify.com/artist/78Gki9mhnVIJYJdogQyno5"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "Alegrijes y rebujos",
+      "url": "https://open.spotify.com/track/2U0eZH4CmdPMcfUPqsMqae"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Super #1's",
-        "url": "https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Contra Viento Y Marea",
-      "url": "https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Huevos Rancheros",
         "url": "https://open.spotify.com/album/0zN4M7NeFS0jwlfDYLPZux"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 191253,
       "name": "Golondrinas Viajeras",
       "url": "https://open.spotify.com/track/3DbfaeYuOpw8wP6ruA4sTz"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Super #1's",
+        "url": "https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Contra Viento Y Marea",
+      "url": "https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U"
     }
   ],
   "unique_name": "Telenovelas",

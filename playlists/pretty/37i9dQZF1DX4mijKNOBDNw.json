@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 54184,
+  "num_followers": 54194,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjBiZmJhOGI0Y2ZiZjBjOTc5MzY2OTdlMTRhZDkyZDJlNWI4YmM1",
+  "snapshot_id": "MCw2NWQ2NDJmZWI4YjNlM2YxOWY5MjA2NjJiNTQ5OTk5OTRhNGUyNjg2",
   "tracks": [
     {
       "added_at": "2023-11-03 06:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-11-03 06:00:00",
       "album": {
-        "name": "One Blood (Una Sangre)",
-        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
+        "name": "Guerrera",
+        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
       },
       "artists": [
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
         }
       ],
-      "duration_ms": 226626,
-      "name": "Dignificada",
-      "url": "https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng"
+      "duration_ms": 251739,
+      "name": "Guerrera",
+      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
     },
     {
       "added_at": "2023-11-03 06:00:00",
@@ -663,18 +663,34 @@
     {
       "added_at": "2023-11-03 06:00:00",
       "album": {
-        "name": "Guerrera",
-        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
+        "name": "One Blood (Una Sangre)",
+        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
       },
       "artists": [
         {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 251739,
-      "name": "Guerrera",
-      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
+      "duration_ms": 226626,
+      "name": "Dignificada",
+      "url": "https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng"
+    },
+    {
+      "added_at": "2023-11-03 06:00:00",
+      "album": {
+        "name": "Autogestion y Resistencia",
+        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
+      },
+      "artists": [
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Sororidad",
+      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
     },
     {
       "added_at": "2023-11-03 06:00:00",
@@ -707,22 +723,6 @@
       "duration_ms": 221278,
       "name": "Libres",
       "url": "https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C"
-    },
-    {
-      "added_at": "2023-11-03 06:00:00",
-      "album": {
-        "name": "Autogestion y Resistencia",
-        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
-      },
-      "artists": [
-        {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Sororidad",
-      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
     },
     {
       "added_at": "2023-11-03 06:00:00",
@@ -999,38 +999,6 @@
     {
       "added_at": "2023-11-03 06:00:00",
       "album": {
-        "name": "No Ves",
-        "url": "https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 199312,
-      "name": "No Ves",
-      "url": "https://open.spotify.com/track/5y38M7sJvnfZPguQBYO7qx"
-    },
-    {
-      "added_at": "2023-11-03 06:00:00",
-      "album": {
-        "name": "Nos Queremos Vivas",
-        "url": "https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
-        }
-      ],
-      "duration_ms": 220576,
-      "name": "Nos Queremos Vivas",
-      "url": "https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt"
-    },
-    {
-      "added_at": "2023-11-03 06:00:00",
-      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/1qeYxt5kg2nX9Bw3Qic8jj"
       },
@@ -1075,6 +1043,38 @@
     {
       "added_at": "2023-11-03 06:00:00",
       "album": {
+        "name": "Nos Queremos Vivas",
+        "url": "https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        }
+      ],
+      "duration_ms": 220576,
+      "name": "Nos Queremos Vivas",
+      "url": "https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt"
+    },
+    {
+      "added_at": "2023-11-03 06:00:00",
+      "album": {
+        "name": "No Ves",
+        "url": "https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 199312,
+      "name": "No Ves",
+      "url": "https://open.spotify.com/track/5y38M7sJvnfZPguQBYO7qx"
+    },
+    {
+      "added_at": "2023-11-03 06:00:00",
+      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 195560,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2"
-    },
-    {
-      "added_at": "2023-11-03 06:00:00",
-      "album": {
-        "name": "D\u00e9jame de Matar",
-        "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 190169,
-      "name": "D\u00e9jame de Matar",
-      "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
     },
     {
       "added_at": "2023-11-03 06:00:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 230400,
       "name": "Hasta Salvarnos",
       "url": "https://open.spotify.com/track/25T6UjiA4nsWF4DXLgwMXU"
+    },
+    {
+      "added_at": "2023-11-03 06:00:00",
+      "album": {
+        "name": "D\u00e9jame de Matar",
+        "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 190169,
+      "name": "D\u00e9jame de Matar",
+      "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
     },
     {
       "added_at": "2023-11-03 06:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-11-03 06:00:00",
       "album": {
-        "name": "Marta",
-        "url": "https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR"
-      },
-      "artists": [
-        {
-          "name": "Marta",
-          "url": "https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q"
-        }
-      ],
-      "duration_ms": 207452,
-      "name": "Otra Humanidad",
-      "url": "https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws"
-    },
-    {
-      "added_at": "2023-11-03 06:00:00",
-      "album": {
         "name": "Mi Fuerza Es Tuya",
         "url": "https://open.spotify.com/album/5OeRmEiUnbVCOCSBpYrk1W"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 245441,
       "name": "Mi Fuerza Es Tuya",
       "url": "https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga"
+    },
+    {
+      "added_at": "2023-11-03 06:00:00",
+      "album": {
+        "name": "Marta",
+        "url": "https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR"
+      },
+      "artists": [
+        {
+          "name": "Marta",
+          "url": "https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q"
+        }
+      ],
+      "duration_ms": 207452,
+      "name": "Otra Humanidad",
+      "url": "https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws"
     },
     {
       "added_at": "2023-11-03 06:00:00",

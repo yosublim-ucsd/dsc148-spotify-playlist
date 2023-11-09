@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-2,157 songs - 4 day 9 hr 36 min
+2,158 songs - 4 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -997,7 +997,7 @@
 | [Karussell](https://open.spotify.com/track/2bq6A8jTCM4TqUf3fcLgJs) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Karussell](https://open.spotify.com/album/7j3alBkBX6MaPfGZsPDdv9) | 2:37 | 2022-06-25 | 2022-06-27 |
 | [Katana](https://open.spotify.com/track/5IWdTVWfyptPgld5406jpA) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [Big Pat](https://open.spotify.com/artist/1ZpLpz4tFdvUocboq1KX3M) | [Katana](https://open.spotify.com/album/5HKOpkVGQlIFKy5YejukXN) | 2:53 | 2023-08-26 | 2023-08-28 |
 | [KATASTROF](https://open.spotify.com/track/2dQOLMtsC7x9lsLXnQ2o7z) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [KATASTROF](https://open.spotify.com/album/1knaxOgedHfG3SvgBo77uW) | 2:24 | 2021-12-12 | 2021-12-13 |
-| [Katile](https://open.spotify.com/track/4mFDARNcAMmqq4qwTbIFjJ) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Katile](https://open.spotify.com/album/73kFkLJPBKlhv340tvCllj) | 2:32 | 2023-11-04 |  |
+| [Katile](https://open.spotify.com/track/4mFDARNcAMmqq4qwTbIFjJ) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Katile](https://open.spotify.com/album/73kFkLJPBKlhv340tvCllj) | 2:32 | 2023-11-04 | 2023-11-09 |
 | [Kein Happy End](https://open.spotify.com/track/6DTwDxAvSedxQ59N4ReMzH) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Nie verliebt](https://open.spotify.com/album/0oT9yCzfAsD4cI7zOczbmC) | 2:46 | 2022-04-09 | 2022-04-11 |
 | [Kein Idol](https://open.spotify.com/track/5G62LlUH64UimOCsy6Q5PL) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [Kein Idol](https://open.spotify.com/album/1FDAKuRS8ExymO8QBXJy0q) | 2:11 | 2023-03-11 | 2023-03-18 |
 | [Kein Morgen](https://open.spotify.com/track/7mSES8kavj9a5V6SLM90za) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Kein Morgen](https://open.spotify.com/album/3sXm2nL8KZa2g3qa0tUkVO) | 2:58 | 2023-09-02 | 2023-09-04 |
@@ -1171,6 +1171,7 @@
 | [LÄUFT \(feat\. OMAR\)](https://open.spotify.com/track/28hwlWZr9C1kabx4Q7z44t) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V), [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [NORMALITÄT](https://open.spotify.com/album/76unPICmF9fkUCqJNPI4PI) | 3:01 | 2021-08-08 | 2021-08-09 |
 | [Lüg mich an](https://open.spotify.com/track/2PtNuLMikmNybz4nhIqgOq) | [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Lüg mich an](https://open.spotify.com/album/0o03Znqs1Sgm04RQItH3BF) | 2:40 | 2021-10-10 | 2021-10-19 |
 | [Lügen](https://open.spotify.com/track/1LvyuaK3gMkd4MLxSEf9MO) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:49 | 2022-04-30 | 2022-05-05 |
+| [Ma Jolie](https://open.spotify.com/track/38kmnVWMW8h5GpnRgNQueB) | [MADE](https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj), [CALI](https://open.spotify.com/artist/4UXV9jTkL3Iqg1n5kJf4p3), [Kenan](https://open.spotify.com/artist/3iNULJ7Pzkesh8xo72Xy9e), [Infinit](https://open.spotify.com/artist/3VDh3hIeQKMHrBKDG9oCwj) | [Ma Jolie](https://open.spotify.com/album/3LRbbCBxWsfsG0bcC8iGgn) | 2:32 | 2023-11-08 |  |
 | [Mach dich nicht kaputt](https://open.spotify.com/track/0k8c676jCNnrLIJAaT26rX) | [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Noah](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL) | [Luftballon EP](https://open.spotify.com/album/5b34iA2RXnOrp4NWuazW5k) | 2:30 | 2023-04-01 | 2023-04-03 |
 | [Mach kaputt](https://open.spotify.com/track/5BYHix1INNkgiIjcnlewIh) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb), [OG Keemo](https://open.spotify.com/artist/4gJT0OnBISFA5CPMNYBGIE) | [Mach kaputt](https://open.spotify.com/album/1YxQJI2BWCPeA48pKEyAW4) | 3:55 | 2022-04-23 | 2022-04-25 |
 | [Machen Geld](https://open.spotify.com/track/30NOYXdrNtURakJTZQzVkb) | [Sa4](https://open.spotify.com/artist/5qZLYtTL3ldN6Uw7OXHESR), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Machen Geld](https://open.spotify.com/album/2Bpueq5aDoKyzQfZDARLPE) | 2:17 | 2022-05-07 | 2022-05-15 |

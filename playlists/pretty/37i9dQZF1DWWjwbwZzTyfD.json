@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack of Nike's NYvsNY, curated by the players. We Outside!",
-  "num_followers": 11407,
+  "num_followers": 11413,
   "original_name": "NYvsNY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWZhODBlNzZmNDA2OWM1M2YzNzczZGFiYWIxY2YyMDkzNmI2MmQ1",
+  "snapshot_id": "MCwzM2ViMWRmZGViYjhkZGM5MDI2ZjRmYWMxZGEwZDFlNjI4OWYzNjlk",
   "tracks": [
     {
       "added_at": "2023-07-10 21:55:04",
@@ -41,26 +41,6 @@
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 239359,
-      "name": "Rich Flex",
-      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
-    },
-    {
       "added_at": "2023-07-10 21:55:04",
       "album": {
         "name": "HEROES & VILLAINS",
@@ -83,6 +63,26 @@
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
+        "name": "AI YoungBoy 2",
+        "url": "https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 148629,
+      "name": "Make No Sense",
+      "url": "https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
         "name": "Almost Healed",
         "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "AI YoungBoy 2",
-        "url": "https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 148629,
-      "name": "Make No Sense",
-      "url": "https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Back from the Dead 2",
-        "url": "https://open.spotify.com/album/6uOn9t70gVO6YPU4M65h5g"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 206654,
-      "name": "Faneto",
-      "url": "https://open.spotify.com/track/7EcE5yCPVZaZut1JqowbcI"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Strike (Holster)",
         "url": "https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 148115,
       "name": "Strike (Holster)",
       "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Back from the Dead 2",
+        "url": "https://open.spotify.com/album/6uOn9t70gVO6YPU4M65h5g"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 206654,
+      "name": "Faneto",
+      "url": "https://open.spotify.com/track/7EcE5yCPVZaZut1JqowbcI"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1421,24 +1421,24 @@
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
     },
     {
-      "added_at": "2023-07-10 21:55:04",
+      "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "GREECE (feat. Drake)",
-        "url": "https://open.spotify.com/album/3O6ywzP5LE5msmuBBTpaIN"
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 218901,
-      "name": "GREECE (feat. Drake)",
-      "url": "https://open.spotify.com/track/35RJhm1pEovTBwnNR0zWad"
+      "duration_ms": 256079,
+      "name": "Bed Peace",
+      "url": "https://open.spotify.com/track/5Ck3e6z1bcSCes5gdo0Ddt"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1461,24 +1461,24 @@
       "url": "https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn"
     },
     {
-      "added_at": "2023-06-27 06:48:40",
+      "added_at": "2023-07-10 21:55:04",
       "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+        "name": "GREECE (feat. Drake)",
+        "url": "https://open.spotify.com/album/3O6ywzP5LE5msmuBBTpaIN"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         },
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 256079,
-      "name": "Bed Peace",
-      "url": "https://open.spotify.com/track/5Ck3e6z1bcSCes5gdo0Ddt"
+      "duration_ms": 218901,
+      "name": "GREECE (feat. Drake)",
+      "url": "https://open.spotify.com/track/35RJhm1pEovTBwnNR0zWad"
     },
     {
       "added_at": "2023-07-10 21:55:04",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "The D.O.A. Tape",
-        "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
-      },
-      "artists": [
-        {
-          "name": "Kay Flock",
-          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
-        }
-      ],
-      "duration_ms": 124513,
-      "name": "Is Ya Ready",
-      "url": "https://open.spotify.com/track/0KUwCOylcgcDfSyuYNEe3a"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "#SantanaWorld (+)",
         "url": "https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 211875,
       "name": "The Race - Remix",
       "url": "https://open.spotify.com/track/7d19457woBxmPRCq255YqM"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "The D.O.A. Tape",
+        "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
+      },
+      "artists": [
+        {
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+        }
+      ],
+      "duration_ms": 124513,
+      "name": "Is Ya Ready",
+      "url": "https://open.spotify.com/track/0KUwCOylcgcDfSyuYNEe3a"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
+        "name": "Resume",
+        "url": "https://open.spotify.com/album/3AkeMkUB4TxgC0BRc2KsVw"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 235023,
+      "name": "Resume",
+      "url": "https://open.spotify.com/track/3U3gHqRwjam6CxwW68m30z"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
         "name": "Who is Nardo Wick?",
         "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 225533,
       "name": "Me or Sum (feat. Future & Lil Baby)",
       "url": "https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Resume",
-        "url": "https://open.spotify.com/album/3AkeMkUB4TxgC0BRc2KsVw"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 235023,
-      "name": "Resume",
-      "url": "https://open.spotify.com/track/3U3gHqRwjam6CxwW68m30z"
     },
     {
       "added_at": "2023-06-27 06:48:40",

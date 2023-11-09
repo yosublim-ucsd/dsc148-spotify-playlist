@@ -4,7 +4,7 @@
 
 > This is the Latin soundtrack of the 80s! Cover: Gloria Estefan
 
-71 songs - 4 hr 43 min
+72 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 | 2022-01-01 |  |
 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 | 2022-01-01 |  |
 | [Ay Que Pesado](https://open.spotify.com/track/0g6ngZ7j1hULpakfb993Z2) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre El Cielo Y El Suelo](https://open.spotify.com/album/63ndRW1N0SGkK7Az9CTrxF) | 3:59 | 2022-01-01 | 2022-07-29 |
+| [Ay Que Pesado](https://open.spotify.com/track/70JuT3NRucLbbJVG1vlDMW) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9) | 3:59 | 2023-02-17 |  |
 | [Ay, qué pesado](https://open.spotify.com/track/3G2hzcHCb4SF7fTNMaOJpV) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 3:59 | 2022-01-01 | 2023-11-05 |
 | [Bamboleo](https://open.spotify.com/track/5siwoDxCGDYnmfWV5SlUpE) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS) | 3:23 | 2022-01-01 |  |
 | [Bazar](https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:29 | 2022-01-01 |  |
@@ -32,7 +33,7 @@
 | [Cuéntame](https://open.spotify.com/track/1T1nYfU115UL2LhwTMyWr6) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Cuéntame](https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc) | 3:35 | 2022-01-01 |  |
 | [De Mi Enamórate](https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Original Masters](https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO) | 3:30 | 2022-01-01 |  |
 | [Devuélveme a mi chica](https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 3:14 | 2022-01-01 |  |
-| [Dr\. Beat](https://open.spotify.com/track/21kwcsNL7YnianpVjXumHc) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Eyes Of Innocence](https://open.spotify.com/album/46Hw8UXhTzNrI1Yroh7oEf) | 4:22 | 2022-08-31 |  |
+| [Dr\. Beat](https://open.spotify.com/track/21kwcsNL7YnianpVjXumHc) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Eyes Of Innocence](https://open.spotify.com/album/46Hw8UXhTzNrI1Yroh7oEf) | 4:22 | 2022-08-31 | 2023-11-09 |
 | [Dr\. Psiquiatra](https://open.spotify.com/track/3jF0zm2dfCPUpnDpLcx2F0) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aqui](https://open.spotify.com/album/2BRDFUTn1bWZP793gSFLJA) | 3:40 | 2022-01-01 | 2022-07-29 |
 | [Dr\. Psiquiatra](https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aquí?](https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6) | 3:41 | 2022-01-01 |  |
 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 | 2022-01-01 |  |

@@ -4,7 +4,7 @@
 
 > Nothing but beautiful country love songs.
 
-185 songs - 10 hr 27 min
+187 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH), [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/album/5sSVCvQnB0WkzXH3X8HpGe) | 2:49 | 2021-07-22 | 2023-01-25 |
 | [Big, Big Plans](https://open.spotify.com/track/7yNJCsUH3tXlpQiHSsAc5l) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Big, Big Plans](https://open.spotify.com/album/7xVbpLEzt8IQn82IBSMPzu) | 3:07 | 2021-07-20 |  |
 | [Bits & Pieces](https://open.spotify.com/track/2muPf36lYJMIqGzI3h8JTQ) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Bits & Pieces](https://open.spotify.com/album/5kGK6raX2Jt0hiQSZ6Q3uC) | 2:41 | 2022-02-04 | 2022-07-13 |
-| [Blessed](https://open.spotify.com/track/3hhSnbFhuGnXieFa1ql61R) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:34 | 2021-07-20 |  |
+| [Blessed](https://open.spotify.com/track/3hhSnbFhuGnXieFa1ql61R) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:34 | 2021-07-20 | 2023-11-09 |
 | [Body on Fire](https://open.spotify.com/track/2X8xveXTek8difQMoHjDkl) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Dreams > Dollars](https://open.spotify.com/album/75TirL38tWVI9UwNoJWfb5) | 3:40 | 2021-07-20 | 2022-07-29 |
 | [Born to Love You](https://open.spotify.com/track/77a5Eu7lC3tG0Sukt2O91U) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Hallelujah Nights](https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90) | 3:50 | 2022-03-25 |  |
 | [Breathe](https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 4:10 | 2021-07-20 |  |
@@ -49,6 +49,7 @@
 | [Down For It](https://open.spotify.com/track/0gV9XPgV9UuRBut2vKivqq) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Right Now](https://open.spotify.com/album/7K26C63gkM1i2JR0FdLPvT) | 3:14 | 2021-07-20 | 2022-04-19 |
 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2023-01-27 |  |
 | [Everywhere I'm Goin'](https://open.spotify.com/track/74EV2uPNEXmX3UGInlPxM3) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Everywhere I'm Goin'](https://open.spotify.com/album/5FghaO27P3Zy5igsCbMAn9) | 3:30 | 2021-07-20 | 2022-07-26 |
+| [Eyes On You](https://open.spotify.com/track/4w95iGC6NrxZJ5o3D7bWyV) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/2jynxUXDGPBkMgbXhL3KGQ) | 3:02 | 2023-10-27 |  |
 | [Eyes On You](https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd) | 3:02 | 2021-07-20 | 2023-11-04 |
 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 | 2023-01-27 |  |
 | [For The Both of Us](https://open.spotify.com/track/0QIiiAoUQru2NQtRBrihII) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [For The Both of Us](https://open.spotify.com/album/0fxF1wmYvHSPbche9nHviN) | 2:45 | 2023-09-08 | 2023-10-23 |
@@ -124,7 +125,7 @@
 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2022-02-04 |  |
 | [Prayed For You](https://open.spotify.com/track/4j6GMcVcqZf1r0GDqMtYp6) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Everywhere But On](https://open.spotify.com/album/02G55ZxQ3h3cfGQV8RVDEO) | 3:30 | 2021-07-20 |  |
 | [Promise to Love Her](https://open.spotify.com/track/3lUg5sjsXAJD6BAULCFTA5) | [Blane Howard](https://open.spotify.com/artist/6ihCRApNJtA2jTLA15UYID) | [Promise to Love Her](https://open.spotify.com/album/4SNBvmNmQOhfMeBGywO8k2) | 3:17 | 2021-07-20 | 2022-07-29 |
-| [Pushing Up Daisies \(Love Alive\)](https://open.spotify.com/track/1IxMWIX1soqNONa7H0LD6U) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Port Saint Joe](https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T) | 3:39 | 2021-07-20 |  |
+| [Pushing Up Daisies \(Love Alive\)](https://open.spotify.com/track/1IxMWIX1soqNONa7H0LD6U) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Port Saint Joe](https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T) | 3:39 | 2021-07-20 | 2023-11-09 |
 | [Put Me Back Together](https://open.spotify.com/track/1WelLVAg9UZLglbIopQNBk) | [Rod + Rose](https://open.spotify.com/artist/6xWrMsqTNDV7Pi10GWUhuZ), [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [Rose Falcon](https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj) | [Put Me Back Together](https://open.spotify.com/album/77VHRSFESMUq0V50ZCkFpj) | 3:23 | 2021-11-12 | 2022-07-29 |
 | [Ran into You](https://open.spotify.com/track/33V8ZNvopdCm8BsEKzGXgM) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ran into You](https://open.spotify.com/album/1oSlbBYaKeG0H5VPGTzICl) | 3:33 | 2021-11-04 | 2023-01-21 |
 | [Rhinestone Ring](https://open.spotify.com/track/2j4ap81Wqs3VmNWBg3tAt8) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Rhinestone Ring](https://open.spotify.com/album/17oU8IlYEwDF946GBffGp1) | 3:25 | 2022-01-28 | 2023-01-28 |
@@ -147,6 +148,7 @@
 | [Take Me Away](https://open.spotify.com/track/5UaJtNAZJcN9pWpIuVMnN2) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 3:44 | 2022-01-28 | 2023-01-17 |
 | [Take My Name](https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 2:37 | 2022-06-17 | 2023-11-03 |
 | [Take My Name](https://open.spotify.com/track/50fXFVykkwS6Om9eqjTK44) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Songs from 'For You'](https://open.spotify.com/album/01z0MEI8EPxiAl1GvgRovl) | 2:37 | 2021-08-06 | 2022-07-29 |
+| [Take My Name](https://open.spotify.com/track/7g0Zfd5J6Hzx9M2fRUMuba) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk) | 2:37 | 2023-10-27 |  |
 | [Takes After You](https://open.spotify.com/track/4xqyXdcLeaqDD5XDBg1BuR) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Takes After You](https://open.spotify.com/album/1wLYS5lFasLJ9By9Khyi8K) | 3:04 | 2023-05-19 | 2023-07-03 |
 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2023-01-27 |  |
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2021-07-20 |  |

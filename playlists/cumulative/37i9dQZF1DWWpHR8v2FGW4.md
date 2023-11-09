@@ -4,7 +4,7 @@
 
 > Always come in 1st place.
 
-110 songs - 6 hr 32 min
+111 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Ballin'](https://open.spotify.com/track/22Nu3XaaJMV2uNRRt7VFbT) | [Thomas Xavier](https://open.spotify.com/artist/5SsttdO7G9TeWBIZrhcoGZ) | [Ballin'](https://open.spotify.com/album/1pyWnUDhbIlDt5WQMvje3R) | 3:27 | 2022-04-01 | 2022-04-21 |
 | [BARRICADE](https://open.spotify.com/track/4AIzFOYepFcCxtyejppv6C) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [BARRICADE](https://open.spotify.com/album/04Eqt1g20KVoSB4Xif8Frq) | 3:20 | 2022-04-01 |  |
 | [Believer](https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Believer](https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH) | 3:38 | 2022-04-01 |  |
+| [Breathe](https://open.spotify.com/track/1oCOMCGDh82F6ATxiocSeD) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [Breathe](https://open.spotify.com/album/1LuvYKCEpDQc0QszleXPIH) | 4:08 | 2023-09-05 |  |
 | [Breathe](https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [Breathe](https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh) | 4:08 | 2022-04-01 | 2023-10-07 |
 | [Broken](https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Broken](https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx) | 3:19 | 2022-04-01 |  |
 | [Change Us](https://open.spotify.com/track/6SfsL6v65hiJwS0clxWsw5) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Jack Dawson](https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx) | [Change Us](https://open.spotify.com/album/2aHsYsKRe868FXbHlo9WZu) | 2:51 | 2022-04-01 |  |
@@ -107,7 +108,7 @@
 | [This Feeling](https://open.spotify.com/track/2UZtyw4ItKKKB3Rw0sfWsG) | [Noisestorm](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t) | [This Feeling](https://open.spotify.com/album/2uB9v0HVBalbQLwlQpn1MH) | 4:21 | 2022-04-01 | 2022-11-08 |
 | [Tokyo Drift](https://open.spotify.com/track/2pnv23jwKKBqqlZuNjharT) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Tokyo Drift](https://open.spotify.com/album/0kxFjzNvxor4j4WuehCa7j) | 2:43 | 2023-10-18 |  |
 | [Tokyo Drift \(Fast & Furious\) \- From "The Fast And The Furious: Tokyo Drift" Soundtrack](https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA) | [Teriyaki Boyz](https://open.spotify.com/artist/7HBai5xymOxIWoMWvWshe1) | [The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0) | 4:15 | 2022-04-01 | 2022-05-13 |
-| [Too Much](https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:39 | 2022-06-17 |  |
+| [Too Much](https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:39 | 2022-06-17 | 2023-11-09 |
 | [u want me](https://open.spotify.com/track/1bUXna1GljM8CwCvLiK8oE) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me](https://open.spotify.com/album/0ig4oVRsVf6z5EavfOvhNL) | 3:05 | 2023-09-05 |  |
 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 | 2022-04-01 | 2023-02-10 |
 | [Vertigo](https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Vertigo](https://open.spotify.com/album/4s8l87cU1Z2Sg5iKualNLr) | 2:47 | 2022-04-01 | 2022-11-08 |

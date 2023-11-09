@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A calentar garganta!",
-  "num_followers": 1148841,
+  "num_followers": 1148973,
   "original_name": "La Cantina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDczNmE0YjViYWVmZWJhYzA0ZTkzNGMzZWM2M2EzOTY4N2U0OGJm",
+  "snapshot_id": "MCxlMjcwNmI1NDAwZGY2NzA3OTkyNTlkNjZiZTI1OTYzNmJhMmQxOWVk",
   "tracks": [
     {
       "added_at": "2023-09-22 19:07:18",
@@ -83,22 +83,6 @@
     {
       "added_at": "2023-09-22 19:07:18",
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": "2023-09-22 19:07:18",
-      "album": {
         "name": "Simplemente Gracias",
         "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 255640,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+    },
+    {
+      "added_at": "2023-09-22 19:07:18",
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": "2023-09-22 19:07:18",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-22 19:07:18",
       "album": {
-        "name": "Es La Diferencia",
-        "url": "https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i"
-    },
-    {
-      "added_at": "2023-09-22 19:07:18",
-      "album": {
         "name": "Con Banda",
         "url": "https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 171266,
       "name": "Y T\u00fa - Ranchera",
       "url": "https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL"
+    },
+    {
+      "added_at": "2023-09-22 19:07:18",
+      "album": {
+        "name": "Es La Diferencia",
+        "url": "https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i"
     },
     {
       "added_at": "2023-09-22 19:07:18",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-09-22 19:07:18",
       "album": {
-        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 182073,
-      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
-    },
-    {
-      "added_at": "2023-09-22 19:07:18",
-      "album": {
         "name": "Poco",
         "url": "https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 225705,
       "name": "Poco",
       "url": "https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb"
+    },
+    {
+      "added_at": "2023-09-22 19:07:18",
+      "album": {
+        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 182073,
+      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
     },
     {
       "added_at": "2023-09-22 19:07:18",

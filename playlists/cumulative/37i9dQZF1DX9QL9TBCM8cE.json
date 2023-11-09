@@ -347,6 +347,48 @@
     },
     {
       "album": {
+        "name": "Ijigen BIGBANG",
+        "url": "https://open.spotify.com/album/5viWiiX3YocnLLAz9kICRH"
+      },
+      "artists": [
+        {
+          "name": "Uzuki Shimamura (CV: Ayaka Ohashi)",
+          "url": "https://open.spotify.com/artist/3xoyWve1jtl6V6v5vJ0jzj"
+        },
+        {
+          "name": "Shizuka Mogami (CV: Azusa Tadokoro)",
+          "url": "https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l"
+        },
+        {
+          "name": "KOGANE TSUKIOKA (CV: Karin Isobe)",
+          "url": "https://open.spotify.com/artist/4r40eoNekBoDSFuPtMaZf1"
+        },
+        {
+          "name": "Chika Takami (CV: Anju Inami)",
+          "url": "https://open.spotify.com/artist/1j1qyF4vDxo871CSuHzgY5"
+        },
+        {
+          "name": "Ayumu Uehara (CV: Aguri Onishi)",
+          "url": "https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF"
+        },
+        {
+          "name": "Kanon Shibuya (CV: Sayuri Date)",
+          "url": "https://open.spotify.com/artist/0d6TVcK3Wq84iMZ3T1kHHR"
+        },
+        {
+          "name": "Kaho Hinoshita (CV: Nozomi Nirei)",
+          "url": "https://open.spotify.com/artist/5VnkGk25NC41GkZEEZzQXy"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316213,
+      "name": "Ijigen BIGBANG",
+      "url": "https://open.spotify.com/track/3QRii5A35ZfsGGiPrv9k0j"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 05",
         "url": "https://open.spotify.com/album/1V2XKud3WLAvGy1NlukjPw"
       },
@@ -658,7 +700,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 228760,
       "name": "Secret utopIA",
       "url": "https://open.spotify.com/track/3TE8TVyNEPutMardTtgl62"
@@ -892,7 +934,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 277866,
       "name": "statice",
       "url": "https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo"
@@ -1108,7 +1150,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 225333,
       "name": "\u304f\u3060\u3089\u306a\u3044\u3084",
       "url": "https://open.spotify.com/track/1uZkDzLyVGQS16XXwpJ4vr"
@@ -1648,7 +1690,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 215840,
       "name": "\u5e73\u884c\u7dda\u306e\u7f8e\u5b66",
       "url": "https://open.spotify.com/track/3sFh9PwE3gPOfAuzEFysjH"
@@ -1727,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 08",
+        "url": "https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8"
+      },
+      "artists": [
+        {
+          "name": "\u30b3\u30e1\u30c6\u30a3\u30c3\u30af",
+          "url": "https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224400,
+      "name": "\u7121\u81ea\u899a\u30a2\u30d7\u30ea\u30aa\u30ea",
+      "url": "https://open.spotify.com/track/2Ipl7XfPPg2rxFYuaTgwzt"
+    },
+    {
+      "album": {
         "name": "\u7121\u81ea\u899a\u30a2\u30d7\u30ea\u30aa\u30ea",
         "url": "https://open.spotify.com/album/0k5KJl1a8QYF7rEAwwKSbi"
       },
@@ -1738,7 +1798,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 224400,
       "name": "\u7121\u81ea\u899a\u30a2\u30d7\u30ea\u30aa\u30ea",
       "url": "https://open.spotify.com/track/2rwciVXaoFQaSMULZpf63u"
@@ -1780,7 +1840,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 316213,
       "name": "\u7570\u6b21\u5143\u2605\u2665BIGBANG",
       "url": "https://open.spotify.com/track/6bZiww7kdL6IXfYiPrr3Fr"

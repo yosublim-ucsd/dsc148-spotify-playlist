@@ -800,7 +800,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 299758,
       "name": "Fire In Detroit",
       "url": "https://open.spotify.com/track/1vpDn2AeBEcKS0hSkbvh4K"
@@ -1360,6 +1360,24 @@
       "duration_ms": 190080,
       "name": "Le club",
       "url": "https://open.spotify.com/track/1ksWrHM0fbcNpBMaKGNnOS"
+    },
+    {
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/1V1A4f4DmJJfrDjWETEU4C"
+      },
+      "artists": [
+        {
+          "name": "Keymer",
+          "url": "https://open.spotify.com/artist/11KbGk05uR2COLPYEqehU3"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162480,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/6W5MXzKRew1avcRnVQ89UY"
     },
     {
       "album": {

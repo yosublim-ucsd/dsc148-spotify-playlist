@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 169134,
+  "num_followers": 169178,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTAxZTM5YjM2NGVjNDU2Yzg5OWQ0MjI0MjVkOTg0MmMwNGViY2Yy",
+  "snapshot_id": "MCxkNzE3OGNlMjdmODRhMmNhYTEyYWMyNDZmYzJjMTA5YTQ2ZTNkNzlm",
   "tracks": [
     {
       "added_at": "2023-10-10 00:48:29",
@@ -581,6 +581,22 @@
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
     },
     {
+      "added_at": "2023-01-04 00:57:30",
+      "album": {
+        "name": "Classic Objects",
+        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 362428,
+      "name": "American Coffee",
+      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
+    },
+    {
       "added_at": "2022-09-29 00:57:24",
       "album": {
         "name": "Meditations on Crime",
@@ -603,22 +619,6 @@
       "duration_ms": 213159,
       "name": "Crime Seed",
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
-    },
-    {
-      "added_at": "2023-01-04 00:57:30",
-      "album": {
-        "name": "Classic Objects",
-        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
-      },
-      "artists": [
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 362428,
-      "name": "American Coffee",
-      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
     },
     {
       "added_at": "2022-02-25 03:06:43",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
     },
     {
-      "added_at": "2023-08-24 03:26:17",
-      "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
-      },
-      "artists": [
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Hildegard",
@@ -691,6 +675,22 @@
       "duration_ms": 186544,
       "name": "Jour 3",
       "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
+    },
+    {
+      "added_at": "2023-08-24 03:26:17",
+      "album": {
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+      },
+      "artists": [
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
       "added_at": "2022-09-12 20:09:14",
@@ -773,6 +773,26 @@
       "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
     },
     {
+      "added_at": "2023-08-15 18:36:31",
+      "album": {
+        "name": "Sus Dog",
+        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        },
+        {
+          "name": "Anika",
+          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
+        }
+      ],
+      "duration_ms": 276045,
+      "name": "Sus Dog",
+      "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Flock",
@@ -809,24 +829,20 @@
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
     },
     {
-      "added_at": "2023-08-15 18:36:31",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Sus Dog",
-        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
+        "name": "Moot!",
+        "url": "https://open.spotify.com/album/6E2kC2kf3D5iXQDY3KQBgT"
       },
       "artists": [
         {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        },
-        {
-          "name": "Anika",
-          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
+          "name": "Moin",
+          "url": "https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e"
         }
       ],
-      "duration_ms": 276045,
-      "name": "Sus Dog",
-      "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
+      "duration_ms": 297239,
+      "name": "Right is Alright, Wrong is to Belong",
+      "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
     },
     {
       "added_at": "2023-06-07 04:10:00",
@@ -843,38 +859,6 @@
       "duration_ms": 300866,
       "name": "Dividual Individual",
       "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
-    },
-    {
-      "added_at": "2023-06-26 14:17:57",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Moot!",
-        "url": "https://open.spotify.com/album/6E2kC2kf3D5iXQDY3KQBgT"
-      },
-      "artists": [
-        {
-          "name": "Moin",
-          "url": "https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e"
-        }
-      ],
-      "duration_ms": 297239,
-      "name": "Right is Alright, Wrong is to Belong",
-      "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -895,6 +879,22 @@
       "duration_ms": 447453,
       "name": "Corner Of My Sky",
       "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
+    },
+    {
+      "added_at": "2023-06-26 14:17:57",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2023-05-22 18:30:22",
@@ -1029,6 +1029,22 @@
       "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Room For The Moon",
+        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
+      },
+      "artists": [
+        {
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+        }
+      ],
+      "duration_ms": 338371,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
+    },
+    {
       "added_at": "2023-06-05 20:56:02",
       "album": {
         "name": "Crispy Moon",
@@ -1079,22 +1095,6 @@
       "duration_ms": 262560,
       "name": "The Path",
       "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Room For The Moon",
-        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
-      },
-      "artists": [
-        {
-          "name": "Kate NV",
-          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
-        }
-      ],
-      "duration_ms": 338371,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
     },
     {
-      "added_at": "2022-01-21 20:15:30",
-      "album": {
-        "name": "Songs For Vienna",
-        "url": "https://open.spotify.com/album/5j4EVgx8biIphy8M4InK0a"
-      },
-      "artists": [
-        {
-          "name": "Cid Rim",
-          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
-        }
-      ],
-      "duration_ms": 188873,
-      "name": "Feedback Loop",
-      "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
-    },
-    {
       "added_at": "2023-01-07 04:00:59",
       "album": {
         "name": "Prize",
@@ -1267,6 +1251,22 @@
       "duration_ms": 253013,
       "name": "Painted the Room",
       "url": "https://open.spotify.com/track/24IXYn8kl7J2E5pByVQHuj"
+    },
+    {
+      "added_at": "2022-01-21 20:15:30",
+      "album": {
+        "name": "Songs For Vienna",
+        "url": "https://open.spotify.com/album/5j4EVgx8biIphy8M4InK0a"
+      },
+      "artists": [
+        {
+          "name": "Cid Rim",
+          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
+        }
+      ],
+      "duration_ms": 188873,
+      "name": "Feedback Loop",
+      "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
     },
     {
       "added_at": "2023-06-02 00:24:20",

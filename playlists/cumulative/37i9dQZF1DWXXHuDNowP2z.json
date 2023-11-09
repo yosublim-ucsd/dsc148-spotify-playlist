@@ -164,7 +164,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 264693,
       "name": "Al Estilo Potos\u00ed: El Pistolero / Orde\u00f1ando la Vaca / Cuando los Frijoles Bailan",
       "url": "https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE"
@@ -222,10 +222,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 240500,
       "name": "Amanda Cierrale - Live Session",
       "url": "https://open.spotify.com/track/1JrP6eV81Lm9X3JzRw9PNy"
+    },
+    {
+      "album": {
+        "name": "AMOR PROPIO",
+        "url": "https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172485,
+      "name": "AMOR PROPIO",
+      "url": "https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip"
     },
     {
       "album": {
@@ -392,7 +410,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 263006,
       "name": "Botas Picudas (En Vivo)",
       "url": "https://open.spotify.com/track/0DvD8utfzZ3rLkJ7g4uNgi"
@@ -453,6 +471,28 @@
     },
     {
       "album": {
+        "name": "CARALUNA",
+        "url": "https://open.spotify.com/album/5TY4XLG0oRzjliAbQ8V4cH"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        },
+        {
+          "name": "Oscar Calin",
+          "url": "https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204337,
+      "name": "CARALUNA",
+      "url": "https://open.spotify.com/track/4autJuIj4IxNeP2B6lvNRZ"
+    },
+    {
+      "album": {
         "name": "Celoso",
         "url": "https://open.spotify.com/album/2RlJUly5goABBFR5bXKSFv"
       },
@@ -504,6 +544,24 @@
       "duration_ms": 201084,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/6FDRwxDRtGhyISlA1d3uCy"
+    },
+    {
+      "album": {
+        "name": "Chimenea (En Vivo)",
+        "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180491,
+      "name": "Chimenea - En Vivo",
+      "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
     },
     {
       "album": {
@@ -637,6 +695,28 @@
     },
     {
       "album": {
+        "name": "Cuando No Estas Conmigo",
+        "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201367,
+      "name": "Cuando No Estas Conmigo",
+      "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
+    },
+    {
+      "album": {
         "name": "Cumbias Sin Control",
         "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
@@ -652,6 +732,28 @@
       "duration_ms": 215066,
       "name": "Cumbia Con La Luna",
       "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
+    },
+    {
+      "album": {
+        "name": "Cumbia Del Clavi",
+        "url": "https://open.spotify.com/album/4ICPECk52pvNK0J0nvVPYY"
+      },
+      "artists": [
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        },
+        {
+          "name": "El Clavijas",
+          "url": "https://open.spotify.com/artist/10t2ZueXTVRNzyjd7tOXTQ"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169738,
+      "name": "Cumbia Del Clavi",
+      "url": "https://open.spotify.com/track/7H5t2fboweenWJMXeNGRVu"
     },
     {
       "album": {
@@ -1653,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "Eras Tu",
+        "url": "https://open.spotify.com/album/7r8FGGeBs2UtyDkdfUkN9n"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/28Mr2I45NyUzzMI2SRs3OR"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Eras Tu",
+      "url": "https://open.spotify.com/track/4e0VWtGHbwVRC33HL35pRD"
+    },
+    {
+      "album": {
         "name": "En vivo desde El Potrero",
         "url": "https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf"
       },
@@ -1664,7 +1784,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 203066,
       "name": "Eres un encanto - En vivo",
       "url": "https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ"
@@ -2132,7 +2252,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 172392,
       "name": "Huapango Flor de Pi\u00f1a",
       "url": "https://open.spotify.com/track/04h7bbC8bBngyEqJk8cEXB"
@@ -2694,7 +2814,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 155800,
       "name": "La Dieta",
       "url": "https://open.spotify.com/track/04sxuAgtJtxwB7zbhJiHMs"
@@ -2802,7 +2922,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 176770,
       "name": "La Macarena (Mere-huapango) (En Vivo)",
       "url": "https://open.spotify.com/track/2Ut5W1zxSI9bH29ce8Flic"
@@ -2842,6 +2962,24 @@
       "duration_ms": 146080,
       "name": "La Mar\u00eda",
       "url": "https://open.spotify.com/track/5jPprrmhOMek0GlcMMHkda"
+    },
+    {
+      "album": {
+        "name": "La Concentraci\u00f3n, Vol. XXV",
+        "url": "https://open.spotify.com/album/0edZD8ocBTBdCF9rQUKxPA"
+      },
+      "artists": [
+        {
+          "name": "La Concentracion",
+          "url": "https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154097,
+      "name": "La Mini Mini",
+      "url": "https://open.spotify.com/track/3KOw9OqlEANiL3ZM2rqMUG"
     },
     {
       "album": {
@@ -2958,6 +3096,24 @@
       "duration_ms": 204640,
       "name": "La Peinada (La Peinadita)",
       "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
+    },
+    {
+      "album": {
+        "name": "La Petaca",
+        "url": "https://open.spotify.com/album/51OIIdPwbekFE44cSBbLiE"
+      },
+      "artists": [
+        {
+          "name": "Los Sheles",
+          "url": "https://open.spotify.com/artist/2qefFccxNTBZIodDYj6eBO"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209280,
+      "name": "La Petaca",
+      "url": "https://open.spotify.com/track/3tfoOxbKPOgnU7JCm6Trne"
     },
     {
       "album": {
@@ -3116,7 +3272,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 173480,
       "name": "La \u00c9tica",
       "url": "https://open.spotify.com/track/5lme9vHMk1a85L6bEUvp6G"
@@ -3228,6 +3384,24 @@
       "duration_ms": 181666,
       "name": "Limonadas Verdes",
       "url": "https://open.spotify.com/track/7xAdE52Z6T1fcrhqUvPKFu"
+    },
+    {
+      "album": {
+        "name": "Linda Mujer",
+        "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169471,
+      "name": "Linda Mujer",
+      "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
     },
     {
       "album": {
@@ -3448,6 +3622,28 @@
       "duration_ms": 128073,
       "name": "Me Aceptaste - En Vivo",
       "url": "https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav"
+    },
+    {
+      "album": {
+        "name": "Me Pierdo (En Vivo)",
+        "url": "https://open.spotify.com/album/1Prj4dQS9QKnhZdlyBhqOn"
+      },
+      "artists": [
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        },
+        {
+          "name": "Rom\u00e1n de los Reyes",
+          "url": "https://open.spotify.com/artist/0tlzbX2R6V4o9lM4dKmHrz"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Me Pierdo (En Vivo)",
+      "url": "https://open.spotify.com/track/4q3vxXsDiZbdAv1wOr6gU5"
     },
     {
       "album": {
@@ -4284,7 +4480,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 205355,
       "name": "Rumor de Cumbia",
       "url": "https://open.spotify.com/track/487vHBsyukrh7NwNfYP8ed"
@@ -4540,7 +4736,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 197648,
       "name": "Todas Son Bonitas ( En Vivo )",
       "url": "https://open.spotify.com/track/224vKp4BSlWWcO49BQsFLV"

@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE?si=XcFxgCTCQHK7hJyIEBh0xQ\">Daniel Mylez</a>",
-  "num_followers": 852,
+  "num_followers": 902,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2M4YzkzNTM5MmY0YTA4Mzc5YzIyNjI3YTBmMjA0NzNjYjFkZTRl",
+  "snapshot_id": "MCw2ZjRiYzFkYTNkYThhM2E2NDc5NDM3N2U1MzRhZjU5YmJmYWM1NjM2",
   "tracks": [
     {
       "added_at": "2023-11-03 00:01:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Not Moved",
-        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 273283,
-      "name": "Not Moved",
-      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "My Daddy, My Daddy (Live at AiiiH - As It Is In Heaven)",
         "url": "https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 812625,
       "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
       "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Not Moved",
+        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 273283,
+      "name": "Not Moved",
+      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Oke Mmiri",
-        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 504000,
-      "name": "Oke Mmiri - Live",
-      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Kind",
         "url": "https://open.spotify.com/album/6lJ9AWcHqRRW7SUTBfSZbZ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 197314,
       "name": "Kind",
       "url": "https://open.spotify.com/track/2SLtt8zr8BMh1D2twQ4bcX"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Oke Mmiri",
+        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 504000,
+      "name": "Oke Mmiri - Live",
+      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Adonai",
-        "url": "https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D"
-      },
-      "artists": [
-        {
-          "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
-        }
-      ],
-      "duration_ms": 249443,
-      "name": "Adonai",
-      "url": "https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Iba",
         "url": "https://open.spotify.com/album/3bdmsRx4jXf9I2w4x5lY3d"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 625166,
       "name": "Iba",
       "url": "https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Adonai",
+        "url": "https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        }
+      ],
+      "duration_ms": 249443,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY"
     },
     {
       "added_at": "2023-10-20 00:01:00",

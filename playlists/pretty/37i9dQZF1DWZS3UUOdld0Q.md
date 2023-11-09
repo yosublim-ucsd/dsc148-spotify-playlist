@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain]
 
 > Their time will come\. Eventually\. Probably\. Listen to the music from and inspired by Neon, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,512 likes - 66 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,548 likes - 66 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain]
 | 65 | [Tonteria](https://open.spotify.com/track/2IGPQQp6xCsSGzvxMxGXsY) | [Santi](https://open.spotify.com/artist/0M3JCo0UtNAsX5b4D8FFWu), [Isa](https://open.spotify.com/artist/6hz6fL6ReWNv1YSVqQ6exL) | [Neon \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 2:11 |
 | 66 | [Corillo \- Isa](https://open.spotify.com/track/7lb3hUDVS50Que4V8tn51m) | [Isa](https://open.spotify.com/artist/6hz6fL6ReWNv1YSVqQ6exL) | [Neon \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 2:32 |
 
-Snapshot ID: `MCwyMmVmMGI4OTExYWY0MmFjODlhY2FmYTRjMjk4MjcwMmYyNzk4MGE1`
+Snapshot ID: `MCxhODY5MWIxMDcwYzFmMmU3NzRjMGY1OWNhZTUzYWIxODgzZjIyZGIx`

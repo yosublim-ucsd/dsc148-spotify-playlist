@@ -4,7 +4,7 @@
 
 > Chaos in electronic form.
 
-193 songs - 13 hr 9 min
+194 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Anarkian kuvajainen](https://open.spotify.com/track/7EIMEIJRjWJpYmJCd5pwuN) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Tyyni](https://open.spotify.com/album/7utUB4dW47RqaFjuZ2zwIm) | 4:58 | 2021-10-06 | 2023-04-16 |
 | [Arazaramu](https://open.spotify.com/track/7t2SwkamdQdGfJ7vLnXVtt) | [Hoshina Anniversary](https://open.spotify.com/artist/4GS5E4aNdIR4yuswso1DZV) | [Nihon No Ongaku / 日本の音楽」](https://open.spotify.com/album/1JzzU8fkEAmWGw9RJGhMP9) | 5:16 | 2021-10-06 | 2023-04-16 |
 | [ATAXIA\_B2](https://open.spotify.com/track/2NRJzI8RiMaCFqRzTFUgxq) | [Rian Treanor](https://open.spotify.com/artist/6un6trkuuP46AZM0kkY8Yx) | [ATAXIA](https://open.spotify.com/album/2nfN4kNmexuqU6oFItEOf2) | 3:26 | 2021-10-06 | 2023-04-16 |
-| [Aurelie \(Lido Pimienta Remix\)](https://open.spotify.com/track/0vFdrzcSex0hPwLnw3SFa1) | [Lou Canon](https://open.spotify.com/artist/2ZKNwYmNk7NS0oSNq5AieB), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Aurelie \(Lido Pimienta Remix\)](https://open.spotify.com/album/42imqapebSrpDVOjETHCnN) | 4:18 | 2022-02-09 |  |
+| [Aurelie \(Lido Pimienta Remix\)](https://open.spotify.com/track/0vFdrzcSex0hPwLnw3SFa1) | [Lou Canon](https://open.spotify.com/artist/2ZKNwYmNk7NS0oSNq5AieB), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Aurelie \(Lido Pimienta Remix\)](https://open.spotify.com/album/42imqapebSrpDVOjETHCnN) | 4:18 | 2022-02-09 | 2023-11-09 |
 | [Back to Hastings](https://open.spotify.com/track/0Pt4TBaEaUmzU5QW2IE7VN) | [Alejandro Morse](https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6) | [Hotel Hastings \(Music by Alejandro Morse for a Book by Eduardo Padilla\)](https://open.spotify.com/album/3huFNw9r8hP0s7SqTRApN0) | 3:55 | 2021-10-06 | 2023-04-16 |
 | [Baga DMs](https://open.spotify.com/track/0zw5os5kRxhfMRZ5dcZwXV) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [& Baga Man EP](https://open.spotify.com/album/1EKINDQeea5i3RPJ9UJ9jK) | 2:43 | 2021-10-06 | 2022-07-29 |
 | [Baga DMs](https://open.spotify.com/track/01AYJhBXuVhWXxDZKhnl2p) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [KG](https://open.spotify.com/artist/3En5VPgMxZI9o8lMVrVXFo) | [& Baga Man EP](https://open.spotify.com/album/0LCFTBp50RU2idUWjBzuZI) | 2:43 | 2021-10-06 | 2022-09-01 |
@@ -201,5 +201,6 @@
 | [Wild Chamber](https://open.spotify.com/track/64jAqN4KeoMaiX11EXvXF4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Wild Chamber](https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4) | 4:21 | 2021-10-06 |  |
 | [wondering dub](https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [wondering dub](https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f) | 2:07 | 2023-04-13 |  |
 | [Ziad Jarrah Studied Mathematics](https://open.spotify.com/track/6FvJujsc00pC1umLOUN9gK) | [Vatican Shadow](https://open.spotify.com/artist/1b6p8KZ14dw35fuIuDWQNV) | [Media in the Service of Terror](https://open.spotify.com/album/321TLbC07nx2E9qg1LyYpw) | 4:50 | 2021-10-06 |  |
+| [‡Damontoid](https://open.spotify.com/track/12S65ewG2HEKUvG3zsjL5C) | [Yuko Araki](https://open.spotify.com/artist/4QebQToYFU8PDWW21ZWw4U) | [IV](https://open.spotify.com/album/0JbWPM7xG2da5hL8eOtW3S) | 4:32 | 2023-11-08 |  |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,400 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,419 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 33 | [Corazón Partío](https://open.spotify.com/track/4CQZ8wD1fWAbeTvSKzBK4M) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Corazón Partío](https://open.spotify.com/album/7zmYwJwT0GS14DstdDa3Yi) | 3:19 |
 | 34 | [El Color de Tus Ojos](https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [El Color de Tus Ojos](https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO) | 2:36 |
 | 35 | [El Efecto](https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Max Fernandez](https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51) | [El Efecto](https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb) | 1:43 |
-| 36 | [Ji Ji Ji](https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
+| 36 | [Traicionero](https://open.spotify.com/track/7dAO2xy0K5tUqax8LthAml) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24), [Media Naranja](https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme) | [Traicionero](https://open.spotify.com/album/1HspaBXnlgh97QO7eIBqpD) | 3:24 |
 | 37 | [Yo Te Pido Amor](https://open.spotify.com/track/4dbQHs5xcUXdA2ZOF2Cf8M) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Un Poco Locos \(Edición De Lujo\)](https://open.spotify.com/album/7e5WnX4OclEABi7QJfLj7v) | 3:29 |
 | 38 | [Desvelado](https://open.spotify.com/track/5WkGaCMFbfGke7D1JMTe6p) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Desvelado](https://open.spotify.com/album/3xk1sdgVmSKDY8aV5jpXo4) | 3:51 |
 | 39 | [Hotline Bling](https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Hotline Bling](https://open.spotify.com/album/3wIfrWCteaifdw84a9ckUi) | 3:23 |
 | 40 | [La Incondicional \- Version Cumbia](https://open.spotify.com/track/0AuHkLADfPOZ7OVkPaczoa) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Nicki Luis](https://open.spotify.com/artist/2mmVmtJNyml9x36wM2Br3D) | [La Incondicional \(Version Cumbia\)](https://open.spotify.com/album/5JYUEfb6wEMPL0Aixmjpkr) | 2:36 |
 | 41 | [Juntos a la Par](https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Juntos a la Par](https://open.spotify.com/album/5BGFvYVx8rdJSAREh6jNCs) | 2:26 |
 | 42 | [Lloviendo Estrellas](https://open.spotify.com/track/21YzxJr5n5ljqXkOh2Rewy) | [Tachame la Doble](https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p) | [Lloviendo Estrellas](https://open.spotify.com/album/4ZQc6ZZUXLRs5A0a2mOMpw) | 2:32 |
-| 43 | [Traicionero](https://open.spotify.com/track/7dAO2xy0K5tUqax8LthAml) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24), [Media Naranja](https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme) | [Traicionero](https://open.spotify.com/album/1HspaBXnlgh97QO7eIBqpD) | 3:24 |
+| 43 | [Ji Ji Ji](https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
 | 44 | [Insoportablemente Bella](https://open.spotify.com/track/3T70Y5JdAJV5iFh1NGuXhu) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Insoportablemente Bella](https://open.spotify.com/album/1gRdM69SCvqFqtYRbWOQi6) | 4:09 |
 | 45 | [Los Caminos de la Vida](https://open.spotify.com/track/7HfBfu8aVH5mz03JPMPpHF) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL) | [Los Caminos de la Vida](https://open.spotify.com/album/4AOwRkeJSIowptYmRnE3RT) | 3:41 |
 | 46 | [Ya Me Enteré](https://open.spotify.com/track/4SAdpJMNj4JQanV3hD7JTn) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Ya Me Enteré](https://open.spotify.com/album/6A9vvGqlmgw8UZMnrzfxpb) | 2:38 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 49 | [Ya Me Enteré](https://open.spotify.com/track/4G79YmEkyEbAzo5NsDRhC4) | [Grupo Los Kiero de Edgar Zacary](https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF) | [Ya Me Enteré](https://open.spotify.com/album/7klSaA9WznpL3G4xvmLjPk) | 3:06 |
 | 50 | [Te Robare](https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP), [Megablock](https://open.spotify.com/artist/6Ppb2INRLdfhQFab7XNANw) | [Te Robaré](https://open.spotify.com/album/4art0k5sZUSkdS1aKaKJ5C) | 3:30 |
 | 51 | [Felices los 4](https://open.spotify.com/track/1RXpYeI6ZhERfW4yWtYwno) | [Version Cumbia La Plata](https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv) | [Version Cumbia la Plata 2017](https://open.spotify.com/album/4uBqzE4puJZbntAjY3EWR2) | 3:00 |
-| 52 | [Mil Horas](https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Mil Horas](https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy) | 3:47 |
-| 53 | [El Pájaro Vio El Cielo y Se Voló](https://open.spotify.com/track/2aJcujrPc21lVka5bvV6n5) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [El Pájaro Vio El Cielo y Se Voló](https://open.spotify.com/album/5SWpyLFGaGUkL83v1i4Ysr) | 3:08 |
+| 52 | [El Pájaro Vio El Cielo y Se Voló](https://open.spotify.com/track/2aJcujrPc21lVka5bvV6n5) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [El Pájaro Vio El Cielo y Se Voló](https://open.spotify.com/album/5SWpyLFGaGUkL83v1i4Ysr) | 3:08 |
+| 53 | [Mil Horas](https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Mil Horas](https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy) | 3:47 |
 | 54 | [Me Rehúso](https://open.spotify.com/track/4qgIw4wn24ZDVHSUs4a8J8) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Lemonchamp](https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T) | 2:07 |
 | 55 | [Que No Quede Huella](https://open.spotify.com/track/130fvcSaaPEqqwVAvaHfQK) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Que No Quede Huella](https://open.spotify.com/album/2okjeW5I1Bsox3nHC8hXtb) | 3:49 |
 | 56 | [Jurabas Tu](https://open.spotify.com/track/7avxvCxt3xnxmksUckksIr) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Jurabas Tu](https://open.spotify.com/album/6dhWNg8zugr2KLiqwcMwn1) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 74 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
 | 75 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO) | [Musicalísimo Fuego Indio](https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN) | [Retro Con](https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt) | 3:25 |
 
-Snapshot ID: `MCxhMmE0MWI5ZmU1ZmZkODAyNGQ3MTRkMTk1NTkzYjQxZDlmMmViZDc0`
+Snapshot ID: `MCwyM2JiNTkwYmIyNjM0YWFlZGFlMTc4MGRmN2U5MTY0ZmE2OGY0N2Vk`

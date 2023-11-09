@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 
 > Spa treatment role\-play and ASMR massage sounds to give you tingles and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,864 likes - 47 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,885 likes - 47 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Massage](https://open.spotify.com/track/500RDF5FlsyYFMYquQiqH3) | [ASMR Maryjleeee](https://open.spotify.com/artist/77I1f0nKgi3EnrypDsGupj) | [Sleep Triggers, Vol\. I](https://open.spotify.com/album/5sP0NOaCWlbfAzy6uIRFI5) | 6:16 |
 | 2 | [Intense Brain and Ear Massage to Help You Sleep](https://open.spotify.com/track/2Wik99PNjLRwWBpMZsb0Si) | [Alexa ASMR](https://open.spotify.com/artist/2EhgjuObTmGoYLqtqoYYRF) | [Asmr Brain Melting Triggers for Sleep](https://open.spotify.com/album/1r0ldKNVNPp6hvMs8uOWVy) | 2:11 |
-| 3 | [Long\-Nailed Deep Ear Attention Pt.1](https://open.spotify.com/track/5tHmIZMo21mo3FamnKK69J) | [FrivolousFox ASMR](https://open.spotify.com/artist/6JI1jwOnED6XOslfOYeQQP) | [Long\-Nailed Deep Ear Attention](https://open.spotify.com/album/5oXzFATWsecCjqfQgf3Zey) | 6:02 |
-| 4 | [Scalp Massage with Fingers](https://open.spotify.com/track/0wnhGfI3h9kzQlEvXrZhuv) | [ASMR PPOMO](https://open.spotify.com/artist/2tB09djNHoTug9dRlPY30k) | [Asmr Realistic! Scalp Massage & Hair Brushing Sounds](https://open.spotify.com/album/5LAthT4SyMb4EckkWD8k64) | 8:34 |
+| 3 | [Scalp Massage with Fingers](https://open.spotify.com/track/0wnhGfI3h9kzQlEvXrZhuv) | [ASMR PPOMO](https://open.spotify.com/artist/2tB09djNHoTug9dRlPY30k) | [Asmr Realistic! Scalp Massage & Hair Brushing Sounds](https://open.spotify.com/album/5LAthT4SyMb4EckkWD8k64) | 8:34 |
+| 4 | [Long\-Nailed Deep Ear Attention Pt.1](https://open.spotify.com/track/5tHmIZMo21mo3FamnKK69J) | [FrivolousFox ASMR](https://open.spotify.com/artist/6JI1jwOnED6XOslfOYeQQP) | [Long\-Nailed Deep Ear Attention](https://open.spotify.com/album/5oXzFATWsecCjqfQgf3Zey) | 6:02 |
 | 5 | [Real Relaxing Brushing Sounds, Pt\. 1](https://open.spotify.com/track/15ZXjwZ7zHME5i1s2Ov2sG) | [Relax Academy ASMR](https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k) | [ASMR Brush Massage, Relaxing Brushing Sounds Real Person](https://open.spotify.com/album/4yZCHZC1WUf1wIsSM5Mds3) | 3:34 |
 | 6 | [Ear Massage with a Lotion](https://open.spotify.com/track/6hl3yYM5lCxwR6pODqpsYq) | [StacyAster](https://open.spotify.com/artist/6ZuYMPNSu2akHdw976s2R5) | [ASMR Sleepy Pleasures \- Ear Massage \(No Talking\)](https://open.spotify.com/album/3tBGDsAKEzCGEzMW4MSwru) | 6:15 |
 | 7 | [Cotton Swabs In Ears](https://open.spotify.com/track/5mUq6uOgmzEodRY64mC6Fk) | [Alice ASMR](https://open.spotify.com/artist/6O99TZRD50g7R3IMBSkg58) | [Binaural ASMR Triggers](https://open.spotify.com/album/0w0KhJBMc5USuQyLDQn90Q) | 2:46 |
 | 8 | [Lotion Ear Massage Pt\. 3](https://open.spotify.com/track/0nowugrt5Fn1wdX7BjwbTD) | [fastASMR](https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v) | [Lotion Ear Massage](https://open.spotify.com/album/2r5FkTCW4b3gz77UteYh1t) | 3:53 |
 | 9 | [Intense Ear Massage with Oil and Latex Gloves](https://open.spotify.com/track/600BBI6u6ZRKdqGrWuyvhB) | [Alexa ASMR](https://open.spotify.com/artist/2EhgjuObTmGoYLqtqoYYRF) | [Asmr Ear Mics \- Intense Sounds Inside Your Ears](https://open.spotify.com/album/5gB81tDseWjNTu9vCEXvOK) | 2:14 |
-| 10 | [White Shampoo Brush](https://open.spotify.com/track/3EwUEJcn0SKGaco2gBidSk) | [ASMR PPOMO](https://open.spotify.com/artist/2tB09djNHoTug9dRlPY30k) | [Asmr Realistic! Scalp Massage & Hair Brushing Sounds](https://open.spotify.com/album/5LAthT4SyMb4EckkWD8k64) | 5:28 |
-| 11 | [Long\-Nailed Deep Ear Attention Pt.2](https://open.spotify.com/track/4XvzLrty6v5yiGQE5f8TmX) | [FrivolousFox ASMR](https://open.spotify.com/artist/6JI1jwOnED6XOslfOYeQQP) | [Long\-Nailed Deep Ear Attention](https://open.spotify.com/album/5oXzFATWsecCjqfQgf3Zey) | 5:17 |
+| 10 | [Long\-Nailed Deep Ear Attention Pt.2](https://open.spotify.com/track/4XvzLrty6v5yiGQE5f8TmX) | [FrivolousFox ASMR](https://open.spotify.com/artist/6JI1jwOnED6XOslfOYeQQP) | [Long\-Nailed Deep Ear Attention](https://open.spotify.com/album/5oXzFATWsecCjqfQgf3Zey) | 5:17 |
+| 11 | [White Shampoo Brush](https://open.spotify.com/track/3EwUEJcn0SKGaco2gBidSk) | [ASMR PPOMO](https://open.spotify.com/artist/2tB09djNHoTug9dRlPY30k) | [Asmr Realistic! Scalp Massage & Hair Brushing Sounds](https://open.spotify.com/album/5LAthT4SyMb4EckkWD8k64) | 5:28 |
 | 12 | [Brain Melting Mic Scratching Pt.3](https://open.spotify.com/track/57nPzI8kww0jlc3j4NltAG) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Brain Melting Mic Scratching](https://open.spotify.com/album/4NDoPCl8EiCgBbDRFG79W6) | 3:58 |
 | 13 | [DOUBLE Brain Melting Mic Scratching with NO TALKING Pt.5](https://open.spotify.com/track/50aywA5spaGEHmdy59tBRf) | [Alana ASMR](https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM) | [DOUBLE Brain Melting Mic Scratching with NO TALKING](https://open.spotify.com/album/02c0PtJKDoLIeckBGHAYja) | 4:53 |
 | 14 | [7 Tingle Massages Pt.2](https://open.spotify.com/track/1tvP8rFCsboSjB62yu4mz1) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [7 Tingly Massages](https://open.spotify.com/album/4rsAtuIMx3RkhaV5Leqx2T) | 5:36 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 | 46 | [Rubbing it](https://open.spotify.com/track/6xYKogdbhvY0BoR50nGdSc) | [Willy Ymer](https://open.spotify.com/artist/6F5ZrBdFO0aI22v3p4GPK3) | [Fluffy Pillow](https://open.spotify.com/album/3BafvyZxxVaBbAg7cJ5rcQ) | 2:46 |
 | 47 | [Drying Ears Off](https://open.spotify.com/track/5cM9f4vVzhJHMzXBcVx4WH) | [Jellybean Green ASMR](https://open.spotify.com/artist/5MzEMEzPVEI2U5dY4sd0Zm) | [3 Clones Ear Exam, Cleaning, & Face Massage](https://open.spotify.com/album/2dDNVUMDlVyQAsr2DtoUMj) | 2:15 |
 
-Snapshot ID: `MCxkN2ExMDRkMGU5N2M3NDUwOWYzZDRiODYxOWMyYjJjMDBmNzA3MGIw`
+Snapshot ID: `MCw2MGFjYjI1YTNiNGM2NmJlNWM3MjBiNjBkOTQ2NjA1NDk4NTdhM2E4`

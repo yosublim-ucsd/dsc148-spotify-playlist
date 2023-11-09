@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-750 songs - 1 day 20 hr 47 min
+752 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [0321](https://open.spotify.com/track/1pbb71pOKB5iqfkju4NmPj) | [space x](https://open.spotify.com/artist/5MfPm7ai5Y5vRePZ4MC9XL) | [0321](https://open.spotify.com/album/1BoE1TWkVoegvrUClT0YcB) | 3:14 | 2021-10-21 | 2023-07-23 |
 | [10,000 HOURS \- 國際中文版](https://open.spotify.com/track/5bTdT9cJXEVs6w7pOSx59B) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [10,000 HOURS \(國際中文版\)](https://open.spotify.com/album/36MfdKK7q5qO4jjUD2KkOQ) | 2:46 | 2021-05-28 | 2021-05-29 |
 | [24/7, 365](https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [24/7, 365](https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG) | 2:47 | 2023-10-03 |  |
+| [3am \- Demo Ver.](https://open.spotify.com/track/70R10GZEIyNaOsltKW5kli) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [3am \(Demo Ver.\)](https://open.spotify.com/album/4RAme39y8E1VMWkuFYrnqM) | 2:36 | 2023-11-08 |  |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2023-10-03 |  |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-30 | 2023-10-04 |
 | [500天](https://open.spotify.com/track/3tHqubDUl1OHGgGz87YreF) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [500天](https://open.spotify.com/album/4qayKoVULYGmEcyTZNhHqY) | 4:00 | 2022-02-26 | 2022-09-18 |
@@ -173,7 +174,7 @@
 | [hair tie](https://open.spotify.com/track/2bLGJ6yOPN4fAKQkLrJYxp) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [hair tie](https://open.spotify.com/album/3ugpJkhv8yAYfbHHjqG6BA) | 2:54 | 2021-11-17 | 2022-02-12 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-08-24 |
 | [Hard to Love](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:42 | 2022-09-17 | 2023-04-03 |
-| [Hate You](https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:34 | 2023-11-04 |  |
+| [Hate You](https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:34 | 2023-11-04 | 2023-11-09 |
 | [Have A Nice Day](https://open.spotify.com/track/0dS8gBiRyiohkB2Z45rA0V) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [Have A Nice Day](https://open.spotify.com/album/0JN2lwS7ZIwFWBgPSs23gF) | 4:23 | 2021-06-25 | 2022-03-16 |
 | [Headliner](https://open.spotify.com/track/6Es0Sxn1yE7L0T1YxrYHKX) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:09 | 2023-10-25 | 2023-10-27 |
 | [HEALTHY MIND](https://open.spotify.com/track/45KiqsIQx2j966sJMZNpWm) | [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [HEALTHY MIND](https://open.spotify.com/album/7rF3aB66LyTbANkEKA2bfO) | 2:53 | 2021-09-09 | 2021-09-25 |
@@ -354,6 +355,7 @@
 | [Some Nights](https://open.spotify.com/track/1Q03Eti3fdmnN7DA2Y6gAp) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:27 | 2022-02-16 | 2022-02-18 |
 | [Somebody Else](https://open.spotify.com/track/2DwsuwDtMtZykInr8cFo1j) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [Somebody Else](https://open.spotify.com/album/2ea2BnHMjIMAEupSlrYoLq) | 2:49 | 2022-08-04 | 2022-09-17 |
 | [Somebody Else](https://open.spotify.com/track/6gOZzuHIApHtAPTelkOMUc) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [\#OSNRAPII\-JOURNEY](https://open.spotify.com/album/4uXBZ6B6obczO1Jf8eZFcw) | 2:49 | 2023-01-18 | 2023-09-22 |
+| [Someday, Somewhere \(Netflix影集《此時此刻》主題曲\)](https://open.spotify.com/track/4ShkvWmheGbOXeJ5ELYRoH) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Someday, Somewhere \(Netflix影集《此時此刻》主題曲\)](https://open.spotify.com/album/3aaOh9ji7Qv97Lxfj9MOmu) | 4:03 | 2023-11-08 |  |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-03-27\* | 2021-04-20 |
 | [Something I Don't Need](https://open.spotify.com/track/3yWMv4KSXoh1l61cAqykl1) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [Outta Body靈魂出竅](https://open.spotify.com/album/5qiMTeDKaY3cfqZeBG0xUY) | 2:54 | 2021-03-27\* | 2021-04-10 |
 | [SOS](https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:11 | 2023-07-09 | 2023-08-11 |
@@ -399,7 +401,7 @@
 | [Tides](https://open.spotify.com/track/3RbrcQSXMHp2UbhIdPw6OS) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [SKY](https://open.spotify.com/album/0Mr9Rd4e1jvMMK9eDpUdp8) | 2:59 | 2021-05-22 | 2021-06-18 |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-15 | 2023-07-14 |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-21 |  |
-| [Too Sad to Dance](https://open.spotify.com/track/3bNNvJA7hsGw0wSpGkfOBm) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:55 | 2023-11-04 |  |
+| [Too Sad to Dance](https://open.spotify.com/track/3bNNvJA7hsGw0wSpGkfOBm) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:55 | 2023-11-04 | 2023-11-09 |
 | [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-08-23 | 2022-09-09 |
 | [Trash Talk](https://open.spotify.com/track/36gzVLH9Bq0p544PdDu8WS) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [Trash Talk](https://open.spotify.com/album/7LNFEHBmTVb3MMrQxPyuHs) | 2:55 | 2021-04-15 | 2021-04-23 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-28 | 2022-07-31 |

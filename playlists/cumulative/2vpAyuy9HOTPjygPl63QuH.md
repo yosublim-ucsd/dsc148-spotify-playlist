@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/2vpAyuy9HOTPjygPl63QuH.md) - cumulative - [plain](/playlists/plain/2vpAyuy9HOTPjygPl63QuH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2vpAyuy9HOTPjygPl63QuH)
 
-### [Tech House Shift](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
+### [Tech House Shifters](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
 
-> The freshest tech house music, updated every friday\. Submit via Instagram: @subshiftmusic
+> The freshest tech house &amp; techno music, updated every friday 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
 1,472 songs - 3 day 11 hr 49 min
 

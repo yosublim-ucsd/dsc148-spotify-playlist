@@ -1,12 +1,12 @@
 {
   "description": "Musica da ascoltare con un Negroni in mano. \ud83c\udf79",
-  "num_followers": 247437,
+  "num_followers": 247520,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWI1OGY1Y2Y2YmM1NGY4YmEwNzJmMmM2MTA0YzMwODMwMmRlYTU3",
+  "snapshot_id": "MCwzNjdhNThhM2YyYTkxMzIwZmY5NzY5ZjRkNjQ1ODMwZTY1YjY0MDc4",
   "tracks": [
     {
       "added_at": "2023-10-30 15:59:59",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
+        "name": "Walking On A Dream",
+        "url": "https://open.spotify.com/album/3qFui1PcteHFky44CeUflG"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
-        "name": "Time for a Change",
-        "url": "https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 270405,
-      "name": "Instant Need",
-      "url": "https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
         "name": "Amor Fati",
         "url": "https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 189760,
       "name": "El Layali",
       "url": "https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
+        "name": "Time for a Change",
+        "url": "https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 270405,
+      "name": "Instant Need",
+      "url": "https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -511,22 +527,6 @@
       "duration_ms": 215000,
       "name": "Feel Like Makin' Love (feat. Roberta Flack)",
       "url": "https://open.spotify.com/track/5789JwERVglbf574Olz2Bi"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
-        "name": "Walking On A Dream",
-        "url": "https://open.spotify.com/album/3qFui1PcteHFky44CeUflG"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
         "name": "Since I Left You (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO"
       },
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
+      "duration_ms": 233978,
+      "name": "Starry Night - Edit",
+      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
         }
       ],
-      "duration_ms": 233978,
-      "name": "Starry Night - Edit",
-      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
+      "duration_ms": 227486,
+      "name": "Actually",
+      "url": "https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -1131,22 +1147,6 @@
       "duration_ms": 398150,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
-      },
-      "artists": [
-        {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
-        }
-      ],
-      "duration_ms": 227486,
-      "name": "Actually",
-      "url": "https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -1255,6 +1255,30 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
+        "name": "Sing It Back",
+        "url": "https://open.spotify.com/album/50fBSeZBLewhHEoYgw3C3U"
+      },
+      "artists": [
+        {
+          "name": "Moloko",
+          "url": "https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO"
+        },
+        {
+          "name": "Boris Dlugosch",
+          "url": "https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru"
+        },
+        {
+          "name": "Michael Lange",
+          "url": "https://open.spotify.com/artist/0r3oYkStfoV3sVeoQ1vmtw"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Sing It Back (Boris Musical Mix) (Edit)",
+      "url": "https://open.spotify.com/track/4O0LwyuV3U18Hg5AxILDlI"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
         "name": "JOY (Head To The Sky)",
         "url": "https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu"
       },
@@ -1287,22 +1311,6 @@
       "duration_ms": 197727,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Bar Mediterraneo",
-      "url": "https://open.spotify.com/track/5DpOrZhEK1QQ9HoDZWbU8E"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -1343,26 +1351,18 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
-        "name": "Sing It Back",
-        "url": "https://open.spotify.com/album/50fBSeZBLewhHEoYgw3C3U"
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
       },
       "artists": [
         {
-          "name": "Moloko",
-          "url": "https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO"
-        },
-        {
-          "name": "Boris Dlugosch",
-          "url": "https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru"
-        },
-        {
-          "name": "Michael Lange",
-          "url": "https://open.spotify.com/artist/0r3oYkStfoV3sVeoQ1vmtw"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Sing It Back (Boris Musical Mix) (Edit)",
-      "url": "https://open.spotify.com/track/4O0LwyuV3U18Hg5AxILDlI"
+      "duration_ms": 184000,
+      "name": "Bar Mediterraneo",
+      "url": "https://open.spotify.com/track/5DpOrZhEK1QQ9HoDZWbU8E"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
         "name": "The Way You Say (Remixes)",
         "url": "https://open.spotify.com/album/75joaaxl6qB1zk55F298SJ"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 175680,
       "name": "The Way You Say - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2023-10-30 15:59:59",

@@ -4,7 +4,7 @@
 
 > The highest quality alternative blend ft\. Madison Cunningham
 
-883 songs - 2 day 6 hr 6 min
+884 songs - 2 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,7 +576,8 @@
 | [Open Arms](https://open.spotify.com/track/5zWJcSvfHDRuOqf0RrjwV7) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Open Arms](https://open.spotify.com/album/5ppWXVOvEfdqOwCW9h7fbh) | 2:32 | 2022-09-16 | 2022-10-14 |
 | [Orbiter](https://open.spotify.com/track/3ZFTP9U14r6QkumhYtrd60) | [Easy Honey](https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj) | [Orbiter](https://open.spotify.com/album/15ERJVK8eMLZZL0zPGi092) | 2:54 | 2023-01-27 | 2023-05-13 |
 | [Oregon](https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Oregon / Harvard](https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I) | 3:18 | 2022-10-14 | 2023-04-22 |
-| [Out In The Fields](https://open.spotify.com/track/2NKBG5YGy83o1IL6ztXnc4) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Out In The Fields / Party Oven](https://open.spotify.com/album/6qWjEdbqZcGDQpl0w82Avk) | 4:00 | 2023-08-18 |  |
+| [Out In The Fields](https://open.spotify.com/track/2NKBG5YGy83o1IL6ztXnc4) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Out In The Fields / Party Oven](https://open.spotify.com/album/6qWjEdbqZcGDQpl0w82Avk) | 4:00 | 2023-08-18 | 2023-11-09 |
+| [Out In The Fields](https://open.spotify.com/track/7AQn44WwBs4UAUF79wXzHd) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Aging](https://open.spotify.com/album/21ytlmXJV1mWsF0dRiV7Ar) | 4:00 | 2023-10-13 |  |
 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 | 2022-08-26 | 2023-02-18 |
 | [Paddle to the Stars](https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Paddle to the Stars](https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU) | 2:36 | 2021-12-10 | 2022-06-04 |
 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 | 2023-03-24 | 2023-10-03 |

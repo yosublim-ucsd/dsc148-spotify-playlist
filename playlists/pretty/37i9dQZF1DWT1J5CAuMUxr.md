@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1J5CAuMUxr.md) - [plain]
 
 > La esencia ranchera del mariachi se une al romanticismo de tus artistas pop favoritos\. Chayanne en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,258 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,302 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1J5CAuMUxr.md) - [plain]
 | 74 | [Conjuro](https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:05 |
 | 75 | [Este Corazón](https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Este Corazón](https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2) | 3:47 |
 
-Snapshot ID: `MCw5M2M5ZDc1MmQwN2QxY2QxODg3NmUyMTIzNDQ1MTQxMDIyMmVkMjg1`
+Snapshot ID: `MCwyMjVhMDk2ZTYwZmE0OTAxM2FjZDg2NDFhY2UzODc5ODFkZTRhZDYx`

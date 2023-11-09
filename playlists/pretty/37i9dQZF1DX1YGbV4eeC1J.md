@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > Exceptionally vivid Swahili love stories for you and yours\. Cover: Xenia Manasseh
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,561 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,609 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 49 | [Nampenda](https://open.spotify.com/track/6bY6Rrr3enYLfJK7djbgZQ) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Nampenda](https://open.spotify.com/album/0xhgXtc2IbEFcG7K12Olkb) | 3:37 |
 | 50 | [My Babe](https://open.spotify.com/track/29qNcVV0QERBR5c6TSBEvv) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Flowers III](https://open.spotify.com/album/4d2U5waYnl1NwFs0aQ5fhL) | 4:13 |
 
-Snapshot ID: `MCwxNDg0YjJiOWVjMDRkOThmOTdlYjg2OWJjYWE0YWI2YTBiYTMxMGYy`
+Snapshot ID: `MCw3NzM5YTgyNTNkZjgyNzkzYzU1NTg3MDNlZTcyYmFmOGUzYjMxNGEx`

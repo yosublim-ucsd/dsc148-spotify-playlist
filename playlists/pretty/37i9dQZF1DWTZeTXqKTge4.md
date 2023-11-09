@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > 7ième Ciel célèbre ses 20 ans avec un concert au Centre Bell le 10 novembre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,275 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,332 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Ciao](https://open.spotify.com/track/25akJEUvfU5BrlpcEGn0Gl) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [O.Z](https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc) | [Dixque d'art](https://open.spotify.com/album/5fvUcupi73B843UBlMcRxS) | 3:57 |
 | 75 | [Matusalem](https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 3:42 |
 
-Snapshot ID: `MCw4ODZhOTkzYTM3YjBlYWZmNDZmODcwOTMyZTk5ZTY0MDRiYzlhMjgx`
+Snapshot ID: `MCxkZjY1ODNmYzEwMTgxY2M0NTEyYzQ1MWI4MjY0YzdmNjQ1NGUzODE5`

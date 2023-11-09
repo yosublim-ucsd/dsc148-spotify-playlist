@@ -1,13 +1,289 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv?si=Dtfw4jkmT1-06BCtssgYtA\">Lekan</a>. Updates every Wednesday.",
-  "num_followers": 215594,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT?si=Kg1kZMBYRBWdK23Rm-K8Sw\">Dee Gatti</a>. Updates every Wednesday.",
+  "num_followers": 215814,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTQ0MTZlNDc1YTkyZmVlMGVhNDFkOTI0NGJlNjI2ZWU0ZDAwMjcz",
+  "snapshot_id": "MCwyMGIyYWIzY2QyNjU0YTg1YjZkNjQwYWY1OTlkYzA1ZTZhN2VjZWNl",
   "tracks": [
+    {
+      "added_at": "2023-11-08 20:22:18",
+      "album": {
+        "name": "No Favors",
+        "url": "https://open.spotify.com/album/2OEL9ifYDwzF5iYMGUS9xX"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "duration_ms": 142105,
+      "name": "No Favors",
+      "url": "https://open.spotify.com/track/2JtmMfc3tGBU0fo0K5KpYT"
+    },
+    {
+      "added_at": "2023-11-08 20:22:18",
+      "album": {
+        "name": "plastic/bending",
+        "url": "https://open.spotify.com/album/2G1Qgs2Iwbfbkk4hRr7R2C"
+      },
+      "artists": [
+        {
+          "name": "Dani Offline",
+          "url": "https://open.spotify.com/artist/3JPVuuVHTbNiK8OZBCcmm5"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "plastic/bending",
+      "url": "https://open.spotify.com/track/1bhjaZRAMJVoP4QrwRwP9G"
+    },
+    {
+      "added_at": "2023-11-08 20:22:18",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/5mneR2SjhNjLpiyV80HzqY"
+      },
+      "artists": [
+        {
+          "name": "Lendryx",
+          "url": "https://open.spotify.com/artist/0bJfSHjZh1XhddFfXr8zvQ"
+        }
+      ],
+      "duration_ms": 236875,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/1B1yI9b6rrv1v2jA0uMzjK"
+    },
+    {
+      "added_at": "2023-11-08 20:22:18",
+      "album": {
+        "name": "So Bad",
+        "url": "https://open.spotify.com/album/5zBeEusP8lQzVO1rrkmdZf"
+      },
+      "artists": [
+        {
+          "name": "Eric Ryan",
+          "url": "https://open.spotify.com/artist/7zFbJFKex3lnJNDj8cWeKp"
+        },
+        {
+          "name": "Maria-Therese",
+          "url": "https://open.spotify.com/artist/5G7CkGWwTk7l36L6vw0ftK"
+        }
+      ],
+      "duration_ms": 170340,
+      "name": "So Bad",
+      "url": "https://open.spotify.com/track/4kmlQ6MDn6ZyUhUx8pgMb2"
+    },
+    {
+      "added_at": "2023-11-08 20:22:18",
+      "album": {
+        "name": "CHAOTIC GOOD",
+        "url": "https://open.spotify.com/album/0hb3KiGteT3tGOUUImXE1P"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/1B40NJiFLj76HWGwuIqD82"
+        }
+      ],
+      "duration_ms": 243296,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/4VenBWFmXYXM7NxqN9Eodu"
+    },
+    {
+      "added_at": "2023-11-08 20:22:18",
+      "album": {
+        "name": "The Interludes",
+        "url": "https://open.spotify.com/album/3o2o7mFiio6QAAvgYPgrx7"
+      },
+      "artists": [
+        {
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        }
+      ],
+      "duration_ms": 174878,
+      "name": "TIDE (Interlude)",
+      "url": "https://open.spotify.com/track/7mVg5kSbpGkHQ9MPmWu1eG"
+    },
+    {
+      "added_at": "2023-11-08 20:22:18",
+      "album": {
+        "name": "Palm Springs",
+        "url": "https://open.spotify.com/album/3ExBMfalLnQU8C8oVJTEiI"
+      },
+      "artists": [
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Palm Springs",
+      "url": "https://open.spotify.com/track/61oxvvfVadszaInZmgjKSv"
+    },
+    {
+      "added_at": "2023-11-08 20:22:18",
+      "album": {
+        "name": "MIDNIGHT MOTIONS",
+        "url": "https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX"
+      },
+      "artists": [
+        {
+          "name": "Nobu Woods",
+          "url": "https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC"
+        }
+      ],
+      "duration_ms": 190967,
+      "name": "REACQUAINTED",
+      "url": "https://open.spotify.com/track/5RFwpHSu6rSCKLsNLITYqx"
+    },
+    {
+      "added_at": "2023-11-08 20:22:18",
+      "album": {
+        "name": "Pretty Lies",
+        "url": "https://open.spotify.com/album/05K0znVOHIm97rZmDjAVfJ"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 132272,
+      "name": "Pretty Lies",
+      "url": "https://open.spotify.com/track/3tnrEeCNKBpmu8RDD2pZhC"
+    },
+    {
+      "added_at": "2023-11-08 20:22:18",
+      "album": {
+        "name": "Loyal (feat. RINI)",
+        "url": "https://open.spotify.com/album/4BpRc2oGl007kwFhKVMcit"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        },
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "duration_ms": 166434,
+      "name": "Loyal (feat. RINI)",
+      "url": "https://open.spotify.com/track/2r4JCZM0EeAXXSa0ShwhRi"
+    },
+    {
+      "added_at": "2023-11-08 20:22:18",
+      "album": {
+        "name": "SELF CARE",
+        "url": "https://open.spotify.com/album/2gUv8u6L3fCT7pDm5FMleh"
+      },
+      "artists": [
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "SELF CARE",
+      "url": "https://open.spotify.com/track/6xJ8pLfdfnJBpQR6i8J4jq"
+    },
+    {
+      "added_at": "2023-11-08 20:22:18",
+      "album": {
+        "name": "I'll Be",
+        "url": "https://open.spotify.com/album/4zCGlPhdwLmGc5d39goKe8"
+      },
+      "artists": [
+        {
+          "name": "HENNESSY",
+          "url": "https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW"
+        }
+      ],
+      "duration_ms": 151401,
+      "name": "I'll Be",
+      "url": "https://open.spotify.com/track/5qH8jKHORaaljDS37U935r"
+    },
+    {
+      "added_at": "2023-11-08 20:22:18",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/1w5I3zYfUVHeJQJzVDQVrN"
+      },
+      "artists": [
+        {
+          "name": "Titose",
+          "url": "https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7"
+        }
+      ],
+      "duration_ms": 169280,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/1uvZJLp6BVLwDhz0WL1xDH"
+    },
+    {
+      "added_at": "2023-11-08 20:22:18",
+      "album": {
+        "name": "COLD GAME",
+        "url": "https://open.spotify.com/album/7BMYsMpIFo8aDSsEFay9rf"
+      },
+      "artists": [
+        {
+          "name": "3LISE",
+          "url": "https://open.spotify.com/artist/018k4iDT5vPZTA5EfoalRP"
+        },
+        {
+          "name": "ClayDough",
+          "url": "https://open.spotify.com/artist/5r7Rbfw8HjHPA5H0lHLyWW"
+        }
+      ],
+      "duration_ms": 199908,
+      "name": "COLD GAME",
+      "url": "https://open.spotify.com/track/46TOCxXYErvQ2f18ozDPQL"
+    },
+    {
+      "added_at": "2023-11-08 20:22:18",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Kqd2TKTJHj64J3dC0mYqY"
+      },
+      "artists": [
+        {
+          "name": "AP",
+          "url": "https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ"
+        }
+      ],
+      "duration_ms": 123692,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/5n7gJIvA93Xn0ie8sRTQVv"
+    },
+    {
+      "added_at": "2023-11-08 20:22:18",
+      "album": {
+        "name": "Abena",
+        "url": "https://open.spotify.com/album/59cqRU9fubHfO78cWM7HyB"
+      },
+      "artists": [
+        {
+          "name": "BenjiFlow",
+          "url": "https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt"
+        }
+      ],
+      "duration_ms": 135792,
+      "name": "Abena",
+      "url": "https://open.spotify.com/track/6DxtuK3Jy8Fll23EHrO1wo"
+    },
     {
       "added_at": "2023-10-25 17:11:11",
       "album": {
@@ -1628,7 +1904,7 @@
       "added_at": "2023-09-20 14:07:21",
       "album": {
         "name": "Spend My Days",
-        "url": "https://open.spotify.com/album/1i6kNaAWplITA9Q9cUwj7A"
+        "url": "https://open.spotify.com/album/0sqhJJII5sZZJzPDWUdAtz"
       },
       "artists": [
         {
@@ -1638,7 +1914,7 @@
       ],
       "duration_ms": 153600,
       "name": "Spend My Days",
-      "url": "https://open.spotify.com/track/03qshjNjaZJ9YmuyX9malT"
+      "url": "https://open.spotify.com/track/6hsXCoQHqRjh0Jr6FlNqkQ"
     },
     {
       "added_at": "2023-09-20 14:07:21",

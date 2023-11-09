@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,088 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,122 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Fired Up](https://open.spotify.com/track/1kvOZ36ekbzUGIA9QHmZIH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Fired Up](https://open.spotify.com/album/6nIJlsCVFIGUCf4xDxq2Ix) | 2:49 |
 | 100 | [Good To Be](https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW) | 2:27 |
 
-Snapshot ID: `MCxjM2RhY2ZkZGZlMDM5NTI0MDNmZWY3NzFlZGViMzdjNGZhNWM3M2Mw`
+Snapshot ID: `MCwwNjZlNjRhM2VlNjg0Y2M1NTdiYzRmZmIyOTc3NmNkZjNiMGIyMjRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,177 likes - 40 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,181 likes - 40 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 35 | [Everybody Knows](https://open.spotify.com/track/7arMFVCLQ4h0B3lIZITEdY) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX), [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Everybody Knows](https://open.spotify.com/album/6pEDpmpeGLfIX8fGi4OzOo) | 5:26 |
 | 36 | [Who By Fire](https://open.spotify.com/track/13t5z9HD9e6syCaUweEqYH) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Songs I Love Vol.1](https://open.spotify.com/album/7GE2PIbzksYbhVxtbSHuwF) | 3:00 |
 | 37 | [Tennessee Waltz \- Live at Montreux Jazz Festival](https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Dear Heather](https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg) | 4:05 |
-| 38 | [Ballad of the Absent Mare](https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC) | [Perla Batalla](https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd) | [Bird on the Wire: The Songs of Leonard Cohen](https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz) | 6:16 |
-| 39 | [Coming Back To You](https://open.spotify.com/track/20kWunnotqJfqz4NmdnleV) | [Martin Gore](https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 3:32 |
-| 40 | [Chelsea Hotel \#2](https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs) | [Kyle Craft](https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr) | [Chelsea Hotel \#2](https://open.spotify.com/album/74kCTmJ9MUmJWRZifk69Bi) | 3:35 |
+| 38 | [Avalanche](https://open.spotify.com/track/3PH1n0JC1icuzNQTD4Rsv0) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [From Her to Eternity \(2009 \- Remaster\)](https://open.spotify.com/album/5XWZDaQXTMUnXAzyBbpR7P) | 5:09 |
+| 39 | [Ballad of the Absent Mare](https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC) | [Perla Batalla](https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd) | [Bird on the Wire: The Songs of Leonard Cohen](https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz) | 6:16 |
+| 40 | [Coming Back To You](https://open.spotify.com/track/20kWunnotqJfqz4NmdnleV) | [Martin Gore](https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 3:32 |
 
-Snapshot ID: `MCxkMDg5MWVlNmZhZTU1ZDE5MDdhMmM0ZGU3ODFiYjlhMDg2N2MwYzY2`
+Snapshot ID: `MCw4YjdiYmNlNGY1YWZjMzg1NTg5OTRkZTgyNzkyZjRmYTA2ZDZlYmE3`

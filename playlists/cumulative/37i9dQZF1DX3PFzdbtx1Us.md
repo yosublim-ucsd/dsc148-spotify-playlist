@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-287 songs - 11 hr 14 min
+291 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Balm \(Scaled Down Version\)](https://open.spotify.com/track/6kvjFChxzePaNR3WOr5krg) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/7HYUrYCfTTILVubFZtXFUf) | 2:06 | 2022-07-05 | 2023-05-16 |
 | [Balm \(Scaled Down Version\)](https://open.spotify.com/track/7fd6mJ63YjCPjK7rBNBbIo) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/36RdEKMjHKzSwTbpThbEw0) | 2:06 | 2022-07-05 | 2022-11-13 |
 | [Barcelona](https://open.spotify.com/track/5JSQc1Anz5HWLZUpMbmMh1) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Barcelona](https://open.spotify.com/album/1YrneT7zPyEDXSnJ2AIDrD) | 2:46 | 2023-05-15 |  |
+| [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 | 2023-11-08 |  |
 | [Between The Lines](https://open.spotify.com/track/33BPMNYcPhcua4D5MhJa6d) | [Michel Haspeslagh](https://open.spotify.com/artist/3pBbMbMr7qdCr9OA3hasPl) | [Between The lines](https://open.spotify.com/album/5jDKJJoabz0LeU11vXVfRR) | 2:35 | 2023-05-15 |  |
 | [Beyond The Sun](https://open.spotify.com/track/4cq0zgDNcYj3auhiT6i7Cx) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Beyond The Sun](https://open.spotify.com/album/1ZzfWQIwgAn0AHZVATRg6V) | 2:59 | 2021-06-27 | 2023-05-16 |
 | [Bird of Passage](https://open.spotify.com/track/79XrQYbxrhehKlaT70VfxN) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Bird of Passage](https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO) | 2:07 | 2023-09-11 |  |
@@ -219,6 +220,7 @@
 | [Red Gold Yesterday](https://open.spotify.com/track/5q4HX5dFrepBt1T4Kjuw6p) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/3xdGge4Qff3JuWeGpIElmZ) | 2:18 | 2022-07-05 | 2023-05-16 |
 | [Refraction](https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Refraction](https://open.spotify.com/album/1aGIdyXxti7seh4NwA5RNJ) | 2:59 | 2023-05-15 |  |
 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 | 2023-05-15 |  |
+| [Relief](https://open.spotify.com/track/21Z5allNDVFrsznZvpdIl0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Relief](https://open.spotify.com/album/1COrB0wOkh7xmX4DLAJYiQ) | 2:38 | 2023-11-08 |  |
 | [Relinquishing](https://open.spotify.com/track/3pUnfBXv3XTGqdtpHH9a4T) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Relinquishing](https://open.spotify.com/album/3O66GdoL4N2pmZf1PImUO1) | 2:05 | 2023-05-15 |  |
 | [Reminiscence](https://open.spotify.com/track/0S5AjZXXVEeb7adqRBpELt) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [KEEN: Complete Concentration Vol\. 1](https://open.spotify.com/album/6wae1HkPxiUmb3ntigcqXR) | 2:32 | 2022-07-05 | 2022-11-13 |
 | [Reminiscence](https://open.spotify.com/track/1FwYuCPPEepHIWydsi37gI) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As The Years Go By](https://open.spotify.com/album/3mJDPP4Axx9itKVW5SPytr) | 2:32 | 2021-06-27 | 2022-07-29 |
@@ -227,6 +229,7 @@
 | [Riverlight](https://open.spotify.com/track/3sp6FlleWKCE9mxdnHXFlU) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Riverlight](https://open.spotify.com/album/2wWyVXM1gackIofNnlxWdP) | 2:13 | 2023-05-15 |  |
 | [Rébus](https://open.spotify.com/track/1RaP4GkSYdKzKyRJdXxBJ6) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Rébus](https://open.spotify.com/album/4pJZ7dbo8FXYh3NwS7wOvl) | 2:29 | 2023-05-15 |  |
 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 | 2023-05-15 |  |
+| [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 | 2023-11-08 |  |
 | [Saudade](https://open.spotify.com/track/5N56pgOicPJjfMsYV5ppyK) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Saudade](https://open.spotify.com/album/3uOzcnthiPwrYCrCyb4Txy) | 3:34 | 2023-07-24 |  |
 | [Seasons Changing](https://open.spotify.com/track/7AmuUFfqrVzJSCcOLXDfgf) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Seasons Changing](https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu) | 2:19 | 2021-06-27 | 2023-05-16 |
 | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL) | [Sonny Santos](https://open.spotify.com/artist/61rw2tGmDJZcFrMO638UXS), [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0), [The Shivers](https://open.spotify.com/artist/1zok0QXebHywV3KLl6DIFw) | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/album/1FDrPTALSqfWClwFePUBkJ) | 2:37 | 2023-05-15 |  |
@@ -262,6 +265,7 @@
 | [Sustain](https://open.spotify.com/track/12ZrUYjD11STbDbPUt8BBY) | [Lars Meyer](https://open.spotify.com/artist/0zv0evXR10PUhTenDprOZO) | [Memories Of The Green Valley](https://open.spotify.com/album/0dKZyHkBfd45pUTqk5jnBc) | 2:26 | 2021-06-27 | 2022-07-29 |
 | [Sustain](https://open.spotify.com/track/2oKbJIk1Kzd3v5nclpAdSt) | [Lars Meyer](https://open.spotify.com/artist/0zv0evXR10PUhTenDprOZO) | [Memories Of The Green Valley](https://open.spotify.com/album/7ImtC4I90vNSu7lGoUL5pY) | 2:26 | 2022-07-05 | 2023-05-16 |
 | [That's why I stay](https://open.spotify.com/track/4foc5c5MA7gjjDSz5KcOp9) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [That's why I stay](https://open.spotify.com/album/6GpyzzwDlwS8EhUJiLibNO) | 2:26 | 2023-05-15 |  |
+| [The book of love](https://open.spotify.com/track/666JYU0w4jgwyB9xOsjR37) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [The book of love](https://open.spotify.com/album/0GDaWajfUkhgS7rwQNonsJ) | 2:30 | 2023-11-08 |  |
 | [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 | 2023-08-15 |  |
 | [The Distance](https://open.spotify.com/track/0Dz5F370dENsaTc8TL9fK2) | [John Henriksson](https://open.spotify.com/artist/0vd7h6G1xC8QyRvj7oJjij) | [Study Music \(The Piano Collection\)](https://open.spotify.com/album/1mQwDf7pyR3htQD1GaICrg) | 2:35 | 2021-06-27 | 2023-05-16 |
 | [The Field](https://open.spotify.com/track/7Mas670FmorgBqp0GnZOHb) | [Leonard Gambrell](https://open.spotify.com/artist/3UjODKnwbU318wOJhcuxSG) | [The Field](https://open.spotify.com/album/3IboYSaQu2t0zoFU7BkG6Z) | 2:36 | 2023-05-15 |  |

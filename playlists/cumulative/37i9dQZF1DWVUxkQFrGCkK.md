@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-334 songs - 1 day 1 hr 27 min
+335 songs - 1 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,9 +213,10 @@
 | [Moon \(And It Went Like\)](https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/54vSb9255iZKykjuytWbZh) | 6:30 | 2023-04-13 | 2023-08-02 |
 | [Moonbeam, Midnight, Howl](https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu) | 5:41 | 2023-04-13 | 2023-08-02 |
 | [More Love \- Rampa &ME Remix](https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [More Love \(Rampa &ME Remix\)](https://open.spotify.com/album/4ml88dBgRFbbucUERI1BYC) | 6:11 | 2023-10-26 |  |
-| [Musa](https://open.spotify.com/track/72DaECSz5fvcv21o33kUxK) | [Kill Them With Colour](https://open.spotify.com/artist/51YdmMVkUtAJnXacxyBZdU) | [Musa](https://open.spotify.com/album/6Hpyr1c5AFXmWF68DJb67o) | 3:16 | 2023-06-29 |  |
+| [Musa](https://open.spotify.com/track/3y3NdLXg194DbiBWIf0SP9) | [Kill Them With Colour](https://open.spotify.com/artist/51YdmMVkUtAJnXacxyBZdU) | [Musa](https://open.spotify.com/album/6kWXAHbhHJqXx9rCNuwPJh) | 3:16 | 2023-11-02 |  |
+| [Musa](https://open.spotify.com/track/72DaECSz5fvcv21o33kUxK) | [Kill Them With Colour](https://open.spotify.com/artist/51YdmMVkUtAJnXacxyBZdU) | [Musa](https://open.spotify.com/album/6Hpyr1c5AFXmWF68DJb67o) | 3:16 | 2023-06-29 | 2023-11-09 |
 | [My Love for You \(Yebba's Heartbreak\) \- Edit](https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [My Love for You \(Yebba's Heartbreak\)](https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc) | 3:25 | 2023-10-19 |  |
-| [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/0kTVwwt7g7OR5BAYmJvUue) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [My Neck, My Back \(Lick It\)](https://open.spotify.com/album/3vTbXNxh4aurW6b8WWSXOV) | 6:17 | 2023-10-26 |  |
+| [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/0kTVwwt7g7OR5BAYmJvUue) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [My Neck, My Back \(Lick It\)](https://open.spotify.com/album/3vTbXNxh4aurW6b8WWSXOV) | 6:16 | 2023-10-26 |  |
 | [Needed You The Most](https://open.spotify.com/track/6FfBlsHzXVtGyOgR6jdLx0) | [Gustav Gustav](https://open.spotify.com/artist/1dyXIa7Eo7ZdJsHQnOjtH8) | [Needed You The Most](https://open.spotify.com/album/5OkUecK9UZ282KjMI8F3q0) | 5:27 | 2023-06-29 | 2023-08-25 |
 | [Nights On The Floor](https://open.spotify.com/track/19nY0DMvD2ajoY7cLczBw4) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Nights On The Floor](https://open.spotify.com/album/2QwmZ5GThwXVZ7SuLjUIFQ) | 7:05 | 2023-06-29 |  |
 | [No More Room For Us](https://open.spotify.com/track/09sF2i7E0juLr8OfT2Ygx9) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [No More Room For Us](https://open.spotify.com/album/4B8f7MbBLgw1UvitD2wBtM) | 5:53 | 2023-08-01 |  |

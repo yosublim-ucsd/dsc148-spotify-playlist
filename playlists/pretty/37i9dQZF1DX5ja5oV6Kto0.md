@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Tim Lyre and Tay Iwar
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,753 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,770 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [In My Soul](https://open.spotify.com/track/3CMfurJL0T1OZPKU1RdYUc) | [Shalom Dubas](https://open.spotify.com/artist/2ys4tbtUpMQd5eujuaRXSj) | [In My Soul](https://open.spotify.com/album/5XzrqHjTXVWn6WRnLVawep) | 3:02 |
 | 80 | [SHEGE](https://open.spotify.com/track/3XeQnvXkAXX6LVErx2F0vw) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [SHEGE](https://open.spotify.com/album/7ynX70WRFESVn0SSQR9iaH) | 2:16 |
 
-Snapshot ID: `MCwxYzhlMjY0N2Y0ZDljNjBiNTU5ZDczMjIwZmNhNTBjNWQwZWVjZmU1`
+Snapshot ID: `MCw4OWU4NDU4NDlmYzcxNGMxNjRmMjkzMWRlOTY1ZTZiNTBlYzJjMmE0`

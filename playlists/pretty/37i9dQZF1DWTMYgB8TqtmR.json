@@ -1,12 +1,12 @@
 {
   "description": "It's Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 733630,
+  "num_followers": 733662,
   "original_name": "It's Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmIwNjE2MWMzMjVmYzE1YmI0YjBhMmUwNzFhMDgxOTE2MGYzNDMz",
+  "snapshot_id": "MCw0ZmRlYWVlM2M2N2M5YTU0MjljY2JhZTcwZTQ3YTA3NTU2NzdkN2Ux",
   "tracks": [
     {
       "added_at": "2023-11-07 14:08:24",
@@ -543,6 +543,26 @@
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2023-11-07 14:08:24",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
       "added_at": "2023-11-07 14:08:24",

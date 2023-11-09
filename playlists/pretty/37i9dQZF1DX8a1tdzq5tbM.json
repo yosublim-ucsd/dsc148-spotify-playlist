@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1425089,
+  "num_followers": 1425429,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTBhNTNhZTg5MTFlOWMxZWMzNTY5Y2QzNThjM2RmNmNmN2VhN2Yz",
+  "snapshot_id": "MCwyMTI4NmZmOTM4ZjI2YTllMjY4MjJiOWJlMTNiZTBlNDA2NmQ0YjMx",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -367,22 +367,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Heads Will Roll",
-        "url": "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
+        "name": "For An Angel",
+        "url": "https://open.spotify.com/album/0EKap5LIE39RLZoknkiZOl"
       },
       "artists": [
         {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
         }
       ],
-      "duration_ms": 203920,
-      "name": "Heads Will Roll - A-Trak Remix Radio Edit",
-      "url": "https://open.spotify.com/track/0vBpyfpW2lARGh3AZFtWRi"
+      "duration_ms": 233243,
+      "name": "For An Angel - PVD Angel In Heaven Radio Edit",
+      "url": "https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -403,18 +399,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "For An Angel",
-        "url": "https://open.spotify.com/album/0EKap5LIE39RLZoknkiZOl"
+        "name": "Heads Will Roll",
+        "url": "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
       },
       "artists": [
         {
-          "name": "Paul van Dyk",
-          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
         }
       ],
-      "duration_ms": 233243,
-      "name": "For An Angel - PVD Angel In Heaven Radio Edit",
-      "url": "https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP"
+      "duration_ms": 203920,
+      "name": "Heads Will Roll - A-Trak Remix Radio Edit",
+      "url": "https://open.spotify.com/track/0vBpyfpW2lARGh3AZFtWRi"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Poetica (feat. Nadia Ali)",
-        "url": "https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD"
-      },
-      "artists": [
-        {
-          "name": "iio",
-          "url": "https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw"
-        },
-        {
-          "name": "Nadia Ali",
-          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "Rapture (feat.Nadia Ali)",
-      "url": "https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 182013,
       "name": "Gettin' Over (feat. Chris Willis & Fergie)",
       "url": "https://open.spotify.com/track/4fqwEothoIOcKr3pARJCgu"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Poetica (feat. Nadia Ali)",
+        "url": "https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD"
+      },
+      "artists": [
+        {
+          "name": "iio",
+          "url": "https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw"
+        },
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "Rapture (feat.Nadia Ali)",
+      "url": "https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1055,30 +1055,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "One More Love",
-        "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
-      },
-      "artists": [
-        {
-          "name": "Joachim Garraud",
-          "url": "https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2"
-        },
-        {
-          "name": "JD Davis",
-          "url": "https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 219946,
-      "name": "The World Is Mine",
-      "url": "https://open.spotify.com/track/1tmYcGyQJHestYnGel5y7c"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Show Me Love (feat. Robin S)",
         "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
       },
@@ -1103,18 +1079,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "9 PM (Till I Come) - The U.K. Mixes [Remixes] - Single",
-        "url": "https://open.spotify.com/album/5ov5ci5LMlUj9kDh95PCGd"
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
       "artists": [
         {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+          "name": "Joachim Garraud",
+          "url": "https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2"
+        },
+        {
+          "name": "JD Davis",
+          "url": "https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 164333,
-      "name": "9 PM - Till I come >The U.K. Mixes< - Radio Mix UK",
-      "url": "https://open.spotify.com/track/659wddNDkBkMbtt8KR8DOn"
+      "duration_ms": 219946,
+      "name": "The World Is Mine",
+      "url": "https://open.spotify.com/track/1tmYcGyQJHestYnGel5y7c"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1135,6 +1119,22 @@
       "duration_ms": 285413,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/5JZnjM9ijpit0d5zjT8MM7"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "9 PM (Till I Come) - The U.K. Mixes [Remixes] - Single",
+        "url": "https://open.spotify.com/album/5ov5ci5LMlUj9kDh95PCGd"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "9 PM - Till I come >The U.K. Mixes< - Radio Mix UK",
+      "url": "https://open.spotify.com/track/659wddNDkBkMbtt8KR8DOn"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Basement Boys Anthology",
-        "url": "https://open.spotify.com/album/6S72JaSvpkzsTJ4hkRJpHV"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 581226,
-      "name": "Gypsy Woman",
-      "url": "https://open.spotify.com/track/2jBQYMPjY0UspZAVyYPRUG"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Strictly Hardrive",
         "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 392293,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Basement Boys Anthology",
+        "url": "https://open.spotify.com/album/6S72JaSvpkzsTJ4hkRJpHV"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 581226,
+      "name": "Gypsy Woman",
+      "url": "https://open.spotify.com/track/2jBQYMPjY0UspZAVyYPRUG"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "I Like Your Booty / The Big Fake",
-        "url": "https://open.spotify.com/album/0D0O1lbkzRcXJECh3owHN3"
-      },
-      "artists": [
-        {
-          "name": "Traffic Signs",
-          "url": "https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92"
-        }
-      ],
-      "duration_ms": 384733,
-      "name": "The Big Fake",
-      "url": "https://open.spotify.com/track/67nOnSiH1QRUiYihmLBmwI"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Every Word",
         "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 213173,
       "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
       "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "I Like Your Booty / The Big Fake",
+        "url": "https://open.spotify.com/album/0D0O1lbkzRcXJECh3owHN3"
+      },
+      "artists": [
+        {
+          "name": "Traffic Signs",
+          "url": "https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92"
+        }
+      ],
+      "duration_ms": 384733,
+      "name": "The Big Fake",
+      "url": "https://open.spotify.com/track/67nOnSiH1QRUiYihmLBmwI"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Just One Day",
+        "url": "https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A"
+      },
+      "artists": [
+        {
+          "name": "Kim Sozzi",
+          "url": "https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6"
+        }
+      ],
+      "duration_ms": 200080,
+      "name": "Feel Your Love",
+      "url": "https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Moby",
         "url": "https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk"
       },
@@ -1839,18 +1855,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Just One Day",
-        "url": "https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A"
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
       },
       "artists": [
         {
-          "name": "Kim Sozzi",
-          "url": "https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         }
       ],
-      "duration_ms": 200080,
-      "name": "Feel Your Love",
-      "url": "https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s"
+      "duration_ms": 200280,
+      "name": "Step One Two",
+      "url": "https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1871,22 +1887,6 @@
       "duration_ms": 219146,
       "name": "Deep At Night (Adam K & Soha Radio Mix)",
       "url": "https://open.spotify.com/track/4ggVmEvo9FzExPonRRqqIS"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 200280,
-      "name": "Step One Two",
-      "url": "https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "The Cube Guys",
-          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
-        }
-      ],
-      "duration_ms": 251706,
-      "name": "Baba O'Riley (Radio Edit)",
-      "url": "https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/2iPHV0vUp2IoooYQXHIyI8"
       },
@@ -1955,6 +1939,58 @@
       "duration_ms": 438013,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/5koBIzuWS86S2IR36yt2LW"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "The Cube Guys",
+          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
+        }
+      ],
+      "duration_ms": 251706,
+      "name": "Baba O'Riley (Radio Edit)",
+      "url": "https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Believer (feat. Wynter Gordon)",
+        "url": "https://open.spotify.com/album/0sd07wZssqlLugldAokk6K"
+      },
+      "artists": [
+        {
+          "name": "Freemasons",
+          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+        },
+        {
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
+        }
+      ],
+      "duration_ms": 189388,
+      "name": "Believer (feat. Wynter Gordon) (Radio Edit)",
+      "url": "https://open.spotify.com/track/2tjCwTjbuEc6bXyp9iS08B"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Sorry - Dirty South Radio Edit",
+      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1995,22 +2031,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Sorry - Dirty South Radio Edit",
-      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Put 'Em Up",
         "url": "https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr"
       },
@@ -2023,26 +2043,6 @@
       "duration_ms": 211600,
       "name": "Put `em Up",
       "url": "https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Believer (feat. Wynter Gordon)",
-        "url": "https://open.spotify.com/album/0sd07wZssqlLugldAokk6K"
-      },
-      "artists": [
-        {
-          "name": "Freemasons",
-          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
-        },
-        {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
-        }
-      ],
-      "duration_ms": 189388,
-      "name": "Believer (feat. Wynter Gordon) (Radio Edit)",
-      "url": "https://open.spotify.com/track/2tjCwTjbuEc6bXyp9iS08B"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Star 69",
-        "url": "https://open.spotify.com/album/5Ek7bYGxRPFNoFZB71pTZJ"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 371493,
-      "name": "Star 69 - Timo Maas Mix",
-      "url": "https://open.spotify.com/track/1HYiVTgxERP2llm0yFzVNj"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Nervous Nitelife: Vegas",
         "url": "https://open.spotify.com/album/7wKLfPH7nZs3E7McMPFP62"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 357160,
       "name": "Summerfish - Scandall Sunset On Ibiza Instrumental",
       "url": "https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Star 69",
+        "url": "https://open.spotify.com/album/5Ek7bYGxRPFNoFZB71pTZJ"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 371493,
+      "name": "Star 69 - Timo Maas Mix",
+      "url": "https://open.spotify.com/track/1HYiVTgxERP2llm0yFzVNj"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "Bendj Feat Sushy",
-          "url": "https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU"
-        }
-      ],
-      "duration_ms": 172493,
-      "name": "Me and Myself (Wolfgang Gartner Radio Edit)",
-      "url": "https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Girlfriend (2008 Remix)",
         "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 435986,
       "name": "Girlfriend - 2008 Remix",
       "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "Bendj Feat Sushy",
+          "url": "https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU"
+        }
+      ],
+      "duration_ms": 172493,
+      "name": "Me and Myself (Wolfgang Gartner Radio Edit)",
+      "url": "https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV"
     },
     {
       "added_at": "2023-03-22 14:00:00",

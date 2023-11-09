@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-342 songs - 18 hr 5 min
+343 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Razor](https://open.spotify.com/track/2V1Hga07DrnaJycGNM4FgG) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Razor](https://open.spotify.com/album/6J18D8pAsfT4miA43tk6u1) | 3:28 | 2023-08-10 |  |
 | [Red Light](https://open.spotify.com/track/6tTfhvcXVTf3N4fXNo81uT) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Red Light](https://open.spotify.com/album/6YJrD2ktodcbxT5V37QYJC) | 2:58 | 2022-02-03 | 2022-09-15 |
 | [Redemption](https://open.spotify.com/track/11hQpTbTymxIZzSmabCd9b) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [Redemption](https://open.spotify.com/album/7Dl2QenOQCV2oRvbfugT7m) | 4:05 | 2022-09-29 | 2023-08-11 |
-| [Reign](https://open.spotify.com/track/04NArlIg0hSFZgqEezFw7q) | [Venemy](https://open.spotify.com/artist/3ufl7njCaTxUVsCthYBBfi), [Aznar](https://open.spotify.com/artist/1xolnKTrltI1Tq36Tosewy), [Double Take](https://open.spotify.com/artist/1uABueyzoR3KBmDJBtbwbc) | [Reign](https://open.spotify.com/album/0G4LYlpOtMeCiTIfFWQ7Vv) | 4:13 | 2023-08-10 |  |
+| [Reign](https://open.spotify.com/track/04NArlIg0hSFZgqEezFw7q) | [Venemy](https://open.spotify.com/artist/3ufl7njCaTxUVsCthYBBfi), [Aznar](https://open.spotify.com/artist/1xolnKTrltI1Tq36Tosewy), [Double Take](https://open.spotify.com/artist/1uABueyzoR3KBmDJBtbwbc) | [Reign](https://open.spotify.com/album/0G4LYlpOtMeCiTIfFWQ7Vv) | 4:13 | 2023-08-10 | 2023-11-09 |
 | [Retrophonic](https://open.spotify.com/track/2jT3LKqUJVrcT6TYJhcsJg) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Retrophonic](https://open.spotify.com/album/1c0bNZGrgSQlcALkrwSgQ2) | 2:31 | 2022-05-13 | 2023-08-11 |
 | [Revenger](https://open.spotify.com/track/5AoT3FYR5RqGb7901u9Ah5) | [Raiko](https://open.spotify.com/artist/3WSfFTgrSbcAMbZaGfKvzC) | [Revenger](https://open.spotify.com/album/3sZOs2Gzt8sapxnXybzRdX) | 3:02 | 2023-08-10 |  |
 | [Rewind](https://open.spotify.com/track/6efEvmZMPiCwAqBFmK1SqM) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Rewind](https://open.spotify.com/album/1Al7ihtbE2D62RBrmRYLR4) | 3:24 | 2022-02-03 | 2022-09-15 |
@@ -245,6 +245,7 @@
 | [Ropes](https://open.spotify.com/track/1t2qKa8K72IBC8yQlhD9bU) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0), [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [Ropes](https://open.spotify.com/album/0cgpcZCPvGGXOCpXVqPrvJ) | 3:08 | 2022-02-03 | 2023-08-11 |
 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 | 2022-02-03 | 2022-09-15 |
 | [Royalty \- Wiguez & Alltair Remix](https://open.spotify.com/track/58A0GOp6jVOwvOFY8QpB1S) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY) | [Royalty \(Wiguez & Alltair Remix\)](https://open.spotify.com/album/5sNcv31njio0AJVl8XtceF) | 3:32 | 2022-02-03 | 2023-08-11 |
+| [RPM](https://open.spotify.com/track/3JmYbk1udLndnD6Q3AbeU4) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [RPM](https://open.spotify.com/album/5KEbT5Sa0y4KwErRykgbqW) | 2:20 | 2023-11-08 |  |
 | [Run For Your Life](https://open.spotify.com/track/0ivFJ8VFDfgas9orKVxLRO) | [Tom Wilson](https://open.spotify.com/artist/4W9vuLWmzlcGv6stGVWPPC), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X) | [Run For Your Life](https://open.spotify.com/album/1TZAMPqQxx3coHnCY9rQhb) | 2:50 | 2022-02-03 | 2022-09-15 |
 | [Runaway](https://open.spotify.com/track/3DzOMCStLUpXvooH03HF1C) | [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [Runaway](https://open.spotify.com/album/0uBqvxbWAPEBvJ9FZnI780) | 4:20 | 2022-10-27 | 2023-08-11 |
 | [Running Away](https://open.spotify.com/track/2ZVP5ivOyS9XZ9NJ3yVzzq) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U), [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [Evergreen](https://open.spotify.com/album/1IGqbM5ixtd5OSXgkMolWs) | 3:21 | 2022-02-03 | 2022-07-12 |

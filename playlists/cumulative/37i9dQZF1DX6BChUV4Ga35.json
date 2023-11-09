@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "In a Heartbeat",
+        "url": "https://open.spotify.com/album/1kXmKhiwSs5PubFMRhvY2w"
+      },
+      "artists": [
+        {
+          "name": "Laura Doherty",
+          "url": "https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148120,
+      "name": "Domingo the Flamingo",
+      "url": "https://open.spotify.com/track/16jiHSEtoXq6FKJKlVsxrr"
+    },
+    {
+      "album": {
         "name": "Animal Songs",
         "url": "https://open.spotify.com/album/36tbGzLkVELzT9bF5SUus0"
       },
@@ -1024,6 +1042,24 @@
       "duration_ms": 90186,
       "name": "Eensy Weensy Spider",
       "url": "https://open.spotify.com/track/73Idku6pDpul8PXHnfeA1N"
+    },
+    {
+      "album": {
+        "name": "best of Canzoni per Bambini",
+        "url": "https://open.spotify.com/album/71osmZEAbGmgATVSk4bcua"
+      },
+      "artists": [
+        {
+          "name": "Cooltime Kids",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99533,
+      "name": "Five Little Monkeys",
+      "url": "https://open.spotify.com/track/1Cx3wEBRVnepDsjbOFbFzO"
     },
     {
       "album": {
@@ -1320,6 +1356,24 @@
       "duration_ms": 136453,
       "name": "I've Got A Goat",
       "url": "https://open.spotify.com/track/5aOmYquQylHT2GhJ5TjSu6"
+    },
+    {
+      "album": {
+        "name": "Away We Go!",
+        "url": "https://open.spotify.com/album/6gXAuYlj9SA4b0APIF1CGS"
+      },
+      "artists": [
+        {
+          "name": "Caspar Babypants",
+          "url": "https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149266,
+      "name": "Jellyfish Jones",
+      "url": "https://open.spotify.com/track/32GZOJVBjAyJem2WVIqYhW"
     },
     {
       "album": {

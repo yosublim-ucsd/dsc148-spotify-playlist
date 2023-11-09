@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Mom
 
-980 songs - 2 day 13 hr 3 min
+981 songs - 2 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [LaLaLa](https://open.spotify.com/track/59VPazsRoE7d68T5QkZv7d) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [LaLaLa](https://open.spotify.com/album/2gh7VrfBwWqtcGGQFXa3mL) | 2:55 | 2023-01-24 | 2023-02-15 |
 | [Landscapes](https://open.spotify.com/track/1kR9fUrtW3ivzHiNKftnkP) | [Cairophenomenons](https://open.spotify.com/artist/4N8yE8e1Fb6NtGKZujp2v8) | [Landscapes](https://open.spotify.com/album/6kWcsa0s3FsfMs6k51rWBL) | 3:41 | 2023-02-09 | 2023-03-25 |
 | [Lapse](https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 3:55 | 2023-04-18 | 2023-09-06 |
+| [Last scene](https://open.spotify.com/track/6xJ892EOZotDPZxxzu2n3R) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Kanashī dekigoto \-The overkill\-](https://open.spotify.com/album/4lroNwCV22vfbY1z1LkdiG) | 4:22 | 2023-11-07 |  |
 | [Leila](https://open.spotify.com/track/4FeJt1fgcQSVLJkJz2IyvG) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Leila](https://open.spotify.com/album/4OAMD29bLZWsPiMAI5EVAV) | 3:15 | 2023-09-08 | 2023-09-20 |
 | [Lemon Cake](https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Lemon Cake](https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX) | 5:23 | 2023-02-07 | 2023-04-21 |
 | [Let It Go As If You Wander](https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy) | 2:42 | 2023-09-20 |  |
@@ -768,7 +769,7 @@
 | [メガフォン](https://open.spotify.com/track/0Q4sqHF7uMbOZjwkbrfrw4) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [4PIES](https://open.spotify.com/album/0Varj37mIYsQjzlphyyWRO) | 2:38 | 2023-03-14 | 2023-05-09 |
 | [メガフォン](https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [メガフォン](https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1) | 2:38 | 2023-02-28 | 2023-03-16 |
 | [ヤケド](https://open.spotify.com/track/4NEhoHnnuNVRs5x7ovkkUk) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [ヤケド](https://open.spotify.com/album/1jPav5sGQGfQ8eKaAZA9Ym) | 3:15 | 2023-04-25 | 2023-06-14 |
-| [ラストシーン](https://open.spotify.com/track/0grJ6rU6nlczbq7Q1Hp90o) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [悲しい出来事 \-THE OVERKILL\-](https://open.spotify.com/album/0ZaodFLySbuZiNxjzmlNUz) | 4:22 | 2023-11-07 |  |
+| [ラストシーン](https://open.spotify.com/track/0grJ6rU6nlczbq7Q1Hp90o) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [悲しい出来事 \-THE OVERKILL\-](https://open.spotify.com/album/0ZaodFLySbuZiNxjzmlNUz) | 4:22 | 2023-11-07 | 2023-11-09 |
 | [ラストソング](https://open.spotify.com/track/0IOTbTpjTx1aAt7a25TGPg) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [ラストソング](https://open.spotify.com/album/7ynKhVVU90AJdf2hmWWqir) | 3:31 | 2023-07-04 | 2023-07-06 |
 | [ラブじゃん](https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [ラブじゃん](https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF) | 3:20 | 2023-01-17 | 2023-02-22 |
 | [ラブソング](https://open.spotify.com/track/1OOpz8FwsB7h1YrFEHfwha) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [あいについて](https://open.spotify.com/album/4yhCBM3SysopK5WedJDCgw) | 3:02 | 2023-01-31 | 2023-02-22 |

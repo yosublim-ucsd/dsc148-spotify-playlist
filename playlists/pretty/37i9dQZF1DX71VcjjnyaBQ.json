@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 390049,
+  "num_followers": 390151,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmI3YmMzZGY1OGU1Y2MwYzQxYmY5NjE1Yzg3MDdlZmU5YzE5MmI2",
+  "snapshot_id": "MCxiYjcyODliZTk1YzVjYTJlN2Q2NTc1NmZjMDkzMjdhZmU0NDZkYWZh",
   "tracks": [
     {
       "added_at": "2023-10-20 07:47:47",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-10-20 07:47:47",
       "album": {
+        "name": "Timba a la Americana",
+        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "duration_ms": 181928,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx"
+    },
+    {
+      "added_at": "2023-10-20 07:47:47",
+      "album": {
         "name": "Cononbridge",
         "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
       },
@@ -167,18 +183,26 @@
     {
       "added_at": "2023-10-20 07:47:47",
       "album": {
-        "name": "Timba a la Americana",
-        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
+        "name": "Follow the Light",
+        "url": "https://open.spotify.com/album/464mXSRcytt5W0mq22FMMt"
       },
       "artists": [
         {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        },
+        {
+          "name": "Jules Bill\u00e9",
+          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
+        },
+        {
+          "name": "Christophe Piot",
+          "url": "https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi"
         }
       ],
-      "duration_ms": 181928,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx"
+      "duration_ms": 303457,
+      "name": "Follow the Light",
+      "url": "https://open.spotify.com/track/5P0RMEJOgtGcZIq5wYjYei"
     },
     {
       "added_at": "2023-10-20 07:47:47",
@@ -211,30 +235,6 @@
       "duration_ms": 163946,
       "name": "Velvet Gloves & Spit",
       "url": "https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC"
-    },
-    {
-      "added_at": "2023-10-20 07:47:47",
-      "album": {
-        "name": "Follow the Light",
-        "url": "https://open.spotify.com/album/464mXSRcytt5W0mq22FMMt"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        },
-        {
-          "name": "Jules Bill\u00e9",
-          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
-        },
-        {
-          "name": "Christophe Piot",
-          "url": "https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi"
-        }
-      ],
-      "duration_ms": 303457,
-      "name": "Follow the Light",
-      "url": "https://open.spotify.com/track/5P0RMEJOgtGcZIq5wYjYei"
     },
     {
       "added_at": "2023-10-20 07:47:47",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-10-20 07:47:47",
       "album": {
-        "name": "End of Summer",
-        "url": "https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "End Of Summer",
-      "url": "https://open.spotify.com/track/5Awwc8XXZPub32TbLWyOPp"
-    },
-    {
-      "added_at": "2023-10-20 07:47:47",
-      "album": {
         "name": "For my lady",
         "url": "https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 203986,
       "name": "For my lady",
       "url": "https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG"
+    },
+    {
+      "added_at": "2023-10-20 07:47:47",
+      "album": {
+        "name": "End of Summer",
+        "url": "https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/5Awwc8XXZPub32TbLWyOPp"
     },
     {
       "added_at": "2023-10-20 07:47:47",
@@ -639,30 +639,6 @@
     {
       "added_at": "2023-10-20 07:47:47",
       "album": {
-        "name": "Where We Belong",
-        "url": "https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox"
-      },
-      "artists": [
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        },
-        {
-          "name": "Lars Jansson",
-          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
-        },
-        {
-          "name": "Paul Svanberg",
-          "url": "https://open.spotify.com/artist/7KfU9kgLyulNPcW5ZBlPRX"
-        }
-      ],
-      "duration_ms": 371773,
-      "name": "Where We Belong",
-      "url": "https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI"
-    },
-    {
-      "added_at": "2023-10-20 07:47:47",
-      "album": {
         "name": "Compromises",
         "url": "https://open.spotify.com/album/7MkYND1u4Y9ytafBECXxPM"
       },
@@ -687,6 +663,30 @@
       "duration_ms": 185613,
       "name": "Compromises",
       "url": "https://open.spotify.com/track/6teUPQnEbgYScxhKjVNcOc"
+    },
+    {
+      "added_at": "2023-10-20 07:47:47",
+      "album": {
+        "name": "Where We Belong",
+        "url": "https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox"
+      },
+      "artists": [
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        },
+        {
+          "name": "Lars Jansson",
+          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
+        },
+        {
+          "name": "Paul Svanberg",
+          "url": "https://open.spotify.com/artist/7KfU9kgLyulNPcW5ZBlPRX"
+        }
+      ],
+      "duration_ms": 371773,
+      "name": "Where We Belong",
+      "url": "https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI"
     },
     {
       "added_at": "2023-10-20 07:47:47",
@@ -775,38 +775,6 @@
     {
       "added_at": "2023-10-20 07:47:47",
       "album": {
-        "name": "Via de la Plata",
-        "url": "https://open.spotify.com/album/4nwGWXjKct2mSfGjQQcbYI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Garc\u00eda Trio",
-          "url": "https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Spring of Life",
-      "url": "https://open.spotify.com/track/1jfeTu7iQd0vhGSXJ1FEjw"
-    },
-    {
-      "added_at": "2023-10-20 07:47:47",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
-      },
-      "artists": [
-        {
-          "name": "Lucas Figueiredo Santana",
-          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
-        }
-      ],
-      "duration_ms": 414760,
-      "name": "As if We Were Just Friends",
-      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
-    },
-    {
-      "added_at": "2023-10-20 07:47:47",
-      "album": {
         "name": "Don't Ever Leave Me",
         "url": "https://open.spotify.com/album/71ic2jDgavFaDCR9dbDcEb"
       },
@@ -831,6 +799,38 @@
       "duration_ms": 437853,
       "name": "Arise",
       "url": "https://open.spotify.com/track/0jCZ4paISCHdIwQxUaLa3L"
+    },
+    {
+      "added_at": "2023-10-20 07:47:47",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Figueiredo Santana",
+          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+        }
+      ],
+      "duration_ms": 414760,
+      "name": "As if We Were Just Friends",
+      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
+    },
+    {
+      "added_at": "2023-10-20 07:47:47",
+      "album": {
+        "name": "Via de la Plata",
+        "url": "https://open.spotify.com/album/4nwGWXjKct2mSfGjQQcbYI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Garc\u00eda Trio",
+          "url": "https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Spring of Life",
+      "url": "https://open.spotify.com/track/1jfeTu7iQd0vhGSXJ1FEjw"
     },
     {
       "added_at": "2023-10-20 07:47:47",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-10-20 07:47:47",
       "album": {
+        "name": "Homeward Bound",
+        "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
+      },
+      "artists": [
+        {
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Abiyoyo",
+      "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
+    },
+    {
+      "added_at": "2023-10-20 07:47:47",
+      "album": {
         "name": "The Lion Turtle",
         "url": "https://open.spotify.com/album/5ntyasxJzPodwnnZJ252Td"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 515253,
       "name": "The Lion Turtle",
       "url": "https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE"
-    },
-    {
-      "added_at": "2023-10-20 07:47:47",
-      "album": {
-        "name": "Homeward Bound",
-        "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
-      },
-      "artists": [
-        {
-          "name": "Johnathan Blake",
-          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Abiyoyo",
-      "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
     },
     {
       "added_at": "2023-10-20 07:47:47",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-10-20 07:47:47",
       "album": {
+        "name": "Day",
+        "url": "https://open.spotify.com/album/3PhmbGVWT1R1Ng4uU58EZb"
+      },
+      "artists": [
+        {
+          "name": "Rudy Royston",
+          "url": "https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "A.M. Hours",
+      "url": "https://open.spotify.com/track/1ODmnwZVm5Ze5Nffqg2AUG"
+    },
+    {
+      "added_at": "2023-10-20 07:47:47",
+      "album": {
         "name": "RoundAgain (feat. Brad Mehldau, Christian McBride, Brian Blade)",
         "url": "https://open.spotify.com/album/6glNa1tv5xDIevYwSvxNkm"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 360680,
       "name": "Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)",
       "url": "https://open.spotify.com/track/3ONFcrwlLYLUZBPh0WSD6q"
-    },
-    {
-      "added_at": "2023-10-20 07:47:47",
-      "album": {
-        "name": "Day",
-        "url": "https://open.spotify.com/album/3PhmbGVWT1R1Ng4uU58EZb"
-      },
-      "artists": [
-        {
-          "name": "Rudy Royston",
-          "url": "https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY"
-        }
-      ],
-      "duration_ms": 258906,
-      "name": "A.M. Hours",
-      "url": "https://open.spotify.com/track/1ODmnwZVm5Ze5Nffqg2AUG"
     },
     {
       "added_at": "2023-10-20 07:47:47",
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2023-10-20 07:47:47",
       "album": {
-        "name": "A Drums Comes True",
-        "url": "https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr"
-      },
-      "artists": [
-        {
-          "name": "Massimo Fara\u00f2",
-          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
-        },
-        {
-          "name": "Jimmy Cobb",
-          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
-        },
-        {
-          "name": "John Webber",
-          "url": "https://open.spotify.com/artist/2DcPd1TuEWKCjnokl3EIO5"
-        }
-      ],
-      "duration_ms": 353280,
-      "name": "Will You Still Be Mine?",
-      "url": "https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l"
-    },
-    {
-      "added_at": "2023-10-20 07:47:47",
-      "album": {
         "name": "Let Love Be Genuine",
         "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
       },
@@ -1315,6 +1291,30 @@
       "duration_ms": 337573,
       "name": "Baltimore",
       "url": "https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8"
+    },
+    {
+      "added_at": "2023-10-20 07:47:47",
+      "album": {
+        "name": "A Drums Comes True",
+        "url": "https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+        },
+        {
+          "name": "John Webber",
+          "url": "https://open.spotify.com/artist/2DcPd1TuEWKCjnokl3EIO5"
+        }
+      ],
+      "duration_ms": 353280,
+      "name": "Will You Still Be Mine?",
+      "url": "https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l"
     },
     {
       "added_at": "2023-10-20 07:47:47",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-10-20 07:47:47",
       "album": {
-        "name": "Boo's Blues",
-        "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 205094,
-      "name": "Boo's Blues",
-      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
-    },
-    {
-      "added_at": "2023-10-20 07:47:47",
-      "album": {
         "name": "Mosa\u00efque",
         "url": "https://open.spotify.com/album/0O9jMs6Dvt9L17P6KMChd5"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 285770,
       "name": "Mosa\u00efque",
       "url": "https://open.spotify.com/track/46ENsWZeNIoYgu8VQfxhUc"
+    },
+    {
+      "added_at": "2023-10-20 07:47:47",
+      "album": {
+        "name": "Boo's Blues",
+        "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 205094,
+      "name": "Boo's Blues",
+      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
     },
     {
       "added_at": "2023-10-20 07:47:47",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-10-20 07:47:47",
       "album": {
+        "name": "Love Is in the Air",
+        "url": "https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 225707,
+      "name": "Love Is in the Air",
+      "url": "https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn"
+    },
+    {
+      "added_at": "2023-10-20 07:47:47",
+      "album": {
         "name": "First Quartet",
         "url": "https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 304880,
       "name": "Grinde",
       "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
-    },
-    {
-      "added_at": "2023-10-20 07:47:47",
-      "album": {
-        "name": "Love Is in the Air",
-        "url": "https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 225707,
-      "name": "Love Is in the Air",
-      "url": "https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn"
     },
     {
       "added_at": "2023-10-20 07:47:47",
@@ -1855,30 +1855,6 @@
     {
       "added_at": "2023-10-20 07:47:47",
       "album": {
-        "name": "Some Gospel According to Matthew",
-        "url": "https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO"
-      },
-      "artists": [
-        {
-          "name": "Fabian Kallerdahl",
-          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
-        },
-        {
-          "name": "Albin Lindg\u00e5rd",
-          "url": "https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84"
-        },
-        {
-          "name": "Ossian Ward",
-          "url": "https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo"
-        }
-      ],
-      "duration_ms": 323426,
-      "name": "Some Gospel According to Matthew - Live",
-      "url": "https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7"
-    },
-    {
-      "added_at": "2023-10-20 07:47:47",
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb"
       },
@@ -1899,6 +1875,30 @@
       "duration_ms": 301783,
       "name": "June 2nd",
       "url": "https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k"
+    },
+    {
+      "added_at": "2023-10-20 07:47:47",
+      "album": {
+        "name": "Some Gospel According to Matthew",
+        "url": "https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO"
+      },
+      "artists": [
+        {
+          "name": "Fabian Kallerdahl",
+          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
+        },
+        {
+          "name": "Albin Lindg\u00e5rd",
+          "url": "https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84"
+        },
+        {
+          "name": "Ossian Ward",
+          "url": "https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo"
+        }
+      ],
+      "duration_ms": 323426,
+      "name": "Some Gospel According to Matthew - Live",
+      "url": "https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7"
     },
     {
       "added_at": "2023-10-20 07:47:47",

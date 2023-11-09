@@ -458,7 +458,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 195601,
       "name": "And Time Froze",
       "url": "https://open.spotify.com/track/5iHOWdd8kt00RUGRp56Den"
@@ -2094,6 +2094,24 @@
       "duration_ms": 256000,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/678zWynlu5RcyEnGUe0EQZ"
+    },
+    {
+      "album": {
+        "name": "Continuance",
+        "url": "https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303680,
+      "name": "I Can\u2019t Make You Love Me",
+      "url": "https://open.spotify.com/track/0ZhF5IXGeWPAyYe6dGP3LF"
     },
     {
       "album": {

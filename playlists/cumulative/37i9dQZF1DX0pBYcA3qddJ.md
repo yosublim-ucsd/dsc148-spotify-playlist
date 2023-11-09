@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-587 songs - 1 day 15 hr 44 min
+588 songs - 1 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Ekstasis](https://open.spotify.com/track/1iX1fnU6tTBfgJhVyaLK4G) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Timo Andres](https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz), [Conor Hanick](https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO) | [Ekstasis](https://open.spotify.com/album/3KJ9BPyuAcyiH4kjIUCjzf) | 3:04 | 2023-04-18 | 2023-06-14 |
 | [Empty](https://open.spotify.com/track/10eTwzipwhgE4mhMS5QhSW) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Empty](https://open.spotify.com/album/5znDXiNSVyecWyA86i0FrN) | 3:02 | 2023-03-16 | 2023-03-29 |
 | [empty shell](https://open.spotify.com/track/4uf0quxl3F7gJVqjiOqlRJ) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [empty shell](https://open.spotify.com/album/7MBRu55DHBJOwB8uEsOMjL) | 3:18 | 2023-05-23 | 2023-06-14 |
+| [End roll](https://open.spotify.com/track/21IHn3CtFPf3f5XwstNAep) | [məjə.](https://open.spotify.com/artist/16TbnMYZFXhZBrQRLVQmWG) | [End roll](https://open.spotify.com/album/0OOUzwGwibaqYO0zafMqs7) | 3:42 | 2023-11-07 |  |
 | [Endless Time](https://open.spotify.com/track/3PfPXfF25Fso2Y3gq5wjZN) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Endless Time](https://open.spotify.com/album/7w8IyyO3S6o6L0QKZcOeAQ) | 3:17 | 2023-02-21 | 2023-03-01 |
 | [energy flow](https://open.spotify.com/track/6rXnP6n3myylS9PV4N53ID) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J) | 4:32 | 2023-09-07 |  |
 | [energy flow](https://open.spotify.com/track/3lam56BGPAHGpzKeOZwBW1) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [ウラBTTB](https://open.spotify.com/album/5uJn2krSFUsP5CrtP8ccFL) | 4:35 | 2023-04-04 | 2023-09-03 |
@@ -523,7 +524,7 @@
 | [ヴォカリーズ Op.34\-14\(ラフマニノフ/ローズ編\)](https://open.spotify.com/track/2r56gobhXTlPbSU61bXyb5) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Yoko Hasegawa](https://open.spotify.com/artist/4PNxYVBe9LdoSUJgIooq7S) | [G線上のアリア](https://open.spotify.com/album/5uqDdgqfGgn74oVhTBxvX2) | 5:09 | 2022-10-20 | 2022-12-02 |
 | [エトピリカ](https://open.spotify.com/track/28F2FyLu4pZNLdoWuFZ57Y) | [Taro Hakase](https://open.spotify.com/artist/6vJFQLD25Df5uZW77gVv0k), [NH&K TRIO](https://open.spotify.com/artist/42P4Cf7kljp1XjLtkGcN2H) | [Adagio](https://open.spotify.com/album/24eONPwMnnsH5mny2o3AvQ) | 3:42 | 2023-03-07 | 2023-06-14 |
 | [エリーゼのために, WoO.59](https://open.spotify.com/track/7w2WJmfMigMYyQMe2xJ9LH) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Rika Miyatani](https://open.spotify.com/artist/5EA6C7SnqfKFFAimI60cq1) | [音楽の玉手箱 Vol\. 1 \- カンタービレ \-](https://open.spotify.com/album/5xChfBf6JMus8YKm0rbioS) | 3:14 | 2022-10-20 |  |
-| [エンドロール](https://open.spotify.com/track/3CGzllSmGjzBlh99SqfzwZ) | [məjə.](https://open.spotify.com/artist/16TbnMYZFXhZBrQRLVQmWG) | [エンドロール](https://open.spotify.com/album/4FerkwuiqZoxrMSvTAyPBe) | 3:42 | 2023-11-07 |  |
+| [エンドロール](https://open.spotify.com/track/3CGzllSmGjzBlh99SqfzwZ) | [məjə.](https://open.spotify.com/artist/16TbnMYZFXhZBrQRLVQmWG) | [エンドロール](https://open.spotify.com/album/4FerkwuiqZoxrMSvTAyPBe) | 3:42 | 2023-11-07 | 2023-11-09 |
 | [カッチーニのアヴェ・マリア](https://open.spotify.com/track/5hAVhz6ksyTExsgbxGe07e) | [カッチーニ・ジュリオ](https://open.spotify.com/artist/3r74od2bke9JO6JRZfaw9F), [Shoko Ikeda](https://open.spotify.com/artist/1GzO6918uAAGHPN3uExNoj), [Miwako Ishida](https://open.spotify.com/artist/6xpoC2CNmTq2GXMbwWcJuO) | [アヴェ・マリア 〜オーボエ作品集〜](https://open.spotify.com/album/1zQg6ITPmT6O6DU2V13OFx) | 2:44 | 2022-10-20 | 2022-12-02 |
 | [カノン](https://open.spotify.com/track/4vVlLzZ6dyB00AbVbbMq5X) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb), [高嶋ちさ子](https://open.spotify.com/artist/6L0FQdkLMXnxxBtiMYj4ss) | [HATS MUSIC COLLECTION ～ Spring & New Life](https://open.spotify.com/album/7rBxdT6frtLVCaLSx9Sc0R) | 4:26 | 2023-06-13 | 2023-09-15 |
 | [グノシエンヌ 第1番](https://open.spotify.com/track/4T34d1GrClJBKvSFSDiULv) | [E.サティ](https://open.spotify.com/artist/7MO19zTKkzsSwb0SLa8cxj), [武本京子](https://open.spotify.com/artist/2Q3iL2IV5ndSSof6FLdP5l) | [Full of Love\~愛と光に包まれて〜](https://open.spotify.com/album/10ZN5ZNea5ThZdOyiqX7t7) | 3:26 | 2023-05-16 | 2023-08-02 |

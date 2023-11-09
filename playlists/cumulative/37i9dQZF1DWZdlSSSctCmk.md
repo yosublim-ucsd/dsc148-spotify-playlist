@@ -4,7 +4,7 @@
 
 > A mediterranean sundown soundtrack.
 
-165 songs - 13 hr 42 min
+166 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 | 2023-07-14 |  |
 | [Hard To Say Goodbye](https://open.spotify.com/track/3IrBsMDbRUZYIMcNcA7pPq) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Mister Mellow](https://open.spotify.com/album/6Rfsivv6DPegVm4oYLeAsm) | 4:12 | 2022-09-05 |  |
 | [Heartbreaker](https://open.spotify.com/track/4vcPegtrtRJPUXrnfxqvg9) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [When We On](https://open.spotify.com/album/7GhRdXt7AoyDIo9i9laYzM) | 5:26 | 2022-09-05 |  |
-| [House in the Hills](https://open.spotify.com/track/1QIdwf7rpK52EohMniSmXQ) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [10.000 Hours](https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr) | 4:27 | 2023-02-02 |  |
+| [House in the Hills](https://open.spotify.com/track/1QIdwf7rpK52EohMniSmXQ) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [10.000 Hours](https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr) | 4:27 | 2023-02-02 | 2023-11-09 |
 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-05-16 |  |
 | [Icare](https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Bertrand Burgalat](https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7) | [Icare](https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv) | 3:42 | 2022-09-05 |  |
 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 | 2022-09-05 |  |
@@ -103,6 +103,7 @@
 | [Mutual Feelin' \- Edit](https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK) | [Somethin' Sanctified](https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0) | [Mutual Feelin' \(Edit\)](https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O) | 3:46 | 2022-09-05 |  |
 | [My Boy \- Edit](https://open.spotify.com/track/0WguORZMIHRuKEyXnzOioL) | [R Plus](https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [My Boy](https://open.spotify.com/album/6QTWDp9lo8zn2iTVRO9iAd) | 3:29 | 2022-09-05 | 2023-11-04 |
 | [Nabi](https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi](https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw) | 3:52 | 2022-09-05 | 2023-11-05 |
+| [Nabi \(feat\. OHHYUK\)](https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi \(feat\. Ohhyuk\)](https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA) | 3:52 | 2023-07-14 |  |
 | [Never Seen You Dance \- Demi Riquisimo Remix](https://open.spotify.com/track/24KMzLwx11xRJvH3pUw1Ge) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Never Seen You Dance \(Demi Riquisimo Remix\)](https://open.spotify.com/album/7afbyfXvVVk81zxrRYaB9O) | 5:28 | 2023-02-02 | 2023-02-04 |
 | [Never Seen You Dance \- Demi Riquísimo Remix](https://open.spotify.com/track/64kBKl5m9YXX2l8KCn9rVP) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Never Seen You Dance \(Demi Riquísimo Remix\)](https://open.spotify.com/album/7DUxxi3K83DylaxT9jqCC3) | 5:28 | 2023-02-02 | 2023-03-07 |
 | [Next To You](https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 4:22 | 2022-09-05 |  |

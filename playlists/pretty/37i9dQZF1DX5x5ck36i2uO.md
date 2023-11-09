@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [Dance With Me \(feat\. Keemhyoeun, CHOILB\)](https://open.spotify.com/track/5Qlfc8kcBBiTQ0oWzAPO1q) | [RAUDI](https://open.spotify.com/artist/1Tf52Yc65Ghgb3DDBRBL1K), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [Dance With Me \(feat\. Keemhyoeun, CHOILB\)](https://open.spotify.com/album/6Y9vQJ8Qem5DBYtIG16AL1) | 2:58 |
 | 50 | [You and Me \(feat\. Gummy\)](https://open.spotify.com/track/0LvTksPA6IPRyI8m3blITL) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [1Q87](https://open.spotify.com/album/5PWkEmaDQmIEqoqSg1VhsJ) | 3:10 |
 
-Snapshot ID: `MCxiZmUwOGZmMmM1NThkMTM2YTk5MzFkMTYzMDg5ZWRiMjcyNmJiZGJl`
+Snapshot ID: `MCwwNDlkNTk0YmQyMzY2NDY4NTY0NmVjN2YwOTA4YTFlNjEzZWFhMWRk`

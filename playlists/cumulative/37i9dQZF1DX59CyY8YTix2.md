@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 羊文学
 
-1,229 songs - 3 day 5 hr 27 min
+1,232 songs - 3 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Gatsby](https://open.spotify.com/track/6oMAlkEP9u96hfAMoZfTwo) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [器器回回](https://open.spotify.com/album/1yrsuxaSlA0QvvF7hfNRzN) | 3:42 | 2023-09-05 | 2023-09-07 |
 | [Genius Made by Publishers](https://open.spotify.com/track/41aT4rpRoWE5iZ2CmbW3qe) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l), [Zen\(ego apartment\)](https://open.spotify.com/artist/4AySGpV1qQ9Ut7fAaHAYAu) | [Fight for Innocence](https://open.spotify.com/album/05M5e1ncRv4shELlWt1W0u) | 4:19 | 2023-02-21 | 2023-02-24 |
 | [Genyo](https://open.spotify.com/track/2YVjGPH1suANfQWCtFn4Ts) | [Aruyue](https://open.spotify.com/artist/4oHHGbHMXuJ97fRPzuESJW) | [Genyo](https://open.spotify.com/album/210mwuTXBm8LWt5lH1KuR7) | 3:57 | 2023-08-08 | 2023-08-23 |
+| [Ghost](https://open.spotify.com/track/1ty6M7cgiQ192ATax4vStT) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [Minus Zero](https://open.spotify.com/album/4RwGeFZqSvu8PfLEXsVqoP) | 3:22 | 2023-11-07 |  |
 | [Ghost Town](https://open.spotify.com/track/2sJZU9wjC3CnUPW3hPAb3i) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [Ghost Town](https://open.spotify.com/album/1pYhD2XLd92NXZrokQwXPJ) | 3:08 | 2023-10-03 | 2023-10-11 |
 | [GIRIGIRI GIRL](https://open.spotify.com/track/5rdmr4IyRZwudS44rQdxma) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [GIRIGIRI GIRL](https://open.spotify.com/album/6a2mJptpyDgHXF6OdaNWgt) | 3:25 | 2023-06-20 | 2023-07-05 |
 | [Girl](https://open.spotify.com/track/1M5x3ztSHcQM0OGNc10CAq) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [Girl](https://open.spotify.com/album/2BXNNQa9tBXq6ZGvdGNdHo) | 3:40 | 2022-08-17 | 2022-09-10 |
@@ -311,7 +312,8 @@
 | [LOWGUYS](https://open.spotify.com/track/0dUDLvyj4ziYpTn9IceO0E) | [Charisma.com](https://open.spotify.com/artist/5plo5UwgrFliohBttLzqRr) | [LOWGUYS](https://open.spotify.com/album/52EbSy9SGomsFj5CsvsWSA) | 3:47 | 2023-06-13 | 2023-06-28 |
 | [LUCKY](https://open.spotify.com/track/4rynmW4wicv2AyFSt9mR9b) | [Gum Girl](https://open.spotify.com/artist/3yWWaRtnqLGvYJqNZfzh1t) | [LUCKY](https://open.spotify.com/album/4i8xlhMFCJMb9xUC3splBG) | 1:55 | 2022-06-28 | 2022-07-06 |
 | [Lucky Days](https://open.spotify.com/track/0Ru8fmxLWjvpMwFuVZ6cYU) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc), [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Lucky Days](https://open.spotify.com/album/2OoO1VK1Ukap8wNoVWXnvL) | 3:52 | 2022-05-26 | 2022-07-25 |
-| [M](https://open.spotify.com/track/0DrJQpDMgtQgvW1PmD0D7d) | [WAGAMAMA RAKIA](https://open.spotify.com/artist/0bnpBtGlXC8mn5fGHokarD) | [M](https://open.spotify.com/album/32kUmikbtBBde9KFd5J5TW) | 5:38 | 2023-11-07 |  |
+| [M](https://open.spotify.com/track/0DrJQpDMgtQgvW1PmD0D7d) | [WAGAMAMA RAKIA](https://open.spotify.com/artist/0bnpBtGlXC8mn5fGHokarD) | [M](https://open.spotify.com/album/32kUmikbtBBde9KFd5J5TW) | 5:38 | 2023-11-07 | 2023-11-09 |
+| [M](https://open.spotify.com/track/3YoG17ExAvxnuWNYbaoMOB) | [WAGAMAMA RAKIA](https://open.spotify.com/artist/0bnpBtGlXC8mn5fGHokarD) | [M](https://open.spotify.com/album/5w9rdYGOCpSeNIQVaA435U) | 5:38 | 2023-11-07 |  |
 | [ma ta ne](https://open.spotify.com/track/1don1Vrx90qZjIqhThSpSY) | [mismatch\-smile](https://open.spotify.com/artist/159vzWrM1lyDOOGqQGgHgR) | [INNERMOST](https://open.spotify.com/album/0UR5uSg0lAfBTAvzNZOj38) | 4:22 | 2022-10-18 | 2023-01-18 |
 | [made in Miracles](https://open.spotify.com/track/6smcutOPvXpDeqGms5AHOB) | [meh meh white sheeps](https://open.spotify.com/artist/2pS4I1UmsiGaOcunZ99qxo) | [made in Miracles](https://open.spotify.com/album/2PdwLLA7lVbtBIylOuVuQe) | 2:46 | 2022-06-07 | 2022-06-09 |
 | [Madoromi](https://open.spotify.com/track/7H8fkWbpfyggT5xpWAIr0d) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madoromi](https://open.spotify.com/album/0Gw3Ag34k3rrQKQE7onPfB) | 4:23 | 2023-10-05 |  |
@@ -587,6 +589,7 @@
 | [Worthy of..](https://open.spotify.com/track/00CUwlsD6vMV8gh8M7FggK) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Worthy of..](https://open.spotify.com/album/4mJPj7GNJhMy1JIlo7r71S) | 4:09 | 2023-03-07 | 2023-03-15 |
 | [Wrecked](https://open.spotify.com/track/0ehS06b4aXxq6MLCHM8j7S) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/1pPxVO9m5EhZqlHpi36Haa) | 2:08 | 2023-06-27 | 2023-06-29 |
 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-27 | 2023-09-25 |
+| [Yacchimone](https://open.spotify.com/track/3Lob0K33hcKNsqevUt1ZOk) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Naino Zouga Guchiwo Kobosumonode](https://open.spotify.com/album/2fHkGXswIaHWRU0Y3KOIVw) | 3:52 | 2023-11-07 |  |
 | [Yae](https://open.spotify.com/track/6GcVf0wzXw0F1WQx5xXHbb) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [HANAYODO \-flower and dust\-](https://open.spotify.com/album/2L8zOjcxhs8D7w04N9XIDe) | 4:21 | 2023-04-04 | 2023-04-12 |
 | [YAKITORI](https://open.spotify.com/track/2KLZ5Q7BthNOqAezv9VdkF) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/5jMq8144QUTyhsSOAh8cTS) | 1:44 | 2022-05-26 | 2022-06-01 |
 | [Yellow](https://open.spotify.com/track/16EN5mTrtaopu0EZm3jX7t) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Yellow](https://open.spotify.com/album/5tKHRmsmaKpKh4zQEAQoSR) | 3:10 | 2022-06-02 | 2022-07-15 |
@@ -698,7 +701,7 @@
 | [めっちゃ走れ！リンネ](https://open.spotify.com/track/7ot1zXqjNccKV3whRINMPd) | [輪廻](https://open.spotify.com/artist/3KePD29FOQughZmXqHlt0v) | [めっちゃ走れ！リンネ](https://open.spotify.com/album/3e9yIJBmK8QdYDazSVw1qV) | 1:34 | 2023-10-19 | 2023-10-25 |
 | [もしも](https://open.spotify.com/track/6xjv5IO0w8RI0WxuyLgXTT) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [かけがえなくなりたい](https://open.spotify.com/album/3CXoNGReKnWAudiXJwKALd) | 5:40 | 2022-06-14 | 2022-07-12 |
 | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/track/57RVe3PQDsOZHAIzVmwB3G) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/album/3vggBvyxFXRR6xCnkRxmRR) | 3:05 | 2022-05-31 | 2022-08-18 |
-| [やっちもねぇ](https://open.spotify.com/track/4BkkHqQaUxURJ0gyeGR6r9) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [内の臓が愚痴をこぼすもので](https://open.spotify.com/album/597GDPomiPLgVVq5vxQMZF) | 3:52 | 2023-11-07 |  |
+| [やっちもねぇ](https://open.spotify.com/track/4BkkHqQaUxURJ0gyeGR6r9) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [内の臓が愚痴をこぼすもので](https://open.spotify.com/album/597GDPomiPLgVVq5vxQMZF) | 3:52 | 2023-11-07 | 2023-11-09 |
 | [ゆきさき](https://open.spotify.com/track/42vTTzG2N5A4genT0T0jGW) | [バウンダリー](https://open.spotify.com/artist/3WrFAQo5JpE89ynQIvouXC) | [ゆきさき](https://open.spotify.com/album/6fiL4oRAIl0pl8u5s0V9LW) | 3:30 | 2023-02-28 | 2023-03-02 |
 | [ゆびきりげんまん](https://open.spotify.com/track/6H3vayURW6eFc8S2PR29qz) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [ゆびきりげんまん](https://open.spotify.com/album/7d7Ia3PzUgAb9x54OeGrcF) | 3:03 | 2022-06-07 | 2022-06-29 |
 | [よがり](https://open.spotify.com/track/3tL9VPB1ZglKHcflycFsWW) | [VOLOMUSIKS](https://open.spotify.com/artist/5gBPLClN3Jo2oU8itZFSiq) | [よがり](https://open.spotify.com/album/1qXqjfF2XwIalx5mLh0CUu) | 4:51 | 2022-06-02 | 2022-06-13 |
@@ -761,7 +764,7 @@
 | [グッドバイ](https://open.spotify.com/track/0j2A8IbikBlkAENvtAYTbB) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [グッドバイ / タンブラー](https://open.spotify.com/album/0mEwRg2Q4dvq4bAMHt39e3) | 1:53 | 2023-04-18 | 2023-04-20 |
 | [ケサランパサラン](https://open.spotify.com/track/310YSoyoKLjghoBMsZJePE) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [ケサランパサラン](https://open.spotify.com/album/4eD6mfO93Aeh5IRXdggnjd) | 2:30 | 2022-07-26 | 2022-07-29 |
 | [ゲームオーバー](https://open.spotify.com/track/6Ht0WEBCr04XNgqz6cEsTk) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ゲームオーバー](https://open.spotify.com/album/0IcKWBOYdCBqlVVa9756Px) | 3:19 | 2022-11-01 | 2022-11-03 |
-| [ゴウスト](https://open.spotify.com/track/0WhtZQxZXkBJnqW4qVV0ML) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [マイナスゼロ](https://open.spotify.com/album/4N4TKInRqblIr0Vr9PddPj) | 3:22 | 2023-11-07 |  |
+| [ゴウスト](https://open.spotify.com/track/0WhtZQxZXkBJnqW4qVV0ML) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [マイナスゼロ](https://open.spotify.com/album/4N4TKInRqblIr0Vr9PddPj) | 3:22 | 2023-11-07 | 2023-11-09 |
 | [ゴーストダイブ](https://open.spotify.com/track/3YSYq98AiBIXAj8GCW3wbd) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ゴーストダイブ](https://open.spotify.com/album/22Y4CMkBXjaGCVfzNrtdEw) | 3:18 | 2023-09-19 |  |
 | [ゴールデン・ドロップ](https://open.spotify.com/track/6dCSP1euHcwNrmGuxKAEXW) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [ゴールデン・ドロップ](https://open.spotify.com/album/7Mf5V55mBkz67HsUMZ9hwf) | 1:24 | 2023-02-28 | 2023-03-02 |
 | [サイダー](https://open.spotify.com/track/1IQlJLwD6QA5N4yIbDeIxt) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [サイダー](https://open.spotify.com/album/0GM5iHC2vIGJ5lLT9aweY1) | 3:46 | 2023-05-30 | 2023-06-21 |

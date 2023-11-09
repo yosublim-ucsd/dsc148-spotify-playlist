@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2047573,
+  "num_followers": 2047620,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQxNjQsNDI5NTliNTNjMGIxYWQzMDhlZjViMGU5YjEwNDg5MWY5ZDYwZjY2YQ==",
+  "snapshot_id": "MTQxNjgsZDliM2Y4MjkwMTkwYzFiODRiMDY4OTEwYWI5ZWE4MTQ4Y2Y0NDI4MQ==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -545,6 +545,22 @@
       "url": "https://open.spotify.com/track/3VnxAsE1mWebpGJleOOGTj"
     },
     {
+      "added_at": "2023-11-08 19:52:16",
+      "album": {
+        "name": "MOOGTOPIA (Instrumental)",
+        "url": "https://open.spotify.com/album/2XQcKEDvB1p66FLp1GXKCK"
+      },
+      "artists": [
+        {
+          "name": "Grav3",
+          "url": "https://open.spotify.com/artist/7sBYmhltoznb752w7tli7e"
+        }
+      ],
+      "duration_ms": 145477,
+      "name": "MOOGTOPIA - Instrumental",
+      "url": "https://open.spotify.com/track/0CrYuSEjndTCPCB0PRw0M4"
+    },
+    {
       "added_at": "2023-11-01 22:46:36",
       "album": {
         "name": "Lose Control",
@@ -975,6 +991,22 @@
       "duration_ms": 224914,
       "name": "SUMS",
       "url": "https://open.spotify.com/track/02hdD7Cf1YV6mbajuqF9FR"
+    },
+    {
+      "added_at": "2023-11-08 19:51:52",
+      "album": {
+        "name": "MOOGTOPIA",
+        "url": "https://open.spotify.com/album/2FGW5ppcSgCZ0kawkIUC31"
+      },
+      "artists": [
+        {
+          "name": "Grav3",
+          "url": "https://open.spotify.com/artist/7sBYmhltoznb752w7tli7e"
+        }
+      ],
+      "duration_ms": 148370,
+      "name": "MOOGTOPIA",
+      "url": "https://open.spotify.com/track/2xStfjvbjUGfqu0IZJVy3z"
     },
     {
       "added_at": "2023-09-29 20:11:41",

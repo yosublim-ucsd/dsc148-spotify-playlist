@@ -4,14 +4,14 @@
 
 > have fun with it.
 
-512 songs - 1 day 4 hr 20 min
+513 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#1 Fan](https://open.spotify.com/track/3C7Uzy7mBbajjkHU6jHPxo) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [\#1 Fan](https://open.spotify.com/album/0avIQfzwLWYxPdn4lKHeKD) | 3:06 | 2021-08-13 | 2022-04-21 |
 | [\(Everything Is\) Debatable](https://open.spotify.com/track/3WsflgORwUZJMraZlo4z5A) | [Hellogoodbye](https://open.spotify.com/artist/6GH0NzpthMGxu1mcfAkOde) | [Everything Is Debatable](https://open.spotify.com/album/2tXNWOowvBPiHLk5zvl4Ok) | 3:56 | 2022-03-11 | 2022-04-20 |
 | [15 Years](https://open.spotify.com/track/5lmbiEhAum7m0lfijCdCYp) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [15 Years](https://open.spotify.com/album/3xv19zWEGiGySbFBvvHQUt) | 2:49 | 2021-03-10 | 2022-07-29 |
-| [17250](https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 2:31 | 2023-10-13 |  |
+| [17250](https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 2:31 | 2023-10-13 | 2023-11-09 |
 | [2 Heads](https://open.spotify.com/track/3bi8yEuK44vLcbjHkPH0u1) | [Coleman Hell](https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c) | [2 Heads](https://open.spotify.com/album/7l6O4yFBhc8t0rs0C3MAcP) | 3:33 | 2022-03-11 | 2023-07-01 |
 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 | 2022-06-27 |  |
 | [2am](https://open.spotify.com/track/2QbFe7fHwvQiKMHXXPer11) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/5JBP1gdeOlLuMDxELTLO5l) | 3:44 | 2022-05-27 | 2022-07-29 |
@@ -37,7 +37,7 @@
 | [Apple Crumble](https://open.spotify.com/track/6a3e0ES98H65XIXuJ3Af8A) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Apple Crumble](https://open.spotify.com/album/6NfvwbhWAfoIn88gazTnVB) | 3:09 | 2021-11-19 | 2022-11-13 |
 | [Apple Pie](https://open.spotify.com/track/1FmrgKa0scdSOUDkw4nbUg) | [Midi Matilda](https://open.spotify.com/artist/1vXoKc82szC0njIdv8vVgO) | [Apple Pie](https://open.spotify.com/album/3oKP9rzFwOmqjogzDn2CuP) | 3:39 | 2021-03-10 | 2022-04-19 |
 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 | 2022-03-11 | 2022-04-21 |
-| [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2021-03-10 | 2023-11-08 |
+| [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2021-03-10 |  |
 | [Baby Blue](https://open.spotify.com/track/3W8kkKICWGoH413PLYUcGh) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Nella Vita](https://open.spotify.com/album/5j86yI68MjgZLKaYsL6Sd7) | 3:09 | 2022-06-27 | 2023-03-25 |
 | [Baby Blue](https://open.spotify.com/track/7s4vC71u1zovWSMNu6hwbJ) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Nella Vita \(The Summer Singles\)](https://open.spotify.com/album/0cgg5mbjBzqxL8zvO0huzp) | 3:09 | 2021-03-10 | 2022-07-29 |
 | [Baby Blue Shades](https://open.spotify.com/track/0o4iE4nFwqY1d2JKlrcMRb) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Baby Blue Shades](https://open.spotify.com/album/0D2iqDOWfezLDJLvJrLItc) | 3:40 | 2021-03-10 | 2023-03-29 |
@@ -82,6 +82,7 @@
 | [Ceasefire](https://open.spotify.com/track/3Te0NUMofZVs1KHQgrqXVe) | [Judas](https://open.spotify.com/artist/4oEv60GQ9pJpWoU88SMwOP) | [Ceasefire](https://open.spotify.com/album/3WStXCR8KygmiP2X28J2Q5) | 3:03 | 2022-03-11 | 2022-04-21 |
 | [Cemetery](https://open.spotify.com/track/5czZkLGepjburbkbEaCfm4) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Dreamland](https://open.spotify.com/album/3Z62dgkhjWCfLeZ8v9p2Td) | 2:57 | 2021-03-10 | 2022-05-04 |
 | [Chapstick](https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Chapstick](https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9) | 3:13 | 2021-11-19 | 2023-08-08 |
+| [Chapstick](https://open.spotify.com/track/33E5u0qmzBlsHkhU1bTBWa) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 3:13 | 2023-10-13 |  |
 | [Chocolate](https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:44 | 2022-03-11 |  |
 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 | 2022-06-27 |  |
 | [Clay Pigeon](https://open.spotify.com/track/44c3TS2MWRp1MvXIg4xHGe) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [MOTOR FUNCTION](https://open.spotify.com/album/0ZjQWZDaXkxLgncA7RSbsS) | 2:29 | 2023-09-15 | 2023-10-14 |
@@ -242,7 +243,7 @@
 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 | 2022-06-27 |  |
 | [Kilby Girl](https://open.spotify.com/track/3fsaxdtRDMEvZu1XC3FN2i) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/0tIHVQTSqQB3DW6Nt7amsA) | 4:42 | 2021-03-10 | 2022-07-29 |
 | [Killer Whales](https://open.spotify.com/track/0qnOjNW04qpcgXqD9dwru2) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:42 | 2021-03-10 | 2023-03-29 |
-| [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 | 2023-08-21 |  |
+| [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 | 2023-08-21 | 2023-11-09 |
 | [Kombucha](https://open.spotify.com/track/7pGYQz0yMkm8rLdP6u1wZW) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Kombucha](https://open.spotify.com/album/4STKNQMCHzs7k8sEUwdAzL) | 3:15 | 2021-03-10 | 2022-07-29 |
 | [landline](https://open.spotify.com/track/3OqP3uIygaUiuVzhVyk0X5) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:03 | 2022-10-07 | 2023-03-29 |
 | [landline](https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [landline](https://open.spotify.com/album/5eRHo1TtNV7v3M8X5hJ5Op) | 3:03 | 2022-05-27 | 2022-11-07 |

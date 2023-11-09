@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems\. Cover: Trousdale
 
-363 songs - 22 hr 32 min
+364 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Before You](https://open.spotify.com/track/60GSDg8mVq5lIwBdQ8Fdgv) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Before You](https://open.spotify.com/album/3Cm5kXIKNv7VmgvYcotCQC) | 2:47 | 2021-12-10 | 2022-07-27 |
 | [Before You](https://open.spotify.com/track/6d8q33UrhmaumDVf0WaB9t) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Hold Fast](https://open.spotify.com/album/0MCYFxmEbnjXs8GduUuWtF) | 2:47 | 2022-06-08 | 2023-04-07 |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-12-10 |  |
-| [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 | 2021-12-10 |  |
+| [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 | 2021-12-10 | 2023-11-09 |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2021-12-10 |  |
 | [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 | 2021-12-10 |  |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-29 |  |
@@ -48,6 +48,7 @@
 | [Brave](https://open.spotify.com/track/3MKTh8Awrh9roJe0PV9BaI) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Shape & Destroy](https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt) | 3:13 | 2021-12-10 |  |
 | [Bright Star](https://open.spotify.com/track/2GU7Yy8fZVbtmSafEOXcjQ) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bright Star](https://open.spotify.com/album/2DqpMCRbrMb4VRb1GNtYXg) | 3:10 | 2021-12-10 | 2022-07-29 |
 | [Bright Star](https://open.spotify.com/track/2MzJjyG6MWkAY8wQIfDMSZ) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6) | 3:10 | 2022-06-08 | 2023-11-03 |
+| [Bright Star](https://open.spotify.com/track/582t08OyJrrpS35HyWSruM) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD) | 3:10 | 2023-09-29 |  |
 | [Build Me Up From Bones](https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Build Me Up From Bones](https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK) | 3:36 | 2021-12-10 |  |
 | [Call It Dreaming](https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Beast Epic](https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw) | 3:51 | 2022-06-08 |  |
 | [Call It Dreaming](https://open.spotify.com/track/0iWUW8UNkmyUa8Aa6anow6) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Call It Dreaming](https://open.spotify.com/album/05I7y2yV3DTJWf0VNwiVjW) | 3:51 | 2021-12-10 | 2022-07-29 |

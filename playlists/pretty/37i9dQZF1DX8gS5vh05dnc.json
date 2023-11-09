@@ -1,12 +1,12 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 132132,
+  "num_followers": 132144,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjEzZmUxODZlMGFmMzBlOTQ3ZGY0MjBkNjU4NDk3MDMyZTJkZjY0",
+  "snapshot_id": "MCwzNmYzZDc1YmUyNjM2N2U0YmJmN2Q2YjhmNmU1OTYzYTBkM2E2NTNl",
   "tracks": [
     {
       "added_at": "2023-11-06 03:35:40",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-11-06 03:35:40",
       "album": {
-        "name": "Permission to Dance",
-        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 187585,
-      "name": "Permission to Dance",
-      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
-    },
-    {
-      "added_at": "2023-11-06 03:35:40",
-      "album": {
         "name": "Take You Dancing",
         "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 190306,
       "name": "Take You Dancing",
       "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
+    },
+    {
+      "added_at": "2023-11-06 03:35:40",
+      "album": {
+        "name": "Permission to Dance",
+        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 187585,
+      "name": "Permission to Dance",
+      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
     },
     {
       "added_at": "2023-11-06 03:35:40",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-11-06 03:35:40",
       "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV"
+    },
+    {
+      "added_at": "2023-11-06 03:35:40",
+      "album": {
         "name": "Despacito Feat. Justin Bieber (Remix)",
         "url": "https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 228826,
       "name": "Despacito - Remix",
       "url": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2"
-    },
-    {
-      "added_at": "2023-11-06 03:35:40",
-      "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV"
     },
     {
       "added_at": "2023-11-06 03:35:40",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-11-06 03:35:40",
       "album": {
-        "name": "Donavon Frankenreiter",
-        "url": "https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG"
+        "name": "(MORE) Unsponsored Content",
+        "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
       },
       "artists": [
         {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
         }
       ],
-      "duration_ms": 148600,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/2BJy5YrRMhVCqaLNY5cbv2"
+      "duration_ms": 136838,
+      "name": "Mad at Disney",
+      "url": "https://open.spotify.com/track/0PlzctO0nv2sSIFmqDSE6h"
     },
     {
       "added_at": "2023-11-06 03:35:40",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-11-06 03:35:40",
       "album": {
-        "name": "(MORE) Unsponsored Content",
-        "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
+        "name": "Donavon Frankenreiter",
+        "url": "https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG"
       },
       "artists": [
         {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
         }
       ],
-      "duration_ms": 136838,
-      "name": "Mad at Disney",
-      "url": "https://open.spotify.com/track/0PlzctO0nv2sSIFmqDSE6h"
+      "duration_ms": 148600,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2BJy5YrRMhVCqaLNY5cbv2"
     },
     {
       "added_at": "2023-11-06 03:35:40",
@@ -1331,42 +1331,6 @@
     {
       "added_at": "2023-11-06 03:35:40",
       "album": {
-        "name": "It Takes Two (feat. Eric Andre, Daveed Diggs, Kid Cudi & Trolls)",
-        "url": "https://open.spotify.com/album/7oGTxPAGX6htcQblSqWo0r"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Eric Andre",
-          "url": "https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke"
-        },
-        {
-          "name": "Daveed Diggs",
-          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
-        },
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/21vLEEtCTBS6fxw1TuPJAy"
-    },
-    {
-      "added_at": "2023-11-06 03:35:40",
-      "album": {
         "name": "All 4 Nothing (I'm So In Love)",
         "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
       },
@@ -1379,6 +1343,22 @@
       "duration_ms": 183014,
       "name": "All 4 Nothing (I'm So In Love)",
       "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
+    },
+    {
+      "added_at": "2023-11-06 03:35:40",
+      "album": {
+        "name": "I Feel Good",
+        "url": "https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 136058,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F"
     }
   ],
   "unique_name": "\u6d88\u9664\u58d3\u529b",

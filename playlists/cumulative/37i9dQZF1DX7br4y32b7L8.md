@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#monster \#danceforme \#sino \#prada
 
-266 songs - 13 hr 19 min
+268 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Dancing in the sky](https://open.spotify.com/track/2JuWcnU7ifoIaIzQXNH6hk) | [ZITA](https://open.spotify.com/artist/05QNFSNYfQhYxUJUoFtEEk) | [Dancing in the sky](https://open.spotify.com/album/2L8ds3AKfmgpyrB8Z584PM) | 2:34 | 2023-02-23 | 2023-04-12 |
 | [Dankjewel](https://open.spotify.com/track/6qlsnYLcPkZFxv0t2Koko8) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Dankjewel](https://open.spotify.com/album/4et19MNXHj4zo9e9IGCJlW) | 2:40 | 2023-02-23 | 2023-04-27 |
 | [DARBA 9ADIYA](https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [DARBA 9ADIYA](https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW) | 2:29 | 2023-05-04 | 2023-06-13 |
+| [De Leven](https://open.spotify.com/track/0NxfpRR1pmtGC9J61iHIIc) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Leven](https://open.spotify.com/album/7BN14z7CoTNeKKGniRFVGf) | 2:41 | 2023-11-08 |  |
 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 | 2023-08-07 | 2023-10-03 |
 | [DNA](https://open.spotify.com/track/1CijnKFb3kqusDnNJrAJn1) | [Glen Fontein](https://open.spotify.com/artist/7oeQm1xiTWTKyq2DY42Hpq) | [DNA](https://open.spotify.com/album/4VFNlHIFWlwoknoAsJTyuu) | 2:34 | 2023-02-28 | 2023-04-19 |
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2023-05-12 | 2023-06-27 |
@@ -228,6 +229,7 @@
 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 | 2023-05-24 | 2023-06-01 |
 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 | 2023-05-09 | 2023-07-11 |
 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 | 2023-06-26 |  |
+| [Speciaal](https://open.spotify.com/track/1IJ2kXcVKw9Of3weornLMo) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [DJ Madam Julie](https://open.spotify.com/artist/39OsGk5DvHyZ1DA7ApDKHh), [Kaeh](https://open.spotify.com/artist/57LrSRUxhQm9hQ1hdhW27D) | [Francis](https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2) | 3:31 | 2023-11-08 |  |
 | [Speed Drive](https://open.spotify.com/track/7GRv55NwkjxU2ysJLwzC9c) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 1:57 | 2023-07-26 | 2023-09-01 |
 | [Speeltuin](https://open.spotify.com/track/0OLrsaRYP6n1OueEwhQxj8) | [Mylène & Rosanne](https://open.spotify.com/artist/6fslsblk3qBwTI1WN26ECv) | [Speeltuin](https://open.spotify.com/album/0xSVsCpBEBLp2k3g3Rqcxl) | 3:11 | 2023-09-14 |  |
 | [Stemgeluid](https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Stemgeluid](https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk) | 2:55 | 2023-02-23 | 2023-04-21 |

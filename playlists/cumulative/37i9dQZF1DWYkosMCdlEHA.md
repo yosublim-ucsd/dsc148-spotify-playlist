@@ -4,7 +4,7 @@
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-76 songs - 4 hr 54 min
+77 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Amor Fora Da Lei \- Acústico / Ao Vivo](https://open.spotify.com/track/35ivG7tuA3VNjIR8AFT9jJ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:50 | 2023-07-07 |  |
 | [Andei Só \- Ao Vivo](https://open.spotify.com/track/7xMb0izMxYXFT0T7w0s9ir) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 4:23 | 2023-07-07 |  |
 | [Aurora Boreal \(Ao Vivo\)](https://open.spotify.com/track/2GI39Pk0Id5QjTZFTTq91q) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Ao Vivo em SP](https://open.spotify.com/album/53YNXgcetI9DFp5XlXguZn) | 4:03 | 2023-07-07 |  |
-| [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 | 2023-07-07 |  |
+| [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 | 2023-07-07 | 2023-11-09 |
+| [Beach In Hawaii](https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 3:44 | 2023-10-13 |  |
 | [Blusinha Branca](https://open.spotify.com/track/1VHjjOOllU87VRa8B2EWiX) | [Papas Da Língua](https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9) | [Papas Da Língua](https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q) | 4:58 | 2023-07-07 |  |
 | [Burnin' & Lootin' \- Live At Music Hall, Boston / 1978](https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Easy Skanking In Boston '78](https://open.spotify.com/album/3DZmcdIS8JlZwYFhbN9Pbc) | 5:35 | 2023-07-07 |  |
 | [Calor \- Acústico](https://open.spotify.com/track/31wCSoGTNRPXOOfsLpvxBR) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Acústico Helio Bentes, Vol\. 02](https://open.spotify.com/album/1mKc2nreQkWbuCKYNEyF4E) | 4:43 | 2023-07-07 |  |

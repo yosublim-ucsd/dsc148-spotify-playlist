@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 26956,
+  "num_followers": 26978,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTNmN2QxODA5OTA0YWY1ZTkxZjhiZGI3ZmZjMWNjMDc2YzllMmEw",
+  "snapshot_id": "MCwwOWU1MzMwMWQxZjAzYWQyZmM3ZTIwYWU3ZjRhYmE0MTdhM2NiNDRm",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 216315,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
         "name": "& Side A",
         "url": "https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 329466,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/6PZh8MRQB5Hxj2PIKG8XY5"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 216315,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 497289,
-      "name": "Incense - Live",
-      "url": "https://open.spotify.com/track/4sEmnvIiB16v5PYlNWnzS3"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Even in the Valley",
         "url": "https://open.spotify.com/album/1sF81pzpaD3ie1vNCtnKcg"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 203301,
       "name": "Even in the Valley",
       "url": "https://open.spotify.com/track/4A7euppddfPjfKyHpBvh08"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 497289,
+      "name": "Incense - Live",
+      "url": "https://open.spotify.com/track/4sEmnvIiB16v5PYlNWnzS3"
     },
     {
       "added_at": "2023-02-18 06:22:02",

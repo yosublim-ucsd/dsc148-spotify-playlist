@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 122400,
       "name": "Do They Know",
       "url": "https://open.spotify.com/track/2duXRr3V3koJ0w6WsEDOAU"
@@ -1742,6 +1742,24 @@
       "duration_ms": 147528,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/1ulIop5lMzMh8I8lMwr5BV"
+    },
+    {
+      "album": {
+        "name": "Drop In",
+        "url": "https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3"
+      },
+      "artists": [
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Drop In",
+      "url": "https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j"
     },
     {
       "album": {
@@ -5976,7 +5994,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 179954,
       "name": "Ride",
       "url": "https://open.spotify.com/track/5pziO6WDRV9TY71Bj7Oq7C"
@@ -6604,6 +6622,24 @@
       "duration_ms": 182400,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
+    },
+    {
+      "album": {
+        "name": "Unfiltered",
+        "url": "https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT"
+      },
+      "artists": [
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109270,
+      "name": "Solutions",
+      "url": "https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "HIPHOP 50!",
-  "num_followers": 320487,
+  "num_followers": 320578,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTBlMWY2YWQyNDcxMTdlZGNjOTJjMzAwNzgyZTdhYTI5NzY0NTcy",
+  "snapshot_id": "MCwyN2NlOGNhNmY3N2UxYmMxYTdhMWUxZGVkODgxY2YxZmFmNGVjNDk2",
   "tracks": [
     {
       "added_at": "2023-11-02 23:00:00",
@@ -1114,6 +1114,10 @@
         {
           "name": "ABDIFATAH",
           "url": "https://open.spotify.com/artist/02X8uyJgzIxRtcXl4D0Mt0"
+        },
+        {
+          "name": "Yocee",
+          "url": "https://open.spotify.com/artist/77TzeR7C0uNqn1uBPiqty6"
         }
       ],
       "duration_ms": 121000,

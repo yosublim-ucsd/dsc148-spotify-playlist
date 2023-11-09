@@ -1316,6 +1316,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302736,
+      "name": "Creep - Spotify Singles",
+      "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P"
       },
       "artists": [
@@ -4130,7 +4148,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 198629,
       "name": "lovely - Spotify Singles",
       "url": "https://open.spotify.com/track/7FHDb1W6EtQq7WnoX73Rpy"

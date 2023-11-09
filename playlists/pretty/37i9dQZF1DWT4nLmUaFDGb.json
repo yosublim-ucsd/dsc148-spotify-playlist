@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 440923,
+  "num_followers": 441197,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTQwZWQ5NzRmZWMyYjgxYTZmNjYxNjgzOTBjZWUwZGI3N2RmYmRl",
+  "snapshot_id": "MCw0YmU3NDY0YTY1ODZlYjY5NDc4ZDIwMTAzZThkY2M3ZDE0YjA3MWQ3",
   "tracks": [
     {
       "added_at": "2023-10-27 00:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Songbird 20",
-        "url": "https://open.spotify.com/album/3XqJP3zCQMeEdJrk7IGiTJ"
-      },
-      "artists": [
-        {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
-        }
-      ],
-      "duration_ms": 282640,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/76rNA8RYBC1WgspUaOVZsB"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/0ZnfdSj8QzEIZxVSaKkMYX"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 230826,
       "name": "Look Of Love",
       "url": "https://open.spotify.com/track/1wb7rKI0B6Bjgfvoscu32w"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Songbird 20",
+        "url": "https://open.spotify.com/album/3XqJP3zCQMeEdJrk7IGiTJ"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 282640,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/76rNA8RYBC1WgspUaOVZsB"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Heart First",
-        "url": "https://open.spotify.com/album/5o3acBzPBPJUsT4S2VUMJo"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Waiting In Vain",
-      "url": "https://open.spotify.com/track/4hsEJ43P9oQmIx5btLLoAV"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "More Than You Know",
         "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "The Lemonade Song",
-        "url": "https://open.spotify.com/album/0HuI0DCboMnA7impm0IbrP"
+        "name": "Heart First",
+        "url": "https://open.spotify.com/album/5o3acBzPBPJUsT4S2VUMJo"
       },
       "artists": [
         {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
         }
       ],
-      "duration_ms": 154871,
-      "name": "The Lemonade Song",
-      "url": "https://open.spotify.com/track/2kby1XWPnTc0fFMrViKbE4"
+      "duration_ms": 299640,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/4hsEJ43P9oQmIx5btLLoAV"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1319,6 +1303,22 @@
       "duration_ms": 324826,
       "name": "The Age Of Anxiety",
       "url": "https://open.spotify.com/track/0qyjj1na0pbMlnBvKAqLtz"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "The Lemonade Song",
+        "url": "https://open.spotify.com/album/0HuI0DCboMnA7impm0IbrP"
+      },
+      "artists": [
+        {
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+        }
+      ],
+      "duration_ms": 154871,
+      "name": "The Lemonade Song",
+      "url": "https://open.spotify.com/track/2kby1XWPnTc0fFMrViKbE4"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 257680,
-      "name": "Comes Love",
-      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "\"Moon River\"",
         "url": "https://open.spotify.com/album/7qZbslBZcGfBhuKKPEu1uf"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Try Your Wings",
-        "url": "https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT"
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
       },
       "artists": [
         {
-          "name": "Silva & Steini",
-          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Try Your Wings",
-      "url": "https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv"
+      "duration_ms": 257680,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1407,18 +1391,34 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "The Best of Blu",
-        "url": "https://open.spotify.com/album/3Y0clI1wk8ASZcNLeeFXWT"
+        "name": "These Are the Memories",
+        "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
       },
       "artists": [
         {
-          "name": "Jonny Blu",
-          "url": "https://open.spotify.com/artist/6uoCJh6AdFGLXtjUMhAJXw"
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Girl from Ipanema",
-      "url": "https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW"
+      "duration_ms": 273670,
+      "name": "These Are the Memories",
+      "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Try Your Wings",
+        "url": "https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT"
+      },
+      "artists": [
+        {
+          "name": "Silva & Steini",
+          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Try Your Wings",
+      "url": "https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "These Are the Memories",
-        "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
+        "name": "The Best of Blu",
+        "url": "https://open.spotify.com/album/3Y0clI1wk8ASZcNLeeFXWT"
       },
       "artists": [
         {
-          "name": "Emmaline",
-          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+          "name": "Jonny Blu",
+          "url": "https://open.spotify.com/artist/6uoCJh6AdFGLXtjUMhAJXw"
         }
       ],
-      "duration_ms": 273670,
-      "name": "These Are the Memories",
-      "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
+      "duration_ms": 170000,
+      "name": "Girl from Ipanema",
+      "url": "https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "I Only Have Eyes For You",
+        "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
+      },
+      "artists": [
+        {
+          "name": "Chris Weeks",
+          "url": "https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO"
+        }
+      ],
+      "duration_ms": 250745,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Autumn Breeze",
         "url": "https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 241413,
       "name": "Autumn Breeze",
       "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "I Only Have Eyes For You",
-        "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
-      },
-      "artists": [
-        {
-          "name": "Chris Weeks",
-          "url": "https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO"
-        }
-      ],
-      "duration_ms": 250745,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Over the Rainbow",
-        "url": "https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 251103,
-      "name": "Over the Rainbow",
-      "url": "https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Still We Dream",
         "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 371391,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/0Ah1nUp7WQOMCPbQIGf9od"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Over the Rainbow",
+        "url": "https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 251103,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 341333,
-      "name": "Too Young To Go Steady",
-      "url": "https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Somehow Life Got in the Way",
         "url": "https://open.spotify.com/album/7eYV6gKGKsNlmdfVrRPwVo"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 336600,
       "name": "Everything Must Change",
       "url": "https://open.spotify.com/track/3Vtde7QUf90QcCLyZs6aYc"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 341333,
+      "name": "Too Young To Go Steady",
+      "url": "https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -2199,6 +2199,26 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/1g7TW3FbyhPzxBLLGSNFkd"
+      },
+      "artists": [
+        {
+          "name": "Eudald Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc"
+        },
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "duration_ms": 216124,
+      "name": "Out of the Blue",
+      "url": "https://open.spotify.com/track/4vgJoEztJ2uXCgU5fXxxGW"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "A Reckoning Bell",
         "url": "https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO"
       },
@@ -2227,26 +2247,6 @@
       "duration_ms": 257533,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Out of the Blue",
-        "url": "https://open.spotify.com/album/1g7TW3FbyhPzxBLLGSNFkd"
-      },
-      "artists": [
-        {
-          "name": "Eudald Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc"
-        },
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        }
-      ],
-      "duration_ms": 216124,
-      "name": "Out of the Blue",
-      "url": "https://open.spotify.com/track/4vgJoEztJ2uXCgU5fXxxGW"
     },
     {
       "added_at": "2023-10-27 00:01:00",

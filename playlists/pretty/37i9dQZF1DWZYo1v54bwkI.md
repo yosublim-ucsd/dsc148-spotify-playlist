@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,136 likes - 198 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,510 likes - 198 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,11 +200,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 190 | [Constellation](https://open.spotify.com/track/4nxiVXO8GJcHZMIb0UJMxv) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Chapter One](https://open.spotify.com/album/165sSNwDCf4EhbZ9fuSxWJ) | 3:42 |
 | 191 | [always](https://open.spotify.com/track/5Nusgvqw46McIdfuqrvM4c) | [Florence Adame](https://open.spotify.com/artist/0OyLeqzC9Bd1d8uc5DgYCz) | [always](https://open.spotify.com/album/1Zqgnlwg96XIvVOrvYATK4) | 2:56 |
 | 192 | [The Journey](https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE) | [Malik Jeremiassen](https://open.spotify.com/artist/6qIThryE8kmwkl6RfPdhHI) | [The Journey](https://open.spotify.com/album/6O3yzoZ7VeGF9jiWu6nchO) | 2:37 |
-| 193 | [Are We Still Here](https://open.spotify.com/track/5rjIqwdOptcSeam8iWsYfJ) | [Jelena Vanags](https://open.spotify.com/artist/7DXjl9ExxUi8xScl5bFZJS) | [Are We Still Here](https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi) | 2:59 |
+| 193 | [Are We Still Here](https://open.spotify.com/track/5rjIqwdOptcSeam8iWsYfJ) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Are We Still Here](https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi) | 2:59 |
 | 194 | [Glittering Tide](https://open.spotify.com/track/7GJuxyNKKWmuSMWFfvVLGx) | [Sine Eins](https://open.spotify.com/artist/6FXJATkFcpQfzxQN4uAccz) | [Sun Walker](https://open.spotify.com/album/7d4JftYo1y9nBSnRe30iDI) | 2:31 |
 | 195 | [Sol](https://open.spotify.com/track/7AbWodkJgM2N9Ak9BWynyx) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Sol](https://open.spotify.com/album/5dRowdaNxlPyESIG6ZSSig) | 3:30 |
 | 196 | [Nomeh](https://open.spotify.com/track/3xQbeORys8d2PyWuiGqHYI) | [Alisieu](https://open.spotify.com/artist/2cUKHomZHG6dG3PhDltRSJ) | [Nomeh](https://open.spotify.com/album/6UdQ5667BhDB47V7E95wm6) | 3:54 |
 | 197 | [Dream about me](https://open.spotify.com/track/6L1sKb2kv74gPGUpjkybTO) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Dream about me](https://open.spotify.com/album/3XHxAXn40Nwlbjrg6rbRlK) | 2:58 |
 | 198 | [Eller](https://open.spotify.com/track/7dixtAcv16QYnWjtPhRPQd) | [Recitations from Earth](https://open.spotify.com/artist/5BXtXfmXj7Rh5K2G9QsxWj) | [Eller](https://open.spotify.com/album/4myRid1Fkb4ipyrcVqk0yJ) | 3:32 |
 
-Snapshot ID: `MCxkODk5OTIyZjA2OTQ2Mzc5Mzk3ZGFhNGJlNjRmMjJmZmYyZDY3ZDhj`
+Snapshot ID: `MCwzMDNkNGRjMjVjYzc2MjdiZmVmMzRhNDYyYzc5ZjJjMzQwYzcyMmMy`

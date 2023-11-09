@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Born to be XX",
+        "url": "https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160386,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj"
+    },
+    {
+      "album": {
         "name": "It\u2019s ME, It's WE",
         "url": "https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB"
       },

@@ -2,9 +2,9 @@
 
 ### [Maroc Hits](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Écoutez en boucle les hits 100% marocains du moment.
+> Les hits 100% marocains du moment.
 
-311 songs - 16 hr 50 min
+312 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [DARBA 9ADIYA](https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [DARBA 9ADIYA](https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW) | 2:29 | 2023-04-28 |  |
 | [Dawk Lya](https://open.spotify.com/track/1o3HZiLGDq1pp4OXjcQTo5) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/1u0Ay7UasMffHSWkMgyxS5) | 2:28 | 2023-08-30 |  |
 | [De9at l9elb](https://open.spotify.com/track/3WzncgOidVpqkak5Ee4b1n) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [De9at l9elb](https://open.spotify.com/album/4AqUJTIVVpHmoGonhlp7Gr) | 2:34 | 2022-01-15 | 2023-10-25 |
+| [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 | 2023-11-08 |  |
 | [Denbi](https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Denbi](https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr) | 2:56 | 2022-10-24 | 2023-06-28 |
 | [Diali](https://open.spotify.com/track/4XO9kZEztAPhjhXMfKXJ5m) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Arabesque Vol\. 3](https://open.spotify.com/album/3fedvxkm2spgp8sq4DJFFX) | 2:46 | 2023-03-16 |  |
 | [Dime Porque](https://open.spotify.com/track/6yd5mN94Oi7OOZ4mGA7Co1) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Dime Porque](https://open.spotify.com/album/4F52Ar98sgSN12heKH3e7v) | 3:01 | 2022-06-02 | 2022-11-22 |
@@ -106,7 +107,7 @@
 | [Hallelujah](https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Hallelujah](https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM) | 2:58 | 2022-03-10 | 2022-06-28 |
 | [Hania](https://open.spotify.com/track/1T66lGsWjt7HlMjhwUkzMS) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Hania](https://open.spotify.com/album/6CE77cd7EMFzE1AWXcr08O) | 2:54 | 2022-11-08 | 2022-11-22 |
 | [Heeya](https://open.spotify.com/track/7tG8Kl89b8gVuDGnlyCXQA) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Heeya](https://open.spotify.com/album/2CFvYOAGceKa9RNyfG1rfX) | 3:33 | 2023-02-21 |  |
-| [Hibou](https://open.spotify.com/track/4gr4oZB1TKipXwMd02iUg3) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Hibou](https://open.spotify.com/album/6JJxwyARdiQCzVxjp87HgU) | 2:48 | 2023-10-06 |  |
+| [Hibou](https://open.spotify.com/track/4gr4oZB1TKipXwMd02iUg3) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Hibou](https://open.spotify.com/album/6JJxwyARdiQCzVxjp87HgU) | 2:48 | 2023-10-06 | 2023-11-09 |
 | [Hickey](https://open.spotify.com/track/3B67oAJr4acToGpR1S33g5) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Hickey](https://open.spotify.com/album/6l0VWNBC0Oppta7L3WkWnj) | 3:05 | 2022-02-14 | 2023-01-12 |
 | [Hiya Hiya](https://open.spotify.com/track/24vfdXHFUYbUisMutVNjDQ) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4huoXKTPj0UF1x3GchIe0H) | 3:37 | 2022-07-25 | 2022-10-26 |
 | [Hiya Hiya](https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE) | 3:37 | 2022-03-02 | 2022-07-31 |

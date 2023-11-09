@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:pH\-1\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: SINCE\)
 
-1,020 songs - 2 day 8 hr 0 min
+1,022 songs - 2 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -827,6 +827,7 @@
 | [SOLD OUT](https://open.spotify.com/track/1o63J4PLFxNHPMOGohT7sx) | [yankie](https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Andre](https://open.spotify.com/album/3c8EwsM7c6Ek2JPrf2b1VV) | 3:54 | 2023-01-10 | 2023-01-18 |
 | [SOLOMON](https://open.spotify.com/track/0NGMVNMZlnD3bIFPsSO9uu) | [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [1000won Lawyer \(Original Soundtrack\), Pt\. 2](https://open.spotify.com/album/2x7tmqNda5Ag0SpPbf6z5I) | 3:20 | 2022-10-07 | 2022-11-02 |
 | [Someone On You \(Feat\. Kid Wine\)](https://open.spotify.com/track/5yYpA3IqmJjZqMSwVy5nNU) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Stargaze](https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5) | 2:56 | 2023-06-12 | 2023-11-04 |
+| [Somozu Fever](https://open.spotify.com/track/41U4WfkQ19MJUPux9zNBBJ) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Somozu Fever](https://open.spotify.com/album/7AQZXlxfIbNV7oSUbSqLmi) | 2:52 | 2023-11-08 |  |
 | [Soorak San Remix \(feat.ZENE THE ZILLA, Rakon\)](https://open.spotify.com/track/23Dhz7EJ1ALo3nWakmLiMu) | [Lil Poet](https://open.spotify.com/artist/7qpuzcCwGOgZ2PZdJEwTvM), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [Rakon](https://open.spotify.com/artist/2RLCgVKRIUWY5Dz5azW6Tk) | [Soorak San Remix](https://open.spotify.com/album/7gjDdQF0S5n4o9CIvUqSJa) | 2:57 | 2022-03-29 | 2022-04-21 |
 | [SPACE MUSHIP](https://open.spotify.com/track/70MHMeSR2HITC36DNWYUxj) | [MUSHVENOM](https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f) | [SPACE MUSHIP](https://open.spotify.com/album/7rfeDJWtdSMg5IrhuOHPlZ) | 2:48 | 2022-09-29 | 2022-12-10 |
 | [Spacetime](https://open.spotify.com/track/4QogPJfnO1pZWwJ0cbwFJE) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Spacetime & So What](https://open.spotify.com/album/7vyDXiK6jN41QVSKWTrroQ) | 3:16 | 2021-12-18 | 2022-07-05 |
@@ -985,6 +986,7 @@
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-02 | 2022-12-19 |
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Youjeen](https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 4:33 | 2022-12-14 | 2023-03-28 |
 | [WIN](https://open.spotify.com/track/3h7iRort6R0M8qIl1LgBbI) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [WIN \(THE SOLDIERS X Simon Dominic\)](https://open.spotify.com/album/0aYZG2KFj0UV2OYpa5HAOS) | 3:09 | 2021-12-21 | 2022-06-11 |
+| [WING \(feat\. CK\)](https://open.spotify.com/track/4j2mNJUDvI4CMkOoxIs3qA) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [CK](https://open.spotify.com/artist/3h3QyNpmQBmQq0bYTPNdiw) | [THE SOLOEST](https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T) | 2:53 | 2023-11-08 |  |
 | [WINNER \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0EUPVKyimfNPxAkF9bNCNx) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [LOVE & FIGHT](https://open.spotify.com/album/4fVtbWVZ9WIyuOc6cXKH1V) | 2:54 | 2022-02-08 | 2022-07-04 |
 | [WITCH \(Feat\. Jay Park, So!YoON!\) \(Prod\. by Slom\)](https://open.spotify.com/track/1v520W6rEa0nB2vvqAxnU3) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [SHOW ME THE MONEY 11 Semi Final](https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx) | 4:02 | 2022-12-25 | 2023-04-19 |
 | [Without You \(Feat\. ASH ISLAND\) \(Prod\. GRAY\)](https://open.spotify.com/track/4t3Vgfjl9Sb6ZR5q5kGOUL) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Show Me The Money 10 Final](https://open.spotify.com/album/34uVbKk2EOXlPMAeBo3Qio) | 3:47 | 2021-12-18 | 2022-07-08 |

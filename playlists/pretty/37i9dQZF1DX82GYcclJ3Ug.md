@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,317 likes - 127 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,353 likes - 127 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 111 | [Turn Off The Noise](https://open.spotify.com/track/633HJNBMLx1CJ2h6fmtMce) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:24 |
 | 112 | [Perfect](https://open.spotify.com/track/5Vfl6AYr1PyG4BcEMIr8oT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Perfect](https://open.spotify.com/album/7Ecotv7Pdu4utXTqulJ45n) | 2:33 |
 | 113 | [catalogue](https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [catalogue](https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc) | 3:14 |
-| 114 | [COLLIDING](https://open.spotify.com/track/6sZM05GUBlSiCDd0LGmffK) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [COLLIDING](https://open.spotify.com/album/1FvHt3aswvRaEk5vm0pY58) | 2:43 |
+| 114 | [COLLIDING](https://open.spotify.com/track/5OoKINatuviwC5o7vGyvDl) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 2:43 |
 | 115 | [Friends With Your EX](https://open.spotify.com/track/5dLhmqJRJiV0RyRwv7VUdv) | [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [Friends With Your EX](https://open.spotify.com/album/6Lv24dBmFka5bThmdwMCOn) | 1:58 |
 | 116 | [daylight falls](https://open.spotify.com/track/3JTXbLod8F36ErFytqlxID) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [daylight falls](https://open.spotify.com/album/4JzQ9ctOcrFaAY1Kfbq4hM) | 2:45 |
 | 117 | [What's The Point In Life](https://open.spotify.com/track/7szIMYl2VX8GaMMWnTmCaq) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Parasite](https://open.spotify.com/album/7jGfpPmNuDC9ggP7rxCIne) | 2:18 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 126 | [Impressively Average](https://open.spotify.com/track/1sL6n9kMtrlAvPokQKlZGP) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Impressively Average](https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv) | 3:18 |
 | 127 | [Birds and the Bees](https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn) | 4:14 |
 
-Snapshot ID: `MCxmMGFiNzUyZmViN2YzNjcyMjZkNGIwNmM2MDZmY2I1YmQwMWM1YTVh`
+Snapshot ID: `MCwxN2EzNWU0OTZkMTdkNzE0NWMyMjkzMDZlNzlhNGU1YzQ1NDZlZDFi`

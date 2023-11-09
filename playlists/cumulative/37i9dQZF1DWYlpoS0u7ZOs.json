@@ -2240,6 +2240,24 @@
     {
       "album": {
         "name": "Living Room",
+        "url": "https://open.spotify.com/album/69A5eUFU5OAkrk4Qwcr0F8"
+      },
+      "artists": [
+        {
+          "name": "The Kites",
+          "url": "https://open.spotify.com/artist/2Q9k03aufzYcuO2jZFupal"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273428,
+      "name": "Living Room",
+      "url": "https://open.spotify.com/track/0oLn6RJMQRHciUKebSyqW6"
+    },
+    {
+      "album": {
+        "name": "Living Room",
         "url": "https://open.spotify.com/album/7ImWwG4QYO9qSx2fuJKSSt"
       },
       "artists": [
@@ -2250,7 +2268,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 273621,
       "name": "Living Room",
       "url": "https://open.spotify.com/track/2cVpWE4QSNt52FNKLBNpvW"

@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Tchami & Malaa",
-  "num_followers": 436763,
+  "num_followers": 436823,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzNiNjkyZTA0NWE1MmIxMTdhNDBhZjAxOGM3NTQwYmVhYmNkNjQ4",
+  "snapshot_id": "MCxiNDA4MjQ3MDkyMWM3M2FiNDc1M2U0NTZkZjU4MGM0MGVmNjFhYzI5",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -163,8 +163,8 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "One Chance (feat. Marlhy)",
-        "url": "https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu"
+        "name": "One Chance",
+        "url": "https://open.spotify.com/album/4whZCf4KZinQmHApTpVCn9"
       },
       "artists": [
         {
@@ -181,8 +181,8 @@
         }
       ],
       "duration_ms": 220952,
-      "name": "One Chance (feat. Marlhy)",
-      "url": "https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd"
+      "name": "One Chance",
+      "url": "https://open.spotify.com/track/1rFjOggo1LDoT6wqX41baU"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -963,22 +963,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Move It (with Luciana)",
-        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
+        "name": "Fuck It Up",
+        "url": "https://open.spotify.com/album/5N3MFNQdu7kcfxlLK5TGW2"
       },
       "artists": [
         {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         }
       ],
-      "duration_ms": 135238,
-      "name": "Move It (with Luciana)",
-      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
+      "duration_ms": 196875,
+      "name": "Fuck It Up",
+      "url": "https://open.spotify.com/track/59Up9bvTzye1JE1fueCjER"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1003,18 +999,38 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Fuck It Up",
-        "url": "https://open.spotify.com/album/5N3MFNQdu7kcfxlLK5TGW2"
+        "name": "Move It (with Luciana)",
+        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
       },
       "artists": [
         {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
         }
       ],
-      "duration_ms": 196875,
-      "name": "Fuck It Up",
-      "url": "https://open.spotify.com/track/59Up9bvTzye1JE1fueCjER"
+      "duration_ms": 135238,
+      "name": "Move It (with Luciana)",
+      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Bass In Yo Face",
+        "url": "https://open.spotify.com/album/1XMX76i2nCTl52fvyV7zra"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        }
+      ],
+      "duration_ms": 187683,
+      "name": "Bass In Yo Face",
+      "url": "https://open.spotify.com/track/2ez05kaHbFLyu70MMSNQpA"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1039,30 +1055,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Ignite",
-        "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        },
-        {
-          "name": "Haus of Panda",
-          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
-        },
-        {
-          "name": "MYLK",
-          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Ignite",
-      "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Power Stone",
         "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
       },
@@ -1075,22 +1067,6 @@
       "duration_ms": 167272,
       "name": "Power Stone",
       "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Bass In Yo Face",
-        "url": "https://open.spotify.com/album/1XMX76i2nCTl52fvyV7zra"
-      },
-      "artists": [
-        {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
-        }
-      ],
-      "duration_ms": 187683,
-      "name": "Bass In Yo Face",
-      "url": "https://open.spotify.com/track/2ez05kaHbFLyu70MMSNQpA"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1115,6 +1091,30 @@
       "duration_ms": 185625,
       "name": "Strut",
       "url": "https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Haus of Panda",
+          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
+        },
+        {
+          "name": "MYLK",
+          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1223,22 +1223,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "NYC BABY",
-        "url": "https://open.spotify.com/album/6Ym9zpIrOmmfZmVI1ArSjE"
+        "name": "BAD OMENS",
+        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
       },
       "artists": [
         {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        },
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         }
       ],
-      "duration_ms": 125585,
-      "name": "NYC BABY",
-      "url": "https://open.spotify.com/track/1d8K4YrRelAi7AuZfxP4Uy"
+      "duration_ms": 147625,
+      "name": "BAD OMENS",
+      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1259,6 +1255,26 @@
       "duration_ms": 140000,
       "name": "Down Like That",
       "url": "https://open.spotify.com/track/02WXjHrQgBZc4stIRzYaFR"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "NYC BABY",
+        "url": "https://open.spotify.com/album/6Ym9zpIrOmmfZmVI1ArSjE"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        }
+      ],
+      "duration_ms": 125585,
+      "name": "NYC BABY",
+      "url": "https://open.spotify.com/track/1d8K4YrRelAi7AuZfxP4Uy"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "BAD OMENS",
-        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 147625,
-      "name": "BAD OMENS",
-      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "NRG",
         "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
       },
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "132.00FM",
+        "url": "https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Cecelia",
+          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/6wL3KiaYImEVwWWmO5InbZ"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Moksi Crew",
         "url": "https://open.spotify.com/album/2bqqu0KeHqcsDlGKDCEneE"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 291840,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/1a9Mq3Sr32PM93oWJ3vJU9"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "132.00FM",
-        "url": "https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        },
-        {
-          "name": "Cecelia",
-          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/6wL3KiaYImEVwWWmO5InbZ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1731,22 +1731,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "LIMIT",
-        "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
+        "name": "Front To Back (feat. DLMT)",
+        "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
       },
       "artists": [
         {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+          "name": "FOMO",
+          "url": "https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX"
         },
         {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
         }
       ],
-      "duration_ms": 217142,
-      "name": "LIMIT",
-      "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
+      "duration_ms": 211653,
+      "name": "Front To Back (feat. DLMT)",
+      "url": "https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1771,22 +1771,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Front To Back (feat. DLMT)",
-        "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
+        "name": "LIMIT",
+        "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
       },
       "artists": [
         {
-          "name": "FOMO",
-          "url": "https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX"
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
         },
         {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
         }
       ],
-      "duration_ms": 211653,
-      "name": "Front To Back (feat. DLMT)",
-      "url": "https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El"
+      "duration_ms": 217142,
+      "name": "LIMIT",
+      "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Bring It Back",
-        "url": "https://open.spotify.com/album/6oMZtThtbHbNCXCVtHos8r"
-      },
-      "artists": [
-        {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
-        },
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/35es3y1iNffNsVFMuEfq10"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "SOOTHSAYER (Jon Casey Remix)",
         "url": "https://open.spotify.com/album/5DK8df3mkpoHP6zOn25zP8"
       },
@@ -2023,6 +2003,26 @@
       "duration_ms": 191250,
       "name": "SOOTHSAYER (Jon Casey Remix)",
       "url": "https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/6oMZtThtbHbNCXCVtHos8r"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/35es3y1iNffNsVFMuEfq10"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Daddy's Back",
+        "url": "https://open.spotify.com/album/4GCZvwAgE1yE1K2H9l1f5W"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "Daddy's Back",
+      "url": "https://open.spotify.com/track/2kD5WaS17Ud2k4M4IwJxC0"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/79FMrbPy2c7zRzadyNV9aa"
       },
@@ -2163,22 +2179,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Daddy's Back",
-        "url": "https://open.spotify.com/album/4GCZvwAgE1yE1K2H9l1f5W"
-      },
-      "artists": [
-        {
-          "name": "Black V Neck",
-          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "Daddy's Back",
-      "url": "https://open.spotify.com/track/2kD5WaS17Ud2k4M4IwJxC0"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Don Malaa",
         "url": "https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP"
       },
@@ -2195,22 +2195,6 @@
       "duration_ms": 240000,
       "name": "Discipline (with Tchami)",
       "url": "https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Out of Love",
-        "url": "https://open.spotify.com/album/3yfOjkxLPzuG5727fyBPaQ"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Out of Love",
-      "url": "https://open.spotify.com/track/3eWPbGAI6Db9eP6PPSE9Nt"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2235,6 +2219,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "New Hype",
+        "url": "https://open.spotify.com/album/4eZDYWfC6hqvN4unldG8Eu"
+      },
+      "artists": [
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "duration_ms": 175909,
+      "name": "New Hype",
+      "url": "https://open.spotify.com/track/4bnXaaByV6Aj1peaDFgXom"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Rage",
         "url": "https://open.spotify.com/album/21JEOvsMFfHCEhAq2YKxYq"
       },
@@ -2251,18 +2251,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "New Hype",
-        "url": "https://open.spotify.com/album/4eZDYWfC6hqvN4unldG8Eu"
+        "name": "Out of Love",
+        "url": "https://open.spotify.com/album/3yfOjkxLPzuG5727fyBPaQ"
       },
       "artists": [
         {
-          "name": "ALRT",
-          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
         }
       ],
-      "duration_ms": 175909,
-      "name": "New Hype",
-      "url": "https://open.spotify.com/track/4bnXaaByV6Aj1peaDFgXom"
+      "duration_ms": 180480,
+      "name": "Out of Love",
+      "url": "https://open.spotify.com/track/3eWPbGAI6Db9eP6PPSE9Nt"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2323,6 +2323,22 @@
       "duration_ms": 142857,
       "name": "Left & Right (BYOR Remix)",
       "url": "https://open.spotify.com/track/0EWcOrTwNENx13HuPuFznq"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3qSY86gdQhHFFXnsZUWNHl"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 138011,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5qyNFGdbQxkYExSUeqVA9F"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2391,26 +2407,6 @@
       "duration_ms": 198094,
       "name": "Back It Up (feat. Young Lyxx)",
       "url": "https://open.spotify.com/track/6ePX5p0ufqiYywnNa9nXkO"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Gimme Bass",
-        "url": "https://open.spotify.com/album/4oBkrsdifIQQu8woMAEOGE"
-      },
-      "artists": [
-        {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
-        },
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        }
-      ],
-      "duration_ms": 276190,
-      "name": "Gimme Bass",
-      "url": "https://open.spotify.com/track/1rkWQHebn0mI7VPDTiIwBP"
     }
   ],
   "unique_name": "Nasty Bits",

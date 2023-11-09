@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 
 > ¡Alista la hielerona que nos vamos pa' las dunas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,508 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,862 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 | 80 | [Clave 18](https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [Clave 18](https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S) | 3:55 |
 | 81 | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/album/480oASOS6npWutZkW7zeNf) | 2:33 |
 | 82 | [Mundo Inmenso](https://open.spotify.com/track/4kFrkUb1JH4kEVRkQdwhMK) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1), [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Mundo Inmenso](https://open.spotify.com/album/6lJDAwC0h6nalOnsFA4Vbt) | 2:23 |
-| 83 | [Fresas De La Capital](https://open.spotify.com/track/3HIL8kXH7d56lMcl9wEOpb) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew) | [Fresas De La Capital](https://open.spotify.com/album/6Zpv9HFhV78xWi58Gi3E8B) | 2:53 |
+| 83 | [Dembow Zumba La Srt](https://open.spotify.com/track/0Pqo8dMSWl0FTHSqcrZlgB) | [Skrapy](https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Dembow Zumba La Srt](https://open.spotify.com/album/50vUKq806a2UejX9FCVGwz) | 3:00 |
 | 84 | [Nene Zambada](https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:03 |
-| 85 | [Dembow Zumba La Srt](https://open.spotify.com/track/0Pqo8dMSWl0FTHSqcrZlgB) | [Skrapy](https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Dembow Zumba La Srt](https://open.spotify.com/album/50vUKq806a2UejX9FCVGwz) | 3:00 |
+| 85 | [Fresas De La Capital](https://open.spotify.com/track/3HIL8kXH7d56lMcl9wEOpb) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew) | [Fresas De La Capital](https://open.spotify.com/album/6Zpv9HFhV78xWi58Gi3E8B) | 2:53 |
 | 86 | [A Punta De Balazos \- En Vivo](https://open.spotify.com/track/0o26lY9phEuhqZvSKTfGcb) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [A Punta De Balazos \(En Vivo\)](https://open.spotify.com/album/0wI3IGO9TPx7rvtjGIsp5f) | 3:57 |
 | 87 | [Yo Las Pongo](https://open.spotify.com/track/7qJSQ78QTzlEoklmPZmiKy) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:11 |
 | 88 | [El Jessy](https://open.spotify.com/track/1ShS4CeMAsuTKuAbE6dMA2) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [El Jessy](https://open.spotify.com/album/1frZG7cwuuu7fgRe4EBPls) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 | 99 | [GDL](https://open.spotify.com/track/6MYMoJJFzRb1R7hRR2iYL1) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:44 |
 | 100 | [Solo Me Dejaste](https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH) | 3:06 |
 
-Snapshot ID: `MCxjNmIyNmRiMmE3M2I0MTY4ZmNlZWYzMzc3MTcxOGVlMDcwMDA3ZGNi`
+Snapshot ID: `MCxhNzAwODg2ZmZmOGM1NmE5NDU4ZWRmNGE0NGVkMzNjMDBlNDU0YTBm`

@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: ANNA, Capo Plaza, AVA",
-  "num_followers": 91330,
+  "num_followers": 91398,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmJlNjk3YjMzNzBlOTBmMGFjMGM0YTcyYTEwYWFlYzgyMTE4YTE3",
+  "snapshot_id": "MCxkMGFkZGE1ZDNhZGMyNjA5NGNhMjExNjdkMzIwNjBmNWQ3MWVjZDUx",
   "tracks": [
     {
       "added_at": "2023-11-01 22:01:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-11-01 22:01:00",
       "album": {
-        "name": "DIOSA (feat. Peppe Soks) [Remix]",
-        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
-      },
-      "artists": [
-        {
-          "name": "Nathys",
-          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
-        },
-        {
-          "name": "Peppe Soks",
-          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
-        }
-      ],
-      "duration_ms": 143641,
-      "name": "DIOSA (feat. Peppe Soks) - Remix",
-      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
-    },
-    {
-      "added_at": "2023-11-01 22:01:00",
-      "album": {
         "name": "J",
         "url": "https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 183027,
       "name": "ALYX (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/5ifarM7jfplX1EqkqMHlDq"
+    },
+    {
+      "added_at": "2023-11-01 22:01:00",
+      "album": {
+        "name": "DIOSA (feat. Peppe Soks) [Remix]",
+        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
+      },
+      "artists": [
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        }
+      ],
+      "duration_ms": 143641,
+      "name": "DIOSA (feat. Peppe Soks) - Remix",
+      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
     },
     {
       "added_at": "2023-11-01 22:01:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-11-01 22:01:00",
       "album": {
-        "name": "Salvatore",
-        "url": "https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "Blauer",
-      "url": "https://open.spotify.com/track/70TPpmAKLK49gcs58JqqWy"
-    },
-    {
-      "added_at": "2023-11-01 22:01:00",
-      "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 229147,
       "name": "SENZA RUMORE",
       "url": "https://open.spotify.com/track/2Z7sJKCxTH94KCRxJTd4O7"
+    },
+    {
+      "added_at": "2023-11-01 22:01:00",
+      "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "Blauer",
+      "url": "https://open.spotify.com/track/70TPpmAKLK49gcs58JqqWy"
     },
     {
       "added_at": "2023-11-01 22:01:00",
@@ -1495,6 +1495,46 @@
     {
       "added_at": "2023-11-01 22:01:00",
       "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 159910,
+      "name": "Boogieman (feat. Salmo)",
+      "url": "https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW"
+    },
+    {
+      "added_at": "2023-11-01 22:01:00",
+      "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 122373,
+      "name": "No wallet (feat. Marracash)",
+      "url": "https://open.spotify.com/track/7EPJ1OFdXVw0eA5gvZziEv"
+    },
+    {
+      "added_at": "2023-11-01 22:01:00",
+      "album": {
         "name": "Michelle Pfeiffer (feat. Tony Effe)",
         "url": "https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5"
       },
@@ -1515,22 +1555,22 @@
     {
       "added_at": "2023-11-01 22:01:00",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l"
+        "name": "Serio",
+        "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
       },
       "artists": [
         {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
         },
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 159910,
-      "name": "Boogieman (feat. Salmo)",
-      "url": "https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW"
+      "duration_ms": 218769,
+      "name": "Serio (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
     },
     {
       "added_at": "2023-11-01 22:01:00",
@@ -1567,26 +1607,6 @@
     {
       "added_at": "2023-11-01 22:01:00",
       "album": {
-        "name": "Serio",
-        "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 218769,
-      "name": "Serio (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
-    },
-    {
-      "added_at": "2023-11-01 22:01:00",
-      "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 158630,
       "name": "DREAM TEAM (feat. Dylan, Capo Plaza, Tedua & Shiva)",
       "url": "https://open.spotify.com/track/4IjDcm8qRdRiwrRtpIdpSD"
-    },
-    {
-      "added_at": "2023-11-01 22:01:00",
-      "album": {
-        "name": "Salvatore",
-        "url": "https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 122373,
-      "name": "No wallet (feat. Marracash)",
-      "url": "https://open.spotify.com/track/7EPJ1OFdXVw0eA5gvZziEv"
     },
     {
       "added_at": "2023-11-01 22:01:00",

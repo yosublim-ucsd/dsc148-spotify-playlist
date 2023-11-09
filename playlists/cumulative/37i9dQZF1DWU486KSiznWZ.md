@@ -4,7 +4,7 @@
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: ماجد المهندس
 
-143 songs - 10 hr 7 min
+145 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Al Oyoun Al Sod](https://open.spotify.com/track/7Kz1cLU2WGD3w5ARYrxsNq) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Al Oyoun Al Sod](https://open.spotify.com/album/2oCpnaO5W8B36lHGcmZM8X) | 5:08 | 2023-02-14 |  |
 | [Al Sourah](https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Sourah](https://open.spotify.com/album/24aRGx287iB3Y1OUuM3Z3T) | 4:19 | 2022-04-07 | 2023-08-28 |
 | [Allah Ala The Allil](https://open.spotify.com/track/5ihud1HlQGEy2JaZgFCsFE) | [Omar Naghmet Wattar](https://open.spotify.com/artist/5HeUjWClBMbaVtHAQE1WNI) | [Allah Ala The Allil](https://open.spotify.com/album/1k19VdXfQADUyWWsO5xakL) | 5:28 | 2022-04-07 | 2022-06-09 |
+| [Allah Yekhalleek Lehalek](https://open.spotify.com/track/2wkvNhTMmIjHQkgvBQqvOo) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Allah Yekhalleek Lehalek](https://open.spotify.com/album/4NBpRiwq6R30yQiOWjTQki) | 4:11 | 2023-11-08 |  |
 | [AlNeskha AlJadeeda](https://open.spotify.com/track/3GLLxqMO9eL5eoHuySMQGR) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [AlNeskha AlJadeeda](https://open.spotify.com/album/1TpetQdfC6a5nZEK75VvLL) | 4:00 | 2022-12-08 | 2023-02-15 |
 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 | 2023-05-08 | 2023-07-28 |
 | [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/0Qw2eL45SZkglxhnb1R0m9) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:37 | 2022-10-04 | 2023-10-12 |
@@ -28,7 +29,7 @@
 | [Dammit 3Eni](https://open.spotify.com/track/3qRN0sUxQpc7aZeygHfEwM) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Dammit 3Eni](https://open.spotify.com/album/6p1qe7JdxijyO3meOg3X78) | 3:37 | 2022-04-07 | 2022-06-09 |
 | [Dehkat Ayami](https://open.spotify.com/track/5qzYDx4eVLJFmveW0ULvnx) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Dehkat Ayami](https://open.spotify.com/album/0mdNdGbwgfzLMPUX6nRFIz) | 4:17 | 2022-09-01 | 2023-05-07 |
 | [El Gheyab](https://open.spotify.com/track/3owCG7KMMas0xG8G4DgNKi) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [El Gheyab](https://open.spotify.com/album/5C9SWdz3S0bdXqpZHmHdg3) | 5:21 | 2023-08-30 |  |
-| [El Hajah](https://open.spotify.com/track/1vXGTrgrBe5pPYgd2wBjSx) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [El Hajah](https://open.spotify.com/album/0ojU0NHmHEh9756Is45OzT) | 4:23 | 2023-04-20 |  |
+| [El Hajah](https://open.spotify.com/track/1vXGTrgrBe5pPYgd2wBjSx) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [El Hajah](https://open.spotify.com/album/0ojU0NHmHEh9756Is45OzT) | 4:23 | 2023-04-20 | 2023-11-09 |
 | [Ela Allah](https://open.spotify.com/track/4ZXyL4LC6u9QmBNERbGyBJ) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ela Allah](https://open.spotify.com/album/4I9pP9LCXwvUeYssukoqGc) | 4:04 | 2023-01-26 |  |
 | [Elhubb Ja](https://open.spotify.com/track/6dNsnqDf8c5aBUZW7V2Oqh) | [Salah Alzadjali](https://open.spotify.com/artist/5B14NO9B5J7hKVfyttzrpH) | [Elhubb Ja](https://open.spotify.com/album/42tevSQ1DPLBGr8BgQfh3e) | 4:36 | 2022-06-08 | 2023-06-15 |
 | [Entaha](https://open.spotify.com/track/14pBZT0Up0pDBa4duA5iog) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Entaha \(Balqees\)](https://open.spotify.com/album/6BSESL2MfbqMBvO25FglJh) | 3:07 | 2023-03-28 | 2023-04-21 |
@@ -85,7 +86,8 @@
 | [Tejene \(2\)](https://open.spotify.com/track/5KnVP62QZhBeViSV0JUVmU) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:01 | 2023-01-09 |  |
 | [Tezzakar Al Nesyan](https://open.spotify.com/track/3bCkRa7J8CxY8yUj6cifXQ) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Tezzakar Al Nesyan](https://open.spotify.com/album/2ebAtYzo58lYiSG3JFyd8W) | 4:50 | 2023-10-11 |  |
 | [Thekrak \(16\)](https://open.spotify.com/track/7DPK6KDwhYUiPPGgXuq1st) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:39 | 2022-10-04 | 2023-01-27 |
-| [Tkhawfni](https://open.spotify.com/track/3dFrNHTI0cSE7BZQNViPdR) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Tkhawfni](https://open.spotify.com/album/2UUrjBTk7RHOZ9g7XbVHtX) | 5:00 | 2023-07-31 |  |
+| [Tkhawfni](https://open.spotify.com/track/3dFrNHTI0cSE7BZQNViPdR) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Tkhawfni](https://open.spotify.com/album/2UUrjBTk7RHOZ9g7XbVHtX) | 5:00 | 2023-07-31 | 2023-11-09 |
+| [Waqaf Lahfatk](https://open.spotify.com/track/3GOvsMkufURsrN48DNa9pq) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Methan](https://open.spotify.com/artist/5IsaX1fHYyxc6xcFee6JTC) | [Waqaf Lahfatk](https://open.spotify.com/album/5NMIcwpKdjL2ZlcahGjsOI) | 4:44 | 2023-11-08 |  |
 | [Wesh Fini](https://open.spotify.com/track/595iet95ZCUsYsHBYjyOZA) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Wesh Fini](https://open.spotify.com/album/1y0u5gcePiOuiKRHZLHnWR) | 3:11 | 2023-08-10 |  |
 | [Wesh Yes3edk](https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Wesh Yes3edk](https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos) | 4:18 | 2022-12-08 | 2023-09-19 |
 | [Ya Hala](https://open.spotify.com/track/4u7De1AMztuLzjVwZFdcXr) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Hala](https://open.spotify.com/album/1sHmK0R4eKbi56B3B0ejw8) | 5:04 | 2022-04-07 | 2023-04-21 |

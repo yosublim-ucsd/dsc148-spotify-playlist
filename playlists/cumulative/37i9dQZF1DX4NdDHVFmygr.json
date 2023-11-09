@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u00c9coutez en boucle les hits 100% marocains du moment.",
+  "description": "Les hits 100% marocains du moment.",
   "name": "Maroc Hits",
   "tracks": [
     {
@@ -1295,6 +1295,28 @@
     },
     {
       "album": {
+        "name": "DELLALI (feat. Hamza)",
+        "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182037,
+      "name": "DELLALI (feat. Hamza)",
+      "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
+    },
+    {
+      "album": {
         "name": "Denbi",
         "url": "https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr"
       },
@@ -1956,7 +1978,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 168862,
       "name": "Hibou",
       "url": "https://open.spotify.com/track/4gr4oZB1TKipXwMd02iUg3"

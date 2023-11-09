@@ -1,12 +1,12 @@
 {
   "description": "o genro que toda sogra queria, simplesmente thiago veigh",
-  "num_followers": 1279269,
+  "num_followers": 1280142,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzJkZGQyZGRmNmFhN2UwNjkxNzliOTljYzUxMjg0MTNmNGI5ZGYw",
+  "snapshot_id": "MCwzOTEzZjFhM2FlYWFlODU2YjA1MTc0N2ZlNWJmNzFlMWI5NGM3ODIy",
   "tracks": [
     {
       "added_at": "2023-11-03 03:03:00",
@@ -1080,12 +1080,12 @@
           "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
           "name": "Portugal No Beat",
           "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
         }
       ],
       "duration_ms": 186947,
@@ -1271,8 +1271,8 @@
     {
       "added_at": "2023-11-03 03:03:00",
       "album": {
-        "name": "Nota D\u00f3",
-        "url": "https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP"
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
       "artists": [
         {
@@ -1280,25 +1280,17 @@
           "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+          "name": "Dj Alle da coro",
+          "url": "https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x"
         },
         {
           "name": "C\u00fapula",
           "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "DJ DuBom",
-          "url": "https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt"
         }
       ],
-      "duration_ms": 202550,
-      "name": "Nota D\u00f3",
-      "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
+      "duration_ms": 133622,
+      "name": "Dacoromode",
+      "url": "https://open.spotify.com/track/3shEtQGZ9N4B5sRHtpG7Hs"
     },
     {
       "added_at": "2023-11-03 03:03:00",
@@ -1463,8 +1455,8 @@
     {
       "added_at": "2023-11-03 03:03:00",
       "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+        "name": "Nota D\u00f3",
+        "url": "https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP"
       },
       "artists": [
         {
@@ -1472,17 +1464,25 @@
           "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "Dj Alle da coro",
-          "url": "https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x"
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
         },
         {
           "name": "C\u00fapula",
           "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "DJ DuBom",
+          "url": "https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt"
         }
       ],
-      "duration_ms": 133622,
-      "name": "Dacoromode",
-      "url": "https://open.spotify.com/track/3shEtQGZ9N4B5sRHtpG7Hs"
+      "duration_ms": 202550,
+      "name": "Nota D\u00f3",
+      "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
     },
     {
       "added_at": "2023-11-03 03:03:00",

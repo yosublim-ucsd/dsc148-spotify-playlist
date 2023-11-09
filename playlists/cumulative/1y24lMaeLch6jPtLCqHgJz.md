@@ -4,7 +4,7 @@
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-239 songs - 12 hr 22 min
+240 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Lift Off](https://open.spotify.com/track/77Whia5VOt6Ld1ffWKP5vu) | [Pei Pei](https://open.spotify.com/artist/5feFhyZ3MkVAxnnC0m6cdf), [Gproject](https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [Lift Off](https://open.spotify.com/album/5D2bNPZh3mKBWozCWPdOOF) | 3:58 | 2023-10-12 |  |
 | [Like Dis](https://open.spotify.com/track/4BlhVVLEJ7H2QsPcZ0v6bL) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Like Dis](https://open.spotify.com/album/2pFskPFDiMLmH3D8HHKpDl) | 2:18 | 2023-08-24 |  |
 | [Lions Roar \(feat\. Philip Strand\)](https://open.spotify.com/track/7DCJZlDIubI1B2z4EoZ7VD) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Lions Roar \(feat\. Philip Strand\)](https://open.spotify.com/album/44pquiGbX8vB0u7VSizA6V) | 2:57 | 2022-11-18 | 2023-04-22 |
+| [Lose Your Mind](https://open.spotify.com/track/0XBpOxxdLc3xH6OjjnaWML) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [Lose Your Mind](https://open.spotify.com/album/4pO5ePc9H7RG2a3CSVdmm4) | 2:38 | 2023-11-08 |  |
 | [Losing Focus](https://open.spotify.com/track/0NiksN12Vqtj2XmOnFOFxz) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [SOUNDCHECK](https://open.spotify.com/artist/4cJtXXdfujLT0wr1DY9pdl), [Replay M](https://open.spotify.com/artist/6XTVE58RFOIxPuDGSkXa4z), [Michael Zhonga](https://open.spotify.com/artist/1FeScSe5coyXzmJ8ATtj9O) | [Revealed Recordings presents ADE Sampler 2022](https://open.spotify.com/album/5CZASEqfAIx22yQEaiBKXi) | 2:49 | 2022-10-06 |  |
 | [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv) | 4:08 | 2023-08-10 |  |
 | [Lost Souls](https://open.spotify.com/track/5Vxu6H5I0j0R5HQrODozRq) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Lost Souls](https://open.spotify.com/album/3bND9QfvmMqYSi2j3Y8p5y) | 3:04 | 2023-04-13 |  |

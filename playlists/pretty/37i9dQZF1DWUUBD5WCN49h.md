@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW?si=\_fbG6IqYQpSWyW8\_P12\_3A"> Mellissa </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,852 likes - 74 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,884 likes - 74 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 73 | [Maria](https://open.spotify.com/track/30nVi5z6ndLqJ8mdw7PX6p) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Maria](https://open.spotify.com/album/28jNjVNo0Sw3D9LWtPwiTF) | 2:59 |
 | 74 | [Alone](https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Alone](https://open.spotify.com/album/3QNMOgAZ3fezFohWtYRMaw) | 2:37 |
 
-Snapshot ID: `MCxiNTYxMjUzZTMxMjRiYmFiNWQyZDk2MmE3NzJmNmY4ZGZlMzlmNGU3`
+Snapshot ID: `MCw3YmU2NjM2NjhkMjBjOTVmMzJkYzU3NWE0NWQ3ZjZkNDQ2NWI2NTlh`

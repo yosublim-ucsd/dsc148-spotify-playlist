@@ -4,7 +4,7 @@
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-246 songs - 13 hr 42 min
+247 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,8 +170,9 @@
 | [Paradise \- Acoustic](https://open.spotify.com/track/6VVi6cadD8WZGfredhpaPw) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/7weXwUa85fSK2MmtoFyzYZ) | 2:33 | 2022-05-06 | 2022-12-25 |
 | [Peer Pressure \(Acoustic\) \[feat\. Julia Michaels\]](https://open.spotify.com/track/2hFFke3WXVA9mV31XNy0dP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Peer Pressure \(Acoustic\)](https://open.spotify.com/album/27RJgXCscKOnvbjhhI3nWQ) | 2:56 | 2022-01-12 | 2023-02-17 |
 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 | 2022-01-12 | 2022-06-04 |
+| [Pictures](https://open.spotify.com/track/0nC1qkOgwU7yQZLpUQmUms) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before The Snowstorm](https://open.spotify.com/album/6X4lsAafU2WXiThVoO9kF4) | 2:57 | 2023-10-27 |  |
 | [Pictures](https://open.spotify.com/track/2cEBG31c2Y7mfRlLY8g1ah) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm](https://open.spotify.com/album/2V5uxReEmjn0j5tAG6oHI0) | 2:57 | 2022-07-26 | 2023-11-04 |
-| [Pictures](https://open.spotify.com/track/4UB5tDnWwrFefdfC6hebdS) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm \(Deluxe Version\)](https://open.spotify.com/album/1eS5FLI6q24t4wONeOzrj5) | 2:57 | 2023-10-27 |  |
+| [Pictures](https://open.spotify.com/track/4UB5tDnWwrFefdfC6hebdS) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm \(Deluxe Version\)](https://open.spotify.com/album/1eS5FLI6q24t4wONeOzrj5) | 2:57 | 2023-10-27 | 2023-11-09 |
 | [Pictures](https://open.spotify.com/track/2FlG7RSmCD0e3uvSNzdiMe) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Pictures EP](https://open.spotify.com/album/0tnbyn4ObDQmnAOiKKkzA3) | 2:59 | 2022-01-12 | 2022-07-29 |
 | [Portland, Maine](https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:23 | 2022-07-26 |  |
 | [Portland, Maine](https://open.spotify.com/track/6u1E03WKp0QsOfK5FEzzGr) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Portland, Maine](https://open.spotify.com/album/1JdFJfWFPgE8UWUOd3R2gm) | 3:23 | 2022-01-12 | 2022-07-29 |

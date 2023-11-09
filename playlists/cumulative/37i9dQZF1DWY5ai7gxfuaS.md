@@ -4,7 +4,7 @@
 
 > The most innovative and forward thinking metal right now\. Cover: Static\-X
 
-182 songs - 12 hr 31 min
+183 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 | 2022-09-29 |  |
 | [be no one](https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv) | [Sepha.](https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA) | [be no one](https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv) | 4:21 | 2021-12-20 | 2023-08-11 |
 | [be no one](https://open.spotify.com/track/79sLgm42dVXtLAModGd7CJ) | [Sepha.](https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA) | [overstimulation brain porridge](https://open.spotify.com/album/6O4apo5JpFLzhCDwS844Tn) | 4:21 | 2022-11-18 |  |
+| [Believe](https://open.spotify.com/track/0CY10vjKe4FvmzsEaKACfK) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Blood Money Part Zer0](https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt) | 4:36 | 2023-03-03 |  |
 | [Believe](https://open.spotify.com/track/2XIrfxeVsfLZF6oGKN2ri4) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Misery](https://open.spotify.com/album/2Kt1g7imZTiyATlkOfKf2f) | 4:36 | 2022-11-18 | 2023-01-28 |
 | [Believe](https://open.spotify.com/track/2zdtGFbUCmv0PhkylSQiHu) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dead World](https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF) | 4:36 | 2022-11-18 | 2023-11-06 |
 | [Believe](https://open.spotify.com/track/3wfc00OGxwIK9zRBPBvplY) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dive](https://open.spotify.com/album/0ld5U0aAKWiNUiUYqSJi13) | 4:36 | 2022-11-18 | 2023-02-04 |
@@ -68,7 +69,7 @@
 | [Diazepam](https://open.spotify.com/track/34QE6KRYpX1GCnbhJ4Hqhx) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Diazepam](https://open.spotify.com/album/6xHOXbrRQUov5zitOkoSfy) | 2:36 | 2022-11-18 | 2023-04-24 |
 | [Diazepam](https://open.spotify.com/track/3oxADKwqZ04fNO9diMkBPA) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Diazepam](https://open.spotify.com/album/78Y3ftBNEZh5mBxae2SOFH) | 2:36 | 2021-12-20 | 2022-11-20 |
 | [Distress \- Radio Edit](https://open.spotify.com/track/63kHwwcvbylF6ERkBqPdl7) | [Pijn](https://open.spotify.com/artist/088AzItIc1cw6IsZWCyLvw) | [Distress](https://open.spotify.com/album/5bLEndlyQCpdrERgPFfQeg) | 4:27 | 2021-12-20 | 2022-03-04 |
-| [DIVINE DISINTEGRATION](https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W) | [ghostofblu](https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN) | [DIVINE DISINTEGRATION](https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR) | 2:08 | 2021-12-20 |  |
+| [DIVINE DISINTEGRATION](https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W) | [ghostofblu](https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN) | [DIVINE DISINTEGRATION](https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR) | 2:08 | 2021-12-20 | 2023-11-09 |
 | [DODGE A BULLET](https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC) | [Philip Solo](https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [DODGE A BULLET](https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M) | 2:46 | 2023-03-03 |  |
 | [DOMINATION](https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [DOMINATION](https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob) | 2:48 | 2021-12-20 |  |
 | [Don't Wait](https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [Don't Wait](https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO) | 2:08 | 2023-02-09 |  |

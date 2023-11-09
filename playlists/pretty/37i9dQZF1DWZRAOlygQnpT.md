@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,124 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,192 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 57 | [Con y por Amor](https://open.spotify.com/track/2LQU8M7e2SiI9lD172yvCU) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Idolos del Rock de los 60's: Enrique Guzman](https://open.spotify.com/album/2XuRoPnWFPk5r085lSLP5v) | 3:23 |
 | 58 | [Vete Con Ella \(Chappel of Love\)](https://open.spotify.com/track/57Uadt78FPP6JmC19JufWZ) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [La Fiebre del Rock and Roll](https://open.spotify.com/album/1dnS93Ynexd71S1Nogqn3l) | 2:53 |
 | 59 | [Leroy](https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:23 |
-| 60 | [Olvida](https://open.spotify.com/track/4oGoAbeCYFxQ6oXsNFnLEn) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Dieciseis Toneladas](https://open.spotify.com/album/65N5QOAYP8ZEZOMDoUnDh8) | 2:50 |
-| 61 | [Estremecete](https://open.spotify.com/track/3IgqJHPKQUI3hJou7tYDAp) | [Los Llopis](https://open.spotify.com/artist/35OEkYqpkHK4ZWBktloFnE) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 3:11 |
+| 60 | [Estremecete](https://open.spotify.com/track/3IgqJHPKQUI3hJou7tYDAp) | [Los Llopis](https://open.spotify.com/artist/35OEkYqpkHK4ZWBktloFnE) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 3:11 |
+| 61 | [Olvida](https://open.spotify.com/track/4oGoAbeCYFxQ6oXsNFnLEn) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Dieciseis Toneladas](https://open.spotify.com/album/65N5QOAYP8ZEZOMDoUnDh8) | 2:50 |
 | 62 | [Speedy González](https://open.spotify.com/track/1DhtNyT3rs89OSgcAgmeSZ) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock Con Manolo Muñoz, Vol\. 1](https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp) | 2:20 |
 | 63 | [Avientense Todos](https://open.spotify.com/track/59V9ZorlWoxEM6bUAqqtnx) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Pólvora](https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a) | 2:06 |
 | 64 | [Vuelve Primavera](https://open.spotify.com/track/1tYoZkGPkvHW9XmmweBd27) | [Los Blue Caps](https://open.spotify.com/artist/6rC7ojIyJ2a1zVcZevThcv) | [Buen Rock Esta Noche](https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz) | 2:30 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 74 | [Lanza a tus Penas al Viento](https://open.spotify.com/track/6pLn8A7mhFxegIwTSyNulg) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [20 Exitos Colleccion de Oro](https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A) | 3:18 |
 | 75 | [Adios A Jamaica \[Album Version\]](https://open.spotify.com/track/4k9kb8ykwYIlDX3Kvai0tX) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:14 |
 | 76 | [La Carrera del Oso](https://open.spotify.com/track/3cVUGijv6ROFeNjsyK8VJY) | [Los Sinners](https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:03 |
-| 77 | [Atras de la Raya](https://open.spotify.com/track/2RFdF7zbWTPPSJYnEVVoLZ) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5) | 2:22 |
-| 78 | [Vida](https://open.spotify.com/track/13OJJfM6e3Y3agHJYGUhSZ) | [Los Soñadores](https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:17 |
+| 77 | [Vida](https://open.spotify.com/track/13OJJfM6e3Y3agHJYGUhSZ) | [Los Soñadores](https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:17 |
+| 78 | [Atras de la Raya](https://open.spotify.com/track/2RFdF7zbWTPPSJYnEVVoLZ) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5) | 2:22 |
 | 79 | [Chica Ye Ye](https://open.spotify.com/track/6v8pDrOktzNFTpyM2nMIG9) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:14 |
 | 80 | [Magia Blanca \(Devil Woman\)](https://open.spotify.com/track/4nYQcuY0FLpmQiwrfKxhjs) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 3:24 |
 | 81 | [Yo No Que No Vivo Sin Ti](https://open.spotify.com/track/5qeBMOzLqMHdy3qN1KBlyC) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Exitos del Rock & Roll](https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J) | 3:10 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 84 | [Creo Estar Soñando](https://open.spotify.com/track/2Rte0v50YrZVasNMoU9Wxv) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [20 Exitos Colleccion de Oro](https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A) | 2:22 |
 | 85 | [La Novia De Mi Mejor Amigo](https://open.spotify.com/track/0fTQjEHnF5ixoyVHAup7As) | [Los Sinners](https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:48 |
 | 86 | [El Primer Beso](https://open.spotify.com/track/7dpZ4d47HlWfLUCyidiDKD) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boy's](https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh) | 2:42 |
-| 87 | [Señor Apache](https://open.spotify.com/track/0YF7BsotVDPT91Q1LpAWty) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5) | 4:43 |
-| 88 | [El Juego de Simon](https://open.spotify.com/track/6zviEOLUAWV9fRxPJBPWfu) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa) | 2:25 |
+| 87 | [El Juego de Simon](https://open.spotify.com/track/6zviEOLUAWV9fRxPJBPWfu) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa) | 2:25 |
+| 88 | [Señor Apache](https://open.spotify.com/track/0YF7BsotVDPT91Q1LpAWty) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5) | 4:43 |
 | 89 | [Dile Adios](https://open.spotify.com/track/4ydLUh2eqGDDgxBU4qquQK) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Exitos del Rock & Roll](https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J) | 2:17 |
 | 90 | [Corre Sanson Corre](https://open.spotify.com/track/66kD4Idn0Fva7IaavpoB5I) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP) | 2:22 |
 | 91 | [Tequila](https://open.spotify.com/track/552AXR7LxxOeAqtsNWHVjs) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:15 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 94 | [Por Eso Estamos Como Estamos](https://open.spotify.com/track/3SmJd4t4lu5Dn0LCuIcuWw) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5) | 3:30 |
 | 95 | [A Través De Los Años](https://open.spotify.com/track/6rqgDSZ4by55WFR7WrC8Xi) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:42 |
 | 96 | [Matilda](https://open.spotify.com/track/3ALSAAcAgp6gmWPnvPPRqH) | [Los Jokers](https://open.spotify.com/artist/2LklOiSHWX50yM3NVYF26Q) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:46 |
-| 97 | [Twist del Perro](https://open.spotify.com/track/2ywie6JDekOY3roCbQWxG0) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:19 |
-| 98 | [El Boogie de la Guitarra](https://open.spotify.com/track/7xBPsrdhuTa6R9lQlBVGzJ) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boy's](https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh) | 3:04 |
+| 97 | [El Boogie de la Guitarra](https://open.spotify.com/track/7xBPsrdhuTa6R9lQlBVGzJ) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boy's](https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh) | 3:04 |
+| 98 | [Twist del Perro](https://open.spotify.com/track/2ywie6JDekOY3roCbQWxG0) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:19 |
 | 99 | [Hanky Panky](https://open.spotify.com/track/3q57sljRO7snXYIsgaBgJT) | [Los Jockers](https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK) | [Rock, Puro Rock](https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE) | 2:52 |
 | 100 | [La Respuesta Está En El Viento](https://open.spotify.com/track/50NUNjnzD6sXh54NpMLujS) | [Vianey Valdez](https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 3:16 |
 
-Snapshot ID: `MCw0YjE4MjIyM2JjNTEwMTlhNDZlOWM1M2RmNDljMzA5YjgxMmU2NjMz`
+Snapshot ID: `MCwwZDZjN2VhMTMyODM5ZTYyNTE3YTg2ZDAyMzA5NmUwNGUwNTczODE2`

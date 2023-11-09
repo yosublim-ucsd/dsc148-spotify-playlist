@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,793 likes - 87 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,847 likes - 87 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 60 | [Doralice](https://open.spotify.com/track/2cDO2CnwjyXgKhgh6QcAaN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 2:44 |
 | 61 | [The Best Things In Life Are Free](https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 2:24 |
 | 62 | [I Remember You](https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Desafinado](https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4) | 3:59 |
-| 63 | [Is a Good Man Real?](https://open.spotify.com/track/2R99gxCR20nZCvnYL57Rxu) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 4:13 |
-| 64 | [What Game Shall We Play Today](https://open.spotify.com/track/0mC8MfVqQ1pHGKCdfhiHye) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Return To Forever](https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc) | 4:26 |
+| 63 | [What Game Shall We Play Today](https://open.spotify.com/track/0mC8MfVqQ1pHGKCdfhiHye) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Return To Forever](https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc) | 4:26 |
+| 64 | [Is a Good Man Real?](https://open.spotify.com/track/2R99gxCR20nZCvnYL57Rxu) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 4:13 |
 | 65 | [Woman's Got Soul](https://open.spotify.com/track/6EHJcbjjFtukS3aIwnynqM) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra](https://open.spotify.com/album/4tCP6ZGeKDOhlhtl1bcoVA) | 2:22 |
 | 66 | [Lady Bird](https://open.spotify.com/track/1mnd8k1NXdHuO4IBW54XaK) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker In Milan](https://open.spotify.com/album/799y7nYS7LqsZhwnU7C3Lz) | 4:44 |
 | 67 | [Stompin' At The Savoy](https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Brown And Roach Incorporated](https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql) | 6:27 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 86 | [Nice Work If You Can Get It \(2012 \- Remaster\)](https://open.spotify.com/track/2WMksdlzNvs5O8EdwFWw4b) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé Sings Fred Astaire \(2012 \- Remaster\)](https://open.spotify.com/album/01xKHe137Bs6g3HcBMjLD7) | 3:08 |
 | 87 | [Lulu's Back in Town \(2012 \- Remaster\)](https://open.spotify.com/track/5A433jPWMHyngbyBkyXDF6) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Dek\-tette](https://open.spotify.com/artist/3LKTSEL1dpa0iAUVZmikcr) | [Mel Tormé with The Marty Paich Dek\-Tette \(2012 \- Remaster\)](https://open.spotify.com/album/1DMGnIxnjzHaYVJ2KhrPZM) | 3:05 |
 
-Snapshot ID: `MCw2MzkyOWJkNWM5ZjlkNjY0NTMwYjc5ODY1Y2YwYzE2YmJlNTJiMzgw`
+Snapshot ID: `MCxkNWEwMzk4ZTI2YzE2YzAzNmNhMWI5Zjc1ZmVhM2UzYjdiYjA5ZjY1`

@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-919 songs - 2 day 0 hr 51 min
+921 songs - 2 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,6 +524,8 @@
 | [Momenta](https://open.spotify.com/track/1bmgQT91R4A3i7BZ6xZcXc) | [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4), [Lemay](https://open.spotify.com/artist/7zySlNgrPI1dWfMBIjTIKD) | [Momenta](https://open.spotify.com/album/7px9SMxsw9B7cxZ0XxZ8oC) | 2:57 | 2022-01-14 | 2022-09-15 |
 | [Monkey Vs Zookeeper](https://open.spotify.com/track/0AFzhFnYIcftHFxGm9CSAs) | [Mountkid](https://open.spotify.com/artist/5HIaWUt7K7zHFsUZDy5fvX) | [Monkey Vs Zookeeper](https://open.spotify.com/album/33A2H3S9dyQQl4SKuuKX1l) | 3:27 | 2022-09-23 | 2022-10-29 |
 | [MONTAGEM BATIDA CATIVANTE](https://open.spotify.com/track/0bDEkp4c1sGg8LpikNPlCI) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4), [nxtjvr](https://open.spotify.com/artist/62Ub8v044KkVnGx090irXv), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [MONTAGEM BATIDA CATIVANTE](https://open.spotify.com/album/3v8ffmJaEuFvAxYlPPWFn5) | 1:32 | 2023-09-01 | 2023-10-28 |
+| [MOOGTOPIA](https://open.spotify.com/track/2xStfjvbjUGfqu0IZJVy3z) | [Grav3](https://open.spotify.com/artist/7sBYmhltoznb752w7tli7e) | [MOOGTOPIA](https://open.spotify.com/album/2FGW5ppcSgCZ0kawkIUC31) | 2:28 | 2023-11-08 |  |
+| [MOOGTOPIA \- Instrumental](https://open.spotify.com/track/0CrYuSEjndTCPCB0PRw0M4) | [Grav3](https://open.spotify.com/artist/7sBYmhltoznb752w7tli7e) | [MOOGTOPIA \(Instrumental\)](https://open.spotify.com/album/2XQcKEDvB1p66FLp1GXKCK) | 2:25 | 2023-11-08 |  |
 | [Moonbeams](https://open.spotify.com/track/1bgoe4DClcoRvDapWU68CK) | [KRANE](https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Moonbeams](https://open.spotify.com/album/3klnFBO7TxwcQkzcuM5yVI) | 3:56 | 2022-01-14 | 2022-02-05 |
 | [mother, you made my life complete](https://open.spotify.com/track/3qEwztpLxQhnjUN2Scm6dQ) | [MEJKO](https://open.spotify.com/artist/4unbLEffqWDwtD3QZbxXPk) | [mother, you made my life complete](https://open.spotify.com/album/6q1vsrSQPswB9zNWTeLc6m) | 3:49 | 2022-07-21 | 2022-08-20 |
 | [Mountains](https://open.spotify.com/track/3OCP6NDxlpQhFfcKOeZl7r) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [ENROSA](https://open.spotify.com/artist/2GL4yQnMX0QY6dd9yRwDbj) | [Mountains](https://open.spotify.com/album/2ZvTo6EBXqaIct16IL4WDC) | 2:51 | 2022-03-04 | 2022-04-02 |

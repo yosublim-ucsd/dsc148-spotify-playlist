@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 
 > From House & Techno to the spheres of Pop\. This playlist features legendary tracks that have been produced on a TR\-909 drum machine\. Cover: Jeff Mills
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,812 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,861 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 21 | [Too Funky \- Single Edit](https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 3:44 |
 | 22 | [I feel for you \- Original](https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs elysées](https://open.spotify.com/album/7xRnsA4UR8FgkMOSsfnizs) | 5:50 |
 | 23 | [Clouds Across the Moon](https://open.spotify.com/track/1GT9jsKDk6osfnR5lWIUMD) | [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [Past, Present & Future](https://open.spotify.com/album/2YTvcCHkK2OeDJfC486AqA) | 4:45 |
-| 24 | [Show Me Love \- Extended Mix](https://open.spotify.com/track/7nmvwosdapB8Bro5uIM7n2) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 7:44 |
-| 25 | [The Bells](https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN) | [Jeff Mills](https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS) | [SIGHT SOUND AND SPACE](https://open.spotify.com/album/1FfGSThzZxeULHDWvkZZHb) | 4:45 |
+| 24 | [The Bells](https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN) | [Jeff Mills](https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS) | [SIGHT SOUND AND SPACE](https://open.spotify.com/album/1FfGSThzZxeULHDWvkZZHb) | 4:45 |
+| 25 | [Show Me Love \- Extended Mix](https://open.spotify.com/track/7nmvwosdapB8Bro5uIM7n2) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 7:44 |
 | 26 | [Go West \- 2003 Remaster](https://open.spotify.com/track/33gDIKlrUnY1dTWYsm5BFL) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [PopArt: The Hits](https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv) | 5:04 |
 | 27 | [Home](https://open.spotify.com/track/0UTXxfjK3aLg6YYZ7l6mZI) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Thug World Order](https://open.spotify.com/album/49MVSncbwoqaflc3rKkOXw) | 5:18 |
 | 28 | [The Whistle Song](https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Beyond The Mix](https://open.spotify.com/album/0DdX2VkXM0LmUU2S7S3QeD) | 6:57 |
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 38 | [Ego Trippin'](https://open.spotify.com/track/0WVqFNhP455QxcS1VhIWmo) | [Ultramagnetic MC's](https://open.spotify.com/artist/52ik8mwcuZ4ISphAkejj2Z) | [Critical Beatdown \(Re\-Issue\)](https://open.spotify.com/album/2nyDfMhGBwxbpfpyYtnBSJ) | 5:26 |
 | 39 | [Children \- Dream Version](https://open.spotify.com/track/1JfrKj59dl3rrpzShRf9If) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Dreamland](https://open.spotify.com/album/1XL0X5szAJw8vY9GrP2HUC) | 7:06 |
 | 40 | [Closer To God](https://open.spotify.com/track/5kXtr0OnI0xvaBSHRMPC1m) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral \(Deluxe Edition\)](https://open.spotify.com/album/5I7lLu8xXJfGRdFUqHaLQU) | 5:05 |
-| 41 | [Parade D'Amour](https://open.spotify.com/track/66PCrDlu6eD8isiBgD7Z1Z) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Garden Party](https://open.spotify.com/album/2hxBhd405LrdVwrUsRz3x8) | 3:31 |
-| 42 | [Jupiter Jazz](https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X) | [Galaxy 2 Galaxy](https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD) | [Galaxy 2 Galaxy: A High Tech Jazz Compilation](https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV) | 4:30 |
-| 43 | [Girls Ain't Nothing But Trouble \- 1988 Extended Remix](https://open.spotify.com/track/1b7tJQyJvzAcbDI8I3A2Bf) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Rock The House](https://open.spotify.com/album/52UtxXOfjs1RzOyS2TKYD8) | 4:49 |
-| 44 | [Away from Home \(Short\)](https://open.spotify.com/track/21MP97353RNyUzuSs08WMs) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [The Very Best of 1990\-1997](https://open.spotify.com/album/4leSmo4q6ozx8oSex3BwOd) | 3:18 |
+| 41 | [Away from Home \(Short\)](https://open.spotify.com/track/21MP97353RNyUzuSs08WMs) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [The Very Best of 1990\-1997](https://open.spotify.com/album/4leSmo4q6ozx8oSex3BwOd) | 3:18 |
+| 42 | [Parade D'Amour](https://open.spotify.com/track/66PCrDlu6eD8isiBgD7Z1Z) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Garden Party](https://open.spotify.com/album/2hxBhd405LrdVwrUsRz3x8) | 3:31 |
+| 43 | [Jupiter Jazz](https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X) | [Galaxy 2 Galaxy](https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD) | [Galaxy 2 Galaxy: A High Tech Jazz Compilation](https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV) | 4:30 |
+| 44 | [Girls Ain't Nothing But Trouble \- 1988 Extended Remix](https://open.spotify.com/track/1b7tJQyJvzAcbDI8I3A2Bf) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Rock The House](https://open.spotify.com/album/52UtxXOfjs1RzOyS2TKYD8) | 4:49 |
 | 45 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
 | 46 | [Tribute](https://open.spotify.com/track/3p7Ydiltj799Rx3JfjARxF) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Forevernevermore](https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36) | 6:01 |
 | 47 | [Agfachrome RSX II](https://open.spotify.com/track/7za2bHIESAb7RVIhQzwn6H) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [Colour Negatives](https://open.spotify.com/album/0Odwnjhcu9okjCZMq9sK1p) | 7:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 49 | [Sound 6](https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [I Have a Question](https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5) | 6:01 |
 | 50 | [How Do I Love Thee](https://open.spotify.com/track/0uSLYx29cGqeP7ukTkdzW9) | [Dream 2 Science](https://open.spotify.com/artist/3Vm0BsJPeOfMq4KG9jOfVN) | [Dream 2 Science EP](https://open.spotify.com/album/2CCzCRNFuIADW03OivaR3x) | 7:42 |
 
-Snapshot ID: `MCwzYjAyMmNhODM1ZDExMGE4MzllY2M5ODBlM2M5MjAzODQzZDRhZTdh`
+Snapshot ID: `MCw4ZTFkNjllZjUyY2IxZmY1YTQxNTY2ZDI0ZDQ5OWQ5YjMxMGM3YmE2`

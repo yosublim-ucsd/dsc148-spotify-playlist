@@ -1,12 +1,12 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 16602,
+  "num_followers": 16649,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OThhYTQ0YjQ4NGQwNmFjMjAzMTU4NjMzOTYyMWU3ZmJhMDYxMmYw",
+  "snapshot_id": "MCxhYjViZGIzM2M3NmNiMjhiZmQwZTk5NjU4NDAwOGI4YzFhMDM2MjNi",
   "tracks": [
     {
       "added_at": "2023-11-03 00:01:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
+        "name": "Only You - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "duration_ms": 166670,
+      "name": "Only You - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/0WENkwbQAil9puByD0fKZd"
       },
@@ -535,6 +551,22 @@
       "duration_ms": 168174,
       "name": "DND",
       "url": "https://open.spotify.com/track/0BVVrZ3UL7b3VU3jE234fr"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -559,38 +591,6 @@
       "duration_ms": 193515,
       "name": "In A Loop",
       "url": "https://open.spotify.com/track/4n1SykKn2Da29B4riTa41U"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168159,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
-        "name": "Only You - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk"
-      },
-      "artists": [
-        {
-          "name": "Karun",
-          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
-        }
-      ],
-      "duration_ms": 166670,
-      "name": "Only You - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "7 in the Morning",
-        "url": "https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7"
-      },
-      "artists": [
-        {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 214913,
-      "name": "7 in the Morning",
-      "url": "https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "Love & Trust",
         "url": "https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ"
       },
@@ -683,26 +663,6 @@
       "duration_ms": 165217,
       "name": "Love and Trust",
       "url": "https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
-        "name": "Love & Light",
-        "url": "https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 152241,
-      "name": "Don't Call Me Back",
-      "url": "https://open.spotify.com/track/4THTRhTTIcqJFTfjMGNqhv"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -731,6 +691,46 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
+        "name": "7 in the Morning",
+        "url": "https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7"
+      },
+      "artists": [
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 214913,
+      "name": "7 in the Morning",
+      "url": "https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "Love & Light",
+        "url": "https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 152241,
+      "name": "Don't Call Me Back",
+      "url": "https://open.spotify.com/track/4THTRhTTIcqJFTfjMGNqhv"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
         "name": "Compilation",
         "url": "https://open.spotify.com/album/5plKeEs2bHRz44nTFkByhg"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "No Closure",
-        "url": "https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 185997,
-      "name": "No Closure",
-      "url": "https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "How To Kill A Man",
         "url": "https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 174590,
       "name": "How To Kill A Man",
       "url": "https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "No Closure",
+        "url": "https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 185997,
+      "name": "No Closure",
+      "url": "https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink"
     },
     {
       "added_at": "2023-11-03 00:01:00",

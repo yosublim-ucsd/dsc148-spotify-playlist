@@ -4,10 +4,11 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-808 songs - 1 day 21 hr 41 min
+809 songs - 1 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/0kvD9ksvXyRHANPypIpkIh) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1HIbPX8Py9SHRzjMpSVqgk) | 0:00 | 2023-11-08 |  |
 | [](https://open.spotify.com/track/2eKY4TBKeXnUXMtSLj4R0n) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2cfDV7HO5hy7Gw4nHY3igS) | 2:31 | 2021-08-07 | 2021-08-16 |
 | [+ Q LA XUXA](https://open.spotify.com/track/16uLbwxv5QmVjueCO0mG50) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [+ Q LA XUXA](https://open.spotify.com/album/43kUFaRDroYvoGmD2ve1aN) | 2:40 | 2023-06-01 | 2023-09-30 |
 | [100 MILLONES](https://open.spotify.com/track/4Ixc50wY5pbUvNEogTQ2wL) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [100 MILLONES](https://open.spotify.com/album/5nqsQ0kfgdhrN8is8FR2rP) | 3:57 | 2021-05-30 | 2021-05-31 |
@@ -795,7 +796,7 @@
 | [X5](https://open.spotify.com/track/5Ocr2jOr3Qs5ncv4Fduvzk) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [X5](https://open.spotify.com/album/1R8bJ89ssIjfaf2nojNyXf) | 3:15 | 2023-05-30 | 2023-06-03 |
 | [XQ TAN SOLA?](https://open.spotify.com/track/42wzqKYpAInONWmT0FtiIj) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [GIRO 180](https://open.spotify.com/album/7EGR2zSMgUJDWWEvxT8bsJ) | 3:20 | 2023-09-09 |  |
 | [XQ TAN SOLA?](https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [XQ TAN SOLA?](https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE) | 3:20 | 2023-04-08 | 2023-09-10 |
-| [Ya No Pienso en Ti](https://open.spotify.com/track/0QEA14qLh7Cox2uBBzTgao) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Ya No Pienso en Ti](https://open.spotify.com/album/3uCNIIX7fUanAQc7b3jY3R) | 2:13 | 2023-11-07 |  |
+| [Ya No Pienso en Ti](https://open.spotify.com/track/0QEA14qLh7Cox2uBBzTgao) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Ya No Pienso en Ti](https://open.spotify.com/album/3uCNIIX7fUanAQc7b3jY3R) | 2:13 | 2023-11-07 | 2023-11-09 |
 | [Ya No Pienso en Ti](https://open.spotify.com/track/447CO62bX92cmh13R0DAnk) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Ya No Pienso en Ti](https://open.spotify.com/album/4dVfr03Qqi1gpp2di7naIf) | 2:13 | 2023-02-18 | 2023-11-08 |
 | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs) | 3:24 | 2023-06-26 | 2023-10-11 |
 | [YaMeFui](https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [YaMeFui](https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2) | 3:02 | 2021-07-31 | 2021-08-09 |

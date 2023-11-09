@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 
 > Take a deep breath and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,767 likes - 116 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,810 likes - 116 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 103 | [Healing](https://open.spotify.com/track/64U5PLgNrdaQtuKqquCWaQ) | [Jan Sandgreen](https://open.spotify.com/artist/6XeZHtclFhsvU54hfesohF) | [Healing](https://open.spotify.com/album/4Ad5hqfM5jXUtJArpJZX0w) | 2:59 |
 | 104 | [Petribungi](https://open.spotify.com/track/57kdkW0uoj8wZkKj6J6ucp) | [Numerorum mysteria](https://open.spotify.com/artist/3DAhwqtZw5k7ygr3JxFuKL) | [Petribungi](https://open.spotify.com/album/5QTxoUuOXKWxpeXbLKyRhP) | 3:36 |
 | 105 | [Dream about me](https://open.spotify.com/track/6L1sKb2kv74gPGUpjkybTO) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Dream about me](https://open.spotify.com/album/3XHxAXn40Nwlbjrg6rbRlK) | 2:58 |
-| 106 | [Kiedy anioły śpiewają](https://open.spotify.com/track/00B2qA7KX5pkJN0mriTeIw) | [Nadzieja Nowak](https://open.spotify.com/artist/4G7MZ9ZdNf8SwRZix5rFLx) | [Kiedy anioły śpiewają](https://open.spotify.com/album/6mi0Whx3iDPqGCniA5s2Uu) | 3:31 |
+| 106 | [Kiedy anioły śpiewają](https://open.spotify.com/track/00B2qA7KX5pkJN0mriTeIw) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Kiedy anioły śpiewają](https://open.spotify.com/album/6mi0Whx3iDPqGCniA5s2Uu) | 3:31 |
 | 107 | [Lifted](https://open.spotify.com/track/0CQwD2KxIfQUAGz4WChZZw) | [Baya Lakshmi](https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5) | [Book Of Calmness](https://open.spotify.com/album/3ozKH4TXGOKdRuldtnd3B4) | 3:56 |
 | 108 | [Binaural Rest](https://open.spotify.com/track/1wgXU7u4rGe7sBE2hBRLa7) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Binaural Dreamer](https://open.spotify.com/album/3CvxtluGSik0YCGeEtANJu) | 3:24 |
 | 109 | [One With You](https://open.spotify.com/track/6uFDXRgHLOWuzn8ulRJ2XW) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Relaxing Delta](https://open.spotify.com/album/5O8YZFDlUoxesk17FCIECn) | 3:43 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 115 | [infinity](https://open.spotify.com/track/6EMvtm8uRwnPU6nvTgMHV7) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [inner focus \(meditation\)](https://open.spotify.com/album/17UAPjFDSI5stoNdmqvLAn) | 2:55 |
 | 116 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 |
 
-Snapshot ID: `MCwwZGM5NDAyNmExY2Q0YTBlNGMxMmJiMGMzODJmZmUwY2YxOWUwNjVm`
+Snapshot ID: `MCxmNjQ4YTFkNzllNWY5MDE1MTQzYjRkOWU0NDAzOGY4MzcxODk2MWYy`

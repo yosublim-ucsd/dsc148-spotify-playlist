@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Sandrini 2830.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,751 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,760 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 31 | [Limpo](https://open.spotify.com/track/2Pi2xIYTBvZlte5MDQKERT) | [Caixa Cartão Collective](https://open.spotify.com/artist/58OjDxOOGxAHL8s2mxbLgk), [Maudito](https://open.spotify.com/artist/3gdY1A4a32KWBCrahsPYiR), [Rilha](https://open.spotify.com/artist/2qd9JIzESChvdBRKMjFmHJ), [UEST.](https://open.spotify.com/artist/08jDGXzqrspw6c1r73rTh5), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn), [Amon](https://open.spotify.com/artist/4rcZVLQCt6w0M4xvQkEhZx) | [Vol.3 \(Deluxe Edition\)](https://open.spotify.com/album/3VXuZ1TxvHUJiRLRpWToOg) | 3:08 |
 | 32 | [Vontades Íntimas](https://open.spotify.com/track/2zNdS0GZO7chP9GcGuv4cF) | [Salazar](https://open.spotify.com/artist/4SFAWGNyCh2hDscP7PH5M0) | [Vontades Íntimas](https://open.spotify.com/album/44C7DtJdsJK4v84Jf2yqZn) | 3:05 |
 | 33 | [Memorial](https://open.spotify.com/track/4LfmlcX9PaeEqO96Ds1RV8) | [Buster](https://open.spotify.com/artist/7eLPnjLxEaQYIAv4T6f5nc) | [Memorial](https://open.spotify.com/album/13aPfgSiqQ9AbCkmLhIqN5) | 3:35 |
-| 34 | [Alma](https://open.spotify.com/track/3caAuG3pqIwSr3yr2SDXjD) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U) | [Alma](https://open.spotify.com/album/5HbYunCblMt5pW5KUUxkMp) | 2:48 |
+| 34 | [Alma](https://open.spotify.com/track/3rX9KvRYL1PQtbne79nnZd) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U) | [Alma](https://open.spotify.com/album/0iMqeFAka3DpLtRBBnc431) | 2:48 |
 | 35 | [Fala a sério](https://open.spotify.com/track/2EJnIQjPcrolY3ICA8Tefo) | [Divi](https://open.spotify.com/artist/5cSJHazvd6mT7yHlyeSrQ2) | [Fala a sério](https://open.spotify.com/album/5MEqfsjNgFyHQV3wZ9MBeE) | 2:30 |
 | 36 | [Cabeça Na Gelo](https://open.spotify.com/track/4pdBYf5j0N76yLsoUbkNjT) | [Real GUNS](https://open.spotify.com/artist/3DNrmBolKZNsx5UHwJCLnT), [Osémio Boémio](https://open.spotify.com/artist/1ESj85JsWWKJuWrYo1eJfx) | [S.C.M\. \(Street Culture Music\)](https://open.spotify.com/album/39nSa7i1mVNwQ9NhahkDlm) | 2:22 |
 | 37 | [PT x FR](https://open.spotify.com/track/5IMX0esF2bpTNMIUE2P3ED) | [Nico La Famy](https://open.spotify.com/artist/6OiYd1OPsZnLedI7cdmX6O), [LEVELSANTANA](https://open.spotify.com/artist/4KwWARbWitQT4aqpS23w9O), [Sepa 200n](https://open.spotify.com/artist/5BDqiopMPudXtLynwCyO64), [Ricaasszz 200n](https://open.spotify.com/artist/5Qn3fS2W8U6EUogRHnHUAu) | [PT x FR](https://open.spotify.com/album/4224TexeT8OWR6b6Y9yFFM) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [Miami](https://open.spotify.com/track/76pmiSAa2Lzx9LJi1AqytS) | [Sali](https://open.spotify.com/artist/6b2j8sTUYQJ8fiEXgrIoLb) | [Miami](https://open.spotify.com/album/5qXGhlIF5j32Vo4SuYBOy2) | 2:34 |
 | 100 | [Flores \(feat\. Fred Mineiro\)](https://open.spotify.com/track/18fRGty4s8QQSKxVrvOVUs) | [Kappa Young](https://open.spotify.com/artist/7BjaRn4pph6TUOZ33JfiDG), [Fred Mineiro](https://open.spotify.com/artist/1jtX2PZFt5F9F9bjZwLQDS) | [Flores \(feat\. Fred Mineiro\)](https://open.spotify.com/album/01XAxuMmJgrR74yZZBhERv) | 3:15 |
 
-Snapshot ID: `MCw2ZDhhMGU3OTVkNmQwMjU0OTZjOWFiMDZlNTJiNmVjYTAxYTNhODE0`
+Snapshot ID: `MCw3YjE0NmY3MTU3ZDVjMWIyMWRjY2IyMzZmMGIzYjBmYWIwODUwZDVi`

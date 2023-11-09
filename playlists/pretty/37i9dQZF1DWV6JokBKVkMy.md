@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,040 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,049 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 27 | [La Route Karanbol](https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2) | [Jason Lejuste](https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7) | [La Route Karanbol](https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6) | 4:47 |
 | 28 | [Sa Pa Zot Traka](https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL) | [Lin](https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN) | [Sa Pa Zot Traka](https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H) | 4:45 |
 | 29 | [Viré](https://open.spotify.com/track/20U9P7HP7tPzVMaqYjY0h3) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1), [Le Groupe Ravanna](https://open.spotify.com/artist/50X4qPAQVtwQGQju0NFmk3) | [Main dans la main](https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv) | 5:04 |
-| 30 | [Bhai Aboo](https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw) | [Claudio](https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT) | [Soul Sok Séga](https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f) | 4:21 |
-| 31 | [Mario](https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ) | [IVANN](https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm), [Bomboclak](https://open.spotify.com/artist/3XttXqwftYJosFdH5pNcVf), [Frank J](https://open.spotify.com/artist/7vf2a26PIY6jHSkriioJrT) | [Mario](https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv) | 3:50 |
+| 30 | [Mario](https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ) | [IVANN](https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm), [Bomboclak](https://open.spotify.com/artist/3XttXqwftYJosFdH5pNcVf), [Frank J](https://open.spotify.com/artist/7vf2a26PIY6jHSkriioJrT) | [Mario](https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv) | 3:50 |
+| 31 | [Bhai Aboo](https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw) | [Claudio](https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT) | [Soul Sok Séga](https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f) | 4:21 |
 | 32 | [Ti lipié fer rozet](https://open.spotify.com/track/31pGdVTn8adJ9FV2515Lkd) | [JSB Morning Game](https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7), [Julien Verloppe](https://open.spotify.com/artist/40ld1lEZz0y0r3cHngak60) | [Zalouzi](https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK) | 4:10 |
 | 33 | [Atrap Mo lame](https://open.spotify.com/track/1s2wYId2KCCnytXzgDMVWS) | [MR LOVE](https://open.spotify.com/artist/2vQzCnVISITDwQgyIsg6RL), [Désiré François](https://open.spotify.com/artist/5mIOt0E1ya9g3Veq3VU0S8) | [Love Ambassador](https://open.spotify.com/album/6n5gNprPy0D1rHWbWWeq0b) | 4:43 |
 | 34 | [Ma demand aou pardon](https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W) | [Morgan](https://open.spotify.com/artist/6YS1MAWIyEw8lWZb2hfN3d) | [Sort' dovan \(La compil\)](https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0) | 4:45 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 36 | [Fiesta Ravanna](https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1) | [Fiesta Ravanna](https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ) | 4:25 |
 | 37 | [Séga Li Lao](https://open.spotify.com/track/4d24yIdgzXxr9MrV4sCoBo) | [Valo](https://open.spotify.com/artist/6jCKvZ3AkM4jHLlSbS2s3o) | [Séga Li Lao](https://open.spotify.com/album/12pEc0RP8s9BTtYW7mY1WX) | 4:39 |
 | 38 | [Eliza](https://open.spotify.com/track/15fYq0hQa3jljdJpYKm1X3) | [Christopher Warren Permal](https://open.spotify.com/artist/1Pg7v37Gg31eCaI93ym1ry) | [Eliza](https://open.spotify.com/album/5xUYCT6hrnMS2o2G6PUrOp) | 5:08 |
-| 39 | [Vandredi Sen](https://open.spotify.com/track/50I00m6vPtp372eCRKJ7ZB) | [Jean\-Marc Volcy](https://open.spotify.com/artist/5wLnu3r3e2M86e58aFW2Ot), [Jany Letourdi](https://open.spotify.com/artist/2UavPhDBdrlSVwUyZP4GJ3) | [The Best of Jean\-Marc Volcy](https://open.spotify.com/album/7E3SJyFvagSztOt0RxFcMh) | 4:38 |
+| 39 | [Séga Jacquot](https://open.spotify.com/track/4BjTvikquZufEHDjxJMBxm) | [Luc Donat](https://open.spotify.com/artist/6L1SxgKXrIel5yitflGBxm) | [Le Roi du séga](https://open.spotify.com/album/5yIOf6ROItIpkpc8f5Uo9h) | 3:12 |
 | 40 | [Madame ohh](https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf) | [JSB Morning Game](https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7) | [Zalouzi](https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK) | 4:41 |
-| 41 | [Séga Jacquot](https://open.spotify.com/track/4BjTvikquZufEHDjxJMBxm) | [Luc Donat](https://open.spotify.com/artist/6L1SxgKXrIel5yitflGBxm) | [Le Roi du séga](https://open.spotify.com/album/5yIOf6ROItIpkpc8f5Uo9h) | 3:12 |
-| 42 | [Sega Champagne](https://open.spotify.com/track/1e2rj3iOYXGEJ6Ybftt5Uc) | [Dj sebak](https://open.spotify.com/artist/2UuZrG6o0LIr6DHfRmaCaW), [Allkind](https://open.spotify.com/artist/4wwdxuQPc2GPHX7floaX97) | [Sega Champagne](https://open.spotify.com/album/3Cml3TVka9BZIw3Rz6st5Q) | 3:51 |
-| 43 | [Granper Sorti Diego](https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya) | [ZENFAN LAKAZ TOL](https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR) | 5:01 |
+| 41 | [Vandredi Sen](https://open.spotify.com/track/50I00m6vPtp372eCRKJ7ZB) | [Jean\-Marc Volcy](https://open.spotify.com/artist/5wLnu3r3e2M86e58aFW2Ot), [Jany Letourdi](https://open.spotify.com/artist/2UavPhDBdrlSVwUyZP4GJ3) | [The Best of Jean\-Marc Volcy](https://open.spotify.com/album/7E3SJyFvagSztOt0RxFcMh) | 4:38 |
+| 42 | [Granper Sorti Diego](https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya) | [ZENFAN LAKAZ TOL](https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR) | 5:01 |
+| 43 | [Sega Champagne](https://open.spotify.com/track/1e2rj3iOYXGEJ6Ybftt5Uc) | [Dj sebak](https://open.spotify.com/artist/2UuZrG6o0LIr6DHfRmaCaW), [Allkind](https://open.spotify.com/artist/4wwdxuQPc2GPHX7floaX97) | [Sega Champagne](https://open.spotify.com/album/3Cml3TVka9BZIw3Rz6st5Q) | 3:51 |
 | 44 | [SA FAM LA](https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6) | [Demaiko](https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD) | [SA FAM LA](https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb) | 3:35 |
 | 45 | [Mo ti poule](https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P) | [B.I.G](https://open.spotify.com/artist/4D3nkiM1EzSlazZIsUhebu) | [Coulèr Mélanzé](https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB) | 4:22 |
 | 46 | [To Kontan Koze](https://open.spotify.com/track/1kJAI7Qd3v25lsfHWr5Lxr) | [Zotsa](https://open.spotify.com/artist/0vkxsGGUsyNJBxLQcavGr8) | [Revival](https://open.spotify.com/album/0BUWn7vu3qy8aaq3pyhqpd) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 49 | [Touletemp \(feat\. Sista Queen\)](https://open.spotify.com/track/1fx4MLYw7whk15f4dvhqpX) | [Jah Mike](https://open.spotify.com/artist/5feVIF1cBHjeTWCFFVivoH), [Sista Queen](https://open.spotify.com/artist/7cI26ISQuWm0h8rlYL1so8) | [Enn lot kouler](https://open.spotify.com/album/3j1W3VSJEYDOJIK4V8RQok) | 3:57 |
 | 50 | [Medley: créole comme l'espagnol / Séga charlot](https://open.spotify.com/track/2DwjoEPD7o6fibRYnd4Zyd) | [Narmine Ducap](https://open.spotify.com/artist/5Y9cLaiuHNHVI6cXDcBpbC) | [Crazé salle verte](https://open.spotify.com/album/3u7u5R4RCYrLbQSmUuoFKK) | 3:35 |
 
-Snapshot ID: `MCw0OGFmNTIxNDRjNzE4OGU1MzdhODI5OTZmZDQ5ZGM4N2MxNmQ3Yzc5`
+Snapshot ID: `MCw4YjFiNmIxNDQ4MGFlODc0OTFmZGQwNGJlMDA2ZTdmYTcxNDdlYWJh`

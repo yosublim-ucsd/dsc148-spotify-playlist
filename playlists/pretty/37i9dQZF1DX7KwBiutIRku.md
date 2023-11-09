@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,130 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,217 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 49 | [Rockout, Whatever You Feel Like](https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx) | [Cactus](https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj) | [One Way...Or Another](https://open.spotify.com/album/1enFOK5mMWdC4VQoO4H9Ly) | 4:00 |
 | 50 | [Midnight To Six Man](https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Get The Picture?](https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E) | 2:19 |
 
-Snapshot ID: `MCwxNTBiODJmZjdiMDdjNjA2YmUyMTFiMjFlZGQ3ZmY1NzUzOTNlZmIz`
+Snapshot ID: `MCw1Y2VlMzhlNWYxZTg0YjFlMDVjZDAzNDViNTc4YzA2MjU4OWM1YTAw`

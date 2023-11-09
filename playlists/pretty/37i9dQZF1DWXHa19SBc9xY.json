@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 81016,
+  "num_followers": 81094,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTdmNTI2NzcwZDY3YjUwY2RmZTVmMjM1YWI3NWVlMmVmNTk0NGQ2",
+  "snapshot_id": "MCw4ZTQxNWE2N2IzM2Y3YmEzMTI0NTg1ZjQwNmY0MGZhODM3NWEzMTUw",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Andar Leve",
         "url": "https://open.spotify.com/album/5lSm4daHxqP9Ktfkbvic3f"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 165408,
       "name": "Andar Leve",
       "url": "https://open.spotify.com/track/1k7JIu0DZnqZLFdyAX5M8Q"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Tudo Que Eu Quero",
-        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 122870,
-      "name": "Tudo Que Eu Quero",
-      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -295,6 +295,30 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Te Vi Na Rua",
+        "url": "https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "RDD",
+          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
+        }
+      ],
+      "duration_ms": 174310,
+      "name": "Te Vi Na Rua",
+      "url": "https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "15b",
         "url": "https://open.spotify.com/album/0ZhVogkbSisiDQ5DMfNsRc"
       },
@@ -347,30 +371,6 @@
       "duration_ms": 148965,
       "name": "Oceana",
       "url": "https://open.spotify.com/track/41F3OUGWKcsdIn1ujcx5hN"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Te Vi Na Rua",
-        "url": "https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "RDD",
-          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
-        }
-      ],
-      "duration_ms": 174310,
-      "name": "Te Vi Na Rua",
-      "url": "https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -431,6 +431,22 @@
       "duration_ms": 206511,
       "name": "Bateu",
       "url": "https://open.spotify.com/track/0p6hzDZGqSC86vjGF5VhEK"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Farol das Estrelas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "Farol das Estrelas - Ao Vivo",
+      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -511,22 +527,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Farol das Estrelas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Farol das Estrelas - Ao Vivo",
-      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "C\u00e9u Ros\u00e9",
         "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Beleza Rara",
-        "url": "https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 205411,
-      "name": "Beleza Rara",
-      "url": "https://open.spotify.com/track/5QELf6GWQ6hMURJhpYUNth"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/2aoZn4WaR7tmFKHb40p7Xw"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 238253,
       "name": "Minha Menina Bonita",
       "url": "https://open.spotify.com/track/1f2WAWsmxx6JKrKTBO46UU"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Beleza Rara",
+        "url": "https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 205411,
+      "name": "Beleza Rara",
+      "url": "https://open.spotify.com/track/5QELf6GWQ6hMURJhpYUNth"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -595,26 +595,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH"
-      },
-      "artists": [
-        {
-          "name": "Becca Perret",
-          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
-        },
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
-        }
-      ],
-      "duration_ms": 188210,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Bloco Do Silva #2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 235640,
       "name": "Sozinho - Ao Vivo",
       "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH"
+      },
+      "artists": [
+        {
+          "name": "Becca Perret",
+          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
+        },
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        }
+      ],
+      "duration_ms": 188210,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Praia do Flamengo",
+        "url": "https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9"
+      },
+      "artists": [
+        {
+          "name": "Rafael Pond\u00e9",
+          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
+        }
+      ],
+      "duration_ms": 271728,
+      "name": "Praia do Flamengo",
+      "url": "https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 233320,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Praia do Flamengo",
-        "url": "https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9"
-      },
-      "artists": [
-        {
-          "name": "Rafael Pond\u00e9",
-          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
-        }
-      ],
-      "duration_ms": 271728,
-      "name": "Praia do Flamengo",
-      "url": "https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV"
     },
     {
       "added_at": "2023-10-20 03:00:00",

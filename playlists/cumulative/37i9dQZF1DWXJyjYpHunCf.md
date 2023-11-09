@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: David Kushner
 
-322 songs - 18 hr 33 min
+323 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bad Blood](https://open.spotify.com/track/0TDji9s4SDqN0CldK1bBU1) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Bad Blood](https://open.spotify.com/album/1UGw8OmeHw7FbiOEekbGlz) | 2:45 | 2023-03-31 |  |
 | [Be Here Now](https://open.spotify.com/track/1ZEEd0xgeZIW82fuzmJfJ2) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [The Art of Letting Go](https://open.spotify.com/album/449CV10TloVGhBv9NfwFTD) | 3:00 | 2023-03-24 | 2023-04-24 |
 | [Being Together](https://open.spotify.com/track/75VX0bpv1hmUMvnGc3nQc4) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Being Together](https://open.spotify.com/album/3dek4SEQdJcTu9HHS6lw5E) | 3:28 | 2021-11-12 | 2022-07-27 |
-| [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-11-12 |  |
+| [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-11-12 | 2023-11-09 |
 | [Better Days](https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:18 | 2023-06-16 |  |
 | [Better Days](https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 | 2022-10-14 | 2023-06-19 |
 | [Better Days](https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ) | 3:18 | 2021-11-12 | 2022-07-29 |
@@ -204,6 +204,7 @@
 | [Midnight Man](https://open.spotify.com/track/5HyUsFzJ06qWYKW54KGw97) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Midnight Man](https://open.spotify.com/album/5Xhlkgcl7indPnmlVpQR12) | 3:09 | 2022-03-12 | 2022-07-21 |
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-03-12 |  |
 | [Misnomer](https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Misnomer](https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m) | 3:42 | 2021-11-12 | 2023-10-22 |
+| [Misnomer](https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:43 | 2023-10-27 |  |
 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2021-11-12 |  |
 | [Mom & Dad](https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Mom & Dad](https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn) | 3:23 | 2023-07-21 |  |
 | [Momentum](https://open.spotify.com/track/5EatYjkKnohEHke2G5VKhL) | [Blake Ruby](https://open.spotify.com/artist/6t2qGTjfjde2jbklcpoF3Z) | [Momentum](https://open.spotify.com/album/5f06ywJzKO1RLnojyQ1Vij) | 3:42 | 2021-11-12 | 2022-07-25 |

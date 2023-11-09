@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 179204,
       "name": "A Different View",
       "url": "https://open.spotify.com/track/15rMAd95cySgR8jgLgrlXI"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 180426,
       "name": "A Matter Of Fact",
       "url": "https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 166314,
       "name": "Big Pharma",
       "url": "https://open.spotify.com/track/5hOTXKQ9OqbS8haaVjHyzq"
@@ -3189,6 +3189,24 @@
     },
     {
       "album": {
+        "name": "Dumb Guitar",
+        "url": "https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310865,
+      "name": "Dumb Guitar",
+      "url": "https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL"
+    },
+    {
+      "album": {
         "name": "Pink Colour Surgery",
         "url": "https://open.spotify.com/album/29RJkx2Sg92aG5S0oSHtvK"
       },
@@ -3821,6 +3839,24 @@
     },
     {
       "album": {
+        "name": "Faux Maux",
+        "url": "https://open.spotify.com/album/5bVm4rxcUdpgISrR49GgpE"
+      },
+      "artists": [
+        {
+          "name": "Faux Real",
+          "url": "https://open.spotify.com/artist/0853SMh8o0PpHpSTDHttsO"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201849,
+      "name": "Faux Maux",
+      "url": "https://open.spotify.com/track/3eYvDfmIt8JtzSMY5CbDrO"
+    },
+    {
+      "album": {
         "name": "Feel Another Day",
         "url": "https://open.spotify.com/album/7HxBXjkzwT4hhb8THINZXA"
       },
@@ -4340,7 +4376,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 219885,
       "name": "Gem & I",
       "url": "https://open.spotify.com/track/5cOaDhLJ6dGnIMAFeHsjT5"
@@ -4696,6 +4732,28 @@
       "duration_ms": 246418,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0n3UoAO5294hETx9TZKQWS"
+    },
+    {
+      "album": {
+        "name": "I<3UQTINVU",
+        "url": "https://open.spotify.com/album/6dBMy5XXlOdEvj59IJC1WH"
+      },
+      "artists": [
+        {
+          "name": "Jockstrap",
+          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
+        },
+        {
+          "name": "Taylor Skye",
+          "url": "https://open.spotify.com/artist/4fsQyHWKED0KhPzgQBPWh2"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242362,
+      "name": "Good Girl - Taylor Skye Remix",
+      "url": "https://open.spotify.com/track/7eCyu8EKSTT7GaXI9IVHrF"
     },
     {
       "album": {
@@ -5089,6 +5147,24 @@
     },
     {
       "album": {
+        "name": "His Masterpiece",
+        "url": "https://open.spotify.com/album/7wucPbrkVZaNLMoqGFLnIa"
+      },
+      "artists": [
+        {
+          "name": "Skydaddy",
+          "url": "https://open.spotify.com/artist/3D0kSdrilgR4uCW5smIzEX"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271960,
+      "name": "His Masterpiece",
+      "url": "https://open.spotify.com/track/1xjEv7WTVnOVmsVUZeZGwA"
+    },
+    {
+      "album": {
         "name": "History Lesson Part 2",
         "url": "https://open.spotify.com/album/7AURzANDD0wbB1oJvUNXUG"
       },
@@ -5180,7 +5256,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 497700,
       "name": "Honey",
       "url": "https://open.spotify.com/track/23TezQfQxpnVEF43es0h1g"
@@ -5824,7 +5900,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 357865,
       "name": "In \u00e1r gCro\u00edthe go deo - Orbital Remix",
       "url": "https://open.spotify.com/track/5L5tWCgiaZdc3w1xUclhcR"
@@ -6648,10 +6724,36 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 258124,
       "name": "Letter",
       "url": "https://open.spotify.com/track/12lBhmDn6WbAucSgzbOOhb"
+    },
+    {
+      "album": {
+        "name": "Rye Lane (Original Score)",
+        "url": "https://open.spotify.com/album/2a7sbyp6zoxjTOcTXeg1pi"
+      },
+      "artists": [
+        {
+          "name": "kwes.",
+          "url": "https://open.spotify.com/artist/2vvaBnZLZh65JFyWp67Mhn"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "LGOYH - Let Go Of Your Hurt",
+      "url": "https://open.spotify.com/track/6VXaYZdg5lVthukdAx0uBk"
     },
     {
       "album": {
@@ -7772,7 +7874,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 179562,
       "name": "my little tony",
       "url": "https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo"
@@ -8644,7 +8746,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 214575,
       "name": "Palace In My Head",
       "url": "https://open.spotify.com/track/3XXUa6zYeJ7l53goVtH73x"
@@ -9700,7 +9802,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 191026,
       "name": "Sex and Money",
       "url": "https://open.spotify.com/track/3Vfvm2GvMd2jtZukXczWkr"
@@ -10236,6 +10338,24 @@
       "duration_ms": 344318,
       "name": "Soul Capturer - Single Version",
       "url": "https://open.spotify.com/track/2cr3V8opJ5RYiWnlJE3Al3"
+    },
+    {
+      "album": {
+        "name": "The Twits",
+        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193565,
+      "name": "sounds like you had to be there",
+      "url": "https://open.spotify.com/track/6PLqlfCATfJwX0Q2m6DugZ"
     },
     {
       "album": {
@@ -11062,6 +11182,24 @@
       "duration_ms": 269195,
       "name": "The Love Song",
       "url": "https://open.spotify.com/track/5nBzXJfSqVtPKr5rRocFrZ"
+    },
+    {
+      "album": {
+        "name": "The Main Thing",
+        "url": "https://open.spotify.com/album/5VDdRQdLibcyNdXjc5Dtkz"
+      },
+      "artists": [
+        {
+          "name": "Ducks Ltd.",
+          "url": "https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "The Main Thing",
+      "url": "https://open.spotify.com/track/6bsVnmyNlehbQvLX5xBuDR"
     },
     {
       "album": {
@@ -12340,7 +12478,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 219000,
       "name": "Wax",
       "url": "https://open.spotify.com/track/45MtG2vD5sc6imxYK6QLSt"
@@ -12710,6 +12848,24 @@
       "duration_ms": 219600,
       "name": "Working it out",
       "url": "https://open.spotify.com/track/4v5uz9BbHyIWorKp7vSuu2"
+    },
+    {
+      "album": {
+        "name": "On The Turning Ground",
+        "url": "https://open.spotify.com/album/7GAK47rAg2VuMb47HOXdK2"
+      },
+      "artists": [
+        {
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239821,
+      "name": "World in Delay",
+      "url": "https://open.spotify.com/track/4jB4C0bYItsut5gcXiqzuo"
     },
     {
       "album": {

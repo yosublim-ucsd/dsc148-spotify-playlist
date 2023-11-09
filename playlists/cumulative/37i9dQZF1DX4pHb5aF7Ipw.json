@@ -291,6 +291,28 @@
     },
     {
       "album": {
+        "name": "MTV Hustle 03 Represent Episode 6",
+        "url": "https://open.spotify.com/album/1IbAnKLZjXigERXiukqkiq"
+      },
+      "artists": [
+        {
+          "name": "Bob.B Randhawa",
+          "url": "https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC"
+        },
+        {
+          "name": "Anurag Saikia",
+          "url": "https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211153,
+      "name": "Chhalla",
+      "url": "https://open.spotify.com/track/449kMnMfoDIy55ELNelpWJ"
+    },
+    {
+      "album": {
         "name": "Clutch Baliye",
         "url": "https://open.spotify.com/album/2a7G4hLUBoE9vnPOBeyb4C"
       },
@@ -412,7 +434,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 223125,
       "name": "Dil vich chor",
       "url": "https://open.spotify.com/track/3SEjQj4ctOmLysGtlmCTUP"

@@ -552,7 +552,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 144065,
       "name": "Baddest Boy - Remix",
       "url": "https://open.spotify.com/track/4lDghGd035xrzGp6Yec2j1"
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 169411,
       "name": "Damages",
       "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
@@ -1190,6 +1190,42 @@
       "duration_ms": 168048,
       "name": "DND",
       "url": "https://open.spotify.com/track/24RnCHp1JaRJAANJXAZCPu"
+    },
+    {
+      "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS"
+    },
+    {
+      "album": {
+        "name": "Do I",
+        "url": "https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155044,
+      "name": "Do I",
+      "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
     },
     {
       "album": {
@@ -2801,6 +2837,24 @@
     },
     {
       "album": {
+        "name": "Lowkey!",
+        "url": "https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213710,
+      "name": "Lowkey!",
+      "url": "https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y"
+    },
+    {
+      "album": {
         "name": "Loyalty",
         "url": "https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL"
       },
@@ -3002,7 +3056,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 160770,
       "name": "My G",
       "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
@@ -3240,7 +3294,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 188372,
       "name": "NSV",
       "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
@@ -4774,7 +4828,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 169911,
       "name": "UNAVAILABLE (feat. Musa Keys)",
       "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,748 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,860 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 50 | [The Darker Hours](https://open.spotify.com/track/0OF3sk5xugBzmJnE20Pm3U) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [The Darker Hours](https://open.spotify.com/album/2tgnfOPTnXWqRgwiTxwgtT) | 2:59 |
 | 51 | [Pitter Patter](https://open.spotify.com/track/7JHGHOEQA2xhiraQESNSyu) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Pitter Patter](https://open.spotify.com/album/6vroyHfRe7dytL34m4yatE) | 2:42 |
 | 52 | [Pentode](https://open.spotify.com/track/3R3XZJ6HPrGIuBXdHehp9W) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Pentode](https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A) | 2:39 |
-| 53 | [Morning on a STHLM Island](https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr) | [The Gustaf](https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2) | [Morning on a STHLM Island](https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU) | 2:48 |
-| 54 | [Raðljóst](https://open.spotify.com/track/5J617lX3koBmpHLZjgRmmB) | [Kolbrun Stiger](https://open.spotify.com/artist/3SCgJVq21LTIQ922B7hCHT) | [Raðljóst](https://open.spotify.com/album/2tjRIDpABNLXdgdCUoN8xa) | 2:15 |
+| 53 | [Raðljóst](https://open.spotify.com/track/5J617lX3koBmpHLZjgRmmB) | [Kolbrun Stiger](https://open.spotify.com/artist/3SCgJVq21LTIQ922B7hCHT) | [Raðljóst](https://open.spotify.com/album/2tjRIDpABNLXdgdCUoN8xa) | 2:15 |
+| 54 | [Morning on a STHLM Island](https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr) | [The Gustaf](https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2) | [Morning on a STHLM Island](https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU) | 2:48 |
 | 55 | [New Lakes](https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Beautiful Walk](https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr) | 2:45 |
 | 56 | [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 |
 | 57 | [Rays of Sunshine](https://open.spotify.com/track/44mxjw5BP9Oj9pJBOZmLUV) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:32 |
@@ -71,22 +71,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 61 | [Returning Home](https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Returning Home](https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L) | 2:28 |
 | 62 | [Grave](https://open.spotify.com/track/4GiPnXSuZCJbnxrZBvRW41) | [Rudhek Caren](https://open.spotify.com/artist/1MGdzDdzcoWcMmC7MvjqME) | [Grave](https://open.spotify.com/album/7qj6wjs7Fm5WQjxIE9nN9W) | 2:54 |
 | 63 | [By The Window](https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [By The Window](https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ) | 2:30 |
-| 64 | [Safety Blanket](https://open.spotify.com/track/3MRIF4BQ3Oq6T84mGZxkLe) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 3:18 |
-| 65 | [Morning Sun](https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Morning Sun](https://open.spotify.com/album/6FqfV83YLshjsM6BUkDBXj) | 2:47 |
-| 66 | [Song from the meadow](https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 2:15 |
+| 64 | [Morning Sun](https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Morning Sun](https://open.spotify.com/album/6FqfV83YLshjsM6BUkDBXj) | 2:47 |
+| 65 | [Safety Blanket](https://open.spotify.com/track/3MRIF4BQ3Oq6T84mGZxkLe) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 3:18 |
+| 66 | [Dasikó Planktón](https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Dasikó Planktón](https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu) | 3:30 |
 | 67 | [The Long Way Home](https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:49 |
 | 68 | [Bayou](https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:39 |
-| 69 | [Dasikó Planktón](https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Dasikó Planktón](https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu) | 3:30 |
+| 69 | [Song from the meadow](https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 2:15 |
 | 70 | [Softly Now](https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Softly Now](https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ) | 2:28 |
 | 71 | [Noche De Otoño](https://open.spotify.com/track/4BiQv316kzweNWOmAxGFor) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Noche De Otoño](https://open.spotify.com/album/7HymvpDTrtr4XV6KHKArRO) | 3:25 |
 | 72 | [April Showers](https://open.spotify.com/track/7qh6Nig18nVfgX8yFnEJAi) | [Milton Laines](https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu) | [The Perfect Morning](https://open.spotify.com/album/0FFTxou2PMl9sDPcxopeCB) | 2:48 |
 | 73 | [On the Cottage Floor](https://open.spotify.com/track/0yjeRqDkfvT9iMXusDp7dq) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [A Cottage in a Storm](https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1) | 2:46 |
 | 74 | [Song Of The Willow](https://open.spotify.com/track/2qauTYzfcc16QprcwV8put) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Song Of The Willow](https://open.spotify.com/album/4grcPo21FAY8jbe6y3JMk5) | 2:18 |
-| 75 | [Juncture](https://open.spotify.com/track/5kBWSTxxpQHjh2p49YM4xq) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Juncture](https://open.spotify.com/album/7sRgPqeByeoKnByrxzz5l8) | 2:22 |
-| 76 | [Above all](https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L) | [Henrietta Patrick](https://open.spotify.com/artist/4dCZm6THef8wb8x4VwrSO0) | [Above all](https://open.spotify.com/album/2SndImMqTgOaikElBmLHQP) | 2:24 |
-| 77 | [Solitude](https://open.spotify.com/track/3UcE5BE9BZwNhBvIOF3Ty8) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 3:06 |
+| 75 | [Above all](https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L) | [Henrietta Patrick](https://open.spotify.com/artist/4dCZm6THef8wb8x4VwrSO0) | [Above all](https://open.spotify.com/album/2SndImMqTgOaikElBmLHQP) | 2:24 |
+| 76 | [Juncture](https://open.spotify.com/track/5kBWSTxxpQHjh2p49YM4xq) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Juncture](https://open.spotify.com/album/7sRgPqeByeoKnByrxzz5l8) | 2:22 |
+| 77 | [In the forest](https://open.spotify.com/track/2HejAzyRkuWgcyyzp3KHOQ) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [In the forest](https://open.spotify.com/album/4SLjIZweBGdpwNO1xMixNZ) | 2:14 |
 | 78 | [At Dawn](https://open.spotify.com/track/3wIr8plV31HQyPXAdOu0Ri) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:14 |
-| 79 | [In the forest](https://open.spotify.com/track/2HejAzyRkuWgcyyzp3KHOQ) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [In the forest](https://open.spotify.com/album/4SLjIZweBGdpwNO1xMixNZ) | 2:14 |
+| 79 | [Solitude](https://open.spotify.com/track/3UcE5BE9BZwNhBvIOF3Ty8) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 3:06 |
 | 80 | [...comes sunshine](https://open.spotify.com/track/4HfWzLFR1tHW1rQuzKW3Be) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [...comes sunshine](https://open.spotify.com/album/27PmpZSLnHo4qjl3f7R7bm) | 3:07 |
 | 81 | [Relaxing Dreams](https://open.spotify.com/track/1sVSK4sDadVzioPciymr00) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Relaxing Dreams](https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4) | 4:41 |
 | 82 | [Seranade Of The Silver Falls](https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seranade Of The Silver Falls](https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte) | 2:17 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 93 | [Morning Calm](https://open.spotify.com/track/1XMu12aUx68QKvgSfkGU8C) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Morning Calm](https://open.spotify.com/album/5Wz3ispw5iUtBpQ44kHNoC) | 2:16 |
 | 94 | [Absence](https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm) | [Nel Brim](https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC) | [Absence](https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq) | 2:42 |
 | 95 | [Wave](https://open.spotify.com/track/3WTAaJFI1oGbw0sCBgnjWF) | [The Lagoon](https://open.spotify.com/artist/2LwSk9Tvc0RlIKnLaXtFJA) | [Wave](https://open.spotify.com/album/16S959NluCJSWVpybU2jb8) | 3:51 |
-| 96 | [Beautiful Nature](https://open.spotify.com/track/5y25kyQQTAqyPoSchOAnxS) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Beautiful Nature](https://open.spotify.com/album/1xzSTEV4uuA8KvCXuiNpdY) | 2:57 |
-| 97 | [Giardino Di Corde](https://open.spotify.com/track/6yMAHBIAadsh7lM5ISrSzt) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Giardino Di Corde](https://open.spotify.com/album/68jzD6LRy7YFOXvrlnGpDR) | 2:41 |
-| 98 | [Mystic Nature](https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [Mystic Nature](https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP) | 3:22 |
+| 96 | [Mystic Nature](https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [Mystic Nature](https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP) | 3:22 |
+| 97 | [Beautiful Nature](https://open.spotify.com/track/5y25kyQQTAqyPoSchOAnxS) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Beautiful Nature](https://open.spotify.com/album/1xzSTEV4uuA8KvCXuiNpdY) | 2:57 |
+| 98 | [Giardino Di Corde](https://open.spotify.com/track/6yMAHBIAadsh7lM5ISrSzt) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Giardino Di Corde](https://open.spotify.com/album/68jzD6LRy7YFOXvrlnGpDR) | 2:41 |
 | 99 | [Forest Dreams \(432 Hz\)](https://open.spotify.com/track/1eLXhJf2bLfeghNsz7FpxV) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Forest Dreams \(432 Hz\)](https://open.spotify.com/album/7B50BUzP7oYe4I4guHZonZ) | 2:54 |
 | 100 | [Lights & Dust](https://open.spotify.com/track/21uooqLNsuCRtjZmTzOIpj) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Lights & Dust](https://open.spotify.com/album/0v7xw83LjYF3WrJo9M7OZD) | 2:46 |
 
-Snapshot ID: `MCwyYzM1MTM4ZGM4MGEyZjBkNDZmZjQ2MWQ5YzFkMTJkNTVlMmZmZDA2`
+Snapshot ID: `MCw4MGU4ZTZiMTkzZWI3NGFkMmM3YzI4N2EzZDVjYjg4YTBmOTFiYTYx`

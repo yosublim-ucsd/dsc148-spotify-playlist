@@ -607,6 +607,28 @@
     },
     {
       "album": {
+        "name": "Allt eller inget",
+        "url": "https://open.spotify.com/album/0nVlBIFa13okHGHBcOtnR1"
+      },
+      "artists": [
+        {
+          "name": "Jakob Karlberg",
+          "url": "https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1"
+        },
+        {
+          "name": "INGA-BELL",
+          "url": "https://open.spotify.com/artist/3JHG9IX0gaqigpBcq65Rrn"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Allt eller inget",
+      "url": "https://open.spotify.com/track/2OqSyq3EM2IqsKPVavdy1t"
+    },
+    {
+      "album": {
         "name": "Emily",
         "url": "https://open.spotify.com/album/0jiIw5BInP2WWcilBfQUJ2"
       },
@@ -6882,7 +6904,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 189356,
       "name": "If you wanna",
       "url": "https://open.spotify.com/track/68Qmy9oN1WZ0ytvKNlKPaE"

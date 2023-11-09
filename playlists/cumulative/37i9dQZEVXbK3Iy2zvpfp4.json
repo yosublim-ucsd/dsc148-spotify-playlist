@@ -596,10 +596,36 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 86709,
       "name": "9mm",
       "url": "https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY"
+    },
+    {
+      "album": {
+        "name": "Memphis Cult Vol. 6",
+        "url": "https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB"
+      },
+      "artists": [
+        {
+          "name": "Memphis Cult",
+          "url": "https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ"
+        },
+        {
+          "name": "Groove Dealers",
+          "url": "https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z"
+        },
+        {
+          "name": "SPLYXER",
+          "url": "https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86709,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
     },
     {
       "album": {
@@ -2385,7 +2411,7 @@
         },
         {
           "name": "Takura",
-          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
+          "url": "https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ"
         }
       ],
       "date_added": "2023-08-22",
@@ -4553,6 +4579,24 @@
     },
     {
       "album": {
+        "name": "Chapter 6",
+        "url": "https://open.spotify.com/album/6ivxawlQbgaUlltMoQTRob"
+      },
+      "artists": [
+        {
+          "name": "DDRCK",
+          "url": "https://open.spotify.com/artist/31Ovy6zggvwVys7H4pfauU"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Chapter 6",
+      "url": "https://open.spotify.com/track/3wJ3m5oA7jsUbMlnJxY7Is"
+    },
+    {
+      "album": {
         "name": "Chase The Sun",
         "url": "https://open.spotify.com/album/1tXlFJklT4d4Jc5TtuWiwc"
       },
@@ -4914,7 +4958,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 341747,
       "name": "Closing Madness",
       "url": "https://open.spotify.com/track/0tDNyjS6wPCMMMfJMKEbvF"
@@ -7318,7 +7362,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 119120,
       "name": "ecstacy (slowed)",
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
@@ -12968,7 +13012,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 178730,
       "name": "JERSEY",
       "url": "https://open.spotify.com/track/76ispGfBt4o87PWbgfCI3U"
@@ -16268,7 +16312,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 155618,
       "name": "Microdosing (unplugged)",
       "url": "https://open.spotify.com/track/3jkRaiOJWHGXGjKUZjzUIa"
@@ -28344,6 +28388,28 @@
       "duration_ms": 205813,
       "name": "Vo\u0148avky diev\u010dat",
       "url": "https://open.spotify.com/track/2qagOsBeR0RCt8PfCiwULh"
+    },
+    {
+      "album": {
+        "name": "KOUKEJ SE MNOU",
+        "url": "https://open.spotify.com/album/7vCmLlnSGAppNgGDMfbanc"
+      },
+      "artists": [
+        {
+          "name": "Annet X",
+          "url": "https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F"
+        },
+        {
+          "name": "NobodyListen",
+          "url": "https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147054,
+      "name": "VRSTVY",
+      "url": "https://open.spotify.com/track/6Tr2b30ax6Yyd1xmTfXOXz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Young Igi, Otsochodzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,253 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,359 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Android](https://open.spotify.com/track/4l3lt3da6phBSVfuhm6Xnp) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Sir Mich](https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP) | [Macrodosing](https://open.spotify.com/album/01nWaHBDli91cOvKShpivr) | 2:45 |
 | 50 | [Mimo wszystko](https://open.spotify.com/track/7a74zHzAzH6GbVEa70MLqg) | [Pawbeats](https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L), [Sarius](https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S) | [Mimo wszystko](https://open.spotify.com/album/23Dl0pCneQHi5hspvxox00) | 2:37 |
 
-Snapshot ID: `MCw4MTE3OTcxYzRjYTdhMjA3OWIwYjUxYTQ1Y2Q5YzViZmZhMjIxYjc0`
+Snapshot ID: `MCwyOTgyZDk3NTZmNzE2Y2FiZjQ1M2RlNTgxZGQxMmI0OWQ3MWJlZTE3`

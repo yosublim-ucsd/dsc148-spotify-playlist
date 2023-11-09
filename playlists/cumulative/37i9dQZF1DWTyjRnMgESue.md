@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Ed Sheeran
 
-421 songs - 1 day 0 hr 5 min
+422 songs - 1 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [I Think I](https://open.spotify.com/track/4v7shHT3eXpvBoG5k2OMIM) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [I Think I](https://open.spotify.com/album/2TxV63ZiqONxz4lfA25rYJ) | 2:49 | 2021-11-19 | 2022-07-16 |
 | [I wanna love you but I don’t](https://open.spotify.com/track/7JQtczk2YMbVd9u176ltvl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:24 | 2021-11-19 | 2022-06-09 |
 | [I Want You](https://open.spotify.com/track/1q32AhBbgDPdBr5VyCRHq6) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [What Was, Not Now](https://open.spotify.com/album/0izGGxTiCAzk9Sgu8loZTe) | 3:30 | 2021-11-19 | 2022-03-26 |
+| [I'll Be Seeing You](https://open.spotify.com/track/0yyFpden41F1GBOjst2KkZ) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/6dxDMr7tAs1NCfZGZDUBja) | 4:45 | 2023-10-27 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/3bQvXxexTD0T8OYhrJPJzh) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/3QUlMH61fQz93W2uVNU5CF) | 4:45 | 2023-06-16 | 2023-11-04 |
 | [I'm a Man](https://open.spotify.com/track/0x0BAh5h0ttabkoiWcv3Wo) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [I'm a Man](https://open.spotify.com/album/5quvKWbQnbnOLhRrQmt1Gn) | 3:01 | 2022-07-15 | 2022-10-28 |
 | [I'm a Man](https://open.spotify.com/track/2IAyG4qRTI0FnFiDKiLzut) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Trouble With Fever](https://open.spotify.com/album/6RBwxi0etDSpfqrRo45phN) | 3:01 | 2022-08-12 | 2023-02-11 |
@@ -294,7 +295,7 @@
 | [Perfect Strangers](https://open.spotify.com/track/6BriGq45wGqLitzgM2nhXV) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [Tender](https://open.spotify.com/album/2hFkBGKPx001HO3CQuPG4e) | 3:07 | 2022-06-17 | 2022-07-18 |
 | [Phoebe Told Me](https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Phoebe Told Me](https://open.spotify.com/album/3uGP2UKICbNUs08mUe55yo) | 3:56 | 2022-03-11 | 2022-07-03 |
 | [Pick and Choose](https://open.spotify.com/track/7yTeopUxZZrDc31m6AfwWo) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [Pick and Choose](https://open.spotify.com/album/62pznCH0GxT1WTDheTB5uJ) | 2:43 | 2022-02-04 | 2022-03-26 |
-| [Picture of You](https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4) | 4:21 | 2022-07-15 |  |
+| [Picture of You](https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4) | 4:21 | 2022-07-15 | 2023-11-09 |
 | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/track/0rqZHv7LtB9swrz1rouNA0) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/album/0Mz6NtZLK5oR3SZvK8kFk0) | 4:21 | 2021-11-19 | 2022-07-29 |
 | [Pink Razor](https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Pink Razor](https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5) | 3:09 | 2022-06-13 |  |
 | [pity season](https://open.spotify.com/track/2YGoL1hWHLGtfyij4zr0hC) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [pity season](https://open.spotify.com/album/7KfrW29jCkBjl766QImlg8) | 2:47 | 2022-07-08 | 2023-01-14 |

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5hrSNdL1ktS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5hrSNdL1ktS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5hrSNdL1ktS)
 
-### [Reggaetón MX ](https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS)
+### [Reggaetón Mexa ](https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS)
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Yeri Mua en portada
 

@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 116099,
+  "num_followers": 116143,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjY5Mjc1MTIwZGVhODljMTMxY2UzZDJlOTgxNzc3NzdhMWY0MDlk",
+  "snapshot_id": "MCw0MDA2MzRiOWI5MzQyYTI1YTc2YmU5NTQzZmI5Y2IwYWE2MmI1YmVl",
   "tracks": [
     {
       "added_at": "2023-10-27 00:01:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "The Sexy EP",
         "url": "https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 174466,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/3Mizu9oMBUCm14uctRt2uL"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "Mrs. Robinson",
-      "url": "https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "I Still Haven't Found What I'm Looking For",
         "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 205502,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "Mrs. Robinson",
+      "url": "https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
-        "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 226093,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Songbird",
         "url": "https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 281333,
       "name": "\uff37\uff4f\uff4e\uff44\uff45\uff52\uff57\uff41\uff4c\uff4c",
       "url": "https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
+        "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 226093,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "What's It All About?",
-        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
-      },
-      "artists": [
-        {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "House of the Rising Sun",
         "url": "https://open.spotify.com/album/4ywreEPoWhZilE0Asy9Wof"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 225806,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "What's It All About?",
+        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
+      },
+      "artists": [
+        {
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1591,46 +1591,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Who Used To Dance",
-        "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 413240,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Only Love Can Break Your Heart",
-        "url": "https://open.spotify.com/album/1E0PKpMCxtVth7DecWQfYk"
-      },
-      "artists": [
-        {
-          "name": "Fabian Kallerdahl",
-          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
-        },
-        {
-          "name": "Albin Lindg\u00e5rd",
-          "url": "https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84"
-        },
-        {
-          "name": "Ossian Ward",
-          "url": "https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo"
-        }
-      ],
-      "duration_ms": 364626,
-      "name": "Only Love Can Break Your Heart - Live",
-      "url": "https://open.spotify.com/track/60LJcZ4RS3IDkp8KB3z6p9"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "As an Unperfect Actor (Nine Shakespeare Sonnets)",
         "url": "https://open.spotify.com/album/28TO5COQrry3X4i8amGonZ"
       },
@@ -1655,6 +1615,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Who Used To Dance",
+        "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 413240,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Just the Way You Are",
         "url": "https://open.spotify.com/album/2nbQXKBxv0kJaO0x8vsyLW"
       },
@@ -1667,6 +1643,30 @@
       "duration_ms": 272625,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/2tH5sKm9pFLSJXeHJjXEUN"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Only Love Can Break Your Heart",
+        "url": "https://open.spotify.com/album/1E0PKpMCxtVth7DecWQfYk"
+      },
+      "artists": [
+        {
+          "name": "Fabian Kallerdahl",
+          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
+        },
+        {
+          "name": "Albin Lindg\u00e5rd",
+          "url": "https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84"
+        },
+        {
+          "name": "Ossian Ward",
+          "url": "https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo"
+        }
+      ],
+      "duration_ms": 364626,
+      "name": "Only Love Can Break Your Heart - Live",
+      "url": "https://open.spotify.com/track/60LJcZ4RS3IDkp8KB3z6p9"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Timeless Tales [For Changing Times]",
-        "url": "https://open.spotify.com/album/0yioztetjswvCXmqn91t0s"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        }
-      ],
-      "duration_ms": 526533,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4q5KE7ma9YYDNg18K3KKyU"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "I Can't Make You Love Me",
         "url": "https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 266333,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Timeless Tales [For Changing Times]",
+        "url": "https://open.spotify.com/album/0yioztetjswvCXmqn91t0s"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 526533,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4q5KE7ma9YYDNg18K3KKyU"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Sealed with a Kiss",
-        "url": "https://open.spotify.com/album/3WCTl9gYGQqyLtKIiVLtuj"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 196113,
-      "name": "Sealed with a Kiss",
-      "url": "https://open.spotify.com/track/2JzWC2BLboCvHxfUTWovJA"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Ink on a Pin - A Celebration of Joni Mitchell",
         "url": "https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 232522,
       "name": "Chelsea Morning",
       "url": "https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Sealed with a Kiss",
+        "url": "https://open.spotify.com/album/3WCTl9gYGQqyLtKIiVLtuj"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 196113,
+      "name": "Sealed with a Kiss",
+      "url": "https://open.spotify.com/track/2JzWC2BLboCvHxfUTWovJA"
     },
     {
       "added_at": "2023-10-27 00:01:00",

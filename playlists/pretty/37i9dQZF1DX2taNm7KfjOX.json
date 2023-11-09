@@ -1,12 +1,12 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Mitski",
-  "num_followers": 804460,
+  "num_followers": 804489,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzMzMWFjYzA3ZDc1MzIzZWNhZDkwMThjYWU0ZTc5MzI3MmJmY2Y1",
+  "snapshot_id": "MCxlNWM5NDAyOGZkNjJmZjg4ZTJiNWI5YTkyNzA5N2Q1OWIyM2I1OTk5",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Square One",
+        "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 186794,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Bonny Light Horseman",
         "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 309072,
       "name": "Deep In Love",
       "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Square One",
-        "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 186794,
-      "name": "Square One",
-      "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Officer of Love",
-        "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 239805,
-      "name": "Officer of Love",
-      "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "The Wild Swan",
         "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 229226,
       "name": "She Burns",
       "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Officer of Love",
+        "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 239805,
+      "name": "Officer of Love",
+      "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
       },
@@ -1655,18 +1671,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1683,22 +1699,6 @@
       "duration_ms": 164773,
       "name": "Fisher Island Sound",
       "url": "https://open.spotify.com/track/3XHtGQBlfMHfKcXdTX7Mt0"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Norm",
-        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD"
       },
       "artists": [
         {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 179280,
-      "name": "Halloween Store",
-      "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
+      "duration_ms": 240954,
+      "name": "Masterpiece - solo",
+      "url": "https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Norm",
+        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Halloween Store",
+      "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Cusp",
         "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 191813,
       "name": "\u00c9migr\u00e9",
       "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 240954,
-      "name": "Masterpiece - solo",
-      "url": "https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Exploding",
-        "url": "https://open.spotify.com/album/72GQuGC9XNu3WnvOh45KbZ"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 241712,
-      "name": "Exploding",
-      "url": "https://open.spotify.com/track/6yNYd418PyTvOM9WkHSUcf"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 182601,
       "name": "Alabama Haint",
       "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Exploding",
+        "url": "https://open.spotify.com/album/72GQuGC9XNu3WnvOh45KbZ"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 241712,
+      "name": "Exploding",
+      "url": "https://open.spotify.com/track/6yNYd418PyTvOM9WkHSUcf"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2159,6 +2159,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Feel (with Kyson)",
+        "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
+      },
+      "artists": [
+        {
+          "name": "YUUL",
+          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Feel - with Kyson",
+      "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "The Widow Knows E.P.",
         "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
       },
@@ -2187,26 +2207,6 @@
       "duration_ms": 240813,
       "name": "Sleepless in Seattle",
       "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Feel (with Kyson)",
-        "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
-      },
-      "artists": [
-        {
-          "name": "YUUL",
-          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
-        },
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Feel - with Kyson",
-      "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Stone",
-        "url": "https://open.spotify.com/album/6lPerPOYueMPnlKjuRghia"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 217439,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/7ByCBSiSnTIiI8E3wp6gof"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -2423,18 +2407,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Listen to Formation, Look for the Signs",
-        "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
+        "name": "Stone",
+        "url": "https://open.spotify.com/album/6lPerPOYueMPnlKjuRghia"
       },
       "artists": [
         {
-          "name": "Nadia Reid",
-          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
         }
       ],
-      "duration_ms": 212816,
-      "name": "Call the Days",
-      "url": "https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev"
+      "duration_ms": 217439,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/7ByCBSiSnTIiI8E3wp6gof"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2451,6 +2435,22 @@
       "duration_ms": 195840,
       "name": "Eyes Wide Open - From \"North Star\"",
       "url": "https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Listen to Formation, Look for the Signs",
+        "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "duration_ms": 212816,
+      "name": "Call the Days",
+      "url": "https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2575,18 +2575,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Henry St.",
-        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
+        "name": "Leftovers",
+        "url": "https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK"
       },
       "artists": [
         {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
         }
       ],
-      "duration_ms": 215280,
-      "name": "Looking For Love",
-      "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
+      "duration_ms": 158208,
+      "name": "Dyan",
+      "url": "https://open.spotify.com/track/0wsvEdXACQfdZDrDr7ZUWR"
     }
   ],
   "unique_name": "Infinite Indie Folk",

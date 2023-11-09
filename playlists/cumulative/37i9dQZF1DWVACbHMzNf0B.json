@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 218453,
       "name": "3 Doritos Despues (En Vivo)",
       "url": "https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ"
@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 146920,
       "name": "A Tu Nombre",
       "url": "https://open.spotify.com/track/6yoyuFWA5jbxYvLHznscb7"
@@ -1588,6 +1588,32 @@
       "duration_ms": 183680,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV"
+    },
+    {
+      "album": {
+        "name": "Reggaeto\u00f1erito",
+        "url": "https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "DJ Antena",
+          "url": "https://open.spotify.com/artist/3Oa251FIY0LgcfGaaQXw1j"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Dale Bogueto",
+      "url": "https://open.spotify.com/track/57pTW0VdhvcQUYKtHby8MD"
     },
     {
       "album": {
@@ -3492,7 +3518,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 231246,
       "name": "LAGUNAS",
       "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
@@ -3734,6 +3760,28 @@
       "duration_ms": 218357,
       "name": "Love Like This - En Vivo",
       "url": "https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH"
+    },
+    {
+      "album": {
+        "name": "Mafiosa",
+        "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170237,
+      "name": "Mafiosa",
+      "url": "https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb"
     },
     {
       "album": {
@@ -4102,7 +4150,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
@@ -4598,7 +4646,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 193816,
       "name": "NO SE VA - EN VIVO",
       "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
@@ -5186,7 +5234,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 153536,
       "name": "Por La Familia",
       "url": "https://open.spotify.com/track/03uEJDEIXtm3FAV4iXcs68"
@@ -5689,6 +5737,32 @@
     },
     {
       "album": {
+        "name": "QU\u00c9 ROLLITO PRIMAVERA",
+        "url": "https://open.spotify.com/album/6JiecMCf6YvpuISA6rCzbc"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192266,
+      "name": "QU\u00c9 ROLLITO PRIMAVERA",
+      "url": "https://open.spotify.com/track/3WoxwWoay78KXzGRlAm7J7"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n"
       },
@@ -5704,6 +5778,28 @@
       "duration_ms": 247500,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
+    },
+    {
+      "album": {
+        "name": "Kittyponeo",
+        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159170,
+      "name": "Reggaeton Champagne",
+      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
     },
     {
       "album": {
@@ -6139,6 +6235,28 @@
     },
     {
       "album": {
+        "name": "Solita",
+        "url": "https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ"
+    },
+    {
+      "album": {
         "name": "Soy El Diablo (Remix)",
         "url": "https://open.spotify.com/album/37zRKUEX9zhmGThutsr2Fo"
       },
@@ -6476,6 +6594,36 @@
       "duration_ms": 151600,
       "name": "Te Vale Madre",
       "url": "https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6"
+    },
+    {
+      "album": {
+        "name": "Tiki",
+        "url": "https://open.spotify.com/album/1R6aVf9jEtdjtnKSlGiIOd"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Gitana",
+          "url": "https://open.spotify.com/artist/7a3wVpLMG9QlXRJBlZvg6B"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189613,
+      "name": "Tiki",
+      "url": "https://open.spotify.com/track/5U8rQGmRb9ps9nxHbSsyVy"
     },
     {
       "album": {

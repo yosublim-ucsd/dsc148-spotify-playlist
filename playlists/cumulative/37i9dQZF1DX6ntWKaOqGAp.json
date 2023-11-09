@@ -2967,6 +2967,24 @@
     },
     {
       "album": {
+        "name": "Minus Zero",
+        "url": "https://open.spotify.com/album/4RwGeFZqSvu8PfLEXsVqoP"
+      },
+      "artists": [
+        {
+          "name": "Kuhakugokko",
+          "url": "https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202866,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1ty6M7cgiQ192ATax4vStT"
+    },
+    {
+      "album": {
         "name": "Ghost Town",
         "url": "https://open.spotify.com/album/1pYhD2XLd92NXZrokQwXPJ"
       },
@@ -6569,6 +6587,24 @@
     },
     {
       "album": {
+        "name": "Peppermint Gum",
+        "url": "https://open.spotify.com/album/4tGCW6bLt5nbGQSFVECn1I"
+      },
+      "artists": [
+        {
+          "name": "frederic",
+          "url": "https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230898,
+      "name": "Peppermint Gum",
+      "url": "https://open.spotify.com/track/0ALSxIhd5E0qfXBum5AQCa"
+    },
+    {
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/6g9mqqicyiTqXpcDKF7bc7"
       },
@@ -7458,6 +7494,24 @@
       "duration_ms": 232733,
       "name": "Sakura Iro",
       "url": "https://open.spotify.com/track/3gJXVq7BuBcZIdiTbPWwU2"
+    },
+    {
+      "album": {
+        "name": "sasen",
+        "url": "https://open.spotify.com/album/20YOPbsbWH9Oh3O6H0S2Yc"
+      },
+      "artists": [
+        {
+          "name": "Singer's High",
+          "url": "https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224566,
+      "name": "sasen",
+      "url": "https://open.spotify.com/track/7xy7oiS6rUvZdiqyH451Wd"
     },
     {
       "album": {
@@ -9717,6 +9771,24 @@
     },
     {
       "album": {
+        "name": "Kanash\u012b dekigoto -The overkill-",
+        "url": "https://open.spotify.com/album/4lroNwCV22vfbY1z1LkdiG"
+      },
+      "artists": [
+        {
+          "name": "Mom",
+          "url": "https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216553,
+      "name": "Zakkou pt.2",
+      "url": "https://open.spotify.com/track/4OgVsCeGytlrOThG3srn0M"
+    },
+    {
+      "album": {
         "name": "ZERO",
         "url": "https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3"
       },
@@ -11552,7 +11624,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 202866,
       "name": "\u30b4\u30a6\u30b9\u30c8",
       "url": "https://open.spotify.com/track/0WhtZQxZXkBJnqW4qVV0ML"
@@ -11772,7 +11844,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 224566,
       "name": "\u30b5\u30fc\u30bb\u30f3",
       "url": "https://open.spotify.com/track/7jorhoSgW90sLDbeO5UnSs"
@@ -12914,7 +12986,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 230898,
       "name": "\u30da\u30d1\u30fc\u30df\u30f3\u30c8\u30ac\u30e0",
       "url": "https://open.spotify.com/track/7dX5rnJ4N8Ee1mJZkLQgHP"
@@ -17618,7 +17690,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 216553,
       "name": "\u96d1\u7a3f pt.2",
       "url": "https://open.spotify.com/track/4YPXhMFkDZbkiotEFi6BfV"

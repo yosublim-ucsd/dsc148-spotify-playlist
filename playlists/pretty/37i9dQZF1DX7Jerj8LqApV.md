@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,681,404 likes - 40 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,681,732 likes - 40 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 39 | [Kumpas \(from “2 Good 2 Be True”\)](https://open.spotify.com/track/143x7pgmHXYdHhTJUoeoma) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kumpas \(from “2 Good 2 Be True”\)](https://open.spotify.com/album/3Y5UOySXapMRA2Krxq8r3S) | 4:28 |
 | 40 | [Kailan?](https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Tanong](https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI) | 3:54 |
 
-Snapshot ID: `MCxlNjcyYmQxYWY4MzNiOTVkYzlkZmVhZWI4ZDQ4YjZmMGNlNjgxOTc2`
+Snapshot ID: `MCw4OWZjOWRjNTcwNDc0YTFkZjVlYzBlZDAzMDMxMzQ4ZGY3YWI4ZDc1`

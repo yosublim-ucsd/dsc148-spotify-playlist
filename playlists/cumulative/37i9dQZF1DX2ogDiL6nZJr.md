@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-294 songs - 18 hr 22 min
+295 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Lingering Love](https://open.spotify.com/track/6Edccn5z5RF4fb0nzFfpzH) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4yyxKPCiD1A7kQkfidacBu) | 3:36 | 2021-12-09 | 2022-07-29 |
 | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/track/2my0HGJw82GQrF3xhnTUVS) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/album/1Px3Gber8VEiOAMsRzf0vY) | 3:59 | 2021-12-09 | 2022-07-19 |
 | [A\-Train](https://open.spotify.com/track/0ktYrEjj1nNE7O5fjPuZnn) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Voyage Voyage](https://open.spotify.com/album/0ywaz1IM15sKDoQMZ2shoR) | 4:59 | 2021-12-09 | 2022-07-29 |
-| [A\-Train](https://open.spotify.com/track/54YPsBTRPJAIITS8oND6wx) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Voyage Voyage](https://open.spotify.com/album/0cwcEJiVLcBtY84ojgKYsc) | 4:59 | 2022-07-21 |  |
+| [A\-Train](https://open.spotify.com/track/54YPsBTRPJAIITS8oND6wx) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Voyage Voyage](https://open.spotify.com/album/0cwcEJiVLcBtY84ojgKYsc) | 4:59 | 2022-07-21 | 2023-11-09 |
 | [A.M\. RADIO](https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:57 | 2022-07-21 |  |
 | [A.M\. RADIO](https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [A.M\. RADIO](https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz) | 3:57 | 2021-12-09 | 2022-07-29 |
 | [All Fall Down](https://open.spotify.com/track/2vl3iQZmJZ2Ztz3USIUHCH) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [All Fall Down](https://open.spotify.com/album/0p6mdiaKAjYCS3uX4VL1rT) | 3:27 | 2021-12-09 | 2022-07-01 |
@@ -203,6 +203,7 @@
 | [PDLIF](https://open.spotify.com/track/6Md0VfGaWXZgJc53IMqPkO) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [PDLIF](https://open.spotify.com/album/3jCYZ7RhgLinLls6o0hBQN) | 2:57 | 2021-12-09 | 2022-04-19 |
 | [Permanent Way](https://open.spotify.com/track/04BGOF5G8ztSjRkhhM0SmE) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/1x3aGPQ0dqSY0fzljjB9VD) | 4:12 | 2021-12-09 | 2022-07-29 |
 | [Permanent Way](https://open.spotify.com/track/4ewgXAEfRGjay6kmYSfbfW) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 4:12 | 2022-07-21 | 2023-11-05 |
+| [Permanent Way](https://open.spotify.com/track/6gf9RW0DKG5GUZJcCMGSje) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p) | 4:12 | 2023-10-04 |  |
 | [Petals](https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:32 | 2022-04-14 | 2023-02-02 |
 | [Petals](https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:36 | 2023-01-18 |  |
 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 | 2021-12-09 | 2022-07-29 |

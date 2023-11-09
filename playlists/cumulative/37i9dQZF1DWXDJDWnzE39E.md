@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: NOVELISTS
 
-288 songs - 18 hr 39 min
+289 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 | 2023-09-15 |  |
 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 | 2022-10-03 |  |
 | [BEAVER CAGE](https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [BEAVER CAGE](https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z) | 3:38 | 2023-03-02 | 2023-11-05 |
+| [Better Without You](https://open.spotify.com/track/11yL2znOQCOSNqiS7Sw6K1) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:05 | 2023-09-15 |  |
 | [Better Without You](https://open.spotify.com/track/2Mall0tN73JmkmihTZPlVt) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 4:05 | 2022-03-11 | 2023-11-04 |
 | [Better Without You](https://open.spotify.com/track/6nFt6XgvvCRweKbD2B3aPa) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Better Without You](https://open.spotify.com/album/7rhu8SK2H2Fya2bWx8yPjG) | 4:05 | 2022-03-04 | 2022-07-29 |
 | [BIRTH OF VENUS](https://open.spotify.com/track/1Q98DdOmQlFrIaldR4MOVl) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BIRTH OF VENUS](https://open.spotify.com/album/1VBKFrSZ7JSMAfBNz2nAcX) | 3:12 | 2023-08-07 |  |
@@ -210,7 +211,7 @@
 | [Run](https://open.spotify.com/track/6QfO2eDPabPXJMhjc84Ie8) | [Ivy Crown](https://open.spotify.com/artist/0Ty4er900wlIfeKinucbBp) | [Run](https://open.spotify.com/album/54HNt5hFD2WXm3W2DkQKVb) | 3:42 | 2020-12-07\* | 2021-05-15 |
 | [S01E02.Return.Of.The.Arsonist.720p.HDTV.x264](https://open.spotify.com/track/5jxfh1iITHYXiqXEsLwvzK) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [S01E02.Return.Of.The.Arsonist.720p.HDTV.x264](https://open.spotify.com/album/1dcm1FvkHVbnqe82yMYMB5) | 3:01 | 2020-12-07\* | 2021-02-19 |
 | [Sacred Heart](https://open.spotify.com/track/2P4dNMfeMn2bzxg8Li2CPB) | [Sister Shotgun](https://open.spotify.com/artist/3pgaM7gbm0CFmtpGnXDlMe) | [Fragments](https://open.spotify.com/album/36iutCzxSJ78n1wTITP0vA) | 3:55 | 2020-12-07\* | 2021-04-10 |
-| [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 | 2021-08-24 |  |
+| [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 | 2021-08-24 | 2023-11-09 |
 | [Sanctuary](https://open.spotify.com/track/121A7emtDzvnIiXZWlAP3S) | [Leah](https://open.spotify.com/artist/5JrVokmullzV1zq8M8iP69) | [Sanctuary](https://open.spotify.com/album/4YIWJJcTcA7dyjTNMu1hO2) | 4:44 | 2020-12-07\* | 2022-07-20 |
 | [Save Me](https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Save Me](https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL) | 4:36 | 2020-12-07\* | 2023-01-25 |
 | [Secret Garden](https://open.spotify.com/track/2SKbTx3bPi2aPu5GRz59Dz) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Secret Garden](https://open.spotify.com/album/1tWbfY8SUwLBt8g5VuvatE) | 3:39 | 2021-05-29 | 2022-07-29 |

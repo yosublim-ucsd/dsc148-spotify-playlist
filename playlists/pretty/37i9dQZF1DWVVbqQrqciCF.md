@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVbqQrqciCF.md) - [plain]
 
 > コンポーザーのAyase、ボーカルのikuraからなる「小説を音楽にするユニット」、YOASOBIの楽曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,445 likes - 44 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,697 likes - 44 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVbqQrqciCF.md) - [plain]
 | 43 | [Just a Little Step](https://open.spotify.com/track/3UCbRuJbsnEZeGLXefqeow) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:39 |
 | 44 | [Romance](https://open.spotify.com/track/6Kh3obD8LG4yeXxQDhr6Vr) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 2:46 |
 
-Snapshot ID: `MCwxYjFkNzI1M2JlNTFmM2QwY2NlOTM4NmNmMjQwOTI2ZmNmZjk2NGQ3`
+Snapshot ID: `MCxlNDc4NzhjNjdmOGE5YTU4Y2Y3Y2FiOTBmOTlkZTZiNzNiMGVjMzg2`

@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Sandrini 2830.
 
-642 songs - 1 day 8 hr 29 min
+643 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Alerta](https://open.spotify.com/track/49tNfvmbVcQUjUuy1kEzKd) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U) | [Alerta](https://open.spotify.com/album/6vcJPZ5BL8tt9gwkhpJYkm) | 2:55 | 2023-03-24 | 2023-06-02 |
 | [Alguma Coisa](https://open.spotify.com/track/4ULccleyqLIrQkl8YwmWLl) | [Leonardo Freezy](https://open.spotify.com/artist/5gH937V0MKjLTSU3oIz9Zi), [MC cabinda](https://open.spotify.com/artist/1lh1XVH59d2D6ljh4KzIlw) | [Alguma Coisa](https://open.spotify.com/album/7IYddwVbAWDlf7K1LEGxY4) | 3:48 | 2023-05-25 | 2023-08-25 |
 | [Alma](https://open.spotify.com/track/0NdpQXyjJScXZ5H4wIEewD) | [Caixa Cartão Collective](https://open.spotify.com/artist/58OjDxOOGxAHL8s2mxbLgk), [UEST.](https://open.spotify.com/artist/08jDGXzqrspw6c1r73rTh5), [LUCAS101](https://open.spotify.com/artist/613GGxQuXh9Zv4tGuvfEma), [Rilha](https://open.spotify.com/artist/2qd9JIzESChvdBRKMjFmHJ), [Big Jony](https://open.spotify.com/artist/6wrMJAqosSbDU8Zq0kt08M), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn) | [Vol.3](https://open.spotify.com/album/1CTzq16x0GUICRkczgHmRV) | 3:19 | 2023-05-18 | 2023-08-11 |
-| [Alma](https://open.spotify.com/track/3caAuG3pqIwSr3yr2SDXjD) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U) | [Alma](https://open.spotify.com/album/5HbYunCblMt5pW5KUUxkMp) | 2:48 | 2023-10-05 |  |
+| [Alma](https://open.spotify.com/track/3caAuG3pqIwSr3yr2SDXjD) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U) | [Alma](https://open.spotify.com/album/5HbYunCblMt5pW5KUUxkMp) | 2:48 | 2023-10-05 | 2023-11-09 |
+| [Alma](https://open.spotify.com/track/3rX9KvRYL1PQtbne79nnZd) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U) | [Alma](https://open.spotify.com/album/0iMqeFAka3DpLtRBBnc431) | 2:48 | 2023-10-26 |  |
 | [Alter Ego](https://open.spotify.com/track/1bxBGvKAVZ3VM0MZvCaMiL) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Alter Ego](https://open.spotify.com/album/3ljjAqXl7v44JEnRpYjhMY) | 2:21 | 2023-07-27 |  |
 | [Altos e Baixos](https://open.spotify.com/track/45xMnFs32O3wfvvql0m2FA) | [Edgar Wonder](https://open.spotify.com/artist/0Mro3Gg5XqyY1zy3e4RTmv) | [Altos & Baixos](https://open.spotify.com/album/6zz5xmmhTd4GbTOFdTv1Vg) | 2:56 | 2023-01-27 | 2023-04-07 |
 | [Alô](https://open.spotify.com/track/6BEujpD6k3AQqe7HlqURvJ) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U), [Heidje](https://open.spotify.com/artist/5tm9w5jaG6pvK8Z0iRF0qx) | [Icônico](https://open.spotify.com/album/63AQQ7Eh9MIPM5EbPXfpu6) | 3:31 | 2022-10-13 | 2023-01-06 |

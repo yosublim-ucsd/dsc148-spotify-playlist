@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,805 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,887 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 83 | [Footloose](https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Footloose](https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN) | 3:38 |
 | 84 | [Nothing Else Matters](https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Nothing Else Matters](https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg) | 8:14 |
 | 85 | [If You Want Love](https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [If You Want Love](https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0) | 3:24 |
-| 86 | [Cowboy Take Me Away](https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Cowboy Take Me Away](https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm) | 4:29 |
-| 87 | [Piece of My Heart](https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 4:01 |
+| 86 | [Piece of My Heart](https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 4:01 |
+| 87 | [Cowboy Take Me Away](https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Cowboy Take Me Away](https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm) | 4:29 |
 | 88 | [Teenage Dream](https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7), [The 615 House](https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q) | [Teenage Dream](https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0) | 3:37 |
 | 89 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:17 |
 | 90 | [Bless the Broken Road](https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Bless the Broken Road](https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 99 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy) | 4:06 |
 | 100 | [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 |
 
-Snapshot ID: `MCw3MzY5YTA3MmMzMWEwYzlhMTA3NmMyMjM3ZTdkNWQ5OWQ4ZDFjZTEy`
+Snapshot ID: `MCw2MjVmOWYwMmI1ZjA2ZmYyMjhhNDRhOGMyMzllNTk3ZGI2NGVjYmIx`

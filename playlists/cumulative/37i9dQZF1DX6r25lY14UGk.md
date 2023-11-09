@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-157 songs - 7 hr 19 min
+158 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,8 +139,9 @@
 | [The Bicycle Song](https://open.spotify.com/track/7q0vOWQvZBSAZbOEAJYfE4) | [The Swinging Belles](https://open.spotify.com/artist/01eojLsVBj3CRaLmUXCfDM) | [The Bicycle Song \(from the Welcome to the Flea Circus EP\)](https://open.spotify.com/album/4u1FQyRQUWvcDTgsH63JzR) | 2:07 | 2023-06-21 |  |
 | [The Coolest Person](https://open.spotify.com/track/2m7NtrQMIghZEUgsRVwjQV) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 3:14 | 2022-04-15 | 2023-10-21 |
 | [The Loud Mouse Song](https://open.spotify.com/track/5WZJikNC4n12C5iQ11hn7X) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [The Loud Mouse Song](https://open.spotify.com/album/0s8Cx1aQq0AGYX2XTwYG1T) | 3:13 | 2022-09-27 |  |
+| [The Lucky One](https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [The Lucky One](https://open.spotify.com/album/78RH18op8dJIMu7zOch288) | 3:39 | 2023-09-22 |  |
 | [The Lucky One](https://open.spotify.com/track/48rA2haWWYLdLIlsPMck1k) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/1haZSJC7WyeclZe3Hes4UX) | 3:39 | 2022-07-25 | 2022-10-13 |
-| [The Lucky One](https://open.spotify.com/track/56H7ChmRXYt092T3qwjARD) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/2Qjp6JMCIVm3582SkJMere) | 3:39 | 2022-10-07 |  |
+| [The Lucky One](https://open.spotify.com/track/56H7ChmRXYt092T3qwjARD) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/2Qjp6JMCIVm3582SkJMere) | 3:39 | 2022-10-07 | 2023-11-09 |
 | [The Road to Gettin' Better \(Is Not a Straight Line\)](https://open.spotify.com/track/6Pyfervdg8n1gKIoodYvjd) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [The Road to Gettin' Better](https://open.spotify.com/album/0qlhy1LzuxFCPdOsXfKxgC) | 2:52 | 2022-04-15 |  |
 | [The Word is Love](https://open.spotify.com/track/7lqd7pWvJgsCdyecGibcAy) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [The Word is Love](https://open.spotify.com/album/47FJMtS7LjWDAUD1r7ErEr) | 3:29 | 2022-04-15 |  |
 | [They're My Best Friend](https://open.spotify.com/track/76e4Y6ZjidFjQxqGHbwBgY) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [They're My Best Friend](https://open.spotify.com/album/77NL4EMlY4zMUn3OnhmmLL) | 2:12 | 2022-04-15 | 2023-10-21 |

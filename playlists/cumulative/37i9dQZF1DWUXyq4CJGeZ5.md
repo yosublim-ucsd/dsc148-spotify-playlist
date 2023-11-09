@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-471 songs - 20 hr 31 min
+473 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Around In Circles](https://open.spotify.com/track/2vFCPvJ1HHw7t9nRl4bKXz) | [Santo De Luca](https://open.spotify.com/artist/0s7z0HatZQ3GXIuUrg5hyL) | [Around In Circles](https://open.spotify.com/album/4XGG0dsoZceyfUImSCrQM3) | 2:15 | 2023-10-10 |  |
 | [Arturo](https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 2:52 | 2023-03-10 |  |
 | [Asilah](https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Asilah](https://open.spotify.com/album/5ngz6Awk3fEPDe5GomDmRM) | 2:40 | 2023-03-10 |  |
+| [Autumn Song](https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Autumn Song](https://open.spotify.com/album/3wWlrBCF10tWs73IQIUnJA) | 2:30 | 2023-11-08 |  |
 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 | 2023-03-10 |  |
 | [Baignade Joyeuse](https://open.spotify.com/track/1VndoWfgli0Vez1TL7MARp) | [Manuela Tigre](https://open.spotify.com/artist/2Ijh8zXrJXuH5k4u7UmSbw) | [Baignade Joyeuse](https://open.spotify.com/album/2kOsZnfnCYMhZaWz6s7ctN) | 2:37 | 2023-10-10 | 2023-10-17 |
 | [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2023-03-10 |  |
@@ -160,6 +161,7 @@
 | [Heart of the River of the Sun](https://open.spotify.com/track/2YIC6Cp33wgMVEYruivCuH) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Heart of the River of the Sun](https://open.spotify.com/album/1wrDM0xtWqoTWtJ1mYuDny) | 2:31 | 2023-03-10 |  |
 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 | 2023-03-10 |  |
 | [Heartfelt](https://open.spotify.com/track/7hoho5MSIQZfluHupiNuq1) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Heartfelt](https://open.spotify.com/album/4n944iZef2VPY0Ahfnc8J9) | 2:16 | 2023-03-10 |  |
+| [Hearts of Desire](https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Hearts of Desire](https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb) | 2:19 | 2023-11-08 |  |
 | [Herz gebrochen](https://open.spotify.com/track/2x6qK1oorFfWjIZ9bRf1MZ) | [Frida Frisk](https://open.spotify.com/artist/7xLTHxwZlyswxyMpdZzI8C) | [Herz gebrochen](https://open.spotify.com/album/6MMQUxAJVvAbp1Vi3Rx2oL) | 2:14 | 2023-03-10 |  |
 | [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2023-03-10 |  |
 | [Holding On To A Dream](https://open.spotify.com/track/3JckG2zBLn2DMyaB7kInQ1) | [Tedosio](https://open.spotify.com/artist/3El5MgGZoJYZvUhnn9O94A) | [Holding On To A Dream](https://open.spotify.com/album/7xWCR5yrTl5TquNUxPEnq4) | 2:23 | 2023-03-10 |  |
@@ -203,7 +205,7 @@
 | [Kokachin](https://open.spotify.com/track/2pzrTJSU6bTqEmZ7Zv5XLM) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Kokachin](https://open.spotify.com/album/0D5XBOqxs8fW0dU0MgQM8G) | 4:02 | 2023-03-10 |  |
 | [L'autunno](https://open.spotify.com/track/34XblyhjvYRFtfaQQn0AnF) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [L'autunno](https://open.spotify.com/album/5RgG1uA2oFXVdPjFeOqlS2) | 2:26 | 2023-10-10 | 2023-10-25 |
 | [L'habit ne fait pas le moine](https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz) | [Pascal Duval](https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl) | [L'habit ne fait pas le moine](https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db) | 3:00 | 2023-03-10 |  |
-| [L'été du Cœur \- La Petite Pluie d'été](https://open.spotify.com/track/0REvq7uFumQghb3u2sRDp2) | [Coen Molenaar](https://open.spotify.com/artist/3mDU9n4gGcXFkQ2Cby05aO), [Myllèrí](https://open.spotify.com/artist/7FBXThPwYvJ0kdeQagzYKj) | [L'été du Cœur \- La Petite Pluie d'été](https://open.spotify.com/album/1iszyfxF6bae0VNiXTVOWq) | 2:50 | 2023-10-10 |  |
+| [L'été du Cœur \- La Petite Pluie d'été](https://open.spotify.com/track/0REvq7uFumQghb3u2sRDp2) | [Coen Molenaar](https://open.spotify.com/artist/3mDU9n4gGcXFkQ2Cby05aO), [Myllèrí](https://open.spotify.com/artist/7FBXThPwYvJ0kdeQagzYKj) | [L'été du Cœur \- La Petite Pluie d'été](https://open.spotify.com/album/1iszyfxF6bae0VNiXTVOWq) | 2:50 | 2023-10-10 | 2023-11-09 |
 | [La Fleur](https://open.spotify.com/track/3tTr7aNFBaUkH5O7KFB1wS) | [Blithe Youth](https://open.spotify.com/artist/4iIddIHZEHkH5SAjX7hEMu) | [La Fleur](https://open.spotify.com/album/6qec6hpXXfINiHHMnAvpHr) | 2:32 | 2023-03-10 |  |
 | [La Gondola](https://open.spotify.com/track/43xkjr0u5DBR3NfkrCQdHo) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Surrender](https://open.spotify.com/album/2SSwUTubPIzCDF0n2IVYYZ) | 3:41 | 2023-03-10 |  |
 | [La maison de l'été](https://open.spotify.com/track/0yQC370X6nqaUvfZEuAF5D) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [La maison de l'été](https://open.spotify.com/album/6lhP1cl4RdaxwDwUzDwZKr) | 2:34 | 2023-03-10 |  |
@@ -317,7 +319,7 @@
 | [Presque l'amour](https://open.spotify.com/track/03VbBcRhqaoH04MMlxlGIC) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Presque l'amour](https://open.spotify.com/album/6enrbOB2poCkylWRXhrp7r) | 2:22 | 2023-03-10 |  |
 | [Prima Stella](https://open.spotify.com/track/0V4SL7IMRUeu7tqiuyedxO) | [Andrea Sperelli](https://open.spotify.com/artist/791xWcncgzwYXaGgBiQzLo) | [Prima Stella](https://open.spotify.com/album/2rp88Czsj3x0v6UbezgrCD) | 2:32 | 2023-03-10 |  |
 | [Primrose Hill](https://open.spotify.com/track/1at46An3uytKsd32hqQkpw) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Primrose Hill](https://open.spotify.com/album/7HfmF0KuzcMYURt7mhN1sa) | 2:52 | 2023-03-10 |  |
-| [Primrose Season](https://open.spotify.com/track/7J30n95D8gL4YLiuQKQZ9d) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Primrose Season](https://open.spotify.com/album/2MHhCclPZcBT0Sxv9ho322) | 2:38 | 2023-10-10 |  |
+| [Primrose Season](https://open.spotify.com/track/7J30n95D8gL4YLiuQKQZ9d) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Primrose Season](https://open.spotify.com/album/2MHhCclPZcBT0Sxv9ho322) | 2:38 | 2023-10-10 | 2023-11-09 |
 | [Promenade](https://open.spotify.com/track/5pNtFAPRtX6FWcTTJIgt7k) | [Jesse Porter](https://open.spotify.com/artist/4kQm2mvDJf859pkHFQBsdc) | [Promenade](https://open.spotify.com/album/2Aamlg8UdJK3C1rAs4cuWq) | 2:10 | 2023-03-10 |  |
 | [Prozatím](https://open.spotify.com/track/3dS8RW1e5gd5rbSmNjDAPe) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Prozatím](https://open.spotify.com/album/4oAdXNNPtmelprKFkP4d6G) | 2:03 | 2023-03-10 |  |
 | [Purity](https://open.spotify.com/track/3iyNoFOyMTZU1SdGbnmdy6) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Purity](https://open.spotify.com/album/3Xf0HZNA30BxiiMB0SqMuj) | 2:26 | 2023-03-10 |  |

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-437 songs - 1 day 13 hr 45 min
+438 songs - 1 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Atlas](https://open.spotify.com/track/6YFRyll4isFUJrbHSeM1oJ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Little by Little](https://open.spotify.com/album/4nv9KsGfQvZwIOuzDnbWY8) | 5:50 | 2022-05-03 |  |
 | [Attraction](https://open.spotify.com/track/2UmiXqJJ3qQooP5pUuiI0W) | [JYYE](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb) | [Attraction](https://open.spotify.com/album/6e2AkcWcXgmgzNNW6HZpwf) | 2:52 | 2021-12-08 |  |
 | [Aurora](https://open.spotify.com/track/4KyEeZwIuoFH0n68qvl35b) | [David Scott](https://open.spotify.com/artist/513OW9lkE4k3NQ7en6raQ8) | [Departures](https://open.spotify.com/album/1oBOaO2vdvxUpX1ej0Lhud) | 4:07 | 2021-12-08 |  |
-| [Bad Love](https://open.spotify.com/track/6W2ZjBmxbpzETmwJQ5h7jA) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Bad Love](https://open.spotify.com/album/2JQZHflIHUVBYaSfuGUmJE) | 3:49 | 2023-10-28 |  |
+| [Bad Love](https://open.spotify.com/track/6W2ZjBmxbpzETmwJQ5h7jA) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Bad Love](https://open.spotify.com/album/2JQZHflIHUVBYaSfuGUmJE) | 3:49 | 2023-10-28 | 2023-11-09 |
 | [Basic Juno](https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Studio A Pt.1](https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO) | 6:07 | 2021-12-08 | 2023-04-25 |
 | [Baume](https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Baume](https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9) | 4:20 | 2023-05-05 |  |
 | [Be Brave](https://open.spotify.com/track/5QeJCkBNHe6a8T5uusmqIv) | [djimboh](https://open.spotify.com/artist/7cIzAFnvs0ilTGyfFJY8fd) | [Be Brave / Undertow](https://open.spotify.com/album/5A7FLvpkxnXxHWGXTDFfcT) | 3:56 | 2021-12-08 |  |
@@ -246,6 +246,7 @@
 | [My Everything](https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [My Everything](https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd) | 3:48 | 2023-02-17 |  |
 | [My Lullaby for You](https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Bara Nova](https://open.spotify.com/artist/2jzbYdD55IHAm5Rk7RHoYf) | [Cyberpunk 2077: Radio, Vol\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX) | 5:34 | 2021-12-08 | 2022-02-22 |
 | [Natural Consequence](https://open.spotify.com/track/6aAIl1SKNgDGcZXlh841N6) | [9th House](https://open.spotify.com/artist/5QpDjrjx18j888lnGtJpeV) | [Catching A Whisper](https://open.spotify.com/album/0MCLZBM9I2Fx81ddskf4Zz) | 4:27 | 2021-12-08 | 2022-07-28 |
+| [Never \(Colyn Remix\)](https://open.spotify.com/track/701hEuWyG1EZepbD5Qiu3r) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Four \(Remixes Deluxe\)](https://open.spotify.com/album/2fgej64OiBlYJdX6wMc7eb) | 3:37 | 2023-10-28 |  |
 | [Never \- Colyn Remix](https://open.spotify.com/track/6KYAD5ruYEBECCZ7cmrZgl) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Never \(Colyn Remix\)](https://open.spotify.com/album/4GHC4KxhLhSType2hPr6IN) | 3:37 | 2021-12-08 | 2023-11-04 |
 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 | 2022-10-28 |  |
 | [Night Jaguars](https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Heaven Or Hell](https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY) | 3:52 | 2021-12-08 | 2023-08-12 |

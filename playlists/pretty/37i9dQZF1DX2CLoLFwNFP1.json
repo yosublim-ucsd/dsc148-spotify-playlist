@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30894,
+  "num_followers": 30932,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmJlNDkyYTE2MGVlZDU1ZTUwYTE3NjJkMDcwY2I5OGU1ZjE3NmEw",
+  "snapshot_id": "MCw1OGM3OGZmMjNlYTM0NjQzM2UyNDRjYjgyMTZjYTA1NjVmNzcwYTk1",
   "tracks": [
     {
       "added_at": "2023-11-03 05:32:22",
@@ -387,26 +387,6 @@
     {
       "added_at": "2023-11-03 05:32:22",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
-      },
-      "artists": [
-        {
-          "name": "JMIN",
-          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 166813,
-      "name": "Dedication (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
-    },
-    {
-      "added_at": "2023-11-03 05:32:22",
-      "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 202080,
       "name": "Does She",
       "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
+      },
+      "artists": [
+        {
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 166813,
+      "name": "Dedication (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2023-11-03 05:32:22",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 252367,
+      "name": "AQUAMAN",
+      "url": "https://open.spotify.com/track/39L0cwuHe0RIgOehPJuQu0"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
         "name": "K-TOWN",
         "url": "https://open.spotify.com/album/0djg1pfwluHDX41m0NLmdF"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 123280,
       "name": "K-TOWN",
       "url": "https://open.spotify.com/track/4PBYhNbFFXPcwXYUCMUTeF"
-    },
-    {
-      "added_at": "2023-11-03 05:32:22",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 252367,
-      "name": "AQUAMAN",
-      "url": "https://open.spotify.com/track/39L0cwuHe0RIgOehPJuQu0"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -2203,30 +2203,6 @@
     {
       "added_at": "2023-11-03 05:32:22",
       "album": {
-        "name": "REBORN",
-        "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        },
-        {
-          "name": "Boi B",
-          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
-        }
-      ],
-      "duration_ms": 235364,
-      "name": "REBORN",
-      "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
-    },
-    {
-      "added_at": "2023-11-03 05:32:22",
-      "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
       },
@@ -2251,6 +2227,30 @@
       "duration_ms": 222432,
       "name": "World Domination",
       "url": "https://open.spotify.com/track/20QRiEt3H04E5vHJG4LDlG"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "Boi B",
+          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
+        }
+      ],
+      "duration_ms": 235364,
+      "name": "REBORN",
+      "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
     },
     {
       "added_at": "2023-11-03 05:32:22",

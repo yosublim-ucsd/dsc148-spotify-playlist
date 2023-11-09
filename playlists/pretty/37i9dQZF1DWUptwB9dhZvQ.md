@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,724 likes - 81 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,783 likes - 81 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 46 | [Soul of Doctor \(Theme\) \[From "Doctor"\]](https://open.spotify.com/track/6GFtWQYco30oKpMr5xJwy2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Niranjana Ramanan](https://open.spotify.com/artist/3GB9ulskXfPOQCzw0SNEDx) | [Soul of Doctor \(Theme\) \[From "Doctor"\]](https://open.spotify.com/album/2ftkMy4ttkkdjFsFReYdWg) | 1:03 |
 | 47 | [Tiger Transformation \(From "Jailer"\)](https://open.spotify.com/track/6QnaSrPceLo5ClJUHA61K2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Tiger Transformation \(From "Jailer"\)](https://open.spotify.com/album/7oPBIbwVgBYrhbf0tRzCpT) | 4:25 |
 | 48 | [Varman Theme \(From "Jailer"\)](https://open.spotify.com/track/6dyiMdcMYxUcZfI02hdODg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Varman Theme \(From "Jailer"\)](https://open.spotify.com/album/15MnhzQdz7up0CdGyozomY) | 1:22 |
-| 49 | [Narasimha Theme \(From "Jailer"\)](https://open.spotify.com/track/3lHH6j1JzcCYVct83zihWs) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Narasimha Theme \(From "Jailer"\)](https://open.spotify.com/album/4MGAcD1ZvQPy2r6FQcgAx7) | 1:03 |
-| 50 | [Kaththi Theme \- Instrumental](https://open.spotify.com/track/5QpX7FGJ3A6otJSayn0GHM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jo4lZjhgTwX7ldHD5hl1t) | 1:03 |
+| 49 | [Kaththi Theme \- Instrumental](https://open.spotify.com/track/5QpX7FGJ3A6otJSayn0GHM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jo4lZjhgTwX7ldHD5hl1t) | 1:03 |
+| 50 | [Narasimha Theme \(From "Jailer"\)](https://open.spotify.com/track/3lHH6j1JzcCYVct83zihWs) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Narasimha Theme \(From "Jailer"\)](https://open.spotify.com/album/4MGAcD1ZvQPy2r6FQcgAx7) | 1:03 |
 | 51 | [Sandhanam Theme \- Background Score](https://open.spotify.com/track/525NKU3UFgZQtCXWBWE0al) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:46 |
 | 52 | [Pablo Sandhanam \- Background Score](https://open.spotify.com/track/5iUbq311UD3MZYmfi2a1Ob) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:45 |
 | 53 | [Jailer Announcement Theme \(From "Jailer"\)](https://open.spotify.com/track/6D9uswrNghivGDSmeKFsIH) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer Announcement Theme \(From "Jailer"\)](https://open.spotify.com/album/4jkl33s9WJkLdwtVXfOn61) | 1:00 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 61 | [Beat of Master \- Instrumental](https://open.spotify.com/track/7wQR696XF4L91Zr9groP8v) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 1:15 |
 | 62 | [Theme of 3](https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mandolin Seenu](https://open.spotify.com/artist/2Wuq8f0T8XhQzjPSpMWY0i) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 1:29 |
 | 63 | [Interval Fight \- Background Score](https://open.spotify.com/track/58rVdRJUkvtupU7J3UIrvB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 2:10 |
-| 64 | [The Dilli Connect \- Background Score](https://open.spotify.com/track/1BlJlzeCt2VPVdQMLXRe8y) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:21 |
-| 65 | [Bad Eyes Villain Theme \- Instrumental](https://open.spotify.com/track/3Yuu5SdEIzjBAZNlWLYD03) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jo4lZjhgTwX7ldHD5hl1t) | 1:29 |
+| 64 | [Bad Eyes Villain Theme \- Instrumental](https://open.spotify.com/track/3Yuu5SdEIzjBAZNlWLYD03) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jo4lZjhgTwX7ldHD5hl1t) | 1:29 |
+| 65 | [The Dilli Connect \- Background Score](https://open.spotify.com/track/1BlJlzeCt2VPVdQMLXRe8y) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:21 |
 | 66 | [Agent Vikram \- Background Score](https://open.spotify.com/track/4Gl2PrpO3pmVj8LnQ6uAdg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 3:09 |
 | 67 | [The Maari Swag](https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 0:30 |
 | 68 | [Kaali Theme \- From "Petta"](https://open.spotify.com/track/61uPaVyWRi1HykhNR5Ldtw) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 1:05 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 80 | [Con Man Theme](https://open.spotify.com/track/1zaBUwtk0sHWTRf1Xw9O4N) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Masss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5v13LEH1063XjCLELeUqdC) | 2:23 |
 | 81 | [Manmadhan Theme Music](https://open.spotify.com/track/4ObpDubU06zaWluKR7lCls) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Y7FfRUWBEKImjc2T6NjzO) | 1:23 |
 
-Snapshot ID: `MCwwYTg1OTJiZmVhZjI3MmZlOGYyOTRlNDAxYWNlZTQ5OGZkMDkwOTM5`
+Snapshot ID: `MCxlZjFmNjJmOGZkOGNhM2RiODRkMWU3NTAyMzYxMGZmN2E2NjM4ZmEy`

@@ -2961,6 +2961,24 @@
     },
     {
       "album": {
+        "name": "Lose Your Mind",
+        "url": "https://open.spotify.com/album/4pO5ePc9H7RG2a3CSVdmm4"
+      },
+      "artists": [
+        {
+          "name": "Toxic Joy",
+          "url": "https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158222,
+      "name": "Lose Your Mind",
+      "url": "https://open.spotify.com/track/0XBpOxxdLc3xH6OjjnaWML"
+    },
+    {
+      "album": {
         "name": "Revealed Recordings presents ADE Sampler 2022",
         "url": "https://open.spotify.com/album/5CZASEqfAIx22yQEaiBKXi"
       },

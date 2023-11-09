@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Out Of Control Army
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,312 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,354 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 48 | [Tu Alma Mía / Adelita](https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 3:53 |
 | 49 | [In The Mirror](https://open.spotify.com/track/17EgS7BaS5b4TbSWTqynF5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:04 |
 | 50 | [War 4 Peace](https://open.spotify.com/track/3beXppvBycZ5qD0ZNpRiXb) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Diego Benlliure](https://open.spotify.com/artist/632hZrvw4igilYgJr25TNF), [José Grela](https://open.spotify.com/artist/6asUVMkGHy6e5CeyRtygEn) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:26 |
-| 51 | [Sarri, Sarri](https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 4:05 |
-| 52 | [Monkey Man \- 2015 Remaster](https://open.spotify.com/track/04BXsortkjpUxf1sOtLRXE) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:45 |
+| 51 | [Monkey Man \- 2015 Remaster](https://open.spotify.com/track/04BXsortkjpUxf1sOtLRXE) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:45 |
+| 52 | [Sarri, Sarri](https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 4:05 |
 | 53 | [Komm mit aufs Boot](https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Alles glänzt](https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l) | 3:16 |
 | 54 | [Fantasma de la Rana](https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 3:57 |
 | 55 | [Somos del Barrio](https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [El Precio del Sudor](https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc) | 2:44 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 97 | [Yes It's True](https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Yes It's True](https://open.spotify.com/album/6D70PLpzfIDrILrQDNGsqQ) | 4:03 |
 | 98 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 99 | [Where Did All My Friends Go?](https://open.spotify.com/track/1m0O9m6wakF6sC7pbiLBMp) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Where Did All My Friends Go?](https://open.spotify.com/album/5jLxoBgeVzZNrQeFWnJNBd) | 3:50 |
-| 100 | [Noc je ještě mladá](https://open.spotify.com/track/66DzNV3HkTmYlYA9shXAr2) | [Sto zvířat](https://open.spotify.com/artist/4fLCFZWbgAALL8veJBj8lX) | [Noční ptáci](https://open.spotify.com/album/23jNX9AOg5j9mQNwktCgcM) | 3:29 |
+| 100 | [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 |
 
-Snapshot ID: `MCw5YmRiODg4Y2U4ZWIzNGEzZjMxNDFjMDYwMGIyMGEyNWVjZjUwMjVj`
+Snapshot ID: `MCwxNWMxY2RkYjBiNzA3MTY0MDI5ODNjNjVlMTEzOGExMzVlNTU4ZDVj`

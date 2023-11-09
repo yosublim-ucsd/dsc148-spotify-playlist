@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-317 songs - 18 hr 59 min
+318 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,11 +65,12 @@
 | [Can't Help Myself](https://open.spotify.com/track/5j1Hz9qgKAYdMSlD592Vks) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [For You](https://open.spotify.com/album/5H6qeMqv8UxMxvBTHzZ7Hc) | 4:40 | 2022-09-30 | 2023-06-10 |
 | [Can't Help Myself](https://open.spotify.com/track/64UQKc7huxeIY227ELVYMp) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [For You](https://open.spotify.com/album/5PfEtYfR13izbJCJZe3pj0) | 4:40 | 2022-07-15 | 2022-10-14 |
 | [Can’t Do Both \(with Clara Mae\)](https://open.spotify.com/track/51Msclnf6boUX26DmZvViX) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Can’t Do Both \(with Clara Mae\)](https://open.spotify.com/album/3eLwA43vI5bh00YocrNWPU) | 2:57 | 2023-03-03 |  |
-| [Chemicals](https://open.spotify.com/track/1VbcFucvM80cgjIxSb6qlp) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals \(Benson Remix\)](https://open.spotify.com/album/446J1iwoTDgEGy8CrBJm6B) | 3:12 | 2023-10-27 |  |
+| [Chemicals](https://open.spotify.com/track/1VbcFucvM80cgjIxSb6qlp) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals \(Benson Remix\)](https://open.spotify.com/album/446J1iwoTDgEGy8CrBJm6B) | 3:12 | 2023-10-27 | 2023-11-09 |
 | [Chemicals](https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71) | 3:12 | 2021-12-03 | 2022-07-29 |
 | [Chemicals](https://open.spotify.com/track/3MhzrKptQyWZCIQC4yZNu3) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/1dXqbK8UQuIjX1BjDIUgkt) | 3:12 | 2022-07-15 | 2023-11-03 |
 | [Chemicals](https://open.spotify.com/track/4M9ucPYXRR04ZoOn7AN3MS) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals \(VNSSA Remix\)](https://open.spotify.com/album/2lMJc5G2zyXq7dZJleQLpV) | 3:12 | 2023-10-27 | 2023-11-07 |
 | [Chemicals](https://open.spotify.com/track/4pQcd3hi4TLoebQ4BeFBWa) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals \(VNSSA Remix\)](https://open.spotify.com/album/46FfOOBpEtPbuTbKRGx8Ra) | 3:12 | 2022-10-28 | 2022-11-14 |
+| [Chemicals](https://open.spotify.com/track/58RVoXNByNFMax5VgTgCVV) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/6rsTICevKBlqvUiemaXPnu) | 3:12 | 2023-10-27 |  |
 | [Chemicals](https://open.spotify.com/track/6bq3ttgzPWNxAQvvOFGbtK) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals \(Benson Remix\)](https://open.spotify.com/album/6zU0WjdigeQDnZ6PNwRDFf) | 3:12 | 2023-10-27 | 2023-11-04 |
 | [Child](https://open.spotify.com/track/4b58UyTZK1qqkDAUVF0JN1) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Child](https://open.spotify.com/album/4nz18DILyysoglGaV015Cq) | 3:03 | 2022-04-29 | 2023-06-10 |
 | [Closer](https://open.spotify.com/track/4HGi3uJg4OTWHQs6TkYAFb) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Closer](https://open.spotify.com/album/0e3tF60tqO2Niimn9HZIde) | 4:40 | 2021-12-03 | 2022-05-07 |

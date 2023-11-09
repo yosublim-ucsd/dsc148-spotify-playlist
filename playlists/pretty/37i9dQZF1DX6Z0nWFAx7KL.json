@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 43580,
+  "num_followers": 43698,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGJmN2MzZDlmY2U3YjkxNjk5NzMxNmZlMGU4MjVhNWYwOWM3MWFk",
+  "snapshot_id": "MCw4NjgyYjQxYWViNzA5Y2ZkYWQyOTM2OTU2MWJiYjlkZWQ5ODZjZGFj",
   "tracks": [
     {
       "added_at": "2023-11-03 09:46:52",
@@ -123,30 +123,6 @@
     {
       "added_at": "2023-11-03 09:46:52",
       "album": {
-        "name": "Careless Whisper",
-        "url": "https://open.spotify.com/album/1XjxeJw2RkvKoyj9ZQKqjI"
-      },
-      "artists": [
-        {
-          "name": "Toby Rose",
-          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
-        },
-        {
-          "name": "ALUR",
-          "url": "https://open.spotify.com/artist/4IwYXGDh3e4LBKRxT9e623"
-        },
-        {
-          "name": "Eirik N\u00e6ss",
-          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo"
-    },
-    {
-      "added_at": "2023-11-03 09:46:52",
-      "album": {
         "name": "Tell Me How",
         "url": "https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv"
       },
@@ -167,6 +143,30 @@
       "duration_ms": 132742,
       "name": "Tell Me How",
       "url": "https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE"
+    },
+    {
+      "added_at": "2023-11-03 09:46:52",
+      "album": {
+        "name": "Careless Whisper",
+        "url": "https://open.spotify.com/album/1XjxeJw2RkvKoyj9ZQKqjI"
+      },
+      "artists": [
+        {
+          "name": "Toby Rose",
+          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
+        },
+        {
+          "name": "ALUR",
+          "url": "https://open.spotify.com/artist/4IwYXGDh3e4LBKRxT9e623"
+        },
+        {
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo"
     },
     {
       "added_at": "2023-11-03 09:46:52",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-11-03 09:46:52",
       "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
+    },
+    {
+      "added_at": "2023-11-03 09:46:52",
+      "album": {
         "name": "Found It With You",
         "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 163410,
       "name": "Found It With You",
       "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
-    },
-    {
-      "added_at": "2023-11-03 09:46:52",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
     },
     {
       "added_at": "2023-11-03 09:46:52",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-11-03 09:46:52",
       "album": {
-        "name": "The Sea",
-        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "The Sea",
-      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
-    },
-    {
-      "added_at": "2023-11-03 09:46:52",
-      "album": {
         "name": "The Boys Of Summer",
         "url": "https://open.spotify.com/album/31XBvtJJ3fQkQUrRukoq1E"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 137142,
       "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW"
+    },
+    {
+      "added_at": "2023-11-03 09:46:52",
+      "album": {
+        "name": "The Sea",
+        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
     },
     {
       "added_at": "2023-11-03 09:46:52",
@@ -751,6 +751,26 @@
     {
       "added_at": "2023-11-03 09:46:52",
       "album": {
+        "name": "Forever, Now",
+        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 274795,
+      "name": "Elenore",
+      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
+    },
+    {
+      "added_at": "2023-11-03 09:46:52",
+      "album": {
         "name": "Free Falling Love",
         "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 155000,
       "name": "Free Falling Love",
       "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
-    },
-    {
-      "added_at": "2023-11-03 09:46:52",
-      "album": {
-        "name": "Forever, Now",
-        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 274795,
-      "name": "Elenore",
-      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
     },
     {
       "added_at": "2023-11-03 09:46:52",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-11-03 09:46:52",
       "album": {
-        "name": "Oasis de Gafsa",
-        "url": "https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 142363,
-      "name": "Oasis de Gafsa",
-      "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
-    },
-    {
-      "added_at": "2023-11-03 09:46:52",
-      "album": {
         "name": "Summer Stars",
         "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 150394,
       "name": "Summer Stars",
       "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
+    },
+    {
+      "added_at": "2023-11-03 09:46:52",
+      "album": {
+        "name": "Oasis de Gafsa",
+        "url": "https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 142363,
+      "name": "Oasis de Gafsa",
+      "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
     },
     {
       "added_at": "2023-11-03 09:46:52",
@@ -1311,22 +1311,26 @@
     {
       "added_at": "2023-11-03 09:46:52",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ"
+        "name": "One Last Call",
+        "url": "https://open.spotify.com/album/6QSHLUdOOiWVjjt3KI30ei"
       },
       "artists": [
         {
-          "name": "Skye Holland",
-          "url": "https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy"
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
         },
         {
-          "name": "Steve Kroeger",
-          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Lola Melita",
+          "url": "https://open.spotify.com/artist/3tEXliVP7fJ9B0e1cJCsxI"
         }
       ],
-      "duration_ms": 189421,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
+      "duration_ms": 158600,
+      "name": "One Last Call",
+      "url": "https://open.spotify.com/track/4JNzccE5ZScrztydSzruE1"
     },
     {
       "added_at": "2023-11-03 09:46:52",
@@ -1347,6 +1351,26 @@
       "duration_ms": 167380,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
+    },
+    {
+      "added_at": "2023-11-03 09:46:52",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ"
+      },
+      "artists": [
+        {
+          "name": "Skye Holland",
+          "url": "https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy"
+        },
+        {
+          "name": "Steve Kroeger",
+          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
+        }
+      ],
+      "duration_ms": 189421,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
     },
     {
       "added_at": "2023-11-03 09:46:52",
@@ -1375,46 +1399,6 @@
     {
       "added_at": "2023-11-03 09:46:52",
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
-      },
-      "artists": [
-        {
-          "name": "Robby East",
-          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
-    },
-    {
-      "added_at": "2023-11-03 09:46:52",
-      "album": {
-        "name": "One Last Call",
-        "url": "https://open.spotify.com/album/6QSHLUdOOiWVjjt3KI30ei"
-      },
-      "artists": [
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        },
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "Lola Melita",
-          "url": "https://open.spotify.com/artist/3tEXliVP7fJ9B0e1cJCsxI"
-        }
-      ],
-      "duration_ms": 158600,
-      "name": "One Last Call",
-      "url": "https://open.spotify.com/track/4JNzccE5ZScrztydSzruE1"
-    },
-    {
-      "added_at": "2023-11-03 09:46:52",
-      "album": {
         "name": "What You Do to Me",
         "url": "https://open.spotify.com/album/33dz95maLS3wwFgdmdBOFO"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 164388,
       "name": "What You Do to Me",
       "url": "https://open.spotify.com/track/44fvlfBmomFkyO0jC7vuWF"
+    },
+    {
+      "added_at": "2023-11-03 09:46:52",
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
+      },
+      "artists": [
+        {
+          "name": "Robby East",
+          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Like Home",
+      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
     },
     {
       "added_at": "2023-11-03 09:46:52",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-11-03 09:46:52",
       "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
+      },
+      "artists": [
+        {
+          "name": "Cogitation",
+          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
+        }
+      ],
+      "duration_ms": 171944,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
+    },
+    {
+      "added_at": "2023-11-03 09:46:52",
+      "album": {
         "name": "Nightcall",
         "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 126147,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
-    },
-    {
-      "added_at": "2023-11-03 09:46:52",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
-      },
-      "artists": [
-        {
-          "name": "Cogitation",
-          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
-        }
-      ],
-      "duration_ms": 171944,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
     },
     {
       "added_at": "2023-11-03 09:46:52",

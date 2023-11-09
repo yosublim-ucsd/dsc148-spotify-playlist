@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia\. Cover: Ibisco
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,638 likes - 65 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,645 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,23 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 45 | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/track/1UK7liy7XxmvtFcbiLj914) | [Sun Dojo](https://open.spotify.com/artist/3MRGrKnnFFaVCtsjOGIKgb) | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/album/73Ae3sW9ClAH9khsl5hZrk) | 0:57 |
 | 46 | [ho perso \(tempo\)](https://open.spotify.com/track/0ZmJQPFg9BOF2Bhcygfrfd) | [joe croci](https://open.spotify.com/artist/48AI6QByBPDMRrZZDskGzD) | [ho perso \(tempo\)](https://open.spotify.com/album/6lQbHdReyXxt7N3KxGYxkY) | 2:34 |
 | 47 | [What has gotten into you?](https://open.spotify.com/track/3o4lVNkYXzxKvpYs6VVqEb) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [What has gotten into you?](https://open.spotify.com/album/4o7k0gfY0CCm1M2LxCxbj9) | 3:28 |
-| 48 | [FRANA](https://open.spotify.com/track/2iFvodhPAWaBcNGtk1rx7I) | [La Gabbia](https://open.spotify.com/artist/1VSD5ZQWKR9HeF3e2xCBiy) | [FRANA](https://open.spotify.com/album/6RtWwQlA3NYmZ7nUwIZWcI) | 3:00 |
-| 49 | [Satelliti](https://open.spotify.com/track/0mHgGcaO1VBp50XuTB1Avl) | [Gli Occhi Degli Altri](https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ) | [Scartaggi](https://open.spotify.com/album/06BUg0CBtQcPvXmAA8Uwx1) | 3:12 |
-| 50 | [orso](https://open.spotify.com/track/73AtLu6D34F9MBD7gDEnb7) | [SANTATERESA](https://open.spotify.com/artist/2PTv9Z4F73QVUNS8IWJGDz) | [orso](https://open.spotify.com/album/7ii0v1oYLS4CmGzNOcQR62) | 3:30 |
-| 51 | [Nocera by Night \(feat\. Visconti\)](https://open.spotify.com/track/63CV2MUMGNraD6LbmDk3aU) | [Alfonso Cheng](https://open.spotify.com/artist/67Ei8mhmeEmM3KAl4PX1hz), [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [Nocera by Night \(feat\. Visconti\)](https://open.spotify.com/album/6TqZM3iOYB1USiWyxvd17i) | 3:11 |
-| 52 | [Giro Classico](https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Giro Classico](https://open.spotify.com/album/6u0UqTIYgswW7qdhockYF3) | 3:24 |
-| 53 | [MANTRA](https://open.spotify.com/track/5OeXR8t6XNBJHabaybzknU) | [Isoladellerose](https://open.spotify.com/artist/0kLYaTmvi8RPAmOEgS2oRb) | [MANTRA](https://open.spotify.com/album/7LaUP7iIURuc6QPGSOPY2B) | 2:24 |
-| 54 | [C'est magique](https://open.spotify.com/track/7oynHAPhWJiIpRtyDQVLa2) | [\(+39\) 375\-649\-94\-64 My Telephone Number](https://open.spotify.com/artist/00xSgiKwSnRaE9zYqlRCoH) | [DEMO \#01](https://open.spotify.com/album/52hUlx8W1cnwA4G79nazsF) | 2:12 |
-| 55 | [Mare Motus](https://open.spotify.com/track/3H2CxeiT9ugpjgAuDcrtY1) | [Malmö](https://open.spotify.com/artist/6dHFhxw5uxV8SJtOmwbb3q) | [Zolfo](https://open.spotify.com/album/6IVY6UjSF6vwHzk9oQWHzm) | 4:05 |
-| 56 | [ENDURO](https://open.spotify.com/track/7hdxWdoBe9pEHZpoKgosgu) | [Appino](https://open.spotify.com/artist/4DZifQP0B5j53Hw4KuMOnH) | [ENDURO](https://open.spotify.com/album/2etNGVtnWyjyE9EHk0Zh7c) | 3:11 |
-| 57 | [Lunedì](https://open.spotify.com/track/0Bf4E2cdRegFDLUEqn43Yb) | [gazza](https://open.spotify.com/artist/0oXxCYKdNM9cxQkezMlIG7) | [Lunedì](https://open.spotify.com/album/3JYGzrFXAyc8LMmnsnDllw) | 2:18 |
-| 58 | [AMICA FRAGILE](https://open.spotify.com/track/2ZtUWuJKa29QH0zGk6Vu6X) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [AMICA FRAGILE](https://open.spotify.com/album/6AAoOuD5lBGebrvUyrQ4P3) | 5:00 |
-| 59 | [CARNEVALE](https://open.spotify.com/track/1v1JM0dxz9InQ7gfnQ4JeA) | [Appino](https://open.spotify.com/artist/4DZifQP0B5j53Hw4KuMOnH) | [CARNEVALE](https://open.spotify.com/album/2u8MA3AiZRo0yBJ2In2PFp) | 5:00 |
-| 60 | [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 |
-| 61 | [Un filo di fumo](https://open.spotify.com/track/5I4mPSt7kb2u666eVXd7dT) | [Giorgio Canali](https://open.spotify.com/artist/5Q1J5NzWPdZcj26K5DqIDQ), [Rossofuoco](https://open.spotify.com/artist/1KZdpVFl5PG1xZ213r7aFO) | [Pericolo giallo](https://open.spotify.com/album/0NTgMryPXL9i5HOTRhACv7) | 4:12 |
-| 62 | [Internet](https://open.spotify.com/track/6M6MjfgxhWDnBJaJdeCJVb) | [Soft Boys Club](https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ) | [Internet](https://open.spotify.com/album/43DorRo1BRbjpsCLc5Hc5l) | 3:08 |
-| 63 | [Ero troppo fatto](https://open.spotify.com/track/7crOXJeucOksYsX3tvnI4w) | [Il Cile](https://open.spotify.com/artist/70tOBioFUv8aswsBxNjCjS) | [Ero troppo fatto](https://open.spotify.com/album/68xC51nsRoeKEfwYp6wO4f) | 3:29 |
-| 64 | [Acqua Bagnami](https://open.spotify.com/track/2cCxcIcuIRMRLEvDUrdHjN) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Acqua Bagnami](https://open.spotify.com/album/4BJj638K8ZAasjQw8YDEV5) | 5:08 |
-| 65 | [Medioriente](https://open.spotify.com/track/1DRTAkWNgNyjUknJ5zcXQE) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Medioriente / Miku五](https://open.spotify.com/album/2f31VolieJe7o0J9m1en3I) | 6:21 |
+| 48 | [Satelliti](https://open.spotify.com/track/0mHgGcaO1VBp50XuTB1Avl) | [Gli Occhi Degli Altri](https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ) | [Scartaggi](https://open.spotify.com/album/06BUg0CBtQcPvXmAA8Uwx1) | 3:12 |
+| 49 | [orso](https://open.spotify.com/track/73AtLu6D34F9MBD7gDEnb7) | [SANTATERESA](https://open.spotify.com/artist/2PTv9Z4F73QVUNS8IWJGDz) | [orso](https://open.spotify.com/album/7ii0v1oYLS4CmGzNOcQR62) | 3:30 |
+| 50 | [Nocera by Night \(feat\. Visconti\)](https://open.spotify.com/track/63CV2MUMGNraD6LbmDk3aU) | [Alfonso Cheng](https://open.spotify.com/artist/67Ei8mhmeEmM3KAl4PX1hz), [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [Nocera by Night \(feat\. Visconti\)](https://open.spotify.com/album/6TqZM3iOYB1USiWyxvd17i) | 3:11 |
+| 51 | [Giro Classico](https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Giro Classico](https://open.spotify.com/album/6u0UqTIYgswW7qdhockYF3) | 3:24 |
+| 52 | [MANTRA](https://open.spotify.com/track/5OeXR8t6XNBJHabaybzknU) | [Isoladellerose](https://open.spotify.com/artist/0kLYaTmvi8RPAmOEgS2oRb) | [MANTRA](https://open.spotify.com/album/7LaUP7iIURuc6QPGSOPY2B) | 2:24 |
+| 53 | [Mare Motus](https://open.spotify.com/track/3H2CxeiT9ugpjgAuDcrtY1) | [Malmö](https://open.spotify.com/artist/6dHFhxw5uxV8SJtOmwbb3q) | [Zolfo](https://open.spotify.com/album/6IVY6UjSF6vwHzk9oQWHzm) | 4:05 |
+| 54 | [Lunedì](https://open.spotify.com/track/0Bf4E2cdRegFDLUEqn43Yb) | [gazza](https://open.spotify.com/artist/0oXxCYKdNM9cxQkezMlIG7) | [Lunedì](https://open.spotify.com/album/3JYGzrFXAyc8LMmnsnDllw) | 2:18 |
+| 55 | [AMICA FRAGILE](https://open.spotify.com/track/2ZtUWuJKa29QH0zGk6Vu6X) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [AMICA FRAGILE](https://open.spotify.com/album/6AAoOuD5lBGebrvUyrQ4P3) | 5:00 |
+| 56 | [CARNEVALE](https://open.spotify.com/track/1v1JM0dxz9InQ7gfnQ4JeA) | [Appino](https://open.spotify.com/artist/4DZifQP0B5j53Hw4KuMOnH) | [CARNEVALE](https://open.spotify.com/album/2u8MA3AiZRo0yBJ2In2PFp) | 5:00 |
+| 57 | [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 |
+| 58 | [Un filo di fumo](https://open.spotify.com/track/5I4mPSt7kb2u666eVXd7dT) | [Giorgio Canali](https://open.spotify.com/artist/5Q1J5NzWPdZcj26K5DqIDQ), [Rossofuoco](https://open.spotify.com/artist/1KZdpVFl5PG1xZ213r7aFO) | [Pericolo giallo](https://open.spotify.com/album/0NTgMryPXL9i5HOTRhACv7) | 4:12 |
+| 59 | [Ero troppo fatto](https://open.spotify.com/track/7crOXJeucOksYsX3tvnI4w) | [Il Cile](https://open.spotify.com/artist/70tOBioFUv8aswsBxNjCjS) | [Ero troppo fatto](https://open.spotify.com/album/68xC51nsRoeKEfwYp6wO4f) | 3:29 |
+| 60 | [Acqua Bagnami](https://open.spotify.com/track/2cCxcIcuIRMRLEvDUrdHjN) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Acqua Bagnami](https://open.spotify.com/album/4BJj638K8ZAasjQw8YDEV5) | 5:08 |
 
-Snapshot ID: `MCw4NTVlNzFiMmEzYTA2ZjQ3YmUwZmU5NDYyZDUxNjBlYWQwNTFmYzQ5`
+Snapshot ID: `MCxhZmJmZDExNGUxYWY3MzA0ZmVlMTA2OTcwNzNkYWJiYTQ2NzllOTFk`

@@ -1,12 +1,12 @@
 {
   "description": "Dreaming of a white Christmas \u2728\u2744\ufe0f",
-  "num_followers": 135222,
+  "num_followers": 135362,
   "original_name": "White Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGI4OGUyNzEzOTM5ZTJkZGFhZDJjOTllMWVmYWRkMmZmZGJmZmMy",
+  "snapshot_id": "MCxhYjE2YWYwNDgwMTk2ODA0MmRmMDA0MTRkNTk1MzA0M2RjYzYwNmRj",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 91760,
-      "name": "Golden Slumbers - Remastered 2009",
-      "url": "https://open.spotify.com/track/01SfTM5nfCou5gQL70r6gs"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Elvis' Christmas Album",
         "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 129173,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 91760,
+      "name": "Golden Slumbers - Remastered 2009",
+      "url": "https://open.spotify.com/track/01SfTM5nfCou5gQL70r6gs"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Like It's Christmas",
+        "url": "https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 200880,
+      "name": "Like It's Christmas",
+      "url": "https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "When Christmas Comes Around...",
         "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
       },
@@ -611,18 +627,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Like It's Christmas",
-        "url": "https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 200880,
-      "name": "Like It's Christmas",
-      "url": "https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv"
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -643,26 +663,6 @@
       "duration_ms": 173560,
       "name": "Baby, It's Cold Outside (feat. Meghan Trainor)",
       "url": "https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Merry Christmas",
-      "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
+        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 206539,
-      "name": "Santa's Coming for Us",
-      "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
+      "duration_ms": 267600,
+      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
+      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
-        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 267600,
-      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
-      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
+      "duration_ms": 206539,
+      "name": "Santa's Coming for Us",
+      "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Christmas Lights",
-        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242495,
-      "name": "Christmas Lights",
-      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Please Come Home for Christmas / Funky New Year (2013 Remaster)",
         "url": "https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 177440,
       "name": "Please Come Home for Christmas - 2013 Remaster",
       "url": "https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Christmas Lights",
+        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242495,
+      "name": "Christmas Lights",
+      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "My Christmas List",
-        "url": "https://open.spotify.com/album/3VpSv9WqlJ2xwnsDcMgINy"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "My Christmas List",
-      "url": "https://open.spotify.com/track/5yqePwEEEahon0KlROPSr0"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Back Home Christmas",
         "url": "https://open.spotify.com/album/14nKYXwTDf1eZoEdnWD501"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 219400,
       "name": "Back Home Christmas",
       "url": "https://open.spotify.com/track/2rEVJTkweG9QW6HPXyDJI4"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "My Christmas List",
+        "url": "https://open.spotify.com/album/3VpSv9WqlJ2xwnsDcMgINy"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "My Christmas List",
+      "url": "https://open.spotify.com/track/5yqePwEEEahon0KlROPSr0"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1663,18 +1663,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "What Are You Doing New Year's Eve?",
-        "url": "https://open.spotify.com/album/4DPj2AE6aRUjDFMMSgfw9x"
+        "name": "Mellow Christmas Acoustic",
+        "url": "https://open.spotify.com/album/7a9xO4nvdqFcrMb2eHtojJ"
       },
       "artists": [
         {
-          "name": "Bestfriend",
-          "url": "https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ"
+          "name": "The Holiday Place",
+          "url": "https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4"
+        },
+        {
+          "name": "Ron Sexsmith",
+          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
         }
       ],
-      "duration_ms": 233846,
-      "name": "What Are You Doing New Year's Eve?",
-      "url": "https://open.spotify.com/track/4I8k8kj0EpsdrQXLlscgpF"
+      "duration_ms": 112746,
+      "name": "Maybe This Christmas",
+      "url": "https://open.spotify.com/track/0c58Aj6LMtGrYASYmjl2kR"
     }
   ],
   "unique_name": "White Christmas",

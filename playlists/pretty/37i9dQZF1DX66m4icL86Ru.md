@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,055 likes - 83 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,442 likes - 83 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 82 | [Peppers \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:08 |
 | 83 | [HOT](https://open.spotify.com/track/38gSLIGyzkLKykkG4S72v5) | [Ktlyn](https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG) | [HOT](https://open.spotify.com/album/3vKu3E7Vrg0fDrzik36yXz) | 2:33 |
 
-Snapshot ID: `MCwzNzhmODlmYzQyY2U0M2Q5MGY1MTg5NmZkOWU3OGU2OTIwYjhjMzNl`
+Snapshot ID: `MCw3ZGNiNThmYzMwNzI3ZjFhYThhOTJkOTgxYjkwNzIwMDU3MTc2ZjUx`

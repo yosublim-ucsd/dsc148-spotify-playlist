@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks right now, featuring Divino Ni\u00f1o.",
-  "num_followers": 155834,
+  "num_followers": 155828,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTgxNWFiNGU5Njc2ZmFhOWU4ZGI0Nzk0YTJjNzU3NGQ0YTRlZWE3",
+  "snapshot_id": "MCwxM2I3NjRiZTI1MzQ5ODY3YmQzMzg5MGRkODBmYWExYTA0MTAyNTVh",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -515,18 +515,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Uh",
-        "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
+        "name": "Ac\u00e9rcate",
+        "url": "https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "Beruti",
+          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
+        },
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
         }
       ],
-      "duration_ms": 211562,
-      "name": "Uh",
-      "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
+      "duration_ms": 167218,
+      "name": "Ac\u00e9rcate",
+      "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -547,22 +551,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Ac\u00e9rcate",
-        "url": "https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl"
+        "name": "Uh",
+        "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
       },
       "artists": [
         {
-          "name": "Beruti",
-          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
-        },
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
         }
       ],
-      "duration_ms": 167218,
-      "name": "Ac\u00e9rcate",
-      "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
+      "duration_ms": 211562,
+      "name": "Uh",
+      "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "El Rayo Vallecano",
-        "url": "https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 170864,
-      "name": "El Rayo Vallecano",
-      "url": "https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Blssom",
         "url": "https://open.spotify.com/album/1vPsFj3ckFQCnFwSGGiezb"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "El Rayo Vallecano",
+        "url": "https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 170864,
+      "name": "El Rayo Vallecano",
+      "url": "https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Match",
         "url": "https://open.spotify.com/album/3kx5G9S55HO7FRFOK3rJ79"
       },
@@ -1147,6 +1147,26 @@
       "duration_ms": 205160,
       "name": "Match",
       "url": "https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 210763,
+      "name": "NO TE ALEJES",
+      "url": "https://open.spotify.com/track/3x5uBmNaBtm8l843nO15P1"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1207,22 +1227,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 158492,
-      "name": "SUBCONSCIENTE",
-      "url": "https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Ya no estoy aqu\u00ed",
         "url": "https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6"
       },
@@ -1235,6 +1239,22 @@
       "duration_ms": 202105,
       "name": "Ya no estoy aqu\u00ed",
       "url": "https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 158492,
+      "name": "SUBCONSCIENTE",
+      "url": "https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1259,38 +1279,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
+        "name": "inigualable",
+        "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
       },
       "artists": [
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
         },
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
         }
       ],
-      "duration_ms": 210763,
-      "name": "NO TE ALEJES",
-      "url": "https://open.spotify.com/track/3x5uBmNaBtm8l843nO15P1"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "MIMO",
-        "url": "https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 151207,
-      "name": "FRESH",
-      "url": "https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV"
+      "duration_ms": 178645,
+      "name": "inigualable",
+      "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
     },
     {
       "added_at": "2023-11-03 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,622 likes - 55 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,657 likes - 55 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 54 | [ff31warning](https://open.spotify.com/track/3AR69u2fafHzTEHG8WAt5I) | [Gacha Bakradze](https://open.spotify.com/artist/6dZmlzI1H5SGdkQ8dWRY76) | [Pancakes](https://open.spotify.com/album/5NasoEOOCZ59qof3c0hdNP) | 3:08 |
 | 55 | [Ax Mr\. L.](https://open.spotify.com/track/1IsTjsZ93VVERHRD5jl1fL) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Revep](https://open.spotify.com/album/0nWCa0VuF2knFYgWrqyQJt) | 4:18 |
 
-Snapshot ID: `MCw2ZjE5YzFlMjQxZmQ3M2FmY2ZkOWY2YmY5ODZiNWU1Njc4ODFmMDg4`
+Snapshot ID: `MCw3YWM5NzU4NjcwNmY5ZWM1ZDY3NTY0OGM2YTI4MTA0NzQxYTZhYjNm`

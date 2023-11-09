@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 43506,
+  "num_followers": 43526,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDI0NzgyNGNkNDZkY2RkZWUxMjNkOGI4ZTRhNTA4NDhkZGU5NTdk",
+  "snapshot_id": "MCwxMmRlMWMxOWMxMWRkNmY5YmY4ZmQ3ZjA2MzdlNTFkMThhMWIzNjc1",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:58",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Presenting Blind Blake",
-        "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
-      },
-      "artists": [
-        {
-          "name": "Blind Blake",
-          "url": "https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Hastings Street",
-      "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Blues On The Prowl",
         "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 217720,
       "name": "Booker's Boogie",
       "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Presenting Blind Blake",
+        "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
+      },
+      "artists": [
+        {
+          "name": "Blind Blake",
+          "url": "https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Hastings Street",
+      "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Omniboogie 2012",
-        "url": "https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9"
-      },
-      "artists": [
-        {
-          "name": "Rob Rio",
-          "url": "https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K"
-        }
-      ],
-      "duration_ms": 115582,
-      "name": "Quarter Bass Boogie",
-      "url": "https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "No Hats",
         "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 201066,
       "name": "Caroline's Boogie",
       "url": "https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Omniboogie 2012",
+        "url": "https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9"
+      },
+      "artists": [
+        {
+          "name": "Rob Rio",
+          "url": "https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K"
+        }
+      ],
+      "duration_ms": 115582,
+      "name": "Quarter Bass Boogie",
+      "url": "https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "\"Devil Digit Boogie Woogie\"",
+        "url": "https://open.spotify.com/album/3Ex4BUJtFC1CvSqXqdKdYe"
+      },
+      "artists": [
+        {
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "A Boogie Woogie Sunday",
+      "url": "https://open.spotify.com/track/1JJCKBuLVPAU0oeu5aWtSt"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "So Swell",
         "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 287190,
       "name": "Boogie Stomp",
       "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
-        "name": "\"Devil Digit Boogie Woogie\"",
-        "url": "https://open.spotify.com/album/3Ex4BUJtFC1CvSqXqdKdYe"
-      },
-      "artists": [
-        {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "A Boogie Woogie Sunday",
-      "url": "https://open.spotify.com/track/1JJCKBuLVPAU0oeu5aWtSt"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "The Bobby Robinson Story Volume One",
+        "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 145278,
+      "name": "Shake Baby Shake",
+      "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
         "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 146346,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
-        "name": "The Bobby Robinson Story Volume One",
-        "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 145278,
-      "name": "Shake Baby Shake",
-      "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "This Is Boogie Woogie!",
-        "url": "https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP"
-      },
-      "artists": [
-        {
-          "name": "Dave Taylor",
-          "url": "https://open.spotify.com/artist/75R7PfBRN6kdo7yY7NJhR8"
-        }
-      ],
-      "duration_ms": 154826,
-      "name": "Boogie In The City",
-      "url": "https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Boogie Woogie",
         "url": "https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 198733,
       "name": "Get in the Groove, Boys!",
       "url": "https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "This Is Boogie Woogie!",
+        "url": "https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP"
+      },
+      "artists": [
+        {
+          "name": "Dave Taylor",
+          "url": "https://open.spotify.com/artist/75R7PfBRN6kdo7yY7NJhR8"
+        }
+      ],
+      "duration_ms": 154826,
+      "name": "Boogie In The City",
+      "url": "https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL"
     },
     {
       "added_at": "2023-09-15 11:42:58",

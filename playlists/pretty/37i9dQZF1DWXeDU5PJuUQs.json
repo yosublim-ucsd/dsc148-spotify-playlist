@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 130835,
+  "num_followers": 130942,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTVkODA2NjQ1YjA5YjI4Yzg3NmVlNTQxNzhhYzBlMTU4MGNlOWQ0",
+  "snapshot_id": "MCxiMGM3MmJmMmY5NDliNTI4NDQzNzZhNTMxMWIwNTUwZWNiOGQwY2Ex",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Ella Dijo / Mil Horas",
-        "url": "https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 199435,
-      "name": "Ella Dijo / Mil Horas - En Vivo",
-      "url": "https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 269848,
       "name": "Perdoname / Te Quiero a Ti - En Vivo",
       "url": "https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Ella Dijo / Mil Horas",
+        "url": "https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 199435,
+      "name": "Ella Dijo / Mil Horas - En Vivo",
+      "url": "https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 164071,
-      "name": "Una Calle Nos Separa - En Vivo",
-      "url": "https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 221701,
       "name": "Tu Sin Mi - En Vivo",
       "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 164071,
+      "name": "Una Calle Nos Separa - En Vivo",
+      "url": "https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "En Vivo Desde el Teatro Opera",
+        "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 433520,
+      "name": "Karma / Me Voy / Solita Me Voy - En Vivo",
+      "url": "https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Una Copa de M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 316182,
       "name": "Una Copa de M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "En Vivo Desde el Teatro Opera",
-        "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 433520,
-      "name": "Karma / Me Voy / Solita Me Voy - En Vivo",
-      "url": "https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Estuve Ah\u00ed",
-        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
+        "name": "En Vivo en el Teatro",
+        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
       },
       "artists": [
         {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
         }
       ],
-      "duration_ms": 194931,
-      "name": "Estuve Ah\u00ed",
-      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
+      "duration_ms": 1189088,
+      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
+      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "En Vivo en el Teatro",
-        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
         }
       ],
-      "duration_ms": 1189088,
-      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
-      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
+      "duration_ms": 194931,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
     },
     {
       "added_at": "2023-10-20 03:00:00",

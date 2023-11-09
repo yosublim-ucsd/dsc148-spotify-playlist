@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 687447,
+  "num_followers": 687500,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2IxZWY3NGJjYjgzNGI2OTBlM2M4NGU4ZWZiNmU2N2EwNDBjYmUy",
+  "snapshot_id": "MCw1YTI5ODg0NWNkOWE5Yzg0ZmMwNmRjMzE4MTQyMmMwZDcwMDk3MWQy",
   "tracks": [
     {
       "added_at": "2023-10-20 16:58:03",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 218052,
-      "name": "Let It Be",
-      "url": "https://open.spotify.com/track/1nuInrrZzg1joRPjIk8oyS"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 176921,
       "name": "The Best",
       "url": "https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 218052,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/1nuInrrZzg1joRPjIk8oyS"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Here Comes the Sun",
-        "url": "https://open.spotify.com/album/2GXqBtE35cbS4TKzm5Tlb1"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 141653,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/6fRGlpbaHqgJpRirqWKif7"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "I Melt with You",
         "url": "https://open.spotify.com/album/52bkZUrqk2yqMChTrt7bQS"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 217344,
       "name": "I Melt with You",
       "url": "https://open.spotify.com/track/2klm5iA7LfNZBdip5hAeVL"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Here Comes the Sun",
+        "url": "https://open.spotify.com/album/2GXqBtE35cbS4TKzm5Tlb1"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 141653,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/6fRGlpbaHqgJpRirqWKif7"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "Judah & The Lion (Unplugged)",
         "url": "https://open.spotify.com/album/6YdwCaQPQ4j3h8F8fFWeUi"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 251805,
       "name": "Soak up the Sun - Unplugged",
       "url": "https://open.spotify.com/track/0eUty3IjjOqEheyWEb9Rsb"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "Home Again / It's Too Late",
         "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 197647,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Helplessly Hoping",
-        "url": "https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 159229,
-      "name": "Helplessly Hoping",
-      "url": "https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 248013,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Helplessly Hoping",
+        "url": "https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 159229,
+      "name": "Helplessly Hoping",
+      "url": "https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
+        "name": "Never Surrender",
+        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
+      },
+      "artists": [
+        {
+          "name": "Dante Hart",
+          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
+        }
+      ],
+      "duration_ms": 228099,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
         "name": "Man in the Mirror",
         "url": "https://open.spotify.com/album/5VleQQSPbU6LEzONZK38F5"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 210891,
       "name": "Man in the Mirror",
       "url": "https://open.spotify.com/track/4XTqOeJ9nLeNCHy2fXYi5T"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
-        "name": "Never Surrender",
-        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
-      },
-      "artists": [
-        {
-          "name": "Dante Hart",
-          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
-        }
-      ],
-      "duration_ms": 228099,
-      "name": "Never Surrender",
-      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Anthem +3",
-        "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 345773,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "It's Only Rock 'N' Roll (But I Like It)",
         "url": "https://open.spotify.com/album/1GCjwU2CejKwooZG68QBqb"
       },
@@ -1835,18 +1819,34 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Mercy Mercy Me (The Ecology)",
-        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
+        "name": "Anthem +3",
+        "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
       },
       "artists": [
         {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 190885,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
+      "duration_ms": 345773,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "You'll Never Walk Alone",
+        "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 118476,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
     }
   ],
   "unique_name": "Classic Covers",

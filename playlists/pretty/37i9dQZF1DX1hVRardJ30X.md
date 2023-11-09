@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Sofía Reyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,531 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,554 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 48 | [¿Así Que Te Gusta Hacerte El Lou Reed?](https://open.spotify.com/track/3tv2PAwZArvekOqHojdsFo) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [El Sonido Del Éxtasis](https://open.spotify.com/album/1W8z2q9AdSAC9nzLOITY0N) | 4:05 |
 | 49 | [La Verdad](https://open.spotify.com/track/7onIiU1mi9YDbFzMsErUgw) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Mi Cautela](https://open.spotify.com/album/7i9Wby2FKiRw4RFz2WuF7I) | 4:02 |
 
-Snapshot ID: `MCwzZjkwMDIwNWU2Y2IyYzIwNDk4NTAyMGE4NWI1MWZmNTE2MzUyNDY4`
+Snapshot ID: `MCw4MTcwMWUwNjVlNzY5MjYxNmMxY2M3NDA1Njg3OTU2OGZmYjQwMWYw`

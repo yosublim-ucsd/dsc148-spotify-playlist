@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Cecilia Toussaint en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,009,326 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009,426 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 82 | [Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Niño Objeto, Espergesia, Mi Tamagochi, Peter Punk](https://open.spotify.com/track/1vw07M44PHHu3ziRY5Wn4t) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Niño Objeto, Espergesia, Mi Tamagochi, Peter Punk](https://open.spotify.com/album/2yTicDu0XFg8HUATcCQa3U) | 12:14 |
 | 83 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
 | 84 | [Elemento \- Noches De Salón](https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Elemento \(Noches De Salón\)](https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR) | 3:43 |
-| 85 | [Calles de Talcahuano](https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Calles de Talcahuano](https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE) | 3:46 |
-| 86 | [De Mis Pasos](https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Aqui](https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ) | 3:18 |
+| 85 | [De Mis Pasos](https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Aqui](https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ) | 3:18 |
+| 86 | [Calles de Talcahuano](https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Calles de Talcahuano](https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE) | 3:46 |
 | 87 | [Las Batallas/Rarotonga \- MTV Unplugged](https://open.spotify.com/track/0b0x5fdpSjvJ8LiYSPnWoF) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 5:26 |
 | 88 | [Oro](https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Oro](https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi) | 3:30 |
 | 89 | [Nezayork](https://open.spotify.com/track/1AoIZbgzOfGJ9wiBPm3UHC) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Nezayork](https://open.spotify.com/album/3L7rldwdTRAT5qydAQJXJR) | 2:34 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 93 | [Yo Tomo](https://open.spotify.com/track/7EFXiU4su2Wrbw395sExAX) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Gustavo Cordera](https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i) | [Yo Tomo](https://open.spotify.com/album/4CvY2laGULuB45gIFmdRR4) | 3:39 |
 | 94 | [Estoy Perdiendo La Razón](https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [Estoy Perdiendo La Razón](https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK) | 3:22 |
 | 95 | [América](https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [ADN \(Capítulo N\)](https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX) | 3:02 |
-| 96 | [Señal](https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Mienten](https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR) | 4:37 |
-| 97 | [La Locomotora \- MTV Unplugged](https://open.spotify.com/track/3W7ctGaVvHy2bIPQaNjKgA) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 4:01 |
+| 96 | [La Locomotora \- MTV Unplugged](https://open.spotify.com/track/3W7ctGaVvHy2bIPQaNjKgA) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 4:01 |
+| 97 | [Señal](https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Mienten](https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR) | 4:37 |
 | 98 | [Sam El Bigotón](https://open.spotify.com/track/1cPaytgR4EP7GrUQ8RIEn6) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [Sam El Bigotón](https://open.spotify.com/album/034wKcuMzgFDMuu1pCjOeC) | 2:55 |
 | 99 | [Bajo la Luna](https://open.spotify.com/track/2oaYSIcpAq0iqiJ30W6C2L) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB) | [Bajo la Luna](https://open.spotify.com/album/5x2yu1WZBvHROOW7p1iGCU) | 3:13 |
 | 100 | [Almas Rotas](https://open.spotify.com/track/3tCD9o5wDyg8yrH7MspqkW) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Almas Rotas](https://open.spotify.com/album/4ksTEssdxEf4aOBy7o4Ifz) | 3:45 |
 
-Snapshot ID: `MCxiOTNiNzNmZjNiM2RlYzkzMWE5MjNkMzk4YzQ2MjdhYjBlZDBmZWQ1`
+Snapshot ID: `MCwyNjZkZmRjN2UzNzFjYWJiYzQ2Zjk3YzUyMzJhMTRiYTA3MWQyODEy`

@@ -1,13 +1,73 @@
 {
   "description": "Chaos in electronic form.",
-  "num_followers": 25203,
+  "num_followers": 25241,
   "original_name": "Virtual Reality",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmRhOTc4OGQxMzRmOTIzMTA0M2Q1NmNmMGFmNmYxNGUxMDE4ZGQ2",
+  "snapshot_id": "MCw1NmQyMDFkNThmNWFlNGY2ZTY1ZjIwNmMxNjhiYzM0N2Y2NGU5ZWJh",
   "tracks": [
+    {
+      "added_at": "2023-08-15 19:25:25",
+      "album": {
+        "name": "Junkie",
+        "url": "https://open.spotify.com/album/4GcXFLrJYvYYiu9NXV51yg"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "duration_ms": 216821,
+      "name": "Junkie",
+      "url": "https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo"
+    },
+    {
+      "added_at": "2023-08-15 18:28:53",
+      "album": {
+        "name": "Internet Dump",
+        "url": "https://open.spotify.com/album/4Gml4rYNKgY0bpXKLG6GSW"
+      },
+      "artists": [
+        {
+          "name": "Neukrapsio",
+          "url": "https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa"
+        },
+        {
+          "name": "Miss Ayesha",
+          "url": "https://open.spotify.com/artist/3aJK7LhPLg4rDr6hTbABzZ"
+        }
+      ],
+      "duration_ms": 126074,
+      "name": "Internet Dump",
+      "url": "https://open.spotify.com/track/5xXab44aWtEqltnKl3mTlD"
+    },
+    {
+      "added_at": "2023-07-19 01:05:48",
+      "album": {
+        "name": "Blow Up Yr Life (U Need To)",
+        "url": "https://open.spotify.com/album/0Hn0apOsWV86eg8YDjsMAB"
+      },
+      "artists": [
+        {
+          "name": "Nina Keith",
+          "url": "https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i"
+        },
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        },
+        {
+          "name": "Qur'an Shaheed",
+          "url": "https://open.spotify.com/artist/6zYf3M745APT179QsjrlB4"
+        }
+      ],
+      "duration_ms": 286546,
+      "name": "Blow Up Yr Life (U Need To)",
+      "url": "https://open.spotify.com/track/5c56mfcwKfh788koF3CCRy"
+    },
     {
       "added_at": "2022-09-21 02:30:23",
       "album": {
@@ -27,6 +87,22 @@
       "duration_ms": 94632,
       "name": "The Metallic Index",
       "url": "https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr"
+    },
+    {
+      "added_at": "2023-11-08 01:43:53",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/0JbWPM7xG2da5hL8eOtW3S"
+      },
+      "artists": [
+        {
+          "name": "Yuko Araki",
+          "url": "https://open.spotify.com/artist/4QebQToYFU8PDWW21ZWw4U"
+        }
+      ],
+      "duration_ms": 272500,
+      "name": "\u2021Damontoid",
+      "url": "https://open.spotify.com/track/12S65ewG2HEKUvG3zsjL5C"
     },
     {
       "added_at": "2023-04-13 19:39:44",
@@ -81,30 +157,6 @@
       "url": "https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW"
     },
     {
-      "added_at": "2023-07-19 01:05:48",
-      "album": {
-        "name": "Blow Up Yr Life (U Need To)",
-        "url": "https://open.spotify.com/album/0Hn0apOsWV86eg8YDjsMAB"
-      },
-      "artists": [
-        {
-          "name": "Nina Keith",
-          "url": "https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i"
-        },
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        },
-        {
-          "name": "Qur'an Shaheed",
-          "url": "https://open.spotify.com/artist/6zYf3M745APT179QsjrlB4"
-        }
-      ],
-      "duration_ms": 286546,
-      "name": "Blow Up Yr Life (U Need To)",
-      "url": "https://open.spotify.com/track/5c56mfcwKfh788koF3CCRy"
-    },
-    {
       "added_at": "2021-10-06 02:11:31",
       "album": {
         "name": "Hiraeth",
@@ -119,6 +171,22 @@
       "duration_ms": 255747,
       "name": "Eden Transit",
       "url": "https://open.spotify.com/track/16q8cwecGhHKGGiwTnkutf"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Subtle Vertigo",
+        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
+      },
+      "artists": [
+        {
+          "name": "Scott Gilmore",
+          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
+        }
+      ],
+      "duration_ms": 162940,
+      "name": "E70 No. 01",
+      "url": "https://open.spotify.com/track/01iglyLhCYZYlCqAxY8Vfz"
     },
     {
       "added_at": "2023-08-03 05:08:24",
@@ -143,22 +211,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Subtle Vertigo",
-        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
-      },
-      "artists": [
-        {
-          "name": "Scott Gilmore",
-          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
-        }
-      ],
-      "duration_ms": 162940,
-      "name": "E70 No. 01",
-      "url": "https://open.spotify.com/track/01iglyLhCYZYlCqAxY8Vfz"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Fear in a Handful of Dust",
         "url": "https://open.spotify.com/album/5JntKJacrklh6D69IsETO7"
       },
@@ -171,26 +223,6 @@
       "duration_ms": 216892,
       "name": "On a Hilltop Sat the Moon",
       "url": "https://open.spotify.com/track/3182ZGsY58yGqlr1BJZBgZ"
-    },
-    {
-      "added_at": "2023-08-15 18:28:53",
-      "album": {
-        "name": "Internet Dump",
-        "url": "https://open.spotify.com/album/4Gml4rYNKgY0bpXKLG6GSW"
-      },
-      "artists": [
-        {
-          "name": "Neukrapsio",
-          "url": "https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa"
-        },
-        {
-          "name": "Miss Ayesha",
-          "url": "https://open.spotify.com/artist/3aJK7LhPLg4rDr6hTbABzZ"
-        }
-      ],
-      "duration_ms": 126074,
-      "name": "Internet Dump",
-      "url": "https://open.spotify.com/track/5xXab44aWtEqltnKl3mTlD"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -209,22 +241,6 @@
       "url": "https://open.spotify.com/track/4ymEyV9kduYBdmZpVtwjsQ"
     },
     {
-      "added_at": "2023-08-29 00:55:17",
-      "album": {
-        "name": "Hint",
-        "url": "https://open.spotify.com/album/6kuAtwn4IGu4L0NnlBOJHc"
-      },
-      "artists": [
-        {
-          "name": "SPIME.IM",
-          "url": "https://open.spotify.com/artist/6zOLowG2X8FkUqPSEmetDJ"
-        }
-      ],
-      "duration_ms": 303500,
-      "name": "Hint",
-      "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
-    },
-    {
       "added_at": "2021-10-06 02:11:31",
       "album": {
         "name": "Hong Kong Express",
@@ -239,22 +255,6 @@
       "duration_ms": 207232,
       "name": "Unfinished Business",
       "url": "https://open.spotify.com/track/7xB6q501pjADLOIBO55NPp"
-    },
-    {
-      "added_at": "2023-08-15 19:25:25",
-      "album": {
-        "name": "Junkie",
-        "url": "https://open.spotify.com/album/4GcXFLrJYvYYiu9NXV51yg"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 216821,
-      "name": "Junkie",
-      "url": "https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -289,6 +289,22 @@
       "url": "https://open.spotify.com/track/4dlFG5cBPJeP2aBKAelWdK"
     },
     {
+      "added_at": "2022-12-20 22:06:32",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 241846,
+      "name": "0\u00b0C",
+      "url": "https://open.spotify.com/track/1tnexZBkX24zkjm2s11E8Y"
+    },
+    {
       "added_at": "2021-10-06 02:11:31",
       "album": {
         "name": "Dub Protection & The Sportswear Mystics",
@@ -307,22 +323,6 @@
       "duration_ms": 311480,
       "name": "Dub Protection",
       "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
-    },
-    {
-      "added_at": "2022-12-20 22:06:32",
-      "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 241846,
-      "name": "0\u00b0C",
-      "url": "https://open.spotify.com/track/1tnexZBkX24zkjm2s11E8Y"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -419,6 +419,22 @@
       "duration_ms": 336000,
       "name": "Expanding Electricity - Single Edit",
       "url": "https://open.spotify.com/track/0CeoyRkeTUuZQk93GBH8B7"
+    },
+    {
+      "added_at": "2023-08-29 00:55:17",
+      "album": {
+        "name": "Hint",
+        "url": "https://open.spotify.com/album/6kuAtwn4IGu4L0NnlBOJHc"
+      },
+      "artists": [
+        {
+          "name": "SPIME.IM",
+          "url": "https://open.spotify.com/artist/6zOLowG2X8FkUqPSEmetDJ"
+        }
+      ],
+      "duration_ms": 303500,
+      "name": "Hint",
+      "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -543,22 +559,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Zon Zon Zon",
-        "url": "https://open.spotify.com/album/7fUIL0vt55dn93nWfRgBWj"
-      },
-      "artists": [
-        {
-          "name": "Shelter",
-          "url": "https://open.spotify.com/artist/3k2mZ2vmhiARdgLHAuCkGT"
-        }
-      ],
-      "duration_ms": 308614,
-      "name": "Senhor Zalla",
-      "url": "https://open.spotify.com/track/2veEIrSGcCszmVKyEuiIVd"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "The Mosaic of Transformation",
         "url": "https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 339493,
       "name": "The Steady Heart",
       "url": "https://open.spotify.com/track/0ZRoGWrVDfK5J6nbZTywr2"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Zon Zon Zon",
+        "url": "https://open.spotify.com/album/7fUIL0vt55dn93nWfRgBWj"
+      },
+      "artists": [
+        {
+          "name": "Shelter",
+          "url": "https://open.spotify.com/artist/3k2mZ2vmhiARdgLHAuCkGT"
+        }
+      ],
+      "duration_ms": 308614,
+      "name": "Senhor Zalla",
+      "url": "https://open.spotify.com/track/2veEIrSGcCszmVKyEuiIVd"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -643,22 +659,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Cocoon Crush",
-        "url": "https://open.spotify.com/album/2vE3mTa7olXTXbHb6t2XjE"
-      },
-      "artists": [
-        {
-          "name": "Objekt",
-          "url": "https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc"
-        }
-      ],
-      "duration_ms": 216606,
-      "name": "Dazzle Anew",
-      "url": "https://open.spotify.com/track/4jPGf8NTH7H5L9zbH8r7KK"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Ramifications",
         "url": "https://open.spotify.com/album/2sbW0BHAt4RibZnl5jHGtZ"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 220848,
       "name": "Occurrence at the Triple Door",
       "url": "https://open.spotify.com/track/1VJC2cp8lqk8zTEujQDWPu"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Cocoon Crush",
+        "url": "https://open.spotify.com/album/2vE3mTa7olXTXbHb6t2XjE"
+      },
+      "artists": [
+        {
+          "name": "Objekt",
+          "url": "https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc"
+        }
+      ],
+      "duration_ms": 216606,
+      "name": "Dazzle Anew",
+      "url": "https://open.spotify.com/track/4jPGf8NTH7H5L9zbH8r7KK"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -803,26 +819,6 @@
       "duration_ms": 270620,
       "name": "Hypogean",
       "url": "https://open.spotify.com/track/2Dmu5AIckVaWZAYq5w7jhU"
-    },
-    {
-      "added_at": "2022-02-09 04:06:03",
-      "album": {
-        "name": "Aurelie (Lido Pimienta Remix)",
-        "url": "https://open.spotify.com/album/42imqapebSrpDVOjETHCnN"
-      },
-      "artists": [
-        {
-          "name": "Lou Canon",
-          "url": "https://open.spotify.com/artist/2ZKNwYmNk7NS0oSNq5AieB"
-        },
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        }
-      ],
-      "duration_ms": 258625,
-      "name": "Aurelie (Lido Pimienta Remix)",
-      "url": "https://open.spotify.com/track/0vFdrzcSex0hPwLnw3SFa1"
     },
     {
       "added_at": "2021-10-06 02:11:31",

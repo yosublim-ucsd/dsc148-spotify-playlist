@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 222815,
+  "num_followers": 222961,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjBmOTJmZDY3N2EzMzFhYTcyMmM3NDY3NWNkOGRmMDNlMDUwYTU2",
+  "snapshot_id": "MCw0ZmZjNjFlZjlmNDllMTQ3NzdjZDI0Y2Y1ODE4NWJmZTczMjQ1YTRi",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
+      "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "Please Please Me (Remastered)",
         "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
+      "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "Please Please Me (Remastered)",
         "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
@@ -381,22 +381,6 @@
       "url": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Hold On, I'm Comin'",
-        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Hold On, I'm Comin'",
-      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
-    },
-    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "Are You Experienced",
@@ -411,6 +395,22 @@
       "duration_ms": 170813,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Hold On, I'm Comin'",
+        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Hold On, I'm Comin'",
+      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Where Did Our Love Go",
         "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 153333,
       "name": "Where Did Our Love Go",
       "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
+      "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "Do You Love Me (Now That I Can Dance)",
         "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 165226,
-      "name": "Dancing In The Street",
-      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 160306,
       "name": "Summer in the City - Remastered",
       "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 165226,
+      "name": "Dancing In The Street",
+      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "More Hits By The Supremes",
         "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 172906,
       "name": "Stop! In The Name Of Love",
       "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
-        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
+        "name": "Baby Now That I've Found You",
+        "url": "https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE"
       },
       "artists": [
         {
-          "name": "Jay & The Americans",
-          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
         }
       ],
-      "duration_ms": 166666,
-      "name": "Come A Little Bit Closer",
-      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
+      "duration_ms": 180133,
+      "name": "Build Me Up Buttercup (Mono)",
+      "url": "https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1005,20 +1005,20 @@
       "url": "https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
+      "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Fresh Cream",
-        "url": "https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB"
+        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
+        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
       },
       "artists": [
         {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+          "name": "Jay & The Americans",
+          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
         }
       ],
-      "duration_ms": 171506,
-      "name": "I Feel Free",
-      "url": "https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS"
+      "duration_ms": 166666,
+      "name": "Come A Little Bit Closer",
+      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1037,20 +1037,20 @@
       "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
+      "added_at": "2023-05-30 09:14:29",
       "album": {
-        "name": "Baby Now That I've Found You",
-        "url": "https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE"
+        "name": "Fresh Cream",
+        "url": "https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB"
       },
       "artists": [
         {
-          "name": "The Foundations",
-          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
         }
       ],
-      "duration_ms": 180133,
-      "name": "Build Me Up Buttercup (Mono)",
-      "url": "https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC"
+      "duration_ms": 171506,
+      "name": "I Feel Free",
+      "url": "https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Ultimate Jackie Wilson",
-        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Best Of Canned Heat",
         "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "The Ultimate Jackie Wilson",
+        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Sweet Soul Music",
         "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 141066,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
-    },
-    {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "Disraeli Gears",
-        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1217,6 +1201,38 @@
       "url": "https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX"
     },
     {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+    },
+    {
       "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "It's Our Thing",
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+        "name": "New Gold Hits",
+        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
       },
       "artists": [
         {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
         }
       ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+      "duration_ms": 170626,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1283,22 +1299,6 @@
       "duration_ms": 145800,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "New Gold Hits",
-        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/79v0WaGkCOQCa2qIxb5DUN"
+      },
+      "artists": [
+        {
+          "name": "The Easybeats",
+          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Friday On My Mind",
+      "url": "https://open.spotify.com/track/3Jw1RfDEUEBBIIyNjGt9xP"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The Best Of Spencer Davis Group",
         "url": "https://open.spotify.com/album/6hWcuAd9vwJ0Dqbobj3ksb"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 151413,
       "name": "Things",
       "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/79v0WaGkCOQCa2qIxb5DUN"
-      },
-      "artists": [
-        {
-          "name": "The Easybeats",
-          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Friday On My Mind",
-      "url": "https://open.spotify.com/track/3Jw1RfDEUEBBIIyNjGt9xP"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Collector",
-        "url": "https://open.spotify.com/album/4PrsQQJpd1JzboMg7tFlf5"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 146599,
-      "name": "Jambalaya - On the Bayou",
-      "url": "https://open.spotify.com/track/5UzBH9eW6D8rP0TC69vL7p"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Needles & Pins",
         "url": "https://open.spotify.com/album/09rvbOvN7ToOXX0CNlCJYF"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 131880,
       "name": "Needles and Pins",
       "url": "https://open.spotify.com/track/0yGEtWW1560pa3KHMzh0uc"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Collector",
+        "url": "https://open.spotify.com/album/4PrsQQJpd1JzboMg7tFlf5"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 146599,
+      "name": "Jambalaya - On the Bayou",
+      "url": "https://open.spotify.com/track/5UzBH9eW6D8rP0TC69vL7p"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2301,7 +2301,7 @@
       "url": "https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
+      "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "A Hard Day's Night (Remastered)",
         "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
@@ -2347,70 +2347,6 @@
       "duration_ms": 142653,
       "name": "She Loves You - Mono Version / Remastered 2009",
       "url": "https://open.spotify.com/track/0qsS2A3hwicJCLtcaR6JRQ"
-    },
-    {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "Please Please Me (Remastered)",
-        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 155226,
-      "name": "Twist And Shout - Remastered 2009",
-      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
-    },
-    {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "Please Please Me (Remastered)",
-        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 141693,
-      "name": "Love Me Do - Remastered 2009",
-      "url": "https://open.spotify.com/track/3VbGCXWRiouAq8VyMYN2MI"
-    },
-    {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "A Hard Day's Night (Remastered)",
-        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 131866,
-      "name": "Can't Buy Me Love - Remastered 2009",
-      "url": "https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw"
-    },
-    {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "Do You Love Me (Now That I Can Dance)",
-        "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
-      },
-      "artists": [
-        {
-          "name": "The Contours",
-          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "Do You Love Me - Mono Single",
-      "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
     }
   ],
   "unique_name": "60s Party",

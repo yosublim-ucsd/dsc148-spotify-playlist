@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra Abbot e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,417 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,420 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 48 | [SEM MÉNAGE](https://open.spotify.com/track/6UZHjMPp3rfFFDby5yleiy) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [HODARI](https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154) | 2:29 |
 | 49 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 |
 | 50 | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD) | 2:01 |
-| 51 | [Imaginar](https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo) | [Imaginar](https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x) | 2:20 |
-| 52 | [Deixar na B](https://open.spotify.com/track/3KYHgasdHqKROkh17t1LT9) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Deixar na B](https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3) | 2:09 |
+| 51 | [Deixar na B](https://open.spotify.com/track/3KYHgasdHqKROkh17t1LT9) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Deixar na B](https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3) | 2:09 |
+| 52 | [Imaginar](https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo) | [Imaginar](https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x) | 2:20 |
 | 53 | [Face ID](https://open.spotify.com/track/3ib4SClHlSQXqV8EwChkWZ) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Face ID](https://open.spotify.com/album/0UjBaUcZ8Kn7rcc6KhFDzI) | 2:32 |
 | 54 | [PATY](https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [PATY](https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO) | 1:49 |
 | 55 | [Droga Pesada \(feat\. Nairo\)](https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Droga Pesada \(feat\. Nairo\)](https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 74 | [Se Fecha](https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5) | [Hate Rct](https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7), [Noze](https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6) | [Se Fecha](https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB) | 2:17 |
 | 75 | [Vivara](https://open.spotify.com/track/6v8l1VlZloOoR83tK8OWKK) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Campanha MC](https://open.spotify.com/artist/73afrwTwaERzC4iChaDgaY), [MC Murilo MT](https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP) | [Vivara](https://open.spotify.com/album/3BIAmUy9t19xvRg9dQGXDk) | 4:16 |
 
-Snapshot ID: `MCwxMzVhYTUzMWU0NmU2NmZiZGI0MzNiZmU0NTI4NTI3MTJmZWE1NjI5`
+Snapshot ID: `MCw4NGRiYzAzYzE4YjY1M2M2ZWE3ODA1YjI3YWE5Y2QwY2E1ZjcyZWVj`

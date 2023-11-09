@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-241 songs - 19 hr 9 min
+242 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [bda creature](https://open.spotify.com/track/7vmEKyVtkUBfrHzu7mRZ0E) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF), [Blue Dust Archive](https://open.spotify.com/artist/0cZmamL9NzyInr7N3c0lDK) | [bda creature](https://open.spotify.com/album/56315GHHnqKTmTWZFaLFhE) | 4:51 | 2022-06-20 | 2022-11-26 |
 | [Black Rainbow](https://open.spotify.com/track/6j79YyfQV1ZNiQ3Ywqhrhi) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Agor](https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz) | 4:32 | 2021-10-15 | 2022-02-10 |
 | [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 | 2023-06-23 | 2023-07-29 |
-| [Blackbox Life Recorder 22 \[Parallax Mix\]](https://open.spotify.com/track/7rhmmDBFUwZHC7rSeMxO2E) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:32 | 2023-07-28 |  |
+| [Blackbox Life Recorder 22 \[Parallax Mix\]](https://open.spotify.com/track/7rhmmDBFUwZHC7rSeMxO2E) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:32 | 2023-07-28 | 2023-11-09 |
 | [Blame Me \- BAILE Remix](https://open.spotify.com/track/0HINRRVAivEq7IdZuqHf8f) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [Daniel de Lara](https://open.spotify.com/artist/6soPIhIMY989DfzQ7boSOI), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [infina ad nausea: the remixes \[global magic pack\]](https://open.spotify.com/album/35vE6EkWGVKLNqyVp73ud4) | 5:59 | 2022-05-06 | 2023-06-01 |
 | [Blame Me \- BAILE Remix](https://open.spotify.com/track/7j15pOGVt7aHde9PWsrdCl) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [Daniel de Lara](https://open.spotify.com/artist/6soPIhIMY989DfzQ7boSOI), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [infina ad nausea: the remixes](https://open.spotify.com/album/3CgouRSATvx4CKXupVEf2j) | 5:59 | 2022-05-06 |  |
 | [Bliss](https://open.spotify.com/track/4uxW8xGvAHT2lOCFLG7gUg) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Bliss](https://open.spotify.com/album/3pzfRwPIduKjP0qOF6BYOD) | 3:20 | 2023-05-24 |  |
@@ -248,6 +248,7 @@
 | [Yelli](https://open.spotify.com/track/2GdD6s2xhZnbj1XmwHYXCW) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Yelli](https://open.spotify.com/album/73FKH6CBhiW5tGdaOHKpeg) | 7:03 | 2021-10-15 | 2022-02-10 |
 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 | 2022-03-11 |  |
 | [Yesterday Faded \- Edit](https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf) | 4:02 | 2022-03-11 | 2022-07-29 |
+| [Zan](https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn) | [Max Graef](https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55) | [Zan](https://open.spotify.com/album/2eyvj3p4GzodK91J7lPwub) | 4:45 | 2023-11-08 |  |
 | [Zero to Sixty](https://open.spotify.com/track/0WSMGjQGf1WJvAPpbx1Efn) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub), [Sarah Jaffe](https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS) | [Zero to Sixty](https://open.spotify.com/album/4LSkUOsye6mMhUOVVkUG7f) | 4:48 | 2023-07-28 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

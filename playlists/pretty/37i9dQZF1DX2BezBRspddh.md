@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BezBRspddh.md) - [plain]
 
 > True blue poetry\. Let these Bollywood Ghazals take over your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,544 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,575 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BezBRspddh.md) - [plain]
 | 49 | [Betaab Dil Ki Tamanna Yehi Hai \(From "Hanste Zakhm"\)](https://open.spotify.com/track/1DwHPbsIcgcb9OJFSnPXFF) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lag Ja Gale \- Best of Lata Mangeshkar and Madan Mohan](https://open.spotify.com/album/3KtIvdV7p791lZ2J5TSSow) | 5:33 |
 | 50 | [Justuju Jiski Thi](https://open.spotify.com/track/50qwU5TJtjAYPaN4ZC1iIz) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Umrao Jaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qavq5Ue68nUxUK5VLRnNe) | 4:47 |
 
-Snapshot ID: `MCwyN2QwMDAzOTNlOWViYWM5MTEwMmI1NjA3NjNiZGVkZGMwYWMwMmM0`
+Snapshot ID: `MCwxM2FkNDViMzg1YzgyY2RkY2E4MDI2YTQzZWIwODhlNzI4OWUyZDI1`

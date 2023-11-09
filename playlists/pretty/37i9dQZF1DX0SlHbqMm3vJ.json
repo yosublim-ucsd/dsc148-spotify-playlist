@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Yung D3mz ",
-  "num_followers": 216978,
+  "num_followers": 217043,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWMxNmYxYTg4NWM5OWI4ZTNjOGE0NWE4ZmY2YmNmYjg4NzUxYmMx",
+  "snapshot_id": "MCw5MzcyZTBmOTkzNDA4M2FjNjcxNDcxMThjMTY3MWU4Nzc4ZjRjY2Ez",
   "tracks": [
     {
       "added_at": "2023-11-03 00:01:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Sweet Tea (Aduke)",
-        "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 149481,
-      "name": "Sweet Tea (Aduke)",
-      "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 154455,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "Sweet Tea (Aduke)",
+        "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 149481,
+      "name": "Sweet Tea (Aduke)",
+      "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -327,18 +327,26 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Ogaranya",
-        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
+        "name": "I Wish (feat. Libianca)",
+        "url": "https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
-      "duration_ms": 168610,
-      "name": "Ogaranya",
-      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
+      "duration_ms": 163813,
+      "name": "I Wish (feat. Libianca)",
+      "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -383,30 +391,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "I Wish (feat. Libianca)",
-        "url": "https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o"
-      },
-      "artists": [
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "I Wish (feat. Libianca)",
-      "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/3bGwvmmPjjxaiOjIG0YBqr"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 160611,
       "name": "Jara",
       "url": "https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "Ogaranya",
+        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 168610,
+      "name": "Ogaranya",
+      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -687,26 +687,22 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i"
+        "name": "Kiss 'N' Tell",
+        "url": "https://open.spotify.com/album/5ymb4OcOb0HkTHVaruOQ9B"
       },
       "artists": [
         {
-          "name": "GuiltyBeatz",
-          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
         },
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "NESTA",
-          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+          "name": "Mamba Sounds",
+          "url": "https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN"
         }
       ],
-      "duration_ms": 212307,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl"
+      "duration_ms": 141941,
+      "name": "Kiss 'N' Tell",
+      "url": "https://open.spotify.com/track/0I5l2lMLSLFUcTEKWwC1O5"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -731,22 +727,26 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Kiss 'N' Tell",
-        "url": "https://open.spotify.com/album/5ymb4OcOb0HkTHVaruOQ9B"
+        "name": "All In",
+        "url": "https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i"
       },
       "artists": [
         {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
         },
         {
-          "name": "Mamba Sounds",
-          "url": "https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "NESTA",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
         }
       ],
-      "duration_ms": 141941,
-      "name": "Kiss 'N' Tell",
-      "url": "https://open.spotify.com/track/0I5l2lMLSLFUcTEKWwC1O5"
+      "duration_ms": 212307,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -799,18 +799,22 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Busy Body",
-        "url": "https://open.spotify.com/album/6oFUkKyLd51aEtcsFEDBuT"
+        "name": "What's Poppin",
+        "url": "https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw"
       },
       "artists": [
         {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 162063,
-      "name": "Busy Body",
-      "url": "https://open.spotify.com/track/0lbVaIuvvZvK499elqT7uX"
+      "duration_ms": 195426,
+      "name": "What's Poppin",
+      "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -827,6 +831,22 @@
       "duration_ms": 148283,
       "name": "Selling Dreams",
       "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "Busy Body",
+        "url": "https://open.spotify.com/album/6oFUkKyLd51aEtcsFEDBuT"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 162063,
+      "name": "Busy Body",
+      "url": "https://open.spotify.com/track/0lbVaIuvvZvK499elqT7uX"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -863,26 +883,6 @@
       "duration_ms": 238917,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
-        "name": "What's Poppin",
-        "url": "https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw"
-      },
-      "artists": [
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 195426,
-      "name": "What's Poppin",
-      "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "ASE - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "ASE - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "Don't Tell Anyone",
         "url": "https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 177300,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "ASE - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "ASE - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "7 in the Morning",
-        "url": "https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7"
-      },
-      "artists": [
-        {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 214913,
-      "name": "7 in the Morning",
-      "url": "https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "Love & Trust",
         "url": "https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 220894,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "7 in the Morning",
+        "url": "https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7"
+      },
+      "artists": [
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 214913,
+      "name": "7 in the Morning",
+      "url": "https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7"
     },
     {
       "added_at": "2023-11-03 00:01:00",

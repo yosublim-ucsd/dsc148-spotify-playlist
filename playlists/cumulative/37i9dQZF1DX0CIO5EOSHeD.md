@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Yot Club & Jordana
 
-362 songs - 19 hr 33 min
+363 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Alive](https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Alive](https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k) | 3:00 | 2021-10-23 | 2023-09-16 |
 | [All Emotions Are Equal](https://open.spotify.com/track/5JNgFY6PzXZ5n5N2MFfeRQ) | [Martian Subculture](https://open.spotify.com/artist/5CNfcjsUX8fZ0lo0bPrdu9) | [All Emotions Are Equal](https://open.spotify.com/album/1e35FAlWT9sdaUIBExFv8m) | 2:54 | 2020-10-27\* | 2021-01-12 |
 | [All I Want](https://open.spotify.com/track/1KDVdNlngwZ4dy9wj2Rg1t) | [Olivia O.](https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE) | [All I Want](https://open.spotify.com/album/3NFJNqBCiZBg0JtWPEpBZB) | 2:33 | 2021-06-22 | 2022-07-17 |
-| [ALLTHETIME](https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [ALLTHETIME](https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T) | 7:05 | 2021-01-12 |  |
+| [ALLTHETIME](https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [ALLTHETIME](https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T) | 7:05 | 2021-01-12 | 2023-11-09 |
 | [Altitude](https://open.spotify.com/track/5hh5t7Wc3NuzFlRhl5Yxhx) | [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh) | [Altitude](https://open.spotify.com/album/7DtfdvLRl8czN4vhSNRJv0) | 3:30 | 2021-04-02 | 2022-11-13 |
 | [Always](https://open.spotify.com/track/2HGZgvEkKNMY1HGIJ3NwsN) | [PLASMAS](https://open.spotify.com/artist/6GFn0qLP4tPEbhqCNJINLH) | [Always](https://open.spotify.com/album/4AYkrjG3wC2ovS9s50Plbq) | 4:33 | 2021-05-22 | 2022-04-21 |
 | [Angel Eyes](https://open.spotify.com/track/6LAtbL8VOpjHoGbkOwxsDe) | [Habibi](https://open.spotify.com/artist/600GgDUq9kzGJgNIrVsWfz) | [Angel Eyes](https://open.spotify.com/album/4fPu6chzPrKGzUZqvOGKDP) | 4:43 | 2020-10-27\* | 2021-02-26 |
@@ -121,6 +121,7 @@
 | [Flowers](https://open.spotify.com/track/3oL1stuPW3PaZ304QT5ok0) | [Julian Skiboat](https://open.spotify.com/artist/62okAGBMx05wl2Oh7JLbUi) | [Flowers](https://open.spotify.com/album/7thBT0lQIZdoJIzaEY0yLM) | 2:28 | 2021-03-06 | 2022-11-13 |
 | [For U](https://open.spotify.com/track/4jEj8zsFCz9SpY3VL4b50H) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [For U](https://open.spotify.com/album/6tHGrUKMR4yQorjJJHnP2Z) | 2:18 | 2020-10-30 | 2022-07-01 |
 | [Forever](https://open.spotify.com/track/579zXcYm2N9vvsltW2RDJP) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/2q5JOJpEa00GfddyBJAPrz) | 4:09 | 2022-02-03 | 2023-11-06 |
+| [Forever](https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/5jDmPY9xD8BrPIm2RbBajB) | 4:09 | 2023-09-15 |  |
 | [GARDEN 2](https://open.spotify.com/track/232Y5lAjifWnc5NhUn34mz) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [GARDEN 2](https://open.spotify.com/album/3NgvBxs5xqp1OOtHKvdXYo) | 1:30 | 2020-10-27\* | 2022-07-10 |
 | [Garth](https://open.spotify.com/track/0bNuP61EqpZqdNDNGU4GH0) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Garth](https://open.spotify.com/album/062raJ8B4hT3CiJxrcXp8M) | 3:05 | 2022-02-03 | 2022-07-29 |
 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 | 2022-03-17 |  |

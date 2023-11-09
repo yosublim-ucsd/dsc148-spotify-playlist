@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-256 songs - 17 hr 40 min
+257 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,8 @@
 | [Treat Yo Self](https://open.spotify.com/track/5e18kua2qZoEonR4ipS1sn) | [Pablo Ojeda](https://open.spotify.com/artist/0V62WYCDy3mT7xUsCYJk9W) | [Treat Yo Self](https://open.spotify.com/album/2wPDN8pMzmuxntP5CbOJQE) | 4:29 | 2020-11-13 | 2022-04-21 |
 | [Tripped Out Slim](https://open.spotify.com/track/7b3ceiH1Cy03cR0GtlqgHV) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Parking Lot Symphony](https://open.spotify.com/album/37KlzjSTrsjai1w1hfzsdV) | 2:19 | 2020-11-13 |  |
 | [Under Krameria](https://open.spotify.com/track/4xnhEYjnjGBMQIMk3Kq4u5) | [Freekbass](https://open.spotify.com/artist/1abdeL1cpNSTlJp5NQchch) | [Under Krameria](https://open.spotify.com/album/73NizEl5Omu4WrbBth8InD) | 3:54 | 2020-11-13 | 2022-07-29 |
-| [Under Krameria](https://open.spotify.com/track/2pqLCGH433kpQPUXZycwgS) | [Freekbass](https://open.spotify.com/artist/1abdeL1cpNSTlJp5NQchch), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Under Krameria](https://open.spotify.com/album/1GXjajA2rbumbgKQBSAUkI) | 3:54 | 2023-08-04 |  |
+| [Under Krameria](https://open.spotify.com/track/6yXui7U2I3116xZB7hfGQR) | [Freekbass](https://open.spotify.com/artist/1abdeL1cpNSTlJp5NQchch) | [Under Krameria](https://open.spotify.com/album/3we9q6CeQRFtSGLVHbddw9) | 3:54 | 2023-08-04 |  |
+| [Under Krameria](https://open.spotify.com/track/2pqLCGH433kpQPUXZycwgS) | [Freekbass](https://open.spotify.com/artist/1abdeL1cpNSTlJp5NQchch), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Under Krameria](https://open.spotify.com/album/1GXjajA2rbumbgKQBSAUkI) | 3:54 | 2023-08-04 | 2023-11-09 |
 | [Village Life](https://open.spotify.com/track/0QWgR4xiWCzEWE2pXMdXEd) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [2017](https://open.spotify.com/album/69SrXrzMk4yilsHSUp0qqI) | 4:39 | 2020-11-13 |  |
 | [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 | 2021-04-16 |  |
 | [War Room](https://open.spotify.com/track/2BiCZnAgLZ70mQvSCDReH3) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [War Room](https://open.spotify.com/album/0ou3fGmWHOUMMomjdGeucP) | 4:31 | 2020-11-13 | 2022-07-25 |

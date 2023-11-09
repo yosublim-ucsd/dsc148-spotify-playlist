@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: VillaBanks
 
-259 songs - 11 hr 55 min
+262 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Fiore Sulla Luna](https://open.spotify.com/track/6Sinn7z9DmUQPY3oQcMKcV) | [Federico Rossi](https://open.spotify.com/artist/27cy5lbFuVKPVSCD36bmuu) | [Fiore Sulla Luna](https://open.spotify.com/album/6Kz7JnUf9h5yqQDtt6R5Ag) | 2:27 | 2023-08-31 | 2023-09-29 |
 | [fiume di parole](https://open.spotify.com/track/19RZHhzIgCrnUBFJfGzexj) | [Anima](https://open.spotify.com/artist/78KLSh5jP52tMwFeDpR5Ml), [Poet](https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs), [Pi Greco](https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b) | [fiume di parole](https://open.spotify.com/album/1vfdwQ7JuTqGrWdYjJQEAp) | 2:31 | 2023-04-20 | 2023-05-19 |
 | [fluo](https://open.spotify.com/track/2F6uEtSu7h6QUjgenM86K7) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [fluo](https://open.spotify.com/album/7H6plhkpevG4P0dF05CMnt) | 2:55 | 2023-03-23 | 2023-04-21 |
+| [Follia](https://open.spotify.com/track/6MndhxNWKY5Du4pIGk3CW0) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Follia](https://open.spotify.com/album/2QVkDVj1xNoSE0Pk7sZMBb) | 2:32 | 2023-11-08 |  |
 | [Fulmini](https://open.spotify.com/track/70ZxpUnMJjJwr2I3hXHi7b) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [Fulmini](https://open.spotify.com/album/4tXExS7JYMwZ6bqntI0YqV) | 2:45 | 2023-06-15 | 2023-07-28 |
 | [GENERAZIONE Z](https://open.spotify.com/track/2eIZENRFcJPL14ScPKwYO1) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xRick](https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb) | [GENERAZIONE Z](https://open.spotify.com/album/4XQV30eFDzbjRgEjBHIEWL) | 2:51 | 2023-04-13 | 2023-04-28 |
 | [Giocattolo](https://open.spotify.com/track/4jsAmpTOebHF7aw9LK6I3z) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Giocattolo](https://open.spotify.com/album/1IGfJgpVrcUgQZa1zaC7HC) | 2:50 | 2023-04-13 | 2023-05-19 |
@@ -141,6 +142,7 @@
 | [Mani vuote](https://open.spotify.com/track/2AtA8e7DuVFIf5DUsT7VRx) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Mani vuote](https://open.spotify.com/album/2tBbgqJ2NhEOCmyi93hyyT) | 3:04 | 2023-03-23 | 2023-05-24 |
 | [Mani vuote](https://open.spotify.com/track/7y5x72eyuqYwXWk3VHjqhj) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Voglia di vivere](https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS) | 3:04 | 2023-05-18 | 2023-06-16 |
 | [MARE DI GUAI](https://open.spotify.com/track/5coGRpcrHdoLBuTLAeKGxu) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [MARE DI GUAI](https://open.spotify.com/album/1nypi8w7X4rrXVJPSVghj0) | 3:24 | 2023-03-23 | 2023-09-15 |
+| [MERCOLEDÌ MAI](https://open.spotify.com/track/6QxdN1k7aMhkFiTmuFRUPs) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [MERCOLEDÌ MAI](https://open.spotify.com/album/7Ib2YfkSm802GqCNw5RNnk) | 2:54 | 2023-11-08 |  |
 | [Mi Chiamava](https://open.spotify.com/track/2baCLofmkvBXoBWLKqO8Re) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [Mi Chiamava](https://open.spotify.com/album/36L5nkadvAcwSfw2gUpKdi) | 2:37 | 2023-03-23 | 2023-07-14 |
 | [Mi dici no](https://open.spotify.com/track/5qsyzcSuPmtOsU42oYvl78) | [Astra](https://open.spotify.com/artist/6AJksxv4G7xtCRMyrYtZHQ) | [Mi dici no](https://open.spotify.com/album/7kucGDV4yLeypdoUrwmxDc) | 2:32 | 2023-05-18 | 2023-06-09 |
 | [mi manca la vecchia te](https://open.spotify.com/track/1ngm13kPGndthBqF8AxTAb) | [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [mi manca la vecchia te](https://open.spotify.com/album/6CAfsx8D5duYwvMfxkardm) | 2:02 | 2023-03-23 | 2023-04-21 |
@@ -206,6 +208,7 @@
 | [ROMA](https://open.spotify.com/track/1RTrSZow3zzUQ1Q2B95d3z) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [ROMA](https://open.spotify.com/album/4dW1fBOZW6iy5ndUTX5hOI) | 2:30 | 2023-03-23 |  |
 | [ROMANTICA E BUGIARDA](https://open.spotify.com/track/3jZojGbxzsJTihyb1VVrFE) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy), [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [ROMANTICA E BUGIARDA](https://open.spotify.com/album/0WE9QOW9r88g2gcPQRADbm) | 2:53 | 2023-06-15 | 2023-09-22 |
 | [RONDINI](https://open.spotify.com/track/5qt5YZOEUCejoPMrXFXRQq) | [Berna](https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT) | [RONDINI](https://open.spotify.com/album/5MLv3tlurdcQwChX4olC7K) | 2:27 | 2023-04-06 | 2023-04-14 |
+| [ROSSOFUOCO](https://open.spotify.com/track/5B5p5w9QV0QFBsnASmtL24) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [ROSSOFUOCO](https://open.spotify.com/album/4r6P74TpYpXFgHam09a8KA) | 2:42 | 2023-11-08 |  |
 | [RUMORE](https://open.spotify.com/track/21ue7kSKtFBqGQNV23uGW8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:39 | 2023-09-28 | 2023-10-06 |
 | [RUMORE](https://open.spotify.com/track/7fxAFWmMsl86C60gW5yooG) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [RUMORE](https://open.spotify.com/album/6Lo4MzfKF6e0mwnEGtdGgd) | 2:39 | 2023-09-12 | 2023-10-04 |
 | [Sangue e Aria](https://open.spotify.com/track/2FGQvZ0P8QcOqAshENIbK2) | [Sercho](https://open.spotify.com/artist/1YzDKK9gJRBqqkL5wxQQTa) | [Sangue e Aria](https://open.spotify.com/album/3FIG3AbOwcV8Ww8ur0jZ55) | 2:35 | 2023-09-21 | 2023-10-20 |

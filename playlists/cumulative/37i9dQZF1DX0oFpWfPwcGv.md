@@ -4,7 +4,7 @@
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-114 songs - 11 hr 8 min
+115 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Night in New York \- Remastered](https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2) | [Elbow Bones And The Racketeers](https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj) | [Kid Creole \- Ze August Darnell Sessions \(Remastered 2018\)](https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ) | 4:21 | 2022-05-17 |  |
 | [Ai No Corrida](https://open.spotify.com/track/40ajOocKCulUQ4EsqGgU57) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Dude](https://open.spotify.com/album/7IDq3nYy4yEhd2ob3ydXOu) | 6:26 | 2022-05-17 | 2022-07-29 |
 | [Ai No Corrida](https://open.spotify.com/track/0SzAKZYTUvDLqlPgllEb3N) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Charles May](https://open.spotify.com/artist/4IyqKACrQ4rsRa3M9KpZaB) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 6:26 | 2022-07-15 |  |
+| [Ain't No Mountain High Enough](https://open.spotify.com/track/06xAJjt8HY09e14cLmBmgP) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [Inner Life](https://open.spotify.com/album/2DqaJOmf1G5MxRPSRonwlB) | 7:59 | 2023-09-18 |  |
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/51uChSR8zp4cui4tLqiXb6) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [Inner Life](https://open.spotify.com/album/7ldc7KAIZ3JmsuCwIHcS2B) | 7:59 | 2022-05-17 | 2023-11-05 |
 | [Angel in My Pocket \- Extended Version](https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Magical Night \(Greatest Hits Special Price\)](https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f) | 7:09 | 2022-05-17 | 2022-12-29 |
 | [Automatic \- 12" Special Remix](https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out \(1983 Version \- Expanded Edition\)](https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM) | 6:06 | 2022-05-17 |  |
@@ -102,7 +103,7 @@
 | [Soul Makossa](https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Crooklyn Volume II](https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l) | 4:26 | 2022-05-17 |  |
 | [Spacer](https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [King Of The World](https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr) | 5:54 | 2022-05-17 |  |
 | [Stand on the Word \(Studio Version\)](https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR) | [The Joubert Singers](https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9) | [Stand on the Word](https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M) | 5:03 | 2022-05-17 |  |
-| [Stay Free](https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi), [James Simpson](https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf) | [Stay Free](https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV) | 5:22 | 2022-05-17 |  |
+| [Stay Free](https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi), [James Simpson](https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf) | [Stay Free](https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV) | 5:22 | 2022-05-17 | 2023-11-09 |
 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 | 2022-05-17 |  |
 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\)](https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Love Is The Message](https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ) | 3:42 | 2022-05-17 |  |
 | [Take Me to the Bridge](https://open.spotify.com/track/4swOfLpGpRXhJaJjYjBuIH) | [Vera](https://open.spotify.com/artist/0FkJ8SID5QlL8bWQBMmtmh) | [Take Me to the Bridge / Jumpin' \(Get Hot, Hit the Spot\)](https://open.spotify.com/album/3lXdkMownWe2ZcAw4DB5Hx) | 7:03 | 2022-05-17 |  |

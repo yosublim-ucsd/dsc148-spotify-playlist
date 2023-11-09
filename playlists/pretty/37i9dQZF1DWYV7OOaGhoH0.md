@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today\. Cover: Angie McMahon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,859,540 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,859,629 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 99 | [Miles Are Wide](https://open.spotify.com/track/7CGfeNaZoVLJRBKB15B1jK) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [What Remains](https://open.spotify.com/album/69vVun5LtcOyTDYJEp5UEb) | 3:54 |
 | 100 | [Honey](https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Honey](https://open.spotify.com/album/37OWM40EuYKeBHWCBHJyq9) | 4:36 |
 
-Snapshot ID: `MCw4Yzc3ZGM0ZTJjNmFkNWZkMzQyZjMzY2QyNjY0NWQzZGY1YTRhN2Qy`
+Snapshot ID: `MCw4OWU2N2E1ODZmNTU2NzljYjJlMjcyNGViYmZiZDI4NTkyOWE3NGY0`

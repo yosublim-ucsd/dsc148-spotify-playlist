@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "When Will We Land?",
+        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246840,
+      "name": "Always Get Through To You",
+      "url": "https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1"
+    },
+    {
+      "album": {
         "name": "Amore Profondo",
         "url": "https://open.spotify.com/album/6hSGThzzS1GW6N55CUBCw8"
       },
@@ -1515,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
+    },
+    {
+      "album": {
         "name": "Vuelo Nocturno",
         "url": "https://open.spotify.com/album/256r81ENnMGjkDukVfuEUP"
       },
@@ -1574,6 +1610,58 @@
       "duration_ms": 280327,
       "name": "Merchants - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/520mMFaIht3gpQTDKFWV9q"
+    },
+    {
+      "album": {
+        "name": "Milkshake 20 (Alex Wann Remix)",
+        "url": "https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176949,
+      "name": "Milkshake 20 (Alex Wann Remix)",
+      "url": "https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"
+    },
+    {
+      "album": {
+        "name": "More Love (Rampa &ME Remix)",
+        "url": "https://open.spotify.com/album/4ml88dBgRFbbucUERI1BYC"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371897,
+      "name": "More Love - Rampa &ME Remix",
+      "url": "https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO"
     },
     {
       "album": {

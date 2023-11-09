@@ -1,12 +1,12 @@
 {
   "description": "Big riffs and pounding drums to help you strut the streets.",
-  "num_followers": 2309539,
+  "num_followers": 2309606,
   "original_name": "Walk Like A Badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmU0NDM4MGE0YWRjNWYzZWVjYmRlNWRhZGIzNjY0NTFkYWRiOGU0",
+  "snapshot_id": "MCxhNDZjMTBjZDI5MDI4NzYyYjlhZGI2OWQ1NWU1NTBiMzdmYzY5N2Ix",
   "tracks": [
     {
       "added_at": "2023-07-25 00:14:57",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
         "name": "So Much (For) Stardust",
         "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 215601,
       "name": "Hold Me Like a Grudge",
       "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
     },
     {
       "added_at": "2023-07-25 00:14:57",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "Dad Vibes",
-        "url": "https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 132206,
-      "name": "Dad Vibes",
-      "url": "https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
         "name": "Dark & Beautiful Secrets",
         "url": "https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 245538,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "Dad Vibes",
+        "url": "https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 132206,
+      "name": "Dad Vibes",
+      "url": "https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb"
     },
     {
       "added_at": "2023-07-25 00:14:57",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W"
-      },
-      "artists": [
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 192715,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
         "name": "I EXIST",
         "url": "https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 269666,
       "name": "I EXIST",
       "url": "https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 192715,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9"
     },
     {
       "added_at": "2023-07-25 00:14:57",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "Country Life",
-        "url": "https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT"
-      },
-      "artists": [
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "Country Life",
-      "url": "https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
         "name": "All The Problems",
         "url": "https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 176907,
       "name": "All The Problems",
       "url": "https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "Country Life",
+        "url": "https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 147535,
+      "name": "Country Life",
+      "url": "https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn"
     },
     {
       "added_at": "2023-07-25 00:14:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Gaab, Mc Davi, Rodriguinho, Vulgo FK
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,539 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,579 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Cristo Redentor](https://open.spotify.com/track/0RThmQPskBLKsnk6o1NyYi) | [Hashi](https://open.spotify.com/artist/137b3EpKbbmxmY2dGgzx2Q), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Trap The Fato](https://open.spotify.com/album/2MKpmvPgFY1rIIgA0zoxH0) | 2:10 |
 | 75 | [Conteúdo Exclusivo \(feat\. Pedro Lotto & Wey\)](https://open.spotify.com/track/2ECwRI68IyCh5La41hCw59) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [O Último Romântico Online](https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4) | 3:48 |
 
-Snapshot ID: `MCw0OTEyMzAzNzMxMWU0MDgyNjhiNzBmNjY5MmYxMGRhMTUxZDkxN2Rm`
+Snapshot ID: `MCxjNzQ4OWQ3MjU2ZGM5YjQ5ODc3ODhkMTVkZTM1NGRhNDg5NGFiMWM1`

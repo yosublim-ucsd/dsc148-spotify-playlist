@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: ZEROBASEONE
 
-925 songs - 2 day 3 hr 2 min
+926 songs - 2 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Crazy Like That](https://open.spotify.com/track/3YKVnTgamsTa6zzimeaJXc) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Liminality \- EP.DREAM](https://open.spotify.com/album/0G24S1Jv4NSKhPuDXVtiU6) | 3:11 | 2023-05-17 | 2023-07-08 |
 | [Creamppang](https://open.spotify.com/track/4kPG3bVHSq0cfIIt0LQEsO) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Creamppang](https://open.spotify.com/album/2D0VlLiR8TavwuwEyHkavW) | 2:49 | 2021-05-11 | 2021-06-25 |
 | [Criminal](https://open.spotify.com/track/2KXEE2MsPZLmT38XiyAOpH) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:31 | 2020-10-13\* | 2021-03-18 |
+| [CRUSH](https://open.spotify.com/track/2qiWQf7ka0C4XoA7JAZ1q5) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:49 | 2023-11-08 |  |
 | [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 | 2022-04-12 | 2022-06-22 |
 | [Cupid](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-02-28 | 2023-04-04 |
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-29 | 2023-09-05 |
@@ -525,7 +526,7 @@
 | [ME= \(NANEUN\)](https://open.spotify.com/track/2fRzv9XVm3o5kk6ed5FjIU) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [= \(NEUN\)](https://open.spotify.com/album/5raCfFI9NNJyjsseHkdkPH) | 3:12 | 2022-11-18 | 2023-02-07 |
 | [Meet Me When The Sun Goes Down \(From "Midnight Sun" Original Musical Soundtrack, Pt\. 1\)](https://open.spotify.com/track/4AaQHFtHzcj9qAI2vPoXih) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Meet Me When The Sun Goes Down \(From "Midnight Sun" Original Musical Soundtrack, Pt\. 1\)](https://open.spotify.com/album/49ePyMlTA6mOwNv7cVHgTk) | 3:25 | 2021-04-16 | 2021-06-03 |
 | [MELODY](https://open.spotify.com/track/6JeleVHUHrdvgiFESE33ZU) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:00 | 2021-03-19 | 2021-06-09 |
-| [MELTING POINT](https://open.spotify.com/track/6Sj39jSqhxjJ8K66Mw8hrU) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:53 | 2023-11-06 |  |
+| [MELTING POINT](https://open.spotify.com/track/6Sj39jSqhxjJ8K66Mw8hrU) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:53 | 2023-11-06 | 2023-11-09 |
 | [memeM](https://open.spotify.com/track/0qr3qIT7OrhzT33sW1syLI) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [memeM](https://open.spotify.com/album/4nhtnBY8owIQnOsnGQGqW9) | 2:52 | 2022-03-31 | 2022-07-01 |
 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-25 |  |
 | [Midnight](https://open.spotify.com/track/2j7pfH8zJkfNzCfoOBTKkX) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Midnight \(Do You Like Brahms? OST Special Track\)](https://open.spotify.com/album/4PAjQjk1RJdfOCNLi4oThs) | 3:48 | 2020-10-13\* | 2020-11-16 |

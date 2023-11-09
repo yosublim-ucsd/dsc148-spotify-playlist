@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,320 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,348 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 22 | [Magic\-\-Pearl](https://open.spotify.com/track/3Mc75u5PxKSw1hzEVLAPQt) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ) | 3:20 |
 | 23 | [Fires](https://open.spotify.com/track/0uCYDUL5xO9cdnj0L8Q6vv) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/57zYxVdmLfWbqxI1r7MbWo) | 4:39 |
 | 24 | [Wednesday Afternoon](https://open.spotify.com/track/08Ov1ejfnzW8Pc9NbhUpLa) | [FAIR GAME](https://open.spotify.com/artist/1siJGCHqSxy7R5J5nVyH2y) | [Wednesday Afternoon](https://open.spotify.com/album/3s0C0TXUihRu8cxOeOH5Nd) | 2:29 |
-| 25 | [Joyfulness](https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Next to Nothing](https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO) | 3:36 |
-| 26 | [Don't You Forget About Me](https://open.spotify.com/track/7IidnemjastTResAXISAK7) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Don't You Forget About Me](https://open.spotify.com/album/3PbktfrtKjsK7WMvqMIqyI) | 5:48 |
-| 27 | [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 |
-| 28 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
-| 29 | [Forever](https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/5jDmPY9xD8BrPIm2RbBajB) | 4:09 |
+| 25 | [Forever](https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/5jDmPY9xD8BrPIm2RbBajB) | 4:09 |
+| 26 | [Joyfulness](https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Next to Nothing](https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO) | 3:36 |
+| 27 | [Don't You Forget About Me](https://open.spotify.com/track/7IidnemjastTResAXISAK7) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Don't You Forget About Me](https://open.spotify.com/album/3PbktfrtKjsK7WMvqMIqyI) | 5:48 |
+| 28 | [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 |
+| 29 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
 | 30 | [All Armed](https://open.spotify.com/track/4tA2fAzDdltaUtL0gtmvou) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Encores](https://open.spotify.com/album/5fHIn0grAPQdsjXe7KtSFj) | 11:39 |
 | 31 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 |
 | 32 | [Triangular Blue Marina](https://open.spotify.com/track/4vrmslCxVAuPRxvi8T1pHs) | [GOVS](https://open.spotify.com/artist/5ZEAO3bZL6fTJU8tDT0eQS) | [Coast Guard](https://open.spotify.com/album/4kmLGEaHtPuXAkm7FQ9QlB) | 2:21 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 36 | [Autumn Star](https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Autumn Star](https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38) | 3:39 |
 | 37 | [Nobody New Around You](https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [L.O.S.S.](https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58) | 4:27 |
 | 38 | [Creation Dub](https://open.spotify.com/track/3jWZXDktZVgDelnDJx9DtO) | [Forest Drive West](https://open.spotify.com/artist/0K1lHu1BP65Z1DErnljxUw) | [Parallel Space EP](https://open.spotify.com/album/00qCuTBME8tBVE31DUC9A5) | 5:52 |
-| 39 | [Wash](https://open.spotify.com/track/3J8t0fiePfXwQhgOGU3wtA) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Rituals](https://open.spotify.com/album/4wPozJoIMaxkvKyG3kb2Fo) | 2:43 |
-| 40 | [Qasida \- Sunset Fever 2](https://open.spotify.com/track/0Y6bC35xuN9ycyKxpT9Iks) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Atlantics \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FWKJ334wfgxb10foTngyf) | 1:36 |
-| 41 | [Pink & Blue](https://open.spotify.com/track/1TJqHWEHHQ7Z5mJ0P6rXqq) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Weather](https://open.spotify.com/album/1mRyfDR7Dc55GbC8V3kVis) | 4:19 |
-| 42 | [Wish You Were Here \(feat\. Msaki\)](https://open.spotify.com/track/6tfXgZjluaSYht2GwnEw21) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Wish You Were Here \(feat\. Msaki\)](https://open.spotify.com/album/17ER4tyUvz7mziBC55UBF3) | 4:32 |
-| 43 | [Sacred \- Radio Edit](https://open.spotify.com/track/2wqqzMQ457bjitt2vDDGmf) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y) | 3:26 |
-| 44 | [Mesmerize](https://open.spotify.com/track/2hoWciuwh4cAdZFBQMo4x3) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Mesmerize](https://open.spotify.com/album/3fmY1pLcnvihoIjNzDO0X1) | 2:26 |
+| 39 | [Wish You Were Here \(feat\. Msaki\)](https://open.spotify.com/track/6tfXgZjluaSYht2GwnEw21) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Wish You Were Here \(feat\. Msaki\)](https://open.spotify.com/album/17ER4tyUvz7mziBC55UBF3) | 4:32 |
+| 40 | [Wash](https://open.spotify.com/track/3J8t0fiePfXwQhgOGU3wtA) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Rituals](https://open.spotify.com/album/4wPozJoIMaxkvKyG3kb2Fo) | 2:43 |
+| 41 | [Qasida \- Sunset Fever 2](https://open.spotify.com/track/0Y6bC35xuN9ycyKxpT9Iks) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Atlantics \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FWKJ334wfgxb10foTngyf) | 1:36 |
+| 42 | [Pink & Blue](https://open.spotify.com/track/1TJqHWEHHQ7Z5mJ0P6rXqq) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Weather](https://open.spotify.com/album/1mRyfDR7Dc55GbC8V3kVis) | 4:19 |
+| 43 | [Mesmerize](https://open.spotify.com/track/2hoWciuwh4cAdZFBQMo4x3) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Mesmerize](https://open.spotify.com/album/3fmY1pLcnvihoIjNzDO0X1) | 2:26 |
+| 44 | [Sacred \- Radio Edit](https://open.spotify.com/track/2wqqzMQ457bjitt2vDDGmf) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y) | 3:26 |
 | 45 | [Planet Hearth](https://open.spotify.com/track/1RvPfvzAg6jbzWsODpDILb) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Planet Hearth](https://open.spotify.com/album/35WGtiXgUzM8ZANghXQxl3) | 4:17 |
 | 46 | [Chaos](https://open.spotify.com/track/7BBZ6Il2sGyuNaaHiUJS83) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Chaos & Clarity](https://open.spotify.com/album/3K9vnQRCyyNbOMHLAh3wvV) | 2:28 |
 | 47 | [Dune \- Single Version](https://open.spotify.com/track/4QQFYNshQlEkgQESyO3OCr) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dune](https://open.spotify.com/album/04NzBREuQBthxSpcoD6EbE) | 11:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 49 | [Low \- Babeheaven Remix](https://open.spotify.com/track/75jNxKPVjq08hKLkskLzXS) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD), [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Low \(Babeheaven Remix\)](https://open.spotify.com/album/6YHnk5GdCARNyCk6c3hgnG) | 4:07 |
 | 50 | [Love Is Alive](https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8) | [Mozez](https://open.spotify.com/artist/3r6uJM01I6meTehVwh0q2b), [DJ Celeste Lear](https://open.spotify.com/artist/6Z8VsD3APPWszUaJi65y9d) | [Love Is Alive](https://open.spotify.com/album/02dSIhVa4IQs0xHxOsgHUt) | 3:42 |
 
-Snapshot ID: `MCwwNWNjZTBkZmFiMGY2ZjRlOTViZTNjZmJiZTFiYTA0Njg5OWVjNDU3`
+Snapshot ID: `MCw4ZDJmOTZiNzAzNDNjMjIyYzBiM2M1YTJkYzJkYTUxODc0MzFhZGUy`

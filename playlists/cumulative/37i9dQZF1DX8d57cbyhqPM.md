@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. 🌍 Photo: Ferre Gola
 
-296 songs - 18 hr 41 min
+297 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Δ\. Dieu ne ment jamais](https://open.spotify.com/track/6YWjskKykdPsBuiTBOg1VK) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Ipséité](https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt) | 3:19 | 2023-03-17 | 2023-06-24 |
 | [Κ\. Kin la belle](https://open.spotify.com/track/6YuSiFqJP4MUo88RtUAfAX) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Ipséité](https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt) | 3:20 | 2022-07-08 |  |
 | [Σ\. MOROSE](https://open.spotify.com/track/0fukO3WYYUHaXOrvEohpEG) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 4:23 | 2023-10-27 | 2023-11-05 |
-| [Σ\. MOROSE](https://open.spotify.com/track/6kXuDZGyFZAJqqnUVQFuiT) | [welazikmu](https://open.spotify.com/artist/2909t5LQgRVIcZGrHZEHR0) | [FLAQ](https://open.spotify.com/album/49wfKKJSZ2S2HhOPKuIRal) | 4:23 | 2023-10-27 |  |
+| [Σ\. MOROSE](https://open.spotify.com/track/5Zy87pKyQRlV2HIK8HZlAM) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/5Sb84P0BZuvCnYV0xJcNT1) | 4:23 | 2023-10-27 |  |
+| [Σ\. MOROSE](https://open.spotify.com/track/6kXuDZGyFZAJqqnUVQFuiT) | [welazikmu](https://open.spotify.com/artist/2909t5LQgRVIcZGrHZEHR0) | [FLAQ](https://open.spotify.com/album/49wfKKJSZ2S2HhOPKuIRal) | 4:23 | 2023-10-27 | 2023-11-09 |
 
 \*This playlist was first scraped on 2022-07-01. Prior content cannot be recovered.

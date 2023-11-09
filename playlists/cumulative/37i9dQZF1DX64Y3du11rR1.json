@@ -1828,10 +1828,28 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 232905,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/0ctJr4dFdrk0Fv1CWW9cSW"
+    },
+    {
+      "album": {
+        "name": "It'll Be Okay",
+        "url": "https://open.spotify.com/album/50F5l0I3C1tGbjp8eFTYlu"
+      },
+      "artists": [
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232905,
+      "name": "It'll Be Okay",
+      "url": "https://open.spotify.com/track/12JibKnU95fEOzPediC8xg"
     },
     {
       "album": {

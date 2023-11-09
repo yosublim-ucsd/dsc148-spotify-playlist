@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 209760,
       "name": "Evicted",
       "url": "https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5"
@@ -3996,6 +3996,24 @@
       "duration_ms": 144543,
       "name": "QB Sneak",
       "url": "https://open.spotify.com/track/15unSgWwOrLUUv8EhaXBij"
+    },
+    {
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307213,
+      "name": "Ragged Wood",
+      "url": "https://open.spotify.com/track/2qvToeBdYliw6n0nEsKJQa"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Spiritual Cramp
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,377 likes - 129 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,442 likes - 129 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 128 | [Fuck Love, I Just Bought a New Truck](https://open.spotify.com/track/11RNMyEALKUFkA1ItyhHi7) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [These Are Some B\-Sides](https://open.spotify.com/album/0PwOTtqMM4b0I7IpPY25Kb) | 1:27 |
 | 129 | [Fight 4 luv](https://open.spotify.com/track/2uP2DSCbBr8vXo5PWeYHNO) | [Dimitri Miller](https://open.spotify.com/artist/2ZKmcBDtaUAUMnNbCvNdhC) | [Bro...it's not that deep](https://open.spotify.com/album/4CDRjB3gXtisl1KinHU7f9) | 2:54 |
 
-Snapshot ID: `MCwzYmZkZTg4YmVjMjRiZmMxNThkYmJiZWViYjdmODk3ODgxNGE4Zjc1`
+Snapshot ID: `MCwzMzY5M2Y3YjNjMTNhZDVhNGI3ZjVjZTQ4N2E1ZDI0ZDM4NTFiNWU1`

@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Adolescent's Orquestra",
-  "num_followers": 1835010,
+  "num_followers": 1835105,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGU2MWQ0MTI5MDgyYzJmMDJhMTFiYmJlYWNlZWM2ZTkyM2FjMjcy",
+  "snapshot_id": "MCxjMjQ0MmUxZjJmMjMyYWU3MGQ5ZTQwYjVhYWVkOGY3NGYxZWUwNGFl",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Probablemente",
-        "url": "https://open.spotify.com/album/1xFgOy3uLcPd3sy5BL5m9u"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 217547,
-      "name": "Probablemente",
-      "url": "https://open.spotify.com/track/1RzRFnWWzFMzJiouw2BnOy"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "F.A.M.E.",
         "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 242373,
       "name": "Felices los 4 (feat. Marc Anthony) - Salsa Version",
       "url": "https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Probablemente",
+        "url": "https://open.spotify.com/album/1xFgOy3uLcPd3sy5BL5m9u"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 217547,
+      "name": "Probablemente",
+      "url": "https://open.spotify.com/track/1RzRFnWWzFMzJiouw2BnOy"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "La-33",
-        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
+        "name": "Arriba Siempre - De Pura Sangre",
+        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
       },
       "artists": [
         {
-          "name": "La-33",
-          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+          "name": "Michel el Buen\u00f3n",
+          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
         }
       ],
-      "duration_ms": 374840,
-      "name": "La Pantera Mambo",
-      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
+      "duration_ms": 305053,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Arriba Siempre - De Pura Sangre",
-        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
+        "name": "La-33",
+        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
       },
       "artists": [
         {
-          "name": "Michel el Buen\u00f3n",
-          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
+          "name": "La-33",
+          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
         }
       ],
-      "duration_ms": 305053,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
+      "duration_ms": 374840,
+      "name": "La Pantera Mambo",
+      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -935,6 +935,30 @@
       "duration_ms": 191081,
       "name": "Cartas Sobre La Mesa",
       "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Incomprendido",
+        "url": "https://open.spotify.com/album/1QquGCJr1NtfXM1quq6qAw"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 179890,
+      "name": "Incomprendido",
+      "url": "https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -991,30 +1015,6 @@
       "duration_ms": 193046,
       "name": "EL YATE (feat. Sergio George) - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Incomprendido",
-        "url": "https://open.spotify.com/album/1QquGCJr1NtfXM1quq6qAw"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        },
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 179890,
-      "name": "Incomprendido",
-      "url": "https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Te Quise Olvidar",
-        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 209743,
-      "name": "Te Quise Olvidar",
-      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Serie Millennium 21: Paquito Guzman",
         "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 309253,
       "name": "Cinco Noches",
       "url": "https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Te Quise Olvidar",
+        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 209743,
+      "name": "Te Quise Olvidar",
+      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 384800,
-      "name": "Tu No Sabes Querer",
-      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Cosas Bonitas",
         "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 260632,
       "name": "Cosas Bonitas",
       "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 384800,
+      "name": "Tu No Sabes Querer",
+      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
     },
     {
       "added_at": "2023-11-03 04:00:00",

@@ -628,10 +628,28 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 168522,
       "name": "Alma",
       "url": "https://open.spotify.com/track/3caAuG3pqIwSr3yr2SDXjD"
+    },
+    {
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/0iMqeFAka3DpLtRBBnc431"
+      },
+      "artists": [
+        {
+          "name": "Kenwhy",
+          "url": "https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168522,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/3rX9KvRYL1PQtbne79nnZd"
     },
     {
       "album": {

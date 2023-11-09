@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Brent Faiyaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,359,504 likes - 160 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,359,749 likes - 160 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 159 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
 | 160 | [Only You](https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Sheet Music](https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG) | 3:08 |
 
-Snapshot ID: `MCxkYWQzM2JmM2JkZTMyYjA2NGNmOGVlYzRkZGUzYTI5YjI5M2E4MTQ3`
+Snapshot ID: `MCxlNWIwMDQxMjU1ZDI2NDg5OWQxZWMwYmJkMzQ0MTVhMDQ2N2RkMTRh`

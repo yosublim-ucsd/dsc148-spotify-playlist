@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。Cover: クジラ夜の街
 
-282 songs - 17 hr 22 min
+284 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [FOREVER YOUNG](https://open.spotify.com/track/3f5S1fszlmqDquWcry7wpi) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Good Luck](https://open.spotify.com/album/2Tieo3IKGX78JJKkCxjX3C) | 4:08 | 2023-08-22 | 2023-08-24 |
 | [Fukakumeizenya](https://open.spotify.com/track/0HWxBqzyVCXWQY4NXfrCB9) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [NEE](https://open.spotify.com/album/4eSY2Ka1qHuzxEsWxEu45H) | 4:27 | 2023-07-27 | 2023-10-18 |
 | [Genyo](https://open.spotify.com/track/2YVjGPH1suANfQWCtFn4Ts) | [Aruyue](https://open.spotify.com/artist/4oHHGbHMXuJ97fRPzuESJW) | [Genyo](https://open.spotify.com/album/210mwuTXBm8LWt5lH1KuR7) | 3:57 | 2023-08-08 | 2023-08-18 |
+| [Ghost](https://open.spotify.com/track/1ty6M7cgiQ192ATax4vStT) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [Minus Zero](https://open.spotify.com/album/4RwGeFZqSvu8PfLEXsVqoP) | 3:22 | 2023-11-07 |  |
 | [Gimme Your Tears](https://open.spotify.com/track/4beOl1uLEJ7mbdov2zvdCO) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Gimme Your Tears](https://open.spotify.com/album/1iznTAEDXwUT4Grb4Ywbyy) | 3:55 | 2023-08-15 | 2023-08-30 |
 | [GIRL AND](https://open.spotify.com/track/3HkKPbMUEdpF606ICEozsx) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [GIRL AND](https://open.spotify.com/album/0splhenXMmpfinHnVfmjeK) | 3:19 | 2023-08-01 | 2023-08-03 |
 | [GIRL AND](https://open.spotify.com/track/6dgI6ooGq2nI4u5DCE6JvX) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [GIRL AND](https://open.spotify.com/album/6OIJN4nZ6uWJiXQeotuvvU) | 3:19 | 2023-08-01 | 2023-09-06 |
@@ -96,6 +97,7 @@
 | [OUR\-AWA\-HOUR!!](https://open.spotify.com/track/3pzF6qBlLfGG2rk8QIQ8xH) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [OUR\-AWA\-HOUR!!](https://open.spotify.com/album/7baaliEPecZK25JCO29ze3) | 2:29 | 2023-08-01 |  |
 | [Page One](https://open.spotify.com/track/3yWXrzzmQFMxOe9bVcQVJ2) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [Page One](https://open.spotify.com/album/3w754CuU5wKeIVJSn0IEa8) | 2:58 | 2023-10-31 | 2023-11-07 |
 | [Pain Pain Pain](https://open.spotify.com/track/2ycQ68NmaWeLzlQHNUBtuI) | [teto](https://open.spotify.com/artist/5dzOZikdYydnlbmBNOS24S) | [手](https://open.spotify.com/album/16PQwAqrBvaLMuvdYShGc3) | 2:51 | 2023-07-27 | 2023-08-09 |
+| [Peppermint Gum](https://open.spotify.com/track/0ALSxIhd5E0qfXBum5AQCa) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Peppermint Gum](https://open.spotify.com/album/4tGCW6bLt5nbGQSFVECn1I) | 3:50 | 2023-11-07 |  |
 | [Play](https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Q.](https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf) | 3:35 | 2023-07-27 | 2023-08-02 |
 | [prettyfine :\)](https://open.spotify.com/track/7cb1WC3LUv1zwxaHls5Ed0) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Mindwash](https://open.spotify.com/album/1oTfStADdknHMWouQkQ6Kt) | 3:30 | 2023-07-27 | 2023-08-04 |
 | [PRIDE](https://open.spotify.com/track/6YSiCQPEEEimysown5ad19) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [PRIDE](https://open.spotify.com/album/2NJhxr7Tt12VB7urrMuZmt) | 4:06 | 2023-07-27 |  |
@@ -161,7 +163,7 @@
 | [エモめの夏](https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [DAILY BOP](https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU) | 2:25 | 2023-08-15 |  |
 | [カスミソウ](https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [カスミソウ](https://open.spotify.com/album/7aEiuGRM1CVprvce4RkQ15) | 3:42 | 2023-07-27 |  |
 | [グッドな音楽を](https://open.spotify.com/track/2vAtN2fB1zqTzfPGxqHmyO) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [グッドな音楽を](https://open.spotify.com/album/3yp1DVS4dSKvkgJqcxXfcA) | 3:35 | 2023-07-27 |  |
-| [ゴウスト](https://open.spotify.com/track/0WhtZQxZXkBJnqW4qVV0ML) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [マイナスゼロ](https://open.spotify.com/album/4N4TKInRqblIr0Vr9PddPj) | 3:22 | 2023-11-07 |  |
+| [ゴウスト](https://open.spotify.com/track/0WhtZQxZXkBJnqW4qVV0ML) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [マイナスゼロ](https://open.spotify.com/album/4N4TKInRqblIr0Vr9PddPj) | 3:22 | 2023-11-07 | 2023-11-09 |
 | [サイダー](https://open.spotify.com/track/1IQlJLwD6QA5N4yIbDeIxt) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [サイダー](https://open.spotify.com/album/0GM5iHC2vIGJ5lLT9aweY1) | 3:46 | 2023-07-27 | 2023-08-11 |
 | [サンデイモーニング](https://open.spotify.com/track/7EKHpb7x9utoOKVzz8aZw3) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [サンデイモーニング](https://open.spotify.com/album/55ojVYLlcXJnGXDOvWeELv) | 3:26 | 2023-10-24 |  |
 | [シェリーはプレイガール 悲しみはぶっとばせ](https://open.spotify.com/track/3xU61YPGxW4RC1cpuxdbdw) | [Dumyy Lou](https://open.spotify.com/artist/5YdM8sVMtYW9BpkYiVVNcN) | [シェリーはプレイガール 悲しみはぶっとばせ](https://open.spotify.com/album/0Fv5oZ9tSrGN1ETY5vwZhk) | 2:54 | 2023-08-17 | 2023-09-02 |
@@ -186,7 +188,7 @@
 | [フィルムカメラ](https://open.spotify.com/track/1hYutnGc0XBiUoMlzipK1p) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [破壊的価値創造](https://open.spotify.com/album/7AlXmLUiPhn3vK6XCwyapY) | 4:41 | 2023-09-20 | 2023-09-21 |
 | [プロポーズ](https://open.spotify.com/track/0tssvHEK5o69GJtv2zhLMc) | [the paddles](https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO) | [プロポーズ](https://open.spotify.com/album/00MN41113f1Y9c04P87puW) | 2:41 | 2023-10-31 |  |
 | [ペパーミント](https://open.spotify.com/track/3U3xD3JRHaBzrMKsrhOazB) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [大人の涙](https://open.spotify.com/album/72UULR9EffVteuvT9xDIKs) | 3:22 | 2023-08-29 |  |
-| [ペパーミントガム](https://open.spotify.com/track/7dX5rnJ4N8Ee1mJZkLQgHP) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [ペパーミントガム](https://open.spotify.com/album/78VrQrdbnCEtU6QoA7JYMi) | 3:50 | 2023-11-07 |  |
+| [ペパーミントガム](https://open.spotify.com/track/7dX5rnJ4N8Ee1mJZkLQgHP) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [ペパーミントガム](https://open.spotify.com/album/78VrQrdbnCEtU6QoA7JYMi) | 3:50 | 2023-11-07 | 2023-11-09 |
 | [ホワイトアウト](https://open.spotify.com/track/6ueqIFxAqxPnFdZXKNPSrr) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [my](https://open.spotify.com/album/2ScDaY2kCiHLd0li7FQf37) | 3:31 | 2023-08-15 |  |
 | [マテリアル](https://open.spotify.com/track/400h4RZFXUt5FE9fEygrzw) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [answer](https://open.spotify.com/album/5CySG9zBbWjSRVFlJSfhwB) | 3:18 | 2023-07-27 | 2023-08-09 |
 | [ミックス](https://open.spotify.com/track/5sAf1YOrqP7t4uMng90FWR) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ミックス](https://open.spotify.com/album/2IrEhqLiVmJZRgSY4W0djK) | 3:29 | 2023-08-15 | 2023-10-12 |

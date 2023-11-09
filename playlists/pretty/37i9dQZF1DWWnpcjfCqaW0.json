@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 284589,
+  "num_followers": 284670,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjI3Y2U0M2Y0YzNkMmVjZGQ2YWJkZTQxZjViZjZmNzEwZGEyM2I5",
+  "snapshot_id": "MCw1MTU0YzRmZTg1MDMxOTcyZDhlMmQzYTIyMDQ2ZTZiZGMyNGZjN2E3",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Dance To The Bop",
-        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
-      },
-      "artists": [
-        {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "Be-Bop-A-Lula",
-      "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "The Complete Capitol Singles: 1957-1966",
         "url": "https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 164680,
       "name": "Under Your Spell Again - Mono Single Version",
       "url": "https://open.spotify.com/track/5Qng3PODaPge1Pn2btusKJ"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Dance To The Bop",
+        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "Be-Bop-A-Lula",
+      "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
     },
     {
       "added_at": "2023-01-02 21:32:07",

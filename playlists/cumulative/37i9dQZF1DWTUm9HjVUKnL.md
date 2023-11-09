@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-1,117 songs - 2 day 20 hr 8 min
+1,119 songs - 2 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [8Track \- Spotify Singles](https://open.spotify.com/track/2qahKp827phhIRizQ5HVPW) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [8Track \(Spotify Singles\)](https://open.spotify.com/album/22A8Pj7NfwUEGvH5QsIFae) | 3:12 | 2022-10-12 |  |
 | [A boba fui eu \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:12 | 2022-01-19 |  |
 | [A Change Is Gonna Come \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Spotify Singles](https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65) | 4:15 | 2022-01-19 |  |
+| [A Little Bit Happy \- Spotify Singles](https://open.spotify.com/track/7zNQs0jlDtar52exQYUrxS) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Spotify Singles](https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4) | 3:25 | 2023-11-08 |  |
 | [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 | 2023-04-21 |  |
 | [A Song Call Marley \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1cQi81KXUnXvaU7X0dtmdJ) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Spotify Singles](https://open.spotify.com/album/3ZDrKkU07CxXL2WxxXyoxH) | 3:56 | 2022-01-19 |  |
 | [A Thousand Cuts \(Spotify Singles\) \- Remix](https://open.spotify.com/track/5CSJmUUVg21L8xb71UKMnI) | [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj), [Ann One](https://open.spotify.com/artist/0gbdUzudCwdzxynH0YSqhI), [AJ Rafael](https://open.spotify.com/artist/4zrB9WV6Z0iKKnGb1Pj0P2) | [Spotify Singles](https://open.spotify.com/album/14V4tjh2spbCj7L4txtEY1) | 4:29 | 2022-05-18 |  |
@@ -190,6 +191,7 @@
 | [Creep](https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz) | 2:41 | 2022-10-26 | 2022-12-09 |
 | [Creep](https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79) | 2:41 | 2022-10-26 |  |
 | [Creep \- mint Singles](https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf) | 2:41 | 2022-01-19 | 2022-11-02 |
+| [Creep \- Spotify Singles](https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Spotify Singles](https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4) | 5:02 | 2023-11-08 |  |
 | [Creep On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/10385jcCDV35eJtuc1BfVh) | [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [Spotify Singles](https://open.spotify.com/album/4vibnRBWsLi12dV9kf5Jmy) | 3:47 | 2022-01-19 |  |
 | [Cry For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0w1Dln7VMjPDCNIIQLidgg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P) | 3:01 | 2022-01-19 | 2022-07-29 |
 | [Cry For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3XpryMvmOzzlLfqAq8WLN2) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/0YppXqlu9VxA7tFteqmjMn) | 3:01 | 2022-07-05 |  |

@@ -362,7 +362,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 128666,
       "name": "AMEN",
       "url": "https://open.spotify.com/track/3GGqmMO9i3fS3kONWUsSxE"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 164705,
       "name": "Clueless (with Oxlade)",
       "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 181224,
       "name": "Cold Outside",
       "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
@@ -4633,6 +4633,24 @@
     },
     {
       "album": {
+        "name": "Lowkey!",
+        "url": "https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213710,
+      "name": "Lowkey!",
+      "url": "https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y"
+    },
+    {
+      "album": {
         "name": "Loyalty",
         "url": "https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL"
       },
@@ -4680,7 +4698,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 180884,
       "name": "Mad Apology",
       "url": "https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0"
@@ -4936,7 +4954,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 186500,
       "name": "Messi",
       "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
@@ -5820,7 +5838,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 198877,
       "name": "One Side - Remix",
       "url": "https://open.spotify.com/track/1ipr0yVUgIworATMZrTAhG"
@@ -6196,6 +6214,28 @@
       "duration_ms": 142363,
       "name": "Peppermint",
       "url": "https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis"
+    },
+    {
+      "album": {
+        "name": "Perfect Combi & Naana",
+        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181063,
+      "name": "Perfect Combi",
+      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
     },
     {
       "album": {
@@ -6804,7 +6844,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-09",
       "duration_ms": 168510,
       "name": "Routine Lover",
       "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"

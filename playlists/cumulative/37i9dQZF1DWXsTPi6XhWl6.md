@@ -4,12 +4,13 @@
 
 > Brighten your morning with these indie, folk and acoustic sounds.
 
-123 songs - 8 hr 21 min
+124 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1904](https://open.spotify.com/track/2s3cLlYJ45K02djaHIwxUu) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [There's No Leaving Now](https://open.spotify.com/album/6Q0hHqrRXKkbafJcHQQ9dF) | 3:59 | 2020-01-14 | 2022-07-27 |
 | [40 Day Dream](https://open.spotify.com/track/3WBWgjyg6ew1Bq2sehB4is) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below](https://open.spotify.com/album/4EBtalKeisyblXwox9mMXf) | 3:53 | 2020-01-14 | 2022-07-29 |
+| [40 Day Dream \(2019 Remaster\)](https://open.spotify.com/track/6qSViwr8Z1ERkL2ZVun3VY) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \- 10th Anniversary Edition](https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd) | 3:52 | 2022-06-17 |  |
 | [40 Day Dream \- 2019 \- Remaster](https://open.spotify.com/track/4ek3pPdfvIbPxynmlisI0k) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 3:52 | 2022-06-17 | 2023-11-04 |
 | [A Beginning Song](https://open.spotify.com/track/02Bd8WXqxchkQFBRwo9XKG) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [What A Terrible World, What A Beautiful World](https://open.spotify.com/album/0K0WhguFHBracRbeSzZgvR) | 5:22 | 2020-01-14 | 2022-07-23 |
 | [Burning](https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 5:48 | 2022-06-17 |  |
@@ -71,7 +72,7 @@
 | [Man](https://open.spotify.com/track/492YZblVU9iBCWKsH60sWP) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You \[Deluxe Edition\]](https://open.spotify.com/album/1lZeuZHmv7Mzngg8UEIRPo) | 3:31 | 2020-01-14 | 2022-02-10 |
 | [Mansion Door](https://open.spotify.com/track/0IREGCigdEmhoBup3ffrPb) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Can't Wake Up](https://open.spotify.com/album/2Wfr01LIuo5Uy5Es51Q8b5) | 4:30 | 2020-01-14 |  |
 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 | 2020-01-14 | 2023-05-16 |
-| [Morning Song](https://open.spotify.com/track/5BM4OgN8Giv7Wi5K8TN02M) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Magpie And The Dandelion \(Deluxe\)](https://open.spotify.com/album/3vxPdhrgTuqqPArgXgEDdj) | 3:54 | 2020-01-14 |  |
+| [Morning Song](https://open.spotify.com/track/5BM4OgN8Giv7Wi5K8TN02M) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Magpie And The Dandelion \(Deluxe\)](https://open.spotify.com/album/3vxPdhrgTuqqPArgXgEDdj) | 3:54 | 2020-01-14 | 2023-11-09 |
 | [Mr\. Tillman](https://open.spotify.com/track/6ZcuwgTbYQ7xz5VN9tBhCw) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [God's Favorite Customer](https://open.spotify.com/album/0hMPUtgjezv7gUsmhztvPv) | 3:03 | 2020-01-14 | 2022-07-13 |
 | [Mr\. Tillman](https://open.spotify.com/track/6wOk4I34MXPyqEfzoQZBNL) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [God's Favorite Customer](https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd) | 3:03 | 2022-06-17 |  |
 | [My Sweet Midwest](https://open.spotify.com/track/6KeqLfHNNG9V0Nk2KAbgy4) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 5:03 | 2022-06-17 | 2022-07-29 |
