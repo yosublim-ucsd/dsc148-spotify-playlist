@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Landon Barker
 
-667 songs - 1 day 10 hr 40 min
+668 songs - 1 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-07-07 | 2023-10-07 |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2022-03-17 | 2022-07-29 |
 | [GOOD FOR HER](https://open.spotify.com/track/76YyKbh4QI8Sfxm9Id2mBz) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [GOOD FOR HER](https://open.spotify.com/album/4HSsLhmoneSVz1GmqFTFdK) | 2:13 | 2022-03-24 | 2022-05-30 |
+| [GOOD GIRL ERA \(SIDE A\)](https://open.spotify.com/track/5LJsMlAwHdRzyq6Z3lLCat) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES](https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y) | 2:19 | 2023-09-08 |  |
 | [GOOD GIRL ERA \(SIDE A\)](https://open.spotify.com/track/5whdFux566Ve7KTpR0Hk73) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V1](https://open.spotify.com/album/7hF7nGQXoQhkWjz7y1uTPk) | 2:19 | 2023-05-05 | 2023-11-02 |
 | [Good Girls \(Don't Get Used\)](https://open.spotify.com/track/4ASZdm6CLLu0BnId42l5Gz) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don't Get Used\)](https://open.spotify.com/album/44vdfxCENptd63pAiHVAe5) | 3:35 | 2022-03-24 | 2022-07-01 |
 | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G) | 3:35 | 2022-07-07 | 2022-08-06 |
@@ -389,7 +390,7 @@
 | [Low Key In Love \(with paris jackson\)](https://open.spotify.com/track/41kxBQJuRpuvqlfR0Rh8fJ) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Low Key In Love \(with paris jackson\)](https://open.spotify.com/album/4TE3zcWHniKuBjwVwElauc) | 3:15 | 2022-03-24 | 2022-07-13 |
 | [Lunatic](https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lunatic](https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR) | 2:21 | 2022-03-17 | 2022-07-03 |
 | [luv starved](https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:40 | 2022-03-17 | 2022-07-29 |
-| [m.i.a.](https://open.spotify.com/track/0mSMy8pVeo1UQ2trCK9nTs) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [m.i.a.](https://open.spotify.com/album/3SyMCFHyoImUg9xdgP9xIc) | 2:32 | 2023-09-08 |  |
+| [m.i.a.](https://open.spotify.com/track/0mSMy8pVeo1UQ2trCK9nTs) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [m.i.a.](https://open.spotify.com/album/3SyMCFHyoImUg9xdgP9xIc) | 2:32 | 2023-09-08 | 2023-11-10 |
 | [m.i.a.](https://open.spotify.com/track/4SZsO44hUGeMb5dVJbncez) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [m.i.a.](https://open.spotify.com/album/48dzjyMdd8UILx5WRIF1v8) | 2:32 | 2023-03-24 | 2023-05-02 |
 | [Maid Marian's Toast](https://open.spotify.com/track/3ULLSWSWdHM7B9GKT3llMR) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Cooler Returns](https://open.spotify.com/album/2ofh6hffQvD5vD3SqXENYI) | 2:23 | 2022-03-24 | 2022-04-19 |
 | [Make It Easy](https://open.spotify.com/track/5k2LqjXyy7iKU6dbIHQZhb) | [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW) | [Make It Easy](https://open.spotify.com/album/0WV6w3PUAtAxW7iwAJNFLB) | 4:16 | 2022-03-24 | 2022-04-21 |

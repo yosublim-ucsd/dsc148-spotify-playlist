@@ -4,7 +4,7 @@
 
 > This is R&B in Canada\. Elevate your aura with Chxrry22.
 
-826 songs - 1 day 19 hr 36 min
+827 songs - 1 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -809,6 +809,7 @@
 | [Where Did You Go](https://open.spotify.com/track/05psPm6j4TA5zkmHWunyVQ) | [SLMN](https://open.spotify.com/artist/7bDKyS3Rbpp1wt4l2KMqAg), [Kvn Rose](https://open.spotify.com/artist/1nSl65AGkO6EYrJSoEwfAF), [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Where Did You Go](https://open.spotify.com/album/4NTEpzAsL3PKdS1OzDs66r) | 2:29 | 2022-06-10 | 2022-07-30 |
 | [Where Ya From](https://open.spotify.com/track/74kvijB0vU5BK44QnNb4Gt) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Hyde Out](https://open.spotify.com/album/3ChAAathOrBgPaXDJJk5Wy) | 3:48 | 2022-07-29 | 2022-11-12 |
 | [While You on Road](https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [While You on Road](https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC) | 3:02 | 2022-02-25 | 2022-04-09 |
+| [Who Dey Shake](https://open.spotify.com/track/46SqFCeMhBCanrMdjVt5VG) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Who Dey Shake](https://open.spotify.com/album/57BOojfQE1CsH1qpFmpANc) | 2:47 | 2023-10-27 |  |
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-06-09 | 2023-09-16 |
 | [whose fault](https://open.spotify.com/track/24bEwSczFXVlFyqfAHQfls) | [Ebhoni](https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6) | [whose fault](https://open.spotify.com/album/5XcLFnMT5SBsTVfAwm5Vl0) | 2:06 | 2022-05-20 | 2022-07-02 |
 | [Why](https://open.spotify.com/track/6VqQJ70rwAKKbRZf0wJLNu) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Why](https://open.spotify.com/album/4vjUPxgv4uyeGfd1WKViP2) | 3:20 | 2022-04-15 | 2022-05-20 |

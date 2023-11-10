@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: ZZ Ward
 
-246 songs - 14 hr 21 min
+247 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Light Shine In](https://open.spotify.com/track/3azPwNPD36yMmg4gYRtuJ4) | [Conor Gains](https://open.spotify.com/artist/3v56uAiWA52So80mU5pBy2) | [Light Shine In](https://open.spotify.com/album/5SgySlto0nQI5P38u7Cvw0) | 3:27 | 2021-04-02 | 2022-03-26 |
 | [Like A Dove](https://open.spotify.com/track/1br8OkIlBEJjhcAdZ44UUC) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Like A Dove](https://open.spotify.com/album/2iQ9N9PXfVaHF3t5xNIwVl) | 5:50 | 2023-08-25 |  |
 | [Like You Mean It](https://open.spotify.com/track/27qo8wD02bPb4tbunUm8w8) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Like You Mean It](https://open.spotify.com/album/3qKgpfBcTIztyYMxoRzwFz) | 2:38 | 2023-03-17 | 2023-05-27 |
-| [Lips Are Movin'](https://open.spotify.com/track/7oQ8nqWZ8KupiIO4SJrHxM) | [Sgt\. Splendor](https://open.spotify.com/artist/1hEnIRqyPrQ0ACvUZZM2Aw), [Kate Vargas](https://open.spotify.com/artist/6IaBcgmfcrqB8yGh0BrTf1), [Eric McFadden](https://open.spotify.com/artist/5eW72pXN4o65oLTUmVRBKA) | [Death Of The Hoochie Koo](https://open.spotify.com/album/3c0lWeW5PfR1sal7UUFgjB) | 2:42 | 2023-05-19 |  |
+| [Lips Are Movin'](https://open.spotify.com/track/2kXOwYrDCyyhbDY7B2Sggp) | [Sgt\. Splendor](https://open.spotify.com/artist/1hEnIRqyPrQ0ACvUZZM2Aw), [Kate Vargas](https://open.spotify.com/artist/6IaBcgmfcrqB8yGh0BrTf1), [Eric McFadden](https://open.spotify.com/artist/5eW72pXN4o65oLTUmVRBKA) | [Death Of The Hoochie Koo](https://open.spotify.com/album/2ajOIlt7QTx5E9OMYa7WPE) | 2:42 | 2023-05-19 |  |
+| [Lips Are Movin'](https://open.spotify.com/track/7oQ8nqWZ8KupiIO4SJrHxM) | [Sgt\. Splendor](https://open.spotify.com/artist/1hEnIRqyPrQ0ACvUZZM2Aw), [Kate Vargas](https://open.spotify.com/artist/6IaBcgmfcrqB8yGh0BrTf1), [Eric McFadden](https://open.spotify.com/artist/5eW72pXN4o65oLTUmVRBKA) | [Death Of The Hoochie Koo](https://open.spotify.com/album/3c0lWeW5PfR1sal7UUFgjB) | 2:42 | 2023-05-19 | 2023-11-10 |
 | [Log On](https://open.spotify.com/track/7v7NrUoc3pSV49qWdvFZxZ) | [The 32 Golden Souls](https://open.spotify.com/artist/2zDq66Zcl7NcRY1XViXBN8), [Winston McAnuff](https://open.spotify.com/artist/3KnbABMv83BtL1scL56svt), [Lymie Murray](https://open.spotify.com/artist/6A53ujYIa2XYuZQou20kGI) | [Log On](https://open.spotify.com/album/1T44hQdjRZwInVBSqUWA0m) | 4:19 | 2022-08-26 | 2022-09-03 |
 | [Lonely](https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Lonely](https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ) | 3:00 | 2022-03-04 |  |
 | [LOST IN THE CITY](https://open.spotify.com/track/7bHz0ZMFED3ZN39InD2YmZ) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN LEGACY](https://open.spotify.com/album/74v3ofUMm9rHBHV8u0a5sr) | 3:13 | 2023-05-26 | 2023-06-24 |

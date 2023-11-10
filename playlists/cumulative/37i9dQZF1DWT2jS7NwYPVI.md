@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Spiritual Cramp
 
-1,954 songs - 4 day 6 hr 59 min
+1,955 songs - 4 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -792,7 +792,8 @@
 | [hurt myself](https://open.spotify.com/track/0hA21a7LBM161F57QDR2IH) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [hurt myself](https://open.spotify.com/album/5ki5byNlXNu1UtphMyQeym) | 2:26 | 2023-07-28 | 2023-08-12 |
 | [Hurt You](https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Hurt You](https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t) | 3:55 | 2022-10-07 | 2022-11-05 |
 | [Hurt You](https://open.spotify.com/track/3Cy088VMsvC4xsIQd30UnX) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD) | 3:55 | 2022-11-04 | 2023-01-14 |
-| [HUSH](https://open.spotify.com/track/4BXaVV3EPztEtb4hcF9CGS) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [HUSH](https://open.spotify.com/album/6FrcYbl99S3e5xlvHCQj7R) | 3:18 | 2023-11-03 |  |
+| [HUSH](https://open.spotify.com/track/4BXaVV3EPztEtb4hcF9CGS) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [HUSH](https://open.spotify.com/album/6FrcYbl99S3e5xlvHCQj7R) | 3:18 | 2023-11-03 | 2023-11-10 |
+| [HUSH](https://open.spotify.com/track/7aB5uUd9VUpBoHY4XCxXBw) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 3:18 | 2023-11-03 |  |
 | [Hybrid](https://open.spotify.com/track/1KcSoLTbW95AiUj8RLcPxr) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [God, I Hate This Place](https://open.spotify.com/album/506D0KoP1j3ttcJACqWd3T) | 2:33 | 2023-02-24 | 2023-04-29 |
 | [Hyper Trophy](https://open.spotify.com/track/3kHSUwpxqdXaKONV3ECNL8) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Hyper Trophy](https://open.spotify.com/album/0Pt5wGMaHSrmNSjzHVag6e) | 2:55 | 2023-08-25 | 2023-09-16 |
 | [I AM NOT YOU](https://open.spotify.com/track/45Nuap9l89eqVCwHU1Y4nE) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [I AM NOT YOU](https://open.spotify.com/album/3NV7ovd53I06QbuzXa0wvn) | 3:23 | 2021-11-26 | 2022-02-19 |

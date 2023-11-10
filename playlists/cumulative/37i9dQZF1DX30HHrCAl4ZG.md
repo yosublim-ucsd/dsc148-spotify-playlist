@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring new music by Arcy Drive
 
-1,252 songs - 2 day 20 hr 25 min
+1,253 songs - 2 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,7 +550,8 @@
 | [howling @ the moon](https://open.spotify.com/track/2BxiLfiKCxyOqG7FMXWlm2) | [Andrew Garden](https://open.spotify.com/artist/52edEK1d76neXRL7odUZwi) | [howling @ the moon](https://open.spotify.com/album/3dkTnNmHYTOZKET3JN7EI5) | 1:43 | 2022-12-02 | 2022-12-08 |
 | [Hug From a Dinosaur](https://open.spotify.com/track/5wUVDoL5SjetHRlehOOxQJ) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Hug From a Dinosaur](https://open.spotify.com/album/6IE9ttJcBA7lltBVY0unsY) | 3:18 | 2021-06-18 | 2022-04-18 |
 | [Hurting Kind](https://open.spotify.com/track/3uppnQKDEQkNUqRSSEXKfM) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Hurting Kind](https://open.spotify.com/album/0q9OGda1zYFeTDKqEfa4HR) | 3:40 | 2021-06-25 | 2022-06-11 |
-| [HUSH](https://open.spotify.com/track/4BXaVV3EPztEtb4hcF9CGS) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [HUSH](https://open.spotify.com/album/6FrcYbl99S3e5xlvHCQj7R) | 3:18 | 2023-11-03 |  |
+| [HUSH](https://open.spotify.com/track/4BXaVV3EPztEtb4hcF9CGS) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [HUSH](https://open.spotify.com/album/6FrcYbl99S3e5xlvHCQj7R) | 3:18 | 2023-11-03 | 2023-11-10 |
+| [HUSH](https://open.spotify.com/track/7aB5uUd9VUpBoHY4XCxXBw) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 3:18 | 2023-11-03 |  |
 | [Hybrid](https://open.spotify.com/track/1KcSoLTbW95AiUj8RLcPxr) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [God, I Hate This Place](https://open.spotify.com/album/506D0KoP1j3ttcJACqWd3T) | 2:33 | 2023-03-03 | 2023-04-22 |
 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 | 2022-10-21 | 2022-11-19 |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2021-07-20 | 2023-05-24 |

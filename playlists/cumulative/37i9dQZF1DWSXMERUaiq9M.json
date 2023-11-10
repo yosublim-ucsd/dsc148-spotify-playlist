@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 185953,
       "name": "1, 2 Step - DJ HEARTSTRING Remix",
       "url": "https://open.spotify.com/track/4IhCpufYdnbCIjwWw7tqty"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 194850,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh"
@@ -348,6 +348,24 @@
       "duration_ms": 241799,
       "name": "BORDERLINE",
       "url": "https://open.spotify.com/track/168uMiy76C6sXmNIpGWPlZ"
+    },
+    {
+      "album": {
+        "name": "Bumble",
+        "url": "https://open.spotify.com/album/0lKvyzna35BHQQ95EPtbsT"
+      },
+      "artists": [
+        {
+          "name": "Elon Bass",
+          "url": "https://open.spotify.com/artist/1aBNQ54UH1JJ2A0JgkaJHr"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260661,
+      "name": "Bumble",
+      "url": "https://open.spotify.com/track/6mL2Xd2Ws0XEFpwXqGN6r4"
     },
     {
       "album": {
@@ -1725,6 +1743,28 @@
     },
     {
       "album": {
+        "name": "Lady of the Moon (Geo22 Edit)",
+        "url": "https://open.spotify.com/album/4N1XvwsjPGm2ghapARnpn3"
+      },
+      "artists": [
+        {
+          "name": "Geo22",
+          "url": "https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr"
+        },
+        {
+          "name": "2002",
+          "url": "https://open.spotify.com/artist/6zVSYiNDYelMzhMiZQJU7W"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219925,
+      "name": "Lady of the Moon (Geo22 Edit)",
+      "url": "https://open.spotify.com/track/74859SONTVsXf1Cpdl8t3g"
+    },
+    {
+      "album": {
         "name": "slash 004 - Leave it to the vibe",
         "url": "https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs"
       },
@@ -2405,6 +2445,24 @@
     },
     {
       "album": {
+        "name": "WAXTAPE 2",
+        "url": "https://open.spotify.com/album/1uHpC5qOXH6SYPXYEW1Jbh"
+      },
+      "artists": [
+        {
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209081,
+      "name": "Pensiero Energia",
+      "url": "https://open.spotify.com/track/2ivsdYNQIo0qFNBuM22kl2"
+    },
+    {
+      "album": {
         "name": "Babylonia",
         "url": "https://open.spotify.com/album/7KrDMVlL2ftiwtHN0yW2Va"
       },
@@ -2657,6 +2715,28 @@
     },
     {
       "album": {
+        "name": "Rave Alert",
+        "url": "https://open.spotify.com/album/7vGBqOTTqBdXQ5603uhBNJ"
+      },
+      "artists": [
+        {
+          "name": "AXXX7en",
+          "url": "https://open.spotify.com/artist/1l3VzLTekQWDt5z2Q5eZnq"
+        },
+        {
+          "name": "Chris Veron",
+          "url": "https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204191,
+      "name": "Rave Alert",
+      "url": "https://open.spotify.com/track/6ps0ug4M1qOOL33KNcN0jD"
+    },
+    {
+      "album": {
         "name": "Rave Out",
         "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
       },
@@ -2760,7 +2840,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 173419,
       "name": "RIDE IT",
       "url": "https://open.spotify.com/track/2WhugaeaAmlt3vq27svNK8"
@@ -3292,7 +3372,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 312746,
       "name": "Unity - Original Mix",
       "url": "https://open.spotify.com/track/4lotSTi1ufPLtyfTLZ4VNF"

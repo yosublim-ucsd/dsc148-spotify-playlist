@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Les hits du moment sont ici. Cover : Morad, GIMS",
+  "description": "Les hits du moment sont ici. Cover : Moha K",
   "name": "Hot Hits Maghreb",
   "tracks": [
     {
@@ -154,6 +154,28 @@
       "duration_ms": 165557,
       "name": "All Eyez On Me - Gangsta Remix",
       "url": "https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc"
+    },
+    {
+      "album": {
+        "name": "Allo",
+        "url": "https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        },
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195375,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ"
     },
     {
       "album": {
@@ -2730,7 +2752,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 208436,
       "name": "Mriyech",
       "url": "https://open.spotify.com/track/7735rwGeak348luaiQVRNE"

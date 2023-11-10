@@ -4,7 +4,7 @@
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-118 songs - 8 hr 32 min
+119 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Sirivennela](https://open.spotify.com/track/7L2D6W7e8mn0zf8cH78Ch4) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Sirivennela \- Shyam Singha Roy \- Telugu](https://open.spotify.com/album/7EvKnbGkPEa6eNqUBpErN4) | 4:13 | 2022-02-01 | 2022-07-29 |
 | [Sirivennela \(From "Shyam Singha Roy"\)](https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Sirivennela \(From "Shyam Singha Roy"\) \- Single](https://open.spotify.com/album/7cD0VDRtVEfnrkixMsnQV8) | 4:13 | 2022-02-01 | 2022-10-14 |
 | [Sundari](https://open.spotify.com/track/37qEgpLxOJN2jpxo2yEl64) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr) | [Khaidi No 150](https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0) | 4:29 | 2021-10-21 | 2022-10-14 |
-| [Sweety](https://open.spotify.com/track/0JwGSIPH2wzFVl6ZW1RQoW) | [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW), [Rabbit M C](https://open.spotify.com/artist/3EwmY8hOYo6ApKtlOIfgVV) | [Race Gurram](https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n) | 4:25 | 2022-10-13 |  |
+| [Sweety](https://open.spotify.com/track/1YpczjhxnvD6WBWdnu3s4X) | [Rabbit Mac](https://open.spotify.com/artist/6XswDHNrF5xRBwCs0eNVC7), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW) | [Race Gurram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mx4mHfTPv6VWisaPdQPzo) | 4:25 | 2022-10-13 |  |
+| [Sweety](https://open.spotify.com/track/0JwGSIPH2wzFVl6ZW1RQoW) | [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW), [Rabbit M C](https://open.spotify.com/artist/3EwmY8hOYo6ApKtlOIfgVV) | [Race Gurram](https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n) | 4:25 | 2022-10-13 | 2023-11-10 |
 | [Undipo](https://open.spotify.com/track/78ezufT6ND0PcSctjWHS6N) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Ramya Behra](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Undipo \(From "Ismart Shankar"\)](https://open.spotify.com/album/38ZaiNuSX9vySItwro6K4n) | 5:03 | 2021-10-21 | 2022-10-14 |
 | [Undiporaadhey](https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Hushaaru](https://open.spotify.com/album/35CCKYAkZ8GHzIb1rbDND5) | 2:53 | 2021-10-21 | 2022-10-14 |
 | [Undiporaadhey \- From "Hushaaru"](https://open.spotify.com/track/4e4XPlM5s86iz9YXdUuIMg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Musical Magic of Sid Sriram](https://open.spotify.com/album/7vXgMTFLWO84G84kGc8KxJ) | 2:53 | 2021-10-21 | 2022-07-29 |

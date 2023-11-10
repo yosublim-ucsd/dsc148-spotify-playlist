@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Jung Kook, Megan Thee Stallion, The Beatles, Olivia Rodrigo, WILLOW, Conan Gray and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,171,500 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,171,581 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 80 | [Burning House](https://open.spotify.com/track/1GzPhpYryjiG0TckNGQvCf) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Burning House](https://open.spotify.com/album/1Rwm1wWUSpqAckV27uzZga) | 2:42 |
 | 81 | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u) | 3:13 |
 | 82 | [Barry](https://open.spotify.com/track/3z5hvnhC1rksnJNKR7rvqX) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [WE'RE ALL BRODIES\*](https://open.spotify.com/album/6vIfYqKIvseLIBU7e1E34c) | 2:16 |
-| 83 | [HUSH](https://open.spotify.com/track/4BXaVV3EPztEtb4hcF9CGS) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [HUSH](https://open.spotify.com/album/6FrcYbl99S3e5xlvHCQj7R) | 3:18 |
+| 83 | [HUSH](https://open.spotify.com/track/7aB5uUd9VUpBoHY4XCxXBw) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 3:18 |
 | 84 | [Tennis](https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05) | 2:19 |
 | 85 | [Home Where](https://open.spotify.com/track/3GRAyz3IthDwutYpdeicDa) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Home Where](https://open.spotify.com/album/5M6KfuWFJdMO7bZkxF58gL) | 2:56 |
 | 86 | [The Matrix](https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [The Matrix](https://open.spotify.com/album/6gqw69YjxD8oXGZ2rp1pPd) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Rover!](https://open.spotify.com/track/0s9eWn090LdFQxKqkPLiH3) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [SUPERSTAR!](https://open.spotify.com/album/7rRQ0fz5cgm4y6BmahyXCs) | 2:31 |
 | 100 | [post\-traumatic stress](https://open.spotify.com/track/36UlMEFIqpCzMOQmjK2IL4) | [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z) | [post\-traumatic stress](https://open.spotify.com/album/70pj9H22oLhKupwGu61zkw) | 2:32 |
 
-Snapshot ID: `MCw1NmEwMmYxMTBmZjRlZTJmYTczNDcwNzEzNzJmY2E2Njg0OGQxZjIx`
+Snapshot ID: `MCw2ZGZmOGNhYWZlNWE2MjI5MWZjN2MxMzg0ZGVmYzM5ODExMDA3MjJi`

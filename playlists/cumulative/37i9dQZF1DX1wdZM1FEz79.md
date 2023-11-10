@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: WOO JEE WON\(우지원\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.\)
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: KIM YEO MYUNG\(김여명\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.\)
 
-472 songs - 1 day 4 hr 5 min
+474 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [For Lovers who Hesitate](https://open.spotify.com/track/7DvYdIOzC25BqAucmEMa7K) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [Adolescence](https://open.spotify.com/album/079llPxFVYSKxxOM4vbczw) | 3:44 | 2022-03-31 | 2022-04-21 |
 | [For You](https://open.spotify.com/track/5VMFjdoJquu5BH6Ti3GYSZ) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [For You](https://open.spotify.com/album/2eR6McDzZsDA7K7DWibT6k) | 4:04 | 2022-01-13 | 2022-05-23 |
 | [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 | 2022-09-05 | 2023-04-23 |
+| [Forg\_tful \(with Kim Sawol\)](https://open.spotify.com/track/1mrS1j5cwaffpXsthTb2Qx) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 2:42 | 2023-11-10 |  |
 | [Friday \(feat.Jang Yi\-jeong\)](https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Jang Yi\-jeong](https://open.spotify.com/artist/7nLakaHt1koh5mP4OIVM0F) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:37 | 2021-12-10 |  |
 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 | 2021-12-10 |  |
 | [From Me To You](https://open.spotify.com/track/421hiNw7zfbeS9wALKMr5K) | [Oh Si Young](https://open.spotify.com/artist/0l5rg9dt1t4L9MZWfm8bTI) | [From Me To You](https://open.spotify.com/album/3GomXLTbqeK1piqSa7ryWW) | 3:45 | 2021-12-10 | 2022-04-19 |
@@ -166,12 +167,12 @@
 | [I Miss You](https://open.spotify.com/track/3UmMsNGBhI8tETHEPTEDmX) | [BBAhn](https://open.spotify.com/artist/3WAl6fRK6T9akrM3Cdl4ki) | [I Miss You](https://open.spotify.com/album/63FplSftSgYczV6JYb3Xw7) | 3:17 | 2022-03-31 | 2022-04-10 |
 | [I Miss You](https://open.spotify.com/track/0nF3xRy0k9fxRoi3OliAdW) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [I Miss You](https://open.spotify.com/album/11jHxIFQPqV7Y0hKxjc4TC) | 3:24 | 2021-12-10 | 2022-07-11 |
 | [I said](https://open.spotify.com/track/0OqIypFPfrwEqyTsVVwboN) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW) | [ENTP](https://open.spotify.com/album/3CVo9XNjQnuNI0cBHfAhBY) | 2:54 | 2022-01-13 | 2022-06-07 |
-| [I said I love you](https://open.spotify.com/track/6o8LGsALvRgiaGdHsh6Uy1) | [WOO JEE WON](https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU) | [Homeground](https://open.spotify.com/album/3S4IGPlVVFQlZKes6duYVZ) | 3:55 | 2023-11-03 |  |
+| [I said I love you](https://open.spotify.com/track/6o8LGsALvRgiaGdHsh6Uy1) | [WOO JEE WON](https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU) | [Homeground](https://open.spotify.com/album/3S4IGPlVVFQlZKes6duYVZ) | 3:55 | 2023-11-03 | 2023-11-10 |
 | [I Wanna Be With You](https://open.spotify.com/track/4BRllgokpqghTc6b52mDMa) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp) | 3:24 | 2022-01-13 | 2022-06-12 |
 | [I Wanna Fall in Love](https://open.spotify.com/track/1SitWmav8K9bEn1f23anqO) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Five Love Stories](https://open.spotify.com/album/7lBSwclU4wPfktweIkfQxH) | 5:05 | 2022-04-12 | 2022-04-15 |
 | [I wanna go out](https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [D\_iary Page.1](https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU) | 4:05 | 2021-12-10 | 2022-07-27 |
 | [I Want to Be A Pillow](https://open.spotify.com/track/0p2Rh63rx8xbxVPwol2EmA) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_i?](https://open.spotify.com/album/72uhm3L8qHUsKHneApbolo) | 3:43 | 2021-12-10 | 2022-07-29 |
-| [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 | 2022-07-08 |  |
+| [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 | 2022-07-08 | 2023-11-10 |
 | [I want to love](https://open.spotify.com/track/5D63fftBm3Haj5laapgWl2) | [Park Jaewoo](https://open.spotify.com/artist/2WIOofcSewAuVXBSMuQ2dD) | [I want to love](https://open.spotify.com/album/5K5TZWuzj0p4LJwH7jTFug) | 3:31 | 2022-08-18 | 2022-09-03 |
 | [I Will Remember](https://open.spotify.com/track/2FV04bwFqfJyOLDZL2vx7C) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Five Love Stories](https://open.spotify.com/album/7lBSwclU4wPfktweIkfQxH) | 3:08 | 2022-03-31 | 2022-04-07 |
 | [I Wonder](https://open.spotify.com/track/0WLjUv41NxxFZnNnn0Ra9W) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49) | [Let's Eat! 3 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/535nRzc7dhjietZuqgHfQr) | 3:39 | 2021-12-10 | 2022-05-31 |
@@ -264,6 +265,7 @@
 | [Not bad](https://open.spotify.com/track/43PYUV95avDEB6YJ00Vtcj) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [Not Bad](https://open.spotify.com/album/0gdxGX5oH61Mo9dA7czuHB) | 3:44 | 2022-03-31 | 2022-04-23 |
 | [Not too Distance Day](https://open.spotify.com/track/4S9AzdgnqZS9dj83JCL81T) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [20th Century Boy and Girl \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/6L8d9ie211OVVwZU63BqzT) | 3:45 | 2022-03-31 | 2022-04-21 |
 | [Note](https://open.spotify.com/track/2A48Jp9CV8lb8aCXJAVZdk) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [When the dawn calls me abruptly](https://open.spotify.com/album/6OMipjKp4xAqDXp5qQQspt) | 2:51 | 2023-02-14 | 2023-02-25 |
+| [O](https://open.spotify.com/track/769ZTqFKMUBIVaQyudP0K3) | [KIM YEO MYUNG](https://open.spotify.com/artist/75Smk0h9bJWZsODXdTKMvP) | [O](https://open.spotify.com/album/1DeIgMT42fnpAbsYZ6XQAR) | 2:55 | 2023-11-10 |  |
 | [Ocean \(feat\. Aden\)](https://open.spotify.com/track/1RaY3cmtdqTJS1dOd3rTEV) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls) | [Ocean \(feat\. Aden\)](https://open.spotify.com/album/1pGgckc3VwImx2Ka1wfZcX) | 3:23 | 2022-08-12 | 2022-08-19 |
 | [Ocean View](https://open.spotify.com/track/1LOoEUkTIizBhlvjffRZyv) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Ocean View](https://open.spotify.com/album/4oL6AzGypsq7EqXltGfytw) | 4:28 | 2022-03-31 | 2022-04-12 |
 | [Officially Missing You](https://open.spotify.com/track/1xyOVyoRq03sR3dAcyZ86q) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Officially Missing You](https://open.spotify.com/album/3taD89onznp39CDh6MhGeA) | 3:30 | 2022-03-31 | 2022-04-20 |

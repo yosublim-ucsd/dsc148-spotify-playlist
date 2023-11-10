@@ -4,12 +4,13 @@
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-398 songs - 1 day 1 hr 33 min
+399 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Dry Cry\) Just One of Those Days](https://open.spotify.com/track/5D0QnhFCV0uiEx3VvRgAkL) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [STRICTLY THE BEST VOL\. 31](https://open.spotify.com/album/26XrLpOvz47iPoQOpVCync) | 3:28 | 2022-07-29 | 2022-08-19 |
 | [\(Poor Mi\) Israelites](https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Intensified](https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy) | 2:33 | 2023-06-08 | 2023-08-23 |
+| [\(Poor Mi\) Israelites](https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:36 | 2023-06-08 |  |
 | [\(You Gotta Walk\) Don't Look Back \- 2002 Remaster](https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Bush Doctor](https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b) | 5:20 | 2021-10-18 |  |
 | [007 \(Shanty Town\)](https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [007 Shanty Town](https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm) | 2:32 | 2022-06-20 | 2023-11-04 |
 | [100 % of Loving](https://open.spotify.com/track/4WWf5b0a4CAhJKYz4j2qlq) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM), [Ziggi Recado](https://open.spotify.com/artist/0tvYfnkHhiQcVsR69cfAW8) | [Stay Forever](https://open.spotify.com/album/0pjXDUaw0Fwj98Eym7g8vh) | 3:27 | 2021-10-18 | 2022-07-21 |
@@ -321,7 +322,7 @@
 | [Solitude](https://open.spotify.com/track/0k5s9BlyIUaHK1Fa7DVTyY) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:39 | 2022-07-29 | 2022-08-19 |
 | [Somewhere Wonderful](https://open.spotify.com/track/3xQhWWFce9rJcEWvALEUDP) | [Ras\-I](https://open.spotify.com/artist/1AiPTeSRCKWwP2o7OXtoY9) | [Kingman](https://open.spotify.com/album/3OPDO0rb57drLa7W96bmE7) | 3:13 | 2022-08-18 | 2022-09-10 |
 | [Spanish Town Rockin'](https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 3:24 | 2021-10-18 |  |
-| [Speak Life](https://open.spotify.com/track/21RALCUrU5kzPxas0f12hv) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 5:05 | 2022-10-13 |  |
+| [Speak Life](https://open.spotify.com/track/21RALCUrU5kzPxas0f12hv) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 5:05 | 2022-10-13 | 2023-11-10 |
 | [Stand Down](https://open.spotify.com/track/7usMsERH3ssk4ohPVThSOI) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Reggae Reggae \(International Version\)](https://open.spotify.com/album/4DSiH8fLj4U6SaSuPeqoZJ) | 4:01 | 2021-10-18 | 2022-01-29 |
 | [Stand Up](https://open.spotify.com/track/1edoALZCzhBVjdQckf2xzj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Nathalia](https://open.spotify.com/artist/0N8vin0BrXOgEZvdOtjEJ3) | [The Kalling](https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9) | 3:21 | 2022-10-13 | 2023-06-01 |
 | [Stars Align](https://open.spotify.com/track/01zjFKZ2qDYDXJsNSmVm0i) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/4hO1czp6sMt5e2LfB5wdkF) | 3:21 | 2021-10-18 | 2022-07-29 |

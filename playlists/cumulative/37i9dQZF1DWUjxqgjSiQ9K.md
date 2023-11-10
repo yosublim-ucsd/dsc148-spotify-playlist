@@ -4,7 +4,7 @@
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: <a href="spotify:artist:6mEJxv4yQ0uvEZ023sKEPt">SioVera</a>
 
-507 songs - 1 day 15 hr 1 min
+508 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Con Qué Pagaré?](https://open.spotify.com/track/2LKYoKY35J9bd69QLbGOoG) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz), [Cristóbal Fones, Sj](https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk) | [Con Qué Pagaré?](https://open.spotify.com/album/5SOg5hB6NprWFePQ4uRcn7) | 3:32 | 2022-08-19 | 2022-09-17 |
 | [Confía \- En Vivo](https://open.spotify.com/track/7DjUWgkFpJVrTDL5m2bmqt) | [New Wine](https://open.spotify.com/artist/5W9IQJnGvBYP8VOChmSpU6) | [Lugar Secreto \(En Vivo\)](https://open.spotify.com/album/2p9jYFk29y9u9STPyWaqns) | 4:30 | 2023-04-14 |  |
 | [Construiré Mi Vida](https://open.spotify.com/track/5m9T3o8tBpkFlqMlkwbVh7) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Construiré Mi Vida](https://open.spotify.com/album/2sqh2FQIadwmWaycktFzkr) | 4:28 | 2022-02-25 | 2022-06-11 |
-| [Construiré Mi Vida // Digno De Adorar](https://open.spotify.com/track/7vVOmQqBuI2vLQvOs3jK1S) | [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt) | [Construiré Mi Vida // Digno De Adorar](https://open.spotify.com/album/375WLK7rEnQhwwnhWQ3Wl9) | 3:36 | 2023-09-08 |  |
+| [Construiré Mi Vida // Digno De Adorar](https://open.spotify.com/track/2Fjo0giimkpqgSdTOCwyRS) | [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt) | [Adoración](https://open.spotify.com/album/4kOjEbqrPJyucxl0eCqwkP) | 3:36 | 2023-11-03 |  |
+| [Construiré Mi Vida // Digno De Adorar](https://open.spotify.com/track/7vVOmQqBuI2vLQvOs3jK1S) | [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt) | [Construiré Mi Vida // Digno De Adorar](https://open.spotify.com/album/375WLK7rEnQhwwnhWQ3Wl9) | 3:36 | 2023-09-08 | 2023-11-10 |
 | [Contigo](https://open.spotify.com/track/3VYlrsMKVYCZ8s8JCMEhGT) | [Nezareth](https://open.spotify.com/artist/4afXJaDsXOYRPYklYepSYT), [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Contigo](https://open.spotify.com/album/6fHJeRf0DQquLgrwp4P9au) | 3:45 | 2023-04-21 |  |
 | [Contigo \(Acústico\)](https://open.spotify.com/track/67kwQbpVobw3Q7ABAHPVGG) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Contigo \(Acústico\)](https://open.spotify.com/album/3vTGLhFfovThcETFAvchSX) | 2:30 | 2022-02-25 | 2022-05-20 |
 | [Contracorriente](https://open.spotify.com/track/60YS7XYRdzEyCXsVpqYf2W) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS), [Chary Goodman](https://open.spotify.com/artist/5H9IgoOhJu6nQPmZOPhb6F) | [Contracorriente](https://open.spotify.com/album/24w1NsYr1HPGiSLzccvV2A) | 3:04 | 2022-07-22 | 2023-07-08 |

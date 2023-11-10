@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Maureen",
+  "description": "Les hits dancehall du moment. Photo : Kalash",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -3208,7 +3208,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 114569,
       "name": "KOZ\u00c9 CHO",
       "url": "https://open.spotify.com/track/708xBnPh7gOyMz1pjqH7rL"
@@ -4334,6 +4334,32 @@
     {
       "album": {
         "name": "Party",
+        "url": "https://open.spotify.com/album/1TmdeuQRqc6b9VH8CfjMVH"
+      },
+      "artists": [
+        {
+          "name": "CRAAZY",
+          "url": "https://open.spotify.com/artist/7zBL53SPAeG7OObxZH6Lxd"
+        },
+        {
+          "name": "WAH WAAH",
+          "url": "https://open.spotify.com/artist/6Xv9wB1rxazucdkzKMcHMG"
+        },
+        {
+          "name": "DJ Tony 438",
+          "url": "https://open.spotify.com/artist/1iq7PmFtJArFcqxJXJVeLf"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183861,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/3AffxycA3klo1JrIMKZPCz"
+    },
+    {
+      "album": {
+        "name": "Party",
         "url": "https://open.spotify.com/album/7omhYx26PqRJsEKDlNSYmc"
       },
       "artists": [
@@ -4974,7 +5000,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 130666,
       "name": "Replay",
       "url": "https://open.spotify.com/track/0DZrQE6rBMMAX0KF07NaI8"
@@ -6592,6 +6618,24 @@
       "duration_ms": 210989,
       "name": "Whine",
       "url": "https://open.spotify.com/track/036joKTnTtJfJVifnRhOqj"
+    },
+    {
+      "album": {
+        "name": "Whine",
+        "url": "https://open.spotify.com/album/61Ob6ZeNCpxzuzdCyeYQZz"
+      },
+      "artists": [
+        {
+          "name": "Xavier Picardo",
+          "url": "https://open.spotify.com/artist/41dndcs0lGb9GMwJiJhVCJ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149126,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/07lYBpG61kXJfE8e5CI03c"
     },
     {
       "album": {

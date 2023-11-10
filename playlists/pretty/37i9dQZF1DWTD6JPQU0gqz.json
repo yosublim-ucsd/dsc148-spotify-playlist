@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 50187,
+  "num_followers": 50207,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDY4NGE2MzkxNTc5ODJkOGM5MzRhYTc2MGU0Njg2NTgwYTg2MDk5",
+  "snapshot_id": "MCw5YjRhZjRkNzNjY2RiOGI0M2VlZjUwZDRmNDYwYzkxZmRmMTFkYWU5",
   "tracks": [
     {
       "added_at": "2023-06-20 14:37:46",
@@ -551,18 +551,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Bonito que Canta",
-        "url": "https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr"
+        "name": "Se Acab\u00f3 (feat. Mozart La Para)",
+        "url": "https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr"
       },
       "artists": [
         {
-          "name": "Petrona Martinez",
-          "url": "https://open.spotify.com/artist/2RdqdnFd1SZmabqOfCBFCa"
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
         }
       ],
-      "duration_ms": 259000,
-      "name": "La Vida Vale la Pena",
-      "url": "https://open.spotify.com/track/6JOzfwVljrGuLdN7umkXQF"
+      "duration_ms": 186216,
+      "name": "Se Acab\u00f3 (feat. Mozart La Para)",
+      "url": "https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -583,22 +587,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Se Acab\u00f3 (feat. Mozart La Para)",
-        "url": "https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr"
+        "name": "Bonito que Canta",
+        "url": "https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr"
       },
       "artists": [
         {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        },
-        {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+          "name": "Petrona Martinez",
+          "url": "https://open.spotify.com/artist/2RdqdnFd1SZmabqOfCBFCa"
         }
       ],
-      "duration_ms": 186216,
-      "name": "Se Acab\u00f3 (feat. Mozart La Para)",
-      "url": "https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a"
+      "duration_ms": 259000,
+      "name": "La Vida Vale la Pena",
+      "url": "https://open.spotify.com/track/6JOzfwVljrGuLdN7umkXQF"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "Las II Torres",
+        "url": "https://open.spotify.com/album/2IyzVWMQv5cHl9oN8tth6H"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        }
+      ],
+      "duration_ms": 222510,
+      "name": "Doble Filo",
+      "url": "https://open.spotify.com/track/1rOY4cLGxByL0VTaYIx6pD"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Que Tengo Que Hacer",
         "url": "https://open.spotify.com/album/5nMt32SNGPGANwkPWVUWIF"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 174013,
       "name": "Triple H",
       "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "Las II Torres",
-        "url": "https://open.spotify.com/album/2IyzVWMQv5cHl9oN8tth6H"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        }
-      ],
-      "duration_ms": 222510,
-      "name": "Doble Filo",
-      "url": "https://open.spotify.com/track/1rOY4cLGxByL0VTaYIx6pD"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -919,22 +919,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "NO AZARA",
-        "url": "https://open.spotify.com/album/6HbbphcRcKCbvbO6XHppND"
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE"
       },
       "artists": [
         {
-          "name": "Dawer X Damper",
-          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
-        },
-        {
-          "name": "La Dame Blanche",
-          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
+          "name": "Amara La Negra",
+          "url": "https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh"
         }
       ],
-      "duration_ms": 149167,
-      "name": "NO AZARA",
-      "url": "https://open.spotify.com/track/6ZN6U9DZFVaquehTHGGag5"
+      "duration_ms": 191906,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/4dL40OAYdBas4TeDwSldp6"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -955,18 +951,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Los del Vacile",
-        "url": "https://open.spotify.com/album/56E7fOtgpDD6FoMm5qtN3Z"
+        "name": "NO AZARA",
+        "url": "https://open.spotify.com/album/6HbbphcRcKCbvbO6XHppND"
       },
       "artists": [
         {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+          "name": "Dawer X Damper",
+          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
+        },
+        {
+          "name": "La Dame Blanche",
+          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
         }
       ],
-      "duration_ms": 213285,
-      "name": "Los del Vacile",
-      "url": "https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9"
+      "duration_ms": 149167,
+      "name": "NO AZARA",
+      "url": "https://open.spotify.com/track/6ZN6U9DZFVaquehTHGGag5"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE"
+        "name": "Los del Vacile",
+        "url": "https://open.spotify.com/album/56E7fOtgpDD6FoMm5qtN3Z"
       },
       "artists": [
         {
-          "name": "Amara La Negra",
-          "url": "https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh"
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
         }
       ],
-      "duration_ms": 191906,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/4dL40OAYdBas4TeDwSldp6"
+      "duration_ms": 213285,
+      "name": "Los del Vacile",
+      "url": "https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9"
     },
     {
       "added_at": "2023-06-20 14:37:46",

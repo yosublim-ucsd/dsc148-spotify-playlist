@@ -4,7 +4,7 @@
 
 > Nominees — and past winners — from the 95th annual event celebrating Hollywood's brightest stars.
 
-105 songs - 6 hr 1 min
+106 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Moon River](https://open.spotify.com/track/4BjVSvKAfQA4CncucM2Aa9) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Essential Henry Mancini](https://open.spotify.com/album/70Qq0MrNWfFyQlVAxZh7LE) | 2:40 | 2023-02-01 |  |
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:40 | 2023-01-27 |  |
 | [My Octopus Teacher End Credits](https://open.spotify.com/track/7o7CCSoey85v5TOEqaHq6O) | [Kevin Smuts](https://open.spotify.com/artist/28o69UYRCUkfpTQ9osvV09), [Matthew Dennis](https://open.spotify.com/artist/4N313ATuzhiUWq8iJdVNQf) | [My Octopus Teacher \(Music from the Netflix Documentary\)](https://open.spotify.com/album/4VgpunftblRtRqyaRZKFRu) | 1:47 | 2021-03-25 | 2022-03-30 |
-| [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/album/78zqKU9guNUoZFs7mn7TUG) | 3:34 | 2023-01-27 |  |
+| [Naacho Naacho \(From "Rrr"\)](https://open.spotify.com/track/23lZ18elMHEVBMeSm2xxAC) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Diwali Special Party Songs](https://open.spotify.com/album/6kI3uUHVh0rBi2faNqddnz) | 3:34 | 2023-03-13 |  |
+| [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/album/78zqKU9guNUoZFs7mn7TUG) | 3:34 | 2023-01-27 | 2023-11-10 |
 | [Nandito \("Better Days" Boys Love Series Original Soundtrack\)](https://open.spotify.com/track/5MxNumr5U2RItqaIQ358vo) | [Benedix Ramos](https://open.spotify.com/artist/5fldgzVYNjhJSwZorLIrXq) | [Nandito \("Better Days" Boys Love Series Original Soundtrack\)](https://open.spotify.com/album/28aSJYhykZjYowiaz7QN7s) | 4:37 | 2021-03-25 | 2022-03-30 |
 | [No Time To Die](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) | 4:02 | 2022-03-28 |  |
 | [Number One Servant](https://open.spotify.com/track/5E6r0vesICmAQfllc8uNvf) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [The White Tiger \(Music from the Netflix Film\)](https://open.spotify.com/album/5uk1RLQTHsCty6Kt94NwBN) | 1:29 | 2021-03-25 | 2022-03-30 |

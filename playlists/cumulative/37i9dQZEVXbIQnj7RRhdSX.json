@@ -5572,7 +5572,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 180184,
       "name": "Ci pensiamo domani",
       "url": "https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up"
@@ -5798,8 +5798,8 @@
           "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
         },
         {
-          "name": "KIID",
-          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+          "name": "Kiid",
+          "url": "https://open.spotify.com/artist/47n6LhYrL1ifDqyNh83pdr"
         },
         {
           "name": "Artie 5ive",
@@ -16864,7 +16864,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 166208,
       "name": "MALEDETTI",
       "url": "https://open.spotify.com/track/4Niczbt1B1FtLb8wibdbR5"
@@ -17526,7 +17526,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 191837,
       "name": "MATRIOSKA",
       "url": "https://open.spotify.com/track/1giUJwcL7smXRlwwdwu4Ya"
@@ -30560,7 +30560,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 215421,
       "name": "X CASO (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"

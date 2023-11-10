@@ -1,12 +1,12 @@
 {
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju?si=BCBKTfTVS2GdZK1XrEKPsw\">Focalistic</a>, <a href=\"https://open.spotify.com/artist/6ei1fCxL5TGjFKBj1B8KgM?si=AHvSKy1fRKi1WabS_IdsTg\">DJ Tshegu</a>",
-  "num_followers": 603186,
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf?si=UPyOuH-eRPiHiYP5GyFJVQ\">Musa Keys",
+  "num_followers": 603863,
   "original_name": "AMAPIANO grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzAwYjNiMzVkMGFmMTBiYjg0NzYxMDBkZDZiMjgxZDk5NzU2MmVl",
+  "snapshot_id": "MCw2YTgyMjJmNDRiYjBlMGVjZGEyZmU3MWMzYWQ2NDAxN2QwYTQzOTlm",
   "tracks": [
     {
       "added_at": "2023-11-03 04:08:21",
@@ -59,6 +59,30 @@
       "duration_ms": 265213,
       "name": "Tiya Mfana (Mzokwana)",
       "url": "https://open.spotify.com/track/5lr7D9JQvMzmnNQ6yM6T7a"
+    },
+    {
+      "added_at": "2023-11-09 22:00:00",
+      "album": {
+        "name": "Izinyembezi",
+        "url": "https://open.spotify.com/album/678zSja9Ad3Ib0C9ah0reG"
+      },
+      "artists": [
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        },
+        {
+          "name": "Cheez Beezy",
+          "url": "https://open.spotify.com/artist/3rjwqVAqz74iTFIOoG8ze0"
+        }
+      ],
+      "duration_ms": 396472,
+      "name": "Izinyembezi",
+      "url": "https://open.spotify.com/track/2AwyPXJrLJ9SmmGdeaN0yo"
     },
     {
       "added_at": "2023-11-03 04:08:21",
@@ -147,6 +171,34 @@
       "duration_ms": 391888,
       "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy"
+    },
+    {
+      "added_at": "2023-11-09 22:00:00",
+      "album": {
+        "name": "Dubula (feat. Eemoh) [Remake]",
+        "url": "https://open.spotify.com/album/2GCwUfk68pqbIHFnft452T"
+      },
+      "artists": [
+        {
+          "name": "Harry Cane",
+          "url": "https://open.spotify.com/artist/1eiu4TofnbXLBF7r59mwE4"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "DJ Latimmy",
+          "url": "https://open.spotify.com/artist/0bdSJtV8PfjTCfHjcb5tqG"
+        },
+        {
+          "name": "Eemoh",
+          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
+        }
+      ],
+      "duration_ms": 306909,
+      "name": "Dubula (feat. Eemoh) - Remake",
+      "url": "https://open.spotify.com/track/1eOOCRtXcPwK8qG8VjtczJ"
     },
     {
       "added_at": "2023-11-03 04:08:21",
@@ -257,6 +309,38 @@
       "url": "https://open.spotify.com/track/0x6WP0RBRdMofZ7K4nGpmj"
     },
     {
+      "added_at": "2023-11-09 22:00:00",
+      "album": {
+        "name": "Baba Ka Girl",
+        "url": "https://open.spotify.com/album/6pRTxYlkn8TxUFX5PJXj2l"
+      },
+      "artists": [
+        {
+          "name": "Unkle Ken",
+          "url": "https://open.spotify.com/artist/0FIhhOCSXaGnRzcSR8dmyH"
+        },
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        },
+        {
+          "name": "ShennyDaDeejay",
+          "url": "https://open.spotify.com/artist/0X0or8ECPXZc84oBEekeOH"
+        },
+        {
+          "name": "Candy Flow Rsa",
+          "url": "https://open.spotify.com/artist/64TVcaCCSeYa1Im0ZwblTb"
+        }
+      ],
+      "duration_ms": 416366,
+      "name": "Baba Ka Girl",
+      "url": "https://open.spotify.com/track/5ohum0TVExa50iinuzsmTB"
+    },
+    {
       "added_at": "2023-11-03 04:08:21",
       "album": {
         "name": "OOO: AMAPIANO",
@@ -275,6 +359,38 @@
       "duration_ms": 335219,
       "name": "This Year",
       "url": "https://open.spotify.com/track/46nZPFS8qTGRPuwoOAjSQz"
+    },
+    {
+      "added_at": "2023-11-09 22:00:00",
+      "album": {
+        "name": "Timeless (feat. Pcee, Justin99, Virgo Deep)",
+        "url": "https://open.spotify.com/album/5i2t89ifPlXBvpD5ln6IUJ"
+      },
+      "artists": [
+        {
+          "name": "Freddy K",
+          "url": "https://open.spotify.com/artist/1okK7TdfTbLQbgSG1hejiY"
+        },
+        {
+          "name": "Djy Biza",
+          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
+        },
+        {
+          "name": "Justin99",
+          "url": "https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        },
+        {
+          "name": "Virgo Deep",
+          "url": "https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM"
+        }
+      ],
+      "duration_ms": 378231,
+      "name": "Timeless (feat. Pcee, Justin99, Virgo Deep)",
+      "url": "https://open.spotify.com/track/68PmraC29iUUKIOXUCn6Wo"
     },
     {
       "added_at": "2023-11-03 04:08:21",
@@ -399,6 +515,30 @@
       "duration_ms": 385731,
       "name": "Moratata (feat. Leemckrazy & TitoM)",
       "url": "https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh"
+    },
+    {
+      "added_at": "2023-11-03 04:08:21",
+      "album": {
+        "name": "Izenzo",
+        "url": "https://open.spotify.com/album/2gXRXY2SW75aDTSjsui57w"
+      },
+      "artists": [
+        {
+          "name": "Bassie",
+          "url": "https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6"
+        },
+        {
+          "name": "Aymos",
+          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
+        },
+        {
+          "name": "T-Man SA",
+          "url": "https://open.spotify.com/artist/39YR6OMtIBgQxdZREgTii1"
+        }
+      ],
+      "duration_ms": 414966,
+      "name": "Izenzo",
+      "url": "https://open.spotify.com/track/3pImmSzeKex5ffzsDoaL3z"
     },
     {
       "added_at": "2023-11-03 04:08:21",
@@ -723,34 +863,6 @@
     {
       "added_at": "2023-11-03 04:08:21",
       "album": {
-        "name": "Hayi Baleka (feat. Ricky Lenyora & Tman Xpress)",
-        "url": "https://open.spotify.com/album/4zagb2cqNnooGqXeHqvOHw"
-      },
-      "artists": [
-        {
-          "name": "TNK MusiQ",
-          "url": "https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Tman Xpress",
-          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
-        },
-        {
-          "name": "Ricky Lenyora",
-          "url": "https://open.spotify.com/artist/2yS4gQUMlSvFIVZRLySfCZ"
-        }
-      ],
-      "duration_ms": 402853,
-      "name": "Hayi Baleka (feat. Ricky Lenyora & Tman Xpress)",
-      "url": "https://open.spotify.com/track/0HAawzskNEhW90xDhQ02nW"
-    },
-    {
-      "added_at": "2023-11-03 04:08:21",
-      "album": {
         "name": "The Chosen",
         "url": "https://open.spotify.com/album/0jSP9AZiByh7VuWAsuFIRV"
       },
@@ -887,30 +999,6 @@
     {
       "added_at": "2023-11-03 04:08:21",
       "album": {
-        "name": "Izenzo",
-        "url": "https://open.spotify.com/album/2gXRXY2SW75aDTSjsui57w"
-      },
-      "artists": [
-        {
-          "name": "Bassie",
-          "url": "https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6"
-        },
-        {
-          "name": "Aymos",
-          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
-        },
-        {
-          "name": "T-Man SA",
-          "url": "https://open.spotify.com/artist/39YR6OMtIBgQxdZREgTii1"
-        }
-      ],
-      "duration_ms": 414966,
-      "name": "Izenzo",
-      "url": "https://open.spotify.com/track/3pImmSzeKex5ffzsDoaL3z"
-    },
-    {
-      "added_at": "2023-11-03 04:08:21",
-      "album": {
         "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
         "url": "https://open.spotify.com/album/0uNAWv8SfWOd9vIJ3QwzcH"
       },
@@ -935,26 +1023,6 @@
       "duration_ms": 350309,
       "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
       "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
-    },
-    {
-      "added_at": "2023-11-03 04:08:21",
-      "album": {
-        "name": "Nhliziyo Yami eKhala Kakhulu",
-        "url": "https://open.spotify.com/album/62gVyMAd9PTLJxRLngelnz"
-      },
-      "artists": [
-        {
-          "name": "Thabza Tee",
-          "url": "https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn"
-        },
-        {
-          "name": "Tman Xpress",
-          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
-        }
-      ],
-      "duration_ms": 312004,
-      "name": "Nhliziyo Yami eKhala Kakhulu",
-      "url": "https://open.spotify.com/track/1ftXiKwSCAAsgaqdyjpxvz"
     },
     {
       "added_at": "2023-11-03 04:08:21",
@@ -1095,30 +1163,6 @@
     {
       "added_at": "2023-11-03 04:08:21",
       "album": {
-        "name": "Suku Suka (feat. Kabza De Small)",
-        "url": "https://open.spotify.com/album/5utLViGLo84cb6rF3p0nJq"
-      },
-      "artists": [
-        {
-          "name": "Stakev",
-          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "Zain SA",
-          "url": "https://open.spotify.com/artist/5dvgzU4ArZjcvtVUugwuMt"
-        }
-      ],
-      "duration_ms": 442051,
-      "name": "Suku Suka (feat. Kabza De Small)",
-      "url": "https://open.spotify.com/track/0xOxm9pX5Z0dI64v7MFxSk"
-    },
-    {
-      "added_at": "2023-11-03 04:08:21",
-      "album": {
         "name": "Eduze",
         "url": "https://open.spotify.com/album/3wPBAwbg1xmX3FTGnDdOeI"
       },
@@ -1227,26 +1271,6 @@
       "duration_ms": 347245,
       "name": "uLala Kanjani (feat. LeeMcKrazy & Skandisoul)",
       "url": "https://open.spotify.com/track/1AVIL2s4vkE92Qupej37JR"
-    },
-    {
-      "added_at": "2023-11-03 04:08:21",
-      "album": {
-        "name": "The Game (Amapiano Bootleg)",
-        "url": "https://open.spotify.com/album/48HzXOl0Lgpnc4tdO1f5kj"
-      },
-      "artists": [
-        {
-          "name": "Mfr Souls",
-          "url": "https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX"
-        },
-        {
-          "name": "MDU aka TRP",
-          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
-        }
-      ],
-      "duration_ms": 479290,
-      "name": "The Game (Amapiano Bootleg)",
-      "url": "https://open.spotify.com/track/2C25ZeenileLHXXSS9WZvT"
     },
     {
       "added_at": "2023-11-03 04:08:21",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: VillaBanks",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Holden",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 159342,
       "name": "America",
       "url": "https://open.spotify.com/track/02EpIKMNhihIl6u2j7uK1I"
@@ -320,6 +320,24 @@
       "duration_ms": 171775,
       "name": "Ancora",
       "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
+    },
+    {
+      "album": {
+        "name": "Ancora un minuto",
+        "url": "https://open.spotify.com/album/7qLIFQSH0hbvt9wjTi6dIa"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167283,
+      "name": "Ancora un minuto",
+      "url": "https://open.spotify.com/track/0MTabSNX8sZzRgjRDqqJ0e"
     },
     {
       "album": {
@@ -581,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Bruciasse Il Cielo",
+        "url": "https://open.spotify.com/album/287CrEdqq6UiWAMeteSZsk"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237606,
+      "name": "Bruciasse Il Cielo",
+      "url": "https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y"
+    },
+    {
+      "album": {
         "name": "Cado",
         "url": "https://open.spotify.com/album/2HgX6tuQ1Qjl8gZAZkKdW4"
       },
@@ -672,7 +708,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 142500,
       "name": "caramelle",
       "url": "https://open.spotify.com/track/0dMl7ZeyKbUh5sPkwBFAWN"
@@ -1968,7 +2004,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 174545,
       "name": "IL CORAGGIO DELLA PAURA",
       "url": "https://open.spotify.com/track/2XUsIKnMYTjGNRsloL1DHk"
@@ -2008,7 +2044,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 152279,
       "name": "IL MIO MIGLIOR NEMICO",
       "url": "https://open.spotify.com/track/727b2Tqk054VaqdizPo2in"
@@ -2302,7 +2338,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 172741,
       "name": "Le regole del fuoco",
       "url": "https://open.spotify.com/track/6MVIo4xlAFjGQiDInpe5FY"
@@ -2892,7 +2928,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 145714,
       "name": "niente",
       "url": "https://open.spotify.com/track/6DVMWxdestSTiCSI0Ejnbm"
@@ -3174,7 +3210,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 170909,
       "name": "Odio = Amore = Odio",
       "url": "https://open.spotify.com/track/3MfvnEIuliMldEn77dey1e"
@@ -3400,7 +3436,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 202193,
       "name": "Part Of Me (with Matteo Romano)",
       "url": "https://open.spotify.com/track/0yz540gbpL0uOrKGGzQlrZ"
@@ -3578,7 +3614,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 152000,
       "name": "PIOVERE",
       "url": "https://open.spotify.com/track/0NNWsInZjG2j0NGLBK7048"
@@ -3713,6 +3749,24 @@
     },
     {
       "album": {
+        "name": "Foglio rosa",
+        "url": "https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7"
+      },
+      "artists": [
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139540,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp"
+    },
+    {
+      "album": {
         "name": "Priv\u00e9",
         "url": "https://open.spotify.com/album/0qMfK0pn4oDONHjKDJEAFD"
       },
@@ -3724,7 +3778,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 180461,
       "name": "Priv\u00e9",
       "url": "https://open.spotify.com/track/6Y9rfuFyLJDz4kj2aysvhs"
@@ -4172,7 +4226,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 136287,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/3wrqXvJRtMVG37enN2Z7D1"
@@ -4220,7 +4274,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 172499,
       "name": "sogni - remix",
       "url": "https://open.spotify.com/track/0qXWvDBV3UvsPZsICdYG9S"
@@ -4238,7 +4292,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 163862,
       "name": "Sogni pi\u00f9 grandi",
       "url": "https://open.spotify.com/track/66iaIDwL6Ud7g30xcdjGcY"
@@ -4268,6 +4322,28 @@
       "duration_ms": 160000,
       "name": "SOGNO",
       "url": "https://open.spotify.com/track/3nYJsu8sOEhD0PWJPDttWn"
+    },
+    {
+      "album": {
+        "name": "Soraya",
+        "url": "https://open.spotify.com/album/2y65ScAlc5MUfUa72fQcdo"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180093,
+      "name": "Soraya",
+      "url": "https://open.spotify.com/track/0xDhwzzCx7eamMB11VBgOo"
     },
     {
       "album": {
@@ -4388,7 +4464,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 149565,
       "name": "Strappami",
       "url": "https://open.spotify.com/track/2hwhhzr8w5BDJVYYLWINTV"
@@ -4471,6 +4547,24 @@
     },
     {
       "album": {
+        "name": "TANANAI",
+        "url": "https://open.spotify.com/album/4aecpa6YWXWu1rVqBIgY1c"
+      },
+      "artists": [
+        {
+          "name": "Holy Francisco",
+          "url": "https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153658,
+      "name": "TANANAI",
+      "url": "https://open.spotify.com/track/0IFp7DNMUrHroGDK7GASC7"
+    },
+    {
+      "album": {
         "name": "TANGO",
         "url": "https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs"
       },
@@ -4536,7 +4630,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 125000,
       "name": "ti sei scordata del mio compleanno",
       "url": "https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN"
@@ -4558,6 +4652,24 @@
       "duration_ms": 144000,
       "name": "Toccare la luna",
       "url": "https://open.spotify.com/track/0P0OENNOGNpzra0Ma1Ur9t"
+    },
+    {
+      "album": {
+        "name": "TOUCH\u00c9",
+        "url": "https://open.spotify.com/album/54PgfzlzOhf2WwN8AUeS4y"
+      },
+      "artists": [
+        {
+          "name": "Sarah Toscano",
+          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132613,
+      "name": "TOUCH\u00c9",
+      "url": "https://open.spotify.com/track/2x5H6jg0wEXYR9a5Gxxbjq"
     },
     {
       "album": {
@@ -4670,7 +4782,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 159183,
       "name": "Tulipani Blu",
       "url": "https://open.spotify.com/track/5zBrVEBLgFYJAT63YoxFuO"
@@ -4811,6 +4923,24 @@
     },
     {
       "album": {
+        "name": "una canzone al giorno",
+        "url": "https://open.spotify.com/album/1hw4MhXLRqFTaMJREQpTvn"
+      },
+      "artists": [
+        {
+          "name": "Cicco Sanchez",
+          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "una canzone al giorno",
+      "url": "https://open.spotify.com/track/6y9aoXQMdsJxPg2FIxdmdv"
+    },
+    {
+      "album": {
         "name": "Unica",
         "url": "https://open.spotify.com/album/1IBi8TeetLlAXP8sFOmW7i"
       },
@@ -4942,7 +5072,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 183920,
       "name": "Via da me",
       "url": "https://open.spotify.com/track/2SFFxjmuvx91Yt4gCnLTO2"

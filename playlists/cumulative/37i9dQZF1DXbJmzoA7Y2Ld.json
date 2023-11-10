@@ -402,6 +402,24 @@
     {
       "album": {
         "name": "Five Dollars",
+        "url": "https://open.spotify.com/album/2PemlzHYC7SUWk8HOus1jv"
+      },
+      "artists": [
+        {
+          "name": "Black Joe Lewis & The Honeybears",
+          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Five Dollars",
+      "url": "https://open.spotify.com/track/17p9oO7chYLCkhddVgBRSa"
+    },
+    {
+      "album": {
+        "name": "Five Dollars",
         "url": "https://open.spotify.com/album/6KZis8q01lE8XU6XzravkP"
       },
       "artists": [
@@ -430,7 +448,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 188000,
       "name": "Five Dollars",
       "url": "https://open.spotify.com/track/4m0zS8ogujtTiLcAwCmHFT"

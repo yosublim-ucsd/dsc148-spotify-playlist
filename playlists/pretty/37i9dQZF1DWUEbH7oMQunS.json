@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 56899,
+  "num_followers": 56974,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQ0ZGM2NjM5Yjk2N2E4ZDJkZGNmOWY2MWZiZDk3YmFlMzc5YzIy",
+  "snapshot_id": "MCxiZTk5YjA5ZGM5MjY5NzJmNjk0ODIzODQ4NGZlY2M1OWU4MmYyM2Q2",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -603,6 +603,30 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Yoga Practice & Mindfulness Music",
+        "url": "https://open.spotify.com/album/7ucUV4KGsEi5kYxZvRDMJj"
+      },
+      "artists": [
+        {
+          "name": "Yoga Music",
+          "url": "https://open.spotify.com/artist/6ppQ1vjjme5Jtz2ceBFcWY"
+        },
+        {
+          "name": "Yoga Workout Music",
+          "url": "https://open.spotify.com/artist/6RVXIMP9f30jw4rBAn9RfW"
+        },
+        {
+          "name": "Internal Yoga",
+          "url": "https://open.spotify.com/artist/01KhCk3LxZ60TnXjqdY5VI"
+        }
+      ],
+      "duration_ms": 165914,
+      "name": "Water Harp",
+      "url": "https://open.spotify.com/track/0uQIzIuNMfzCZCtRGSr4l9"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Matins : Vespers",
         "url": "https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv"
       },
@@ -631,30 +655,6 @@
       "duration_ms": 222613,
       "name": "Rest with Me",
       "url": "https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Yoga Practice & Mindfulness Music",
-        "url": "https://open.spotify.com/album/7ucUV4KGsEi5kYxZvRDMJj"
-      },
-      "artists": [
-        {
-          "name": "Yoga Music",
-          "url": "https://open.spotify.com/artist/6ppQ1vjjme5Jtz2ceBFcWY"
-        },
-        {
-          "name": "Yoga Workout Music",
-          "url": "https://open.spotify.com/artist/6RVXIMP9f30jw4rBAn9RfW"
-        },
-        {
-          "name": "Internal Yoga",
-          "url": "https://open.spotify.com/artist/01KhCk3LxZ60TnXjqdY5VI"
-        }
-      ],
-      "duration_ms": 165914,
-      "name": "Water Harp",
-      "url": "https://open.spotify.com/track/0uQIzIuNMfzCZCtRGSr4l9"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "'90s Kids",
-        "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
-      },
-      "artists": [
-        {
-          "name": "LaPeer",
-          "url": "https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc"
-        }
-      ],
-      "duration_ms": 206987,
-      "name": "Letters",
-      "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "High Level Praise",
         "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 198504,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "'90s Kids",
+        "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
+      },
+      "artists": [
+        {
+          "name": "LaPeer",
+          "url": "https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc"
+        }
+      ],
+      "duration_ms": 206987,
+      "name": "Letters",
+      "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
-      },
-      "artists": [
-        {
-          "name": "Audrey Marie",
-          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Glorious Ruins",
         "url": "https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 245077,
       "name": "Glorious Ruins",
       "url": "https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
+      },
+      "artists": [
+        {
+          "name": "Audrey Marie",
+          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Higher Ways",
+        "url": "https://open.spotify.com/album/6FcRqLpn1eas7Mu76WCRgh"
+      },
+      "artists": [
+        {
+          "name": "Olu Meduoye",
+          "url": "https://open.spotify.com/artist/5xqhFZdZvx6TXidSCzqPj0"
+        }
+      ],
+      "duration_ms": 333750,
+      "name": "Higher Ways",
+      "url": "https://open.spotify.com/track/1dXPUD8g74o7nAf9dxksPA"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Even Here Love Comes",
         "url": "https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 267933,
       "name": "Even Here Love Comes - Acoustic",
       "url": "https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Higher Ways",
-        "url": "https://open.spotify.com/album/6FcRqLpn1eas7Mu76WCRgh"
-      },
-      "artists": [
-        {
-          "name": "Olu Meduoye",
-          "url": "https://open.spotify.com/artist/5xqhFZdZvx6TXidSCzqPj0"
-        }
-      ],
-      "duration_ms": 333750,
-      "name": "Higher Ways",
-      "url": "https://open.spotify.com/track/1dXPUD8g74o7nAf9dxksPA"
     },
     {
       "added_at": "2023-07-28 04:02:00",

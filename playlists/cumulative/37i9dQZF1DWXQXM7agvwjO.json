@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: \u6905\u5b50\u6a02\u5718 The Chairs (Taiwan)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: I'mdifficult (Taiwan)",
   "name": ".ORG",
   "tracks": [
     {
@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "I'mdifficult",
+        "url": "https://open.spotify.com/album/6eMD8zY0EQiNsS2qExm4nE"
+      },
+      "artists": [
+        {
+          "name": "\u6211\u662f\u6a5f\u8eca\u5c11\u5973",
+          "url": "https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249104,
+      "name": "28 (What You Owe)",
+      "url": "https://open.spotify.com/track/5WPYDR0qs5xps1CxL2rehD"
+    },
+    {
+      "album": {
         "name": "2Gether All Day All Night",
         "url": "https://open.spotify.com/album/4CymHQQtBCVhSctGOiz2qV"
       },
@@ -226,7 +244,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 258426,
       "name": "4am",
       "url": "https://open.spotify.com/track/6WXX48O5lE9GwnQH8hUUiW"
@@ -580,7 +598,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 229799,
       "name": "Acervation",
       "url": "https://open.spotify.com/track/1WDBTG5GxhEqETVuOlyESU"
@@ -796,7 +814,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 197173,
       "name": "All My Friends Are Fallin' In Love",
       "url": "https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d"
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 204590,
       "name": "around in the",
       "url": "https://open.spotify.com/track/4IHT3mAaqw5vkA2TJ0PCwH"
@@ -1266,6 +1284,24 @@
       "duration_ms": 222626,
       "name": "Around You",
       "url": "https://open.spotify.com/track/3zuFzgkWtyZrHHqyVQVRSx"
+    },
+    {
+      "album": {
+        "name": "Asleep Among Endives",
+        "url": "https://open.spotify.com/album/4UOBqsp4uZxpE6hsgjLz0b"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306243,
+      "name": "Asleep Among Endives",
+      "url": "https://open.spotify.com/track/7AKxbxzkxm2ERWrd1ggniO"
     },
     {
       "album": {
@@ -2502,7 +2538,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 216626,
       "name": "Byebye \u63b0\u63b0\u6b4c",
       "url": "https://open.spotify.com/track/6DRS16Q6LYDdxnkh90oaTI"
@@ -2888,7 +2924,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 211728,
       "name": "CHELSEA",
       "url": "https://open.spotify.com/track/1DTFAX3tGh7Ir8WeHKA36i"
@@ -4298,7 +4334,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 151960,
       "name": "Different Directions",
       "url": "https://open.spotify.com/track/59YYx42Tyvuq5REmjJTWyh"
@@ -4915,6 +4951,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5jTFdGObfWZEideEm391F2"
+      },
+      "artists": [
+        {
+          "name": "Death Of Heather",
+          "url": "https://open.spotify.com/artist/3O2fulTH5rTS4ttjPPI4rS"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319375,
+      "name": "Endless Emotions",
+      "url": "https://open.spotify.com/track/5q0hWAGPxg7pwctEzntHAU"
+    },
+    {
+      "album": {
         "name": "Pesimistik",
         "url": "https://open.spotify.com/album/1IuMn0e4DVNTmDScLBK8w3"
       },
@@ -5483,6 +5537,24 @@
     },
     {
       "album": {
+        "name": "Calla",
+        "url": "https://open.spotify.com/album/5JW6kKPUEf6vLLNoC6jg8z"
+      },
+      "artists": [
+        {
+          "name": "NTsKi",
+          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249748,
+      "name": "Field of Flowers",
+      "url": "https://open.spotify.com/track/1KAEFpUZkkGQKvhFTTen4p"
+    },
+    {
+      "album": {
         "name": "Tao Fire \u9053\u706b",
         "url": "https://open.spotify.com/album/4seJp56F0oEF4QHcREZGtl"
       },
@@ -6013,6 +6085,24 @@
     },
     {
       "album": {
+        "name": "The Great Bremen Show",
+        "url": "https://open.spotify.com/album/18GGV74KlTQ1WOOUaTeqP2"
+      },
+      "artists": [
+        {
+          "name": "Bremen Entertainment Inc.",
+          "url": "https://open.spotify.com/artist/7BmltYn52V9S204x88m0MA"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175860,
+      "name": "General Suspicious",
+      "url": "https://open.spotify.com/track/2vMUUnkFMShULt9nFneoqV"
+    },
+    {
+      "album": {
         "name": "Fight for Innocence",
         "url": "https://open.spotify.com/album/05M5e1ncRv4shELlWt1W0u"
       },
@@ -6166,6 +6256,24 @@
       "duration_ms": 208264,
       "name": "Go Higher",
       "url": "https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4"
+    },
+    {
+      "album": {
+        "name": "GO!!!",
+        "url": "https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204240,
+      "name": "GO!!!",
+      "url": "https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA"
     },
     {
       "album": {
@@ -8582,7 +8690,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 255000,
       "name": "Just Like Us (PIT)",
       "url": "https://open.spotify.com/track/4qYjVNrddq5d9p5LdqzwQk"
@@ -9844,7 +9952,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 419598,
       "name": "Lukewarm Mess",
       "url": "https://open.spotify.com/track/48mJksC9bEs7SBI2P9a9fd"
@@ -11192,7 +11300,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 177454,
       "name": "NEED",
       "url": "https://open.spotify.com/track/2VE0IzIr0CBpCVDAuk8Oc2"
@@ -12251,6 +12359,28 @@
     },
     {
       "album": {
+        "name": "Nightvision (Love Is God 13/16 Edition)",
+        "url": "https://open.spotify.com/album/4MhBkAPrf0TSioJv7b2Re1"
+      },
+      "artists": [
+        {
+          "name": "Matter Halo",
+          "url": "https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT"
+        },
+        {
+          "name": "Our Shame",
+          "url": "https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265902,
+      "name": "Performance In a Dream (feat. Our Shame)",
+      "url": "https://open.spotify.com/track/1MHSNAn5Y3w8BsfNwqKA73"
+    },
+    {
+      "album": {
         "name": "Hope + Love",
         "url": "https://open.spotify.com/album/56pMcAJRf7rnHCxtv0UKIq"
       },
@@ -12444,6 +12574,24 @@
       "duration_ms": 211666,
       "name": "Please Baby Please",
       "url": "https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD"
+    },
+    {
+      "album": {
+        "name": "Please don't wait for me",
+        "url": "https://open.spotify.com/album/2zRYy5ureXweBV5B3kJmba"
+      },
+      "artists": [
+        {
+          "name": "SpotlessMind",
+          "url": "https://open.spotify.com/artist/0VMR8op8diaqyoJjc7hBgf"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149610,
+      "name": "Please don't wait for me",
+      "url": "https://open.spotify.com/track/3GrnpIuS3LvGiqkxusFXQe"
     },
     {
       "album": {
@@ -13948,7 +14096,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 257538,
       "name": "Slice of Life",
       "url": "https://open.spotify.com/track/0BS931cXVFKMEmhuXQH6QD"
@@ -14660,7 +14808,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 160868,
       "name": "Streets",
       "url": "https://open.spotify.com/track/6s7u5ae9NwciBJBGlT4Kfo"
@@ -16126,7 +16274,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 178252,
       "name": "trippin",
       "url": "https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT"
@@ -16748,7 +16896,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 250105,
       "name": "venus",
       "url": "https://open.spotify.com/track/1JpjEOAx8Kfce8574CRzZg"
@@ -17072,6 +17220,24 @@
       "duration_ms": 152542,
       "name": "we're gonna die anyway!!!",
       "url": "https://open.spotify.com/track/3dsraaer0toPT5ZpcisxOb"
+    },
+    {
+      "album": {
+        "name": "Emerald",
+        "url": "https://open.spotify.com/album/4nVkJSfp4i0h5A906jvjb3"
+      },
+      "artists": [
+        {
+          "name": "Heals",
+          "url": "https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231375,
+      "name": "Weathre",
+      "url": "https://open.spotify.com/track/2g4VC4rAArPvcYRTh7Tkp8"
     },
     {
       "album": {
@@ -17430,7 +17596,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 135981,
       "name": "While It Lasts",
       "url": "https://open.spotify.com/track/3pZzVu3r5XMWXhwkoRhgka"
@@ -19484,7 +19650,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 376300,
       "name": "\u6642\u306e\u89e3\u6c7a",
       "url": "https://open.spotify.com/track/7KmjtQirbhpj3aeLu3BA7l"
@@ -19600,7 +19766,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 221335,
       "name": "\u700f\u6d77\u88ab\u98a8\u5439\u5f97\u6574\u500b\u98db\u8d77\u4f86",
       "url": "https://open.spotify.com/track/14W2gcRSJjVJc1u6dVNHfA"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia. Cover: Ibisco",
+  "description": "La playlist che \u00e8 come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia. Cover: TA GA DA",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -280,6 +280,24 @@
       "duration_ms": 209626,
       "name": "Acufeni",
       "url": "https://open.spotify.com/track/7gl0ggiK2seWoUZekpC994"
+    },
+    {
+      "album": {
+        "name": "AMICI COME PRIMA",
+        "url": "https://open.spotify.com/album/1CEc97gdSCxBJ53JKzVeXN"
+      },
+      "artists": [
+        {
+          "name": "Colla Zio",
+          "url": "https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148813,
+      "name": "ADRENALINA",
+      "url": "https://open.spotify.com/track/6QaCGYJKeuGrg0jTHv3eS4"
     },
     {
       "album": {
@@ -1108,6 +1126,24 @@
       "duration_ms": 237035,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3MGWaWeAl4XWovfBnZAGg3"
+    },
+    {
+      "album": {
+        "name": "Bianca",
+        "url": "https://open.spotify.com/album/24bL90EQXl1fNDLeVDd0Cs"
+      },
+      "artists": [
+        {
+          "name": "CASX",
+          "url": "https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186874,
+      "name": "Bianca",
+      "url": "https://open.spotify.com/track/2DBxhgSzW9i2VDbQ6jJfEH"
     },
     {
       "album": {
@@ -2319,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "Antidoto ad uno stato mentale caotico",
+        "url": "https://open.spotify.com/album/3fukAxCEyZV3MhODoihI1B"
+      },
+      "artists": [
+        {
+          "name": "m0m0",
+          "url": "https://open.spotify.com/artist/4Zua3WcaeHvivfRH9zPcl6"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169908,
+      "name": "Come stai",
+      "url": "https://open.spotify.com/track/5sJhNuGRvly77IyCZxzBWE"
+    },
+    {
+      "album": {
         "name": "Next Big Niente",
         "url": "https://open.spotify.com/album/6ULcUBtkjDdSKQ9cDqYyc5"
       },
@@ -2781,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "Dignit\u00e0",
+        "url": "https://open.spotify.com/album/2lvYiCbBdoYamYhHAhwkBW"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Sournia",
+          "url": "https://open.spotify.com/artist/3WCGURs8932ul1bUI4FHCX"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230222,
+      "name": "Dignit\u00e0",
+      "url": "https://open.spotify.com/track/1cjqqwQOqlZ6r0ohCUJJlV"
+    },
+    {
+      "album": {
         "name": "Diluvio Universale",
         "url": "https://open.spotify.com/album/7mynV1n5ZhS8tLO1IiNBrK"
       },
@@ -3240,6 +3312,24 @@
       "duration_ms": 197226,
       "name": "Erwin",
       "url": "https://open.spotify.com/track/1AgaLw689q2wdgfP7LpbtR"
+    },
+    {
+      "album": {
+        "name": "Non \u00e8 un problema alla nostra et\u00e0",
+        "url": "https://open.spotify.com/album/46fL9X9499PDjxFdrosAp9"
+      },
+      "artists": [
+        {
+          "name": "Moregr\u00e8",
+          "url": "https://open.spotify.com/artist/2fw5erjUYoGPxwKhOnELAm"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186203,
+      "name": "Escamotage",
+      "url": "https://open.spotify.com/track/6PvFtqIDr7O7EAwIm3hmbh"
     },
     {
       "album": {
@@ -4612,7 +4702,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 204953,
       "name": "Icebreaker",
       "url": "https://open.spotify.com/track/6se7g2WUVw8tKHysKKkRQw"
@@ -4916,7 +5006,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 208122,
       "name": "In questo",
       "url": "https://open.spotify.com/track/4Up7N5Vy1iVHxkoKTVHGkp"
@@ -5910,7 +6000,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 138954,
       "name": "Luned\u00ec",
       "url": "https://open.spotify.com/track/0Bf4E2cdRegFDLUEqn43Yb"
@@ -6084,7 +6174,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 245374,
       "name": "Mare Motus",
       "url": "https://open.spotify.com/track/3H2CxeiT9ugpjgAuDcrtY1"
@@ -7371,6 +7461,24 @@
     },
     {
       "album": {
+        "name": "JAGWARI, Pt. 1",
+        "url": "https://open.spotify.com/album/1tB4n3uO7E98f8U7syRyDq"
+      },
+      "artists": [
+        {
+          "name": "JAGWARI",
+          "url": "https://open.spotify.com/artist/7lEA9nHCMpZmdjHjKaZFns"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188428,
+      "name": "Oncetime",
+      "url": "https://open.spotify.com/track/4bC4hPbLPwbF4d42ff3dfY"
+    },
+    {
+      "album": {
         "name": "Open Access",
         "url": "https://open.spotify.com/album/4KFYFGfZewWABulugtQqSF"
       },
@@ -7418,7 +7526,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 210300,
       "name": "orso",
       "url": "https://open.spotify.com/track/73AtLu6D34F9MBD7gDEnb7"
@@ -8930,7 +9038,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 159817,
       "name": "Senza te",
       "url": "https://open.spotify.com/track/2oGdxKESOwgoRSKPuJtvdq"
@@ -9616,7 +9724,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 206921,
       "name": "Strade Smarrite",
       "url": "https://open.spotify.com/track/3qBZZ2wyZK89zBB0cLEh2o"
@@ -9974,6 +10082,46 @@
       "duration_ms": 193760,
       "name": "Terra bruciata",
       "url": "https://open.spotify.com/track/1yHJnusWqo8BF3UHLKqsCa"
+    },
+    {
+      "album": {
+        "name": "The Botanist",
+        "url": "https://open.spotify.com/album/2LcWpuh7nN5yb3csgRCTFk"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270586,
+      "name": "The Botanist",
+      "url": "https://open.spotify.com/track/7nZVVWPrKXaqxBXEJSf77L"
+    },
+    {
+      "album": {
+        "name": "RUSH! (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188136,
+      "name": "THE DRIVER",
+      "url": "https://open.spotify.com/track/0sZHxhoBaK0YEvvMV8blr6"
     },
     {
       "album": {
@@ -10391,6 +10539,24 @@
     },
     {
       "album": {
+        "name": "Tre volte",
+        "url": "https://open.spotify.com/album/3JZCZRslejDrvPAfcBolDu"
+      },
+      "artists": [
+        {
+          "name": "Adelasia",
+          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141569,
+      "name": "Tre volte",
+      "url": "https://open.spotify.com/track/3a0S913LX7Nv95jPWN8nhn"
+    },
+    {
+      "album": {
         "name": "Trieste",
         "url": "https://open.spotify.com/album/4dFLDQmGDnE2nF2vKrcMQx"
       },
@@ -10554,7 +10720,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 222576,
       "name": "Tutte le Botte",
       "url": "https://open.spotify.com/track/32HfeY8OtwZUE94ho5TiaM"
@@ -10692,6 +10858,24 @@
       "duration_ms": 252304,
       "name": "Un filo di fumo",
       "url": "https://open.spotify.com/track/5I4mPSt7kb2u666eVXd7dT"
+    },
+    {
+      "album": {
+        "name": "FRANA / UN GIORNO, TRE AUTUNNI",
+        "url": "https://open.spotify.com/album/6zXTEwnCqiKb8TSNsGRcGi"
+      },
+      "artists": [
+        {
+          "name": "La Gabbia",
+          "url": "https://open.spotify.com/artist/1VSD5ZQWKR9HeF3e2xCBiy"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240398,
+      "name": "UN GIORNO, TRE AUTUNNI",
+      "url": "https://open.spotify.com/track/0hLiFVr4wBItboPoHKRU8L"
     },
     {
       "album": {
@@ -10976,7 +11160,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 187826,
       "name": "Verdena",
       "url": "https://open.spotify.com/track/3LTOhf5vn7ORLNvnPm72nU"
@@ -11254,7 +11438,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 208173,
       "name": "What has gotten into you?",
       "url": "https://open.spotify.com/track/3o4lVNkYXzxKvpYs6VVqEb"
@@ -11424,6 +11608,24 @@
       "duration_ms": 206387,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/6hrRoEVft0SM5lsBUq3MMe"
+    },
+    {
+      "album": {
+        "name": "Zidane",
+        "url": "https://open.spotify.com/album/7eSwAqy2xnaOLvz8yMkKP3"
+      },
+      "artists": [
+        {
+          "name": "Soft Boys Club",
+          "url": "https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251613,
+      "name": "Zidane",
+      "url": "https://open.spotify.com/track/4VpIutGlss4dinKTrA7EOG"
     },
     {
       "album": {

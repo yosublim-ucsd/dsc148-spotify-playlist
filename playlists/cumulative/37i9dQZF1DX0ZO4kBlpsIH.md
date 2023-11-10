@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-187 songs - 9 hr 5 min
+188 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [L'amour est bleu](https://open.spotify.com/track/7Bb0mYUZIkeNqkMwXMHmAK) | [Trio Musette](https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A) | [L'amour est bleu](https://open.spotify.com/album/38ykcbUhDpC4h020SF900Y) | 2:58 | 2023-04-27 |  |
 | [L'Indifference](https://open.spotify.com/track/0unPstptJ5Q1IYPFa3ULEr) | [Pearl Django](https://open.spotify.com/artist/530l1HsYHzQuOYFBDUOHHo) | [Modern Times](https://open.spotify.com/album/3zaWugXmF0PWpCPekDE71c) | 3:30 | 2022-11-25 | 2023-08-19 |
 | [L'indifférence](https://open.spotify.com/track/0pkL7GfHF6iyAdyQujyRnK) | [Les Sales Gosses](https://open.spotify.com/artist/3ysjzjJYSYv6Rp4j2Buspn) | [La Vie En Rose](https://open.spotify.com/album/3OG7njGt1Efjfyy1T1wwEs) | 2:30 | 2023-03-21 |  |
+| [L'ombre de Ton Sourire](https://open.spotify.com/track/4cNus5tgT5v9UF9uF41dpU) | [Quintet de Jazz Parisien](https://open.spotify.com/artist/5jjAtTkp5UsT9PQyGfFOwO) | [L'ombre de Ton Sourire](https://open.spotify.com/album/7FEwTQS56abm4r3ieta3Vc) | 3:03 | 2023-11-09 |  |
 | [La Chambre d´Emelie](https://open.spotify.com/track/4Wn9hJFaAEViGU2LW4FM8x) | [Trio Musette](https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A) | [La Chambre d´Emelie](https://open.spotify.com/album/241JO38t2xkN0COxsbkdzx) | 1:45 | 2023-05-25 | 2023-08-19 |
 | [La Fleur](https://open.spotify.com/track/2YLB1QeZuGJGqULHItxba5) | [Ralf Gscheidle](https://open.spotify.com/artist/7KlIXYsEgvbJzrCqcWTauW) | [Accordion World](https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG) | 2:36 | 2022-11-25 | 2023-04-28 |
 | [La Javanaise](https://open.spotify.com/track/5B6SE5Plh3qDVXzKBBmuvl) | [George Laffitte](https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP) | [La Javanaise](https://open.spotify.com/album/1DdH3YQO9vGj4v75Lll1Uy) | 3:01 | 2023-05-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Spiritbox on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,458,963 likes - 76 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,459,128 likes - 76 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 75 | [Fedrekult](https://open.spotify.com/track/1DgiDbmQoKBd0Zddm7PSgw) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Endling](https://open.spotify.com/album/6Y5phc55G93rszSCghQace) | 3:51 |
 | 76 | [Obliquity of the Ecliptic](https://open.spotify.com/track/0c1EnTUEQoXVH73NbVDi3D) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Luminescent Bridge](https://open.spotify.com/album/6fw6OaFAR6IsxWk1ZjIYUJ) | 8:53 |
 
-Snapshot ID: `MCw0ZDlkMTk4OTQ3Yzg0YjgwOTczNDQ1ZDI0YTA2YWFhYmVmNDlkYWQ2`
+Snapshot ID: `MCw5OWNlZTYxMGZmNTAzYzY0NWYzZjU2NGQ4OWJkMTM5YjRjOWU3ZTYw`

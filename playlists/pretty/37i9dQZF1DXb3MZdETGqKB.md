@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: ZZ Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,977 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,221 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 11 | [Jackpot](https://open.spotify.com/track/7ts8Hpf5LF6HmvyePJgysY) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj) | [Jackpot](https://open.spotify.com/album/18wuw7w0x6fqjTJIEK71A2) | 2:07 |
 | 12 | [Outrun](https://open.spotify.com/track/42Xl2G8iLEOaoBU6A3ezI3) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Lynnea](https://open.spotify.com/artist/7f06QWoFAvtpEuho7NEDLN) | [Scores & Melodies Vol\. 1](https://open.spotify.com/album/6gwvqyqV3SLMlfNLU5bymG) | 3:15 |
 | 13 | [Only Woman](https://open.spotify.com/track/1iOAaTWVHSTnRTTyNOAIVg) | [Ed Staal](https://open.spotify.com/artist/34t2yk9P5vrHBWLXlZlGrC) | [Only Woman](https://open.spotify.com/album/5WDdEO0SxvJnhhq68N0wUw) | 2:58 |
-| 14 | [Lips Are Movin'](https://open.spotify.com/track/7oQ8nqWZ8KupiIO4SJrHxM) | [Sgt\. Splendor](https://open.spotify.com/artist/1hEnIRqyPrQ0ACvUZZM2Aw), [Kate Vargas](https://open.spotify.com/artist/6IaBcgmfcrqB8yGh0BrTf1), [Eric McFadden](https://open.spotify.com/artist/5eW72pXN4o65oLTUmVRBKA) | [Death Of The Hoochie Koo](https://open.spotify.com/album/3c0lWeW5PfR1sal7UUFgjB) | 2:42 |
+| 14 | [Lips Are Movin'](https://open.spotify.com/track/2kXOwYrDCyyhbDY7B2Sggp) | [Sgt\. Splendor](https://open.spotify.com/artist/1hEnIRqyPrQ0ACvUZZM2Aw), [Kate Vargas](https://open.spotify.com/artist/6IaBcgmfcrqB8yGh0BrTf1), [Eric McFadden](https://open.spotify.com/artist/5eW72pXN4o65oLTUmVRBKA) | [Death Of The Hoochie Koo](https://open.spotify.com/album/2ajOIlt7QTx5E9OMYa7WPE) | 2:42 |
 | 15 | [Rippin' And Runnin'](https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Death Wish Blues](https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C) | 4:21 |
 | 16 | [FLorida Man](https://open.spotify.com/track/2oN86MTxnHp1ST30tDL4h0) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [FLorida Man](https://open.spotify.com/album/4CsAr4hOUgzB4IOKtnbJxn) | 3:39 |
 | 17 | [Keep on Loving You](https://open.spotify.com/track/5yOWZu75GlhRP3eJEFdJGT) | [Davide Pannozzo](https://open.spotify.com/artist/22GGo3ysvMZTPCsqW2b07T) | [Keep on Loving You](https://open.spotify.com/album/6tJAFxQ6cXAfgMyxg6eo1n) | 5:12 |

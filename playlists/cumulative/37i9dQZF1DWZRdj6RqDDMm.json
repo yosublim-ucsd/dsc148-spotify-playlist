@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/0nuD4U7NZ8jnvjh3MqmTJA"
+      },
+      "artists": [
+        {
+          "name": "JyroGvo",
+          "url": "https://open.spotify.com/artist/75NziVeibeBcHBboy8wpdk"
+        },
+        {
+          "name": "Tobi Toun",
+          "url": "https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "123",
+      "url": "https://open.spotify.com/track/5Zp4NRY9001doayfXBuzYq"
+    },
+    {
+      "album": {
         "name": "Verses, Vol. 1",
         "url": "https://open.spotify.com/album/0lVg5lgO6lof4QoqzZ8jRk"
       },
@@ -206,6 +228,28 @@
       "duration_ms": 210291,
       "name": "Away",
       "url": "https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd"
+    },
+    {
+      "album": {
+        "name": "GRACE IS LUXURY",
+        "url": "https://open.spotify.com/album/5znp5BsEEbvcJkWjXXQLoB"
+      },
+      "artists": [
+        {
+          "name": "Scott Evans",
+          "url": "https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r"
+        },
+        {
+          "name": "PEREZ MUSIK",
+          "url": "https://open.spotify.com/artist/64jhMYAtHXyKNnHxPmCJth"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162665,
+      "name": "AYE",
+      "url": "https://open.spotify.com/track/5wDtmZ8wKSUN6oozVrSjNA"
     },
     {
       "album": {
@@ -565,6 +609,28 @@
     },
     {
       "album": {
+        "name": "Elijah Level (with Limoblaze)",
+        "url": "https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173262,
+      "name": "Elijah Level (with Limoblaze)",
+      "url": "https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h"
+    },
+    {
+      "album": {
         "name": "Exalted",
         "url": "https://open.spotify.com/album/57ztEnBKMl9dy46oZVC1bT"
       },
@@ -642,6 +708,32 @@
       "duration_ms": 121730,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/7rvky1xs7Ewil4rUjtxcSk"
+    },
+    {
+      "album": {
+        "name": "Free, Pt. 2",
+        "url": "https://open.spotify.com/album/0uBdvE9bfkTdKQcQGZ5HAZ"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Free, Pt. 2",
+      "url": "https://open.spotify.com/track/5FY9J29KgfImVtacAJor1F"
     },
     {
       "album": {
@@ -934,6 +1026,28 @@
       "duration_ms": 121061,
       "name": "Melody",
       "url": "https://open.spotify.com/track/34JlSUIdXJXQiJ1YFbDUIQ"
+    },
+    {
+      "album": {
+        "name": "Mighty",
+        "url": "https://open.spotify.com/album/6HJ0pySgPrueCDO3RAakuQ"
+      },
+      "artists": [
+        {
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196820,
+      "name": "Mighty",
+      "url": "https://open.spotify.com/track/6CpeBLNw7lzMnokEYgUjzf"
     },
     {
       "album": {
@@ -1750,6 +1864,28 @@
       "duration_ms": 176808,
       "name": "Your Baby",
       "url": "https://open.spotify.com/track/71PQ7kp54INFntc0r3J47y"
+    },
+    {
+      "album": {
+        "name": "Your Baby (live Version)",
+        "url": "https://open.spotify.com/album/175VMq0jKgV2XIact14hUr"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279614,
+      "name": "Your Baby - live Version",
+      "url": "https://open.spotify.com/track/67mewy94QmXc3UqqzxNNju"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZRdj6RqDDMm"

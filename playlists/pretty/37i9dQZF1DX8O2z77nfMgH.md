@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Foto: Arcángel y Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,847 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,863 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 3 | [Alcohol](https://open.spotify.com/track/3xBvu2UF8431mbmwsSWkRq) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 2:51 |
 | 4 | [Paralelos](https://open.spotify.com/track/0sRn9rTae4n4Hkd8dqiifl) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Paralelos](https://open.spotify.com/album/1LYON5LELQFPbz1aWe0Ffd) | 4:37 |
 | 5 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 |
-| 6 | [Tusi](https://open.spotify.com/track/1Jewzz0CWVVBlse4IZCx9c) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Sugar Papi](https://open.spotify.com/album/1D2dEzZ6Wv1ckHmSkayTuJ) | 2:39 |
+| 6 | [Tusi](https://open.spotify.com/track/3g6hAwPeS3qKa07XnZzb3h) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 2:39 |
 | 7 | [Partyson](https://open.spotify.com/track/3mtBiHVBuhOEDTZPSJ5XaG) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Partyson](https://open.spotify.com/album/6yGNJyte0qDL1uuLfaiuL5) | 3:18 |
 | 8 | [CANDY](https://open.spotify.com/track/61KfU2AHAjgdJOCNPkJejw) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [CANDY](https://open.spotify.com/album/0dusXsSrBWmJiT4VlzImcN) | 1:53 |
 | 9 | [Mafiosa](https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mafiosa](https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5) | 2:50 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [NAORU](https://open.spotify.com/track/5Hb1pcMSavgBFU0NrOpZ49) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Sheng 33](https://open.spotify.com/artist/654zAEjMrBSV93V2PyfUgJ) | [NAORU](https://open.spotify.com/album/3TihytvP1vHrVUXtu9CiUf) | 2:44 |
 | 55 | [O Retorno de Jedi](https://open.spotify.com/track/1OCtpTqJdhOrn00sJYnWSt) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [O Retorno de Jedi](https://open.spotify.com/album/0BTjFs3Pbs2QwHktnSbBWL) | 2:50 |
 
-Snapshot ID: `MCwzYzcxYjhjYzI2NjQyYmY4NzNkMTcwOGZlN2YyNGU1MDM4ZDM4MjBk`
+Snapshot ID: `MCwzM2VjNDM5YjFlMjJlMzNhYmI5MDkwNjI5MDRhOGY5MDNhNjhjZjEy`

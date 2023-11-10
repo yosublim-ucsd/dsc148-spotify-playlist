@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 6530,
+  "num_followers": 6552,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODBiNWUyZjc5ZDczMWU5Y2YzYmQzMzQ4M2UwY2VkZjc4MDIzY2Yy",
+  "snapshot_id": "MCwyMjc4YzFiOGVmYjc1MDJjYzAyMzRlN2E5NDk0YmFmMjNlZDI3MDA1",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Cl\u00e1ssicos",
-        "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 220788,
-      "name": "Maravilhoso \u00c9 / Rei dos Reis",
-      "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Gl\u00f3ria e Aleluia (Christmas)",
         "url": "https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 234663,
       "name": "Gl\u00f3ria e Aleluia - Christmas",
       "url": "https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Cl\u00e1ssicos",
+        "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 220788,
+      "name": "Maravilhoso \u00c9 / Rei dos Reis",
+      "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Cl\u00e1ssicos da M\u00fasica Crist\u00e3",
-        "url": "https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY"
-      },
-      "artists": [
-        {
-          "name": "Ellas",
-          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
-        }
-      ],
-      "duration_ms": 218314,
-      "name": "Vem Cear",
-      "url": "https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Folk Christmas",
         "url": "https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 171571,
       "name": "Surgem Anjos Proclamando",
       "url": "https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Cl\u00e1ssicos da M\u00fasica Crist\u00e3",
+        "url": "https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY"
+      },
+      "artists": [
+        {
+          "name": "Ellas",
+          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
+        }
+      ],
+      "duration_ms": 218314,
+      "name": "Vem Cear",
+      "url": "https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e"
     },
     {
       "added_at": "2022-12-09 06:26:14",

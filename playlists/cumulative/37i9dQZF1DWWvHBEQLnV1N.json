@@ -663,6 +663,24 @@
     },
     {
       "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/2d3wa6DNw6HEdrKf6VmW4O"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69440,
+      "name": "Deck The Halls - Remastered 1999",
+      "url": "https://open.spotify.com/track/5WUx1mTgFVIPSIeWf1NXEl"
+    },
+    {
+      "album": {
         "name": "Christmas Music 100 Hits",
         "url": "https://open.spotify.com/album/2whKuzNvFl6OnkiOvN1vA0"
       },

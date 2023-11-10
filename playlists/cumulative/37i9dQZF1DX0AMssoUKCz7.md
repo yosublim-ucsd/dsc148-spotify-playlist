@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-656 songs - 1 day 9 hr 18 min
+657 songs - 1 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,9 +191,10 @@
 | [Give Me Your Summer](https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP) | [Color Codes](https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L) | [Give Me Your Summer](https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS) | 2:50 | 2022-04-01 | 2022-07-28 |
 | [Glowing State](https://open.spotify.com/track/3mHAqQWWO4BWRME0sSFzEj) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Always Me](https://open.spotify.com/album/5PENGIvIfC8JOAgxmdtS6p) | 4:49 | 2022-04-01 |  |
 | [Go There With You](https://open.spotify.com/track/3wiW6zoK6kMxwr0FgdGDHw) | [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf), [Mecdoux](https://open.spotify.com/artist/2LEcQU88INN9wulB59Xo0Q) | [Go There With You](https://open.spotify.com/album/4dCjZpw7sKRFT99qhQd563) | 3:16 | 2022-06-03 |  |
+| [Going Away](https://open.spotify.com/track/7ukxpGl0ZKJibFICrSIhQK) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Honey](https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9) | [Going Away](https://open.spotify.com/album/4dzOrYGcvYlSuf107EiKcy) | 2:32 | 2023-10-27 |  |
 | [Gold](https://open.spotify.com/track/52xRalpJsWgk2AprDKvR6g) | [Leviro](https://open.spotify.com/artist/50rU4gBfyrar1G08tnxdTl) | [Gold](https://open.spotify.com/album/1ZDWXDisS7Qnl6YbNKzdGz) | 2:24 | 2022-12-23 | 2023-03-29 |
 | [Gonna Love Ya](https://open.spotify.com/track/4MCU3lOwRiapFjE9kxiW0f) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Gonna Love Ya](https://open.spotify.com/album/5GMy8VTyvntUIsi5Fp5jXE) | 3:35 | 2022-02-18 | 2022-04-02 |
-| [Gonna Need Ya](https://open.spotify.com/track/1icgSRga7q37rC4eftEQG3) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Tyron Dixon](https://open.spotify.com/artist/37QVcCngKZe0gZxD8b7zgJ), [Rachelle Jenkens](https://open.spotify.com/artist/33hQWzFmVnYt5eAbSf61Kw) | [Gonna Need Ya](https://open.spotify.com/album/2BwqUHvTGXvDaQK9awOt9B) | 2:58 | 2022-06-10 |  |
+| [Gonna Need Ya](https://open.spotify.com/track/1icgSRga7q37rC4eftEQG3) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Tyron Dixon](https://open.spotify.com/artist/37QVcCngKZe0gZxD8b7zgJ), [Rachelle Jenkens](https://open.spotify.com/artist/33hQWzFmVnYt5eAbSf61Kw) | [Gonna Need Ya](https://open.spotify.com/album/2BwqUHvTGXvDaQK9awOt9B) | 2:58 | 2022-06-10 | 2023-11-10 |
 | [Good Enough](https://open.spotify.com/track/6tPYz05avJHydJ4gv8JAmn) | [Marcus James](https://open.spotify.com/artist/3VEzgR55OpqT9SyPeOwrQ4), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Good Enough](https://open.spotify.com/album/0WIwvSVJ7kcFOsrjuzd2Lr) | 2:39 | 2022-07-08 | 2022-07-22 |
 | [Good Life](https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z) | [Good Life](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life](https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ) | 2:47 | 2023-07-07 |  |
 | [Good Life feat\. Henri PFR \(Together Alone Remix\)](https://open.spotify.com/track/6tzCYvOjftLUQaxBp1HFvC) | [FDVM](https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Good Life feat\. Henri PFR \(Together Alone Remix\)](https://open.spotify.com/album/5OairWeHeXXburmtnrriiU) | 2:38 | 2022-06-03 | 2022-08-19 |

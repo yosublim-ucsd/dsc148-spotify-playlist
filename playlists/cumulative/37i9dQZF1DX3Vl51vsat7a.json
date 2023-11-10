@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Cloudy June",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: \u00c4TNA",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -236,6 +236,42 @@
       "duration_ms": 320000,
       "name": "About My Dreams",
       "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
+    },
+    {
+      "album": {
+        "name": "ADHD",
+        "url": "https://open.spotify.com/album/1R8E8cwhWD2NI1Y04F6rQu"
+      },
+      "artists": [
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237120,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/6YYjOdTC6r8woS303ScscC"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1bIkaKwrNbpDzFKVgqp8IU"
+      },
+      "artists": [
+        {
+          "name": "\u00c4TNA",
+          "url": "https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232750,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4ZhRddutIAnleTnvqir5LM"
     },
     {
       "album": {
@@ -875,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Cold Wars",
+        "url": "https://open.spotify.com/album/6IC554ETcIoeMaIofdZNve"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234184,
+      "name": "Cold Wars",
+      "url": "https://open.spotify.com/track/1oQlYBANjW80ewuxr5gHwZ"
+    },
+    {
+      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/6xg0GJEU0lf60zcSdsjCel"
       },
@@ -1158,6 +1212,28 @@
       "duration_ms": 162335,
       "name": "Don't U Dare",
       "url": "https://open.spotify.com/track/3CQuzM93RAg867gQ0mVAw7"
+    },
+    {
+      "album": {
+        "name": "Downgrade",
+        "url": "https://open.spotify.com/album/0ZO4POLOhmSkLwWkiizPKz"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        },
+        {
+          "name": "Zymba",
+          "url": "https://open.spotify.com/artist/1ozEI1HiloddRy01cuXQNo"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150133,
+      "name": "Downgrade",
+      "url": "https://open.spotify.com/track/46yBpFu9lmZt2aowHN9oG9"
     },
     {
       "album": {
@@ -1550,7 +1626,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 134385,
       "name": "F\u00fcr jeden aber nicht f\u00fcr dich",
       "url": "https://open.spotify.com/track/6wNyJwgzl4Tl6wEZa1StHI"
@@ -1844,7 +1920,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 165240,
       "name": "I See Love",
       "url": "https://open.spotify.com/track/0OUKgnOS2Xj64K8x4Unutp"
@@ -2068,7 +2144,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 129893,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/1QREbpl3GAFm0ZyufYeil7"
@@ -2792,7 +2868,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 217136,
       "name": "Morning Blue",
       "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"

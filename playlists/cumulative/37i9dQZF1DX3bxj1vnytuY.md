@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-235 songs - 23 hr 31 min
+236 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Baglami](https://open.spotify.com/track/159mYyAervSmRxUdyEaOdq) | [DJ DALI](https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS) | [Baglami](https://open.spotify.com/album/4EK46NYAw0L0GQ8z1MjmRr) | 5:30 | 2022-12-06 | 2023-02-18 |
 | [Baglami](https://open.spotify.com/track/6ZTOjC8lXAXK5AUw4SRfn1) | [DJ DALI](https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS) | [Baglami](https://open.spotify.com/album/07C07uz3IJt6aixCnd2uvM) | 5:30 | 2023-02-02 |  |
 | [Bahja](https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [Bahja](https://open.spotify.com/album/5YfzAebZkmbl3DOrUjshDd) | 4:17 | 2022-04-13 | 2023-07-06 |
+| [Baraka](https://open.spotify.com/track/1LF5rOyX4hEXyPFmeqmjgL) | [Cincity](https://open.spotify.com/artist/2JTUg3LgzJsqxzNnPB9hen), [B’utiza](https://open.spotify.com/artist/7JkKzaeMIaP3VXEExgfDKs) | [Baraka](https://open.spotify.com/album/6h9eHXAdghW3AXVj3gYOlz) | 3:04 | 2023-11-09 |  |
 | [Basari \- Amine K Remix](https://open.spotify.com/track/6m8jwfpf7ge0Dddsjp1pvS) | [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Basari \(Amine K Remix\)](https://open.spotify.com/album/1B40rgdqojSsyJqIiU4UHY) | 6:08 | 2022-05-26 | 2023-04-21 |
 | [Basma](https://open.spotify.com/track/5KGr8cUP1WkJTKKNC5SCcn) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Basma](https://open.spotify.com/album/5OhskRseUiPrT8FeMh3Hue) | 6:40 | 2023-03-23 |  |
 | [Bedouin Joy](https://open.spotify.com/track/2OKfAtj6fTgJRghXn2pxm0) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii) | [Bedouin Joy](https://open.spotify.com/album/0aQ18bNVPwUapOiUIG3i4W) | 6:13 | 2022-04-13 | 2023-04-21 |
@@ -88,7 +89,7 @@
 | [Figures](https://open.spotify.com/track/3qb2uMaR60HP0cTWLI2DM7) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu), [Paralel](https://open.spotify.com/artist/6gx1uCxt263iyrRJG6XBR6) | [Nocturnal 010](https://open.spotify.com/album/2Qls9LLSmjCLKgxK29GBqy) | 4:23 | 2023-06-22 | 2023-07-25 |
 | [Flow \- Sunset Mix](https://open.spotify.com/track/1QpU3A0dkKVJhI3o6xYBok) | [DP\-6](https://open.spotify.com/artist/3ydKQmXGxjmM2IBOYCzYLJ) | [Flow \(Sunset Mix\)](https://open.spotify.com/album/3pel2JNZHZVeaGlqUBfKTk) | 6:51 | 2022-04-13 | 2022-09-09 |
 | [Fomalah](https://open.spotify.com/track/3y0NlHjBLhQdGoK3OscjeD) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [YASS](https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C) | [Fomalah](https://open.spotify.com/album/1Mzpalm1vye6Rz709d4qtt) | 7:08 | 2023-01-17 |  |
-| [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2022-07-06 |  |
+| [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2022-07-06 | 2023-11-10 |
 | [Garmi](https://open.spotify.com/track/6cCH4wUwLbCkCwYqQG2uPe) | [MI.LA](https://open.spotify.com/artist/67Nx0BYJLxmenQP6Azr34H) | [Garmi](https://open.spotify.com/album/4ShGe12qbIrgWg62GwZl7i) | 6:26 | 2022-04-13 | 2023-04-21 |
 | [Gate](https://open.spotify.com/track/64DQirKrhckZyaKJ0Xz30G) | [U108](https://open.spotify.com/artist/5gOlxIWquJASLrXLQhUVVh) | [Sutra of Heart](https://open.spotify.com/album/62i9NSc0cKmXcoght2GqwU) | 5:34 | 2022-04-28 | 2023-04-21 |
 | [Gesi Bağları](https://open.spotify.com/track/4qjwruCjh7Bx9GEzVQm918) | [Selda Bağcan](https://open.spotify.com/artist/2NGRETzxjeN4b9o3OGY6Yn), [Otnicka](https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt) | [Gesi Bağları](https://open.spotify.com/album/4exujDzzH9UgSw2mz5LVmN) | 3:52 | 2022-04-13 | 2023-04-21 |

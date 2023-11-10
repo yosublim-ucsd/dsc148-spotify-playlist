@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,916 likes - 113 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,965 likes - 113 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 49 | [Little Love](https://open.spotify.com/track/5aHAFqPCvV4dn7Pcaehs0V) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Roland Faunte](https://open.spotify.com/artist/1IMFkgZ2ZpHknO1v2n97CH) | [Don't Look at Me](https://open.spotify.com/album/6mNimsORUE9O92lI3H2DiT) | 2:51 |
 | 50 | [Coral](https://open.spotify.com/track/5wrvepHi6fDBI3Fj8GDhLx) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Coral](https://open.spotify.com/album/2ewETQPTVRdFPgX81hQ4n9) | 2:26 |
 | 51 | [Heart Chakra](https://open.spotify.com/track/7jOoaIGbwxtH1dpcGp1YSP) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Heart Chakra](https://open.spotify.com/album/1Ns9DLdpOhM2MN8LRuwBHx) | 2:17 |
-| 52 | [Where You Go](https://open.spotify.com/track/4TotXVQO9iHg81IuuF7aYr) | [Boztown](https://open.spotify.com/artist/49CZw9qooXeYTWKe9ioZPx) | [Where You Go](https://open.spotify.com/album/0EGdftFXLTMWBg6eJyAOvL) | 2:19 |
+| 52 | [Where You Go](https://open.spotify.com/track/6RnHmBfrzz0RD1roPOq9yu) | [Boztown](https://open.spotify.com/artist/49CZw9qooXeYTWKe9ioZPx) | [Where You Go](https://open.spotify.com/album/1zTGJiHnVzPupsvDXKV60S) | 2:19 |
 | 53 | [Skylights](https://open.spotify.com/track/75y4koGFLmWQKyrg1uwvlE) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Skylights](https://open.spotify.com/album/3KfVZRJHj1QucZp6Bg8sb6) | 2:48 |
 | 54 | [Endless days](https://open.spotify.com/track/327CihmGe7iHumIBpBZiB0) | [Socrab](https://open.spotify.com/artist/7zAOggQGCRZo03b0cTR3NB) | [Regain](https://open.spotify.com/album/0MIVTr8DqIDFLCX927riTB) | 2:03 |
 | 55 | [Dijon Lofi](https://open.spotify.com/track/0QBLLWPxhUficWtZlpGGgS) | [Printeme](https://open.spotify.com/artist/2YvnVXbia5SDheNBnFoVLE) | [Magnifique](https://open.spotify.com/album/0DpMbQvYK92kNNFkfZ8Bqo) | 1:37 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 112 | [Meadow](https://open.spotify.com/track/456sBaOMMyVzIexMVyd1UP) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Meadow](https://open.spotify.com/album/0XWPqJT49KK33sv9QiN4Q4) | 2:35 |
 | 113 | [Kodama Hour](https://open.spotify.com/track/4KA3tl17zoh2mpRSmvXCZL) | [azula](https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [INKY!](https://open.spotify.com/artist/4jlY0hmEPAg8KTa4KVe4R4) | [Spirits](https://open.spotify.com/album/1NZNlyf6Pgr1LbdyUwBVZ9) | 2:00 |
 
-Snapshot ID: `MCw2NzhkMDYxNjVjODAwM2MwYWU2YTU4YTRmNWQ1YWIwMWZhNzFkMTU0`
+Snapshot ID: `MCw0ODViNjgzYzI4YjM2MGE5NzEzYjRjMzRkYjNlMjE0NzBkODA5YmFm`

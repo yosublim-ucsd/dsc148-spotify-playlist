@@ -1,29 +1,13 @@
 {
   "description": "The best of Alternative &amp; Rock from the 2000's including Jimmy Eat World, The Killers, Nickelback and more! Cover: Empire of the Sun",
-  "num_followers": 3836,
+  "num_followers": 3835,
   "original_name": "2000s Alternative",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "NDU2LGU1MGM3ZTUyMzBlNWY1YjRkZTIzYWMyZTNlMjQxNjEzYTU4N2JiZjg=",
+  "snapshot_id": "NDU5LGM1YTcyYzc1YmY1YTM4YWY5ZTEzNGJlNGNlNzE3MTQwNGUyMTkwMTg=",
   "tracks": [
-    {
-      "added_at": "2023-10-16 16:43:24",
-      "album": {
-        "name": "Conspiracy Of One",
-        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Want You Bad",
-      "url": "https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7"
-    },
     {
       "added_at": "2023-10-16 16:43:24",
       "album": {
@@ -917,7 +901,23 @@
       "url": "https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ"
     },
     {
-      "added_at": "2023-11-02 08:10:00",
+      "added_at": "2023-10-16 16:43:24",
+      "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Want You Bad",
+      "url": "https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7"
+    },
+    {
+      "added_at": "2023-11-09 08:18:42",
       "album": {
         "name": "Franz Ferdinand",
         "url": "https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD"

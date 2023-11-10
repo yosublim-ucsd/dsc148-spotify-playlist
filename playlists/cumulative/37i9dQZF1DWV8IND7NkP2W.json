@@ -1437,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "breakwater",
+        "url": "https://open.spotify.com/album/5gqlUho7dFtG6rnAokhOXb"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144065,
+      "name": "breakwater",
+      "url": "https://open.spotify.com/track/3olOfiTQeXtxPkvgqT9cvl"
+    },
+    {
+      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/32rbFzTwhILmdD8Uly8z05"
       },
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 102000,
       "name": "CIGARRO",
       "url": "https://open.spotify.com/track/6qJfERkBPglFKACoKt7RkM"
@@ -6228,7 +6246,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 145824,
       "name": "lighthouse",
       "url": "https://open.spotify.com/track/75bwkrAjDrR1sI9Cij1fUZ"
@@ -6878,6 +6896,28 @@
       "duration_ms": 158197,
       "name": "michi",
       "url": "https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF"
+    },
+    {
+      "album": {
+        "name": "midnight escape",
+        "url": "https://open.spotify.com/album/2PDFaI2eZ5SCNb7vSGgfOV"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        },
+        {
+          "name": "Kanzas-City",
+          "url": "https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "midnight escape",
+      "url": "https://open.spotify.com/track/5QPoT5KpEN9yE83J4QkHKY"
     },
     {
       "album": {
@@ -11595,6 +11635,24 @@
     },
     {
       "album": {
+        "name": "tombi",
+        "url": "https://open.spotify.com/album/4IF7VEO4FXEzQ8t04qI6xz"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140495,
+      "name": "tombi",
+      "url": "https://open.spotify.com/track/7D9fL5OnKFxUG9e5PMNBF1"
+    },
+    {
+      "album": {
         "name": "tomoshibi",
         "url": "https://open.spotify.com/album/1OzUBhA1PotfdYvF4ED2LP"
       },
@@ -11980,7 +12038,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 124285,
       "name": "Ukiyo",
       "url": "https://open.spotify.com/track/5CCBENes8uXqqPcntd08Yf"

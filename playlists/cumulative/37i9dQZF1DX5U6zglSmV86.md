@@ -4,7 +4,7 @@
 
 > Nuestra alma mater es la calle\. La Santa Grifa en portada
 
-81 songs - 5 hr 6 min
+82 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bosses](https://open.spotify.com/track/3EI0WbXre6WTM3HTm70phi) | [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Bosses](https://open.spotify.com/album/6d1jFOmkfXAnoXjTm3PGJT) | 3:31 | 2023-08-04 |  |
 | [Bueno Pa Lo Malo](https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb) | [Bueno Pa Lo Malo](https://open.spotify.com/album/3EYmozDR9AJxr9RSJi5NRt) | 6:39 | 2023-08-04 |  |
 | [Capos de Profesión](https://open.spotify.com/track/2mJIycc7SuiuFb7VRccD8n) | [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1) | [Capos de Profesión](https://open.spotify.com/album/2kZW84L12OFSrz0sgcJLWx) | 1:40 | 2023-10-20 |  |
+| [certeros](https://open.spotify.com/track/05XNGfkw7iWDYukQbiR4fc) | [Lil Wacho](https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [certeros](https://open.spotify.com/album/4M9iw709hphgt8LJVDzNTr) | 3:35 | 2023-11-09 |  |
 | [Chalineras](https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Chalineras](https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2) | 3:37 | 2023-10-13 |  |
 | [Cholo en un Low](https://open.spotify.com/track/4Orw6MjT2VFgwGH9YI9ATY) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Fobia](https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq) | 3:20 | 2023-08-04 |  |
 | [Con el Coco Rapado](https://open.spotify.com/track/13mi6Ut0rcnvj88hLsTHDx) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Sincopa](https://open.spotify.com/album/5bZ7Jgk7YE35ULHWO3wgHP) | 4:02 | 2023-08-04 |  |

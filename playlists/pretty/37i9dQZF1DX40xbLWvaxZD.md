@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く7外伝 名を消した男」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリスト登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,691 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,739 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [In The Name Of](https://open.spotify.com/track/6OPMim0rgtwyyorkCxsyY1) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [吉田 沙織](https://open.spotify.com/artist/57wo2Em3UktCMqpCRK5pFv) | [龍が如く7 外伝 名を消した男 Original Soundtrack](https://open.spotify.com/album/18UMqkCfW8jvNIjVcntBZW) | 4:08 |
+| 1 | [In The Name Of](https://open.spotify.com/track/4HN9ojfqPcGhgoPf3tDEYo) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [吉田 沙織](https://open.spotify.com/artist/57wo2Em3UktCMqpCRK5pFv) | [LIKE A DRAGON GAIDEN The Man Who Erased His Name](https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry) | 4:08 |
 | 2 | [一番歌](https://open.spotify.com/track/3KpKnheFsY52KFOSsLAk3C) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p), [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [一番歌](https://open.spotify.com/album/2H98HIfvUyuGMBJsB0OAVg) | 5:01 |
 | 3 | [Receive You The Archetype](https://open.spotify.com/track/4jHGBmn0GEwLF0KOrMQrXI) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [庄司 英徳](https://open.spotify.com/artist/5HOu40y4JzaPi68Juxb7gF) | [龍が如く 維新! オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/0KsRvbwK7YVhTn8GYPXaAx) | 3:22 |
 | 4 | [意地桜 \- Full Spec Edition](https://open.spotify.com/track/1IFmX1oMmlI0Mru3OjozNE) | [齋藤 一\(黒田 崇矢\)](https://open.spotify.com/artist/0JEtUo0kVK4epnMOfZVNh0) | [龍が如く 維新! オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/37sbazjUwRXJ0d5mLUIoFH) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 49 | [神室純恋歌 ～桐生&支静加～](https://open.spotify.com/track/5gaoeg4XdKm8VcgXAi21ne) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 2:02 |
 | 50 | [Shiawase\-nara\-iiya \- Full Spec Edition](https://open.spotify.com/track/795netq7zSVvayTiDkbePw) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [Goro Majima Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc) | 6:30 |
 
-Snapshot ID: `MCwyOGExNjRiNDkxZGJjMjVmMmFhYWYzOWE5ZmM0ZDlhMDNkNDlkNzgx`
+Snapshot ID: `MCw0YWZkNzcxMmI5ODNmMDM5M2E0ZGEzMTFiMmViYjY0YmE2ZWU1YWM4`

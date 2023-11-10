@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Medy",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Salmo, Noyz Narcos",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -1980,8 +1980,8 @@
           "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
         },
         {
-          "name": "KIID",
-          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+          "name": "Kiid",
+          "url": "https://open.spotify.com/artist/47n6LhYrL1ifDqyNh83pdr"
         },
         {
           "name": "Artie 5ive",
@@ -2282,6 +2282,32 @@
       "duration_ms": 202588,
       "name": "Cuore",
       "url": "https://open.spotify.com/track/0d16j8Dro7bPysTqCC41gx"
+    },
+    {
+      "album": {
+        "name": "CVLT",
+        "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226557,
+      "name": "CVLT (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/6hANXZUS2wryG1zSocof7J"
     },
     {
       "album": {
@@ -2792,6 +2818,24 @@
       "duration_ms": 133266,
       "name": "Fantasmi (feat. Geolier)",
       "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
+    },
+    {
+      "album": {
+        "name": "FASHION",
+        "url": "https://open.spotify.com/album/6F9abOtP5f8U6AVCHFN8Tl"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149684,
+      "name": "FASHION",
+      "url": "https://open.spotify.com/track/2GrgmzXmNHOfqIcrDSQmQa"
     },
     {
       "album": {
@@ -3752,7 +3796,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 162893,
       "name": "INCUBI",
       "url": "https://open.spotify.com/track/04Jt7tpjw9z0OugNDAZxnk"
@@ -4258,8 +4302,8 @@
           "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
         },
         {
-          "name": "KIID",
-          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+          "name": "Kiid",
+          "url": "https://open.spotify.com/artist/47n6LhYrL1ifDqyNh83pdr"
         },
         {
           "name": "Nerissima Serpe",
@@ -5054,7 +5098,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 194250,
       "name": "Mocro Mafia (feat. Maes)",
       "url": "https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5"

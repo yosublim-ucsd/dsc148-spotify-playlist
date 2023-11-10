@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-485 songs - 1 day 14 hr 29 min
+487 songs - 1 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Forgetful Angel](https://open.spotify.com/track/3pMfNMfmGNlkYmjilGEtci) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Forgetful Angel](https://open.spotify.com/album/4W16Uthzgh95U97862c8bg) | 2:57 | 2022-09-29 | 2022-10-01 |
 | [Forgotten River](https://open.spotify.com/track/1fXB8yow8kzrhjjwfypL7U) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [More Beautiful Than Silence](https://open.spotify.com/album/0wwDxX0rvd3PhjPzapZUFU) | 4:52 | 2022-03-31 | 2022-07-05 |
 | [FOSSIL OF FLAME/火の化石\~FIFTY BELL\-TREES/五十鈴](https://open.spotify.com/track/3d1oTcXWsWdtfDrgGbbmCG) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 8:31 | 2022-03-31 | 2022-07-04 |
+| [Fragment](https://open.spotify.com/track/2IPgfIisrvoZ9gfjjgIiMo) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Fragment](https://open.spotify.com/album/57AhM9WpuWG2206JjB1uZz) | 4:02 | 2023-11-09 |  |
 | [frame](https://open.spotify.com/track/1wDCny9Fsxj78bGAUc6Urn) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Frame](https://open.spotify.com/album/4VXrSbUbWpKjrOsUO97ttE) | 7:53 | 2022-04-07 | 2022-04-16 |
 | [Funeral Doom Espresso](https://open.spotify.com/track/6ib2seI733Fc4Ywu9n2YtY) | [and end und\(o\)](https://open.spotify.com/artist/1X4ne9Wa1NJVTAzimZnHNp) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 5:04 | 2022-04-07 | 2022-04-15 |
 | [Funé](https://open.spotify.com/track/0o9XRe8wvGfhh8Kr994oZQ) | [Hirono Nishiyama](https://open.spotify.com/artist/0BjDWmpDPChula2c4QwkaT) | [Funé](https://open.spotify.com/album/0ZhtvpfGfcH0Gm97rX7uNz) | 3:55 | 2022-03-31 | 2022-07-27 |
@@ -156,7 +157,7 @@
 | [GLASS CHIME](https://open.spotify.com/track/1lxgQG0xeAsS1r0u9M1TcP) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 3:26 | 2022-04-16 |  |
 | [Glistering](https://open.spotify.com/track/3tRDHIpV1DVg06HC3LPWRj) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Lighthouse](https://open.spotify.com/album/2ElcwSiB2mzqR4ducfcsmy) | 4:23 | 2022-04-07 | 2022-07-12 |
 | [godorkura](https://open.spotify.com/track/4AFFfAFknO8itVzuYspbf7) | [kentaleaux nakajima](https://open.spotify.com/artist/06YnkMNkelZsBFOd85RjcR) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 6:10 | 2022-06-23 | 2022-07-28 |
-| [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 | 2022-04-07 |  |
+| [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 | 2022-04-07 | 2023-11-10 |
 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 | 2022-03-31 |  |
 | [Green Forest](https://open.spotify.com/track/7ESmedpTzQIkdiTx5Acb8M) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN), [RAURA EMMA SUZUKI](https://open.spotify.com/artist/1YyLGpkRSXVOhkg2FrkC4b), [ART AND MUSIC](https://open.spotify.com/artist/2rzGYD6phmeSbArsZSvzSq) | [Green Forest](https://open.spotify.com/album/0N6Hbp6NMr8rzg3PrhePRg) | 4:24 | 2022-06-07 | 2022-07-29 |
 | [Green Forest](https://open.spotify.com/track/7keZ9iOh6oLPOjUmIrRSgO) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN), [RAURA EMMA SUZUKI](https://open.spotify.com/artist/1YyLGpkRSXVOhkg2FrkC4b), [ART AND MUSIC](https://open.spotify.com/artist/2rzGYD6phmeSbArsZSvzSq) | [Green Forest](https://open.spotify.com/album/2hka3joHLRIvJOYQxdXD5O) | 4:24 | 2022-07-28 | 2022-11-18 |
@@ -217,6 +218,7 @@
 | [Lala](https://open.spotify.com/track/4JgzCPYTI3nodpapScNAyQ) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Royal Blue](https://open.spotify.com/album/6pmKXb63Osnj2DnCy0lb2z) | 4:07 | 2022-03-31 | 2022-07-16 |
 | [Last Days](https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7) | [Yasushi Yoshida](https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB) | [Heavenly Me Last Days](https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm) | 9:59 | 2022-04-07 |  |
 | [last night](https://open.spotify.com/track/4cP2zI7vcZgYnTJqeV7Bm9) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [\[lust\]](https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05) | 4:26 | 2022-03-31 | 2022-07-13 |
+| [Lasting Memories](https://open.spotify.com/track/7zUsClREgMYQ5GqcnmioIF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Lasting Memories](https://open.spotify.com/album/20k1KmdxOiXyQHhw7QyXby) | 3:34 | 2023-11-09 |  |
 | [Leaving](https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Leaving](https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT) | 3:43 | 2023-10-26 |  |
 | [Les Trois Graces](https://open.spotify.com/track/3IWQK0V0OAWjyiWY7OTovV) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 7:51 | 2022-04-16 | 2022-07-26 |
 | [Levitate](https://open.spotify.com/track/7EMteO0dlSLubgeYbTplsO) | [soma hayato](https://open.spotify.com/artist/7Ggi7oQcGOPoOZe1tMbxnJ) | [made in bebe.](https://open.spotify.com/album/3qD9pj02W8jjatkBXnpLX6) | 4:10 | 2022-04-26 | 2022-07-27 |
@@ -373,7 +375,7 @@
 | [Spatial](https://open.spotify.com/track/57aA35Sk8bvernl1JBGfdr) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [Spatial](https://open.spotify.com/album/2s0jmqbAKEjzgnh6ayWfl3) | 3:55 | 2022-12-01 | 2022-12-24 |
 | [Spica](https://open.spotify.com/track/2fbzsO9a3JHa9AWCoWTtg3) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 2:48 | 2022-04-07 | 2022-07-29 |
 | [Sprout](https://open.spotify.com/track/11CPzSMHxF8ZaYlqJlplgo) | [ghost and tape](https://open.spotify.com/artist/1TgZeHP8iks6YBGWdsS5Zp) | [Vár](https://open.spotify.com/album/6paB8AlF9N6vTYqDzbJMm0) | 3:39 | 2022-03-31 | 2022-04-17 |
-| [Stars](https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Vapor](https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt) | 6:19 | 2022-03-31 |  |
+| [Stars](https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Vapor](https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt) | 6:19 | 2022-03-31 | 2023-11-10 |
 | [Station 2](https://open.spotify.com/track/0qCXR6lzIKES8nbIClOYTt) | [Field Works](https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr), [Hanna Benn](https://open.spotify.com/artist/3f311Nvt0uimtZzFtleUiA), [Janie Cowan](https://open.spotify.com/artist/0Gof2YXoYi1mFZgSrHfMKS), [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT), [Stuart Hyatt](https://open.spotify.com/artist/3bm83rD8JWMvdkSj87RJ1l), [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D), [Pick a Piper](https://open.spotify.com/artist/6so2HBfVIUPwfjZPtXM1DB) | [Stations](https://open.spotify.com/album/3Ex5Lf74vziMVVkP2y6Rwp) | 2:56 | 2022-03-31 | 2022-07-23 |
 | [Stella](https://open.spotify.com/track/3x9kKGucIO4qBhvc3y9qE8) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [PASSION](https://open.spotify.com/album/7zDwBr55zeXkyVTrdU87sC) | 3:47 | 2022-03-31 | 2022-04-27 |
 | [Still](https://open.spotify.com/track/2DtCfVLzprasJJAoMDjNI9) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Yusura](https://open.spotify.com/album/5fRSAdCnY5pSSUKi8pNrU9) | 3:37 | 2022-03-30 | 2022-06-19 |

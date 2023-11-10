@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de noviembre 2023",
-  "num_followers": 1536953,
+  "num_followers": 1537035,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzYyNjUzMzFmMDJhODRlNjJiNGQ1ZWRiYTNkZTM0NDg1ZDUwZjMw",
+  "snapshot_id": "MCwxZWQwMGZjNDE3ZGUyYjRmYTVmMDBlOTEzOGY4Yzc4YmZhNDU1MDcz",
   "tracks": [
     {
       "added_at": "2023-11-07 18:06:21",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-11-07 18:06:21",
       "album": {
+        "name": "Vas a Destrozarme",
+        "url": "https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Vas a Destrozarme",
+      "url": "https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP"
+    },
+    {
+      "added_at": "2023-11-07 18:06:21",
+      "album": {
         "name": "Oh Na Na",
         "url": "https://open.spotify.com/album/4BHwvzeYB8EY1stGUBUlFg"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 240377,
       "name": "Oh Na Na",
       "url": "https://open.spotify.com/track/2EtOOnd0tseAvHcm3WzACQ"
-    },
-    {
-      "added_at": "2023-11-07 18:06:21",
-      "album": {
-        "name": "Vas a Destrozarme",
-        "url": "https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Vas a Destrozarme",
-      "url": "https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP"
     },
     {
       "added_at": "2023-11-07 18:06:21",
@@ -439,6 +439,26 @@
     {
       "added_at": "2023-11-07 18:06:21",
       "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 211791,
+      "name": "MILAMORES",
+      "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
+    },
+    {
+      "added_at": "2023-11-07 18:06:21",
+      "album": {
         "name": "Trofeo",
         "url": "https://open.spotify.com/album/4BrK3QOclSE0bAumHy1Lz7"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 159397,
       "name": "Solo Que Lo Dudes",
       "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
-    },
-    {
-      "added_at": "2023-11-07 18:06:21",
-      "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 211791,
-      "name": "MILAMORES",
-      "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
     },
     {
       "added_at": "2023-11-07 18:06:21",
@@ -675,6 +675,26 @@
     {
       "added_at": "2023-11-07 18:06:21",
       "album": {
+        "name": "LULUNA",
+        "url": "https://open.spotify.com/album/6ONpKrCEQZQGVCULcGTEcq"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "duration_ms": 188592,
+      "name": "LULUNA",
+      "url": "https://open.spotify.com/track/3FEEtt6a2JNuoxkBPOaFO8"
+    },
+    {
+      "added_at": "2023-11-07 18:06:21",
+      "album": {
         "name": "Para Mi",
         "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 240000,
       "name": "INSTAL\u00c1RTELO (feat. Sleezy O & Young Gallo)",
       "url": "https://open.spotify.com/track/4iiLT6wrLtcoW3vOUjjlbS"
-    },
-    {
-      "added_at": "2023-11-07 18:06:21",
-      "album": {
-        "name": "LULUNA",
-        "url": "https://open.spotify.com/album/6ONpKrCEQZQGVCULcGTEcq"
-      },
-      "artists": [
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        },
-        {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
-        }
-      ],
-      "duration_ms": 188592,
-      "name": "LULUNA",
-      "url": "https://open.spotify.com/track/3FEEtt6a2JNuoxkBPOaFO8"
     },
     {
       "added_at": "2023-11-07 18:06:21",

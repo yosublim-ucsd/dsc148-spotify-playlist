@@ -1382,10 +1382,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 164782,
       "name": "If I Wanted Wine",
       "url": "https://open.spotify.com/track/4cgwtyl8Ig2RxDTz0d0JyM"
+    },
+    {
+      "album": {
+        "name": "We Did",
+        "url": "https://open.spotify.com/album/79iCUqx4rgAItI7BFPJkJC"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164782,
+      "name": "If I Wanted Wine",
+      "url": "https://open.spotify.com/track/4vX7u4Q8iCuo7rK41M7QUn"
     },
     {
       "album": {

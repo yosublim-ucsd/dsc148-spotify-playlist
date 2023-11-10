@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 
 > 🔥 All the hottest hip hop tracks in one spot! Featuring: <a href="https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo?si=t3ttM0lAReOMN6Mtueu1hQ">Gucci Mane</a>, Gunna, Lil Uzi Vert,  Young Thug, A Boogie Wit da Hoodie,   Portion, Rundown Spaz, BigWalkDog, LUM &amp; many more.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 39,821 likes - 50 songs - 2 hr 27 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 39,818 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

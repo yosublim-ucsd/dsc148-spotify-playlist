@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 
 > The official playlist for Valeria\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,677 likes - 76 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,681 likes - 76 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 | 12 | [Lucky Girl](https://open.spotify.com/track/5eEXenmmeqBnXqVTbdyGNI) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Morningside](https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB) | 2:50 |
 | 13 | [Mars Is No Fun](https://open.spotify.com/track/0Gd0C4mYMArNvVfNIj6TM1) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Ilo Veyou](https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP) | 2:37 |
 | 14 | [Con Las Ganas](https://open.spotify.com/track/65S18KXTH1fl5AYnKOJN6r) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [La Fabulosa Historia De..\. \(Edited Version\)](https://open.spotify.com/album/0rvRFArQ6SlABePrcCNEZn) | 4:15 |
-| 15 | [Si No Te Vuelvo a Ver](https://open.spotify.com/track/0OwZ3lqdQfnEZ074m2VXm0) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d) | [Reggaeton Romantico Vol 1](https://open.spotify.com/album/6tT4rOPYC3adYrCmBWOXy6) | 3:19 |
+| 15 | [Si No Te Vuelvo a Ver](https://open.spotify.com/track/0OwZ3lqdQfnEZ074m2VXm0) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d), [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ) | [Reggaeton Romantico Vol 1](https://open.spotify.com/album/6tT4rOPYC3adYrCmBWOXy6) | 3:19 |
 | 16 | [Middle Of My Mind](https://open.spotify.com/track/5RSQUFoAIg75ZQKP5zyT8i) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees \(Volume 2\)](https://open.spotify.com/album/7njexd4MXzmW0tXn0GK5EW) | 2:44 |
 | 17 | [Good Thing](https://open.spotify.com/track/4ijuCKFJy02MuhIpnwdul6) | [Serafyn](https://open.spotify.com/artist/0r2sgxjQ3ZrqdX1qbPOdCA) | [Foam](https://open.spotify.com/album/3tVcFYK50LU4ryDshojHJ5) | 3:52 |
 | 18 | [nana triste](https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Otras Alas](https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4) | 3:07 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 | 75 | [Voilà](https://open.spotify.com/track/7z9b9sw3k2ov3fO6YHKLHO) | [Club Yoko](https://open.spotify.com/artist/3kcV06zLtzUXC1p43aO5DJ) | [Voilà](https://open.spotify.com/album/7asKOioOiNZUhL5JiQs30H) | 2:25 |
 | 76 | [Everybody Hurts](https://open.spotify.com/track/1keQQqma4XPBRL1e6USd7Z) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dream On](https://open.spotify.com/album/4EKA6cOPmM0VmjHigV03QH) | 3:36 |
 
-Snapshot ID: `MCxiYzYxYjRiN2EyOWFmNzg5YjEzNGIzMmVjN2NmZjMzOTllNjAxZWYz`
+Snapshot ID: `MCw2MDI1ZjcwMDJkOWMwYmY4ZjkzNDdjOGU3ZTE1NTUxYjFiZTRiZDUw`

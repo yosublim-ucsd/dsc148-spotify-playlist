@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-109 songs - 6 hr 18 min
+110 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Blue Tennessee](https://open.spotify.com/track/65xukQJeGh8BMUAPIGldf3) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Broken Promises](https://open.spotify.com/album/3PXGuFuHhepsRkdiMEeksR) | 3:46 | 2023-04-27 |  |
 | [Bring Some Lovin'](https://open.spotify.com/track/4kY4TFMLtGkbr3yclyHCeN) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Jazz Lovin in the Rain](https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ) | 3:11 | 2023-04-27 |  |
 | [Broken Promises](https://open.spotify.com/track/4sSuZdKAQ5DaGXMcTVB1cJ) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Broken Promises](https://open.spotify.com/album/3PXGuFuHhepsRkdiMEeksR) | 3:36 | 2023-04-27 |  |
+| [Brothers](https://open.spotify.com/track/2frIsLqlpUpQGS6Z80EUlF) | [Stockholm Whereabouts](https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18) | [Brothers](https://open.spotify.com/album/0Y5ZQ28L3Oi1APem8PpPNM) | 3:29 | 2023-11-10 |  |
 | [Carpet Ride](https://open.spotify.com/track/0U7kzZCo3AukhMvJAXy9NY) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [Jazz Lovin in the Rain](https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ) | 2:28 | 2023-04-27 |  |
 | [Central Park West \(Rain\)](https://open.spotify.com/track/4otpI8Q3ofe7O0BNuRs3Ta) | [UWS Jazz Trio](https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K) | [Central Park West \(Rain\)](https://open.spotify.com/album/19gKjLugTg8IrZDc7iLZed) | 3:40 | 2023-08-03 |  |
 | [Cloudburst](https://open.spotify.com/track/7tvV4pQbpWPcOaeZ0WNAag) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Cloudburst](https://open.spotify.com/album/0nNb04hpA17KvoJC3Rx2Ud) | 3:26 | 2023-08-17 |  |

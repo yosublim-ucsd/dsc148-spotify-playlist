@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 133240,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1NSGTSP27TtNSloJeax16H"
@@ -1908,6 +1908,24 @@
       "duration_ms": 136185,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/20WM9L3FvTpQdJudUgxRXk"
+    },
+    {
+      "album": {
+        "name": "The Best of Trojan Soul Reggae Vol. 1",
+        "url": "https://open.spotify.com/album/6jJE7KQgDyhxcdRwRxZ9yh"
+      },
+      "artists": [
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136253,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1JiNTK14u3BdgySsRQidwN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Get your kids in the holiday spirit with this collection of Hanukkah tracks!
 
-45 songs - 2 hr 5 min
+46 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Hanukkah Dance](https://open.spotify.com/track/0jgXTyAUSOLZh8JQb3wMGG) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj) | [Hanukkah+](https://open.spotify.com/album/75tzhQxgxrZkqfIb4fE5rT) | 1:54 | 2022-12-13 |  |
 | [Hanukkah Dance \- Live](https://open.spotify.com/track/2Fgf3Y0wQv8Wm43nSb3h3B) | [Nefesh Mountain](https://open.spotify.com/artist/4JpW8a54yD77lNQAyis8EL) | [Live From Levon Helm Studios: A Hanukkah Holiday Concert](https://open.spotify.com/album/1J2KDHB5lLW91g6WJu8AG6) | 4:30 | 2022-12-13 |  |
 | [Hanukkah Medley](https://open.spotify.com/track/6dwS0GqDNVYJxzLXdR8Oz1) | [Julia Lester](https://open.spotify.com/artist/5aTwY2xyrJy4cS1jlFg1oG) | [High School Musical: The Musical: The Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj) | 2:16 | 2022-12-13 |  |
+| [Hanukkah O Hanukkah](https://open.spotify.com/track/0d728Q8nTHHcbXWzVwX5Bj) | [Bossy Bear](https://open.spotify.com/artist/5BgDoOVyINKDIB1B72F0YJ) | [Bestest Season 1 Songs](https://open.spotify.com/album/2QvlweqDUXJUxGHWNfP04X) | 0:42 | 2023-11-06 |  |
 | [Hanukkah Oh Hanukkah \(feat\. Jules Brookes & Y\-Love\)](https://open.spotify.com/track/4SL6vWiWrLj1jN89RajV9K) | [Erran Baron Cohen](https://open.spotify.com/artist/1CrSNBDckO546hf8QKPd1g), [Jules Brookes](https://open.spotify.com/artist/3gz8x3xWuGQEIqCOxBBgqF), [Y\-Love](https://open.spotify.com/artist/36IXY5wweg2GuvQpv25D2X) | [Erran Baron Cohen Presents: Songs In The Key Of Hanukkah](https://open.spotify.com/album/63HS1rHzEtJhvvxdSTwRgK) | 4:00 | 2022-12-13 |  |
 | [Hanukkah's Flame \- Live](https://open.spotify.com/track/5m32Rw3QjSjk118qJGJDh6) | [Nefesh Mountain](https://open.spotify.com/artist/4JpW8a54yD77lNQAyis8EL) | [Live From Levon Helm Studios: A Hanukkah Holiday Concert](https://open.spotify.com/album/1J2KDHB5lLW91g6WJu8AG6) | 3:50 | 2022-12-13 |  |
 | [Hanukkah, Oh Hanukkah](https://open.spotify.com/track/58r8dYXFBGvbw0rZ06gcnT) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album Vol\. 3](https://open.spotify.com/album/5msQHy2ZV5LjOdeqbYZl9y) | 2:08 | 2022-12-13 |  |

@@ -46,7 +46,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 226440,
       "name": "Addictive",
       "url": "https://open.spotify.com/track/36jSIOSE72neBbKntCthqw"
@@ -64,7 +64,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 232666,
       "name": "Ante Up (Robbin Hoodz Theory)",
       "url": "https://open.spotify.com/track/55MzgLFlIz9I5s5CwAWXeE"
@@ -152,10 +152,32 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 214910,
       "name": "Be Faithful",
       "url": "https://open.spotify.com/track/2jGUAB6hKlzK0pZmZpQ02g"
+    },
+    {
+      "album": {
+        "name": "H.F.M. 2 (Hunger For More 2)",
+        "url": "https://open.spotify.com/album/0h8gzYOChHoUjn3xt4mDsS"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208386,
+      "name": "Beamer, Benz, Or Bentley",
+      "url": "https://open.spotify.com/track/0cNJ3huiV99wvUN1tmQLTL"
     },
     {
       "album": {
@@ -200,7 +222,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 221426,
       "name": "Best Of Me, Part 2",
       "url": "https://open.spotify.com/track/1faidjbURmhACFeCjhxSu9"
@@ -222,7 +244,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 250173,
       "name": "Between Me & You",
       "url": "https://open.spotify.com/track/4xwRtK6tfMp4yZwcDvY0gT"
@@ -244,7 +266,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 283066,
       "name": "Big Pimpin'",
       "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
@@ -302,7 +324,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 175893,
       "name": "Bounce With Me (feat. Xscape) - Edited Album Version",
       "url": "https://open.spotify.com/track/5jZfGxZDayFA1HzYmyOG3a"
@@ -324,10 +346,32 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 223266,
       "name": "Bow Wow (That's My Name) (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/5nwzfbcg8RPyZB72WwQBWA"
+    },
+    {
+      "album": {
+        "name": "Welcome Back",
+        "url": "https://open.spotify.com/album/3Mb97a181fWxWHlGQGHTPO"
+      },
+      "artists": [
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "Breathe, Stretch, Shake (feat. P. Diddy)",
+      "url": "https://open.spotify.com/track/5qjESLw4uzDNvG2V5QIoaS"
     },
     {
       "album": {
@@ -382,7 +426,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 236826,
       "name": "Case Of The Ex (Whatcha Gonna Do)",
       "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
@@ -418,7 +462,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 287000,
       "name": "Country Grammar (Hot Shit)",
       "url": "https://open.spotify.com/track/3wMUvT6eIw2L5cZFG1yH9j"
@@ -498,7 +542,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 169986,
       "name": "Dat Sexy Body",
       "url": "https://open.spotify.com/track/3MA9vuvFgT11GTazSK5FQ0"
@@ -642,10 +686,28 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 360693,
       "name": "Drop (feat. Fatman Scoop)",
       "url": "https://open.spotify.com/track/5ra5c4NPCA4szK6hBbMs4u"
+    },
+    {
+      "album": {
+        "name": "Country Grammar",
+        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285906,
+      "name": "E.I.",
+      "url": "https://open.spotify.com/track/4bUfMNNmiCmPXVyWzIfKeZ"
     },
     {
       "album": {
@@ -864,7 +926,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 257893,
       "name": "Girls Dem Sugar",
       "url": "https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ"
@@ -915,6 +977,40 @@
     },
     {
       "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Tony Yayo",
+          "url": "https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va"
+        },
+        {
+          "name": "Young Buck",
+          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263786,
+      "name": "Hate It Or Love It - G-Unit Remix",
+      "url": "https://open.spotify.com/track/6TYPoBrn53njY2C0WwdmA1"
+    },
+    {
+      "album": {
         "name": "Mr Vegas: The Hits",
         "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
       },
@@ -926,7 +1022,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 211333,
       "name": "Heads High",
       "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
@@ -948,10 +1044,36 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 312626,
       "name": "Hit 'Em Up - Single Version",
       "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
+    },
+    {
+      "album": {
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
+      },
+      "artists": [
+        {
+          "name": "Chingy",
+          "url": "https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314400,
+      "name": "Holidae In",
+      "url": "https://open.spotify.com/track/0FmCLEHfINGqwlyzvklNqy"
     },
     {
       "album": {
@@ -970,7 +1092,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 232800,
       "name": "How Many Licks? (feat. Sisqo)",
       "url": "https://open.spotify.com/track/5jv3QxL0MFswzM1UJ2qQJM"
@@ -988,7 +1110,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 229826,
       "name": "Hypnotize - 2014 Remaster",
       "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
@@ -1050,7 +1172,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 178600,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT"
@@ -1068,7 +1190,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 193466,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/3deUegCTzY5SH15lFlTbUP"
@@ -1098,7 +1220,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 201813,
       "name": "Indian Flute (feat. Sebastian & Raje Shwari)",
       "url": "https://open.spotify.com/track/2Y28AeUQPTx6UqWJImdPTf"
@@ -1154,7 +1276,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 278200,
       "name": "It's All About the Benjamins (feat. The Notorious B.I.G., Lil' Kim & The Lox) - Remix",
       "url": "https://open.spotify.com/track/3GMR3hyv8BccozoebVMve3"
@@ -1224,7 +1346,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 230200,
       "name": "Jumpin', Jumpin'",
       "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
@@ -1264,7 +1386,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 280680,
       "name": "Let's Get Blown",
       "url": "https://open.spotify.com/track/0NdxbFFknA7kQ4E2zvJfey"
@@ -1290,7 +1412,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 249040,
       "name": "Let's Get Married (feat. Run) - ReMarqable Remix",
       "url": "https://open.spotify.com/track/18CODOzJ5DWzWh6kAeKiSC"
@@ -1312,6 +1434,28 @@
       "duration_ms": 261586,
       "name": "Lights, Camera, Action!",
       "url": "https://open.spotify.com/track/3ht12Pai0tVMB2VCLgkcMS"
+    },
+    {
+      "album": {
+        "name": "Mississippi: The Album",
+        "url": "https://open.spotify.com/album/6wTmI6YwP14KXnDC35VTT7"
+      },
+      "artists": [
+        {
+          "name": "David Banner",
+          "url": "https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO"
+        },
+        {
+          "name": "Lil' Flip",
+          "url": "https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254706,
+      "name": "Like A Pimp",
+      "url": "https://open.spotify.com/track/0DW5anNzTO7h0OlKqFsVQ6"
     },
     {
       "album": {
@@ -1370,7 +1514,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 275706,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
@@ -1396,7 +1540,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
@@ -1444,7 +1588,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 270493,
       "name": "Money, Power & Respect (feat. DMX & Lil' Kim)",
       "url": "https://open.spotify.com/track/3MbBa8FMMgp9D39s7Cozl9"
@@ -1583,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "The Notorious K.I.M.",
+        "url": "https://open.spotify.com/album/1C3I7LjJaNnY5VQE59iWtb"
+      },
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251200,
+      "name": "No Matter What They Say",
+      "url": "https://open.spotify.com/track/5bH5uk3A1Y9Aky75Akkdvg"
+    },
+    {
+      "album": {
         "name": "God's Favorite",
         "url": "https://open.spotify.com/album/4Gb8Xs87uYNhBwh5wfG7qt"
       },
@@ -1620,7 +1782,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 191600,
       "name": "Notorious B.I.G. (feat. Lil' Kim & Puff Daddy) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1YQ7BbJR8HqAolfprvxGKu"
@@ -1690,7 +1852,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 279293,
       "name": "Ol' Time Killin'",
       "url": "https://open.spotify.com/track/43X3PKoTrWnlwDflqY9fVt"
@@ -1778,7 +1940,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 237800,
       "name": "Oops (Oh My) [feat. Missy Elliott]",
       "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
@@ -1880,7 +2042,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 262826,
       "name": "Put It On Me",
       "url": "https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU"
@@ -1938,7 +2100,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 217840,
       "name": "React (feat. Redman)",
       "url": "https://open.spotify.com/track/4psCG36I4hy1h3qgG6o03m"
@@ -1960,7 +2122,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 291781,
       "name": "Ride Wit Me",
       "url": "https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ"
@@ -1982,10 +2144,32 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 263186,
       "name": "Roc The Mic",
       "url": "https://open.spotify.com/track/5WHAySW7mtAKHsaUh9N1Rr"
+    },
+    {
+      "album": {
+        "name": "Trap Muzik",
+        "url": "https://open.spotify.com/album/1SloKtrz48mjFA3QIDg7Vl"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "C. Harris",
+          "url": "https://open.spotify.com/artist/7ukrcAW5l9WWpB4vm7gP7C"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347506,
+      "name": "Rubber Band Man",
+      "url": "https://open.spotify.com/track/5Rkbnhwkb6oiqq1HQcXirN"
     },
     {
       "album": {
@@ -2008,6 +2192,32 @@
       "duration_ms": 256972,
       "name": "Shake Ya Ass (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/1jRzdY7oUBOhrylNtiMtBD"
+    },
+    {
+      "album": {
+        "name": "Murphy's Law",
+        "url": "https://open.spotify.com/album/5T75pyMyLZWKvDl6jFdi0F"
+      },
+      "artists": [
+        {
+          "name": "Murphy Lee",
+          "url": "https://open.spotify.com/artist/07W0YfsvHM7Mw7Bq48Mb0A"
+        },
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295173,
+      "name": "Shake Ya Tailfeather - Radio Edit",
+      "url": "https://open.spotify.com/track/4TJduXYW1Pg96EDNnfiwxJ"
     },
     {
       "album": {
@@ -2052,7 +2262,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 274066,
       "name": "Special Delivery (feat. Ghostface Killah, Keith Murray & Craig Mack) - Remix; 2016 Remaster",
       "url": "https://open.spotify.com/track/5VgAcnEBiULjqvW7j7x05i"
@@ -2099,6 +2309,32 @@
     },
     {
       "album": {
+        "name": "Who Is Mike Jones?",
+        "url": "https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2"
+      },
+      "artists": [
+        {
+          "name": "Mike Jones",
+          "url": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Slim Thug",
+          "url": "https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271053,
+      "name": "Still Tippin' (feat. Slim Thug and Paul Wall)",
+      "url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la"
+    },
+    {
+      "album": {
         "name": "Based On a True Story",
         "url": "https://open.spotify.com/album/0mv3BgP9EYlWDvlvCtbeiJ"
       },
@@ -2114,7 +2350,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 265587,
       "name": "Superwoman Pt. II - Rap Version Remix",
       "url": "https://open.spotify.com/track/6KCOOKsDFfGEiwWZZlEI6O"
@@ -2150,7 +2386,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 234093,
       "name": "The Jump Off",
       "url": "https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6"
@@ -2194,7 +2430,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 234000,
       "name": "The Way You Move (feat. Sleepy Brown)",
       "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
@@ -2230,7 +2466,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 214160,
       "name": "Tight Up Skirt",
       "url": "https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9"
@@ -2248,7 +2484,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 259440,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
@@ -2266,7 +2502,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 285466,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/4FJo9f5wGYnRD6VFjwVGcB"
@@ -2284,7 +2520,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 269400,
       "name": "U Don't Have to Call",
       "url": "https://open.spotify.com/track/5PCJldueshnwqQVjS16543"
@@ -2306,7 +2542,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 243733,
       "name": "U Know What's Up (feat. Lisa \"Left Eye\" Lopes)",
       "url": "https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2"
@@ -2346,7 +2582,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 227266,
       "name": "Wait a Minute (feat. Lil' Kim)",
       "url": "https://open.spotify.com/track/7xwFOVYwBuLvFquLyfooRp"
@@ -2398,7 +2634,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 221160,
       "name": "What'chu Like (feat. Tyrese)",
       "url": "https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt"
@@ -2588,7 +2824,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 287906,
       "name": "You Owe Me",
       "url": "https://open.spotify.com/track/2VqjCBJ4AxpDTrNRKhL0Pw"
@@ -2606,7 +2842,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 206400,
       "name": "Young'n",
       "url": "https://open.spotify.com/track/0jdkdbnRwNVHJQ6zL84pQs"

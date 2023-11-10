@@ -4,7 +4,7 @@
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: MGMT
 
-1,463 songs - 3 day 6 hr 17 min
+1,464 songs - 3 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,7 +615,8 @@
 | [Human \(feat\. Barns Courtney\)](https://open.spotify.com/track/2xDsoMDYyAiOns2ntt1bRE) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Atlas Underground Flood](https://open.spotify.com/album/75eiKDHKEavsp6yerrNGge) | 3:04 | 2021-11-26 | 2022-03-26 |
 | [hurt less](https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [overkill](https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH) | 2:45 | 2021-11-26 | 2022-02-26 |
 | [Hurt You](https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Hurt You](https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t) | 3:55 | 2022-10-07 | 2023-04-01 |
-| [HUSH](https://open.spotify.com/track/4BXaVV3EPztEtb4hcF9CGS) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [HUSH](https://open.spotify.com/album/6FrcYbl99S3e5xlvHCQj7R) | 3:18 | 2023-11-03 |  |
+| [HUSH](https://open.spotify.com/track/4BXaVV3EPztEtb4hcF9CGS) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [HUSH](https://open.spotify.com/album/6FrcYbl99S3e5xlvHCQj7R) | 3:18 | 2023-11-03 | 2023-11-10 |
+| [HUSH](https://open.spotify.com/track/7aB5uUd9VUpBoHY4XCxXBw) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 3:18 | 2023-11-03 |  |
 | [Hybrid](https://open.spotify.com/track/1KcSoLTbW95AiUj8RLcPxr) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [God, I Hate This Place](https://open.spotify.com/album/506D0KoP1j3ttcJACqWd3T) | 2:33 | 2023-04-28 | 2023-06-24 |
 | [Hyper Trophy](https://open.spotify.com/track/3kHSUwpxqdXaKONV3ECNL8) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Hyper Trophy](https://open.spotify.com/album/0Pt5wGMaHSrmNSjzHVag6e) | 2:55 | 2023-08-25 | 2023-10-07 |
 | [Hypnotic](https://open.spotify.com/track/5yarVg19cwa1wXPWF7VkXh) | [Dead Sara](https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j) | [Hypnotic](https://open.spotify.com/album/0G61eybChcoCvfNVSJW7jI) | 2:58 | 2021-11-26 | 2022-02-12 |

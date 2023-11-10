@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "L.I.T (Lost In Translation)",
+        "url": "https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186586,
+      "name": "40 Days",
+      "url": "https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v"
+    },
+    {
+      "album": {
         "name": "4LYFE",
         "url": "https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m"
       },
@@ -766,7 +788,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 166736,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/0brRHW86zUOI6LI0ONCuT5"
@@ -1150,7 +1172,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 157009,
       "name": "Catch Up!",
       "url": "https://open.spotify.com/track/6Ckhwztz0nfuS4XIZNpLeC"
@@ -3752,7 +3774,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 171624,
       "name": "Paper",
       "url": "https://open.spotify.com/track/5iDL1aQUFK6FKZwe6DZGgB"
@@ -5749,6 +5771,28 @@
     },
     {
       "album": {
+        "name": "WASTELINE",
+        "url": "https://open.spotify.com/album/0VzLyC8Er2QnVwOyGF5ZLX"
+      },
+      "artists": [
+        {
+          "name": "Fasina",
+          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164680,
+      "name": "WASTELINE",
+      "url": "https://open.spotify.com/track/6zwNCNnzNfhC5XEhnG9F7Z"
+    },
+    {
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/1BiQOEEHtZyvkY8gpjbxml"
       },
@@ -5888,6 +5932,28 @@
       "duration_ms": 195426,
       "name": "What's Poppin",
       "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
+    },
+    {
+      "album": {
+        "name": "BIG TIME (Deluxe)",
+        "url": "https://open.spotify.com/album/6od58yWAflemDXwGLtzUWd"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152941,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/5p02f6vHykfCMMY6XRb21n"
     },
     {
       "album": {

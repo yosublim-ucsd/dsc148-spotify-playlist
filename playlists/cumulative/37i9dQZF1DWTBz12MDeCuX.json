@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: badchieff",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Cleffy",
   "name": "me right now",
   "tracks": [
     {
@@ -20,6 +20,28 @@
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "album": {
+        "name": "(von hier bis) Tokio",
+        "url": "https://open.spotify.com/album/6WCeaUL3BzjGgNNd9mxEvE"
+      },
+      "artists": [
+        {
+          "name": "prodbypengg",
+          "url": "https://open.spotify.com/artist/5BMnIDhlF7NbpuiNgkyD9b"
+        },
+        {
+          "name": "Eli Preiss",
+          "url": "https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164650,
+      "name": "(von hier bis) Tokio",
+      "url": "https://open.spotify.com/track/0NAkVz4iCHuMO7SDV0JFXM"
     },
     {
       "album": {
@@ -104,6 +126,28 @@
       "duration_ms": 202013,
       "name": "10 Jahre",
       "url": "https://open.spotify.com/track/3M8LYTPNzU3Hpa8VtYp1SA"
+    },
+    {
+      "album": {
+        "name": "10/10 (KXXMA Remix)",
+        "url": "https://open.spotify.com/album/54S1UWB1QeLUDVsQRWUoia"
+      },
+      "artists": [
+        {
+          "name": "JONA",
+          "url": "https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6"
+        },
+        {
+          "name": "KXXMA",
+          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129187,
+      "name": "10/10 (KXXMA Remix)",
+      "url": "https://open.spotify.com/track/67GnBreATPasMxoz2l3MNI"
     },
     {
       "album": {
@@ -952,6 +996,24 @@
       "duration_ms": 132000,
       "name": "addicted to you tekkno",
       "url": "https://open.spotify.com/track/2UsioXuoS0jpSFsB6NM6il"
+    },
+    {
+      "album": {
+        "name": "ADHD",
+        "url": "https://open.spotify.com/album/1R8E8cwhWD2NI1Y04F6rQu"
+      },
+      "artists": [
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237120,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/6YYjOdTC6r8woS303ScscC"
     },
     {
       "album": {
@@ -2976,7 +3038,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 162272,
       "name": "BEYCHLKIEN",
       "url": "https://open.spotify.com/track/3CoJdCUU7wREaZ9o24NjOU"
@@ -3252,7 +3314,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 147692,
       "name": "BLa*_*",
       "url": "https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb"
@@ -4248,7 +4310,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 205483,
       "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
@@ -4858,7 +4920,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 140313,
       "name": "Coco Taxi",
       "url": "https://open.spotify.com/track/5yAMIItSFVKOFEwkPjqFlf"
@@ -4876,7 +4938,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 153600,
       "name": "Cold Princess",
       "url": "https://open.spotify.com/track/4Ww41FseIYOCL0qP6MIGG5"
@@ -5605,6 +5667,28 @@
     },
     {
       "album": {
+        "name": "Denkmal 2.0 (Replay Okay Edit)",
+        "url": "https://open.spotify.com/album/2wMqZxrWMXG1QLwWnUrOFa"
+      },
+      "artists": [
+        {
+          "name": "Wir sind Helden",
+          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
+        },
+        {
+          "name": "Replay Okay",
+          "url": "https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124186,
+      "name": "Denkmal 2.0 - Replay Okay Edit",
+      "url": "https://open.spotify.com/track/7h02U5HuG4u2AdAvCuKHEn"
+    },
+    {
+      "album": {
         "name": "Der neue Stil meiner Generation",
         "url": "https://open.spotify.com/album/5fetQgc4TVEdRGWmQfGjRi"
       },
@@ -6166,7 +6250,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 206500,
       "name": "du bist mein type (maria 24) (feat. Miss Platnum)",
       "url": "https://open.spotify.com/track/5TKyo47hZby9FAGUt9OOiM"
@@ -7621,6 +7705,28 @@
     },
     {
       "album": {
+        "name": "fault in the stars",
+        "url": "https://open.spotify.com/album/1iOQat5AF7YwqkVBmHdcNt"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "fault in the stars",
+      "url": "https://open.spotify.com/track/585DJiJ7LPSNBSUEE4TxNo"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -7640,6 +7746,32 @@
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "album": {
+        "name": "Feel The Same",
+        "url": "https://open.spotify.com/album/3wdNs0RULjv1SX7Y6IoAkT"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Carl :Cries",
+          "url": "https://open.spotify.com/artist/6B1HBD8SBFMKAimyjUFesP"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140740,
+      "name": "Feel The Same",
+      "url": "https://open.spotify.com/track/7deqkk1cdCZV9v548NgJ6d"
     },
     {
       "album": {
@@ -10708,7 +10840,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 136360,
       "name": "H\u00e4sslich",
       "url": "https://open.spotify.com/track/3an1JVi8OsE0aG6dMS4Pes"
@@ -13133,6 +13265,24 @@
     },
     {
       "album": {
+        "name": "kontrollverlust",
+        "url": "https://open.spotify.com/album/1XyT1LjPfmbbi6GGM9feNM"
+      },
+      "artists": [
+        {
+          "name": "Edwin Rosen",
+          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "kontrollverlust",
+      "url": "https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs"
+    },
+    {
+      "album": {
         "name": "Kosmos im Chaos",
         "url": "https://open.spotify.com/album/2a8AOYd7eXxpyf7ywXxmkK"
       },
@@ -13569,6 +13719,32 @@
     },
     {
       "album": {
+        "name": "Leicht Mit Dir (Remix)",
+        "url": "https://open.spotify.com/album/1fPpIsi4nTPcNkky2K93O5"
+      },
+      "artists": [
+        {
+          "name": "Haiyti",
+          "url": "https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90"
+        },
+        {
+          "name": "hinoon",
+          "url": "https://open.spotify.com/artist/3vFuSNI1V0PKPsCLDrel1C"
+        },
+        {
+          "name": "Lazer Lucy",
+          "url": "https://open.spotify.com/artist/6lD7zCL4EyvqWqq6kWuMvz"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170151,
+      "name": "Leicht Mit Dir - Remix",
+      "url": "https://open.spotify.com/track/1FEkR0lWFr6pd1H4dhLM64"
+    },
+    {
+      "album": {
         "name": "leichter//k\u00e4lter",
         "url": "https://open.spotify.com/album/1Q3Vo8cPBMEYDnCm5982vC"
       },
@@ -13762,7 +13938,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 135050,
       "name": "Liebe Gr\u00fc\u00dfe",
       "url": "https://open.spotify.com/track/2490ZIWKhabJ0or3Dor2xC"
@@ -13784,6 +13960,24 @@
       "duration_ms": 126131,
       "name": "Liebeslieder",
       "url": "https://open.spotify.com/track/5fyDNSiWhZZdyFLanzRS6d"
+    },
+    {
+      "album": {
+        "name": "life gets hard",
+        "url": "https://open.spotify.com/album/64NXiz0recaVJwJl0Bzabp"
+      },
+      "artists": [
+        {
+          "name": "iilliaa",
+          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125994,
+      "name": "life gets hard",
+      "url": "https://open.spotify.com/track/0LoPQfWaoGGnu1tIA6FScX"
     },
     {
       "album": {
@@ -15045,6 +15239,24 @@
     },
     {
       "album": {
+        "name": "Clean Sheets, Dirty Walls",
+        "url": "https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM"
+      },
+      "artists": [
+        {
+          "name": "Cleffy",
+          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "Meet you at the Graveyard",
+      "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
+    },
+    {
+      "album": {
         "name": "Mehringdamm Romance",
         "url": "https://open.spotify.com/album/2Sl3KJUEtmlHS51bOyd0H4"
       },
@@ -15690,6 +15902,32 @@
       "duration_ms": 194782,
       "name": "Montag",
       "url": "https://open.spotify.com/track/1aWcCv2d71eilvrUDNPwJr"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM - PR FUNK",
+        "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61673,
+      "name": "MONTAGEM - PR FUNK",
+      "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
     },
     {
       "album": {
@@ -16558,6 +16796,28 @@
       "duration_ms": 120839,
       "name": "Next Up - S4-E2, Pt. 1",
       "url": "https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn"
+    },
+    {
+      "album": {
+        "name": "Heaven knows",
+        "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162413,
+      "name": "Nice to meet you (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR"
     },
     {
       "album": {
@@ -18465,6 +18725,32 @@
     },
     {
       "album": {
+        "name": "junge, sieh zu dass du mal klarkommst",
+        "url": "https://open.spotify.com/album/1kFuJSuM8q118geJMg1cgD"
+      },
+      "artists": [
+        {
+          "name": "beslik",
+          "url": "https://open.spotify.com/artist/0zw17mk0oEnrv4STjNgxsr"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
+        },
+        {
+          "name": "SHOKI",
+          "url": "https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146490,
+      "name": "pferdeenergie",
+      "url": "https://open.spotify.com/track/2gzuC19W2r00KjfVCYrlG0"
+    },
+    {
+      "album": {
         "name": "Phase",
         "url": "https://open.spotify.com/album/4iU12aijNY0TwwoYvCdqDn"
       },
@@ -19085,6 +19371,28 @@
     },
     {
       "album": {
+        "name": "Psycho Dreams (Sped Up)",
+        "url": "https://open.spotify.com/album/37mwjcyGBEk4D3BGL0MKfO"
+      },
+      "artists": [
+        {
+          "name": "Kill Eva",
+          "url": "https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb"
+        },
+        {
+          "name": "ENCASSATOR",
+          "url": "https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "Psycho Dreams (Sped Up)",
+      "url": "https://open.spotify.com/track/6yt46G7lWn0oC2FEZZDsi6"
+    },
+    {
+      "album": {
         "name": "Pueblo",
         "url": "https://open.spotify.com/album/1qBCVCsaRPOgqFvvpkvEGL"
       },
@@ -19300,7 +19608,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 148074,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR"
@@ -19398,7 +19706,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 168994,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/5rmYK9fuGCudePoqMlZeA3"
@@ -19534,7 +19842,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 143732,
       "name": "Ringe im Stripclub",
       "url": "https://open.spotify.com/track/3adQZ8bbU4We77XddyCV0v"
@@ -22433,6 +22741,24 @@
     },
     {
       "album": {
+        "name": "Story f\u00fcr dich",
+        "url": "https://open.spotify.com/album/4kkWnU5gf9mIKX9Kae33Mu"
+      },
+      "artists": [
+        {
+          "name": "Romero",
+          "url": "https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Story f\u00fcr dich",
+      "url": "https://open.spotify.com/track/7F2RuqJDm1YqQsW7s9atsi"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
@@ -23750,7 +24076,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 174418,
       "name": "tisch f\u00fcr zwei",
       "url": "https://open.spotify.com/track/3YcKmJbc2OvL9RN2c6LJal"
@@ -24542,7 +24868,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 198495,
       "name": "Unendlichkeit",
       "url": "https://open.spotify.com/track/5oUaUa8t6ld88QUCyYFb2H"
@@ -24786,7 +25112,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 134059,
       "name": "Ups & Downs",
       "url": "https://open.spotify.com/track/0QAYEszX8mmKEiQDahaVHY"
@@ -26727,6 +27053,32 @@
     },
     {
       "album": {
+        "name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
+        "url": "https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199547,
+      "name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
+      "url": "https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck"
+    },
+    {
+      "album": {
         "name": "Nothing but the Beat 2.0",
         "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
       },
@@ -27162,7 +27514,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 188333,
       "name": "WORTH IT (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
@@ -27412,7 +27764,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 234309,
       "name": "zeit zu gehen",
       "url": "https://open.spotify.com/track/1kcOpvFgvMrjZqYyBNrXRJ"

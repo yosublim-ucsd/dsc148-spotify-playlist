@@ -4,7 +4,7 @@
 
 > All juice
 
-157 songs - 10 hr 7 min
+160 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 | 2023-06-08 |  |
 | [Freak Me Now \(with Róisín Murphy\) \- Bklava Remix](https://open.spotify.com/track/7I0cR6u9gjN7Ua5Q8RVMAO) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Freak Me Now \(with Róisín Murphy\) \[Bklava Remix\]](https://open.spotify.com/album/05v6YXgPWPRIJv884rYtfQ) | 3:01 | 2023-08-24 |  |
 | [Freedom \(In Ur Mind\)](https://open.spotify.com/track/1eUW1kuvyCq6oFUXNLIumU) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Freedom \(In Ur Mind\)](https://open.spotify.com/album/3GRl72NOdFsZt7N55tGeS8) | 2:54 | 2023-10-05 |  |
+| [Freedom \(In Ur Mind\) \[MAFRO Remix\]](https://open.spotify.com/track/6Re6rF802AnLKQd4ZuTNDG) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Freedom \(In Ur Mind\) \(MAFRO Remix\)](https://open.spotify.com/album/34XzE2bbp2fm7HiPDrGHmi) | 3:46 | 2023-11-09 |  |
 | [Freedom \- Sluggy Beats Remix](https://open.spotify.com/track/662qmoYrzemTWWrssVBom8) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Sluggy Beats](https://open.spotify.com/artist/44pEG0qie1KQHFr1VLUXVI) | [Freedom The Remixes](https://open.spotify.com/album/5SKnuvPKbrRDlqoLAtAlSO) | 3:43 | 2023-08-10 |  |
 | [Fussy](https://open.spotify.com/track/5Z7SapaZCnLexMPTR3OFbS) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Fussy](https://open.spotify.com/album/6uK1DkQIXyvnQaataGOUAJ) | 2:54 | 2023-10-26 |  |
 | [Für Nimmer](https://open.spotify.com/track/6CX4j7F3kjIWzwgNUhIril) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Alts\)](https://open.spotify.com/album/713fivhX2Wyws2TqHAJ828) | 3:19 | 2023-08-17 |  |
@@ -65,6 +66,7 @@
 | [Gift](https://open.spotify.com/track/66UcoWnZPHQUJwpRRywYFm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [TELESHOP](https://open.spotify.com/artist/0Cr5IUi0VbocOLWgz8wiXx) | [Gift EP](https://open.spotify.com/album/58X3RQRsXbgnXYf3rbj8TW) | 3:55 | 2023-06-08 |  |
 | [Goodums \- Sammy Virji Remix](https://open.spotify.com/track/0SLedTMdKihqLsR6CGPAfD) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Goodums \(Sammy Virji Remix\)](https://open.spotify.com/album/2EpS6fVyBu0gxLlOYdytSN) | 3:04 | 2023-10-19 |  |
 | [Heartbreak Repair System](https://open.spotify.com/track/2Vl7tpgcrVNT2FlAFs9oPm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Heartbreak Repair System](https://open.spotify.com/album/2kuCtLukAviIdRfqsYUfoV) | 2:50 | 2023-09-14 |  |
+| [Higher Than Ever Before \- ATRIP Remix](https://open.spotify.com/track/1sWXjZ8rxRz51xuzPMlBhf) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Higher Than Ever Before \(ATRIP Remix\)](https://open.spotify.com/album/0jKKn6llm1Ty32tDrfnHE5) | 3:19 | 2023-11-09 |  |
 | [How I Fell in Love](https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [How I Fell in Love](https://open.spotify.com/album/461FLD6OW9OextuRH70VKF) | 1:52 | 2023-06-22 |  |
 | [I Wanna Know \(feat\. RoRo\)](https://open.spotify.com/track/2YYrpLtBKH34wDAv3Dgjyi) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [I Wanna Know \(feat\. RoRo\)](https://open.spotify.com/album/3RF3ZgwycBWHoxYfJyvplO) | 2:03 | 2023-08-03 |  |
 | [I Want You](https://open.spotify.com/track/4EJsOlrrfO2dA9Hy3rwNvn) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [I Want You](https://open.spotify.com/album/7sOHb747Acn8nM3P56vdOn) | 2:55 | 2023-09-21 |  |
@@ -157,6 +159,7 @@
 | [Waiting for a Night](https://open.spotify.com/track/3nHLqAfJ2wWaBVsd8GdiAS) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Waiting for a Night](https://open.spotify.com/album/4ctxW7vnWMIrRmPxLBZp5o) | 3:00 | 2023-08-10 |  |
 | [Waiting...](https://open.spotify.com/track/2RvaQGoRf0aGCrzzITBqpE) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Waiting...](https://open.spotify.com/album/5Tw9rBaxeaAOT5AYisGu9o) | 3:41 | 2023-06-22 |  |
 | [Wax](https://open.spotify.com/track/180haH4wvnFeoccfbPCY8w) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Wax](https://open.spotify.com/album/2b1onoouCLKHNpESqAUGFW) | 4:18 | 2023-06-08 |  |
+| [Wayside](https://open.spotify.com/track/2dKtE3u0ezpNMY8XbxSy1H) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [4x4](https://open.spotify.com/album/0MUkKGxxopDodLE32qnpjr) | 2:15 | 2023-11-09 |  |
 | [What If \- Sensu Remix](https://open.spotify.com/track/4xs4C0GiT3rx33Gz5YgCIl) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [What If \(Sensu Remix\)](https://open.spotify.com/album/684SXpALJQphwjeGdM00ol) | 3:56 | 2023-07-06 | 2023-08-19 |
 | [What If \- Sensu Remix](https://open.spotify.com/track/6ORweSW1tcO9EZi4SVyLCj) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [TANZPARTEI \(Alts\)](https://open.spotify.com/album/713fivhX2Wyws2TqHAJ828) | 3:56 | 2023-08-17 |  |
 | [When I'm With You feat\. Jasper Tygner](https://open.spotify.com/track/5Pw4s0mZgN1gzBrme5kdsB) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Beautiful Strangers](https://open.spotify.com/album/5dtvpvsFIOwgBB85M3hxKR) | 6:22 | 2023-06-15 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 65479,
+  "num_followers": 65510,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Vamos Perdiendo el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn"
-      },
-      "artists": [
-        {
-          "name": "Tungas",
-          "url": "https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM"
-        }
-      ],
-      "duration_ms": 241532,
-      "name": "Dicen Que Estoy Muerto",
-      "url": "https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "120 Km/Hr.",
         "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 221066,
       "name": "Vamos Otra Vez",
       "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Vamos Perdiendo el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn"
+      },
+      "artists": [
+        {
+          "name": "Tungas",
+          "url": "https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM"
+        }
+      ],
+      "duration_ms": 241532,
+      "name": "Dicen Que Estoy Muerto",
+      "url": "https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -419,22 +419,6 @@
       "duration_ms": 213306,
       "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
       "url": "https://open.spotify.com/track/4gXv8ukCY5oIpzVMMfSFAi"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
-        "name": "Ella Miente",
-        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
-      },
-      "artists": [
-        {
-          "name": "Helian Evans",
-          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
-        }
-      ],
-      "duration_ms": 139700,
-      "name": "Ella Miente",
-      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -483,6 +467,22 @@
       "duration_ms": 224680,
       "name": "Desamorados",
       "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Ella Miente",
+        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
+      },
+      "artists": [
+        {
+          "name": "Helian Evans",
+          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
+        }
+      ],
+      "duration_ms": 139700,
+      "name": "Ella Miente",
+      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Mejores Tiempos",
-        "url": "https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE"
-      },
-      "artists": [
-        {
-          "name": "Say Ocean",
-          "url": "https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9"
-        }
-      ],
-      "duration_ms": 252782,
-      "name": "Tennessecito",
-      "url": "https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Nadie Me Entiende",
         "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 180000,
       "name": "Nadie Me Entiende",
       "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Mejores Tiempos",
+        "url": "https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE"
+      },
+      "artists": [
+        {
+          "name": "Say Ocean",
+          "url": "https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9"
+        }
+      ],
+      "duration_ms": 252782,
+      "name": "Tennessecito",
+      "url": "https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -703,22 +703,18 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Autodestrucci\u00f3n",
-        "url": "https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR"
+        "name": "Ciencia Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/1wzWJCTRw6p6vSTnsQIQtG"
       },
       "artists": [
         {
           "name": "Buen Viaje",
           "url": "https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ"
-        },
-        {
-          "name": "Fear Allison",
-          "url": "https://open.spotify.com/artist/75t1ar10ekAij353mysCMK"
         }
       ],
-      "duration_ms": 234437,
-      "name": "Conversaciones Con Mi Almohada",
-      "url": "https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P"
+      "duration_ms": 224735,
+      "name": "Ciencia Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/4G8wj2dAQxmJMXuNHsEKyf"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -791,22 +787,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Lugar Especial",
-        "url": "https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT"
-      },
-      "artists": [
-        {
-          "name": "Finde",
-          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
-        }
-      ],
-      "duration_ms": 204168,
-      "name": "Lugar Especial",
-      "url": "https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Dualidad",
         "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
       },
@@ -819,6 +799,22 @@
       "duration_ms": 223046,
       "name": "Dualidad",
       "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Lugar Especial",
+        "url": "https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT"
+      },
+      "artists": [
+        {
+          "name": "Finde",
+          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
+        }
+      ],
+      "duration_ms": 204168,
+      "name": "Lugar Especial",
+      "url": "https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s"
     },
     {
       "added_at": "2023-10-27 21:57:42",

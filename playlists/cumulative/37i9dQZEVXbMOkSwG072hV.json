@@ -12982,7 +12982,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 304106,
       "name": "evermore (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb"
@@ -14984,7 +14984,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 203520,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/5BLShRvEy6OQNXzkawWLvj"
@@ -21006,10 +21006,36 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 161304,
       "name": "MEGA FUNK LOST",
       "url": "https://open.spotify.com/track/4kF6c7oMaNnkTlVTPvpipy"
+    },
+    {
+      "album": {
+        "name": "Mega Funk Lost",
+        "url": "https://open.spotify.com/album/7z1fRz5wZLxWpxmsFRWa3A"
+      },
+      "artists": [
+        {
+          "name": "DJ Maninho",
+          "url": "https://open.spotify.com/artist/4XZR4NawJ2XBNzaINpqrI5"
+        },
+        {
+          "name": "Dj Dudu",
+          "url": "https://open.spotify.com/artist/55s1nOqpHGET1gHUReBJZh"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161304,
+      "name": "Mega Funk Lost",
+      "url": "https://open.spotify.com/track/1dNaW9Zy3lSgwylHwR75Ro"
     },
     {
       "album": {
@@ -24260,7 +24286,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 536066,
       "name": "November Rain",
       "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
@@ -33858,7 +33884,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 466744,
       "name": "Tchau Obrigado 2",
       "url": "https://open.spotify.com/track/1rlwNQVWtrM96ufHPHCwLG"
@@ -37387,6 +37413,24 @@
     },
     {
       "album": {
+        "name": "Joelma",
+        "url": "https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo"
+      },
+      "artists": [
+        {
+          "name": "Joelma",
+          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "Voando Pro Par\u00e1",
+      "url": "https://open.spotify.com/track/0rywmdqLgV4ebmnzPvSqmP"
+    },
+    {
+      "album": {
         "name": "Voc\u00ea Est\u00e1 Com Febre?",
         "url": "https://open.spotify.com/album/7l5juy0pUDeyF9sKXt8mkL"
       },
@@ -38832,7 +38876,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 215384,
       "name": "\u00c8 s\u00e9rio",
       "url": "https://open.spotify.com/track/4RfARBkhxR0t6GyfYkPHFM"

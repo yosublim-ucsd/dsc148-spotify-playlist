@@ -1761,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "Khushiyaadenu Naa",
+        "url": "https://open.spotify.com/album/05F0QUtC0lmAyt0ozTB5L3"
+      },
+      "artists": [
+        {
+          "name": "Sahana Hegde",
+          "url": "https://open.spotify.com/artist/6zFbnKp5WefatujgmaBGYm"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192010,
+      "name": "Khushiyaadenu Naa",
+      "url": "https://open.spotify.com/track/6F6P4st3J11p2vfNepvRRn"
+    },
+    {
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1RkCyQuBZqB9RbHUOouEJL"
       },

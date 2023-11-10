@@ -1,18 +1,18 @@
 {
   "description": "Apasi\u00f3nate con sus \u00e9xitos en espa\u00f1ol.",
-  "num_followers": 258761,
+  "num_followers": 258850,
   "original_name": "This Is Laura Pausini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjk1OWVlNGZlYmU4MjQ1MTRhYjU5NmRhMzJmNjllZmYzYmRiNjQx",
+  "snapshot_id": "MCxjNTgxYmZhNDg5MmJhN2IyNTYwNTY4NDBhOGQ5ODYwMGJiYzU4NTE0",
   "tracks": [
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2021-09-23 17:55:37",
       "album": {
-        "name": "Almas paralelas",
-        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
+        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
       },
       "artists": [
         {
@@ -20,249 +20,9 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 201293,
-      "name": "Cero",
-      "url": "https://open.spotify.com/track/0T3HDSk6LqhMND9mgHoBdb"
-    },
-    {
-      "added_at": "2023-03-10 06:00:00",
-      "album": {
-        "name": "Un buen inicio",
-        "url": "https://open.spotify.com/album/4oUnlll4PQn0sMA7z7alRB"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 190018,
-      "name": "Un buen inicio",
-      "url": "https://open.spotify.com/track/7wYqyJHvK9mwz4h8YK8MU5"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Durar",
-        "url": "https://open.spotify.com/album/5WGzrCnJgloOH4uau17Aug"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Durar",
-      "url": "https://open.spotify.com/track/4z0YuBEZ29pCut5HtLeQ9Z"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Almas paralelas",
-        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 219144,
-      "name": "Perdona si no es as\u00ed",
-      "url": "https://open.spotify.com/track/26J884mAuQgyANciA1JTI2"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Almas paralelas",
-        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 200498,
-      "name": "Qu\u00e9 es",
-      "url": "https://open.spotify.com/track/4GKGNCzRNLVyiImJ0kRXiN"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Almas paralelas",
-        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 209434,
-      "name": "Todas las veces",
-      "url": "https://open.spotify.com/track/1LzbWUNwGyup20mpcCkhEG"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Almas paralelas",
-        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 178545,
-      "name": "El primer paso en la luna",
-      "url": "https://open.spotify.com/track/2omBUI7JoHe7zEauJvn6Oj"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
-        "name": "Hogar natural",
-        "url": "https://open.spotify.com/album/2Tu4cs2fi49dDTKlQaWxEi"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 213326,
-      "name": "Hogar natural",
-      "url": "https://open.spotify.com/track/6ghYXPIPncuPb1VQWkSh2F"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Almas paralelas",
-        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "M\u00e1s que una idea",
-      "url": "https://open.spotify.com/track/2aEwX97ENXALKe6MzsymyI"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Almas paralelas",
-        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 185804,
-      "name": "Almas paralelas",
-      "url": "https://open.spotify.com/track/4MwKtN8gWGqrVMtOjZEGxT"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Almas paralelas",
-        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Pero",
-      "url": "https://open.spotify.com/track/05gyYNhI8lUtyFxaoQDZRd"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Almas paralelas",
-        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/2izgZtTWV6x0gXUpq047gj"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Almas paralelas",
-        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 211550,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/1mH6dAaWJzrmoqpSs1MjEK"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Almas paralelas",
-        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 179861,
-      "name": "Vale la pena",
-      "url": "https://open.spotify.com/track/5PbOX7sRkGZBRIRYyisto0"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Almas paralelas",
-        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 199125,
-      "name": "M\u00e1s all\u00e1 de la superficie",
-      "url": "https://open.spotify.com/track/7LSVOi0SpjNRy6ud0dRxSX"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Frente a nosotros",
-        "url": "https://open.spotify.com/album/2tlRHyJYMznfBLjYEY69zt"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 179303,
-      "name": "Frente a nosotros",
-      "url": "https://open.spotify.com/track/7ejgpCjT3L5JRJWKnqeSbV"
+      "duration_ms": 228493,
+      "name": "Entre t\u00fa y mil mares",
+      "url": "https://open.spotify.com/track/715pi9Q08DJxLmyFj5SULx"
     },
     {
       "added_at": "2021-09-23 17:55:37",
@@ -299,38 +59,6 @@
     {
       "added_at": "2021-09-23 17:55:37",
       "album": {
-        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 228493,
-      "name": "Entre t\u00fa y mil mares",
-      "url": "https://open.spotify.com/track/715pi9Q08DJxLmyFj5SULx"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Primavera anticipada",
-        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "En cambio no",
-      "url": "https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
         "name": "Escucha",
         "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
       },
@@ -347,8 +75,8 @@
     {
       "added_at": "2021-09-23 17:55:37",
       "album": {
-        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
+        "name": "Primavera anticipada",
+        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
       },
       "artists": [
         {
@@ -356,41 +84,9 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 279040,
-      "name": "Escucha a tu coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7rlNIalRVbyM76fUXCfXg3"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/0mct3ztXaGdJW20o0mZt8c"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 263493,
-      "name": "La soledad - Versi\u00f3n 2001",
-      "url": "https://open.spotify.com/track/75OneVe1xHrgSiVEOiLGxb"
+      "duration_ms": 237440,
+      "name": "En cambio no",
+      "url": "https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi"
     },
     {
       "added_at": "2021-09-23 17:55:37",
@@ -420,9 +116,41 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 268826,
-      "name": "Las cosas que vives",
-      "url": "https://open.spotify.com/track/0Kk7mbNEkBHO8AMc08g9cY"
+      "duration_ms": 263493,
+      "name": "La soledad - Versi\u00f3n 2001",
+      "url": "https://open.spotify.com/track/75OneVe1xHrgSiVEOiLGxb"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
+        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/0mct3ztXaGdJW20o0mZt8c"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
+        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 279040,
+      "name": "Escucha a tu coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7rlNIalRVbyM76fUXCfXg3"
     },
     {
       "added_at": "2021-09-23 17:55:37",
@@ -439,6 +167,54 @@
       "duration_ms": 268800,
       "name": "En ausencia de ti",
       "url": "https://open.spotify.com/track/0I2feE3ac2r9QFhi6y4MDx"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/0T3HDSk6LqhMND9mgHoBdb"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
+        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 268826,
+      "name": "Las cosas que vives",
+      "url": "https://open.spotify.com/track/0Kk7mbNEkBHO8AMc08g9cY"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Entre t\u00fa y mil mares",
+        "url": "https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Quiero decirte que te amo",
+      "url": "https://open.spotify.com/track/5viiKzaFMP6gptZGKEDjen"
     },
     {
       "added_at": "2021-09-23 17:55:37",
@@ -461,10 +237,10 @@
       "url": "https://open.spotify.com/track/75aCtJF0AdPoifaS70xTRK"
     },
     {
-      "added_at": "2021-09-23 17:55:37",
+      "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Entre t\u00fa y mil mares",
-        "url": "https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj"
+        "name": "Durar",
+        "url": "https://open.spotify.com/album/5WGzrCnJgloOH4uau17Aug"
       },
       "artists": [
         {
@@ -472,9 +248,65 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 243533,
-      "name": "Quiero decirte que te amo",
-      "url": "https://open.spotify.com/track/5viiKzaFMP6gptZGKEDjen"
+      "duration_ms": 199626,
+      "name": "Durar",
+      "url": "https://open.spotify.com/track/4z0YuBEZ29pCut5HtLeQ9Z"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Primavera anticipada",
+        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 208306,
+      "name": "Primavera anticipada (It Is My Song) [duet with James Blunt]",
+      "url": "https://open.spotify.com/track/7FVJ05O1iImHASutFibA2U"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "V\u00edveme (with Alejandro Sanz 2013)",
+        "url": "https://open.spotify.com/album/0HtdDkkvlqadipU6LMfI63"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 234938,
+      "name": "V\u00edveme (with Alejandro Sanz 2013)",
+      "url": "https://open.spotify.com/track/4ZDGuj0DP0VJJK86xtj8hv"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Escucha",
+        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Como si no nos hubi\u00e9ramos amado",
+      "url": "https://open.spotify.com/track/29NNXJtMfzKtbUfWvekDHV"
     },
     {
       "added_at": "2021-09-23 17:55:37",
@@ -504,61 +336,9 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 240053,
-      "name": "Como si no nos hubi\u00e9ramos amado",
-      "url": "https://open.spotify.com/track/29NNXJtMfzKtbUfWvekDHV"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "20 Grandes Exitos (Latin America)",
-        "url": "https://open.spotify.com/album/05h6vnEFtAjOuWhCuPhAeO"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "Amores extra\u00f1os - Nueva versi\u00f3n 2013",
-      "url": "https://open.spotify.com/track/2nSSWvNLeE93Mzcpw0iG2T"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "In\u00e9dito Special Edition",
-        "url": "https://open.spotify.com/album/13DLAQCznI2ZPKrQENjJM5"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "Jam\u00e1s abandon\u00e9",
-      "url": "https://open.spotify.com/track/2VWyrEzISUmbcRfCRG3ioL"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "+ Es + (El Concierto / En Directo En El Estadio Vicente Calder\u00f3n / 2017)",
-        "url": "https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 316080,
-      "name": "La Fuerza Del Coraz\u00f3n - En Directo En El Estadio Vicente Calder\u00f3n / 2017",
-      "url": "https://open.spotify.com/track/7AtuQiAsRESlLdR3V0FXBJ"
+      "duration_ms": 208159,
+      "name": "Escucha atento",
+      "url": "https://open.spotify.com/track/6iN0pAMMz0IP7ozNBuMXL3"
     },
     {
       "added_at": "2021-09-23 17:55:37",
@@ -643,80 +423,28 @@
     {
       "added_at": "2021-09-23 17:55:37",
       "album": {
-        "name": "V\u00edveme (with Alejandro Sanz 2013)",
-        "url": "https://open.spotify.com/album/0HtdDkkvlqadipU6LMfI63"
+        "name": "+ Es + (El Concierto / En Directo En El Estadio Vicente Calder\u00f3n / 2017)",
+        "url": "https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt"
       },
       "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
         {
           "name": "Alejandro Sanz",
           "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 234938,
-      "name": "V\u00edveme (with Alejandro Sanz 2013)",
-      "url": "https://open.spotify.com/track/4ZDGuj0DP0VJJK86xtj8hv"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Escucha",
-        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 208159,
-      "name": "Escucha atento",
-      "url": "https://open.spotify.com/track/6iN0pAMMz0IP7ozNBuMXL3"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Las cosas que vives",
-        "url": "https://open.spotify.com/album/2bJJsBEMPv2WbBpoea4wWd"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Cuando se ama",
-      "url": "https://open.spotify.com/track/3FGkrC6oZKXSHcLojBAUg3"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Primavera anticipada",
-        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         },
         {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 208306,
-      "name": "Primavera anticipada (It Is My Song) [duet with James Blunt]",
-      "url": "https://open.spotify.com/track/7FVJ05O1iImHASutFibA2U"
+      "duration_ms": 316080,
+      "name": "La Fuerza Del Coraz\u00f3n - En Directo En El Estadio Vicente Calder\u00f3n / 2017",
+      "url": "https://open.spotify.com/track/7AtuQiAsRESlLdR3V0FXBJ"
     },
     {
       "added_at": "2021-09-23 17:55:37",
       "album": {
-        "name": "Hazte sentir",
-        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
+        "name": "20 Grandes Exitos (Latin America)",
+        "url": "https://open.spotify.com/album/05h6vnEFtAjOuWhCuPhAeO"
       },
       "artists": [
         {
@@ -724,9 +452,41 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 225000,
-      "name": "El valor de seguir adelante",
-      "url": "https://open.spotify.com/track/7FXnDS0HulrvYjY3xFT0ru"
+      "duration_ms": 298760,
+      "name": "Amores extra\u00f1os - Nueva versi\u00f3n 2013",
+      "url": "https://open.spotify.com/track/2nSSWvNLeE93Mzcpw0iG2T"
+    },
+    {
+      "added_at": "2023-03-10 06:00:00",
+      "album": {
+        "name": "Un buen inicio",
+        "url": "https://open.spotify.com/album/4oUnlll4PQn0sMA7z7alRB"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 190018,
+      "name": "Un buen inicio",
+      "url": "https://open.spotify.com/track/7wYqyJHvK9mwz4h8YK8MU5"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Yo canto",
+        "url": "https://open.spotify.com/album/5OpZUmyJOvNTWA7oibl73d"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 249119,
+      "name": "Disp\u00e1rame dispara",
+      "url": "https://open.spotify.com/track/39JzLcbxQe5bA2tqctA9Ef"
     },
     {
       "added_at": "2021-09-23 17:55:37",
@@ -751,114 +511,6 @@
     {
       "added_at": "2021-09-23 17:55:37",
       "album": {
-        "name": "Yo canto",
-        "url": "https://open.spotify.com/album/5OpZUmyJOvNTWA7oibl73d"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 249119,
-      "name": "Disp\u00e1rame dispara",
-      "url": "https://open.spotify.com/track/39JzLcbxQe5bA2tqctA9Ef"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Nadie ha dicho (feat. Gente de Zona)",
-        "url": "https://open.spotify.com/album/6wT1FlYeZb8ZnHIu5A5yGz"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 218373,
-      "name": "Nadie ha dicho (feat. Gente de Zona)",
-      "url": "https://open.spotify.com/track/0HGrhbUerQKu89GCy3zmlY"
-    },
-    {
-      "added_at": "2022-01-20 19:00:00",
-      "album": {
-        "name": "Caja",
-        "url": "https://open.spotify.com/album/5w35vhKYFsJNo9My9N2Gh1"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 207914,
-      "name": "Caja",
-      "url": "https://open.spotify.com/track/0U2GMzCpEOl25moMM3qfBF"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "20 Grandes Exitos (Latin America)",
-        "url": "https://open.spotify.com/album/05h6vnEFtAjOuWhCuPhAeO"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "Ennio Morricone",
-          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
-        }
-      ],
-      "duration_ms": 302725,
-      "name": "La soledad (with Ennio Morricone)",
-      "url": "https://open.spotify.com/track/4MiwZWajFt8sHgeGph0QuS"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Laura live gira mundial 09",
-        "url": "https://open.spotify.com/album/1pxUuD75TU4P7S4FYaQip3"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 260573,
-      "name": "Amores extra\u00f1os - New York Live 2009",
-      "url": "https://open.spotify.com/track/2mYufgra5EB1xAoSl6esOG"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Hazte sentir m\u00e1s",
-        "url": "https://open.spotify.com/album/0PNGIZSj8ZUdlQyB8spjD7"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 233800,
-      "name": "La soluci\u00f3n (feat. Carlos Rivera)",
-      "url": "https://open.spotify.com/track/7iSes74ifLt0Ldk0pL3n7k"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
         "name": "Hazte sentir",
         "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
       },
@@ -868,15 +520,15 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 208280,
-      "name": "Nadie ha dicho",
-      "url": "https://open.spotify.com/track/2rNymvxE1VQxsPcCaQrOFj"
+      "duration_ms": 225000,
+      "name": "El valor de seguir adelante",
+      "url": "https://open.spotify.com/track/7FXnDS0HulrvYjY3xFT0ru"
     },
     {
       "added_at": "2021-09-23 17:55:37",
       "album": {
-        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
+        "name": "In\u00e9dito Special Edition",
+        "url": "https://open.spotify.com/album/13DLAQCznI2ZPKrQENjJM5"
       },
       "artists": [
         {
@@ -884,15 +536,15 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 252666,
-      "name": "Dos historias iguales",
-      "url": "https://open.spotify.com/track/2ocLVkJq7Am9DyWUn4GUh4"
+      "duration_ms": 204360,
+      "name": "Jam\u00e1s abandon\u00e9",
+      "url": "https://open.spotify.com/track/2VWyrEzISUmbcRfCRG3ioL"
     },
     {
-      "added_at": "2021-09-23 17:55:37",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Io s\u00ec (Seen) [From \u201cThe Life Ahead (La vita davanti a s\u00e9)\u201d]",
-        "url": "https://open.spotify.com/album/1Z7aI937XmTwVAAHjekxqG"
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
       },
       "artists": [
         {
@@ -900,9 +552,25 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 234403,
-      "name": "Yo si (Io s\u00ec)",
-      "url": "https://open.spotify.com/track/4UGljWYSrSZsSDURkhvIB5"
+      "duration_ms": 185804,
+      "name": "Almas paralelas",
+      "url": "https://open.spotify.com/track/4MwKtN8gWGqrVMtOjZEGxT"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Similares",
+        "url": "https://open.spotify.com/album/3polx9obFEloI0s73vcvUv"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "En la puerta de al lado",
+      "url": "https://open.spotify.com/track/6p4nG5yU4UvCMz1m7ShJca"
     },
     {
       "added_at": "2021-09-23 17:55:37",
@@ -927,6 +595,242 @@
     {
       "added_at": "2021-09-23 17:55:37",
       "album": {
+        "name": "Io s\u00ec (Seen) [From \u201cThe Life Ahead (La vita davanti a s\u00e9)\u201d]",
+        "url": "https://open.spotify.com/album/1Z7aI937XmTwVAAHjekxqG"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 234403,
+      "name": "Yo si (Io s\u00ec)",
+      "url": "https://open.spotify.com/track/4UGljWYSrSZsSDURkhvIB5"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
+        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Dos historias iguales",
+      "url": "https://open.spotify.com/track/2ocLVkJq7Am9DyWUn4GUh4"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Hazte sentir",
+        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 208280,
+      "name": "Nadie ha dicho",
+      "url": "https://open.spotify.com/track/2rNymvxE1VQxsPcCaQrOFj"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "20 Grandes Exitos (Latin America)",
+        "url": "https://open.spotify.com/album/05h6vnEFtAjOuWhCuPhAeO"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "Ennio Morricone",
+          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
+        }
+      ],
+      "duration_ms": 302725,
+      "name": "La soledad (with Ennio Morricone)",
+      "url": "https://open.spotify.com/track/4MiwZWajFt8sHgeGph0QuS"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Nadie ha dicho (feat. Gente de Zona)",
+        "url": "https://open.spotify.com/album/6wT1FlYeZb8ZnHIu5A5yGz"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 218373,
+      "name": "Nadie ha dicho (feat. Gente de Zona)",
+      "url": "https://open.spotify.com/track/0HGrhbUerQKu89GCy3zmlY"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Las cosas que vives",
+        "url": "https://open.spotify.com/album/2bJJsBEMPv2WbBpoea4wWd"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Cuando se ama",
+      "url": "https://open.spotify.com/track/3FGkrC6oZKXSHcLojBAUg3"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 211550,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/1mH6dAaWJzrmoqpSs1MjEK"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "M\u00e1s que una idea",
+      "url": "https://open.spotify.com/track/2aEwX97ENXALKe6MzsymyI"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "Hogar natural",
+        "url": "https://open.spotify.com/album/2Tu4cs2fi49dDTKlQaWxEi"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 213326,
+      "name": "Hogar natural",
+      "url": "https://open.spotify.com/track/6ghYXPIPncuPb1VQWkSh2F"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 178545,
+      "name": "El primer paso en la luna",
+      "url": "https://open.spotify.com/track/2omBUI7JoHe7zEauJvn6Oj"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 200498,
+      "name": "Qu\u00e9 es",
+      "url": "https://open.spotify.com/track/4GKGNCzRNLVyiImJ0kRXiN"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 219144,
+      "name": "Perdona si no es as\u00ed",
+      "url": "https://open.spotify.com/track/26J884mAuQgyANciA1JTI2"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Entre t\u00fa y mil mares",
+        "url": "https://open.spotify.com/album/3dosuW8Yh0ukoExOC84qEI"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 186253,
+      "name": "Un error de los grandes",
+      "url": "https://open.spotify.com/track/0cZRvN0JNRbkmhJK90x4cH"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Palabras Del Silencio (Edici\u00f3n Aniversario - Un A\u00f1o Despues)",
+        "url": "https://open.spotify.com/album/5gCxcHCAA50nboku1ks180"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "Todo Vuelve A Empezar",
+      "url": "https://open.spotify.com/track/6Nl8Onopm90O6CHyuhvAXx"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
         "name": "Similares",
         "url": "https://open.spotify.com/album/3polx9obFEloI0s73vcvUv"
       },
@@ -936,9 +840,113 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 239226,
-      "name": "Nuestro amor de cada d\u00eda",
-      "url": "https://open.spotify.com/track/4jOfcNw0eNZIxm5aF2kkFj"
+      "duration_ms": 233303,
+      "name": "Lado derecho del coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4tJ7mICMaMSjpQoZlW3fKB"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "20 Grandes Exitos (Latin America)",
+        "url": "https://open.spotify.com/album/05h6vnEFtAjOuWhCuPhAeO"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "duration_ms": 255872,
+      "name": "Vive ya! (Vivere) [with Andrea Bocelli]",
+      "url": "https://open.spotify.com/track/1868hzfrJUzwGgiphFuJzV"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Limpio (with Kylie Minogue)",
+        "url": "https://open.spotify.com/album/5hZX70lPy1Y0Qus6YZDzJu"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 207176,
+      "name": "Limpio (with Kylie Minogue)",
+      "url": "https://open.spotify.com/track/63XCn7awT8716CchqhOFy2"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Similares",
+        "url": "https://open.spotify.com/album/3polx9obFEloI0s73vcvUv"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "Similares",
+      "url": "https://open.spotify.com/track/3RNLk7wWwTuHqVIJQmw84R"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Hazte sentir",
+        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "La soluci\u00f3n",
+      "url": "https://open.spotify.com/track/6IHslIJXq6RBhrsSR3uWfj"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "20 The Greatest Hits",
+        "url": "https://open.spotify.com/album/3CBMpoI2vZlKXs3wgnNWGn"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 228478,
+      "name": "Gente - New Version 2013",
+      "url": "https://open.spotify.com/track/21iN6r50k8cWkcrpBHqdq9"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Hazte sentir",
+        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 241960,
+      "name": "Verdades a medias",
+      "url": "https://open.spotify.com/track/0dAPwjV7jw8hxUDNZxYQrX"
     },
     {
       "added_at": "2021-09-23 17:55:37",
@@ -968,15 +976,35 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 227013,
-      "name": "En la puerta de al lado",
-      "url": "https://open.spotify.com/track/6p4nG5yU4UvCMz1m7ShJca"
+      "duration_ms": 239226,
+      "name": "Nuestro amor de cada d\u00eda",
+      "url": "https://open.spotify.com/track/4jOfcNw0eNZIxm5aF2kkFj"
     },
     {
       "added_at": "2021-09-23 17:55:37",
       "album": {
-        "name": "Primavera anticipada",
-        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
+        "name": "Hazte sentir m\u00e1s",
+        "url": "https://open.spotify.com/album/0PNGIZSj8ZUdlQyB8spjD7"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 233800,
+      "name": "La soluci\u00f3n (feat. Carlos Rivera)",
+      "url": "https://open.spotify.com/track/7iSes74ifLt0Ldk0pL3n7k"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Laura live gira mundial 09",
+        "url": "https://open.spotify.com/album/1pxUuD75TU4P7S4FYaQip3"
       },
       "artists": [
         {
@@ -984,15 +1012,15 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 188306,
-      "name": "Un hecho obvio",
-      "url": "https://open.spotify.com/track/7dM2fCHgvu6eRTaxpMg1K1"
+      "duration_ms": 260573,
+      "name": "Amores extra\u00f1os - New York Live 2009",
+      "url": "https://open.spotify.com/track/2mYufgra5EB1xAoSl6esOG"
     },
     {
-      "added_at": "2021-09-23 17:55:37",
+      "added_at": "2022-01-20 19:00:00",
       "album": {
-        "name": "Hazte sentir",
-        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
+        "name": "Caja",
+        "url": "https://open.spotify.com/album/5w35vhKYFsJNo9My9N2Gh1"
       },
       "artists": [
         {
@@ -1000,111 +1028,115 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 241960,
+      "duration_ms": 207914,
+      "name": "Caja",
+      "url": "https://open.spotify.com/track/0U2GMzCpEOl25moMM3qfBF"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 199125,
+      "name": "M\u00e1s all\u00e1 de la superficie",
+      "url": "https://open.spotify.com/track/7LSVOi0SpjNRy6ud0dRxSX"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 179861,
+      "name": "Vale la pena",
+      "url": "https://open.spotify.com/track/5PbOX7sRkGZBRIRYyisto0"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/2izgZtTWV6x0gXUpq047gj"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Pero",
+      "url": "https://open.spotify.com/track/05gyYNhI8lUtyFxaoQDZRd"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 209434,
+      "name": "Todas las veces",
+      "url": "https://open.spotify.com/track/1LzbWUNwGyup20mpcCkhEG"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Verdades a medias",
+        "url": "https://open.spotify.com/album/4DjvUxpQOBDBlpXD5NFydK"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "Bebe",
+          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
+        }
+      ],
+      "duration_ms": 240000,
       "name": "Verdades a medias",
-      "url": "https://open.spotify.com/track/0dAPwjV7jw8hxUDNZxYQrX"
+      "url": "https://open.spotify.com/track/5rHP4mgLryrfQIGUiSWU8B"
     },
     {
       "added_at": "2021-09-23 17:55:37",
       "album": {
-        "name": "20 The Greatest Hits",
-        "url": "https://open.spotify.com/album/3CBMpoI2vZlKXs3wgnNWGn"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 228478,
-      "name": "Gente - New Version 2013",
-      "url": "https://open.spotify.com/track/21iN6r50k8cWkcrpBHqdq9"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "In\u00e9dito Special Edition",
-        "url": "https://open.spotify.com/album/13DLAQCznI2ZPKrQENjJM5"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 242920,
-      "name": "As\u00ed celeste",
-      "url": "https://open.spotify.com/track/5DVpnlh0PjQNhhRSVnp8H4"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Hazte sentir",
-        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Est\u00e1.all\u00e1",
-      "url": "https://open.spotify.com/track/0j2wXq23Td4sMzte4yiEMb"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Hazte sentir",
-        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Fant\u00e1stico (Haz lo que eres)",
-      "url": "https://open.spotify.com/track/0s5eXJYhskJYljJRfpNrHp"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Hazte sentir",
-        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "La soluci\u00f3n",
-      "url": "https://open.spotify.com/track/6IHslIJXq6RBhrsSR3uWfj"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Similares",
-        "url": "https://open.spotify.com/album/3polx9obFEloI0s73vcvUv"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "Similares",
-      "url": "https://open.spotify.com/track/3RNLk7wWwTuHqVIJQmw84R"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Limpio (with Kylie Minogue)",
-        "url": "https://open.spotify.com/album/5hZX70lPy1Y0Qus6YZDzJu"
+        "name": "Donde quedo solo yo (with Alex Ubago)",
+        "url": "https://open.spotify.com/album/6loE6FrLzjVFKWgXOout5r"
       },
       "artists": [
         {
@@ -1112,49 +1144,13 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         },
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
         }
       ],
-      "duration_ms": 207176,
-      "name": "Limpio (with Kylie Minogue)",
-      "url": "https://open.spotify.com/track/63XCn7awT8716CchqhOFy2"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "20 Grandes Exitos (Latin America)",
-        "url": "https://open.spotify.com/album/05h6vnEFtAjOuWhCuPhAeO"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        }
-      ],
-      "duration_ms": 255872,
-      "name": "Vive ya! (Vivere) [with Andrea Bocelli]",
-      "url": "https://open.spotify.com/track/1868hzfrJUzwGgiphFuJzV"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Similares",
-        "url": "https://open.spotify.com/album/3polx9obFEloI0s73vcvUv"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "He cre\u00eddo en m\u00ed",
-      "url": "https://open.spotify.com/track/2oalJesy0oj61oxav56j0w"
+      "duration_ms": 221584,
+      "name": "Donde quedo solo yo (with Alex Ubago)",
+      "url": "https://open.spotify.com/track/1BoeL6LCpjViLGIdKrcYGT"
     },
     {
       "added_at": "2021-09-23 17:55:37",
@@ -1168,209 +1164,9 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 259173,
-      "name": "Dos ventanas",
-      "url": "https://open.spotify.com/track/6IE0in7GMO8rxgWgLffRLg"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Inedito (Deluxe)",
-        "url": "https://open.spotify.com/album/46Z0dA6mIrhuZ2e9kXuj8k"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 213226,
-      "name": "Bastaba",
-      "url": "https://open.spotify.com/track/7jQbssXY4rtWqPXB6yJGyp"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Similares",
-        "url": "https://open.spotify.com/album/3polx9obFEloI0s73vcvUv"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 233303,
-      "name": "Lado derecho del coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4tJ7mICMaMSjpQoZlW3fKB"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "El valor de seguir adelante (feat. Biagio Antonacci)",
-        "url": "https://open.spotify.com/album/1UrsdIFKcCtSg34jJe6vX9"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "Biagio Antonacci",
-          "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "El valor de seguir adelante (feat. Biagio Antonacci)",
-      "url": "https://open.spotify.com/track/6q8glaVMtbJYxDmaoNFZUE"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Palabras Del Silencio (Edici\u00f3n Aniversario - Un A\u00f1o Despues)",
-        "url": "https://open.spotify.com/album/5gCxcHCAA50nboku1ks180"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "Todo Vuelve A Empezar",
-      "url": "https://open.spotify.com/track/6Nl8Onopm90O6CHyuhvAXx"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Entre t\u00fa y mil mares",
-        "url": "https://open.spotify.com/album/3dosuW8Yh0ukoExOC84qEI"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 186253,
-      "name": "Un error de los grandes",
-      "url": "https://open.spotify.com/track/0cZRvN0JNRbkmhJK90x4cH"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Similares",
-        "url": "https://open.spotify.com/album/3polx9obFEloI0s73vcvUv"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "200 notas",
-      "url": "https://open.spotify.com/track/7wAvYTXgzmjnxMO1979cmH"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Hazte sentir",
-        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 209520,
-      "name": "El caso est\u00e1 perdido",
-      "url": "https://open.spotify.com/track/3jvpC5iwT1NnaJRSEPAFDa"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Similares",
-        "url": "https://open.spotify.com/album/3polx9obFEloI0s73vcvUv"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 196546,
-      "name": "Preg\u00fantale al cielo",
-      "url": "https://open.spotify.com/track/2n0fTb5QyHL6m8uzAAKgTo"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Hazte sentir",
-        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Un proyecto de vida en com\u00fan",
-      "url": "https://open.spotify.com/track/08xy4RZQahZRS45iqYXoUs"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Hazte sentir",
-        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 200546,
-      "name": "No River is Wilder",
-      "url": "https://open.spotify.com/track/6xTybmtzo7DiPpfNm2eo2z"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Hazte sentir",
-        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Francesca",
-      "url": "https://open.spotify.com/track/6S6oyPIG38fIdvvGEoxgPM"
-    },
-    {
-      "added_at": "2021-09-23 17:55:37",
-      "album": {
-        "name": "Hazte sentir",
-        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 170053,
-      "name": "Niebla gris",
-      "url": "https://open.spotify.com/track/14veTlxiqfgfH5FJxACPwJ"
+      "duration_ms": 218013,
+      "name": "Algo que te debo",
+      "url": "https://open.spotify.com/track/3wEuWDI7GBpZ4CGrxAAFF3"
     },
     {
       "added_at": "2021-09-23 17:55:37",
@@ -1400,15 +1196,111 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Algo que te debo",
-      "url": "https://open.spotify.com/track/3wEuWDI7GBpZ4CGrxAAFF3"
+      "duration_ms": 170053,
+      "name": "Niebla gris",
+      "url": "https://open.spotify.com/track/14veTlxiqfgfH5FJxACPwJ"
     },
     {
       "added_at": "2021-09-23 17:55:37",
       "album": {
-        "name": "Donde quedo solo yo (with Alex Ubago)",
-        "url": "https://open.spotify.com/album/6loE6FrLzjVFKWgXOout5r"
+        "name": "Hazte sentir",
+        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Francesca",
+      "url": "https://open.spotify.com/track/6S6oyPIG38fIdvvGEoxgPM"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Hazte sentir",
+        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 200546,
+      "name": "No River is Wilder",
+      "url": "https://open.spotify.com/track/6xTybmtzo7DiPpfNm2eo2z"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Hazte sentir",
+        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Un proyecto de vida en com\u00fan",
+      "url": "https://open.spotify.com/track/08xy4RZQahZRS45iqYXoUs"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Similares",
+        "url": "https://open.spotify.com/album/3polx9obFEloI0s73vcvUv"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 196546,
+      "name": "Preg\u00fantale al cielo",
+      "url": "https://open.spotify.com/track/2n0fTb5QyHL6m8uzAAKgTo"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Hazte sentir",
+        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 209520,
+      "name": "El caso est\u00e1 perdido",
+      "url": "https://open.spotify.com/track/3jvpC5iwT1NnaJRSEPAFDa"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Similares",
+        "url": "https://open.spotify.com/album/3polx9obFEloI0s73vcvUv"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 238866,
+      "name": "200 notas",
+      "url": "https://open.spotify.com/track/7wAvYTXgzmjnxMO1979cmH"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "El valor de seguir adelante (feat. Biagio Antonacci)",
+        "url": "https://open.spotify.com/album/1UrsdIFKcCtSg34jJe6vX9"
       },
       "artists": [
         {
@@ -1416,33 +1308,141 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         },
         {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+          "name": "Biagio Antonacci",
+          "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
         }
       ],
-      "duration_ms": 221584,
-      "name": "Donde quedo solo yo (with Alex Ubago)",
-      "url": "https://open.spotify.com/track/1BoeL6LCpjViLGIdKrcYGT"
+      "duration_ms": 224693,
+      "name": "El valor de seguir adelante (feat. Biagio Antonacci)",
+      "url": "https://open.spotify.com/track/6q8glaVMtbJYxDmaoNFZUE"
     },
     {
       "added_at": "2021-09-23 17:55:37",
       "album": {
-        "name": "Verdades a medias",
-        "url": "https://open.spotify.com/album/4DjvUxpQOBDBlpXD5NFydK"
+        "name": "Inedito (Deluxe)",
+        "url": "https://open.spotify.com/album/46Z0dA6mIrhuZ2e9kXuj8k"
       },
       "artists": [
         {
           "name": "Laura Pausini",
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "Bebe",
-          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Verdades a medias",
-      "url": "https://open.spotify.com/track/5rHP4mgLryrfQIGUiSWU8B"
+      "duration_ms": 213226,
+      "name": "Bastaba",
+      "url": "https://open.spotify.com/track/7jQbssXY4rtWqPXB6yJGyp"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Hazte sentir",
+        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Dos ventanas",
+      "url": "https://open.spotify.com/track/6IE0in7GMO8rxgWgLffRLg"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Similares",
+        "url": "https://open.spotify.com/album/3polx9obFEloI0s73vcvUv"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "He cre\u00eddo en m\u00ed",
+      "url": "https://open.spotify.com/track/2oalJesy0oj61oxav56j0w"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Hazte sentir",
+        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Fant\u00e1stico (Haz lo que eres)",
+      "url": "https://open.spotify.com/track/0s5eXJYhskJYljJRfpNrHp"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Hazte sentir",
+        "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Est\u00e1.all\u00e1",
+      "url": "https://open.spotify.com/track/0j2wXq23Td4sMzte4yiEMb"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "In\u00e9dito Special Edition",
+        "url": "https://open.spotify.com/album/13DLAQCznI2ZPKrQENjJM5"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 242920,
+      "name": "As\u00ed celeste",
+      "url": "https://open.spotify.com/track/5DVpnlh0PjQNhhRSVnp8H4"
+    },
+    {
+      "added_at": "2021-09-23 17:55:37",
+      "album": {
+        "name": "Primavera anticipada",
+        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "Un hecho obvio",
+      "url": "https://open.spotify.com/track/7dM2fCHgvu6eRTaxpMg1K1"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Frente a nosotros",
+        "url": "https://open.spotify.com/album/2tlRHyJYMznfBLjYEY69zt"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 179303,
+      "name": "Frente a nosotros",
+      "url": "https://open.spotify.com/track/7ejgpCjT3L5JRJWKnqeSbV"
     }
   ],
   "unique_name": "This Is Laura Pausini",

@@ -4,12 +4,13 @@
 
 > la tierra del Rap de oro puro\. Lefty SM, tus rimas ya son eternas, Descansa en paz.
 
-119 songs - 7 hr 35 min
+120 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [99'S](https://open.spotify.com/track/3MENAA3VWq5a5WxVYL9d6p) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [99'S](https://open.spotify.com/album/1KZZLDSyLxEeyajPEm5DvH) | 3:53 | 2022-07-01 |  |
 | [99's](https://open.spotify.com/track/2L6MlX6DWzZQ6xKblKXuww) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [99's](https://open.spotify.com/album/45Fa646VrOWBLE1mwrVFkk) | 3:54 | 2022-07-01 | 2022-07-29 |
+| [A Toda Hora](https://open.spotify.com/track/7AApA6u8jKnrQwhOtZ8EvF) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD), [Dee](https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk), [Yoga Fire](https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx), [Phul King Fu](https://open.spotify.com/artist/0gKLv0OjOfDAd2HXhYqUh3) | [A Toda Hora](https://open.spotify.com/album/0AEyObamxFk4bG6PnkKQrX) | 4:51 | 2023-11-09 |  |
 | [Ahi voy](https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Ahi voy](https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4) | 3:45 | 2023-06-01 |  |
 | [Ahogándome en Alcohol](https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ahogándome en Alcohol](https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS) | 4:17 | 2023-07-07 |  |
 | [Allá en las Nubes](https://open.spotify.com/track/6QX8t27PrLrWioxKXMh78L) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Allá en las Nubes](https://open.spotify.com/album/3IQVpOBA63ZGSAQpyJbwB2) | 3:58 | 2023-10-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 70676,
+  "num_followers": 70729,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWYyOTY4ZTJlY2IyZmQwMDBjNTExNTZjZWI5OTU1MzlhNmE1NTcz",
+  "snapshot_id": "MCwyMmYxNjliMmI3ZDZkMDZlNTRjZmU5ZTNlODlhOGI5YjkwODJmNWI3",
   "tracks": [
     {
       "added_at": "2023-10-20 09:22:01",
@@ -439,30 +439,6 @@
     {
       "added_at": "2023-10-20 09:22:01",
       "album": {
-        "name": "Thinkin of You",
-        "url": "https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6"
-      },
-      "artists": [
-        {
-          "name": "Dylan & Harry",
-          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
-        },
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Thinkin of You",
-      "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
-    },
-    {
-      "added_at": "2023-10-20 09:22:01",
-      "album": {
         "name": "words",
         "url": "https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn"
       },
@@ -483,6 +459,30 @@
       "duration_ms": 189960,
       "name": "words",
       "url": "https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO"
+    },
+    {
+      "added_at": "2023-10-20 09:22:01",
+      "album": {
+        "name": "Thinkin of You",
+        "url": "https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6"
+      },
+      "artists": [
+        {
+          "name": "Dylan & Harry",
+          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
+        },
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Thinkin of You",
+      "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
     },
     {
       "added_at": "2023-10-20 09:22:01",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-10-20 09:22:01",
       "album": {
-        "name": "Microdosing (Conducta Remix)",
-        "url": "https://open.spotify.com/album/52r0BbElKJLiF59usacC0A"
-      },
-      "artists": [
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        },
-        {
-          "name": "Conducta",
-          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Microdosing (Conducta Remix) - Edit",
-      "url": "https://open.spotify.com/track/7FYvSHYySIXK9hCwBgnOea"
-    },
-    {
-      "added_at": "2023-10-20 09:22:01",
-      "album": {
         "name": "the come up",
         "url": "https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1"
       },
@@ -1059,22 +1039,22 @@
     {
       "added_at": "2023-10-20 09:22:01",
       "album": {
-        "name": "Estate Royalty",
-        "url": "https://open.spotify.com/album/5A53s3TnstEoTDmwO9CwOb"
+        "name": "Microdosing (Conducta Remix)",
+        "url": "https://open.spotify.com/album/52r0BbElKJLiF59usacC0A"
       },
       "artists": [
         {
-          "name": "S Dog",
-          "url": "https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38"
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
         },
         {
-          "name": "Toddla T",
-          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+          "name": "Conducta",
+          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
         }
       ],
-      "duration_ms": 152374,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/3JgvbAIabTHI9UvGStpxM1"
+      "duration_ms": 177000,
+      "name": "Microdosing (Conducta Remix) - Edit",
+      "url": "https://open.spotify.com/track/7FYvSHYySIXK9hCwBgnOea"
     },
     {
       "added_at": "2023-10-20 09:22:01",
@@ -1107,6 +1087,26 @@
       "duration_ms": 193880,
       "name": "Love Me, Leave Me Alone",
       "url": "https://open.spotify.com/track/55MckToyWVSitUdMySgApN"
+    },
+    {
+      "added_at": "2023-10-20 09:22:01",
+      "album": {
+        "name": "Estate Royalty",
+        "url": "https://open.spotify.com/album/5A53s3TnstEoTDmwO9CwOb"
+      },
+      "artists": [
+        {
+          "name": "S Dog",
+          "url": "https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38"
+        },
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        }
+      ],
+      "duration_ms": 152374,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/3JgvbAIabTHI9UvGStpxM1"
     },
     {
       "added_at": "2023-10-20 09:22:01",

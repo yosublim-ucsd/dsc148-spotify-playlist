@@ -2537,6 +2537,24 @@
     },
     {
       "album": {
+        "name": "Fragment",
+        "url": "https://open.spotify.com/album/57AhM9WpuWG2206JjB1uZz"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242551,
+      "name": "Fragment",
+      "url": "https://open.spotify.com/track/2IPgfIisrvoZ9gfjjgIiMo"
+    },
+    {
+      "album": {
         "name": "Frame",
         "url": "https://open.spotify.com/album/4VXrSbUbWpKjrOsUO97ttE"
       },
@@ -2728,7 +2746,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 97866,
       "name": "Going To The Sea",
       "url": "https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI"
@@ -3848,6 +3866,24 @@
       "duration_ms": 266733,
       "name": "last night",
       "url": "https://open.spotify.com/track/4cP2zI7vcZgYnTJqeV7Bm9"
+    },
+    {
+      "album": {
+        "name": "Lasting Memories",
+        "url": "https://open.spotify.com/album/20k1KmdxOiXyQHhw7QyXby"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214168,
+      "name": "Lasting Memories",
+      "url": "https://open.spotify.com/track/7zUsClREgMYQ5GqcnmioIF"
     },
     {
       "album": {
@@ -6750,7 +6786,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 379561,
       "name": "Stars",
       "url": "https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT"

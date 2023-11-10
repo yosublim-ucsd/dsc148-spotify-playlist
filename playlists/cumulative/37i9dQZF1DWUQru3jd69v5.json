@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Sadturs, KIID",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Don Pero",
   "name": "Raptopia",
   "tracks": [
     {
@@ -963,6 +963,42 @@
     },
     {
       "album": {
+        "name": "AMORE E ODIO",
+        "url": "https://open.spotify.com/album/28etAEckVtY9eIZN87g2za"
+      },
+      "artists": [
+        {
+          "name": "2Rari",
+          "url": "https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "AMORE E ODIO",
+      "url": "https://open.spotify.com/track/58Xg7tSx5PEmAPeVChMTpg"
+    },
+    {
+      "album": {
+        "name": "Ancora un minuto",
+        "url": "https://open.spotify.com/album/7qLIFQSH0hbvt9wjTi6dIa"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167283,
+      "name": "Ancora un minuto",
+      "url": "https://open.spotify.com/track/0MTabSNX8sZzRgjRDqqJ0e"
+    },
+    {
+      "album": {
         "name": "Ancora Viva",
         "url": "https://open.spotify.com/album/4DpiEp8oZpigUeBa9hbSgz"
       },
@@ -1066,6 +1102,28 @@
       "duration_ms": 158624,
       "name": "Apparecchiato (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz"
+    },
+    {
+      "album": {
+        "name": "Ara Ighe",
+        "url": "https://open.spotify.com/album/7kUUj9GlCwhZ6s7nPKedHH"
+      },
+      "artists": [
+        {
+          "name": "Oliver Green",
+          "url": "https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK"
+        },
+        {
+          "name": "Raiworld",
+          "url": "https://open.spotify.com/artist/6srBIS4AndIMpkpo8QQJrQ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163038,
+      "name": "Ara Ighe",
+      "url": "https://open.spotify.com/track/2isYZTJHQEmObe6gbE8MHA"
     },
     {
       "album": {
@@ -2261,6 +2319,28 @@
     },
     {
       "album": {
+        "name": "BOX",
+        "url": "https://open.spotify.com/album/22xPf88okQhsx5cA4Fbwji"
+      },
+      "artists": [
+        {
+          "name": "Cimo",
+          "url": "https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3"
+        },
+        {
+          "name": "85Prod",
+          "url": "https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141702,
+      "name": "BOX",
+      "url": "https://open.spotify.com/track/1b7t2b2VvhqELWYbPgUwNy"
+    },
+    {
+      "album": {
         "name": "Braquages",
         "url": "https://open.spotify.com/album/0W0T9Tpqc5h82PiBZY27CJ"
       },
@@ -2812,7 +2892,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 140869,
       "name": "Carhartt (feat. Kuremino)",
       "url": "https://open.spotify.com/track/4SluBeyc807T4WowzQgILG"
@@ -4659,6 +4739,32 @@
     },
     {
       "album": {
+        "name": "Eddie Guerrero (feat. Side Baby)",
+        "url": "https://open.spotify.com/album/08tQCu8deb5VDYe5NkFOy3"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        },
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195957,
+      "name": "Eddie Guerrero (feat. Side Baby)",
+      "url": "https://open.spotify.com/track/7e9GiSZmiY6LwNd3P2Tt4Z"
+    },
+    {
+      "album": {
         "name": "Effetto",
         "url": "https://open.spotify.com/album/2cYxdi5eLmxnfqBCBNwxbV"
       },
@@ -5018,8 +5124,8 @@
           "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
         },
         {
-          "name": "KIID",
-          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+          "name": "Kiid",
+          "url": "https://open.spotify.com/artist/47n6LhYrL1ifDqyNh83pdr"
         },
         {
           "name": "Faneto",
@@ -5182,6 +5288,24 @@
       "duration_ms": 124714,
       "name": "FAKE LOV3",
       "url": "https://open.spotify.com/track/0uddaGz9eiKu58im2uqqlG"
+    },
+    {
+      "album": {
+        "name": "FASHION",
+        "url": "https://open.spotify.com/album/6F9abOtP5f8U6AVCHFN8Tl"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149684,
+      "name": "FASHION",
+      "url": "https://open.spotify.com/track/2GrgmzXmNHOfqIcrDSQmQa"
     },
     {
       "album": {
@@ -7077,6 +7201,28 @@
     },
     {
       "album": {
+        "name": "IMBORGHESI",
+        "url": "https://open.spotify.com/album/2MNYQ9zHQbjck8OtyaxKs5"
+      },
+      "artists": [
+        {
+          "name": "167 Gang",
+          "url": "https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33"
+        },
+        {
+          "name": "MINUR",
+          "url": "https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164042,
+      "name": "IMBORGHESI",
+      "url": "https://open.spotify.com/track/08sKSGw1ADTFGbPfg8EtTY"
+    },
+    {
+      "album": {
         "name": "Immigrato",
         "url": "https://open.spotify.com/album/2TDtTQaaS9DH6KnZsgHP5r"
       },
@@ -7176,6 +7322,28 @@
       "duration_ms": 194042,
       "name": "IN PI\u00d9",
       "url": "https://open.spotify.com/track/4qanxGjKd2ts4MvOkcDTIp"
+    },
+    {
+      "album": {
+        "name": "In Silenzio",
+        "url": "https://open.spotify.com/album/0hTsRDnkp8F78lJfSuQNlU"
+      },
+      "artists": [
+        {
+          "name": "KAYLER",
+          "url": "https://open.spotify.com/artist/3RfIKCBcJ6Nb7OLrk2fV4S"
+        },
+        {
+          "name": "Dr. Wesh",
+          "url": "https://open.spotify.com/artist/5qTA5yhqkIYIwFNwdCLFP0"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104559,
+      "name": "In Silenzio",
+      "url": "https://open.spotify.com/track/5rgFC6gPgSen5E6a9gpmks"
     },
     {
       "album": {
@@ -7499,6 +7667,24 @@
     },
     {
       "album": {
+        "name": "KAIOKEN",
+        "url": "https://open.spotify.com/album/53JuPn2CJbl5grqiHjHebC"
+      },
+      "artists": [
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "KAIOKEN",
+      "url": "https://open.spotify.com/track/1yZYg0gKVTCJbpTStQgtfE"
+    },
+    {
+      "album": {
         "name": "Karim Benzema",
         "url": "https://open.spotify.com/album/0740FKjdHRQntZFme30P5T"
       },
@@ -7590,7 +7776,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 173913,
       "name": "Khabib",
       "url": "https://open.spotify.com/track/4lZ8j1DNJKW0Rvz3gSC0Qo"
@@ -8416,8 +8602,8 @@
           "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
         },
         {
-          "name": "KIID",
-          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+          "name": "Kiid",
+          "url": "https://open.spotify.com/artist/47n6LhYrL1ifDqyNh83pdr"
         },
         {
           "name": "Nerissima Serpe",
@@ -8880,7 +9066,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 190080,
       "name": "Madre mia",
       "url": "https://open.spotify.com/track/4dKVc3Oa3JyXrplJ3ewXZI"
@@ -8906,6 +9092,28 @@
       "duration_ms": 141824,
       "name": "MALADE",
       "url": "https://open.spotify.com/track/6nmNUdzSXOHOtjxusOYMw7"
+    },
+    {
+      "album": {
+        "name": "MALADE (feat. Braco)",
+        "url": "https://open.spotify.com/album/3TV4Izp75CPancqxEVilnM"
+      },
+      "artists": [
+        {
+          "name": "Fata",
+          "url": "https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m"
+        },
+        {
+          "name": "Braco",
+          "url": "https://open.spotify.com/artist/1evoOh9Y07fI6PMjnvBe8E"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "MALADE (feat. Braco)",
+      "url": "https://open.spotify.com/track/6GSIRwZ5EAsMB5ZKgUNP8T"
     },
     {
       "album": {
@@ -9608,7 +9816,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 126373,
       "name": "Merdaparlando 2",
       "url": "https://open.spotify.com/track/3Qi32QyMXpUpaRRq84ljO5"
@@ -11417,6 +11625,32 @@
     },
     {
       "album": {
+        "name": "PANINARO (feat. Tony Boy, Artie 5ive)",
+        "url": "https://open.spotify.com/album/00xjYTrjvDKeWZVidjBiPT"
+      },
+      "artists": [
+        {
+          "name": "Digital Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "PANINARO (feat. Tony Boy, Artie 5ive)",
+      "url": "https://open.spotify.com/track/0VVYNEXsZB3x9XyMEZQjk1"
+    },
+    {
+      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/4iiGDZ7xs1MgkNoEXscZfi"
       },
@@ -11628,7 +11862,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 144400,
       "name": "Passaggi Di Mano",
       "url": "https://open.spotify.com/track/4J1mgFkAYXbDV2Zm2X1LlB"
@@ -11780,6 +12014,24 @@
       "duration_ms": 225000,
       "name": "Perch\u00e8?!",
       "url": "https://open.spotify.com/track/11oqcjXJqFCcmsHCZxhBm0"
+    },
+    {
+      "album": {
+        "name": "Perdonare questo",
+        "url": "https://open.spotify.com/album/00mAqQNnqKy350vGobvXhU"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Perdonare questo",
+      "url": "https://open.spotify.com/track/3LX8dHTRZnY1zHvFWOQLxs"
     },
     {
       "album": {
@@ -12464,7 +12716,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 154744,
       "name": "PSG",
       "url": "https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl"
@@ -12508,7 +12760,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 127060,
       "name": "Pugno di soldi (feat. RRARI DAL TACCO)",
       "url": "https://open.spotify.com/track/15VGccFmGsB50LdXPLJvTr"
@@ -12748,7 +13000,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 179076,
       "name": "Ragazzini 2000 (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/0HOMX6xhF9ViSM8LNpUm1P"
@@ -13070,7 +13322,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 136800,
       "name": "RIVOTRIL",
       "url": "https://open.spotify.com/track/67735rz8Aveeay09ewdEZo"
@@ -13306,7 +13558,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 163823,
       "name": "Rotto",
       "url": "https://open.spotify.com/track/5qfriBxu82O0SlUc3ilMqJ"
@@ -13448,7 +13700,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 133103,
       "name": "SACRIFICIO (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/6WGyWEsaTmhqnWFkaMFjV0"
@@ -14628,7 +14880,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 114473,
       "name": "Sto Essendo Ricco",
       "url": "https://open.spotify.com/track/4XWoSmpCi0L4UBsX7aoczt"
@@ -14745,6 +14997,28 @@
     },
     {
       "album": {
+        "name": "Su di me",
+        "url": "https://open.spotify.com/album/3hXW8t8cPYQ4y73mjmZd1Y"
+      },
+      "artists": [
+        {
+          "name": "ayo ally",
+          "url": "https://open.spotify.com/artist/6Xa2PfSltPs34Bi5OP6nQR"
+        },
+        {
+          "name": "Rossella Essence",
+          "url": "https://open.spotify.com/artist/5uw59dgrWXoss2sg9TC3HD"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129666,
+      "name": "Su di me",
+      "url": "https://open.spotify.com/track/0Ut5lEss1YgPFRaRwOkUuu"
+    },
+    {
+      "album": {
         "name": "Suave (feat. VillaBanks)",
         "url": "https://open.spotify.com/album/2rILNUxABq3b74Ucczc1zV"
       },
@@ -14794,6 +15068,24 @@
       "duration_ms": 130169,
       "name": "Sul petto",
       "url": "https://open.spotify.com/track/4lGSI4eAo7tiX1nSQBeaI6"
+    },
+    {
+      "album": {
+        "name": "SUPEREROI",
+        "url": "https://open.spotify.com/album/2yIXy9X8IkSthoaNU3VwgZ"
+      },
+      "artists": [
+        {
+          "name": "Delaru\u00e0",
+          "url": "https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152216,
+      "name": "SUPEREROI",
+      "url": "https://open.spotify.com/track/06voYo8ivMLPvtJb2uPN96"
     },
     {
       "album": {
@@ -14940,7 +15232,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 157714,
       "name": "TARRARE (feat. Sherkhan & 85Prod)",
       "url": "https://open.spotify.com/track/4KCOCWSApldxLR6m0FL4PF"
@@ -15680,8 +15972,8 @@
           "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
         },
         {
-          "name": "KIID",
-          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+          "name": "Kiid",
+          "url": "https://open.spotify.com/artist/47n6LhYrL1ifDqyNh83pdr"
         },
         {
           "name": "Digital Astro",
@@ -15734,7 +16026,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 160000,
       "name": "TUTA FAKE (feat. Don Pero)",
       "url": "https://open.spotify.com/track/5PT8q7q0VFRA0YL1AbVaiP"

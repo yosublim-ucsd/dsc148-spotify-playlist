@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-260 songs - 14 hr 48 min
+262 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Coco Marijuana](https://open.spotify.com/track/6mXIES5HmXDyD4tpEch0bB) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Satin Cassette](https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV) | 3:57 | 2022-01-21 | 2022-10-14 |
 | [Commando](https://open.spotify.com/track/1k4VnMH8KMeaz653dOsRFv) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Commando](https://open.spotify.com/album/31sUe2fAR76RTCiz9emu0J) | 2:41 | 2023-01-19 | 2023-03-31 |
 | [Common Person](https://open.spotify.com/track/52oDXfdKV4faAFLnNyf0bl) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:30 | 2022-07-25 | 2022-07-29 |
-| [Common Person](https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:30 | 2022-07-25 |  |
+| [Common Person](https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:30 | 2022-07-25 | 2023-11-10 |
 | [Confess](https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Confess](https://open.spotify.com/album/55zccrU90VUl932ZTq1O9e) | 2:40 | 2022-11-18 | 2023-02-17 |
 | [Confident](https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Confident](https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23) | 3:05 | 2021-10-11 | 2022-03-04 |
 | [Confirmed](https://open.spotify.com/track/7sWaLgAGXLdAzRdqmwXilZ) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Kpanlogo](https://open.spotify.com/album/0u2Xpx6AJj4hSzPig3msZ7) | 3:21 | 2021-10-11 | 2022-02-19 |
@@ -251,6 +251,7 @@
 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 | 2022-06-03 | 2022-07-15 |
 | [Things I Know](https://open.spotify.com/track/2AvzqDvMMRXyJhfXrBEDUb) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Things I Know](https://open.spotify.com/album/14sM4pRzpj49fEn5PJEGUP) | 2:50 | 2022-11-04 | 2023-09-29 |
 | [This Time \(feat\. Ami Faku\)](https://open.spotify.com/track/1fIXzuAcGq0mZqGkAy5Zs9) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [I Love It Here](https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK) | 3:09 | 2023-09-14 |  |
+| [Tiki](https://open.spotify.com/track/4oyKYC4jL27WEleepbDqNC) | [H3riQ](https://open.spotify.com/artist/1M2yyejVWWdV0rhGqKWgjz) | [Tiki](https://open.spotify.com/album/1kYcWdWxD4FUnvQZ5HJY6j) | 2:48 | 2023-11-10 |  |
 | [Ubala \(feat\. Sun\-El Musician\)](https://open.spotify.com/track/0n7R3uOg9iZI3vNm7yHSAf) | [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Tugela Fairy](https://open.spotify.com/album/3MlcN8FdjM15IID3d9Jxqk) | 4:08 | 2021-10-11 | 2023-01-20 |
 | [Udo](https://open.spotify.com/track/2EBMAyCUrqzPPjzgU76Amw) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Love and Highlife](https://open.spotify.com/album/6cUiseAcWeWyF5mgeknpRU) | 2:57 | 2021-10-28 | 2022-02-25 |
 | [Vanilla](https://open.spotify.com/track/1iwJvEnt629eyc2GYB9hGm) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Amexin](https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI) | [Vanilla](https://open.spotify.com/album/5U93xnuGmhv3iIb3hUfgRV) | 2:58 | 2023-02-16 | 2023-10-21 |
@@ -258,6 +259,7 @@
 | [Waxtu](https://open.spotify.com/track/0rVGeHX2i6H5Entk7tUiiH) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/0gp7HDhEZinV3HSFIXyV08) | 3:27 | 2022-10-13 | 2022-11-04 |
 | [We No Go Gree](https://open.spotify.com/track/3fKc7Tlx01dM8ZMWiGC7wC) | [Black Girls Glow](https://open.spotify.com/artist/2rzelYNts2hxyccqXrIESK), [Abiana](https://open.spotify.com/artist/3wm0cI0W3nrEOjKOcVSxX1), [Oibiee](https://open.spotify.com/artist/6cPOjhXa2ihT0sa3cqcyhF) | [Orange It Is](https://open.spotify.com/album/3pTOVJPgBecrITnSqzTcVd) | 3:12 | 2023-11-03 |  |
 | [Whine](https://open.spotify.com/track/5nak8AyQcdWySH1laRzNkL) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Whine](https://open.spotify.com/album/539PRaW5N5GFhv7YnFAMHl) | 2:59 | 2022-03-31 | 2022-06-04 |
+| [Who Dey Shake](https://open.spotify.com/track/46SqFCeMhBCanrMdjVt5VG) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Who Dey Shake](https://open.spotify.com/album/57BOojfQE1CsH1qpFmpANc) | 2:47 | 2023-11-10 |  |
 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 | 2023-09-29 |  |
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-06-09 | 2023-10-07 |
 | [Wildones](https://open.spotify.com/track/1Ron2iUpdGroN01UsS7U3C) | [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Wildones](https://open.spotify.com/album/73NOUXLUwlOpa8uX8MKkLR) | 3:04 | 2022-02-03 | 2022-09-24 |

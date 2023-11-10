@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349?si=S0J_MwpgSl2WWyBF9s6lFg\">Posduif</a> ",
+  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=64RR35CJRrO21DYYIA0ueg\">Karlien Van Jaarsveld</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 224117,
       "name": "Allie Manne",
       "url": "https://open.spotify.com/track/0BOQ2E7cJUUmrSgYcIaWEf"
@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "Als Is Okay",
+        "url": "https://open.spotify.com/album/1V7vyyFiCCPYav5PHinkNb"
+      },
+      "artists": [
+        {
+          "name": "Karlien Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181250,
+      "name": "Als Is Okay",
+      "url": "https://open.spotify.com/track/4qgi2zxMxeVoBJ2QT7abuE"
+    },
+    {
+      "album": {
         "name": "Altyd Daar",
         "url": "https://open.spotify.com/album/7i6x9x7WGGsv4iU16Ic3Ab"
       },
@@ -306,7 +324,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 255773,
       "name": "Altyd Daar",
       "url": "https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW"
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 169924,
       "name": "Bo aan my lys",
       "url": "https://open.spotify.com/track/0nQSsjh19aBF2LTIYxMZCz"
@@ -1684,6 +1702,24 @@
       "duration_ms": 191346,
       "name": "Daai Ding",
       "url": "https://open.spotify.com/track/79V2WUCLP5FSjwupdCOlfS"
+    },
+    {
+      "album": {
+        "name": "Daai Girl",
+        "url": "https://open.spotify.com/album/6kl5EDBv4XxeJBJfS9olsx"
+      },
+      "artists": [
+        {
+          "name": "BiBi",
+          "url": "https://open.spotify.com/artist/1jTYq06uhdOxUem1l7JRDX"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193660,
+      "name": "Daai Girl",
+      "url": "https://open.spotify.com/track/6ivrpvgB86kwsySdLpjhV2"
     },
     {
       "album": {
@@ -3333,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "Hallo, Medemens.",
+        "url": "https://open.spotify.com/album/2ifnfDWYW06LS5fXar7OlT"
+      },
+      "artists": [
+        {
+          "name": "Kristi Boonzaaier",
+          "url": "https://open.spotify.com/artist/2sJM434dzEl4573CbPVkFp"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Hallo, Medemens.",
+      "url": "https://open.spotify.com/track/01TAnBzy90Kq7PdDhFO5Cq"
+    },
+    {
+      "album": {
         "name": "Happy Family",
         "url": "https://open.spotify.com/album/578wRRxJyUWvqtvZTQ2V21"
       },
@@ -3692,6 +3746,24 @@
       "duration_ms": 169618,
       "name": "Hierdie Is Nie Liefde Nie",
       "url": "https://open.spotify.com/track/2YNV5GBMYwOI1ZpeSq74Ls"
+    },
+    {
+      "album": {
+        "name": "Hierdie Land Is Jou Huis",
+        "url": "https://open.spotify.com/album/76TmChVN5yW5IHq7475Dsl"
+      },
+      "artists": [
+        {
+          "name": "Fanus Pienaar",
+          "url": "https://open.spotify.com/artist/3L3YdChQhiqC36EgmDuUge"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238593,
+      "name": "Hierdie Land Is Jou Huis",
+      "url": "https://open.spotify.com/track/45iAYmXHljWFiLb2ErtpSN"
     },
     {
       "album": {
@@ -4491,6 +4563,24 @@
     },
     {
       "album": {
+        "name": "Jy's Die Rede",
+        "url": "https://open.spotify.com/album/0U70ctAeApGA0ex46Nx091"
+      },
+      "artists": [
+        {
+          "name": "RICARDO MULLER",
+          "url": "https://open.spotify.com/artist/0XQLACqJpFt5IXHffW1YHn"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192392,
+      "name": "Jy's Die Rede",
+      "url": "https://open.spotify.com/track/1lDL20ewcrslTpK30rYBRj"
+    },
+    {
+      "album": {
         "name": "Jy's Lief Vir My",
         "url": "https://open.spotify.com/album/1p6PZCB7p2kSJ7UQQHRkmT"
       },
@@ -4936,7 +5026,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 208775,
       "name": "Koffie",
       "url": "https://open.spotify.com/track/2G2mLeRi3lZMIkY6St5Dza"
@@ -5826,7 +5916,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 220256,
       "name": "Lila",
       "url": "https://open.spotify.com/track/351JOqEHuxsQ8p85u5Hqr4"
@@ -5996,6 +6086,28 @@
       "duration_ms": 241063,
       "name": "Marakas",
       "url": "https://open.spotify.com/track/1CZuOrdzTTkkNeTIHU26WF"
+    },
+    {
+      "album": {
+        "name": "Marie (Remix)",
+        "url": "https://open.spotify.com/album/4dSxhBcTWJJxpkhigbmAx6"
+      },
+      "artists": [
+        {
+          "name": "Armand Hofmeyr",
+          "url": "https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh"
+        },
+        {
+          "name": "Afrikaans Wil Dans",
+          "url": "https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181394,
+      "name": "Marie - Remix",
+      "url": "https://open.spotify.com/track/5tuCeKFwV7VNbuYX3GmK49"
     },
     {
       "album": {
@@ -7498,7 +7610,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 163035,
       "name": "Ouens Soos Ek",
       "url": "https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0"
@@ -8605,6 +8717,24 @@
     },
     {
       "album": {
+        "name": "OASE",
+        "url": "https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193853,
+      "name": "Slukkie Inspirasie",
+      "url": "https://open.spotify.com/track/6RUiu6xeHqpsxbXJoZeu7s"
+    },
+    {
+      "album": {
         "name": "SMK (Sondagmiddag Knippie)",
         "url": "https://open.spotify.com/album/1jNlLxnN439S7GeKsH10ba"
       },
@@ -8670,7 +8800,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 190692,
       "name": "So Gevoel",
       "url": "https://open.spotify.com/track/59vVY3wCh7AutqrcJ22aIv"
@@ -8692,6 +8822,28 @@
       "duration_ms": 241000,
       "name": "Solank Jy by My Is",
       "url": "https://open.spotify.com/track/5q8uR9E4YQ3hlMwcFvPfgs"
+    },
+    {
+      "album": {
+        "name": "Somer",
+        "url": "https://open.spotify.com/album/63yq4SpaACyHuPw86Eelqj"
+      },
+      "artists": [
+        {
+          "name": "William Wolf",
+          "url": "https://open.spotify.com/artist/3QwFyw3JPeW3U1TJrtadaY"
+        },
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202941,
+      "name": "Somer",
+      "url": "https://open.spotify.com/track/4R7SlP3C1Fbu9XlqirBcLi"
     },
     {
       "album": {
@@ -8946,6 +9098,24 @@
       "duration_ms": 218555,
       "name": "Sprokie vir 'n Stadskind",
       "url": "https://open.spotify.com/track/1pvn5verOnhj7ej5zpHqeu"
+    },
+    {
+      "album": {
+        "name": "STADIG DANS",
+        "url": "https://open.spotify.com/album/08V7kWYzhrZ0fOx8QTa3FV"
+      },
+      "artists": [
+        {
+          "name": "Leandri Martin",
+          "url": "https://open.spotify.com/artist/23vhLfPvdSy4JeT9YqAN1m"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197451,
+      "name": "STADIG DANS",
+      "url": "https://open.spotify.com/track/790ct3erez5eN9mTC2yabi"
     },
     {
       "album": {
@@ -9857,6 +10027,24 @@
     },
     {
       "album": {
+        "name": "Country Heart Vol 1",
+        "url": "https://open.spotify.com/album/0lZijSRXhqNjzivojfdrf2"
+      },
+      "artists": [
+        {
+          "name": "ANDRE JUAN",
+          "url": "https://open.spotify.com/artist/0GVtG5Ws4NdHRijvTseZWT"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300919,
+      "name": "Val Neer Op Hom",
+      "url": "https://open.spotify.com/track/4HBKGxshEZcXrqjZetTEsK"
+    },
+    {
+      "album": {
         "name": "Vanaand",
         "url": "https://open.spotify.com/album/0iwYj6LKFLhSUVDXF5vygz"
       },
@@ -10230,6 +10418,24 @@
       "duration_ms": 234979,
       "name": "Vir Ewig",
       "url": "https://open.spotify.com/track/4duchzNuzguXiPND75nVGr"
+    },
+    {
+      "album": {
+        "name": "Vir Mekaar",
+        "url": "https://open.spotify.com/album/167uib7ckxEtvGvyLo5H2s"
+      },
+      "artists": [
+        {
+          "name": "Christiaan Baartman",
+          "url": "https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228662,
+      "name": "Vir Mekaar",
+      "url": "https://open.spotify.com/track/6Ux5WDXiQbUgjN4bTsAmp5"
     },
     {
       "album": {
@@ -10840,6 +11046,24 @@
       "duration_ms": 206398,
       "name": "Wees Net Beter",
       "url": "https://open.spotify.com/track/5AXAgPFHnFzv8pz9ZOffct"
+    },
+    {
+      "album": {
+        "name": "Weet Jy",
+        "url": "https://open.spotify.com/album/2Bk9aiTtgW5uq3BWtHpbn6"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207478,
+      "name": "Weet Jy",
+      "url": "https://open.spotify.com/track/6XvJrj4flDveKeKgtlP5Qe"
     },
     {
       "album": {

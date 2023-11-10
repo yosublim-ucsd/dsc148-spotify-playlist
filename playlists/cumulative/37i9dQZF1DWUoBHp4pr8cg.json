@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Only the hottest Hip Hop from A-Reece (pictured), Offset, Drake, and more...",
+  "description": "Only the hottest Hip Hop from Shane Eagle (pictured), Offset, Drake, and more...",
   "name": "Hip Hop Circle",
   "tracks": [
     {
@@ -3944,6 +3944,24 @@
       "duration_ms": 219617,
       "name": "SHAQ & KOBE",
       "url": "https://open.spotify.com/track/02K2VtGdUG5fUlAQATEgE6"
+    },
+    {
+      "album": {
+        "name": "SHiRU'S iNTERLUDE",
+        "url": "https://open.spotify.com/album/2SUW9vWQqnhDFUO5kxkhU3"
+      },
+      "artists": [
+        {
+          "name": "Shane Eagle",
+          "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135401,
+      "name": "SHiRU'S iNTERLUDE",
+      "url": "https://open.spotify.com/track/2Fvx7f8fCXxUXS6PiOGivY"
     },
     {
       "album": {

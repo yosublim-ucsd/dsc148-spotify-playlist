@@ -1841,6 +1841,32 @@
     },
     {
       "album": {
+        "name": "Irgendwie, irgendwo, irgendwann (HBz Remix)",
+        "url": "https://open.spotify.com/album/6IV38M4yff4Krj5RfQmbdX"
+      },
+      "artists": [
+        {
+          "name": "Pazoo",
+          "url": "https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg"
+        },
+        {
+          "name": "Vivi Minu",
+          "url": "https://open.spotify.com/artist/1jk3Oyy4oKxYMYuvG4b3DH"
+        },
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195640,
+      "name": "Irgendwie, irgendwo, irgendwann - HBz Remix",
+      "url": "https://open.spotify.com/track/1tJHTEI5v9R4BdnfhWYLDe"
+    },
+    {
+      "album": {
         "name": "Jackie Chan (Remixes, Vol. 2)",
         "url": "https://open.spotify.com/album/2LfHj3QvCGowIeeSYWXLuA"
       },
@@ -3424,7 +3450,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 174400,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"

@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Silent Planet
 
-4,987 songs - 14 day 2 hr 10 min
+4,988 songs - 14 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4268,6 +4268,7 @@
 | [The Monster Roars](https://open.spotify.com/track/32xyRA1ED50D5C42SOVrXu) | [Magnum](https://open.spotify.com/artist/3Nu9hoMBT4SkDcaNvmK4G1) | [The Monster Roars](https://open.spotify.com/album/286a0luh0FDCtNoPdQh57A) | 4:01 | 2022-01-14 | 2022-02-11 |
 | [The Moon](https://open.spotify.com/track/3j3QVCJXXZXfgB5sjN1TEY) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [The Moon](https://open.spotify.com/album/2iYLHZ81SJa5MY9BDjCek9) | 5:57 | 2021-12-17 | 2022-01-07 |
 | [The Moonflower Society](https://open.spotify.com/track/4A7OaXDggBi3sr0oQ9gGrR) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Bob Catley](https://open.spotify.com/artist/24kjaLFNZj7SCjyN8Oux9H) | [The Moonflower Society](https://open.spotify.com/album/1568V1u2rHxn76uz2WQVBJ) | 5:13 | 2022-07-15 | 2022-07-23 |
+| [The Mouth Licking What You've Bled \- 25th Anniversary 2023 Remastered Edition](https://open.spotify.com/track/2FWWAz6YAHDVc31GQsQKID) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [The Mouth Licking What You've Bled \(25th Anniversary 2023 Remastered Edition\)](https://open.spotify.com/album/6Xlp2KQBUA9BdB7kTNXupU) | 3:57 | 2023-11-03 |  |
 | [The Mythos That Lovecraft Built](https://open.spotify.com/track/598gXATsKv83aHAWEqxvJ4) | [Massacre](https://open.spotify.com/artist/10tKMKG6F95zDrJOxqtjhA) | [Mythos](https://open.spotify.com/album/5sLAYgmmCZxUfTdMRg9Bn1) | 3:37 | 2022-07-01 | 2022-07-08 |
 | [The Needle](https://open.spotify.com/track/1PpSehY71EVkeku3e04nar) | [The Necromancers](https://open.spotify.com/artist/17Eb4wzkEMdGVgHmA2Ui8C) | [The Needle](https://open.spotify.com/album/0WQQmyp3trRQ8SQqnmnlbO) | 5:23 | 2022-09-16 | 2022-09-24 |
 | [The Needless End](https://open.spotify.com/track/6xXUuYWdFsNjTo1AIBzeg9) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Days Of The Lost](https://open.spotify.com/album/5qIXPFxQvZPJCGyXL8yA9Y) | 4:04 | 2022-06-06 | 2022-06-10 |

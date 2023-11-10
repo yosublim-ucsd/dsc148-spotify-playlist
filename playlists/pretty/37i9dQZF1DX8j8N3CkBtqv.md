@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- somanshu, Lisa Mishra, OAFF and The Rish
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,002 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,018 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Mazaakiyan](https://open.spotify.com/track/6k7NmvQ4K4v2b9ZqOZ9GYz) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Mazaakiyan](https://open.spotify.com/album/4K8RsN4S41LAP7XAIpuMSM) | 2:28 |
 | 50 | [Aankhon Mein](https://open.spotify.com/track/0zTsDqhEFtHMj5SQCYdUcg) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Aankhon Mein](https://open.spotify.com/album/2PsdLAoCHDSE3r7paZG0HJ) | 3:28 |
 
-Snapshot ID: `MCxlNzMxMDYwOTU2ZWU0YzE1MzUyOGJjNzg0MWJiNmY5NmNmYWIzNzY3`
+Snapshot ID: `MCxkOThiM2QyMzBhNDJlZGI5YzUxYzczNDM5MDcwOWM1YzJhMDA4ZWY4`

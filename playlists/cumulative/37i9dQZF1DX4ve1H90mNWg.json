@@ -7796,10 +7796,40 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 215406,
       "name": "Pop Like",
       "url": "https://open.spotify.com/track/1LudIHle04O6wfSi2QNdqL"
+    },
+    {
+      "album": {
+        "name": "Pop Like",
+        "url": "https://open.spotify.com/album/6pKNElZ89izWZXXHQpqS2S"
+      },
+      "artists": [
+        {
+          "name": "DJ Chose",
+          "url": "https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq"
+        },
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215406,
+      "name": "Pop Like",
+      "url": "https://open.spotify.com/track/4UIgZPjsQRJymZsqHg2SB8"
     },
     {
       "album": {

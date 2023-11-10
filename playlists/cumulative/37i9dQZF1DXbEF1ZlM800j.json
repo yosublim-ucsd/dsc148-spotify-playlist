@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Bestest Season 1 Songs",
+        "url": "https://open.spotify.com/album/2QvlweqDUXJUxGHWNfP04X"
+      },
+      "artists": [
+        {
+          "name": "Bossy Bear",
+          "url": "https://open.spotify.com/artist/5BgDoOVyINKDIB1B72F0YJ"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42498,
+      "name": "Hanukkah O Hanukkah",
+      "url": "https://open.spotify.com/track/0d728Q8nTHHcbXWzVwX5Bj"
+    },
+    {
+      "album": {
         "name": "Erran Baron Cohen Presents: Songs In The Key Of Hanukkah",
         "url": "https://open.spotify.com/album/63HS1rHzEtJhvvxdSTwRgK"
       },

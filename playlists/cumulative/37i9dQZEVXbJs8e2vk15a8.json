@@ -16,10 +16,28 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0kvD9ksvXyRHANPypIpkIh"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0PvA059GTWOU5bbA9H6DTc"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7lyv2sysHCzFjypILxAynT"
     },
     {
       "album": {
@@ -5521,6 +5539,28 @@
     },
     {
       "album": {
+        "name": "Contacto Visual (Remix So\u00f1ao)",
+        "url": "https://open.spotify.com/album/4MGCQQhStPAeoMIaaKIhAO"
+      },
+      "artists": [
+        {
+          "name": "Mauryceo",
+          "url": "https://open.spotify.com/artist/78XfDNY0PJ2x2ADv30uJiX"
+        },
+        {
+          "name": "FlowGPT",
+          "url": "https://open.spotify.com/artist/1mxt7qtdBFCHAeEeDHGgiC"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175973,
+      "name": "Contacto Visual - Remix So\u00f1ao",
+      "url": "https://open.spotify.com/track/7bjl4rO7uftiOhzNCMu9T7"
+    },
+    {
+      "album": {
         "name": "CONTANDO",
         "url": "https://open.spotify.com/album/0qyoXkWdCYH8HQM9hBayze"
       },
@@ -5734,6 +5774,24 @@
       "duration_ms": 160535,
       "name": "CORAZ\u00d3N VAC\u00cdO",
       "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
+    },
+    {
+      "album": {
+        "name": "Corte Narco",
+        "url": "https://open.spotify.com/album/0pfNtRMa8iBN5FewE8VgwK"
+      },
+      "artists": [
+        {
+          "name": "BenGstar",
+          "url": "https://open.spotify.com/artist/1wVJFmSm8OwomtQZZCLKjh"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148967,
+      "name": "Corte Narco",
+      "url": "https://open.spotify.com/track/3Z336BahYNrNSMeeO6Lizl"
     },
     {
       "album": {
@@ -6470,6 +6528,42 @@
       "duration_ms": 74234,
       "name": "Dembow Cris MJ",
       "url": "https://open.spotify.com/track/2UDnuZTxZacqQCF67quCF5"
+    },
+    {
+      "album": {
+        "name": "DEMO #1: Karol",
+        "url": "https://open.spotify.com/album/4VYU93L6ejCG98ybRCn66c"
+      },
+      "artists": [
+        {
+          "name": "FlowGPT",
+          "url": "https://open.spotify.com/artist/1mxt7qtdBFCHAeEeDHGgiC"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169246,
+      "name": "DEMO #1: Karol",
+      "url": "https://open.spotify.com/track/1fiAnD9KEvbugA4kYxdHqJ"
+    },
+    {
+      "album": {
+        "name": "DEMO #2: TQuilas",
+        "url": "https://open.spotify.com/album/2jngwWiQlrdjj0LjCmOOLd"
+      },
+      "artists": [
+        {
+          "name": "FlowGPT",
+          "url": "https://open.spotify.com/artist/1mxt7qtdBFCHAeEeDHGgiC"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168747,
+      "name": "DEMO #2: TQuilas",
+      "url": "https://open.spotify.com/track/2QcTd2uWcxTPDTwxDlNkvW"
     },
     {
       "album": {
@@ -12314,7 +12408,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 183333,
       "name": "Joseando en el Block",
       "url": "https://open.spotify.com/track/6x9HJy6wQzqUZENgmnrKzr"
@@ -16174,7 +16268,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 231444,
       "name": "Mi Primera Chamba",
       "url": "https://open.spotify.com/track/6KL3mzK9SdRCT93pPgVvHu"
@@ -17868,7 +17962,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 196231,
       "name": "No Me Salgas Con Esa (MJ Cris)",
       "url": "https://open.spotify.com/track/7sACkXjjfzWdagFnEehPYS"
@@ -18938,7 +19032,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -26422,7 +26516,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 155688,
       "name": "Toaaa",
       "url": "https://open.spotify.com/track/3GeOq7rvgeKcFhydpuFPcO"
@@ -28746,6 +28840,24 @@
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "album": {
+        "name": "TEKKNO",
+        "url": "https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206133,
+      "name": "We Got the Moves",
+      "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa"
     },
     {
       "album": {

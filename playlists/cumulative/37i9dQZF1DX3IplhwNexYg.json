@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The best in current indie rock. Cover: bar italia",
+  "description": "The best in current indie rock. Cover: Sundara Karma ",
   "name": "pulp",
   "tracks": [
     {
@@ -2634,7 +2634,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 133285,
       "name": "feti\u0161h",
       "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
@@ -4892,7 +4892,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 182826,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK"
@@ -5007,6 +5007,24 @@
     },
     {
       "album": {
+        "name": "Make You Proud",
+        "url": "https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207439,
+      "name": "Make You Proud",
+      "url": "https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z"
+    },
+    {
+      "album": {
         "name": "Havasu",
         "url": "https://open.spotify.com/album/6Uxjn5Rskks7mUFhWp7UPV"
       },
@@ -5058,6 +5076,24 @@
       "duration_ms": 149077,
       "name": "Marbles",
       "url": "https://open.spotify.com/track/5ojNSrZr722qBzhBNUfIRT"
+    },
+    {
+      "album": {
+        "name": "Market Street",
+        "url": "https://open.spotify.com/album/5muBMq6FHcSUk8nRcJVLml"
+      },
+      "artists": [
+        {
+          "name": "The Reytons",
+          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197973,
+      "name": "Market Street",
+      "url": "https://open.spotify.com/track/2xAv91RQ4dlpWqGIq2nTqb"
     },
     {
       "album": {
@@ -7503,6 +7539,24 @@
     },
     {
       "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/6Cc95ql1nixjAuvOGfRPYi"
+      },
+      "artists": [
+        {
+          "name": "Pillow Queens",
+          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211020,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/3RHMaRzMWlxDTdQXuZJ3rT"
+    },
+    {
+      "album": {
         "name": "Superblue",
         "url": "https://open.spotify.com/album/3Pu25k3w3yE4Qfli9VqFP4"
       },
@@ -8530,7 +8584,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 160853,
       "name": "Waste My Life",
       "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"

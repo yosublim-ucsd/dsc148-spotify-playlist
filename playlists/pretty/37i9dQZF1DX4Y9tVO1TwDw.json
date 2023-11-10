@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: Estevie",
-  "num_followers": 6338,
+  "num_followers": 6346,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjljNTU2YWJmZTQ4NTc4NGQzY2JiMGIzMjhhNWUzYmM0NDQ3Yjg3",
+  "snapshot_id": "MCw1NWE4MWE5MjQ2MzQ2YTUwZmViMTFmY2E1YThlODNkZmM0YzE2MmI5",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "DIVA",
-        "url": "https://open.spotify.com/album/2wzodZPwZRxma1r6yPPxTD"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 137093,
-      "name": "DIVA",
-      "url": "https://open.spotify.com/track/3i6p7Lc6GSdhXBy8VEXEea"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "kiss u better",
         "url": "https://open.spotify.com/album/0hF3HodPikSBNy4dMGVSOf"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 187826,
       "name": "kiss u better",
       "url": "https://open.spotify.com/track/7ghyfzs27FAYNaP7sO8FnS"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "DIVA",
+        "url": "https://open.spotify.com/album/2wzodZPwZRxma1r6yPPxTD"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 137093,
+      "name": "DIVA",
+      "url": "https://open.spotify.com/track/3i6p7Lc6GSdhXBy8VEXEea"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "QUIERO LLORAR Y NO PUEDO",
+        "url": "https://open.spotify.com/album/4Ua1w80i6Lz0yF1kc1ZQSP"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        }
+      ],
+      "duration_ms": 201728,
+      "name": "QUIERO LLORAR Y NO PUEDO",
+      "url": "https://open.spotify.com/track/3uvj97aCrgC1bGpiV5oCNm"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Papaya",
         "url": "https://open.spotify.com/album/0FrfppDaTYpma9MXQ6qRqE"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 136803,
       "name": "Papaya",
       "url": "https://open.spotify.com/track/4Az1TpAuG5E8dDqYjyVGUX"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "QUIERO LLORAR Y NO PUEDO",
-        "url": "https://open.spotify.com/album/4Ua1w80i6Lz0yF1kc1ZQSP"
-      },
-      "artists": [
-        {
-          "name": "eydrey",
-          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
-        }
-      ],
-      "duration_ms": 201728,
-      "name": "QUIERO LLORAR Y NO PUEDO",
-      "url": "https://open.spotify.com/track/3uvj97aCrgC1bGpiV5oCNm"
     },
     {
       "added_at": "2023-10-06 04:00:00",

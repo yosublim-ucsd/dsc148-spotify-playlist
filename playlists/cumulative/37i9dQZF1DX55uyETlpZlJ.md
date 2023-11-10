@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-200 songs - 10 hr 51 min
+201 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Karma](https://open.spotify.com/track/5uOfjSX8fqPKTqdmDwoXKK) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Karma](https://open.spotify.com/album/0otfI7PmqVOgKLlmktOaB9) | 1:25 | 2023-07-17 |  |
 | [Kelilli](https://open.spotify.com/track/7oVFj9kWbTuHbNafpcLqbi) | [Gubbi](https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [Kelilli](https://open.spotify.com/album/0Tzvd8xmI0kKZPwIIedKHM) | 2:22 | 2023-10-19 |  |
 | [Khayali](https://open.spotify.com/track/4yQSmhi8kCpEoNAN4PCELf) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Khayali](https://open.spotify.com/album/6QNuYLe3fEVm43H8ADzTTU) | 3:09 | 2023-04-22 | 2023-06-08 |
+| [Khushiyaadenu Naa](https://open.spotify.com/track/6F6P4st3J11p2vfNepvRRn) | [Sahana Hegde](https://open.spotify.com/artist/6zFbnKp5WefatujgmaBGYm) | [Khushiyaadenu Naa](https://open.spotify.com/album/05F0QUtC0lmAyt0ozTB5L3) | 3:12 | 2023-11-09 |  |
 | [Legacy](https://open.spotify.com/track/1OgAf9ByjzHnZ23Ydy8RU4) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Legacy](https://open.spotify.com/album/1RkCyQuBZqB9RbHUOouEJL) | 2:56 | 2022-09-16 | 2023-08-06 |
 | [Legini Legini](https://open.spotify.com/track/2TXoPenrvYt9Uir0fWxC2y) | [Prasanna Bhoojashettar](https://open.spotify.com/artist/4OhmZdanQ6mk5jNgVuI0cy) | [Legini Legini](https://open.spotify.com/album/5shEBUWgQZ9JsHBZ2yQpRF) | 3:39 | 2023-01-04 | 2023-06-08 |
 | [Live Lakshmi](https://open.spotify.com/track/1kgvfvXFjAEpUwKYqZcc54) | [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst), [Kishor](https://open.spotify.com/artist/6GYVBglYMAmbDVoLAX02kD), [Kavya SM](https://open.spotify.com/artist/7HrXhvguvaak7G4Luv63yu) | [Live Lakshmi](https://open.spotify.com/album/32fNJbDr7iUAZZx1dBi8f1) | 1:57 | 2023-08-24 |  |

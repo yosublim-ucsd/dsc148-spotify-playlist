@@ -1391,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "L'ombre de Ton Sourire",
+        "url": "https://open.spotify.com/album/7FEwTQS56abm4r3ieta3Vc"
+      },
+      "artists": [
+        {
+          "name": "Quintet de Jazz Parisien",
+          "url": "https://open.spotify.com/artist/5jjAtTkp5UsT9PQyGfFOwO"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183933,
+      "name": "L'ombre de Ton Sourire",
+      "url": "https://open.spotify.com/track/4cNus5tgT5v9UF9uF41dpU"
+    },
+    {
+      "album": {
         "name": "La Chambre d\u00b4Emelie",
         "url": "https://open.spotify.com/album/241JO38t2xkN0COxsbkdzx"
       },

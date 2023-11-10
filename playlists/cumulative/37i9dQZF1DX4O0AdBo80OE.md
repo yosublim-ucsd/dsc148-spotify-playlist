@@ -4,7 +4,7 @@
 
 > Rimas cremosas, tan necesarias como tu café\. Blnko y Lng/Sht \(Ex Austin TV\) en portada.
 
-127 songs - 7 hr 9 min
+128 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [En Pausa](https://open.spotify.com/track/4xSLkAIKGL1kYa6V0NzJGV) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [En Pausa](https://open.spotify.com/album/33NBuJXblgn3swtbT6d846) | 3:31 | 2023-05-26 | 2023-10-14 |
 | [Enculado](https://open.spotify.com/track/07lthWzkSdlmEI435DtCcf) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [RIKO](https://open.spotify.com/artist/3bX0TAwah1a1TNlsJgOgP7) | [Enculado](https://open.spotify.com/album/4LuGDwl9vmidZ1T1PxpJEm) | 3:46 | 2023-05-26 |  |
 | [Enrolemos uno](https://open.spotify.com/track/51SfvQm8QcPAyW4yBfPv1L) | [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Chenguedengue](https://open.spotify.com/artist/2BbaWbkYiUZw3MRpiZYFdi) | [Enrolemos uno](https://open.spotify.com/album/5gaExTOw8xJLQdZkDwEqRE) | 3:06 | 2023-09-15 |  |
-| [Entendí](https://open.spotify.com/track/1Irew14HVrUqhLJFt31NYr) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Entendí](https://open.spotify.com/album/60fBhH5X0kY5d8moClLTZg) | 2:56 | 2023-05-26 |  |
+| [Entendí](https://open.spotify.com/track/1Irew14HVrUqhLJFt31NYr) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Entendí](https://open.spotify.com/album/60fBhH5X0kY5d8moClLTZg) | 2:56 | 2023-05-26 | 2023-11-10 |
 | [Equivocado](https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Equivocado](https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI) | 4:06 | 2023-05-26 |  |
 | [Estúpido](https://open.spotify.com/track/6dhHzdNdhDota4Yb1s7o0g) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Estúpido](https://open.spotify.com/album/6GZyMWAmUe5XjtLG79jVnG) | 3:16 | 2023-05-26 | 2023-07-01 |
 | [EVEREST](https://open.spotify.com/track/497xqIv6ndofwfQ65sfXPP) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [EVEREST](https://open.spotify.com/album/426nP0DkAy4SyJEO3UPgV3) | 2:12 | 2023-05-26 | 2023-09-02 |
@@ -80,6 +80,7 @@
 | [Me Haces Bien](https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO), [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91) | [Me Haces Bien](https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC) | 3:27 | 2023-08-18 |  |
 | [Mextasis](https://open.spotify.com/track/7hUGy5dnyRVXzHOv9LoZB9) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 3:16 | 2023-05-26 |  |
 | [Mi Día de Suerte](https://open.spotify.com/track/3WDEgbYmIkNgZZVZu2ZNwe) | [NOSOYSEQUI](https://open.spotify.com/artist/4gqy8vey7cdsuNVNrpDbS4), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [Mi Día de Suerte](https://open.spotify.com/album/2dun8iDMUBI7nwD38Bdsiq) | 3:03 | 2023-07-14 |  |
+| [Mi Kryptonita](https://open.spotify.com/track/4mWiyglEmK9eRAwMdD9tQ6) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [Talento De Vida](https://open.spotify.com/album/2z6GzbRNcGdp0cGOoaRLuv) | 3:08 | 2023-11-09 |  |
 | [MOTEL CALIFORNIA](https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [MOTEL CALIFORNIA](https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO) | 3:33 | 2023-05-26 |  |
 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 | 2023-05-26 |  |
 | [Ni bien ni mal](https://open.spotify.com/track/6KUQvfFKLMF2fL3xFXoZbG) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Ni bien ni mal](https://open.spotify.com/album/6rWFTuLNpePpP8cCx83uVs) | 2:50 | 2023-05-26 | 2023-09-02 |

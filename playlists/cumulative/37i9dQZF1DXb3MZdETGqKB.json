@@ -2082,7 +2082,7 @@
     {
       "album": {
         "name": "Death Of The Hoochie Koo",
-        "url": "https://open.spotify.com/album/3c0lWeW5PfR1sal7UUFgjB"
+        "url": "https://open.spotify.com/album/2ajOIlt7QTx5E9OMYa7WPE"
       },
       "artists": [
         {
@@ -2101,6 +2101,32 @@
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 162094,
+      "name": "Lips Are Movin'",
+      "url": "https://open.spotify.com/track/2kXOwYrDCyyhbDY7B2Sggp"
+    },
+    {
+      "album": {
+        "name": "Death Of The Hoochie Koo",
+        "url": "https://open.spotify.com/album/3c0lWeW5PfR1sal7UUFgjB"
+      },
+      "artists": [
+        {
+          "name": "Sgt. Splendor",
+          "url": "https://open.spotify.com/artist/1hEnIRqyPrQ0ACvUZZM2Aw"
+        },
+        {
+          "name": "Kate Vargas",
+          "url": "https://open.spotify.com/artist/6IaBcgmfcrqB8yGh0BrTf1"
+        },
+        {
+          "name": "Eric McFadden",
+          "url": "https://open.spotify.com/artist/5eW72pXN4o65oLTUmVRBKA"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-10",
       "duration_ms": 162094,
       "name": "Lips Are Movin'",
       "url": "https://open.spotify.com/track/7oQ8nqWZ8KupiIO4SJrHxM"

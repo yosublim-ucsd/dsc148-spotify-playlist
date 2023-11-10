@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 238000,
       "name": "Hasrat (OST Imaginur)",
       "url": "https://open.spotify.com/track/3Q6DYlT649Y1tgyf5We71c"
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 188502,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/2luqp05fNA4CbzzgWR9cuS"
@@ -3344,6 +3344,28 @@
       "duration_ms": 155294,
       "name": "Masih Sunyi",
       "url": "https://open.spotify.com/track/5VyaFEMVKCFuuKXAlIgD1W"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda"
+      },
+      "artists": [
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        },
+        {
+          "name": "Ade Govinda",
+          "url": "https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234589,
+      "name": "Masing Masing",
+      "url": "https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37"
     },
     {
       "album": {
@@ -5956,6 +5978,24 @@
       "duration_ms": 237863,
       "name": "Tertawan Hati",
       "url": "https://open.spotify.com/track/3i0h88q1HBtbdIg2bPxs54"
+    },
+    {
+      "album": {
+        "name": "Terus Bersinar",
+        "url": "https://open.spotify.com/album/03znWwyr9Oh1h9PogxmLnm"
+      },
+      "artists": [
+        {
+          "name": "Hafiz Suip",
+          "url": "https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225762,
+      "name": "Terus Bersinar",
+      "url": "https://open.spotify.com/track/7eFpPrTVrKuxiUYhtNP7fQ"
     },
     {
       "album": {

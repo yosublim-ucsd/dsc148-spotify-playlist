@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/0Y5ZQ28L3Oi1APem8PpPNM"
+      },
+      "artists": [
+        {
+          "name": "Stockholm Whereabouts",
+          "url": "https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/2frIsLqlpUpQGS6Z80EUlF"
+    },
+    {
+      "album": {
         "name": "Jazz Lovin in the Rain",
         "url": "https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ"
       },

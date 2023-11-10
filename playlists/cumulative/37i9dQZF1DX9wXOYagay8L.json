@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems. Cover: <a href=\"https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees?si=VX24Cnv8TjGEpyfOBW0wWA\">Mthandazo Gatya</a>",
+  "description": "Beautiful proudly South African gems. Cover: <a href=\"https://open.spotify.com/artist/1UiuIk36C3ZI4Jqat38Q5L?si=p5QmTCuRQlGDvHGpeLhnqw\">Paige</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -3744,7 +3744,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 246288,
       "name": "ithemba (Litsomo Version)",
       "url": "https://open.spotify.com/track/0L40hQoFVhcdkkDftKhoNd"
@@ -7972,7 +7972,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 157674,
       "name": "Shisha",
       "url": "https://open.spotify.com/track/1pARdNL0rnflCKtrTtCmD0"
@@ -9707,6 +9707,36 @@
     },
     {
       "album": {
+        "name": "African Child",
+        "url": "https://open.spotify.com/album/4gtaA752fjI7CZsaQR81DH"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1UiuIk36C3ZI4Jqat38Q5L"
+        },
+        {
+          "name": "Aymos",
+          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
+        },
+        {
+          "name": "Ntate Stunna",
+          "url": "https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL"
+        },
+        {
+          "name": "Cheez Beezy",
+          "url": "https://open.spotify.com/artist/3rjwqVAqz74iTFIOoG8ze0"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337581,
+      "name": "uMngani Wami",
+      "url": "https://open.spotify.com/track/7ALJH5Zqi2vtNYY12TFw1N"
+    },
+    {
+      "album": {
         "name": "Umntu",
         "url": "https://open.spotify.com/album/6gFP86yvqkNRvLAaw4ptnF"
       },
@@ -10122,6 +10152,24 @@
       "duration_ms": 253080,
       "name": "Uzoma",
       "url": "https://open.spotify.com/track/2CAqtVOt19JLoSvcx66kZL"
+    },
+    {
+      "album": {
+        "name": "Uzong'khumbula",
+        "url": "https://open.spotify.com/album/5bhqSLe1lWwDTieAYnYtby"
+      },
+      "artists": [
+        {
+          "name": "Kallo",
+          "url": "https://open.spotify.com/artist/2r0WWQy8Ro4SuaxPq1gIVO"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249290,
+      "name": "Uzong'khumbula",
+      "url": "https://open.spotify.com/track/7mD56wV0H5HlbXzujpKFDS"
     },
     {
       "album": {

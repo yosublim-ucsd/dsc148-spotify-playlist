@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 74020,
+  "num_followers": 74104,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDA0OTIyOTdhMWExMmNlMmRhNTZmMjExNzc5Yzk2M2ZjNTJjMzEy",
+  "snapshot_id": "MCxhNDE1N2RjODRlNjYzNTExZWQ1YzMyYjVkMDMxYjZhNjk0YWNlNTYz",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "\u00a1En Vivo!",
-        "url": "https://open.spotify.com/album/31XZVGSpZN7OpJxSunWcmY"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 256640,
-      "name": "Albur De Amor - En Vivo",
-      "url": "https://open.spotify.com/track/3l5svGQecEgyZBTbQClaVp"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Mariachi Hit Parade",
         "url": "https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 138213,
       "name": "En El \u00daltimo Trago",
       "url": "https://open.spotify.com/track/1WdmbYpsCVwFTNxbmgF44G"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "\u00a1En Vivo!",
+        "url": "https://open.spotify.com/album/31XZVGSpZN7OpJxSunWcmY"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 256640,
+      "name": "Albur De Amor - En Vivo",
+      "url": "https://open.spotify.com/track/3l5svGQecEgyZBTbQClaVp"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 163120,
-      "name": "El Rey - En Vivo",
-      "url": "https://open.spotify.com/track/2tJH8dxiDkTAeHWjHzKsH9"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Mariachi Ranchera Y Tradicional",
         "url": "https://open.spotify.com/album/4ON3WQPvu6TI22DnBiF9Pg"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 307626,
       "name": "Sufriendo a Solas",
       "url": "https://open.spotify.com/track/253straZSUiYbEJ6Oorc6B"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 163120,
+      "name": "El Rey - En Vivo",
+      "url": "https://open.spotify.com/track/2tJH8dxiDkTAeHWjHzKsH9"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -895,18 +895,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
+        "name": "En Vivo Desde La Plaza El Progreso De Guadalajara",
+        "url": "https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Cartas Marcadas - En Vivo",
-      "url": "https://open.spotify.com/track/3oRknjYGTdRmvhHVuYdoNI"
+      "duration_ms": 236186,
+      "name": "Tatuajes - En Vivo",
+      "url": "https://open.spotify.com/track/0TchGuutCU00E8sw8E6XWX"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -927,18 +927,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "En Vivo Desde La Plaza El Progreso De Guadalajara",
-        "url": "https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j"
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 236186,
-      "name": "Tatuajes - En Vivo",
-      "url": "https://open.spotify.com/track/0TchGuutCU00E8sw8E6XWX"
+      "duration_ms": 250200,
+      "name": "Cartas Marcadas - En Vivo",
+      "url": "https://open.spotify.com/track/3oRknjYGTdRmvhHVuYdoNI"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 266821,
-      "name": "Cielo Rojo - En Vivo Auditorio Nacional",
-      "url": "https://open.spotify.com/track/6MXu4vPjcCVKJdPsU0vhyc"
+      "duration_ms": 441442,
+      "name": "Medley Kumbia - En Vivo Auditorio Nacional",
+      "url": "https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 441442,
-      "name": "Medley Kumbia - En Vivo Auditorio Nacional",
-      "url": "https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw"
+      "duration_ms": 266821,
+      "name": "Cielo Rojo - En Vivo Auditorio Nacional",
+      "url": "https://open.spotify.com/track/6MXu4vPjcCVKJdPsU0vhyc"
     }
   ],
   "unique_name": "Mariachi en Vivo",

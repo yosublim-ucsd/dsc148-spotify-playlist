@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Nicolle Galyon
 
-243 songs - 14 hr 7 min
+244 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Grocery Money](https://open.spotify.com/track/5LQwU32gKbx7jTRjT6QANj) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:25 | 2022-01-01 |  |
 | [H.O.L.Y.](https://open.spotify.com/track/73vNEylB6t6s69lSwOh385) | [Busbee](https://open.spotify.com/artist/0idZaiBQNEzUDlVOeb7Cin), [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 3:08 | 2022-01-01 |  |
 | [Halloween \(feat\. Nicolle Galyon\)](https://open.spotify.com/track/0dKwVCi0hOtIX3dCIMrHuU) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [boom.](https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe) | 3:20 | 2022-02-28 |  |
-| [Happy Children](https://open.spotify.com/track/4Fn2Ijd0qvHgXZNX2fkvXb) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Happy Children](https://open.spotify.com/album/4ZexsPQNXsn1b8Pwg4HO1o) | 4:11 | 2023-06-30 |  |
+| [Happy Children](https://open.spotify.com/track/3DAmiBXJkHj9YqV1UjJw0s) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [1988](https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm) | 4:11 | 2023-10-13 |  |
+| [Happy Children](https://open.spotify.com/track/4Fn2Ijd0qvHgXZNX2fkvXb) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Happy Children](https://open.spotify.com/album/4ZexsPQNXsn1b8Pwg4HO1o) | 4:11 | 2023-06-30 | 2023-11-10 |
 | [Happy People](https://open.spotify.com/track/6QVr3eutHm5Cmd9MtXGBZA) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:03 | 2022-03-14 |  |
 | [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 | 2022-01-01 |  |
 | [Hard to Love](https://open.spotify.com/track/1ZnWlISuGFoepIAcyMX5RG) | [Ben Glover](https://open.spotify.com/artist/4jJkqfWssxRe0L2FdEcjjx) | [Keeping It Original for Alive: A Celebration of Songwriters Benefiting Alive Hospice, Vol\. 1](https://open.spotify.com/album/1kwMPmio6OJkwHRYWK6q8p) | 2:54 | 2022-01-01 |  |

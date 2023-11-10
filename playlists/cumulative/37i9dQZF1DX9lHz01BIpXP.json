@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I?si=cGzkKRKHRFCwOlBcTV3c_w\">Biggy</a> ",
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i?si=Tj2pMniQQDu3Zm2lEGp2NA\">Bigbforever</a> ",
   "name": "Afrikaanse Hip Hop",
   "tracks": [
     {
@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 215536,
       "name": "Werkhom 2.0 (Bonus Track)",
       "url": "https://open.spotify.com/track/0zi0Do3nO8LtRzlau2V7DR"
@@ -2220,6 +2220,24 @@
       "duration_ms": 193854,
       "name": "Wesbank Bloei",
       "url": "https://open.spotify.com/track/25DeMB5fLrhgiGWKvVb083"
+    },
+    {
+      "album": {
+        "name": "When days are dark",
+        "url": "https://open.spotify.com/album/761h656NyhlwFRUJpir3mx"
+      },
+      "artists": [
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170657,
+      "name": "When days are dark",
+      "url": "https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM"
     },
     {
       "album": {

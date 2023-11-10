@@ -1293,6 +1293,28 @@
     },
     {
       "album": {
+        "name": "ELETROFUNK",
+        "url": "https://open.spotify.com/album/2LcCnMtsbkavtp840DP8Hh"
+      },
+      "artists": [
+        {
+          "name": "SO ELETROFUNK BOM",
+          "url": "https://open.spotify.com/artist/51YTokYMt4tkeMnHVeD2sf"
+        },
+        {
+          "name": "GABRIEL APGO",
+          "url": "https://open.spotify.com/artist/0vFr9eIywFwrm2UnYZO2QG"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139384,
+      "name": "MEU PILOTO DE FUGA ELETROFUNK",
+      "url": "https://open.spotify.com/track/4yWoDut24GNWsA8A0yWefc"
+    },
+    {
+      "album": {
         "name": "ELETROFUNK BOM",
         "url": "https://open.spotify.com/album/762nMCpAYk5hwbv7IjL33N"
       },
@@ -1308,7 +1330,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 139721,
       "name": "MEU PILOTO ELETROFUNK",
       "url": "https://open.spotify.com/track/4Ile5l3VkVVEuHjDNOMVER"
@@ -1398,8 +1420,8 @@
           "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
         },
         {
-          "name": "Mc Karol",
-          "url": "https://open.spotify.com/artist/3PcaoyXip46S7I2LyU8sxW"
+          "name": "Mc Luan",
+          "url": "https://open.spotify.com/artist/1RdD4CJBoJIEo0vOogJCCF"
         }
       ],
       "date_added": "2023-10-06",
@@ -1452,7 +1474,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 145080,
       "name": "Montagem Coral",
       "url": "https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix"
@@ -2568,7 +2590,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 145055,
       "name": "Vois sur ton chemin",
       "url": "https://open.spotify.com/track/3EBW62oChNTesOLm7hnuEk"

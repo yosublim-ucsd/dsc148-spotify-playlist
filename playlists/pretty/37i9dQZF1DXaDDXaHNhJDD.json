@@ -1,56 +1,60 @@
 {
   "description": "Your ultimate playlist for the best in Mollywood!\nCover: 2018",
-  "num_followers": 79636,
+  "num_followers": 79843,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmYzODJjOGNhNzU4MGQ0NmJmMmYwYzE5NzVjNTEwODQzZjQyZmQ5",
+  "snapshot_id": "MCxiNDgzZTVjMzBjMmJjNThkY2IyOWZmNWRjZDA1YTgxZWVlNmE2NDhk",
   "tracks": [
     {
       "added_at": "2023-09-15 11:12:56",
       "album": {
-        "name": "Adam Joan",
-        "url": "https://open.spotify.com/album/1c0bWXAeQ4tNpIB7Ok3pSo"
+        "name": "Honey Bee",
+        "url": "https://open.spotify.com/album/0l8jp7Eam8gqZIRIh4o0KE"
       },
       "artists": [
         {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+          "name": "Lal",
+          "url": "https://open.spotify.com/artist/6dDZQ5OKlFni8gWZBecf9m"
+        },
+        {
+          "name": "Job Kurian",
+          "url": "https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS"
         },
         {
           "name": "Deepak Dev",
           "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
         }
       ],
-      "duration_ms": 328542,
-      "name": "Ee Kaattu",
-      "url": "https://open.spotify.com/track/2uddWiAVaH4owVLOHZgjGp"
+      "duration_ms": 237098,
+      "name": "Ennalakalle",
+      "url": "https://open.spotify.com/track/7eTLnhsPWXcfQWcRg3YFj5"
     },
     {
-      "added_at": "2023-09-18 05:21:56",
+      "added_at": "2023-09-15 11:12:56",
       "album": {
-        "name": "Neela Nilave (From \"Rdx\")",
-        "url": "https://open.spotify.com/album/5LXBbKAhhMqgj3rGOBWOah"
+        "name": "Jeevamshamayi (From \"Theevandi\")",
+        "url": "https://open.spotify.com/album/1rMlUn5HViYHGwMrFYCca1"
       },
       "artists": [
         {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
         },
         {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
         },
         {
-          "name": "Manu Manjith",
-          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
+          "name": "Kailas",
+          "url": "https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61"
         }
       ],
-      "duration_ms": 253000,
-      "name": "Neela Nilave (From \"RDX\")",
-      "url": "https://open.spotify.com/track/73rMD23ocpYxwQXJQJyRDv"
+      "duration_ms": 323179,
+      "name": "Jeevamshamayi (From \"Theevandi\")",
+      "url": "https://open.spotify.com/track/59oAJRA0zzLzl9AXa1R6zh"
     },
     {
       "added_at": "2023-09-27 10:00:03",
@@ -79,6 +83,74 @@
     {
       "added_at": "2023-09-15 11:12:56",
       "album": {
+        "name": "Nee Himamazhayayi (From \"Edakkad Battalion 06\")",
+        "url": "https://open.spotify.com/album/6k4bzogIhV1Xl2Trbiuq9k"
+      },
+      "artists": [
+        {
+          "name": "Kailas",
+          "url": "https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61"
+        },
+        {
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        },
+        {
+          "name": "Nithya Mammen",
+          "url": "https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P"
+        }
+      ],
+      "duration_ms": 304684,
+      "name": "Nee Himamazhayayi - From \"Edakkad Battalion 06\"",
+      "url": "https://open.spotify.com/track/0BCaEJQFk94ushm4Jc97Vo"
+    },
+    {
+      "added_at": "2023-09-18 05:21:56",
+      "album": {
+        "name": "Neela Nilave (From \"Rdx\")",
+        "url": "https://open.spotify.com/album/5LXBbKAhhMqgj3rGOBWOah"
+      },
+      "artists": [
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Manu Manjith",
+          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Neela Nilave (From \"RDX\")",
+      "url": "https://open.spotify.com/track/73rMD23ocpYxwQXJQJyRDv"
+    },
+    {
+      "added_at": "2023-09-15 11:12:56",
+      "album": {
+        "name": "Adam Joan",
+        "url": "https://open.spotify.com/album/1c0bWXAeQ4tNpIB7Ok3pSo"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Deepak Dev",
+          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
+        }
+      ],
+      "duration_ms": 328542,
+      "name": "Ee Kaattu",
+      "url": "https://open.spotify.com/track/2uddWiAVaH4owVLOHZgjGp"
+    },
+    {
+      "added_at": "2023-09-15 11:12:56",
+      "album": {
         "name": "Aravindante Athidhikal",
         "url": "https://open.spotify.com/album/6f8gkMmob6hQhSfxc87AOC"
       },
@@ -99,30 +171,6 @@
       "duration_ms": 238173,
       "name": "Rasathi",
       "url": "https://open.spotify.com/track/6DCWVyJ3uE3xxTg2Wp60Aj"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
-        "name": "Honey Bee",
-        "url": "https://open.spotify.com/album/0l8jp7Eam8gqZIRIh4o0KE"
-      },
-      "artists": [
-        {
-          "name": "Lal",
-          "url": "https://open.spotify.com/artist/6dDZQ5OKlFni8gWZBecf9m"
-        },
-        {
-          "name": "Job Kurian",
-          "url": "https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS"
-        },
-        {
-          "name": "Deepak Dev",
-          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
-        }
-      ],
-      "duration_ms": 237098,
-      "name": "Ennalakalle",
-      "url": "https://open.spotify.com/track/7eTLnhsPWXcfQWcRg3YFj5"
     },
     {
       "added_at": "2023-09-15 11:12:56",
@@ -375,30 +423,6 @@
       "duration_ms": 226000,
       "name": "Darshana - From \"Hridayam\"",
       "url": "https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
-        "name": "Jeevamshamayi (From \"Theevandi\")",
-        "url": "https://open.spotify.com/album/1rMlUn5HViYHGwMrFYCca1"
-      },
-      "artists": [
-        {
-          "name": "K. S. Harisankar",
-          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Kailas",
-          "url": "https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61"
-        }
-      ],
-      "duration_ms": 323179,
-      "name": "Jeevamshamayi (From \"Theevandi\")",
-      "url": "https://open.spotify.com/track/59oAJRA0zzLzl9AXa1R6zh"
     },
     {
       "added_at": "2023-09-15 11:12:56",
@@ -751,22 +775,6 @@
       "duration_ms": 232513,
       "name": "Kannil Kannil (From \"Sita Ramam (Malayalam)\")",
       "url": "https://open.spotify.com/track/63vWEUXhpgghscp9FgvCMG"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
-        "name": "Kgf Chapter 2",
-        "url": "https://open.spotify.com/album/6nmEkCuRxNz0SvM34IgVIh"
-      },
-      "artists": [
-        {
-          "name": "Ananya Bhat",
-          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
-        }
-      ],
-      "duration_ms": 212330,
-      "name": "Mehabooba",
-      "url": "https://open.spotify.com/track/3Hl8IV6SLR8h40GiJquKDU"
     },
     {
       "added_at": "2023-09-15 11:12:56",
@@ -1295,30 +1303,6 @@
     {
       "added_at": "2023-09-15 11:12:56",
       "album": {
-        "name": "Nee Himamazhayayi (From \"Edakkad Battalion 06\")",
-        "url": "https://open.spotify.com/album/6k4bzogIhV1Xl2Trbiuq9k"
-      },
-      "artists": [
-        {
-          "name": "Kailas",
-          "url": "https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61"
-        },
-        {
-          "name": "K. S. Harisankar",
-          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
-        },
-        {
-          "name": "Nithya Mammen",
-          "url": "https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P"
-        }
-      ],
-      "duration_ms": 304684,
-      "name": "Nee Himamazhayayi - From \"Edakkad Battalion 06\"",
-      "url": "https://open.spotify.com/track/0BCaEJQFk94ushm4Jc97Vo"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
         "name": "Gauthamante Radham",
         "url": "https://open.spotify.com/album/4zWNhzZELsqulV8Y2aSZeq"
       },
@@ -1651,30 +1635,6 @@
       "duration_ms": 316551,
       "name": "Malare",
       "url": "https://open.spotify.com/track/4Hvf9xIeJWp5p9FkJerQhN"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
-        "name": "Ra Ra Rakkamma (From \"Vikrant Rona\")",
-        "url": "https://open.spotify.com/album/7vUWdGwewQzd5S1HpgkBSC"
-      },
-      "artists": [
-        {
-          "name": "Tippu",
-          "url": "https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B"
-        },
-        {
-          "name": "Bhadra Rajin",
-          "url": "https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn"
-        },
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 218365,
-      "name": "Ra Ra Rakkamma (From \"Vikrant Rona\")",
-      "url": "https://open.spotify.com/track/0rzKjfUCW6jl9u4jOJHWns"
     }
   ],
   "unique_name": "Mollywood Gold",

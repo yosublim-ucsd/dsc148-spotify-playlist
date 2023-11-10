@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 26867,
+  "num_followers": 26868,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjU0MzA3ZWZiOTFkODI5OWI4MTc3YTE1ZjY2MDA3YmI5ODhjNWMy",
+  "snapshot_id": "MCxhNGQzNjBiYjFiM2E5ZGQzMDlhZTMzMjU5YjlmM2I0ODc0OTMzYjIw",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm"
+      },
+      "artists": [
+        {
+          "name": "Anton Ewald",
+          "url": "https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "A",
-        "url": "https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm"
-      },
-      "artists": [
-        {
-          "name": "Anton Ewald",
-          "url": "https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "La Dolce Vita",
         "url": "https://open.spotify.com/album/7rELI4gV9vdWKbSDF7Jsmi"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Busy Doin' Nothin'",
-        "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
-      },
-      "artists": [
-        {
-          "name": "Ace Wilder",
-          "url": "https://open.spotify.com/artist/7F4HcalxCMC4DctguvnoFY"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Busy Doin' Nothin'",
-      "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Det g\u00f6r ont en stund p\u00e5 natten men inget p\u00e5 dan",
         "url": "https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 183746,
       "name": "Det g\u00f6r ont",
       "url": "https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Busy Doin' Nothin'",
+        "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
+      },
+      "artists": [
+        {
+          "name": "Ace Wilder",
+          "url": "https://open.spotify.com/artist/7F4HcalxCMC4DctguvnoFY"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Busy Doin' Nothin'",
+      "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
     },
     {
       "added_at": "2023-02-26 01:59:39",

@@ -190,10 +190,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 208427,
       "name": "BARBEE - On Acid",
       "url": "https://open.spotify.com/track/7Ium6Ib92uNyQAJKqlnv9s"
+    },
+    {
+      "album": {
+        "name": "Black Halo",
+        "url": "https://open.spotify.com/album/45hCwBKWNOCsCERSnVw7OZ"
+      },
+      "artists": [
+        {
+          "name": "Gregor Tresher",
+          "url": "https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454765,
+      "name": "Black Halo",
+      "url": "https://open.spotify.com/track/3m6DJCjSGmxRxdRyiy0CXO"
     },
     {
       "album": {
@@ -542,7 +560,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 388031,
       "name": "CORE",
       "url": "https://open.spotify.com/track/3lDoxEw7eZjQpcsVvWL3zP"
@@ -614,7 +632,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 381093,
       "name": "Dimension",
       "url": "https://open.spotify.com/track/4LcWDwCxPWfM0aadSqLYis"
@@ -817,6 +835,24 @@
     },
     {
       "album": {
+        "name": "The Unexpected",
+        "url": "https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Filthy",
+      "url": "https://open.spotify.com/track/6ko1CEDLBksdlNlMknDVNo"
+    },
+    {
+      "album": {
         "name": "Free Your Mind (Alex Stein Remix)",
         "url": "https://open.spotify.com/album/7plmRjATx7sZKhSSM81LoJ"
       },
@@ -879,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Glitch In Time EP",
+        "url": "https://open.spotify.com/album/2cX9QC3jope2AZovyjGmih"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515820,
+      "name": "Glitch In Time",
+      "url": "https://open.spotify.com/track/5VbAmXpu7hkFdF31o0FSYZ"
+    },
+    {
+      "album": {
         "name": "Mosaik",
         "url": "https://open.spotify.com/album/24LrUTOayWjn0qiEGDnlkE"
       },
@@ -908,7 +962,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 339981,
       "name": "Hemera",
       "url": "https://open.spotify.com/track/5tOYSYhbf8pEcMLpx93qrG"
@@ -956,6 +1010,28 @@
       "duration_ms": 400000,
       "name": "Hick - Pan-Pot Remix",
       "url": "https://open.spotify.com/track/5sGtHaUKoaGlp68uEp7oz6"
+    },
+    {
+      "album": {
+        "name": "High Street Remixes EP",
+        "url": "https://open.spotify.com/album/4PaScJ9nWTATvbOHpYYMRQ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504347,
+      "name": "High Street - Astrix Remix",
+      "url": "https://open.spotify.com/track/2aXisW2ZScuxitKImCxk3A"
     },
     {
       "album": {
@@ -1604,7 +1680,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 330500,
       "name": "Nu Style",
       "url": "https://open.spotify.com/track/0sMgXQOQfyPhoLyZqojFOk"
@@ -1814,10 +1890,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 503920,
       "name": "Presence - Johannes Heil Golden Dawn Mix",
       "url": "https://open.spotify.com/track/4Ge8kNnp4FnvcVzRYKZX9t"
+    },
+    {
+      "album": {
+        "name": "Power Of Thought EP",
+        "url": "https://open.spotify.com/album/1WjosIw46H2KJUb9W462FU"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420644,
+      "name": "Pria",
+      "url": "https://open.spotify.com/track/5NLu9XiiF80Txfg2Pl8zE8"
     },
     {
       "album": {
@@ -2273,6 +2367,28 @@
     },
     {
       "album": {
+        "name": "The House of House (1994 Remix by Thomas Schumacher)",
+        "url": "https://open.spotify.com/album/3xdslxjDIK3hHNwgxTIJBP"
+      },
+      "artists": [
+        {
+          "name": "Cherrymoon Trax",
+          "url": "https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh"
+        },
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273043,
+      "name": "The House of House - 1994 Remix by Thomas Schumacher",
+      "url": "https://open.spotify.com/track/56Cf6TQ24vaSfum7KW3jKj"
+    },
+    {
+      "album": {
         "name": "Sound Of Space EP",
         "url": "https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT"
       },
@@ -2550,6 +2666,24 @@
       "duration_ms": 226542,
       "name": "W.O.T.U. - Original Mix",
       "url": "https://open.spotify.com/track/6KhhpJduBJTUzVObcwires"
+    },
+    {
+      "album": {
+        "name": "Wasted (Extended Mix)",
+        "url": "https://open.spotify.com/album/3NlvAEJXKcegWczMcSeHTs"
+      },
+      "artists": [
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365806,
+      "name": "Wasted - Extended Mix",
+      "url": "https://open.spotify.com/track/2d9JcfJczE9MOI4IvoSOul"
     },
     {
       "album": {

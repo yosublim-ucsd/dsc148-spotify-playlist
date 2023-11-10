@@ -4,7 +4,7 @@
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-118 songs - 9 hr 23 min
+120 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Con Do Lo Hen](https://open.spotify.com/track/5oNsFsxzM2WQR8Kuu2VXan) | [Huong Thuy](https://open.spotify.com/artist/7uSNudh9nTnHLyfs6uQqFv) | [Chuyen Nguoi Con Gai](https://open.spotify.com/album/36S5Eup0B440UuXOGDeY1s) | 5:24 | 2022-05-12 | 2022-07-29 |
 | [Con Gái Miền Tây](https://open.spotify.com/track/4ZiIsVoMSYVgk8XH1RIV3S) | [Ngoc Han](https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER) | [Dân Ca Quê Hương](https://open.spotify.com/album/2AXlkLS0nFFfis8rJVWlzH) | 4:31 | 2022-05-12 | 2022-07-29 |
 | [Con Gái Miền Tây](https://open.spotify.com/track/3OQoJNtaqOephkNCrogBbd) | [Ngọc Hân](https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER) | [Dân Ca Quê Hương](https://open.spotify.com/album/0pHd2saAqJPkkNB2ojUpmA) | 4:31 | 2022-07-15 |  |
-| [Con Sông Tuổi Thơ Tôi](https://open.spotify.com/track/6fxlkN2zqJ4W8z6XF16hIk) | [NSƯT Tố Nga](https://open.spotify.com/artist/754gM3hcVjEoNhnUYNqR6h) | [Thương Ơi, Lòng Mẹ](https://open.spotify.com/album/4widkNthM5NnUiAl33EVfE) | 5:31 | 2022-05-12 |  |
+| [Con Sông Tuổi Thơ Tôi](https://open.spotify.com/track/6fxlkN2zqJ4W8z6XF16hIk) | [NSƯT Tố Nga](https://open.spotify.com/artist/754gM3hcVjEoNhnUYNqR6h) | [Thương Ơi, Lòng Mẹ](https://open.spotify.com/album/4widkNthM5NnUiAl33EVfE) | 5:31 | 2022-05-12 | 2023-11-10 |
 | [Con Đê Chung Tình](https://open.spotify.com/track/50Fd5nnL0Cp7r1ULZTvXiW) | [Phi Nhung](https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF) | [Con Đê Chung Tình](https://open.spotify.com/album/64TsUj4tDVCKrfO5HyPRT3) | 5:20 | 2022-07-15 | 2023-01-20 |
 | [Con Đò Lỡ Hẹn](https://open.spotify.com/track/0gi66hVjKjmFcLFyp2rO2q) | [Hương Thủy](https://open.spotify.com/artist/7uSNudh9nTnHLyfs6uQqFv) | [Chuyện Người Con Gái](https://open.spotify.com/album/4SWMrSAUEIj06uJUyzGHa7) | 5:24 | 2022-07-15 |  |
 | [Cà Phê Võng](https://open.spotify.com/track/1uDt6TcR1A988HMS9K0gb9) | [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP), [Hoàng Thắng](https://open.spotify.com/artist/47PtOPp9mpr1SeZNvGFYht), [Minh Trâm](https://open.spotify.com/artist/5COSugSz0wAlKJQ65RCAv5) | [Cà Phê Võng](https://open.spotify.com/album/6up4hxcGKO33mXxr7mOlfF) | 4:10 | 2023-07-14 |  |
@@ -70,7 +70,7 @@
 | [Mối Duyên Quê](https://open.spotify.com/track/0M2QYF6tMSl9Nl2T1kUHd5) | [Le Thuy](https://open.spotify.com/artist/6zMihGRYdCoCgBFBgPO7aQ) | [Mối Duyên Quê](https://open.spotify.com/album/67uEDbx30JNBOs5BIsbATT) | 3:46 | 2022-05-12 |  |
 | [Ngày Đá Đơm Bông](https://open.spotify.com/track/3dgxW5ga3XEI1apTQJ1Tgn) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Cảm Ơn Cuộc Đời](https://open.spotify.com/album/7hwRKhqLvPbvlOXknR9PvC) | 4:33 | 2022-05-12 |  |
 | [Người Em Vỹ Dạ](https://open.spotify.com/track/2PEx4noRPrnRTRNjwYg7Er) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Tình Đẹp Hậu Giang](https://open.spotify.com/album/1akqLcjS1PEOJU5mseD8lQ) | 4:32 | 2022-05-12 |  |
-| [Ngồi Tựa Song Đào](https://open.spotify.com/track/3Byc00SnrpBp7daqXivXyw) | [Tân Nhàn](https://open.spotify.com/artist/7iNm30XThXWgpRFoqFKHal) | [Níu Dải Lụa Đào](https://open.spotify.com/album/53AirYx8RCAvBBGhB74AGr) | 5:28 | 2023-07-18 |  |
+| [Ngồi Tựa Song Đào](https://open.spotify.com/track/3Byc00SnrpBp7daqXivXyw) | [Tân Nhàn](https://open.spotify.com/artist/7iNm30XThXWgpRFoqFKHal) | [Níu Dải Lụa Đào](https://open.spotify.com/album/53AirYx8RCAvBBGhB74AGr) | 5:28 | 2023-07-18 | 2023-11-10 |
 | [Ngợi Ca Quê Hương](https://open.spotify.com/track/2g9r5sk4BskWYjZGBMnWks) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe) | [Hẹn Một Mùa Xuân](https://open.spotify.com/album/3l5r6RHKTImEGEkmSSwLdQ) | 4:07 | 2022-05-12 | 2022-07-29 |
 | [Ngợi Ca Quê Hương](https://open.spotify.com/track/5Z9tpCdp7AhRGTvwFHoZGg) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Hẹn Một Mùa Xuân](https://open.spotify.com/album/0PpGcaGXiddwPizLYLnMPU) | 4:07 | 2022-07-15 |  |
 | [Nhớ Quê](https://open.spotify.com/track/0z5riOGlFSp6umUxbsH63I) | [Từ Như Tài](https://open.spotify.com/artist/4FIoUZ4oxNciUpioxvVRom) | [Nhớ Quê](https://open.spotify.com/album/2ItU4rDAiq5vrm1YGpZpkv) | 4:47 | 2023-07-18 |  |
@@ -111,6 +111,7 @@
 | [Về Quê Ăn Tết](https://open.spotify.com/track/2GkhcLv6UX9INsvy4mvQ62) | [Lê Như](https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC) | [Về Quê Ăn Tết](https://open.spotify.com/album/5X1nPI72MZNvcFOR8Z9ORD) | 4:25 | 2022-05-12 |  |
 | [Về thăm quê mình](https://open.spotify.com/track/1PHO7bbDbwyoF5sXd8jWet) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [The best of Trường Vũ \- Áo em chưa mặc một lần](https://open.spotify.com/album/1maA8TkWY8siQ0gjvm1MQ1) | 6:04 | 2022-05-12 |  |
 | [Về Thăm Quê Mẹ](https://open.spotify.com/track/5UuB5YlnUR9s5KMeVi37Ml) | [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP) | [Về Thăm Quê Mẹ](https://open.spotify.com/album/5sMsNnRGNhKZRoBqcTR3Mi) | 4:34 | 2022-05-12 |  |
+| [Về Thăm Vựa Lúa Miền Tây](https://open.spotify.com/track/2UGPKCkjHO4jnbQRnahUT4) | [Hồng Loan](https://open.spotify.com/artist/05Tm8OwN7IdDg32zO31T7F), [Linh Tý](https://open.spotify.com/artist/0shjQjm3aGMmxJB5n3TQHb) | [Về Thăm Vựa Lúa Miền Tây](https://open.spotify.com/album/2YMY9SW5vCoIwqb8PmfdPA) | 5:46 | 2023-11-09 |  |
 | [Xin Má Rước Dâu](https://open.spotify.com/track/1QTCx7A0IKTjUMTqlCHfQr) | [Diệu Kiên](https://open.spotify.com/artist/3q7Fuv1HpyqegV9YpMXCp7) | [Xin Má Rước Dâu](https://open.spotify.com/album/3tHEHhdnQ0dDBQRkA7ViRq) | 3:09 | 2022-07-15 | 2023-01-20 |
 | [Xin Đừng Trách Đa Đa](https://open.spotify.com/track/59dA5AuLlFUfKlcq2Bh7Yf) | [Trang Hạ](https://open.spotify.com/artist/05PlxNLGMoexJ15xuen24H) | [Xin Đừng Trách Đa Đa](https://open.spotify.com/album/3Etfj8Vz7QhBzHJNzHcEq7) | 5:28 | 2023-07-14 |  |
 | [Yêu Cô Gái Bạc Liêu](https://open.spotify.com/track/6QE1YK5SQyy82i9nbBfnny) | [Ngoc Han](https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER) | [Bến Duyên Lành](https://open.spotify.com/album/6mvfa6rKMi8G7gVnj6oQsJ) | 4:52 | 2022-05-12 | 2022-07-29 |
@@ -125,6 +126,7 @@
 | [Đẹp Mối Duyên Quê](https://open.spotify.com/track/5BJdLaZyHoIXapKb7I4Fj9) | [Le Sang](https://open.spotify.com/artist/2z9gi7deY4ZOydUTxhiMff), [Ngọc Kiều Oanh](https://open.spotify.com/artist/50YVNNy4HUh9n2r6z1UAg8) | [Tổng Hợp Bài Hát Của Lê Sang](https://open.spotify.com/album/5bVs4gmLbrp7nQhJThVD9F) | 4:53 | 2022-05-12 | 2022-07-29 |
 | [Đẹp mối duyên quê](https://open.spotify.com/track/2QmzslvPYjF7Ubas31niaZ) | [Ngọc Kiều Oanh](https://open.spotify.com/artist/50YVNNy4HUh9n2r6z1UAg8), [Le Sang](https://open.spotify.com/artist/2z9gi7deY4ZOydUTxhiMff) | [Tuyển Tập Song Ca \(Thương Mối Tình Đầu\)](https://open.spotify.com/album/6SQX1wP7rHofPZnAMUKPco) | 4:53 | 2022-07-15 | 2022-11-13 |
 | [Đẹp Mối Duyên Quê \(feat\. Ngọc Kiều Oanh\)](https://open.spotify.com/track/1aRoFrHr1Jv2fKrKC0mgld) | [Lê Sang](https://open.spotify.com/artist/1F5d5qNLZ2T1AxZ4fnOnxJ), [Ngọc Kiều Oanh](https://open.spotify.com/artist/50YVNNy4HUh9n2r6z1UAg8) | [Tổng Hợp Bài Hát Của Lê Sang](https://open.spotify.com/album/5uMNk9HqwKVVzh3TuVLYkS) | 4:53 | 2022-07-15 |  |
-| [Ốc Đắng Buồn Ai](https://open.spotify.com/track/1AbSvyQhinUaS8wtftF5B9) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Đan Trường](https://open.spotify.com/artist/5XcfMxmHUiyxc1Q283Nmxj) | [Ốc Đắng Buồn Ai](https://open.spotify.com/album/4n0dyBkrvChXvEG3GVDtBB) | 5:42 | 2022-05-12 |  |
+| [Ốc Đắng Buồn Ai](https://open.spotify.com/track/0Y4zReHkU1uCxHuWr28X99) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Đan Trường](https://open.spotify.com/artist/5XcfMxmHUiyxc1Q283Nmxj) | [Ốc Đắng Buồn Ai](https://open.spotify.com/album/5XlqK2sXfMN501ULIprcY9) | 5:42 | 2023-07-18 |  |
+| [Ốc Đắng Buồn Ai](https://open.spotify.com/track/1AbSvyQhinUaS8wtftF5B9) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Đan Trường](https://open.spotify.com/artist/5XcfMxmHUiyxc1Q283Nmxj) | [Ốc Đắng Buồn Ai](https://open.spotify.com/album/4n0dyBkrvChXvEG3GVDtBB) | 5:42 | 2022-05-12 | 2023-11-10 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

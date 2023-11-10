@@ -6,24 +6,8 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "MTY2MywzMzc3MzFhZTZkYWM5ZjliNmUxMzAzYmI4OWJjZGJlMzA5OGQ1YjA4",
+  "snapshot_id": "MTY2Niw4ZWNmYjFlMzAxYmEzZGRjNzE5NTVhM2U5OGUxNmY2ZWVhMTRjMjM0",
   "tracks": [
-    {
-      "added_at": "2023-09-20 01:12:23",
-      "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
     {
       "added_at": "2023-09-20 01:12:23",
       "album": {
@@ -1065,7 +1049,23 @@
       "url": "https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw"
     },
     {
-      "added_at": "2023-11-02 08:10:30",
+      "added_at": "2023-09-20 01:12:23",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
+    },
+    {
+      "added_at": "2023-11-09 08:19:09",
       "album": {
         "name": "Title Of Record",
         "url": "https://open.spotify.com/album/0bsS6wybJvPfLs7cr3bj7j"

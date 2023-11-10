@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: ヒグチアイ
 
-1,896 songs - 5 day 2 hr 41 min
+1,897 songs - 5 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [Door](https://open.spotify.com/track/4LkK5mOTM05cZbaBJb75Ve) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Door](https://open.spotify.com/album/6NR1okg7CWmbjFLM6UUm3E) | 3:59 | 2022-09-20 | 2022-09-22 |
 | [Door](https://open.spotify.com/track/5CVZ01KWbD9A0Nrwt0K2aF) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Door](https://open.spotify.com/album/3xeMmmSsB1KogwIaQGYy4F) | 3:59 | 2022-09-20 | 2022-10-26 |
 | [Dotchi](https://open.spotify.com/track/6tipVe94Y7qOwxc2SfYHz9) | [Harumi](https://open.spotify.com/artist/01AnOmJCFPom13jKelxk8D), [RIOSKE](https://open.spotify.com/artist/0Z7iDKI89ZtWH3cP6mvIdO) | [Dotchi](https://open.spotify.com/album/3BFbqy7rzBztL292U1nSuZ) | 3:21 | 2022-05-31 | 2022-07-27 |
-| [doudemoii hanashiga shitai](https://open.spotify.com/track/7pbMb6wgeowLSl2ZoN5X31) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [doudemoii hanashiga shitai](https://open.spotify.com/album/1XmBGaPoJeUzBlKLK8pns9) | 3:21 | 2023-10-03 | 2023-11-01 |
+| [doudemoii hanashiga shitai](https://open.spotify.com/track/7pbMb6wgeowLSl2ZoN5X31) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [doudemoii hanashiga shitai](https://open.spotify.com/album/1XmBGaPoJeUzBlKLK8pns9) | 3:21 | 2023-10-03 |  |
 | [DRAMA](https://open.spotify.com/track/1PIZfCbPbv4bQZkM9x81ET) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/4iEtXGDpfraVH7Srme6iqD) | 3:25 | 2023-05-09 | 2023-05-11 |
 | [DRAMA](https://open.spotify.com/track/6n5LDeiPqFCcAp7RwdkwL9) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:25 | 2023-05-09 | 2023-05-17 |
 | [dream puff](https://open.spotify.com/track/6XQ1gx59UoWWDtqytRckkW) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [dream puff](https://open.spotify.com/album/1XJFDMQhlTCRDdvbo5gF7m) | 3:09 | 2022-06-30 | 2022-07-06 |
@@ -474,7 +474,7 @@
 | [It's you](https://open.spotify.com/track/7bITBEdu6hFbJU0QlanOD2) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi), [JQ](https://open.spotify.com/artist/1ghv26dA3RvlYBaXzlZvJN) | [It's you](https://open.spotify.com/album/7fdtTcRkCV5dMjaRLhdpHz) | 4:18 | 2022-05-29 | 2022-07-29 |
 | [Itsu Aetara](https://open.spotify.com/track/7C2Tc4aJRphK6qUSWbnLyg) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Itsu Aetara](https://open.spotify.com/album/2ObLoP9QlsMdbU1O0KssLI) | 4:05 | 2023-04-11 | 2023-05-03 |
 | [ITSUWA](https://open.spotify.com/track/0cnPHNUlW4gszgvVDRLjR8) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Flash Back](https://open.spotify.com/album/2eI02EhwOSl2b3sHdHCCBL) | 3:22 | 2023-02-09 | 2023-02-15 |
-| [Itterasshai](https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Itterasshai](https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd) | 3:55 | 2023-11-07 |  |
+| [Itterasshai](https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Itterasshai](https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd) | 3:55 | 2023-11-07 |  |
 | [Ivy Ivy Ivy](https://open.spotify.com/track/4DjyuqJvrr10efe2aGoSYJ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Ivy Ivy Ivy](https://open.spotify.com/album/4zonvfa0E3bJJ52tSvsqLI) | 4:52 | 2022-11-15 | 2022-12-07 |
 | [I’ll be there](https://open.spotify.com/track/78fssmI5gxg6rNSs50WVHH) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [I’ll be there / スピン](https://open.spotify.com/album/41DbSnh6MJp7cbQaHUwNnG) | 5:03 | 2022-05-29 | 2022-07-29 |
 | [I’m Calling You](https://open.spotify.com/track/3QTPkJsom8XAg3dx8mqphk) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [I’m Calling You](https://open.spotify.com/album/1CUxI6Evew86aQyvJWA7dL) | 3:43 | 2022-09-27 | 2022-09-29 |
@@ -1631,7 +1631,7 @@
 | [怪物](https://open.spotify.com/track/19uTrF6VZNaUUYsFIAE8nJ) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [怪物](https://open.spotify.com/album/0Dg5i9je3xQEBzDhvxZUCt) | 2:35 | 2023-07-18 | 2023-07-20 |
 | [恋](https://open.spotify.com/track/4PnksiyKIy8FrtK4UCoFSU) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [恋](https://open.spotify.com/album/4z4NBSgbcMmonNtY4BxpO4) | 4:20 | 2023-01-24 | 2023-07-13 |
 | [恋が終わる音](https://open.spotify.com/track/0P1e4ts1umeB8ghtcI6AiD) | [花耶](https://open.spotify.com/artist/2G4wPei743AzBOILB49bgK) | [恋が終わる音](https://open.spotify.com/album/67JuQjNvH1dntUPlgwDVZB) | 4:55 | 2022-07-14 | 2022-07-17 |
-| [恋ごころ](https://open.spotify.com/track/56jCBYUSzkGqxnLSCAEXBA) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [恋ごころ](https://open.spotify.com/album/40sxyHoN10iVpW2HuTGyp0) | 3:02 | 2023-09-19 |  |
+| [恋ごころ](https://open.spotify.com/track/56jCBYUSzkGqxnLSCAEXBA) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [恋ごころ](https://open.spotify.com/album/40sxyHoN10iVpW2HuTGyp0) | 3:02 | 2023-09-19 | 2023-11-10 |
 | [恋だとは](https://open.spotify.com/track/2jI3IN3kyMDlWONkR6G3lc) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [恋だとは](https://open.spotify.com/album/0U5Ngt5P22CZPHNhhnH0Tb) | 3:46 | 2023-10-05 |  |
 | [恋におちて \-Fall in love\-](https://open.spotify.com/track/21knkczhBV2qJcLiCp5N7v) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [恋におちて \-Fall in love\-](https://open.spotify.com/album/35Tpz494g4I6Q5VDhpIme7) | 5:04 | 2022-08-17 | 2022-08-24 |
 | [恋の色](https://open.spotify.com/track/0L2Ljt0LnXg4RyUiLuF7sD) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [恋の色](https://open.spotify.com/album/017MwPq6jUuJ3lkZaD1frM) | 4:42 | 2023-07-25 | 2023-07-27 |
@@ -1764,6 +1764,7 @@
 | [生きなくちゃ](https://open.spotify.com/track/0wcuZ6ELy4cUZ6Fg3aAa2Q) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [magic! / 生きなくちゃ](https://open.spotify.com/album/0p0NDpQsQVZqmGX82GdUUC) | 4:02 | 2022-06-07 | 2022-06-15 |
 | [留守にする](https://open.spotify.com/track/6VuGbW45hUYn5HjHdLvb02) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [留守にする](https://open.spotify.com/album/7EgPc5Cm8VyNZSaYjLocX2) | 2:54 | 2022-06-07 | 2022-07-18 |
 | [白夜](https://open.spotify.com/track/62zbaLNH7hDTP5yccPyuu0) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [白夜](https://open.spotify.com/album/5zgnygQTqF3Jxx7xG6Q7sT) | 3:43 | 2022-07-19 | 2022-07-27 |
+| [白昼夢](https://open.spotify.com/track/1UXL4L9mpNUcBPI5cR9OIs) | [NakamuraEmi](https://open.spotify.com/artist/7eX8mTJPAukkgwgRvwrgFC) | [白昼夢](https://open.spotify.com/album/58MBWfhDwGHGP8OpoZv9wK) | 4:26 | 2023-11-09 |  |
 | [白色蜉蝣](https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [白色蜉蝣](https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X) | 3:11 | 2023-10-03 |  |
 | [白銀の少女](https://open.spotify.com/track/3RDsxI9zbRgsM5sfr3zASF) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [白銀の少女](https://open.spotify.com/album/6hsya9OOMQOeQU6JYKdppW) | 3:10 | 2023-09-05 | 2023-09-13 |
 | [百年十色](https://open.spotify.com/track/1wj370kj3muqbT0xejvX0S) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 4:46 | 2022-05-29 | 2022-07-29 |
@@ -1900,7 +1901,7 @@
 | [香雪蘭～好きより愛してる～](https://open.spotify.com/track/4qsINclA2ueiY5NbOnjcZg) | [Shizuka Kudo](https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W) | [香雪蘭～好きより愛してる～](https://open.spotify.com/album/35Xz4RG7yTO7WMXK91ZjZk) | 6:02 | 2023-10-26 | 2023-10-28 |
 | [駒沢公園](https://open.spotify.com/track/4HbI0Ub0XNyrQ5W0JFuWiC) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [さらりさら / ずっとそばで見守っているよ / Everybody needs a smile / 駒沢公園](https://open.spotify.com/album/3H8Cmaov0wOTqXMd964jRZ) | 5:21 | 2022-08-16 | 2022-08-24 |
 | [骨まで愛して](https://open.spotify.com/track/76eXC94QzPqx9XcxQSxcAZ) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [骨まで愛して](https://open.spotify.com/album/1zGhKpqriVQSXKLl4ItJI0) | 3:26 | 2023-01-19 | 2023-01-25 |
-| [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 | 2022-07-19 |  |
+| [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 | 2022-07-19 | 2023-11-10 |
 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 | 2022-05-29 | 2022-10-26 |
 | [黎明のワルツ](https://open.spotify.com/track/3N5vaLucgDy1N8Z9nHpq1p) | [大槻美奈](https://open.spotify.com/artist/2t7oBLvbMC9ykeWssrjZpY) | [LAND](https://open.spotify.com/album/3c5lgHH5BUczJKFMMPuYPj) | 3:36 | 2022-12-27 | 2023-01-04 |
 | [鼓動](https://open.spotify.com/track/33HrWYjijsnYrjiETDlHEk) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [鼓動](https://open.spotify.com/album/47YNWei4YtzRWYs5eYNvRR) | 2:41 | 2022-06-07 | 2022-07-18 |

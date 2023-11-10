@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-214 songs - 14 hr 59 min
+215 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Boots In Place](https://open.spotify.com/track/47gSXRSECjAFpKvnDjw5iG) | [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [George Porter Jr.](https://open.spotify.com/artist/2KDZHHE0Ca7LVqpzUH7y8a), [Floki Sessions](https://open.spotify.com/artist/601FZXyKDoyE6gWYNNWOWj), [Erica Falls](https://open.spotify.com/artist/4W3Re8hcwf5DvvqaKjV0eR), [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Nikki Glaspie](https://open.spotify.com/artist/6qHV34ZuWE31v0NihuQbWv) | [Boots In Place](https://open.spotify.com/album/2uZfLhsFZuy6TSzROA5Oup) | 4:15 | 2023-04-28 |  |
 | [Brand New Day](https://open.spotify.com/track/50kcNzbEiu0nlSKTGAJe9W) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Brand New Day](https://open.spotify.com/album/0Whv0ihThqPDFw9WBgk8fG) | 3:59 | 2021-08-06 | 2022-07-29 |
 | [Brand New Day](https://open.spotify.com/track/6162qDKnzcPSOh1NcqoLM3) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Break the Wall](https://open.spotify.com/album/0EF3hnwr3Go8xCwBxC7gcE) | 3:59 | 2021-08-06 |  |
-| [Bump The Man \- Live](https://open.spotify.com/track/0Bwy62vMCaxtEdgRCh4jh5) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Bump The Man \(Live\)](https://open.spotify.com/album/1av1bz04u2EpaydQ5ecCpa) | 4:51 | 2023-04-07 |  |
+| [Bump The Man \- Live](https://open.spotify.com/track/0Bwy62vMCaxtEdgRCh4jh5) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Bump The Man \(Live\)](https://open.spotify.com/album/1av1bz04u2EpaydQ5ecCpa) | 4:51 | 2023-04-07 | 2023-11-10 |
+| [Bump The Man \- Live](https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Raw In Amsterdam \(Live\)](https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd) | 4:51 | 2023-04-07 |  |
 | [Burn](https://open.spotify.com/track/1jdtArpBS5Wgboi8qsvl41) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Phil Diamond](https://open.spotify.com/artist/1bmzAwkc0MMIF97kzIiQC3) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 3:38 | 2022-05-27 |  |
 | [Burning Daylight](https://open.spotify.com/track/7sKPmkDw5bK2l0UbSnVZ6x) | [Soultown Revivalists](https://open.spotify.com/artist/4m3XScZchwZiZeiw6CcoQm), [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Burning Daylight](https://open.spotify.com/album/6kg2Ofz8hZXUXPdlPGdznR) | 3:50 | 2023-08-25 |  |
 | [Call Me](https://open.spotify.com/track/2OtS9JzHxv2yU3qezmMfdo) | [Lowdown Brass Band](https://open.spotify.com/artist/0DccOPSJ5LcC4HDiDZl17u) | [Call Me](https://open.spotify.com/album/1F3NMMAArhe2OjH8pf36Wq) | 3:41 | 2023-02-17 |  |

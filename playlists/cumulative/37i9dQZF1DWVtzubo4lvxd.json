@@ -720,6 +720,24 @@
     {
       "album": {
         "name": "Sorry",
+        "url": "https://open.spotify.com/album/4IJUsrhvtndTW8Ws1X4gRn"
+      },
+      "artists": [
+        {
+          "name": "emune",
+          "url": "https://open.spotify.com/artist/4gkhq1EjcLZjP60fbvOyJT"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2NV4b76phwLnxUxcdlOyim"
+    },
+    {
+      "album": {
+        "name": "Sorry",
         "url": "https://open.spotify.com/album/7pXpjVPml1bLD3idUmgCtw"
       },
       "artists": [
@@ -1970,7 +1988,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 124675,
       "name": "Like Silk",
       "url": "https://open.spotify.com/track/4fWrsDm064nI1enpa6zTsb"

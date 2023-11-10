@@ -1,12 +1,12 @@
 {
   "description": "Uplifting classical melodies to help you rise and shine.",
-  "num_followers": 389478,
+  "num_followers": 389523,
   "original_name": "Morning Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzQ4ZjNkOWE4MDU2NTE4NDgzNzAwNTY1ZWEzZTY2NGM3ZDk0MmE5",
+  "snapshot_id": "MCwxZTZiOWMzNDIwMzkwOGRkOGIxOGFiNGRkOTQxYTg5OWVjMzQyMmM4",
   "tracks": [
     {
       "added_at": "2023-10-13 09:33:29",
@@ -142,6 +142,10 @@
         {
           "name": "John C. Williams",
           "url": "https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY"
+        },
+        {
+          "name": "String Orchestra",
+          "url": "https://open.spotify.com/artist/2ur2pK3VjH3wAl4tO1eBGG"
         }
       ],
       "duration_ms": 188666,

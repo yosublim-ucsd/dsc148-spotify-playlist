@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover:  <a href=\"https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T?si=OM3vTCGWTP-CdTqJ2D1Ing\"> Reggie</a> and  <a href=\"https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac?si=oWJSpy8iSBmwCO8jeie_tw\"> Kofi Mole</a>  ",
+  "description": "Hottest bars coming live from the 233.  Cover:  <a href=\"https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew?si=EJ4N-5N0TK-u-Q6bI2WdLQ\"> Amerado</a>  ",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 156962,
       "name": "10x",
       "url": "https://open.spotify.com/track/4JzF4DEr9I2JjhegM11f6f"
+    },
+    {
+      "album": {
+        "name": "11 Six",
+        "url": "https://open.spotify.com/album/2zbPRuL02eu13kyn3HAMF2"
+      },
+      "artists": [
+        {
+          "name": "Yhaw hero",
+          "url": "https://open.spotify.com/artist/0TVRUVsUqxHTsgRSBk3i8d"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171267,
+      "name": "11 Six",
+      "url": "https://open.spotify.com/track/4hxU3WcVzv5uiUt0r9TXeg"
     },
     {
       "album": {
@@ -230,7 +248,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 161311,
       "name": "Accra",
       "url": "https://open.spotify.com/track/3P0kayacgqoapvVdclC2ab"
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 141686,
       "name": "Daa Nyame",
       "url": "https://open.spotify.com/track/5ePJ4T94147xulnSWvar0q"
@@ -2465,7 +2483,7 @@
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 150000,
+      "duration_ms": 150243,
       "name": "Free Throw",
       "url": "https://open.spotify.com/track/2pg9e25Kr4XqiyCCuQssGH"
     },
@@ -2966,7 +2984,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 210368,
       "name": "Gun Dem",
       "url": "https://open.spotify.com/track/71K8MvfOgXNXZNsiRrPsKS"
@@ -3174,7 +3192,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 165905,
       "name": "It's All On Me",
       "url": "https://open.spotify.com/track/7dNyZePAM3NQsBMbdOHtH7"
@@ -3516,6 +3534,28 @@
       "duration_ms": 206051,
       "name": "Kwaku Ananse",
       "url": "https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X"
+    },
+    {
+      "album": {
+        "name": "Kwaku Ananse (Remix)",
+        "url": "https://open.spotify.com/album/264PQN5SiI2VGU4Bas6jSE"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        },
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203428,
+      "name": "Kwaku Ananse - Remix",
+      "url": "https://open.spotify.com/track/12XqD9NVwBiIYoKs6fDi2Y"
     },
     {
       "album": {
@@ -4217,6 +4257,24 @@
     },
     {
       "album": {
+        "name": "My Time My Money",
+        "url": "https://open.spotify.com/album/00NharD8DNCknu92YPkMFJ"
+      },
+      "artists": [
+        {
+          "name": "M3dal",
+          "url": "https://open.spotify.com/artist/2djlkuPiXmdN2kTGSuX9Qq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169757,
+      "name": "My Time My Money",
+      "url": "https://open.spotify.com/track/2rsc7ktqpXHedRPnXJcJMZ"
+    },
+    {
+      "album": {
         "name": "My way",
         "url": "https://open.spotify.com/album/0jKznMbOvBZAf8ApznO2PB"
       },
@@ -4810,6 +4868,24 @@
       "duration_ms": 176770,
       "name": "Oh Ma Linda",
       "url": "https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6"
+    },
+    {
+      "album": {
+        "name": "OH NO",
+        "url": "https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153893,
+      "name": "OH NO",
+      "url": "https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR"
     },
     {
       "album": {
@@ -5712,6 +5788,24 @@
       "duration_ms": 221259,
       "name": "SHUT UP",
       "url": "https://open.spotify.com/track/371cXO3R3YSHWZB4HqNd5h"
+    },
+    {
+      "album": {
+        "name": "Sika Aba Fie",
+        "url": "https://open.spotify.com/album/7DOlvUNAeNvw086kCRACta"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198243,
+      "name": "Sika Aba Fie",
+      "url": "https://open.spotify.com/track/49funs5AE0mA3ojLUm6OhG"
     },
     {
       "album": {

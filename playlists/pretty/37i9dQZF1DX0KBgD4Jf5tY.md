@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:4ctoRm4PSfS4v7YdoHgIen">Macadamia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,612 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,621 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hey Mon Amour](https://open.spotify.com/track/2gcVYbtY4GPLvnAzitTvee) | [Macadamia](https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen) | [Limine](https://open.spotify.com/album/1p1CplengpaQU0lsmzOBaB) | 3:13 |
-| 2 | [Jevâ](https://open.spotify.com/track/2FhZX9eE3EkQKhtNRAmfqO) | [Massimo Silverio](https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI) | [Jevâ](https://open.spotify.com/album/45AaYGP6P09ZhDdfd3ZBje) | 4:49 |
-| 3 | [Potrei](https://open.spotify.com/track/4SsIglycFBzyJs5V62NBDz) | [Bollenti Spiriti](https://open.spotify.com/artist/0z0WIcFmz8Ongg6uNrHB5L), [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [Potrei](https://open.spotify.com/album/6ZZSMhzUcrdp8dyQKNy9Iz) | 2:22 |
-| 4 | [Marchigiano](https://open.spotify.com/track/1tbrM6wpL2IO8N6eMwomar) | [SANTO STEFANO](https://open.spotify.com/artist/2WcspLiai7qmRn02e3x1m1) | [Marchigiano](https://open.spotify.com/album/0RKJE8XzuCKa9QQiiEBHVp) | 2:43 |
-| 5 | [passa una bella notte](https://open.spotify.com/track/1NOfiMv7Tq5MijTzO51Zil) | [LYSA](https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5) | [passa una bella notte](https://open.spotify.com/album/3RiHYwK5dT5dTzEULMiDo4) | 3:11 |
-| 6 | [Philosophia/Save Me](https://open.spotify.com/track/5f7WVcejmkNNOA6BjSVP2b) | [CRIPTABASEMENT](https://open.spotify.com/artist/3ds0qpI9DlQv0nve3nCG4c), [Hyrìn](https://open.spotify.com/artist/0MwTmw2jGIVUCZPYCZyeWa) | [Philosophia/Save Me](https://open.spotify.com/album/0Ce4zxdguthYJNcQltOEnJ) | 3:31 |
-| 7 | [Madame](https://open.spotify.com/track/0JPyVgLem5a4HcXEADJXg5) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/5di5PgxR4cs1PveHPkgKtr) | 2:13 |
-| 8 | [Madre mia](https://open.spotify.com/track/4dKVc3Oa3JyXrplJ3ewXZI) | [Blocage](https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Madre mia](https://open.spotify.com/album/7rCKIoBiJCTFZg13UMsJa4) | 3:10 |
-| 9 | [orsi](https://open.spotify.com/track/3eqWiO14rV2jI5JNfdfsqx) | [t vernìce](https://open.spotify.com/artist/7gb9u6sWHfrLs9jA5LoKKL) | [orsi](https://open.spotify.com/album/4Ab3jOgsU1ye5kirJlLq9g) | 2:56 |
-| 10 | [The Weather Song](https://open.spotify.com/track/2OXsiCgkmUbfP6DoaQniaK) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [The Weather Song](https://open.spotify.com/album/3KZmLwH0oI1MVeu6OUSAEX) | 3:45 |
+| 2 | [Potrei](https://open.spotify.com/track/4SsIglycFBzyJs5V62NBDz) | [Bollenti Spiriti](https://open.spotify.com/artist/0z0WIcFmz8Ongg6uNrHB5L), [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [Potrei](https://open.spotify.com/album/6ZZSMhzUcrdp8dyQKNy9Iz) | 2:22 |
+| 3 | [Marchigiano](https://open.spotify.com/track/1tbrM6wpL2IO8N6eMwomar) | [SANTO STEFANO](https://open.spotify.com/artist/2WcspLiai7qmRn02e3x1m1) | [Marchigiano](https://open.spotify.com/album/0RKJE8XzuCKa9QQiiEBHVp) | 2:43 |
+| 4 | [passa una bella notte](https://open.spotify.com/track/1NOfiMv7Tq5MijTzO51Zil) | [LYSA](https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5) | [passa una bella notte](https://open.spotify.com/album/3RiHYwK5dT5dTzEULMiDo4) | 3:11 |
+| 5 | [Philosophia/Save Me](https://open.spotify.com/track/5f7WVcejmkNNOA6BjSVP2b) | [CRIPTABASEMENT](https://open.spotify.com/artist/3ds0qpI9DlQv0nve3nCG4c), [Hyrìn](https://open.spotify.com/artist/0MwTmw2jGIVUCZPYCZyeWa) | [Philosophia/Save Me](https://open.spotify.com/album/0Ce4zxdguthYJNcQltOEnJ) | 3:31 |
+| 6 | [Madame](https://open.spotify.com/track/0JPyVgLem5a4HcXEADJXg5) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/5di5PgxR4cs1PveHPkgKtr) | 2:13 |
+| 7 | [Madre mia](https://open.spotify.com/track/4dKVc3Oa3JyXrplJ3ewXZI) | [Blocage](https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Madre mia](https://open.spotify.com/album/7rCKIoBiJCTFZg13UMsJa4) | 3:10 |
+| 8 | [orsi](https://open.spotify.com/track/3eqWiO14rV2jI5JNfdfsqx) | [t vernìce](https://open.spotify.com/artist/7gb9u6sWHfrLs9jA5LoKKL) | [orsi](https://open.spotify.com/album/4Ab3jOgsU1ye5kirJlLq9g) | 2:56 |
+| 9 | [The Weather Song](https://open.spotify.com/track/2OXsiCgkmUbfP6DoaQniaK) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [The Weather Song](https://open.spotify.com/album/3KZmLwH0oI1MVeu6OUSAEX) | 3:45 |
+| 10 | [Jevâ](https://open.spotify.com/track/2FhZX9eE3EkQKhtNRAmfqO) | [Massimo Silverio](https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI) | [Jevâ](https://open.spotify.com/album/45AaYGP6P09ZhDdfd3ZBje) | 4:49 |
 | 11 | [Pacific Coast Highway](https://open.spotify.com/track/1q8VvE2vA3ti6MvNMKfCOT) | [Rue de Paradis](https://open.spotify.com/artist/7EcEdJgnkzNf8IMl41JZNi) | [Pacific Coast Highway](https://open.spotify.com/album/4c1NlLtA0zqLtcuPB4W06R) | 3:29 |
 | 12 | [FAMMI MALE](https://open.spotify.com/track/568eUgYTIDmKZo8J01kecJ) | [ELETTRICA](https://open.spotify.com/artist/2ZXPwoWGIuwqjLNLboL3pa) | [FAMMI MALE](https://open.spotify.com/album/0iD0mIHGkUWzQlGsHDsvpq) | 2:35 |
 | 13 | [VERTIGINI](https://open.spotify.com/track/1jIcRFM32ZLlk4GlnV7ylt) | [Sunset Radio](https://open.spotify.com/artist/1se8zzXJ2zpzQvdAQIhr4H) | [VERTIGINI](https://open.spotify.com/album/1f5lAyEabaOLgGpbYupjjO) | 2:42 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 54 | [Curami](https://open.spotify.com/track/3sKJ4KHTFqbMD0MT6t0DYM) | [SAFENA](https://open.spotify.com/artist/4JIHzAJnavEqDFNJtafWMf) | [Curami](https://open.spotify.com/album/12Q4OOuHdn7UwFuNEgHoTY) | 3:30 |
 | 55 | [Splenderò](https://open.spotify.com/track/3deYxvbyqmeJkV7NV2LgBE) | [Guayota](https://open.spotify.com/artist/71BVmpmb7W3zGyDIv2ScZZ) | [Splenderò](https://open.spotify.com/album/1Dj64PdyyTZRouXVhdDtZA) | 3:21 |
 
-Snapshot ID: `MCw0MjJkZjc2ZGM2MThlYmJiZDYwNGYwM2QwZmM1M2YwMzU4ZWMzYjM3`
+Snapshot ID: `MCw1ODkwYTJjNzIzM2FiZGE2NWZiZDdmZDdjN2M3MjQ4ZWU3OTg3MjNj`

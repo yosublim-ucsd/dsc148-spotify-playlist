@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY?si=03c1kirSTgCUAXEoU7gnCw\">West Coast Wolves</a>",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=O3l0X_BbR2i27-j3gS8sTw\">Rooksein</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -2971,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/2Q9BQwWEgZYeoPUylHEXX6"
+      },
+      "artists": [
+        {
+          "name": "New Volume",
+          "url": "https://open.spotify.com/artist/386eyNcHwUJ0u3awsMi88Q"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204687,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3omZL5SXL74UYWmqrnilTM"
+    },
+    {
+      "album": {
         "name": "Droombrief",
         "url": "https://open.spotify.com/album/0hLWiLGIlllFAfF4vKpmgf"
       },
@@ -4326,7 +4344,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 200816,
       "name": "Pizza Party",
       "url": "https://open.spotify.com/track/34G7rugYnI2n8PMgAjQ1xr"
@@ -5502,7 +5520,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 214376,
       "name": "Take your time",
       "url": "https://open.spotify.com/track/5YGrodE7HhrVX4YkGpkQLy"
@@ -5850,6 +5868,24 @@
       "duration_ms": 296277,
       "name": "The Veneer",
       "url": "https://open.spotify.com/track/1iWervHoQ9m2dlDcoOpFL8"
+    },
+    {
+      "album": {
+        "name": "The Villain",
+        "url": "https://open.spotify.com/album/6fHn43hrLvdxr9V7ljZBbn"
+      },
+      "artists": [
+        {
+          "name": "Crash And The Void",
+          "url": "https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223348,
+      "name": "The Villain",
+      "url": "https://open.spotify.com/track/2s0QDe1ZjH0Pm9rsciZwQY"
     },
     {
       "album": {
@@ -6230,7 +6266,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 184000,
       "name": "Victim of Data",
       "url": "https://open.spotify.com/track/5DESqCo3i23bSBUg9r3p7a"
@@ -6400,6 +6436,24 @@
       "duration_ms": 205608,
       "name": "Wat Is Daar ?",
       "url": "https://open.spotify.com/track/1lQDVdN8TfcJ6kolhTXFqB"
+    },
+    {
+      "album": {
+        "name": "Weet Jy",
+        "url": "https://open.spotify.com/album/2Bk9aiTtgW5uq3BWtHpbn6"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207478,
+      "name": "Weet Jy",
+      "url": "https://open.spotify.com/track/6XvJrj4flDveKeKgtlP5Qe"
     },
     {
       "album": {

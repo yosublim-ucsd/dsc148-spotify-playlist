@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! <a href="spotify:artist:6zWJfH1TTmIqEi7EV35HGr">Pip Blom</a> is EQUAL Netherlands ambassador for November
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,490 likes - 67 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,499 likes - 67 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Johannes Albert",
+  "description": "New music off the beaten track. Cover: Tourist",
   "name": "OFF POP",
   "tracks": [
     {
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 200571,
       "name": "Bright Sunny Day",
       "url": "https://open.spotify.com/track/4SNVYQCW5yopk5uUluli3c"
@@ -2745,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "EST",
+        "url": "https://open.spotify.com/album/0uTa7zuhN42yVclpAkJL9i"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336541,
+      "name": "EST",
+      "url": "https://open.spotify.com/track/1ojCQ0v59O77rKZbwN8aQh"
+    },
+    {
+      "album": {
         "name": "Ether",
         "url": "https://open.spotify.com/album/2GA2x8SLtSQLz0GNiK6b5D"
       },
@@ -2818,6 +2836,28 @@
       "duration_ms": 428543,
       "name": "Ever New",
       "url": "https://open.spotify.com/track/6nXk3XcfNmwtig7acQxRbc"
+    },
+    {
+      "album": {
+        "name": "Every Little Drop (Edit)",
+        "url": "https://open.spotify.com/album/7bE9IkWBXiHK6Tv35lPZ6B"
+      },
+      "artists": [
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        },
+        {
+          "name": "Richard x",
+          "url": "https://open.spotify.com/artist/1U3sbewNFRq4oyhUWZinMi"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215118,
+      "name": "Every Little Drop (Edit)",
+      "url": "https://open.spotify.com/track/796JQcRYU4x0oO17xmh9xs"
     },
     {
       "album": {
@@ -3241,6 +3281,28 @@
     },
     {
       "album": {
+        "name": "Flashdance",
+        "url": "https://open.spotify.com/album/1Gtay71rNiqg0EK6THT69A"
+      },
+      "artists": [
+        {
+          "name": "Local Suicide",
+          "url": "https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0"
+        },
+        {
+          "name": "Wiener Planquadrat",
+          "url": "https://open.spotify.com/artist/2Amzhh6sZVPRCo43KZDvvl"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292085,
+      "name": "Flashdance",
+      "url": "https://open.spotify.com/track/5uX2V4SorgKwBJ8BYP5hn2"
+    },
+    {
+      "album": {
         "name": "Flexorcist",
         "url": "https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb"
       },
@@ -3604,7 +3666,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 225558,
       "name": "Gimme Some More (feat. Shungudzo)",
       "url": "https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf"
@@ -3760,7 +3822,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 204067,
       "name": "Habla Con Ella",
       "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
@@ -4296,7 +4358,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 201230,
       "name": "How Music Makes You Feel Better - Edit",
       "url": "https://open.spotify.com/track/2bBuxaPbzrUGK9rnLJ5fFN"
@@ -4384,6 +4446,28 @@
       "duration_ms": 300487,
       "name": "I Am Human",
       "url": "https://open.spotify.com/track/1AUmprQhFQT2iEijMQOxIX"
+    },
+    {
+      "album": {
+        "name": "I Believe In Love Again",
+        "url": "https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176524,
+      "name": "I Believe In Love Again",
+      "url": "https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD"
     },
     {
       "album": {
@@ -4598,7 +4682,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 199326,
       "name": "Immer",
       "url": "https://open.spotify.com/track/6Ryc8vAXGzR2yGcl7jBZAr"
@@ -4936,7 +5020,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 277085,
       "name": "It's You - Alan Braxe Remix",
       "url": "https://open.spotify.com/track/48tAxJPKyxs3KeIrKIzmuY"
@@ -6327,6 +6411,28 @@
     },
     {
       "album": {
+        "name": "Dancing While Falling",
+        "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211590,
+      "name": "Morning Light (feat. Andreya Triana)",
+      "url": "https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3"
+    },
+    {
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/038nzTPTer7dDaM9Z5K4M6"
       },
@@ -6364,6 +6470,24 @@
       "duration_ms": 231733,
       "name": "Move Me",
       "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
+    },
+    {
+      "album": {
+        "name": "Multiply",
+        "url": "https://open.spotify.com/album/0E8Xp8B1X9Ttr7ZWwR7Ci8"
+      },
+      "artists": [
+        {
+          "name": "Donny Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256562,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/1INYpUDPkutq3NxAXgDlOC"
     },
     {
       "album": {
@@ -6631,6 +6755,28 @@
     },
     {
       "album": {
+        "name": "Unity of Opposites",
+        "url": "https://open.spotify.com/album/5rAfh5ZMBDZIKsIohaGL9N"
+      },
+      "artists": [
+        {
+          "name": "Kollektiv Turmstrasse",
+          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
+        },
+        {
+          "name": "Tien Viet Nguyen",
+          "url": "https://open.spotify.com/artist/6odxpDVoNhGYuhBzCZTAk6"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199386,
+      "name": "Nothing Hold Me Back",
+      "url": "https://open.spotify.com/track/26QfIT3bCrRZem9lpr4THQ"
+    },
+    {
+      "album": {
         "name": "Nothing Left To Lose",
         "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
       },
@@ -6740,6 +6886,24 @@
       "duration_ms": 271656,
       "name": "Oceans Niagara",
       "url": "https://open.spotify.com/track/2hFlY5xuAXrjY24v3a1mpZ"
+    },
+    {
+      "album": {
+        "name": "Off And On",
+        "url": "https://open.spotify.com/album/0fr3l4VLVWCdSSJh1BdSRc"
+      },
+      "artists": [
+        {
+          "name": "5K HD",
+          "url": "https://open.spotify.com/artist/6ZMLkcfjNwPGCAlL7LvMyr"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264220,
+      "name": "Off And On",
+      "url": "https://open.spotify.com/track/2t0RlrKuzerkIeujXbRS4l"
     },
     {
       "album": {
@@ -6940,6 +7104,24 @@
       "duration_ms": 256266,
       "name": "Otis",
       "url": "https://open.spotify.com/track/7A2yhrdnFspRjpX8RC8UW1"
+    },
+    {
+      "album": {
+        "name": "Overnight",
+        "url": "https://open.spotify.com/album/6Bx2GZ9URhZitfByTc5eCS"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238684,
+      "name": "Overnight",
+      "url": "https://open.spotify.com/track/2ckYzNOvjKVQX5ARttEhlo"
     },
     {
       "album": {
@@ -7435,6 +7617,24 @@
     },
     {
       "album": {
+        "name": "DanceOrama",
+        "url": "https://open.spotify.com/album/7e4nkf3QSJmOFF1MH5WUON"
+      },
+      "artists": [
+        {
+          "name": "GusGus",
+          "url": "https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282280,
+      "name": "Rivals",
+      "url": "https://open.spotify.com/track/7DidEaIBAlnOY2NUnYB02e"
+    },
+    {
+      "album": {
         "name": "Rockin - Poppin Full Tilting",
         "url": "https://open.spotify.com/album/1oneWyxtUUeTKXFuGfmhJ1"
       },
@@ -7784,7 +7984,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 262000,
       "name": "Sea Of Dreams",
       "url": "https://open.spotify.com/track/3936OLY1SxZ4cVqxqrS7p2"
@@ -7820,7 +8020,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 231912,
       "name": "Second Nature",
       "url": "https://open.spotify.com/track/2JTxM40sPrKFIpU6vcRfWF"
@@ -9390,7 +9590,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 238901,
       "name": "To be honest - SG Lewis Remix",
       "url": "https://open.spotify.com/track/15D7d8uC0db0q0QkMdHia8"
@@ -10046,7 +10246,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 198798,
       "name": "Welcome to the DCC",
       "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"

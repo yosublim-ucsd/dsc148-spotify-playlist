@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,436 likes - 72 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,477 likes - 72 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 29 | [My Stripes](https://open.spotify.com/track/5yDZJIh6e5W7WrPbv5xmTv) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Lailonie](https://open.spotify.com/album/64rbCcTc040ycORN0NDJHX) | 4:27 |
 | 30 | [Pitch Dark \- Mixed](https://open.spotify.com/track/3G12GW0zAdAMXy92G7AS0M) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [The Anjunadeep Edition 384 with James Grant](https://open.spotify.com/album/4GTGlZ3hTvDzr3PBjqr0xX) | 3:08 |
 | 31 | [Fool's Paradise \- Coeus Remix](https://open.spotify.com/track/59udGSFO8Orkp1sk4IUDJs) | [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L), [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR), [Coeus](https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya) | [Fool's Paradise](https://open.spotify.com/album/6qoaDG5ekvwX7ekDPDfCfO) | 4:53 |
-| 32 | [I Remember \- Vocal Mix](https://open.spotify.com/track/6R3bajI4ZCrUfrPUhLakO1) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Random Album Title \(Unmixed Extended Versions\)](https://open.spotify.com/album/4SQc1Al4ilF0vCqtnjXEDk) | 9:53 |
+| 32 | [I Remember \- Vocal Mix](https://open.spotify.com/track/5pMX0wUtcxFudpIeWlFQNM) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Random Album Title \(Unmixed Extended Versions\)](https://open.spotify.com/album/78djcfLlGna8lO1XwgdSIg) | 9:53 |
 | 33 | [Dance With Me \- Mixed](https://open.spotify.com/track/4R2CPwLVEWTpDrY4mEPktq) | [Zoo Brazil](https://open.spotify.com/artist/7KXpXc29g9x7kFBnM2HcrM) | [Anjunadeep 11](https://open.spotify.com/album/2uHQPZyOyrGjqaNR1V9FQE) | 3:19 |
 | 34 | [Let Myself Go](https://open.spotify.com/track/22LRhJPi9KHEdoyJh6oEeY) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL), [Kieran Fowkes](https://open.spotify.com/artist/2V01K4FD01MOv7eLqQMitQ) | [S E C O N D C I R C L E](https://open.spotify.com/album/3s5GEtGw0QYg2W7wdF3Gh8) | 7:34 |
 | 35 | [Hold On \- Ben Böhmer Remix](https://open.spotify.com/track/3IBZef3HMEggoajpef5SAx) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Armada Deep \- Miami 2019](https://open.spotify.com/album/0vcV5JAf8O9kWC01y31HgT) | 5:07 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 71 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 |
 | 72 | [Breathe](https://open.spotify.com/track/6TR0FGw4zhlGbQALN065AI) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Breathe](https://open.spotify.com/album/7c4A33WznTkdnqBEmLsWWF) | 3:14 |
 
-Snapshot ID: `MCw3NzA2NmZlNWZiMzM5YmIwNmNkMjBmNmI4N2ZhN2M1MjE4M2MyZTdk`
+Snapshot ID: `MCw5NGI0ZDUzZmY5ZjEyZTgwNWIyMWJhOGU3MDAyYjI2NjdjYTIxNGMy`

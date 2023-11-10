@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,653 songs - 2 day 14 hr 46 min
+1,654 songs - 2 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1171,6 +1171,7 @@
 | [Puzzle Games](https://open.spotify.com/track/1hU8XWa2YZiQQK78ypYZNP) | [d'Andy](https://open.spotify.com/artist/6OBQW4uISzDYrUR5dEYhkb) | [Puzzle Games](https://open.spotify.com/album/7o7ujWd4hMX1EfVaXSfgNi) | 1:48 | 2023-03-20 |  |
 | [pássaro](https://open.spotify.com/track/2M7EWn8Wer8ERj8LWWr73l) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [pássaro](https://open.spotify.com/album/6EvrdQnoT8sEAmCfN8elzk) | 1:46 | 2022-07-29 | 2022-08-19 |
 | [Radish Style](https://open.spotify.com/track/07B5jrUOKWraSjvL0Dzm4H) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [bugzug](https://open.spotify.com/artist/51RjceiwmeWYUP3NSTzRNH) | [Radish Style](https://open.spotify.com/album/51QxaDPh0rDqpBIiqD5AzF) | 2:14 | 2022-12-02 | 2023-09-16 |
+| [Rain Is Coming](https://open.spotify.com/track/1CW0PI7ZckvnXHAeAypn5O) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [Rain Is Coming](https://open.spotify.com/album/68uy9QCsmh1NGn95lgGXKe) | 1:51 | 2023-10-27 |  |
 | [rain on us](https://open.spotify.com/track/479kmYiQl2QL7SVeRAS3TO) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [rain on us](https://open.spotify.com/album/3quSGC6EbfpwVqZiXaR0kQ) | 2:27 | 2022-05-13 | 2022-11-12 |
 | [Rainclouds Still Remember](https://open.spotify.com/track/2RAYJawqivodlRe2C6emmK) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Rainclouds Still Remember](https://open.spotify.com/album/19d7nSFHyMulZzgTEwhlIH) | 2:55 | 2023-03-24 |  |
 | [Raincoat](https://open.spotify.com/track/5T41z0Wg9mPbPGXvquzaiK) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Raincoat](https://open.spotify.com/album/4M2OJAbq1PJLe732DTkxv3) | 2:04 | 2022-04-15 | 2022-09-02 |
@@ -1264,7 +1265,7 @@
 | [serenity \(I\)](https://open.spotify.com/track/0MJnCQigS9d0kaP5ATMVKR) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [dharā](https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6) | [serenity \(I\)](https://open.spotify.com/album/1wGgXVO8zhOmUD3UTf8g1W) | 2:03 | 2023-04-11 | 2023-10-06 |
 | [series one](https://open.spotify.com/track/7euY11C8aJF0cCTL4nqJxn) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [series one](https://open.spotify.com/album/2P6V6lLhsY74iDGlhBSYpW) | 2:31 | 2023-01-13 |  |
 | [seven](https://open.spotify.com/track/0x5lZBgd6EekTwkTGVGE7M) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [seven](https://open.spotify.com/album/2kbVdVtXdNRlDg8gUbOmJ2) | 2:36 | 2023-01-06 |  |
-| [Shade](https://open.spotify.com/track/1KDSYqKNzT5uo6aHDL88vC) | [Dippie Moon](https://open.spotify.com/artist/5c764NOMWRwarAlKX2Dd8L) | [Shade](https://open.spotify.com/album/2b5gBLg7rnvm78UE3amQk7) | 2:00 | 2023-07-13 |  |
+| [Shade](https://open.spotify.com/track/1KDSYqKNzT5uo6aHDL88vC) | [Dippie Moon](https://open.spotify.com/artist/5c764NOMWRwarAlKX2Dd8L) | [Shade](https://open.spotify.com/album/2b5gBLg7rnvm78UE3amQk7) | 2:00 | 2023-07-13 | 2023-11-10 |
 | [Shades Of Groove](https://open.spotify.com/track/0rxKoqUnlNePLIP6lzeBxE) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Shades Of Groove](https://open.spotify.com/album/1q86UDMbp2LLSLa7aSC5al) | 2:44 | 2022-04-15 | 2022-09-02 |
 | [Shanghai, 4AM](https://open.spotify.com/track/7GWNhXxBhU5zXifNuLA9Vp) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Shanghai, 4AM](https://open.spotify.com/album/33a3a2DxYBxPv5RYa18pxe) | 1:47 | 2022-04-15 | 2022-10-29 |
 | [Shapes](https://open.spotify.com/track/4BiiiOiilAEgCkeynf3hlC) | [K9 Division](https://open.spotify.com/artist/14mNenIi1W5u68fvDTd7ES) | [Shapes](https://open.spotify.com/album/2Gk8tUVQ8KTbTJCd2hnvZZ) | 1:54 | 2022-10-07 |  |

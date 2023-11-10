@@ -4,12 +4,12 @@
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T?si=OM3vTCGWTP\-CdTqJ2D1Ing"> Reggie</a> and  <a href="https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac?si=oWJSpy8iSBmwCO8jeie\_tw"> Kofi Mole</a>
 
-122 songs - 6 hr 13 min
+123 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 By 2](https://open.spotify.com/track/3YiAKOhUJSplRyROIAOxMs) | [Komla MC](https://open.spotify.com/artist/1YzRdveJSpKhAPbVoMr8J2) | [2 By 2](https://open.spotify.com/album/2OQTBLs49TBA9Aqeetopnu) | 2:47 | 2023-03-10 | 2023-03-30 |
-| [2 Fresh](https://open.spotify.com/track/51c4uJ7B9cxplMLPnPMoRt) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [2 Fresh](https://open.spotify.com/album/3yhOIQQoxiI51WPlUEbhvD) | 2:17 | 2023-09-14 |  |
+| [2 Fresh](https://open.spotify.com/track/51c4uJ7B9cxplMLPnPMoRt) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [2 Fresh](https://open.spotify.com/album/3yhOIQQoxiI51WPlUEbhvD) | 2:17 | 2023-09-14 | 2023-11-10 |
 | [Abasakoom](https://open.spotify.com/track/2puqWsQHO7Ld5gutZNajtA) | [O'kenneth,reggie](https://open.spotify.com/artist/132awLu7WliKxvElyC2Qgu) | [Abasakoom](https://open.spotify.com/album/6recifnSNcbsFOKrc6d2ck) | 3:23 | 2022-06-09 |  |
 | [Adom Ntsi](https://open.spotify.com/track/2p4do2mYt62fuTZkqPIqZM) | [Goddy Wan](https://open.spotify.com/artist/5MEVb9eCqF903Lyi2OuJp1), [Kwesi Taadi](https://open.spotify.com/artist/3loHdUqZvhaFVaUXS1p0Wr), [2Feet](https://open.spotify.com/artist/2wHbFLafbtG7hcGz44gCz0) | [Adom Ntsi](https://open.spotify.com/album/2v7wM4sNmDQV2ZeDRqXsVd) | 4:22 | 2023-03-10 | 2023-03-18 |
 | [Adwuma](https://open.spotify.com/track/4XLuxguiObaOWXuhTxn9mM) | [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf) | [Adwuma](https://open.spotify.com/album/6UoSOMyYyGYvt4QP2lWFkT) | 2:09 | 2023-04-20 | 2023-06-17 |
@@ -96,6 +96,7 @@
 | [Odo](https://open.spotify.com/track/08nMjhiq9eafvysZ4P5LU4) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Odo](https://open.spotify.com/album/6qqytYEiJ6cQMhXNG1oV3G) | 3:02 | 2023-06-09 |  |
 | [Oh Ma Linda](https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Most High](https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5) | 2:56 | 2023-06-22 |  |
 | [Oh Ma Linda](https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Oh Ma Linda](https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg) | 2:56 | 2023-04-14 | 2023-07-14 |
+| [OH NO](https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [OH NO](https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd) | 2:33 | 2023-11-10 |  |
 | [Oliver Khan](https://open.spotify.com/track/144P7iTQDdvpdQUPKYzsjD) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Oliver Khan](https://open.spotify.com/album/4z9KOiawTgEyS7JsG6VAn9) | 3:20 | 2023-09-14 |  |
 | [ON TEN](https://open.spotify.com/track/4Sbtvgkqpay8iMF6xDKZzF) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg), [DRILL SZN](https://open.spotify.com/artist/5XFxkRmijQ1JmSHmGSBSzj) | [ON TEN](https://open.spotify.com/album/3PmvDqSRCk9UkW94hFFvr4) | 1:46 | 2023-02-23 | 2023-06-10 |
 | [Overload](https://open.spotify.com/track/7hjVQjTJJzU4zGwzmkr1RH) | [G\-Migos](https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN) | [Overload](https://open.spotify.com/album/1tgrAAKHEmj8SyPeiR8dp0) | 2:30 | 2023-02-23 | 2023-03-11 |

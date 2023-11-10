@@ -4,7 +4,7 @@
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Kieran Campbell, Artwork by: Isu Kim
 
-459 songs - 23 hr 29 min
+460 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Prisionero](https://open.spotify.com/track/4Ucoj287E1voN46t2xywJA) | [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [Prisionero](https://open.spotify.com/album/49wSkFlLe3TCvYjTDuPTA9) | 2:45 | 2023-10-04 | 2023-10-26 |
 | [Profundo](https://open.spotify.com/track/6S9C8Tv8SjtVf1oJ7ycaR9) | [Pacifika](https://open.spotify.com/artist/1THKuFOwUsISl3YdpVx5ke) | [Profundo](https://open.spotify.com/album/1VWwiIDL7IuGhwsnaCUYnj) | 4:45 | 2023-07-26 | 2023-08-17 |
 | [prototype](https://open.spotify.com/track/42e4Kynm4MdjarC7WSef3o) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [prototype](https://open.spotify.com/album/2bNvMfHy4G9xlkUddkc6Ko) | 4:18 | 2023-09-13 | 2023-10-05 |
+| [QUALTO :intempesta](https://open.spotify.com/track/36lRKBIe142YTcpsxpaa0k) | [MÓRY](https://open.spotify.com/artist/5FdrFhHWZupu9cqlWAg2WR) | [SERENO DE LA NOCHE](https://open.spotify.com/album/0P4OOt0sTSYWzpsTYDZpCg) | 2:51 | 2023-11-08 |  |
 | [QUE FUEGO \- Ibiza VIP Dub](https://open.spotify.com/track/6D693nh1bwVio4Pg6jpN7e) | [Yanik Coen](https://open.spotify.com/artist/0MnQ8m1U8JT36ixxg2ObzN) | [QUE FUEGO \(Ibiza VIP Dub\)](https://open.spotify.com/album/7uSa59bsiBDERSU9XTpn5s) | 2:57 | 2023-09-06 | 2023-09-28 |
 | [Rainbowroad](https://open.spotify.com/track/1JYI5jy8v1wC0lsYg7LVDx) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Rainbowroad](https://open.spotify.com/album/43iOZv3nYRhdlbpuF0faF6) | 3:22 | 2023-08-16 | 2023-08-24 |
 | [Ramona](https://open.spotify.com/track/2W6yKDUYSIdp6vPnPWqiv8) | [moondoggy](https://open.spotify.com/artist/5p00nwfrUcZvA9WbXZeQOk) | [Ramona](https://open.spotify.com/album/5IOYVd6STMONjcDQuuQfnm) | 3:02 | 2023-10-11 |  |

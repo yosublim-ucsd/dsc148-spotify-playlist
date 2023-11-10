@@ -2,7 +2,7 @@
 
 ### [Classical Romance](https://open.spotify.com/playlist/37i9dQZF1DX4s3V2rTswzO)
 
-> Para ese momento especial, escucha estas piezas clásicas que van directo al corazón.
+> Set the scene for romance with beautiful classical music.
 
 99 songs - 7 hr 17 min
 

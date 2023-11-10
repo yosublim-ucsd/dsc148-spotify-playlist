@@ -2,9 +2,9 @@
 
 ### [Darkwave](https://open.spotify.com/playlist/37i9dQZF1DWWmsWPbM2pKT)
 
-> Obscure, dreamy and nostalgic synth sounds from all over the world\. Cover: Mareux
+> Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-228 songs - 14 hr 19 min
+230 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 | 2023-02-09 |  |
 | [Bichota \(Post\-Punk\)](https://open.spotify.com/track/3o8tpXm59d9a8wulsGLZ3y) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Bichota \(Post\-Punk\)](https://open.spotify.com/album/0u9yvtJJdXmqMOOa53VuUD) | 3:01 | 2023-04-03 | 2023-09-01 |
 | [Biessensoŭnasć](https://open.spotify.com/track/2R1Yk6vm11P3pLIrtBR4eM) | [Nürnberg](https://open.spotify.com/artist/2IkTGThCeQAPGMru4uXzs4) | [Skryvaj](https://open.spotify.com/album/4v7LVUKXfXJwsomhfHaefk) | 2:56 | 2023-02-09 | 2023-09-01 |
+| [Big Trouble \(with Tei Shi\)](https://open.spotify.com/track/0ocr7Yn9DpnMLXUHUWeCxu) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Big Trouble \(with Tei Shi\)](https://open.spotify.com/album/3k9aqoRFJyUvYEXWE1uyE3) | 3:50 | 2023-11-09 |  |
 | [Black Cathedral](https://open.spotify.com/track/6SQHBJhkZJHoul8PJ8EHXC) | [This Cold Night](https://open.spotify.com/artist/3pIO4LI39vyMYT9cou1B7j) | [While I Disappear](https://open.spotify.com/album/4efXao3lMzP4AWTn94pFL5) | 2:55 | 2023-02-09 |  |
 | [Boys](https://open.spotify.com/track/3mIijo7WcIfMLx1PJPHbit) | [Social Order](https://open.spotify.com/artist/7J3iqTNIMXafmNKtwfRQ48) | [Boys](https://open.spotify.com/album/3f5a36R6YXw7ykuAKkcxkU) | 3:04 | 2023-08-05 |  |
 | [Breaking the Dream](https://open.spotify.com/track/3yWuyh35Khby1Vp9aQJNjn) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Breaking the Dream](https://open.spotify.com/album/1AR7tlqXFciqzjzqDOv6Af) | 3:30 | 2020-12-21 | 2023-02-10 |
@@ -112,6 +113,7 @@
 | [Kasvetli Kutlama](https://open.spotify.com/track/1JgTzrrrnh6neqTtvA3F5d) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Kasvetli Kutlama](https://open.spotify.com/album/1ykQIGMWeD6VbVs7fMjSIJ) | 5:06 | 2023-08-31 |  |
 | [Killer](https://open.spotify.com/track/2AYS46aVNyzEG0nsWwr8y6) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:06 | 2023-05-05 |  |
 | [Labor](https://open.spotify.com/track/3Ra7J2KKsqKOHR4w9OMuEN) | [Ssleeping Desiress](https://open.spotify.com/artist/4fDRRcMe3Ci8lhq01OaVlI) | [Ssleeping Desiress](https://open.spotify.com/album/157P582dPYLDWK3tbHBe8f) | 4:01 | 2023-01-12 | 2023-02-22 |
+| [LAST WISH](https://open.spotify.com/track/7ImDK6cahdEFf5A70IaHOE) | [DIGITAL REY](https://open.spotify.com/artist/0anUkBIQnpCcSiTa7vbOaS) | [LAST WISH](https://open.spotify.com/album/6LCTBtZtq1ogCINSnDQrA3) | 3:23 | 2023-11-09 |  |
 | [Leave](https://open.spotify.com/track/7i0Y4Lmp5Zrvu3QvKn3H9C) | [Cactus Ponchos](https://open.spotify.com/artist/4puf0OYh6mMjTRFuprvekt) | [Leave](https://open.spotify.com/album/6e1FsnxiW7AuqxhzrV5jM4) | 4:29 | 2023-03-07 | 2023-03-25 |
 | [leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [leichter//kälter](https://open.spotify.com/album/1Q3Vo8cPBMEYDnCm5982vC) | 3:15 | 2021-09-01 |  |
 | [Lightyears](https://open.spotify.com/track/5DzgAJOHNyOhj8jxrBghHq) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Éternité](https://open.spotify.com/album/5p7tig2puSC6MFU7wLVuc5) | 4:16 | 2020-12-21 | 2023-02-10 |

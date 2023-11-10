@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in Rock this week\. Cover: The Kills
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,404 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,451 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [GIRLFRIEND](https://open.spotify.com/track/5nUpj523HSMmZdBWQZkzcS) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [GIRLFRIEND](https://open.spotify.com/album/7N1qdtX1BRD76xsGgynZ2z) | 2:48 |
 | 100 | [Amphetamine Smiles](https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:05 |
 
-Snapshot ID: `MCxmMjYxOGUxZjVjNzNkOTk3N2VmNmJjM2EwYWJlZGY2YjA4NzFjNTJh`
+Snapshot ID: `MCxkYzBmYTM1NThkOGMxMjJhMGZiY2JkMDQzNGRkNWQzMGMxMDkzNzU5`

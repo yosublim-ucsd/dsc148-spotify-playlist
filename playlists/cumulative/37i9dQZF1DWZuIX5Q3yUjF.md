@@ -2,7 +2,7 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: JeBel
+> Il meglio dell'R&B italiano\. Cover: Cristina Lizzul
 
 408 songs - 20 hr 10 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: <a href="spotify:artist:6mEJxv4yQ0uvEZ023sKEPt">SioVera</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,355 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,465 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 34 | [Algo Nuevo](https://open.spotify.com/track/2hTjF2hls2VmPYbwvfCPAh) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Algo Nuevo](https://open.spotify.com/album/06PGzCviaItn974P5DtCiT) | 5:33 |
 | 35 | [Sí a la Vida](https://open.spotify.com/track/2z6VjaBUXUUSEbF6YJhwLL) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Daliza Cont](https://open.spotify.com/artist/6Yl8liObROzQbjW7orGmdS) | [Maverick](https://open.spotify.com/album/2pksgG7EddFk0Gvl2S3PsH) | 4:11 |
 | 36 | [Gracias por la cruz](https://open.spotify.com/track/3dRCPJAPgupBQcotTgh2WU) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw) | [No yo, sino Cristo](https://open.spotify.com/album/0WoCSRk8Zij8Q1k5bWNuWe) | 5:06 |
-| 37 | [Construiré Mi Vida // Digno De Adorar](https://open.spotify.com/track/7vVOmQqBuI2vLQvOs3jK1S) | [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt) | [Construiré Mi Vida // Digno De Adorar](https://open.spotify.com/album/375WLK7rEnQhwwnhWQ3Wl9) | 3:36 |
+| 37 | [Construiré Mi Vida // Digno De Adorar](https://open.spotify.com/track/2Fjo0giimkpqgSdTOCwyRS) | [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt) | [Adoración](https://open.spotify.com/album/4kOjEbqrPJyucxl0eCqwkP) | 3:36 |
 | 38 | [Hermoso Momento](https://open.spotify.com/track/6MbMLtk1m1lAz3nIfuy8WX) | [Kairo Worship](https://open.spotify.com/artist/0Hsw98UmbwZVh0mFWg0unI), [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [Hermoso Momento](https://open.spotify.com/album/7kCxwSMiGTbezVMbkBfiHG) | 11:58 |
 | 39 | [Medley Evangelio \(En Vivo\)](https://open.spotify.com/track/1GcVAXo149p2bCZLR2EyOG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 12:02 |
 | 40 | [Oceans](https://open.spotify.com/track/1qgTb6NDWkpyQLt4pQT9iJ) | [Kyrios](https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B) | [Oceans](https://open.spotify.com/album/6jR5qgOykF91Tyy6iuo3hF) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Adorarte](https://open.spotify.com/track/4UjiwbR78RsS1ZKASBNKCi) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Adorarte](https://open.spotify.com/album/0ORfXwWPcTgjSOl22fIyCE) | 4:45 |
 | 100 | [Cordero y León](https://open.spotify.com/track/0dw8miCVMqM1nHamZuf4wj) | [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Joel Figueroa](https://open.spotify.com/artist/3TuURLCO7Vv4QTUtCTkwCl), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [Raffi Greco](https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza) | [FLUIR 2](https://open.spotify.com/album/5pLu7Ml14FuBK8wa5W4OlZ) | 5:13 |
 
-Snapshot ID: `MCwzNmM4ZGM4OTNjZGE0NmI2ZTM1YjhkMTk2NGUwM2FkNDhkNDQ2NTA0`
+Snapshot ID: `MCxkNTg2ZWFjY2QzNzU0ZjIwNTI3YmJlZDhhYWNjMjZhMWYxZGJmNzRi`

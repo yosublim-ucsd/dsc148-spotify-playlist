@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 187000,
       "name": "Bath\uff06Frog (\u98a8\u5442\u3068\u86d9)",
       "url": "https://open.spotify.com/track/4UaiMmr3Rqlylaiv2gSFSb"
@@ -4001,6 +4001,24 @@
     },
     {
       "album": {
+        "name": "affection's blind",
+        "url": "https://open.spotify.com/album/24GRAjW5zhZcPYn9Mco2Vv"
+      },
+      "artists": [
+        {
+          "name": "tanny ng",
+          "url": "https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211448,
+      "name": "i'll still love you anyway",
+      "url": "https://open.spotify.com/track/1uHY0CfGOZOKO2CSTVlFLs"
+    },
+    {
+      "album": {
         "name": "DESSERTS",
         "url": "https://open.spotify.com/album/4fPMQPu5tsW7LxXrunroaD"
       },
@@ -4608,6 +4626,24 @@
       "duration_ms": 153652,
       "name": "last wave",
       "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+    },
+    {
+      "album": {
+        "name": "Lasting Memories",
+        "url": "https://open.spotify.com/album/20k1KmdxOiXyQHhw7QyXby"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214168,
+      "name": "Lasting Memories",
+      "url": "https://open.spotify.com/track/7zUsClREgMYQ5GqcnmioIF"
     },
     {
       "album": {
@@ -7746,7 +7782,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 221076,
       "name": "Shiftshaping",
       "url": "https://open.spotify.com/track/6hQTXfHQzrWa6RP6PlB1dX"
@@ -8750,6 +8786,24 @@
       "duration_ms": 295201,
       "name": "The Grants",
       "url": "https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze"
+    },
+    {
+      "album": {
+        "name": "Lanterns",
+        "url": "https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184773,
+      "name": "The Longest Goodbye",
+      "url": "https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea"
     },
     {
       "album": {
@@ -10644,7 +10698,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 165320,
       "name": "\u30d6\u30eb\u30fc\u30ef\u30f3\u30c0\u30fc",
       "url": "https://open.spotify.com/track/6nXfMNZEVy7F4kDGahfJm7"

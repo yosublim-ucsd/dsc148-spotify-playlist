@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0fmLn46c92nP4dePQSZlsz.md) - [plain]
 
 > Secretly's collection of the best new music from independent artists and labels everywhere\. Updates bi\-weekly\. Cover star: <a href="https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg?si=JdY37bOQRO2ukFk1QJm5\_Q">Cherry Glazerr</a>
 
-[Secretly Group](https://open.spotify.com/user/secretlygroup) - 17,214 likes - 70 songs - 4 hr 25 min
+[Secretly Group](https://open.spotify.com/user/secretlygroup) - 17,212 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

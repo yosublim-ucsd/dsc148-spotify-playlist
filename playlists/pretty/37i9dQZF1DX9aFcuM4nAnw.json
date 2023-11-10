@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTVjOTAzMmU3NzZmODNlNTdkZDIzZjhiZjkzMTY2YTNiMmE5YWVh",
+  "snapshot_id": "MCw3NGMyNDY2ZjIzNmEyYTI3Nzg1NzczNTYyZjE0ZjEzYmFhNjlhMGZl",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Old City (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fex355uJzSpwLSzcngIvG"
+        "name": "Untrue",
+        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
       },
       "artists": [
         {
-          "name": "Atrium Carceri",
-          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
         }
       ],
-      "duration_ms": 128181,
-      "name": "Intro / Menu",
-      "url": "https://open.spotify.com/track/73E1KgkXmrxyOREKgJIVTy"
+      "duration_ms": 126091,
+      "name": "In McDonalds",
+      "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -383,18 +383,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Untrue",
-        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
+        "name": "The Old City (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fex355uJzSpwLSzcngIvG"
       },
       "artists": [
         {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+          "name": "Atrium Carceri",
+          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
         }
       ],
-      "duration_ms": 126091,
-      "name": "In McDonalds",
-      "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
+      "duration_ms": 128181,
+      "name": "Intro / Menu",
+      "url": "https://open.spotify.com/track/73E1KgkXmrxyOREKgJIVTy"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Draconian Poetry",
-        "url": "https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp"
-      },
-      "artists": [
-        {
-          "name": "Sephiroth",
-          "url": "https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo"
-        }
-      ],
-      "duration_ms": 543560,
-      "name": "Now Night Her Course Began",
-      "url": "https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Night Drive",
         "url": "https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 358200,
       "name": "It Was Only a Dream",
       "url": "https://open.spotify.com/track/715mzRnO46sUW5P9ebzzMn"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Draconian Poetry",
+        "url": "https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp"
+      },
+      "artists": [
+        {
+          "name": "Sephiroth",
+          "url": "https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo"
+        }
+      ],
+      "duration_ms": 543560,
+      "name": "Now Night Her Course Began",
+      "url": "https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE"
     },
     {
       "added_at": "2022-07-06 17:58:03",

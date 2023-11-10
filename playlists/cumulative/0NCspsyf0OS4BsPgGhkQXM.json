@@ -3180,7 +3180,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 188669,
       "name": "Cold Hearted",
       "url": "https://open.spotify.com/track/2WhLzxtQqPJC1jDA6HqwK7"
@@ -5282,7 +5282,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 198620,
       "name": "FAITHLESS",
       "url": "https://open.spotify.com/track/5EBDcfAWfJBhWK7YKmZou9"
@@ -6280,6 +6280,28 @@
       "duration_ms": 177235,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/3pkEhdMXED0IYwXgGRmWrJ"
+    },
+    {
+      "album": {
+        "name": "G6",
+        "url": "https://open.spotify.com/album/71I3sm5vvYQ7zXQBpSVkV5"
+      },
+      "artists": [
+        {
+          "name": "Newmagick",
+          "url": "https://open.spotify.com/artist/7A3r3evEOAHQHtdumIMG8M"
+        },
+        {
+          "name": "Bread Beatz",
+          "url": "https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "G6",
+      "url": "https://open.spotify.com/track/6inrpFgczxYNOlY8CsZc25"
     },
     {
       "album": {
@@ -7930,7 +7952,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 148235,
       "name": "Hush",
       "url": "https://open.spotify.com/track/0BsBMY4J2gpCNzBz2Djd4O"
@@ -10237,6 +10259,24 @@
     },
     {
       "album": {
+        "name": "Love Game (Slowed)",
+        "url": "https://open.spotify.com/album/0Vh1m0GMK9olIO1DmYC3I4"
+      },
+      "artists": [
+        {
+          "name": "Bread Beatz",
+          "url": "https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157211,
+      "name": "Love Game - Slowed",
+      "url": "https://open.spotify.com/track/2PUKF7oK4yIONZfu5XQ14t"
+    },
+    {
+      "album": {
         "name": "Love Is a Bitch",
         "url": "https://open.spotify.com/album/6TMbfpGthu5uDvxssPWB9s"
       },
@@ -10756,7 +10796,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 128571,
       "name": "Metamorphine",
       "url": "https://open.spotify.com/track/1ivCfac6tFCz2mEUW3YLb3"
@@ -12602,7 +12642,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 131216,
       "name": "ONURIS",
       "url": "https://open.spotify.com/track/1g46CnZlLXeHXKZ8gZmDIF"
@@ -14934,7 +14974,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 198861,
       "name": "SAY",
       "url": "https://open.spotify.com/track/7tTzohTWujqyqQmsLgD4Ye"
@@ -16414,7 +16454,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 142825,
       "name": "SULTAN'S PHONK",
       "url": "https://open.spotify.com/track/2y8vNneT8BBnnwV7bTolGP"

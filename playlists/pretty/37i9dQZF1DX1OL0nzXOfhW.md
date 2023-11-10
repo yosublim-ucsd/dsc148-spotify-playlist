@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover：  Jeffrey 魏浚笙
+> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover: PetPetShawn
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,082 likes - 66 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,088 likes - 66 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Never Say Never](https://open.spotify.com/track/2WhmAUL2A1alXac2uCTBau) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [Never Say Never](https://open.spotify.com/album/54jacCNqvBtQIAgBM6LtKe) | 3:36 |
-| 2 | [失約巴黎](https://open.spotify.com/track/4BEltAGEqpAGiZHakYyRE9) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [失約巴黎](https://open.spotify.com/album/67wQwAfZPCkFf4s3QQY4I4) | 3:42 |
-| 3 | [遺忘了初心的我們](https://open.spotify.com/track/46Ntxwf4zWxhWHjtqWul6h) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [遺忘了初心的我們](https://open.spotify.com/album/1QLNBeaZlehK6srJjVg7VN) | 4:17 |
-| 4 | [第一個迷](https://open.spotify.com/track/6l5q8rkGYOwrheeWK5puyL) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [第一個迷](https://open.spotify.com/album/44OlMzM4I4gekwnDCWishn) | 4:07 |
-| 5 | [喺呢到大](https://open.spotify.com/track/79W5p1opeFvnKuUJYknlmu) | [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [喺呢到大](https://open.spotify.com/album/0vm4gUKKSPF5JNrfpUdsWh) | 2:55 |
-| 6 | [溫飽藝術家Grounded](https://open.spotify.com/track/3uirvgoCuUj6dHsFKC4hEy) | [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [溫飽藝術家Grounded](https://open.spotify.com/album/0WAWOZlVkEwV9V7aIhcWzE) | 2:42 |
-| 7 | [備忘錄No.164](https://open.spotify.com/track/0uHJGfr7UjilFALl8OblXq) | [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [備忘錄No.164](https://open.spotify.com/album/0ECU32yqFn4yIASDRlSWmM) | 2:23 |
-| 8 | [我啊!一句都聽唔明白!Freestyle](https://open.spotify.com/track/4vJWlKoZMLmWMWrmyRjKwz) | [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [我啊!一句都聽唔明白!Freestyle](https://open.spotify.com/album/2ZwoicOeT63UEyBDpSMsUQ) | 1:17 |
+| 1 | [喺呢到大](https://open.spotify.com/track/79W5p1opeFvnKuUJYknlmu) | [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [喺呢到大](https://open.spotify.com/album/0vm4gUKKSPF5JNrfpUdsWh) | 2:55 |
+| 2 | [溫飽藝術家Grounded](https://open.spotify.com/track/3uirvgoCuUj6dHsFKC4hEy) | [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [溫飽藝術家Grounded](https://open.spotify.com/album/0WAWOZlVkEwV9V7aIhcWzE) | 2:42 |
+| 3 | [備忘錄No.164](https://open.spotify.com/track/0uHJGfr7UjilFALl8OblXq) | [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [備忘錄No.164](https://open.spotify.com/album/0ECU32yqFn4yIASDRlSWmM) | 2:23 |
+| 4 | [我啊!一句都聽唔明白!Freestyle](https://open.spotify.com/track/4vJWlKoZMLmWMWrmyRjKwz) | [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [我啊!一句都聽唔明白!Freestyle](https://open.spotify.com/album/2ZwoicOeT63UEyBDpSMsUQ) | 1:17 |
+| 5 | [Never Say Never](https://open.spotify.com/track/2WhmAUL2A1alXac2uCTBau) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [Never Say Never](https://open.spotify.com/album/54jacCNqvBtQIAgBM6LtKe) | 3:36 |
+| 6 | [失約巴黎](https://open.spotify.com/track/4BEltAGEqpAGiZHakYyRE9) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [失約巴黎](https://open.spotify.com/album/67wQwAfZPCkFf4s3QQY4I4) | 3:42 |
+| 7 | [遺忘了初心的我們](https://open.spotify.com/track/46Ntxwf4zWxhWHjtqWul6h) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [遺忘了初心的我們](https://open.spotify.com/album/1QLNBeaZlehK6srJjVg7VN) | 4:17 |
+| 8 | [第一個迷](https://open.spotify.com/track/6l5q8rkGYOwrheeWK5puyL) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [第一個迷](https://open.spotify.com/album/44OlMzM4I4gekwnDCWishn) | 4:07 |
 | 9 | [讓我一個人過](https://open.spotify.com/track/0W9UnXy23gylvfBvm0Fs3t) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [讓我一個人過](https://open.spotify.com/album/1H7mGKTxclL94I9tJtxuoU) | 3:30 |
 | 10 | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9) | 3:04 |
 | 11 | [歌手職訓101](https://open.spotify.com/track/2tM6ukbTDeDLHPpdPCe3oC) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [歌手職訓101](https://open.spotify.com/album/7HrKG5OOMmKIjMur9xHlDF) | 2:54 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 65 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 |
 | 66 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 |
 
-Snapshot ID: `MCw1OTEwYzIwOGE1ODI2MGI3NzY4NzhlODdmZjg5MTE3Mjg5ZDI2YWRl`
+Snapshot ID: `MCxkY2E1NDZiNTZkMDAzOTAyNTY3OTI0MTUzNDRiYjAyMWQ0MjAxY2Fh`

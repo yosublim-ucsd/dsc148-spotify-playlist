@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6?si=E0dIznQwRSuQRzQwCowtIQ\"> Efya</a>",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm?si=LG-IJqKLQD6XidzfrXs5_A\"> Herman Suede </a>",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 143934,
       "name": "Africa Money",
       "url": "https://open.spotify.com/track/6kQlDRYfRhzjfisBceYJkJ"
@@ -2419,6 +2419,28 @@
     },
     {
       "album": {
+        "name": "Kwaku Ananse (Remix)",
+        "url": "https://open.spotify.com/album/264PQN5SiI2VGU4Bas6jSE"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        },
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203428,
+      "name": "Kwaku Ananse - Remix",
+      "url": "https://open.spotify.com/track/12XqD9NVwBiIYoKs6fDi2Y"
+    },
+    {
+      "album": {
         "name": "Kwaku the Traveller",
         "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
       },
@@ -2638,7 +2660,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 194267,
       "name": "Maradona",
       "url": "https://open.spotify.com/track/6J2Xc1SgiPbF3UgS4Qfguv"
@@ -4990,6 +5012,28 @@
       "duration_ms": 120000,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6ir2ShLPrZxXgYTtlMxeCN"
+    },
+    {
+      "album": {
+        "name": "A Wonderful Time",
+        "url": "https://open.spotify.com/album/0qbHtNyI6S1uDvIi3alx6N"
+      },
+      "artists": [
+        {
+          "name": "Herman Suede",
+          "url": "https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm"
+        },
+        {
+          "name": "Benty",
+          "url": "https://open.spotify.com/artist/3gJSud2qrIBrwHCKHP6A0S"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170097,
+      "name": "Wonderful Time",
+      "url": "https://open.spotify.com/track/6014ETfFg8Xc1tlxZSaCMc"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/6RBOLfqkI4jKZxRw2X89rI?si=g5rBGOOHQfuuWHUYgidwvQ\">Ginger Trill</a>, <a href=\"https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz?si=Brh8XQpFR4S6jtkDUYhZDw\">Touchline</a>",
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV?si=oqjOEndqQBSN126wMc9uig\">Shane Eagle</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -674,6 +674,36 @@
       "duration_ms": 168256,
       "name": "Amadlozi",
       "url": "https://open.spotify.com/track/4pHdZenBKRDOpredaVILeG"
+    },
+    {
+      "album": {
+        "name": "Amaqwa",
+        "url": "https://open.spotify.com/album/3fXyDjTPFjjA8lKkyh6qgt"
+      },
+      "artists": [
+        {
+          "name": "DJ Zan-D",
+          "url": "https://open.spotify.com/artist/3X5vtALHJxrhalDHG3MhSS"
+        },
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Sizwe Alakine",
+          "url": "https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2"
+        },
+        {
+          "name": "Ney the Bae",
+          "url": "https://open.spotify.com/artist/2LdSMH1cXxzBEdEcLp1Yz5"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278187,
+      "name": "Amaqwa",
+      "url": "https://open.spotify.com/track/7kAeTiWtrqnKdzDKx4JTPm"
     },
     {
       "album": {
@@ -10268,6 +10298,24 @@
       "duration_ms": 170735,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5WgiKqflsGLMmer3fYuoEv"
+    },
+    {
+      "album": {
+        "name": "SHiRU'S iNTERLUDE",
+        "url": "https://open.spotify.com/album/2SUW9vWQqnhDFUO5kxkhU3"
+      },
+      "artists": [
+        {
+          "name": "Shane Eagle",
+          "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135401,
+      "name": "SHiRU'S iNTERLUDE",
+      "url": "https://open.spotify.com/track/2Fvx7f8fCXxUXS6PiOGivY"
     },
     {
       "album": {

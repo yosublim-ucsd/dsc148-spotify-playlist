@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Judas Priest
 
-764 songs - 2 day 8 hr 39 min
+765 songs - 2 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [House of Mirrors](https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [House of Mirrors](https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195) | 3:40 | 2021-12-17 |  |
 | [Hungry and Angry](https://open.spotify.com/track/57PT761NIApIzfORTkmwWU) | [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Steelfactory](https://open.spotify.com/album/5wQcC9Wbwalmy7fz7IekQP) | 4:36 | 2021-12-17 | 2022-06-20 |
 | [Hunting Season](https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Hunting Season](https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6) | 3:18 | 2022-07-13 |  |
-| [Hurt](https://open.spotify.com/track/63JMdCqEjV2cxB2DRNLn0y) | [One Desire](https://open.spotify.com/artist/1s25YudYTrIRBOSsj917K7) | [One Desire](https://open.spotify.com/album/2N2uFYwu3oGTuDtQnTi7Lo) | 5:07 | 2022-03-22 |  |
+| [Hurt](https://open.spotify.com/track/63JMdCqEjV2cxB2DRNLn0y) | [One Desire](https://open.spotify.com/artist/1s25YudYTrIRBOSsj917K7) | [One Desire](https://open.spotify.com/album/2N2uFYwu3oGTuDtQnTi7Lo) | 5:07 | 2022-03-22 | 2023-11-10 |
 | [Hypnosis](https://open.spotify.com/track/5YjzcTCorDbr34bngfQIIy) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 5:35 | 2022-07-13 | 2022-08-06 |
 | [I Am Alive](https://open.spotify.com/track/3AZoyMf5d6CvZowm2sa5y4) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [I Am Alive](https://open.spotify.com/album/56wjvKdJl6Z6StD13Epcn8) | 4:34 | 2021-12-17 | 2022-07-29 |
 | [I Am the Anger](https://open.spotify.com/track/7uKK7wY13Z65M7WQAO9r46) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [Burning Earth](https://open.spotify.com/album/72we6ktCYDCvbD78ffemkH) | 3:48 | 2022-03-22 | 2022-04-21 |
@@ -486,6 +486,7 @@
 | [Power of the Triforce](https://open.spotify.com/track/4UnxvpD2skPffB7Wsd2CIG) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Power of the Triforce](https://open.spotify.com/album/5L4sI4cx6Ydq0ukz49XQji) | 3:52 | 2023-10-27 |  |
 | [Prescribing Horror](https://open.spotify.com/track/3Ikpm8FSxVV5ho2nUjRK4o) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Persona Non Grata](https://open.spotify.com/album/604klFpB4UfWrxeVaJQgL4) | 5:09 | 2021-12-29 | 2022-07-29 |
 | [Presence of Mind](https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Presence of Mind](https://open.spotify.com/album/4j3AXVu1zUsav9FLHJVtxd) | 4:15 | 2021-12-17 | 2022-11-13 |
+| [Princess of the Night](https://open.spotify.com/track/2Quz6deYulrojpI9Bi3lXl) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Denim and Leather](https://open.spotify.com/album/4ZeBGn0FbyUHL4Xf6Qn2lh) | 4:02 | 2023-10-27 |  |
 | [Princess of the Night \- 2009 Remaster](https://open.spotify.com/track/2QpP8SyXrumYR5BlcdJgTV) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Denim and Leather \(2009 Remastered Version\)](https://open.spotify.com/album/0KtDv1SIDSdJWDpjHBLJad) | 4:02 | 2022-08-19 | 2023-11-05 |
 | [Promises](https://open.spotify.com/track/1L4UqbKtfM4bk3UdOzrXny) | [Timo Tolkki’s Avalon](https://open.spotify.com/artist/6UkYfNV9Y4kp00UT4D2djV), [Todd Michael Hall](https://open.spotify.com/artist/5ZLa4aUwDkoflqCXq81x4A) | [Promises \(feat\. Todd Michael Hall\)](https://open.spotify.com/album/1JXbS2j6fkhy6foSf3zeAw) | 4:45 | 2021-12-29 | 2022-04-21 |
 | [Prophecy](https://open.spotify.com/track/3B2BYW1eovn4zK4iOm13TJ) | [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Prophecy](https://open.spotify.com/album/1bCNLCURKLOEKU5A1eyR95) | 4:41 | 2021-12-17 | 2022-07-18 |

@@ -830,7 +830,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 257407,
       "name": "Born of Hate",
       "url": "https://open.spotify.com/track/0KFBWumneVmEuoIxTbgNrA"
@@ -4526,6 +4526,24 @@
       "duration_ms": 249226,
       "name": "Pleasure to Kill",
       "url": "https://open.spotify.com/track/1ZZjbRbY0uLQLeNddMqZJ2"
+    },
+    {
+      "album": {
+        "name": "Pleasure to Kill",
+        "url": "https://open.spotify.com/album/2eAK1pBzED09E9ooIAznXP"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249333,
+      "name": "Pleasure to Kill",
+      "url": "https://open.spotify.com/track/3LFeYtxcstS7tezHLWuUY5"
     },
     {
       "album": {

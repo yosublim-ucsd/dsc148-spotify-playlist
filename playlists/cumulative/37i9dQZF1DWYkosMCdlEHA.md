@@ -4,7 +4,7 @@
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-77 songs - 4 hr 58 min
+78 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Tranquila \- Versão Acústica](https://open.spotify.com/track/0ohZWsvWdcGlXDiuBqxDuV) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Tranquila \(Versão Acústica\)](https://open.spotify.com/album/7cz1MN4Q2jnd1UgI49U6kh) | 2:48 | 2023-07-07 |  |
 | [True Love](https://open.spotify.com/track/1HnriuDThLq7bEl1QKiaJL) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Peace in a Time of War](https://open.spotify.com/album/3fmRr51BQGbdFUeFfyGn04) | 4:16 | 2023-07-07 |  |
 | [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 | 2023-07-07 |  |
-| [True to Myself \- Live in Saratoga, CA, 2019](https://open.spotify.com/track/3SIcm5aQsxVfjB2rly20tV) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [We Are the People Tour \(Live\)](https://open.spotify.com/album/6GiFk4Ep2wpwXgeMEQTh2k) | 3:57 | 2023-07-07 |  |
+| [True To Myself](https://open.spotify.com/track/6Lamfb7pARZtIVYhVqFAaw) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [We Are The People Tour](https://open.spotify.com/album/7FQqRd0kh49AShH75FiT61) | 3:57 | 2023-10-13 |  |
+| [True to Myself \- Live in Saratoga, CA, 2019](https://open.spotify.com/track/3SIcm5aQsxVfjB2rly20tV) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [We Are the People Tour \(Live\)](https://open.spotify.com/album/6GiFk4Ep2wpwXgeMEQTh2k) | 3:57 | 2023-07-07 | 2023-11-10 |
 | [Tô De Pé \- Acústico](https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Tô De Pé \(Acústico\)](https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v) | 2:49 | 2023-07-07 |  |
 | [Uma Brasileira \- Ao Vivo](https://open.spotify.com/track/7uHsVx7EDLLSuERDVBGcXC) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Uma Brasileira \(Ao Vivo\)](https://open.spotify.com/album/3siyY9J8CgcVlVOkYXgWf6) | 4:10 | 2023-07-07 |  |
 | [Uma onda que passou \(E eu não dropei\) \- Ao vivo](https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv) | [15 Anos \(Ao vivo\)](https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L) | 3:29 | 2023-07-07 |  |

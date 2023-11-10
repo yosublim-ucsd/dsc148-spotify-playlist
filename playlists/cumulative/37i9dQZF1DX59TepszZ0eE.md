@@ -2,9 +2,9 @@
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=mJ2HCpbYRBmFG\_qFtWvyeQ">Omega Khunou</a>
+> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=so\_TwbG9RECNNXRdvByJtQ">Spirit of Praise</a>
 
-170 songs - 16 hr 57 min
+171 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Thel' Umoya](https://open.spotify.com/track/3jOcdERCd7e3JNBqb0iWgS) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Benjamin Dube \- Spiritual Celebration, Vol.1](https://open.spotify.com/album/5UKG4D9iQIwpY0ZJyAwm7Z) | 4:04 | 2020-09-01 | 2023-04-07 |
 | [Thel' Umoya](https://open.spotify.com/track/7F5JEUzNSmDCWJr0sixvdk) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Benjamin Dube \- Spiritual Celebration, Vol.1](https://open.spotify.com/album/6cvqICbcHx32KbIecxwKDa) | 4:04 | 2020-09-01 | 2023-03-12 |
 | [Thelumoya](https://open.spotify.com/track/4m3si6zfyw7JI045D2iiUx) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2), [Tshepiso Motaung](https://open.spotify.com/artist/5W1gtTJxIuuNRso18Ng6f0) | [Thelumoya](https://open.spotify.com/album/5YIOuPvc6JJfmGWmQeLEmY) | 5:01 | 2022-02-17 | 2023-03-18 |
+| [Themba Lami](https://open.spotify.com/track/6k00ooshwz6n83jl9YMBSp) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s) | [Themba Lami](https://open.spotify.com/album/0u9iWZRgQi3nI2JTyVNJkW) | 8:22 | 2023-11-10 |  |
 | [Thina Ngemihla \(Live\)](https://open.spotify.com/track/1tNsMLoMNn06Qf37fcDfwH) | [Teboho Moloi](https://open.spotify.com/artist/3LmjTfyNxwbzwXJoQkhQp0) | [Atamelang Ho Jehova \(Live\)](https://open.spotify.com/album/6Jg7TeqC6VyWcvCX9jYJnD) | 7:44 | 2019-03-04 |  |
 | [Thina Simzwile Ubatshazwayo](https://open.spotify.com/track/3j24qyc0nqldEpUbvx5LEU) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Thina Simzwile Ubatshazwayo](https://open.spotify.com/album/0aVD6cMb0YSIS2yjDxsFaR) | 2:46 | 2023-10-20 |  |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2020-12-10 |  |

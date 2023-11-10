@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: DURDN \*👉 <a href="https://spice.eplus.jp/articles/323643?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,067 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,135 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 6 | [呼吸のように](https://open.spotify.com/track/5DDmuZWyW0lyz1NnJTU0z8) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [呼吸のように](https://open.spotify.com/album/6ItQ4iJTBX8j5oW6zTOlzN) | 5:45 |
 | 7 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 |
 | 8 | [Kita wing \-CLASSIC\-](https://open.spotify.com/track/0bIsJCMtFLe7VcOFJukUJ8) | [Akina Nakamori](https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J) | [50th Anniversary Special A Tribute of Hayashi Tetsuji \- Saudade \-](https://open.spotify.com/album/1IL41vFj4phgdUsajpKFa1) | 6:22 |
-| 9 | [Itterasshai](https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Itterasshai](https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd) | 3:55 |
+| 9 | [Itterasshai](https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Itterasshai](https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd) | 3:55 |
 | 10 | [喉仏のクリスマス](https://open.spotify.com/track/1w2R8AIHPJBZf8XLHfSxTy) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [喉仏のクリスマス](https://open.spotify.com/album/6ZdtQWdJLwpyVTnll09wz0) | 3:38 |
 | 11 | [黄昏メロウ](https://open.spotify.com/track/3QHjbtUyJkPhycNxnygPT0) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [カラタチの夢](https://open.spotify.com/album/0GQmfz006T3QqIQ1bRMdVv) | 4:25 |
 | 12 | [You & I](https://open.spotify.com/track/72ssNVSfuvYH39CLVDGh3F) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [You & I](https://open.spotify.com/album/45N5Sz0eCAuU90MYKF61Xl) | 4:30 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 21 | [Peppermint Gum](https://open.spotify.com/track/0ALSxIhd5E0qfXBum5AQCa) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Peppermint Gum](https://open.spotify.com/album/4tGCW6bLt5nbGQSFVECn1I) | 3:50 |
 | 22 | [Memory](https://open.spotify.com/track/5VjIsZGx4Io1lGrjDeZZtI) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Memory](https://open.spotify.com/album/1BZIL3wcac9vq6EQUXZMbl) | 3:37 |
 | 23 | [Saigo no Kyojin](https://open.spotify.com/track/1iwxWteWfmWb1LekPweXnY) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Saigo no Kyojin](https://open.spotify.com/album/0aski4Pd2GvDmA6l90Mepg) | 4:00 |
-| 24 | [Imperfection](https://open.spotify.com/track/0yhd8yWyOhAc1beip5G0sm) | [Nephew](https://open.spotify.com/artist/11BUDylkl50Y6dsbZMZiCG) | [Imperfection](https://open.spotify.com/album/547HGOx1RVJqsD6mp7241Z) | 3:16 |
+| 24 | [Imperfection](https://open.spotify.com/track/0yhd8yWyOhAc1beip5G0sm) | [Nephew](https://open.spotify.com/artist/2QuPFnj8mE4ghAFuQx1vzV) | [Imperfection](https://open.spotify.com/album/547HGOx1RVJqsD6mp7241Z) | 3:16 |
 | 25 | [Shoutotsu](https://open.spotify.com/track/2Tp7eNHiWdtrOz4wbp1vOs) | [KEN THE 390](https://open.spotify.com/artist/1tcHKxlx0TZ6MkHGO4QYv3), [FORK](https://open.spotify.com/artist/5PHbAIFWne88ZNMN8MIP0B), [ZEEBRA](https://open.spotify.com/artist/3zFZk4H2XhV8bCRDyPir54) | [Sunshine](https://open.spotify.com/album/25dVUApnE4VByJbfCZBhkh) | 3:15 |
 | 26 | [Hey Lady](https://open.spotify.com/track/4IIAdk29wn31gHN3p9v6LD) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q), [ZENDAMAN](https://open.spotify.com/artist/2NfJkHz3wokHxqlHYWMw45) | [Hey Lady](https://open.spotify.com/album/4OYUTrIpGrQGJWUtUxuD2n) | 3:09 |
 | 27 | [BEST!](https://open.spotify.com/track/2m01bEh71a8ecP8BW4aEDE) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt), [Tim Pepperoni](https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo), [Puckafall](https://open.spotify.com/artist/4sk5D1u9uIWDjupHAdxjwg) | [BEST!](https://open.spotify.com/album/0OAQ6hYdGFQR3IoCptf5Ec) | 2:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 59 | [海の瞳に映るもの](https://open.spotify.com/track/7J8RCcITJH3vx1Ea9lZUBU) | [光季](https://open.spotify.com/artist/3LXqR6Lto6ChlfibcmAnlj) | [海の瞳に映るもの](https://open.spotify.com/album/2iK7iRcSG3q9GUvVmal6wc) | 3:54 |
 | 60 | [permanent triangle](https://open.spotify.com/track/6IFMMSJ6JG6m06bavyHn1E) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj) | [permanent triangle](https://open.spotify.com/album/3SUpBkO5BE8zupb9pVWjFg) | 4:26 |
 
-Snapshot ID: `MCwwODhiOGRlZDg1MmFlYTMyMWI1MTA5Mjk5YjJhMWI1YTgwYjgzZDQy`
+Snapshot ID: `MCwwMTc0ZWFiZjI5ZGJjMDU2MjVmZWQ2NTBlNGY4ZmNiMzRkZDNiZWE2`

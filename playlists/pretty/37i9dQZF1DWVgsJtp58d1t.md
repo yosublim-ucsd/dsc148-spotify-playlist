@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover: <a href="spotify:artist:07EcmJpfAday8xGkslfanE">Kevin Abstract</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,422 likes - 109 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,436 likes - 109 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 108 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 |
 | 109 | [Third Day \(feat\. Ty Brasel\)](https://open.spotify.com/track/585LHTE4ugzJoCqk6bmkjV) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Nobody's Perfect](https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ) | 3:09 |
 
-Snapshot ID: `MCwxM2JmYWFjZGVmNmEyOTlmMDM2NWFiYTM5YmI3ZDhmZWM4ODQ1YzJm`
+Snapshot ID: `MCxmYTgzZGNmYWUwYzBjMzI4OTNmOTc5M2VjMDgwNjY1NGQ4MWI3NDk3`

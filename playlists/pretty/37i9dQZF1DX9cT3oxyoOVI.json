@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 128431,
+  "num_followers": 128439,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzUyYTU5MDQ0YzM4YTVjNDQ4YTE3ZGQ1ODExOTNjMDFkOTVkNDRh",
+  "snapshot_id": "MCxkYzA1MTQxZWEzOGVjNWIwMWI3Y2UyZDQzMWFlZjA1YzA2MmExMGUw",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
+        "name": "Search + Destroy",
+        "url": "https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v"
+      },
+      "artists": [
+        {
+          "name": "Luby Sparks",
+          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "One Last Girl",
+      "url": "https://open.spotify.com/track/7gAGzgQtONTcOOygJVK7vY"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
         "name": "Teenager",
         "url": "https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 179249,
       "name": "Teenager",
       "url": "https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
-        "name": "Search + Destroy",
-        "url": "https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v"
-      },
-      "artists": [
-        {
-          "name": "Luby Sparks",
-          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "One Last Girl",
-      "url": "https://open.spotify.com/track/7gAGzgQtONTcOOygJVK7vY"
     },
     {
       "added_at": "2023-01-30 15:22:38",

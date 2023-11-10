@@ -3056,6 +3056,28 @@
     {
       "album": {
         "name": "Pride",
+        "url": "https://open.spotify.com/album/6KV80D3ILcPYRKetKucQ68"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Nadirah Shakoor",
+          "url": "https://open.spotify.com/artist/6NxIOj0bsCWjW5mJGDEFwy"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388777,
+      "name": "Pride (Main Mix)",
+      "url": "https://open.spotify.com/track/6g2O54hw97iNV0Y9kXdrAP"
+    },
+    {
+      "album": {
+        "name": "Pride",
         "url": "https://open.spotify.com/album/43xDloRiOgJc41Vczj2uvG"
       },
       "artists": [
@@ -3282,7 +3304,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 421506,
       "name": "Spinning Inside Your Love - DJ Spinna Remix - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/3JOKodchSwl2hIdsrcJ8XB"

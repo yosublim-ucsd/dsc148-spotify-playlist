@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best from Britain's vibrant scene. Cover: Matthew Halsall",
+  "description": "The best from Britain's vibrant scene. Cover: NIJI",
   "name": "Jazz UK",
   "tracks": [
     {
@@ -206,7 +206,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 161771,
       "name": "5k",
       "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 389240,
       "name": "Feet Down South",
       "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
@@ -3135,6 +3135,24 @@
     },
     {
       "album": {
+        "name": "Freudian Slips",
+        "url": "https://open.spotify.com/album/5sdHPWcKzFKUVHE87snT3v"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163516,
+      "name": "Freudian Slips",
+      "url": "https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm"
+    },
+    {
+      "album": {
         "name": "Friday Film Special",
         "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
       },
@@ -3186,6 +3204,24 @@
       "duration_ms": 202000,
       "name": "Fukswityu",
       "url": "https://open.spotify.com/track/7DqF3OvXVr9zMqG72a6hdX"
+    },
+    {
+      "album": {
+        "name": "Funeka",
+        "url": "https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5"
+      },
+      "artists": [
+        {
+          "name": "Cooks But We're Chefs",
+          "url": "https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Funeka",
+      "url": "https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf"
     },
     {
       "album": {
@@ -3671,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "Hide To Seek",
+        "url": "https://open.spotify.com/album/3PfYPUMLpfrmZSbCKz32v8"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286890,
+      "name": "Hide To Seek",
+      "url": "https://open.spotify.com/track/14v0RznQuTisy9dHVoXcbI"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/5RwQwvRgpHl2Ej7Q0wo4ik"
       },
@@ -3792,6 +3846,14 @@
         {
           "name": "Myele Manzanza",
           "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
+        },
+        {
+          "name": "Matthew Sheens",
+          "url": "https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E"
+        },
+        {
+          "name": "Matt Penman",
+          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
         }
       ],
       "date_added": "2023-10-05",
@@ -3978,7 +4040,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 174764,
       "name": "If You Love The Moon",
       "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
@@ -4908,6 +4970,24 @@
     {
       "album": {
         "name": "Sample The Sky",
+        "url": "https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247102,
+      "name": "Light Years",
+      "url": "https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB"
+    },
+    {
+      "album": {
+        "name": "Sample The Sky",
         "url": "https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc"
       },
       "artists": [
@@ -4918,7 +4998,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 247102,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/4M3TB3K2uietahnWZuzIZF"
@@ -4970,6 +5050,24 @@
       "duration_ms": 193357,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/210QQ9PIeYxjcHaMNNdzbJ"
+    },
+    {
+      "album": {
+        "name": "Listen To The Sky",
+        "url": "https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172042,
+      "name": "Listen To The Sky",
+      "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
     },
     {
       "album": {
@@ -5148,7 +5246,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 209020,
       "name": "Love Theme For Leisure Trip",
       "url": "https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK"
@@ -5342,7 +5440,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 267213,
       "name": "May The Funk Be With You",
       "url": "https://open.spotify.com/track/6GkeuiAXhBvPp4WsBgDvmV"
@@ -6176,7 +6274,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 282785,
       "name": "No Good For Me",
       "url": "https://open.spotify.com/track/21GyQmCgz28fic7F5PoYTB"
@@ -6650,6 +6748,24 @@
       "duration_ms": 177999,
       "name": "Pluo",
       "url": "https://open.spotify.com/track/5E6LCQkcEuJW709HAyOUMn"
+    },
+    {
+      "album": {
+        "name": "Portals",
+        "url": "https://open.spotify.com/album/3Ed6qp1UbaP1tnK3S1fWzF"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161286,
+      "name": "Portals",
+      "url": "https://open.spotify.com/track/0JM57iUyyTFUTnH9n5mvn6"
     },
     {
       "album": {
@@ -7274,7 +7390,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 221000,
       "name": "Searching",
       "url": "https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC"
@@ -7562,7 +7678,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 348000,
       "name": "Siesta (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/5Yrm1i3NX7r6ycWViSz7oh"
@@ -7700,6 +7816,24 @@
       "duration_ms": 312093,
       "name": "Something's Going On",
       "url": "https://open.spotify.com/track/3bRqljHPbtPEDaM2bL1JML"
+    },
+    {
+      "album": {
+        "name": "Somewhere in the Middle",
+        "url": "https://open.spotify.com/album/7lmGdKqu3kEfpXoGNeLtL9"
+      },
+      "artists": [
+        {
+          "name": "NIJI",
+          "url": "https://open.spotify.com/artist/2Bjdx6wbbv4Ctfk01QmaIz"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184520,
+      "name": "Somewhere in the Middle",
+      "url": "https://open.spotify.com/track/3e3HjNdGVHvD7wkdkikq1O"
     },
     {
       "album": {

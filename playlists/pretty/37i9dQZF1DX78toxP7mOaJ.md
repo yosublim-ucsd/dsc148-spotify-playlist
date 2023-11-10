@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Hotline TNT \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,448 likes - 126 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,515 likes - 126 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 85 | [Get Pegged](https://open.spotify.com/track/3lpmNUfvD7J8ItyImLVkhF) | [Don Luxe](https://open.spotify.com/artist/59HdeHwDEdpkReLU5nNg3V) | [Get Pegged](https://open.spotify.com/album/3OEfnVIuXbBoCZc5JZ38YE) | 2:25 |
 | 86 | [do you think it was the last time?](https://open.spotify.com/track/0htfRkYdvFdjhZOz3YCp1A) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [do you think it was the last time?](https://open.spotify.com/album/5GF1z8ApTTX7CgBk9Q31O4) | 2:41 |
 | 87 | [Taking Up Sports](https://open.spotify.com/track/0dlGaLCdoDKcrK7v3tdBHb) | [Cherym](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5) | [Taking Up Sports](https://open.spotify.com/album/5ogRaa13BvMAVcxVnOnsSf) | 3:04 |
-| 88 | [Lidocaine](https://open.spotify.com/track/01xBC2hkESbCnZ4rDwyod7) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Liar Liar](https://open.spotify.com/album/73mgU4EA3qgV9Dfko9TrZk) | 2:31 |
+| 88 | [Lidocaine](https://open.spotify.com/track/0slp3xaYYXJ5GTP2Pr7LZ3) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Lidocaine](https://open.spotify.com/album/23Nm4bA75MZK00MHlYHGsA) | 2:31 |
 | 89 | [Alone Again](https://open.spotify.com/track/3f0iEz11sOiYSPKorO53kx) | [Split System](https://open.spotify.com/artist/37jDGGhU8pF8nOMBhodmxW) | [Alone Again](https://open.spotify.com/album/3vlDabuf1YN9GRH24mAq25) | 3:21 |
 | 90 | [Autonomy Shop](https://open.spotify.com/track/1SQcpGtOW3xiInjzf63I3l) | [Thank You, I'm Sorry](https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU) | [Autonomy Shop](https://open.spotify.com/album/61qL8SJF5jDZmzlO23obrc) | 2:21 |
 | 91 | [Talk About It](https://open.spotify.com/track/7MjNm0HZCObGbmjZ8XoArS) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX) | [Talk About It](https://open.spotify.com/album/3ctj9h3HAz77lZx0YOhPLl) | 4:02 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 125 | [Young and Alive](https://open.spotify.com/track/0ahv9FeBbdodwTEpeJarqe) | [The Sooks](https://open.spotify.com/artist/7AJRbMEkOOcr3YRQqR75tj) | [Young and Alive](https://open.spotify.com/album/1apst5g9k8WaqgrajZl8By) | 3:16 |
 | 126 | [It's A Pain](https://open.spotify.com/track/6fYQfO8TdcHsrGsyiHcbP6) | [Bummer Camp](https://open.spotify.com/artist/03PQWgjoaJt88TpMi1dmm5) | [Big Deal](https://open.spotify.com/album/4hclPpxh4OdsHhYc14TpQV) | 2:54 |
 
-Snapshot ID: `MCxjNzAwMzQ4NGQ0Y2UwNjA3M2FjNTMyMTZlYzNkM2RjYmM4NDRmOTIw`
+Snapshot ID: `MCxjOWJjN2NlODUwM2Q4MDBlYjRjN2FkYWJmYWZhNGNiOTY1NjhmNjIy`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Lysistrata",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Dionysos",
   "name": "VOLUME FRANCE",
   "tracks": [
     {
@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Maybe We're not Kids Anymore",
+        "url": "https://open.spotify.com/album/1oyuIa2V3wOsAMGae7Fvbc"
+      },
+      "artists": [
+        {
+          "name": "Gurl",
+          "url": "https://open.spotify.com/artist/4Fj5Yd9zJaMILwRxWlHSTB"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178276,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6JUpIXOgVejhw5ISvOhlU7"
+    },
+    {
+      "album": {
         "name": "Born to Win",
         "url": "https://open.spotify.com/album/5DVy8NKNSeRGYIjH7rCftk"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 199591,
       "name": "Break The Rules",
       "url": "https://open.spotify.com/track/65uA9t4W1khgUaCYg7Y018"
@@ -315,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/3AAGdDB6Q458r3ZvawOjoL"
+      },
+      "artists": [
+        {
+          "name": "NASTYJOE",
+          "url": "https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305649,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/01jRRZ8ojker6VwHd75UZF"
+    },
+    {
+      "album": {
         "name": "Cold Water Swim",
         "url": "https://open.spotify.com/album/0awhRPFIuizXkso3zAiwWb"
       },
@@ -351,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Comfort Zone",
+        "url": "https://open.spotify.com/album/3Wm8avMamR1wrfyYtmbrK7"
+      },
+      "artists": [
+        {
+          "name": "Two Trains Left",
+          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/4meJcWnZIsYL5CDpamJH0D"
+    },
+    {
+      "album": {
         "name": "Failed By Choice",
         "url": "https://open.spotify.com/album/4ZpRjNZsXJIPdIcUO757RE"
       },
@@ -362,7 +416,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 266588,
       "name": "Counting down the Days",
       "url": "https://open.spotify.com/track/0snV7BsW85mM3Y5J0f0rBN"
@@ -384,6 +438,24 @@
       "duration_ms": 158720,
       "name": "Dad\u2019Algorhythm",
       "url": "https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg"
+    },
+    {
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215986,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC"
     },
     {
       "album": {
@@ -524,7 +596,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 226906,
       "name": "Gelled Water",
       "url": "https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR"
@@ -546,6 +618,28 @@
       "duration_ms": 132291,
       "name": "Get Away (I Wanna Get Get Get Get Get Get Get Get)",
       "url": "https://open.spotify.com/track/2QVrkOeN5bz8H96exrcgvi"
+    },
+    {
+      "album": {
+        "name": "L'Extraordinarium",
+        "url": "https://open.spotify.com/album/6mzi4tzXS4VUybvG1eTK25"
+      },
+      "artists": [
+        {
+          "name": "Dionysos",
+          "url": "https://open.spotify.com/artist/75nb7WjICnFHCXFdVX0PkO"
+        },
+        {
+          "name": "Last Train",
+          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261372,
+      "name": "Giant Jack",
+      "url": "https://open.spotify.com/track/2ybS8N0WquvrC9qxarCFk3"
     },
     {
       "album": {
@@ -603,6 +697,24 @@
     },
     {
       "album": {
+        "name": "New Horizons",
+        "url": "https://open.spotify.com/album/5nTX6Gy6ivhCStwSL2xTu9"
+      },
+      "artists": [
+        {
+          "name": "The Redshift Empire",
+          "url": "https://open.spotify.com/artist/281h6Q0ZjiaowIEl77K000"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231825,
+      "name": "Ignition",
+      "url": "https://open.spotify.com/track/0h3K04iQP75lCuo6eWWgBc"
+    },
+    {
+      "album": {
         "name": "Ilion",
         "url": "https://open.spotify.com/album/759EtlXJpbASpseS57pVyL"
       },
@@ -632,7 +744,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 214038,
       "name": "In Stone",
       "url": "https://open.spotify.com/track/5d17zQEKvgoXlCtszxL7it"
@@ -650,7 +762,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 243612,
       "name": "It Only Bothers You",
       "url": "https://open.spotify.com/track/69MwqSM07rdnCA89MNxzdL"
@@ -668,7 +780,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 209148,
       "name": "Joy Brings Me Down",
       "url": "https://open.spotify.com/track/7GMAT3z6PIY4mQ1pQkpfAX"
@@ -783,6 +895,24 @@
     },
     {
       "album": {
+        "name": "mon amour",
+        "url": "https://open.spotify.com/album/4a7qaAyGAGED2P6ZniTxOS"
+      },
+      "artists": [
+        {
+          "name": "L'enfant",
+          "url": "https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "mon amour",
+      "url": "https://open.spotify.com/track/0vofjntlF86cB5drIaSohe"
+    },
+    {
+      "album": {
         "name": "Moonbow",
         "url": "https://open.spotify.com/album/0zBYVaDpGfIbIxPNs46WIH"
       },
@@ -812,7 +942,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 269242,
       "name": "Mysteryland",
       "url": "https://open.spotify.com/track/2He1zZLDLCNq3n3Diq1naW"
@@ -830,7 +960,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 132972,
       "name": "No Way Back",
       "url": "https://open.spotify.com/track/1LOfgqLOdbYOaIUpMNQWqQ"
@@ -906,6 +1036,24 @@
       "duration_ms": 225750,
       "name": "Powerback",
       "url": "https://open.spotify.com/track/4tXM3eS5yTpZXRRfCN5uby"
+    },
+    {
+      "album": {
+        "name": "Promis Le Ciel",
+        "url": "https://open.spotify.com/album/6rRi5Z1oEZZ5XZ1NqXc0Nf"
+      },
+      "artists": [
+        {
+          "name": "Delgres",
+          "url": "https://open.spotify.com/artist/1vdBmNoVYcMaaxNbueb4H3"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184547,
+      "name": "Promis le ciel",
+      "url": "https://open.spotify.com/track/5rB3ktoDrcvCQ6wSGo6Ec8"
     },
     {
       "album": {
@@ -1046,7 +1194,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 191250,
       "name": "SNAKES",
       "url": "https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY"
@@ -1172,10 +1320,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 245312,
       "name": "Sugar Rush",
       "url": "https://open.spotify.com/track/4Q2guVruhbhzux6NApPTkP"
+    },
+    {
+      "album": {
+        "name": "Thank You/Maniac",
+        "url": "https://open.spotify.com/album/56ywlwSmohBIYYAObUSISx"
+      },
+      "artists": [
+        {
+          "name": "Servo",
+          "url": "https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266095,
+      "name": "Thank You/Maniac",
+      "url": "https://open.spotify.com/track/1uNpK2GKKq7SRDnRLT2A4y"
     },
     {
       "album": {
@@ -1215,6 +1381,28 @@
     },
     {
       "album": {
+        "name": "The One (The One I'm Looking For)",
+        "url": "https://open.spotify.com/album/2IA3ckn9YMHtWyidjvz58F"
+      },
+      "artists": [
+        {
+          "name": "The Twin Souls",
+          "url": "https://open.spotify.com/artist/1D1y4lFX5eK45bX7nXlfFM"
+        },
+        {
+          "name": "Datcha Mandala",
+          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161962,
+      "name": "The One - The One I'm Looking For",
+      "url": "https://open.spotify.com/track/33XGpz2ytL5eClgi5DXDIN"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/6iPuJPHRgrMUnzyOJWrQp9"
       },
@@ -1251,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "To The Stars",
+        "url": "https://open.spotify.com/album/5Dotk6Ql6EXKCtI7vw8yvP"
+      },
+      "artists": [
+        {
+          "name": "Best Case Scenario",
+          "url": "https://open.spotify.com/artist/10CEXZjoIpxVGSWyrmf3X0"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261560,
+      "name": "To The Stars",
+      "url": "https://open.spotify.com/track/4u5jUGDL4LHtvVFVtluetG"
+    },
+    {
+      "album": {
         "name": "Bitter Memory",
         "url": "https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE"
       },
@@ -1262,7 +1468,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 233023,
       "name": "Toxin",
       "url": "https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F"

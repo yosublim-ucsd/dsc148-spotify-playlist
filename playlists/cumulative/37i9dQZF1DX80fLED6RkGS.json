@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB?si=39nWh6Z4Q1-G_QzIUHL9GA\"> Kushman</a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6?si=TAxr6tlVQImba3vwKnirxw\"> Exray Taniua </a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -2019,6 +2019,32 @@
     },
     {
       "album": {
+        "name": "Hatukosi Raha",
+        "url": "https://open.spotify.com/album/7Ek1PCCkkQlnUNNw5Vu86k"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Benzema",
+          "url": "https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK"
+        },
+        {
+          "name": "Nelly The Goon",
+          "url": "https://open.spotify.com/artist/6Z0LfL7qEINpGSsgc9aeeO"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298666,
+      "name": "Hatukosi Raha",
+      "url": "https://open.spotify.com/track/0LH8cljkC5wtVR75Yb74Uc"
+    },
+    {
+      "album": {
         "name": "Hayaa",
         "url": "https://open.spotify.com/album/0DKYRLe6E7tjSoGz3TIAUf"
       },
@@ -3010,7 +3036,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 167472,
       "name": "Kutu",
       "url": "https://open.spotify.com/track/0eiLAJfMigbmOTsbcHRqZW"
@@ -4049,6 +4075,28 @@
     },
     {
       "album": {
+        "name": "NAKUDAI",
+        "url": "https://open.spotify.com/album/1MOXbYPVwue2bYu972FlTT"
+      },
+      "artists": [
+        {
+          "name": "SEAN MMG",
+          "url": "https://open.spotify.com/artist/3XNm5VibIYc1xUEDURP1kw"
+        },
+        {
+          "name": "YBW Smith",
+          "url": "https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143804,
+      "name": "NAKUDAI",
+      "url": "https://open.spotify.com/track/2R0cPu8OCV9DMTQJANdXDL"
+    },
+    {
+      "album": {
         "name": "Nakulombotov (Remix)",
         "url": "https://open.spotify.com/album/0QX4GFsz89u0UfTf54vm5B"
       },
@@ -4673,6 +4721,24 @@
     },
     {
       "album": {
+        "name": "Party Like This",
+        "url": "https://open.spotify.com/album/6z9bKh7tDvF21vWQqKg21E"
+      },
+      "artists": [
+        {
+          "name": "Kilundeezy",
+          "url": "https://open.spotify.com/artist/2pvFPrGFSGZvkIe5nSkEzf"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168048,
+      "name": "Party Like This",
+      "url": "https://open.spotify.com/track/4181dcgc23miEgs2hSEOW8"
+    },
+    {
+      "album": {
         "name": "Patanisho",
         "url": "https://open.spotify.com/album/0AvQe2ffB54RwTtFVDZuNG"
       },
@@ -4848,7 +4914,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 163500,
       "name": "Piga 10 (Remix)",
       "url": "https://open.spotify.com/track/06y8dBQqLdR1WD14YqzSYf"
@@ -5734,10 +5800,36 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 218514,
       "name": "Sirudi Home - Remix",
       "url": "https://open.spotify.com/track/5hs1gahEFK0BFiiU3IEv59"
+    },
+    {
+      "album": {
+        "name": "Frisky",
+        "url": "https://open.spotify.com/album/6tDJySumvRZs2doH897gCk"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        },
+        {
+          "name": "NDOVU KUU",
+          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224052,
+      "name": "Sirudi Home - Remix",
+      "url": "https://open.spotify.com/track/6gQ3DbL1b9QPPK5ju19meo"
     },
     {
       "album": {
@@ -5752,7 +5844,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 193358,
       "name": "Siskii",
       "url": "https://open.spotify.com/track/7puSVBxqYL4iHE3s6Xu7dx"

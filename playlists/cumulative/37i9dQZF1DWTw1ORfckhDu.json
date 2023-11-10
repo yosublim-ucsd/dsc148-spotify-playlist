@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcb6 Kannessa ibe.",
+  "description": "100 Suomi \ud83d\udcb6 Kannessa DAVI ja Joalin.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 179076,
       "name": "100%",
       "url": "https://open.spotify.com/track/6ObAY0tHZPxcYAGkGDGQQv"
@@ -453,6 +453,60 @@
     },
     {
       "album": {
+        "name": "Demoni",
+        "url": "https://open.spotify.com/album/2kOyjw2vLBeKpkKIoNsiPw"
+      },
+      "artists": [
+        {
+          "name": "MunkkiTuk",
+          "url": "https://open.spotify.com/artist/3564og7LWSGSFTFEe3doGR"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Demoni",
+      "url": "https://open.spotify.com/track/67GFIdsOwFSwGx59b5vEu5"
+    },
+    {
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/2BD6tw7q1we7e7uleDNIK9"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160002,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/3pcwjQGRMsc9Q1zX0BQ2z2"
+    },
+    {
+      "album": {
+        "name": "Ei oo en\u00e4\u00e4 meit",
+        "url": "https://open.spotify.com/album/5x0z3cHrgrw4dxAFcu59JJ"
+      },
+      "artists": [
+        {
+          "name": "BIMI",
+          "url": "https://open.spotify.com/artist/5o5lDAHXkNPWOLEjDzLoka"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187137,
+      "name": "Ei oo en\u00e4\u00e4 meit",
+      "url": "https://open.spotify.com/track/46bqUeYsiyYED0DSKNGFQd"
+    },
+    {
+      "album": {
         "name": "16 (Sixteen) - EP",
         "url": "https://open.spotify.com/album/6dRpDP8oFF3aYztoo35zC8"
       },
@@ -682,7 +736,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 157339,
       "name": "HALLOWEEN",
       "url": "https://open.spotify.com/track/1rnATApFPlKKn89xF8YoDy"
@@ -766,7 +820,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 171743,
       "name": "H\u00e4rk\u00e4",
       "url": "https://open.spotify.com/track/5TYypnnkujwZ8P21OAJ2Kw"
@@ -1256,7 +1310,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 176528,
       "name": "Kuuhullu",
       "url": "https://open.spotify.com/track/6ILzmI8c0gNcmEqyIrBAAL"
@@ -1365,6 +1419,32 @@
     },
     {
       "album": {
+        "name": "Ankka LP",
+        "url": "https://open.spotify.com/album/0PXzNRCaCTTEPMKKVf6a1Y"
+      },
+      "artists": [
+        {
+          "name": "Matti Tamonen",
+          "url": "https://open.spotify.com/artist/4R2nP25H9wk0D3HSZZgn9t"
+        },
+        {
+          "name": "Asa",
+          "url": "https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D"
+        },
+        {
+          "name": "Super Janne",
+          "url": "https://open.spotify.com/artist/4h5u41FZIH9q75XLH1DJjM"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "Leffa",
+      "url": "https://open.spotify.com/track/0TkPbqfKtI0rUoKSaxkOfH"
+    },
+    {
+      "album": {
         "name": "Leggero",
         "url": "https://open.spotify.com/album/2wRheamvwmlBNAPFU7k6AX"
       },
@@ -1380,7 +1460,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 115714,
       "name": "Leggero",
       "url": "https://open.spotify.com/track/2nH6q3u5StxRFzmNDiqwqL"
@@ -1929,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "Oikotiet",
+        "url": "https://open.spotify.com/album/0IEJ4c8rIL16GtDMCMwLj0"
+      },
+      "artists": [
+        {
+          "name": "Tuomas Kauhanen",
+          "url": "https://open.spotify.com/artist/61ZSrIBRin3VT35hbvS5UE"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144819,
+      "name": "Oikotiet",
+      "url": "https://open.spotify.com/track/1HFqG5KbdKJADAgFGa7cNK"
+    },
+    {
+      "album": {
         "name": "Oisko t\u00e4\u00e4 t\u00e4s / Popinpelko",
         "url": "https://open.spotify.com/album/67o8azfNdjm3DER0vezrN3"
       },
@@ -1965,6 +2063,24 @@
     },
     {
       "album": {
+        "name": "oma tarina",
+        "url": "https://open.spotify.com/album/5I6ljn2PB9RjXKpPFGzmB6"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4hin\u00e4Pate",
+          "url": "https://open.spotify.com/artist/6rA8aAvLetQJNi8Dp8L01c"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "oma tarina",
+      "url": "https://open.spotify.com/track/6XSkjVF9rabSI4AEBDuKga"
+    },
+    {
+      "album": {
         "name": "Pahis",
         "url": "https://open.spotify.com/album/6NUBUaeCxXgKJVejq2nMXB"
       },
@@ -1976,7 +2092,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 140400,
       "name": "Pahis",
       "url": "https://open.spotify.com/track/7n7Gm5IJVwcccl0w31yoeN"
@@ -1994,7 +2110,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 154951,
       "name": "Palkintoi",
       "url": "https://open.spotify.com/track/0fuZ4C5pQvWJD7A2hC18KT"
@@ -2122,7 +2238,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 210810,
       "name": "Puhaltaa",
       "url": "https://open.spotify.com/track/3CBn5EBS40R2kkG7nHtWg5"
@@ -2311,6 +2427,24 @@
     },
     {
       "album": {
+        "name": "Ruotsinlaiva",
+        "url": "https://open.spotify.com/album/0YOIUxCU79NvRXaLvzF4yE"
+      },
+      "artists": [
+        {
+          "name": "Mikael Gabriel",
+          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210911,
+      "name": "Ruotsinlaiva",
+      "url": "https://open.spotify.com/track/1TJZBnGcTwM89FoOBxuM87"
+    },
+    {
+      "album": {
         "name": "S500",
         "url": "https://open.spotify.com/album/4Vg8IkqZqip786Wc6z8QFx"
       },
@@ -2365,6 +2499,28 @@
     },
     {
       "album": {
+        "name": "Silkkii (feat. Joalin)",
+        "url": "https://open.spotify.com/album/6IgZ9QUQqDGGs5FAHwFAHH"
+      },
+      "artists": [
+        {
+          "name": "DAVI",
+          "url": "https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV"
+        },
+        {
+          "name": "Joalin",
+          "url": "https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128406,
+      "name": "Silkkii (feat. Joalin)",
+      "url": "https://open.spotify.com/track/6ik7RSb2fOJevYEFMu2P1A"
+    },
+    {
+      "album": {
         "name": "Sippaa nakkivesi",
         "url": "https://open.spotify.com/album/7MJJTnPqg63wIRXNrU8JhW"
       },
@@ -2376,7 +2532,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 162000,
       "name": "Sippaa nakkivesi",
       "url": "https://open.spotify.com/track/3srcr8827tdNbngvbhlsy2"
@@ -2640,7 +2796,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 140192,
       "name": "Taistelut",
       "url": "https://open.spotify.com/track/62qDj8ZjCKrNorM6e3sGIi"
@@ -2963,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "VARMISTIN",
+        "url": "https://open.spotify.com/album/7nTJBQOmdoFNt2LuwrhvsY"
+      },
+      "artists": [
+        {
+          "name": "ALE",
+          "url": "https://open.spotify.com/artist/1izgcy57Czf3DH50GcSdwW"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138675,
+      "name": "VARMISTIN",
+      "url": "https://open.spotify.com/track/3G5uVs85U35O4wVt7doDUH"
+    },
+    {
+      "album": {
         "name": "Vastustaa",
         "url": "https://open.spotify.com/album/7xB2ewkdlo9p6q4dpQG4jq"
       },
@@ -3040,6 +3214,28 @@
       "duration_ms": 172500,
       "name": "Virhe",
       "url": "https://open.spotify.com/track/3gnRUK2e8s1vjguMqIhbLG"
+    },
+    {
+      "album": {
+        "name": "Vision\u00e4\u00e4ri",
+        "url": "https://open.spotify.com/album/13ZqHnhkt6WmfZlC5M7q22"
+      },
+      "artists": [
+        {
+          "name": "Helena Routa",
+          "url": "https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN"
+        },
+        {
+          "name": "Tiia Karoliina",
+          "url": "https://open.spotify.com/artist/5MlYwzIBfYGOboVOo0fwny"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Vision\u00e4\u00e4ri",
+      "url": "https://open.spotify.com/track/4aFxevG4S4WmtASXlnc8eA"
     },
     {
       "album": {

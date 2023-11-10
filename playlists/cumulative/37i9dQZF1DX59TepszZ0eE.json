@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=mJ2HCpbYRBmFG_qFtWvyeQ\">Omega Khunou</a>\n",
+  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=so_TwbG9RECNNXRdvByJtQ\">Spirit of Praise</a>\n",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -2314,6 +2314,24 @@
       "duration_ms": 301493,
       "name": "Thelumoya",
       "url": "https://open.spotify.com/track/4m3si6zfyw7JI045D2iiUx"
+    },
+    {
+      "album": {
+        "name": "Themba Lami",
+        "url": "https://open.spotify.com/album/0u9iWZRgQi3nI2JTyVNJkW"
+      },
+      "artists": [
+        {
+          "name": "Mmuso Worship",
+          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502106,
+      "name": "Themba Lami",
+      "url": "https://open.spotify.com/track/6k00ooshwz6n83jl9YMBSp"
     },
     {
       "album": {

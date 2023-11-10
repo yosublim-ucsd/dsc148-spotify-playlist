@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 61902,
+  "num_followers": 61923,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzgyM2FlODkyMzkyMmZiM2JiNTU2MzY1MmMwOTAyYjJlY2IwOGU4",
+  "snapshot_id": "MCw3NmExMWUyMTJjYjk0MDlkOGZiZjg5YmI1YzE3NmY0OGE1N2YyOGNj",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Rhodes Island",
-        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
-      },
-      "artists": [
-        {
-          "name": "VIGI",
-          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "80s In My Blood",
-      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Giving Up On (Alan Dixon Remix)",
         "url": "https://open.spotify.com/album/1DBWInKdDJNULdOigOID9t"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 452566,
       "name": "Giving Up On - Alan Dixon Remix",
       "url": "https://open.spotify.com/track/54SGVJ4xSCRha8ViDwy7MU"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Rhodes Island",
+        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
+      },
+      "artists": [
+        {
+          "name": "VIGI",
+          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "80s In My Blood",
+      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -407,6 +407,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Music Made Paradise",
+        "url": "https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 339423,
+      "name": "Under Control",
+      "url": "https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Nefertiti (Red Axes Remix)",
         "url": "https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 288000,
       "name": "Nefertiti - Red Axes Remix",
       "url": "https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Music Made Paradise",
-        "url": "https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 339423,
-      "name": "Under Control",
-      "url": "https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -815,22 +815,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Lyra (Dusky Remix)",
-        "url": "https://open.spotify.com/album/1NarEuoYt3DZ7CGFOPFFmb"
+        "name": "Gleis 2 - Lichtenberg Remixes",
+        "url": "https://open.spotify.com/album/3xVK14DvoI1oYFAMWKCuDk"
       },
       "artists": [
         {
-          "name": "9th House",
-          "url": "https://open.spotify.com/artist/5QpDjrjx18j888lnGtJpeV"
+          "name": "Johannes Albert",
+          "url": "https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt"
         },
         {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+          "name": "Shan",
+          "url": "https://open.spotify.com/artist/06tx6ueiCMiQl07jV0j1gb"
         }
       ],
-      "duration_ms": 313106,
-      "name": "Lyra - Dusky Remix",
-      "url": "https://open.spotify.com/track/3vZf4XO3DAXef9aOyx0SVW"
+      "duration_ms": 405453,
+      "name": "Wing House - Shan Remix",
+      "url": "https://open.spotify.com/track/1Wc83tGRNW59knQUV26bFp"
     }
   ],
   "unique_name": "Laser Disco",

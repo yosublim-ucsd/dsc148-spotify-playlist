@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 211250,
       "name": "Rover (feat. Piso 21)",
       "url": "https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij"
@@ -2560,6 +2560,28 @@
       "duration_ms": 228073,
       "name": "Toco Madera",
       "url": "https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4"
+    },
+    {
+      "album": {
+        "name": "Toko Challenge",
+        "url": "https://open.spotify.com/album/6mupZJ1WPJMhR2BPJo0kRN"
+      },
+      "artists": [
+        {
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+        },
+        {
+          "name": "Kreatunez",
+          "url": "https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98772,
+      "name": "Toko Challenge",
+      "url": "https://open.spotify.com/track/4AkvzAhFnq7IDTHn5SXQY0"
     },
     {
       "album": {

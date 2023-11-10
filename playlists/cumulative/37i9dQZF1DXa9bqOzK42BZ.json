@@ -1329,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "There Is a Fire",
+        "url": "https://open.spotify.com/album/5ZQBuEE8GajVv4kBx3Lm19"
+      },
+      "artists": [
+        {
+          "name": "Karura Voices",
+          "url": "https://open.spotify.com/artist/1d5SkVdPJfoutTu1HdhpYT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351503,
+      "name": "Nimekubali",
+      "url": "https://open.spotify.com/track/7KmpoAv8SeKYh3WSNFVSas"
+    },
+    {
+      "album": {
         "name": "Nimekubali",
         "url": "https://open.spotify.com/album/7uXTKSnEpRTPRGFhFOJZit"
       },
@@ -1728,6 +1746,24 @@
       "duration_ms": 673019,
       "name": "Sijaona Kama Wewe",
       "url": "https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C"
+    },
+    {
+      "album": {
+        "name": "Sisi Ndio Wale",
+        "url": "https://open.spotify.com/album/5DyJwA7sacoreQVSlDaBYo"
+      },
+      "artists": [
+        {
+          "name": "Zabron Singers",
+          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263888,
+      "name": "Sisi Ndio Wale",
+      "url": "https://open.spotify.com/track/7GtbWZzckE9diKrKYSQ4Gi"
     },
     {
       "album": {

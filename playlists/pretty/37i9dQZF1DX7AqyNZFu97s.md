@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Leonie Biney
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,103 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,124 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Better Lay Low](https://open.spotify.com/track/1FDVWvo1RzjnYiQ0wvNLZq) | [Rebel Bunny](https://open.spotify.com/artist/1Hbj5xyIrzwFSTLSMbldIX), [LZRZ](https://open.spotify.com/artist/02Y4AdQs7ofsz3OBWbE5Yl) | [Better Lay Low](https://open.spotify.com/album/79kiS9QDvw6BZXAkHADA2l) | 2:41 |
 | 80 | [PANIC!](https://open.spotify.com/track/2VVY57zmz52jAJzVTjyuDK) | [montykeates](https://open.spotify.com/artist/5aOWIYpB1ato7lLGn4jtpl) | [PANIC!](https://open.spotify.com/album/53FJsFhVT7SzACeuRmWaV1) | 3:11 |
 
-Snapshot ID: `MCxhNDExMzlkYTgwYjFhMWFmNDAxNjdhODIxN2MzODYyZjk3NTdkYWFh`
+Snapshot ID: `MCw4OGE0ZDM1ZDIzN2NiNzE2Mzc2ZGM3MDE1MDc4NmI1ZjcxOTBkZDE5`

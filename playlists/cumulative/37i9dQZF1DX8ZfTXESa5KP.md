@@ -2,7 +2,7 @@
 
 ### [CMA Awards 2023](https://open.spotify.com/playlist/37i9dQZF1DX8ZfTXESa5KP)
 
-> Congratulations to all of the nominees! Watch the CMA Awards live on November 8th at 8/7c on ABC! <br/>Cover: Lainey Wilson
+> Congratulations to all of the winners! Cover: Lainey Wilson
 
 135 songs - 7 hr 36 min
 

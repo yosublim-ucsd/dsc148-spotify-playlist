@@ -16,10 +16,28 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0kvD9ksvXyRHANPypIpkIh"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0PvA059GTWOU5bbA9H6DTc"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7lyv2sysHCzFjypILxAynT"
     },
     {
       "album": {

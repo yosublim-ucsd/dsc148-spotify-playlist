@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Hotline TNT \| Artwork: Jim Klok
 
-1,217 songs - 2 day 18 hr 27 min
+1,218 songs - 2 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,7 +646,8 @@
 | [Let Me Dream](https://open.spotify.com/track/4GOchfJRfUG6ZyCmhXTJZH) | [Kill Strings](https://open.spotify.com/artist/6dmCo3M8DyCxZ4qR6ImCI0) | [Let Me Dream](https://open.spotify.com/album/62NHLUUfQWpHyYN879sFwi) | 3:57 | 2022-05-04 | 2022-07-21 |
 | [Levitate](https://open.spotify.com/track/20DYbJ3UyYhPr6GTRKxcPw) | [FELICITY](https://open.spotify.com/artist/2aqSgJBj7gtdClLx6SQ1mK) | [Levitate](https://open.spotify.com/album/6nPOwnqCBUmWiYqPCabz8c) | 2:41 | 2023-06-07 | 2023-07-13 |
 | [Liar](https://open.spotify.com/track/5PVm2jkgD9c4p9t4KnwthI) | [Hyattsvillain](https://open.spotify.com/artist/1X8K2CJ9gE4QDrh8TVRMKr) | [Liar](https://open.spotify.com/album/6t8TvUFYL6cG1uH2hsZEjV) | 2:44 | 2022-06-08 | 2022-08-25 |
-| [Lidocaine](https://open.spotify.com/track/01xBC2hkESbCnZ4rDwyod7) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Liar Liar](https://open.spotify.com/album/73mgU4EA3qgV9Dfko9TrZk) | 2:31 | 2023-10-25 |  |
+| [Lidocaine](https://open.spotify.com/track/01xBC2hkESbCnZ4rDwyod7) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Liar Liar](https://open.spotify.com/album/73mgU4EA3qgV9Dfko9TrZk) | 2:31 | 2023-10-25 | 2023-11-10 |
+| [Lidocaine](https://open.spotify.com/track/0slp3xaYYXJ5GTP2Pr7LZ3) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Lidocaine](https://open.spotify.com/album/23Nm4bA75MZK00MHlYHGsA) | 2:31 | 2023-11-08 |  |
 | [Lidocaine](https://open.spotify.com/track/41MYbtUtWEND9vbXanon9O) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Lidocaine](https://open.spotify.com/album/3SMBG7hypD1gVe1ow53E8A) | 2:31 | 2023-08-16 | 2023-11-08 |
 | [Life Of My Own Party](https://open.spotify.com/track/62krn7TdwsWiwz8ZRyEVyJ) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [People R Ugly](https://open.spotify.com/album/7zokQXDSsOzWWswmtKjZrL) | 2:36 | 2023-08-02 |  |
 | [Lighter](https://open.spotify.com/track/5lH1mO5lH5caOHgQp1TVqh) | [Shalom](https://open.spotify.com/artist/5CgUSK3nZJAv90N00E6gj5) | [Lighter](https://open.spotify.com/album/6GVNXbTzuaLtNX8AkbFIbr) | 3:49 | 2023-03-01 | 2023-03-16 |

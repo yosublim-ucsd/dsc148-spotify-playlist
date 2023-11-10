@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Tim Lyre and Tay Iwar ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Shane Eagle",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -738,6 +738,28 @@
       "duration_ms": 167355,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA"
+    },
+    {
+      "album": {
+        "name": "ARE YOU ALRiGHT?",
+        "url": "https://open.spotify.com/album/6hICsM6NMQHck05IjUGsWZ"
+      },
+      "artists": [
+        {
+          "name": "Shane Eagle",
+          "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280888,
+      "name": "ARE YOU ALRiGHT?",
+      "url": "https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF"
     },
     {
       "album": {
@@ -3075,6 +3097,32 @@
     },
     {
       "album": {
+        "name": "Escapism (feat. Fave & Tay Iwar)",
+        "url": "https://open.spotify.com/album/1pXxUkUcfkvbCTeCRPRHVe"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205013,
+      "name": "Escapism (feat. Fave & Tay Iwar)",
+      "url": "https://open.spotify.com/track/0ixcA2mSYrHIu5RNgJ2vBB"
+    },
+    {
+      "album": {
         "name": "Panther in Mode",
         "url": "https://open.spotify.com/album/23J7otrnhFa80hs2xCpKw1"
       },
@@ -5304,7 +5352,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 173400,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/7cE3h9KJvSM1GUBAdms8Hy"
@@ -8730,7 +8778,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 170520,
       "name": "STRIPPERS ANTHEM (feat. Teezee and PsychoYP)",
       "url": "https://open.spotify.com/track/0cueK8brhqzJnXLutvzmvq"
@@ -9850,6 +9898,28 @@
       "duration_ms": 148573,
       "name": "Wasted Eyes",
       "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
+    },
+    {
+      "album": {
+        "name": "WASTELINE",
+        "url": "https://open.spotify.com/album/0VzLyC8Er2QnVwOyGF5ZLX"
+      },
+      "artists": [
+        {
+          "name": "Fasina",
+          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164680,
+      "name": "WASTELINE",
+      "url": "https://open.spotify.com/track/6zwNCNnzNfhC5XEhnG9F7Z"
     },
     {
       "album": {

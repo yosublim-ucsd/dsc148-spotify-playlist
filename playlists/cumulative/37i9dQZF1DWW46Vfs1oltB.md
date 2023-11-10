@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: SINCE\)
 
-1,022 songs - 2 day 8 hr 6 min
+1,023 songs - 2 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,6 +600,7 @@
 | [MOMENT](https://open.spotify.com/track/2qoTNHMoxQjPffxUAL9a6Q) | [CHERRY BOY 17](https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc), [ROH YUNHA](https://open.spotify.com/artist/3dLZdTWMaokxt4y9sDzEWq), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Drop The Bit Final Pt\. 1](https://open.spotify.com/album/1CXbpk3AaBor9rY0XRVZMn) | 3:20 | 2022-05-04 | 2022-05-06 |
 | [Mona Lisa](https://open.spotify.com/track/0uzeM8HkrcG9FngqI2JGjk) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 2:32 | 2023-02-23 | 2023-03-28 |
 | [Monet](https://open.spotify.com/track/2AIdJeRi6mlNXhJRdqlm0A) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NOWITZKI](https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq) | 2:38 | 2023-07-18 |  |
+| [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2023-11-10 |  |
 | [MONEY](https://open.spotify.com/track/7ifLrhXBoQ5MDFTRpIYkfA) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 2:48 | 2021-12-18 | 2022-07-07 |
 | [MONEY GAME](https://open.spotify.com/track/3I0U0qLpokurgArQly7sk3) | [kaogaii](https://open.spotify.com/artist/6zxWD2e5UlhmkO99LB4MP2) | [MONEY GAME](https://open.spotify.com/album/0SLApxKJwQWBvXdrtkBS4p) | 3:50 | 2021-12-21 | 2022-06-04 |
 | [Money Only Shows Hustle \(M.O.S.H\) \(Feat\. The Quiett, GongGongGoo009\)](https://open.spotify.com/track/1wnKbX1GeF7bZREbxYfuQc) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [GongGongGoo009](https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY) | [TO GO](https://open.spotify.com/album/5rzwTmilL36v8i7BEHlstm) | 2:47 | 2023-04-03 | 2023-09-15 |
@@ -703,7 +704,7 @@
 | [PEP](https://open.spotify.com/track/0cGGwmuWZCvzrIcr6D52C0) | [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [Jung Sangsoo](https://open.spotify.com/artist/5r3uAJ7gBuc6i0eyMR3Lx4) | [PEP](https://open.spotify.com/album/1zzs4IqLwC48bLZvY4u5uH) | 3:08 | 2022-03-14 | 2022-06-28 |
 | [pick up](https://open.spotify.com/track/5oDnl57QoYdMsTMvRH02N9) | [h4rdy](https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z), [Rhythm Power](https://open.spotify.com/artist/5gak9sIzatz00aPsLdHVUW) | [pick up](https://open.spotify.com/album/6EzBYX8kxItoy1D9llVIrW) | 3:14 | 2023-04-04 | 2023-06-14 |
 | [pilgrim \(Feat\. Cold Bay\)](https://open.spotify.com/track/6CQNEE1Xn7ziA77FB6n0Zn) | [Camel Jack](https://open.spotify.com/artist/2UAASoJLUN2LcVTvfFlDQS), [Cold Bay](https://open.spotify.com/artist/6EG4gNB7bX6zI2K87xVm2O) | [FANTASY TRIBE](https://open.spotify.com/album/0YrIwu97fGzEOopa5pUmBB) | 2:40 | 2022-03-21 | 2022-05-18 |
-| [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2023-03-28 |
+| [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 |  |
 | [Play](https://open.spotify.com/track/12FGJeMWeTVRjK31NIUIMQ) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Play](https://open.spotify.com/album/6MgHVfBDsr2qBP3Og6hPTo) | 2:39 | 2021-12-18 | 2022-07-07 |
 | [Please \(Feat\. KIM HYO EUN, G2 & DUMBFOUNDEAD\)](https://open.spotify.com/track/4tJl1AVYE6WFAWtuAEhxpM) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed), [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p) | [Coming To You Live](https://open.spotify.com/album/23fwKUYyu1kvRnDR2imBnq) | 3:05 | 2023-01-10 | 2023-01-18 |
 | [Point five](https://open.spotify.com/track/1lwPGz8gXtsicL8F65UC2C) | [Doplamingo](https://open.spotify.com/artist/1T7DSjrtX5ydHFT9xJOQCn) | [The Gateless Gate](https://open.spotify.com/album/7x50GGhigFVzm7NGuCOmtk) | 3:08 | 2022-01-15 | 2022-06-07 |

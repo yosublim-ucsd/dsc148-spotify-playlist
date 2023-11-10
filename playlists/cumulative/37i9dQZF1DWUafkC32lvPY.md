@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [:\(](https://open.spotify.com/track/1JrsBQYxkbLbGvCyo7dgmJ) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [COMO ARRUINARTE LA VIDA](https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z) | 2:07 | 2023-11-03 |  |
+| [:\(](https://open.spotify.com/track/1JrsBQYxkbLbGvCyo7dgmJ) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Diego Franco](https://open.spotify.com/artist/54unEwVLwrdvfz638XHDzY), [Federico Sanchez Flores](https://open.spotify.com/artist/7DYagAejpAIigSoDirH0yT) | [COMO ARRUINARTE LA VIDA](https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z) | 2:07 | 2023-11-03 |  |
 | [Abrázame mucho estos días](https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Óleo sobre tela](https://open.spotify.com/album/105WPjJen4emN55961ICvo) | 2:42 | 2023-06-26 |  |
 | [Aguancó](https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:30 | 2023-06-26 |  |
 | [Agüita de Coco](https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [El Chicahual](https://open.spotify.com/artist/6qF40Aqmb3S4s7K2OYX225) | [Agüita de Coco](https://open.spotify.com/album/63a3KXPLPUfeYVswmr8gFL) | 2:16 | 2023-06-26 |  |

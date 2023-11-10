@@ -1289,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "Boy From Anderson County To The Moon",
+        "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220234,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/7d9gF9B10bhRGsYOSlWhXX"
+    },
+    {
+      "album": {
         "name": "Bridges To Burn",
         "url": "https://open.spotify.com/album/1WG4fgaNMXbxbsbjJR1X6G"
       },
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 190171,
       "name": "Bridges to Burn",
       "url": "https://open.spotify.com/track/0wC4KXkDpSPnwmGjp1Wopt"
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 235920,
       "name": "But Me",
       "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
@@ -8954,6 +8972,24 @@
       "duration_ms": 256626,
       "name": "Threw Away",
       "url": "https://open.spotify.com/track/6y9xknJBdsTfllYj1HQIYo"
+    },
+    {
+      "album": {
+        "name": "Time of The Rambler",
+        "url": "https://open.spotify.com/album/52fzMuwSfWE2y7AxN8Yq0G"
+      },
+      "artists": [
+        {
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193613,
+      "name": "Time of The Rambler",
+      "url": "https://open.spotify.com/track/5jvph0QWRjgxRq2jM0bGZO"
     },
     {
       "album": {

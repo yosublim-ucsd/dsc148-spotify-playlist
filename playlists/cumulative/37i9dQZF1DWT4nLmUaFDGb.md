@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-237 songs - 15 hr 17 min
+238 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,13 +218,14 @@
 | [They Can’t Take That Away From Me](https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 2:04 | 2021-12-21 |  |
 | [This Life](https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7) | [The Magic Lantern](https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V) | [A Reckoning Bell](https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO) | 4:21 | 2021-12-21 |  |
 | [Those Sweet Words](https://open.spotify.com/track/2MKLbFPQ3QDXpQ0KnS06Kl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:22 | 2022-09-08 |  |
+| [Tis Autumn](https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK) | [Belle\-Skinner](https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA) | [Tis Autumn](https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS) | 2:10 | 2023-11-09 |  |
 | [To Live](https://open.spotify.com/track/6OTx5lgBBpUAshc23JQ89X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Pick Me Up Off The Floor](https://open.spotify.com/album/3pi6NXntLETosIkAuaZEhW) | 4:28 | 2021-12-21 | 2022-10-08 |
 | [To Love You All Over Again](https://open.spotify.com/track/4EPwpBN0t11bIxjsAI8oaF) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Bare Bones](https://open.spotify.com/album/5WSZnecSUMQprzWZLlk5ha) | 3:57 | 2021-12-21 | 2023-08-19 |
 | [Too Young To Go Steady](https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 5:41 | 2021-12-21 |  |
 | [Try Your Wings](https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c) | [Try Your Wings](https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT) | 2:54 | 2023-05-18 |  |
 | [Try Your Wings](https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/41ff0V2xBRKpKTAOORTfZ5) | 2:54 | 2022-12-01 | 2023-02-02 |
 | [Twentysomething](https://open.spotify.com/track/5WRac8CFT4G9xIFG8bMNfP) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:40 | 2021-12-21 | 2022-09-07 |
-| [Un homme et une femme](https://open.spotify.com/track/70DFIIL8qvunU5PWwsFDtw) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Frenchy](https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o) | 3:00 | 2021-12-21 |  |
+| [Un homme et une femme](https://open.spotify.com/track/70DFIIL8qvunU5PWwsFDtw) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Frenchy](https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o) | 3:00 | 2021-12-21 | 2023-11-10 |
 | [Waiting In Vain](https://open.spotify.com/track/4hsEJ43P9oQmIx5btLLoAV) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [Heart First](https://open.spotify.com/album/5o3acBzPBPJUsT4S2VUMJo) | 4:59 | 2022-11-22 |  |
 | [Waiting In Vain](https://open.spotify.com/track/6UMwlW88tuUf09Dj0CF6UX) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [Heart First](https://open.spotify.com/album/74fLArnOHs24KVKRui8r7w) | 4:59 | 2022-08-19 | 2022-10-28 |
 | [What a Difference a Day Makes](https://open.spotify.com/track/11N6MAeBhzUfNVfsBVTcL4) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:28 | 2021-12-21 |  |

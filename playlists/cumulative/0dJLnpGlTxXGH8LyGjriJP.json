@@ -707,6 +707,28 @@
     },
     {
       "album": {
+        "name": "Cottonwood 2 (Deluxe 2.0)",
+        "url": "https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187453,
+      "name": "AIN'T GONNA ANSWER",
+      "url": "https://open.spotify.com/track/2p2Ef7RBjoBugnyORKvrhX"
+    },
+    {
+      "album": {
         "name": "Future & Juice WRLD Present... WRLD ON DRUGS",
         "url": "https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY"
       },
@@ -6762,7 +6784,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 143743,
-      "name": "Lamborghini Boys (with Tay Keith and Nardo Wick)",
+      "name": "Lamborghini Boys",
       "url": "https://open.spotify.com/track/7Clgnvwgszp14FU5B9cgvj"
     },
     {

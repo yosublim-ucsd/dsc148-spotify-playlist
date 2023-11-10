@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain]
 
 > Explore the music of Franz Liszt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,933 likes - 62 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,976 likes - 62 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain]
 | 6 | [12 Etudes d'execution transcendante, S139/R2b: No\. 12 in B Minor, "Chasse neige"](https://open.spotify.com/track/3mmuiyuZHEE2ZKzgzZP8sS) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Jenő Jandó](https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7) | [Liszt: 12 Etudes D'Execution Transcendante, S139/R2B](https://open.spotify.com/album/3Si3FrndTquVM32UtC8LFx) | 5:16 |
 | 7 | [Grandes Études de Paganini, S\. 141: No\. 3 in G\-Sharp Minor "La Campanella"](https://open.spotify.com/track/5XBWQDLsTWj9uoVeKG2uuo) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Transcendental \- Daniil Trifonov Plays Franz Liszt \(Etudes S\. 139, S\. 141, S\. 144, S\. 145\)](https://open.spotify.com/album/1U7BErPHxIgtzsq05Wfj5E) | 4:51 |
 | 8 | [Berceuse, S\. 174](https://open.spotify.com/track/4GDmXyfuxk6omRjCCF3Nr1) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Liszt](https://open.spotify.com/album/2c44i8YA1pPl4y8KfR0FLI) | 9:36 |
-| 9 | [Liszt: Lieder aus Franz Schubert's "Schwanengesang", S\. 560: No\. 7 Ständchen](https://open.spotify.com/track/4302P24v1ljMAzxnL5VO52) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Mariam Batsashvili](https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci) | [Schubert / Arr\. Liszt: Ständchen, Serenade \(After Schubert's 'Schwanengesang' D\. 957\)](https://open.spotify.com/album/5abXWiLQUc6ILQfsLOOvh4) | 6:07 |
+| 9 | [Liszt: Lieder aus Franz Schubert's "Schwanengesang", S\. 560: No\. 7 Ständchen](https://open.spotify.com/track/14cCVzurH5z8PD3QE98C8V) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Mariam Batsashvili](https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci) | [Romantic Piano Masters](https://open.spotify.com/album/7z7YKuLmvD4kAa4Sgy58vb) | 6:07 |
 | 10 | [Der Tanz in der Dorfschenke, S\. 514 "Mephisto Waltz No\. 1": Der Tanz in der Dorfschenke, S\. 514/R\. 181, "Mephisto Waltz No\. 1"](https://open.spotify.com/track/5G5SIUNYqHtMX9Rhub0Qcu) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Giuseppe Andaloro](https://open.spotify.com/artist/5lpfGaObTKMHdZ4iQZFWnw) | [Liszt Complete Piano Music, Vol\. 24: Mephisto Waltzes, 2 Elegies & Grosso Konzertsolo](https://open.spotify.com/album/6b6cLj6UakxAFUhQnrNhCR) | 12:03 |
 | 11 | [Années de pèlerinage: 1e année: Suisse, S.160: 2\. Au lac de Wallenstadt](https://open.spotify.com/track/1mIiXgLdPNp0d9wccO485S) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Nelson Freire](https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3) | [Liszt: Harmonies du Soir](https://open.spotify.com/album/68F4MdeaTVEXjt3P0X9X9m) | 2:44 |
 | 12 | [Transcendental Études, S.139: XI\. Harmonies du soir](https://open.spotify.com/track/3tROciMVjdxYR4boNVLIhB) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Tristan](https://open.spotify.com/album/663RedYDgdaITtPR1dsb1j) | 9:59 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain]
 | 61 | [Ce qu'on entend sur la montagne \(What is Heard on the Mountain\), S95/R412](https://open.spotify.com/track/4J04Ip9H3WGrUTVAzIukC9) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM), [Michael Halasz](https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6) | [Liszt: Symphonic Poems, Vol\. 3](https://open.spotify.com/album/3k2gPAEbhpD9AvNmBh9YKW) | 29:11 |
 | 62 | [Unstern! \-Sinistre , S208](https://open.spotify.com/track/6YlNhEvvgM4SL6soJZ43DH) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Pierre\-Laurent Aimard](https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk) | [An Evening of Classical: Liszt](https://open.spotify.com/album/1UXL1hZBO9eo2l9IMssiGD) | 6:03 |
 
-Snapshot ID: `MCxjM2E4ZjBhNDNkZjA1OTVmNGRkYTI2NTI4ZmQ2Mjg3NjlmMmFhYTIw`
+Snapshot ID: `MCwwMzZhNjMwMmZkMmUwNTllYjYxMDEzNzQ3NDIyNWY0M2FmYzVhMTNm`

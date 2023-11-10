@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap dá o play e aumenta! Foto: Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,285,650 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,286,312 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Melhor Só](https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Melhor Só](https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ) | 3:49 |
 | 50 | [Dialogo](https://open.spotify.com/track/5T9QnISeG2Q6Ysu9HbaAzS) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [D Santana](https://open.spotify.com/artist/6jTAbPlEnP8A2CG5LX3q2m), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Meu Amigo Diário, Vol\. 1 \- M.A.D](https://open.spotify.com/album/681qRc7HzASc5cALLkOFLO) | 2:21 |
 
-Snapshot ID: `MCw5YmRjZDZmYWZiY2RlOWUyYWUzN2YxNGMwNWI3ODYzMzA3NTdmOTQz`
+Snapshot ID: `MCxlYmVjMTMyOWMzZDZjZjk3ZWU5MzRmNjVhMWRhMGZiNWMwODI5YjUy`

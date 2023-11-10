@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 106693,
+  "num_followers": 106741,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGI1ZDE1ODE1OWI5YTA0ZDFmMjMwODFiMzZlMWEwNzQyOTc5OTll",
+  "snapshot_id": "MCxiOGE0M2Q1ZmViMmM0OGYwOWQ5NzA2OWE3MWJjNDk2NjhkMTQwY2Y3",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
-      },
-      "artists": [
-        {
-          "name": "Mantronix",
-          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
-        }
-      ],
-      "duration_ms": 326920,
-      "name": "Bassline",
-      "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Defiant Order",
         "url": "https://open.spotify.com/album/5bPX46ziWG24Ay3GVr9m35"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "YosepH",
-        "url": "https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
       },
       "artists": [
         {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+          "name": "Mantronix",
+          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
         }
       ],
-      "duration_ms": 257880,
-      "name": "I Love Acid",
-      "url": "https://open.spotify.com/track/4BR6nukSZQ2AhNAoaHrtdw"
+      "duration_ms": 326920,
+      "name": "Bassline",
+      "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -315,6 +299,22 @@
       "duration_ms": 377960,
       "name": "Higher State of Consciousness (Tweekin Acid Funk)",
       "url": "https://open.spotify.com/track/6cJ3yBgG1VzRpf4xrKsfB8"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "YosepH",
+        "url": "https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD"
+      },
+      "artists": [
+        {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        }
+      ],
+      "duration_ms": 257880,
+      "name": "I Love Acid",
+      "url": "https://open.spotify.com/track/4BR6nukSZQ2AhNAoaHrtdw"
     },
     {
       "added_at": "2021-10-22 11:07:27",

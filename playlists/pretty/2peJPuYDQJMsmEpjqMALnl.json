@@ -1,111 +1,15 @@
 {
   "description": "A classic playlist full of favorites of the 80s!",
-  "num_followers": 344166,
+  "num_followers": 344158,
   "original_name": "80s Classic Hits",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "OTEyLDcyNTM3NDYwMTkzMzVmNWQ1NDZhMzI4NTM2ZGIyOWRiZGVmODNkYzI=",
+  "snapshot_id": "OTMwLDUxMWFkYmZiNTUzNmJlNTJjODE5NDA3NmIzNTliNDk1ZTA4MDY2OTc=",
   "tracks": [
     {
-      "added_at": "2022-05-18 21:19:27",
-      "album": {
-        "name": "Love To Love",
-        "url": "https://open.spotify.com/album/6AbPhbIJmobHvCx7yH8YM9"
-      },
-      "artists": [
-        {
-          "name": "Naked Eyes",
-          "url": "https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Always Something There To Remind Me",
-      "url": "https://open.spotify.com/track/5L7zWiRiXDPNvTLLoXvIja"
-    },
-    {
-      "added_at": "2022-05-18 21:19:27",
-      "album": {
-        "name": "Street Songs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Super Freak",
-      "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
-    },
-    {
-      "added_at": "2022-05-18 21:19:27",
-      "album": {
-        "name": "Rio (Collector's Edition)",
-        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 337333,
-      "name": "Rio - 2009 Remaster",
-      "url": "https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb"
-    },
-    {
-      "added_at": "2022-05-18 21:19:27",
-      "album": {
-        "name": "Against The Wind",
-        "url": "https://open.spotify.com/album/2Go2GZ8qMznHdAoLO1cG4W"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 333720,
-      "name": "Against The Wind",
-      "url": "https://open.spotify.com/track/1SWmFiFSIBoDbQJjNKC7SR"
-    },
-    {
-      "added_at": "2022-05-18 21:19:27",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/24xwaPVl6xkUunl6lEWwje"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/7aeW3CrQAyQTk4PqwIYCVU"
-    },
-    {
-      "added_at": "2022-05-18 21:19:27",
-      "album": {
-        "name": "The Joshua Tree",
-        "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 336613,
-      "name": "Where The Streets Have No Name - Remastered",
-      "url": "https://open.spotify.com/track/21ex8UoVZjOw0wAXWeln5h"
-    },
-    {
-      "added_at": "2022-05-18 21:19:27",
+      "added_at": "2023-11-09 06:12:57",
       "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/73BjTTmhhoiK4MGtINzp2c"
@@ -297,7 +201,23 @@
       "url": "https://open.spotify.com/track/3OM0cHwmJv6ZpsCgrEzXPh"
     },
     {
-      "added_at": "2022-10-02 10:12:47",
+      "added_at": "2022-05-18 21:19:27",
+      "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 337333,
+      "name": "Rio - 2009 Remaster",
+      "url": "https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb"
+    },
+    {
+      "added_at": "2023-11-09 06:13:00",
       "album": {
         "name": "The Miracle",
         "url": "https://open.spotify.com/album/1v5l2sZRE5Rweew5PoNFP9"
@@ -751,6 +671,22 @@
     {
       "added_at": "2022-05-18 21:19:27",
       "album": {
+        "name": "Against The Wind",
+        "url": "https://open.spotify.com/album/2Go2GZ8qMznHdAoLO1cG4W"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 333720,
+      "name": "Against The Wind",
+      "url": "https://open.spotify.com/track/1SWmFiFSIBoDbQJjNKC7SR"
+    },
+    {
+      "added_at": "2023-11-09 06:13:03",
+      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol"
       },
@@ -813,7 +749,23 @@
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
     {
-      "added_at": "2022-05-18 21:19:27",
+      "added_at": "2023-11-09 06:12:50",
+      "album": {
+        "name": "Love To Love",
+        "url": "https://open.spotify.com/album/6AbPhbIJmobHvCx7yH8YM9"
+      },
+      "artists": [
+        {
+          "name": "Naked Eyes",
+          "url": "https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Always Something There To Remind Me",
+      "url": "https://open.spotify.com/track/5L7zWiRiXDPNvTLLoXvIja"
+    },
+    {
+      "added_at": "2023-11-09 06:13:07",
       "album": {
         "name": "Bad Animals",
         "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
@@ -861,7 +813,23 @@
       "url": "https://open.spotify.com/track/2ZBalNGwjqdKJd29O76wBV"
     },
     {
-      "added_at": "2022-05-18 21:19:27",
+      "added_at": "2023-11-09 06:12:53",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/24xwaPVl6xkUunl6lEWwje"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/7aeW3CrQAyQTk4PqwIYCVU"
+    },
+    {
+      "added_at": "2023-11-09 06:13:10",
       "album": {
         "name": "Celebrate (Greatest Hits)",
         "url": "https://open.spotify.com/album/7dKQCCQnnkqgRQFxKRDqkJ"
@@ -1043,6 +1011,22 @@
     {
       "added_at": "2022-05-18 21:19:27",
       "album": {
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 336613,
+      "name": "Where The Streets Have No Name - Remastered",
+      "url": "https://open.spotify.com/track/21ex8UoVZjOw0wAXWeln5h"
+    },
+    {
+      "added_at": "2023-11-09 06:13:14",
+      "album": {
         "name": "Synchronistic Wanderings",
         "url": "https://open.spotify.com/album/4CcLtOTSlV2389khMapisZ"
       },
@@ -1106,6 +1090,22 @@
     },
     {
       "added_at": "2022-05-18 21:19:27",
+      "album": {
+        "name": "Street Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Super Freak",
+      "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
+    },
+    {
+      "added_at": "2023-11-09 06:13:17",
       "album": {
         "name": "Don't Say No",
         "url": "https://open.spotify.com/album/5FATFw46kqvlhayx9QCxLd"

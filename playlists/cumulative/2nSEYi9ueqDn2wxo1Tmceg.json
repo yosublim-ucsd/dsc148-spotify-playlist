@@ -7975,6 +7975,28 @@
     },
     {
       "album": {
+        "name": "Need You Tonight (Working Men's Club Remix)",
+        "url": "https://open.spotify.com/album/2KzUzwOx5EsAyNWN7LutyD"
+      },
+      "artists": [
+        {
+          "name": "DC Gore",
+          "url": "https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6"
+        },
+        {
+          "name": "Working Men's Club",
+          "url": "https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326000,
+      "name": "Need You Tonight - Working Men's Club Remix",
+      "url": "https://open.spotify.com/track/7u7jRj4Ch6CeMGOW8Lowrh"
+    },
+    {
+      "album": {
         "name": "The Upper Cuts Singles (2023 Edition)",
         "url": "https://open.spotify.com/album/7gggj6SUuzQ8x2NSySkzTu"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6?si=13CL2cuKSo-DLXuKrcM3Cg\">Sun-El Musician</a>, <a href=\"https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=34xcSX9EStWN5YsQ1qYnRg\">Msaki</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F?si=RGwI-u-WSYCfFe-MWMKHIw\">DJ Bongz</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 259057,
       "name": "Abafazi - Radio Edit",
       "url": "https://open.spotify.com/track/5APA5la8r82qF7aXndb2bL"
@@ -5055,6 +5055,40 @@
     },
     {
       "album": {
+        "name": "Elevation",
+        "url": "https://open.spotify.com/album/0U9GES7moSZwF5F5fiNy3E"
+      },
+      "artists": [
+        {
+          "name": "DJ Bongz",
+          "url": "https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F"
+        },
+        {
+          "name": "Stoorne",
+          "url": "https://open.spotify.com/artist/25kfIgM0odAFXprekOv7XI"
+        },
+        {
+          "name": "Ayarh Soul",
+          "url": "https://open.spotify.com/artist/31EFVZKTMS2BOgonXB44Wg"
+        },
+        {
+          "name": "Deeh",
+          "url": "https://open.spotify.com/artist/3VCtz4iLmRgjIwVpsn0dgT"
+        },
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/5NoJbX5LPgh1Cymdfu3ndZ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320946,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/3OFzqxvN51f4S4p8ugC6Mz"
+    },
+    {
+      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
@@ -5330,7 +5364,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 382823,
       "name": "Emathandweni (feat. Thalitha & Dj Jim MasterShine)",
       "url": "https://open.spotify.com/track/57jG15A7YwMCpMCucIGC7A"
@@ -6342,7 +6376,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 327073,
       "name": "Gangnam Style (Prince Kaybee Remix)",
       "url": "https://open.spotify.com/track/75jLpgTX0zYIy4TfXRk73h"
@@ -6558,6 +6592,28 @@
       "duration_ms": 335609,
       "name": "Good Music",
       "url": "https://open.spotify.com/track/4zwBNVEULaWjjwudh9y5f1"
+    },
+    {
+      "album": {
+        "name": "Gorah",
+        "url": "https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Gorah",
+      "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
     },
     {
       "album": {
@@ -12375,6 +12431,28 @@
     },
     {
       "album": {
+        "name": "SURRENDER",
+        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
+    },
+    {
+      "album": {
         "name": "My Bills (feat. FEYI)",
         "url": "https://open.spotify.com/album/464yUiXI1Z48DbS4pENIFE"
       },
@@ -17345,6 +17423,28 @@
     },
     {
       "album": {
+        "name": "The Best Is Yet To Come",
+        "url": "https://open.spotify.com/album/13412W6hgE6c1qMsvbbho1"
+      },
+      "artists": [
+        {
+          "name": "Dominic Neill",
+          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
+        },
+        {
+          "name": "DJ Kent",
+          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "The Best Is Yet To Come",
+      "url": "https://open.spotify.com/track/6CEUSjzo32KAYV1n8Sckkq"
+    },
+    {
+      "album": {
         "name": "The Core",
         "url": "https://open.spotify.com/album/2icxoZlUvuk29pAaLB4w0N"
       },
@@ -20678,7 +20778,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 349999,
       "name": "Zabalaza",
       "url": "https://open.spotify.com/track/6Gv3RCZHb6IHG3ZvZDGrh6"

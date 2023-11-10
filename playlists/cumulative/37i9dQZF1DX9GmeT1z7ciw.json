@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 82253,
       "name": "About Face",
       "url": "https://open.spotify.com/track/4UtVrX1mjZZVlCqNAgc2z4"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 186962,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
@@ -987,6 +987,28 @@
     },
     {
       "album": {
+        "name": "Across End of the Century",
+        "url": "https://open.spotify.com/album/7ir50CIZIV44ZKBiZVRwP0"
+      },
+      "artists": [
+        {
+          "name": "Discavil",
+          "url": "https://open.spotify.com/artist/0H6SzT0325flzVvef2vquM"
+        },
+        {
+          "name": "\u91d1\u5bcc\u70c8",
+          "url": "https://open.spotify.com/artist/4oh6YxbjbSjod1g0iomHqf"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406738,
+      "name": "Survive!",
+      "url": "https://open.spotify.com/track/0IRT1uu2f4spuVnw8Bh27f"
+    },
+    {
+      "album": {
         "name": "SYOKISHODO",
         "url": "https://open.spotify.com/album/7nchzTfUv6iZxjSFvWj3Yr"
       },
@@ -1218,6 +1240,24 @@
       "duration_ms": 130746,
       "name": "\u795e\u55b0",
       "url": "https://open.spotify.com/track/2fBizJMoZl7rMkyOnOKU5e"
+    },
+    {
+      "album": {
+        "name": "\u30dc\u30c8\u30e0\u30aa\u30d6\u30b6\u30ef\u30fc\u30eb\u30c9",
+        "url": "https://open.spotify.com/album/69Q23XLpBuDfBz0TGeKFum"
+      },
+      "artists": [
+        {
+          "name": "Eastern Youth",
+          "url": "https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252813,
+      "name": "\u8857\u306e\u5e95",
+      "url": "https://open.spotify.com/track/4MiOJLHeNH6GUhrJIT1kWM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9GmeT1z7ciw"

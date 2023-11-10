@@ -1,12 +1,12 @@
 {
   "description": "Get in touch with nature with these songs about our environment.",
-  "num_followers": 5644,
+  "num_followers": 5659,
   "original_name": "Mother Nature",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODhjNjAxYTgxMDA5ZjU4ZTFlMDFiYmZkZDc3ZTBmZTdlMmE0Mzdi",
+  "snapshot_id": "MCwwN2ZhOGYyMWRjMjBhOWY1ODJjYWVkYzRmOGFhMjk5Mjg4MDYxNjEy",
   "tracks": [
     {
       "added_at": "2022-04-15 08:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 170720,
       "name": "Octopus's Garden - Remastered 2009",
       "url": "https://open.spotify.com/track/0suLngfo7rJoetk7Ub6N8l"
-    },
-    {
-      "added_at": "2022-04-15 08:00:00",
-      "album": {
-        "name": "The Best of Talking Heads",
-        "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 332066,
-      "name": "(Nothing But) Flowers - 2003 Remaster",
-      "url": "https://open.spotify.com/track/3NNatBZ65onPjc4eeWhwNm"
     },
     {
       "added_at": "2022-04-15 08:00:00",
@@ -61,6 +45,22 @@
       "url": "https://open.spotify.com/track/0wGtYIrTodIcfv9P9ALsx3"
     },
     {
+      "added_at": "2023-11-09 15:33:46",
+      "album": {
+        "name": "YES!",
+        "url": "https://open.spotify.com/album/4mV8o8hl6v3u0Gzv0DfrXt"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 224853,
+      "name": "Back to the Earth",
+      "url": "https://open.spotify.com/track/4JmIiLYJuKY5bVgtoduDhK"
+    },
+    {
       "added_at": "2022-04-15 08:00:00",
       "album": {
         "name": "The Mollusk",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-04-15 08:00:00",
       "album": {
-        "name": "Ladies of the Canyon",
-        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
-      },
-      "artists": [
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 134800,
-      "name": "Big Yellow Taxi",
-      "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
-    },
-    {
-      "added_at": "2022-04-15 08:00:00",
-      "album": {
         "name": "Pinkfong 50 Best Hits: Baby Shark and More",
         "url": "https://open.spotify.com/album/2GkjtrCWy2aAY9R0XG7Haq"
       },
@@ -107,38 +91,6 @@
       "duration_ms": 77839,
       "name": "Animal Families",
       "url": "https://open.spotify.com/track/5JLOoJsu28Z9HT3vh2u4ec"
-    },
-    {
-      "added_at": "2022-04-15 08:00:00",
-      "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Where Do The Children Play?",
-      "url": "https://open.spotify.com/track/7kTmndsuOxGut8Oy85Mn62"
-    },
-    {
-      "added_at": "2023-11-08 15:55:26",
-      "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 139226,
-      "name": "What A Wonderful World",
-      "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
     },
     {
       "added_at": "2022-04-15 08:00:00",
@@ -167,6 +119,22 @@
       "duration_ms": 236040,
       "name": "There's a Hole in the Bottom of the Sea",
       "url": "https://open.spotify.com/track/3o0pKNC0dg21BYcPHUUFgb"
+    },
+    {
+      "added_at": "2022-04-15 08:00:00",
+      "album": {
+        "name": "The Best of Talking Heads",
+        "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 332066,
+      "name": "(Nothing But) Flowers - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3NNatBZ65onPjc4eeWhwNm"
     },
     {
       "added_at": "2022-04-15 08:00:00",
@@ -201,6 +169,22 @@
       "url": "https://open.spotify.com/track/6MvbWjCoGy0IBHi5xqWPJB"
     },
     {
+      "added_at": "2023-11-08 15:55:26",
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 139226,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
+    },
+    {
       "added_at": "2022-04-15 08:00:00",
       "album": {
         "name": "Plant a Garden",
@@ -215,6 +199,22 @@
       "duration_ms": 199240,
       "name": "Plant a Garden",
       "url": "https://open.spotify.com/track/6HfXSByXlK7TGTwOOi4b2l"
+    },
+    {
+      "added_at": "2022-04-15 08:00:00",
+      "album": {
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Where Do The Children Play?",
+      "url": "https://open.spotify.com/track/7kTmndsuOxGut8Oy85Mn62"
     },
     {
       "added_at": "2023-11-08 15:55:26",
@@ -349,6 +349,22 @@
       "url": "https://open.spotify.com/track/0O3qbIK90CIBAV3Vsme58y"
     },
     {
+      "added_at": "2023-11-09 15:40:31",
+      "album": {
+        "name": "Metal & Wood",
+        "url": "https://open.spotify.com/album/6FXR4DEIYONPfvnTAW1XJV"
+      },
+      "artists": [
+        {
+          "name": "Tyrone Wells",
+          "url": "https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "And the Birds Sing",
+      "url": "https://open.spotify.com/track/27IQtqCIy1KfK9TQGlG4jp"
+    },
+    {
       "added_at": "2022-04-15 08:00:00",
       "album": {
         "name": "Animal Songs 2",
@@ -477,6 +493,22 @@
       "url": "https://open.spotify.com/track/0HE90iT148w68tOxtY34Tf"
     },
     {
+      "added_at": "2023-11-09 15:18:08",
+      "album": {
+        "name": "Ten Summoner's Tales",
+        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 222120,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo"
+    },
+    {
       "added_at": "2022-04-15 08:00:00",
       "album": {
         "name": "Schoolhouse Rock! Earth",
@@ -519,6 +551,22 @@
       "duration_ms": 193240,
       "name": "White Bird",
       "url": "https://open.spotify.com/track/61qnl6ZTZDFKu2bNQ7Evla"
+    },
+    {
+      "added_at": "2023-11-09 15:18:08",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "added_at": "2022-04-15 08:00:00",
@@ -567,6 +615,22 @@
       "duration_ms": 205257,
       "name": "Mother Earth (Provides For Me)",
       "url": "https://open.spotify.com/track/667PlSHuLhVyQ9mmWd8KGm"
+    },
+    {
+      "added_at": "2023-11-09 15:18:08",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "Old Pine",
+      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
     },
     {
       "added_at": "2022-04-15 08:00:00",
@@ -689,6 +753,22 @@
       "url": "https://open.spotify.com/track/1pwkwI43EaA79HlDWNSEok"
     },
     {
+      "added_at": "2023-11-09 15:18:08",
+      "album": {
+        "name": "It Ain't Easy",
+        "url": "https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "Out In The Country",
+      "url": "https://open.spotify.com/track/5TdGMnyETHJU5RdjFFbVRR"
+    },
+    {
       "added_at": "2022-04-15 08:00:00",
       "album": {
         "name": "30 Pre-School Kid Songs - Fun and Silly",
@@ -775,6 +855,22 @@
       "duration_ms": 163680,
       "name": "I Love Nature - Original Demo",
       "url": "https://open.spotify.com/track/7BVmOq6ejw9IH0PSYtVGAl"
+    },
+    {
+      "added_at": "2023-11-09 15:18:08",
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 190346,
+      "name": "Scarborough Fair / Canticle",
+      "url": "https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0"
     },
     {
       "added_at": "2022-04-15 08:00:00",

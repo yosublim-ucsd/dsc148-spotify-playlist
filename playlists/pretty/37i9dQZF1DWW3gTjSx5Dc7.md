@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3gTjSx5Dc7.md) - [plain]
 
 > This is the essential Axwell Λ Ingrosso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,958 likes - 22 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,970 likes - 22 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3gTjSx5Dc7.md) - [plain]
 | 21 | [Together \- Radio Edit](https://open.spotify.com/track/4PQCrz4sk00dIEmkwmmJCr) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [Together](https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz) | 3:31 |
 | 22 | [Dreamer \- Matisse & Sadko Remix](https://open.spotify.com/track/6Bz6Rsp8GyeK4yL7APYYX3) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Dreamer \(Remixes\)](https://open.spotify.com/album/6DWBzXE4ccUNtpKXdvU2tA) | 4:10 |
 
-Snapshot ID: `MCxjYjExY2I3ZWJlZmEzYWQ4NDBkMjg1Y2VlYWQ2YTRhOThhOWFmZjg0`
+Snapshot ID: `MCwzYWU3MDdjNmRmZWQyZWQ5MjgzYTQ5YjEzM2FjNTlmMTg0ODE5MWJk`

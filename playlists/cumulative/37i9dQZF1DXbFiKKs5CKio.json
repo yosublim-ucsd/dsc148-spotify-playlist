@@ -274,10 +274,32 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 188168,
       "name": "Debochada",
       "url": "https://open.spotify.com/track/429MZRfRYM5RWR5Lie3beS"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Vem",
+        "url": "https://open.spotify.com/album/0ZN6uJremDuf27alIbotKn"
+      },
+      "artists": [
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188168,
+      "name": "Debochada",
+      "url": "https://open.spotify.com/track/4tBMQ34V6afrpBGddtx42P"
     },
     {
       "album": {
@@ -616,7 +638,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 301182,
       "name": "Met\u00e1fora",
       "url": "https://open.spotify.com/track/4TnLiCiAgtobVussVvGmW5"
@@ -773,6 +795,36 @@
     },
     {
       "album": {
+        "name": "Rom\u00e2ntico, Pt. 1",
+        "url": "https://open.spotify.com/album/7iGK5BUubDY6GZrxADD9Gy"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Particular",
+      "url": "https://open.spotify.com/track/7CdOq42qo6ZY4AHS8iNBX3"
+    },
+    {
+      "album": {
         "name": "Perfeita Demais",
         "url": "https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9"
       },
@@ -806,7 +858,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 199000,
       "name": "Ponte para Terapia",
       "url": "https://open.spotify.com/track/0QiPpYaOqbq8a5uY2TK7P4"
@@ -1068,6 +1120,28 @@
       "duration_ms": 180000,
       "name": "Tempo Pra Pensar",
       "url": "https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7"
+    },
+    {
+      "album": {
+        "name": "Unic\u00f3rnio",
+        "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259170,
+      "name": "TUDO CULPA DO RNB",
+      "url": "https://open.spotify.com/track/5vCZJokCi68SStDWFyGG3v"
     },
     {
       "album": {

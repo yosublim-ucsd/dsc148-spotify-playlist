@@ -1947,6 +1947,36 @@
     },
     {
       "album": {
+        "name": "Leke Prabhu Ka Naam (From \"Tiger 3\")",
+        "url": "https://open.spotify.com/album/2IP7pUCOazIHCAbK9eJNcu"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215316,
+      "name": "Leke Prabhu Ka Naam (From \"Tiger 3\")",
+      "url": "https://open.spotify.com/track/66v97IvccVkHt40FIOq1LH"
+    },
+    {
+      "album": {
         "name": "Wake Up Sid (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ"
       },
@@ -3218,7 +3248,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 185462,
       "name": "Sunoh (From \"The Archies\")",
       "url": "https://open.spotify.com/track/2oNcmoIOlDTBKPh7FzXSAT"

@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-205 songs - 9 hr 9 min
+206 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,8 +205,9 @@
 | [Wax](https://open.spotify.com/track/3Zcyk6cGjOpIhWceeSJnPv) | [A S T R O](https://open.spotify.com/artist/35iqidtNbi2CzifmDD4URB) | [Wax](https://open.spotify.com/album/1dKOZDInIO3mK551bp0XdU) | 2:00 | 2020-10-20\* | 2022-08-31 |
 | [We're Back](https://open.spotify.com/track/2u52q3y5ijACgPYHSHpu6P) | [Bluedoom](https://open.spotify.com/artist/1gFvHTW6FSJiw4FQ355I4K), [Santana Cid](https://open.spotify.com/artist/32pgXj1tADfTxzx1aVGnQf) | [We're Back](https://open.spotify.com/album/1Zz8BsY5CRc9d1MrUENM2W) | 1:38 | 2022-08-30 |  |
 | [When The Rain Comes](https://open.spotify.com/track/781bU26z7AG2aP4UKSmDcF) | [TossedOnion](https://open.spotify.com/artist/2HGhYrSNWvRYHNZnztDf0w), [Chill Station](https://open.spotify.com/artist/1FPxSBB6vJ21iKzCblbl1u) | [When The Rain Comes](https://open.spotify.com/album/704uqF2QkjdWv6A1XjOaqi) | 2:20 | 2022-08-30 |  |
-| [Where You Go](https://open.spotify.com/track/4TotXVQO9iHg81IuuF7aYr) | [Boztown](https://open.spotify.com/artist/49CZw9qooXeYTWKe9ioZPx) | [Where You Go](https://open.spotify.com/album/0EGdftFXLTMWBg6eJyAOvL) | 2:19 | 2022-10-25 |  |
+| [Where You Go](https://open.spotify.com/track/4TotXVQO9iHg81IuuF7aYr) | [Boztown](https://open.spotify.com/artist/49CZw9qooXeYTWKe9ioZPx) | [Where You Go](https://open.spotify.com/album/0EGdftFXLTMWBg6eJyAOvL) | 2:19 | 2022-10-25 | 2023-11-10 |
 | [Where You Go](https://open.spotify.com/track/5rzjeEpMk0A91LqZ86Z0tC) | [Boztown](https://open.spotify.com/artist/49CZw9qooXeYTWKe9ioZPx) | [Where You Go](https://open.spotify.com/album/14FVU8jYXHQnA8N2qlJSOQ) | 2:19 | 2022-09-08 | 2022-11-20 |
+| [Where You Go](https://open.spotify.com/track/6RnHmBfrzz0RD1roPOq9yu) | [Boztown](https://open.spotify.com/artist/49CZw9qooXeYTWKe9ioZPx) | [Where You Go](https://open.spotify.com/album/1zTGJiHnVzPupsvDXKV60S) | 2:19 | 2023-11-05 |  |
 | [Woman](https://open.spotify.com/track/397Fgk4f6ULuDgVkwSNeAH) | [Akshin Alizadeh](https://open.spotify.com/artist/6eBIpic8O1RW435sVsjYfy) | [But I Do / Woman](https://open.spotify.com/album/70s7nzdFcztvr8d7Z53Eln) | 3:28 | 2020-10-20\* | 2022-08-31 |
 | [Words Remain](https://open.spotify.com/track/2aFCXdFtYxGlNEvgXRbctK) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [The World Within](https://open.spotify.com/album/17gN0MsG9WxvEfRNHeKm8F) | 3:27 | 2020-10-20\* | 2022-07-29 |
 | [Words Remain](https://open.spotify.com/track/1AW4amyytwC0JNVmpVngIN) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The World Within \(Deluxe\)](https://open.spotify.com/album/4fPZlK0nyB5bOXZdRnihUX) | 3:27 | 2022-04-28 | 2022-08-31 |

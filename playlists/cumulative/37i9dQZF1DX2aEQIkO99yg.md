@@ -2,7 +2,7 @@
 
 ### [Día de Shakira](https://open.spotify.com/playlist/37i9dQZF1DX2aEQIkO99yg)
 
-> Este 29 de Septiembre celebramos a la reina\. \#DiaDeShakira
+> El 29 de Septiembre celebramos a la reina\. \#DiaDeShakira
 
 51 songs - 2 hr 55 min
 

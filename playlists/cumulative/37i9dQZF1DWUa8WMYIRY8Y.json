@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleurs morceaux alternatifs du moment. Photo : MGMT",
+  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Grian Chatten",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Haunt You Still",
+        "url": "https://open.spotify.com/album/4hoy0xTJAWSrD0R7t0t46H"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242515,
+      "name": "Haunt You Still",
+      "url": "https://open.spotify.com/track/2Kgnj7OQEdaiFIayFmplKC"
+    },
+    {
+      "album": {
         "name": "Heart In The Hole",
         "url": "https://open.spotify.com/album/04yQPP3gritzkZEGZh99Ka"
       },
@@ -512,6 +530,24 @@
       "duration_ms": 196373,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0AvmYTwL16E2CAqCrXP0dW"
+    },
+    {
+      "album": {
+        "name": "Her Father and Her",
+        "url": "https://open.spotify.com/album/0GdBjd1DWArDPXvzzNTb4q"
+      },
+      "artists": [
+        {
+          "name": "Ben Kweller",
+          "url": "https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193761,
+      "name": "Her Father and Her",
+      "url": "https://open.spotify.com/track/2qZKtduc9kHdWz4Uwp9csE"
     },
     {
       "album": {
@@ -656,6 +692,24 @@
       "duration_ms": 251386,
       "name": "Levee",
       "url": "https://open.spotify.com/track/3LjINbaBQeitJZD36pVdP4"
+    },
+    {
+      "album": {
+        "name": "Make You Proud",
+        "url": "https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207439,
+      "name": "Make You Proud",
+      "url": "https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z"
     },
     {
       "album": {
@@ -1050,7 +1104,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 418080,
       "name": "Space Invader",
       "url": "https://open.spotify.com/track/7eP181rqgdCB0q9HD4BzMK"
@@ -1122,7 +1176,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 210093,
       "name": "Street Rat",
       "url": "https://open.spotify.com/track/6QEXgIEYghZjsFcQPohZ9q"
@@ -1176,7 +1230,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 226253,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7HwP0lytsnQo4MKdqfVQt2"

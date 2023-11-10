@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [33 & golden](https://open.spotify.com/track/7uCrOs58TqlOEHrEoQkBta) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [the infinite spine](https://open.spotify.com/album/0U6mF03dmB2ba3XZXnxgOO) | 3:05 | 2023-07-25 |  |
+| [33 & golden](https://open.spotify.com/track/7uCrOs58TqlOEHrEoQkBta) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [the infinite spine](https://open.spotify.com/album/0U6mF03dmB2ba3XZXnxgOO) | 3:05 | 2023-07-25 | 2023-11-10 |
 | [6 In The Morning](https://open.spotify.com/track/1iL1mld9Q9YZgIVQCVJ0JB) | [Nuha Ruby Ra](https://open.spotify.com/artist/6tqTRVcajCVWmibmempM9m) | [6 In The Morning](https://open.spotify.com/album/2dDroSoRtp3FeUeVSvqUry) | 5:19 | 2023-03-22 | 2023-10-30 |
 | [A Wolf At the Door](https://open.spotify.com/track/3OHevW2cUT176DXWV0lHg9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail To the Thief](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) | 3:21 | 2023-10-30 | 2023-11-04 |
 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2021-11-01 | 2022-07-29 |
@@ -84,7 +84,7 @@
 | [Empty Stomach Space Cadet](https://open.spotify.com/track/0cwE12SmWNLi8YNkoxmfGp) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 2:07 | 2023-07-05 |  |
 | [Everything is Gonna' Be Alright](https://open.spotify.com/track/2IlH2GqnPulktTFpo1Hqo4) | [John Hinckley](https://open.spotify.com/artist/1SFuE9YchB2mp6NkLTGfF4) | [Everything is Gonna' Be Alright](https://open.spotify.com/album/44q46WfyQsFpCBLStz9Gve) | 2:18 | 2022-10-23 | 2022-11-01 |
 | [everything looks darker now](https://open.spotify.com/track/5VymYMoYoOum1mV0Q7YvQz) | [elkyn](https://open.spotify.com/artist/5qlnbZjig0IqfxA0qGRwpM) | [everything looks darker now](https://open.spotify.com/album/7vYk62s2xBiA45E1rTXLAc) | 3:26 | 2022-01-27 | 2023-07-06 |
-| [Exhaust / Surroundings](https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Toner](https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq) | 5:40 | 2021-11-01 | 2023-11-09 |
+| [Exhaust / Surroundings](https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Toner](https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq) | 5:40 | 2021-11-01 |  |
 | [Exposed to Some Light](https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Exposed to Some Light](https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH) | 3:59 | 2023-10-19 |  |
 | [Family Tree \(Intro\)](https://open.spotify.com/track/4fjSiuY9b3uBeGd1KBUNZE) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 3:41 | 2022-10-23 | 2022-11-01 |
 | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX) | [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB) | 3:22 | 2023-07-25 |  |

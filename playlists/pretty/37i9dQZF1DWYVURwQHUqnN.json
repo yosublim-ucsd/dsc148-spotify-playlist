@@ -1,39 +1,35 @@
 {
-  "description": "Photo: Morad x GIMS\n",
-  "num_followers": 1064975,
+  "description": "Photo: Shay\n",
+  "num_followers": 1065134,
   "original_name": "Best Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmJhNjFmMjgxM2RkM2E2ZTM2MmJkZTg2NDVhOTE1NTU5MjE2YmMy",
+  "snapshot_id": "MCxiOWZkY2YzYmM3NDYzMmZiNThkNDQyNWJjODI3NmM5NjI0YmJmNWE2",
   "tracks": [
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Seya",
-        "url": "https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw"
+        "name": "Sans Coeur",
+        "url": "https://open.spotify.com/album/25zx2Wv1z9Xt1Gi15WdFHk"
       },
       "artists": [
         {
-          "name": "SativaMusic",
-          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+          "name": "Shay",
+          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
         },
         {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
         }
       ],
-      "duration_ms": 188484,
-      "name": "Seya",
-      "url": "https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh"
+      "duration_ms": 176000,
+      "name": "Sans Coeur",
+      "url": "https://open.spotify.com/track/0F74FBWgkvXjP3V6tRlCx4"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "LAISSE MOI",
         "url": "https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD"
@@ -49,7 +45,7 @@
       "url": "https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
@@ -69,7 +65,23 @@
       "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "J'fais que danser",
+        "url": "https://open.spotify.com/album/4w7f8o2ZkjNPBJalSVrh27"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "J'fais que danser",
+      "url": "https://open.spotify.com/track/0SqLN8ZqucYOGZH7SD4HGC"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
@@ -89,27 +101,7 @@
       "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Reinsertado",
-        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 259627,
-      "name": "Se Grita",
-      "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/029ymf5WOrdIbvXv1EdmSN"
@@ -133,7 +125,27 @@
       "url": "https://open.spotify.com/track/74Sbxr7GNTQM8RyPEmp9Nq"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 259627,
+      "name": "Se Grita",
+      "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "Nous deux",
         "url": "https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK"
@@ -149,7 +161,7 @@
       "url": "https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "Saiyan",
         "url": "https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK"
@@ -169,7 +181,51 @@
       "url": "https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Seya",
+        "url": "https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw"
+      },
+      "artists": [
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 188484,
+      "name": "Seya",
+      "url": "https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Olala (feat. Naza)",
+        "url": "https://open.spotify.com/album/2zFuzuLOoOxCYvmQ57Td2w"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Olala (feat. Naza)",
+      "url": "https://open.spotify.com/track/5M2CMmyYb0GrmUCxFxhycX"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "Ouvert tout l'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB"
@@ -189,7 +245,7 @@
       "url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "Khemem",
         "url": "https://open.spotify.com/album/1ObRhUhvJgVfFOd6C6x23J"
@@ -205,23 +261,27 @@
       "url": "https://open.spotify.com/track/1KcVcJuQEnUQoQ8IzjsdKV"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "2069'",
-        "url": "https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq"
+        "name": "DELLALI (feat. Hamza)",
+        "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
       },
       "artists": [
         {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 179653,
-      "name": "Nouvelles",
-      "url": "https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy"
+      "duration_ms": 182037,
+      "name": "DELLALI (feat. Hamza)",
+      "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "En temps r\u00e9el",
         "url": "https://open.spotify.com/album/3Axd0NV5EcNnWzkvHqijzQ"
@@ -245,7 +305,7 @@
       "url": "https://open.spotify.com/track/2f8JQJctq8LZtaq6Hgdgb8"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "Piranha (feat. Vacra)",
         "url": "https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK"
@@ -265,23 +325,27 @@
       "url": "https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Eh toi",
-        "url": "https://open.spotify.com/album/6Bt2qMEBgt0qbmtsOeEeL9"
+        "name": "24",
+        "url": "https://open.spotify.com/album/7AVDqdCOZMjUSZdcuEUitO"
       },
       "artists": [
         {
-          "name": "Gambino",
-          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+          "name": "Dj Quick",
+          "url": "https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
         }
       ],
-      "duration_ms": 170527,
-      "name": "Eh toi",
-      "url": "https://open.spotify.com/track/04IKxemPvQl0z76VGhqTQr"
+      "duration_ms": 189339,
+      "name": "24",
+      "url": "https://open.spotify.com/track/00anelAwwFxJXHD5MykhwG"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "Drapeau Blanc",
         "url": "https://open.spotify.com/album/1iLGxODx0ibLx8EFpZOAQu"
@@ -301,7 +365,23 @@
       "url": "https://open.spotify.com/track/00GSNnSxVhNlQiJwuRGIGr"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "M\u00e9chant",
+        "url": "https://open.spotify.com/album/0qnEbi793qwTHRjUIsNQxD"
+      },
+      "artists": [
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "duration_ms": 141247,
+      "name": "M\u00e9chant",
+      "url": "https://open.spotify.com/track/1h8484CNhIZqhMsqD0ljkl"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "1,2,3 Soleil",
         "url": "https://open.spotify.com/album/5VB6SGacsS2ie9E5Go8thw"
@@ -325,79 +405,7 @@
       "url": "https://open.spotify.com/track/5dSfZLxT4QUN4maDM5H2ZW"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "C'est quand qu'il s'\u00e9teint ?",
-        "url": "https://open.spotify.com/album/1WYGwCvsfFrr7kuQcfNnJr"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        },
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "Coco",
-      "url": "https://open.spotify.com/track/49XICf008slp1Aek6LYzmQ"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "M\u00e9chant",
-        "url": "https://open.spotify.com/album/0qnEbi793qwTHRjUIsNQxD"
-      },
-      "artists": [
-        {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
-        }
-      ],
-      "duration_ms": 141247,
-      "name": "M\u00e9chant",
-      "url": "https://open.spotify.com/track/1h8484CNhIZqhMsqD0ljkl"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "760",
-        "url": "https://open.spotify.com/album/4434yKaCsQSw2tliaR2PvX"
-      },
-      "artists": [
-        {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
-        }
-      ],
-      "duration_ms": 180515,
-      "name": "760",
-      "url": "https://open.spotify.com/track/2MrFSzJuda5Hwp40iQfcdR"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Mon BB",
-        "url": "https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL"
-      },
-      "artists": [
-        {
-          "name": "Gradur",
-          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 188786,
-      "name": "Mon BB",
-      "url": "https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "4Real",
         "url": "https://open.spotify.com/album/2vhc1P6jEANs15mbrxe9Mj"
@@ -417,27 +425,43 @@
       "url": "https://open.spotify.com/track/6XCrAL7AKz34KxvhsoW2UF"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Reste Trankil",
-        "url": "https://open.spotify.com/album/3oAjyQtWWMRyZ5SM6mWKzm"
+        "name": "760",
+        "url": "https://open.spotify.com/album/4434yKaCsQSw2tliaR2PvX"
       },
       "artists": [
         {
-          "name": "Mister You",
-          "url": "https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
         }
       ],
-      "duration_ms": 199782,
-      "name": "Reste Trankil",
-      "url": "https://open.spotify.com/track/7B7zzTwckbzoiRz3fAdQq9"
+      "duration_ms": 180515,
+      "name": "760",
+      "url": "https://open.spotify.com/track/2MrFSzJuda5Hwp40iQfcdR"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Mon BB",
+        "url": "https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL"
+      },
+      "artists": [
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 188786,
+      "name": "Mon BB",
+      "url": "https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "VNTR",
         "url": "https://open.spotify.com/album/2IZ78EPVEqj7f7KTiQ9hUV"
@@ -453,23 +477,7 @@
       "url": "https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Parabellum",
-        "url": "https://open.spotify.com/album/0ghjB2aqTW2WVtuIuR5Psb"
-      },
-      "artists": [
-        {
-          "name": "GLK",
-          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
-        }
-      ],
-      "duration_ms": 154110,
-      "name": "Parabellum",
-      "url": "https://open.spotify.com/track/4bBRs90EOLh9ydBDsH3mgu"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "Chef D'orchestre",
         "url": "https://open.spotify.com/album/10BPtugQncuVXNT8CVu0f1"
@@ -489,7 +497,59 @@
       "url": "https://open.spotify.com/track/1jJHvMdaI0B3tmiCgFNpeK"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Parabellum",
+        "url": "https://open.spotify.com/album/0ghjB2aqTW2WVtuIuR5Psb"
+      },
+      "artists": [
+        {
+          "name": "GLK",
+          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
+        }
+      ],
+      "duration_ms": 154110,
+      "name": "Parabellum",
+      "url": "https://open.spotify.com/track/4bBRs90EOLh9ydBDsH3mgu"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "N'A STRAGIA",
+        "url": "https://open.spotify.com/album/4PxIHIjXAGQz2bYqy0CLtX"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "duration_ms": 144200,
+      "name": "MA\u00d1ANA",
+      "url": "https://open.spotify.com/track/1sv3oqZL49le641hfHgtpX"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/6lLXMBYHPG6LziicXBNOiU"
+      },
+      "artists": [
+        {
+          "name": "Lamatrix",
+          "url": "https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 134612,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4boEoouWug1KL4oIdO6yOn"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "Trop Bizarre",
         "url": "https://open.spotify.com/album/39ZydYNYrTrRoRys0tqMaI"
@@ -517,127 +577,7 @@
       "url": "https://open.spotify.com/track/6JnYVpEvdSMKYwLUfoM4v7"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Vibes",
-        "url": "https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG"
-      },
-      "artists": [
-        {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
-        }
-      ],
-      "duration_ms": 134423,
-      "name": "Vibes",
-      "url": "https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Avec elle",
-        "url": "https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg"
-      },
-      "artists": [
-        {
-          "name": "GLK",
-          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Avec elle",
-      "url": "https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Guadalajara",
-        "url": "https://open.spotify.com/album/4ORZW3jfpRuUYC7hg3IBKf"
-      },
-      "artists": [
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        }
-      ],
-      "duration_ms": 161306,
-      "name": "Guadalajara",
-      "url": "https://open.spotify.com/track/4e8h0zqi70JHvZbCzrgcHE"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/6lLXMBYHPG6LziicXBNOiU"
-      },
-      "artists": [
-        {
-          "name": "Lamatrix",
-          "url": "https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE"
-        },
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 134612,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4boEoouWug1KL4oIdO6yOn"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "N'A STRAGIA",
-        "url": "https://open.spotify.com/album/4PxIHIjXAGQz2bYqy0CLtX"
-      },
-      "artists": [
-        {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
-        }
-      ],
-      "duration_ms": 144200,
-      "name": "MA\u00d1ANA",
-      "url": "https://open.spotify.com/track/1sv3oqZL49le641hfHgtpX"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "R\u00eaves de gosse",
-        "url": "https://open.spotify.com/album/0lKIcj2OM4dsPqrqowKqju"
-      },
-      "artists": [
-        {
-          "name": "Sasso",
-          "url": "https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF"
-        }
-      ],
-      "duration_ms": 154488,
-      "name": "R\u00eaves de gosse",
-      "url": "https://open.spotify.com/track/6vmIRK3rnKhfiCo0fLb2UL"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "VIDA LOCA",
-        "url": "https://open.spotify.com/album/19SQT2btnkRb7De5XkfpLM"
-      },
-      "artists": [
-        {
-          "name": "Dinor rdt",
-          "url": "https://open.spotify.com/artist/3RJNCnIkqvVwEicgGo2nqJ"
-        },
-        {
-          "name": "Vegedream",
-          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
-        }
-      ],
-      "duration_ms": 169683,
-      "name": "VIDA LOCA",
-      "url": "https://open.spotify.com/track/3m4e1Cr5hTz4iF2bU9QTz6"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "La grinta",
         "url": "https://open.spotify.com/album/4sBVMRxXihQczIaXHS29xc"
@@ -661,27 +601,95 @@
       "url": "https://open.spotify.com/track/1IVtCHJuAl40ypJtAsR9Ld"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Favel (feat. Leto)",
-        "url": "https://open.spotify.com/album/0tdVu7eDcfQcj2ECMutN2q"
+        "name": "R\u00eaves de gosse",
+        "url": "https://open.spotify.com/album/0lKIcj2OM4dsPqrqowKqju"
       },
       "artists": [
         {
-          "name": "Soso Maness",
-          "url": "https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU"
-        },
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+          "name": "Sasso",
+          "url": "https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF"
         }
       ],
-      "duration_ms": 144883,
-      "name": "Favel (feat. Leto)",
-      "url": "https://open.spotify.com/track/4f4naiLQhNYCI7vnE0Yew0"
+      "duration_ms": 154488,
+      "name": "R\u00eaves de gosse",
+      "url": "https://open.spotify.com/track/6vmIRK3rnKhfiCo0fLb2UL"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Reste Trankil",
+        "url": "https://open.spotify.com/album/3oAjyQtWWMRyZ5SM6mWKzm"
+      },
+      "artists": [
+        {
+          "name": "Mister You",
+          "url": "https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 199782,
+      "name": "Reste Trankil",
+      "url": "https://open.spotify.com/track/7B7zzTwckbzoiRz3fAdQq9"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Eh toi",
+        "url": "https://open.spotify.com/album/6Bt2qMEBgt0qbmtsOeEeL9"
+      },
+      "artists": [
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+        }
+      ],
+      "duration_ms": 170527,
+      "name": "Eh toi",
+      "url": "https://open.spotify.com/track/04IKxemPvQl0z76VGhqTQr"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "VIDA LOCA",
+        "url": "https://open.spotify.com/album/19SQT2btnkRb7De5XkfpLM"
+      },
+      "artists": [
+        {
+          "name": "Dinor rdt",
+          "url": "https://open.spotify.com/artist/3RJNCnIkqvVwEicgGo2nqJ"
+        },
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        }
+      ],
+      "duration_ms": 169683,
+      "name": "VIDA LOCA",
+      "url": "https://open.spotify.com/track/3m4e1Cr5hTz4iF2bU9QTz6"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        }
+      ],
+      "duration_ms": 134423,
+      "name": "Vibes",
+      "url": "https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "Y Dor",
         "url": "https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR"
@@ -705,7 +713,43 @@
       "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Avec elle",
+        "url": "https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg"
+      },
+      "artists": [
+        {
+          "name": "GLK",
+          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Avec elle",
+      "url": "https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Favel (feat. Leto)",
+        "url": "https://open.spotify.com/album/0tdVu7eDcfQcj2ECMutN2q"
+      },
+      "artists": [
+        {
+          "name": "Soso Maness",
+          "url": "https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 144883,
+      "name": "Favel (feat. Leto)",
+      "url": "https://open.spotify.com/track/4f4naiLQhNYCI7vnE0Yew0"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "Benda",
         "url": "https://open.spotify.com/album/3fPapZVnsbmGKldPL9TmER"
@@ -721,7 +765,7 @@
       "url": "https://open.spotify.com/track/4gGtXfBmsTlglZm6FeJ1T9"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "Salsa",
         "url": "https://open.spotify.com/album/1dHwor6ZgMyqwNCb6gxx4x"
@@ -735,38 +779,6 @@
       "duration_ms": 156493,
       "name": "Salsa",
       "url": "https://open.spotify.com/track/6Sn4DF082OidVgKmF2IJSo"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Pens\u00e9es noires",
-        "url": "https://open.spotify.com/album/4sdwgKGBkbBQpmVXqjx0wg"
-      },
-      "artists": [
-        {
-          "name": "Mecra Officiel",
-          "url": "https://open.spotify.com/artist/2Ya02DIvFJEBvDBTznlYCp"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Pens\u00e9es noires",
-      "url": "https://open.spotify.com/track/10wjcXzC0e5lw99cN4YU7A"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Liberta",
-        "url": "https://open.spotify.com/album/4ezzeRj05jnLrRqunm6qJn"
-      },
-      "artists": [
-        {
-          "name": "DTF",
-          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
-        }
-      ],
-      "duration_ms": 148130,
-      "name": "Liberta",
-      "url": "https://open.spotify.com/track/69lKtGrjuqYypkYHm6H2WY"
     }
   ],
   "unique_name": "Best Life",

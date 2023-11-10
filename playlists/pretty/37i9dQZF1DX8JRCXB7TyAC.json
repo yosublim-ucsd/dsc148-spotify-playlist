@@ -1,15 +1,95 @@
 {
   "description": "Workout with Haryanvi Songs. Cover: Ankit Baiyanpuria",
-  "num_followers": 25016,
+  "num_followers": 25078,
   "original_name": "Haryanvi Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTQ5ZWQ4MWE1ZTJiNDM3MTczYmI5NmIzNDE3MWYwZWI0MmU4YTk3",
+  "snapshot_id": "MCxmMzE4MzczM2I5NjhhMTFiNWE4MjU2NjY3NjE0YzYxMjhmMzJjOGEy",
   "tracks": [
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Ram Ram Karke",
+        "url": "https://open.spotify.com/album/5YjykDAdQ5OWVFc9b7PqaI"
+      },
+      "artists": [
+        {
+          "name": "R Deep",
+          "url": "https://open.spotify.com/artist/7hk6OYYvIpH2wGfdj2l1GA"
+        },
+        {
+          "name": "Ankit Baiyanpuria",
+          "url": "https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "Ram Ram Karke",
+      "url": "https://open.spotify.com/track/6naLIL2jVbE6uyUpUKtnAH"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/2dj8GXKlijOBhPcY9DXY2k"
+      },
+      "artists": [
+        {
+          "name": "DG IMMORTALS",
+          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
+        },
+        {
+          "name": "Shiva Choudhary",
+          "url": "https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN"
+        },
+        {
+          "name": "Love Kataria",
+          "url": "https://open.spotify.com/artist/68Zi4yF7GdesbYgTEEZPDZ"
+        },
+        {
+          "name": "Sshiv",
+          "url": "https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA"
+        }
+      ],
+      "duration_ms": 110909,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5hDKa4HzGxhnLGO6vnc3pA"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Yaar Badmash",
+        "url": "https://open.spotify.com/album/6DuHB7XdpvrHK11Ry4ffe4"
+      },
+      "artists": [
+        {
+          "name": "Amanraj Gill",
+          "url": "https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs"
+        }
+      ],
+      "duration_ms": 190682,
+      "name": "Yaar Badmash",
+      "url": "https://open.spotify.com/track/6vQYsw6Nfh3eI7CsrVz8A1"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Haryana Hood",
+        "url": "https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj"
+      },
+      "artists": [
+        {
+          "name": "Irshad Khan",
+          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "Haryana Hood",
+      "url": "https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
       "album": {
         "name": "Chore Haryane Aale",
         "url": "https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf"
@@ -41,563 +121,27 @@
       "url": "https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
-        "name": "Chora Baba Ka",
-        "url": "https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS"
+        "name": "Kah Diye",
+        "url": "https://open.spotify.com/album/0kJS7CuXrnhACry2ULRFhu"
       },
       "artists": [
-        {
-          "name": "Raftaar",
-          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
-        },
-        {
-          "name": "Dhanda Nyoliwala",
-          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
-        }
-      ],
-      "duration_ms": 175624,
-      "name": "Chora Baba Ka",
-      "url": "https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Convoy",
-        "url": "https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg"
-      },
-      "artists": [
-        {
-          "name": "Khasa Aala Chahar",
-          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
-        },
-        {
-          "name": "KD DESIROCK",
-          "url": "https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "Convoy",
-      "url": "https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Gym",
-        "url": "https://open.spotify.com/album/6Txxy3cBUhTAoCJOxv7r5b"
-      },
-      "artists": [
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/3pibkVeMCi8twOlUWQGieI"
-        }
-      ],
-      "duration_ms": 136415,
-      "name": "Gym",
-      "url": "https://open.spotify.com/track/57UMuOrnuEohn3TR6ZfJ0j"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Target 2",
-        "url": "https://open.spotify.com/album/7MwOyeoMdqiA2SJYXLMahp"
-      },
-      "artists": [
-        {
-          "name": "Mavrix",
-          "url": "https://open.spotify.com/artist/3ivej5P51jgZiJKDNfZd11"
-        },
-        {
-          "name": "Duhan Muzic",
-          "url": "https://open.spotify.com/artist/2uuKzuZ3JZXuMhUkYyS0xz"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Target 2",
-      "url": "https://open.spotify.com/track/6TiXW1QTLAoRGqFmIw2SgL"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Gym De Shokeen",
-        "url": "https://open.spotify.com/album/4NXiyOVXNQ6HwGBpNGDF8b"
-      },
-      "artists": [
-        {
-          "name": "Bhallwaan",
-          "url": "https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG"
-        }
-      ],
-      "duration_ms": 225158,
-      "name": "Gym De Shokeen",
-      "url": "https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "No Mercy",
-        "url": "https://open.spotify.com/album/0ig0cN50Yv63nJs0O0LyZo"
-      },
-      "artists": [
-        {
-          "name": "Dhanda Nyoliwala",
-          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
-        },
-        {
-          "name": "Desi Melbourniye",
-          "url": "https://open.spotify.com/artist/3ZDK52wRO5QRwoW3QyyRfH"
-        }
-      ],
-      "duration_ms": 185525,
-      "name": "No Mercy",
-      "url": "https://open.spotify.com/track/5vdsRp6ExGxmfuJ2cG5Kqx"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Level",
-        "url": "https://open.spotify.com/album/4vQgA1reUgBBX5MiKoTgF0"
-      },
-      "artists": [
-        {
-          "name": "Masoom Sharma",
-          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
-        },
-        {
-          "name": "Ashu Twinkle",
-          "url": "https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob"
-        }
-      ],
-      "duration_ms": 157803,
-      "name": "Level",
-      "url": "https://open.spotify.com/track/1a6S5ZjbivvNV4YsMzdwFw"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "On the Way",
-        "url": "https://open.spotify.com/album/39KJPgQ0FsWskTQS3h2UCw"
-      },
-      "artists": [
-        {
-          "name": "Khasa Aala Chahar",
-          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
-        },
-        {
-          "name": "KD",
-          "url": "https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "On The Way",
-      "url": "https://open.spotify.com/track/0eXigexcbhLwQXgEtfO8Zv"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "18 Lakh",
-        "url": "https://open.spotify.com/album/3QXb9c5hnpj1nlUXSXQNiT"
-      },
-      "artists": [
-        {
-          "name": "Raj Mawar",
-          "url": "https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf"
-        }
-      ],
-      "duration_ms": 177246,
-      "name": "18 Lakh",
-      "url": "https://open.spotify.com/track/4rz26F2pzUAa8IC8Y0XOTQ"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Fitness - Single",
-        "url": "https://open.spotify.com/album/6tJpPIreOaW2MNeo3zwq0U"
-      },
-      "artists": [
-        {
-          "name": "Gagan Haryanvi",
-          "url": "https://open.spotify.com/artist/4ytVJDy173fPLx97Ww84JW"
-        },
         {
           "name": "Manisha Sharma",
           "url": "https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf"
-        }
-      ],
-      "duration_ms": 240024,
-      "name": "Fitness",
-      "url": "https://open.spotify.com/track/1HzObZPrlMd5qZuTVm2VND"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "The Villagers",
-        "url": "https://open.spotify.com/album/5VRPx5fbREQVJ9lNApySLV"
-      },
-      "artists": [
-        {
-          "name": "Sumit Goswami",
-          "url": "https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM"
         },
-        {
-          "name": "Jerry",
-          "url": "https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7"
-        }
-      ],
-      "duration_ms": 183154,
-      "name": "The Villagers",
-      "url": "https://open.spotify.com/track/2x7iprCTkTR7WcTRkCLFBr"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Banda 2 Numbri",
-        "url": "https://open.spotify.com/album/7dkaPHQKE9BrttpGDcGkQr"
-      },
-      "artists": [
-        {
-          "name": "Raj Mawer",
-          "url": "https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2"
-        },
-        {
-          "name": "Fiza Choudhary",
-          "url": "https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB"
-        },
-        {
-          "name": "R K Crew",
-          "url": "https://open.spotify.com/artist/6QQcSyntyILnDWvSZmnoVT"
-        }
-      ],
-      "duration_ms": 169740,
-      "name": "Banda 2 Numbri",
-      "url": "https://open.spotify.com/track/0U1QaF0SEwqSugoqMrOu1k"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Yaari",
-        "url": "https://open.spotify.com/album/4PZ0HxYICGGRROf4mM8UlN"
-      },
-      "artists": [
-        {
-          "name": "MD DesiRockstar",
-          "url": "https://open.spotify.com/artist/5j28WuraZ1QL8A3IXruKU0"
-        },
-        {
-          "name": "Bunny Beats",
-          "url": "https://open.spotify.com/artist/16FYhIBIBDW43AIviL9T4A"
-        }
-      ],
-      "duration_ms": 149128,
-      "name": "Yaari",
-      "url": "https://open.spotify.com/track/1GgE8OLZdV6X8vemSbGc0B"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Mucha Aale Tag",
-        "url": "https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W"
-      },
-      "artists": [
-        {
-          "name": "Khasa Aala Chahar",
-          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
-        }
-      ],
-      "duration_ms": 203846,
-      "name": "Mucha Aale Tag",
-      "url": "https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Permit Badmashi Ka",
-        "url": "https://open.spotify.com/album/41xz0NFiekwYRNgAeLibQM"
-      },
-      "artists": [
-        {
-          "name": "RK Crew",
-          "url": "https://open.spotify.com/artist/5F6yXom1OtJEXonwTvHsaw"
-        },
-        {
-          "name": "Mohit Sharma",
-          "url": "https://open.spotify.com/artist/6Nzqi199UwJFiHQ6Rgc3j1"
-        },
-        {
-          "name": "Aashu Twinkle",
-          "url": "https://open.spotify.com/artist/4FRJTLxHjNzFyPBzAAsNhQ"
-        }
-      ],
-      "duration_ms": 164854,
-      "name": "Permit Badmashi Ka",
-      "url": "https://open.spotify.com/track/4LNFYpktI8O0y9H20Bh5xU"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Inaam",
-        "url": "https://open.spotify.com/album/5xhWijw7nDOj8OodK0fa1e"
-      },
-      "artists": [
-        {
-          "name": "Masoom Sharma",
-          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
-        },
-        {
-          "name": "Manisha Sharma",
-          "url": "https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf"
-        }
-      ],
-      "duration_ms": 184836,
-      "name": "Inaam",
-      "url": "https://open.spotify.com/track/51O38IidoQaQ8XwIoJZ4fw"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Pataka",
-        "url": "https://open.spotify.com/album/1RHx6SdPqgoYkmpiOqV29P"
-      },
-      "artists": [
-        {
-          "name": "RP Singh",
-          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
-        },
-        {
-          "name": "Candy Sheoran",
-          "url": "https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Pataka",
-      "url": "https://open.spotify.com/track/23jHzNShbAaRsuEmQJN5hE"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Badmash Bateu",
-        "url": "https://open.spotify.com/album/3vDXarnLcnZRmmahYwatq2"
-      },
-      "artists": [
-        {
-          "name": "Masoom Sharma",
-          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
-        },
-        {
-          "name": "Ashu Twinkle",
-          "url": "https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob"
-        },
-        {
-          "name": "Fiza Choudhary",
-          "url": "https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB"
-        },
-        {
-          "name": "Kehar Kharkiya",
-          "url": "https://open.spotify.com/artist/0BZEgC6IsnbuFOIOAu802I"
-        }
-      ],
-      "duration_ms": 150583,
-      "name": "Badmash Bateu",
-      "url": "https://open.spotify.com/track/2jnwvcGoSIxuY4xLAnJuzT"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Gaadi Nuye Chalegi",
-        "url": "https://open.spotify.com/album/06vtwe32fMoLMFkyns4UW8"
-      },
-      "artists": [
-        {
-          "name": "R Maan",
-          "url": "https://open.spotify.com/artist/0fNDH2JsW1yPrwIYjyOB5n"
-        },
-        {
-          "name": "Komal Chaudhary",
-          "url": "https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3"
-        }
-      ],
-      "duration_ms": 170869,
-      "name": "Gaadi Nuye Chalegi",
-      "url": "https://open.spotify.com/track/3kSpXJst1L9ahYkLnE15rb"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Jalya Na Karo",
-        "url": "https://open.spotify.com/album/2tFI8HNfDtsfses9rm7jQP"
-      },
-      "artists": [
         {
           "name": "Bintu Pabra",
           "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
         }
       ],
-      "duration_ms": 222439,
-      "name": "Jalya Na Karo",
-      "url": "https://open.spotify.com/track/2ja8pqhYArF0DmH3JmrCRV"
+      "duration_ms": 159529,
+      "name": "Kah Diye",
+      "url": "https://open.spotify.com/track/1DX4Pj3IGtk7LvcVPC6Eoo"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Gunde Te Pyaar",
-        "url": "https://open.spotify.com/album/2M6uGncIcmy5hpjlLqoQos"
-      },
-      "artists": [
-        {
-          "name": "Masoom Sharma",
-          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
-        },
-        {
-          "name": "Manisha Sharma",
-          "url": "https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf"
-        },
-        {
-          "name": "Sweta Chauhan",
-          "url": "https://open.spotify.com/artist/4TsNgxbxmdUsKIFtqvzRPa"
-        },
-        {
-          "name": "Zameer Siddiqui",
-          "url": "https://open.spotify.com/artist/0MOHjZdv3gfJbXu4Lt7NL0"
-        }
-      ],
-      "duration_ms": 208909,
-      "name": "Gunde Te Pyaar",
-      "url": "https://open.spotify.com/track/3AaInQgz5j9wLN9PR87pqy"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "2 Thikhane",
-        "url": "https://open.spotify.com/album/5eqL6t6WDlVzXIAlv1qxGY"
-      },
-      "artists": [
-        {
-          "name": "Bintu Pabra",
-          "url": "https://open.spotify.com/artist/5a1OXk9wjaYPOXNoUMKg8g"
-        },
-        {
-          "name": "Muskan Lohan",
-          "url": "https://open.spotify.com/artist/1ZPxQ4Z8l09nOU6WwJcdne"
-        }
-      ],
-      "duration_ms": 167777,
-      "name": "2 Thikane",
-      "url": "https://open.spotify.com/track/3FyQy2EPsa7YDJSATCqBWa"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "2 Numbari",
-        "url": "https://open.spotify.com/album/5rf6ySbyNTgoYdhpZzKiRa"
-      },
-      "artists": [
-        {
-          "name": "Sumit Parta",
-          "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
-        },
-        {
-          "name": "Anjali 99",
-          "url": "https://open.spotify.com/artist/4QirDUwZFIIRDP3tL7gB6E"
-        }
-      ],
-      "duration_ms": 212114,
-      "name": "2 Numbari",
-      "url": "https://open.spotify.com/track/44QLCfLlW3WAiyLyQxkVmk"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Mein Banda Thik Nahi (feat. Kanishka Sharma,Amit Attri)",
-        "url": "https://open.spotify.com/album/2OeJGiIeWIQRV7SF7d6G3b"
-      },
-      "artists": [
-        {
-          "name": "Suraj Khatak",
-          "url": "https://open.spotify.com/artist/1so9s8g20D1TUg0YHIFZzA"
-        },
-        {
-          "name": "Amit Saini Rohtakiya",
-          "url": "https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b"
-        }
-      ],
-      "duration_ms": 159135,
-      "name": "Mein Banda Thik Nahi (feat. Kanishka Sharma,Amit Attri)",
-      "url": "https://open.spotify.com/track/3YPp5F4PvyBd1nEuEoifcH"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Pistal Te Mehnga Lehnga",
-        "url": "https://open.spotify.com/album/4KGnfHLFoZ7ZlIT7P5Aa29"
-      },
-      "artists": [
-        {
-          "name": "Vinod Sorkhi",
-          "url": "https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV"
-        },
-        {
-          "name": "Kay D",
-          "url": "https://open.spotify.com/artist/6e12O63wUHuRVqb0YHV4YG"
-        },
-        {
-          "name": "Anjali Raghav",
-          "url": "https://open.spotify.com/artist/4tnyxnjCVBlkqaefQ6fgbv"
-        }
-      ],
-      "duration_ms": 162787,
-      "name": "Pistal Te Mehnga Lehnga",
-      "url": "https://open.spotify.com/track/3C1uC6FCTvftY4H9nyFEYB"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Demand",
-        "url": "https://open.spotify.com/album/5HdrVdrrcFxmYPpLDgPoxU"
-      },
-      "artists": [
-        {
-          "name": "Sumit Parta",
-          "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
-        },
-        {
-          "name": "Pranjal Dahiya",
-          "url": "https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me"
-        },
-        {
-          "name": "Crush Wale Yaar",
-          "url": "https://open.spotify.com/artist/5H3ASJionzrQzxNQQwhtsL"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Demand",
-      "url": "https://open.spotify.com/track/6QoYcLyjQNTOsgh9dRHFDM"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Wheel Feel (Feat. Pranjal Dahiya)",
-        "url": "https://open.spotify.com/album/7xESf5ZybX0vVQMZoih7qB"
-      },
-      "artists": [
-        {
-          "name": "Masoom Sharma",
-          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
-        },
-        {
-          "name": "Kaptaan",
-          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
-        },
-        {
-          "name": "Pranjal Dahiya",
-          "url": "https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me"
-        }
-      ],
-      "duration_ms": 143888,
-      "name": "Wheel Feel (Feat. Pranjal Dahiya)",
-      "url": "https://open.spotify.com/track/6gAgB2lfRXYywp9ixvOrOJ"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
         "name": "Gunday",
         "url": "https://open.spotify.com/album/73DYc8xnjVLEzxAqdBx7Y0"
@@ -621,27 +165,7 @@
       "url": "https://open.spotify.com/track/0HdMNvCZPuUWgyv3PSES4V"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Tha Tha",
-        "url": "https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO"
-      },
-      "artists": [
-        {
-          "name": "Manisha Sharma",
-          "url": "https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf"
-        },
-        {
-          "name": "Raj Mawar",
-          "url": "https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "Tha Tha",
-      "url": "https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
         "name": "Desi",
         "url": "https://open.spotify.com/album/5I0yk3Qb3CaTM12ijQ0Z1U"
@@ -661,10 +185,10 @@
       "url": "https://open.spotify.com/track/4PdZM5PoGGLIFWfPquRnEd"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
-        "name": "Asla",
-        "url": "https://open.spotify.com/album/6yWbqtrvJssVPu5MKs9cVG"
+        "name": "Tha Tha",
+        "url": "https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO"
       },
       "artists": [
         {
@@ -674,38 +198,30 @@
         {
           "name": "Raj Mawar",
           "url": "https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf"
-        },
-        {
-          "name": "Vikrant Mehla",
-          "url": "https://open.spotify.com/artist/6oh6dByxCViHDAuvRBE50H"
-        },
-        {
-          "name": "Khushboo Manhas",
-          "url": "https://open.spotify.com/artist/4AcqEg3wRMVuY32zjQnCVf"
         }
       ],
-      "duration_ms": 149126,
-      "name": "Asla",
-      "url": "https://open.spotify.com/track/39dMWNYC5L8Vi4H7T7y2LZ"
+      "duration_ms": 169285,
+      "name": "Tha Tha",
+      "url": "https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
-        "name": "Target",
-        "url": "https://open.spotify.com/album/1c2n4BfMREowVQJ5sr1CmW"
+        "name": "Gaadi Desiyan Ki",
+        "url": "https://open.spotify.com/album/2pq8qaJMYuQI7VJqqHP7hD"
       },
       "artists": [
         {
-          "name": "Mavrix",
-          "url": "https://open.spotify.com/artist/3ivej5P51jgZiJKDNfZd11"
+          "name": "Bintu Pabra",
+          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
         }
       ],
-      "duration_ms": 165365,
-      "name": "Target",
-      "url": "https://open.spotify.com/track/3dMIUgx4oCPjBlOtN8X7Z0"
+      "duration_ms": 157200,
+      "name": "Gaadi Desiyan Ki",
+      "url": "https://open.spotify.com/track/1bi3ume3cSnvQssluzdLG8"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
         "name": "Jaat",
         "url": "https://open.spotify.com/album/290kPIm8AJR2pAZXiiH4PZ"
@@ -721,7 +237,247 @@
       "url": "https://open.spotify.com/track/7JGrjPpKep3LJdiEHQ4N0K"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Demand",
+        "url": "https://open.spotify.com/album/5HdrVdrrcFxmYPpLDgPoxU"
+      },
+      "artists": [
+        {
+          "name": "Sumit Parta",
+          "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
+        },
+        {
+          "name": "Pranjal Dahiya",
+          "url": "https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me"
+        },
+        {
+          "name": "Crush Wale Yaar",
+          "url": "https://open.spotify.com/artist/5H3ASJionzrQzxNQQwhtsL"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Demand",
+      "url": "https://open.spotify.com/track/6QoYcLyjQNTOsgh9dRHFDM"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "World Famous Haryanvi",
+        "url": "https://open.spotify.com/album/68rxbjQHUE8Hle8y6xsm6Y"
+      },
+      "artists": [
+        {
+          "name": "Ashoka Deswal",
+          "url": "https://open.spotify.com/artist/0fggoEiFOovUAaLHGFOseZ"
+        }
+      ],
+      "duration_ms": 172942,
+      "name": "World Famous Haryanvi",
+      "url": "https://open.spotify.com/track/4I5UULvQZeU6XuSPoC2u3W"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Dole Laadle",
+        "url": "https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq"
+      },
+      "artists": [
+        {
+          "name": "Gulzaar Chhaniwala",
+          "url": "https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo"
+        }
+      ],
+      "duration_ms": 181194,
+      "name": "Dole Laadle",
+      "url": "https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "2 Thikhane",
+        "url": "https://open.spotify.com/album/5eqL6t6WDlVzXIAlv1qxGY"
+      },
+      "artists": [
+        {
+          "name": "Bintu Pabra",
+          "url": "https://open.spotify.com/artist/5a1OXk9wjaYPOXNoUMKg8g"
+        },
+        {
+          "name": "Muskan Lohan",
+          "url": "https://open.spotify.com/artist/1ZPxQ4Z8l09nOU6WwJcdne"
+        }
+      ],
+      "duration_ms": 167777,
+      "name": "2 Thikane",
+      "url": "https://open.spotify.com/track/3FyQy2EPsa7YDJSATCqBWa"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Gaadi Nuye Chalegi",
+        "url": "https://open.spotify.com/album/06vtwe32fMoLMFkyns4UW8"
+      },
+      "artists": [
+        {
+          "name": "R Maan",
+          "url": "https://open.spotify.com/artist/0fNDH2JsW1yPrwIYjyOB5n"
+        },
+        {
+          "name": "Komal Chaudhary",
+          "url": "https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3"
+        }
+      ],
+      "duration_ms": 170869,
+      "name": "Gaadi Nuye Chalegi",
+      "url": "https://open.spotify.com/track/3kSpXJst1L9ahYkLnE15rb"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "On the Way",
+        "url": "https://open.spotify.com/album/39KJPgQ0FsWskTQS3h2UCw"
+      },
+      "artists": [
+        {
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+        },
+        {
+          "name": "KD",
+          "url": "https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "On The Way",
+      "url": "https://open.spotify.com/track/0eXigexcbhLwQXgEtfO8Zv"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Jaat Anthem",
+        "url": "https://open.spotify.com/album/1SlzsALoJIh9X8RQC67ScO"
+      },
+      "artists": [
+        {
+          "name": "D Naveen",
+          "url": "https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb"
+        },
+        {
+          "name": "Kajal Saraswat",
+          "url": "https://open.spotify.com/artist/4lCRPDIGHWbey0EkWI9lF9"
+        },
+        {
+          "name": "Sumit Kajla",
+          "url": "https://open.spotify.com/artist/3Hvf7S9LHmpan3CzIUGaRq"
+        }
+      ],
+      "duration_ms": 153272,
+      "name": "Jaat Anthem",
+      "url": "https://open.spotify.com/track/3XcyzvbdfkXaXyFSEwUfUq"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Declare",
+        "url": "https://open.spotify.com/album/3qIl0JOhAkbLNjoAq9qWew"
+      },
+      "artists": [
+        {
+          "name": "Raj Mawar",
+          "url": "https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf"
+        },
+        {
+          "name": "Komal Choudhary",
+          "url": "https://open.spotify.com/artist/42TuhqUBzIpywk1h4QlUyT"
+        },
+        {
+          "name": "Biru Kataria,Fiza Choudhary",
+          "url": "https://open.spotify.com/artist/5LS1kuFh0mMZLe7t7n75wH"
+        }
+      ],
+      "duration_ms": 197851,
+      "name": "Declare",
+      "url": "https://open.spotify.com/track/3wiHYkijyJp1yqq4qIAQ6I"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/5K5ld5Ff5NGvTLFwYB005q"
+      },
+      "artists": [
+        {
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+        }
+      ],
+      "duration_ms": 198444,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/18jWMucGFV4gEXKcOw6eje"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Haryanvi Swag",
+        "url": "https://open.spotify.com/album/3PslA9S2V2vUDqRJo8z23C"
+      },
+      "artists": [
+        {
+          "name": "Sumit Goswami",
+          "url": "https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM"
+        },
+        {
+          "name": "Jerry",
+          "url": "https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7"
+        },
+        {
+          "name": "Shine",
+          "url": "https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM"
+        }
+      ],
+      "duration_ms": 143086,
+      "name": "Haryanvi Swag",
+      "url": "https://open.spotify.com/track/3pnigHrG7LXFjnH3lbUcTz"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Target",
+        "url": "https://open.spotify.com/album/1c2n4BfMREowVQJ5sr1CmW"
+      },
+      "artists": [
+        {
+          "name": "Mavrix",
+          "url": "https://open.spotify.com/artist/3ivej5P51jgZiJKDNfZd11"
+        }
+      ],
+      "duration_ms": 165365,
+      "name": "Target",
+      "url": "https://open.spotify.com/track/3dMIUgx4oCPjBlOtN8X7Z0"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Don Dada",
+        "url": "https://open.spotify.com/album/5FVvpRqfz1mp3mRnv1zpgh"
+      },
+      "artists": [
+        {
+          "name": "Vinod Sorkhi",
+          "url": "https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV"
+        },
+        {
+          "name": "Ashu Twinkle",
+          "url": "https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Don Dada",
+      "url": "https://open.spotify.com/track/74pqHiISH1jCZcNTJrI5Qe"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
       "album": {
         "name": "Aakhar Baat",
         "url": "https://open.spotify.com/album/0LxwUs1lWQHZY96WsWfXFo"
@@ -749,10 +505,98 @@
       "url": "https://open.spotify.com/track/43fQhX1yu8v42eQKgYKrBN"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
-        "name": "Don Dada",
-        "url": "https://open.spotify.com/album/5FVvpRqfz1mp3mRnv1zpgh"
+        "name": "Mucha Aale Tag",
+        "url": "https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W"
+      },
+      "artists": [
+        {
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+        }
+      ],
+      "duration_ms": 203846,
+      "name": "Mucha Aale Tag",
+      "url": "https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Gunde Te Pyaar",
+        "url": "https://open.spotify.com/album/2M6uGncIcmy5hpjlLqoQos"
+      },
+      "artists": [
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Manisha Sharma",
+          "url": "https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf"
+        },
+        {
+          "name": "Sweta Chauhan",
+          "url": "https://open.spotify.com/artist/4TsNgxbxmdUsKIFtqvzRPa"
+        },
+        {
+          "name": "Zameer Siddiqui",
+          "url": "https://open.spotify.com/artist/0MOHjZdv3gfJbXu4Lt7NL0"
+        }
+      ],
+      "duration_ms": 208909,
+      "name": "Gunde Te Pyaar",
+      "url": "https://open.spotify.com/track/3AaInQgz5j9wLN9PR87pqy"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "No One Knows",
+        "url": "https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs"
+      },
+      "artists": [
+        {
+          "name": "Gulzaar Chhaniwala",
+          "url": "https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Badmash Bateu",
+        "url": "https://open.spotify.com/album/3vDXarnLcnZRmmahYwatq2"
+      },
+      "artists": [
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Ashu Twinkle",
+          "url": "https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob"
+        },
+        {
+          "name": "Fiza Choudhary",
+          "url": "https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB"
+        },
+        {
+          "name": "Kehar Kharkiya",
+          "url": "https://open.spotify.com/artist/0BZEgC6IsnbuFOIOAu802I"
+        }
+      ],
+      "duration_ms": 150583,
+      "name": "Badmash Bateu",
+      "url": "https://open.spotify.com/track/2jnwvcGoSIxuY4xLAnJuzT"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Pistal Te Mehnga Lehnga",
+        "url": "https://open.spotify.com/album/4KGnfHLFoZ7ZlIT7P5Aa29"
       },
       "artists": [
         {
@@ -760,16 +604,20 @@
           "url": "https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV"
         },
         {
-          "name": "Ashu Twinkle",
-          "url": "https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob"
+          "name": "Kay D",
+          "url": "https://open.spotify.com/artist/6e12O63wUHuRVqb0YHV4YG"
+        },
+        {
+          "name": "Anjali Raghav",
+          "url": "https://open.spotify.com/artist/4tnyxnjCVBlkqaefQ6fgbv"
         }
       ],
-      "duration_ms": 168750,
-      "name": "Don Dada",
-      "url": "https://open.spotify.com/track/74pqHiISH1jCZcNTJrI5Qe"
+      "duration_ms": 162787,
+      "name": "Pistal Te Mehnga Lehnga",
+      "url": "https://open.spotify.com/track/3C1uC6FCTvftY4H9nyFEYB"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
         "name": "Hathkadi",
         "url": "https://open.spotify.com/album/46se898ZDUG4m3aRv001y9"
@@ -789,66 +637,30 @@
       "url": "https://open.spotify.com/track/3iaprUf4dr63Iq31S4XeZ7"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
-        "name": "Jaat Anthem",
-        "url": "https://open.spotify.com/album/1SlzsALoJIh9X8RQC67ScO"
+        "name": "Inaam",
+        "url": "https://open.spotify.com/album/5xhWijw7nDOj8OodK0fa1e"
       },
       "artists": [
         {
-          "name": "D Naveen",
-          "url": "https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb"
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
         },
         {
-          "name": "Kajal Saraswat",
-          "url": "https://open.spotify.com/artist/4lCRPDIGHWbey0EkWI9lF9"
-        },
-        {
-          "name": "Sumit Kajla",
-          "url": "https://open.spotify.com/artist/3Hvf7S9LHmpan3CzIUGaRq"
+          "name": "Manisha Sharma",
+          "url": "https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf"
         }
       ],
-      "duration_ms": 153272,
-      "name": "Jaat Anthem",
-      "url": "https://open.spotify.com/track/3XcyzvbdfkXaXyFSEwUfUq"
+      "duration_ms": 184836,
+      "name": "Inaam",
+      "url": "https://open.spotify.com/track/51O38IidoQaQ8XwIoJZ4fw"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/5K5ld5Ff5NGvTLFwYB005q"
-      },
-      "artists": [
-        {
-          "name": "Khasa Aala Chahar",
-          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
-        }
-      ],
-      "duration_ms": 198444,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/18jWMucGFV4gEXKcOw6eje"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "World Famous Haryanvi",
-        "url": "https://open.spotify.com/album/68rxbjQHUE8Hle8y6xsm6Y"
-      },
-      "artists": [
-        {
-          "name": "Ashoka Deswal",
-          "url": "https://open.spotify.com/artist/0fggoEiFOovUAaLHGFOseZ"
-        }
-      ],
-      "duration_ms": 172942,
-      "name": "World Famous Haryanvi",
-      "url": "https://open.spotify.com/track/4I5UULvQZeU6XuSPoC2u3W"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Kah Diye",
-        "url": "https://open.spotify.com/album/0kJS7CuXrnhACry2ULRFhu"
+        "name": "Asla",
+        "url": "https://open.spotify.com/album/6yWbqtrvJssVPu5MKs9cVG"
       },
       "artists": [
         {
@@ -856,16 +668,116 @@
           "url": "https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf"
         },
         {
+          "name": "Raj Mawar",
+          "url": "https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf"
+        },
+        {
+          "name": "Vikrant Mehla",
+          "url": "https://open.spotify.com/artist/6oh6dByxCViHDAuvRBE50H"
+        },
+        {
+          "name": "Khushboo Manhas",
+          "url": "https://open.spotify.com/artist/4AcqEg3wRMVuY32zjQnCVf"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Asla",
+      "url": "https://open.spotify.com/track/39dMWNYC5L8Vi4H7T7y2LZ"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "2 Numbari",
+        "url": "https://open.spotify.com/album/5rf6ySbyNTgoYdhpZzKiRa"
+      },
+      "artists": [
+        {
+          "name": "Sumit Parta",
+          "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
+        },
+        {
+          "name": "Anjali 99",
+          "url": "https://open.spotify.com/artist/4QirDUwZFIIRDP3tL7gB6E"
+        }
+      ],
+      "duration_ms": 212114,
+      "name": "2 Numbari",
+      "url": "https://open.spotify.com/track/44QLCfLlW3WAiyLyQxkVmk"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Aar Paar",
+        "url": "https://open.spotify.com/album/1of1BnD9Wy9Si8ActYR4Sy"
+      },
+      "artists": [
+        {
+          "name": "Veer Sahu",
+          "url": "https://open.spotify.com/artist/6WX30h7AXzPvJdBKxf2i0F"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Aar Paar",
+      "url": "https://open.spotify.com/track/6VwFxZXXIt0fpFqBm8oSZ7"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Jalya Na Karo",
+        "url": "https://open.spotify.com/album/2tFI8HNfDtsfses9rm7jQP"
+      },
+      "artists": [
+        {
           "name": "Bintu Pabra",
           "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
         }
       ],
-      "duration_ms": 159529,
-      "name": "Kah Diye",
-      "url": "https://open.spotify.com/track/1DX4Pj3IGtk7LvcVPC6Eoo"
+      "duration_ms": 222439,
+      "name": "Jalya Na Karo",
+      "url": "https://open.spotify.com/track/2ja8pqhYArF0DmH3JmrCRV"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Badmashan Ka Gaam",
+        "url": "https://open.spotify.com/album/6LND3ww5b7PjfvcOzXl7xv"
+      },
+      "artists": [
+        {
+          "name": "Dikshit Parasher",
+          "url": "https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5"
+        },
+        {
+          "name": "Fiza Choudhary",
+          "url": "https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB"
+        }
+      ],
+      "duration_ms": 144600,
+      "name": "Badmashan Ka Gaam",
+      "url": "https://open.spotify.com/track/4iPqNt6wKhJUJXD5qm9bQu"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Farraar",
+        "url": "https://open.spotify.com/album/160URWYJYPC9W5VDj25Hoc"
+      },
+      "artists": [
+        {
+          "name": "Addy B",
+          "url": "https://open.spotify.com/artist/2AbdUtRz66AR1qNWEDnKhD"
+        },
+        {
+          "name": "Ashu Twinkle",
+          "url": "https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob"
+        }
+      ],
+      "duration_ms": 210767,
+      "name": "Farraar",
+      "url": "https://open.spotify.com/track/6PohXw5DibZpkgPxd7dwwD"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
       "album": {
         "name": "Sahar",
         "url": "https://open.spotify.com/album/2V7V19UVGoBg3HmK60okzW"
@@ -889,23 +801,7 @@
       "url": "https://open.spotify.com/track/4rsvmuIlLe5b2avBh2mELM"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Gaadi Desiyan Ki",
-        "url": "https://open.spotify.com/album/2pq8qaJMYuQI7VJqqHP7hD"
-      },
-      "artists": [
-        {
-          "name": "Bintu Pabra",
-          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Gaadi Desiyan Ki",
-      "url": "https://open.spotify.com/track/1bi3ume3cSnvQssluzdLG8"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
         "name": "Jigra",
         "url": "https://open.spotify.com/album/3Pc84tRg4Y6XNlGsAEZf5n"
@@ -925,151 +821,95 @@
       "url": "https://open.spotify.com/track/6h3ILDHEDee8YlsZhfMIjB"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
-        "name": "Declare",
-        "url": "https://open.spotify.com/album/3qIl0JOhAkbLNjoAq9qWew"
+        "name": "Mein Banda Thik Nahi (feat. Kanishka Sharma,Amit Attri)",
+        "url": "https://open.spotify.com/album/2OeJGiIeWIQRV7SF7d6G3b"
       },
       "artists": [
         {
-          "name": "Raj Mawar",
-          "url": "https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf"
+          "name": "Suraj Khatak",
+          "url": "https://open.spotify.com/artist/1so9s8g20D1TUg0YHIFZzA"
         },
         {
-          "name": "Komal Choudhary",
-          "url": "https://open.spotify.com/artist/42TuhqUBzIpywk1h4QlUyT"
-        },
-        {
-          "name": "Biru Kataria,Fiza Choudhary",
-          "url": "https://open.spotify.com/artist/5LS1kuFh0mMZLe7t7n75wH"
+          "name": "Amit Saini Rohtakiya",
+          "url": "https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b"
         }
       ],
-      "duration_ms": 197851,
-      "name": "Declare",
-      "url": "https://open.spotify.com/track/3wiHYkijyJp1yqq4qIAQ6I"
+      "duration_ms": 159135,
+      "name": "Mein Banda Thik Nahi (feat. Kanishka Sharma,Amit Attri)",
+      "url": "https://open.spotify.com/track/3YPp5F4PvyBd1nEuEoifcH"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
-        "name": "Lala Lori",
-        "url": "https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy"
+        "name": "Pataka",
+        "url": "https://open.spotify.com/album/1RHx6SdPqgoYkmpiOqV29P"
       },
       "artists": [
         {
-          "name": "Fazilpuria",
-          "url": "https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX"
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
         },
         {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        },
-        {
-          "name": "Afsana Khan",
-          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+          "name": "Candy Sheoran",
+          "url": "https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Lala Lori",
-      "url": "https://open.spotify.com/track/7r48j4khJzIT2uqcIU33ax"
+      "duration_ms": 204000,
+      "name": "Pataka",
+      "url": "https://open.spotify.com/track/23jHzNShbAaRsuEmQJN5hE"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
-        "name": "Desi Katta",
-        "url": "https://open.spotify.com/album/093STonA4bpAjQyzWt4WgR"
+        "name": "Wheel Feel (Feat. Pranjal Dahiya)",
+        "url": "https://open.spotify.com/album/7xESf5ZybX0vVQMZoih7qB"
       },
       "artists": [
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        },
+        {
+          "name": "Pranjal Dahiya",
+          "url": "https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me"
+        }
+      ],
+      "duration_ms": 143888,
+      "name": "Wheel Feel (Feat. Pranjal Dahiya)",
+      "url": "https://open.spotify.com/track/6gAgB2lfRXYywp9ixvOrOJ"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Permit Badmashi Ka",
+        "url": "https://open.spotify.com/album/41xz0NFiekwYRNgAeLibQM"
+      },
+      "artists": [
+        {
+          "name": "RK Crew",
+          "url": "https://open.spotify.com/artist/5F6yXom1OtJEXonwTvHsaw"
+        },
         {
           "name": "Mohit Sharma",
           "url": "https://open.spotify.com/artist/6Nzqi199UwJFiHQ6Rgc3j1"
         },
         {
-          "name": "Ved Dhanania",
-          "url": "https://open.spotify.com/artist/6qZ5dlvCpcLQeiizBkyIGA"
-        },
-        {
-          "name": "Sweta Chauhan",
-          "url": "https://open.spotify.com/artist/7c4ZmsnxBHkspjgZeWpeFP"
-        },
-        {
-          "name": "R K Crew",
-          "url": "https://open.spotify.com/artist/6QQcSyntyILnDWvSZmnoVT"
+          "name": "Aashu Twinkle",
+          "url": "https://open.spotify.com/artist/4FRJTLxHjNzFyPBzAAsNhQ"
         }
       ],
-      "duration_ms": 172682,
-      "name": "Desi Katta",
-      "url": "https://open.spotify.com/track/48iAFIz2vYMJH8eqAyctJW"
+      "duration_ms": 164854,
+      "name": "Permit Badmashi Ka",
+      "url": "https://open.spotify.com/track/4LNFYpktI8O0y9H20Bh5xU"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Yaar Badmash",
-        "url": "https://open.spotify.com/album/6DuHB7XdpvrHK11Ry4ffe4"
-      },
-      "artists": [
-        {
-          "name": "Amanraj Gill",
-          "url": "https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs"
-        }
-      ],
-      "duration_ms": 190682,
-      "name": "Yaar Badmash",
-      "url": "https://open.spotify.com/track/6vQYsw6Nfh3eI7CsrVz8A1"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Haryana Hood",
-        "url": "https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj"
-      },
-      "artists": [
-        {
-          "name": "Irshad Khan",
-          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "Haryana Hood",
-      "url": "https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Badmashan Ka Gaam",
-        "url": "https://open.spotify.com/album/6LND3ww5b7PjfvcOzXl7xv"
-      },
-      "artists": [
-        {
-          "name": "Dikshit Parasher",
-          "url": "https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5"
-        },
-        {
-          "name": "Fiza Choudhary",
-          "url": "https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB"
-        }
-      ],
-      "duration_ms": 144600,
-      "name": "Badmashan Ka Gaam",
-      "url": "https://open.spotify.com/track/4iPqNt6wKhJUJXD5qm9bQu"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Aar Paar",
-        "url": "https://open.spotify.com/album/1of1BnD9Wy9Si8ActYR4Sy"
-      },
-      "artists": [
-        {
-          "name": "Veer Sahu",
-          "url": "https://open.spotify.com/artist/6WX30h7AXzPvJdBKxf2i0F"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Aar Paar",
-      "url": "https://open.spotify.com/track/6VwFxZXXIt0fpFqBm8oSZ7"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
         "name": "Chora Gaam Ka",
         "url": "https://open.spotify.com/album/6V3Qpx4kXCSnTnm4X47xrR"
@@ -1085,144 +925,124 @@
       "url": "https://open.spotify.com/track/0zcGWOUvePGVGRjxQ0FC7h"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
-        "name": "Haryanvi Swag",
-        "url": "https://open.spotify.com/album/3PslA9S2V2vUDqRJo8z23C"
+        "name": "Banda 2 Numbri",
+        "url": "https://open.spotify.com/album/7dkaPHQKE9BrttpGDcGkQr"
       },
       "artists": [
         {
-          "name": "Sumit Goswami",
-          "url": "https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM"
+          "name": "Raj Mawer",
+          "url": "https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2"
         },
         {
-          "name": "Jerry",
-          "url": "https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7"
+          "name": "Fiza Choudhary",
+          "url": "https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB"
         },
         {
-          "name": "Shine",
-          "url": "https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM"
+          "name": "R K Crew",
+          "url": "https://open.spotify.com/artist/6QQcSyntyILnDWvSZmnoVT"
         }
       ],
-      "duration_ms": 143086,
-      "name": "Haryanvi Swag",
-      "url": "https://open.spotify.com/track/3pnigHrG7LXFjnH3lbUcTz"
+      "duration_ms": 169740,
+      "name": "Banda 2 Numbri",
+      "url": "https://open.spotify.com/track/0U1QaF0SEwqSugoqMrOu1k"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
-        "name": "No One Knows",
-        "url": "https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs"
+        "name": "Gym De Shokeen",
+        "url": "https://open.spotify.com/album/4NXiyOVXNQ6HwGBpNGDF8b"
       },
       "artists": [
         {
-          "name": "Gulzaar Chhaniwala",
-          "url": "https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo"
+          "name": "Bhallwaan",
+          "url": "https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG"
         }
       ],
-      "duration_ms": 192000,
-      "name": "No One Knows",
-      "url": "https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR"
+      "duration_ms": 225158,
+      "name": "Gym De Shokeen",
+      "url": "https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
-        "name": "Salute",
-        "url": "https://open.spotify.com/album/2jIIGk955mGc9fMIDuBa7I"
+        "name": "Convoy",
+        "url": "https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg"
       },
       "artists": [
         {
-          "name": "Amit Saini Rohtakiya",
-          "url": "https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Salute",
-      "url": "https://open.spotify.com/track/6kk3T6M88cunWGspzNqlVr"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Gunda Tera Yaar",
-        "url": "https://open.spotify.com/album/2Q0hMm4quCqIkJdtF8eW61"
-      },
-      "artists": [
-        {
-          "name": "Dikshit Parasher",
-          "url": "https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5"
-        }
-      ],
-      "duration_ms": 158313,
-      "name": "Gunda Tera Yaar",
-      "url": "https://open.spotify.com/track/6LUcNhzw90fgkNfGIng6Y8"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Dole Laadle",
-        "url": "https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq"
-      },
-      "artists": [
-        {
-          "name": "Gulzaar Chhaniwala",
-          "url": "https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo"
-        }
-      ],
-      "duration_ms": 181194,
-      "name": "Dole Laadle",
-      "url": "https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS"
-    },
-    {
-      "added_at": "2023-10-20 12:24:57",
-      "album": {
-        "name": "Farraar",
-        "url": "https://open.spotify.com/album/160URWYJYPC9W5VDj25Hoc"
-      },
-      "artists": [
-        {
-          "name": "Addy B",
-          "url": "https://open.spotify.com/artist/2AbdUtRz66AR1qNWEDnKhD"
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
         },
         {
-          "name": "Ashu Twinkle",
-          "url": "https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob"
+          "name": "KD DESIROCK",
+          "url": "https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0"
         }
       ],
-      "duration_ms": 210767,
-      "name": "Farraar",
-      "url": "https://open.spotify.com/track/6PohXw5DibZpkgPxd7dwwD"
+      "duration_ms": 275000,
+      "name": "Convoy",
+      "url": "https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
-        "name": "Raosahab",
-        "url": "https://open.spotify.com/album/64V6bH51CIBl9GLaxipZHK"
+        "name": "Fitness - Single",
+        "url": "https://open.spotify.com/album/6tJpPIreOaW2MNeo3zwq0U"
       },
       "artists": [
         {
-          "name": "Fazilpuria",
-          "url": "https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX"
+          "name": "Gagan Haryanvi",
+          "url": "https://open.spotify.com/artist/4ytVJDy173fPLx97Ww84JW"
+        },
+        {
+          "name": "Manisha Sharma",
+          "url": "https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf"
         }
       ],
-      "duration_ms": 172839,
-      "name": "Raosahab",
-      "url": "https://open.spotify.com/track/1OkSGjNN37znjSZd7LwrzB"
+      "duration_ms": 240024,
+      "name": "Fitness",
+      "url": "https://open.spotify.com/track/1HzObZPrlMd5qZuTVm2VND"
     },
     {
-      "added_at": "2023-10-20 12:24:57",
+      "added_at": "2023-11-09 10:13:39",
       "album": {
-        "name": "This is Haryana",
-        "url": "https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH"
+        "name": "Yaari",
+        "url": "https://open.spotify.com/album/4PZ0HxYICGGRROf4mM8UlN"
       },
       "artists": [
         {
-          "name": "Badal",
-          "url": "https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp"
+          "name": "MD DesiRockstar",
+          "url": "https://open.spotify.com/artist/5j28WuraZ1QL8A3IXruKU0"
+        },
+        {
+          "name": "Bunny Beats",
+          "url": "https://open.spotify.com/artist/16FYhIBIBDW43AIviL9T4A"
         }
       ],
-      "duration_ms": 208563,
-      "name": "This is Haryana",
-      "url": "https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd"
+      "duration_ms": 149128,
+      "name": "Yaari",
+      "url": "https://open.spotify.com/track/1GgE8OLZdV6X8vemSbGc0B"
+    },
+    {
+      "added_at": "2023-11-09 10:13:39",
+      "album": {
+        "name": "Chora Baba Ka",
+        "url": "https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS"
+      },
+      "artists": [
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        },
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "duration_ms": 175624,
+      "name": "Chora Baba Ka",
+      "url": "https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf"
     }
   ],
   "unique_name": "Haryanvi Workout",

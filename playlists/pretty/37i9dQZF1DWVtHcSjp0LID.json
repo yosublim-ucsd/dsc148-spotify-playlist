@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 63996,
+  "num_followers": 64051,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTFlOGY3OTg2ZjJiNjk1MTEyOTM3NzY2ZTQ3N2FmNDQwMjQ4ZDUy",
+  "snapshot_id": "MCxmZDM0ZGEyMjgwZGU3OTUwMGQ2NDYzMzU1MTY0YTg5ZDU3MDczNmQ2",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Years On Years (Remixes)",
+        "url": "https://open.spotify.com/album/2Mb92lfeM1wG0qB8NK69Jy"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "duration_ms": 123674,
+      "name": "Years On Years",
+      "url": "https://open.spotify.com/track/7jp4qGkFD3kSMekSTC8pTL"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Between Dreams and Reality EP",
         "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 528410,
       "name": "Between Dreams and Reality - Niko Schwind Remix",
       "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Years On Years (Remixes)",
-        "url": "https://open.spotify.com/album/2Mb92lfeM1wG0qB8NK69Jy"
-      },
-      "artists": [
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
-        }
-      ],
-      "duration_ms": 123674,
-      "name": "Years On Years",
-      "url": "https://open.spotify.com/track/7jp4qGkFD3kSMekSTC8pTL"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -863,22 +863,18 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "In Another Lifetime",
-        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
+        "name": "Nina Kraviz",
+        "url": "https://open.spotify.com/album/4obvGroj4Sg4PbuLfdhFSo"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Roos Jonker",
-          "url": "https://open.spotify.com/artist/7zKcaqZKaQv5O6oZYBoFBf"
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
         }
       ],
-      "duration_ms": 303734,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/4yAGUSWR2xzOEV0SLgBWZX"
+      "duration_ms": 224800,
+      "name": "Ghetto Kraviz",
+      "url": "https://open.spotify.com/track/1vYUnLz9DfpJCnGB77UFFJ"
     }
   ],
   "unique_name": "Deep Study",

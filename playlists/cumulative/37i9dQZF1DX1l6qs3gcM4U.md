@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Dj Black Spygo, Djodje and Chelsea Dinorath.
+> Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros.
 
-329 songs - 19 hr 45 min
+332 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Beijam](https://open.spotify.com/track/7CIWnLmuWHKIc3f5IoR8wD) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Beijam](https://open.spotify.com/album/0FqokGojULcFWTeeE1fVuU) | 3:50 | 2022-01-14 | 2022-07-02 |
 | [Beijei](https://open.spotify.com/track/2vZmLR6tlYvTv8UJOtLijZ) | [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Itary](https://open.spotify.com/artist/73JleuMWIuH1oUwF1bpd3w) | [Conexões Angola & Brasil](https://open.spotify.com/album/3DdYxPf8B8tsWQTDWuzrr2) | 3:41 | 2021-12-10 | 2022-06-01 |
 | [Bela](https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Bela](https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA) | 3:58 | 2021-12-10 |  |
-| [Belissima](https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP) | [Charbel](https://open.spotify.com/artist/0vqtKHzprbtQCJOGCIOA6B) | [Apaxonado](https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb) | 4:51 | 2021-12-10 |  |
+| [Belissima](https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP) | [Charbel](https://open.spotify.com/artist/0vqtKHzprbtQCJOGCIOA6B) | [Apaxonado](https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb) | 4:51 | 2021-12-10 | 2023-11-10 |
+| [Bem Li](https://open.spotify.com/track/2DidJYeb38gHwFIT3B0UXy) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Bem Li](https://open.spotify.com/album/0O6l4KIuMLNziHEqrTplRf) | 3:35 | 2023-11-10 |  |
 | [Benka Benka](https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU) | [Benka Benka](https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy) | 3:00 | 2023-04-06 |  |
 | [Bet on yourself](https://open.spotify.com/track/0Olq5WLGSxtYR6nGiIjOaU) | [Kasno](https://open.spotify.com/artist/1ukTxtURiUr8T0MhVJAxeB) | [Bet on yourself](https://open.spotify.com/album/4KIUJShFpdopaMTgIxMbuI) | 2:56 | 2022-04-22 | 2022-04-25 |
 | [Bet on yourself \- Remix](https://open.spotify.com/track/3ABmOg3mNqEysRnkfibTOL) | [Kasno](https://open.spotify.com/artist/1ukTxtURiUr8T0MhVJAxeB) | [Bet on yourself \(Remix\)](https://open.spotify.com/album/4vBuMB8H9Uzw1ZJIKMTwrv) | 2:55 | 2022-05-13 | 2022-05-26 |
@@ -84,7 +85,7 @@
 | [Demónio da Tarraxinha](https://open.spotify.com/track/1lynGSW6MMqxWXNXJIXPSu) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Kizomba Mix 6 – Summer 2017](https://open.spotify.com/album/3t5T4skcGp873n7Uh8VlBO) | 3:37 | 2021-12-10 | 2022-07-27 |
 | [Demónio da Tarraxinha](https://open.spotify.com/track/2qNtAzgJYODcFPDskUAzE0) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Demónio da Tarraxinha](https://open.spotify.com/album/7BGYpyDY0a1pzAW6bqlTTh) | 3:37 | 2022-07-22 | 2023-02-17 |
 | [Denovo](https://open.spotify.com/track/5l9cTH23rPclDoUFHWHil4) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Denovo](https://open.spotify.com/album/2NC5jxFBw14223590xEJ50) | 2:42 | 2023-06-08 | 2023-07-01 |
-| [Desculpa](https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H) | 3:32 | 2022-07-22 |  |
+| [Desculpa](https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H) | 3:32 | 2022-07-22 | 2023-11-10 |
 | [Desculpa](https://open.spotify.com/track/7smOsCISsw5wc4UHBfq2Tb) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/3TWn2CcXySUwuQCnPLFQXH) | 3:34 | 2021-12-10 | 2022-07-29 |
 | [Desculpa](https://open.spotify.com/track/5cw7KhORjRNFEP5Yyfs98O) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Novelas](https://open.spotify.com/album/4SgROO0cwGappbjyiztgHZ) | 3:42 | 2021-12-10 | 2022-07-28 |
 | [Deusa do Amor](https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Anderson Mario](https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh), [Button](https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL) | [Deusa do Amor](https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS) | 4:39 | 2021-12-10 |  |
@@ -232,6 +233,7 @@
 | [Pipocar](https://open.spotify.com/track/1VJUgim9zAG0Af0OPUCMCw) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf) | [Pipocar](https://open.spotify.com/album/7wWvVunO3Rmj6VwLv2mexq) | 3:02 | 2022-01-21 | 2022-04-08 |
 | [Planos](https://open.spotify.com/track/39RaXavHae4m2ltDym9lIM) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Luna](https://open.spotify.com/album/2XInamj0wqhtNHSV0uXTkK) | 3:28 | 2021-12-10 | 2022-07-21 |
 | [Plena](https://open.spotify.com/track/5DbCRhNJEROHB1VlMaVMsU) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Plena](https://open.spotify.com/album/3sm5aFmxL0Wle47WKnjeQk) | 3:37 | 2021-12-10 | 2022-07-29 |
+| [Podem Até Tentar](https://open.spotify.com/track/4kceEw4hLkTDCUZkt8Dv49) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Podem Até Tentar](https://open.spotify.com/album/5cJgnQcq4EAQRcSRWPZFZC) | 3:01 | 2023-11-10 |  |
 | [Ponto Fraco](https://open.spotify.com/track/3rVRiXccJGkY2LnO4JbjIx) | [Veré](https://open.spotify.com/artist/22ETMn3YclHsYBIh4iKuQp) | [Ponto Fraco](https://open.spotify.com/album/4BLNPhgHzxIWpbKNlJn68y) | 3:04 | 2023-01-04 | 2023-06-23 |
 | [Porque Te Amo](https://open.spotify.com/track/5eFlivXOQh4Yq9Df0t6GX1) | [Tó Semedo](https://open.spotify.com/artist/7hZz6sSgoppxbAW4lTjopa), [Boss AC](https://open.spotify.com/artist/2AiLSd9HXwfFwO9g00s2hk) | [Kizomba Mega Hits, Vol\. 3](https://open.spotify.com/album/5GLvwNHDE2cFAe9fOFtTUj) | 4:35 | 2022-03-25 | 2022-04-20 |
 | [Pra Cuiar Mais \(feat\. C4 Pedro\)](https://open.spotify.com/track/2j1UBahUo1bbMu6rHC5GnE) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Pra Cuiar Mais \(feat\. C4 Pedro\)](https://open.spotify.com/album/33mLkg2hwReuXtySTfmijQ) | 3:48 | 2021-12-10 | 2022-02-03 |
@@ -242,11 +244,12 @@
 | [Puro](https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Puro](https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi) | 4:23 | 2021-12-10 |  |
 | [Quarentena](https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Quarentena](https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB) | 3:38 | 2021-12-10 |  |
 | [Quem É ?](https://open.spotify.com/track/0SY4UXTIPkVlyGWFJhKMcY) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Quem É ?](https://open.spotify.com/album/0WYtQwKFvonkmJG6z32Ebj) | 3:19 | 2021-12-10 | 2022-10-21 |
+| [Queres ou não queres?](https://open.spotify.com/track/2FQzy6dhqQH4u5CSDMgQmI) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Queres ou não queres?](https://open.spotify.com/album/3p4b4XsYmD6WHCBcl80h2c) | 2:33 | 2023-11-10 |  |
 | [Quero Mais](https://open.spotify.com/track/3zaEXNek7bbObqAV7RibL0) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Retrato](https://open.spotify.com/album/0Y8BgyJOGJysXefDgdvsOr) | 3:36 | 2023-04-13 | 2023-05-19 |
 | [Quero Mais Love \(feat\. Stonebwoy\)](https://open.spotify.com/track/5gM4UYTTTcVyg7KsPAbyGR) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Quero Mais Love \(feat\. Stonebwoy\)](https://open.spotify.com/album/59c0K1jO386j2UlHJLNklt) | 3:26 | 2022-03-25 | 2022-04-21 |
 | [Rainha](https://open.spotify.com/track/3y8Un4QcNTLwAIIgOroXzf) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Elji Beatzkilla](https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ) | [Visão](https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d) | 3:55 | 2022-01-14 | 2023-03-28 |
 | [Raízes](https://open.spotify.com/track/39xIzMG0hjgFBtueCUy9Jo) | [Bonifácio Aurio](https://open.spotify.com/artist/7kQhpoev6cS1UlSpx9Dl5f) | [Raízes](https://open.spotify.com/album/5g8l7OT24r6iRHCQHjCgQk) | 3:20 | 2022-07-22 | 2022-07-26 |
-| [Reagi](https://open.spotify.com/track/28TKKqjvFEzjdySF7xqLr9) | [Elsy](https://open.spotify.com/artist/0MQ5pkCrgpk3D9efPa4vSu) | [Reagi](https://open.spotify.com/album/5H2uPj4d6xWVUDZvrqFPtr) | 3:38 | 2022-02-18 |  |
+| [Reagi](https://open.spotify.com/track/28TKKqjvFEzjdySF7xqLr9) | [Elsy](https://open.spotify.com/artist/0MQ5pkCrgpk3D9efPa4vSu) | [Reagi](https://open.spotify.com/album/5H2uPj4d6xWVUDZvrqFPtr) | 3:38 | 2022-02-18 | 2023-11-10 |
 | [Refúgio](https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Jordânia](https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod) | [Refúgio](https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa) | 3:57 | 2022-10-20 |  |
 | [Relembrar](https://open.spotify.com/track/0o7Kjfy8W0ZPF3Og9n2KDr) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Relembrar](https://open.spotify.com/album/2NKAElMUB6gX0c1tb1AcXl) | 3:35 | 2022-03-25 | 2022-04-20 |
 | [Relembrar](https://open.spotify.com/track/3mSoUFYdwjP2j8HaPBi0Pl) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Relembrar](https://open.spotify.com/album/1Ifgreb619PBJjtvuU75QW) | 3:35 | 2022-04-08 | 2022-06-14 |

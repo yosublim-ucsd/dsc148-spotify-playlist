@@ -4,7 +4,7 @@
 
 > Blues favorites released in 2020\. Cover: Shemekia Copeland
 
-69 songs - 4 hr 32 min
+70 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [Clotilda's On Fire](https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:26 | 2020-12-08 |  |
 | [Down in Mississippi](https://open.spotify.com/track/3GC6jhvSskDuRpL9XZ4bdJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Rawer Than Raw](https://open.spotify.com/album/0Ar6NKv30rwDh3mhZha61I) | 3:23 | 2020-12-08 |  |
 | [Empty Promises](https://open.spotify.com/track/6rOZxWF4YfO7g0gCMqQlxL) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Empty Promises](https://open.spotify.com/album/3oyjUbSmgbHHhVVGPrAhFM) | 5:36 | 2020-12-08 |  |
+| [Five Dollars](https://open.spotify.com/track/17p9oO7chYLCkhddVgBRSa) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Five Dollars](https://open.spotify.com/album/2PemlzHYC7SUWk8HOus1jv) | 3:08 | 2020-12-08 |  |
 | [Five Dollars](https://open.spotify.com/track/3pDYH1sM23pIPU9JIqiTjT) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Five Dollars](https://open.spotify.com/album/6KZis8q01lE8XU6XzravkP) | 3:08 | 2020-12-08 | 2022-07-29 |
-| [Five Dollars](https://open.spotify.com/track/4m0zS8ogujtTiLcAwCmHFT) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Five Dollars](https://open.spotify.com/album/6qjPSLr8oJHocV9Mt6Ax0m) | 3:08 | 2020-12-08 |  |
+| [Five Dollars](https://open.spotify.com/track/4m0zS8ogujtTiLcAwCmHFT) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Five Dollars](https://open.spotify.com/album/6qjPSLr8oJHocV9Mt6Ax0m) | 3:08 | 2020-12-08 | 2023-11-10 |
 | [Four Day Creep](https://open.spotify.com/track/0JkMHl0tosKetQJDOtMcMo) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO), [Rob Arthur](https://open.spotify.com/artist/3U0Eyg2S4rEutYDRARLkf6), [Mike Farris](https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o) | [Four Day Creep](https://open.spotify.com/album/5KNFiQN9FC14mpAhfqhIMe) | 3:21 | 2020-12-08 |  |
 | [Get Gone](https://open.spotify.com/track/0adTUwT73q2Y5yfzGN5Aln) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Get Gone](https://open.spotify.com/album/325vaJdKjifkkSISjTx03x) | 3:05 | 2020-12-08 | 2022-07-29 |
 | [Get Gone](https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:05 | 2020-12-08 |  |

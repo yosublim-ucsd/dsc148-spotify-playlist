@@ -3521,6 +3521,24 @@
     },
     {
       "album": {
+        "name": "Calla",
+        "url": "https://open.spotify.com/album/5JW6kKPUEf6vLLNoC6jg8z"
+      },
+      "artists": [
+        {
+          "name": "NTsKi",
+          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249748,
+      "name": "Field of Flowers",
+      "url": "https://open.spotify.com/track/1KAEFpUZkkGQKvhFTTen4p"
+    },
+    {
+      "album": {
         "name": "Indoor Newtown Collective",
         "url": "https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq"
       },
@@ -4103,6 +4121,24 @@
     },
     {
       "album": {
+        "name": "GO!!!",
+        "url": "https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204240,
+      "name": "GO!!!",
+      "url": "https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA"
+    },
+    {
+      "album": {
         "name": "bonobos LAST LIVE \u300cbonobos.jp\u300d 2023/3/5 \u65e5\u6bd4\u8c37\u91ce\u5916\u97f3\u697d\u5802",
         "url": "https://open.spotify.com/album/6vbbUemxyZ9bkrAa0ANP8n"
       },
@@ -4582,7 +4618,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 221728,
       "name": "honomekashi",
       "url": "https://open.spotify.com/track/0OymTpnvzQNQ4EpHs7gZrg"
@@ -6621,6 +6657,28 @@
     },
     {
       "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/5fGzmzXGotTcvWXyyBFdGL"
+      },
+      "artists": [
+        {
+          "name": "Kenta Dedachi",
+          "url": "https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx"
+        },
+        {
+          "name": "Ryu Matsuyama",
+          "url": "https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216530,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/0XBGL9PRTWoJKH7YSI3kRE"
+    },
+    {
+      "album": {
         "name": "MOONRAKER",
         "url": "https://open.spotify.com/album/0wEbthaJbMzqMJ02LipHXN"
       },
@@ -7246,7 +7304,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 208099,
       "name": "non zero sum game",
       "url": "https://open.spotify.com/track/2nzTMqhvjVKJQxEd5Y4Ly9"
@@ -7570,6 +7628,24 @@
       "duration_ms": 160423,
       "name": "Owaranaimama",
       "url": "https://open.spotify.com/track/5o5r7X8Z4CJBpAgK4snpcS"
+    },
+    {
+      "album": {
+        "name": "Pacific",
+        "url": "https://open.spotify.com/album/14Khbe4IHCnaifGqG9rjSN"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u7530\u4fee\u77e2",
+          "url": "https://open.spotify.com/artist/3Ar5wNNrU2GDrAA35R08WK"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198289,
+      "name": "Pacific",
+      "url": "https://open.spotify.com/track/4J3lBZe7wVtWh9g5JOY5Wh"
     },
     {
       "album": {
@@ -9930,7 +10006,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 242135,
       "name": "Super Loud",
       "url": "https://open.spotify.com/track/7Btt53bVQzP6LWm1bD7NLi"
@@ -12474,7 +12550,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 224250,
       "name": "\u304a\u3059\u3057",
       "url": "https://open.spotify.com/track/432b1BqmBhTu0YcQtZu3k0"
@@ -13058,7 +13134,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 205068,
       "name": "\u306e\u3089\u308a\u3064\u3089\u308a",
       "url": "https://open.spotify.com/track/5dLM5ldUXKicvwLz3b1CdV"
@@ -13704,6 +13780,24 @@
       "duration_ms": 150903,
       "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30ad\u30c3\u30d7\u30b9\u30ad\u30c3\u30d7\u30b9\u30ad\u30c3\u30d7 -Live Ver.-",
+        "url": "https://open.spotify.com/album/77baDjzneBGcx07VV97ZLQ"
+      },
+      "artists": [
+        {
+          "name": "Merlion",
+          "url": "https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201514,
+      "name": "\u30b9\u30ad\u30c3\u30d7\u30b9\u30ad\u30c3\u30d7\u30b9\u30ad\u30c3\u30d7 -Live Ver.-",
+      "url": "https://open.spotify.com/track/2tv2TcoiYMEgIHnDUDrNON"
     },
     {
       "album": {

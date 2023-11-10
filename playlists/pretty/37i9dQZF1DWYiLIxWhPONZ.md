@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiLIxWhPONZ.md) - [plain]
 
 > Featuring LIT killah, Bad Bunny, Tego Calderón & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,909 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,912 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiLIxWhPONZ.md) - [plain]
 | 18 | [LENTITO](https://open.spotify.com/track/4RMKNv1Bl3koY4Kys0G8Rb) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [LENTITO](https://open.spotify.com/album/4wIh0endOPhEFLXLVYQCR3) | 3:23 |
 | 19 | [The Club](https://open.spotify.com/track/6PlSs5hJFTujS9yMJuF7Ty) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Jon Phlox](https://open.spotify.com/artist/7E556Tw7pnOZl22UklMZYW) | [The Club](https://open.spotify.com/album/6Vic2QsA1mGgnl0oPB5klW) | 2:26 |
 | 20 | [PPP \- Remix](https://open.spotify.com/track/3jOn1ZdPldABfKQY4JBhov) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [DJ Maff](https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu) | [PPP \(Remix\)](https://open.spotify.com/album/1JGPQ2JRFR3zsWYXj6A4sC) | 3:34 |
-| 21 | [A los Dos](https://open.spotify.com/track/7HdvPTGj3I6DfnobSkQybR) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d) | [Reggaeton Romantico Vol 1](https://open.spotify.com/album/6tT4rOPYC3adYrCmBWOXy6) | 2:52 |
+| 21 | [A los Dos](https://open.spotify.com/track/7HdvPTGj3I6DfnobSkQybR) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d), [El Mini](https://open.spotify.com/artist/4I5bs1BXz3JsItL4pze2GN) | [Reggaeton Romantico Vol 1](https://open.spotify.com/album/6tT4rOPYC3adYrCmBWOXy6) | 2:52 |
 | 22 | [LUV](https://open.spotify.com/track/6YTVspd6HFgR7B2veOvMhT) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:04 |
 | 23 | [Tu Sicaria](https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Beauty Brain](https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR) | [Tu Sicaria](https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR) | 2:27 |
 | 24 | [Mariposa](https://open.spotify.com/track/6I07cCR5AwBnVRmFRhJHGL) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Mariposa](https://open.spotify.com/album/64aNLTvoDd51YloSSJQZ78) | 2:59 |
 | 25 | [Barre con el Pelo \(feat\. Dj Blass\)](https://open.spotify.com/track/0VBbbLKnpayQeBKZdYamhi) | [Tomasa del Real](https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD), [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Bellaca del Año](https://open.spotify.com/album/5PQkVo8VxFjapE73WjI16a) | 3:18 |
 
-Snapshot ID: `MCw1NDJjMzg4ZWI5YzBhMjRmOTYyODg4ODk5YWIwZDdiNzkzNjczZjE2`
+Snapshot ID: `MCwyMzVmNDdiNzVmY2YxMDM5NDA5MjFmN2Y2M2M1MGZhZWRlNGVhNGRl`

@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:29wlT5isBRIOp8YZYVAZ0A">Joshua Luke Smith</a>
 
-434 songs - 1 day 2 hr 0 min
+435 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Fullness Of God](https://open.spotify.com/track/5ZWiFwZRtPpfLMmtQi4gTa) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [Fullness Of God](https://open.spotify.com/album/37VB0ayKCxqmAZxuTAATBc) | 7:51 | 2020-12-18 | 2023-02-19 |
 | [Garden](https://open.spotify.com/track/18RAcbwi6NAeHbeFaufyAE) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Garden](https://open.spotify.com/album/4JjEdlwyFfpEhD7U4qupC1) | 3:16 | 2020-12-18 | 2023-02-19 |
 | [Garment](https://open.spotify.com/track/7dVzebREEslE4UTztbvosL) | [Mirours](https://open.spotify.com/artist/75LCOigw8mFKzvhjpHv2jT) | [Garment](https://open.spotify.com/album/5D6QTb7tfabsIrVBZ8DuhC) | 4:44 | 2020-12-18 | 2022-07-27 |
+| [Get Out The Way](https://open.spotify.com/track/1YVt8oina9APslIHQjIjOI) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Get Out The Way](https://open.spotify.com/album/5tu0jIj10M3NQ5aUVRBpeo) | 1:55 | 2023-11-03 |  |
 | [Ghost of a King // Summer Sessions](https://open.spotify.com/track/0Iv7KAC1XQqEj69CQxcSRS) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Ghost of a King // Summer Sessions](https://open.spotify.com/album/4hhMQ42AlCPWq2QxXAgMMh) | 3:48 | 2023-02-24 | 2023-09-12 |
 | [Give Me You](https://open.spotify.com/track/77IonObfdmAlX3XZpZ4QT8) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Give Me You](https://open.spotify.com/album/7h5Mx3kdhRqbIqHJdYQzGb) | 4:41 | 2023-11-03 |  |
 | [GOD DON'T LIE](https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [SO LONELY \(AN EREMOS STORY\)](https://open.spotify.com/album/1yMjZOuzZHF2hRzluZESSD) | 2:13 | 2023-11-03 |  |
@@ -364,7 +365,7 @@
 | [Take Over](https://open.spotify.com/track/1DVctAfDlfLvpLGDpCjUrg) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Take Over](https://open.spotify.com/album/3QAkjdF8B6oFoPJT0izjGT) | 2:25 | 2023-04-07 |  |
 | [Take Your Time](https://open.spotify.com/track/7EvHpaw8rCjbSpUp4qfu3F) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Take Your Time](https://open.spotify.com/album/0fyB1lP54sr5PHXzFwWVqt) | 3:19 | 2023-02-19 |  |
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2023-11-03 |  |
-| [Taste And See](https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5) | [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Taste And See](https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg) | 4:21 | 2023-02-24 |  |
+| [Taste And See](https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5) | [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Taste And See](https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg) | 4:21 | 2023-02-24 | 2023-11-10 |
 | [Taxi](https://open.spotify.com/track/41pVJKmDtmmyXIVKFki50N) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Taxi](https://open.spotify.com/album/6M6icqwiEExSsx8y8XaN7n) | 2:40 | 2023-04-07 | 2023-11-04 |
 | [Telephone](https://open.spotify.com/track/7eL7RLdVokaOBzjfIs5zMH) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [Telephone](https://open.spotify.com/album/5S0PU8GSg4yQdvrwZPllC0) | 3:01 | 2020-12-18 | 2022-07-29 |
 | [Testimony](https://open.spotify.com/track/5aYxzXhFNBdznGlzdEGg8z) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Second Wind](https://open.spotify.com/album/6PW0HnPuoe3xRde483kbAr) | 3:00 | 2023-11-03 |  |

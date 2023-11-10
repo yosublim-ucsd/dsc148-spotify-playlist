@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: Rael, Gloria Groove",
-  "num_followers": 366491,
+  "num_followers": 366510,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjFlMTM5NWM4NDFiZDkwYTY0MmZiOWQwZjA4OTY3ODQ3NjZmMzA1",
+  "snapshot_id": "MCxjMGFjNmFjZDNlMDJmM2M4Yzk3ZDdhODY1Y2JlOWYxYzI5MTNlZGE2",
   "tracks": [
     {
       "added_at": "2023-11-06 14:51:58",
@@ -663,34 +663,6 @@
     {
       "added_at": "2023-11-06 14:51:58",
       "album": {
-        "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] [2023 Version]",
-        "url": "https://open.spotify.com/album/360cogIQEaXAo8mpdcJFfI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 160961,
-      "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version",
-      "url": "https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"
-    },
-    {
-      "added_at": "2023-11-06 14:51:58",
-      "album": {
         "name": "Baile do Papato",
         "url": "https://open.spotify.com/album/2xReweSuwmZbdogHMILeek"
       },
@@ -719,6 +691,34 @@
       "duration_ms": 181670,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/3Q0LWpLuhEcCCWjpfBRnzH"
+    },
+    {
+      "added_at": "2023-11-06 14:51:58",
+      "album": {
+        "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] [2023 Version]",
+        "url": "https://open.spotify.com/album/360cogIQEaXAo8mpdcJFfI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 160961,
+      "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version",
+      "url": "https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"
     },
     {
       "added_at": "2023-11-06 14:51:58",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-11-06 14:51:58",
       "album": {
-        "name": "Deixe-me Ir",
-        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "Deixe-me Ir",
-      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
-    },
-    {
-      "added_at": "2023-11-06 14:51:58",
-      "album": {
         "name": "Algum Lugar Pra Gente Viajar",
         "url": "https://open.spotify.com/album/6aAjEIdDknOBlN32T2SbuI"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 312000,
       "name": "Algum Lugar Pra Gente Viajar",
       "url": "https://open.spotify.com/track/63r2vryWNB2R9q3iTu0VzI"
+    },
+    {
+      "added_at": "2023-11-06 14:51:58",
+      "album": {
+        "name": "Deixe-me Ir",
+        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 219534,
+      "name": "Deixe-me Ir",
+      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
     },
     {
       "added_at": "2023-11-06 14:51:58",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-11-06 14:51:58",
       "album": {
+        "name": "Bomba",
+        "url": "https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo"
+      },
+      "artists": [
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        }
+      ],
+      "duration_ms": 136806,
+      "name": "Bomba",
+      "url": "https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3"
+    },
+    {
+      "added_at": "2023-11-06 14:51:58",
+      "album": {
         "name": "PROCURANDO AMOR",
         "url": "https://open.spotify.com/album/4BZBRpBRpgrqKQZRT1fIXN"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 145333,
       "name": "Procurando Amor",
       "url": "https://open.spotify.com/track/3pjy8hxCpTOIzJYU0CgNHm"
-    },
-    {
-      "added_at": "2023-11-06 14:51:58",
-      "album": {
-        "name": "Bomba",
-        "url": "https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo"
-      },
-      "artists": [
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        }
-      ],
-      "duration_ms": 136806,
-      "name": "Bomba",
-      "url": "https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3"
     },
     {
       "added_at": "2023-11-06 14:51:58",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-11-06 14:51:58",
       "album": {
+        "name": "cinco anos em cinco minutos",
+        "url": "https://open.spotify.com/album/10iYPXAHfK0rwB5gNQFr31"
+      },
+      "artists": [
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        }
+      ],
+      "duration_ms": 143664,
+      "name": "cinco anos em cinco minutos",
+      "url": "https://open.spotify.com/track/1wIP79xCQuRtIOPXsWOyoI"
+    },
+    {
+      "added_at": "2023-11-06 14:51:58",
+      "album": {
         "name": "DARK POP",
         "url": "https://open.spotify.com/album/3gAv7X3dUDv2k1wqDf68qQ"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2023-11-06 14:51:58",
       "album": {
-        "name": "cinco anos em cinco minutos",
-        "url": "https://open.spotify.com/album/10iYPXAHfK0rwB5gNQFr31"
-      },
-      "artists": [
-        {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
-        }
-      ],
-      "duration_ms": 143664,
-      "name": "cinco anos em cinco minutos",
-      "url": "https://open.spotify.com/track/1wIP79xCQuRtIOPXsWOyoI"
-    },
-    {
-      "added_at": "2023-11-06 14:51:58",
-      "album": {
         "name": "93",
         "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 158829,
       "name": "Pegada de Vil\u00e3",
       "url": "https://open.spotify.com/track/0QNyFrnE4O6E4ZJDRvBuWm"
+    },
+    {
+      "added_at": "2023-11-06 14:51:58",
+      "album": {
+        "name": "S\u00f3 Minha",
+        "url": "https://open.spotify.com/album/6Ra6EkKXpxMzlj9LDzAb4H"
+      },
+      "artists": [
+        {
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
+        }
+      ],
+      "duration_ms": 171536,
+      "name": "S\u00f3 Minha",
+      "url": "https://open.spotify.com/track/5MWedCrdHFDo0LA9CA6Giz"
     },
     {
       "added_at": "2023-11-06 14:51:58",
@@ -1271,18 +1287,26 @@
     {
       "added_at": "2023-11-06 14:51:58",
       "album": {
-        "name": "S\u00f3 Minha",
-        "url": "https://open.spotify.com/album/6Ra6EkKXpxMzlj9LDzAb4H"
+        "name": "ele diz que me ama s2",
+        "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
       },
       "artists": [
         {
-          "name": "Sofia Gayoso",
-          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Bi\u00e9",
+          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
+        },
+        {
+          "name": "Perimnobeat",
+          "url": "https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG"
         }
       ],
-      "duration_ms": 171536,
-      "name": "S\u00f3 Minha",
-      "url": "https://open.spotify.com/track/5MWedCrdHFDo0LA9CA6Giz"
+      "duration_ms": 241371,
+      "name": "ele diz que me ama s2",
+      "url": "https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ"
     },
     {
       "added_at": "2023-11-06 14:51:58",
@@ -1311,26 +1335,38 @@
     {
       "added_at": "2023-11-06 14:51:58",
       "album": {
-        "name": "ele diz que me ama s2",
-        "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
+        "name": "Groove",
+        "url": "https://open.spotify.com/album/77TVmhsrBT7AVvlqEajZrt"
       },
       "artists": [
         {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
         },
         {
-          "name": "Bi\u00e9",
-          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
-        },
-        {
-          "name": "Perimnobeat",
-          "url": "https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 241371,
-      "name": "ele diz que me ama s2",
-      "url": "https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ"
+      "duration_ms": 166363,
+      "name": "Dejav\u00fa",
+      "url": "https://open.spotify.com/track/5dPKKScSdOpIQuUHVFU7HG"
+    },
+    {
+      "added_at": "2023-11-06 14:51:58",
+      "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/19xqgrFltFQOFvEJi8yHVo"
+      },
+      "artists": [
+        {
+          "name": "WD",
+          "url": "https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5"
+        }
+      ],
+      "duration_ms": 203713,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/69Q81hch5PAcKbqAXuFfej"
     },
     {
       "added_at": "2023-11-06 14:51:58",
@@ -1355,58 +1391,6 @@
     {
       "added_at": "2023-11-06 14:51:58",
       "album": {
-        "name": "Carta Aberta",
-        "url": "https://open.spotify.com/album/19xqgrFltFQOFvEJi8yHVo"
-      },
-      "artists": [
-        {
-          "name": "WD",
-          "url": "https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5"
-        }
-      ],
-      "duration_ms": 203713,
-      "name": "Carta Aberta",
-      "url": "https://open.spotify.com/track/69Q81hch5PAcKbqAXuFfej"
-    },
-    {
-      "added_at": "2023-11-06 14:51:58",
-      "album": {
-        "name": "Groove",
-        "url": "https://open.spotify.com/album/77TVmhsrBT7AVvlqEajZrt"
-      },
-      "artists": [
-        {
-          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
-          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Dejav\u00fa",
-      "url": "https://open.spotify.com/track/5dPKKScSdOpIQuUHVFU7HG"
-    },
-    {
-      "added_at": "2023-11-06 14:51:58",
-      "album": {
-        "name": "EMO NAS BAHAMAS",
-        "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
-      },
-      "artists": [
-        {
-          "name": "BAKA",
-          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
-        }
-      ],
-      "duration_ms": 148880,
-      "name": "VOU ALI DORMIR",
-      "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
-    },
-    {
-      "added_at": "2023-11-06 14:51:58",
-      "album": {
         "name": "Canc\u00fan",
         "url": "https://open.spotify.com/album/2fHM4ZxQCcFe7pbflBMpgD"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 142105,
       "name": "Canc\u00fan",
       "url": "https://open.spotify.com/track/2gbmbB5KHCpLYgr7AMwNEn"
+    },
+    {
+      "added_at": "2023-11-06 14:51:58",
+      "album": {
+        "name": "EMO NAS BAHAMAS",
+        "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
+      },
+      "artists": [
+        {
+          "name": "BAKA",
+          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
+        }
+      ],
+      "duration_ms": 148880,
+      "name": "VOU ALI DORMIR",
+      "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
     },
     {
       "added_at": "2023-11-06 14:51:58",

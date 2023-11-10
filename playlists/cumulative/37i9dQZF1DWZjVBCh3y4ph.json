@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Stony",
+  "description": "Les hits zouk du moment. Photo : Kalipsxau",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "LOUD",
+        "url": "https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        },
+        {
+          "name": "Magdala",
+          "url": "https://open.spotify.com/artist/4nRmveNzuC92Hv021si5q6"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "LOUD",
+      "url": "https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3"
+    },
+    {
+      "album": {
         "name": "En Boucle (Deluxe)",
         "url": "https://open.spotify.com/album/2zNXO3bjMY3VJI1ASnhqNs"
       },
@@ -602,7 +624,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 178200,
       "name": "M\u00e9lodie",
       "url": "https://open.spotify.com/track/4ZO1Hmv2h3bmDp3Sxy8z2d"
@@ -627,6 +649,24 @@
     },
     {
       "album": {
+        "name": "Corps \u00e0 corps",
+        "url": "https://open.spotify.com/album/5d5N6iuCaYio9EGBxDkYyg"
+      },
+      "artists": [
+        {
+          "name": "Kalipsxau",
+          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Ne t'en fais pas",
+      "url": "https://open.spotify.com/track/654PrOv4KsSHaxhMjSWMm3"
+    },
+    {
+      "album": {
         "name": "Nous 2",
         "url": "https://open.spotify.com/album/2uqvP6OytqOTl3O6r11XO8"
       },
@@ -642,7 +682,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 174000,
       "name": "Nous 2",
       "url": "https://open.spotify.com/track/5kf1Bp0L9FZQteJfawmiSa"
@@ -925,6 +965,28 @@
     },
     {
       "album": {
+        "name": "Tout donner",
+        "url": "https://open.spotify.com/album/2SOS58yEkmW75KNeialOPY"
+      },
+      "artists": [
+        {
+          "name": "VJ Awax",
+          "url": "https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm"
+        },
+        {
+          "name": "Gtnn",
+          "url": "https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189615,
+      "name": "Tout donner",
+      "url": "https://open.spotify.com/track/1WL8DMNBEMOmeNw2VuQYAq"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/5VAROo1FfGrrY2tapcGWOi"
       },
@@ -940,7 +1002,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 141176,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2VX6f5jrnErZ8gwX6z6fz7"

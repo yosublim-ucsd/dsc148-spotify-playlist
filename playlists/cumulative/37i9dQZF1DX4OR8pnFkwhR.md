@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: First Love is Never Returned
 
-1,202 songs - 3 day 1 hr 44 min
+1,203 songs - 3 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,10 +108,11 @@
 | [celeste feat\. 春野](https://open.spotify.com/track/1xD7JuI2jpGFFZYMtcmuC9) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [celeste feat\. 春野](https://open.spotify.com/album/4bGZJtVoi4Rk5gQYHmDgct) | 2:47 | 2022-10-25 | 2022-10-27 |
 | [Change](https://open.spotify.com/track/2FM1aNnqVfUsBkyTcxQmVm) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Change](https://open.spotify.com/album/7ybRhDFyFV9bRXMIGW6wbl) | 3:24 | 2022-08-02 | 2022-10-19 |
 | [Change the world](https://open.spotify.com/track/7vDP2DuhXm3n3JKxkxc5mm) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Change the world](https://open.spotify.com/album/3t37vMsrMBeVUrdoqSyCib) | 2:57 | 2022-02-17 | 2022-03-09 |
-| [Change up](https://open.spotify.com/track/2OT45l4smxaerkUUjAuNEz) | [bane](https://open.spotify.com/artist/642LjKa4IEtNBet0tTOrlo) | [Change up](https://open.spotify.com/album/05FD1CfFwHbKMaVqBJabUq) | 3:13 | 2023-09-20 |  |
+| [Change up](https://open.spotify.com/track/2OT45l4smxaerkUUjAuNEz) | [bane](https://open.spotify.com/artist/642LjKa4IEtNBet0tTOrlo) | [Change up](https://open.spotify.com/album/05FD1CfFwHbKMaVqBJabUq) | 3:13 | 2023-09-20 | 2023-11-10 |
 | [Change up](https://open.spotify.com/track/6BoQKZocgUQKdHhrv3WCC2) | [bane](https://open.spotify.com/artist/642LjKa4IEtNBet0tTOrlo) | [Change up](https://open.spotify.com/album/3NWqnAWvO941qvMgRWASMP) | 3:13 | 2023-09-19 | 2023-09-21 |
 | [Changes](https://open.spotify.com/track/113UB7uQKcwpRkxu1B3d5A) | [MADz's](https://open.spotify.com/artist/0BhcxUxg1xDid5ExpzasBw) | [Changes](https://open.spotify.com/album/4pZ5ev0fGn1kUyqKZzNLki) | 1:51 | 2023-06-20 | 2023-08-02 |
 | [Changes](https://open.spotify.com/track/2DaaIubKKp5MnZbal8I85j) | [MADz's](https://open.spotify.com/artist/0BhcxUxg1xDid5ExpzasBw) | [Changes](https://open.spotify.com/album/3YPw5L50UVxQ6kHswHh9fM) | 1:51 | 2023-06-20 | 2023-06-22 |
+| [CheckMate](https://open.spotify.com/track/3DirXMA31aqLbsAQgAgJKy) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [CheckMate](https://open.spotify.com/album/7kKpNdDFKxAsY7mjkJXbAG) | 2:26 | 2023-11-09 |  |
 | [Cheers](https://open.spotify.com/track/1BjNUu608nOEvEtMETFnlB) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [Cheers](https://open.spotify.com/album/2o9dAH1dNC3UD1gbIr8RN5) | 3:52 | 2022-05-31 | 2022-07-13 |
 | [Cherry on Top](https://open.spotify.com/track/4bPPrzm53NFPn5pYpsBn3j) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Cherry on Top](https://open.spotify.com/album/1bbhJweeXN7bQrtRdsJ2DA) | 2:50 | 2023-03-28 | 2023-04-28 |
 | [Chiisana Kaiju](https://open.spotify.com/track/4bnNLpqdv1N5SjtWzmLhL7) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [Kazemachi Toppu Club\-EP](https://open.spotify.com/album/7yr0HcSzr5QYJ57Z9FuUJU) | 3:03 | 2023-03-14 | 2023-03-29 |
@@ -292,7 +293,7 @@
 | [ia](https://open.spotify.com/track/2mnUQfzbAM5KLLL6vjhlpG) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/61ON4UP1najrsFvPXTt7j8) | 4:14 | 2022-07-14 | 2022-07-29 |
 | [Ikiru](https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:01 | 2023-01-12 | 2023-02-17 |
 | [Ima Ni Muchusa \-Hooked on Now\-](https://open.spotify.com/track/6hA0jCjXVkz1ScvcPnBaQk) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Ima Ni Muchusa \-Hooked on Now\-](https://open.spotify.com/album/6mGnSY6WxNxnR6VC9lu5c5) | 2:55 | 2022-09-08 | 2022-10-05 |
-| [Imperfection](https://open.spotify.com/track/0yhd8yWyOhAc1beip5G0sm) | [Nephew](https://open.spotify.com/artist/11BUDylkl50Y6dsbZMZiCG) | [Imperfection](https://open.spotify.com/album/547HGOx1RVJqsD6mp7241Z) | 3:16 | 2023-11-07 |  |
+| [Imperfection](https://open.spotify.com/track/0yhd8yWyOhAc1beip5G0sm) | [Nephew](https://open.spotify.com/artist/2QuPFnj8mE4ghAFuQx1vzV) | [Imperfection](https://open.spotify.com/album/547HGOx1RVJqsD6mp7241Z) | 3:16 | 2023-11-07 |  |
 | [In Our Town \(Machi no Thema\)](https://open.spotify.com/track/6ySroP2ie6CIR97pfrE671) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [In Our Town \(Machi no Thema\)](https://open.spotify.com/album/5VgaypCI4Tq6lFgmVAPOiA) | 3:33 | 2022-09-13 | 2022-09-28 |
 | [Indie Slime](https://open.spotify.com/track/40cN265DZzEX7gg4jPU6SQ) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [PARKGOLF](https://open.spotify.com/artist/56oGj3qZcyqRZkHL4IrMz9) | [Indie Slime](https://open.spotify.com/album/1JNqR6Octbf9QtuD9zlOOh) | 2:25 | 2022-08-16 | 2022-10-12 |
 | [Inferno](https://open.spotify.com/track/6F8CcapNZ9kIbcU4YtuVtr) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 3:52 | 2023-09-28 | 2023-10-04 |

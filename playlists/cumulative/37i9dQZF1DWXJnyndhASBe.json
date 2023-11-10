@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Young Igi, Otsochodzi",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: PRO8L3M",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -20,10 +20,28 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 160353,
       "name": "1000 lat",
       "url": "https://open.spotify.com/track/0utuBTWxhsv4abdCVOt76u"
+    },
+    {
+      "album": {
+        "name": "120 WERS\u00d3W \u017bEBY ZAJE*A\u0106 CO WASZE",
+        "url": "https://open.spotify.com/album/2cdCiu1JfdjhuuWUEc2FOd"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292902,
+      "name": "120 WERS\u00d3W \u017bEBY ZAJE*A\u0106 CO WASZE",
+      "url": "https://open.spotify.com/track/1VqT8aWuxRigiZILLcSlEM"
     },
     {
       "album": {
@@ -110,6 +128,18 @@
         {
           "name": "Brodka",
           "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        },
+        {
+          "name": "Megot",
+          "url": "https://open.spotify.com/artist/3p86UeNosUH4jDvAYp94kF"
+        },
+        {
+          "name": "Kusha",
+          "url": "https://open.spotify.com/artist/2a3CjKMScCbYiM3XTay0zf"
+        },
+        {
+          "name": "Suwal",
+          "url": "https://open.spotify.com/artist/5ySH1SGdybbpB07zl03goY"
         }
       ],
       "date_added": "2023-10-19",
@@ -162,7 +192,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 165672,
       "name": "Android",
       "url": "https://open.spotify.com/track/4l3lt3da6phBSVfuhm6Xnp"
@@ -547,6 +577,24 @@
     },
     {
       "album": {
+        "name": "Cringowy Lovesong",
+        "url": "https://open.spotify.com/album/1fkoUozkkQHFSp3lvvpYvh"
+      },
+      "artists": [
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189850,
+      "name": "Cringowy Lovesong",
+      "url": "https://open.spotify.com/track/4RglJQMuFuC06tiqN5rRU0"
+    },
+    {
+      "album": {
         "name": "Czarna Per\u0142a",
         "url": "https://open.spotify.com/album/4yL9yrzZHVkIro6o4evAYs"
       },
@@ -894,7 +942,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 179552,
       "name": "Jawa czy sen",
       "url": "https://open.spotify.com/track/5vlIKwOnFC6UBuhHdsj2Ss"
@@ -1248,7 +1296,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 157440,
       "name": "Mimo wszystko",
       "url": "https://open.spotify.com/track/7a74zHzAzH6GbVEa70MLqg"
@@ -1617,6 +1665,28 @@
     },
     {
       "album": {
+        "name": "Puff Daddy",
+        "url": "https://open.spotify.com/album/1unDpBFUZGTyPR0HKUm8NQ"
+      },
+      "artists": [
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+        },
+        {
+          "name": "ReTo",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153461,
+      "name": "Puff Daddy",
+      "url": "https://open.spotify.com/track/2smHwbTqnvAMSNjOIlkhYc"
+    },
+    {
+      "album": {
         "name": "Cameleo",
         "url": "https://open.spotify.com/album/7D9aUl816mU5lIFCgHMVdS"
       },
@@ -1904,7 +1974,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 207032,
       "name": "Stary Pezet (klasyczny)",
       "url": "https://open.spotify.com/track/0o7zgQODoJbMsaYMvCFviQ"
@@ -1944,7 +2014,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 145333,
       "name": "TAKIE MAM",
       "url": "https://open.spotify.com/track/005iKqgYSmTJGB4kdwRBSG"
@@ -1996,6 +2066,32 @@
       "duration_ms": 141230,
       "name": "tired of love",
       "url": "https://open.spotify.com/track/1XwpWQUlkgArpGypJ8Cofn"
+    },
+    {
+      "album": {
+        "name": "Tokyo (wsp\u00f3\u0142czesny)",
+        "url": "https://open.spotify.com/album/4xFeOFO03URRQdrsqYEzBK"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Szamz",
+          "url": "https://open.spotify.com/artist/2rbgb3tDxDpfhaN10sQzzE"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203835,
+      "name": "Tokyo (wsp\u00f3\u0142czesny)",
+      "url": "https://open.spotify.com/track/4wHLny6TgycJSuZ2bKWB11"
     },
     {
       "album": {
@@ -2154,6 +2250,66 @@
       "duration_ms": 146666,
       "name": "w aucie noc i 90bpm",
       "url": "https://open.spotify.com/track/4PG1vjjSiKQBdykSyqAHWG"
+    },
+    {
+      "album": {
+        "name": "Walczyk",
+        "url": "https://open.spotify.com/album/13GgywExvb1wcbmQpTWJqc"
+      },
+      "artists": [
+        {
+          "name": "GM2L",
+          "url": "https://open.spotify.com/artist/5a6bf006Dgf5kk2OxvpVYY"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Diho",
+          "url": "https://open.spotify.com/artist/6PcYcDQ7UCL4U5PopumiWY"
+        },
+        {
+          "name": "Josef Bratan",
+          "url": "https://open.spotify.com/artist/4RoVw3AbSvjr1KFpzjBZgA"
+        },
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Walczyk",
+      "url": "https://open.spotify.com/track/6TZhDGZQSAEwAlK5hMBtNC"
+    },
+    {
+      "album": {
+        "name": "Widok",
+        "url": "https://open.spotify.com/album/5kOw5Hf3HvJyw7c5HPhhzb"
+      },
+      "artists": [
+        {
+          "name": "Jan-Rapowanie",
+          "url": "https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp"
+        },
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "Odys",
+          "url": "https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148124,
+      "name": "Widok",
+      "url": "https://open.spotify.com/track/0ZlcedOAmS5KS6mGdPpFxK"
     },
     {
       "album": {

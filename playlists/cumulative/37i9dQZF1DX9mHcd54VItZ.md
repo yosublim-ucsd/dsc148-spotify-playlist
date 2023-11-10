@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY?si=03c1kirSTgCUAXEoU7gnCw">West Coast Wolves</a>
+> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=O3l0X\_BbR2i27\-j3gS8sTw">Rooksein</a>
 
-356 songs - 21 hr 9 min
+359 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [It's Hard](https://open.spotify.com/track/3EngfC1jCb8CtLQK1eWiWj) | [No Handshake](https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk) | [It's Hard](https://open.spotify.com/album/1v8tCzFlpw6f2VRAj6xgVM) | 3:06 | 2021-09-02 | 2022-04-01 |
 | [Jou Skoene](https://open.spotify.com/track/7FHRJmJRWB3qjUsn4B65HM) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Jou Skoene](https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG) | 3:36 | 2023-02-09 | 2023-04-22 |
 | [Just One Hit](https://open.spotify.com/track/3tUmY7VsbEvM7YxcYB4t4R) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [Just One Hit](https://open.spotify.com/album/4soy6XuqH6x8XnWT9YrjOs) | 4:04 | 2023-06-15 | 2023-08-25 |
+| [Karma](https://open.spotify.com/track/3omZL5SXL74UYWmqrnilTM) | [New Volume](https://open.spotify.com/artist/386eyNcHwUJ0u3awsMi88Q) | [Karma](https://open.spotify.com/album/2Q9BQwWEgZYeoPUylHEXX6) | 3:24 | 2023-11-09 |  |
 | [Kerse](https://open.spotify.com/track/5Rf8HoMPgj9IWFwaLnjFPf) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Droombrief](https://open.spotify.com/album/0hLWiLGIlllFAfF4vKpmgf) | 4:04 | 2022-03-24 | 2022-05-27 |
 | [kill all my feelings](https://open.spotify.com/track/0dlCaafsMEfprlXtoogDgm) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [kill all my feelings](https://open.spotify.com/album/1onwNNRB0cQ5gBRFknbYPp) | 3:02 | 2022-07-21 | 2023-02-17 |
 | [Killing Time](https://open.spotify.com/track/1tAYM3JLn8gynNMHCUcIAj) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Killing Time](https://open.spotify.com/album/1zHfXySzYnUNA4vWAinERg) | 2:51 | 2023-05-18 | 2023-08-05 |
@@ -241,7 +242,7 @@
 | [Partners in Crime](https://open.spotify.com/track/0nwyYEJoZAhx1lkj0C95Qs) | [Marene](https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I) | [Partners in Crime](https://open.spotify.com/album/1qjw3P90aCqZ4jGJIWNn7D) | 3:39 | 2023-04-27 | 2023-07-29 |
 | [Pink Codeine](https://open.spotify.com/track/2nSfDIYnU3euVZN81xLjJp) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Pink Codeine](https://open.spotify.com/album/1mT061XTU1JRimRQap8hQe) | 3:29 | 2023-06-01 | 2023-09-01 |
 | [PITY PARTY](https://open.spotify.com/track/275HPZ0ZqO7aVvP0oNqO5b) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [PITY PARTY](https://open.spotify.com/album/44aRUzG8io87BE9XUIhYy8) | 2:27 | 2022-09-22 | 2023-01-27 |
-| [Pizza Party](https://open.spotify.com/track/34G7rugYnI2n8PMgAjQ1xr) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Pizza Party](https://open.spotify.com/album/6hzXhNSce8sW2sn4fr5rUd) | 3:20 | 2023-09-15 |  |
+| [Pizza Party](https://open.spotify.com/track/34G7rugYnI2n8PMgAjQ1xr) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Pizza Party](https://open.spotify.com/album/6hzXhNSce8sW2sn4fr5rUd) | 3:20 | 2023-09-15 | 2023-11-10 |
 | [Prisoner of Love](https://open.spotify.com/track/1awNiZPBxrCpEwgJpEPUGI) | [Marene](https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I) | [Prisoner of Love](https://open.spotify.com/album/3LH67r1FHNlrDCr0adjRBA) | 3:28 | 2023-05-18 | 2023-07-07 |
 | [Prodigal Son](https://open.spotify.com/track/3CJRVQvgxk4vA5ezsADTRf) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Prodigal Son](https://open.spotify.com/album/7rNLF1btPIbjQ0OKHArllT) | 3:31 | 2021-11-11 | 2022-08-05 |
 | [Psycho Killer \- Single Version](https://open.spotify.com/track/52pS1roeMc4TUNkBDiSUYW) | [The Medicine Dolls](https://open.spotify.com/artist/2kmitkJxxZXckoOmXtAese) | [Psycho Killer](https://open.spotify.com/album/7cTCOfxcE0S8iHCGCCrdXG) | 3:59 | 2021-05-06 | 2022-09-03 |
@@ -305,7 +306,7 @@
 | [Swine Tooth Grin \- Single Mix](https://open.spotify.com/track/4ACcJ7UeiHv8x38bZGglYc) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Swine Tooth Grin](https://open.spotify.com/album/6TdwPkCuK3VjO11HRwJIqT) | 3:33 | 2021-06-24 | 2022-03-25 |
 | [Synesthesia](https://open.spotify.com/track/0hBQalBDzf9sjhvXpQUqEh) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Synesthesia](https://open.spotify.com/album/2HM59GCBORsw7BUQAkY3S0) | 3:53 | 2023-06-22 | 2023-09-01 |
 | [Take Me Under](https://open.spotify.com/track/6mMLPWw1Dc8sNu8yJOhsOZ) | [Marene](https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I) | [Rising After Midnight](https://open.spotify.com/album/7vWHO6IMU8NqLDrNvN5GRZ) | 3:43 | 2023-08-31 |  |
-| [Take your time](https://open.spotify.com/track/5YGrodE7HhrVX4YkGpkQLy) | [Delano Jooste](https://open.spotify.com/artist/5wSeUIvRBzhkeOoiPnOTQX) | [Take your time](https://open.spotify.com/album/1zwFQeTGjOpOkP9aVJzzgO) | 3:34 | 2023-09-28 |  |
+| [Take your time](https://open.spotify.com/track/5YGrodE7HhrVX4YkGpkQLy) | [Delano Jooste](https://open.spotify.com/artist/5wSeUIvRBzhkeOoiPnOTQX) | [Take your time](https://open.spotify.com/album/1zwFQeTGjOpOkP9aVJzzgO) | 3:34 | 2023-09-28 | 2023-11-10 |
 | [Taste of Freedom](https://open.spotify.com/track/57z2oHMHeYZqjr3db5dspc) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Taste of Freedom](https://open.spotify.com/album/6meVX62WRMvgdkhmStMLIL) | 3:52 | 2023-03-16 | 2023-05-26 |
 | [Tattoo](https://open.spotify.com/track/5HODR0ePjRBr9eUFrL92MF) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD) | [Tattoo](https://open.spotify.com/album/7G4Oa0XkNv552XNf4WcRjn) | 3:31 | 2023-05-11 |  |
 | [Tattoos](https://open.spotify.com/track/1RTBUEn7eJaL8mDaCBCVqe) | [Parable Fifteen](https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z) | [Tattoos](https://open.spotify.com/album/1l4qhYVEvbdsep8C8AYaw8) | 3:55 | 2021-11-05 | 2022-03-04 |
@@ -324,6 +325,7 @@
 | [The Naughty List](https://open.spotify.com/track/3EKFkwbeXhcyZkdBOQOokp) | [Joy Club Cassidy Cassidy](https://open.spotify.com/artist/6kzLUn6qCD2dGTjMkmunBn) | [The Naughty List](https://open.spotify.com/album/0lyaXU7puSvjbyYMAgaUjy) | 0:42 | 2022-01-06 | 2022-03-04 |
 | [The Real Thing](https://open.spotify.com/track/5yPEgsIa9x4BkMsBJaF2cM) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [The Real Thing](https://open.spotify.com/album/7t3nIj86bm0IwI9ReX6Ye3) | 2:55 | 2023-07-28 |  |
 | [The Veneer](https://open.spotify.com/track/1iWervHoQ9m2dlDcoOpFL8) | [A MILLION WAYS TO DIE](https://open.spotify.com/artist/5sItFxUca07yQu3TkbBp9U) | [The Veneer](https://open.spotify.com/album/2W7cWviTHNhhWawHI80Wbp) | 4:56 | 2022-03-03 | 2022-08-05 |
+| [The Villain](https://open.spotify.com/track/2s0QDe1ZjH0Pm9rsciZwQY) | [Crash And The Void](https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo) | [The Villain](https://open.spotify.com/album/6fHn43hrLvdxr9V7ljZBbn) | 3:43 | 2023-11-09 |  |
 | [The Waltz](https://open.spotify.com/track/1o75mFZMjlWXDupelG6AM7) | [Black Cat Bones](https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO) | [Book of Miriam](https://open.spotify.com/album/5tisDlIaGFaTVFE3hgmIln) | 3:24 | 2022-07-28 | 2023-02-03 |
 | [There She Goes](https://open.spotify.com/track/383TJILTEIAmfndU48yqaI) | [Orah & The Kites](https://open.spotify.com/artist/3B6qB7amU7lKiNcTNTNacP) | [There She Goes](https://open.spotify.com/album/0kH45YipMAXdwmvqAmo71u) | 4:02 | 2020-11-26 | 2022-11-18 |
 | [Thinking Too Hard](https://open.spotify.com/track/5nqWTG5lZ6iOK3sfzCAvwZ) | [Evert Snyman](https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk), [The Aviary](https://open.spotify.com/artist/1uCvRbLFcNf6GFBriq60j5), [Jacques Moolman](https://open.spotify.com/artist/6xpYpXQ06FPx2QOvymd25l) | [Thinking Too Hard](https://open.spotify.com/album/4owf9ZhxKn94LWb9Yl71hk) | 2:20 | 2022-02-17 | 2022-08-05 |
@@ -343,7 +345,7 @@
 | [Verby](https://open.spotify.com/track/6pC0NcinYQDKgTyQVr0fTz) | [Swerwer](https://open.spotify.com/artist/2Agm0pczmzwW1mpWQjioPJ) | [Verby](https://open.spotify.com/album/0F7M5RLUaX36HO8wYf2vYF) | 3:49 | 2023-05-05 | 2023-07-29 |
 | [Verlede](https://open.spotify.com/track/4Rv72ElRdcLDMi7r5ENtRz) | [X\_C\_Xreece](https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ) | [Verlede](https://open.spotify.com/album/03WqCunPsGa51cHENo2QYc) | 3:10 | 2023-04-27 | 2023-07-14 |
 | [Versmoor](https://open.spotify.com/track/4meblP6oLazdZUZPIizdbh) | [Jemma Catherine](https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ) | [Versmoor](https://open.spotify.com/album/5gfwTqz9mMIWuW4tvhsnop) | 2:41 | 2023-09-28 |  |
-| [Victim of Data](https://open.spotify.com/track/5DESqCo3i23bSBUg9r3p7a) | [Shameless Band](https://open.spotify.com/artist/1WMFWKZqX2Y5lW2SKetrMz) | [Victim of Data](https://open.spotify.com/album/3Q1NdGdXpdVh3DRXlQ3wrb) | 3:04 | 2023-08-31 |  |
+| [Victim of Data](https://open.spotify.com/track/5DESqCo3i23bSBUg9r3p7a) | [Shameless Band](https://open.spotify.com/artist/1WMFWKZqX2Y5lW2SKetrMz) | [Victim of Data](https://open.spotify.com/album/3Q1NdGdXpdVh3DRXlQ3wrb) | 3:04 | 2023-08-31 | 2023-11-10 |
 | [Vir Ewig](https://open.spotify.com/track/4duchzNuzguXiPND75nVGr) | [William Wolf](https://open.spotify.com/artist/3QwFyw3JPeW3U1TJrtadaY) | [Vir Ewig](https://open.spotify.com/album/6vFklUu7QaerJHZdwOjpXZ) | 3:54 | 2023-08-31 |  |
 | [Vodka and Smoke](https://open.spotify.com/track/514tQtj7uyLHMn2yGgJkmj) | [Metro Villa](https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W) | [Vodka and Smoke](https://open.spotify.com/album/3oDXIxLl40ilYOg0yfIfZm) | 4:36 | 2023-03-09 | 2023-04-21 |
 | [Vriend](https://open.spotify.com/track/4N0DKF5cPNjxPWRGLsXvvH) | [Armand Steenkamp](https://open.spotify.com/artist/4w6AsEneIpyV0x0Umntav5) | [Vriend](https://open.spotify.com/album/1nDlCjKf176FOs2ej8puEC) | 3:17 | 2023-09-15 |  |
@@ -353,6 +355,7 @@
 | [Wasted Time](https://open.spotify.com/track/7EE7O5tuOKrlnhALLnkrW7) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Wasted Time](https://open.spotify.com/album/3qSADMb9OU8gQqiRgFkKEr) | 3:58 | 2022-08-04 | 2023-02-10 |
 | [Wasting time](https://open.spotify.com/track/4n0lR230JAK9egO2guGUVl) | [TASH AYY](https://open.spotify.com/artist/78l0JJ6j5P4guKT4PzLDas), [LOTU$](https://open.spotify.com/artist/3kI4cAfrm8ij3ZEUfpXtTU) | [Wasting time](https://open.spotify.com/album/3EY4fZZEYNKSC65gQO58jp) | 2:27 | 2023-07-06 | 2023-09-08 |
 | [Wat Is Daar ?](https://open.spotify.com/track/1lQDVdN8TfcJ6kolhTXFqB) | [X\_C\_Xreece](https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ) | [Wat Is Daar ?](https://open.spotify.com/album/3c86T6y2WbY0NwHqS5AfXZ) | 3:25 | 2023-04-20 | 2023-06-23 |
+| [Weet Jy](https://open.spotify.com/track/6XvJrj4flDveKeKgtlP5Qe) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Weet Jy](https://open.spotify.com/album/2Bk9aiTtgW5uq3BWtHpbn6) | 3:27 | 2023-11-09 |  |
 | [What Would You Do?](https://open.spotify.com/track/0NWvwMNhJW0vIMrWHmrp6Q) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Wasteland \- The Purgatory EP](https://open.spotify.com/album/5iFkEubAbRjQN50VLXmhYF) | 4:49 | 2021-07-29 | 2022-11-18 |
 | [What Would You Do? \[Feat\. Gavin Rossdale\]](https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Gavin Rossdale](https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6) | [What Would You Do?](https://open.spotify.com/album/4w2yJlTLXCQWtzQMo8kWxa) | 4:50 | 2023-02-20 | 2023-02-22 |
 | [When I'm with You](https://open.spotify.com/track/5CFsX5OidbqmLa71haeKhO) | [Alainite](https://open.spotify.com/artist/0jz2Kq6n1hX6kAahNkutXH) | [When I'm with You](https://open.spotify.com/album/6nY5M5Y1lxoxXqhM0lsuzL) | 2:52 | 2022-05-26 | 2023-02-03 |

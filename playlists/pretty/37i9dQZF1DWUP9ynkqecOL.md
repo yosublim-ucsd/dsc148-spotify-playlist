@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,904 likes - 80 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,934 likes - 80 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 56 | [Te digo Wayno](https://open.spotify.com/track/3LNqP7VsReHq4OY0PNhd7A) | [King Coya](https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy) | [Tierra de King Coya](https://open.spotify.com/album/6tfZSVov7Zl4Ky3PXZcT2j) | 4:36 |
 | 57 | [Belleza en el Aire \- Remix](https://open.spotify.com/track/6oi6cJTZ2ZgSSud6Obd8tR) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Albura Remixed](https://open.spotify.com/album/70PAc04K99bM8wTU79PQ2f) | 5:14 |
 | 58 | [CUMBIA ORIENTAL](https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Raag](https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF) | [La Montaña Sin Nombre II](https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs) | 6:02 |
-| 59 | [Cuando](https://open.spotify.com/track/1b9TpQFJK0WA6V0Aap0kZT) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [SUELTA](https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP) | 5:32 |
+| 59 | [Serenata Plateada](https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [New Latam Beats From Argentina \(Disco A\)](https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86) | 5:25 |
 | 60 | [Alma](https://open.spotify.com/track/2n6or5vQGPtqbTu84CNfdn) | [Puna](https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ), [Sandra Amaya](https://open.spotify.com/artist/5blOCUy4Uz4j88SdkakN6v) | [Vol\. 4](https://open.spotify.com/album/4DaIUxKJQvQmeC3VRONSky) | 6:17 |
-| 61 | [Serenata Plateada](https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [New Latam Beats From Argentina \(Disco A\)](https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86) | 5:25 |
+| 61 | [Cuando](https://open.spotify.com/track/1b9TpQFJK0WA6V0Aap0kZT) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [SUELTA](https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP) | 5:32 |
 | 62 | [Dada](https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4), [King Coya](https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy), [Nan Que](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [Dada](https://open.spotify.com/album/06hkMw0sZJ0g7HSB9xPFyT) | 3:37 |
 | 63 | [Gurisito Cosmico](https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L) | [Lauphan](https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Litoraleza](https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc) | 3:12 |
 | 64 | [Cuchi Leguizamón yo te amo para siempre](https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh) | [San Ignacio](https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr), [Xanducero](https://open.spotify.com/artist/3P4H2P2LQKEf3IFvk6BSVW), [Silvio Astier](https://open.spotify.com/artist/7EUorvzcNTKxqyEu5Gm8TW), [Remiseria Temperley](https://open.spotify.com/artist/7tfHRoS5y3i6f3yzRyDvQo) | [Sencilla es mi canoa como mis afectos](https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO) | 6:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 79 | [La Fuerza](https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j) | [Ensamble Folklórico Digital](https://open.spotify.com/artist/42AgikIswL8YgTNkWoqIiI), [Villa Diamante](https://open.spotify.com/artist/3teTanCAHVFtUilgdGrfaD), [Lauphan](https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I), [Bienvenidos a la Computadora](https://open.spotify.com/artist/1viypXNNWz9XslwCH1Hzz4), [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Cehache Respira](https://open.spotify.com/artist/7oKFnoNXS5mgfZ8ERqF23l) | [La Fuerza](https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R) | 4:27 |
 | 80 | [Baguala de Tucuman](https://open.spotify.com/track/2lRIror5fKrJDFm17gSsMC) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [El Camino de Leda \(Un Tributo a Leda Valladares\)](https://open.spotify.com/album/1Ny7gup5mfKNb0fqwLMZat) | 5:56 |
 
-Snapshot ID: `MCwxOTJhMDAwMTE1M2E0ZjUxMTNhYjlhNWZhYWM0YmY4ZDk3Y2QzMWEz`
+Snapshot ID: `MCwzOTNjN2FjYzc5N2Q4NzljNmVlOGE2Mjk4MGU2ODhjY2JlZjYyYjZm`

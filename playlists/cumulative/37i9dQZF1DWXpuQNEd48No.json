@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/4RXG9KfqTKbtWhsSZwVTel"
+      },
+      "artists": [
+        {
+          "name": "Devender Ahlawat",
+          "url": "https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231157,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/4yIUYWDDXTDkYl616suCaw"
+    },
+    {
+      "album": {
         "name": "DAD",
         "url": "https://open.spotify.com/album/46D35bKFH47ZVfaaTgQE3C"
       },
@@ -932,7 +950,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 287423,
       "name": "Flirt",
       "url": "https://open.spotify.com/track/4K6jf2Pu26P6VbsLdOZP7e"

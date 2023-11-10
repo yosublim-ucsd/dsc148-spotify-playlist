@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Stony
+> Les hits zouk du moment\. Photo : Kalipsxau
 
-51 songs - 2 hr 46 min
+54 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,13 +31,15 @@
 | [Kè m Nan Men w](https://open.spotify.com/track/1tPhjL2a68EuAchJiG7zwJ) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Kè m Nan Men w](https://open.spotify.com/album/0MZfhWvePxkfAXl1JmlC76) | 4:35 | 2023-09-28 |  |
 | [LA BEST](https://open.spotify.com/track/6JWqSrA6W2r2P1ZIQFLBC4) | [TMatt](https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ), [RMN’PROD](https://open.spotify.com/artist/2mV9eCX5doDUKeBRD4uV1i) | [LA BEST](https://open.spotify.com/album/2AnxHAMKA64G2gat36DDVa) | 3:31 | 2023-09-28 |  |
 | [Limbisa \- Kriolu Version](https://open.spotify.com/track/0e8djkn3TGLjP9VstMyOZt) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Limbisa \(Kriolu Version\)](https://open.spotify.com/album/7EqW8r7VH9W0E2JeQAcfq1) | 2:43 | 2023-09-28 |  |
+| [LOUD](https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Magdala](https://open.spotify.com/artist/4nRmveNzuC92Hv021si5q6) | [LOUD](https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg) | 3:00 | 2023-11-09 |  |
 | [Ma Vie](https://open.spotify.com/track/0NaxyxpoxUugFeGx4B2YW3) | [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh), [Princess' Lover](https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl) | [En Boucle \(Deluxe\)](https://open.spotify.com/album/2zNXO3bjMY3VJI1ASnhqNs) | 3:06 | 2023-09-28 |  |
 | [MAYDAY](https://open.spotify.com/track/4JaiYhTtUQN4TkwafnrEjn) | [Vayb](https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H), [Jude Deslouches](https://open.spotify.com/artist/1cJ3F8DO47enupBg2kOatt) | [MAYDAY](https://open.spotify.com/album/0IgWJsKDLI0mffAHWRUhI6) | 5:06 | 2023-09-28 |  |
 | [MON PÉCHÉ](https://open.spotify.com/track/3EMCirXKIv5oztM29ZqqDe) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [RM'N PROD](https://open.spotify.com/artist/43r0w2IY7M8mujZbclCzKM) | [MON PÉCHÉ](https://open.spotify.com/album/3NcbXib1tE0AgbzdeIqWhf) | 3:28 | 2023-09-28 |  |
 | [Monalisa](https://open.spotify.com/track/0A5FQkAtB6Eh5RgkEIznWP) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [Corps à corps](https://open.spotify.com/album/5d5N6iuCaYio9EGBxDkYyg) | 3:54 | 2023-09-28 |  |
-| [Mélodie](https://open.spotify.com/track/4ZO1Hmv2h3bmDp3Sxy8z2d) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6), [Goulam](https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC) | [Corps à corps](https://open.spotify.com/album/5d5N6iuCaYio9EGBxDkYyg) | 2:58 | 2023-09-28 |  |
+| [Mélodie](https://open.spotify.com/track/4ZO1Hmv2h3bmDp3Sxy8z2d) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6), [Goulam](https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC) | [Corps à corps](https://open.spotify.com/album/5d5N6iuCaYio9EGBxDkYyg) | 2:58 | 2023-09-28 | 2023-11-10 |
 | [Ne doute pas](https://open.spotify.com/track/0Ej7aMck13Ib3r1eOtWzWj) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Ne doute pas](https://open.spotify.com/album/0LRjC9I4P5bndiBhUGCcTX) | 2:53 | 2023-09-28 |  |
-| [Nous 2](https://open.spotify.com/track/5kf1Bp0L9FZQteJfawmiSa) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk) | [Nous 2](https://open.spotify.com/album/2uqvP6OytqOTl3O6r11XO8) | 2:54 | 2023-09-28 |  |
+| [Ne t'en fais pas](https://open.spotify.com/track/654PrOv4KsSHaxhMjSWMm3) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [Corps à corps](https://open.spotify.com/album/5d5N6iuCaYio9EGBxDkYyg) | 3:40 | 2023-11-09 |  |
+| [Nous 2](https://open.spotify.com/track/5kf1Bp0L9FZQteJfawmiSa) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk) | [Nous 2](https://open.spotify.com/album/2uqvP6OytqOTl3O6r11XO8) | 2:54 | 2023-09-28 | 2023-11-10 |
 | [Nous deux](https://open.spotify.com/track/0szzlgPOFtP4zkT0PwCYhm) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT) | [Nous deux](https://open.spotify.com/album/71F50RsJ4zLG8TgmYRVppT) | 3:19 | 2023-10-26 |  |
 | [On a changé](https://open.spotify.com/track/53S9bXkOunbK1syb7Kyyz6) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [On a changé](https://open.spotify.com/album/3zrtguwuRFGcshPO6QGON6) | 2:41 | 2023-09-28 |  |
 | [Oublie Dehors](https://open.spotify.com/track/36kxeIpVhh359b9n7GZbB5) | [Scory Kovitch](https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8), [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT), [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Oublie Dehors](https://open.spotify.com/album/1TjnjOYLLuDMYHNtgbhaVg) | 2:46 | 2023-09-28 |  |
@@ -52,7 +54,8 @@
 | [Sonner](https://open.spotify.com/track/0OoMMMYlXD9kQIAeB8h7Ti) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF), [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Sonner](https://open.spotify.com/album/0MPp8KxL9KpCYuXSFxF1s2) | 2:55 | 2023-09-28 |  |
 | [Stop](https://open.spotify.com/track/2eYCmlVnHxy838TI9LKE05) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U) | [Stop](https://open.spotify.com/album/1V7JUIgcybhG8s3SRzpD4V) | 3:14 | 2023-10-05 |  |
 | [Tou Sa Ki Fo](https://open.spotify.com/track/3DZJQP0BrrpSWKPT8KXMQh) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Tou Sa Ki Fo](https://open.spotify.com/album/7cBHtC6kiiKJbmg4fFBco1) | 2:52 | 2023-09-28 |  |
-| [Toxic](https://open.spotify.com/track/2VX6f5jrnErZ8gwX6z6fz7) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y), [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Toxic](https://open.spotify.com/album/5VAROo1FfGrrY2tapcGWOi) | 2:21 | 2023-09-28 |  |
+| [Tout donner](https://open.spotify.com/track/1WL8DMNBEMOmeNw2VuQYAq) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk) | [Tout donner](https://open.spotify.com/album/2SOS58yEkmW75KNeialOPY) | 3:09 | 2023-11-09 |  |
+| [Toxic](https://open.spotify.com/track/2VX6f5jrnErZ8gwX6z6fz7) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y), [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Toxic](https://open.spotify.com/album/5VAROo1FfGrrY2tapcGWOi) | 2:21 | 2023-09-28 | 2023-11-10 |
 | [Trahison](https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Pièce Maîtresse](https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3) | 2:56 | 2023-10-26 |  |
 | [TROP DOUX](https://open.spotify.com/track/7qk5RFp7PrxzguPkTdgkmq) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [TROP DOUX](https://open.spotify.com/album/52mKE8lmxbVpXyAVJa4lX7) | 3:28 | 2023-09-28 | 2023-10-27 |
 | [Trophy](https://open.spotify.com/track/1mKlQnt4FPb2R4HV5cn5y1) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Féeries](https://open.spotify.com/album/2W94yzXafkE28LcyiQD4YH) | 2:59 | 2023-09-28 |  |

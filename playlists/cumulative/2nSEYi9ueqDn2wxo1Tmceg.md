@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-677 songs - 1 day 22 hr 29 min
+678 songs - 1 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Nattens Sista Strimma Ljus](https://open.spotify.com/track/2WY8hy60bH6y1cxTMurysV) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Nattens Sista Strimma Ljus](https://open.spotify.com/album/0j3nf6D8d8ZvhgibltRWL5) | 4:28 | 2022-07-06 | 2022-08-18 |
 | [Natural One](https://open.spotify.com/track/4GJqOznH6ocrP5j2kI0PrU) | [Folk Implosion](https://open.spotify.com/artist/6DM1YETeVIN3ce24DhnMhU) | [Natural One](https://open.spotify.com/album/6FYBYfXfovEfEdmqH0vk1F) | 3:09 | 2023-06-28 | 2023-08-03 |
 | [Natural One \- 2023 Live Session](https://open.spotify.com/track/1dJ16Kc7WYHlDlazaWU7nj) | [Folk Implosion](https://open.spotify.com/artist/6DM1YETeVIN3ce24DhnMhU) | [Natural One](https://open.spotify.com/album/6FYBYfXfovEfEdmqH0vk1F) | 3:16 | 2023-06-28 | 2023-08-31 |
+| [Need You Tonight \- Working Men's Club Remix](https://open.spotify.com/track/7u7jRj4Ch6CeMGOW8Lowrh) | [DC Gore](https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6), [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [Need You Tonight \(Working Men's Club Remix\)](https://open.spotify.com/album/2KzUzwOx5EsAyNWN7LutyD) | 5:26 | 2023-11-09 |  |
 | [Never Coming Back](https://open.spotify.com/track/0ZtUCVf7uuDAQ7dXGTALEG) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The Upper Cuts Singles \(2023 Edition\)](https://open.spotify.com/album/7gggj6SUuzQ8x2NSySkzTu) | 3:23 | 2023-03-09 | 2023-04-27 |
 | [New York](https://open.spotify.com/track/5ehna23pO7qdgQjDFbuJrF) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56) | [New York](https://open.spotify.com/album/782f4OR6lKLwAdad0p4tAc) | 3:34 | 2023-08-02 | 2023-08-10 |
 | [New York](https://open.spotify.com/track/71Ohbh25hv8SzzZCfq8i4B) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [New York / LA Hex](https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK) | 4:04 | 2023-07-25 | 2023-09-28 |

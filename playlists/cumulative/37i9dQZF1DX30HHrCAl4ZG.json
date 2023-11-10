@@ -9972,10 +9972,28 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 198240,
       "name": "HUSH",
       "url": "https://open.spotify.com/track/4BXaVV3EPztEtb4hcF9CGS"
+    },
+    {
+      "album": {
+        "name": "THIS IS NOT AN EXIT",
+        "url": "https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh"
+      },
+      "artists": [
+        {
+          "name": "ill peach",
+          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "HUSH",
+      "url": "https://open.spotify.com/track/7aB5uUd9VUpBoHY4XCxXBw"
     },
     {
       "album": {

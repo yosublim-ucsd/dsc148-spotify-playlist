@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Discover the Sound of ADE 2023! Bringing every form and shape of electronic music together, ADE offers a glimpse into some of the best of the 2,500+ artists and 1.000+ events coming your way this October.
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,999 likes - 27 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,985 likes - 27 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 26 | [92 Thing](https://open.spotify.com/track/70PoA9APZapULPaXRUSvpn) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Come Together](https://open.spotify.com/album/2qkjGCnCT0T3PYWNFr6buF) | 5:38 |
 | 27 | [Hop On \- FJAAK Remix](https://open.spotify.com/track/1BNF2g4QdSFN4TE4SAQpVk) | [Sterac](https://open.spotify.com/artist/2QFnCeEbTqsb0YUYpFl08v), [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [CROWD001: Raving Wasps](https://open.spotify.com/album/61uqowB1dOuBnGN0V1NQGs) | 4:22 |
 
-Snapshot ID: `MCxkZjdjNTkwZjFmN2Q4ZGNhMWM4OTY1YmJiMDk2ODg3YTE2Y2FiN2Y2`
+Snapshot ID: `MCw2ODFjNmU4ODBiMTM0MzQ2NzQ0NTVjMDNkYmI2NmUwMDk4OWZkOTA1`

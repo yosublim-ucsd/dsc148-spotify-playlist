@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/6RBOLfqkI4jKZxRw2X89rI?si=g5rBGOOHQfuuWHUYgidwvQ">Ginger Trill</a>, <a href="https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz?si=Brh8XQpFR4S6jtkDUYhZDw">Touchline</a>
+> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV?si=oqjOEndqQBSN126wMc9uig">Shane Eagle</a>
 
-636 songs - 1 day 10 hr 38 min
+638 songs - 1 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [ALONE X](https://open.spotify.com/track/5JxDpO4ySgzeHVkNSKkNQ4) | [Dan Duminy](https://open.spotify.com/artist/0Xj4YyjZkAFSYoL1tvcjDx), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Crowned Yung](https://open.spotify.com/artist/0ev4QPgGwvdAwC5RVMqpAM) | [ALONE X](https://open.spotify.com/album/7vJRb0nPNaROUoxpKarT0l) | 2:18 | 2022-03-10 | 2022-03-18 |
 | [ALRIGHT](https://open.spotify.com/track/5NPVb2mvDB4RXx8IvhHPno) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [ALRIGHT](https://open.spotify.com/album/3seOgx490JcE7bfxREGGz6) | 2:40 | 2023-08-24 |  |
 | [Amadlozi](https://open.spotify.com/track/4pHdZenBKRDOpredaVILeG) | [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55), [LOOKATUPS](https://open.spotify.com/artist/3Juf3knCVNci9CIpYraBER) | [Amadlozi](https://open.spotify.com/album/1wHEl0itEyhRHNDdIh0UCN) | 2:48 | 2023-01-10 | 2023-05-05 |
+| [Amaqwa](https://open.spotify.com/track/7kAeTiWtrqnKdzDKx4JTPm) | [DJ Zan\-D](https://open.spotify.com/artist/3X5vtALHJxrhalDHG3MhSS), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Sizwe Alakine](https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2), [Ney the Bae](https://open.spotify.com/artist/2LdSMH1cXxzBEdEcLp1Yz5) | [Amaqwa](https://open.spotify.com/album/3fXyDjTPFjjA8lKkyh6qgt) | 4:38 | 2023-11-09 |  |
 | [Amaswidi](https://open.spotify.com/track/23YQAIspCVMFNWk1BPdjNV) | [Jub Jub](https://open.spotify.com/artist/2ycgSd51jzPuxgCXb3e0mS), [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [Amaswidi](https://open.spotify.com/album/6wVNPyb3h6HLHbAAddhOoE) | 4:37 | 2022-04-30 | 2022-05-06 |
 | [Amazing](https://open.spotify.com/track/0eJKXkQtDwSZhYfu6PJ26c) | [The Colour](https://open.spotify.com/artist/3aiVKySP3HER8Ur0In4vfY) | [Amazing](https://open.spotify.com/album/4f9sqQoSN2Ufz80htIlc7k) | 4:14 | 2022-03-24 | 2022-04-23 |
 | [Anazinto \(feat\. LeoPr3ttyAugust\)](https://open.spotify.com/track/1Y9MEtW4dKReqmnj5h4wSV) | [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [LeoPr3ttyAugust](https://open.spotify.com/artist/6LP7YKNhrDKMUGgP8lPV6A) | [Anazinto \(feat\. LeoPr3ttyAugust\)](https://open.spotify.com/album/4brYXwMHsb2BpOdyTI5iaJ) | 4:19 | 2023-05-11 | 2023-06-30 |
@@ -477,6 +478,7 @@
 | [Shark Week](https://open.spotify.com/track/0cvrPxMQBct2vsx1hBnr7n) | [Kay Faith](https://open.spotify.com/artist/2r237Ri8bYnH945KJNCdAm), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Antithesis](https://open.spotify.com/album/5MgFuoNL6eV1jLiNOAA8iN) | 3:54 | 2022-07-21 | 2022-09-10 |
 | [Sheleni](https://open.spotify.com/track/5unHwPs6DwF8rQ1SsazWxs) | [H2O](https://open.spotify.com/artist/3HzZZ331FYGzg4OVS8mgXN) | [Sheleni](https://open.spotify.com/album/6cabRdQHa5FBZwfY1KQZRM) | 3:53 | 2023-01-30 | 2023-02-02 |
 | [Shine](https://open.spotify.com/track/5WgiKqflsGLMmer3fYuoEv) | [TSA](https://open.spotify.com/artist/1cdNOdTk0arWa6psF0uopT) | [Shine](https://open.spotify.com/album/6syDmeiWP84KKFvpZ18red) | 2:50 | 2022-02-17 | 2022-03-25 |
+| [SHiRU'S iNTERLUDE](https://open.spotify.com/track/2Fvx7f8fCXxUXS6PiOGivY) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [SHiRU'S iNTERLUDE](https://open.spotify.com/album/2SUW9vWQqnhDFUO5kxkhU3) | 2:15 | 2023-11-09 |  |
 | [Shiselwa](https://open.spotify.com/track/0zyYN9NjBcS5hAXkMVon8Y) | [Stino Le Thwenny](https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m) | [Shiselwa](https://open.spotify.com/album/5ihWXC8zIBCMPY9RcIIvsX) | 3:03 | 2023-05-26 | 2023-06-19 |
 | [Shisha](https://open.spotify.com/track/1pARdNL0rnflCKtrTtCmD0) | [Makwa](https://open.spotify.com/artist/6aXzYhXfiqzlcdyFBxfw59) | [Makwande](https://open.spotify.com/album/1fhkQiZG5wCFYGW10mCvG1) | 2:37 | 2023-10-13 |  |
 | [Shoda Ngami \- Remix](https://open.spotify.com/track/2W0F1H8Ef34utPdWIzdIsw) | [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY) | [Shoda Ngami \(Remix\)](https://open.spotify.com/album/4Tco5EhdTIAamseoex3Gw3) | 3:33 | 2022-12-12 | 2023-06-30 |

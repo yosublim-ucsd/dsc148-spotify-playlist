@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves.  Cover:   <a href=\"spotify:artist:6PvScqSJuICxvoA3UDYPmu\">JON VINYL</a>",
+  "description": "New music breaking waves.  Guest Curator:   <a href=\"spotify:artist:1K15GRZZATsCJyGJ4bYiEz\">Luh Tyler</a>",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "60 Miles",
+        "url": "https://open.spotify.com/album/0ZERBpDfUs0o3ZULTzb3cj"
+      },
+      "artists": [
+        {
+          "name": "Lil RT",
+          "url": "https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126802,
+      "name": "60 Miles",
+      "url": "https://open.spotify.com/track/3dyhk17fDgslADTDnU6sgG"
+    },
+    {
+      "album": {
         "name": "i am > i was",
         "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
       },
@@ -619,6 +637,24 @@
     },
     {
       "album": {
+        "name": "ANYCIA",
+        "url": "https://open.spotify.com/album/6okuA3J3nELszcvyGYJxC9"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113609,
+      "name": "ANYCIA",
+      "url": "https://open.spotify.com/track/4yYtvbpIlsBujDgvzS5nA6"
+    },
+    {
+      "album": {
         "name": "APPARENT",
         "url": "https://open.spotify.com/album/7mlxFceSjfCACrEhIwVscy"
       },
@@ -764,6 +800,24 @@
       "duration_ms": 169579,
       "name": "BAD bad",
       "url": "https://open.spotify.com/track/6wl5IN0HxYpqPJiG9ipWHG"
+    },
+    {
+      "album": {
+        "name": "Bae",
+        "url": "https://open.spotify.com/album/3sI2NjVOrYjtv6zu90gtVN"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Bae",
+      "url": "https://open.spotify.com/track/58BFQlOjR0A3K48J6QAz6O"
     },
     {
       "album": {
@@ -2924,7 +2978,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 148419,
       "name": "Easy Days",
       "url": "https://open.spotify.com/track/5apw7C5z0XtCZlTex1HPcl"
@@ -3025,6 +3079,24 @@
     },
     {
       "album": {
+        "name": "Been One",
+        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181429,
+      "name": "Equal Dirt",
+      "url": "https://open.spotify.com/track/1XoANQIq3IKd0YsZTDd4RR"
+    },
+    {
+      "album": {
         "name": "Euphoric",
         "url": "https://open.spotify.com/album/4Myiyj4LgdPiGZg2BzOtt5"
       },
@@ -3094,7 +3166,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 211242,
       "name": "Everything We Did",
       "url": "https://open.spotify.com/track/7jbc6jkT3r6POZgNIcypPZ"
@@ -3548,7 +3620,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 254726,
       "name": "For Keeps - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl"
@@ -3768,6 +3840,24 @@
       "duration_ms": 178144,
       "name": "GD Woman",
       "url": "https://open.spotify.com/track/3vVRD5GnlAU5hm4WH9TSpl"
+    },
+    {
+      "album": {
+        "name": "Ganger (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "Get Lucki",
+      "url": "https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6"
     },
     {
       "album": {
@@ -4010,7 +4100,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 156053,
       "name": "Good Guys",
       "url": "https://open.spotify.com/track/33qepYPIBzWlDVJtpV2oAK"
@@ -4406,7 +4496,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 241395,
       "name": "Higher Self",
       "url": "https://open.spotify.com/track/2KcaOSZlR03H41Nhmg2QyH"
@@ -4983,6 +5073,24 @@
     },
     {
       "album": {
+        "name": "ROTY",
+        "url": "https://open.spotify.com/album/1bj8fRMTZww5rRfP7jsnvi"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104727,
+      "name": "I\u2019m Him",
+      "url": "https://open.spotify.com/track/6ISRN95tJh7iVS0Z3kggeF"
+    },
+    {
+      "album": {
         "name": "Not Your Hero 4 Hire",
         "url": "https://open.spotify.com/album/5U9hvQnvNgJqJmPRy0R4JE"
       },
@@ -5122,6 +5230,28 @@
       "duration_ms": 278443,
       "name": "JUST SAY THAT (Remix) (feat. Quavo & GloRilla)",
       "url": "https://open.spotify.com/track/3g9CkAfcdZlBhoLvJqIRGc"
+    },
+    {
+      "album": {
+        "name": "MegaTron 2",
+        "url": "https://open.spotify.com/album/7zezk3hbEWlOooKBLuLJKp"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319294,
+      "name": "Kai Cenat / Old Days",
+      "url": "https://open.spotify.com/track/6WJCcHnZjQChksxrAo96w5"
     },
     {
       "album": {
@@ -5731,6 +5861,28 @@
     },
     {
       "album": {
+        "name": "Summer's Mine",
+        "url": "https://open.spotify.com/album/2T5rnsXB2Hu0LOw554ciPS"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Los and Nutty",
+          "url": "https://open.spotify.com/artist/1jWzClO5EIz8fpvtl3bno5"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308208,
+      "name": "Luh Tyler Flow (feat. Los & Nutty)",
+      "url": "https://open.spotify.com/track/78eZhtsGvlCpilrfSt3lBT"
+    },
+    {
+      "album": {
         "name": "LUV N DEVOTION",
         "url": "https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig"
       },
@@ -5742,7 +5894,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 181659,
       "name": "LUV N DEVOTION",
       "url": "https://open.spotify.com/track/2C2KmQyeGfMVULfrdMVs8i"
@@ -5818,6 +5970,32 @@
       "duration_ms": 92000,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ"
+    },
+    {
+      "album": {
+        "name": "Mama (with Skilla Baby & Tay B)",
+        "url": "https://open.spotify.com/album/1XwVNB9mqxR00Wbj34mnn3"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174250,
+      "name": "Mama (with Skilla Baby & Tay B)",
+      "url": "https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF"
     },
     {
       "album": {
@@ -7443,6 +7621,24 @@
     },
     {
       "album": {
+        "name": "Gumbo",
+        "url": "https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216146,
+      "name": "Portabella",
+      "url": "https://open.spotify.com/track/6Bwh3yd8BzeJOzqaOH3XnV"
+    },
+    {
+      "album": {
         "name": "going...going...GONE!",
         "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
       },
@@ -7816,7 +8012,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 233293,
       "name": "Rain",
       "url": "https://open.spotify.com/track/5jCfrKR0nPkEEUbM2VRcLP"
@@ -7896,7 +8092,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 148717,
       "name": "Red Light",
       "url": "https://open.spotify.com/track/7gV7gStLkm7ybb2WZhhksp"
@@ -8250,7 +8446,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 199615,
       "name": "Self",
       "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
@@ -8470,6 +8666,24 @@
       "duration_ms": 192000,
       "name": "Siempre",
       "url": "https://open.spotify.com/track/0Dqmom7WoaeIAox1YLISs8"
+    },
+    {
+      "album": {
+        "name": "gotta be geeked",
+        "url": "https://open.spotify.com/album/5Q42rQhzhmoqaX2xFj5IYK"
+      },
+      "artists": [
+        {
+          "name": "2Sdxrt3all",
+          "url": "https://open.spotify.com/artist/1P8P73y8wFhXBybKRBzhbv"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "signed a deal",
+      "url": "https://open.spotify.com/track/3FtbX3ZFt9w98MRIASjKkv"
     },
     {
       "album": {
@@ -8770,7 +8984,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 161529,
       "name": "Someday",
       "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
@@ -9238,7 +9452,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 270264,
       "name": "Take Me To Church - Spotify Singles",
       "url": "https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm"
@@ -9558,7 +9772,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 251991,
       "name": "Tiny Garden",
       "url": "https://open.spotify.com/track/40ke1BOmv6yyUrfbchPr3P"
@@ -9934,7 +10148,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 148732,
       "name": "Wait So Long",
       "url": "https://open.spotify.com/track/1vOhYqGR1bQCzVJVenL6mO"
@@ -9956,6 +10170,28 @@
       "duration_ms": 148732,
       "name": "Wait So Long",
       "url": "https://open.spotify.com/track/3nHLmfDuvY5LK3lCV1LHju"
+    },
+    {
+      "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124965,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz"
     },
     {
       "album": {
@@ -10414,6 +10650,24 @@
       "duration_ms": 168000,
       "name": "Withdrawals",
       "url": "https://open.spotify.com/track/7pCl3P8VCYTeV14yAuG6AZ"
+    },
+    {
+      "album": {
+        "name": "Wok & Minute Maid",
+        "url": "https://open.spotify.com/album/41YVFRk46K9O4YySpSnbxv"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145342,
+      "name": "Wok & Minute Maid",
+      "url": "https://open.spotify.com/track/4FffAW2ePUMuLsjcm8DAKa"
     },
     {
       "album": {

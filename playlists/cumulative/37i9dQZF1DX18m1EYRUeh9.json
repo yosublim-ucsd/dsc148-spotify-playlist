@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-11",
-  "description": "Smooth indie jazz joints from around the globe. Cover: Dana and Alden",
+  "description": "Smooth indie jazz joints from around the globe. Cover: Jonah Yano",
   "name": "Rarities",
   "tracks": [
     {
@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 224586,
       "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 280218,
       "name": "Been and Gone",
       "url": "https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc"
@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "concentrate",
+        "url": "https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281833,
+      "name": "concentrate",
+      "url": "https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc"
+    },
+    {
+      "album": {
         "name": "Crying",
         "url": "https://open.spotify.com/album/5aWnoAjvB8tUmdhiuoCenq"
       },
@@ -730,7 +748,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 122500,
       "name": "disconnected",
       "url": "https://open.spotify.com/track/69wC4CdczZOPDWtAHs1BTU"
@@ -752,6 +770,24 @@
       "duration_ms": 390000,
       "name": "Dogtown",
       "url": "https://open.spotify.com/track/5ktCZMdlQ5jf1o6vqKFSso"
+    },
+    {
+      "album": {
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/0YPLC3FyAYENuP3KhyLi2Q"
+      },
+      "artists": [
+        {
+          "name": "Ella Thompson",
+          "url": "https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/06jVhN0bYvWYNqHFb1JMwP"
     },
     {
       "album": {
@@ -814,7 +850,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 190769,
       "name": "Drream",
       "url": "https://open.spotify.com/track/0Sfjn8R8lvJwB4xjPAA2MU"
@@ -854,7 +890,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 200453,
       "name": "Echo In The Chamber",
       "url": "https://open.spotify.com/track/4z8q6Ob38UExUmoSXfB7Ei"
@@ -894,7 +930,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 261073,
       "name": "Ego",
       "url": "https://open.spotify.com/track/4pTY7fvhW6v0OtUGleAqUg"
@@ -1168,7 +1204,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 242711,
       "name": "hollatchu",
       "url": "https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU"
@@ -1500,6 +1536,24 @@
       "duration_ms": 309751,
       "name": "Last Words",
       "url": "https://open.spotify.com/track/3khWqd9n9x6U7UMDlXWxbm"
+    },
+    {
+      "album": {
+        "name": "I've Been Sleeping Too Long",
+        "url": "https://open.spotify.com/album/6CVjLo57YuLIHP8kxiJbzV"
+      },
+      "artists": [
+        {
+          "name": "Sunny Reyne",
+          "url": "https://open.spotify.com/artist/1Y8CWWmtMweAE79z3jBTFp"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267800,
+      "name": "Left Alone",
+      "url": "https://open.spotify.com/track/2CpvQxnyIJGAMLONxm3nVz"
     },
     {
       "album": {
@@ -2601,6 +2655,28 @@
     },
     {
       "album": {
+        "name": "Sun Always",
+        "url": "https://open.spotify.com/album/2egatdFWAG8YpZG7XwvGej"
+      },
+      "artists": [
+        {
+          "name": "Barney McAll",
+          "url": "https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9"
+        },
+        {
+          "name": "Natalie Slade",
+          "url": "https://open.spotify.com/artist/3PwArYQAOegQdsisBlr5JX"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260760,
+      "name": "Sun Always",
+      "url": "https://open.spotify.com/track/775nZtOlg5D8Qr29XLfYQ4"
+    },
+    {
+      "album": {
         "name": "Sun Shines Bright",
         "url": "https://open.spotify.com/album/04uNV1QxaOClUOjirVnokP"
       },
@@ -2652,7 +2728,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 187166,
       "name": "Taivshral",
       "url": "https://open.spotify.com/track/0Q6JH1gDVsDRiDpES28Dqc"
@@ -2856,7 +2932,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 721258,
       "name": "There Is No End",
       "url": "https://open.spotify.com/track/7osp6A9CjbjofNXFe2qiwF"

@@ -1,13 +1,29 @@
 {
-  "description": "Only the hottest Hip Hop from A-Reece (pictured), Offset, Drake, and more...",
-  "num_followers": 65521,
+  "description": "Only the hottest Hip Hop from Shane Eagle (pictured), Offset, Drake, and more...",
+  "num_followers": 65604,
   "original_name": "Hip Hop Circle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2EyOGNjNDI3YWE2NGNiMzAzNzFjYjk3NThiNDI5MDg2ZjU1NzNj",
+  "snapshot_id": "MCw1OGM4NWI5MDUwZjUyZDBlNWQ3ZDA4Y2M5MDBlNDk2ZDY5ZmZlOTQx",
   "tracks": [
+    {
+      "added_at": "2023-11-09 22:00:00",
+      "album": {
+        "name": "SHiRU'S iNTERLUDE",
+        "url": "https://open.spotify.com/album/2SUW9vWQqnhDFUO5kxkhU3"
+      },
+      "artists": [
+        {
+          "name": "Shane Eagle",
+          "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
+        }
+      ],
+      "duration_ms": 135401,
+      "name": "SHiRU'S iNTERLUDE",
+      "url": "https://open.spotify.com/track/2Fvx7f8fCXxUXS6PiOGivY"
+    },
     {
       "added_at": "2023-10-20 01:43:41",
       "album": {

@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-298 songs - 1 day 3 hr 36 min
+299 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [A Warm Hand](https://open.spotify.com/track/1s585WUgTgesQquLKUMgAN) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB) | [The Copenhagen Session \(Håkan Broström Meets Carl Winther Trio\)](https://open.spotify.com/album/3dssb76aJrW8j3TeFjkhtK) | 4:33 | 2022-06-30 |  |
 | [A Warm Hand](https://open.spotify.com/track/0kPGtWb0Bs0j3DW49kWbKh) | [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [A Warm Hand](https://open.spotify.com/album/5eDxoL7fRuACnX4gDF3I99) | 4:33 | 2022-06-30 | 2022-07-29 |
 | [Absyrations](https://open.spotify.com/track/14JAGLLamVp9p3EJaRYPfj) | [Alfio Origlio](https://open.spotify.com/artist/6jQq6X8pd59ggCEJ5lEj80) | [Absyrations](https://open.spotify.com/album/3v8U8oQdykY1kVF9IBg5nF) | 5:44 | 2020-10-09 |  |
+| [Acadia](https://open.spotify.com/track/1RAdA5l9OJNurt58Y1tWKM) | [Bobby Katz Quartet](https://open.spotify.com/artist/2ageVjmChv8ntPyL4DAhRm) | [Acadia](https://open.spotify.com/album/3NbKXnS56zCBSmqtFGt8Ti) | 3:21 | 2023-11-10 |  |
 | [Ack Värmeland, Du Sköna](https://open.spotify.com/track/29oS97LA4iW2EZA6Hxob1u) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Art Roho Serving Hannes Bennich](https://open.spotify.com/album/1qXhq2C2TDetoWkja1hDvA) | 4:12 | 2023-06-20 |  |
 | [Ack Värmeland, Du Sköna](https://open.spotify.com/track/7yPwVv5eIzLAV6wlb5b5bn) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Ack Värmeland, Du Sköna](https://open.spotify.com/album/23GS4EbBw1rT3dxxauCBjz) | 4:12 | 2023-02-16 | 2023-07-02 |
 | [After All](https://open.spotify.com/track/2r3dQilQpgjPbRomN7GAvD) | [Yuri Honing Acoustic Quartet](https://open.spotify.com/artist/3VW60tUry7TYVC2BibfgIN), [Joost Lijbaart](https://open.spotify.com/artist/7E7tPSNlkKLV4hnzhC9KKu), [Wolfert Brederode](https://open.spotify.com/artist/5G9DP1W3O68G7XA8sxIZDH), [Gulli Gudmundsson](https://open.spotify.com/artist/23MQJmhn0On07tkIuc9jDA) | [After All](https://open.spotify.com/album/3FMzxDxBTIi2HsmaTNKhV0) | 5:22 | 2020-10-09 | 2022-02-18 |

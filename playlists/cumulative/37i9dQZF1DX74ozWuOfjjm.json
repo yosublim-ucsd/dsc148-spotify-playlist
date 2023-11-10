@@ -8444,6 +8444,24 @@
     {
       "album": {
         "name": "I Get Into Trouble",
+        "url": "https://open.spotify.com/album/5YjuYOxqBr5RPuXq6XB2VT"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209290,
+      "name": "Two Years",
+      "url": "https://open.spotify.com/track/26MGzATUlxqpIHQ4uu8w6E"
+    },
+    {
+      "album": {
+        "name": "I Get Into Trouble",
         "url": "https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd"
       },
       "artists": [
@@ -8490,7 +8508,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 209290,
       "name": "Two Years",
       "url": "https://open.spotify.com/track/4OyLsWw2PAPNgwOVEbMN3H"

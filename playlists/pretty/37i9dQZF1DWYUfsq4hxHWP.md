@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Jake Banfield, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,107 likes - 175 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,210 likes - 175 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 174 | [Feel Like Home](https://open.spotify.com/track/1zhcQUjjT2oriofRV24buD) | [Karli June](https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR), [Ryan Langdon](https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV) | [Feel Like Home](https://open.spotify.com/album/3tifpzQWxBevrnvhOudOpH) | 2:53 |
 | 175 | [Dirt Road to Hell](https://open.spotify.com/track/0rpihy3C63QZQ86maQ3jrs) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Dirt Road to Hell](https://open.spotify.com/album/6q9bCpGal6joX0WX3GxmCQ) | 3:16 |
 
-Snapshot ID: `MCxlMzE1MTJlOThjYWVmYWE5Njk2Y2RlNTdkOTQ4ODY1NDMxM2Q4MDFi`
+Snapshot ID: `MCw4ZGQ0OWM1ZmQyMDQzZGZjYmM2Zjk3NDE2MGM5NjdhZjQzMzU2NTU4`

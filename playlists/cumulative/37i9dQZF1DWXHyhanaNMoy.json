@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion, fissa & good vibes! Cover: Rich2Gether",
+  "description": "Motion, fissa & good vibes! Cover: Yssine",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -902,7 +902,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 170510,
       "name": "Aqua Asia",
       "url": "https://open.spotify.com/track/7oRSL1nhTw5WH3up8D5UFb"
@@ -2164,7 +2164,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 117692,
       "name": "Billen Los (Sleazy Stereo Remix)",
       "url": "https://open.spotify.com/track/02dRBZlLrJ72stiEAnXaK7"
@@ -4522,7 +4522,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 185500,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
@@ -5845,6 +5845,40 @@
     },
     {
       "album": {
+        "name": "Road2Riches",
+        "url": "https://open.spotify.com/album/2TJcLWiQ3PLKMgriUsGcxy"
+      },
+      "artists": [
+        {
+          "name": "Rich2Gether",
+          "url": "https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb"
+        },
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        },
+        {
+          "name": "Giniio",
+          "url": "https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM"
+        },
+        {
+          "name": "Boat",
+          "url": "https://open.spotify.com/artist/545XHoCXOXRYsNrKjh4uHd"
+        },
+        {
+          "name": "Yxng Le",
+          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209203,
+      "name": "Girl Zoals Jou (feat. BKO, Boat, Giniio, Yxng LE)",
+      "url": "https://open.spotify.com/track/4SAXl8znX2bIGgZonnfWjm"
+    },
+    {
+      "album": {
         "name": "GLA",
         "url": "https://open.spotify.com/album/2xkI2zWx4nms13XxtYAvTY"
       },
@@ -6274,7 +6308,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 144000,
       "name": "Heimwee",
       "url": "https://open.spotify.com/track/3e4tQ9QyAx5LbeXI6Fi24q"
@@ -6504,10 +6538,28 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 158352,
       "name": "Hollandaise",
       "url": "https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE"
+    },
+    {
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186153,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12"
     },
     {
       "album": {
@@ -7102,6 +7154,24 @@
       "duration_ms": 216991,
       "name": "It's Plenty",
       "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
+    },
+    {
+      "album": {
+        "name": "J'fais que danser",
+        "url": "https://open.spotify.com/album/4w7f8o2ZkjNPBJalSVrh27"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173586,
+      "name": "J'fais que danser",
+      "url": "https://open.spotify.com/track/0SqLN8ZqucYOGZH7SD4HGC"
     },
     {
       "album": {
@@ -7771,6 +7841,36 @@
     },
     {
       "album": {
+        "name": "La Coqueta",
+        "url": "https://open.spotify.com/album/0J4w81GYvgqJTJd6Omry1E"
+      },
+      "artists": [
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Lion Fiah",
+          "url": "https://open.spotify.com/artist/4MvQy0WYny2XpZdGzpxZzN"
+        },
+        {
+          "name": "Bay-C",
+          "url": "https://open.spotify.com/artist/21ciCl1i66cJdB0owlmyQ8"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140588,
+      "name": "La Coqueta",
+      "url": "https://open.spotify.com/track/2s6PayqjpmEj7uepUyyeW1"
+    },
+    {
+      "album": {
         "name": "LA HORA Y EL D\u00cdA",
         "url": "https://open.spotify.com/album/3AucKVb9GvQ4pOGaZ8UhFK"
       },
@@ -8290,6 +8390,28 @@
       "duration_ms": 132941,
       "name": "Lens",
       "url": "https://open.spotify.com/track/66v9cILPaW6mDruYQs2FMQ"
+    },
+    {
+      "album": {
+        "name": "LET OP (Remix)",
+        "url": "https://open.spotify.com/album/3n0eB6Hz5fGS42vGgOgwJ0"
+      },
+      "artists": [
+        {
+          "name": "BLOK",
+          "url": "https://open.spotify.com/artist/2XLXuXKmPHSlPMIHcugu60"
+        },
+        {
+          "name": "BerryR",
+          "url": "https://open.spotify.com/artist/3DvGSDNONfFBcGBlmHrWth"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169360,
+      "name": "LET OP - Remix",
+      "url": "https://open.spotify.com/track/30Fit5ZmaHzpcCc0IoH2TV"
     },
     {
       "album": {
@@ -8854,6 +8976,24 @@
       "duration_ms": 192812,
       "name": "Loyalty (feat. Boat)",
       "url": "https://open.spotify.com/track/5EIEiMOslyLTd0H5Ej6d4i"
+    },
+    {
+      "album": {
+        "name": "Lucky One",
+        "url": "https://open.spotify.com/album/0Uk8PheqHOcCi1qGy68Umy"
+      },
+      "artists": [
+        {
+          "name": "Yssine",
+          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151326,
+      "name": "Lucky One",
+      "url": "https://open.spotify.com/track/2Exlj6mWLS6g4wXw7FsB23"
     },
     {
       "album": {
@@ -10782,7 +10922,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 113743,
       "name": "Nyash (P.Y.T.)",
       "url": "https://open.spotify.com/track/4pnsQXXSRkmIUHNrSczban"
@@ -10820,6 +10960,32 @@
       "duration_ms": 235200,
       "name": "OA",
       "url": "https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR"
+    },
+    {
+      "album": {
+        "name": "OFFICIEEL",
+        "url": "https://open.spotify.com/album/4IdIQ26HQOxh1CJEuDxHh9"
+      },
+      "artists": [
+        {
+          "name": "TEAM PEACH",
+          "url": "https://open.spotify.com/artist/3Ea9Rva7WpmSyRdxS8tsFC"
+        },
+        {
+          "name": "Major Dreamin'",
+          "url": "https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG"
+        },
+        {
+          "name": "JPB",
+          "url": "https://open.spotify.com/artist/00QVOjP9VkOOryijYvaJoO"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134236,
+      "name": "OFFICIEEL",
+      "url": "https://open.spotify.com/track/5VG7VF3dbmeDBpW197jOtP"
     },
     {
       "album": {
@@ -11018,7 +11184,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 183454,
       "name": "Only Lover",
       "url": "https://open.spotify.com/track/2rFfVt1pS7hmew01Q2uL2b"
@@ -13772,7 +13938,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 145001,
       "name": "Stout, Bad & Vies",
       "url": "https://open.spotify.com/track/15jJDcp0hJnpuYQz0eTf5l"
@@ -16768,7 +16934,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 179517,
       "name": "You're Hired (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI"
@@ -17018,6 +17184,28 @@
       "duration_ms": 134456,
       "name": "Zonder Jou",
       "url": "https://open.spotify.com/track/4hUh1nZIF3VioqWKuGMceU"
+    },
+    {
+      "album": {
+        "name": "\u00c7a c'est bien",
+        "url": "https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159299,
+      "name": "\u00c7a c'est bien",
+      "url": "https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy"

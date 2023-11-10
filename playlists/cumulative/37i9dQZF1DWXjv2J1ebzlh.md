@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,181 songs - 6 day 2 hr 57 min
+2,182 songs - 6 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,10 +107,11 @@
 | [Aima](https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Hybridism](https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H) | 5:08 | 2022-06-09 |  |
 | [Ain't No Stopping Us Now \- Unreleased Version](https://open.spotify.com/track/1yAXD9x09EhJHlq2qQCyuD) | [Risco Connection](https://open.spotify.com/artist/3YrLgmYQWlt5j33mG8smnG) | [Ain't No Stopping Us Now / Chapter Three](https://open.spotify.com/album/5rIjiIXVzF7xqWYLZtbpZY) | 6:11 | 2022-07-27 |  |
 | [Ain't No Stopping Us Now \- Unreleased Version](https://open.spotify.com/track/79UEK0XYemip32SdLdAegB) | [Risco Connection](https://open.spotify.com/artist/3YrLgmYQWlt5j33mG8smnG) | [Ain't No Stopping us Now & Chapter Three](https://open.spotify.com/album/4JDARvfHaSYTE5mUBxDIgH) | 6:11 | 2022-06-09 | 2022-07-29 |
-| [Ain't No Sunshine](https://open.spotify.com/track/1NSGTSP27TtNSloJeax16H) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Peace Out](https://open.spotify.com/album/4bSC4fDk7rHdOTWouM16AN) | 2:13 | 2023-10-06 |  |
+| [Ain't No Sunshine](https://open.spotify.com/track/1NSGTSP27TtNSloJeax16H) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Peace Out](https://open.spotify.com/album/4bSC4fDk7rHdOTWouM16AN) | 2:13 | 2023-10-06 | 2023-11-10 |
 | [Ain't No Sunshine](https://open.spotify.com/track/1kNg40C5pivfy1Npv5JT9G) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [The Best of Trojan Soul Reggae Vol\. 1](https://open.spotify.com/album/6tj67ZqFEtgjFc7iWZsnlX) | 2:14 | 2023-03-17 | 2023-11-05 |
 | [Ain't No Sunshine](https://open.spotify.com/track/6ICYsILYG5nyNdQuG8EuJQ) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Feel Good All Over: Anthology 1970\-1976](https://open.spotify.com/album/7FhbsHNTfBc0FdGMo0ILQC) | 2:14 | 2022-07-12 | 2022-07-29 |
 | [Ain't No Sunshine](https://open.spotify.com/track/20WM9L3FvTpQdJudUgxRXk) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 2:16 | 2022-07-27 | 2023-04-09 |
+| [Ain't No Sunshine](https://open.spotify.com/track/1JiNTK14u3BdgySsRQidwN) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [The Best of Trojan Soul Reggae Vol\. 1](https://open.spotify.com/album/6jJE7KQgDyhxcdRwRxZ9yh) | 2:16 | 2023-10-06 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/4uEVSicqWTP9BV03nT7QdB) | [Sivuca](https://open.spotify.com/artist/11L2rdluUfcxyWcX2feoCm) | [Sivuca](https://open.spotify.com/album/17NZWLPWY3TFp8BQqKyK4B) | 4:49 | 2022-06-09 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/2dcFp5BKSHTbzoyJd0MdRk) | [The Equatics](https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P) | [Doin It!!!!](https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW) | 3:33 | 2022-06-09 |  |
 | [Aisi Chaal Mein Chalon](https://open.spotify.com/track/0p9NvfotJjKV4MZwhyoWkP) | [Nisar Bazmi](https://open.spotify.com/artist/4JRIUIuyjvhkGS0BkFTrYs) | [A Touch Of Class \- Nisar Bazmi Instrumental](https://open.spotify.com/album/1e6UWDIZFAlsyWTRVDFo9l) | 3:35 | 2022-07-12 |  |

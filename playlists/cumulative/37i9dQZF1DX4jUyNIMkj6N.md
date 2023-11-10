@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-231 songs - 14 hr 18 min
+232 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Waiting](https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI) | 3:04 | 2023-02-16 |  |
 | [Waiting](https://open.spotify.com/track/4uVC8WydYHDmemPeYov9rZ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [EPII \(+ Skisser EP\)](https://open.spotify.com/album/4WQf5Do7ASTXKeaRjnzgm9) | 3:04 | 2022-07-14 | 2023-02-25 |
 | [Waiting](https://open.spotify.com/track/7eClkLWbrr3TorYedzaDkI) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/5Ni787cuufFVfQAif3M68j) | 3:04 | 2021-12-02 | 2022-07-28 |
-| [waiting](https://open.spotify.com/track/5RJ0y1evuKlh05OLkoGo2X) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [waiting](https://open.spotify.com/album/5wIi277EIR8RPjTyhBcet0) | 4:01 | 2023-08-17 |  |
+| [waiting](https://open.spotify.com/track/5RJ0y1evuKlh05OLkoGo2X) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [waiting](https://open.spotify.com/album/5wIi277EIR8RPjTyhBcet0) | 4:01 | 2023-08-17 | 2023-11-10 |
 | [Was There Nothing?](https://open.spotify.com/track/1lJ33w4urTeHl9UPco2R4S) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Was There Nothing?](https://open.spotify.com/album/1zkqNHMoZHeWxN13Jf9ijC) | 3:48 | 2021-12-02 | 2022-07-26 |
 | [Was There Nothing?](https://open.spotify.com/track/1IwlH20GMbWBZoXOddGxe1) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence \(Deluxe Edition\)](https://open.spotify.com/album/6ltUyqAtJxfAfdqLXZGCkZ) | 3:49 | 2022-07-14 | 2022-11-13 |
 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 | 2022-03-24 |  |
@@ -234,6 +234,7 @@
 | [You Don't Deserve Me](https://open.spotify.com/track/1tXGmAXn4cJXA2oE2XXVFV) | [Embla and the Karidotters](https://open.spotify.com/artist/1n3qjPEPKXcQjHVwlfcagR) | [You Don't Deserve Me](https://open.spotify.com/album/4l1koxPVNRzPi6yPhgBfYU) | 3:24 | 2022-06-23 | 2022-07-13 |
 | [You Don't Know](https://open.spotify.com/track/4nm8FXnQSkdPgpJEmwpfVT) | [Ellison](https://open.spotify.com/artist/1pF3ZfKACJViikvLsIjELq) | [You Don't Know](https://open.spotify.com/album/4EeoeBGm4VyncHWSoX3gld) | 3:08 | 2023-10-05 |  |
 | [You Might Remember](https://open.spotify.com/track/4P3Rko9bTrYAN3au5s8ko1) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y) | [You Might Remember](https://open.spotify.com/album/0lf0A4pohS1Wv2Gb6tZ5Pw) | 3:59 | 2022-11-10 | 2022-11-12 |
+| [You Wanted Free](https://open.spotify.com/track/0rEFSbepPWBirgECb0CV63) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [You Wanted Free](https://open.spotify.com/album/6tM3BjwLZFKBeYHzGpG86Q) | 2:57 | 2023-11-09 |  |
 | [Your Everything](https://open.spotify.com/track/5D6DZqg15pfpCgtVoYEfLT) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Your Everything](https://open.spotify.com/album/4DSrFEcnUllROeMoWimU4C) | 4:19 | 2022-03-10 | 2022-07-29 |
 | [Your Ghost](https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Your Ghost](https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU) | 3:20 | 2021-12-02 |  |
 | [Your Return](https://open.spotify.com/track/2mEKighM7TIAr5sIOmlNR8) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [Now Would Be a Good Time](https://open.spotify.com/album/01wZ8rHrwrHjttMRhOGh2H) | 4:14 | 2022-03-17 | 2022-07-29 |

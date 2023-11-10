@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. <br/> Cover:  <a href="spotify:artist:44JW18XzNr86kKNWJq8eg1">Jastin Martin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,233 likes - 67 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,249 likes - 67 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 59 | [Running Home](https://open.spotify.com/track/6EyqWhpNwQFRAwAFUjPrsQ) | [Billyracxx](https://open.spotify.com/artist/6S4PaG0wJvZOUPxbnrvN4O), [GrimesAI](https://open.spotify.com/artist/7qiNgbnabvfRbA9lomTgEk) | [Running Home](https://open.spotify.com/album/3eHl9FNsv51mkVqcnTmcCL) | 1:42 |
 | 60 | [Nothing But The Blood](https://open.spotify.com/track/7jclwK9tMrEAbTskC7E4t3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Nothing But The Blood](https://open.spotify.com/album/2IJcWZ8vDouHlOD61LEb4b) | 3:07 |
 | 61 | [Boss Blues](https://open.spotify.com/track/2VAr6Z5n4pO3kI8m1ncYpb) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Boss Blues](https://open.spotify.com/album/7deP4NemY3eCBMgk3GmlWG) | 3:16 |
-| 62 | [Pop Like](https://open.spotify.com/track/1LudIHle04O6wfSi2QNdqL) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Be Someone: Texas Population](https://open.spotify.com/album/14XtPxh7Dy1qbLgIw8tYNi) | 3:35 |
+| 62 | [Pop Like](https://open.spotify.com/track/4UIgZPjsQRJymZsqHg2SB8) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Pop Like](https://open.spotify.com/album/6pKNElZ89izWZXXHQpqS2S) | 3:35 |
 | 63 | [WORTH IT \(feat\. Don Toliver\)](https://open.spotify.com/track/08oo0eCDQZ9XC3zQR8q44y) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [WORTH IT \(feat\. Don Toliver\)](https://open.spotify.com/album/1TLxAcly1q7a0tyavTGeNq) | 3:08 |
 | 64 | [First Class](https://open.spotify.com/track/6AfWb30zxst5E61s94m19j) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Stuck in Motion](https://open.spotify.com/album/02ZZ5x1ceoDV8hv7UQ7r8b) | 4:31 |
 | 65 | [Get to Me](https://open.spotify.com/track/4sACJ1Au1UOYg3MRSjzinL) | [KeyWay](https://open.spotify.com/artist/5jGsJvasiI09NSVoo13ve3) | [Get to Me](https://open.spotify.com/album/35hPStGiTvwdxTaG75UvrE) | 2:27 |
 | 66 | [misunderstood](https://open.spotify.com/track/3S7uLIpYgj20JdZrkhoFsx) | [AJ McQueen](https://open.spotify.com/artist/5yQzq87Fu3ZTADxVWwWoj7) | [misunderstood](https://open.spotify.com/album/6skd3vFOC6WlQfq5p8SmtP) | 3:54 |
 | 67 | [From Tha Back 2](https://open.spotify.com/track/2qm1EwnWTU8al0dNtsPNbp) | [lil.eaarl](https://open.spotify.com/artist/4qNArONVuwcb76UTLYAEES), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [From Tha Back 2](https://open.spotify.com/album/07m2l00gTakuTbiMYwwjMc) | 2:47 |
 
-Snapshot ID: `MCwzYTUxZTAwMTZjMTNhMjQyM2VlNDdkYzBiYzIzNTkyNDlhZmY5MjQ3`
+Snapshot ID: `MCwzNzZlYThlNjYwNDkxZWQ0OWFkMDk1Njk1MTBjYjY3ZDljNGJmOTE3`

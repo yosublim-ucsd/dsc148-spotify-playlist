@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW?si=_fbG6IqYQpSWyW8_P12_3A\"> Mellissa </a>",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM?si=YWI3GWJkSYy2VxygARVybQ\"> Y'akoto </a>",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -1558,6 +1558,24 @@
       "duration_ms": 191150,
       "name": "Body Wicked",
       "url": "https://open.spotify.com/track/6XVnXaO6uI9Ys5T6sAck2c"
+    },
+    {
+      "album": {
+        "name": "Bololo",
+        "url": "https://open.spotify.com/album/1TQdxY3YxnwiuxBmDqBTNH"
+      },
+      "artists": [
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "Bololo",
+      "url": "https://open.spotify.com/track/3SMnqyuEfq6HImqbnyAjyG"
     },
     {
       "album": {
@@ -6611,6 +6629,24 @@
     },
     {
       "album": {
+        "name": "Mad",
+        "url": "https://open.spotify.com/album/24Liy9BnSbQPWQoGncnGCE"
+      },
+      "artists": [
+        {
+          "name": "Y'akoto",
+          "url": "https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202886,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/1XADbL6VwPL1rqXBVOszfG"
+    },
+    {
+      "album": {
         "name": "Make Me Believe (Nana)",
         "url": "https://open.spotify.com/album/03MqZoZQMFlQ6XiM2HalZ0"
       },
@@ -9005,6 +9041,28 @@
     },
     {
       "album": {
+        "name": "Ready (Acoustic)",
+        "url": "https://open.spotify.com/album/43liR0KxKxxMaJOyxoR7FE"
+      },
+      "artists": [
+        {
+          "name": "Toye Aru",
+          "url": "https://open.spotify.com/artist/7HgyJrftDM9DDIwK4ztJoM"
+        },
+        {
+          "name": "Derrick UGC",
+          "url": "https://open.spotify.com/artist/0LUhb3eRD3MsTyqiJtibsS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171262,
+      "name": "Ready - Acoustic",
+      "url": "https://open.spotify.com/track/1mZtvB2gxTbA4oeXbYkenh"
+    },
+    {
+      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/12flURqPmncSp4H3RgI71k"
       },
@@ -10160,6 +10218,24 @@
       "duration_ms": 184800,
       "name": "Sote",
       "url": "https://open.spotify.com/track/78UUPN12it0yODLLGHSdPV"
+    },
+    {
+      "album": {
+        "name": "Ms. Elle",
+        "url": "https://open.spotify.com/album/5LmwjRy0etKdguKSIi17hn"
+      },
+      "artists": [
+        {
+          "name": "Luna Elle",
+          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196600,
+      "name": "Souls Align",
+      "url": "https://open.spotify.com/track/2XFqq4pMRyocImfXqzUj5O"
     },
     {
       "album": {
@@ -11422,6 +11498,24 @@
       "duration_ms": 155121,
       "name": "Uuu",
       "url": "https://open.spotify.com/track/7Dtp0C2m1yivLDqZvtPuUn"
+    },
+    {
+      "album": {
+        "name": "A Wonderful Time",
+        "url": "https://open.spotify.com/album/0qbHtNyI6S1uDvIi3alx6N"
+      },
+      "artists": [
+        {
+          "name": "Herman Suede",
+          "url": "https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93473,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/5CFIAgBLBm53lMElR7oaVJ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "ur on the list bb \ud83e\ude90 featuring piri, Tommy Villiers",
+  "description": "ur on the list bb \ud83e\ude90 featuring niina",
   "name": "planet rave",
   "tracks": [
     {
@@ -1540,6 +1540,32 @@
       "duration_ms": 393600,
       "name": "Bloodrave",
       "url": "https://open.spotify.com/track/7o6xRFPRYBVcoI7NnBGlbn"
+    },
+    {
+      "album": {
+        "name": "bloody mary",
+        "url": "https://open.spotify.com/album/0xmKvBjH3CSOG6tKdpoMAY"
+      },
+      "artists": [
+        {
+          "name": "2504",
+          "url": "https://open.spotify.com/artist/3s6Gdmnv9MuQNX2E7i5EMr"
+        },
+        {
+          "name": "Pr\u00f6z",
+          "url": "https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX"
+        },
+        {
+          "name": "Senses",
+          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129470,
+      "name": "bloody mary",
+      "url": "https://open.spotify.com/track/4UpfzD7yre0D0JKpnzjRE5"
     },
     {
       "album": {
@@ -3334,7 +3360,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 121846,
       "name": "Don't Want This To Be Over",
       "url": "https://open.spotify.com/track/5twf1eTmqVUvPpmjGPPaX0"
@@ -5056,6 +5082,24 @@
       "duration_ms": 235750,
       "name": "Gift",
       "url": "https://open.spotify.com/track/66UcoWnZPHQUJwpRRywYFm"
+    },
+    {
+      "album": {
+        "name": "summer in the rain",
+        "url": "https://open.spotify.com/album/5ZDHGnmqfZRdgsjDmw6xZz"
+      },
+      "artists": [
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158080,
+      "name": "gimme gimme",
+      "url": "https://open.spotify.com/track/0LWrBENo9TbgKc8hmIn1Ec"
     },
     {
       "album": {
@@ -7096,7 +7140,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 176445,
       "name": "Kiera \u2661",
       "url": "https://open.spotify.com/track/6wxp4xFZqVO1sY5ibRKa71"
@@ -8832,6 +8876,28 @@
       "duration_ms": 171622,
       "name": "nice 2 me",
       "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
+    },
+    {
+      "album": {
+        "name": "Heaven knows",
+        "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162413,
+      "name": "Nice to meet you (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR"
     },
     {
       "album": {
@@ -13548,7 +13614,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 258591,
       "name": "Wat Is Die Mo?",
       "url": "https://open.spotify.com/track/4dpV1kwSTAEP2Nlo6lqmwY"

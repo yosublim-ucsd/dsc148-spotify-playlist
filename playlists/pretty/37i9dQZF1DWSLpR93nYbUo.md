@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: Beltran
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,729 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,734 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 69 | [Laha](https://open.spotify.com/track/5kaBa5XzSlgiwg4ArBDmRZ) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Laha EP](https://open.spotify.com/album/4OTtTRp0v3SXcX42mj7QoU) | 6:14 |
 | 70 | [Siento Siento](https://open.spotify.com/track/6gBzC3Aldrj78W0dLWgqC3) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Siento Siento](https://open.spotify.com/album/1pGfEaQriYYtZhvP1GBc8p) | 2:57 |
 
-Snapshot ID: `MCwwNTExNWM5NDY1MDM0MDdjODMxZDlkNzVhODY5Yzc1YjMwNWU4MmIw`
+Snapshot ID: `MCw4NDBjNGI2M2NlMjY4YzA0YzgwZmI5Mjg4ZGM5NzBmNmJkYjhmNmNh`

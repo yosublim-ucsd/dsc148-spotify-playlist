@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
-  "num_followers": 103210,
+  "num_followers": 103302,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjdmNGRkYjMxZGVhMGI3MTYzNjk4MDc3OWJlZDBjZDIyYzVjZDVl",
+  "snapshot_id": "MCw3MTAxMDA2ZDRmYzc4NzZmNjNkNjQwZmZhMTNmZGI4MmEyMjQ0NGNh",
   "tracks": [
     {
       "added_at": "2023-11-03 03:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
+        "name": "Rose Pink Cadillac",
+        "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 261911,
+      "name": "Rose Pink Cadillac",
+      "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
         "name": "N",
         "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 182040,
       "name": "Long Time Ago",
       "url": "https://open.spotify.com/track/5KkaczeDlUwo6cDTVaR6ca"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Rose Pink Cadillac",
-        "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 261911,
-      "name": "Rose Pink Cadillac",
-      "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB"
     },
     {
       "added_at": "2023-11-03 03:00:00",

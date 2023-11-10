@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:0JIgW2OFhm0hH8UdCMU5SU">Jan Marczewski</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,795 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,825 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Night Shift](https://open.spotify.com/track/5maaJbXHaGM6RiTTF4qEFx) | [Utracki.Obwn](https://open.spotify.com/artist/5Mjmvf4xclnuWsy6MGuxW6) | [Night Shift](https://open.spotify.com/album/33iJEYDBjyZhWQaI44jbBn) | 2:47 |
 | 100 | [bb blue](https://open.spotify.com/track/1TKX1bepB71PU6uyQOCCdv) | [Patrick Rubin](https://open.spotify.com/artist/1S5Xe2Czvc3Ec3DQOumXht), [Ola Budzyńska](https://open.spotify.com/artist/1Qc8DxCV91HhFNnoQbS5m6) | [bb blue](https://open.spotify.com/album/6EiTawrxy5PAwIHjcuAe5x) | 2:20 |
 
-Snapshot ID: `MCxjMzFmODJjNGRmNzczZWU1ZWI2MzJhOTViNWRlMzVlZDc0YzQ3ZTRh`
+Snapshot ID: `MCwxNzMyMjQ0ZjM5Zjc1OTQzZGE0Yjg1NjQ1YTE3MDRlZmY1Njk2NDBl`

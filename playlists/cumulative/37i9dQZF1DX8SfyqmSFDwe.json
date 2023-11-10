@@ -122,7 +122,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 157701,
       "name": "Agarrala",
       "url": "https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj"
@@ -1951,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "Mi Trayectoria",
+        "url": "https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210546,
+      "name": "Esta Noche de Travesuras",
+      "url": "https://open.spotify.com/track/0AEVupnoNEKPU81AOuPwjS"
+    },
+    {
+      "album": {
         "name": "Flow Music Presenta: Flow la Discoteka",
         "url": "https://open.spotify.com/album/2yoFaw5GRQQosjxCT3GmeQ"
       },
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 234733,
       "name": "Gata Oficial",
       "url": "https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF"
@@ -5150,7 +5168,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 167026,
       "name": "Te la Tiro Pa Que Bailes",
       "url": "https://open.spotify.com/track/4y9Yn8z2cUVvmSPFMEVirk"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-2,158 songs - 4 day 9 hr 38 min
+2,159 songs - 4 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1106,7 +1106,8 @@
 | [LEYLA](https://open.spotify.com/track/4nqNgJp5TgbLsBffJj1IPX) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [LEYLA](https://open.spotify.com/album/6t0GhwmfvthBsJh8PFoNQP) | 2:56 | 2022-12-17 | 2022-12-24 |
 | [Licht brennt](https://open.spotify.com/track/4gmYeeV53RzyXDxtlVa4jW) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z) | [Licht brennt](https://open.spotify.com/album/2LBzdqDsf6TfbLwIiy21hG) | 1:49 | 2022-11-26 | 2022-12-03 |
 | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [DORFDiSKO ZWEi](https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ) | 3:08 | 2023-06-03 |  |
-| [Liebe Grüsse](https://open.spotify.com/track/5qQLBOEAelSN7JWqX3RIIv) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Liebe Grüsse](https://open.spotify.com/album/795oJD0ZgKdDjbKojgmswf) | 2:16 | 2023-10-28 |  |
+| [Liebe Grüsse](https://open.spotify.com/track/4mVnqNiw2Kf5AHj9j0KD6u) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [XV RR Edition](https://open.spotify.com/album/0Nopg4zcWmvHXHLHMosDSp) | 2:16 | 2023-11-09 |  |
+| [Liebe Grüsse](https://open.spotify.com/track/5qQLBOEAelSN7JWqX3RIIv) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Liebe Grüsse](https://open.spotify.com/album/795oJD0ZgKdDjbKojgmswf) | 2:16 | 2023-10-28 | 2023-11-10 |
 | [Liebe in Gefahr](https://open.spotify.com/track/70yYrwCoBymAyDp4My118P) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Liebe in Gefahr](https://open.spotify.com/album/76sLBhwl7YfqEOwJmDj3Ev) | 2:54 | 2023-05-06 | 2023-05-08 |
 | [Liebe ist ...](https://open.spotify.com/track/3Gyu33NoKLZEMR4zvDOG3d) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [Liebe ist ...](https://open.spotify.com/album/0JyGHZd20zJqpIFNvSPb5j) | 3:03 | 2022-02-15 | 2022-02-20 |
 | [Liebe ist ...](https://open.spotify.com/track/6ICSCAnoMatLPm3ZhIzRje) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [Rummelbums](https://open.spotify.com/album/23uxGdxXWU2jvLmf7wrSvr) | 3:03 | 2022-02-19 | 2022-02-26 |

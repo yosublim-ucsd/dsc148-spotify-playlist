@@ -4,7 +4,7 @@
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=NyJZ8avxT\-Cu\-4SHH1wD6g">DBN Gogo</a>
 
-160 songs - 11 hr 30 min
+161 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Tell Somebody](https://open.spotify.com/track/3EWJSHGXN8dA983I0sMhmd) | [Effyzzie Music](https://open.spotify.com/artist/6t4HMpwMpyeEmGv1QvEVPS), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [Tell Somebody](https://open.spotify.com/album/5PqqFK9QKjPlh4oeRRSqx8) | 3:57 | 2022-05-23 | 2022-12-13 |
 | [Tembisa](https://open.spotify.com/track/1OdNCZD8SfPpXcDfwg0OMk) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL) | [Tembisa](https://open.spotify.com/album/0Rt6K8G2SbuCmjncX7B5lw) | 5:25 | 2022-05-23 | 2022-11-11 |
 | [The One \(Chop Life\)](https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [The One \(Chop Life\)](https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl) | 3:16 | 2023-03-22 |  |
-| [The Out of Africa Hypothesis](https://open.spotify.com/track/3k6MvIaHbm6YEOquLmEcw3) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [Zo Zhit](https://open.spotify.com/artist/4G0afFvUmwf6FMVm7DoEwx) | [The Out of Africa Hypothesis](https://open.spotify.com/album/3tGPmRJlRvjfEYTSbUt28r) | 4:42 | 2023-10-12 |  |
+| [The Out of Africa Hypothesis](https://open.spotify.com/track/1EJ4NsHvhxdWfmC4SukwRd) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [Zo Zhit](https://open.spotify.com/artist/4G0afFvUmwf6FMVm7DoEwx) | [JAPANESE AMAPIANO](https://open.spotify.com/album/1HWNAyuS01dk3hyspkwyyk) | 4:42 | 2023-10-27 |  |
+| [The Out of Africa Hypothesis](https://open.spotify.com/track/3k6MvIaHbm6YEOquLmEcw3) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [Zo Zhit](https://open.spotify.com/artist/4G0afFvUmwf6FMVm7DoEwx) | [The Out of Africa Hypothesis](https://open.spotify.com/album/3tGPmRJlRvjfEYTSbUt28r) | 4:42 | 2023-10-12 | 2023-11-10 |
 | [Things on Things](https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Things on Things](https://open.spotify.com/album/5OXS5DoiCaozs5l7WztbLc) | 3:16 | 2023-10-12 |  |
 | [Toku](https://open.spotify.com/track/290Q8ZOLk1Laqt3giUGRCd) | [KΣITO](https://open.spotify.com/artist/5kgyjglDiOtJ4CI6vtBYhO), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Toku](https://open.spotify.com/album/3DOxTWi2PFLXCwXBC6F9LY) | 5:30 | 2022-05-23 | 2022-12-13 |
 | [Toro \(feat\. DDG\)](https://open.spotify.com/track/6qaRAEwQ7rQ6Qd1kwBEqWK) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Toro \(feat\. DDG\)](https://open.spotify.com/album/1azB57ciVEMuo9C5qMcBWp) | 3:55 | 2022-11-17 | 2023-10-13 |

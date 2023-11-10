@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from The Beatles, Majid Jordan, NAV, WILLOW and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,707 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,726 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 59 | [Dried Up](https://open.spotify.com/track/2whji197SjeEyLafUkEAbN) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Town](https://open.spotify.com/album/6DjifeDOsCYY6m7JrOwGpn) | 3:01 |
 | 60 | [Leave This Home](https://open.spotify.com/track/3N48xSRpwfwBytTBOYxh79) | [Dweller](https://open.spotify.com/artist/0BXalrIb822OpYzlONODHU), [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz), [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4), [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Leave This Home](https://open.spotify.com/album/4myJO9gIxp7nMeGd6TlKO6) | 5:21 |
 
-Snapshot ID: `MCwxNjE3ZmRlYWUyMWJjMGE2MmIyYjRkMGI3NTY0N2M0MDk2ODc4ZWUz`
+Snapshot ID: `MCw5YjYxYzc4MmFhNGEzODRiYmNiZWMwN2NlNGJmM2M3YTI0YTljM2U2`

@@ -1,12 +1,12 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 19874,
+  "num_followers": 19997,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDFlMzg5NzRiZDIzZDI3MjYxYjI3MzhlNDM3ZjI2NDljNWE1NDk2",
+  "snapshot_id": "MCw4NmZkYzBhYjk5OWFkNGM2OTIwMDI0NTQ2N2I3ZjJjYjgxOTUyYjc1",
   "tracks": [
     {
       "added_at": "2023-10-26 13:19:24",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "Perceive",
-        "url": "https://open.spotify.com/album/5xC24lrQbOvO5Dq9WtB4qO"
-      },
-      "artists": [
-        {
-          "name": "Julianne Pascal",
-          "url": "https://open.spotify.com/artist/3WLA2XptpVp4ALuVFnnQeO"
-        }
-      ],
-      "duration_ms": 173499,
-      "name": "Perceive",
-      "url": "https://open.spotify.com/track/6A3NVkdtex7xq4YBmC9TET"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
         "name": "Wander",
         "url": "https://open.spotify.com/album/4NjEMm80IvOoNIqJYk4CrY"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 200706,
       "name": "Wander",
       "url": "https://open.spotify.com/track/5S2QBHpK9SrxeuOHHTpHqd"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
+        "name": "Perceive",
+        "url": "https://open.spotify.com/album/5xC24lrQbOvO5Dq9WtB4qO"
+      },
+      "artists": [
+        {
+          "name": "Julianne Pascal",
+          "url": "https://open.spotify.com/artist/3WLA2XptpVp4ALuVFnnQeO"
+        }
+      ],
+      "duration_ms": 173499,
+      "name": "Perceive",
+      "url": "https://open.spotify.com/track/6A3NVkdtex7xq4YBmC9TET"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "Asana",
-        "url": "https://open.spotify.com/album/5jKt8AOgsOYMaEdIykJ3bo"
-      },
-      "artists": [
-        {
-          "name": "Makalu",
-          "url": "https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Asana",
-      "url": "https://open.spotify.com/track/5JrPeUYpXnIXFAA1YLM8kc"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 144705,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
+        "name": "Asana",
+        "url": "https://open.spotify.com/album/5jKt8AOgsOYMaEdIykJ3bo"
+      },
+      "artists": [
+        {
+          "name": "Makalu",
+          "url": "https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Asana",
+      "url": "https://open.spotify.com/track/5JrPeUYpXnIXFAA1YLM8kc"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2"
-      },
-      "artists": [
-        {
-          "name": "Zoe Connelly",
-          "url": "https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO"
-        }
-      ],
-      "duration_ms": 136820,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
         "name": "Asha",
         "url": "https://open.spotify.com/album/45j2xwLqufgtoAkOIBna6p"
       },
@@ -1947,6 +1931,22 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2"
+      },
+      "artists": [
+        {
+          "name": "Zoe Connelly",
+          "url": "https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO"
+        }
+      ],
+      "duration_ms": 136820,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
         "name": "Essence of Mind",
         "url": "https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y"
       },
@@ -1959,6 +1959,22 @@
       "duration_ms": 240000,
       "name": "Sparrow Cloud",
       "url": "https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
+        "name": "Green Haven",
+        "url": "https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q"
+      },
+      "artists": [
+        {
+          "name": "Marolo Ocean",
+          "url": "https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ"
+        }
+      ],
+      "duration_ms": 163436,
+      "name": "Clearing Your Mind",
+      "url": "https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -2007,22 +2023,6 @@
       "duration_ms": 160759,
       "name": "Sakshi / Witness",
       "url": "https://open.spotify.com/track/6Axf5ANnyyIzYqr45TlclM"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
-        "name": "Green Haven",
-        "url": "https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q"
-      },
-      "artists": [
-        {
-          "name": "Marolo Ocean",
-          "url": "https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ"
-        }
-      ],
-      "duration_ms": 163436,
-      "name": "Clearing Your Mind",
-      "url": "https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "Travel Through Time",
-        "url": "https://open.spotify.com/album/0XqN1uf1gz5Ts00H9slDZS"
-      },
-      "artists": [
-        {
-          "name": "Sonic Ark",
-          "url": "https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1"
-        }
-      ],
-      "duration_ms": 200367,
-      "name": "Travel Through Time",
-      "url": "https://open.spotify.com/track/7gYM2J1zY4dHV2TSWBULEJ"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
         "name": "Chakra",
         "url": "https://open.spotify.com/album/4qdm2nundmbGV2g9ppryGD"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 130354,
       "name": "Chakra",
       "url": "https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
+        "name": "Travel Through Time",
+        "url": "https://open.spotify.com/album/0XqN1uf1gz5Ts00H9slDZS"
+      },
+      "artists": [
+        {
+          "name": "Sonic Ark",
+          "url": "https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1"
+        }
+      ],
+      "duration_ms": 200367,
+      "name": "Travel Through Time",
+      "url": "https://open.spotify.com/track/7gYM2J1zY4dHV2TSWBULEJ"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "Fading Warmth",
-        "url": "https://open.spotify.com/album/3F4Im6U0AIuglRqesQwuBs"
-      },
-      "artists": [
-        {
-          "name": "Ollwen",
-          "url": "https://open.spotify.com/artist/4OhbuoBhnyQzBvA3Zvo9s9"
-        }
-      ],
-      "duration_ms": 155049,
-      "name": "Fading Warmth",
-      "url": "https://open.spotify.com/track/6PmqjvzId79ndygAHCg43g"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
         "name": "Beyond Thought",
         "url": "https://open.spotify.com/album/2IbXteNkbRdqEutQXJg95b"
       },
@@ -2347,34 +2331,18 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "U\u0219\u0101 Dhy\u0101na",
-        "url": "https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt"
+        "name": "Fading Warmth",
+        "url": "https://open.spotify.com/album/3F4Im6U0AIuglRqesQwuBs"
       },
       "artists": [
         {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+          "name": "Ollwen",
+          "url": "https://open.spotify.com/artist/4OhbuoBhnyQzBvA3Zvo9s9"
         }
       ],
-      "duration_ms": 158000,
-      "name": "U\u0219\u0101 Dhy\u0101na / Dawn Meditation",
-      "url": "https://open.spotify.com/track/2bj4ffMQkjXAvXJbcbDsBH"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
-        "name": "Compassion",
-        "url": "https://open.spotify.com/album/5xCUhWSMtOoyFtqfhYGnWS"
-      },
-      "artists": [
-        {
-          "name": "Heart Chakra",
-          "url": "https://open.spotify.com/artist/3nBxiDHXKkLNSMM0mV0SvO"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Compassion",
-      "url": "https://open.spotify.com/track/4X1FGVMr950FLVWP1BL7jY"
+      "duration_ms": 155049,
+      "name": "Fading Warmth",
+      "url": "https://open.spotify.com/track/6PmqjvzId79ndygAHCg43g"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -2395,6 +2363,38 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
+        "name": "Compassion",
+        "url": "https://open.spotify.com/album/5xCUhWSMtOoyFtqfhYGnWS"
+      },
+      "artists": [
+        {
+          "name": "Heart Chakra",
+          "url": "https://open.spotify.com/artist/3nBxiDHXKkLNSMM0mV0SvO"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Compassion",
+      "url": "https://open.spotify.com/track/4X1FGVMr950FLVWP1BL7jY"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
+        "name": "U\u0219\u0101 Dhy\u0101na",
+        "url": "https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "U\u0219\u0101 Dhy\u0101na / Dawn Meditation",
+      "url": "https://open.spotify.com/track/2bj4ffMQkjXAvXJbcbDsBH"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
         "name": "Astral Devotion",
         "url": "https://open.spotify.com/album/5Llatm2flQMgSbu4bcqGs8"
       },
@@ -2407,6 +2407,22 @@
       "duration_ms": 217274,
       "name": "Astral Devotion - Spa 432Hz",
       "url": "https://open.spotify.com/track/1uSZTZnhRpibJK605YhZch"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
+        "name": "Voices of Ether",
+        "url": "https://open.spotify.com/album/1c39z8X6g0z3dZmaf1AZKE"
+      },
+      "artists": [
+        {
+          "name": "La Moci\u00f3n",
+          "url": "https://open.spotify.com/artist/5UQaOILr6zsKIuJ7OTLFrU"
+        }
+      ],
+      "duration_ms": 147801,
+      "name": "Voices of Ether",
+      "url": "https://open.spotify.com/track/33w3Oi4WMbz8f03kOIfLbJ"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -2443,6 +2459,22 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
+        "name": "One Giant Leap",
+        "url": "https://open.spotify.com/album/6fleY1qghIw98enZVZw7u9"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Garden Gate",
+          "url": "https://open.spotify.com/artist/0EBhS1lnPoM1fPhf3YFWS0"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "One Giant Leap",
+      "url": "https://open.spotify.com/track/782QwZQiP9OIZcZhEF0lQ9"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
         "name": "Calm Cosmos",
         "url": "https://open.spotify.com/album/7wUSmY0F0eoFd5pa644lvE"
       },
@@ -2459,18 +2491,18 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "One Giant Leap",
-        "url": "https://open.spotify.com/album/6fleY1qghIw98enZVZw7u9"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/5r4Jy8mDacGJHNOpxmPYgx"
       },
       "artists": [
         {
-          "name": "Cosmic Garden Gate",
-          "url": "https://open.spotify.com/artist/0EBhS1lnPoM1fPhf3YFWS0"
+          "name": "Aasha",
+          "url": "https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC"
         }
       ],
-      "duration_ms": 157000,
-      "name": "One Giant Leap",
-      "url": "https://open.spotify.com/track/782QwZQiP9OIZcZhEF0lQ9"
+      "duration_ms": 138000,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/4GDND8Yo6fiuZyDLb3AZFc"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -2507,22 +2539,6 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/5r4Jy8mDacGJHNOpxmPYgx"
-      },
-      "artists": [
-        {
-          "name": "Aasha",
-          "url": "https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/4GDND8Yo6fiuZyDLb3AZFc"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
         "name": "Dream Spheres",
         "url": "https://open.spotify.com/album/5EH66ijsydfe1ZU9hy8OVD"
       },
@@ -2535,22 +2551,6 @@
       "duration_ms": 265500,
       "name": "Dream Spheres",
       "url": "https://open.spotify.com/track/5R95nZ2827mXD9aEIVxoCP"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
-        "name": "Voices of Ether",
-        "url": "https://open.spotify.com/album/1c39z8X6g0z3dZmaf1AZKE"
-      },
-      "artists": [
-        {
-          "name": "La Moci\u00f3n",
-          "url": "https://open.spotify.com/artist/5UQaOILr6zsKIuJ7OTLFrU"
-        }
-      ],
-      "duration_ms": 147801,
-      "name": "Voices of Ether",
-      "url": "https://open.spotify.com/track/33w3Oi4WMbz8f03kOIfLbJ"
     },
     {
       "added_at": "2023-10-26 13:19:24",

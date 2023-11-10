@@ -1865,6 +1865,32 @@
     },
     {
       "album": {
+        "name": "Kadhalan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7HRjWgDwNe63phqIQ1RtHf"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2021-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327506,
+      "name": "Mukkabla",
+      "url": "https://open.spotify.com/track/4uSlUAQ6HbMbFL7XNZG2mb"
+    },
+    {
+      "album": {
         "name": "Kaadhalan",
         "url": "https://open.spotify.com/album/2FLFZYTdBl3PyrsMVm1fMR"
       },
@@ -1880,7 +1906,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 323343,
       "name": "Mukkala Mukkabla",
       "url": "https://open.spotify.com/track/1qHQ6U2HSSddaH6LYs5M9t"

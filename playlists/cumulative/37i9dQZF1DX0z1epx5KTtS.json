@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Roseline Layo",
+  "description": "African dance party music from Paris to Abidjan. Photo : Serge Beynaud",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/5oT182GLec59tXn1Glc3hI"
+      },
+      "artists": [
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166089,
+      "name": "C\u00f4te d'Ivoire est Zo",
+      "url": "https://open.spotify.com/track/5sx7LpOTySbPCcisFczEL0"
+    },
+    {
+      "album": {
         "name": "Dadado",
         "url": "https://open.spotify.com/album/0dli480IYmrLBuhhKmPKoJ"
       },
@@ -1084,6 +1102,24 @@
       "duration_ms": 164365,
       "name": "Elephant d'or",
       "url": "https://open.spotify.com/track/6IV4Lb4470lOo8pFrknNmN"
+    },
+    {
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/0Ka05Dg15vP2Sc4VbRstVo"
+      },
+      "artists": [
+        {
+          "name": "Toofan",
+          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163312,
+      "name": "Elle Est D'O\u00f9",
+      "url": "https://open.spotify.com/track/6o9FOz7FO3EMvzjUaiKxA8"
     },
     {
       "album": {
@@ -1578,7 +1614,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 171697,
       "name": "Kiniwara",
       "url": "https://open.spotify.com/track/0G6pdgRWKkgcTudR5gYqmv"
@@ -1874,7 +1910,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 200571,
       "name": "Le Secret",
       "url": "https://open.spotify.com/track/09V5sBv2hhBXSRjXSAB3sb"

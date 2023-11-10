@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse liedjes! Cover: Snelle",
+  "description": "De nieuwste Nederlandse liedjes! Cover: FLEMMING & Boef",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 156363,
       "name": "1234",
       "url": "https://open.spotify.com/track/0ZcTWDFmCidCFw4pPr7ekO"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/7g58IGmaCmCx1giHXtiVpz"
+      },
+      "artists": [
+        {
+          "name": "Paul Sinha",
+          "url": "https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160906,
+      "name": "17",
+      "url": "https://open.spotify.com/track/2Y4vxLDN2mCweUrN6ZcY1i"
     },
     {
       "album": {
@@ -234,7 +252,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 128894,
       "name": "Aandacht",
       "url": "https://open.spotify.com/track/2Ekj3qPq6UsiWbuhFZ0Ybu"
@@ -739,6 +757,24 @@
     },
     {
       "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/5Lv0g9PAEpz9OU4oPIgvlo"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Altijd Op Je Wacht",
+      "url": "https://open.spotify.com/track/2cabxTvClcBMWFnSskAdPo"
+    },
+    {
+      "album": {
         "name": "Contrast",
         "url": "https://open.spotify.com/album/2s2w7H4s0ZERyVrz7uv6zW"
       },
@@ -986,7 +1022,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 246520,
       "name": "Bel me niet",
       "url": "https://open.spotify.com/track/6NtORS6kdQnmBrAnbNPHTl"
@@ -1343,6 +1379,28 @@
     },
     {
       "album": {
+        "name": "Champions League",
+        "url": "https://open.spotify.com/album/3BTw4LwFMLk7mHp0PjNAec"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142001,
+      "name": "Champions League",
+      "url": "https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol"
+    },
+    {
+      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/5aJiOr7wOCxeMZ08Jb5jbT"
       },
@@ -1434,7 +1492,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 171840,
       "name": "Dansen In Het Donker",
       "url": "https://open.spotify.com/track/0m0Q9ty4ISWgeYDuWqk3Ne"
@@ -2020,6 +2078,28 @@
       "duration_ms": 130321,
       "name": "Dief In De Nacht",
       "url": "https://open.spotify.com/track/2tT91bCBuWgFiolKC7TqH5"
+    },
+    {
+      "album": {
+        "name": "Dinsdag (feat. Sam J'taime)",
+        "url": "https://open.spotify.com/album/6E4jvtfaKlRoxDcIXtvOg8"
+      },
+      "artists": [
+        {
+          "name": "Glen Fontein",
+          "url": "https://open.spotify.com/artist/7oeQm1xiTWTKyq2DY42Hpq"
+        },
+        {
+          "name": "Sam J'taime",
+          "url": "https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167827,
+      "name": "Dinsdag (feat. Sam J'taime)",
+      "url": "https://open.spotify.com/track/7c4ex2zzhjl28tJHoon9iC"
     },
     {
       "album": {
@@ -2816,7 +2896,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 209880,
       "name": "Grootste Nachtmerrie",
       "url": "https://open.spotify.com/track/024n8ZBMNDs0lPWXVbiPhE"
@@ -2834,7 +2914,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 141500,
       "name": "Grote Dromen, Klein Dorp",
       "url": "https://open.spotify.com/track/0uqEpwCl4BHilst3RZmGTV"
@@ -3218,7 +3298,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 154195,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/4qIYQGmFLOdifdUKRcz5sy"
@@ -3262,6 +3342,28 @@
       "duration_ms": 150000,
       "name": "Hoop - Bonus Track",
       "url": "https://open.spotify.com/track/7G7HyrEcu4KqiVAgAaAXOr"
+    },
+    {
+      "album": {
+        "name": "Hoor Je Mij Niet?",
+        "url": "https://open.spotify.com/album/7rLPClUNncpn5GRwzkw5U8"
+      },
+      "artists": [
+        {
+          "name": "Matz Voskamp",
+          "url": "https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd"
+        },
+        {
+          "name": "Ghazi",
+          "url": "https://open.spotify.com/artist/0WQ05juCyNhLOY4sjYrpTK"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244062,
+      "name": "Hoor Je Mij Niet?",
+      "url": "https://open.spotify.com/track/5ha0DXQ1PoFvuBnvCcvSEp"
     },
     {
       "album": {
@@ -4380,6 +4482,24 @@
       "duration_ms": 166871,
       "name": "MAMA IK HEB EEN PROBLEEM",
       "url": "https://open.spotify.com/track/15HbiGaVmP7Bbyh2yMWpzH"
+    },
+    {
+      "album": {
+        "name": "Mama Kijk Ik Kan Het Zelf",
+        "url": "https://open.spotify.com/album/0Q5LstDM9e8UuDhAARTs3H"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218250,
+      "name": "Mama Kijk Ik Kan Het Zelf",
+      "url": "https://open.spotify.com/track/2V3C6CtUJ9kyHuTXKOxSe9"
     },
     {
       "album": {
@@ -5504,7 +5624,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 157950,
       "name": "PROBLEEM",
       "url": "https://open.spotify.com/track/22UbNMNZsFftv6nwNv6Bmm"
@@ -5677,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "Achtbaan",
+        "url": "https://open.spotify.com/album/4qhYNZ5tx0bXtk57J572mB"
+      },
+      "artists": [
+        {
+          "name": "Irene Hin",
+          "url": "https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211608,
+      "name": "Ruis",
+      "url": "https://open.spotify.com/track/54ZH5RRnVRgN3lYEviUjlf"
+    },
+    {
+      "album": {
         "name": "Samen Niets Doen",
         "url": "https://open.spotify.com/album/0RXtdtgH5L4SE5H6FVcA27"
       },
@@ -5688,7 +5826,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 166053,
       "name": "Samen Niets Doen",
       "url": "https://open.spotify.com/track/2JdAWHy81J3bfqhpVSBpqE"
@@ -5710,6 +5848,24 @@
       "duration_ms": 134735,
       "name": "SANGRIA",
       "url": "https://open.spotify.com/track/1rB3PaSergrJ8AFHjrcBtG"
+    },
+    {
+      "album": {
+        "name": "Satisfyer",
+        "url": "https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121451,
+      "name": "Satisfyer",
+      "url": "https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh"
     },
     {
       "album": {
@@ -6713,6 +6869,24 @@
     },
     {
       "album": {
+        "name": "Versta Je Mij?",
+        "url": "https://open.spotify.com/album/2G1TJxyVdXwKQ0UVa9oKcd"
+      },
+      "artists": [
+        {
+          "name": "Lisa Michels",
+          "url": "https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144079,
+      "name": "Versta Je Mij?",
+      "url": "https://open.spotify.com/track/5yvb2M5AYiZw6kAZyI1RdY"
+    },
+    {
+      "album": {
         "name": "Aan De Rand Van Het Ravijn Bloeien De Mooiste Bloemen",
         "url": "https://open.spotify.com/album/7vcodonZM5pAQ1NZ1HIJhS"
       },
@@ -7050,7 +7224,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 172949,
       "name": "Wat ik Zocht",
       "url": "https://open.spotify.com/track/26k14Cfgd7XC3j6FeZ9SrW"
@@ -7206,7 +7380,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 136708,
       "name": "Wijze Woorden",
       "url": "https://open.spotify.com/track/1bWzMQ61eGySrjcQEX9TeS"
@@ -7462,6 +7636,24 @@
       "duration_ms": 152990,
       "name": "Zoals Jij",
       "url": "https://open.spotify.com/track/3NjCVq7Mi6RsrG2yzY74Hl"
+    },
+    {
+      "album": {
+        "name": "Zodat Je Straks Weer Naast Me Zit",
+        "url": "https://open.spotify.com/album/5wVBRdiUckNVDmTMpyakAk"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198861,
+      "name": "Zodat Je Straks Weer Naast Me Zit",
+      "url": "https://open.spotify.com/track/2aVJjU4heiAYKaPEhIzGt3"
     },
     {
       "album": {

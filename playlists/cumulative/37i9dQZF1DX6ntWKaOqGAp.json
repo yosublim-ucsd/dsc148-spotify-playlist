@@ -4697,6 +4697,24 @@
     },
     {
       "album": {
+        "name": "Kiss Me, Winter",
+        "url": "https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221737,
+      "name": "Kiss Me, Winter",
+      "url": "https://open.spotify.com/track/1WSoVvYq6FzehSUeKYkiDc"
+    },
+    {
+      "album": {
         "name": "Kitai to Yokan",
         "url": "https://open.spotify.com/album/4e1KSg9V4VqHn87Q9eBLOv"
       },
@@ -6168,7 +6186,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 256245,
       "name": "nonfiction no bokurayo",
       "url": "https://open.spotify.com/track/0qN4W3Gog1LaIt0zg20b0f"
@@ -9332,6 +9350,24 @@
       "duration_ms": 254106,
       "name": "we can't change the world without you here",
       "url": "https://open.spotify.com/track/0hdRkedEkFTGfgskmYOe57"
+    },
+    {
+      "album": {
+        "name": "We Still",
+        "url": "https://open.spotify.com/album/21Xcrmvf3pjK3ZpE0HxphT"
+      },
+      "artists": [
+        {
+          "name": "KANKAKU PIERO",
+          "url": "https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316666,
+      "name": "We Still",
+      "url": "https://open.spotify.com/track/0k7icTuRmF2wr5PB1fNE9u"
     },
     {
       "album": {
@@ -16594,7 +16630,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 205263,
       "name": "\u7159\u306e\u30b8\u30e3\u30f3\u30af\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/1lZU2PKOokAeKaKnM6Bq6o"

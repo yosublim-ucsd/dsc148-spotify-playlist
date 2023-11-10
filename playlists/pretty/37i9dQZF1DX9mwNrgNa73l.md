@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,112 likes - 90 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,194 likes - 90 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 89 | [Laghzish E Mastana](https://open.spotify.com/track/3Kuv5p4j3TLkdKB7mUsVjQ) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Laghzish E Mastana](https://open.spotify.com/album/0YfA7xNSyqscjCLg1c97uL) | 5:27 |
 | 90 | [Ali Ali](https://open.spotify.com/track/3Akh5yIVkkHJImEobcrXRp) | [Afaq Munir](https://open.spotify.com/artist/2xpY02EIF6tEPh6MwaW0MU) | [Ali Ali](https://open.spotify.com/album/5HOkWmLlJfuIQZRQehlEUS) | 2:42 |
 
-Snapshot ID: `MCw5YWY5NWQ1MDNkYjYzM2E3ZGUyMGFlZWIxYWI3MTE4Nzg0YzQ4YzVh`
+Snapshot ID: `MCwzNGE5MmYwYjQ0NWMyMDk0ZTUxZDljYjAzYzAxODVhYTkwYjg0ZTkz`

@@ -1,13 +1,29 @@
 {
   "description": "Future K-Pop hits! Cover: ZEROBASEONE",
-  "num_followers": 785829,
+  "num_followers": 786014,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTVmMGIzY2JjNDIwOTM4Njc3NmI3NDllMDM4Y2UxMWE4MzNmOGQx",
+  "snapshot_id": "MCwwZmZjZGQ5ZTQwNDc3MDhhZjg1NzhhOGQ0OTgyY2Y3ZDMwNDAzMzgw",
   "tracks": [
+    {
+      "added_at": "2023-11-09 09:01:42",
+      "album": {
+        "name": "Born to be XX",
+        "url": "https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 160386,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj"
+    },
     {
       "added_at": "2023-11-08 14:49:18",
       "album": {
@@ -807,26 +823,6 @@
       "duration_ms": 175600,
       "name": "SUPERPOWERS",
       "url": "https://open.spotify.com/track/2T0cn0hvGrG8vqqB8sK4zX"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "TO DIE FOR",
-        "url": "https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 175716,
-      "name": "Dare to Love (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe"
     },
     {
       "added_at": "2023-11-06 10:10:39",

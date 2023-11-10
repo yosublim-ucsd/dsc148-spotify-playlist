@@ -6073,6 +6073,24 @@
     },
     {
       "album": {
+        "name": "SERENO DE LA NOCHE",
+        "url": "https://open.spotify.com/album/0P4OOt0sTSYWzpsTYDZpCg"
+      },
+      "artists": [
+        {
+          "name": "M\u00d3RY",
+          "url": "https://open.spotify.com/artist/5FdrFhHWZupu9cqlWAg2WR"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "QUALTO :intempesta",
+      "url": "https://open.spotify.com/track/36lRKBIe142YTcpsxpaa0k"
+    },
+    {
+      "album": {
         "name": "QUE FUEGO (Ibiza VIP Dub)",
         "url": "https://open.spotify.com/album/7uSa59bsiBDERSU9XTpn5s"
       },

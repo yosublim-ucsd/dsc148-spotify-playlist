@@ -414,7 +414,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 135187,
       "name": "Church of Hell - Redhot Remix",
       "url": "https://open.spotify.com/track/1zOJTDiZP3uXqvNfN3jpKD"
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 204000,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/7IsoFYGFt3Ac4snG5iSJnT"
@@ -1856,6 +1856,24 @@
       "duration_ms": 241019,
       "name": "Live Fast Die Young",
       "url": "https://open.spotify.com/track/6Dr20NRSnMh9NT76D4FNqk"
+    },
+    {
+      "album": {
+        "name": "Living In A Rave",
+        "url": "https://open.spotify.com/album/2cBej5XP6FobrzbHVLooZW"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199490,
+      "name": "Living In A Rave",
+      "url": "https://open.spotify.com/track/1jtelkyKjyRJTIhhf4yfxG"
     },
     {
       "album": {
@@ -2650,6 +2668,24 @@
       "duration_ms": 184258,
       "name": "Step Your Game Up",
       "url": "https://open.spotify.com/track/0bd0OMTOxlrtwVrBbzhPxu"
+    },
+    {
+      "album": {
+        "name": "STITCH ME UP",
+        "url": "https://open.spotify.com/album/1mMJKx5OAln3EflCiVPMqk"
+      },
+      "artists": [
+        {
+          "name": "Riot Shift",
+          "url": "https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169875,
+      "name": "STITCH ME UP",
+      "url": "https://open.spotify.com/track/6x37HbiBJpoB74rMe3Un0Q"
     },
     {
       "album": {

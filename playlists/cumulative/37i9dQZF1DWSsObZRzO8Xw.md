@@ -2,7 +2,7 @@
 
 ### [Math Rock](https://open.spotify.com/playlist/37i9dQZF1DWSsObZRzO8Xw)
 
-> Welcome to the universe of complex rhythms and mesmerizing loops\. Cover: Elephant Gym
+> Welcome to the universe of complex rhythms and mesmerizing loops\. Cover: LITE
 
 135 songs - 9 hr 36 min
 

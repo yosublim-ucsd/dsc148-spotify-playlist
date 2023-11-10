@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Green Day",
+  "description": "The best new music from the wide world of punk. Cover: Stand Atlantic",
   "name": "All New Punk",
   "tracks": [
     {
@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165393,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR"
+    },
+    {
+      "album": {
         "name": "ANXIETY",
         "url": "https://open.spotify.com/album/7kbCg4mVLUrbiVlEgDA3wM"
       },
@@ -2310,7 +2328,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 177318,
       "name": "Big Money",
       "url": "https://open.spotify.com/track/3Hwf3kbuRzRFkbvEpqY26Q"
@@ -4456,7 +4474,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 215879,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0q6Xgn4RsP8EMUrjOtoOy7"
@@ -4644,6 +4662,24 @@
       "duration_ms": 187885,
       "name": "COME AROUND AND FIND OUT",
       "url": "https://open.spotify.com/track/2KhZArbDcVl0LdzK1gH0v2"
+    },
+    {
+      "album": {
+        "name": "Comfort Zone",
+        "url": "https://open.spotify.com/album/3Wm8avMamR1wrfyYtmbrK7"
+      },
+      "artists": [
+        {
+          "name": "Two Trains Left",
+          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/4meJcWnZIsYL5CDpamJH0D"
     },
     {
       "album": {
@@ -5496,6 +5532,24 @@
       "duration_ms": 157714,
       "name": "DEAD ASTRONAUT",
       "url": "https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot"
+    },
+    {
+      "album": {
+        "name": "Dead End Friend",
+        "url": "https://open.spotify.com/album/4SZGDja3zMnkVIOf2UGzPZ"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164887,
+      "name": "Dead End Friend",
+      "url": "https://open.spotify.com/track/6kAJ1j78stbpjEzFumaNAP"
     },
     {
       "album": {
@@ -7016,7 +7070,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-21",
+      "date_removed": null,
       "duration_ms": 138213,
       "name": "Et si",
       "url": "https://open.spotify.com/track/6aE0EyoWUhkpyaIbxJ9lsx"
@@ -7092,7 +7146,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 240000,
       "name": "Everyone's to Blame",
       "url": "https://open.spotify.com/track/1Wm1YEAOUaVAzequO7Sycq"
@@ -7348,7 +7402,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 179166,
       "name": "Fake As Hell (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
@@ -7402,7 +7456,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 157324,
       "name": "Fallen Short",
       "url": "https://open.spotify.com/track/1mbnRS3a0TgqsrahokSF43"
@@ -8152,7 +8206,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 118933,
       "name": "Friends With Your EX",
       "url": "https://open.spotify.com/track/5dLhmqJRJiV0RyRwv7VUdv"
@@ -8376,7 +8430,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 116978,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/4RaWVp3KOF45m9s3fm5Mh8"
@@ -9427,6 +9481,24 @@
     },
     {
       "album": {
+        "name": "The Prius Diaries: A Hybrid Story",
+        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211193,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/5jHRIIaMnuT8eVaA9C5o4R"
+    },
+    {
+      "album": {
         "name": "Hand Grenade",
         "url": "https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG"
       },
@@ -9760,6 +9832,24 @@
     {
       "album": {
         "name": "He's A Man",
+        "url": "https://open.spotify.com/album/2N6rm4h0A4I8nfh7q218bN"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158422,
+      "name": "He's A Man",
+      "url": "https://open.spotify.com/track/0XwS7lGdF8Ax41IIhnzuBh"
+    },
+    {
+      "album": {
+        "name": "He's A Man",
         "url": "https://open.spotify.com/album/4p4qOGUok3rOwAT9EFu6pQ"
       },
       "artists": [
@@ -9770,7 +9860,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 158422,
       "name": "He's A Man",
       "url": "https://open.spotify.com/track/4UQx1lUIMGpQStpkb2PXyr"
@@ -11502,6 +11592,24 @@
       "duration_ms": 191320,
       "name": "Inside My Head",
       "url": "https://open.spotify.com/track/5ZjtReVAQ6KGix7VkaE7h1"
+    },
+    {
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/5jTJV0dV166NzCfgMYLObg"
+      },
+      "artists": [
+        {
+          "name": "happydaze",
+          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198654,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/2onHY8ek2aQ1haU0iGndJD"
     },
     {
       "album": {
@@ -14679,6 +14787,24 @@
     },
     {
       "album": {
+        "name": "POSTCARD - EP",
+        "url": "https://open.spotify.com/album/1egtDVDsBEAAqs9iKhq4OA"
+      },
+      "artists": [
+        {
+          "name": "No Waves",
+          "url": "https://open.spotify.com/artist/7vjsP3f1kEjtmLim5VN41R"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250520,
+      "name": "Missing All",
+      "url": "https://open.spotify.com/track/5YiQHKi5Bto3gdEzKJmUad"
+    },
+    {
+      "album": {
         "name": "Mistake",
         "url": "https://open.spotify.com/album/15YKOayJRCdU0mrTBCvMMj"
       },
@@ -15294,7 +15420,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 201306,
       "name": "Nausea",
       "url": "https://open.spotify.com/track/6pGgfqZndbyUbVFHTCn9SO"
@@ -15606,6 +15732,24 @@
       "duration_ms": 160750,
       "name": "No Future? No Thanks!",
       "url": "https://open.spotify.com/track/5wljLwi5DUKFyY2ASdvi8A"
+    },
+    {
+      "album": {
+        "name": "No Guilt",
+        "url": "https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9"
+      },
+      "artists": [
+        {
+          "name": "PROJECTOR",
+          "url": "https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124120,
+      "name": "No Guilt",
+      "url": "https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS"
     },
     {
       "album": {
@@ -18836,7 +18980,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 246080,
       "name": "Rogue Wave",
       "url": "https://open.spotify.com/track/2v93OakWj5hwvB1Go3IHTL"
@@ -19660,6 +19804,24 @@
       "duration_ms": 228666,
       "name": "Service Stationed",
       "url": "https://open.spotify.com/track/6LSBwxOEfsL76TrQOelvpX"
+    },
+    {
+      "album": {
+        "name": "SEX ON THE BEACH",
+        "url": "https://open.spotify.com/album/2fhKQXM5B3No5aWHB3vuPi"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190731,
+      "name": "SEX ON THE BEACH",
+      "url": "https://open.spotify.com/track/1a66ctSliEPB63zvjrI9f0"
     },
     {
       "album": {
@@ -22385,6 +22547,24 @@
     },
     {
       "album": {
+        "name": "Mommy's Little Monster",
+        "url": "https://open.spotify.com/album/56w0K0j7JN4Op3WJ7VuOkl"
+      },
+      "artists": [
+        {
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191936,
+      "name": "Telling Them",
+      "url": "https://open.spotify.com/track/4WT4Bg98cz4eyu9JPHBFaK"
+    },
+    {
+      "album": {
         "name": "Ten Stories High",
         "url": "https://open.spotify.com/album/5xEwUAv3WJiDtHScEPliQl"
       },
@@ -23897,6 +24077,24 @@
     },
     {
       "album": {
+        "name": "Trapped",
+        "url": "https://open.spotify.com/album/7fu31UXzVSDSTTVBJGWjRd"
+      },
+      "artists": [
+        {
+          "name": "Forgive",
+          "url": "https://open.spotify.com/artist/4K5xe2ma22FG6W0lCSOmHb"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171040,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/2pNY5hVNm3Rcyiq3aGJGSh"
+    },
+    {
+      "album": {
         "name": "Trembling World",
         "url": "https://open.spotify.com/album/3x3uux3mZkMcNGaRjlkkFr"
       },
@@ -24546,7 +24744,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 98000,
       "name": "USA",
       "url": "https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd"
@@ -24564,7 +24762,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 181873,
       "name": "use me",
       "url": "https://open.spotify.com/track/0KNLFtX4moDQ4jcuziocBQ"

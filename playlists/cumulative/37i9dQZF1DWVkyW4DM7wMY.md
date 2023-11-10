@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-176 songs - 9 hr 10 min
+177 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Divine Intervention](https://open.spotify.com/track/71FvDWdttOeuEdCb63a73s) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/6wlhvzUV68XeLk6fMirGqQ) | 2:58 | 2023-10-20 |  |
 | [Dogtail](https://open.spotify.com/track/1ziLbRPnlPKu9QeUyl36fx) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [MFN](https://open.spotify.com/album/1UbW090je8UnxtjgGphoXy) | 3:36 | 2021-10-15 | 2022-07-09 |
 | [Doing U Better](https://open.spotify.com/track/7trZEJ00tghFf93kvkyb7S) | [Tangaza](https://open.spotify.com/artist/2ud6k0Vv2jiXXg78RuPmaS), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Doing U Better](https://open.spotify.com/album/3OM6ultAF9mWPZZ5QC5Wdh) | 2:51 | 2023-03-17 |  |
-| [Echoes \- Remix](https://open.spotify.com/track/3B7XQSWXPAsz50D3NZTmZi) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729), [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Echoes \(Remix\)](https://open.spotify.com/album/21mY94BhJNjVcHXuTuBElI) | 2:47 | 2021-10-29 |  |
+| [Echoes \- Remix](https://open.spotify.com/track/3B7XQSWXPAsz50D3NZTmZi) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729), [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Echoes \(Remix\)](https://open.spotify.com/album/21mY94BhJNjVcHXuTuBElI) | 2:47 | 2021-10-29 | 2023-11-10 |
 | [Entebbe](https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Entebbe](https://open.spotify.com/album/59vlQB3gPrQV9VLhU120ub) | 3:52 | 2022-03-25 |  |
 | [Ex Wako Hawezi](https://open.spotify.com/track/3lHMAXPEoikE95Diavz31s) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Ex Wako Hawezi](https://open.spotify.com/album/1Dc1YLXcQXRuNn55VaWxGc) | 3:48 | 2022-03-10 | 2023-04-28 |
 | [Fair Game](https://open.spotify.com/track/0N6jiFbnIPADb0ywO2Chqs) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Fair Game](https://open.spotify.com/album/1IxoYVkTwUXmMnfnPpxQXo) | 2:12 | 2022-01-27 | 2022-08-06 |
@@ -62,6 +62,7 @@
 | [Haiku](https://open.spotify.com/track/6Zv1Ul00O9YQ4rRBUstGzc) | [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv), [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Haiku](https://open.spotify.com/album/47p6QDuMEWEXMkmGo59TgR) | 2:19 | 2021-10-15 | 2022-02-05 |
 | [Heircassle](https://open.spotify.com/track/5dr23gsc7npeFKXyySIH4d) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [mau](https://open.spotify.com/artist/6CXT5rXzTle8RsPrtrw7aj) | [Full Full Condition Vol\. 1](https://open.spotify.com/album/5Zax84SZxYkFlw1eZsefbb) | 2:38 | 2021-10-15 | 2022-03-11 |
 | [HERE THEY COME](https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [HERE THEY COME](https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR) | 2:19 | 2022-06-02 |  |
+| [HIGH SPEDE](https://open.spotify.com/track/01OW8EwHqMLnUysHiLT9zE) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [HOLD ON TO DEER LIFE, THERE'S A BLCAK BOY BEHIND YOU!](https://open.spotify.com/album/6aScw5iFrLHQUzlO21rCUl) | 3:58 | 2023-11-09 |  |
 | [Hold On To The Faith](https://open.spotify.com/track/6M2SvwjsfkfQNncdSj1TAh) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9), [Mutoriah](https://open.spotify.com/artist/2eAAis6wgQ4My2ixOkGRaD) | [Misimu](https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH) | 4:06 | 2022-02-04 |  |
 | [I Give Her Love](https://open.spotify.com/track/6haw04b2NBB93aG0xeuZ5c) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Herbert Ssensamba](https://open.spotify.com/artist/551y4ECPYt7eD0EIlew8sg) | [The Ugandan](https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8) | 4:38 | 2022-05-05 |  |
 | [I Love the Way You](https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5) | 2:13 | 2022-02-04 | 2022-10-20 |

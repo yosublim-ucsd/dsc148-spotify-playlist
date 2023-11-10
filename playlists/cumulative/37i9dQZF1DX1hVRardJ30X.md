@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Sofía Reyes
 
-5,529 songs - 12 day 2 hr 59 min
+5,530 songs - 12 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5508,6 +5508,7 @@
 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/3Jege5i2BBYLvsTPiHANja) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [El Sol De Las 3](https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA) | 2:32 | 2023-09-01 | 2023-09-09 |
 | [¿Para qué?](https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿Para qué?](https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7) | 3:40 | 2023-01-13 | 2023-01-21 |
 | [¿Para Qué?](https://open.spotify.com/track/5Kt3On4M1tU0eU5JxY8VLE) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [¿Para Qué?](https://open.spotify.com/album/0hsCA47YdoBG2aZMKLzECM) | 3:30 | 2022-06-24 | 2022-07-02 |
+| [¿Por Qué No Me Fui Antes?](https://open.spotify.com/track/6sYMPSRtbjiPjksAfrjszr) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Por Qué No Me Fui Antes?](https://open.spotify.com/album/5EsXC7mx9m2O11NHQvr21L) | 2:47 | 2023-11-07 |  |
 | [¿Quién De Los Dos Será?](https://open.spotify.com/track/4bk3DB7VC88NDLw8Du4IJA) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién De Los Dos Será?](https://open.spotify.com/album/61Pq9DBSvk4JJ8s9n72t0G) | 3:01 | 2023-03-24 | 2023-04-01 |
 | [¿QUIÉN TE MANDA?](https://open.spotify.com/track/4kXb8O44mxvAA6XqiVIz1m) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [¿QUIÉN TE MANDA?](https://open.spotify.com/album/2SrokchsNgnhE7pR5nKKIb) | 3:38 | 2023-02-17 | 2023-02-25 |
 | [¿Qué Hago Ahora?](https://open.spotify.com/track/4KbyUaOwEOCFpkzMNndQDS) | [Voz A Voz](https://open.spotify.com/artist/0gp7iviru0HlUR7yGmiLJ7), [Johandy](https://open.spotify.com/artist/1CitJ6r1mhjof0XLq0BMHQ) | [¿Qué Hago Ahora?](https://open.spotify.com/album/5empvcHIiCezWPfx6TlQOt) | 3:12 | 2022-09-02 | 2022-09-10 |

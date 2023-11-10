@@ -4,7 +4,7 @@
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-121 songs - 8 hr 19 min
+122 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Lila Wolken](https://open.spotify.com/track/2i7LYnvqSFfmimscnZqVLn) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Miss Platnum](https://open.spotify.com/artist/30SUIQhGDLj1pP0yg4fSMu), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Lila Wolken \- EP](https://open.spotify.com/album/0uS3xAFBJqwjr0YqWBEGQo) | 3:48 | 2022-07-21 |  |
 | [Lila Wolken](https://open.spotify.com/track/3CT1nhEnqol4rHIdwD7Rr7) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU), [Miss Platnum](https://open.spotify.com/artist/30SUIQhGDLj1pP0yg4fSMu) | [Lila Wolken](https://open.spotify.com/album/3eXd6Kkk6nOYEbWhaivXH3) | 3:48 | 2022-03-17 | 2022-07-29 |
 | [Mein Block \(Beathoavenz Video Rmx\)](https://open.spotify.com/track/3ChqYKTyYIpK3jYd6kfN4D) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mein Block Remix](https://open.spotify.com/album/4jWszl7frUZyflSXaSNY3U) | 5:00 | 2022-03-17 | 2022-07-27 |
-| [Mit dir \(feat\. Joy Denalane\)](https://open.spotify.com/track/5EX0HiIyvhavnpjgbwDCeL) | [Freundeskreis](https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk), [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Esperanto](https://open.spotify.com/album/7vtEIlxot9pmKtv3KmSmTT) | 4:38 | 2023-07-13 |  |
+| [Mit dir \(feat\. Joy Denalane\)](https://open.spotify.com/track/5EX0HiIyvhavnpjgbwDCeL) | [Freundeskreis](https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk), [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Esperanto](https://open.spotify.com/album/7vtEIlxot9pmKtv3KmSmTT) | 4:38 | 2023-07-13 | 2023-11-10 |
 | [Mit freundlichen Grüßen](https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [4:99 \- Jubiläums\-Edition](https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl) | 3:35 | 2022-03-17 |  |
 | [Mittelfinger hoch](https://open.spotify.com/track/0t0x6vNJk3cY2YgOSOZlwM) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Favorite](https://open.spotify.com/artist/6iHHxsJtBAUzLXbqUr0bbK), [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [Chronik II](https://open.spotify.com/album/2lMQKOSTGFNQiHb50YkytY) | 3:35 | 2022-03-17 | 2022-07-11 |
 | [Mittelfinger hoch \- Remastered](https://open.spotify.com/track/6pUMwOnqt0DAvVYFtOLOb7) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y), [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Favorite](https://open.spotify.com/artist/6iHHxsJtBAUzLXbqUr0bbK) | [Legacy \- Best Of \(Remastered\)](https://open.spotify.com/album/6gZAZJfarP7nvsAumwx7dS) | 3:34 | 2022-11-21 | 2023-06-23 |
@@ -107,6 +107,7 @@
 | [Rhythmus meines Lebens](https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Die John Bello Story, Vol\. 3](https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB) | 3:16 | 2022-03-17 |  |
 | [Schlechtes Vorbild](https://open.spotify.com/track/0LmfeuPjr6wdmh7jeXgKaI) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich](https://open.spotify.com/album/14acvqwaF50AVraoMsY6bB) | 3:24 | 2022-03-17 | 2022-07-29 |
 | [Schlechtes Vorbild](https://open.spotify.com/track/2L2NmbpVp1dHotlpVJ4zr8) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich \(Premium Edition\)](https://open.spotify.com/album/1pq1kLABw0A1UCLmfhYfZr) | 3:24 | 2022-07-21 | 2023-11-04 |
+| [Schlechtes Vorbild](https://open.spotify.com/track/5bNDEwqT51nXFojsaK3Ilh) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich \(Premium Edition\)](https://open.spotify.com/album/3haQhhBpqNvWbajUwpNoiv) | 3:24 | 2023-10-11 |  |
 | [Schmetterling](https://open.spotify.com/track/7zIZF5nHbZXS3Um6p9tiO2) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Electro Ghetto \(Re\-Release\)](https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX) | 3:52 | 2023-07-13 |  |
 | [Schwarz zu blau](https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Stadtaffe](https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H) | 3:35 | 2022-03-17 |  |
 | [Schwule Mädchen](https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Demotape](https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905) | 3:25 | 2022-11-21 |  |

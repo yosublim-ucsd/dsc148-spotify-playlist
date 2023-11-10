@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Paul Partohap, Arthur Miguel, D Gerrard, Nathan Hartono, Rizal Rasid\n",
-  "num_followers": 16969,
+  "num_followers": 16986,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWY1NjM4OThlMDlmMGFmOGM2ZGNkMDdmMTEyZGIxYzM2MzViOTdl",
+  "snapshot_id": "MCxhMGI3Mjg5MDAzODk0ODJhYjZlZTJiZGRhNjY1MzdkYzM2YmMyY2Ex",
   "tracks": [
     {
       "added_at": "2023-11-02 17:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-11-02 17:00:00",
       "album": {
+        "name": "Bersamamu",
+        "url": "https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "duration_ms": 220945,
+      "name": "Bersamamu",
+      "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
+    },
+    {
+      "added_at": "2023-11-02 17:00:00",
+      "album": {
         "name": "Kembali Pulang",
         "url": "https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 207898,
       "name": "Kembali Pulang",
       "url": "https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR"
-    },
-    {
-      "added_at": "2023-11-02 17:00:00",
-      "album": {
-        "name": "Bersamamu",
-        "url": "https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 220945,
-      "name": "Bersamamu",
-      "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
     },
     {
       "added_at": "2023-11-02 17:00:00",

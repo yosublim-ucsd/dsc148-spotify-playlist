@@ -9817,6 +9817,24 @@
     },
     {
       "album": {
+        "name": "\u00bfPor Qu\u00e9 No Me Fui Antes?",
+        "url": "https://open.spotify.com/album/5EsXC7mx9m2O11NHQvr21L"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167960,
+      "name": "\u00bfPor Qu\u00e9 No Me Fui Antes?",
+      "url": "https://open.spotify.com/track/6sYMPSRtbjiPjksAfrjszr"
+    },
+    {
+      "album": {
         "name": "\u00bfQu\u00e9 Hubiera Pasado?",
         "url": "https://open.spotify.com/album/5cgt1mBp6BR1GWJVjJHRSs"
       },

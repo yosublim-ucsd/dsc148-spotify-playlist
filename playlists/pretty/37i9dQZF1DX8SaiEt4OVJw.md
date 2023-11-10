@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > World Cup Champions!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,545 likes - 45 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,590 likes - 45 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 36 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 |
 | 37 | [Wavin' Flag \- Coca\-Cola® Celebration Mix](https://open.spotify.com/track/4nOygULhEuDO5ZBRNPFaso) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Troubadour \(Champion Edition \- Asian Version\)](https://open.spotify.com/album/5NeG7Rk7ZUGVgvIRxPOmJ3) | 3:32 |
 | 38 | [Kaptein](https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Uit Die Diepte Van My Hart](https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp) | 3:49 |
-| 39 | [Vuli Ndlela](https://open.spotify.com/track/2VD3CwwMfrQ9ZZSKw2x4Sv) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [South African Hits](https://open.spotify.com/album/65BonO3IOA4XYbyXQwaMlf) | 3:25 |
+| 39 | [Vuli Ndlela](https://open.spotify.com/track/7D9tPHaXOPAbx3bXlv6Dws) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Pray For South Africa](https://open.spotify.com/album/4kAgEUGIvQkNwChSouGaxh) | 3:25 |
 | 40 | [miss me \(when you're gone\)](https://open.spotify.com/track/33eSunUHnta6mPW3EoTuRw) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [miss me \(when you're gone\) remixes](https://open.spotify.com/album/1pEipsUVstkQ8cbB1hSr8I) | 3:04 |
 | 41 | [Remember the Name \(feat\. Styles of Beyond\)](https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K) | [Fort Minor](https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk), [Styles Of Beyond](https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX) | [The Rising Tied](https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa) | 3:50 |
 | 42 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 44 | [Omunye](https://open.spotify.com/track/22hkLLXbp1NZldZurvpjwO) | [Distruction Boyz](https://open.spotify.com/artist/44MG6uiTa2VeYlcy6VKDXe), [Benny Maverick](https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2), [Dladla Mshunqisi](https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt) | [Gqom Is the Future](https://open.spotify.com/album/0ubZdtHR6nLGW48oH1fzu4) | 5:20 |
 | 45 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 |
 
-Snapshot ID: `MCw5MTFlMWU3YmEzNTI4OThhZTUwMGMyMjE4MmQ1YTM4ZTM2M2YzZmUy`
+Snapshot ID: `MCw1MjlkNTQ2YWI0OWViOWMwNDhmYjBmZTFhYmZkM2Q2YjU2YzAxODA5`

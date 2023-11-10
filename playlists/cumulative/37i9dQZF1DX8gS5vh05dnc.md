@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-253 songs - 13 hr 40 min
+254 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [After The Tone](https://open.spotify.com/track/3XwSVHvobJ4Z4SfvF9fTNz) | [Justin Adijanto](https://open.spotify.com/artist/3jPJR4xjyCwJQSG5JLEbzl), [SAWA](https://open.spotify.com/artist/0HCd0T7uXpnIUJgrBTlEvE) | [After The Tone](https://open.spotify.com/album/7HwIUiOremortAibAsFUPM) | 4:35 | 2022-06-13 | 2022-06-15 |
 | [ain't leavin' without you](https://open.spotify.com/track/4RMvwkiBDFysupvBWkJDoJ) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [ain't leavin' without you](https://open.spotify.com/album/6UshO89K1Or0hwvl7r05MO) | 3:57 | 2022-06-06 | 2022-07-27 |
 | [Alive](https://open.spotify.com/track/44OznaUsvuPVbcJNKMOVcp) | [Tropic](https://open.spotify.com/artist/5Ix5mo2NuCnVO5mhWpcvOJ) | [Alive](https://open.spotify.com/album/3WFJRVtfR6GeafsW7SOxrz) | 3:40 | 2022-06-06 | 2022-07-28 |
-| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-06-06 |  |
+| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-06-06 | 2023-11-10 |
 | [All My Sins \(feat\. syd hartha\)](https://open.spotify.com/track/3i0CZ8RoNRrNoNkHzm8UYQ) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ), [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [All My Sins \(feat\. syd hartha\)](https://open.spotify.com/album/2KmGCyKY57BZUfuH33BZnV) | 2:51 | 2022-06-06 | 2022-07-29 |
 | [All Rise](https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | 3:43 | 2023-02-13 |  |
 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All She Wanna Do](https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M) | 3:15 | 2022-08-08 | 2022-08-16 |
@@ -147,6 +147,7 @@
 | [Make It Last \(Day\) \[feat\. Annamarie Rosanio\]](https://open.spotify.com/track/0NaibRHV78dthZ7CBY1qWf) | [ABRAM](https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL), [Annamarie Rosanio](https://open.spotify.com/artist/7LtYuMQ3wFY4fGX8Rvq6gD) | [Make It Last \(Day\) \[feat\. Annamarie Rosanio\]](https://open.spotify.com/album/1tjmNMbJ8nJHhjbpCJi93s) | 2:25 | 2022-06-13 | 2022-06-16 |
 | [Make Up Your Mind](https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Make Up Your Mind](https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80) | 2:52 | 2023-08-07 | 2023-09-24 |
 | [Man Down](https://open.spotify.com/track/7qGAPhz0FrUjab9OF3Uu6j) | [The Boy from the South](https://open.spotify.com/artist/0YSFw7zXzSXhzCIQsiZNvW) | [Man Down](https://open.spotify.com/album/56Cbbp3a9vRzsk2SMe1q5A) | 2:49 | 2023-09-25 | 2023-10-03 |
+| [Mariposa](https://open.spotify.com/track/3WD2cic9S2VrGIb6h114MM) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/03lwJBajNLNBIq4jrWo1YK) | 3:30 | 2023-11-06 |  |
 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 | 2022-07-25 | 2023-10-25 |
 | [Mean It](https://open.spotify.com/track/3GRSqlALWISqLeNncZMbpX) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/4aoWQU2gSUjl4AZeCPSo1b) | 3:52 | 2022-06-06 | 2022-07-29 |
 | [Mean It](https://open.spotify.com/track/3uc8AGNL0KbvISIrjnfRvN) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:52 | 2022-07-25 | 2022-11-18 |

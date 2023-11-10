@@ -1,13 +1,29 @@
 {
   "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: <a href=\"https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=CSlMLdDUSfe4j7XF9eK4Ng\">Christina Shusho</a> ",
-  "num_followers": 4205,
+  "num_followers": 4226,
   "original_name": "Swahili Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzMwYjNlOGZlMDNhYmQ1YjllNWU3MWFkNTZiMTQwMjNjNTk2YzI5",
+  "snapshot_id": "MCxkMTgwOWRmNDY3ZjUzYWQwYzhiMjE0ZjM3YzFhOTE1Zjc0ZWNjZDYx",
   "tracks": [
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Sisi Ndio Wale",
+        "url": "https://open.spotify.com/album/5DyJwA7sacoreQVSlDaBYo"
+      },
+      "artists": [
+        {
+          "name": "Zabron Singers",
+          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
+        }
+      ],
+      "duration_ms": 263888,
+      "name": "Sisi Ndio Wale",
+      "url": "https://open.spotify.com/track/7GtbWZzckE9diKrKYSQ4Gi"
+    },
     {
       "added_at": "2022-06-24 17:41:13",
       "album": {
@@ -159,6 +175,22 @@
       "duration_ms": 226866,
       "name": "Shusha Nyavu",
       "url": "https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "There Is a Fire",
+        "url": "https://open.spotify.com/album/5ZQBuEE8GajVv4kBx3Lm19"
+      },
+      "artists": [
+        {
+          "name": "Karura Voices",
+          "url": "https://open.spotify.com/artist/1d5SkVdPJfoutTu1HdhpYT"
+        }
+      ],
+      "duration_ms": 351503,
+      "name": "Nimekubali",
+      "url": "https://open.spotify.com/track/7KmpoAv8SeKYh3WSNFVSas"
     },
     {
       "added_at": "2023-06-16 00:01:00",

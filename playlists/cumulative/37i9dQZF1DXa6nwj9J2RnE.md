@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Chibi Ichigo, Sophie Straat
 
-108 songs - 6 hr 0 min
+109 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [ENERGIE](https://open.spotify.com/track/3GeYpZcJMoSraXaiKG4yqq) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN), [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [ENERGIE](https://open.spotify.com/album/4DAAPsmrW61T7EuhrQHzpl) | 4:01 | 2023-09-29 |  |
 | [excuses](https://open.spotify.com/track/1rB3CxWVX9GlNIfLoIuLXb) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [excuses](https://open.spotify.com/album/3WS0r3RjStJi2DIYioq6QW) | 5:46 | 2023-04-27 |  |
 | [Fair Play](https://open.spotify.com/track/0PVLMa9RI4EFDE4NXsglvM) | [Veya](https://open.spotify.com/artist/1BmOO49fZVNsNhWIW1l6nU) | [Fair Play](https://open.spotify.com/album/3j48ZkBE3HqHByil4s4xQE) | 3:04 | 2023-02-23 | 2023-09-01 |
+| [Fijn](https://open.spotify.com/track/1mLQsmHuMO2VMSTWfek8br) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Fijn](https://open.spotify.com/album/37Pd4LM2hK8qXkRyEod4ue) | 3:40 | 2023-11-09 |  |
 | [For Good](https://open.spotify.com/track/2yjaGTM6j1aOW3OXmEbvsy) | [ALLY](https://open.spotify.com/artist/5j43yWfooo7jnxBQqBgDIY) | [With You In The Room](https://open.spotify.com/album/2aN4RGXYEXSAtC92ePD7JD) | 3:04 | 2023-02-23 | 2023-04-01 |
 | [Forever](https://open.spotify.com/track/6mWi1D3usqO9JSFTqZWUuZ) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [GODSPEED](https://open.spotify.com/album/5PznlTVFdnmXyp34K4iJjI) | 3:06 | 2023-02-23 |  |
 | [Glas In Lood](https://open.spotify.com/track/2jXsjXKDneBlnppUhdaaKC) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag](https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS) | 3:36 | 2023-02-23 |  |
@@ -108,7 +109,7 @@
 | [Waarheid](https://open.spotify.com/track/4RhNIEtjdzHG2tMZxdNtnp) | [Cassandra Onck](https://open.spotify.com/artist/7I8XQUz2YhHaF41tpOpwbW) | [Fractalnoia](https://open.spotify.com/album/5b5IyYzwJEOoJ6mh5PY5sq) | 3:31 | 2023-03-16 | 2023-08-18 |
 | [Waarom /2](https://open.spotify.com/track/1BjpwQcgj54IukIeD9eMEs) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Waarom /2](https://open.spotify.com/album/2BIesNOHRfDIy0moaQc3gD) | 3:19 | 2023-02-23 | 2023-05-26 |
 | [Waiting On You \- Recorded Live](https://open.spotify.com/track/4YRPoV5sVEWaIwbyOBrQMx) | [Lance Priester](https://open.spotify.com/artist/2c57pFinaNzjVJOUUqai3v) | [Waiting On You \(Recorded Live\)](https://open.spotify.com/album/48gFbqIM1Q8LQMAAfNC4hK) | 5:04 | 2023-06-08 |  |
-| [Where Nothing Lives](https://open.spotify.com/track/6ofdXDYZi0FlGADmT8GXLM) | [Ariana Popal](https://open.spotify.com/artist/2KtR4fuIjdVu1h8slsENsD) | [Where Nothing Lives](https://open.spotify.com/album/4hftnqNfW3ZwZKoGpgehEV) | 3:28 | 2023-02-23 |  |
+| [Where Nothing Lives](https://open.spotify.com/track/6ofdXDYZi0FlGADmT8GXLM) | [Ariana Popal](https://open.spotify.com/artist/2KtR4fuIjdVu1h8slsENsD) | [Where Nothing Lives](https://open.spotify.com/album/4hftnqNfW3ZwZKoGpgehEV) | 3:28 | 2023-02-23 | 2023-11-10 |
 | [wolken](https://open.spotify.com/track/26QmlgDd3OyGvXPjueLSHW) | [damy](https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK) | [mensenkind](https://open.spotify.com/album/2ezRCf4Loqn8azlJxAV6QM) | 2:24 | 2023-10-12 |  |
 | [Woman Life Freedom](https://open.spotify.com/track/4pbNBY48GTfZ16X4jJxba5) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Woman Life Freedom](https://open.spotify.com/album/4GB69MswlOepsu21T0NqUF) | 4:12 | 2023-02-23 | 2023-11-08 |
 | [youandme](https://open.spotify.com/track/51mffAss4N5q3VVkLR02TE) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Into Your Head](https://open.spotify.com/album/1YgODoJinZO2aL2Zhqtv6r) | 2:59 | 2023-03-16 |  |

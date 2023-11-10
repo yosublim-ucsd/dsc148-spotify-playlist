@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Skales",
+  "description": "Tracks popping off in the Afro scene. Cover: Nelson Freitas",
   "name": "Afro Station",
   "tracks": [
     {
@@ -1543,6 +1543,28 @@
     },
     {
       "album": {
+        "name": "Egopiano",
+        "url": "https://open.spotify.com/album/3iZ46zFRy42LAYtMP6yL0A"
+      },
+      "artists": [
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Egopiano",
+      "url": "https://open.spotify.com/track/26YBTrjCLaPr5avB5N5z8n"
+    },
+    {
+      "album": {
         "name": "Just Pop Hits",
         "url": "https://open.spotify.com/album/60oLjos6nFcbMOQAykbxdN"
       },
@@ -1767,6 +1789,28 @@
     },
     {
       "album": {
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/5QNmhuFtLpsbwrJRechPZp"
+      },
+      "artists": [
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        },
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137386,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5G6szsbEgDRHH975jPtMCf"
+    },
+    {
+      "album": {
         "name": "Fine Girl",
         "url": "https://open.spotify.com/album/4UFfCfzRXHZXoiWUWeL6zq"
       },
@@ -1954,7 +1998,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 179880,
       "name": "Gomi",
       "url": "https://open.spotify.com/track/7CCWyyvOkQpeBfSXHjBzCW"
@@ -2354,6 +2398,28 @@
       "duration_ms": 186562,
       "name": "Jumoke",
       "url": "https://open.spotify.com/track/5L8dHIMUXtDD3j46d05TqA"
+    },
+    {
+      "album": {
+        "name": "Emma'a",
+        "url": "https://open.spotify.com/album/492YAgwbV47RfRlhs2GA9w"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124906,
+      "name": "Katana (feat. Jungeli)",
+      "url": "https://open.spotify.com/track/7wdSNcLfqVXJHcECtEZ5ZI"
     },
     {
       "album": {
@@ -2788,7 +2854,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 195659,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
@@ -2824,7 +2890,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 181283,
       "name": "Low Waist",
       "url": "https://open.spotify.com/track/5rb99A8aR2scVXSLIbLAft"
@@ -4401,6 +4467,28 @@
     },
     {
       "album": {
+        "name": "Hokage",
+        "url": "https://open.spotify.com/album/67hwyicW6wPonYbfc4rjet"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185746,
+      "name": "Sp\u00e9ciale",
+      "url": "https://open.spotify.com/track/0da0fRqW4yx08ncpL8Gn8B"
+    },
+    {
+      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
       },
@@ -4904,7 +4992,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 158400,
       "name": "UMENIKAMATA",
       "url": "https://open.spotify.com/track/10SfX9KF3H6kUOk51zP8TN"

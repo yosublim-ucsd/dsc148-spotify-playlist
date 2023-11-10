@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A los Dos](https://open.spotify.com/track/7HdvPTGj3I6DfnobSkQybR) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d) | [Reggaeton Romantico Vol 1](https://open.spotify.com/album/6tT4rOPYC3adYrCmBWOXy6) | 2:52 | 2023-02-14 |  |
+| [A los Dos](https://open.spotify.com/track/7HdvPTGj3I6DfnobSkQybR) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d), [El Mini](https://open.spotify.com/artist/4I5bs1BXz3JsItL4pze2GN) | [Reggaeton Romantico Vol 1](https://open.spotify.com/album/6tT4rOPYC3adYrCmBWOXy6) | 2:52 | 2023-02-14 |  |
 | [Barre con el Pelo \(feat\. Dj Blass\)](https://open.spotify.com/track/0VBbbLKnpayQeBKZdYamhi) | [Tomasa del Real](https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD), [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Bellaca del Año](https://open.spotify.com/album/5PQkVo8VxFjapE73WjI16a) | 3:18 | 2023-02-14 |  |
 | [Besos Moja2](https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:49 | 2023-02-14 |  |
 | [Bichiyal](https://open.spotify.com/track/4j4w4CXm6BSr0s25wAWrrX) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Yaviah](https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:16 | 2023-02-14 |  |

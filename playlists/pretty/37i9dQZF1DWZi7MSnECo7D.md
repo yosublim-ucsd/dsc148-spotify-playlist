@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Papisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,105 likes - 76 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,107 likes - 76 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 75 | [Desabriga](https://open.spotify.com/track/4lZACQsjOZo5XxwUBK3KW2) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Desabriga](https://open.spotify.com/album/60jnx3HvluMJu7Q0G3xIw3) | 3:05 |
 | 76 | [cê disse que me ama](https://open.spotify.com/track/0ES1WHS9pYIAxHtR5EhkV2) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [cê disse que me ama](https://open.spotify.com/album/4hc5JdVbwXs2cPmYsm2Yz9) | 2:35 |
 
-Snapshot ID: `MCxkNGM0NDZjNTY3Mjc4NzY1NWYxMWJiMGRjYjI4OWJhYzgwNjRlYjFj`
+Snapshot ID: `MCwxNzM3OTI5ZWQzNDNjNDYwYTIzZTk0OTMzZWY3ZTUxZjg5ZDI4NTM3`

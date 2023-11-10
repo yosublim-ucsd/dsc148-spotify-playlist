@@ -2,7 +2,7 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Alice et Moi
+> The best French indie tracks right now\. Cover : Zélie
 
 417 songs - 22 hr 51 min
 

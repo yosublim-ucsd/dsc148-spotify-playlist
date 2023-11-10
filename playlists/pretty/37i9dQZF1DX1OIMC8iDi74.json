@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: G Jones",
-  "num_followers": 892649,
+  "num_followers": 892714,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTk1MzUxMTc5MjdiNDYzNmQ3MDRhNTVkOTdkZGQ4OWIwMmYzNmI2",
+  "snapshot_id": "MCwyMmE4ZTllZjllZDVkOWFlMmE5MmZiZjhlZDFiZWFhOWI3YWIwNTU2",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Only Be Me",
+        "url": "https://open.spotify.com/album/18jDao69dC593MEAZheoyA"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 208285,
+      "name": "Only Be Me",
+      "url": "https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "The Return of House Music",
         "url": "https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 244302,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Only Be Me",
-        "url": "https://open.spotify.com/album/18jDao69dC593MEAZheoyA"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 208285,
-      "name": "Only Be Me",
-      "url": "https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1043,22 +1043,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+        "name": "Blow the Roof",
+        "url": "https://open.spotify.com/album/1mpCVicVx2roKL7Bq2i6Vz"
       },
       "artists": [
         {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
         },
         {
-          "name": "Lil Gnar",
-          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 121849,
-      "name": "Spirits Pt. 2",
-      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
+      "duration_ms": 245090,
+      "name": "Do or Die (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/2BTPW7osibjN9gFDRY4mYN"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1079,22 +1079,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Blow the Roof",
-        "url": "https://open.spotify.com/album/1mpCVicVx2roKL7Bq2i6Vz"
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
       },
       "artists": [
         {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
         },
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
         }
       ],
-      "duration_ms": 245090,
-      "name": "Do or Die (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/2BTPW7osibjN9gFDRY4mYN"
+      "duration_ms": 121849,
+      "name": "Spirits Pt. 2",
+      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 246315,
-      "name": "I Love You.",
-      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Redo",
         "url": "https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 197260,
       "name": "Redo",
       "url": "https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 246315,
+      "name": "I Love You.",
+      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Wobble",
-        "url": "https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Wobble",
-      "url": "https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 249600,
       "name": "Flying Spaghetti Monster",
       "url": "https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Wobble",
+        "url": "https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Wobble",
+      "url": "https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Drop EP",
-        "url": "https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg"
-      },
-      "artists": [
-        {
-          "name": "Bro Safari",
-          "url": "https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq"
-        }
-      ],
-      "duration_ms": 229850,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Lions (Doctor P Remix)",
         "url": "https://open.spotify.com/album/7xWxGshK3ogleWUz6WvnkL"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 273600,
       "name": "Lions - Doctor P Remix",
       "url": "https://open.spotify.com/track/6exH1RP0wkEQgfHJ3rd2mP"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Drop EP",
+        "url": "https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg"
+      },
+      "artists": [
+        {
+          "name": "Bro Safari",
+          "url": "https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq"
+        }
+      ],
+      "duration_ms": 229850,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Moving Points",
-        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
+        "name": "Love Hotel",
+        "url": "https://open.spotify.com/album/70Bek9HrCmMAku4HmZd0Sl"
       },
       "artists": [
         {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+          "name": "barnacle boi",
+          "url": "https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu"
         }
       ],
-      "duration_ms": 121007,
-      "name": "Red Ish",
-      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
+      "duration_ms": 203809,
+      "name": "Love Hotel",
+      "url": "https://open.spotify.com/track/3D5T9c0O7IE2uM0pU4Q5SN"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Moving Points",
+        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "duration_ms": 121007,
+      "name": "Red Ish",
+      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/3EhdaJvRBADR4RKhY7jpsg"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 173350,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3kJ4a4eMZ6pg51DW7lhZyO"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Love Hotel",
-        "url": "https://open.spotify.com/album/70Bek9HrCmMAku4HmZd0Sl"
-      },
-      "artists": [
-        {
-          "name": "barnacle boi",
-          "url": "https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu"
-        }
-      ],
-      "duration_ms": 203809,
-      "name": "Love Hotel",
-      "url": "https://open.spotify.com/track/3D5T9c0O7IE2uM0pU4Q5SN"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Active",
-        "url": "https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi"
-      },
-      "artists": [
-        {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        }
-      ],
-      "duration_ms": 150370,
-      "name": "Active",
-      "url": "https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "SABER TOOTH",
         "url": "https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 165346,
       "name": "SABER TOOTH",
       "url": "https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        }
+      ],
+      "duration_ms": 150370,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG"
     }
   ],
   "unique_name": "Trap Mojito",

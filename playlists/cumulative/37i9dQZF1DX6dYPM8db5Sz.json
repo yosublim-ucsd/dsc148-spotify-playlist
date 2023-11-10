@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl?si=AvqIY2gjRqyKhpfGBzZZRQ\">Tyler Page</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F?si=LtkmAB0iQqqNVcfCHdHAuQ\">Hunter As a Horse</a> ",
   "name": "SAlt",
   "tracks": [
+    {
+      "album": {
+        "name": "1988",
+        "url": "https://open.spotify.com/album/2bfvxrn24ZELLxTRi2payd"
+      },
+      "artists": [
+        {
+          "name": "Hunter As a Horse",
+          "url": "https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244909,
+      "name": "1988",
+      "url": "https://open.spotify.com/track/60GeeJt1UxTSbZEleGRDTY"
+    },
     {
       "album": {
         "name": "Paper Crown",
@@ -128,7 +146,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 159807,
       "name": "A Scene from Some Old Poem",
       "url": "https://open.spotify.com/track/6i6L08iGEYcUBvF32n4hQf"
@@ -150,7 +168,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 212280,
       "name": "A Stone in the Mouth of the Ocean",
       "url": "https://open.spotify.com/track/4wO4ACUZ6O4kyRUXzkslvW"
@@ -652,7 +670,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
@@ -1588,7 +1606,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 162774,
       "name": "Chase the sun",
       "url": "https://open.spotify.com/track/1Vy5OKXonzGToIK2vCKgpj"
@@ -1748,6 +1766,24 @@
       "duration_ms": 130134,
       "name": "Comparison Is a Disease",
       "url": "https://open.spotify.com/track/4fKIYbRlivll98Aiu3ZD9h"
+    },
+    {
+      "album": {
+        "name": "concentrate",
+        "url": "https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281833,
+      "name": "concentrate",
+      "url": "https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc"
     },
     {
       "album": {
@@ -2048,6 +2084,24 @@
       "duration_ms": 242643,
       "name": "Dear Host",
       "url": "https://open.spotify.com/track/7A7gXMYV7cqEYZjPzwwn90"
+    },
+    {
+      "album": {
+        "name": "Death Brought Me Back To Life",
+        "url": "https://open.spotify.com/album/6n9zlrNL791HaOV0cOLi7D"
+      },
+      "artists": [
+        {
+          "name": "BINX",
+          "url": "https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Death Brought Me Back To Life",
+      "url": "https://open.spotify.com/track/701QDuwaMyf6gcairQY97Z"
     },
     {
       "album": {
@@ -2993,6 +3047,24 @@
     },
     {
       "album": {
+        "name": "foolish~",
+        "url": "https://open.spotify.com/album/15FLKcgJMmeUNnWh6N8agq"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "foolish~",
+      "url": "https://open.spotify.com/track/5IjQ1VbG7C3kv0fRiCIWlI"
+    },
+    {
+      "album": {
         "name": "Forgetful Hands",
         "url": "https://open.spotify.com/album/7kSVJTf8p13tHD6MxXFyna"
       },
@@ -3278,7 +3350,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 99130,
       "name": "goodbye~",
       "url": "https://open.spotify.com/track/1FoQGNxWPrxuydF1qTGaSI"
@@ -3314,7 +3386,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 226666,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/393wK9bZSGRfSP0nT4NrsP"
@@ -3851,6 +3923,24 @@
     },
     {
       "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389393,
+      "name": "I Can and I Will",
+      "url": "https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4"
+    },
+    {
+      "album": {
         "name": "I Can't Lose",
         "url": "https://open.spotify.com/album/5iVmkBy7MzUzZTq41PHJuJ"
       },
@@ -4134,6 +4224,24 @@
       "duration_ms": 212625,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN"
+    },
+    {
+      "album": {
+        "name": "The petals and sand",
+        "url": "https://open.spotify.com/album/2ar7vAVgaBCZk2J0DMFNWs"
+      },
+      "artists": [
+        {
+          "name": "Carla Malrowe",
+          "url": "https://open.spotify.com/artist/1sgIxyaQ77veaGLIu40zYv"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190005,
+      "name": "In Rome",
+      "url": "https://open.spotify.com/track/0hEhSq1LChxU3J4zlfknt5"
     },
     {
       "album": {
@@ -4961,6 +5069,24 @@
     },
     {
       "album": {
+        "name": "Blanket",
+        "url": "https://open.spotify.com/album/7MbhBlacUYoWPZYUhsWLxK"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183080,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/08lxQMon7L91ykAMi87rgN"
+    },
+    {
+      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/1RxQeHE8nnHn4pZJxUfwvv"
       },
@@ -5669,6 +5795,24 @@
     },
     {
       "album": {
+        "name": "EVE",
+        "url": "https://open.spotify.com/album/7FyR8Ndv9swxVJ5KzO1ATE"
+      },
+      "artists": [
+        {
+          "name": "The Plastics",
+          "url": "https://open.spotify.com/artist/2TwbN0GbcmhHelBGFarQJq"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198920,
+      "name": "Nobody Like You",
+      "url": "https://open.spotify.com/track/6VN4ApobrC2hUgOdKUpFCW"
+    },
+    {
+      "album": {
         "name": "Nomkhitha",
         "url": "https://open.spotify.com/album/0Mio7AxECjFCu3KeGniK14"
       },
@@ -5680,7 +5824,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 309510,
       "name": "Nomkhitha",
       "url": "https://open.spotify.com/track/1uF0rcH9Ujth9we0hSO80q"
@@ -5870,6 +6014,24 @@
       "duration_ms": 197021,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/6Q1HlpBc55tZYp1mfdForo"
+    },
+    {
+      "album": {
+        "name": "Quarter Life Crisis (Deluxe)",
+        "url": "https://open.spotify.com/album/71mcDUoyViKC1i3kmAvJiI"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258762,
+      "name": "Obvious",
+      "url": "https://open.spotify.com/track/3mHiyFqlw2ERmQCiXkmaXM"
     },
     {
       "album": {
@@ -6706,7 +6868,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 312459,
       "name": "rats in my walls",
       "url": "https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL"
@@ -6868,7 +7030,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 207306,
       "name": "Roxy Late Night",
       "url": "https://open.spotify.com/track/3wEo3etGPy2w8pDoYaZZrb"
@@ -6944,10 +7106,28 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 113527,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/7c02uViUZcHQE5C5l3n1qo"
+    },
+    {
+      "album": {
+        "name": "Everything's Conditional",
+        "url": "https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0"
+      },
+      "artists": [
+        {
+          "name": "Jackie Mere",
+          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225760,
+      "name": "Running For My Life",
+      "url": "https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60"
     },
     {
       "album": {
@@ -7511,6 +7691,24 @@
     },
     {
       "album": {
+        "name": "Sophie",
+        "url": "https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194430,
+      "name": "Sophie",
+      "url": "https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR"
+    },
+    {
+      "album": {
         "name": "Sophie from Church",
         "url": "https://open.spotify.com/album/4blZCIZnQH3ooTIUifv63b"
       },
@@ -7772,7 +7970,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 275360,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/478FDZYiDhJGGAwM0oWbPv"
@@ -8403,6 +8601,24 @@
     },
     {
       "album": {
+        "name": "Three Famous Words",
+        "url": "https://open.spotify.com/album/4TKIxP4VikzP4YbiCroA2B"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hunter",
+          "url": "https://open.spotify.com/artist/575FsY9RM9NcTZnOo5qCf0"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326963,
+      "name": "Three Famous Words",
+      "url": "https://open.spotify.com/track/0tJMQ6hUEhq03JwU7yJ5Ef"
+    },
+    {
+      "album": {
         "name": "Through The Misty With You (From \u201cThe Score\u201d)",
         "url": "https://open.spotify.com/album/5HDG7vBlkkzyLAAJVq0Fxk"
       },
@@ -8566,7 +8782,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 159000,
       "name": "Too Good At Being Single",
       "url": "https://open.spotify.com/track/09Rf9tF3eEZUgjnqxxfEBA"
@@ -8606,6 +8822,24 @@
       "duration_ms": 181586,
       "name": "Touching Yourself",
       "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
+    },
+    {
+      "album": {
+        "name": "You Need Therapy",
+        "url": "https://open.spotify.com/album/0NYQYblEYAOVZBogSiQUrk"
+      },
+      "artists": [
+        {
+          "name": "Mila Smith",
+          "url": "https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6JdUt6DtsCUxzhA3W7Iq0J"
     },
     {
       "album": {
@@ -9010,7 +9244,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 186795,
       "name": "Waiting Forever",
       "url": "https://open.spotify.com/track/0wABBgkiamVDvK04MUvHkU"

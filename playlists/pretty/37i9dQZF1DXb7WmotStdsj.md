@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,886 likes - 60 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,523 likes - 60 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 18 | [El 3achk S3ib](https://open.spotify.com/track/0waRpeDDFkMZooRQtr3bOa) | [Cheba Manel](https://open.spotify.com/artist/2gf81e1DwyMQ4TbmPgM8Qs), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [El 3achk S3ib](https://open.spotify.com/album/2V49uoeC49aaRrRRT7tVw5) | 3:56 |
 | 19 | [Ghazali Habitou](https://open.spotify.com/track/6hhhkowroGbSLNlnuNM8fF) | [Okba Djomati](https://open.spotify.com/artist/2b2xFFEXTFqLRI7sdNpuln), [Cheba Yamina](https://open.spotify.com/artist/16xaDylgpAhxXn1nfWxsU6), [Nasreddine Hora](https://open.spotify.com/artist/5v9r8rYVvqOHnJzVUhA9hQ) | [Ghazali Habitou](https://open.spotify.com/album/4T3ywwlgzvYGC5Q0NZgePj) | 5:12 |
 | 20 | [زهري وميموني](https://open.spotify.com/track/58waEmZ6y9DR4Un90peUBg) | [Cheb Mustapha](https://open.spotify.com/artist/6mWYICO5NsvtzQ7VEwvOf1), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [زهري وميموني](https://open.spotify.com/album/3hkW0KlNQCAQUnqyZVlxSh) | 4:18 |
-| 21 | [هدا غي عشق وفايت Abbas Kahla](https://open.spotify.com/track/2XccMlUe2DuW4YLrjFghki) | [Abbas Kahla](https://open.spotify.com/artist/2v4kCfsNFrNNBAwAs4GZrV) | [هدا غي عشق وفايت Abbas Kahla](https://open.spotify.com/album/5Zyjk5uDs9yYlQFMSR5MvU) | 4:14 |
+| 21 | [هدا غي عشق وفايت](https://open.spotify.com/track/3joJoAR6B8308tfIlisTx2) | [Abbas Kahla](https://open.spotify.com/artist/2v4kCfsNFrNNBAwAs4GZrV) | [هدا غي عشق وفايت](https://open.spotify.com/album/78Jky16Q6UjmNj4Kh5I5Re) | 4:14 |
 | 22 | [Cheb Rochdi Djazira \(Khayna\)](https://open.spotify.com/track/60w5cYkVfK2Z12g9ybDiNG) | [Dz Prod](https://open.spotify.com/artist/2SclQHGM4mHnck8kkeMWlf) | [Cheb Rochdi Djazira \(Khayna\)](https://open.spotify.com/album/1xDohBxeJ05Iq0a6RkQkxS) | 3:13 |
 | 23 | [Ghazali](https://open.spotify.com/track/6JBqQLrTxG8wigGUGshYUN) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [Ghazali](https://open.spotify.com/album/3W7Td1MGNtH7PqGMpbtb57) | 5:04 |
 | 24 | [Cheikh Mamidou Ghaltat 3omri](https://open.spotify.com/track/4Oo5q4LjJWrnj7Z0prl5cu) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou Ghaltat 3omri](https://open.spotify.com/album/4ekNCdLuNvIgzYncykwPlg) | 5:15 |

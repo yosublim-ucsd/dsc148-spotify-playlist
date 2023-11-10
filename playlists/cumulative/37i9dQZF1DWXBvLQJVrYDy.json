@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Acadia",
+        "url": "https://open.spotify.com/album/3NbKXnS56zCBSmqtFGt8Ti"
+      },
+      "artists": [
+        {
+          "name": "Bobby Katz Quartet",
+          "url": "https://open.spotify.com/artist/2ageVjmChv8ntPyL4DAhRm"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201561,
+      "name": "Acadia",
+      "url": "https://open.spotify.com/track/1RAdA5l9OJNurt58Y1tWKM"
+    },
+    {
+      "album": {
         "name": "Aesthete",
         "url": "https://open.spotify.com/album/3PJ0KtKGlCir7TYGmQaZ8q"
       },

@@ -2,7 +2,7 @@
 
 ### [Christmas Classics](https://open.spotify.com/playlist/37i9dQZF1DX6R7QUWePReA)
 
-> Timeless heart\-warming classics from 1950\- 1980 for the holiday season.
+> Timeless heart\-warming classics from 1940\- 1980 for the holiday season.
 
 109 songs - 5 hr 25 min
 
@@ -113,7 +113,7 @@
 | [What Child Is This/The Holly And The Ivy \- Medley / Remastered 2006](https://open.spotify.com/track/6OJdXv1Q5OdLgYolFEunJ4) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 3:20 | 2021-12-25 |  |
 | [When a Child Is Born](https://open.spotify.com/track/0jXjTHqZVXhQSGUAvUbCvU) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [I Only Have Eyes For You](https://open.spotify.com/album/4Mr6rpkhF8XvrgHiQTymir) | 3:43 | 2022-12-05 |  |
 | [White Christmas \- 1947 Version](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 | 2022-12-25 |  |
-| [White Christmas \- 1947 Version](https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 3:03 | 2021-12-25 |  |
+| [White Christmas \- 1947 Version](https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 3:03 | 2021-12-25 | 2023-11-10 |
 | [Winter Wonderland](https://open.spotify.com/track/12YAgUbl6Uk9E7fzopF4Ji) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:26 | 2021-12-25 |  |
 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/6TnjaL02usP9dwCGzdk5GS) | [Thurl Ravenscroft](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL) | [Dr\. Seuss' How The Grinch Stole Christmas!](https://open.spotify.com/album/6i5r2wHckEUWNo5vODUr3d) | 5:15 | 2021-12-25 | 2022-07-29 |
 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/4qP2V09IpTct5A1ZSnr1zh) | [Thurl Ravenscroft](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL), [Boris Karloff](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) | [Dr\. Seuss' How The Grinch Stole Christmas! \(Original TV Soundtrack\)](https://open.spotify.com/album/6P62c1CkC8iNejWXQGegDQ) | 5:15 | 2021-12-25 |  |

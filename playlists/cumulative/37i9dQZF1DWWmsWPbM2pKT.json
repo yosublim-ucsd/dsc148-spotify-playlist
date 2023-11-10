@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-06",
-  "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. Cover: Mareux",
+  "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. ",
   "name": "Darkwave",
   "tracks": [
     {
@@ -420,6 +420,28 @@
       "duration_ms": 176100,
       "name": "Biessenso\u016dnas\u0107",
       "url": "https://open.spotify.com/track/2R1Yk6vm11P3pLIrtBR4eM"
+    },
+    {
+      "album": {
+        "name": "Big Trouble (with Tei Shi)",
+        "url": "https://open.spotify.com/album/3k9aqoRFJyUvYEXWE1uyE3"
+      },
+      "artists": [
+        {
+          "name": "Zooey Celeste",
+          "url": "https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy"
+        },
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230488,
+      "name": "Big Trouble (with Tei Shi)",
+      "url": "https://open.spotify.com/track/0ocr7Yn9DpnMLXUHUWeCxu"
     },
     {
       "album": {
@@ -1898,6 +1920,24 @@
       "duration_ms": 241057,
       "name": "Labor",
       "url": "https://open.spotify.com/track/3Ra7J2KKsqKOHR4w9OMuEN"
+    },
+    {
+      "album": {
+        "name": "LAST WISH",
+        "url": "https://open.spotify.com/album/6LCTBtZtq1ogCINSnDQrA3"
+      },
+      "artists": [
+        {
+          "name": "DIGITAL REY",
+          "url": "https://open.spotify.com/artist/0anUkBIQnpCcSiTa7vbOaS"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203442,
+      "name": "LAST WISH",
+      "url": "https://open.spotify.com/track/7ImDK6cahdEFf5A70IaHOE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-282 songs - 16 hr 57 min
+283 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Pleasure & Pain](https://open.spotify.com/track/36xSEKbM5mpSiErUfYvzW0) | [K\. Roosevelt](https://open.spotify.com/artist/6NwdT3GPUajFQ9IvBYe0cu) | [Solstice](https://open.spotify.com/album/0qirqalFHKsdczuFN3mcEL) | 2:58 | 2022-09-09 |  |
 | [POOLSIDE](https://open.spotify.com/track/0xlWwwUYRWSbCRfo2ouHPJ) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [SPRING: POOLSIDE x LAGOON](https://open.spotify.com/album/5bJYoNzkHpbXYWl694WGmI) | 2:41 | 2022-09-09 |  |
 | [PROVIDER](https://open.spotify.com/track/4airbHwBaIJOg3BLA5pz30) | [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [PROVIDER](https://open.spotify.com/album/5PRKaphKkSTgUTX3tMbkAt) | 3:06 | 2022-09-09 |  |
+| [Puffy's Riddim](https://open.spotify.com/track/4iQr2KsFqN1CP7abl2PC10) | [Kofi the Unknown](https://open.spotify.com/artist/6zSRBZnDUZfzQdVxsB1W7F), [Trian Kayhatu](https://open.spotify.com/artist/51TOlXFbJfbcclHeWl1DNw) | [Super\-Sonic Family Vol\. 2 \- Part 6](https://open.spotify.com/album/6MIiRzAHumN0QlARNfq7Tv) | 4:15 | 2023-11-09 |  |
 | [Quebrada](https://open.spotify.com/track/4Ika1bBabb94jkejNQ0NxI) | [The Odd 910](https://open.spotify.com/artist/6fU3JlyHRl3evN0aECdVV7) | [Nine Tenths of the Law](https://open.spotify.com/album/2ehRDCZKKkHRsZ76faCl3N) | 4:19 | 2022-10-14 |  |
 | [Quebrada](https://open.spotify.com/track/7BTQ4RediD8FmXcNGge72H) | [The Odd 910](https://open.spotify.com/artist/6fU3JlyHRl3evN0aECdVV7) | [Quebrada](https://open.spotify.com/album/74bKDqkidiTcglyRZcdusL) | 4:19 | 2022-09-09 | 2022-10-19 |
 | [Queen](https://open.spotify.com/track/3ynvh5EnUmMKDXQ98qcynE) | [Lyna](https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV) | [Muted Chaos.](https://open.spotify.com/album/4y17DEPHYBNF1zBqRVOnHn) | 2:36 | 2023-11-02 |  |

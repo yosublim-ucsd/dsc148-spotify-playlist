@@ -4,7 +4,7 @@
 
 > The new wave of rock from the UK & Ireland\. Cover: HotWax
 
-247 songs - 13 hr 21 min
+248 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2023-01-13 | 2023-02-17 |
 | [leicester](https://open.spotify.com/track/6C4rKvQkoyayJYKEOzzEYr) | [takenbymarshall](https://open.spotify.com/artist/0GZXOWGXr9hXvwsbtFmAOV) | [leicester](https://open.spotify.com/album/3TXPpN3KHl3147ERSJvZLH) | 2:25 | 2023-01-13 | 2023-07-29 |
 | [Liar](https://open.spotify.com/track/6M5P7gqhMtgvhgDkNMcn4L) | [Static](https://open.spotify.com/artist/6BwhFZ9G4KMJ2njYMjRtZc) | [Liar](https://open.spotify.com/album/7l8Yu9tPWQsXXeOsMWXioC) | 3:55 | 2023-01-13 | 2023-07-29 |
-| [Lidocaine](https://open.spotify.com/track/01xBC2hkESbCnZ4rDwyod7) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Liar Liar](https://open.spotify.com/album/73mgU4EA3qgV9Dfko9TrZk) | 2:31 | 2023-10-13 |  |
+| [Lidocaine](https://open.spotify.com/track/01xBC2hkESbCnZ4rDwyod7) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Liar Liar](https://open.spotify.com/album/73mgU4EA3qgV9Dfko9TrZk) | 2:31 | 2023-10-13 | 2023-11-10 |
+| [Lidocaine](https://open.spotify.com/track/0slp3xaYYXJ5GTP2Pr7LZ3) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Lidocaine](https://open.spotify.com/album/23Nm4bA75MZK00MHlYHGsA) | 2:31 | 2023-10-13 |  |
 | [Lidocaine](https://open.spotify.com/track/41MYbtUtWEND9vbXanon9O) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Lidocaine](https://open.spotify.com/album/3SMBG7hypD1gVe1ow53E8A) | 2:31 | 2023-08-10 | 2023-11-08 |
 | [Like a Cloud](https://open.spotify.com/track/7GoINrNECkHo1jsE0lCfX5) | [Saint Vienna](https://open.spotify.com/artist/5yPSiOQWSlccuKzZAAa8q5) | [Like a Cloud](https://open.spotify.com/album/7KBy1bXPUok1aOrWcCEoqI) | 4:08 | 2023-01-13 | 2023-03-11 |
 | [Like You Do](https://open.spotify.com/track/6ZVCjPMf1rHdGrNrdUguIm) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Like You Do](https://open.spotify.com/album/0v16l7GQAeUKZrFIRSKLSz) | 3:05 | 2023-01-13 | 2023-03-25 |

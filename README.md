@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6984\)
+## Playlists \(6985\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2153,6 +2153,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fuego \#072 \- Saiko's Mixtape](/playlists/pretty/37i9dQZF1DX1QYk4eMLrC8.md)
 - [Fuego \#073 \- Ronald Acuña Jr.'s Mixtape](/playlists/pretty/37i9dQZF1DWWnwM5ZuDrb9.md)
 - [Fuego \#074 \- Santi's Mixtape](/playlists/pretty/37i9dQZF1DWWB0NjvuKCFr.md)
+- [Fuego \#075 \- Alvaro Diaz's Mixtape](/playlists/pretty/37i9dQZF1DXafqGLBKMLN6.md)
 - [Fuego \- \#059 Sofia Bella's Mixtape](/playlists/pretty/37i9dQZF1DWW9fd5h9dO0R.md)
 - [Full Volume](/playlists/pretty/37i9dQZF1DWUv0cTKdT8jJ.md)
 - [Fun Run](/playlists/pretty/37i9dQZF1DXadOVCgGhS7j.md)

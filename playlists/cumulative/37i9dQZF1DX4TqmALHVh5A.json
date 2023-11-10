@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : MDNS",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Johnny Jane",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 182985,
       "name": "Aspiration",
       "url": "https://open.spotify.com/track/7IXvqtnsBbJM7IEDQetR9b"
+    },
+    {
+      "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/7qYCBUiH3uVK3gNpusRZiF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149226,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/7x5V1JR3yO7QwpwuXOYQLC"
     },
     {
       "album": {
@@ -322,7 +340,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 171800,
       "name": "Dans\u00e9",
       "url": "https://open.spotify.com/track/4WBy4mNSb3ytse4qR2BjkG"
@@ -452,7 +470,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 163146,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/3BvnwJMDF3MxPVGSitA4f3"
@@ -600,7 +618,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 142200,
       "name": "Joy",
       "url": "https://open.spotify.com/track/349nICB9NxNabg6WI27ZV5"
@@ -622,6 +640,24 @@
       "duration_ms": 210653,
       "name": "KLNX",
       "url": "https://open.spotify.com/track/63cOm5jCSwyRG9szlKdBcC"
+    },
+    {
+      "album": {
+        "name": "l'amour et la bagarre",
+        "url": "https://open.spotify.com/album/30eids0YHwyKSvDoEkoWrK"
+      },
+      "artists": [
+        {
+          "name": "Lulu Van Trapp",
+          "url": "https://open.spotify.com/artist/6N9HDXBvQ0Nd9GVtHg3DMZ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183330,
+      "name": "l'amour et la bagarre",
+      "url": "https://open.spotify.com/track/6WxZeXxZWF2BVTrmHB4Ijl"
     },
     {
       "album": {
@@ -805,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Paris cyclone",
+        "url": "https://open.spotify.com/album/46CCI0ZcsEnvxwMHWkZFqw"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Fever",
+          "url": "https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211250,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/3xlzqzAs4T4LK0bsE0FEvB"
+    },
+    {
+      "album": {
         "name": "mignon",
         "url": "https://open.spotify.com/album/2LPAGoujHArNcmK94Gll3r"
       },
@@ -978,7 +1032,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 130531,
       "name": "PLUS RIEN N'EST GRAVE",
       "url": "https://open.spotify.com/track/5riDJY8bBZ5q93T6SuEyCt"
@@ -1274,6 +1328,24 @@
       "duration_ms": 180000,
       "name": "The 360 Holes Bird",
       "url": "https://open.spotify.com/track/1HXda7QPN7Ku4HgHfSc1Qp"
+    },
+    {
+      "album": {
+        "name": "Tout eteindre",
+        "url": "https://open.spotify.com/album/7kWbrWPzUb3j1BySkQRqJI"
+      },
+      "artists": [
+        {
+          "name": "LE BLEU",
+          "url": "https://open.spotify.com/artist/0J9AH1bf6gXuhhZY8Ysuz4"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281768,
+      "name": "Tout eteindre",
+      "url": "https://open.spotify.com/track/3TVR0qA8G8V30Ywtnf1Xgm"
     },
     {
       "album": {

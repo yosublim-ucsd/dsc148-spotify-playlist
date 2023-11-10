@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: Wale
 
-688 songs - 1 day 13 hr 4 min
+689 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | ['05 Honda](https://open.spotify.com/track/4jRwstwnKA0gtdu5aemONX) | [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx), [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh) | [Some People Scream, Some People Talk](https://open.spotify.com/album/5CVZBLsQKpTNmjjq1xmQJW) | 2:58 | 2023-07-28 | 2023-08-19 |
 | ['96 Bulls](https://open.spotify.com/track/0VtyqKSFeXrIVSbpxARxt4) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | ['96 Bulls](https://open.spotify.com/album/01Do91GN0SpxAx2iyoJ59G) | 4:07 | 2021-09-03 | 2022-01-15 |
 | [10 More Commandments \(feat\. Diddy\)](https://open.spotify.com/track/3aXFgq1C1bwPCFQOgGPuPA) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Tana Talk 4](https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2) | 3:58 | 2022-03-11 | 2022-09-10 |
-| [10 Speed](https://open.spotify.com/track/436fxvQ60kobW2yR6QflJ3) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI), [JZAC](https://open.spotify.com/artist/4uClxFda8FlqQEMNkL7HH3) | [Life Is Weird](https://open.spotify.com/album/0SLT0oIEEw31rFo7rfRzm9) | 3:55 | 2023-11-03 |  |
+| [10 Speed](https://open.spotify.com/track/436fxvQ60kobW2yR6QflJ3) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI), [JZAC](https://open.spotify.com/artist/4uClxFda8FlqQEMNkL7HH3), [Boyu](https://open.spotify.com/artist/7eaiR8THwt8A77v0IZQHm9) | [Life Is Weird](https://open.spotify.com/album/0SLT0oIEEw31rFo7rfRzm9) | 3:55 | 2023-11-03 |  |
 | [14GRAMS](https://open.spotify.com/track/4sbcTN5D20TF4ouF0zPXXY) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [14GRAMS](https://open.spotify.com/album/45s1J9Yxx4F8Vu4xX02mp5) | 3:02 | 2022-02-11 | 2022-09-24 |
 | [2 for $10](https://open.spotify.com/track/71Y9YpsEOTTayD6ZcyMfXe) | [Maxo](https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe) | [Debbie's Son](https://open.spotify.com/album/35zJDntIjPdSyFfWk2lW6W) | 3:18 | 2023-09-29 | 2023-10-07 |
 | [2 France](https://open.spotify.com/track/6eTzbiTlDXQxLMTtq55fyM) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [YUNGMORPHEUS](https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy) | [BAG TALK DELUXE](https://open.spotify.com/album/4AvSfougaFVvHJDVB3w0Or) | 3:10 | 2022-11-11 | 2022-11-26 |
@@ -105,7 +105,8 @@
 | [Blue Eyes](https://open.spotify.com/track/0p2GhuTjC2j75hvOvqEaai) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Blue Eyes](https://open.spotify.com/album/1PxIYmT2QbHzkLe9FJMo1Y) | 2:55 | 2023-08-25 | 2023-09-16 |
 | [Blue Hundreds](https://open.spotify.com/track/0MC5f84F0ZAGoOkBqkbEKg) | [YGTUT](https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU), [Ducko Mcfli](https://open.spotify.com/artist/3Ub1GELMKvphT5J3F36nJf) | [SUPA](https://open.spotify.com/album/6lKgU5WyW5XFmMjbVgFR2e) | 3:13 | 2022-12-23 | 2023-05-06 |
 | [BLUSH](https://open.spotify.com/track/6MWUqZrDQWyoRde2pYSlpA) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [BLUSH](https://open.spotify.com/album/41QRDll7uVEhOxYa35BdNY) | 3:10 | 2023-02-24 | 2023-04-29 |
-| [Bobby Boucher](https://open.spotify.com/track/11o9dSwPFk66I8qUEvk8Aj) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Bobby Boucher](https://open.spotify.com/album/3TtnKqZZIMXNIGYV9RLii7) | 3:15 | 2023-07-14 |  |
+| [Bobby Boucher](https://open.spotify.com/track/11o9dSwPFk66I8qUEvk8Aj) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Bobby Boucher](https://open.spotify.com/album/3TtnKqZZIMXNIGYV9RLii7) | 3:15 | 2023-07-14 | 2023-11-10 |
+| [Bobby Boucher](https://open.spotify.com/track/2b1oIoYHq5vj5q1hrQ5WQy) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Bobby Boucher](https://open.spotify.com/album/7HOrAl8yqZsqW8UUVeVYZY) | 3:15 | 2023-11-03 |  |
 | [Boomerang](https://open.spotify.com/track/4BHgG8QMgDIuVOIzQBxMDj) | [Maxo](https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe) | [Debbie's Son](https://open.spotify.com/album/35zJDntIjPdSyFfWk2lW6W) | 2:12 | 2023-09-29 | 2023-10-07 |
 | [Born In A Crash](https://open.spotify.com/track/4e40siVNT0RE5cJLLdDbyk) | [Wale the Sage](https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD) | [Born In A Crash](https://open.spotify.com/album/0OlUwiZrc1uFlFT0UkQ83H) | 3:06 | 2023-09-08 |  |
 | [BOZOS](https://open.spotify.com/track/6SD90udaKP3jfdz0c9p8Om) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [BOZOS](https://open.spotify.com/album/1grHcnMMW7aLjUY11KJtH2) | 2:49 | 2021-08-13 | 2022-05-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,579 likes - 150 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,611 likes - 150 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 45 | [One More Time](https://open.spotify.com/track/4V3dOJuQQwy0kjSWBkO0Ay) | [Jaared](https://open.spotify.com/artist/0SaucWNgFLWiUFMEplJnyL) | [Manhattan Nights](https://open.spotify.com/album/5DGDEZkZPkc2OrnBAp9ij1) | 3:52 |
 | 46 | [You're My Joy](https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Serenity](https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV) | 3:37 |
 | 47 | [Feeling You](https://open.spotify.com/track/0FPvJklZbYd6Es7ndp0zOW) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Now](https://open.spotify.com/album/1h4QJTUxI20S16EwK0FXX1) | 4:22 |
-| 48 | [Got To Be Real](https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts) | [Uko](https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp) | [Smooth Jazz SAX Showcase](https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn) | 4:56 |
+| 48 | [Got To Be Real](https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts) | [Uko](https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp) | [Smooth Jazz SAX Showcase1 vol.2](https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn) | 4:56 |
 | 49 | [Wild Tales \(feat\. Russ Freeman\)](https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [True Stories](https://open.spotify.com/album/1oDCFpi7Kynh6YM30R39Ev) | 4:30 |
 | 50 | [Lil' too Late](https://open.spotify.com/track/2MzX6L4aa5YenFesxJDeMA) | [Elan Trotman's Tropicality](https://open.spotify.com/artist/5xv01tqskXWSxbUtR7iC5a) | [Double Take](https://open.spotify.com/album/1fak8Hq61PC9WJ3kXobIis) | 6:27 |
 | 51 | [Can't Let Go](https://open.spotify.com/track/09MR2oVNj1mnc6VMEo6ZgH) | [Rock Hendricks](https://open.spotify.com/artist/4bOB5AZPIctPJscn1cMU3I) | [Can't Let Go](https://open.spotify.com/album/1G94VFIPkUW03EbrqgPp08) | 4:54 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 149 | [Nightfall](https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO), [Strat Carter](https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx) | [Nightfall](https://open.spotify.com/album/0iQgv8ZvUhQlNylLYRfFJ7) | 3:07 |
 | 150 | [Another Day In Paradise](https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Another Day In Paradise](https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn) | 4:35 |
 
-Snapshot ID: `MCwzZmVlMmUxYjY3Mjk0YTNlODI3NmZkZjBiOTg1YzliYjBhNTIwNTEx`
+Snapshot ID: `MCw3OTQ1Y2Y5NDI1NWU5NWE0MTk4NTdhZDg2ZGUzZTQzMWM1MzVkOWEx`

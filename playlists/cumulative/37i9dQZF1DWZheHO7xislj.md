@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner.
 
-359 songs - 23 hr 16 min
+360 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Ladies](https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:17 | 2023-06-27 |  |
 | [Lead Me On](https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [Lay It On Me: The Columbia Years](https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV) | 2:12 | 2023-01-09 |  |
 | [Lean on Me](https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 4:18 | 2023-01-09 |  |
+| [Let Me Down Easy \- Remastered 2022](https://open.spotify.com/track/6XNXgwoz0bYMWt1VIAuSmH) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Let Me Down Easy: Bettye LaVette In Memphis \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/6U3CYjgNkTs2EUnQ30favQ) | 2:52 | 2023-08-15 |  |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2023-01-09 |  |
 | [Let's Take a Walk](https://open.spotify.com/track/7izNjJmJNskhSEFGMUacfl) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB) | 2:28 | 2023-06-27 |  |
 | [Like a Ship](https://open.spotify.com/track/4Oq0AUVncfWa2rD0idz6oV) | [Pastor T.L\. Barrett and the Youth for Christ Choir](https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA) | [Like a Ship \(Without a Sail\)](https://open.spotify.com/album/3NbIhR8hfscuwmD7MWBXpz) | 4:38 | 2023-06-27 |  |
@@ -277,7 +278,7 @@
 | [Some Type of Love](https://open.spotify.com/track/2nI6aT3cnPFoXQ1L705wcY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Some Type of Love](https://open.spotify.com/album/5t4A7Loq1pKRFlkBOs1O2O) | 3:05 | 2023-01-09 | 2023-06-28 |
 | [Something](https://open.spotify.com/track/2U52Hp8zYnG2kvt2de0M2L) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Family Dinner \- Vol\. 1](https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO) | 7:35 | 2023-06-27 |  |
 | [Something He Can Feel](https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Sparkle](https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3) | 6:21 | 2023-01-09 | 2023-06-28 |
-| [Space of You](https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Elle](https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf) | 3:50 | 2023-06-27 |  |
+| [Space of You](https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Elle](https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf) | 3:50 | 2023-06-27 | 2023-11-10 |
 | [Spanish Harlem](https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Very Best of Aretha Franklin \- The 70's](https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn) | 3:33 | 2023-01-09 |  |
 | [Spirit in the Dark](https://open.spotify.com/track/1wGvueGYFPUmQUtVglgcPt) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Spirit in the Dark](https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO) | 4:03 | 2023-06-27 |  |
 | [Spooky \(Single Version\)](https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Love Songs](https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA) | 2:44 | 2023-06-27 |  |

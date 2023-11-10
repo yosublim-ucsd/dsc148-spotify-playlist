@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/blaircaldwell/\">Blair Caldwell</a>",
-  "num_followers": 14376,
+  "num_followers": 14414,
   "original_name": "Blair Caldwell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTEwYzJhMmVmMGM0NzYwNjE2YzQ1ZjYwNjg1YTZiYzM2ZDgxZDIz",
+  "snapshot_id": "MCwwOWI2NmNhNDFkZWJjN2E2NDQwZmI4NDdjOTk5OWZmZDA0MTVhZTdi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:13:28",
@@ -835,18 +835,22 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "Full Moon",
-        "url": "https://open.spotify.com/album/7721xmJK5tmifUQdcmJ6An"
+        "name": "Afrodisiac",
+        "url": "https://open.spotify.com/album/0TBkOhBNDAooz45OxNZSle"
       },
       "artists": [
         {
           "name": "Brandy",
           "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 248933,
-      "name": "Full Moon",
-      "url": "https://open.spotify.com/track/0pLmfgIANOX9FB9uZDU43x"
+      "duration_ms": 214960,
+      "name": "Talk About Our Love (feat. Kanye West)",
+      "url": "https://open.spotify.com/track/6tvOzCdhzkrJo3ASWwbSPZ"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -903,22 +907,18 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "Afrodisiac",
-        "url": "https://open.spotify.com/album/0TBkOhBNDAooz45OxNZSle"
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/7721xmJK5tmifUQdcmJ6An"
       },
       "artists": [
         {
           "name": "Brandy",
           "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Talk About Our Love (feat. Kanye West)",
-      "url": "https://open.spotify.com/track/6tvOzCdhzkrJo3ASWwbSPZ"
+      "duration_ms": 248933,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/0pLmfgIANOX9FB9uZDU43x"
     }
   ],
   "unique_name": "Blair Caldwell's Taste",

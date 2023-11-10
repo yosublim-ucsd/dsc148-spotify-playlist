@@ -225,6 +225,32 @@
     },
     {
       "album": {
+        "name": "TALES OF ARISE - Beyond the Dawn Original Soundtrack",
+        "url": "https://open.spotify.com/album/2HL2ppkJtrzXl1lu96JVGY"
+      },
+      "artists": [
+        {
+          "name": "Motoi Sakuraba",
+          "url": "https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz"
+        },
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97029,
+      "name": "Beyond the Dawn",
+      "url": "https://open.spotify.com/track/1alyWxibSGkmwbwZYy9Hhe"
+    },
+    {
+      "album": {
         "name": "TALES OF LEGENDIA Original Soundtrack",
         "url": "https://open.spotify.com/album/5o923P8rKYMWsWvETQFbQ0"
       },
@@ -2290,6 +2316,24 @@
       "duration_ms": 93205,
       "name": "Unfinished world - PS ver.",
       "url": "https://open.spotify.com/track/3ciGRyJSC859LUDEzIuKWX"
+    },
+    {
+      "album": {
+        "name": "We Still",
+        "url": "https://open.spotify.com/album/21Xcrmvf3pjK3ZpE0HxphT"
+      },
+      "artists": [
+        {
+          "name": "KANKAKU PIERO",
+          "url": "https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316666,
+      "name": "We Still",
+      "url": "https://open.spotify.com/track/0k7icTuRmF2wr5PB1fNE9u"
     },
     {
       "album": {

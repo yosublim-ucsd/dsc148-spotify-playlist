@@ -1642,10 +1642,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 199761,
       "name": "Ragu?",
       "url": "https://open.spotify.com/track/6oW5w1IAVnBrLA8uDes0Gl"
+    },
+    {
+      "album": {
+        "name": "Menjelang Tiga Puluh",
+        "url": "https://open.spotify.com/album/1zIjdhnEbN0iI2unekxAPV"
+      },
+      "artists": [
+        {
+          "name": "RAYHAN NOOR",
+          "url": "https://open.spotify.com/artist/5jLL1YM0DNKKhnLl0oSlUA"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199774,
+      "name": "Ragu?",
+      "url": "https://open.spotify.com/track/68LuQlKVtKkILNcDJwqMPr"
     },
     {
       "album": {

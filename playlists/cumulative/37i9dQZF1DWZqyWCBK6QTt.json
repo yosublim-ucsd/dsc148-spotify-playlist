@@ -3837,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "Lazizi - Spotify Singles (Cover)",
+        "url": "https://open.spotify.com/album/3sKcmVnqk37Sgsdg9GBfce"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280418,
+      "name": "Lazizi - Spotify Singles - Cover",
+      "url": "https://open.spotify.com/track/4rutxh0KdzzxPNR75CCgJR"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
       },
@@ -6516,7 +6534,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 200655,
       "name": "True Colors (Spotify Singles)",
       "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"

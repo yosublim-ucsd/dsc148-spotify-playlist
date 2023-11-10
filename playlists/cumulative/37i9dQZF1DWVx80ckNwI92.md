@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative
 
-115 songs - 5 hr 46 min
+116 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [BLOODY TEXTS](https://open.spotify.com/track/7dcBpya1pwmRYb66unLz2s) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Kbackwood$](https://open.spotify.com/artist/0GfZ4RpzRkEvev3OuLSpoj) | [BLOODY TEXTS](https://open.spotify.com/album/41FMllrWhJfvOG70np84SX) | 2:03 | 2023-03-31 | 2023-04-28 |
 | [Bookbag 2.0 Guitar](https://open.spotify.com/track/4EpuHY7NSrVFZrDjeC6qTl) | [Alienzilla](https://open.spotify.com/artist/3fUOUDEB0RGiwTtUqZoAx0) | [Bookbag 2.0 Guitar](https://open.spotify.com/album/2JRjapfYS0uhGqaYYPHntZ) | 2:55 | 2023-05-25 | 2023-08-04 |
 | [Bother Nobody](https://open.spotify.com/track/2mzpAycGwGcSsRxHG34lqS) | [Clayrocksu](https://open.spotify.com/artist/4y3cAqb2AntF9Fa0EyEj2Y) | [Bother Nobody](https://open.spotify.com/album/5fJdrmD8HeJUz3C8cJWkqq) | 3:00 | 2023-05-18 | 2023-05-26 |
+| [Brasero](https://open.spotify.com/track/6NQhtmbhFzyqNKvhgtMulk) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz), [Lova Lova](https://open.spotify.com/artist/6pvXW87pGB0XovnUHo8xvC) | [Brasero](https://open.spotify.com/album/61IM2wtoBycfswgVDyk4cO) | 2:54 | 2023-11-10 |  |
 | [Buya Embo](https://open.spotify.com/track/164ACyhEkCE1qmiTSG6sZf) | [Laliboi](https://open.spotify.com/artist/7LgOsk5bA3mGavMffSjPOZ), [Spoek Mathambo](https://open.spotify.com/artist/3qw0OXlLhqI78xEWw9Ys8O) | [Buya Embo](https://open.spotify.com/album/35Ai9RRzaqROEzAHNetxQV) | 2:50 | 2023-04-06 |  |
 | [Canadian Tuxedo](https://open.spotify.com/track/0jWOcfI6BIjeJswYXKXVhv) | [Tano Jackson](https://open.spotify.com/artist/3mm6gcWlR8bu5jtddiuRwa), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Canadian Tuxedo](https://open.spotify.com/album/5LhBwvU9Yo6TO0HuYCUSCg) | 3:10 | 2023-03-30 | 2023-07-08 |
 | [Care For You](https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [Care For You](https://open.spotify.com/album/3hYqlV8cBdFnwy4dSR3elT) | 3:52 | 2023-05-11 |  |
@@ -77,7 +78,7 @@
 | [Nu Riddim](https://open.spotify.com/track/3KW6KJKinwAszaajAHOSQF) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Love Drunk](https://open.spotify.com/album/5d0oU10qoxpnSpa4PCaKXo) | 3:09 | 2023-03-30 | 2023-05-12 |
 | [Numbers](https://open.spotify.com/track/2BR3axG2HyUqRgeND9Ufv2) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y) | [Numbers](https://open.spotify.com/album/50i2QAMZyvMyEzOhy8M7bB) | 3:07 | 2023-03-30 | 2023-04-17 |
 | [Numbers](https://open.spotify.com/track/3GCwEJZBpdu7AUtBxlz70r) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y) | [MotherFather](https://open.spotify.com/album/6G76PblQXf5i8JB7mC0mv3) | 3:07 | 2023-03-30 | 2023-05-12 |
-| [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 | 2023-04-14 |  |
+| [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 | 2023-04-14 | 2023-11-10 |
 | [On My Way](https://open.spotify.com/track/2mTU6HVWHYPIDefNUcj9fN) | [Tena Tenpo](https://open.spotify.com/artist/6t5xnCosOLmlmQG9ZqnUJN), [benmaelen](https://open.spotify.com/artist/7rQenKdDeM6d5o7GOBwWnq), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [On My Way](https://open.spotify.com/album/0u1jNMcDzXqgFU8aYpmCeh) | 3:26 | 2023-03-30 | 2023-04-07 |
 | [Ondine's Curse](https://open.spotify.com/track/4qxteXCD4RAGbJQH95eRRw) | [SEI SIREN](https://open.spotify.com/artist/70Z1TUPHxHkADZaWyJVlAl) | [Orca](https://open.spotify.com/album/7JSAAgAho49VU5dDRjCQxE) | 2:44 | 2023-05-25 |  |
 | [One Sided](https://open.spotify.com/track/0W0s4QcraRtXxzkX92r5Zr) | [CallmeTino](https://open.spotify.com/artist/5xhs67TdK4JBvwUyQnMdsk) | [Self Conflicted.](https://open.spotify.com/album/3eqQOOzbHhwmaRXmoBoW9v) | 2:52 | 2023-06-26 |  |

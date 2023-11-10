@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Twinkling Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-60 songs - 3 hr 28 min
+62 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,8 @@
 | [Tomorrow \- Instrumental](https://open.spotify.com/track/5ahMx9l7YzVICKv07dLtfH) | [RP](https://open.spotify.com/artist/7c9BsV6rPkZhQpGXBOeZXx) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6huSnMJ9Uue1GuxpZkV3PV) | 4:34 | 2023-10-06 |  |
 | [Voyage](https://open.spotify.com/track/3rmpG6Vtgt3L7aLhbk5RKv) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Door](https://open.spotify.com/album/5MO48BnK6X9VlYtFHpJtvy) | 3:30 | 2023-10-06 |  |
 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 | 2023-10-06 |  |
+| [Wherever](https://open.spotify.com/track/5IRFZZ9cUCdtV7YMSxPhRp) | [Eight'O](https://open.spotify.com/artist/0ejqkHvKFByReUaH2QTfRb) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/51RCU1QDMatZNsy4gVUf7u) | 4:09 | 2023-11-10 |  |
+| [Wherever \- Instrumental](https://open.spotify.com/track/52lTNIIPlsUkF0IL2n2430) | [Eight'O](https://open.spotify.com/artist/0ejqkHvKFByReUaH2QTfRb) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/51RCU1QDMatZNsy4gVUf7u) | 4:09 | 2023-11-10 |  |
 | [White night](https://open.spotify.com/track/7oSP7hAMuF1R31jp8HnkfH) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [White night](https://open.spotify.com/album/2Fqe1wd9tWMAWNye43ZZKW) | 3:37 | 2023-10-06 |  |
 | [You’re Precious](https://open.spotify.com/track/0grAbqXDOJDerhzeYB4wy3) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/1UwKfiByjSWdIt2xGiE0Ig) | 3:17 | 2023-10-25 |  |
 | [You’re Precious \- Instrumental](https://open.spotify.com/track/3vfKwI37sjz161GNU7dv9A) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/1UwKfiByjSWdIt2xGiE0Ig) | 3:17 | 2023-10-25 |  |

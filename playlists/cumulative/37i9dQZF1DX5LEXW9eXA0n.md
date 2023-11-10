@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:Lyn\(린\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:Jung Dong Ha\(정동하\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,076 songs - 2 day 21 hr 45 min
+1,077 songs - 2 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -737,6 +737,7 @@
 | [Run With Me](https://open.spotify.com/track/1m8b3KFsAiGyjRc90ZfEB9) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Serenade](https://open.spotify.com/album/2McJE8dHLru3MgR1bcxdyF) | 4:30 | 2023-05-05 | 2023-05-16 |
 | [Sad Day](https://open.spotify.com/track/4dM8ymy2J1mxQ5VY2s2lFC) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3), [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [Sad Day](https://open.spotify.com/album/0HfQVaIoJO3MeMUbzU7Rig) | 4:06 | 2023-10-04 |  |
 | [Sad farewell](https://open.spotify.com/track/730T7Z3S1jZQA3MeNs3VW1) | [Yeon Kyoo Seong](https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH) | [Sad farewell](https://open.spotify.com/album/64vB9es0rMYiWA1qPC9Z9d) | 4:20 | 2022-09-05 | 2022-11-04 |
+| [Sad promise](https://open.spotify.com/track/1R8QjyMqO9UEh18FqCG1vu) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Sad promise](https://open.spotify.com/album/5FAFONbvL0yNPPr3nYz0CF) | 3:57 | 2023-11-10 |  |
 | [Same as Your Ex](https://open.spotify.com/track/4ofRVjFZ7PWdFxwp2RmyiZ) | [이화명](https://open.spotify.com/artist/6gkwLpOhRKekMHrlThg9Y5) | [Same as Your Ex \(Marriage Or Death X Leehwamyeong\)](https://open.spotify.com/album/3vjIEUPuHBfWmp7CBXPSzq) | 3:41 | 2022-07-07 | 2022-10-15 |
 | [Save Me](https://open.spotify.com/track/76KSPDz7KSs1DKchBCW3ys) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Save Me](https://open.spotify.com/album/3NuWeE7Zroxt50f1c3Z45g) | 3:45 | 2022-11-07 | 2023-01-21 |
 | [Save Me](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Save Me](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) | 3:16 | 2023-07-18 | 2023-09-21 |

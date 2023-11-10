@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover:  Nectar Woode",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Tomike",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 142120,
       "name": "22",
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+    },
+    {
+      "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/3mFAqz77A9Db3tHfJSljGm"
+      },
+      "artists": [
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149287,
+      "name": "A Good Time",
+      "url": "https://open.spotify.com/track/45TT90guElVnPKJrDkxYS3"
     },
     {
       "album": {

@@ -1081,6 +1081,28 @@
     },
     {
       "album": {
+        "name": "Race Gurram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mx4mHfTPv6VWisaPdQPzo"
+      },
+      "artists": [
+        {
+          "name": "Rabbit Mac",
+          "url": "https://open.spotify.com/artist/6XswDHNrF5xRBwCs0eNVC7"
+        },
+        {
+          "name": "Siddharth Mahadevan",
+          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265283,
+      "name": "Sweety",
+      "url": "https://open.spotify.com/track/1YpczjhxnvD6WBWdnu3s4X"
+    },
+    {
+      "album": {
         "name": "Race Gurram",
         "url": "https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n"
       },
@@ -1096,7 +1118,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 265283,
       "name": "Sweety",
       "url": "https://open.spotify.com/track/0JwGSIPH2wzFVl6ZW1RQoW"

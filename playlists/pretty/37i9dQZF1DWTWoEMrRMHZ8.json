@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Bryan Behr",
-  "num_followers": 346276,
+  "num_followers": 346336,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTFiYWIyYTY4NmY3ZmRjNzJjMDNmODE3MjdmMmNlNGQ0MzcwYjUz",
+  "snapshot_id": "MCxlNWUwMmE2YzhiZjgxOWNhOGU0MTlkYTEwM2QyNmM0ZmNmZGFkYWE1",
   "tracks": [
     {
       "added_at": "2023-11-03 06:00:20",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        },
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 145191,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "Sonas Sessions (Live Session)",
         "url": "https://open.spotify.com/album/6F8v6e4TlUZ8oTv5IQpgMJ"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 220990,
       "name": "Cara a Cara (Live Session)",
       "url": "https://open.spotify.com/track/3HlqxgiaWK3DFkAN9sYpNH"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 145191,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
+        "name": "Se O Meu Peito Fosse O Mundo (Lado A)",
+        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 177099,
+      "name": "Um, Dois, Tr\u00eas",
+      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
         "name": "Paula e Bebeto",
         "url": "https://open.spotify.com/album/0uiSAseDeXMBFIjAUAqQ87"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Se O Meu Peito Fosse O Mundo (Lado A)",
-        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
+        "name": "Nu Com a Minha M\u00fasica (EP)",
+        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
       },
       "artists": [
         {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
         }
       ],
-      "duration_ms": 177099,
-      "name": "Um, Dois, Tr\u00eas",
-      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
+      "duration_ms": 283557,
+      "name": "Nu Com a Minha M\u00fasica",
+      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -803,22 +819,6 @@
       "duration_ms": 272559,
       "name": "Pago Pra Ver",
       "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "Nu Com a Minha M\u00fasica (EP)",
-        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 283557,
-      "name": "Nu Com a Minha M\u00fasica",
-      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Romaria",
-        "url": "https://open.spotify.com/album/5teLxHpmV0NIhOwOSpM1qE"
-      },
-      "artists": [
-        {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
-        }
-      ],
-      "duration_ms": 233459,
-      "name": "Romaria",
-      "url": "https://open.spotify.com/track/6HHPpfH68lFCVIUSuxbuff"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "Me Chama De Gato Que Eu Sou Sua",
         "url": "https://open.spotify.com/album/6UZpK4jB5MYVYJpwwi2mbP"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 311745,
       "name": "Dr\u00e3o - Remasterizado",
       "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Romaria",
+        "url": "https://open.spotify.com/album/5teLxHpmV0NIhOwOSpM1qE"
+      },
+      "artists": [
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        }
+      ],
+      "duration_ms": 233459,
+      "name": "Romaria",
+      "url": "https://open.spotify.com/track/6HHPpfH68lFCVIUSuxbuff"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
+        "name": "Luzes Acesas",
+        "url": "https://open.spotify.com/album/4Aojd3P8XyqqeIIughof7q"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo Montenegro",
+          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+        },
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Luzes Acesas",
+      "url": "https://open.spotify.com/track/71HTMsndB7kzP2M2v0ZJTw"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
         "name": "Aqui em Casa (Ao vivo na Casa de Francisca)",
         "url": "https://open.spotify.com/album/5edRUvrs7Ixak0FPMB9LPI"
       },
@@ -1095,26 +1115,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Luzes Acesas",
-        "url": "https://open.spotify.com/album/4Aojd3P8XyqqeIIughof7q"
-      },
-      "artists": [
-        {
-          "name": "Oswaldo Montenegro",
-          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
-        },
-        {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "Luzes Acesas",
-      "url": "https://open.spotify.com/track/71HTMsndB7kzP2M2v0ZJTw"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
       },
@@ -1151,26 +1151,18 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "ESTRELA",
-        "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
+        "name": "Oswaldo Montenegro e Orquestra",
+        "url": "https://open.spotify.com/album/1MtecGxFiRth68STj2JSHf"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "Flor Gil",
-          "url": "https://open.spotify.com/artist/1K0XrriGifMKnhdKhxODXy"
-        },
-        {
-          "name": "Sol de Maria",
-          "url": "https://open.spotify.com/artist/1neBz4e5qmsNOeblVEoS2G"
+          "name": "Oswaldo Montenegro",
+          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
         }
       ],
-      "duration_ms": 185777,
-      "name": "ESTRELA",
-      "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
+      "duration_ms": 168162,
+      "name": "A Lista",
+      "url": "https://open.spotify.com/track/47Tc85pV7z2ivBetN14Y8t"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1191,6 +1183,30 @@
       "duration_ms": 219098,
       "name": "Lua e Estrela",
       "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "ESTRELA",
+        "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Flor Gil",
+          "url": "https://open.spotify.com/artist/1K0XrriGifMKnhdKhxODXy"
+        },
+        {
+          "name": "Sol de Maria",
+          "url": "https://open.spotify.com/artist/1neBz4e5qmsNOeblVEoS2G"
+        }
+      ],
+      "duration_ms": 185777,
+      "name": "ESTRELA",
+      "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1231,22 +1247,6 @@
       "duration_ms": 179843,
       "name": "N\u00e3o Tem Lua",
       "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "Oswaldo Montenegro e Orquestra",
-        "url": "https://open.spotify.com/album/1MtecGxFiRth68STj2JSHf"
-      },
-      "artists": [
-        {
-          "name": "Oswaldo Montenegro",
-          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
-        }
-      ],
-      "duration_ms": 168162,
-      "name": "A Lista",
-      "url": "https://open.spotify.com/track/47Tc85pV7z2ivBetN14Y8t"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
+        "name": "Francamente",
+        "url": "https://open.spotify.com/album/1sSFicsxjfLnQUsMsgIKNJ"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Camilla Faustino",
+          "url": "https://open.spotify.com/artist/6cjVoEsNpH6spV5gBn1PFs"
+        }
+      ],
+      "duration_ms": 132495,
+      "name": "Francamente",
+      "url": "https://open.spotify.com/track/5w9WpqDpzCJVdLCzYsashs"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
         "name": "Tenho Sede",
         "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 190468,
       "name": "Tenho Sede",
       "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "Querer Bem",
-        "url": "https://open.spotify.com/album/5EsxhSjXVxOFehJlRk4peT"
-      },
-      "artists": [
-        {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
-        },
-        {
-          "name": "Roberto Mendes",
-          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
-        }
-      ],
-      "duration_ms": 194752,
-      "name": "Querer Bem",
-      "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
+        "name": "Querer Bem",
+        "url": "https://open.spotify.com/album/5EsxhSjXVxOFehJlRk4peT"
+      },
+      "artists": [
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        },
+        {
+          "name": "Roberto Mendes",
+          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
+        }
+      ],
+      "duration_ms": 194752,
+      "name": "Querer Bem",
+      "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
         "name": "De: Terra; Para: Humanidade",
         "url": "https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6"
       },
@@ -1611,26 +1631,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Francamente",
-        "url": "https://open.spotify.com/album/1sSFicsxjfLnQUsMsgIKNJ"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Camilla Faustino",
-          "url": "https://open.spotify.com/artist/6cjVoEsNpH6spV5gBn1PFs"
-        }
-      ],
-      "duration_ms": 132495,
-      "name": "Francamente",
-      "url": "https://open.spotify.com/track/5w9WpqDpzCJVdLCzYsashs"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "Redescobrir",
         "url": "https://open.spotify.com/album/42cmmfuVuaLEHUbQzbqsWU"
       },
@@ -1663,26 +1663,6 @@
       "duration_ms": 131192,
       "name": "Espelho",
       "url": "https://open.spotify.com/track/51240EZPieH7ahE2B7IFJv"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "Maria da Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7FBBiF5exdX9sbzEkiwXar"
-      },
-      "artists": [
-        {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
-        },
-        {
-          "name": "Roberto Mendes",
-          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
-        }
-      ],
-      "duration_ms": 188660,
-      "name": "Maria da Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3Qb20kwt7zMkHIjcxFoYPn"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1739,26 +1719,22 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/6qMUVhEfDkRElK4erXQWgf"
+        "name": "Maria da Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7FBBiF5exdX9sbzEkiwXar"
       },
       "artists": [
         {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
         },
         {
-          "name": "Marcello Ribeiro",
-          "url": "https://open.spotify.com/artist/2PhFp8GZOOxqBwAia3T7Zm"
-        },
-        {
-          "name": "Iand\u00e9",
-          "url": "https://open.spotify.com/artist/4aLElWfcLsimJryNfYC1sq"
+          "name": "Roberto Mendes",
+          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
         }
       ],
-      "duration_ms": 233056,
-      "name": "Hoje",
-      "url": "https://open.spotify.com/track/7lhX8CyuSemDDOZk5g3GUa"
+      "duration_ms": 188660,
+      "name": "Maria da Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3Qb20kwt7zMkHIjcxFoYPn"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1783,22 +1759,26 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "A Vida N\u00e3o \u00c9 Bela",
-        "url": "https://open.spotify.com/album/7AYUKZDi4MWzQSnCzl3r0d"
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/6qMUVhEfDkRElK4erXQWgf"
       },
       "artists": [
         {
-          "name": "Arthur Nogueira",
-          "url": "https://open.spotify.com/artist/0Kaxu0W1DHP5OQ4FDWMjh4"
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
         },
         {
-          "name": "Lucca Sim\u00f5es",
-          "url": "https://open.spotify.com/artist/5Pg64pCF0TA6lZmDz23CXZ"
+          "name": "Marcello Ribeiro",
+          "url": "https://open.spotify.com/artist/2PhFp8GZOOxqBwAia3T7Zm"
+        },
+        {
+          "name": "Iand\u00e9",
+          "url": "https://open.spotify.com/artist/4aLElWfcLsimJryNfYC1sq"
         }
       ],
-      "duration_ms": 159683,
-      "name": "As Solid\u00f5es",
-      "url": "https://open.spotify.com/track/7iqA3zeTLdSCTRgdse2fIw"
+      "duration_ms": 233056,
+      "name": "Hoje",
+      "url": "https://open.spotify.com/track/7lhX8CyuSemDDOZk5g3GUa"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1819,6 +1799,26 @@
       "duration_ms": 245015,
       "name": "Eternos Ver\u00f5es",
       "url": "https://open.spotify.com/track/6Sz2Nx3KMpdx2bHKjTXx24"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "A Vida N\u00e3o \u00c9 Bela",
+        "url": "https://open.spotify.com/album/7AYUKZDi4MWzQSnCzl3r0d"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nogueira",
+          "url": "https://open.spotify.com/artist/0Kaxu0W1DHP5OQ4FDWMjh4"
+        },
+        {
+          "name": "Lucca Sim\u00f5es",
+          "url": "https://open.spotify.com/artist/5Pg64pCF0TA6lZmDz23CXZ"
+        }
+      ],
+      "duration_ms": 159683,
+      "name": "As Solid\u00f5es",
+      "url": "https://open.spotify.com/track/7iqA3zeTLdSCTRgdse2fIw"
     },
     {
       "added_at": "2023-11-03 06:00:20",

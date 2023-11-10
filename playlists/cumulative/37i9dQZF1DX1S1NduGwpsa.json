@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Gregory Porter",
+  "description": "The best jazz new releases. Cover: Dominique Fils-Aim\u00e9",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 327417,
       "name": "Deluxe Refuge",
       "url": "https://open.spotify.com/track/3bPk42yKpTX0UWkICl8btZ"
@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 200626,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q"
@@ -3432,6 +3432,24 @@
       "duration_ms": 215863,
       "name": "Home",
       "url": "https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg"
+    },
+    {
+      "album": {
+        "name": "Home Cookin'",
+        "url": "https://open.spotify.com/album/7CAToGy0bWVmXolIK9EVlx"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335797,
+      "name": "Home Cookin'",
+      "url": "https://open.spotify.com/track/63geyyZS7EBU3opmvQK4Tw"
     },
     {
       "album": {
@@ -3790,7 +3808,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 295148,
       "name": "If You Go Away",
       "url": "https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT"
@@ -5727,6 +5745,24 @@
     },
     {
       "album": {
+        "name": "La Gran Diversi\u00f3n",
+        "url": "https://open.spotify.com/album/4UO0arXcVIKzndEZIAp6Co"
+      },
+      "artists": [
+        {
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287416,
+      "name": "Oya",
+      "url": "https://open.spotify.com/track/0SHPejPGCfcLON6AIQrdPJ"
+    },
+    {
+      "album": {
         "name": "Quality Over Opinion",
         "url": "https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7"
       },
@@ -6845,6 +6881,24 @@
     },
     {
       "album": {
+        "name": "Summer Me, Winter Me",
+        "url": "https://open.spotify.com/album/0D3n8O8ZQt08vx4SesLIaj"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305581,
+      "name": "Summer Me, Winter Me",
+      "url": "https://open.spotify.com/track/4Kx1kfAPsEM6Mw2cow70ez"
+    },
+    {
+      "album": {
         "name": "Sun Dog",
         "url": "https://open.spotify.com/album/459ZdoFvmNocJirrglhTRC"
       },
@@ -7078,7 +7132,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 190259,
       "name": "Temperature High",
       "url": "https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0"
@@ -7272,6 +7326,36 @@
       "duration_ms": 214204,
       "name": "The Light Shines Brightest In The Dark From \"Marlowe\" - From \"Marlowe\"",
       "url": "https://open.spotify.com/track/3zQ2vKWOflKo0wH6PyvfP2"
+    },
+    {
+      "album": {
+        "name": "Gershwin Melodies",
+        "url": "https://open.spotify.com/album/6P4o9sHXOP8xYf5WB7FlWW"
+      },
+      "artists": [
+        {
+          "name": "Thilo Wolf Jazz Quartett",
+          "url": "https://open.spotify.com/artist/666q7fags4CW8XuJU8jLlr"
+        },
+        {
+          "name": "Munich Radio Orchestra",
+          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+        },
+        {
+          "name": "Thilo Wolf",
+          "url": "https://open.spotify.com/artist/1FMY0g6xQ4ydkaXMdq141W"
+        },
+        {
+          "name": "Enrique Ugarte",
+          "url": "https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379375,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/4pIDAXRLGPNr8rebHeBze2"
     },
     {
       "album": {
@@ -7622,10 +7706,28 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 266066,
       "name": "To S.",
       "url": "https://open.spotify.com/track/1fxupOuHbut5ml1Dsu4q2c"
+    },
+    {
+      "album": {
+        "name": "Our Roots Run Deep",
+        "url": "https://open.spotify.com/album/1ucca4wuWot78VAnORCwN8"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144261,
+      "name": "To Walk A Way",
+      "url": "https://open.spotify.com/track/4qtbFXoBT3ueGq8DDcZzI0"
     },
     {
       "album": {

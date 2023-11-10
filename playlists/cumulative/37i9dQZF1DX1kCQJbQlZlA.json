@@ -334,7 +334,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 331875,
       "name": "Con S\u00f4ng Tu\u1ed5i Th\u01a1 T\u00f4i",
       "url": "https://open.spotify.com/track/6fxlkN2zqJ4W8z6XF16hIk"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 328385,
       "name": "Ng\u1ed3i T\u1ef1a Song \u0110\u00e0o",
       "url": "https://open.spotify.com/track/3Byc00SnrpBp7daqXivXyw"
@@ -2019,6 +2019,28 @@
     },
     {
       "album": {
+        "name": "V\u1ec1 Th\u0103m V\u1ef1a L\u00faa Mi\u1ec1n T\u00e2y",
+        "url": "https://open.spotify.com/album/2YMY9SW5vCoIwqb8PmfdPA"
+      },
+      "artists": [
+        {
+          "name": "H\u1ed3ng Loan",
+          "url": "https://open.spotify.com/artist/05Tm8OwN7IdDg32zO31T7F"
+        },
+        {
+          "name": "Linh T\u00fd",
+          "url": "https://open.spotify.com/artist/0shjQjm3aGMmxJB5n3TQHb"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346808,
+      "name": "V\u1ec1 Th\u0103m V\u1ef1a L\u00faa Mi\u1ec1n T\u00e2y",
+      "url": "https://open.spotify.com/track/2UGPKCkjHO4jnbQRnahUT4"
+    },
+    {
+      "album": {
         "name": "Xin M\u00e1 R\u01b0\u1edbc D\u00e2u",
         "url": "https://open.spotify.com/album/3tHEHhdnQ0dDBQRkA7ViRq"
       },
@@ -2304,6 +2326,28 @@
     {
       "album": {
         "name": "\u1ed0c \u0110\u1eafng Bu\u1ed3n Ai",
+        "url": "https://open.spotify.com/album/5XlqK2sXfMN501ULIprcY9"
+      },
+      "artists": [
+        {
+          "name": "T\u1ed1 My",
+          "url": "https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb"
+        },
+        {
+          "name": "\u0110an Tr\u01b0\u1eddng",
+          "url": "https://open.spotify.com/artist/5XcfMxmHUiyxc1Q283Nmxj"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342259,
+      "name": "\u1ed0c \u0110\u1eafng Bu\u1ed3n Ai",
+      "url": "https://open.spotify.com/track/0Y4zReHkU1uCxHuWr28X99"
+    },
+    {
+      "album": {
+        "name": "\u1ed0c \u0110\u1eafng Bu\u1ed3n Ai",
         "url": "https://open.spotify.com/album/4n0dyBkrvChXvEG3GVDtBB"
       },
       "artists": [
@@ -2318,7 +2362,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 342259,
       "name": "\u1ed0c \u0110\u1eafng Bu\u1ed3n Ai",
       "url": "https://open.spotify.com/track/1AbSvyQhinUaS8wtftF5B9"

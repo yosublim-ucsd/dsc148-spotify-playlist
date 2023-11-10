@@ -9,8 +9,8 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [50 Euro](https://open.spotify.com/track/145Bg72XuZxCoopSoh8BEj) | [Blitz Beats](https://open.spotify.com/artist/5mPTe8pjHqGwP4NvuvGdHX) | [Fuego](https://open.spotify.com/album/4uLaJzYJGxdv1NXT38fFWz) | 5:07 | 2021-10-23 | 2023-03-08 |
-| [50 Euro to Break Boost](https://open.spotify.com/track/486fgWxX39Nk44io6c4CbT) | [Blits Beats](https://open.spotify.com/artist/6ZSkAGZpBTuhhRLdGG2xl2) | [Compro](https://open.spotify.com/album/3DuQcpwc4TjXTwrooeEclt) | 5:07 | 2021-10-23 |  |
-| [50 Euro to Break Boost](https://open.spotify.com/track/621ALAYuQFMnpBBdKXXAnS) | [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [Compro](https://open.spotify.com/album/3yXIkSJWpudtgF0TZuB16U) | 5:07 | 2021-10-23 | 2023-11-04 |
+| [50 Euro to Break Boost](https://open.spotify.com/track/486fgWxX39Nk44io6c4CbT) | [Blits Beats](https://open.spotify.com/artist/6ZSkAGZpBTuhhRLdGG2xl2) | [Compro](https://open.spotify.com/album/3DuQcpwc4TjXTwrooeEclt) | 5:07 | 2021-10-23 | 2023-11-10 |
+| [50 Euro to Break Boost](https://open.spotify.com/track/621ALAYuQFMnpBBdKXXAnS) | [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [Compro](https://open.spotify.com/album/3yXIkSJWpudtgF0TZuB16U) | 5:07 | 2021-10-23 |  |
 | [Acheless \- Edit](https://open.spotify.com/track/3uSS4gKyOg9m8V2Ds2ZKTr) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Acheless](https://open.spotify.com/album/3TnRsvwBfgPM8uoE0Wg3FY) | 4:55 | 2021-10-23 | 2023-09-01 |
 | [Acheless \- Edit](https://open.spotify.com/track/4nuQLBo09rdWqp4CwjmXax) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Acheless](https://open.spotify.com/album/0LVEplOubTVKPvBcw047Gt) | 4:55 | 2021-10-23 |  |
 | [Altum](https://open.spotify.com/track/0ZhY1iOzCfxUKWu3iqmCCI) | [Uncle Knows](https://open.spotify.com/artist/51NqakMdtj6gpOBzlVxNhp), [Bingo Wode](https://open.spotify.com/artist/2Ojf4EQMxG9otVQ5B3CVpQ) | [Altum](https://open.spotify.com/album/2r7qtbRzUzWEyhpZbt8fsA) | 3:40 | 2021-10-23 |  |

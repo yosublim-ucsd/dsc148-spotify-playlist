@@ -2,9 +2,9 @@
 
 ### [planet rave](https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp)
 
-> ur on the list bb 🪐 featuring piri, Tommy Villiers
+> ur on the list bb 🪐 featuring niina
 
-749 songs - 1 day 18 hr 10 min
+752 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [big ballin](https://open.spotify.com/track/7jYd6GwT72RhhKMTZ64Z1H) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [big ballin](https://open.spotify.com/album/3ZmWgh6RplgIZS69iOOMnO) | 2:15 | 2023-02-27 | 2023-09-15 |
 | [BLOOD SUPERNOVA](https://open.spotify.com/track/335asThakDPPTHFVxMEeDn) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [BLOOD SUPERNOVA](https://open.spotify.com/album/4cnfIsqfpYz51KPKZUG07m) | 3:58 | 2022-06-24 | 2022-08-06 |
 | [Bloodrave](https://open.spotify.com/track/7o6xRFPRYBVcoI7NnBGlbn) | [TRANCEMAN2000](https://open.spotify.com/artist/6s9u44nih7GcT9kXBqM2Xr) | [001](https://open.spotify.com/album/41on8glM4XHdCbjvncuBwQ) | 6:33 | 2022-11-03 | 2023-06-23 |
+| [bloody mary](https://open.spotify.com/track/4UpfzD7yre0D0JKpnzjRE5) | [2504](https://open.spotify.com/artist/3s6Gdmnv9MuQNX2E7i5EMr), [Pröz](https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX), [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [bloody mary](https://open.spotify.com/album/0xmKvBjH3CSOG6tKdpoMAY) | 2:09 | 2023-11-10 |  |
 | [Blue Racecar](https://open.spotify.com/track/4vWY7fEgnUqsohnF5nwtMM) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Blue Racecar](https://open.spotify.com/album/3l6rBN7m3rj2qZRim5tk1V) | 3:32 | 2021-10-29 | 2022-04-16 |
 | [Blue Razz](https://open.spotify.com/track/124GIso7hUD9of584dOOIo) | [Versatile](https://open.spotify.com/artist/6K0yc6ZGiwc7sSwrWra0UT) | [Blue Razz](https://open.spotify.com/album/1Z8E32UdqAbYAV3VB2Lyl0) | 3:36 | 2023-07-06 |  |
 | [bluefairy](https://open.spotify.com/track/4EF0sD3FSWxf6w5VOuoQir) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/1qSGvtNStL6ELifn51W1va) | 3:51 | 2023-04-01 | 2023-10-20 |
@@ -183,7 +184,7 @@
 | [Do No Wrong](https://open.spotify.com/track/1NbnMc1v8d2mSJBpsGRpfg) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Far Away](https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn) | 1:55 | 2022-04-08 | 2022-06-04 |
 | [Do you miss me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 | 2022-11-18 | 2022-12-24 |
 | [Don't Let](https://open.spotify.com/track/44ppHdT8METLfRs30s4zIS) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Don't Let](https://open.spotify.com/album/1ghNHvx6HuoBXaLezY2QmD) | 4:54 | 2021-12-03 | 2022-04-16 |
-| [Don't Want This To Be Over](https://open.spotify.com/track/5twf1eTmqVUvPpmjGPPaX0) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Don't Want This To Be Over](https://open.spotify.com/album/2F3GrHb6K3khg9mzFwRYj8) | 2:01 | 2023-05-12 |  |
+| [Don't Want This To Be Over](https://open.spotify.com/track/5twf1eTmqVUvPpmjGPPaX0) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Don't Want This To Be Over](https://open.spotify.com/album/2F3GrHb6K3khg9mzFwRYj8) | 2:01 | 2023-05-12 | 2023-11-10 |
 | [Don't We Always](https://open.spotify.com/track/5wGUVrYzmEp9yP24YTSt0z) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [Confessions of a Fangirl](https://open.spotify.com/album/3yjU0i0Fb57O3PwsTXtRvV) | 2:45 | 2023-04-07 |  |
 | [dont make me wait](https://open.spotify.com/track/4nU5QRHosclTgx65DkDPoN) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [dont make me wait](https://open.spotify.com/album/7pN0DwbMPYJa1M7G3D4QO3) | 2:25 | 2023-03-17 | 2023-09-15 |
 | [dr34m3r](https://open.spotify.com/track/1EzIRJUKNOKl2jRDBoKOZL) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [dr34m3r](https://open.spotify.com/album/4HhUofefLyV0WO4Aa9gh9Y) | 2:38 | 2023-06-07 |  |
@@ -273,6 +274,7 @@
 | [Ghost](https://open.spotify.com/track/4orMsymF399H3xKBc0AIhx) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 3:05 | 2021-10-07 | 2022-06-04 |
 | [ghost](https://open.spotify.com/track/62ioLGu1vMLPuZB3wYvmxi) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [ghost](https://open.spotify.com/album/4LmcWugjjNYJnmNkLvW1At) | 2:19 | 2022-06-03 | 2022-07-20 |
 | [Gift](https://open.spotify.com/track/66UcoWnZPHQUJwpRRywYFm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [TELESHOP](https://open.spotify.com/artist/0Cr5IUi0VbocOLWgz8wiXx) | [Gift EP](https://open.spotify.com/album/58X3RQRsXbgnXYf3rbj8TW) | 3:55 | 2022-05-27 | 2023-03-04 |
+| [gimme gimme](https://open.spotify.com/track/0LWrBENo9TbgKc8hmIn1Ec) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [summer in the rain](https://open.spotify.com/album/5ZDHGnmqfZRdgsjDmw6xZz) | 2:38 | 2023-11-10 |  |
 | [gimme gimme](https://open.spotify.com/track/4MMmuV5pqfBNeN80xWO48y) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [gimme gimme](https://open.spotify.com/album/42jhYLMuchMM04kVE1hWHY) | 2:38 | 2023-07-27 | 2023-10-14 |
 | [Girls Just Want Breaks \(yion\-flip\)](https://open.spotify.com/track/4MtOZTBWG4KMDzGiyWbfi1) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [Girls Just Want Breaks \(yion\-flip\)](https://open.spotify.com/album/1QYo6YHo7NPrVcHRiVybmo) | 1:46 | 2022-04-08 | 2022-06-18 |
 | [Girls just want to have fun](https://open.spotify.com/track/16aNHWdWoO9zobj4lqAoWV) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Girls just want to have fun](https://open.spotify.com/album/7jhAHwxV5NennB3lL6fva4) | 2:14 | 2022-03-23 | 2022-04-09 |
@@ -378,7 +380,7 @@
 | [Just Remember](https://open.spotify.com/track/0r00GmsuZ6o12uKsYjn8wz) | [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [Just Remember](https://open.spotify.com/album/0WLCXtpAAkKqt2AIaNpwD3) | 4:08 | 2022-07-15 | 2022-09-03 |
 | [Kawaii Razor Blades](https://open.spotify.com/track/5bDol0wPoQlIgLWzP8tbkW) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Irly](https://open.spotify.com/album/2WUxZpVbQWjMqyc7SDQlzh) | 5:38 | 2022-02-18 | 2022-06-18 |
 | [keepsake Flip](https://open.spotify.com/track/6boGATmxPm6ghQRKNQj5d8) | [t0ni](https://open.spotify.com/artist/26r0xmNARyUapPJw2R6I5H), [Broosnica](https://open.spotify.com/artist/4x7GBuoe0tEsKcgUecaC2m) | [keepsake Flip](https://open.spotify.com/album/3VgkcZN2LjKiKCyxdXy6hu) | 3:04 | 2022-01-14 | 2022-06-18 |
-| [Kiera ♡](https://open.spotify.com/track/6wxp4xFZqVO1sY5ibRKa71) | [Pearling](https://open.spotify.com/artist/3q7tzDobzMqdYhv6huNbr7) | [Kiera ♡](https://open.spotify.com/album/6P9rbLVVB0D9lSZ7HXHYGn) | 2:56 | 2023-05-18 |  |
+| [Kiera ♡](https://open.spotify.com/track/6wxp4xFZqVO1sY5ibRKa71) | [Pearling](https://open.spotify.com/artist/3q7tzDobzMqdYhv6huNbr7) | [Kiera ♡](https://open.spotify.com/album/6P9rbLVVB0D9lSZ7HXHYGn) | 2:56 | 2023-05-18 | 2023-11-10 |
 | [Kira Kira](https://open.spotify.com/track/2lQsaY9KsbtE8oij9Db9eB) | [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [Kira Kira](https://open.spotify.com/album/0AfOR652wvcBCWzxwh5OWz) | 2:48 | 2022-03-04 | 2022-05-07 |
 | [kisama](https://open.spotify.com/track/0CgS2aaBs3TnM6uHwYfI9v) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [kisama](https://open.spotify.com/album/6HsaizOa8HDOIqTXocGEAk) | 2:19 | 2022-11-18 | 2023-05-26 |
 | [Kiss on the Train](https://open.spotify.com/track/23OnoAkYOP69rd3ujVOydD) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Ethos](https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK) | 3:08 | 2022-02-23 | 2022-04-02 |
@@ -467,6 +469,7 @@
 | [Never Let Me Go](https://open.spotify.com/track/23LmGBgZLAnBLxrEIYd16O) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Never Let Me Go](https://open.spotify.com/album/2GOR4HwqpYDUTlFP3Qb3JI) | 4:09 | 2023-03-03 | 2023-05-26 |
 | [Never On My Own](https://open.spotify.com/track/3AbfDdB7wCsPGR0yRrInWe) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [Never On My Own](https://open.spotify.com/album/3yf2Swg9kTfhcXGBAZ2Fcv) | 2:58 | 2023-07-20 |  |
 | [nice 2 me](https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [nice 2 me](https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT) | 2:51 | 2023-05-25 |  |
+| [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 | 2023-11-10 |  |
 | [Night Light](https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Night Light](https://open.spotify.com/album/1CGSJpxIUacGXWfQELzqjJ) | 3:40 | 2023-02-03 | 2023-04-29 |
 | [Night Safari](https://open.spotify.com/track/1ess3AYGD2HtKbmSHLD8pJ) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [FR009](https://open.spotify.com/album/6PyFSxGcYl4YeTns5gy8Dy) | 5:17 | 2023-02-03 | 2023-07-28 |
 | [Nights \(The Same\)](https://open.spotify.com/track/6ilo9FfdTjYG3dp7prGv83) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Nights \(The Same\)](https://open.spotify.com/album/54vSRnVYilUsUqwTYs5iIJ) | 4:25 | 2021-09-17 | 2022-02-26 |
@@ -708,7 +711,7 @@
 | [walk\-4.0](https://open.spotify.com/track/4uZcR0pZQBlhFMnmNfSiOV) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [walk\-4.0](https://open.spotify.com/album/12k6tCJAmLyUpCm3LcaC08) | 2:40 | 2022-06-10 | 2022-09-03 |
 | [Walking Wounded](https://open.spotify.com/track/6ipYeyYFs9H74Xv863rfn3) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Walking Wounded \(Deluxe Edition\)](https://open.spotify.com/album/61qmNyeHwJ8SMCOKMRCaV2) | 6:05 | 2022-02-11 | 2022-02-15 |
 | [Want U](https://open.spotify.com/track/5CS9dAVLZ3EVFtw84mI1Bo) | [Naylor](https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy) | [Want U](https://open.spotify.com/album/7yAV9Ts9PwX544kUEHBhlv) | 3:59 | 2021-12-10 | 2022-03-05 |
-| [Wat Is Die Mo?](https://open.spotify.com/track/4dpV1kwSTAEP2Nlo6lqmwY) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Wat Is Die Mo?](https://open.spotify.com/album/2s1Or2j7XDdEwZvprd37jY) | 4:18 | 2023-06-16 |  |
+| [Wat Is Die Mo?](https://open.spotify.com/track/4dpV1kwSTAEP2Nlo6lqmwY) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Wat Is Die Mo?](https://open.spotify.com/album/2s1Or2j7XDdEwZvprd37jY) | 4:18 | 2023-06-16 | 2023-11-10 |
 | [We Just Wanna Have Fun \- niina Remix](https://open.spotify.com/track/4uAnIgNUfQrUG2SuFuKME1) | [FHUR](https://open.spotify.com/artist/1S0iIPnSc9v3Dd8Pxjekh9), [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [We Just Wanna Have Fun \(niina Remix\)](https://open.spotify.com/album/1ssk5QfgxKuL1PvF8WUnND) | 4:02 | 2022-01-21 | 2022-02-05 |
 | [we move!](https://open.spotify.com/track/0zPFNqf5TTuDLtZG6x49Z0) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [THE DELLA VARIANT](https://open.spotify.com/album/2Pqj9HuNS0iixWi8vMOL6X) | 2:02 | 2022-08-12 | 2022-08-27 |
 | [Weak](https://open.spotify.com/track/2hJAVkkm2UwySsRZby1Xty) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [VTX](https://open.spotify.com/artist/6SO3KNeQE0kGCNmOLoVHfa) | [Weak](https://open.spotify.com/album/1Wa9fkUx7U6z7Qd8yjLjbO) | 3:05 | 2022-08-26 | 2022-11-26 |

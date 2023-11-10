@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Matrefakt\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,644 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,675 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Sky Light](https://open.spotify.com/track/5T09fG328uz3tSc3bK1Tv2) | [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [Sky Light / Hollywood](https://open.spotify.com/album/53LVzwtFqNfUNUaA9ZcGxg) | 4:49 |
 | 100 | [Body Beat](https://open.spotify.com/track/1Kqyo7VZavF0XxNxwIKtfu) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Body Beat](https://open.spotify.com/album/7JGTe36pDv9qlUAKrII5O6) | 3:01 |
 
-Snapshot ID: `MCw0ZmQ2M2JhZjk2ODAyNzk5N2RiYTYwYWVkMWYwZTU0OWZhMDZhYjg3`
+Snapshot ID: `MCw3ZTQ2MDhiMjA0YTBmMGNhZTAxMDYwZDJlNmQxMTc3NGE3NmEzOGRk`

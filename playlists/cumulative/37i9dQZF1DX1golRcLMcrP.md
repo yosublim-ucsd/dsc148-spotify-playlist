@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Castaway Diva\. \(무인도의 디바 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-35 songs - 2 hr 6 min
+39 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,10 @@
 | [Invitation](https://open.spotify.com/track/0HmNuAoSYVsRRjKiAucFn7) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [Invitation](https://open.spotify.com/album/5JgddHGpRW0BxtkIT0LZB4) | 3:54 | 2023-11-06 |  |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2023-11-06 |  |
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2023-11-06 |  |
+| [Night and Day](https://open.spotify.com/track/37x2x6UQfUcvbM8NVHRngO) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [CASTAWAY DIVA OST Part.4](https://open.spotify.com/album/3MN6ZyB8yfxdfDtAHQ2LNF) | 3:01 | 2023-11-09 |  |
+| [Night and Day \(Acoustic Ver\)](https://open.spotify.com/track/3TyUUpKmsJ6bqtPT4g5dOF) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.2](https://open.spotify.com/album/1T93wAxZlZwzUUTlNpEmq0) | 3:21 | 2023-11-09 |  |
+| [Night and Day \(Contest Ver\)](https://open.spotify.com/track/0lwW5qHH7S6XfxYEKScVoe) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.2](https://open.spotify.com/album/1T93wAxZlZwzUUTlNpEmq0) | 3:46 | 2023-11-09 |  |
+| [Night and Day \(Inst.\)](https://open.spotify.com/track/1LbYPBhiYtJHxBN9Uuz5BV) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [CASTAWAY DIVA OST Part.4](https://open.spotify.com/album/3MN6ZyB8yfxdfDtAHQ2LNF) | 3:01 | 2023-11-09 |  |
 | [NUNU NANA](https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:15 | 2023-11-06 |  |
 | [Piero laughs at us](https://open.spotify.com/track/0fGbon58TJAGc3wNRkAUKV) | [Kim Wan\-sun](https://open.spotify.com/artist/3e0aTvNjIG93ye2YlL90UF) | [Piero laughs at us](https://open.spotify.com/album/7wla8Ntrpvs2VjRj5NB9qj) | 3:26 | 2023-11-06 |  |
 | [Poker Face](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:57 | 2023-11-06 |  |

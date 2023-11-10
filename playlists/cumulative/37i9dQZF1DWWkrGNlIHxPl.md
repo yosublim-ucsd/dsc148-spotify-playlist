@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Majid Jordan
 
-313 songs - 17 hr 33 min
+314 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [EXCUSE U](https://open.spotify.com/track/7mvyMA1kzEdASKIZVIo25t) | [NARCY](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Tribe of Monsters](https://open.spotify.com/artist/6ZBkSEQim7hD4OpsvDuCh3) | [EXCUSE U](https://open.spotify.com/album/2OjfODnTf5wHLMr8qvzInN) | 2:54 | 2023-09-19 | 2023-09-30 |
 | [Exist With You](https://open.spotify.com/track/2Ql5hqShctiwksSLN3XRiM) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Exist With You](https://open.spotify.com/album/3RNA3HxO5AskgF6QxPqqiA) | 2:35 | 2021-12-16 | 2022-11-20 |
 | [Expansion](https://open.spotify.com/track/5RuZXfvGTutkEWZHwcIymn) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Expansion](https://open.spotify.com/album/3aRqOFkZNQPWUz4GbRDXFP) | 2:32 | 2023-04-24 | 2023-05-08 |
+| [Eyes Closed](https://open.spotify.com/track/0l0UDr9M10FQAMkq8jcIf8) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 4:32 | 2023-11-09 |  |
 | [Ezzamer](https://open.spotify.com/track/0Y5e2hA9ZliPQetontXakv) | [Dj Shemsy](https://open.spotify.com/artist/1m22LlL6L3XrF61P080BGP) | [Bébé Allaoui mégamix, Vol\. 2](https://open.spotify.com/album/2agS979pL5P5ZC38GV1AsO) | 6:45 | 2022-06-06 | 2022-06-24 |
 | [FaceTime](https://open.spotify.com/track/0tBoaUMgYe6JuDHsTvVSpP) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [FaceTime](https://open.spotify.com/album/4wACRe7PDRxyJCa1u4tNf7) | 2:33 | 2023-02-14 | 2023-03-09 |
 | [FaceTime](https://open.spotify.com/track/2eKZvfQGKWrpASz67UCvTo) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [FaceTime](https://open.spotify.com/album/4pQ8M36p9foCdo3DMD23FC) | 2:33 | 2023-03-07 | 2023-06-03 |
@@ -293,7 +294,7 @@
 | [Us Against the World](https://open.spotify.com/track/4kic2zBTI9CWmtEfYsyOf6) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Us Against the World](https://open.spotify.com/album/3HEULxDbM2NTlTKZwogrpP) | 3:41 | 2021-12-16 | 2022-11-20 |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-11-19 | 2023-03-09 |
 | [Very Few Friends](https://open.spotify.com/track/4rjcVZDZ74xqv49D8kFh5l) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/7EOZH0eKMdOdohywyWeo21) | 2:12 | 2023-03-07 | 2023-06-03 |
-| [Violet](https://open.spotify.com/track/1EQjOZMvkOXWMK2gx6yTZd) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 7:18 | 2023-10-27 |  |
+| [Violet](https://open.spotify.com/track/1EQjOZMvkOXWMK2gx6yTZd) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 7:18 | 2023-10-27 | 2023-11-10 |
 | [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 | 2023-10-27 | 2023-11-02 |
 | [Violet](https://open.spotify.com/track/4i85oysQdNeP8M7pqUH9sr) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3DR4H81NkCmYBKgq1vOQ3n) | 7:18 | 2023-10-27 | 2023-11-06 |
 | [Wahran](https://open.spotify.com/track/7xlrdBdz8TGSo0COvLHymc) | [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Wahran](https://open.spotify.com/album/5d9W3fFbSK65pXg9Bv7VXl) | 3:51 | 2022-06-06 | 2022-06-24 |

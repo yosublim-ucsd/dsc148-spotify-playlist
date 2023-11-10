@@ -4,7 +4,7 @@
 
 > World Cup Champions!
 
-274 songs - 16 hr 44 min
+275 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [Umbayimbayi](https://open.spotify.com/track/7cICJP7hsjo6e7JZgvNLiO) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Umbayimbayi](https://open.spotify.com/album/3ozczTzDSjr8zjBpCsN7BW) | 3:50 | 2023-07-11 | 2023-07-29 |
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-08-08 | 2023-08-26 |
 | [Vir Jou Geval](https://open.spotify.com/track/63jjmPri2msVTjuX1Jdwbw) | [Arno Jordaan](https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE) | [Vir Jou Geval](https://open.spotify.com/album/3XWL5eNy3Q2bSOjk9Pwfwx) | 4:02 | 2023-07-11 | 2023-07-29 |
-| [Vuli Ndlela](https://open.spotify.com/track/2VD3CwwMfrQ9ZZSKw2x4Sv) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [South African Hits](https://open.spotify.com/album/65BonO3IOA4XYbyXQwaMlf) | 3:25 | 2023-10-28 |  |
+| [Vuli Ndlela](https://open.spotify.com/track/2VD3CwwMfrQ9ZZSKw2x4Sv) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [South African Hits](https://open.spotify.com/album/65BonO3IOA4XYbyXQwaMlf) | 3:25 | 2023-10-28 | 2023-11-10 |
+| [Vuli Ndlela](https://open.spotify.com/track/7D9tPHaXOPAbx3bXlv6Dws) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Pray For South Africa](https://open.spotify.com/album/4kAgEUGIvQkNwChSouGaxh) | 3:25 | 2023-10-28 |  |
 | [Vuur En Vlam](https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Vuur En Vlam](https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK) | 2:45 | 2023-07-11 | 2023-07-29 |
 | [Wa Kogn Bi](https://open.spotify.com/track/3LnFqil63JY2suOKCPeYiB) | [Ousmane Bongo](https://open.spotify.com/artist/5kvpPDYq8NjkKPI7cQHvmZ) | [Wa Kogn Bi](https://open.spotify.com/album/2VVDjVRflO7HEJ5313vrQ1) | 3:41 | 2022-11-29 | 2023-07-12 |
 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Listen Up! The Official 2010 FIFA World Cup Album](https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm) | 3:22 | 2023-08-08 | 2023-08-26 |

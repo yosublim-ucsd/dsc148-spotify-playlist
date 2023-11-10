@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Jessie Murph & Jelly Roll",
+  "description": "The cream of today's Country crop. Cover: Lane Pittman",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 224213,
       "name": "'Til You Can't",
       "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
+    },
+    {
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228144,
+      "name": "23",
+      "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
     },
     {
       "album": {
@@ -52,7 +70,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 223333,
       "name": "27 Club",
       "url": "https://open.spotify.com/track/0Ikbwd2FModLCQrZGJlRUI"
@@ -330,6 +348,24 @@
       "duration_ms": 185110,
       "name": "Ain't The One",
       "url": "https://open.spotify.com/track/1DMKxugJjRgFjEzUb6Sd62"
+    },
+    {
+      "album": {
+        "name": "Ain't Too Much To Ask",
+        "url": "https://open.spotify.com/album/3OVvIjcMve3JjzJFsnjXT4"
+      },
+      "artists": [
+        {
+          "name": "Lane Pittman",
+          "url": "https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197077,
+      "name": "Ain't Too Much To Ask",
+      "url": "https://open.spotify.com/track/5i1zwHDWoKrUKOjfCOLxcv"
     },
     {
       "album": {
@@ -2722,7 +2758,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 201800,
       "name": "Give Her That",
       "url": "https://open.spotify.com/track/6Shb0psixdhEjdlDkyexeu"
@@ -2758,7 +2794,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 250064,
       "name": "Glass Half Full",
       "url": "https://open.spotify.com/track/3nVdYKWy3SVMdxOiBP70NX"
@@ -2950,6 +2986,24 @@
       "duration_ms": 148906,
       "name": "Good Things",
       "url": "https://open.spotify.com/track/0n2ZsjzilyRjIyCr7Mcgk7"
+    },
+    {
+      "album": {
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/7uzhXoVrdgBYfrd54Yxo6R"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Good Things",
+      "url": "https://open.spotify.com/track/4mhwfPRY7ATYVM8WdYn84z"
     },
     {
       "album": {
@@ -3264,7 +3318,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 210845,
       "name": "Heavens Know",
       "url": "https://open.spotify.com/track/1t4rBxUyowSDGHRXc97oFR"
@@ -3882,7 +3936,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 219882,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
@@ -5491,6 +5545,24 @@
     },
     {
       "album": {
+        "name": "On One Hand",
+        "url": "https://open.spotify.com/album/1s3wNlFSNI6DIEaLTOCqt9"
+      },
+      "artists": [
+        {
+          "name": "Troy Kemp",
+          "url": "https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190314,
+      "name": "On One Hand",
+      "url": "https://open.spotify.com/track/0HsgQEjBv4P0cwx8VsIC8b"
+    },
+    {
+      "album": {
         "name": "One Mississippi",
         "url": "https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl"
       },
@@ -5950,7 +6022,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 208677,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/0sEdnshFRFL1sEC9EC074a"
@@ -7957,6 +8029,24 @@
     },
     {
       "album": {
+        "name": "This Town",
+        "url": "https://open.spotify.com/album/0JujBFz9ERfluY6AFqVkI9"
+      },
+      "artists": [
+        {
+          "name": "Brittany Maggs",
+          "url": "https://open.spotify.com/artist/7nhHQaEhJJWxz51Eey1hQ0"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185869,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/0UaE4ZxrfU5TGpe4Luzf7W"
+    },
+    {
+      "album": {
         "name": "This Town's Been Too Good To Us",
         "url": "https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol"
       },
@@ -8376,6 +8466,24 @@
       "duration_ms": 221226,
       "name": "We Should Get Married",
       "url": "https://open.spotify.com/track/2syH39iwALerO994Pod9dB"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181680,
+      "name": "What Am I Gonna Do",
+      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
     },
     {
       "album": {
@@ -8910,7 +9018,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 239870,
       "name": "World for you",
       "url": "https://open.spotify.com/track/7mh1J0I8JHW5Yd9TQhswXq"

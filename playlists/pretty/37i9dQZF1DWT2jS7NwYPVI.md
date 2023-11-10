@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Spiritual Cramp
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,442 likes - 129 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,479 likes - 129 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 66 | [Violent](https://open.spotify.com/track/17Ykg7wEouRV42v8FPiJe8) | [Dead Sara](https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j) | [Violent](https://open.spotify.com/album/1iqoszaJqswzq4KR0g95pJ) | 2:18 |
 | 67 | [Anxious Times](https://open.spotify.com/track/3gxjnVCZlckyhE55OP2Dli) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Anxious Times](https://open.spotify.com/album/3RmuIzPSJvtJxWuskXECoB) | 3:34 |
 | 68 | [Final Summer](https://open.spotify.com/track/1Vl9uXkXwSCEit0hafWtFd) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Final Summer](https://open.spotify.com/album/1QXeBl2ZJ382SCUs2uqJK5) | 2:36 |
-| 69 | [HUSH](https://open.spotify.com/track/4BXaVV3EPztEtb4hcF9CGS) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [HUSH](https://open.spotify.com/album/6FrcYbl99S3e5xlvHCQj7R) | 3:18 |
+| 69 | [HUSH](https://open.spotify.com/track/7aB5uUd9VUpBoHY4XCxXBw) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 3:18 |
 | 70 | [I'll Do What I Can](https://open.spotify.com/track/5XZn0Df8oGreE21uUKOtj2) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I'll Do What I Can](https://open.spotify.com/album/6fyeUQdaigdmXruw1AtUz4) | 3:46 |
 | 71 | [Ventilator Blues](https://open.spotify.com/track/0qjmpvwyZnu6Ec08oDvelk) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Ventilator Blues](https://open.spotify.com/album/1kwlH2WUR4m0w6BN2ue7RH) | 4:50 |
 | 72 | [High Tea](https://open.spotify.com/track/2jpkUfj8a8G32DzsIYXxHM) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Invite me, kindly](https://open.spotify.com/album/77D1XYQxm5bRFsiWUNTXal) | 2:56 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 128 | [Fuck Love, I Just Bought a New Truck](https://open.spotify.com/track/11RNMyEALKUFkA1ItyhHi7) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [These Are Some B\-Sides](https://open.spotify.com/album/0PwOTtqMM4b0I7IpPY25Kb) | 1:27 |
 | 129 | [Fight 4 luv](https://open.spotify.com/track/2uP2DSCbBr8vXo5PWeYHNO) | [Dimitri Miller](https://open.spotify.com/artist/2ZKmcBDtaUAUMnNbCvNdhC) | [Bro...it's not that deep](https://open.spotify.com/album/4CDRjB3gXtisl1KinHU7f9) | 2:54 |
 
-Snapshot ID: `MCwzMzY5M2Y3YjNjMTNhZDVhNGI3ZjVjZTQ4N2E1ZDI0ZDM4NTFiNWU1`
+Snapshot ID: `MCwzYmZkZTg4YmVjMjRiZmMxNThkYmJiZWViYjdmODk3ODgxNGE4Zjc1`

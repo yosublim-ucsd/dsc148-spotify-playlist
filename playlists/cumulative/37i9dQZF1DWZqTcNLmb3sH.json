@@ -8511,6 +8511,32 @@
     },
     {
       "album": {
+        "name": "Huli Nayaka (From \"Huli Nayaka\")",
+        "url": "https://open.spotify.com/album/2o9VoZrrxmMt1sD2PKfUQl"
+      },
+      "artists": [
+        {
+          "name": "Karibasava Tadkal",
+          "url": "https://open.spotify.com/artist/5XbgT8dGfDxZpmvP5nkMKO"
+        },
+        {
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
+        },
+        {
+          "name": "Chakravarthy Chandrachud",
+          "url": "https://open.spotify.com/artist/1Ry8tcb7NZ4jpThKEGfsCa"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87633,
+      "name": "Huli Nayaka - From \"Huli Nayaka\"",
+      "url": "https://open.spotify.com/track/3t8egF8E8cLn1TQj5SxavR"
+    },
+    {
+      "album": {
         "name": "Huttu Jataka (From \"Hulibete\")",
         "url": "https://open.spotify.com/album/3xkcjzaLFitfehkv5PqDw6"
       },
@@ -12710,6 +12736,28 @@
       "duration_ms": 212255,
       "name": "Mehabooba",
       "url": "https://open.spotify.com/track/7GYrsaZviUU4egHeVzXBS6"
+    },
+    {
+      "album": {
+        "name": "Mellage (from \"Swathi Mutthina Male Haniye\")",
+        "url": "https://open.spotify.com/album/5spE3B5XdFMzx8Q42GJCAm"
+      },
+      "artists": [
+        {
+          "name": "Madhuri Seshadri",
+          "url": "https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx"
+        },
+        {
+          "name": "Midhun Mukundan",
+          "url": "https://open.spotify.com/artist/6oyTfygD0Skzy7RZOdUAZp"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277635,
+      "name": "Mellage (from \"Swathi Mutthina Male Haniye\")",
+      "url": "https://open.spotify.com/track/2YUeI6etyJniTFjGFplqvd"
     },
     {
       "album": {

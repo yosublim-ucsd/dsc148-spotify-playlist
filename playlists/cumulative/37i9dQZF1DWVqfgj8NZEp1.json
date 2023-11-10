@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "Acadia",
+        "url": "https://open.spotify.com/album/3NbKXnS56zCBSmqtFGt8Ti"
+      },
+      "artists": [
+        {
+          "name": "Bobby Katz Quartet",
+          "url": "https://open.spotify.com/artist/2ageVjmChv8ntPyL4DAhRm"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201561,
+      "name": "Acadia",
+      "url": "https://open.spotify.com/track/1RAdA5l9OJNurt58Y1tWKM"
+    },
+    {
+      "album": {
         "name": "Art Roho Serving Hannes Bennich",
         "url": "https://open.spotify.com/album/1qXhq2C2TDetoWkja1hDvA"
       },

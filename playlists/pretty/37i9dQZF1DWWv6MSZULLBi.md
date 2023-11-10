@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Jonah Kagen
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,132 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,189 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [On the Vine](https://open.spotify.com/track/0twfYhAuRGyIfyZzsIGHb9) | [Kyle Church](https://open.spotify.com/artist/6LamrVF16MEe2AO5WAGodJ) | [On the Vine](https://open.spotify.com/album/6V9q9qY3TBny1doKIxKdLy) | 3:22 |
 | 100 | [Death By Suspicion](https://open.spotify.com/track/53yh4A2jqHZBA3QOB4TJyY) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer \(Deluxe Edition\)](https://open.spotify.com/album/3nGF3nGNbvyqlwPHbpGof1) | 4:43 |
 
-Snapshot ID: `MCxiYjJiZjkwOTk3YTc3NzEyZDc2ZTVjNzM0NjA3MjBmODdjNGZiNGE4`
+Snapshot ID: `MCw2M2QyNDc3MDAzNDQ5ZWI0MmUzNjQ4MjFhYTA3OTZiYmVjZWRhNGIy`

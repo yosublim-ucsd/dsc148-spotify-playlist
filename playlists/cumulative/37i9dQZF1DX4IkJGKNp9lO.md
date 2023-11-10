@@ -4,7 +4,7 @@
 
 > 
 
-248 songs - 11 hr 53 min
+249 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Lilla Björn Och Lilla Tiger](https://open.spotify.com/track/5sgmvV6EOKw66cVmrBVlGy) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken i tiden](https://open.spotify.com/album/41KuCx8jBaZ4jzsFZRonvO) | 3:09 | 2021-12-14 | 2022-07-28 |
 | [Lisa](https://open.spotify.com/track/34LbkBmXcOH2NaBJWm4I8L) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [Demons From The Past](https://open.spotify.com/album/6L76NkyJbhwhLLzFTQ36JU) | 2:28 | 2021-12-14 | 2022-07-29 |
 | [Lisa](https://open.spotify.com/track/3eh8uUhn2VGZA2WCpewFj8) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [Demons From the Past](https://open.spotify.com/album/7MPicF3ZYteZYXCSveQ0Eb) | 2:28 | 2021-12-14 |  |
+| [Lite sne](https://open.spotify.com/track/78OGaloEbDptQzd8vl8vDE) | [Krigsstigen](https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC) | [Lite sne](https://open.spotify.com/album/0ALw6RtBaizdypw99L98K3) | 2:52 | 2023-11-09 |  |
 | [Livet Är För Kort För Sorgliga Sånger](https://open.spotify.com/track/4czzFVzjMmXz1KoLytN7so) | [Gatans Lag](https://open.spotify.com/artist/1DbBWYISy3xIJBHlenLGj2) | [Från Fest Till Arrest](https://open.spotify.com/album/0hGGrj5SISsG2angc6a80I) | 3:15 | 2021-12-14 | 2022-07-29 |
 | [Livet Är För Kort För Sorgliga Sånger](https://open.spotify.com/track/6kbvbAKoFDtOjbxfTPTFGp) | [Gatans Lag](https://open.spotify.com/artist/1DbBWYISy3xIJBHlenLGj2) | [Från Fest Till Arrest](https://open.spotify.com/album/1qhDJcBNvhcdyWABmvD35a) | 3:15 | 2021-12-14 |  |
 | [Lort Och Lackande Moral](https://open.spotify.com/track/6NKKUhCmOPA9XD12pRpIER) | [Slutstation Tjernobyl](https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC) | [090](https://open.spotify.com/album/57gX4LNxdA1Nx10T7anYY5) | 3:27 | 2021-12-14 | 2022-07-19 |
@@ -144,7 +145,7 @@
 | [Lägga Puzzel Med En Hammare](https://open.spotify.com/track/3hmlOXOplj48M0hTyZj6j7) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Lägga Puzzel Med En Hammare](https://open.spotify.com/album/2Urh64pMy3gF3ahcVKidJP) | 2:53 | 2021-12-14 | 2022-07-28 |
 | [Mamma pappa barn](https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:57 | 2021-12-14 |  |
 | [Martin I Skitlandet](https://open.spotify.com/track/21BF181yxyzkT8QbHvc16W) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 2:16 | 2021-12-14 | 2023-11-02 |
-| [Masspsykos](https://open.spotify.com/track/5ae5eUFZPTUhtIhXAnXtSu) | [Psykbryt](https://open.spotify.com/artist/2eL5agdfgaWDNetbgiuE8e) | [Ursäkta röran \- vi river allt](https://open.spotify.com/album/5tKwHsShJjIiGBvnipyFeW) | 2:36 | 2021-12-14 |  |
+| [Masspsykos](https://open.spotify.com/track/5ae5eUFZPTUhtIhXAnXtSu) | [Psykbryt](https://open.spotify.com/artist/2eL5agdfgaWDNetbgiuE8e) | [Ursäkta röran \- vi river allt](https://open.spotify.com/album/5tKwHsShJjIiGBvnipyFeW) | 2:36 | 2021-12-14 | 2023-11-10 |
 | [Masspsykos](https://open.spotify.com/track/6se6MaeLqy45xsfYXXzm7Q) | [Psykbryt](https://open.spotify.com/artist/2eL5agdfgaWDNetbgiuE8e) | [Ursäkta röran \- vi river allt](https://open.spotify.com/album/3jK2Jwr3V6pn1Gc23fpNA7) | 2:36 | 2021-12-14 | 2022-07-11 |
 | [Med munnen full av hat](https://open.spotify.com/track/4Xwxr2b9lxhLwmnuKaj47h) | [Vet Hut](https://open.spotify.com/artist/1hYSAZUsXHo5io3lCKRIXs) | [Med munnen full av hat](https://open.spotify.com/album/5cC3X7yrOQOTmdqqZYRSb3) | 2:51 | 2021-12-14 | 2022-07-23 |
 | [Mellanstadiedisco](https://open.spotify.com/track/5OISH9zyF9DvBGbXneQoMG) | [Kapten Kermit](https://open.spotify.com/artist/1L835FxGKZLivabIOdzpwS) | [På Äventyr i Historien III](https://open.spotify.com/album/2AU8OSjplpDqnb5Gz61V3L) | 1:54 | 2021-12-14 | 2022-07-10 |

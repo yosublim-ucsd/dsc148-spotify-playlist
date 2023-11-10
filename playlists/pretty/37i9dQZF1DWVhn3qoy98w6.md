@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Marta Berlín.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,321 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,326 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Las Ganas](https://open.spotify.com/track/3iXDK4vZ4GOclfQjavvyjL) | [Lode](https://open.spotify.com/artist/62O5ku0tnjeGfvVtGFX8dN) | [Las Ganas](https://open.spotify.com/album/4FP1EMQxpCH57GQ24CSw1w) | 3:02 |
 | 50 | [Nasty](https://open.spotify.com/track/20GinW9aJ81TSCkDe9tS9Z) | [BAD PAPAYA](https://open.spotify.com/artist/3Z8qk8QsY2kkkFuJ40b5rY) | [Nasty](https://open.spotify.com/album/75x2nzr1S4Hf9D7Uv1Ece0) | 2:31 |
 
-Snapshot ID: `MCxmYzBkNmViYTM2MDJmMjA5NDMyY2RkZGNkYzRkM2Q5OTg1ZjJkNDJi`
+Snapshot ID: `MCwzNjA3OGM0NTE3YWMzMGU4ZDRhNzUwMGQzZGIxYWJlN2FmZTk5YTI4`

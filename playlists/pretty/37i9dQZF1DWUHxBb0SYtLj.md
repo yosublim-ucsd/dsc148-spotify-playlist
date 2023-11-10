@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: svegliaginevra
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,667 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,671 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [2 vite in 1 minuto](https://open.spotify.com/track/54vG6nk5bN1C6ohD22wbon) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [2 vite in 1 minuto](https://open.spotify.com/album/1XI2p80TbQBJpPl5a5FOyv) | 3:01 |
 | 50 | [My Best](https://open.spotify.com/track/6IJXxt8NCCjiBIIoNEWeCG) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [My Best](https://open.spotify.com/album/5kzMtLRcuNtHU3Hwr09qoG) | 2:41 |
 
-Snapshot ID: `MCwzMGViY2YzNGY1MjExOGU2OWRlNzNlYzQ2MWNmMjcwNjczMzY3YWYz`
+Snapshot ID: `MCwwOThkOTExN2U4OGZhMGFkZjI2YjIwNWFhOWUzNzkxZDFhYWYwZGU2`

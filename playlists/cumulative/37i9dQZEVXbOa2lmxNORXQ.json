@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "",
+        "url": "https://open.spotify.com/album/0PvA059GTWOU5bbA9H6DTc"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7lyv2sysHCzFjypILxAynT"
+    },
+    {
+      "album": {
+        "name": "",
         "url": "https://open.spotify.com/album/2cfDV7HO5hy7Gw4nHY3igS"
       },
       "artists": [
@@ -4188,7 +4206,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 165848,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN"
@@ -4772,7 +4790,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
@@ -6734,7 +6752,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 208000,
       "name": "HIBIKI",
       "url": "https://open.spotify.com/track/4qSEvFGCpde73gqIuq3sho"
@@ -16061,6 +16079,24 @@
     },
     {
       "album": {
+        "name": "URUS",
+        "url": "https://open.spotify.com/album/0xEjMCN2ajQgzPUT356ZJ4"
+      },
+      "artists": [
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "URUS",
+      "url": "https://open.spotify.com/track/7JV6NZYM1Xdt3Mx7CirphG"
+    },
+    {
+      "album": {
         "name": "Usted No Me Olvida",
         "url": "https://open.spotify.com/album/3hwujUBUE4JRL4E7SXoJPY"
       },
@@ -16476,6 +16512,24 @@
       "duration_ms": 145531,
       "name": "Wasa Wasa",
       "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
+    },
+    {
+      "album": {
+        "name": "Watapiaz",
+        "url": "https://open.spotify.com/album/69wjuVWc8qocLRnxXkaf1e"
+      },
+      "artists": [
+        {
+          "name": "Kevin Voltro",
+          "url": "https://open.spotify.com/artist/5OhR1p5llpp2x1ClZ13EAr"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199338,
+      "name": "Watapiaz",
+      "url": "https://open.spotify.com/track/5ZKjOwxjrMEEGsRW0tNAPa"
     },
     {
       "album": {

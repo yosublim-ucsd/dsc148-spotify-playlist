@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 240000,
       "name": "100 Maneiras",
       "url": "https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8"
@@ -357,6 +357,28 @@
     },
     {
       "album": {
+        "name": "Abismo",
+        "url": "https://open.spotify.com/album/25We05uwp3c3TsE6kxUCn3"
+      },
+      "artists": [
+        {
+          "name": "Dote",
+          "url": "https://open.spotify.com/artist/4uAoxHS1E4Hd8KCH8m9aaP"
+        },
+        {
+          "name": "DoG",
+          "url": "https://open.spotify.com/artist/1mg1eLA0s55Mq7jAcoVR7R"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196632,
+      "name": "Abismo",
+      "url": "https://open.spotify.com/track/4Y19gfDi0pLbTSCVJLwFRI"
+    },
+    {
+      "album": {
         "name": "Acelera",
         "url": "https://open.spotify.com/album/3dC49OQ0zhYnNIwvX6VlKy"
       },
@@ -404,7 +426,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 133337,
       "name": "Adiado Ca$Hduarte Version",
       "url": "https://open.spotify.com/track/4ABXjRHnxFz4RgR1eEgbtm"
@@ -664,7 +686,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 141461,
       "name": "Alter Ego",
       "url": "https://open.spotify.com/track/1bxBGvKAVZ3VM0MZvCaMiL"
@@ -904,6 +926,28 @@
       "duration_ms": 212051,
       "name": "Astro",
       "url": "https://open.spotify.com/track/30ncENmPezd3ndSCysWZMz"
+    },
+    {
+      "album": {
+        "name": "Ataque",
+        "url": "https://open.spotify.com/album/0KjtgG1SSI2v7VXcgQgQZV"
+      },
+      "artists": [
+        {
+          "name": "GBZ",
+          "url": "https://open.spotify.com/artist/5JuOAzaCG0kaLfXN3SuZTH"
+        },
+        {
+          "name": "PKA",
+          "url": "https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185179,
+      "name": "Ataque",
+      "url": "https://open.spotify.com/track/5KlYr9Nz01zdh0vsfr152Q"
     },
     {
       "album": {
@@ -1566,6 +1610,24 @@
       "duration_ms": 283623,
       "name": "Brincar",
       "url": "https://open.spotify.com/track/6qLwg9k9MlWml8IdlGS2nr"
+    },
+    {
+      "album": {
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/6lY25ZQtrUZPxGW6afyL0b"
+      },
+      "artists": [
+        {
+          "name": "Bless",
+          "url": "https://open.spotify.com/artist/7G3cc4g02s4aGoY30P8dIG"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232775,
+      "name": "Brinde",
+      "url": "https://open.spotify.com/track/7dtA0TEVphAkeXfqgRxls4"
     },
     {
       "album": {
@@ -2688,6 +2750,24 @@
       "duration_ms": 253150,
       "name": "de longe",
       "url": "https://open.spotify.com/track/64Dw1NR6wGTJHMIdWyZUz9"
+    },
+    {
+      "album": {
+        "name": "Deixa",
+        "url": "https://open.spotify.com/album/4Nb7DPcC2NiIMcqA8bEbgn"
+      },
+      "artists": [
+        {
+          "name": "TuTu",
+          "url": "https://open.spotify.com/artist/2NpSttd4scLuopeAOP3gzn"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169533,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/7r3nqcHskM4rew92ZhkSpm"
     },
     {
       "album": {
@@ -3851,6 +3931,28 @@
     },
     {
       "album": {
+        "name": "Favelado Chique",
+        "url": "https://open.spotify.com/album/2ScWRNS2zcYVmsZRpbP4vR"
+      },
+      "artists": [
+        {
+          "name": "SDK",
+          "url": "https://open.spotify.com/artist/6hQpZrmcUI9Yb9PITngE67"
+        },
+        {
+          "name": "BDK",
+          "url": "https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187129,
+      "name": "Favelado Chique",
+      "url": "https://open.spotify.com/track/615HDDDeyBkP0SLCdTq1kI"
+    },
+    {
+      "album": {
         "name": "Faz T\u00e3o Bem",
         "url": "https://open.spotify.com/album/5mBiwG6ByMHvlQfskaROfO"
       },
@@ -4022,7 +4124,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 195788,
       "name": "Flores (feat. Fred Mineiro)",
       "url": "https://open.spotify.com/track/18fRGty4s8QQSKxVrvOVUs"
@@ -4762,10 +4864,28 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 192428,
       "name": "Grana",
       "url": "https://open.spotify.com/track/0L3Liok2b1z26yS2u4kGCk"
+    },
+    {
+      "album": {
+        "name": "Grand Bleu",
+        "url": "https://open.spotify.com/album/7zWI1ioH5RkQZOJiESf5vx"
+      },
+      "artists": [
+        {
+          "name": "Maudito",
+          "url": "https://open.spotify.com/artist/3gdY1A4a32KWBCrahsPYiR"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Grand Bleu",
+      "url": "https://open.spotify.com/track/3dt1topx5tZJE2pL7T6oFe"
     },
     {
       "album": {
@@ -5718,7 +5838,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 161739,
       "name": "Kre Mas",
       "url": "https://open.spotify.com/track/4DbdyCdI0GqS8h0HFbWopw"
@@ -6064,7 +6184,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 163636,
       "name": "Longe da Cidade",
       "url": "https://open.spotify.com/track/4H3oTqglc688zt0YuGdsVX"
@@ -6352,7 +6472,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 188000,
       "name": "Mandato Di Captura",
       "url": "https://open.spotify.com/track/5Rg87Evf2mySqHq6dFY9de"
@@ -6784,7 +6904,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 154875,
       "name": "Miami",
       "url": "https://open.spotify.com/track/76pmiSAa2Lzx9LJi1AqytS"
@@ -6820,7 +6940,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 193632,
       "name": "Milh\u00e3o",
       "url": "https://open.spotify.com/track/0xNorrhfY1y3m86sURZYvH"
@@ -6874,7 +6994,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 156886,
       "name": "Minha Hora",
       "url": "https://open.spotify.com/track/4QE8Gq8Jm2TvpPE6JdltpT"
@@ -7351,6 +7471,24 @@
     },
     {
       "album": {
+        "name": "Na Vida Amor",
+        "url": "https://open.spotify.com/album/2dZjslkb3UmfEpdJQdFmd2"
+      },
+      "artists": [
+        {
+          "name": "Boxx",
+          "url": "https://open.spotify.com/artist/3SjKGeoaYL1P5EqScTHgqh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225119,
+      "name": "Na Vida Amor",
+      "url": "https://open.spotify.com/track/1ktwc6bGOBReJR1Vb2Lqzn"
+    },
+    {
+      "album": {
         "name": "Na Zona",
         "url": "https://open.spotify.com/album/4vtf3jhaLrvdsEFbFDiC83"
       },
@@ -7727,6 +7865,32 @@
     },
     {
       "album": {
+        "name": "No Tempo Certo",
+        "url": "https://open.spotify.com/album/2yjDo4avJY1QCOKP6OnsiO"
+      },
+      "artists": [
+        {
+          "name": "Dj Black Spygo",
+          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
+        },
+        {
+          "name": "Altifridi",
+          "url": "https://open.spotify.com/artist/5EDJuUceEPf5Lzw4DviGv1"
+        },
+        {
+          "name": "Black Vision",
+          "url": "https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "No Tempo Certo",
+      "url": "https://open.spotify.com/track/6RHX41nmzyBWV64rZnlfjV"
+    },
+    {
+      "album": {
         "name": "No Time",
         "url": "https://open.spotify.com/album/3sJYckxG419tIObfH0f7Mk"
       },
@@ -7738,7 +7902,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 132927,
       "name": "No Time",
       "url": "https://open.spotify.com/track/2hQ1OweM2djoEunj1j9mPX"
@@ -8291,6 +8455,24 @@
     },
     {
       "album": {
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/7AUx6TcWshZUdwdMfqoCeh"
+      },
+      "artists": [
+        {
+          "name": "L\u00f3jico",
+          "url": "https://open.spotify.com/artist/6PRzGdn4WO9juMXyq2QRBw"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/1EtihF6nnTFcGb30oXi1mV"
+    },
+    {
+      "album": {
         "name": "Oh meu Deus",
         "url": "https://open.spotify.com/album/4w6sQ6AGC3hjdPho8jNhQ8"
       },
@@ -8604,6 +8786,24 @@
       "duration_ms": 150857,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/6p9WtxAiuqr5UsvuYLYu8A"
+    },
+    {
+      "album": {
+        "name": "Paradoxo",
+        "url": "https://open.spotify.com/album/0aZYc9gXKNSDGNaaELACtM"
+      },
+      "artists": [
+        {
+          "name": "Rudy21",
+          "url": "https://open.spotify.com/artist/7BJNlefzGMxapgQy6XvZBf"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155600,
+      "name": "Paradoxo",
+      "url": "https://open.spotify.com/track/0VVU6WXpkDjtuRQDwSUfMZ"
     },
     {
       "album": {
@@ -10653,6 +10853,24 @@
     },
     {
       "album": {
+        "name": "Sid",
+        "url": "https://open.spotify.com/album/4X2ERJrE1qOCwK9Xe5lEvR"
+      },
+      "artists": [
+        {
+          "name": "UFF RAH",
+          "url": "https://open.spotify.com/artist/6gp3V8ucRrAH4wK2kWGCA6"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Sid",
+      "url": "https://open.spotify.com/track/2JljRsj1lefrSh5Uz0kJEB"
+    },
+    {
+      "album": {
         "name": "Sim ou N\u00e3o, Pt.1",
         "url": "https://open.spotify.com/album/5T0Q51iVVura4U4IKEhQQR"
       },
@@ -11087,6 +11305,24 @@
     },
     {
       "album": {
+        "name": "DARK HOURS",
+        "url": "https://open.spotify.com/album/3UTzqYgsmY88mEWZ7M5APx"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rxNBCnHbDhAbPpxRlGlYC"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206402,
+      "name": "STEP / ME OR SUM FREESTYLE",
+      "url": "https://open.spotify.com/track/71cVW3oDzFab0TGD0qpW6e"
+    },
+    {
+      "album": {
         "name": "Still Active 2",
         "url": "https://open.spotify.com/album/3hkcTUcGjgeXkcNd1CLH7B"
       },
@@ -11474,7 +11710,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 214054,
       "name": "Toma",
       "url": "https://open.spotify.com/track/6vlgxZGsjQ5KkjGiVpkyjk"
@@ -12004,6 +12240,24 @@
       "duration_ms": 166713,
       "name": "VAN DAMME",
       "url": "https://open.spotify.com/track/6FIldzpHU4A6esNMUcp0oB"
+    },
+    {
+      "album": {
+        "name": "Van Gogh",
+        "url": "https://open.spotify.com/album/0svG6ftjJMgB0IboVnIIRP"
+      },
+      "artists": [
+        {
+          "name": "B3L2",
+          "url": "https://open.spotify.com/artist/6KUYblbSpjuGjZvTXpUUEn"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Van Gogh",
+      "url": "https://open.spotify.com/track/7vuQaRKkS3XnqaiA1x6Azj"
     },
     {
       "album": {
@@ -12542,7 +12796,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 220107,
       "name": "v\u00e3o falar",
       "url": "https://open.spotify.com/track/2p5lLnOlGvTZ5dESeneCuX"

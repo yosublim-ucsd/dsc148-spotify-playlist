@@ -1,13 +1,93 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY?si=03c1kirSTgCUAXEoU7gnCw\">West Coast Wolves</a>",
-  "num_followers": 15253,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=O3l0X_BbR2i27-j3gS8sTw\">Rooksein</a>",
+  "num_followers": 15263,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODRjNWZlMTBhYzMyNWUwNzEyNjIwNmE2ZjExNjJjYzMyN2ExZjMy",
+  "snapshot_id": "MCwyNzM2OWQ4ZDY3OGYzOWI1NzIwOTExY2M2ZmI2NDAyMTIyMjJmZGVm",
   "tracks": [
+    {
+      "added_at": "2023-11-09 22:00:00",
+      "album": {
+        "name": "Weet Jy",
+        "url": "https://open.spotify.com/album/2Bk9aiTtgW5uq3BWtHpbn6"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        }
+      ],
+      "duration_ms": 207478,
+      "name": "Weet Jy",
+      "url": "https://open.spotify.com/track/6XvJrj4flDveKeKgtlP5Qe"
+    },
+    {
+      "added_at": "2023-08-31 21:59:00",
+      "album": {
+        "name": "Lente",
+        "url": "https://open.spotify.com/album/0npVagHg875j2gbr4CAvzS"
+      },
+      "artists": [
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "duration_ms": 179391,
+      "name": "Cloetesville",
+      "url": "https://open.spotify.com/track/2f2zF9Gs0kdjsYT704zu81"
+    },
+    {
+      "added_at": "2023-11-09 22:00:00",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/2Q9BQwWEgZYeoPUylHEXX6"
+      },
+      "artists": [
+        {
+          "name": "New Volume",
+          "url": "https://open.spotify.com/artist/386eyNcHwUJ0u3awsMi88Q"
+        }
+      ],
+      "duration_ms": 204687,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3omZL5SXL74UYWmqrnilTM"
+    },
+    {
+      "added_at": "2023-09-15 04:14:22",
+      "album": {
+        "name": "Altyd Daar",
+        "url": "https://open.spotify.com/album/7i6x9x7WGGsv4iU16Ic3Ab"
+      },
+      "artists": [
+        {
+          "name": "Ryno Velvet",
+          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "Altyd Daar",
+      "url": "https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW"
+    },
+    {
+      "added_at": "2023-11-09 22:00:00",
+      "album": {
+        "name": "The Villain",
+        "url": "https://open.spotify.com/album/6fHn43hrLvdxr9V7ljZBbn"
+      },
+      "artists": [
+        {
+          "name": "Crash And The Void",
+          "url": "https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo"
+        }
+      ],
+      "duration_ms": 223348,
+      "name": "The Villain",
+      "url": "https://open.spotify.com/track/2s0QDe1ZjH0Pm9rsciZwQY"
+    },
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
@@ -25,6 +105,26 @@
       "url": "https://open.spotify.com/track/1eQRPJcdoX8D4nbnxPlJX1"
     },
     {
+      "added_at": "2023-08-31 21:59:00",
+      "album": {
+        "name": "O, My Donner",
+        "url": "https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Hanu De Jong",
+          "url": "https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs"
+        }
+      ],
+      "duration_ms": 172750,
+      "name": "O, My Donner",
+      "url": "https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs"
+    },
+    {
       "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Innocence",
@@ -39,6 +139,22 @@
       "duration_ms": 228781,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/2nuJbLSFHbWNYSQ3C7HTay"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "Yo Yo",
+        "url": "https://open.spotify.com/album/33mO5GqcxB34k3bZ2zU9yf"
+      },
+      "artists": [
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+        }
+      ],
+      "duration_ms": 378032,
+      "name": "Yo Yo",
+      "url": "https://open.spotify.com/track/2jxyMRUWl5unzLhU2d0uts"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -61,36 +177,36 @@
       "url": "https://open.spotify.com/track/6nSY9w8oUTQ7cuB6bC6IwH"
     },
     {
-      "added_at": "2023-09-15 04:14:22",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Pizza Party",
-        "url": "https://open.spotify.com/album/6hzXhNSce8sW2sn4fr5rUd"
+        "name": "Sirens & Cathedrals",
+        "url": "https://open.spotify.com/album/1iEZfxbS3b0fwDU9UapROP"
       },
       "artists": [
         {
-          "name": "Elle E",
-          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
+          "name": "Swimmer",
+          "url": "https://open.spotify.com/artist/0COkEvdVUFGE2r3TQs67vf"
         }
       ],
-      "duration_ms": 200816,
-      "name": "Pizza Party",
-      "url": "https://open.spotify.com/track/34G7rugYnI2n8PMgAjQ1xr"
+      "duration_ms": 212000,
+      "name": "Love Remains",
+      "url": "https://open.spotify.com/track/39Yc140rdc73NQYiYGRlEh"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-07-06 21:59:00",
       "album": {
-        "name": "Unbreasted",
-        "url": "https://open.spotify.com/album/2EeaGJ8yoA1q8lAcRmDWua"
+        "name": "Sosiaal Gebreek",
+        "url": "https://open.spotify.com/album/6aBLqzJka0CJfqOqC7HQbn"
       },
       "artists": [
         {
-          "name": "Babette",
-          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+          "name": "Groot Oom John Tenoor",
+          "url": "https://open.spotify.com/artist/6JT9m3NJiQXCfXVwdJXH06"
         }
       ],
-      "duration_ms": 182888,
-      "name": "The Great Antagonist",
-      "url": "https://open.spotify.com/track/2wz74k8mcxoYRW4Qvxckrp"
+      "duration_ms": 245240,
+      "name": "Baby Tjoklits",
+      "url": "https://open.spotify.com/track/1vmgF0APgogTK1C19NH4r5"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -141,6 +257,26 @@
       "url": "https://open.spotify.com/track/7oPBtckFtCURWFEn55xb2C"
     },
     {
+      "added_at": "2023-03-02 21:59:00",
+      "album": {
+        "name": "Hoer In Beton",
+        "url": "https://open.spotify.com/album/6wTcDkkteYS8r3S7WEvIHn"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        },
+        {
+          "name": "Koos Kombuis",
+          "url": "https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ"
+        }
+      ],
+      "duration_ms": 280248,
+      "name": "Hoer In Beton",
+      "url": "https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy"
+    },
+    {
       "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Hold Back The River",
@@ -155,54 +291,6 @@
       "duration_ms": 243614,
       "name": "Hold Back The River",
       "url": "https://open.spotify.com/track/50iOr6N8l3xmJqKhF80apP"
-    },
-    {
-      "added_at": "2023-08-31 21:59:00",
-      "album": {
-        "name": "Lente",
-        "url": "https://open.spotify.com/album/0npVagHg875j2gbr4CAvzS"
-      },
-      "artists": [
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        }
-      ],
-      "duration_ms": 179391,
-      "name": "Cloetesville",
-      "url": "https://open.spotify.com/track/2f2zF9Gs0kdjsYT704zu81"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "Sirens & Cathedrals",
-        "url": "https://open.spotify.com/album/1iEZfxbS3b0fwDU9UapROP"
-      },
-      "artists": [
-        {
-          "name": "Swimmer",
-          "url": "https://open.spotify.com/artist/0COkEvdVUFGE2r3TQs67vf"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Love Remains",
-      "url": "https://open.spotify.com/track/39Yc140rdc73NQYiYGRlEh"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "Take your time",
-        "url": "https://open.spotify.com/album/1zwFQeTGjOpOkP9aVJzzgO"
-      },
-      "artists": [
-        {
-          "name": "Delano Jooste",
-          "url": "https://open.spotify.com/artist/5wSeUIvRBzhkeOoiPnOTQX"
-        }
-      ],
-      "duration_ms": 214376,
-      "name": "Take your time",
-      "url": "https://open.spotify.com/track/5YGrodE7HhrVX4YkGpkQLy"
     },
     {
       "added_at": "2023-09-15 04:14:22",
@@ -235,26 +323,6 @@
       "duration_ms": 251110,
       "name": "Earth Demon",
       "url": "https://open.spotify.com/track/5vbEAOh1toNWlM2ehfvAqu"
-    },
-    {
-      "added_at": "2023-08-31 21:59:00",
-      "album": {
-        "name": "O, My Donner",
-        "url": "https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Hanu De Jong",
-          "url": "https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs"
-        }
-      ],
-      "duration_ms": 172750,
-      "name": "O, My Donner",
-      "url": "https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -309,22 +377,6 @@
       "url": "https://open.spotify.com/track/4t10kSOLO3ZIpztOXqupHy"
     },
     {
-      "added_at": "2023-09-15 04:14:22",
-      "album": {
-        "name": "Altyd Daar",
-        "url": "https://open.spotify.com/album/7i6x9x7WGGsv4iU16Ic3Ab"
-      },
-      "artists": [
-        {
-          "name": "Ryno Velvet",
-          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
-        }
-      ],
-      "duration_ms": 255773,
-      "name": "Altyd Daar",
-      "url": "https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW"
-    },
-    {
       "added_at": "2023-09-07 21:59:00",
       "album": {
         "name": "Crimson Kings",
@@ -373,6 +425,22 @@
       "url": "https://open.spotify.com/track/5z4Etcsgyj0bXQBefoiC7w"
     },
     {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Unbreasted",
+        "url": "https://open.spotify.com/album/2EeaGJ8yoA1q8lAcRmDWua"
+      },
+      "artists": [
+        {
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+        }
+      ],
+      "duration_ms": 182888,
+      "name": "The Great Antagonist",
+      "url": "https://open.spotify.com/track/2wz74k8mcxoYRW4Qvxckrp"
+    },
+    {
       "added_at": "2023-09-15 04:14:22",
       "album": {
         "name": "Rescue",
@@ -387,22 +455,6 @@
       "duration_ms": 189896,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/2X7CueiRw3znYvsRPHSIkv"
-    },
-    {
-      "added_at": "2023-09-07 21:59:00",
-      "album": {
-        "name": "Yo Yo",
-        "url": "https://open.spotify.com/album/33mO5GqcxB34k3bZ2zU9yf"
-      },
-      "artists": [
-        {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
-        }
-      ],
-      "duration_ms": 378032,
-      "name": "Yo Yo",
-      "url": "https://open.spotify.com/track/2jxyMRUWl5unzLhU2d0uts"
     },
     {
       "added_at": "2023-08-31 21:59:00",
@@ -451,22 +503,6 @@
       "duration_ms": 217443,
       "name": "Star Collides",
       "url": "https://open.spotify.com/track/5I6wDmXnxQRaZbk5fuLy6x"
-    },
-    {
-      "added_at": "2023-08-31 21:59:00",
-      "album": {
-        "name": "Victim of Data",
-        "url": "https://open.spotify.com/album/3Q1NdGdXpdVh3DRXlQ3wrb"
-      },
-      "artists": [
-        {
-          "name": "Shameless Band",
-          "url": "https://open.spotify.com/artist/1WMFWKZqX2Y5lW2SKetrMz"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Victim of Data",
-      "url": "https://open.spotify.com/track/5DESqCo3i23bSBUg9r3p7a"
     },
     {
       "added_at": "2023-08-31 21:59:00",
@@ -669,22 +705,6 @@
       "url": "https://open.spotify.com/track/6mEeRt3Y4seCZ3Ag54MAhK"
     },
     {
-      "added_at": "2023-07-06 21:59:00",
-      "album": {
-        "name": "Sosiaal Gebreek",
-        "url": "https://open.spotify.com/album/6aBLqzJka0CJfqOqC7HQbn"
-      },
-      "artists": [
-        {
-          "name": "Groot Oom John Tenoor",
-          "url": "https://open.spotify.com/artist/6JT9m3NJiQXCfXVwdJXH06"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "Baby Tjoklits",
-      "url": "https://open.spotify.com/track/1vmgF0APgogTK1C19NH4r5"
-    },
-    {
       "added_at": "2023-08-04 10:43:32",
       "album": {
         "name": "Big Mistakes",
@@ -775,26 +795,6 @@
       "duration_ms": 201684,
       "name": "Leave This Town",
       "url": "https://open.spotify.com/track/2UJNr5PUzkDpqqLriIJpqK"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Hoer In Beton",
-        "url": "https://open.spotify.com/album/6wTcDkkteYS8r3S7WEvIHn"
-      },
-      "artists": [
-        {
-          "name": "Millennium",
-          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
-        },
-        {
-          "name": "Koos Kombuis",
-          "url": "https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ"
-        }
-      ],
-      "duration_ms": 280248,
-      "name": "Hoer In Beton",
-      "url": "https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy"
     },
     {
       "added_at": "2023-07-06 21:59:00",

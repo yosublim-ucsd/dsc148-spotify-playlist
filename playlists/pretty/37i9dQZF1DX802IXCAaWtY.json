@@ -1,12 +1,12 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1098768,
+  "num_followers": 1099580,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTUwOTI4NDdlODI2YWI2MzVmOTM5ZDY2NTkwMjJmMjQwMzIxMmRm",
+  "snapshot_id": "MCxiYjliMThiY2NiNjQ4Y2NkNDM1NWQ1N2QzOTcwZTkxY2UwYTNkN2Y2",
   "tracks": [
     {
       "added_at": "2023-07-14 10:06:53",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
         "name": "There Is a Party",
         "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 226773,
       "name": "Get A Way",
       "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
-      },
-      "artists": [
-        {
-          "name": "Dr. Alban",
-          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
-        }
-      ],
-      "duration_ms": 239933,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -747,6 +747,38 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "duration_ms": 247001,
+      "name": "Everybody Everybody",
+      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Sing Hallelujah!",
+      "url": "https://open.spotify.com/track/2qjDNbgLzfBpCvDwfw11Qg"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
         "name": "Amplified Heart",
         "url": "https://open.spotify.com/album/0WQmpiDN4YZhPRVR3JRjRR"
       },
@@ -763,22 +795,6 @@
       "duration_ms": 249533,
       "name": "Missing - Todd Terry Club Mix",
       "url": "https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
-      },
-      "artists": [
-        {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
-        }
-      ],
-      "duration_ms": 247001,
-      "name": "Everybody Everybody",
-      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -843,22 +859,6 @@
       "duration_ms": 264306,
       "name": "The Rhythm of the Night",
       "url": "https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
-      },
-      "artists": [
-        {
-          "name": "Dr. Alban",
-          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Sing Hallelujah!",
-      "url": "https://open.spotify.com/track/2qjDNbgLzfBpCvDwfw11Qg"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
-        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
+        "name": "Feel the heat of the night",
+        "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
       },
       "artists": [
         {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+          "name": "Masterboy",
+          "url": "https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E"
         }
       ],
-      "duration_ms": 204586,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/1M3Im6Xjl0QUKbP9VAXxVf"
+      "duration_ms": 221840,
+      "name": "Feel the heat of the night - Radio Edit",
+      "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Feel the heat of the night",
-        "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
+        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
+        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
       },
       "artists": [
         {
-          "name": "Masterboy",
-          "url": "https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E"
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
         }
       ],
-      "duration_ms": 221840,
-      "name": "Feel the heat of the night - Radio Edit",
-      "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
+      "duration_ms": 204586,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/1M3Im6Xjl0QUKbP9VAXxVf"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -1051,86 +1051,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/61NPV53hdl13ljABTLGIfF"
-      },
-      "artists": [
-        {
-          "name": "Mark 'Oh",
-          "url": "https://open.spotify.com/artist/3eLW10XmpXVzwszGQ9gDXX"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "United - Short Mix",
-      "url": "https://open.spotify.com/track/79yxhRPydB5Zs0fWh3QICm"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "Flying High",
-        "url": "https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a"
-      },
-      "artists": [
-        {
-          "name": "Captain Hollywood Project",
-          "url": "https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4"
-        }
-      ],
-      "duration_ms": 226933,
-      "name": "Flying High - Radio Mix",
-      "url": "https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/4R3t81cmGUQrTRFXTw7iI1"
-      },
-      "artists": [
-        {
-          "name": "DJ BoBo",
-          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
-        }
-      ],
-      "duration_ms": 209014,
-      "name": "Somebody Dance with Me",
-      "url": "https://open.spotify.com/track/7M2wk27EePpYr9TH3uZY1r"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/3iJwt0Sq44ZBzR7kNCxf0y"
-      },
-      "artists": [
-        {
-          "name": "Paradisio",
-          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Bailando - Video Edit",
-      "url": "https://open.spotify.com/track/7cG3wfohoNDSp2M8FWrgTg"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "Can\u2018t Stop Raving",
-        "url": "https://open.spotify.com/album/1hMjJNZT1jhuWNotbgTRsB"
-      },
-      "artists": [
-        {
-          "name": "Dune",
-          "url": "https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Can\u2018t Stop Raving (Video Mix)",
-      "url": "https://open.spotify.com/track/4Q7fEjeCZgU8oxjbLWrm7L"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "Move It!",
         "url": "https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff"
       },
@@ -1151,6 +1071,86 @@
       "duration_ms": 230760,
       "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
       "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/61NPV53hdl13ljABTLGIfF"
+      },
+      "artists": [
+        {
+          "name": "Mark 'Oh",
+          "url": "https://open.spotify.com/artist/3eLW10XmpXVzwszGQ9gDXX"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "United - Short Mix",
+      "url": "https://open.spotify.com/track/79yxhRPydB5Zs0fWh3QICm"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/4R3t81cmGUQrTRFXTw7iI1"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "duration_ms": 209014,
+      "name": "Somebody Dance with Me",
+      "url": "https://open.spotify.com/track/7M2wk27EePpYr9TH3uZY1r"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a"
+      },
+      "artists": [
+        {
+          "name": "Captain Hollywood Project",
+          "url": "https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4"
+        }
+      ],
+      "duration_ms": 226933,
+      "name": "Flying High - Radio Mix",
+      "url": "https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Can\u2018t Stop Raving",
+        "url": "https://open.spotify.com/album/1hMjJNZT1jhuWNotbgTRsB"
+      },
+      "artists": [
+        {
+          "name": "Dune",
+          "url": "https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Can\u2018t Stop Raving (Video Mix)",
+      "url": "https://open.spotify.com/track/4Q7fEjeCZgU8oxjbLWrm7L"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/3iJwt0Sq44ZBzR7kNCxf0y"
+      },
+      "artists": [
+        {
+          "name": "Paradisio",
+          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Bailando - Video Edit",
+      "url": "https://open.spotify.com/track/7cG3wfohoNDSp2M8FWrgTg"
     },
     {
       "added_at": "2023-07-14 10:06:53",

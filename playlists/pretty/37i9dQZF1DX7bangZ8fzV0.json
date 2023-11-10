@@ -1,13 +1,29 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r?si=WV1LPLPYSqmC3hBdnnKrtg\">Jan Rhaap</a>  ",
-  "num_followers": 86523,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=82LFO0ChSqib1SNOluXr5A\">Barto</a>  ",
+  "num_followers": 86605,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmFlY2FkMjJjM2U3YTFiYWUzOWYxMWQwYWIxZDQwNzUxZDczZDM4",
+  "snapshot_id": "MCwzMjMxZWQxYTBlZTE1Yzk0YTkxMThhMGY1MTA1YTMwYmEyZTRjY2Vj",
   "tracks": [
+    {
+      "added_at": "2023-11-09 22:00:00",
+      "album": {
+        "name": "OASE",
+        "url": "https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "Slukkie Inspirasie",
+      "url": "https://open.spotify.com/track/6RUiu6xeHqpsxbXJoZeu7s"
+    },
     {
       "added_at": "2023-09-21 21:59:00",
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 221067,
       "name": "Inge 2",
       "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
-    },
-    {
-      "added_at": "2023-11-02 22:00:00",
-      "album": {
-        "name": "Wildman",
-        "url": "https://open.spotify.com/album/7ccUdm2objah0c8b16C9z2"
-      },
-      "artists": [
-        {
-          "name": "Jan Rhaap",
-          "url": "https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r"
-        }
-      ],
-      "duration_ms": 169194,
-      "name": "Wildman",
-      "url": "https://open.spotify.com/track/4KIhzNAh0lgHblwDnmeymd"
     },
     {
       "added_at": "2023-08-24 21:59:00",
@@ -119,22 +119,6 @@
       "duration_ms": 174254,
       "name": "Laatnag Gedagtes",
       "url": "https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Tannie Katesbes",
-        "url": "https://open.spotify.com/album/3MONfNQ8xdPBx77X5J4D3N"
-      },
-      "artists": [
-        {
-          "name": "FATMAN",
-          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
-        }
-      ],
-      "duration_ms": 180348,
-      "name": "Tannie Katesbes",
-      "url": "https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -249,6 +233,22 @@
       "url": "https://open.spotify.com/track/5YtFnh2RwQNFh5G35DntZZ"
     },
     {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Tannie Katesbes",
+        "url": "https://open.spotify.com/album/3MONfNQ8xdPBx77X5J4D3N"
+      },
+      "artists": [
+        {
+          "name": "FATMAN",
+          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
+        }
+      ],
+      "duration_ms": 180348,
+      "name": "Tannie Katesbes",
+      "url": "https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x"
+    },
+    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Spontaan",
@@ -333,6 +333,22 @@
       "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
     },
     {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
+        "name": "Wildman",
+        "url": "https://open.spotify.com/album/7ccUdm2objah0c8b16C9z2"
+      },
+      "artists": [
+        {
+          "name": "Jan Rhaap",
+          "url": "https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r"
+        }
+      ],
+      "duration_ms": 169194,
+      "name": "Wildman",
+      "url": "https://open.spotify.com/track/4KIhzNAh0lgHblwDnmeymd"
+    },
+    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Tekkies Brand",
@@ -381,22 +397,6 @@
       "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Ek Wonder",
-        "url": "https://open.spotify.com/album/07wqaVr50Sy5ke6YhxnIF4"
-      },
-      "artists": [
-        {
-          "name": "Riana Nel",
-          "url": "https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ"
-        }
-      ],
-      "duration_ms": 212941,
-      "name": "Ek Wonder",
-      "url": "https://open.spotify.com/track/7d1dnWCYBxIkLHYkxjF6Yd"
-    },
-    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Foto's",
@@ -427,6 +427,22 @@
       "duration_ms": 230163,
       "name": "Boer In My Hart",
       "url": "https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Ek Wonder",
+        "url": "https://open.spotify.com/album/07wqaVr50Sy5ke6YhxnIF4"
+      },
+      "artists": [
+        {
+          "name": "Riana Nel",
+          "url": "https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ"
+        }
+      ],
+      "duration_ms": 212941,
+      "name": "Ek Wonder",
+      "url": "https://open.spotify.com/track/7d1dnWCYBxIkLHYkxjF6Yd"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -565,6 +581,22 @@
       "url": "https://open.spotify.com/track/4CpYNgOR68YBngjZ1z1DFH"
     },
     {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "Die Onbekende",
+        "url": "https://open.spotify.com/album/5DQ6KesEHKfwfO2AUjzkvc"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "Kyk Na My Hart",
+      "url": "https://open.spotify.com/track/3ZHlUA6rI4xaljhilmWDtN"
+    },
+    {
       "added_at": "2023-08-31 21:59:00",
       "album": {
         "name": "Lyntjie",
@@ -579,6 +611,22 @@
       "duration_ms": 185062,
       "name": "Lyntjie",
       "url": "https://open.spotify.com/track/1EhZrbHrX4gTpH7cS35cd2"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "Wille Ding",
+        "url": "https://open.spotify.com/album/6uKZ7ADIU92bN4L1krcbBM"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Suikerbos",
+      "url": "https://open.spotify.com/track/5MENUK617o8avXcMM4TDpt"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -603,34 +651,6 @@
       "duration_ms": 180182,
       "name": "Vat Die Cruiser",
       "url": "https://open.spotify.com/track/1PIvpkHqj84KC0En6LosWH"
-    },
-    {
-      "added_at": "2023-09-15 03:24:00",
-      "album": {
-        "name": "Saam Suid-Afrika",
-        "url": "https://open.spotify.com/album/795PoyrlQBseo7X9SQsNJA"
-      },
-      "artists": [
-        {
-          "name": "Robbie Wessels",
-          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
-        },
-        {
-          "name": "Anlia Star",
-          "url": "https://open.spotify.com/artist/0ijtg0i2JHKpiiQnyZofqm"
-        },
-        {
-          "name": "Ruhan Du Toit",
-          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
-        },
-        {
-          "name": "Karlien Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
-        }
-      ],
-      "duration_ms": 226229,
-      "name": "Saam Suid-Afrika",
-      "url": "https://open.spotify.com/track/4Nngq9WlJXvN3AyDnocQAz"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -683,8 +703,8 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
-        "name": "Haai Haai",
-        "url": "https://open.spotify.com/album/7pcS22M4wts8bcT1pBoB0y"
+        "name": "Rowwe Bliksem",
+        "url": "https://open.spotify.com/album/3aqGXXhEPT35aGsxTWrHBS"
       },
       "artists": [
         {
@@ -692,45 +712,13 @@
           "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
         },
         {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+          "name": "Jay",
+          "url": "https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj"
         }
       ],
-      "duration_ms": 198995,
-      "name": "Haai Haai",
-      "url": "https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Die Onbekende",
-        "url": "https://open.spotify.com/album/5DQ6KesEHKfwfO2AUjzkvc"
-      },
-      "artists": [
-        {
-          "name": "Rooksein",
-          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Kyk Na My Hart",
-      "url": "https://open.spotify.com/track/3ZHlUA6rI4xaljhilmWDtN"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Wille Ding",
-        "url": "https://open.spotify.com/album/6uKZ7ADIU92bN4L1krcbBM"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Suikerbos",
-      "url": "https://open.spotify.com/track/5MENUK617o8avXcMM4TDpt"
+      "duration_ms": 183729,
+      "name": "Rowwe Bliksem",
+      "url": "https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf"
     },
     {
       "added_at": "2023-08-10 21:59:00",
@@ -783,26 +771,6 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
-        "name": "Rowwe Bliksem",
-        "url": "https://open.spotify.com/album/3aqGXXhEPT35aGsxTWrHBS"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        },
-        {
-          "name": "Jay",
-          "url": "https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj"
-        }
-      ],
-      "duration_ms": 183729,
-      "name": "Rowwe Bliksem",
-      "url": "https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
         "name": "Wynland",
         "url": "https://open.spotify.com/album/1gAIJXFuwE7LSuibaGwehS"
       },
@@ -815,6 +783,26 @@
       "duration_ms": 161589,
       "name": "Wynland",
       "url": "https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "Haai Haai",
+        "url": "https://open.spotify.com/album/7pcS22M4wts8bcT1pBoB0y"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        },
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        }
+      ],
+      "duration_ms": 198995,
+      "name": "Haai Haai",
+      "url": "https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm"
     },
     {
       "added_at": "2023-06-29 21:59:00",

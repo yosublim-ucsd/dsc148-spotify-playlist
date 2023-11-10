@@ -1,15 +1,127 @@
 {
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: \u6771\u6d8c\u4e8b\u767c",
-  "num_followers": 11489,
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Ragpickers",
+  "num_followers": 11494,
   "original_name": "+852 Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWFjNDU4ZWMyNWQ4NDVkMmI4ZTRjNDU3NTE2ODZkZmU1YTFjZDQ1",
+  "snapshot_id": "MCw2MGU0OGU3MzAwN2MwMWM2MDNlNGE0MjFhZWU4ZWRlYmRlOTI3ODlj",
   "tracks": [
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
+      "album": {
+        "name": "16 x 16",
+        "url": "https://open.spotify.com/album/0bXkPVK2fwqxSHRPh5Zf1p"
+      },
+      "artists": [
+        {
+          "name": "Matt Force",
+          "url": "https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "16 x 16",
+      "url": "https://open.spotify.com/track/6EGQJoMwWhYyEmEprdMz7m"
+    },
+    {
+      "added_at": "2023-11-09 16:00:00",
+      "album": {
+        "name": "\u96cc\u96c4\u540c\u9ad4",
+        "url": "https://open.spotify.com/album/3ReYvfsMslCtRwZAMF6uad"
+      },
+      "artists": [
+        {
+          "name": "Ragpickers",
+          "url": "https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj"
+        }
+      ],
+      "duration_ms": 196513,
+      "name": "\u96cc\u96c4\u540c\u9ad4",
+      "url": "https://open.spotify.com/track/1BHc2pjfLXfntjrgs4TMGc"
+    },
+    {
+      "added_at": "2023-11-09 16:00:00",
+      "album": {
+        "name": "Midnight Serenade",
+        "url": "https://open.spotify.com/album/7ygf4zrLCf8ZFTTuyhXwNj"
+      },
+      "artists": [
+        {
+          "name": "kayan9896",
+          "url": "https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt"
+        }
+      ],
+      "duration_ms": 176945,
+      "name": "Midnight Serenade",
+      "url": "https://open.spotify.com/track/3B7lUZfH1GCgQcTsoWBooO"
+    },
+    {
+      "added_at": "2023-11-09 16:00:00",
+      "album": {
+        "name": "None 2 Say",
+        "url": "https://open.spotify.com/album/3UgbAfHqhfh1eCkHYweP4B"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "duration_ms": 170479,
+      "name": "None 2 Say",
+      "url": "https://open.spotify.com/track/6QIvv81rBterqRKgeKoOHg"
+    },
+    {
+      "added_at": "2023-11-09 16:00:00",
+      "album": {
+        "name": "MADE TO BE",
+        "url": "https://open.spotify.com/album/1y3YJ3TYwgo6kE09ar15k8"
+      },
+      "artists": [
+        {
+          "name": "donny daydream",
+          "url": "https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "MADE TO BE",
+      "url": "https://open.spotify.com/track/1VL8G5WxMALRbYPKZouss3"
+    },
+    {
+      "added_at": "2023-11-09 16:00:00",
+      "album": {
+        "name": "Please don't wait for me",
+        "url": "https://open.spotify.com/album/2zRYy5ureXweBV5B3kJmba"
+      },
+      "artists": [
+        {
+          "name": "SpotlessMind",
+          "url": "https://open.spotify.com/artist/0VMR8op8diaqyoJjc7hBgf"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "Please don't wait for me",
+      "url": "https://open.spotify.com/track/3GrnpIuS3LvGiqkxusFXQe"
+    },
+    {
+      "added_at": "2023-11-09 16:00:00",
+      "album": {
+        "name": "\u50cf\u7d20\u4e16\u754c",
+        "url": "https://open.spotify.com/album/3WimzrwQjTz8KG635BRVSC"
+      },
+      "artists": [
+        {
+          "name": "SC Xvill",
+          "url": "https://open.spotify.com/artist/6uyTwA4o8IArP7fGpG4sbh"
+        }
+      ],
+      "duration_ms": 129578,
+      "name": "\u6211\u5728\u9019\u500b\u4e16\u754c\u552f\u4e00\u7684\u554f\u984c",
+      "url": "https://open.spotify.com/track/3J34tBtEaxbNIpGp5dbG6Y"
+    },
+    {
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u9ed1\u6697\u4e4b\u4e2d In The Darkness",
         "url": "https://open.spotify.com/album/7i6dsLpNE9ACiGXlOGSry5"
@@ -25,7 +137,7 @@
       "url": "https://open.spotify.com/track/4OwOuEykVfSdgilc5eD5y0"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u6709\u4e00\u7a2e\u75db\u53eb\u505a\u8173\u8dbe\u5c3e\u7684\u75db",
         "url": "https://open.spotify.com/album/1cdr9AAD6W4WzHVv2btbtC"
@@ -41,7 +153,7 @@
       "url": "https://open.spotify.com/track/7l2YMrLgpSecBjv79zAbhu"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u6eab\u98fd\u85dd\u8853\u5bb6Grounded",
         "url": "https://open.spotify.com/album/0WAWOZlVkEwV9V7aIhcWzE"
@@ -61,7 +173,7 @@
       "url": "https://open.spotify.com/track/3uirvgoCuUj6dHsFKC4hEy"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Balenciaga Store Girl",
         "url": "https://open.spotify.com/album/0bqoYF1b2TFurEuhzG5oCh"
@@ -81,7 +193,7 @@
       "url": "https://open.spotify.com/track/2IU51LT4SmBPJIi7oBVZKz"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u677f\u65a7",
         "url": "https://open.spotify.com/album/41mcPXRWzPqoAdDUltwFny"
@@ -101,7 +213,7 @@
       "url": "https://open.spotify.com/track/1nE6qRTWkTcwn83NQgenjn"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/6fTQEzoj3lTf2vMuJnKTLf"
@@ -117,7 +229,7 @@
       "url": "https://open.spotify.com/track/1ExNXn8ERb68JSTT5nnn3x"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u843d",
         "url": "https://open.spotify.com/album/6a4yDv2n8sz3xFBOETb6BF"
@@ -133,7 +245,7 @@
       "url": "https://open.spotify.com/track/6y7fatGRm0Z8aPA4lg137f"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "no matter",
         "url": "https://open.spotify.com/album/4LTyKPEQ1jWzWlAI4KQU4O"
@@ -149,7 +261,7 @@
       "url": "https://open.spotify.com/track/65BXpzBSDW8I028QOZApew"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Ring Ring",
         "url": "https://open.spotify.com/album/0rBgxfZipEJTZYOMTG2LDI"
@@ -165,7 +277,7 @@
       "url": "https://open.spotify.com/track/0U0KYTkDXyLjKC6X2QTTPB"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u97f3\u9b42\u4e0d\u6563",
         "url": "https://open.spotify.com/album/4QLXftWFp47188dsZt4hQQ"
@@ -181,7 +293,7 @@
       "url": "https://open.spotify.com/track/36Wgl4JNyYnVsNO6sO8f7N"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u6211\u4e0d\u56de\u53bb",
         "url": "https://open.spotify.com/album/2TJYjfi8gAFrUpW42Iwe8k"
@@ -197,7 +309,7 @@
       "url": "https://open.spotify.com/track/42IahRHRZqyqSmwSpttIzU"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/0JvR8HJzs8LcLID63jVYtQ"
@@ -213,7 +325,7 @@
       "url": "https://open.spotify.com/track/6VhAuvfGUhnH4Tu6Vk1z8c"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Oh ~",
         "url": "https://open.spotify.com/album/73z4kKfNPa0HbhiQXNIS9q"
@@ -229,7 +341,7 @@
       "url": "https://open.spotify.com/track/24numriS0DgjjiZzcuZ2GO"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u5bc4\u751f\u87f2\u8207\u96c5\u82b1",
         "url": "https://open.spotify.com/album/0khgyOUa1xuXH8eRqtobO6"
@@ -245,7 +357,7 @@
       "url": "https://open.spotify.com/track/6E6TjhxzGP0QRzgNzUjgvn"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u8b93\u6211\u4e00\u500b\u4eba\u904e",
         "url": "https://open.spotify.com/album/1H7mGKTxclL94I9tJtxuoU"
@@ -261,7 +373,7 @@
       "url": "https://open.spotify.com/track/0W9UnXy23gylvfBvm0Fs3t"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "One More Round",
         "url": "https://open.spotify.com/album/78Zdxbk2r8xrTa4ivaB50Q"
@@ -277,7 +389,7 @@
       "url": "https://open.spotify.com/track/35dJ3LvEcV52F5R17IOFRC"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u5929\u4f7f999%",
         "url": "https://open.spotify.com/album/5sG2VZ8ou6pGukVpWvNnn1"
@@ -293,7 +405,7 @@
       "url": "https://open.spotify.com/track/5gheISXZ452VrOcVnpy69G"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "M.O.B (My Own Biz)",
         "url": "https://open.spotify.com/album/2olCQySy1I4q9w0C47fGq1"
@@ -309,7 +421,7 @@
       "url": "https://open.spotify.com/track/7iNtZTnk5iXHYjQTZKZ4M3"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Goodbye (While I Still Remember You)",
         "url": "https://open.spotify.com/album/1sVlWhnJ3YcvPu2Huv026Y"
@@ -329,7 +441,7 @@
       "url": "https://open.spotify.com/track/4UxRLxVCveG0DrPm8tgqk1"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "summerfling*",
         "url": "https://open.spotify.com/album/4eQXyiXvXByOadOwuRIbnE"
@@ -345,7 +457,7 @@
       "url": "https://open.spotify.com/track/3ufpkdyCjcewTOF7QrmNKB"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u4e0d\u5b9a\u6642\u590f\u4f11",
         "url": "https://open.spotify.com/album/1rZJ4dpZIYaXfwK7sublyj"
@@ -361,7 +473,7 @@
       "url": "https://open.spotify.com/track/7GEDieAbvwmeE3oXdYitay"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "HIDDEN LINE \u6f88",
         "url": "https://open.spotify.com/album/2xcyfqDHVcmwJ6SNGpfBKt"
@@ -381,7 +493,7 @@
       "url": "https://open.spotify.com/track/0oVfc2J8LVgeEet4cVvuKv"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u843d\u96e8\u4e00\u9f4a\u7559\u4fc2\u5c4b\u4f01",
         "url": "https://open.spotify.com/album/00ckJrDa0KH5gDjZjDAIkE"
@@ -401,7 +513,7 @@
       "url": "https://open.spotify.com/track/79bMWIVziDRCDF85zta9Zb"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Time Machine (feat. \u5433\u970f)",
         "url": "https://open.spotify.com/album/6QaKBlN0TDiNVWcx2ZKbk5"
@@ -421,7 +533,7 @@
       "url": "https://open.spotify.com/track/0NPccbqDYLr9rsCwmTmvqg"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "My Foolish Heart",
         "url": "https://open.spotify.com/album/3bef18mis0WYOUjSxTJ8uX"
@@ -437,7 +549,7 @@
       "url": "https://open.spotify.com/track/1hnY2xNEn1qoeTIcbj60BG"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Tranquility",
         "url": "https://open.spotify.com/album/5d94LDQQaiyOMyUh5EDmFL"
@@ -453,7 +565,7 @@
       "url": "https://open.spotify.com/track/2A5PCiRACdM8BoyUg8JIEN"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "NO LOVE",
         "url": "https://open.spotify.com/album/5PcQDtpyXqDt36iY2i6QBN"
@@ -469,7 +581,7 @@
       "url": "https://open.spotify.com/track/3ykUZHaEBW9MlzxxyBaRr6"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "for the plot",
         "url": "https://open.spotify.com/album/6KsADQyPsGmT6442mACwtR"
@@ -485,7 +597,7 @@
       "url": "https://open.spotify.com/track/6L8viST8TwMy1Dl7SxuxiE"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u767e\u9b3c\u591c\u884c",
         "url": "https://open.spotify.com/album/3sHdBZLhLCN9wOh24BzDd7"
@@ -501,7 +613,7 @@
       "url": "https://open.spotify.com/track/4WWYhgUUXt4SesG2OwmxQe"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Cate Meridian",
         "url": "https://open.spotify.com/album/3mGpDZQCcle4nrNCc5mnFI"
@@ -517,7 +629,7 @@
       "url": "https://open.spotify.com/track/7ep6khXTU3kl3QmhFyvFn3"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "linger on",
         "url": "https://open.spotify.com/album/30vksPo2RNA1yAco5kitiA"
@@ -533,7 +645,7 @@
       "url": "https://open.spotify.com/track/2lhsjZvatWKISlxvOTXQiz"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "SUPERSTAR",
         "url": "https://open.spotify.com/album/4nEdpyUXWcdA4DkBSt3k8b"
@@ -553,7 +665,7 @@
       "url": "https://open.spotify.com/track/27ec2g3R7h4Hgz7KRUi7lK"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u7d42\u65bc\u51fa\u6b4c",
         "url": "https://open.spotify.com/album/27rpPfkINIq6TIvVb2aHba"
@@ -569,7 +681,7 @@
       "url": "https://open.spotify.com/track/0NPXoyts9k8k45Jtjq00yY"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u6e23\u8c46\u99ac\u62c9\u677e",
         "url": "https://open.spotify.com/album/0OFCzzS0VXNVWDFdh5aIQ5"
@@ -585,7 +697,7 @@
       "url": "https://open.spotify.com/track/2jUAIjOUzJ1Hm3AESAUDlT"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Sent on Wednesday",
         "url": "https://open.spotify.com/album/232i6EAZ5mZKXtpc2VekJi"
@@ -601,7 +713,7 @@
       "url": "https://open.spotify.com/track/6cIxoAKwaxZOr8FJb6MimD"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "idundomuchtalkingnow",
         "url": "https://open.spotify.com/album/30aPnV4ctObMcAxSlO2uPx"
@@ -621,7 +733,7 @@
       "url": "https://open.spotify.com/track/669OXkisqk5sChjgpcwaTI"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u6c89\u8239\u9910\u5ef3",
         "url": "https://open.spotify.com/album/3fWrBfiO6BMJw3oLh0Ovvl"
@@ -637,7 +749,7 @@
       "url": "https://open.spotify.com/track/4HabOX14Cckr3ZFWpAl37K"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u4e16\u754c\u8584\u60c5\u4f46\u4f60\u6709\u71b1\u60c5",
         "url": "https://open.spotify.com/album/2AaV73yXp43sIepmxDnoN7"
@@ -653,7 +765,7 @@
       "url": "https://open.spotify.com/track/0Y1Z3QVN4XxGgUk3wnXWAS"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "where i've been",
         "url": "https://open.spotify.com/album/28OlURIftdVsnw0oGysFoZ"
@@ -669,7 +781,7 @@
       "url": "https://open.spotify.com/track/52S15nFChya2OGE92pk5KB"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "130k across the highway",
         "url": "https://open.spotify.com/album/1Ce0uQijUbWZ130GVqGWif"
@@ -685,7 +797,7 @@
       "url": "https://open.spotify.com/track/7qLc278qge2t34PrvsqhZr"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Don\u2019t Say Goodnight",
         "url": "https://open.spotify.com/album/6gTPwxBc5uM0WbVH063fQv"
@@ -701,7 +813,7 @@
       "url": "https://open.spotify.com/track/387ZUKmGoVVahky9sfjzQe"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/5W8d6Co4CvHGH5WQ2VTGUF"
@@ -717,7 +829,7 @@
       "url": "https://open.spotify.com/track/1lBpl7dFv6n9nNzcn93bD2"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u672b\u4e16\u667a\u6167 Apocalypse",
         "url": "https://open.spotify.com/album/1AhIKPjhIYzQwbafMB8OqD"
@@ -733,7 +845,7 @@
       "url": "https://open.spotify.com/track/6KmbJH5XuXhL3w6OAmyR2A"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/5aETnEP1mGB1LLiSXXaKts"
@@ -749,7 +861,7 @@
       "url": "https://open.spotify.com/track/1WLVAwtMG2ybHuumcEivyB"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "GoodNite... (Night Version)",
         "url": "https://open.spotify.com/album/5EeZ4NipzcK4RFsa4lKptN"
@@ -765,7 +877,7 @@
       "url": "https://open.spotify.com/track/0WOUUnbn1DC6zQ39OvpXAx"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "be friend ok?",
         "url": "https://open.spotify.com/album/1ln31LYy6uCIRh8iyPWACq"
@@ -781,7 +893,7 @@
       "url": "https://open.spotify.com/track/0QAjTuquM5uEkmJmsw8Uyf"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u6211\u5514\u60f3\u807d\u4f60\u8b1b\u5622\u554a",
         "url": "https://open.spotify.com/album/7Lnlg9RGkZhd2fuwpMcihE"
@@ -797,7 +909,7 @@
       "url": "https://open.spotify.com/track/69VHxhfx1ubMVnlAVfWLO5"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "HARD",
         "url": "https://open.spotify.com/album/3uZ1ehCIubZ8kt2xg0KNef"
@@ -821,7 +933,7 @@
       "url": "https://open.spotify.com/track/3ci0VZQQd2OHVSxaSM14Kc"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "give in to you",
         "url": "https://open.spotify.com/album/5dN9X6OlySq4wet8HP1Gfi"
@@ -837,7 +949,7 @@
       "url": "https://open.spotify.com/track/30uhhtCSKgdM41GpWRpLVJ"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Look into my eyes",
         "url": "https://open.spotify.com/album/34j4lPhObPKCVIgI8V0ZYD"
@@ -853,7 +965,7 @@
       "url": "https://open.spotify.com/track/22A9vU5ZK7nuwySBtwNZFT"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u4e0d\u5b89\u5b9a\u56e0\u7d20",
         "url": "https://open.spotify.com/album/0OyYhO3YDR3yvlWLkFkyQj"
@@ -873,7 +985,7 @@
       "url": "https://open.spotify.com/track/2BFHh7MnVxYzzSEQ4Cf7QD"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u5206\u5fc3",
         "url": "https://open.spotify.com/album/6ZqwuPQxzlRsoIrnCV7cgr"
@@ -893,7 +1005,7 @@
       "url": "https://open.spotify.com/track/3sMKYHJbsxx3fRJQ1Cg2NT"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "KODC",
         "url": "https://open.spotify.com/album/4j9diWkR9TkbpuErvDL82H"
@@ -917,7 +1029,7 @@
       "url": "https://open.spotify.com/track/7Ku0BAVQTzzqqh1i81DbPz"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Crashing Chase (Drillphony)",
         "url": "https://open.spotify.com/album/4cGqnjLgNFjhI2vyMDa4pO"
@@ -933,7 +1045,7 @@
       "url": "https://open.spotify.com/track/5yaoEzPu52YqtGGWm7uRlN"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Sorry\u5462\u5ea6\u4fc2\u9999\u6e2f (REMIX)",
         "url": "https://open.spotify.com/album/69GXEw42aJdTVL52BgNmiN"
@@ -957,7 +1069,7 @@
       "url": "https://open.spotify.com/track/3ht0dlqYLY90PA6mOX1hSE"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Expat Living",
         "url": "https://open.spotify.com/album/6kGFNA77LeZa67JCMvJVfE"
@@ -973,7 +1085,7 @@
       "url": "https://open.spotify.com/track/2nRUk1Qbef1wGeX8tdCYCR"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u7b54\u6848",
         "url": "https://open.spotify.com/album/2Gf2ijKAn3L7mpjahbepYV"
@@ -989,7 +1101,7 @@
       "url": "https://open.spotify.com/track/4AeGPDzAwPSMRyGaNuyGLQ"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/4Ypx5o8FVNnIxhalsO0jrV"
@@ -1009,7 +1121,7 @@
       "url": "https://open.spotify.com/track/027JnuX0aYpMqWjIzXAOVf"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u4e0d\u7f88",
         "url": "https://open.spotify.com/album/7A5B51z3ZBY8PGcXWV63cH"
@@ -1029,7 +1141,7 @@
       "url": "https://open.spotify.com/track/2ZIL1PtThR5tydXRb9cyJ3"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "New York Nothings",
         "url": "https://open.spotify.com/album/3hEB4clPNDGrEtGDQ72zL6"
@@ -1045,7 +1157,7 @@
       "url": "https://open.spotify.com/track/6jwgTMRtWJ7j11PZmRLtNT"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "I just wanna sleep",
         "url": "https://open.spotify.com/album/6KHiY4KYBPzDieETKjzYSM"
@@ -1065,7 +1177,7 @@
       "url": "https://open.spotify.com/track/6jNw03uSks35lzpwGcCa9I"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u5fc3\u8df3\u6d29\u6f0f",
         "url": "https://open.spotify.com/album/46PjgPhjbQXE3ruuX0UKrv"
@@ -1085,7 +1197,7 @@
       "url": "https://open.spotify.com/track/4kE30fY2BQslgFzKtHsllu"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "ELEVATOR",
         "url": "https://open.spotify.com/album/0wYMhbOFBFl5hWE7VVZ71Q"
@@ -1101,7 +1213,7 @@
       "url": "https://open.spotify.com/track/5vnDjl0XrHZpgf2WCV6WyV"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u7529\u8eab (feat. CotaBoii)",
         "url": "https://open.spotify.com/album/3JuWMejLdX2RxP0VhL3WiM"
@@ -1121,7 +1233,7 @@
       "url": "https://open.spotify.com/track/1ECUIV8lgeLLKx4FP92aX7"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "ificouldbelikeu",
         "url": "https://open.spotify.com/album/6aEzMsII9GSPie2c88HyEt"
@@ -1137,7 +1249,7 @@
       "url": "https://open.spotify.com/track/2snsFKei1kEzSF1f2iDxmL"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "POP THAT SHIT",
         "url": "https://open.spotify.com/album/0nTzfNhyvIKE7AybqRgfGt"
@@ -1157,7 +1269,7 @@
       "url": "https://open.spotify.com/track/1UFVCU3yUSbTFpDGITkBs6"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u4e94\u6642",
         "url": "https://open.spotify.com/album/2o2HbTE1WTnFenq0gqnU0y"
@@ -1177,7 +1289,7 @@
       "url": "https://open.spotify.com/track/4as7WlRzGLuWRJnl140n3s"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "GHOSTED (Prod. Jom Donato & Shrinjay Ghosh)",
         "url": "https://open.spotify.com/album/3ymWQzCYogShcn2sPPJTSI"
@@ -1193,7 +1305,7 @@
       "url": "https://open.spotify.com/track/0zElDp0olI2fPoeBh1BQB3"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Till Frustrated",
         "url": "https://open.spotify.com/album/5x7AVjmy0DiitickihNFzs"
@@ -1209,7 +1321,7 @@
       "url": "https://open.spotify.com/track/1ane3Db3PbqCUQlYcCL4hU"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u6d77\u95ca\u5929\u7a7a sea wide sky empty",
         "url": "https://open.spotify.com/album/0r3y1Watg2URRb59Kuqloz"
@@ -1225,7 +1337,7 @@
       "url": "https://open.spotify.com/track/72vHdnHpYOZNjjQNmf2D1k"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Midnight Portrait",
         "url": "https://open.spotify.com/album/5mwliUdcOyn2gUaoQ6rJS6"
@@ -1241,7 +1353,7 @@
       "url": "https://open.spotify.com/track/6P5ODsARG46t3bCCs32Rf8"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u552f\u5fc3 Idealistic",
         "url": "https://open.spotify.com/album/23A3MiaULMY12LY4u5Pigo"
@@ -1257,7 +1369,7 @@
       "url": "https://open.spotify.com/track/4BPZOj94ApmM4JwQUnNZyw"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u5c0d\u9762\u6d77",
         "url": "https://open.spotify.com/album/6AuR7uj5UEMjZlvgZykG7A"
@@ -1277,7 +1389,7 @@
       "url": "https://open.spotify.com/track/36we7aFSXI4GlOqLqe2VHe"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u53ea\u60f3\u6709\u4eba\u4ee4\u6211\u547c\u53eb (feat. \u7d75\u9e97\u5948 Erena So)",
         "url": "https://open.spotify.com/album/6TGMTWPg3jC81Y5yC4occr"
@@ -1297,7 +1409,7 @@
       "url": "https://open.spotify.com/track/5uEstLfRPUgShflpMbh0ON"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u7259\u75db\u6587\u5b78",
         "url": "https://open.spotify.com/album/6C2jBhr7mOAC5xvT8YomW0"
@@ -1313,7 +1425,7 @@
       "url": "https://open.spotify.com/track/6ThuO6qlnxScrGXOyz2z3t"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u5c0f\u60b2\u5492\u4e09\u9031\u5e74EP",
         "url": "https://open.spotify.com/album/0Fv6m3KgDYPYGQlXOzHYAA"
@@ -1329,7 +1441,7 @@
       "url": "https://open.spotify.com/track/0vvONjfKPXhyzHCp5lH3Kt"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/4vkW7m6NzG6ybuesQUwpKi"
@@ -1345,7 +1457,7 @@
       "url": "https://open.spotify.com/track/5vunKOrutjeSDDg73dRFSB"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "She's Not The One",
         "url": "https://open.spotify.com/album/5FbRDNYH6mm2m6OOecnF6t"
@@ -1361,7 +1473,7 @@
       "url": "https://open.spotify.com/track/3E7WLP6R6uNg3SIYCtMMan"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "LC",
         "url": "https://open.spotify.com/album/5Vz2XREfiPszCW8BwGolTn"
@@ -1377,7 +1489,7 @@
       "url": "https://open.spotify.com/track/3RrMlTXuLVgvoOfMFRsf92"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/7bl1GLPKwgnhIVxtWEq121"
@@ -1393,7 +1505,7 @@
       "url": "https://open.spotify.com/track/31hXMEaAU9fZy21oKRzP7H"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Mirages Of You",
         "url": "https://open.spotify.com/album/64lnJwsuJ8YYol8bGR0i8m"
@@ -1409,7 +1521,7 @@
       "url": "https://open.spotify.com/track/7vvswZnA6Sx58t521ok8PL"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "By You",
         "url": "https://open.spotify.com/album/0hMld3ceybBzc3dtIoSiOw"
@@ -1425,7 +1537,7 @@
       "url": "https://open.spotify.com/track/1yqwcmbBMrUZW063PE7ppA"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "SHOTGUN",
         "url": "https://open.spotify.com/album/4m7s8U7u5rA2cB36SgNGcm"
@@ -1449,7 +1561,7 @@
       "url": "https://open.spotify.com/track/0wznQcXqhJhR7eX6hAfjLv"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Reminiscence",
         "url": "https://open.spotify.com/album/5PaL3ZJhh5sddKh5qPhVtG"
@@ -1465,7 +1577,7 @@
       "url": "https://open.spotify.com/track/5b5P58X55JixnY0YONpaNM"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u50b7\u5fc3\u6d3e\u5c0d",
         "url": "https://open.spotify.com/album/7o3At5VQLIOsFoYrv8n0C4"
@@ -1481,7 +1593,7 @@
       "url": "https://open.spotify.com/track/6N6Qa189DVWNLXnTsTDa6q"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Darling, Stop Me",
         "url": "https://open.spotify.com/album/4O6zgjlPmdT6V0ObWGvkaJ"
@@ -1497,7 +1609,7 @@
       "url": "https://open.spotify.com/track/1zCPxGoZZN5DaFHEtI3HTK"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u592a\u967d\u8207\u96ea",
         "url": "https://open.spotify.com/album/2H83wUzzUVk7YIkPjbAksE"
@@ -1513,7 +1625,7 @@
       "url": "https://open.spotify.com/track/7sAKdzqpm6Yhsyf1uo3AGd"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "I Think I'll Love Again",
         "url": "https://open.spotify.com/album/2d0UY2bGQ0jnXG78cH39Ww"
@@ -1529,7 +1641,7 @@
       "url": "https://open.spotify.com/track/6FhwiLFBAGKmLMzlUID4bt"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u597d\u60f3\u7793",
         "url": "https://open.spotify.com/album/3eadryqIELwgawYpj0nhtl"
@@ -1545,7 +1657,7 @@
       "url": "https://open.spotify.com/track/5J55R1aAfqteDIqeuK5x65"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Be",
         "url": "https://open.spotify.com/album/6bos201IEKrZfXlRfXgOW1"
@@ -1561,7 +1673,7 @@
       "url": "https://open.spotify.com/track/5GChRzepsXBuSX1iB6vb6t"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Witch",
         "url": "https://open.spotify.com/album/0VAsugkwDAl2fs8spQLdoY"
@@ -1577,7 +1689,7 @@
       "url": "https://open.spotify.com/track/1DAlrq5j3Y6eVburtC4K1I"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Independent Artist",
         "url": "https://open.spotify.com/album/6tahA5ozFUvGAU43dH5ICC"
@@ -1597,7 +1709,7 @@
       "url": "https://open.spotify.com/track/02Dtp1urMF9P3Lv0zQlEal"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u8f49\u500b\u8eab\u64c1\u62b1",
         "url": "https://open.spotify.com/album/4Bxi1DFRqMZ4ZgZup60baS"
@@ -1613,7 +1725,7 @@
       "url": "https://open.spotify.com/track/4Lr6oJWXDw4dH9j6Gx9DKr"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Oh my.",
         "url": "https://open.spotify.com/album/0JKRzwzqH4sl0CeZswxR3W"
@@ -1633,7 +1745,7 @@
       "url": "https://open.spotify.com/track/7G366O8Dl9F6DtaPwtLl36"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "\u8f46\u8f46 (World Vision - Let the Hungry Be Heard \u539f\u5275\u6b4c\u66f2)",
         "url": "https://open.spotify.com/album/1MdzZQ2Ol5653dDLYxwE3A"
@@ -1649,7 +1761,7 @@
       "url": "https://open.spotify.com/track/3Mhzxp8xj5dhRZUNqrl0Lw"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "POIZON 777",
         "url": "https://open.spotify.com/album/3GdKZ0H6MdNLNxIn6qdse8"
@@ -1669,7 +1781,7 @@
       "url": "https://open.spotify.com/track/2J8wZHOeDCvGc3ePzgRCXE"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "STREET FIGHTER",
         "url": "https://open.spotify.com/album/66s4ZUNAHA62CnZ6F1B0UO"
@@ -1693,7 +1805,7 @@
       "url": "https://open.spotify.com/track/6FI1pixuCnBIItD9rLwU5M"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Lucky Girl Syndrome",
         "url": "https://open.spotify.com/album/4LA9YSzUkfXimeP4Tq7xmC"
@@ -1709,7 +1821,7 @@
       "url": "https://open.spotify.com/track/3cjzj5M52Jl0u6JHNTU7z8"
     },
     {
-      "added_at": "2023-11-02 16:00:00",
+      "added_at": "2023-11-09 16:00:00",
       "album": {
         "name": "Sorry\u5462\u5ea6\u4fc2\u9999\u6e2f",
         "url": "https://open.spotify.com/album/5FajEbPVB8XfS5TfpSy5Ui"

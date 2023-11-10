@@ -4,7 +4,7 @@
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-132 songs - 12 hr 12 min
+133 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Everybody Everybody \(Le Freak Mix\)](https://open.spotify.com/track/7uhAqFWN1GDG1IX6m3C0sm) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW), [DJ Lelewel](https://open.spotify.com/artist/179i0h3w96DJHXFqELs2KL) | [Everybody Everybody](https://open.spotify.com/album/6xWCKGUnDcZRXQQn1A9e5H) | 5:20 | 2021-09-17 |  |
 | [Feels Like Heaven](https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:30 | 2021-09-17 |  |
 | [Finally](https://open.spotify.com/track/4kYHN7CfG0asKuOwirbhpV) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Back 2 House](https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm) | 3:16 | 2021-09-17 | 2022-07-29 |
+| [Follow Me \(Club Mix\)](https://open.spotify.com/track/3CIg59v1inc5vss6GIvDTn) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [The Lost Tapes: Tony Humphries Strictly Rhythm Mix](https://open.spotify.com/album/5OnKjcZw9bdTwtehVtdBcp) | 6:22 | 2023-08-18 |  |
 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 | 2021-09-17 | 2023-11-03 |
 | [Forever Together](https://open.spotify.com/track/6rGT97YcnLQnrDRsx3OgY6) | [Raven Maize](https://open.spotify.com/artist/5WbKRCtdFObAHIPrbF32si) | [Joey Negro presents In The Beginning](https://open.spotify.com/album/6mATBsGFVNnWDjPOumc5SQ) | 5:41 | 2021-09-17 | 2022-07-27 |
 | [Free \- Mood II Swing Remix](https://open.spotify.com/track/2FrCwt008k0xqtCFH1VaTZ) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [Mood II Swing](https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av) | [Vintage Ibiza Classic Vol\. 1](https://open.spotify.com/album/06DgUHTWfx2vt6jzWXHOfF) | 6:09 | 2021-09-17 | 2022-07-29 |
@@ -52,7 +53,7 @@
 | [I Feel It](https://open.spotify.com/track/3qWbao6YVObRFxeF6bybF4) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Finger Printz EP](https://open.spotify.com/album/1Oshvwp9KrsrwnaNshGRFS) | 6:08 | 2021-09-17 | 2023-04-17 |
 | [I Feel It](https://open.spotify.com/track/4vtjZsfq7ULBgSHmOxREMs) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Finger Printz EP](https://open.spotify.com/album/7Afo0re3kjcSQymNBgOFyz) | 6:08 | 2021-09-17 | 2022-07-25 |
 | [I Got It](https://open.spotify.com/track/1prIOSwd4PBE6rQEJ52vin) | [Doug Willis](https://open.spotify.com/artist/1Dy1nJuwZNfYeNBEys4j9y) | [Joey Negro presents In The Beginning](https://open.spotify.com/album/6mATBsGFVNnWDjPOumc5SQ) | 6:01 | 2021-09-17 | 2022-07-24 |
-| [I'll Be Your Friend \- Original Mix \(2011 Remastered Version\)](https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [I'll Be Your Friend](https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI) | 7:36 | 2021-09-17 |  |
+| [I'll Be Your Friend \- Original Mix \(2011 Remastered Version\)](https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [I'll Be Your Friend](https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI) | 7:36 | 2021-09-17 | 2023-11-10 |
 | [I'm For Real](https://open.spotify.com/track/7xkwcX1dsnpT8d1Cu8SBFH) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Aftermath](https://open.spotify.com/album/3iTzHehZgmL6H5uzkpZHKc) | 6:03 | 2021-09-17 | 2022-07-29 |
 | [I'm Gonna Get You](https://open.spotify.com/track/09CsnyDCKkeTYopxheyDcd) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU), [Dany](https://open.spotify.com/artist/6VTcX5uHYfFX2wOouLcpLk) | [Flash Back House](https://open.spotify.com/album/3O5VL0jdDuTyYxb2rnUI7w) | 5:19 | 2021-09-17 | 2022-07-29 |
 | [I'm Gonna Get You \- Original Flavour Mix](https://open.spotify.com/track/4EzZPB8OujNAeND6C2SduJ) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Energique](https://open.spotify.com/album/00kOiUJakqkClL8Zthwa5W) | 5:19 | 2021-09-17 |  |

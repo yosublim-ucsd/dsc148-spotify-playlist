@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r?si=WV1LPLPYSqmC3hBdnnKrtg">Jan Rhaap</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=82LFO0ChSqib1SNOluXr5A">Barto</a>
 
-179 songs - 10 hr 0 min
+180 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,13 +142,14 @@
 | [Ploeg Jy?](https://open.spotify.com/track/769iPvJtZt4nkdV7FKqvHS) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:37 | 2021-09-23 | 2022-11-13 |
 | [Rowwe Bliksem](https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Rowwe Bliksem](https://open.spotify.com/album/3aqGXXhEPT35aGsxTWrHBS) | 3:03 | 2022-01-27 |  |
 | [Rowwe Bliksem](https://open.spotify.com/track/4BfFToLT0o8wQM4xrJjsfS) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Afrikaans is Groot Vol\. 15](https://open.spotify.com/album/0yHt9vK6AJvlHovnjtey8Z) | 3:03 | 2023-03-09 | 2023-03-25 |
-| [Saam Suid\-Afrika](https://open.spotify.com/track/4Nngq9WlJXvN3AyDnocQAz) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO), [Anlia Star](https://open.spotify.com/artist/0ijtg0i2JHKpiiQnyZofqm), [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe), [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Saam Suid\-Afrika](https://open.spotify.com/album/795PoyrlQBseo7X9SQsNJA) | 3:46 | 2023-09-15 |  |
+| [Saam Suid\-Afrika](https://open.spotify.com/track/4Nngq9WlJXvN3AyDnocQAz) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO), [Anlia Star](https://open.spotify.com/artist/0ijtg0i2JHKpiiQnyZofqm), [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe), [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Saam Suid\-Afrika](https://open.spotify.com/album/795PoyrlQBseo7X9SQsNJA) | 3:46 | 2023-09-15 | 2023-11-10 |
 | [Sal Jy Vir My Wag](https://open.spotify.com/track/0iNTHA6vIhJN671nqIFISV) | [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [Sal Jy Vir My Wag](https://open.spotify.com/album/670sMqYDZMP8arGh5jH5mJ) | 3:07 | 2022-09-01 | 2022-11-11 |
 | [Sandkasteel](https://open.spotify.com/track/7KSQOT6KtogmJawfS8cmhZ) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Sandkasteel](https://open.spotify.com/album/5Pj0DylpJ3P0KvtDhX1b8y) | 4:24 | 2022-12-01 | 2023-02-24 |
 | [Skattie](https://open.spotify.com/track/1VJKNRIZ1LYNAOxIN01iNd) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Skattie](https://open.spotify.com/album/36cu3ZQxgHuLvIj3BUEynA) | 3:30 | 2022-09-29 | 2022-12-02 |
 | [Skildery \(Remix\)](https://open.spotify.com/track/4Sy3SykXit0psixwPq0KtO) | [Zandri](https://open.spotify.com/artist/2d4saNK84qEsfaPw26tjPq), [Afrikaans Wil Dans](https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M) | [Skildery \(Remix\)](https://open.spotify.com/album/4kHqoFMstt9NCU6WJfejDn) | 4:52 | 2022-09-29 | 2022-10-14 |
 | [Skobbejak](https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc) | [Reën](https://open.spotify.com/artist/7tIsf2CtmTtj0UGJshHIyB), [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Weer](https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz) | 3:32 | 2022-08-25 |  |
 | [Skrik Vir Niks \(Van Die Snotkop Movie: Skrik Vir Niks\)](https://open.spotify.com/track/0N0aty9herXHmfNEzasQT1) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Skrik Vir Niks \(Van Die Snotkop Movie: Skrik Vir Niks\)](https://open.spotify.com/album/1qwFb54zWa4KS1W0swu093) | 3:19 | 2022-12-01 | 2023-06-30 |
+| [Slukkie Inspirasie](https://open.spotify.com/track/6RUiu6xeHqpsxbXJoZeu7s) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [OASE](https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf) | 3:13 | 2023-11-09 |  |
 | [Soen My Op My Mond \(Uit Die Gelofte Musiekblyspel\)](https://open.spotify.com/track/7k7ZQJ375LWnwr27fodysE) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx), [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Soen My Op My Mond \(Uit Die Gelofte Musiekblyspel\)](https://open.spotify.com/album/1tNfmhPmCAvg0Myyyhl5fa) | 3:13 | 2022-05-05 | 2023-01-27 |
 | [Sonop\-Blom](https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Sonop\-Blom](https://open.spotify.com/album/2ni5omeo7ALatZxwUy180p) | 3:07 | 2023-03-09 |  |
 | [Standbeelde](https://open.spotify.com/track/5iq0M2V0jJRu7IJYYxJ4vl) | [Ampie](https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx), [Matthew John Duncan](https://open.spotify.com/artist/5UKMBy6AbIo4xMA9krrPIY) | [Standbeelde](https://open.spotify.com/album/5eIwfDG5foI8Tbd92BE26C) | 3:16 | 2022-10-06 | 2022-10-21 |

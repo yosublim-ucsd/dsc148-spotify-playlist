@@ -2,9 +2,9 @@
 
 ### [Estate Dance](https://open.spotify.com/playlist/37i9dQZF1DWVE0GbO5rNDb)
 
-> Hit dance per l'estate 2023! ☀️🍹🏝️
+> Hit dance per l'estate 2023, anche in autunno 👀
 
-333 songs - 16 hr 21 min
+334 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [DNA](https://open.spotify.com/track/26TkOFSOucGIFYJ61JqWYO) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [MEARSY](https://open.spotify.com/artist/4XU5z6Bk3DqlfqeyI1gcy1) | [DNA](https://open.spotify.com/album/0qTMc4nbPpF7mZT6DzLri1) | 2:16 | 2023-05-04 | 2023-08-10 |
 | [Do It Again \(feat\. Stevie Appleton\)](https://open.spotify.com/track/7zBGw9HjmWhcpscM2qSj9K) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Bottai](https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Do It Again \(feat\. Stevie Appleton\)](https://open.spotify.com/album/7Lr1rFvoQfMbdT9yMrBFLW) | 3:36 | 2022-05-06 | 2022-07-29 |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-06 | 2023-08-10 |
+| [Don't Let Me Go](https://open.spotify.com/track/4NOokZAx4Ci3AGO59oU0L2) | [Danny Chris](https://open.spotify.com/artist/0YU50lToe7Ak3mY9C6KwOp), [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF) | [Don't Let Me Go](https://open.spotify.com/album/6YkCJEObEmZzkWPUbqQJRr) | 2:50 | 2023-11-10 |  |
 | [Don't Worry Bout Me](https://open.spotify.com/track/507tQXutCPYNFkpOq8tmKF) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Don't Worry Bout Me](https://open.spotify.com/album/45NYaXdS8H4pSXRDLnp7p5) | 3:28 | 2022-12-20 | 2023-03-22 |
 | [Don't You Wanna Play?](https://open.spotify.com/track/15hhlasuVIxEZ3O0PxlRkT) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Don't You Wanna Play?](https://open.spotify.com/album/3i5KKkquh96MJz4IbA96IO) | 2:18 | 2022-05-06 |  |
 | [Dreams](https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Dreams](https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI) | 3:55 | 2023-03-19 | 2023-07-12 |
@@ -306,7 +307,7 @@
 | [The Feeling](https://open.spotify.com/track/1Cx3Lpnto8xJ5dsfU3DPus) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [The Feeling](https://open.spotify.com/album/7HQicNqN0vt4eVPcIcem2c) | 2:56 | 2022-05-06 | 2022-05-18 |
 | [The One That Got Away](https://open.spotify.com/track/0GnPdea2JxqU0LUtMyjoqa) | [Dualities](https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt), [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [The One That Got Away](https://open.spotify.com/album/1elHd0i7c7smBDYaGugWFP) | 2:46 | 2022-05-06 | 2022-07-29 |
 | [The Power](https://open.spotify.com/track/3P4Njv41xI7nh769UNxQ8b) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [The Power](https://open.spotify.com/album/3gRSOzzY4aD1bAp6jioomH) | 3:21 | 2022-12-20 | 2023-03-22 |
-| [The Way You Had Me](https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [The Way You Had Me](https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri) | 3:10 | 2023-08-17 |  |
+| [The Way You Had Me](https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [The Way You Had Me](https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri) | 3:10 | 2023-08-17 | 2023-11-10 |
 | [This Feeling](https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:17 | 2022-07-22 | 2023-03-18 |
 | [Touch](https://open.spotify.com/track/6Zvls4aPdB7gl6qBQn17Ow) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Touch](https://open.spotify.com/album/1xGKi8I29hO7K0a94hYzsS) | 2:37 | 2022-07-05 | 2022-07-24 |
 | [Unconditional](https://open.spotify.com/track/3rI7logAQK4NlhdWWRNwf6) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Unconditional](https://open.spotify.com/album/4FNKXpTgL0M2Tnkw5p5Q8M) | 2:15 | 2022-05-06 | 2022-05-22 |

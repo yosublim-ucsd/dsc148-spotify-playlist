@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Alicia Keys",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Tamera",
   "name": "mood.",
   "tracks": [
     {
@@ -126,6 +126,28 @@
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
+    },
+    {
+      "album": {
+        "name": "L.I.T (Lost In Translation)",
+        "url": "https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186586,
+      "name": "40 Days",
+      "url": "https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v"
     },
     {
       "album": {
@@ -560,7 +582,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 234731,
       "name": "April (hi v\u1ecdng em)",
       "url": "https://open.spotify.com/track/7ibfoNcwydFIAi5UfTnyoD"
@@ -1412,7 +1434,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 158400,
       "name": "cat person",
       "url": "https://open.spotify.com/track/4qTxDDWrH2Wxu5JBPjIW1P"
@@ -1744,6 +1766,24 @@
       "duration_ms": 173002,
       "name": "CONTROL",
       "url": "https://open.spotify.com/track/61aC6Zm2G2dfLLLa7gwLeZ"
+    },
+    {
+      "album": {
+        "name": "Countdown",
+        "url": "https://open.spotify.com/album/5eVrBT4eec4Z4WbznpJRXK"
+      },
+      "artists": [
+        {
+          "name": "VVYND",
+          "url": "https://open.spotify.com/artist/0hDWNMM9BA6hluuxoqDWwQ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Countdown",
+      "url": "https://open.spotify.com/track/44AiOtvHoBe0HwaMP4GIj0"
     },
     {
       "album": {
@@ -3410,7 +3450,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 247100,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
@@ -3562,7 +3602,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 190173,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/4jMwQaDiDICry8Ia1gFnAn"
@@ -6023,6 +6063,24 @@
     },
     {
       "album": {
+        "name": "Midnight Serenade",
+        "url": "https://open.spotify.com/album/7ygf4zrLCf8ZFTTuyhXwNj"
+      },
+      "artists": [
+        {
+          "name": "kayan9896",
+          "url": "https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176945,
+      "name": "Midnight Serenade",
+      "url": "https://open.spotify.com/track/3B7lUZfH1GCgQcTsoWBooO"
+    },
+    {
+      "album": {
         "name": "MIDORI",
         "url": "https://open.spotify.com/album/1V6P2Xzjkdet2ZJVXlBScb"
       },
@@ -6602,6 +6660,24 @@
       "duration_ms": 180735,
       "name": "Nobody Like Us",
       "url": "https://open.spotify.com/track/1eNo8OMOTk4IwrILRXc2GM"
+    },
+    {
+      "album": {
+        "name": "None 2 Say",
+        "url": "https://open.spotify.com/album/3UgbAfHqhfh1eCkHYweP4B"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170479,
+      "name": "None 2 Say",
+      "url": "https://open.spotify.com/track/6QIvv81rBterqRKgeKoOHg"
     },
     {
       "album": {
@@ -7793,6 +7869,24 @@
     },
     {
       "album": {
+        "name": "Safe Space",
+        "url": "https://open.spotify.com/album/6JKj3EO00S2Zmsqi5lviiM"
+      },
+      "artists": [
+        {
+          "name": "BECKA",
+          "url": "https://open.spotify.com/artist/0zH5akhP1A41eUk6VCQUNz"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Safe Space",
+      "url": "https://open.spotify.com/track/4qPYKAuPtGskn6gDfWmtVi"
+    },
+    {
+      "album": {
         "name": "Sailing",
         "url": "https://open.spotify.com/album/4JC0wgDAIou1Q0005eCXb4"
       },
@@ -8408,7 +8502,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
@@ -8974,7 +9068,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 228390,
       "name": "Summers Around The Corner",
       "url": "https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT"

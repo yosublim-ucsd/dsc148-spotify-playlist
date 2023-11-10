@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 6960709,
+  "num_followers": 6968218,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWZhZTQ5M2RkYWNhNjQxMWJiMjJjZWY2YzQ4M2FkZWFkOGRkNTBi",
+  "snapshot_id": "MCwwM2U2YTIzOWZlY2M0ZTVhMTc3OGFhOWUxZjhkZDk3YmM1NjUzYTZj",
   "tracks": [
     {
       "added_at": "2023-09-08 15:16:54",
@@ -1023,18 +1023,30 @@
     {
       "added_at": "2023-09-22 18:14:49",
       "album": {
-        "name": "Vois sur ton chemin",
-        "url": "https://open.spotify.com/album/53FR5HN59YWVkNFlUqelaV"
+        "name": "Montagem Coral",
+        "url": "https://open.spotify.com/album/7yB8cqc8wyJXq9w4oEZ9Qu"
       },
       "artists": [
         {
-          "name": "Euphemism",
-          "url": "https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr"
+          "name": "DJ Holanda",
+          "url": "https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        },
+        {
+          "name": "MC Cyclope",
+          "url": "https://open.spotify.com/artist/5yGArOIHgCn6AOA86LaW9N"
         }
       ],
-      "duration_ms": 145055,
-      "name": "Vois sur ton chemin",
-      "url": "https://open.spotify.com/track/3EBW62oChNTesOLm7hnuEk"
+      "duration_ms": 145080,
+      "name": "Montagem Coral",
+      "url": "https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix"
     },
     {
       "added_at": "2022-11-18 07:52:46",

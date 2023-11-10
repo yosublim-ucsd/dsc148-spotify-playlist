@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 18011,
+  "num_followers": 18020,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2E3M2MyNzBiZjNmN2ZiY2ZkMGEyMTc1MjBmMWRkMTVjMjZjNzFl",
+  "snapshot_id": "MCwxNzkyOTFiYWRmNDM1ZGRmYWYwZTQ5MTY5NWQ5N2RmZmU0MzU4N2Nk",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Be Thankful",
+      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Give Thanks",
         "url": "https://open.spotify.com/album/1Aut9LT8m8InV1Yu2Yx8tE"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 221133,
       "name": "Give Thanks - Medley",
       "url": "https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Be Thankful",
-      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Grace - Live Worship From New Wine 2001",
+        "url": "https://open.spotify.com/album/4WD8BZQpKagkCBmCSQIyzG"
+      },
+      "artists": [
+        {
+          "name": "Tim Hughes",
+          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Give Thanks To The Lord (Forever)",
+      "url": "https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Give Thanks",
         "url": "https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 257518,
       "name": "Did It Again (feat. Thomas & The Situation)",
       "url": "https://open.spotify.com/track/67t6GzdwhJ0e99MoH9NjjK"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Grace - Live Worship From New Wine 2001",
-        "url": "https://open.spotify.com/album/4WD8BZQpKagkCBmCSQIyzG"
-      },
-      "artists": [
-        {
-          "name": "Tim Hughes",
-          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Give Thanks To The Lord (Forever)",
-      "url": "https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn"
     },
     {
       "added_at": "2022-11-23 15:01:23",

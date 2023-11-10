@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Above The Clouds",
+        "url": "https://open.spotify.com/album/6ZUu3ImXTC8cvjbDaEI3oC"
+      },
+      "artists": [
+        {
+          "name": "Halcyon Fields",
+          "url": "https://open.spotify.com/artist/5iDVGLma1wDxCbA5gtS6cN"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162836,
+      "name": "Above The Clouds",
+      "url": "https://open.spotify.com/track/09TVIOD8CTqUxJutiCBFLl"
+    },
+    {
+      "album": {
         "name": "Ad meliora",
         "url": "https://open.spotify.com/album/3emuKVt1QulrnDlZ9FjrBh"
       },
@@ -304,7 +322,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 96000,
       "name": "bacio gelato",
       "url": "https://open.spotify.com/track/62cxOsRZ7bUhDA64Rbhtcm"
@@ -340,7 +358,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 118500,
       "name": "Briefly",
       "url": "https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs"
@@ -617,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Dr\u00f6msp\u00e5r",
+        "url": "https://open.spotify.com/album/27uI7Ddlxl2wEjOIRspDk6"
+      },
+      "artists": [
+        {
+          "name": "\u00c5mliden",
+          "url": "https://open.spotify.com/artist/4c9woXzcZH9eO8EqiLbT9M"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Dr\u00f6msp\u00e5r",
+      "url": "https://open.spotify.com/track/0xHcnPaVR82zlGbdAX1QUm"
+    },
+    {
+      "album": {
         "name": "Nevidio",
         "url": "https://open.spotify.com/album/2e9oU6dfxCrOfDsTLrHzQX"
       },
@@ -628,7 +664,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 118374,
       "name": "Durmitor",
       "url": "https://open.spotify.com/track/5ZcsVasCsPNZe1XUBwyMIH"
@@ -992,6 +1028,24 @@
       "duration_ms": 164999,
       "name": "I Did It For Love",
       "url": "https://open.spotify.com/track/494O3PQF0EWff6xRMVXyzP"
+    },
+    {
+      "album": {
+        "name": "Id\u00e9e Fixe",
+        "url": "https://open.spotify.com/album/42QPe3m7ZgNlTcS3ORyqJF"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152200,
+      "name": "Id\u00e9e",
+      "url": "https://open.spotify.com/track/0VsWtArpieoC1eRy4erTxJ"
     },
     {
       "album": {
@@ -1366,7 +1420,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 115500,
       "name": "Nebula Horizon",
       "url": "https://open.spotify.com/track/1pJgIwmZOJjLOFMbEpM9NU"
@@ -1564,7 +1618,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 113736,
       "name": "Pale Blue Dot",
       "url": "https://open.spotify.com/track/5c2CfIIsvjsMXWklKdCJGC"
@@ -1744,7 +1798,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-10",
       "duration_ms": 117986,
       "name": "Quiet And Its Consequences",
       "url": "https://open.spotify.com/track/19fkav9BQtc6EL75ZRPMjQ"

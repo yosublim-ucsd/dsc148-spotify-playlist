@@ -1,12 +1,12 @@
 {
   "description": "Latin classics to get you in the Christmas spirit. Cover: Jos\u00e9 Feliciano",
-  "num_followers": 195174,
+  "num_followers": 195233,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTc4MmYxYjY2Y2NjMzAzYWU1ZmVkMTI3YmZkZDhiZWE4OWRhMjAy",
+  "snapshot_id": "MCw4NWI0MTUyZTUwYjgyMzA4OTNiNDg0OGQ4ZDYzZDAzMDgxODBjYjZi",
   "tracks": [
     {
       "added_at": "2023-11-02 19:22:09",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-11-02 19:22:09",
       "album": {
+        "name": "Noche de Paz",
+        "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 221302,
+      "name": "Noche de Paz",
+      "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
+    },
+    {
+      "added_at": "2023-11-02 19:22:09",
+      "album": {
         "name": "Selecci\u00f3n Operaci\u00f3n Triunfo",
         "url": "https://open.spotify.com/album/7HuT7DcexUsrAC93qDZctx"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 265560,
       "name": "Mi Estrella",
       "url": "https://open.spotify.com/track/4c8OEUMc9R5wn4xmx6ujwa"
-    },
-    {
-      "added_at": "2023-11-02 19:22:09",
-      "album": {
-        "name": "Noche de Paz",
-        "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 221302,
-      "name": "Noche de Paz",
-      "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
     },
     {
       "added_at": "2023-11-02 19:22:09",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-11-02 19:22:09",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/20bHfo0I3RXOt41LXqHzPE"
-      },
-      "artists": [
-        {
-          "name": "Parchis",
-          "url": "https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Ya Viene la Vieja",
-      "url": "https://open.spotify.com/track/37RZwbb0lxK7oPWs7YZopX"
-    },
-    {
-      "added_at": "2023-11-02 19:22:09",
-      "album": {
         "name": "Dios Me Se\u00f1al\u00f3",
         "url": "https://open.spotify.com/album/2wpm5727wmmFOtmmmtjf3N"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 148259,
       "name": "Tu Adi\u00f3s Es Mi Navidad",
       "url": "https://open.spotify.com/track/0GA7enjACq1tLPVnJ9pDI1"
+    },
+    {
+      "added_at": "2023-11-02 19:22:09",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/20bHfo0I3RXOt41LXqHzPE"
+      },
+      "artists": [
+        {
+          "name": "Parchis",
+          "url": "https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Ya Viene la Vieja",
+      "url": "https://open.spotify.com/track/37RZwbb0lxK7oPWs7YZopX"
     },
     {
       "added_at": "2023-11-02 19:22:09",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-02 19:22:09",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 148740,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD"
-    },
-    {
-      "added_at": "2023-11-02 19:22:09",
-      "album": {
         "name": "Navidad Mexicana",
         "url": "https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7"
       },
@@ -851,18 +835,38 @@
     {
       "added_at": "2023-11-02 19:22:09",
       "album": {
-        "name": "Mi Navidad",
-        "url": "https://open.spotify.com/album/0dk75UOmEo9FjBX7MJ4ZEK"
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
       "artists": [
         {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU"
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
         }
       ],
-      "duration_ms": 150520,
-      "name": "Rodolfo el Reno de la Nariz Roja",
-      "url": "https://open.spotify.com/track/6KSTgcCbtpR2AjK1dmC2pR"
+      "duration_ms": 148740,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD"
+    },
+    {
+      "added_at": "2023-11-02 19:22:09",
+      "album": {
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/7rRhq2CEg8JhFKdtX5vIzz"
     }
   ],
   "unique_name": "Latin Christmas Classics",
