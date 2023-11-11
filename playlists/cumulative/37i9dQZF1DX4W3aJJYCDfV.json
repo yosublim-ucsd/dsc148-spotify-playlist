@@ -15417,6 +15417,24 @@
     },
     {
       "album": {
+        "name": "Bob Marley",
+        "url": "https://open.spotify.com/album/5Tzyp6Q4hGCy06haWjNps2"
+      },
+      "artists": [
+        {
+          "name": "Jahshii",
+          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136385,
+      "name": "Bob Marley",
+      "url": "https://open.spotify.com/track/2QWNNg9WjeZV8CfUToFLBY"
+    },
+    {
+      "album": {
         "name": "Bodies",
         "url": "https://open.spotify.com/album/72fpuOIGzKZjMQUrAYdybL"
       },
@@ -32730,6 +32748,24 @@
       "duration_ms": 172357,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/6cCyjraOsNKQtIEt3Qmn1R"
+    },
+    {
+      "album": {
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214973,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
     },
     {
       "album": {
@@ -51445,6 +51481,28 @@
     },
     {
       "album": {
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189391,
+      "name": "Heart over Mind",
+      "url": "https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z"
+    },
+    {
+      "album": {
         "name": "Heart over Mind",
         "url": "https://open.spotify.com/album/5Xza3YTfdYnMC9RZ5uTcw9"
       },
@@ -51460,7 +51518,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 189391,
       "name": "Heart over Mind",
       "url": "https://open.spotify.com/track/66sLONodWY4iLTFQznkgUw"
@@ -67571,6 +67629,24 @@
     },
     {
       "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182224,
+      "name": "LALALALA",
+      "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
+    },
+    {
+      "album": {
         "name": "Laleyi",
         "url": "https://open.spotify.com/album/7IZds6OBLlxeyJkHa9U064"
       },
@@ -70250,6 +70326,24 @@
       "duration_ms": 223935,
       "name": "Lights",
       "url": "https://open.spotify.com/track/0bXu0KtV5LaKSQOdBjgQFj"
+    },
+    {
+      "album": {
+        "name": "lights go off",
+        "url": "https://open.spotify.com/album/1JgvqPzosyh3VzTconMW8S"
+      },
+      "artists": [
+        {
+          "name": "Sophie DeMasi",
+          "url": "https://open.spotify.com/artist/04T6bn9LSVviNkkR5YsDSS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144001,
+      "name": "lights go off",
+      "url": "https://open.spotify.com/track/7M6VDIIm1I5SDcABBF5LDN"
     },
     {
       "album": {
@@ -73875,6 +73969,28 @@
     },
     {
       "album": {
+        "name": "The Night Shift",
+        "url": "https://open.spotify.com/album/60hrxgJN3QfheGpVzEcUFR"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Cardo",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167927,
+      "name": "Love of Money",
+      "url": "https://open.spotify.com/track/7BVXZByQjfmtEWt9AhjlwL"
+    },
+    {
+      "album": {
         "name": "Love Of My Life",
         "url": "https://open.spotify.com/album/72DYOxcf0YUxlj2GVdwvAg"
       },
@@ -74422,6 +74538,24 @@
       "duration_ms": 150000,
       "name": "Lovesick (feat. OmenXIII)",
       "url": "https://open.spotify.com/track/7l6IaO7sLMyvHfuqz2EkAO"
+    },
+    {
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
       "album": {
@@ -86827,7 +86961,7 @@
     },
     {
       "album": {
-        "name": "Nothing Hurts Like A Girl",
+        "name": "Nothing Hurts Like a Girl",
         "url": "https://open.spotify.com/album/6quCOdudERgb1B4Nom2d21"
       },
       "artists": [
@@ -86840,7 +86974,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153187,
-      "name": "Nothing Hurts Like A Girl",
+      "name": "Nothing Hurts Like a Girl",
       "url": "https://open.spotify.com/track/6cgUCnMBYEkvr4pwqE7zZw"
     },
     {
@@ -89223,6 +89357,28 @@
     },
     {
       "album": {
+        "name": "Influential",
+        "url": "https://open.spotify.com/album/39tf2KHZoFF5RSSLO9skMO"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        },
+        {
+          "name": "TACTICS",
+          "url": "https://open.spotify.com/artist/47CxUbkc8DhkqPWDDiNw34"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166391,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/2v6YzfxSEIhXuN3v8OamEw"
+    },
+    {
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/0KqaskeiMxf4CsBdGjRqks"
       },
@@ -89238,7 +89394,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 166391,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/3bBOsyvlmSQ1YAkyO0douj"
@@ -98456,6 +98612,10 @@
         {
           "name": "Raf Saperra",
           "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
+        },
+        {
+          "name": "Taj Aulakh",
+          "url": "https://open.spotify.com/artist/30LIEt0kX9a11tyu1Z46Qs"
         }
       ],
       "date_added": "2023-11-10",
@@ -104682,10 +104842,32 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 189693,
       "name": "Selecta (feat. Stefflon Don)",
       "url": "https://open.spotify.com/track/43JMfAxYMhWOGdmQaR7k4k"
+    },
+    {
+      "album": {
+        "name": "2 RUFF, Vol. 1",
+        "url": "https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189693,
+      "name": "Selecta (feat. Stefflon Don)",
+      "url": "https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn"
     },
     {
       "album": {
@@ -128760,7 +128942,7 @@
     {
       "album": {
         "name": "Vancouver",
-        "url": "https://open.spotify.com/album/67heKW3LlK7Cj4sk0r3EUB"
+        "url": "https://open.spotify.com/album/2YdgAiJlhXRzSQ46tneSjH"
       },
       "artists": [
         {
@@ -128771,6 +128953,24 @@
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Vancouver",
+      "url": "https://open.spotify.com/track/4463ec35uldCuPMDOpDQDO"
+    },
+    {
+      "album": {
+        "name": "Vancouver",
+        "url": "https://open.spotify.com/album/67heKW3LlK7Cj4sk0r3EUB"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
       "duration_ms": 239000,
       "name": "Vancouver",
       "url": "https://open.spotify.com/track/4UCXZf2RLJgJnUDlJ2S4IN"

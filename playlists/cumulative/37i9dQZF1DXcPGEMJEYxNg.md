@@ -4,7 +4,7 @@
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our second Gold House Future Music Guild artists: Mad Tsai, Rhea Raj & Alex Porat.
 
-198 songs - 10 hr 41 min
+199 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Alive](https://open.spotify.com/track/59mrqUmhpmcfUns8BKkV30) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 4:48 | 2023-05-06 | 2023-05-13 |
 | [All Alone](https://open.spotify.com/track/1Tfi8F6UsFpIZDCvpbX0y6) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0) | [All Alone](https://open.spotify.com/album/2S8p3dJux1XY2nisIJvua2) | 3:28 | 2022-05-18 | 2022-07-13 |
 | [All I Wanna Do](https://open.spotify.com/track/2PcJoVkfjcbvoqBxV1Nj7y) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:29 | 2022-05-18 | 2022-07-13 |
-| [Always Down](https://open.spotify.com/track/4BXzOCOxxRchafAZyAL40M) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P), [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl) | [Always Down](https://open.spotify.com/album/3Ew2Gi7J4hG3fKDVyOmTPv) | 3:15 | 2023-04-29 |  |
+| [Always Down](https://open.spotify.com/track/2In9cZJqgZG436qChuUXVJ) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P), [Slodown](https://open.spotify.com/artist/1rVrkPdqTQ8lw8zW6upKRE) | [Always Down](https://open.spotify.com/album/6WYEEwETCa9OUlQDBQrlbL) | 3:15 | 2023-05-31 |  |
+| [Always Down](https://open.spotify.com/track/4BXzOCOxxRchafAZyAL40M) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P), [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl) | [Always Down](https://open.spotify.com/album/3Ew2Gi7J4hG3fKDVyOmTPv) | 3:15 | 2023-04-29 | 2023-11-11 |
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-07-12 | 2023-04-30 |
 | [Angry](https://open.spotify.com/track/46yC5Rfbg3x7AfrZb03c6N) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Angry](https://open.spotify.com/album/2L8qlmvnwChGR7OCNPTqY5) | 2:50 | 2023-05-06 | 2023-05-13 |
 | [Any song](https://open.spotify.com/track/1iIhGHzzrzqQfuNkFI2qAn) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Any song](https://open.spotify.com/album/7LYZM7I172wUjIKjCnxuAQ) | 3:47 | 2022-05-18 | 2022-07-13 |

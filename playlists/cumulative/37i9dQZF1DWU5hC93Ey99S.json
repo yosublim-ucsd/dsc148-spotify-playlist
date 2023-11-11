@@ -3774,7 +3774,7 @@
     {
       "album": {
         "name": "My Friends (Alex Adair Remix)",
-        "url": "https://open.spotify.com/album/4MHuyEDp32uAArppwn5dpu"
+        "url": "https://open.spotify.com/album/0P8gcmEsMyniBuoFn5mxVL"
       },
       "artists": [
         {
@@ -3793,6 +3793,32 @@
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179088,
+      "name": "My Friends (Alex Adair Remix)",
+      "url": "https://open.spotify.com/track/2mLtJ1YHEXooZ2FxMnVsHe"
+    },
+    {
+      "album": {
+        "name": "My Friends (Alex Adair Remix)",
+        "url": "https://open.spotify.com/album/4MHuyEDp32uAArppwn5dpu"
+      },
+      "artists": [
+        {
+          "name": "Tobtok",
+          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
+        },
+        {
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
+        },
+        {
+          "name": "Alex Adair",
+          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
       "duration_ms": 179088,
       "name": "My Friends - Alex Adair Remix",
       "url": "https://open.spotify.com/track/1drLea3bewCVr3VyGephpe"
@@ -4192,10 +4218,28 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 287717,
       "name": "Patchouli",
       "url": "https://open.spotify.com/track/37WdQxvQVFVsWwQvk4uCQd"
+    },
+    {
+      "album": {
+        "name": "TANZPARTEI (Mixtape)",
+        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287717,
+      "name": "Patchouli",
+      "url": "https://open.spotify.com/track/6E540MKmdFLZyITSAtZ6Z1"
     },
     {
       "album": {

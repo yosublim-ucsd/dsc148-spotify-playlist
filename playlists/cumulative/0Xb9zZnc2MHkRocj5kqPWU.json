@@ -112,7 +112,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 156125,
       "name": "Actus Tragicus",
       "url": "https://open.spotify.com/track/5PRAEqERJlqMsCW9rYmT63"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 267573,
       "name": "Alive",
       "url": "https://open.spotify.com/track/0iVQ5pCIZeHFNx8Lq1bOPt"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 181802,
       "name": "Anima I",
       "url": "https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx"
@@ -328,7 +328,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 115644,
       "name": "Anna's Theme",
       "url": "https://open.spotify.com/track/6740CBSV28fefirRslM7vT"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 184335,
       "name": "Berceuse",
       "url": "https://open.spotify.com/track/04JrzZqZTMeY5gRY3IH7Pr"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 184335,
       "name": "Berceuse",
       "url": "https://open.spotify.com/track/6HQ3hELZsgmtB4a8c8NRmR"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 195429,
       "name": "Billow Gently",
       "url": "https://open.spotify.com/track/0y35QjZtAK3bGxwsiKmssf"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 189098,
       "name": "blood orange",
       "url": "https://open.spotify.com/track/7DP7g9bHXwa9QI5CEMxC0v"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 140240,
       "name": "cascades",
       "url": "https://open.spotify.com/track/1L1d4vJ50Y6glE97NWNW5X"
@@ -716,6 +716,24 @@
       "duration_ms": 163449,
       "name": "Curtis, I'm Sorry",
       "url": "https://open.spotify.com/track/6avwMMyTPMagqCHWrXYZTG"
+    },
+    {
+      "album": {
+        "name": "Dancer in the Snow",
+        "url": "https://open.spotify.com/album/4WwMjkRVwcU5aqwCQysdqt"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "Dancer in the Snow",
+      "url": "https://open.spotify.com/track/1PbNy6LgD8zehL8vxAOitp"
     },
     {
       "album": {
@@ -962,7 +980,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 257786,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/216OIO7LNNCQ3YnK9SxGvD"
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 188928,
       "name": "fen\u00eatre de nuit",
       "url": "https://open.spotify.com/track/0rESr66vgnStq0IAmCkjrZ"
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 205775,
       "name": "Frozen Lake (from \"The Human Stain\", Arr. for Piano & Cello)",
       "url": "https://open.spotify.com/track/6PbvnBmHVFDdjG6pMxag6g"
@@ -1272,7 +1290,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 192413,
       "name": "Halo in the Valley - Solo Piano Version",
       "url": "https://open.spotify.com/track/0uMH8HtHc7SyEBRdRc6B9B"
@@ -1308,7 +1326,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 138960,
       "name": "hinterland",
       "url": "https://open.spotify.com/track/104enS8lxFOsHjGRnOqNJW"
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 143760,
       "name": "hugo",
       "url": "https://open.spotify.com/track/21ahPavCJkiyxrfUCSaNIs"
@@ -1380,7 +1398,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 190453,
       "name": "i.Forest - Solo Piano Version",
       "url": "https://open.spotify.com/track/0TVxlyAqHSJxezR9kHPXfl"
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 226080,
       "name": "Iller",
       "url": "https://open.spotify.com/track/18PhC5Wg73rjdcYfCfQcSW"
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 266893,
       "name": "Into the Light (Ins Licht)",
       "url": "https://open.spotify.com/track/18boDIY5dqpvPPFY0EYOec"
@@ -1830,7 +1848,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 189720,
       "name": "Midnight Landscape - Solo Piano Version",
       "url": "https://open.spotify.com/track/0XEQ7MusHBQA3jE1PvxWhS"
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 155457,
       "name": "Nocturne III (Arr. for Piano from Nocturne Op. 15 No. 3 in G Minor by Olivia Belli)",
       "url": "https://open.spotify.com/track/42ZuTRXsLZG4qpYFsTa4y3"
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 214657,
       "name": "Of Time 1 (JS Bach Variation)",
       "url": "https://open.spotify.com/track/1l2TfvKBDpyksmJU3xwKjm"
@@ -2026,7 +2044,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 169603,
       "name": "Of Time 2 (JS Bach Variation)",
       "url": "https://open.spotify.com/track/2LeiyTVlUV7gxkyYD8kpl9"
@@ -2146,7 +2164,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 259920,
       "name": "Only Now",
       "url": "https://open.spotify.com/track/0btXhDAkkZbSiFeahYGbpq"
@@ -2200,7 +2218,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 349036,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/2Vxu4YbLsRwRe3f9iMqabD"
@@ -2354,6 +2372,28 @@
       "duration_ms": 211765,
       "name": "Portal (Solo Piano Version)",
       "url": "https://open.spotify.com/track/44vE0HbBqrngFUIb0HvRJ4"
+    },
+    {
+      "album": {
+        "name": "Prelude in B Minor, BWV 855a (Transcribed by Alexander Siloti)",
+        "url": "https://open.spotify.com/album/4Bz7EaaTAu89637GXU2h44"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99786,
+      "name": "Prelude in B Minor, BWV 855a (Transcribed by Alexander Siloti)",
+      "url": "https://open.spotify.com/track/5TMxqAA2kfj9BpDFKbvpwl"
     },
     {
       "album": {
@@ -2626,7 +2666,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 121480,
       "name": "Schubert Andantino Variation (arr. from Piano Sonata in A Major, D. 959 by Dirk Maassen)",
       "url": "https://open.spotify.com/track/5rdoVYazMiHKOImxSNCBgq"
@@ -2670,7 +2710,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 155876,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/76tGffTSSWqEqGAqnlHoP2"
@@ -2746,7 +2786,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 175210,
       "name": "slo\u00e5ne",
       "url": "https://open.spotify.com/track/3RnpRJwdo1AglM3pUzDa7d"
@@ -2808,7 +2848,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 179541,
       "name": "Summer Solstice",
       "url": "https://open.spotify.com/track/1A7E708OZKHtM5UCm6uUqq"
@@ -2826,7 +2866,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 315458,
       "name": "Sun",
       "url": "https://open.spotify.com/track/6rsL4MEIgsOhcdiBphFmKU"
@@ -2844,7 +2884,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 201240,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3OBYJA97H6OitlnYLZ22FY"
@@ -2880,7 +2920,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 136640,
       "name": "tableau",
       "url": "https://open.spotify.com/track/1g3hiG4Q75IFVyxgnOYVAR"
@@ -2902,7 +2942,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 262466,
       "name": "The Arts and the Hours",
       "url": "https://open.spotify.com/track/1ABbAdUpqiuXVGlS8z8GIE"
@@ -3036,7 +3076,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 195373,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/3T53QCB282wA6GY8hMRs4x"
@@ -3378,7 +3418,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 233190,
       "name": "wintering",
       "url": "https://open.spotify.com/track/1MhLfAiBnkL52Ym0FUq3Kd"
@@ -3400,7 +3440,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 122362,
       "name": "Written on the Sky",
       "url": "https://open.spotify.com/track/0I6Pbgf7fjPMqu3Ah9jOhI"

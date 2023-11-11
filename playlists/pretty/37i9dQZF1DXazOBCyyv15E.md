@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Pillow Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,508 likes - 85 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,569 likes - 85 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 19 | [Say It Like You Mean It](https://open.spotify.com/track/3XcEhWqxe04Qgpnsp4qUbc) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Say It Like You Mean It](https://open.spotify.com/album/60Dn3hJOYD75S9SahrlWp9) | 3:44 |
 | 20 | [Haunt You Still](https://open.spotify.com/track/2Kgnj7OQEdaiFIayFmplKC) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Haunt You Still](https://open.spotify.com/album/4hoy0xTJAWSrD0R7t0t46H) | 4:02 |
 | 21 | [alone](https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [alone](https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660) | 2:07 |
-| 22 | [Vancouver](https://open.spotify.com/track/4UCXZf2RLJgJnUDlJ2S4IN) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Vancouver](https://open.spotify.com/album/67heKW3LlK7Cj4sk0r3EUB) | 3:59 |
+| 22 | [Vancouver](https://open.spotify.com/track/4463ec35uldCuPMDOpDQDO) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Vancouver](https://open.spotify.com/album/2YdgAiJlhXRzSQ46tneSjH) | 3:59 |
 | 23 | [Cold Reactor](https://open.spotify.com/track/4HoOTJ8tM7ikMkEkoJTisX) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Cold Reactor](https://open.spotify.com/album/12GsikxFayV36XYx0JuMqj) | 3:51 |
 | 24 | [I'll Do What I Can](https://open.spotify.com/track/5XZn0Df8oGreE21uUKOtj2) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I'll Do What I Can](https://open.spotify.com/album/6fyeUQdaigdmXruw1AtUz4) | 3:46 |
 | 25 | [Everyday Life](https://open.spotify.com/track/33nIBZLkbps2iecMwXKCFs) | [Honas](https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw) | [Everyday Life](https://open.spotify.com/album/39c9kw2EIAHmMS5PcieAuJ) | 2:34 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 84 | [Exposed to Some Light](https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Exposed to Some Light](https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH) | 3:59 |
 | 85 | [Dance & Go](https://open.spotify.com/track/1XJnPs7UweoYZSZnkoW9CP) | [The Umlauts](https://open.spotify.com/artist/2LwlVrqI7U4WS448GpAozT) | [Slags](https://open.spotify.com/album/7HDxKgUjOb3rbzFMVPNxpP) | 4:03 |
 
-Snapshot ID: `MCw1MjBkZDY5YTQ1MmVlNmJhOGQxMTg5OTNiYzNlYmFlYzU5ODViY2M5`
+Snapshot ID: `MCxmM2YwMzRlNzY4NjY0YjM3MTEwNWQwMTZhMDcwN2NhNWQ5Zjg5MjAx`

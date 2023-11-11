@@ -4,7 +4,7 @@
 
 > Songs so beautiful, made for the night
 
-168 songs - 11 hr 30 min
+170 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Baby It's You](https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Baby It's You](https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t) | 4:02 | 2022-02-04 |  |
 | [Bagsy Not In Net](https://open.spotify.com/track/3J09NCAVxby84HQxp8C0dO) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 2:26 | 2022-02-04 |  |
 | [Ball](https://open.spotify.com/track/47vPXvOFRn4XSIzYem5JPe) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y) | [Sen Am](https://open.spotify.com/album/51dCAjP9GN2YynTNcEE03Q) | 4:17 | 2022-07-19 | 2022-07-27 |
-| [Be With U](https://open.spotify.com/track/1xiNLNvfmHtFEd0ZaCnTNN) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Be With U](https://open.spotify.com/album/6uLhqdqu5aqIQeT24caWAw) | 9:11 | 2023-10-17 |  |
+| [Be With U](https://open.spotify.com/track/1xiNLNvfmHtFEd0ZaCnTNN) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Be With U](https://open.spotify.com/album/6uLhqdqu5aqIQeT24caWAw) | 9:11 | 2023-10-17 | 2023-11-11 |
+| [Be With U](https://open.spotify.com/track/3FnwmpfawWTBIRGMAkDqnr) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Be with U](https://open.spotify.com/album/5yJUt2edxdjfO2IQlTRQGa) | 9:11 | 2023-10-17 |  |
 | [Better Place](https://open.spotify.com/track/2whKl8r9QCy1rZNBaLTMfN) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:46 | 2022-02-04 |  |
 | [Blue Nile](https://open.spotify.com/track/0nYbjARvvJYQulZYDKlSum) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Ptah The El Daoud](https://open.spotify.com/album/6XyhwP7a50E4u83H9aM8sD) | 7:01 | 2022-07-19 | 2022-07-27 |
 | [BOA](https://open.spotify.com/track/6zyJHTbzLmsbt1m6LKB8NO) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Music for Saxofone & Bass Guitar](https://open.spotify.com/album/7JYNuRlEFI6ZFrdi64mnBO) | 5:48 | 2022-07-19 | 2022-07-27 |
@@ -148,7 +149,8 @@
 | [Summerlude](https://open.spotify.com/track/0YLtqD6AcAFNeQcejCnfXc) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [City Pop](https://open.spotify.com/album/1uIYezIgwA9tg1EyAXxDbz) | 3:33 | 2022-07-19 | 2022-07-27 |
 | [Sunday](https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 3:00 | 2022-07-19 | 2022-07-27 |
 | [Take Flight](https://open.spotify.com/track/34eW8CuvTJoxdbzy0diSpG) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Take Flight](https://open.spotify.com/album/2Vmp8gBL6Lnc7XoQDrJFkD) | 4:34 | 2022-02-04 |  |
-| [Talia](https://open.spotify.com/track/49KMGrpCasQj4bP7R27nEL) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Talia](https://open.spotify.com/album/3fr1pMdhBZKMGRbfkki8OD) | 4:33 | 2022-02-04 |  |
+| [Talia](https://open.spotify.com/track/1T3oKGdLWePgnLHZX8TSEQ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Talia](https://open.spotify.com/album/1xVMXrTPlVE3lXxVMatbw0) | 4:33 | 2023-10-17 |  |
+| [Talia](https://open.spotify.com/track/49KMGrpCasQj4bP7R27nEL) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Talia](https://open.spotify.com/album/3fr1pMdhBZKMGRbfkki8OD) | 4:33 | 2022-02-04 | 2023-11-11 |
 | [TEMPO](https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [TEMPO](https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu) | 3:59 | 2022-02-04 |  |
 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-10-17 |  |
 | [The Daisy](https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Daisy](https://open.spotify.com/album/7ck1aKE3FRQGWstxQcbttZ) | 5:38 | 2022-02-04 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "New York, Jersey, and Connecticut music breaking waves. Cover:  <a href=\"spotify:artist:59wfkuBoNyhDMQGCljbUbA\">Diddy</a> ",
+  "description": "New York, Jersey, and Connecticut music breaking waves. Cover:  <a href=\"spotify:artist:0ABk515kENDyATUdpCKVfW\">Westside Gunn</a> ",
   "name": "Ripple Effect: Tri-State",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 96846,
       "name": "1-800",
       "url": "https://open.spotify.com/track/5ul07bbfW3RermPHUM0wzS"
@@ -78,10 +78,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 144390,
       "name": "500lbs",
       "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
+    },
+    {
+      "album": {
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144390,
+      "name": "500lbs",
+      "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
     },
     {
       "album": {
@@ -196,10 +214,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 179980,
       "name": "Attachments",
       "url": "https://open.spotify.com/track/2cGc9f17zZeQk8Dcrrb67T"
+    },
+    {
+      "album": {
+        "name": "Attachments",
+        "url": "https://open.spotify.com/album/4xvYlRKTn1Il04iydxqG7t"
+      },
+      "artists": [
+        {
+          "name": "Kenzo Balla",
+          "url": "https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179980,
+      "name": "Attachments",
+      "url": "https://open.spotify.com/track/7r8U5TxVpwett8yGmUuoiW"
     },
     {
       "album": {
@@ -643,6 +679,28 @@
     },
     {
       "album": {
+        "name": "Crank It",
+        "url": "https://open.spotify.com/album/6sFHHdehQm8PxSBk9oOUXH"
+      },
+      "artists": [
+        {
+          "name": "Terry Reloaded",
+          "url": "https://open.spotify.com/artist/63rJXgUizBSQasTMrNMAQg"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130455,
+      "name": "Crank It",
+      "url": "https://open.spotify.com/track/1nj1thgWu0L9HAFzMZhz26"
+    },
+    {
+      "album": {
         "name": "Crash & Burn",
         "url": "https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2"
       },
@@ -835,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/59clUfSk8GW5kkXHrmJiRK"
+      },
+      "artists": [
+        {
+          "name": "M.A.G.S.",
+          "url": "https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149596,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/4YzWmNrBlHPx2VWi2rw1uL"
+    },
+    {
+      "album": {
         "name": "Enough Is Enough (feat. Rayy Balla & Cito Blick)",
         "url": "https://open.spotify.com/album/4foZGjME7jJwgggKXNUece"
       },
@@ -894,7 +970,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 147748,
       "name": "F.T.N",
       "url": "https://open.spotify.com/track/5SUXk1ap6U8PqzAnOBgVdh"
@@ -950,7 +1026,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 117713,
       "name": "Flame",
       "url": "https://open.spotify.com/track/2G9mG0wuRhtrpPBS3XSdAh"
@@ -998,6 +1074,28 @@
       "duration_ms": 121600,
       "name": "Forever On That",
       "url": "https://open.spotify.com/track/655gj59E31LDwfkWED2SIs"
+    },
+    {
+      "album": {
+        "name": "SET IT OFF (Versions)",
+        "url": "https://open.spotify.com/album/5kjxRKs5AwpkE0trIAaIMq"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "FREAKY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/7bgefReulTFlNwcvOzduY9"
     },
     {
       "album": {
@@ -1060,7 +1158,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 156595,
       "name": "Good 2 Me",
       "url": "https://open.spotify.com/track/7nTVDv34MBZWGbvAvY76Cv"
@@ -1082,6 +1180,46 @@
       "duration_ms": 180668,
       "name": "Good Sleep",
       "url": "https://open.spotify.com/track/4CYXhNPah2gj7QLlsNUMBI"
+    },
+    {
+      "album": {
+        "name": "Have Not",
+        "url": "https://open.spotify.com/album/7wQR5cNgpRkF3vD0GsKJ8Q"
+      },
+      "artists": [
+        {
+          "name": "Myles Brando",
+          "url": "https://open.spotify.com/artist/6W6KuSNP1kE8MJAx6XVU09"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221183,
+      "name": "Have Not",
+      "url": "https://open.spotify.com/track/72M37GZg6up962fHbPzZnL"
+    },
+    {
+      "album": {
+        "name": "Still Drenchin",
+        "url": "https://open.spotify.com/album/4Z1Rgqq0vk5bFGo9OOIejC"
+      },
+      "artists": [
+        {
+          "name": "26ar",
+          "url": "https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x"
+        },
+        {
+          "name": "Sdot Go",
+          "url": "https://open.spotify.com/artist/25Iqc9ewifRNp8UcdeMZrP"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143940,
+      "name": "HEARD ABOUT ME (feat. Sdot Go)",
+      "url": "https://open.spotify.com/track/5O7UeySY5PlmgDSLIy2C7G"
     },
     {
       "album": {
@@ -1122,7 +1260,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 168183,
       "name": "HOSKINS",
       "url": "https://open.spotify.com/track/3FHbHS2vPV9SRPc8lj1fsa"
@@ -1413,6 +1551,28 @@
     },
     {
       "album": {
+        "name": "And Then You Pray For Me",
+        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300989,
+      "name": "KITCHEN LIGHTS",
+      "url": "https://open.spotify.com/track/4mlP10ICLhXt2QmUf0GkpB"
+    },
+    {
+      "album": {
         "name": "Kn0 (with skaiwater)",
         "url": "https://open.spotify.com/album/0ljGQPF6WCq9zteTvDPFJe"
       },
@@ -1588,7 +1748,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 163614,
       "name": "Mamba",
       "url": "https://open.spotify.com/track/7bpBFXEM8p39jbtP0xlyOx"
@@ -1843,6 +2003,32 @@
     },
     {
       "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "N3WYRKLA",
+          "url": "https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202841,
+      "name": "Outside All Night (feat. A$AP Rocky & N3WYRKLA)",
+      "url": "https://open.spotify.com/track/1dbar1XukTbn7FQzQTqDQK"
+    },
+    {
+      "album": {
         "name": "Pain Talk (feat. Lil Tjay)",
         "url": "https://open.spotify.com/album/5Adus949FUrddWzqZ5SFxZ"
       },
@@ -1909,6 +2095,28 @@
     },
     {
       "album": {
+        "name": "Pit Stop (feat. French Montana)",
+        "url": "https://open.spotify.com/album/6KwdG45dabKfLbbEFgEdCx"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "Pit Stop (feat. French Montana)",
+      "url": "https://open.spotify.com/track/51fqkA2jYEfXiUkcQYpCyB"
+    },
+    {
+      "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH"
       },
@@ -1924,7 +2132,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 117026,
       "name": "Players - DJ Smallz 732 - Jersey Club Remix",
       "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
@@ -1946,7 +2154,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 225492,
       "name": "Point Me 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
@@ -2056,7 +2264,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 137907,
       "name": "Pretty Girl (with Rema)",
       "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
@@ -2144,7 +2352,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 191818,
       "name": "Pup (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/3vKr18DG46xtZ5FM8R52et"
@@ -2166,7 +2374,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 190214,
       "name": "PURPLE APE",
       "url": "https://open.spotify.com/track/0ZpKseo8xDyCcX9SVmZHRm"
@@ -2188,7 +2396,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 185748,
       "name": "Put It On Da Floor Again (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
@@ -2320,7 +2528,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 207493,
       "name": "Sailor Moon",
       "url": "https://open.spotify.com/track/2RHPq8fADOfM0XANORv8Ow"
@@ -2498,7 +2706,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 200698,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/67r21HpmhEPrnP4HWxnCPw"
@@ -2542,7 +2750,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 149317,
       "name": "Stop Worry!",
       "url": "https://open.spotify.com/track/5YRcm6uXR2Tx8HbPiJz0W9"
@@ -2763,6 +2971,28 @@
     },
     {
       "album": {
+        "name": "A Joyful Holiday",
+        "url": "https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242306,
+      "name": "Twinkle Twinkle Little Me (feat. Sullivan Fortner)",
+      "url": "https://open.spotify.com/track/6tPOJ6YCaxdDN1VurFaou1"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y"
       },
@@ -2866,7 +3096,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 136333,
       "name": "What To Do With Me",
       "url": "https://open.spotify.com/track/2UKyKDjIGBB32GvXbyF6UU"

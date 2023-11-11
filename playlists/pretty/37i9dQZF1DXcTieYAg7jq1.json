@@ -1,38 +1,86 @@
 {
   "description": "Featuring that new vintage. Cover: Sarah Kang",
-  "num_followers": 414200,
+  "num_followers": 414354,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmExNDQ1MDMxOTEyMTBhYWFlNGEwODA4Mzc1YmU2MmM5ZTYyY2Y3",
+  "snapshot_id": "MCxkYmNmYWUzMjViYmQyMzEwZDllMzE2MzAzYTQ3OTY3MmNlZWIwMWY1",
   "tracks": [
     {
-      "added_at": "2023-09-01 04:01:00",
+      "added_at": "2023-11-10 05:01:00",
       "album": {
-        "name": "All Over Again",
-        "url": "https://open.spotify.com/album/022igxh5JAOECiWyHG3Fim"
+        "name": "Big Dumb Heart",
+        "url": "https://open.spotify.com/album/1CgmwafARAUBIoyuOVCDnm"
       },
       "artists": [
         {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "Johnny Stimson",
-          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
         }
       ],
-      "duration_ms": 178346,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/3m0gY7t5mC3ipTmMlvt8wM"
+      "duration_ms": 216314,
+      "name": "Big Dumb Heart",
+      "url": "https://open.spotify.com/track/3T9wo7kdEAOy1h5h7kh5dw"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Dream Boy",
+        "url": "https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        }
+      ],
+      "duration_ms": 204376,
+      "name": "Dream Boy",
+      "url": "https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "The Things She Loved",
+        "url": "https://open.spotify.com/album/4zwmA0qNheXDIvr9f5Lqxk"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        },
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 148876,
+      "name": "The Things She Loved",
+      "url": "https://open.spotify.com/track/7ATrjLiCw3DGbDqzGH65Bo"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Hello Love (Edit)",
+        "url": "https://open.spotify.com/album/0OAyBoFCVvjg4s4UPLZOip"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Hello Love - Edit",
+      "url": "https://open.spotify.com/track/1tpcELwRo7bxRfCr0xspqy"
     },
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
         "name": "Twennies (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4fbbquyj2hz6GeDzclhhs1"
+        "url": "https://open.spotify.com/album/4mYpoqJpqeUYZY61KRKIZP"
       },
       "artists": [
         {
@@ -46,7 +94,7 @@
       ],
       "duration_ms": 169484,
       "name": "Literally Dead",
-      "url": "https://open.spotify.com/track/6hC5zuyySLWtl7NaooXRQv"
+      "url": "https://open.spotify.com/track/3PAi27peQmIvoWUFjOTKJJ"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -129,6 +177,26 @@
       "url": "https://open.spotify.com/track/1H4fnvmxwS2CoJMrZu44mb"
     },
     {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/022igxh5JAOECiWyHG3Fim"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Johnny Stimson",
+          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+        }
+      ],
+      "duration_ms": 178346,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/3m0gY7t5mC3ipTmMlvt8wM"
+    },
+    {
       "added_at": "2023-09-22 04:01:00",
       "album": {
         "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
@@ -147,26 +215,6 @@
       "duration_ms": 173801,
       "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/28PCjIXE4NJWDIqpRsD3rl"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Hopeless Romantic",
-        "url": "https://open.spotify.com/album/4T9XmSaKAXnEYyNn8ILJK2"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "Lee Jin Ah",
-          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
-        }
-      ],
-      "duration_ms": 215426,
-      "name": "Maybe the World is a Beautiful Place",
-      "url": "https://open.spotify.com/track/6kHt1PSTReFgz2pMEvFDCT"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -953,22 +1001,6 @@
       "url": "https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/7wLp5QkiaGmHzKonmlBa3c"
-      },
-      "artists": [
-        {
-          "name": "Big Stuff",
-          "url": "https://open.spotify.com/artist/5hVGTwuOK7snm9spr45QS3"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/67q72wEUwXTEj5fHlC2hT8"
-    },
-    {
       "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Drunk On A Flight",
@@ -1641,22 +1673,6 @@
       "url": "https://open.spotify.com/track/0cpdfHdRIhp0MQ9Cxk1MDV"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "downBAD",
-        "url": "https://open.spotify.com/album/0Yb29Jc2wTL7h2S1pKNp13"
-      },
-      "artists": [
-        {
-          "name": "Stop Light Observations",
-          "url": "https://open.spotify.com/artist/2EOIjdzbFGRM87IvJU34JJ"
-        }
-      ],
-      "duration_ms": 174762,
-      "name": "downBAD",
-      "url": "https://open.spotify.com/track/3bSnDv4C54Z8Fp4rhHs4w0"
-    },
-    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Pain",
@@ -1691,22 +1707,6 @@
       "duration_ms": 199605,
       "name": "Turn the Radio Up (feat. Jewel)",
       "url": "https://open.spotify.com/track/1nNfkK3cfckAyTmNRk1b60"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Bad For Me",
-        "url": "https://open.spotify.com/album/42Uoa1QDJvCegKzkixsTlG"
-      },
-      "artists": [
-        {
-          "name": "Stacey Ryan",
-          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
-        }
-      ],
-      "duration_ms": 178520,
-      "name": "Bad For Me",
-      "url": "https://open.spotify.com/track/3bDuKFvJHwIUkFl8QtF2tb"
     }
   ],
   "unique_name": "Retro Pop",

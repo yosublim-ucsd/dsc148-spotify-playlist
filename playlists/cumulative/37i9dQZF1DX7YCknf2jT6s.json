@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Joey Alexander",
+  "description": "New jazz for open minds. Cover: J-Rod Sullivan",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -994,7 +994,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 271564,
       "name": "All the Bones Had Names",
       "url": "https://open.spotify.com/track/3sYHvMpa9O7qQ8ZXWQ6QBx"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 752440,
       "name": "Ano Yo",
       "url": "https://open.spotify.com/track/6meoOCk11jpUWEs5NiDMjK"
@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 302624,
       "name": "Beeyondsay",
       "url": "https://open.spotify.com/track/7dqmOuvPK13WOqEJ7EthZh"
@@ -4475,6 +4475,24 @@
     },
     {
       "album": {
+        "name": "concentrate",
+        "url": "https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281833,
+      "name": "concentrate",
+      "url": "https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc"
+    },
+    {
+      "album": {
         "name": "Timba a la Americana",
         "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
       },
@@ -4662,6 +4680,40 @@
       "duration_ms": 134346,
       "name": "COSMIC INTERCOURSE (Pt. II) (feat. Chris Dave)",
       "url": "https://open.spotify.com/track/22ZVHkx4dhqks7OYF4eOd6"
+    },
+    {
+      "album": {
+        "name": "Letter to a Friend",
+        "url": "https://open.spotify.com/album/3ryYiluY1ZX0oMULRwWZVO"
+      },
+      "artists": [
+        {
+          "name": "Rapha\u00ebl Pannier",
+          "url": "https://open.spotify.com/artist/5C9hm95fwfcWi7vioKUI9x"
+        },
+        {
+          "name": "Acid Pauli",
+          "url": "https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C"
+        },
+        {
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+        },
+        {
+          "name": "Francois Moutin",
+          "url": "https://open.spotify.com/artist/7rOP6AtMakDvwh3fQXXBOp"
+        },
+        {
+          "name": "Giorgi Mikadze",
+          "url": "https://open.spotify.com/artist/6JS9KZNBZNM7q7EASDnQCK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444830,
+      "name": "Could We but See",
+      "url": "https://open.spotify.com/track/1sytnDQJBIII1uNIiXkj87"
     },
     {
       "album": {
@@ -6519,6 +6571,36 @@
     },
     {
       "album": {
+        "name": "Encantados",
+        "url": "https://open.spotify.com/album/4o8BvfMSYj8YRuhivJqg9g"
+      },
+      "artists": [
+        {
+          "name": "Amaro Freitas",
+          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
+        },
+        {
+          "name": "Hamid Drake",
+          "url": "https://open.spotify.com/artist/3UJfOrT4kZIoRtRfaCQgFp"
+        },
+        {
+          "name": "Shabaka Hutchings",
+          "url": "https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o"
+        },
+        {
+          "name": "Aniel Someillan",
+          "url": "https://open.spotify.com/artist/7sOXF3R6ECCpyeItRgqIAk"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582304,
+      "name": "Encantados",
+      "url": "https://open.spotify.com/track/5ZoTkuU785CDSdviTd2NLJ"
+    },
+    {
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/0tGUQcOzvj7r8rPxkuth7f"
       },
@@ -6546,7 +6628,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 367440,
       "name": "Encore",
       "url": "https://open.spotify.com/track/0SliE11kP22MO6GZyZKJ92"
@@ -6702,6 +6784,24 @@
       "duration_ms": 197746,
       "name": "Escorpio",
       "url": "https://open.spotify.com/track/5t2s6qb1cMVrZjHSb8VwBx"
+    },
+    {
+      "album": {
+        "name": "Les Jardins Mystiques Vol.1",
+        "url": "https://open.spotify.com/album/4oIYiCrzOUVZvpxCopDB7e"
+      },
+      "artists": [
+        {
+          "name": "Miguel Atwood-Ferguson",
+          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372173,
+      "name": "Eunoia",
+      "url": "https://open.spotify.com/track/33XEbnHrZ2PpIpViOBvNz9"
     },
     {
       "album": {
@@ -9112,6 +9212,24 @@
       "duration_ms": 215863,
       "name": "Home",
       "url": "https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg"
+    },
+    {
+      "album": {
+        "name": "Home Cookin'",
+        "url": "https://open.spotify.com/album/7CAToGy0bWVmXolIK9EVlx"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335797,
+      "name": "Home Cookin'",
+      "url": "https://open.spotify.com/track/63geyyZS7EBU3opmvQK4Tw"
     },
     {
       "album": {
@@ -12981,6 +13099,28 @@
     },
     {
       "album": {
+        "name": "Marking My Time (BADBADNOTGOOD Edit)",
+        "url": "https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252503,
+      "name": "Marking My Time - BADBADNOTGOOD Edit",
+      "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
+    },
+    {
+      "album": {
         "name": "Matcha",
         "url": "https://open.spotify.com/album/2rooTu17Xh0JAL1ysqg0uj"
       },
@@ -14384,7 +14524,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 294777,
       "name": "Newsroom Customers",
       "url": "https://open.spotify.com/track/0Wz0QhOSNyRsNsABrQtlrP"
@@ -15478,7 +15618,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 595460,
       "name": "Open-Handed Reach",
       "url": "https://open.spotify.com/track/0kMVgShEStOZHMS8TdyL6u"
@@ -17574,7 +17714,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 343680,
       "name": "Reveal",
       "url": "https://open.spotify.com/track/5qlcXlt5SC4XuMfPSI3voF"
@@ -19416,7 +19556,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 396373,
       "name": "Something Old Something New",
       "url": "https://open.spotify.com/track/7BVqoseT4SS6ly48xmdSAK"
@@ -20024,6 +20164,24 @@
       "duration_ms": 245876,
       "name": "Stolper Jim",
       "url": "https://open.spotify.com/track/5V6OPGZZMF9d92kjYd5eP8"
+    },
+    {
+      "album": {
+        "name": "Stop Calling Me",
+        "url": "https://open.spotify.com/album/2ku6Q6qXy6gjUSYZnXuk6B"
+      },
+      "artists": [
+        {
+          "name": "Blaque Dynamite",
+          "url": "https://open.spotify.com/artist/1sJVowZOn1El5JK5HCfcL2"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327342,
+      "name": "STOP CALLING ME",
+      "url": "https://open.spotify.com/track/314r69preySjrl67vpaEI8"
     },
     {
       "album": {
@@ -21237,6 +21395,28 @@
     },
     {
       "album": {
+        "name": "The Botanist",
+        "url": "https://open.spotify.com/album/2LcWpuh7nN5yb3csgRCTFk"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270586,
+      "name": "The Botanist",
+      "url": "https://open.spotify.com/track/7nZVVWPrKXaqxBXEJSf77L"
+    },
+    {
+      "album": {
         "name": "Soundtrack For A Film Without Pictures",
         "url": "https://open.spotify.com/album/1pzeR4Y5XlU2Boz6HhMUMV"
       },
@@ -21360,6 +21540,24 @@
       "duration_ms": 383040,
       "name": "The Cold Man",
       "url": "https://open.spotify.com/track/7Cb6fXhdDx9cKVx5rIvNdo"
+    },
+    {
+      "album": {
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/1gh0ayHtxAjp2PaX9fJivk"
+      },
+      "artists": [
+        {
+          "name": "J-Rod Sullivan",
+          "url": "https://open.spotify.com/artist/3sQFyYXUd3ATfqB8ASEy1u"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365500,
+      "name": "The Comeback",
+      "url": "https://open.spotify.com/track/0MOCXlySxIos7wMFITLore"
     },
     {
       "album": {
@@ -21648,7 +21846,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 308400,
       "name": "The Great Wave",
       "url": "https://open.spotify.com/track/61sBESGDMMQOmvtFNmWony"
@@ -22552,7 +22750,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 239850,
       "name": "The World Is A Ghetto",
       "url": "https://open.spotify.com/track/1zYVfTg8hvHABiAlPchCwV"
@@ -22832,6 +23030,40 @@
       "duration_ms": 395551,
       "name": "Time Coil",
       "url": "https://open.spotify.com/track/2RfkDflHWRTCIfCcNsoWgc"
+    },
+    {
+      "album": {
+        "name": "Reveal",
+        "url": "https://open.spotify.com/album/6SJ7h0Q4ZUKtputrwFFO3c"
+      },
+      "artists": [
+        {
+          "name": "Mareike Wiening",
+          "url": "https://open.spotify.com/artist/5n2ZOxo4Dw6CcurZPIYlG9"
+        },
+        {
+          "name": "Rich Perry",
+          "url": "https://open.spotify.com/artist/1TaMCGjRuinPW6jdc5sguu"
+        },
+        {
+          "name": "Glenn Zaleski",
+          "url": "https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W"
+        },
+        {
+          "name": "Alex Goodman",
+          "url": "https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3"
+        },
+        {
+          "name": "Johannes Felscher",
+          "url": "https://open.spotify.com/artist/2RYXsAepfcxTMiShkD42pd"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437026,
+      "name": "Time for Priorities",
+      "url": "https://open.spotify.com/track/4SjY3BkWy44NhhIVqyA8wz"
     },
     {
       "album": {

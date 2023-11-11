@@ -154,10 +154,36 @@
       ],
       "date_added": "2020-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 314893,
       "name": "Black Gold",
       "url": "https://open.spotify.com/track/7cOJRyrJLpN5kcqPKZuBTS"
+    },
+    {
+      "album": {
+        "name": "Radio Music Society",
+        "url": "https://open.spotify.com/album/0GRy0tSYoSbtuOziEDnDnZ"
+      },
+      "artists": [
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        },
+        {
+          "name": "Algebra Blessett",
+          "url": "https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP"
+        },
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316866,
+      "name": "Black Gold",
+      "url": "https://open.spotify.com/track/3j30NMimTbUCiLx0LphpLQ"
     },
     {
       "album": {

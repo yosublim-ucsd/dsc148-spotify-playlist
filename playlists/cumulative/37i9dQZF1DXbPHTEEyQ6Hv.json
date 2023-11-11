@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "'Tis So Sweet To Trust In Jesus",
+        "url": "https://open.spotify.com/album/2q0nCyvwCrqlKhj5PK2JG4"
+      },
+      "artists": [
+        {
+          "name": "Everlasting Harmony",
+          "url": "https://open.spotify.com/artist/1cImd7ASALUaW3myp7bcAx"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146233,
+      "name": "'Tis So Sweet To Trust In Jesus",
+      "url": "https://open.spotify.com/track/60w2O8kbSpNmDI1pZmDNaD"
+    },
+    {
+      "album": {
         "name": "12 days of Christmas",
         "url": "https://open.spotify.com/album/16xIEyycW6HswKRqnZpMPs"
       },
@@ -718,7 +736,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 210414,
       "name": "Away in a Manger",
       "url": "https://open.spotify.com/track/3RJt5eBJWOoK75KbPgbSoY"
@@ -812,6 +830,24 @@
       "duration_ms": 151724,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/2QbWGtwuWcx7xblTgVQZeL"
+    },
+    {
+      "album": {
+        "name": "Angels In The Realms Of Glory",
+        "url": "https://open.spotify.com/album/5N9DVOm2aWo8XhVKvadJ0D"
+      },
+      "artists": [
+        {
+          "name": "John Crome",
+          "url": "https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138615,
+      "name": "Candlelight Carol",
+      "url": "https://open.spotify.com/track/3RJCyeDnzhhqhpRvdcohof"
     },
     {
       "album": {
@@ -920,6 +956,24 @@
       "duration_ms": 166457,
       "name": "Come Thou Fount Of Every Blessing",
       "url": "https://open.spotify.com/track/1m7kMiFTMuH3gBAZsNXC5B"
+    },
+    {
+      "album": {
+        "name": "Coventry Carol",
+        "url": "https://open.spotify.com/album/0V9Qes8KlZYcguhsAIWWvk"
+      },
+      "artists": [
+        {
+          "name": "Signe Bratlie",
+          "url": "https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179037,
+      "name": "Coventry Carol",
+      "url": "https://open.spotify.com/track/3LJkX0QFowPTYa5OK6Lg0n"
     },
     {
       "album": {
@@ -1504,6 +1558,24 @@
     {
       "album": {
         "name": "I Saw Three Ships",
+        "url": "https://open.spotify.com/album/0vAHBKkzpdlQL2YlX0dDaC"
+      },
+      "artists": [
+        {
+          "name": "Chris Donner",
+          "url": "https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142393,
+      "name": "I Saw Three Ships",
+      "url": "https://open.spotify.com/track/3aWohApFeBqB3ebgCWiev3"
+    },
+    {
+      "album": {
+        "name": "I Saw Three Ships",
         "url": "https://open.spotify.com/album/1pzpHskIdzkwRJLsH48UX3"
       },
       "artists": [
@@ -1572,6 +1644,24 @@
       "duration_ms": 158748,
       "name": "I Wish It Could Be Christmas Everyday",
       "url": "https://open.spotify.com/track/0wPujtWCbSrEy5eylY7SAn"
+    },
+    {
+      "album": {
+        "name": "I Wonder as I Wander",
+        "url": "https://open.spotify.com/album/1jVIMBOWIRu7NU2qTW7edF"
+      },
+      "artists": [
+        {
+          "name": "Karl-Erik",
+          "url": "https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96145,
+      "name": "I Wonder as I Wander",
+      "url": "https://open.spotify.com/track/5fAST5Nbm1tPTKwBvGX7iH"
     },
     {
       "album": {
@@ -2151,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "Santa Claus Is Comin' to Town",
+        "url": "https://open.spotify.com/album/0D0juNN2akEwy4vz3too8S"
+      },
+      "artists": [
+        {
+          "name": "Teodor Seti",
+          "url": "https://open.spotify.com/artist/26jqyiqSsIwsXWuz5hgctN"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99601,
+      "name": "Santa Claus Is Comin' to Town",
+      "url": "https://open.spotify.com/track/1Xjj1DDj2s0KlcLvixqgBd"
+    },
+    {
+      "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/7CM27GU1KQV7vTiNSkxf1P"
       },
@@ -2396,7 +2504,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 136659,
       "name": "The Coventry Carol",
       "url": "https://open.spotify.com/track/1qRLuNPkZL4NcTvhbrn6yI"
@@ -2586,8 +2694,8 @@
       },
       "artists": [
         {
-          "name": "Deborah Luman",
-          "url": "https://open.spotify.com/artist/6ECfTOwRS9QkTKgziQ5BBO"
+          "name": "Benjamin Dobbs",
+          "url": "https://open.spotify.com/artist/0Ryn8sGu13BwRC3zDySvOP"
         }
       ],
       "date_added": "2022-11-09",
@@ -2707,6 +2815,42 @@
     },
     {
       "album": {
+        "name": "Underneath The Tree",
+        "url": "https://open.spotify.com/album/5EHrHsuHIfJuwlzXdtgSQr"
+      },
+      "artists": [
+        {
+          "name": "Julia Tide",
+          "url": "https://open.spotify.com/artist/2in6cp2GcdrkLqaY19ciPb"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231889,
+      "name": "Underneath The Tree",
+      "url": "https://open.spotify.com/track/0dOlDq6KeqVjXK28GUfxYh"
+    },
+    {
+      "album": {
+        "name": "We wish you a Merry Christmas",
+        "url": "https://open.spotify.com/album/7MJieq6b8XhytSlNwETQLO"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lie Blumenthal",
+          "url": "https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "We wish you a Merry Christmas",
+      "url": "https://open.spotify.com/track/24Wk61p0OEfaPdcw9xhxtY"
+    },
+    {
+      "album": {
         "name": "We Wish You a Merry Christmas",
         "url": "https://open.spotify.com/album/42t7HKc7aXEIvrC0X0T5O8"
       },
@@ -2725,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "What Child Is This",
+        "url": "https://open.spotify.com/album/4T0HgqcgEetlOjMgCtMscG"
+      },
+      "artists": [
+        {
+          "name": "Eleanor Friedman",
+          "url": "https://open.spotify.com/artist/2pMJUMnZOn45c2qzXXC87N"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "What Child Is This",
+      "url": "https://open.spotify.com/track/6hgHOBYIO9uQd1O2XnQJXW"
+    },
+    {
+      "album": {
         "name": "What Child Is This? (arr. Piano) / The Christmas Song (arr. Piano)",
         "url": "https://open.spotify.com/album/3ENsfMFIOKEoW5VOMo8NCl"
       },
@@ -2736,7 +2898,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 172293,
       "name": "What Child Is This (arr. piano)",
       "url": "https://open.spotify.com/track/3LTwW4H05C3VeuxxQr4mh6"

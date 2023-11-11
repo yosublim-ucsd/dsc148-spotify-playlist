@@ -559,6 +559,32 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico Mc Kadu",
+        "url": "https://open.spotify.com/album/2JIi58wXGDE1FACmt4ZH9n"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "MC Murilo MT",
+          "url": "https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371246,
+      "name": "Acordei Bem Cedo",
+      "url": "https://open.spotify.com/track/2udX71KZDVz7y1yS6nlTx3"
+    },
+    {
+      "album": {
         "name": "\u00c0 Procura da Anitta Perfeita",
         "url": "https://open.spotify.com/album/1vaz2dIr146DBY4DC3rFjT"
       },
@@ -1466,7 +1492,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 317340,
       "name": "BEM MELHOR",
       "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
@@ -1820,7 +1846,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 125769,
       "name": "Calma N\u00e3o Precisa Brigar X Boquetinho Maneiro",
       "url": "https://open.spotify.com/track/12BihJUvHY6DFg1hsE0RpL"
@@ -3258,10 +3284,6 @@
         {
           "name": "DJ WN",
           "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
-        },
-        {
-          "name": "DJ Oreia",
-          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
         }
       ],
       "date_added": "2023-08-15",
@@ -3830,7 +3852,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -6322,7 +6344,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 158769,
       "name": "O Que Que T\u00e1 Acontecendo",
       "url": "https://open.spotify.com/track/1JSwsmwxrunlHzo7pjeWMY"
@@ -8511,6 +8533,28 @@
     },
     {
       "album": {
+        "name": "Sugar Papi",
+        "url": "https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187153,
+      "name": "Sou Musa do Ver\u00e3o",
+      "url": "https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc"
+    },
+    {
+      "album": {
         "name": "Don't Play That Song (Mono)",
         "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
       },
@@ -8566,6 +8610,24 @@
       "duration_ms": 134068,
       "name": "Succubus Imortal",
       "url": "https://open.spotify.com/track/7plwzRRKiLgjtkB6LQU2Yk"
+    },
+    {
+      "album": {
+        "name": "Nonsense, Vol. 1",
+        "url": "https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239727,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1UVquahdeg6mRYDTHFKRx0"
     },
     {
       "album": {
@@ -10156,6 +10218,24 @@
       "duration_ms": 158091,
       "name": "\u00c9 Tes\u00e3o ou \u00c9 Amor",
       "url": "https://open.spotify.com/track/19TnKf5YHapfrI1FJjbx8i"
+    },
+    {
+      "album": {
+        "name": "734",
+        "url": "https://open.spotify.com/album/2P6mi8tsokPdCozUzsGMUF"
+      },
+      "artists": [
+        {
+          "name": "Mc Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150093,
+      "name": "\u00cdsis",
+      "url": "https://open.spotify.com/track/5wwbnoRORYlLYf9QZAzrm7"
     },
     {
       "album": {

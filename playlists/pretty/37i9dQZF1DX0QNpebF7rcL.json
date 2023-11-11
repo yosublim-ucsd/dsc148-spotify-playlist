@@ -1,13 +1,33 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 52343,
+  "num_followers": 52373,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmRiY2Q1YzRhMGRhYzZhMzFjMWQ0ODgyYjY4ZWZlZDVkMGY4ZGZm",
+  "snapshot_id": "MCwwOWM3ZjFmMGM1MmZhN2Q2Yzc2MTdlN2RlMGE4ZGQ1YzUzZDQ5OWNi",
   "tracks": [
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Dear Mr. Fantasy",
+        "url": "https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai"
+      },
+      "artists": [
+        {
+          "name": "Dave Mason",
+          "url": "https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 274081,
+      "name": "Dear Mr. Fantasy",
+      "url": "https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa"
+    },
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
@@ -23,6 +43,38 @@
       "duration_ms": 214572,
       "name": "Waste Of Time",
       "url": "https://open.spotify.com/track/6hN0tXlbsFFPJ3rADk48hk"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 265720,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/516Bv1lX91UTFGLIdpKYYt"
+      },
+      "artists": [
+        {
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+        }
+      ],
+      "duration_ms": 230459,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -43,22 +95,6 @@
       "duration_ms": 176549,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/4aZEjenUO0PzdCPtMUSZIe"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Black Magic",
-        "url": "https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 265720,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -861,34 +897,6 @@
       "url": "https://open.spotify.com/track/3SwzJIkMEbLjAK97hEaaLV"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Dirty Grease",
-        "url": "https://open.spotify.com/album/2uJDg09aX2m6hZznK6KTyd"
-      },
-      "artists": [
-        {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Robben Ford",
-          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
-        },
-        {
-          "name": "Doug Bossi",
-          "url": "https://open.spotify.com/artist/6I8Aan08YoXLddBSwCbCI4"
-        }
-      ],
-      "duration_ms": 376646,
-      "name": "Dirty Grease",
-      "url": "https://open.spotify.com/track/1Nd89XqdXUj1zv9meZbPYR"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Mortgage on My Soul",
@@ -1667,22 +1675,6 @@
       "duration_ms": 208173,
       "name": "\u201962 Chevy",
       "url": "https://open.spotify.com/track/4M9P0IpYx9kZmo07CcwVNT"
-    },
-    {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "Devil May Care",
-        "url": "https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP"
-      },
-      "artists": [
-        {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
-        }
-      ],
-      "duration_ms": 299946,
-      "name": "Right Down The Drain",
-      "url": "https://open.spotify.com/track/7uFtKBQLQFwkuS6BxzW1lQ"
     },
     {
       "added_at": "2022-02-18 05:02:00",

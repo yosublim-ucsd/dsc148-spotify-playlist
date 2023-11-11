@@ -752,7 +752,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 422023,
       "name": "ARC",
       "url": "https://open.spotify.com/track/0BHo6ymQzMoayckXEvbTqq"
@@ -1720,6 +1720,24 @@
       "duration_ms": 226771,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/0d7KQih99OE6xaEFz8lXo5"
+    },
+    {
+      "album": {
+        "name": "Come With Me EP",
+        "url": "https://open.spotify.com/album/4DuL4YsE1cpJ8kS7pKJ4VJ"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Roberts",
+          "url": "https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313600,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/0YAjsNY7yy3zbvX3HB2cP1"
     },
     {
       "album": {
@@ -3281,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Exploration",
+        "url": "https://open.spotify.com/album/3tgWHAwuMFYX4Bv1KhW4yx"
+      },
+      "artists": [
+        {
+          "name": "Felix Kr\u00f6cher",
+          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407569,
+      "name": "Exploration",
+      "url": "https://open.spotify.com/track/5F1zvhsJgKnoQ0SsHXYFcs"
+    },
+    {
+      "album": {
         "name": "Eyes Hidden",
         "url": "https://open.spotify.com/album/0SKaFMaXhR7mr8xBlCkUgn"
       },
@@ -3332,7 +3368,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 244299,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/00yeUUrgFfxidZOWFQxDcZ"
@@ -3836,7 +3872,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 343111,
       "name": "Fuori - Rework 2023",
       "url": "https://open.spotify.com/track/4d9awbRB2bgiGJcjgTfDly"
@@ -4864,7 +4900,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 313037,
       "name": "In Der Nacht",
       "url": "https://open.spotify.com/track/2HRSVvvATNEndZOR47UPPZ"
@@ -5697,6 +5733,28 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/1ZApiaODz4vJMQhz3FZnJD"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        },
+        {
+          "name": "Prinz (DE)",
+          "url": "https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236870,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/7sSq94cwwAZ7WHs2UTb0p5"
+    },
+    {
+      "album": {
         "name": "Love Those Who Fight With Passion And Faith EP",
         "url": "https://open.spotify.com/album/0YwynqGRepBEVhF0zNXhv6"
       },
@@ -6375,6 +6433,24 @@
     },
     {
       "album": {
+        "name": "My Fantasy",
+        "url": "https://open.spotify.com/album/4BtrOR6UZNQV8yJl0P3vF4"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179133,
+      "name": "My Fantasy",
+      "url": "https://open.spotify.com/track/2mbRfE0uDMWBAG0x3I7VCJ"
+    },
+    {
+      "album": {
         "name": "My Gasoline",
         "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
       },
@@ -6898,7 +6974,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 331934,
       "name": "Old School",
       "url": "https://open.spotify.com/track/0bIrl9bmKPztH1TQCTwuEr"
@@ -6970,7 +7046,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 429204,
       "name": "Once Again - Original Mix",
       "url": "https://open.spotify.com/track/2ayAIGCvd2VYUdnT1gPPnV"
@@ -8892,7 +8968,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 349373,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/4kLeI1f9UxfvKhszaWUsXe"
@@ -9666,6 +9742,24 @@
       "duration_ms": 408056,
       "name": "The Known Universe",
       "url": "https://open.spotify.com/track/4ssKfm1dqsr1cZm2ds8CNs"
+    },
+    {
+      "album": {
+        "name": "The Night EP",
+        "url": "https://open.spotify.com/album/4a3lICzN7Lar0M7AqyH0ac"
+      },
+      "artists": [
+        {
+          "name": "Acid Asian",
+          "url": "https://open.spotify.com/artist/4rYbneiWL3QPCzKfjFK3fe"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397986,
+      "name": "The Night",
+      "url": "https://open.spotify.com/track/0n2RE6RodXfLLy3QCh2NPI"
     },
     {
       "album": {
@@ -10455,6 +10549,24 @@
     },
     {
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/01Jp0tJMYp8MNRQVAk7liX"
+      },
+      "artists": [
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372040,
+      "name": "UTOPIA",
+      "url": "https://open.spotify.com/track/3HdrzXCHvjBX39wYnAKc2c"
+    },
+    {
+      "album": {
         "name": "Valhalla",
         "url": "https://open.spotify.com/album/5tLSLMDZSrRqjhvjAqdX2O"
       },
@@ -11136,6 +11248,28 @@
       "duration_ms": 367846,
       "name": "You Look at Me",
       "url": "https://open.spotify.com/track/05L5ExA33eJEEiuTwXB1up"
+    },
+    {
+      "album": {
+        "name": "You Want This",
+        "url": "https://open.spotify.com/album/3Ac6kfx5UiODlBPpvnuhl2"
+      },
+      "artists": [
+        {
+          "name": "Stan Christ",
+          "url": "https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I"
+        },
+        {
+          "name": "Nevlin",
+          "url": "https://open.spotify.com/artist/4r3FAXZBP4X0unv8oRTgSp"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268461,
+      "name": "You Want This",
+      "url": "https://open.spotify.com/track/22bTukupwvCWePqS9aGhTb"
     },
     {
       "album": {

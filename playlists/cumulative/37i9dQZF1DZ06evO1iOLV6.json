@@ -352,7 +352,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 239706,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 259230,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/0vtXr3xIGXkHI0eidEOuUg"
@@ -907,6 +907,24 @@
     },
     {
       "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191945,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3"
+    },
+    {
+      "album": {
         "name": "HIGHER",
         "url": "https://open.spotify.com/album/4yXr5GRRquWlt7ExXmh7CY"
       },
@@ -918,7 +936,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 191945,
       "name": "HIGHER",
       "url": "https://open.spotify.com/track/6S1W6Ll9DEAFMsQYoiem4l"
@@ -1072,10 +1090,32 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 195000,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/6PrImSndUslYTiN77tqlp8"
+    },
+    {
+      "album": {
+        "name": "Omo Charlie Champagne Vol.1",
+        "url": "https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195030,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo"
     },
     {
       "album": {
@@ -1222,7 +1262,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 212741,
       "name": "Life",
       "url": "https://open.spotify.com/track/1N0GdFeRwgEeiDqkX0m4HB"
@@ -1416,6 +1456,28 @@
       "duration_ms": 267993,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/2iauO3C7vEcmJAyP9HXKYX"
+    },
+    {
+      "album": {
+        "name": "Afrikan Sauce",
+        "url": "https://open.spotify.com/album/5XF4bvaQTx8VMACNbwWmt1"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267993,
+      "name": "Melanin (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/3JkNYiDKTtwfmhJgolVcdg"
     },
     {
       "album": {
@@ -1990,7 +2052,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 236037,
       "name": "Sharpshooter",
       "url": "https://open.spotify.com/track/3FuyPh7fJNOBJCX3qSlThe"
@@ -2383,6 +2445,32 @@
     },
     {
       "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/0Ka05Dg15vP2Sc4VbRstVo"
+      },
+      "artists": [
+        {
+          "name": "Toofan",
+          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
+        },
+        {
+          "name": "Tony X",
+          "url": "https://open.spotify.com/artist/5JCtawfBeAUB4UKzxRE8sR"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191145,
+      "name": "Twerk Nam",
+      "url": "https://open.spotify.com/track/2DGqBPqO06GpfBWhu8LEVv"
+    },
+    {
+      "album": {
         "name": "W.E.E.D.",
         "url": "https://open.spotify.com/album/23BR88E4ycb1L19PLZbEuP"
       },
@@ -2494,10 +2582,36 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 189761,
       "name": "Woman Of The Year",
       "url": "https://open.spotify.com/track/641Y779nv9hwQmq37QOvWX"
+    },
+    {
+      "album": {
+        "name": "7 Wonders",
+        "url": "https://open.spotify.com/album/4S36d5juEkrwjEpFdAizUN"
+      },
+      "artists": [
+        {
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+        },
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66116,
+      "name": "Wonder (feat. Erigga & Patoranking)",
+      "url": "https://open.spotify.com/track/7xRBmiCJKt420Ybs7PebYf"
     },
     {
       "album": {

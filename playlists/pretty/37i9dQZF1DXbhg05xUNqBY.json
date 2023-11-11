@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 342193,
+  "num_followers": 343862,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWIxNGRmZTdmNWVlZTU0OGI3MjAxOTdmYTRkOWUzOGU3OTYzMWVi",
+  "snapshot_id": "MCxhNmI4ODhiNTQxMzNiN2I2ZDc2MjU2OGNjMjI0NGZjYjNlNjIzODYy",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 242432,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Creio Que Tu \u00c9s a Cura",
         "url": "https://open.spotify.com/album/1C6VxwtIawHZhDybYTXol6"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 351708,
       "name": "Creio Que Tu \u00c9s a Cura",
       "url": "https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 242432,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 307292,
-      "name": "Peace - Acoustic",
-      "url": "https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Forever Amen",
         "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 266826,
       "name": "Christ The Lord Is with Me (with Amanda Cook & Wonder Grace Gretzinger)",
       "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "No Better Day",
+      "url": "https://open.spotify.com/track/3yB5OgiAOt4Bi5MPWEIhtI"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
       },
       "artists": [
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
         }
       ],
-      "duration_ms": 182000,
-      "name": "No Better Day",
-      "url": "https://open.spotify.com/track/3yB5OgiAOt4Bi5MPWEIhtI"
+      "duration_ms": 307292,
+      "name": "Peace - Acoustic",
+      "url": "https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
+        "name": "Peace to All Who Enter Here",
+        "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
       },
       "artists": [
         {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
         }
       ],
-      "duration_ms": 170119,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
+      "duration_ms": 222800,
+      "name": "Wash Me Clean",
+      "url": "https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 170119,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Belovedness",
         "url": "https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 222666,
       "name": "Belovedness",
       "url": "https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Peace to All Who Enter Here",
-        "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Wash Me Clean",
-      "url": "https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Twenty Four",
+        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 138019,
+      "name": "06:00 Sunrise",
+      "url": "https://open.spotify.com/track/3mCfc1Sf16fonjtBdxZOXC"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Helpless One",
         "url": "https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 195466,
       "name": "Helpless One",
       "url": "https://open.spotify.com/track/4DccX20AEk2LUgaDht4eHt"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Just Like Heaven",
-        "url": "https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 336572,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Twenty Four",
-        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
+        "name": "Quiet Talk",
+        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
       },
       "artists": [
         {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
         }
       ],
-      "duration_ms": 138019,
-      "name": "06:00 Sunrise",
-      "url": "https://open.spotify.com/track/3mCfc1Sf16fonjtBdxZOXC"
+      "duration_ms": 168000,
+      "name": "Quiet Talk",
+      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Just Like Heaven",
+        "url": "https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 336572,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "If I Had Stayed",
         "url": "https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 131641,
       "name": "If I Had Stayed",
       "url": "https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Ordinary Days",
-        "url": "https://open.spotify.com/album/7dFdGVoxZ8ZLnj1sdxhys5"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 248386,
-      "name": "Ordinary Days",
-      "url": "https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Quiet Talk",
-        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
+        "name": "Ordinary Days",
+        "url": "https://open.spotify.com/album/7dFdGVoxZ8ZLnj1sdxhys5"
       },
       "artists": [
         {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Quiet Talk",
-      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
+      "duration_ms": 248386,
+      "name": "Ordinary Days",
+      "url": "https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Todos A La Mesa",
+        "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        }
+      ],
+      "duration_ms": 305562,
+      "name": "Transparente",
+      "url": "https://open.spotify.com/track/53OH88v4fyx4cqRlHE1Ezy"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Shiloh",
         "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 249321,
       "name": "It's a Wonderful Life",
       "url": "https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Todos A La Mesa",
-        "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        }
-      ],
-      "duration_ms": 305562,
-      "name": "Transparente",
-      "url": "https://open.spotify.com/track/53OH88v4fyx4cqRlHE1Ezy"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -899,18 +899,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
+        "name": "Be My Shalom",
+        "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
       },
       "artists": [
         {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
         }
       ],
-      "duration_ms": 156270,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS"
+      "duration_ms": 187943,
+      "name": "Be My Shalom",
+      "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -935,22 +939,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Be My Shalom",
-        "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
       },
       "artists": [
         {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Meredith Andrews",
-          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
         }
       ],
-      "duration_ms": 187943,
-      "name": "Be My Shalom",
-      "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
+      "duration_ms": 156270,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -967,22 +967,6 @@
       "duration_ms": 146400,
       "name": "Holy, Holy, Holy",
       "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/4UycA6we6inG3usBonCkN5"
-      },
-      "artists": [
-        {
-          "name": "Lydia Laird",
-          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1007,22 +991,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "No Hopeless Soul",
-        "url": "https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
-        }
-      ],
-      "duration_ms": 193558,
-      "name": "No Hopeless Soul - Unplugged",
-      "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Ever Closer",
         "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
       },
@@ -1039,6 +1007,38 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "No Hopeless Soul",
+        "url": "https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "duration_ms": 193558,
+      "name": "No Hopeless Soul - Unplugged",
+      "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/4UycA6we6inG3usBonCkN5"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "All Of My Best Friends (Acoustic)",
         "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 293160,
       "name": "Lord Send Revival - Acoustic",
       "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Whisper (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/3njl0Jd9S5nSGIYJxp5UuT"
+      },
+      "artists": [
+        {
+          "name": "Stillman",
+          "url": "https://open.spotify.com/artist/7oiurd2k5JbvCNjP3PWKTH"
+        }
+      ],
+      "duration_ms": 267754,
+      "name": "Whisper (Acoustic)",
+      "url": "https://open.spotify.com/track/73ZcbnETkq6chgu1RhVULY"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Whisper (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/3njl0Jd9S5nSGIYJxp5UuT"
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
       },
       "artists": [
         {
-          "name": "Stillman",
-          "url": "https://open.spotify.com/artist/7oiurd2k5JbvCNjP3PWKTH"
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
         }
       ],
-      "duration_ms": 267754,
-      "name": "Whisper (Acoustic)",
-      "url": "https://open.spotify.com/track/73ZcbnETkq6chgu1RhVULY"
+      "duration_ms": 190000,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/1R36cdLh7Km3McQxeY124h"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1107,34 +1123,54 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
+        "name": "Holy Love",
+        "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
       },
       "artists": [
         {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/1R36cdLh7Km3McQxeY124h"
+      "duration_ms": 247173,
+      "name": "Holy Love",
+      "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
     },
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Way Maker (Acoustic)",
-        "url": "https://open.spotify.com/album/5KAHkPE1V2eFznIELyRYNX"
+        "name": "Shalom",
+        "url": "https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M"
       },
       "artists": [
         {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+          "name": "Laura Hackett Park",
+          "url": "https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV"
         }
       ],
-      "duration_ms": 253378,
-      "name": "Way Maker - Acoustic",
-      "url": "https://open.spotify.com/track/4mX7EwCwqR6iW2Wl5WzDxG"
+      "duration_ms": 239500,
+      "name": "Shalom",
+      "url": "https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Perfect Peace",
+        "url": "https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "duration_ms": 260799,
+      "name": "Perfect Peace",
+      "url": "https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1155,58 +1191,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Same God (Acoustic)",
-        "url": "https://open.spotify.com/album/2r1aM6zqJOqmFBiCiQQ2Lt"
+        "name": "Way Maker (Acoustic)",
+        "url": "https://open.spotify.com/album/5KAHkPE1V2eFznIELyRYNX"
       },
       "artists": [
         {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
         }
       ],
-      "duration_ms": 224333,
-      "name": "Same God - Acoustic",
-      "url": "https://open.spotify.com/track/4Q4fzpczkjfZRdpt6P2gDW"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
-      },
-      "artists": [
-        {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        },
-        {
-          "name": "Luke Smallbone",
-          "url": "https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX"
-        }
-      ],
-      "duration_ms": 297546,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Holy Love",
-        "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
-        }
-      ],
-      "duration_ms": 247173,
-      "name": "Holy Love",
-      "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
+      "duration_ms": 253378,
+      "name": "Way Maker - Acoustic",
+      "url": "https://open.spotify.com/track/4mX7EwCwqR6iW2Wl5WzDxG"
     }
   ],
   "unique_name": "Calming Christian",

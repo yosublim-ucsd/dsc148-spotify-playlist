@@ -1,15 +1,39 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71543,
+  "num_followers": 71524,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNjA3MzcsMDAwMDAwMDBhNzlhOWIzMWFlNjNkNTMyNWE5Yjk4YjUzY2EzNTgwNQ==",
+  "snapshot_id": "MjgzMjcwMTgsMDAwMDAwMDA5NzRjNTVkZjFmY2ZjM2U0OTliZGJkNTkwYWIyNDIxOA==",
   "tracks": [
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
+      "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
+    },
+    {
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
@@ -33,7 +57,7 @@
       "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "I Could Be The One [Avicii vs Nicky Romero]",
         "url": "https://open.spotify.com/album/0sOrbRnJcNod63r49kmGVb"
@@ -53,7 +77,7 @@
       "url": "https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC"
@@ -77,7 +101,7 @@
       "url": "https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
@@ -97,7 +121,51 @@
       "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
+    },
+    {
+      "added_at": "2023-11-10 12:58:45",
+      "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+    },
+    {
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
@@ -121,27 +189,7 @@
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
-      "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
-    },
-    {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
@@ -161,7 +209,23 @@
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
+      "album": {
+        "name": "Toulouse (Bobby Anthony Vocal Mix)",
+        "url": "https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "Toulouse - Bobby Anthony Vocal Mix",
+      "url": "https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99"
+    },
+    {
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Hot Summer Nights",
         "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
@@ -181,63 +245,7 @@
       "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
-      "album": {
-        "name": "Nights With You",
-        "url": "https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "Nights With You",
-      "url": "https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc"
-    },
-    {
-      "added_at": "2023-09-25 12:17:10",
-      "album": {
-        "name": "Toulouse (Bobby Anthony Vocal Mix)",
-        "url": "https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 178124,
-      "name": "Toulouse - Bobby Anthony Vocal Mix",
-      "url": "https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99"
-    },
-    {
-      "added_at": "2023-09-25 12:17:10",
-      "album": {
-        "name": "I Need You To Know",
-        "url": "https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Ifimay",
-          "url": "https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "I Need You To Know",
-      "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
-    },
-    {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Time Keeper",
         "url": "https://open.spotify.com/album/0cY7IaQHde6rUN32qiSBgx"
@@ -261,7 +269,67 @@
       "url": "https://open.spotify.com/track/7aQ5uJmlptmX4ezpvhSPrU"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
+      "album": {
+        "name": "I Need You To Know",
+        "url": "https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Ifimay",
+          "url": "https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "I Need You To Know",
+      "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
+    },
+    {
+      "added_at": "2023-11-10 12:58:45",
+      "album": {
+        "name": "Nights With You",
+        "url": "https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "Nights With You",
+      "url": "https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc"
+    },
+    {
+      "added_at": "2023-11-10 12:58:45",
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/3knECzpm45ekkrm06q78TJ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Like Home - Radio Edit",
+      "url": "https://open.spotify.com/track/3bUbOOpXfkdDlXg5iPGdJC"
+    },
+    {
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "We're Still Young",
         "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
@@ -285,131 +353,7 @@
       "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
-      "album": {
-        "name": "Miracle (with Ellie Goulding) [Remixes]",
-        "url": "https://open.spotify.com/album/1dA4WEViR1fXqlM2eAUQab"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 206363,
-      "name": "Miracle (with Ellie Goulding) - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/6YMcn4j0bzRvAUKYgRxWax"
-    },
-    {
-      "added_at": "2023-09-25 12:17:10",
-      "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/3knECzpm45ekkrm06q78TJ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Like Home - Radio Edit",
-      "url": "https://open.spotify.com/track/3bUbOOpXfkdDlXg5iPGdJC"
-    },
-    {
-      "added_at": "2023-09-25 12:17:10",
-      "album": {
-        "name": "So Much Love",
-        "url": "https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Almero",
-          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "So Much Love",
-      "url": "https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx"
-    },
-    {
-      "added_at": "2023-09-25 12:17:10",
-      "album": {
-        "name": "Ups & Downs",
-        "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 182192,
-      "name": "Ups & Downs",
-      "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
-    },
-    {
-      "added_at": "2023-09-25 12:17:10",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Nico & Vinz",
-          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
-        }
-      ],
-      "duration_ms": 140477,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP"
-    },
-    {
-      "added_at": "2023-09-25 12:17:10",
-      "album": {
-        "name": "Give In (VE/RA Remix)",
-        "url": "https://open.spotify.com/album/2bb0dvGrReZelAiRSNqlfB"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "VE/RA",
-          "url": "https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "Give In - VE/RA Remix",
-      "url": "https://open.spotify.com/track/0dGhV1P8EXUJDNAckHGmI1"
-    },
-    {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Back To Where We Started",
         "url": "https://open.spotify.com/album/4Oe7H10BsC7n7hiAFruhQa"
@@ -429,42 +373,30 @@
       "url": "https://open.spotify.com/track/3Xkf0dPNJbLMzi2BuGmbDo"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
-        "name": "Mahoya",
-        "url": "https://open.spotify.com/album/7bLQf71ETdGuL9GgXAyn4u"
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
       },
       "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 216363,
-      "name": "Mahoya",
-      "url": "https://open.spotify.com/track/1s7ZoLVOFhBLXNIBYgavdr"
+      "duration_ms": 182192,
+      "name": "Ups & Downs",
+      "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/4LdvMHoetEhk74SqEEOz2W"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 213624,
-      "name": "Chapters",
-      "url": "https://open.spotify.com/track/1gpFuNlgfcpvXtD2TQILsQ"
-    },
-    {
-      "added_at": "2023-09-25 12:17:10",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6"
+        "name": "Give In (VE/RA Remix)",
+        "url": "https://open.spotify.com/album/2bb0dvGrReZelAiRSNqlfB"
       },
       "artists": [
         {
@@ -472,20 +404,16 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        },
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+          "name": "VE/RA",
+          "url": "https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC"
         }
       ],
-      "duration_ms": 215336,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap"
+      "duration_ms": 186857,
+      "name": "Give In - VE/RA Remix",
+      "url": "https://open.spotify.com/track/0dGhV1P8EXUJDNAckHGmI1"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
@@ -505,7 +433,7 @@
       "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
@@ -529,7 +457,31 @@
       "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        },
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 215336,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap"
+    },
+    {
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Bittersweet (ft. Quarterback) [Remixes]",
         "url": "https://open.spotify.com/album/4ePDJZwZk6pXba002oCTT6"
@@ -561,7 +513,51 @@
       "url": "https://open.spotify.com/track/2YvQO5jfnT29NL2dUwY0ou"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
+      "album": {
+        "name": "Miracle (with Ellie Goulding) [Remixes]",
+        "url": "https://open.spotify.com/album/1dA4WEViR1fXqlM2eAUQab"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 206363,
+      "name": "Miracle (with Ellie Goulding) - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/6YMcn4j0bzRvAUKYgRxWax"
+    },
+    {
+      "added_at": "2023-11-10 12:58:45",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "duration_ms": 140477,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP"
+    },
+    {
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Stay A Little Longer",
         "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
@@ -585,7 +581,43 @@
       "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
+      "album": {
+        "name": "So Much Love",
+        "url": "https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Almero",
+          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "So Much Love",
+      "url": "https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx"
+    },
+    {
+      "added_at": "2023-11-10 12:58:45",
+      "album": {
+        "name": "Mahoya",
+        "url": "https://open.spotify.com/album/7bLQf71ETdGuL9GgXAyn4u"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 216363,
+      "name": "Mahoya",
+      "url": "https://open.spotify.com/track/1s7ZoLVOFhBLXNIBYgavdr"
+    },
+    {
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Why Do I Call",
         "url": "https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN"
@@ -601,7 +633,7 @@
       "url": "https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "To The Floor (Nicky Romero Edit)",
         "url": "https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp"
@@ -621,7 +653,7 @@
       "url": "https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Hero (Nicky Romero Remix)",
         "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
@@ -645,27 +677,23 @@
       "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
-        "name": "Legacy (Radio Edit)",
-        "url": "https://open.spotify.com/album/5LQcfsPc0lQMkXhvIPG94y"
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/4LdvMHoetEhk74SqEEOz2W"
       },
       "artists": [
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 195704,
-      "name": "Legacy - Radio Edit",
-      "url": "https://open.spotify.com/track/3SGebd91gbpKanqQ2Yg9F1"
+      "duration_ms": 213624,
+      "name": "Chapters",
+      "url": "https://open.spotify.com/track/1gpFuNlgfcpvXtD2TQILsQ"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Love You Forever",
         "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
@@ -689,55 +717,7 @@
       "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        },
-        {
-          "name": "Jared Lee",
-          "url": "https://open.spotify.com/artist/7cBPcPEdhDWIoFX6BDvw1b"
-        }
-      ],
-      "duration_ms": 221428,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc"
-    },
-    {
-      "added_at": "2023-09-25 12:17:10",
-      "album": {
-        "name": "Sparks (Turn off your Mind)",
-        "url": "https://open.spotify.com/album/3rGQHCIO3ulceFJ302n5Fr"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Matthew Koma",
-          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
-        }
-      ],
-      "duration_ms": 185767,
-      "name": "Sparks (Turn Off Your Mind) - Radio Edit",
-      "url": "https://open.spotify.com/track/44NT7Dqnyrh9x76VhPNHGN"
-    },
-    {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Drown (feat. Clinton Kane) [Nicky Romero Remix]",
         "url": "https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza"
@@ -761,10 +741,10 @@
       "url": "https://open.spotify.com/track/5aRwLXpWjgXmwoJvXoYvCq"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
-        "name": "I Hope That It Hurts",
-        "url": "https://open.spotify.com/album/46qNOQ9GrhScSpo6JStrck"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv"
       },
       "artists": [
         {
@@ -772,36 +752,20 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 160214,
-      "name": "I Hope That It Hurts",
-      "url": "https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu"
-    },
-    {
-      "added_at": "2023-09-25 12:17:10",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/2ygLSy0t0RxPNo6CSybOVZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
         },
         {
-          "name": "Florian Picasso",
-          "url": "https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn"
+          "name": "Jared Lee",
+          "url": "https://open.spotify.com/artist/7cBPcPEdhDWIoFX6BDvw1b"
         }
       ],
-      "duration_ms": 145039,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/6qTP59Amjny78Qd8zayuNW"
+      "duration_ms": 221428,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/5NqGASv5yESq6lk0qkE2iI"
@@ -821,7 +785,7 @@
       "url": "https://open.spotify.com/track/4SlkCNvosh6H75Cx46Y4K0"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/1qxD0ls8NVOJrdHRrmInrR"
@@ -845,10 +809,10 @@
       "url": "https://open.spotify.com/track/2KtOOW1DN1D0AJTkJmfq3M"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/1ATxWnFY5KAry1bKnyP1yi"
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/2ygLSy0t0RxPNo6CSybOVZ"
       },
       "artists": [
         {
@@ -856,36 +820,60 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Timmo Hendriks",
-          "url": "https://open.spotify.com/artist/7rNPTious4qaZVcKH3cmX3"
-        },
-        {
-          "name": "David Shane",
-          "url": "https://open.spotify.com/artist/3Ao6gAvkCZUtj4ALBjNmXV"
+          "name": "Florian Picasso",
+          "url": "https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Into The Light",
-      "url": "https://open.spotify.com/track/75xY9IS7nE2da6q4207HsW"
+      "duration_ms": 145039,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/6qTP59Amjny78Qd8zayuNW"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
-        "name": "Stay (Festival Mix)",
-        "url": "https://open.spotify.com/album/15wVlfh4QpK89TnFa2ZBc5"
+        "name": "Sparks (Turn off your Mind)",
+        "url": "https://open.spotify.com/album/3rGQHCIO3ulceFJ302n5Fr"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        }
+      ],
+      "duration_ms": 185767,
+      "name": "Sparks (Turn Off Your Mind) - Radio Edit",
+      "url": "https://open.spotify.com/track/44NT7Dqnyrh9x76VhPNHGN"
+    },
+    {
+      "added_at": "2023-11-10 12:58:45",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
       },
       "artists": [
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 208690,
-      "name": "Stay - Festival Mix",
-      "url": "https://open.spotify.com/track/4mQguXNyYYycDFlLPgP4pS"
+      "duration_ms": 195706,
+      "name": "Legacy - Radio Edit",
+      "url": "https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Here We Go (Hey Boy, Hey Girl)",
         "url": "https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd"
@@ -905,7 +893,7 @@
       "url": "https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "18 Months",
         "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
@@ -925,7 +913,7 @@
       "url": "https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
@@ -949,7 +937,27 @@
       "url": "https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
+      "album": {
+        "name": "I Hope That It Hurts",
+        "url": "https://open.spotify.com/album/46qNOQ9GrhScSpo6JStrck"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 160214,
+      "name": "I Hope That It Hurts",
+      "url": "https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu"
+    },
+    {
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Where Would We Be",
         "url": "https://open.spotify.com/album/4309GpSGqkWBCDwGiSxqA6"
@@ -969,7 +977,7 @@
       "url": "https://open.spotify.com/track/2d3fNzMA3aUqeRFWHqzbHd"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Let Me Feel (Radio Edit)",
         "url": "https://open.spotify.com/album/0zdMvVziBUVHQn2fyBbnWV"
@@ -993,31 +1001,43 @@
       "url": "https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
-        "name": "Neon Future III",
-        "url": "https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL"
+        "name": "Everybody Clap",
+        "url": "https://open.spotify.com/album/1nm7alSq7eIZXsoLW7xg2r"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Kiiara",
-          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
         }
       ],
-      "duration_ms": 198281,
-      "name": "Be Somebody",
-      "url": "https://open.spotify.com/track/2xsx8DRlmbGJlxY4msANSB"
+      "duration_ms": 148124,
+      "name": "Everybody Clap",
+      "url": "https://open.spotify.com/track/6lMNMaq2OaE7UIQiBevauB"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
+      "album": {
+        "name": "Turn Off The Lights",
+        "url": "https://open.spotify.com/album/38RAjvvIzYVJPwYfYSg1le"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Turn Off The Lights",
+      "url": "https://open.spotify.com/track/3P6GZfi8q1UeCT15CgIKGb"
+    },
+    {
+      "added_at": "2023-11-10 12:58:45",
       "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/3OOvbFMJScD4X9ROgtLFZw"
@@ -1037,40 +1057,48 @@
       "url": "https://open.spotify.com/track/15czHLdg2X2XbtSNxXIo09"
     },
     {
-      "added_at": "2023-09-25 12:17:10",
+      "added_at": "2023-11-10 12:58:45",
       "album": {
-        "name": "Turn Off The Lights",
-        "url": "https://open.spotify.com/album/38RAjvvIzYVJPwYfYSg1le"
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/1ATxWnFY5KAry1bKnyP1yi"
       },
       "artists": [
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Turn Off The Lights",
-      "url": "https://open.spotify.com/track/3P6GZfi8q1UeCT15CgIKGb"
-    },
-    {
-      "added_at": "2023-09-25 12:17:10",
-      "album": {
-        "name": "Heart Wants What It Wants (Nicky Romero Remix)",
-        "url": "https://open.spotify.com/album/0zgPkxz8yrtIXpscCw7BIJ"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         },
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Timmo Hendriks",
+          "url": "https://open.spotify.com/artist/7rNPTious4qaZVcKH3cmX3"
+        },
+        {
+          "name": "David Shane",
+          "url": "https://open.spotify.com/artist/3Ao6gAvkCZUtj4ALBjNmXV"
         }
       ],
-      "duration_ms": 253124,
-      "name": "Heart Wants What It Wants - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/2eUFGJIrapei5Tg9Qxj7UA"
+      "duration_ms": 191250,
+      "name": "Into The Light",
+      "url": "https://open.spotify.com/track/75xY9IS7nE2da6q4207HsW"
+    },
+    {
+      "added_at": "2023-11-10 12:58:45",
+      "album": {
+        "name": "Deep Dark Jungle",
+        "url": "https://open.spotify.com/album/1rlxsVR8JsuqOiZDn9KCdW"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Teamworx",
+          "url": "https://open.spotify.com/artist/5AVL4JohmPpJASDshyUzQj"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Deep Dark Jungle",
+      "url": "https://open.spotify.com/track/09W9ZVEsg5VjGva2lM21dl"
     }
   ],
   "unique_name": "This Is Nicky Romero",

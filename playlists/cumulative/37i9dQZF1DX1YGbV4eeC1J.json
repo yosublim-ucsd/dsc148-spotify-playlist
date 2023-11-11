@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "I Belong To You",
+        "url": "https://open.spotify.com/album/6zaNQD4IJL48zCkGTEF2b1"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172035,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/2PJhzxSrHqNTfhNuFtybCQ"
+    },
+    {
+      "album": {
         "name": "I Miss You (feat. Zuchu)",
         "url": "https://open.spotify.com/album/1aqHzgNXXU3fuvrc2MRDBD"
       },

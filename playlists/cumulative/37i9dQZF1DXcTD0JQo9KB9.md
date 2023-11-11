@@ -4,7 +4,7 @@
 
 > 每人都有講唔出嘅難處同感受，但記住：我哋有彼此。見字撐住啊！
 
-114 songs - 7 hr 23 min
+115 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [給缺席的人唱首歌](https://open.spotify.com/track/1jPDZpQoMwgmP3CzmIiTxB) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Love & Loss](https://open.spotify.com/album/2irTqW2Js2rvHWJPxW39XO) | 3:57 | 2023-07-12 |  |
 | [聖馬力諾之心](https://open.spotify.com/track/46v9FzDCZyGELTEsAnnXFf) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [聖馬力諾之心](https://open.spotify.com/album/1lmrJQ24t9TlpgJDCfkEo0) | 4:26 | 2022-04-13 |  |
 | [膠 on! \(膠戰S2 主題曲\)](https://open.spotify.com/track/3Hw5UuPArZWxOQUu6tYdf1) | [6膠](https://open.spotify.com/artist/1LVOxgnKHc1CWaiNoMuQ8s) | [膠 on! \(膠戰S2 主題曲\)](https://open.spotify.com/album/1UZHXtZuKCJKRBi6mtc0DX) | 3:46 | 2022-04-13 |  |
-| [自由之夏](https://open.spotify.com/track/3f5TvxSa8JEbIxzzv9jLgZ) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [TM+M DECADE \(NCE\)](https://open.spotify.com/album/2JCQGOXk3cuUgLddaKXgji) | 3:10 | 2022-04-13 |  |
+| [自由之夏](https://open.spotify.com/track/2o02ylSNV1n5uA1vChimRw) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [自由之夏](https://open.spotify.com/album/1CflxPlilOpbKEhgJ2vO6Z) | 3:10 | 2023-07-12 |  |
+| [自由之夏](https://open.spotify.com/track/3f5TvxSa8JEbIxzzv9jLgZ) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [TM+M DECADE \(NCE\)](https://open.spotify.com/album/2JCQGOXk3cuUgLddaKXgji) | 3:10 | 2022-04-13 | 2023-11-11 |
 | [致我們的夢想 \(feat\. Jeffrey 魏浚笙\)](https://open.spotify.com/track/1lY6aCnPSoLbwpukEk9l57) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH), [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [致我們的夢想 \(feat\. Jeffrey 魏浚笙\)](https://open.spotify.com/album/6AMjxEmzxMtlDomTbD13dg) | 4:02 | 2023-07-12 |  |
 | [若世界在明日結束](https://open.spotify.com/track/6TW6Q5BnQph1zkR5shovqx) | [粉紅A](https://open.spotify.com/artist/2EzbvLK5Q66fXB66NRfs8C) | [為藝術犧牲](https://open.spotify.com/album/5td7IpItIQBQbVzBFeXCu6) | 4:31 | 2022-04-13 |  |
 | [萬一你是個好人](https://open.spotify.com/track/6lwMbAQ6RLzlXrX5Zh1rG6) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [萬一你是個好人](https://open.spotify.com/album/7l4sUDR6RnR3DVrsfrmo3g) | 3:05 | 2023-07-12 |  |

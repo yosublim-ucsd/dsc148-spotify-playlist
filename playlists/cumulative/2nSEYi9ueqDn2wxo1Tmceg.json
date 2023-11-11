@@ -4213,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "Cat Power Sings Dylan: The 1966 Royal Albert Hall Concert",
+        "url": "https://open.spotify.com/album/4OnjUMJXgFC6lG8JHOrwuu"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285040,
+      "name": "Fourth Time Around - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/2xwrxptPwS1SblukgfKPgx"
+    },
+    {
+      "album": {
         "name": "Girl with Fish",
         "url": "https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT"
       },

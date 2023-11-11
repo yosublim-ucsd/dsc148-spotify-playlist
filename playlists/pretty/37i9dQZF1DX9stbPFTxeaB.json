@@ -1,12 +1,12 @@
 {
   "description": "Blues, but funky. Or funk, but bluesy. Cover: Kenny Wayne Shepherd",
-  "num_followers": 847318,
+  "num_followers": 847397,
   "original_name": "Funky Heavy Bluesy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWNmMDdjN2Y3ODYyYTJmNzk2OTMxZjYzOTZlYjI0OWM5ZWUyNDNm",
+  "snapshot_id": "MCwzMWRhODhkODljOGI4MTIwMTBjZTc4ODA5MDFhM2QzOWE4NTNkY2E5",
   "tracks": [
     {
       "added_at": "2023-09-22 04:01:00",
@@ -23,6 +23,38 @@
       "duration_ms": 207533,
       "name": "Best Of Times",
       "url": "https://open.spotify.com/track/71Y2IwdmrmbMxB3Rq7fz4E"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Lady Love Divine",
+        "url": "https://open.spotify.com/album/0k04S34xvowUrOCGtn49xd"
+      },
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+        }
+      ],
+      "duration_ms": 184897,
+      "name": "Lady Love Divine",
+      "url": "https://open.spotify.com/track/7IUokcojGB1qGL2rBztGn8"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Train",
+        "url": "https://open.spotify.com/album/30441czI78xULystFpO9p5"
+      },
+      "artists": [
+        {
+          "name": "Shanice Green",
+          "url": "https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/2OSgMSxdu1OgPWZmjSICtt"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -807,22 +839,6 @@
     {
       "added_at": "2020-08-21 04:01:00",
       "album": {
-        "name": "Salting Earth",
-        "url": "https://open.spotify.com/album/0pVOdsazkMxlwse9tHlBlv"
-      },
-      "artists": [
-        {
-          "name": "Richie Kotzen",
-          "url": "https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Make It Easy",
-      "url": "https://open.spotify.com/track/60zfRewsKIpbmDQXImKW2C"
-    },
-    {
-      "added_at": "2020-08-21 04:01:00",
-      "album": {
         "name": "Got Soul",
         "url": "https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB"
       },
@@ -1091,26 +1107,6 @@
       "duration_ms": 302640,
       "name": "The Answer",
       "url": "https://open.spotify.com/track/4gRRWu6UKWASIQzzOzkXUx"
-    },
-    {
-      "added_at": "2020-08-21 04:01:00",
-      "album": {
-        "name": "Philip Sayce Group",
-        "url": "https://open.spotify.com/album/3O4ePFcSYhzM4RMHkG5d1j"
-      },
-      "artists": [
-        {
-          "name": "Philip Sayce Group",
-          "url": "https://open.spotify.com/artist/2aV2zINHEpRvHLmXl8AaRO"
-        },
-        {
-          "name": "Philip Sayce",
-          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
-        }
-      ],
-      "duration_ms": 309533,
-      "name": "Morning Star",
-      "url": "https://open.spotify.com/track/7fZDPth2IuCiUhvkN8OIWS"
     },
     {
       "added_at": "2020-08-21 04:01:00",

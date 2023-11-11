@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Rawayana",
+  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Iseo & Dodosound",
   "name": "Reggae en Espa\u00f1ol",
   "tracks": [
     {
@@ -524,7 +524,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 170000,
       "name": "AY MI F\u00c9!",
       "url": "https://open.spotify.com/track/1VW20Xk91ZpAffsBVeew5n"
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 213488,
       "name": "Desde Arriba",
       "url": "https://open.spotify.com/track/3PvLJaSRm8cZioNsLJYZWI"
@@ -1883,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "En La Tormenta",
+        "url": "https://open.spotify.com/album/2PbL7fuZ1qYZXlJBBhJUZC"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203665,
+      "name": "En La Tormenta",
+      "url": "https://open.spotify.com/track/7vqjWxhicufwoXsc6fBokL"
+    },
+    {
+      "album": {
         "name": "En los talones",
         "url": "https://open.spotify.com/album/4carksVZEBbst6b5EKk1Dp"
       },
@@ -1968,6 +1986,28 @@
       "duration_ms": 198434,
       "name": "Entre Sombras",
       "url": "https://open.spotify.com/track/5yWVQBSbHJRwQ0TBBuvSRY"
+    },
+    {
+      "album": {
+        "name": "Entre Sue\u00f1os y Ra\u00edces",
+        "url": "https://open.spotify.com/album/54P5ka3t8iz5aQJ87WjWih"
+      },
+      "artists": [
+        {
+          "name": "Laguna Pai",
+          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318915,
+      "name": "Entre Sue\u00f1os y Ra\u00edces",
+      "url": "https://open.spotify.com/track/5nq2HHQtaXvLmzzPRtYjCQ"
     },
     {
       "album": {
@@ -2247,6 +2287,28 @@
     },
     {
       "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "D\u0113lian",
+          "url": "https://open.spotify.com/artist/53h2h24DKU5xQcjfXXBKsI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164789,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/43pdManuxxQh80XyU51ybY"
+    },
+    {
+      "album": {
         "name": "Ganas de Verte",
         "url": "https://open.spotify.com/album/3iskV49V4RAvWSbHOBrgr7"
       },
@@ -2458,7 +2520,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-31",
+      "date_removed": null,
       "duration_ms": 204322,
       "name": "Home Sweet Home",
       "url": "https://open.spotify.com/track/1moo4754JGB02h0XqUC6Jn"
@@ -3550,7 +3612,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 206595,
       "name": "Mama No Cry",
       "url": "https://open.spotify.com/track/6GNeG8hpDoXBwPPueaHzd7"
@@ -4738,7 +4800,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 160900,
       "name": "Quiero Saber Qui\u00e9n Es Tu Novi@",
       "url": "https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO"

@@ -232,10 +232,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 156125,
       "name": "Chicas Modernas",
       "url": "https://open.spotify.com/track/1MLOHCuJBuHhd3In778RMP"
+    },
+    {
+      "album": {
+        "name": "Jacarandosa",
+        "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157492,
+      "name": "Chicas Modernas",
+      "url": "https://open.spotify.com/track/19D00rbiTgUtcSr9VfcYhZ"
     },
     {
       "album": {
@@ -394,7 +412,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 138749,
       "name": "Echando Los Perros",
       "url": "https://open.spotify.com/track/4xd0redqKCAtHlwZbozZTc"
@@ -538,7 +556,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 164623,
       "name": "El Sabio Conocedor",
       "url": "https://open.spotify.com/track/7GzZBCNVabgCDX0jPXtfvc"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-28",
+      "date_removed": null,
       "duration_ms": 211466,
       "name": "El Zorro y el Sabueso",
       "url": "https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy"
@@ -664,7 +682,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 168620,
       "name": "Es Viernes y El Cuerpo Lo Sabe",
       "url": "https://open.spotify.com/track/5v3SzNOKysnldqfaKFWkni"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 183615,
       "name": "Los D\u00edas Del Arco\u00edris",
       "url": "https://open.spotify.com/track/6mYHWQODIsDvZvpFkuIcNX"
@@ -1342,10 +1360,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 161335,
       "name": "Toca Tres Veces",
       "url": "https://open.spotify.com/track/6PKcq7TLJnXY7PrWiQJmt0"
+    },
+    {
+      "album": {
+        "name": "Sorprendente",
+        "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179374,
+      "name": "Un Enga\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/6GLVpQEhEFzyRQsPUqQtJI"
     },
     {
       "album": {
@@ -1378,7 +1414,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 142693,
       "name": "Voy a Decirle",
       "url": "https://open.spotify.com/track/5kG9Ng8DM15wTB1H1TGh8k"
@@ -1436,6 +1472,24 @@
       "duration_ms": 171720,
       "name": "Zapatos viejos",
       "url": "https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd"
+    },
+    {
+      "album": {
+        "name": "\u00bfDe Qu\u00e9 Color Es Tu Brassiere?",
+        "url": "https://open.spotify.com/album/6sMCzG3HQn7AT6VBPLXAzq"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188923,
+      "name": "\u00bfDe Qu\u00e9 Color Es Tu Brassiere?",
+      "url": "https://open.spotify.com/track/62UMoTz03A2dHcJY0NISd7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO45UHxY"

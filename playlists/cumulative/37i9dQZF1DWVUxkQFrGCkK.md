@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-342 songs - 1 day 1 hr 57 min
+343 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Got Time For Me \(with Channel Tres\)](https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Got Time For Me \(with Channel Tres\)](https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk) | 2:59 | 2023-04-13 |  |
 | [Guidance Through My Perc](https://open.spotify.com/track/4VBzyCMQxsuKHfd7y4zuOE) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS) | [Soul Rebel EP](https://open.spotify.com/album/2HvDO2Tr8b3NEiDYFqldAi) | 5:35 | 2023-06-29 | 2023-08-02 |
 | [Halele \- Alex Wann Remix](https://open.spotify.com/track/0aKzsoEohmOFHb3zVQOGkO) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Samuel Cosmic](https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Halele \(Alex Wann Remix\)](https://open.spotify.com/album/1yXnqlrXTziXCE5wOibl54) | 3:48 | 2023-09-14 | 2023-09-16 |
-| [Halele \- Alex Wann Remix](https://open.spotify.com/track/5BZ9Mrq6oWU963tjI6yAKg) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Samuel Cosmic](https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Ominira Remix EP](https://open.spotify.com/album/5eMmrUFsBQKrSMMzM3WfWd) | 3:48 | 2023-10-26 |  |
+| [Halele \- Alex Wann Remix](https://open.spotify.com/track/5BZ9Mrq6oWU963tjI6yAKg) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Samuel Cosmic](https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Ominira Remix EP](https://open.spotify.com/album/5eMmrUFsBQKrSMMzM3WfWd) | 3:48 | 2023-10-26 | 2023-11-11 |
+| [Halele \- Alex Wann Remix](https://open.spotify.com/track/5XlPOZNYfOZK7mEc6T450x) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Samuel Cosmic](https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Ominira Remix EP](https://open.spotify.com/album/71AjsoCyufesTEPvZlJGNZ) | 3:48 | 2023-11-09 |  |
 | [Happy](https://open.spotify.com/track/7arEqLvEPdAQ3yjEGgMBZt) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Help! I'm Lost...](https://open.spotify.com/album/2Wphh77GlQ14bQqBjQn0Gw) | 2:55 | 2023-06-29 |  |
 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2023-04-13 | 2023-08-21 |
 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 | 2023-08-17 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Meu Funeral",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Ci\u00e7a Moreira, Egypcio",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -270,7 +270,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 280256,
       "name": "Abismo",
       "url": "https://open.spotify.com/track/1tn7xftRY7vRGqElMEJaE0"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 189000,
       "name": "Berrini",
       "url": "https://open.spotify.com/track/0qbgGOjkWnWrjBj91QPTsV"
@@ -866,6 +866,24 @@
       "duration_ms": 181909,
       "name": "Billy Dog",
       "url": "https://open.spotify.com/track/0igu5G376i4B2QQUSaxmjZ"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3F7Zw02ymEuJu1fLZl4Yf2"
+      },
+      "artists": [
+        {
+          "name": "No Gabiru",
+          "url": "https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183114,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6XnN3odDNIC7ALIxEEkjQq"
     },
     {
       "album": {
@@ -1505,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Cora\u00e7\u00e3o Codificado",
+        "url": "https://open.spotify.com/album/6q4dxXqEwVg2Bf3SFOQmGl"
+      },
+      "artists": [
+        {
+          "name": "Gloria",
+          "url": "https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Cora\u00e7\u00e3o Codificado",
+      "url": "https://open.spotify.com/track/7p39pt1zEPGAJqhBL7VHVM"
+    },
+    {
+      "album": {
         "name": ":( UMA BAD UMA FARRA :) [Deluxe]",
         "url": "https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom"
       },
@@ -1654,6 +1690,24 @@
       "duration_ms": 262109,
       "name": "Deixar Viver",
       "url": "https://open.spotify.com/track/62mO6x70dol2LOiTGR8GvK"
+    },
+    {
+      "album": {
+        "name": "Dentes Amarelos",
+        "url": "https://open.spotify.com/album/2KwgTGfuvwNwQhTKCzarML"
+      },
+      "artists": [
+        {
+          "name": "Dead Fish",
+          "url": "https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156759,
+      "name": "Dentes Amarelos",
+      "url": "https://open.spotify.com/track/2HZ01B2TGIBQTlff9Vk7th"
     },
     {
       "album": {
@@ -1864,7 +1918,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 327600,
       "name": "Dias de Luta",
       "url": "https://open.spotify.com/track/5wbyTA4Db4Mxl2BLPTRcGN"
@@ -3026,7 +3080,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 87893,
       "name": "Imagem \u00c9 Tudo, Sua Cabe\u00e7a N\u00e3o Tem Nada",
       "url": "https://open.spotify.com/track/7mpHoeijOKCkAkU7rkdQN7"
@@ -5328,7 +5382,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 246449,
       "name": "Persistir",
       "url": "https://open.spotify.com/track/5Nq9Uxb8QL4kQAICN8nOcM"
@@ -5714,6 +5768,28 @@
       "duration_ms": 150066,
       "name": "Queima!",
       "url": "https://open.spotify.com/track/0pF769SkaUcmdqoZysvcAY"
+    },
+    {
+      "album": {
+        "name": "QUEM NUNCA??",
+        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        },
+        {
+          "name": "Egypcio",
+          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216255,
+      "name": "QUEM NUNCA??",
+      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
     },
     {
       "album": {
@@ -6707,6 +6783,24 @@
     },
     {
       "album": {
+        "name": "Te Louvarei",
+        "url": "https://open.spotify.com/album/2VurG8NqUWqYArLdPA4pik"
+      },
+      "artists": [
+        {
+          "name": "Banda LIV",
+          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276756,
+      "name": "Te Louvarei",
+      "url": "https://open.spotify.com/track/6dKHmRsN74LZ7BiMdC0znb"
+    },
+    {
+      "album": {
         "name": "A Cura",
         "url": "https://open.spotify.com/album/4tJs1uXBKXv7rP3w3XpbvE"
       },
@@ -6982,7 +7076,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 189794,
       "name": "Tudo Destru\u00eddo",
       "url": "https://open.spotify.com/track/7EPwsHvqVODaeRh66XYRrX"
@@ -7102,6 +7196,24 @@
       "duration_ms": 142293,
       "name": "UM CUPIDO ME FLECHOU",
       "url": "https://open.spotify.com/track/2oebIxdd8SZpGmdRsU90Bd"
+    },
+    {
+      "album": {
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/1ueUmJn1wDaxpWZFzH1xJc"
+      },
+      "artists": [
+        {
+          "name": "Pappa Jack",
+          "url": "https://open.spotify.com/artist/5j8yCUAAtRgPbW98Eym3oo"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200517,
+      "name": "Um Drink no Inferno",
+      "url": "https://open.spotify.com/track/1ZIL3n6FyzFWOz0fHb0SUu"
     },
     {
       "album": {

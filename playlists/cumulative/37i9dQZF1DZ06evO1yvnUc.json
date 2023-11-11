@@ -148,7 +148,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 235973,
       "name": "Cash Out (feat. ScHoolboy Q, PARTYNEXTDOOR & D.R.A.M.)",
       "url": "https://open.spotify.com/track/0Ws8D3EWUDgY962Xftb0h5"
@@ -218,6 +218,28 @@
     {
       "album": {
         "name": "Pegasus",
+        "url": "https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283285,
+      "name": "Excitement",
+      "url": "https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP"
+    },
+    {
+      "album": {
+        "name": "Pegasus",
         "url": "https://open.spotify.com/album/2vMi9So8GxXiqaT2zJXbQG"
       },
       "artists": [
@@ -232,7 +254,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 283285,
       "name": "Excitement (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/7FullO2NDkyvxLuxYVKINa"
@@ -359,7 +381,7 @@
     },
     {
       "album": {
-        "name": "Her Old Friends",
+        "name": "H e r O l d F r i e n d s",
         "url": "https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5"
       },
       "artists": [
@@ -372,7 +394,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 256117,
-      "name": "Her Old Friends",
+      "name": "H e r O l d F r i e n d s",
       "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
     },
     {
@@ -1106,6 +1128,24 @@
       "duration_ms": 212880,
       "name": "Wus Good / Curious",
       "url": "https://open.spotify.com/track/0NHvTrD8Igke3fawcp3njY"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240700,
+      "name": "You've Been Missed",
+      "url": "https://open.spotify.com/track/21w7eTmB3r5LFSyvCUQRO4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1yvnUc"

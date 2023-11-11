@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-169 songs - 12 hr 13 min
+170 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Koodu Beat](https://open.spotify.com/track/3eWSufYeo9lVW9QvorDuPz) | [Qalander](https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN) | [Koodu Beat](https://open.spotify.com/album/2HMB79pfnDfhWUtC3uosfV) | 3:35 | 2022-04-04 |  |
 | [Kramina](https://open.spotify.com/track/3W5kk8r0aKHUN5QwOIy7qh) | [Bahn Kramina](https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA) | [Mountains](https://open.spotify.com/album/5BPUrS4ypZSS836CGQ75mp) | 2:59 | 2022-12-09 |  |
 | [Krishna's Bansuri](https://open.spotify.com/track/5UkTQNURKXrJ0lKRns4Vxi) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0), [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7) | [Krishna's Bansuri](https://open.spotify.com/album/2AqZxQZwDWHCcFbLqrPunj) | 3:53 | 2023-07-13 |  |
+| [Lakshmi](https://open.spotify.com/track/6WZEQkILxxdTFQkeIoRCkr) | [Palace on Wheels](https://open.spotify.com/artist/0uZC41CwMO6fAbyQQzmjcv) | [Mahadevi](https://open.spotify.com/album/4KxdcRgJnuuiZllTc1sFMQ) | 4:52 | 2023-11-10 |  |
 | [Let Go](https://open.spotify.com/track/25zCv1s82H8p5ZeK5XiVJ9) | [Tabla Trance](https://open.spotify.com/artist/0oQittCs5XPUfsdhUI5SAw) | [Let Go](https://open.spotify.com/album/1i7rkhXIJjHhSt2mJAQ8zq) | 2:48 | 2023-06-23 |  |
 | [Lok Samastha \- Instrumental Version](https://open.spotify.com/track/4l3rzdMhFlvk48wCQhAqyN) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Indigo Sky](https://open.spotify.com/album/10s61p3x4e2Y3wBR7kgQz5) | 2:44 | 2022-10-08 | 2023-10-05 |
 | [Lost In The Moment](https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Lost In The Moment](https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5) | 3:32 | 2023-01-20 |  |

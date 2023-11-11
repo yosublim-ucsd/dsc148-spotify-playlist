@@ -11707,6 +11707,28 @@
     },
     {
       "album": {
+        "name": "Die Dunkle Biene (The Remixes)",
+        "url": "https://open.spotify.com/album/5PGOFV6zcIttYB8EvdMNqy"
+      },
+      "artists": [
+        {
+          "name": "Dominik Eulberg",
+          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
+        },
+        {
+          "name": "Robag Wruhme",
+          "url": "https://open.spotify.com/artist/47UDvjDVedKddLfGWk3keI"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345277,
+      "name": "Die Dunkle Biene - Robag Wruhme Remix",
+      "url": "https://open.spotify.com/track/6XqPsUHwZbhNz0OxY0pe1P"
+    },
+    {
+      "album": {
         "name": "Die Dunkle Biene (Robag Wruhme Remix)",
         "url": "https://open.spotify.com/album/5zA6ddZYmVKjVkUBiom1Nz"
       },
@@ -11722,7 +11744,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 345277,
       "name": "Die Dunkle Biene - Robag Wruhme Remix",
       "url": "https://open.spotify.com/track/6mhrcJwZ09LIj6AsI9dJ4y"

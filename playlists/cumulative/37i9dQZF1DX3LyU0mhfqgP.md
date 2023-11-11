@@ -4,7 +4,7 @@
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Mx Blouse
 
-974 songs - 2 day 4 hr 58 min
+975 songs - 2 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,7 +465,8 @@
 | [Into The Light](https://open.spotify.com/track/5TPDWOzyKD6aiFAQttvnU5) | [SHINJIRO ATAE \(from AAA\)](https://open.spotify.com/artist/6xQSB9lW2fMbXEP0thTSEF) | [Into The Light](https://open.spotify.com/album/0Q8akDFyF0I2GAKfEm7Aza) | 3:10 | 2023-08-08 | 2023-09-13 |
 | [Invincible](https://open.spotify.com/track/2Coxhwa6oQfrM03g6U57vw) | [Royston Noell](https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O) | [Invincible](https://open.spotify.com/album/4sUGi3g3MQF8k412qqtcbD) | 3:26 | 2023-04-13 | 2023-05-17 |
 | [IS IT YOU? \(เธอใช่มั้ย?\)](https://open.spotify.com/track/61m10u8ZsoIbdQRhiWFxxM) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [IS IT YOU? \(เธอใช่มั้ย?\)](https://open.spotify.com/album/4ncjgr42AGkgVmLacZtb91) | 3:22 | 2023-06-01 | 2023-07-12 |
-| [It Wasn't Love](https://open.spotify.com/track/6ciSRA9AM7DfcxMfZETZdz) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell \(Deluxe Edition\)](https://open.spotify.com/album/6YKimEru6vgGigbZfOPsI5) | 3:11 | 2023-10-10 |  |
+| [It Wasn't Love](https://open.spotify.com/track/3MUiNiT2ORtzpIxD9b5UC2) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell \(Deluxe Edition\)](https://open.spotify.com/album/5VTdHKo8yJhitaNtKQ2XQq) | 3:11 | 2023-10-24 |  |
+| [It Wasn't Love](https://open.spotify.com/track/6ciSRA9AM7DfcxMfZETZdz) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell \(Deluxe Edition\)](https://open.spotify.com/album/6YKimEru6vgGigbZfOPsI5) | 3:11 | 2023-10-10 | 2023-11-11 |
 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz) | 3:41 | 2022-10-08 | 2022-12-01 |
 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/6pemgHNxTnz4vRNNMLQCAe) | 3:41 | 2022-02-07 | 2022-10-13 |
 | [It's Been So Long](https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [It's Been So Long](https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I) | 3:12 | 2022-11-22 | 2022-12-01 |

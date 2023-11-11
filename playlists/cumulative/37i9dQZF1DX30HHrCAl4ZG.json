@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring new music by Arcy Drive",
+  "description": "Explore all things indie rock right now. Featuring new music by Hovvdy",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -620,7 +620,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 160786,
       "name": "Adored",
       "url": "https://open.spotify.com/track/4OzcX5qIMJay0GWEP5S6ui"
@@ -2346,6 +2346,24 @@
       "duration_ms": 262511,
       "name": "Better Than I Know Myself",
       "url": "https://open.spotify.com/track/0xg79a3ac7iAOILS1QQbPa"
+    },
+    {
+      "album": {
+        "name": "Between Your Teeth",
+        "url": "https://open.spotify.com/album/4QstdyKGItbksEglSAglQR"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311978,
+      "name": "Between Your Teeth",
+      "url": "https://open.spotify.com/track/1uwmPWrxBZ4V4WQ0QwGaZ0"
     },
     {
       "album": {
@@ -5068,7 +5086,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 220465,
       "name": "Crybaby",
       "url": "https://open.spotify.com/track/4kQVyej9KLlxX3Ro969Poa"
@@ -7028,7 +7046,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 226146,
       "name": "Evening Star Supercharger",
       "url": "https://open.spotify.com/track/2DfRUDyRZxianclImSBMQy"
@@ -7680,7 +7698,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 222351,
       "name": "Fender",
       "url": "https://open.spotify.com/track/0AT37Z1kNhJPUyeuwJqEHi"
@@ -7698,7 +7716,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 133285,
       "name": "feti\u0161h",
       "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
@@ -9092,7 +9110,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 233680,
       "name": "Hanging",
       "url": "https://open.spotify.com/track/6khrKsm3I0OJb4WB5Ogs2j"
@@ -11496,6 +11514,24 @@
       "duration_ms": 122338,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/5s2zbxZI4Ym5LTKwjZHS2V"
+    },
+    {
+      "album": {
+        "name": "Jean",
+        "url": "https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181416,
+      "name": "Jean",
+      "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
     },
     {
       "album": {
@@ -14519,6 +14555,24 @@
     },
     {
       "album": {
+        "name": "Coming Of Age",
+        "url": "https://open.spotify.com/album/1E6AKQkrmlL34EgZUaXpJ2"
+      },
+      "artists": [
+        {
+          "name": "Oscar Scheller",
+          "url": "https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191482,
+      "name": "Nightmare Blunt Rotation",
+      "url": "https://open.spotify.com/track/2vVUa9T6kzQvXD4ZYDbGoX"
+    },
+    {
+      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD"
       },
@@ -16431,6 +16485,24 @@
     },
     {
       "album": {
+        "name": "Read the Room",
+        "url": "https://open.spotify.com/album/6DU4HRGZCt9iZg58sxtYSw"
+      },
+      "artists": [
+        {
+          "name": "BEL",
+          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153103,
+      "name": "Read the Room",
+      "url": "https://open.spotify.com/track/22w30WW0AzmGGwf8lpNB12"
+    },
+    {
+      "album": {
         "name": "Ready For You",
         "url": "https://open.spotify.com/album/1h4w0lyV12u3CuxsvQvEKR"
       },
@@ -17189,6 +17261,24 @@
     },
     {
       "album": {
+        "name": "Say It Like You Mean It",
+        "url": "https://open.spotify.com/album/60Dn3hJOYD75S9SahrlWp9"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224444,
+      "name": "Say It Like You Mean It",
+      "url": "https://open.spotify.com/track/3XcEhWqxe04Qgpnsp4qUbc"
+    },
+    {
+      "album": {
         "name": "Say It Now",
         "url": "https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V"
       },
@@ -17867,6 +17957,24 @@
     },
     {
       "album": {
+        "name": "Slime",
+        "url": "https://open.spotify.com/album/44ccxqrWWElidyDHNU3W3M"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238946,
+      "name": "Slime",
+      "url": "https://open.spotify.com/track/3jWZUXWXIWDsXVwrkwjOhS"
+    },
+    {
+      "album": {
         "name": "Glasshead",
         "url": "https://open.spotify.com/album/6noSfxwRPvApqPSIcL9uGz"
       },
@@ -18240,6 +18348,24 @@
       "duration_ms": 183312,
       "name": "Something Wrong",
       "url": "https://open.spotify.com/track/4gMUmiLng8cPWB55zE33QP"
+    },
+    {
+      "album": {
+        "name": "Sophie",
+        "url": "https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194430,
+      "name": "Sophie",
+      "url": "https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR"
     },
     {
       "album": {
@@ -19477,6 +19603,24 @@
     },
     {
       "album": {
+        "name": "Tarantula Queen",
+        "url": "https://open.spotify.com/album/0K4kLLTh1kXxtSjWQpgZly"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9t Ngo",
+          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175483,
+      "name": "Tarantula Queen",
+      "url": "https://open.spotify.com/track/421Zq6CoK8P5R6bdEq26Pg"
+    },
+    {
+      "album": {
         "name": "Are You Alright?",
         "url": "https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR"
       },
@@ -19958,7 +20102,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 245225,
       "name": "The Narcissist",
       "url": "https://open.spotify.com/track/2TNyNqT3RBXhtNV7OiAgiC"
@@ -21574,7 +21718,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 197000,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3lKKT3H1gMr3zIPdauECXk"

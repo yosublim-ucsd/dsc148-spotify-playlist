@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Desde Hola",
+        "url": "https://open.spotify.com/album/2YqHcXxyejgWVXRmPoDIXf"
+      },
+      "artists": [
+        {
+          "name": "Maca & Gero",
+          "url": "https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191862,
+      "name": "Desde Hola",
+      "url": "https://open.spotify.com/track/0oQfmHrqjn3kQM1mlIf3lY"
+    },
+    {
+      "album": {
         "name": "Despu\u00e9s de la Tormenta",
         "url": "https://open.spotify.com/album/7brGiRbMHwI4ZuhmXKxuyy"
       },
@@ -774,6 +792,24 @@
       "duration_ms": 233290,
       "name": "El Gran Teatro",
       "url": "https://open.spotify.com/track/2n9rHWOVp9Dyy64MNPH3Sf"
+    },
+    {
+      "album": {
+        "name": "El Mismo Lugar",
+        "url": "https://open.spotify.com/album/5TwX9RNm1X9N7pur94b7i6"
+      },
+      "artists": [
+        {
+          "name": "Man\u00fa",
+          "url": "https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158807,
+      "name": "El Mismo Lugar",
+      "url": "https://open.spotify.com/track/1XPMT2vZddFZAKrxSWyRBN"
     },
     {
       "album": {
@@ -944,7 +980,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 173426,
       "name": "Estrella Fugaz",
       "url": "https://open.spotify.com/track/4ono3Yv2pkKMHOyhGR3XLW"
@@ -1064,6 +1100,24 @@
       "duration_ms": 184189,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/35nO174gX5eCh9mPWvUe3s"
+    },
+    {
+      "album": {
+        "name": "Inevitable (Cinco de Mil Pedazos)",
+        "url": "https://open.spotify.com/album/052FGJ4j8JLIcqBdAvmWTe"
+      },
+      "artists": [
+        {
+          "name": "Vale Garz\u00f3n",
+          "url": "https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144647,
+      "name": "Inevitable - Cinco de Mil Pedazos",
+      "url": "https://open.spotify.com/track/7nhPsUMAgvb80O9UFWGQ9I"
     },
     {
       "album": {
@@ -1982,7 +2036,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
@@ -3042,7 +3096,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 144365,
       "name": "Y quiz\u00e1s",
       "url": "https://open.spotify.com/track/0Yo6YxKiNFJxDVhxDKEUlX"

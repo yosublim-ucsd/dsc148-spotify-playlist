@@ -1443,6 +1443,28 @@
     },
     {
       "album": {
+        "name": "My Head Is a Jungle",
+        "url": "https://open.spotify.com/album/7LZrOVls554bqUDQvzCU4z"
+      },
+      "artists": [
+        {
+          "name": "Shawkie",
+          "url": "https://open.spotify.com/artist/3ZvGfQARM0fy65J41kZqOy"
+        },
+        {
+          "name": "lizardlovesme",
+          "url": "https://open.spotify.com/artist/7GSKSelxJPhrZ7DJ0Zb6Cv"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206053,
+      "name": "My Head Is a Jungle - MK Remix",
+      "url": "https://open.spotify.com/track/3vKDUus5dTKs4w8goLFbXs"
+    },
+    {
+      "album": {
         "name": "My Head Is A Jungle (MK Remix / Radio Edit)",
         "url": "https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn"
       },
@@ -1462,7 +1484,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 205161,
       "name": "My Head Is A Jungle - MK Remix / Radio Edit",
       "url": "https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB"

@@ -1,12 +1,12 @@
 {
   "description": "PRISCILLA e mais mulheres poderosas para serem ouvidas no volume m\u00e1ximo! ",
-  "num_followers": 153857,
+  "num_followers": 153929,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWQ3MGZlYWEyY2VhNmNmZTI3OGRmOGFkYWYzZDRhYjE4YzIxNjg2",
+  "snapshot_id": "MCw0ZDIxN2QyOTdiNWRhMTA2ZWFlMWUxYjI4M2I3MGMxZDVhZDU1Mjdk",
   "tracks": [
     {
       "added_at": "2023-11-08 03:00:00",
@@ -443,26 +443,6 @@
     {
       "added_at": "2023-11-08 03:00:00",
       "album": {
-        "name": "Faz Parte Do Meu Show",
-        "url": "https://open.spotify.com/album/4YyhntF13f93ty7GdhyjI1"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 163426,
-      "name": "Faz Parte Do Meu Show",
-      "url": "https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG"
-    },
-    {
-      "added_at": "2023-11-08 03:00:00",
-      "album": {
         "name": "Ele Me Falou",
         "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 209268,
       "name": "Ele Me Falou",
       "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+    },
+    {
+      "added_at": "2023-11-08 03:00:00",
+      "album": {
+        "name": "Faz Parte Do Meu Show",
+        "url": "https://open.spotify.com/album/4YyhntF13f93ty7GdhyjI1"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 163426,
+      "name": "Faz Parte Do Meu Show",
+      "url": "https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG"
     },
     {
       "added_at": "2023-11-08 03:00:00",

@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 171000,
       "name": "4 Morant (Better Luck Next Time)",
       "url": "https://open.spotify.com/track/3XOmSRuEEq7rK4XNzWQdyT"
@@ -602,6 +602,24 @@
       "duration_ms": 202886,
       "name": "Astral Dive (From \u201cIn Search of Tomorrow\u201d)",
       "url": "https://open.spotify.com/track/0lx9vIcRrJsEbDzAHun46p"
+    },
+    {
+      "album": {
+        "name": "Black Sunrise",
+        "url": "https://open.spotify.com/album/24WBB2p74iHyxqN5eDiLJh"
+      },
+      "artists": [
+        {
+          "name": "ELFL",
+          "url": "https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205645,
+      "name": "At the Crash Site",
+      "url": "https://open.spotify.com/track/6LIc7O2AijxjFzcybwkF3Y"
     },
     {
       "album": {
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 210000,
       "name": "Days Away",
       "url": "https://open.spotify.com/track/5DNfjeNIHxY4WMA5yzBCFy"
@@ -2224,6 +2242,10 @@
         {
           "name": "Local Suicide",
           "url": "https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0"
+        },
+        {
+          "name": "Dina Summer",
+          "url": "https://open.spotify.com/artist/0s4dIi02iAv3SiJfBrNhHo"
         }
       ],
       "date_added": "2023-10-23",
@@ -2272,6 +2294,24 @@
       "duration_ms": 394999,
       "name": "Eleos",
       "url": "https://open.spotify.com/track/0sW1K1i07EJfLn3FG4MG2k"
+    },
+    {
+      "album": {
+        "name": "Ellipse",
+        "url": "https://open.spotify.com/album/34ak2HWS5fLLQoG4QtSbVx"
+      },
+      "artists": [
+        {
+          "name": "XOR Gate",
+          "url": "https://open.spotify.com/artist/57kM3rAXbtSjGfbvfT7YGo"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295310,
+      "name": "Ellipse",
+      "url": "https://open.spotify.com/track/48791UfuvihI3pL5GX05WZ"
     },
     {
       "album": {
@@ -3619,6 +3659,32 @@
     },
     {
       "album": {
+        "name": "hypercaste",
+        "url": "https://open.spotify.com/album/6ftBu7bSdQneyhD2gujdCI"
+      },
+      "artists": [
+        {
+          "name": "akiaura",
+          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
+        },
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "STM",
+          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151991,
+      "name": "hypercaste",
+      "url": "https://open.spotify.com/track/7wSL7kdK3yXGOf9NDixcYb"
+    },
+    {
+      "album": {
         "name": "Hyperlandia",
         "url": "https://open.spotify.com/album/0UDVNOLLKTw4Fme8MbE1Mh"
       },
@@ -4152,6 +4218,24 @@
       "duration_ms": 339333,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/7cdI3jKrQpQqwb078eBQia"
+    },
+    {
+      "album": {
+        "name": "Kosmos",
+        "url": "https://open.spotify.com/album/1AhovHx8BJ5GGaNtqlyB2z"
+      },
+      "artists": [
+        {
+          "name": "Casiopepe",
+          "url": "https://open.spotify.com/artist/50BYdRx4iwg7QiBNyp5YM7"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361560,
+      "name": "Kosmos",
+      "url": "https://open.spotify.com/track/4X0jbC7u4PJbz0p3IM72Xn"
     },
     {
       "album": {
@@ -7376,7 +7460,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 208453,
       "name": "Sweet Gold (Ishi Rework)",
       "url": "https://open.spotify.com/track/7oMX85MldA1mO179d50SVQ"
@@ -8030,7 +8114,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 313034,
       "name": "Timeshift",
       "url": "https://open.spotify.com/track/2ZEOISOM5pxvClnCtAKQCQ"
@@ -8291,6 +8375,24 @@
     },
     {
       "album": {
+        "name": "Vertical Horizon",
+        "url": "https://open.spotify.com/album/2UBOmzhzVWQkC93x1uUHGg"
+      },
+      "artists": [
+        {
+          "name": "BLANCAh",
+          "url": "https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481639,
+      "name": "Vertical Horizon",
+      "url": "https://open.spotify.com/track/2zveRTYGSSfFbqePG6hv3n"
+    },
+    {
+      "album": {
         "name": "Outlands",
         "url": "https://open.spotify.com/album/3d410CCpB6wVI4e7JHgZeH"
       },
@@ -8476,7 +8578,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 237777,
       "name": "Waves",
       "url": "https://open.spotify.com/track/0zuoe4IlRz1yZ9wQXsBfz5"

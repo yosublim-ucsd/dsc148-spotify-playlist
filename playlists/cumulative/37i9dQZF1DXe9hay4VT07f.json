@@ -193,6 +193,28 @@
     },
     {
       "album": {
+        "name": "Bitcoin",
+        "url": "https://open.spotify.com/album/2Xfm6HJSoCwVmeTcJHIQQp"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "TroyBoss",
+          "url": "https://open.spotify.com/artist/2mjMr4WZPRQHSJSBtAUyfr"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Bitcoin",
+      "url": "https://open.spotify.com/track/6wximh7UUXaridTcdnGzNo"
+    },
+    {
+      "album": {
         "name": "demon time",
         "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
@@ -936,7 +958,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 149904,
       "name": "Dull Colour",
       "url": "https://open.spotify.com/track/2dyOTCYmyt2lhh9acGWbXA"
@@ -1444,10 +1466,32 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 136323,
       "name": "Glock 40",
       "url": "https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ"
+    },
+    {
+      "album": {
+        "name": "Glock 40",
+        "url": "https://open.spotify.com/album/6GUXVlDpDDNbRjtwfCKeYH"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Eclipse",
+          "url": "https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136385,
+      "name": "Glock 40",
+      "url": "https://open.spotify.com/track/1CVaaz9RwS2UgWWAcleX42"
     },
     {
       "album": {
@@ -2370,7 +2414,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 149333,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/4FOLsEGYFzPy1CyO0vkLwH"
@@ -3538,10 +3582,28 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 153213,
       "name": "So Mi Like It",
       "url": "https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX"
+    },
+    {
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154038,
+      "name": "So Mi Like It",
+      "url": "https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU"
     },
     {
       "album": {
@@ -3574,7 +3636,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 186958,
       "name": "Solemn Request",
       "url": "https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD"

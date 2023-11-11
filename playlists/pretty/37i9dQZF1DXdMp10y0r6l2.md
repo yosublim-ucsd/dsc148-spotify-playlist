@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Brujería en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,850 likes - 78 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,622 likes - 78 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 4 | [Panic Attack](https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Panic Attack](https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec) | 5:25 |
 | 5 | [Hartasco](https://open.spotify.com/track/3qrLhMYDUjKikG7dRLTjkJ) | [Dios Perro](https://open.spotify.com/artist/4oaVPFcvx8766bpdoVBnJH) | [Reza, Calla Y Obedece](https://open.spotify.com/album/0F7XEiH2yhXFCdbNhSCbUB) | 3:16 |
 | 6 | [Estática](https://open.spotify.com/track/1tJy7CJuv33Tre4DmrZgx3) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estática](https://open.spotify.com/album/4epHlWTKUURK4kDlRcKASZ) | 3:53 |
-| 7 | [God Save the Queen](https://open.spotify.com/track/5XJ2RmECiBQMSe5sF4BROR) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Enter Sandman EP](https://open.spotify.com/album/66s72H4sebolFClzRV107Z) | 3:19 |
+| 7 | [God Save the Queen](https://open.spotify.com/track/54rOZwtkBGbeFNypERDHZt) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Are Motörhead](https://open.spotify.com/album/5qa57QOyTJ8EeZmOEno8Rn) | 3:19 |
 | 8 | [TERRYFIGHT \(Vs Loco Arreola\)](https://open.spotify.com/track/64TXCFTQEfHHWVVM3huuqp) | [Here Comes The Kraken](https://open.spotify.com/artist/52Zn2uHVzdUXzLWl8D0uZa), [Fightback](https://open.spotify.com/artist/2BHPRJSIJTiQwoKYX0liL7) | [TERRYFIGHT \(Vs Loco Arreola\)](https://open.spotify.com/album/32UKqKvc1Uszewk648nKte) | 3:44 |
 | 9 | [Charlotte](https://open.spotify.com/track/4AIOC3TFFDclHKMJMyYOiB) | [Joliette](https://open.spotify.com/artist/7JOp3kPMRLD0DfV7xxkIE2) | [Luz de Bengala](https://open.spotify.com/album/3DpngfuWocDqX6hKU4FMAY) | 4:12 |
 | 10 | [The Werewolf Is Here](https://open.spotify.com/track/5pWHn0AgLhoPL3daPyA7qa) | [Cinthyablackcat](https://open.spotify.com/artist/3OGmEFsTXv9GNQOi8LPoVM) | [Cinthya Blackcat](https://open.spotify.com/album/2Cj46M1JbcqOVom2z4VX2V) | 3:47 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 77 | [We Will Rock You \- Udo Dirkschneider Version](https://open.spotify.com/track/5EARD3LqHo44LlvOmLJapD) | [Udo Dirkschneider](https://open.spotify.com/artist/07CIzmTuAiQk4N2OikMfbw) | [We Will Rock You \(Udo Dirkschneider Version\)](https://open.spotify.com/album/1tYRBdrU3at54ASdnsvIxj) | 3:12 |
 | 78 | [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 |
 
-Snapshot ID: `MCxmZTBjZDM1OWE2ZDhjYTU4MzI4NDk2OTA5NjY4MzFhMTRhMDQ5NDY5`
+Snapshot ID: `MCwxMjQwOTdlMzVkMDJjN2UzM2FkYjRjM2EzY2JjNzA1MzkxMzAwOThl`

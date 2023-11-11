@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:00CMSJdbf36zOzKB3z8JrR\">Victor Cardenas</a>'s favorite tracks. Updated regularly. Curated by Victor Cardenas. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 37038,
+  "num_followers": 37415,
   "original_name": "Victor Cardenas track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWNmYTdiZDAzNTdjNzk1NTMyMGM2NDcyYjZjMDM5MzZjZWFhNWZi",
+  "snapshot_id": "MCw4OGQyOTg5MGE2ZTI1NDBhZjNjNWEwNTYzODZkYzBhMjY2ODMzMTQ0",
   "tracks": [
     {
       "added_at": "2023-01-09 06:32:38",
@@ -708,7 +708,7 @@
       "added_at": "2023-01-09 06:32:38",
       "album": {
         "name": "Booyah",
-        "url": "https://open.spotify.com/album/0Dix8CfvtZEHUyJGnmPnaB"
+        "url": "https://open.spotify.com/album/5ci6vrfvJcqiaMGtgatm4o"
       },
       "artists": [
         {
@@ -726,7 +726,7 @@
       ],
       "duration_ms": 215295,
       "name": "Booyah - Radio Edit",
-      "url": "https://open.spotify.com/track/2EpS5TgdngSISM63rhBsnK"
+      "url": "https://open.spotify.com/track/74qY57XDx0sSUbVnQ8kosS"
     },
     {
       "added_at": "2023-01-09 06:32:38",
@@ -738,6 +738,18 @@
         {
           "name": "Skrillex",
           "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Michael Angelakos",
+          "url": "https://open.spotify.com/artist/6uEyZsccteU7nvDk8oiXnV"
         }
       ],
       "duration_ms": 237680,

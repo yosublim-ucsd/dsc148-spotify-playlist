@@ -2802,7 +2802,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 314608,
       "name": "Jet Black Cadillac",
       "url": "https://open.spotify.com/track/5W0GIUYxM787mpfkl84hSF"
@@ -3398,6 +3398,24 @@
       "duration_ms": 185133,
       "name": "Make It All Work Out",
       "url": "https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5"
+    },
+    {
+      "album": {
+        "name": "Make Love",
+        "url": "https://open.spotify.com/album/2LED4jDRenQlNKkmAK0G2u"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227937,
+      "name": "Make Love",
+      "url": "https://open.spotify.com/track/5Cx64YCZg2FBDTdGK9F6Cp"
     },
     {
       "album": {

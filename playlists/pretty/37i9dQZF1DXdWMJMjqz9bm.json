@@ -1,34 +1,90 @@
 {
-  "description": "A little bit of pop, a little bit of rap. Cover: Nic D & Connor Price",
-  "num_followers": 208798,
+  "description": "A little bit of pop, a little bit of rap. Cover: Connor Price & Nic D",
+  "num_followers": 211959,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjcwM2RjNGYxYWNhZTU2YzFjNjMxY2FhOWFlMDExNjZmY2ZkMzYx",
+  "snapshot_id": "MCwxZWQ4OTg1NGRkODY0MDBiYzhmZTQzM2I3YjM0MDkyZGUyMmViOGQy",
   "tracks": [
     {
-      "added_at": "2023-09-07 17:35:47",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "ask for much",
-        "url": "https://open.spotify.com/album/6oUtWwvUrLUBpI4NN8cZi0"
+        "name": "No Bad Side",
+        "url": "https://open.spotify.com/album/0oKjr7qLCpEtPRtsJ6wZgr"
       },
       "artists": [
         {
-          "name": "gianni & kyle",
-          "url": "https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn"
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
         }
       ],
-      "duration_ms": 150994,
-      "name": "ask for much",
-      "url": "https://open.spotify.com/track/2G159avHRqHYDvjp5tn0fn"
+      "duration_ms": 145621,
+      "name": "No Bad Side",
+      "url": "https://open.spotify.com/track/2yxqNH9oUUzBl2eNbvrRHe"
+    },
+    {
+      "added_at": "2023-10-20 16:05:02",
+      "album": {
+        "name": "TEA TIME",
+        "url": "https://open.spotify.com/album/4Cn5xL9Bn15qCxIByqQYic"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        },
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        }
+      ],
+      "duration_ms": 140318,
+      "name": "TEA TIME",
+      "url": "https://open.spotify.com/track/2dqCuDCcwHVZHWJnt8oT1L"
+    },
+    {
+      "added_at": "2023-10-13 17:04:56",
+      "album": {
+        "name": "Fishnets",
+        "url": "https://open.spotify.com/album/3mfeRfnXvnOSGr3BgHWAIs"
+      },
+      "artists": [
+        {
+          "name": "Croosh",
+          "url": "https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Fishnets",
+      "url": "https://open.spotify.com/track/6JnLTBWxTM8M25AJuyFCs2"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "names&places",
+        "url": "https://open.spotify.com/album/3NuixQfGZNHvy5BgfAk2QK"
+      },
+      "artists": [
+        {
+          "name": "Buppy.",
+          "url": "https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4"
+        }
+      ],
+      "duration_ms": 142290,
+      "name": "madison, wisconsin",
+      "url": "https://open.spotify.com/track/7vCS01P8zDV8nvxqaOZ5AO"
     },
     {
       "added_at": "2023-09-05 14:34:54",
       "album": {
-        "name": "Ashin' Blunts (feat. Arden Jones)",
-        "url": "https://open.spotify.com/album/2Izbj4RptmAWte7yXLGv5X"
+        "name": "Ashin\u2019 Blunts (feat. Arden Jones)",
+        "url": "https://open.spotify.com/album/5jhlUotsAqL2I31M7f1Ui7"
       },
       "artists": [
         {
@@ -42,27 +98,7 @@
       ],
       "duration_ms": 138750,
       "name": "Ashin' Blunts (feat. Arden Jones)",
-      "url": "https://open.spotify.com/track/4zL03IAgp23CoVpXZ1PyBj"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1XGxp9TXJQUNw2gbybZHKm"
-      },
-      "artists": [
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        },
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/1tYTIFvg7nCrVnmiK88yOr"
+      "url": "https://open.spotify.com/track/1W3bGB7MjO9ka88Vffmfq9"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -89,6 +125,62 @@
       "url": "https://open.spotify.com/track/1kCXmKWlfc9tZIp3Thumkl"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Father's Eyes (feat. Stan Walker)",
+        "url": "https://open.spotify.com/album/2AjIya9H5LNYjFS2ipFUXt"
+      },
+      "artists": [
+        {
+          "name": "Kobie Dee",
+          "url": "https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO"
+        },
+        {
+          "name": "Stan Walker",
+          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
+        }
+      ],
+      "duration_ms": 172340,
+      "name": "Father's Eyes (feat. Stan Walker)",
+      "url": "https://open.spotify.com/track/5nxQzwAkcKPPOhF7RBLDWg"
+    },
+    {
+      "added_at": "2023-10-20 16:05:02",
+      "album": {
+        "name": "WILT",
+        "url": "https://open.spotify.com/album/2mkXgPo3PbyDdK4Nkbyelr"
+      },
+      "artists": [
+        {
+          "name": "Wahid",
+          "url": "https://open.spotify.com/artist/1kiX1oBF90ZSWJoXSiFy8x"
+        },
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        }
+      ],
+      "duration_ms": 138702,
+      "name": "WILT",
+      "url": "https://open.spotify.com/track/75CFbq4XcRJcVnCDIJ5gnm"
+    },
+    {
+      "added_at": "2023-10-13 17:04:56",
+      "album": {
+        "name": "2 face",
+        "url": "https://open.spotify.com/album/6PEPxwLeqrgYHPKUWzxDp6"
+      },
+      "artists": [
+        {
+          "name": "gianni & kyle",
+          "url": "https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn"
+        }
+      ],
+      "duration_ms": 129151,
+      "name": "2 face",
+      "url": "https://open.spotify.com/track/6sxwD5Uul3BpDFTGIDdtV1"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "SANTIAGO",
@@ -103,6 +195,42 @@
       "duration_ms": 190915,
       "name": "No More",
       "url": "https://open.spotify.com/track/2t0y99SWyC7f2ZQZC4LbGw"
+    },
+    {
+      "added_at": "2023-10-13 17:04:56",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1blmgrdzwfAKML3bek7xfg"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/7MljuHS2zehnQXikZ2R1J1"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "SELF CARE",
+        "url": "https://open.spotify.com/album/2gUv8u6L3fCT7pDm5FMleh"
+      },
+      "artists": [
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "SELF CARE",
+      "url": "https://open.spotify.com/track/6xJ8pLfdfnJBpQR6i8J4jq"
     },
     {
       "added_at": "2023-09-07 17:35:47",
@@ -135,6 +263,38 @@
       "duration_ms": 116307,
       "name": "god damn!",
       "url": "https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "girls like you",
+        "url": "https://open.spotify.com/album/6LcODo6pn4vz9XokfBsmfN"
+      },
+      "artists": [
+        {
+          "name": "Obai",
+          "url": "https://open.spotify.com/artist/54u3tnWEeHQ7UfY0FXJZ8h"
+        }
+      ],
+      "duration_ms": 137789,
+      "name": "girls like you",
+      "url": "https://open.spotify.com/track/6rPwolS0uPBqqe2KGOSTcU"
+    },
+    {
+      "added_at": "2023-10-13 17:04:56",
+      "album": {
+        "name": "Where Silence Feels Good",
+        "url": "https://open.spotify.com/album/1zZtWZtxj8aOb8ZnpMesgL"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        }
+      ],
+      "duration_ms": 200351,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/5ARsU1fvymGbezhA8HNcQj"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -173,6 +333,22 @@
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9"
+      },
+      "artists": [
+        {
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+        }
+      ],
+      "duration_ms": 133365,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA"
+    },
+    {
       "added_at": "2023-07-14 16:00:00",
       "album": {
         "name": "HATED US",
@@ -191,42 +367,6 @@
       "duration_ms": 166363,
       "name": "HATED US",
       "url": "https://open.spotify.com/track/07mp614wVP17UQqEJ4577F"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Till Next Time",
-        "url": "https://open.spotify.com/album/4II5QvivVfEYgeuZf0kYfT"
-      },
-      "artists": [
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        },
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        }
-      ],
-      "duration_ms": 128464,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/7tNHLrbkBhU6xh0GL0gTtQ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9"
-      },
-      "artists": [
-        {
-          "name": "Kyle Hume",
-          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
-        }
-      ],
-      "duration_ms": 133365,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -267,6 +407,22 @@
       "duration_ms": 130761,
       "name": "Indy 500",
       "url": "https://open.spotify.com/track/7boOv0Ph2myAueof7CrrUt"
+    },
+    {
+      "added_at": "2023-09-07 17:35:47",
+      "album": {
+        "name": "ask for much",
+        "url": "https://open.spotify.com/album/6oUtWwvUrLUBpI4NN8cZi0"
+      },
+      "artists": [
+        {
+          "name": "gianni & kyle",
+          "url": "https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn"
+        }
+      ],
+      "duration_ms": 150994,
+      "name": "ask for much",
+      "url": "https://open.spotify.com/track/2G159avHRqHYDvjp5tn0fn"
     },
     {
       "added_at": "2023-09-05 14:34:54",
@@ -1057,26 +1213,6 @@
       "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Not A Beanie",
-        "url": "https://open.spotify.com/album/4F1YoKwWwbDBWq4qSgOz8v"
-      },
-      "artists": [
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        },
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 136783,
-      "name": "Not A Beanie",
-      "url": "https://open.spotify.com/track/1QwLR9LauBPSIdhSCmwTqY"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "eyes wide, open air",
@@ -1387,8 +1523,8 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "do it all",
-        "url": "https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf"
+        "name": "leave me where you found me",
+        "url": "https://open.spotify.com/album/1f19gczYsoUBsqpiG2UFR3"
       },
       "artists": [
         {
@@ -1398,7 +1534,7 @@
       ],
       "duration_ms": 96000,
       "name": "do it all",
-      "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
+      "url": "https://open.spotify.com/track/0W9PTP67SR6IrBYub9GsBC"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1420,7 +1556,7 @@
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Over & Done",
-        "url": "https://open.spotify.com/album/1202C1Z8kSjcCgfz33mCeu"
+        "url": "https://open.spotify.com/album/1kzoSbgJa9DYLa9eJoazZi"
       },
       "artists": [
         {
@@ -1430,7 +1566,7 @@
       ],
       "duration_ms": 121782,
       "name": "Over & Done",
-      "url": "https://open.spotify.com/track/2SrYguoTayQPWhMqlYiRPJ"
+      "url": "https://open.spotify.com/track/6hEvt7xqyMq5UC3cpInDPc"
     },
     {
       "added_at": "2023-02-17 05:01:00",
@@ -1712,7 +1848,7 @@
       "added_at": "2022-12-02 17:00:00",
       "album": {
         "name": "End of Time",
-        "url": "https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU"
+        "url": "https://open.spotify.com/album/3XmZANtEMaFvy8CGBHiJZy"
       },
       "artists": [
         {
@@ -1722,7 +1858,7 @@
       ],
       "duration_ms": 150706,
       "name": "I Need That",
-      "url": "https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia"
+      "url": "https://open.spotify.com/track/7rAF5wL1bYlEaiTpduBFxk"
     },
     {
       "added_at": "2022-09-16 04:01:00",

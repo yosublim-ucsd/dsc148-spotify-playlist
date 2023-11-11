@@ -4,7 +4,7 @@
 
 > Aquí vive el hip\-hop mexicano\. La Liga Malandra en la casa.
 
-444 songs - 1 day 2 hr 23 min
+445 songs - 1 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 | 2022-01-28 | 2023-11-04 |
 | [Mexicano Hlm](https://open.spotify.com/track/78e99L4fvnow9pXDrFkFMc) | [Perro Zw](https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv) | [Mexicano Hlm](https://open.spotify.com/album/4GpsMeL4eimDCCOCOzKA1j) | 4:23 | 2023-10-13 |  |
 | [Mexicanos Bravos](https://open.spotify.com/track/2jXfyuL0PbApA4GVn6pWhV) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Mexicanos Bravos](https://open.spotify.com/album/3m1UaPJRxE8fDFcZ8u9L4I) | 3:38 | 2023-05-05 | 2023-09-02 |
+| [Mexikan](https://open.spotify.com/track/2CQQm6eZY2ZeLQPDZvvBmm) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Mexikan](https://open.spotify.com/album/3EsWyuDkCTFPVxQAOih8JY) | 3:34 | 2023-11-10 |  |
 | [MEXplico](https://open.spotify.com/track/1OaFL3gpHNx2PiEz0hffns) | [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [MEXplico](https://open.spotify.com/album/16kWk2uwcbxaAUjs1BwDMO) | 2:13 | 2023-06-02 | 2023-09-16 |
 | [Mi Fucking Vida Loca](https://open.spotify.com/track/5TaEqPEcVumcFj6BIJUUUc) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Mi Fucking Vida Loca](https://open.spotify.com/album/5FYjXEhiF2tJ3mNXGoe079) | 3:26 | 2022-04-15 | 2023-05-06 |
 | [Mi Palabra](https://open.spotify.com/track/1IdekOdej4Vw06T9CHT4qF) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Mi Palabra](https://open.spotify.com/album/0D04x5FrJ52Zc0fuqknEcW) | 3:10 | 2022-01-28 | 2022-04-16 |
@@ -324,7 +325,7 @@
 | [Prohibida](https://open.spotify.com/track/1ax1dPQHLGFZfIu1JdWdsm) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Prohibida](https://open.spotify.com/album/5PMYtsW0XUpaPLGntAkOCD) | 3:26 | 2023-06-23 |  |
 | [Puesta a Punto](https://open.spotify.com/track/2s7PgpafvRvsBGOAgJN6Pd) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Puesta a Punto](https://open.spotify.com/album/1iZWwAhTs7yRvC29yIiX8r) | 2:12 | 2022-04-15 | 2022-05-14 |
 | [Pura Borrachera](https://open.spotify.com/track/5vUS4CKCdpX0Sn9eTEEXN6) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Pura Borrachera](https://open.spotify.com/album/2iZVXuF5HQwXFPNktQi3n6) | 3:24 | 2022-01-28 | 2022-10-15 |
-| [Pyrena](https://open.spotify.com/track/7MKnsR724cqW116c2Dcmp2) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Pyrena](https://open.spotify.com/album/5IsEaU2WTXyGBT9OwiTx2B) | 3:46 | 2023-04-28 |  |
+| [Pyrena](https://open.spotify.com/track/7MKnsR724cqW116c2Dcmp2) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Pyrena](https://open.spotify.com/album/5IsEaU2WTXyGBT9OwiTx2B) | 3:46 | 2023-04-28 | 2023-11-11 |
 | [Pólvora](https://open.spotify.com/track/5APKIKW8ptXpHd868lOElb) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [Pólvora](https://open.spotify.com/album/7dpnBTXwqTWNzSG40bm4Ev) | 2:40 | 2023-09-08 |  |
 | [Que Si Fumo Tanto](https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Que Si Fumo Tanto](https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL) | 3:40 | 2022-07-25 | 2022-09-30 |
 | [Que Si Fumo Tanto](https://open.spotify.com/track/7AZH7Vn8THaOuaCmrKlMAk) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Que Si Fumo Tanto](https://open.spotify.com/album/1UsVwNTkhyn85UWR6RBbam) | 3:40 | 2022-01-28 | 2022-07-29 |

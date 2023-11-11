@@ -2,7 +2,7 @@
 
 ### [Chill Instrumental Beats](https://open.spotify.com/playlist/37i9dQZF1DX0khTY3HFA4M)
 
-> Instrumental beats to chill to.
+> Relaxing instrumental beats to chill to.
 
 664 songs - 1 day 2 hr 2 min
 

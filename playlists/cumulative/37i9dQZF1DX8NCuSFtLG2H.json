@@ -416,6 +416,28 @@
     {
       "album": {
         "name": "New Ancient Strings",
+        "url": "https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270706,
+      "name": "Cheikhna Demba",
+      "url": "https://open.spotify.com/track/5hE6tM4nogYUivqDzKuN2h"
+    },
+    {
+      "album": {
+        "name": "New Ancient Strings",
         "url": "https://open.spotify.com/album/7a7Xdw5yyPKB5AZnfvDvUy"
       },
       "artists": [
@@ -452,28 +474,6 @@
       "duration_ms": 270706,
       "name": "Cheiknah Demba",
       "url": "https://open.spotify.com/track/1r0OCE0dRyC8CzwyoAu1n3"
-    },
-    {
-      "album": {
-        "name": "New Ancient Strings",
-        "url": "https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X"
-      },
-      "artists": [
-        {
-          "name": "Toumani Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
-        },
-        {
-          "name": "Ballak\u00e9 Sissoko",
-          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
-        }
-      ],
-      "date_added": "2022-07-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 270706,
-      "name": "Cheiknah Demba",
-      "url": "https://open.spotify.com/track/5hE6tM4nogYUivqDzKuN2h"
     },
     {
       "album": {

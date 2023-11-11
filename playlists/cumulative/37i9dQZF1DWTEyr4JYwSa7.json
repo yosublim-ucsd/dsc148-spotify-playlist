@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "_dec carte de no\u00ebl",
+        "url": "https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124960,
+      "name": "_dec carte de no\u00ebl",
+      "url": "https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1"
+    },
+    {
+      "album": {
         "name": "Cosy Christmas Tunes",
         "url": "https://open.spotify.com/album/7IrygJtjkpJj6z7lWm0vAr"
       },
@@ -712,7 +730,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 140466,
       "name": "C'est No\u00ebl",
       "url": "https://open.spotify.com/track/4US3M3oVGLNUNvIRAPfQcE"
@@ -2556,7 +2574,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 266933,
       "name": "Le ciel \u00e9tait blanc",
       "url": "https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ"
@@ -2787,6 +2805,24 @@
     },
     {
       "album": {
+        "name": "Le sentier de neige",
+        "url": "https://open.spotify.com/album/6XbUryKvYK2FhYxGmUbCvT"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238913,
+      "name": "Le sentier de neige",
+      "url": "https://open.spotify.com/track/3nfMEWUbuSL5hpWidpkqaP"
+    },
+    {
+      "album": {
         "name": "Les 16 plus grands succ\u00e8s",
         "url": "https://open.spotify.com/album/6BkrWmXC9uhHG3qxXrQ9Nc"
       },
@@ -2874,7 +2910,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 177586,
       "name": "Les soeurs crevette",
       "url": "https://open.spotify.com/track/1ELX43S4uTTUavCNWQ1Bgx"
@@ -4206,7 +4242,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 203692,
       "name": "No\u00ebl ne veut rien dire sans toi",
       "url": "https://open.spotify.com/track/6B9P8QWO4rSIxDUiuQigQI"
@@ -4376,7 +4412,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 168360,
       "name": "No\u00ebl sur la 40",
       "url": "https://open.spotify.com/track/6qFElyl2Eidg58D6FYWvrU"
@@ -5998,7 +6034,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 189916,
       "name": "\u00c0 la fin d\u00e9cembre",
       "url": "https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV"

@@ -468,10 +468,28 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 155306,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/29M6pJLcQiCaO15QhPrHFT"
+    },
+    {
+      "album": {
+        "name": "NOHAUS",
+        "url": "https://open.spotify.com/album/0j4sovTWFCVJ5gcc8QKATA"
+      },
+      "artists": [
+        {
+          "name": "Nohemy",
+          "url": "https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155306,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/2lc291NrZptS7FWxOH8Yle"
     },
     {
       "album": {

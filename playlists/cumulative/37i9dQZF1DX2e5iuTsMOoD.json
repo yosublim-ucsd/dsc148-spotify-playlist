@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "The Beatles 1967 \u2013 1970 (2023 Edition)",
+        "url": "https://open.spotify.com/album/2AlPRfYeskAMxhJS00xjeP"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191720,
+      "name": "Hey Bulldog - 2023 Mix",
+      "url": "https://open.spotify.com/track/3iGns07SjzqHZGn6h8FKVS"
+    },
+    {
+      "album": {
         "name": "Miami Lighthouse for the Blind Presents: Instrumental Magic",
         "url": "https://open.spotify.com/album/5j7NYV0Nk1lPR70kqIDvDF"
       },
@@ -878,7 +896,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 161690,
       "name": "What's Chasing You",
       "url": "https://open.spotify.com/track/2gGl2YokMEhgsB3CUJaW3u"

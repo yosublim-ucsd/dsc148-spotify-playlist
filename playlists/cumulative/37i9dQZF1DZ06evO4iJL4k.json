@@ -173,6 +173,28 @@
     },
     {
       "album": {
+        "name": "Numa Margem Distante",
+        "url": "https://open.spotify.com/album/7FlYqBtcwB9b51uq0OZYjJ"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88305,
+      "name": "Asfalto do Catete",
+      "url": "https://open.spotify.com/track/09fXcqx1zzseDgXTBT1Pbo"
+    },
+    {
+      "album": {
         "name": "Bando",
         "url": "https://open.spotify.com/album/6ooI3OR7HdGiiTMUWXgfQp"
       },
@@ -212,7 +234,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 380689,
       "name": "Bando",
       "url": "https://open.spotify.com/track/0XQqDiOmHFnITVwNohti8w"
@@ -782,7 +804,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 187657,
       "name": "Nike Air",
       "url": "https://open.spotify.com/track/13ZWKQn8RnPBLeNC0g0XGb"
@@ -804,6 +826,32 @@
       "duration_ms": 190241,
       "name": "Nova Sorte",
       "url": "https://open.spotify.com/track/05xyGlj1EKsjZHAR0wlD8L"
+    },
+    {
+      "album": {
+        "name": "Novinha Grandona",
+        "url": "https://open.spotify.com/album/0S038UJN1XgC1Asdx97gLJ"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Novinha Grandona",
+      "url": "https://open.spotify.com/track/5VhV7UaJv6HTt6lbr9oxPx"
     },
     {
       "album": {

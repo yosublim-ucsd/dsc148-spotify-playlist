@@ -382,7 +382,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 295259,
       "name": "He's Never Failed Me Yet",
       "url": "https://open.spotify.com/track/6Bp8h3BcbzpiZaETIp6J9W"
@@ -426,6 +426,24 @@
     {
       "album": {
         "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/3zcJQVAiPUCcOcUcIg62lY"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307460,
+      "name": "Holy Forever - Single Version",
+      "url": "https://open.spotify.com/track/0D2Yn5mrMA0alPWlRwiaR1"
+    },
+    {
+      "album": {
+        "name": "Holy Forever",
         "url": "https://open.spotify.com/album/3lEsF7vsvyhRuP0MTjCuj4"
       },
       "artists": [
@@ -436,7 +454,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 307460,
       "name": "Holy Forever - Single Version",
       "url": "https://open.spotify.com/track/7EhoE7vi7slUIsMKrfy1yB"

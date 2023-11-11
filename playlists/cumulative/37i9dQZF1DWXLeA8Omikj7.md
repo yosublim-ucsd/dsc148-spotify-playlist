@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-871 songs - 2 day 14 hr 10 min
+872 songs - 2 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,7 +445,7 @@
 | [Little Guy](https://open.spotify.com/track/3Ca3zAKGzcrd9ToMleCcdX) | [Bob Juburi](https://open.spotify.com/artist/4LOhQlFTKM4iFTNlpueiqM) | [Little Guy](https://open.spotify.com/album/5D0r2UquUzoaVC2HQcD1h0) | 2:26 | 2019-07-25 | 2020-10-22 |
 | [Live Ambient 8](https://open.spotify.com/track/1dUZgreAdnfoLyUStKQ2lN) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Live Ambient Improvised Recordings, Vol\. 1](https://open.spotify.com/album/38Vwhxf7JAO7ErH2h4j9q0) | 6:55 | 2021-02-27 | 2022-05-25 |
 | [Live Ambient 8](https://open.spotify.com/track/6sIDaDtNWydboSKd3rnOWV) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Live Ambient Improvised Recordings, Vol\. 1](https://open.spotify.com/album/6X32uxtJkOAe5RI0yOhM67) | 6:55 | 2023-09-29 |  |
-| [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 | 2023-10-13 |  |
+| [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 | 2023-10-13 | 2023-11-11 |
 | [Log In Your Fire](https://open.spotify.com/track/6yliSAfFs2LzlfHAMLX7ds) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Log In Your Fire](https://open.spotify.com/album/5U5jYij147XIbaDyRMU0gq) | 2:51 | 2021-08-13 | 2022-04-21 |
 | [London Island](https://open.spotify.com/track/6Z0xV1FASyxZ76L15nMSs2) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Love + Light](https://open.spotify.com/album/1z6IaOUkRc2bcZvpQ9vN31) | 5:49 | 2020-08-26 | 2022-04-20 |
 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 | 2022-07-15 |  |
@@ -492,6 +492,7 @@
 | [Moons](https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Moons](https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb) | 3:37 | 2019-05-26\* | 2022-04-14 |
 | [Moreland Ave Blues](https://open.spotify.com/track/2UjfG900kB2JXqUJFvJDlZ) | [Daily Bread](https://open.spotify.com/artist/4IsiG6RpDyRq6Frd2CvddW) | [Big Beat Ignition: Denver](https://open.spotify.com/album/47zlYviFuVRJKMCwHJH38h) | 3:29 | 2019-06-19\* | 2020-08-26 |
 | [Moro Cut](https://open.spotify.com/track/2gvtTBUPw8bnoC6Jj4ZFHG) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve), [yunis](https://open.spotify.com/artist/7mwowsRa7r8SLzx93Xqc0g) | [Moro Cut](https://open.spotify.com/album/4PSCc5YmzhKTLmi1isOQ2E) | 3:44 | 2019-06-19\* | 2020-10-19 |
+| [Motherboard \(Drumless Edition\)](https://open.spotify.com/track/5nuJ5frI7lmdPYjgyoBrqm) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Motherboard \(Drumless Edition\)](https://open.spotify.com/album/3F003WxyVe3ze6rwlI7LJ9) | 5:41 | 2023-11-10 |  |
 | [Motiv](https://open.spotify.com/track/6tMlZ7A82O7qNHJPryu2oF) | [Infinity Shred](https://open.spotify.com/artist/17wNCnrQvAUPyVZ8FOZeni) | [Long Distance](https://open.spotify.com/album/0PV4prUWnHkJ1EtwkCZVAB) | 4:07 | 2019-06-20 | 2022-04-19 |
 | [Move With Me](https://open.spotify.com/track/1wNZhnMWaMU2PB9QXqXLiQ) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [When U Call](https://open.spotify.com/album/05ZogGOdBRaOXcS9wVBprG) | 7:06 | 2022-02-11 | 2022-07-22 |
 | [Movement 6](https://open.spotify.com/track/4F7AJSzHZFqqWOsPX3lvDq) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/1LqgEMQNmL2yvjsGpihGee) | 8:50 | 2021-03-27 | 2022-07-29 |

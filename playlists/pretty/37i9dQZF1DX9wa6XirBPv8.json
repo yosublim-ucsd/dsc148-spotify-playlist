@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Something Corporate",
-  "num_followers": 1626546,
+  "num_followers": 1627120,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDU2Mjk0M2M2OGM1ODk5YjA4NzdmNzQ0YjI5OGIzZDk0ZDE0MGNj",
+  "snapshot_id": "MCxmYmQxN2IzZjFjMTJmZTFkNTczNjQ1NTljZGJhOGYxN2FmMmQwZTQw",
   "tracks": [
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
+        "name": "Instant Gratification",
+        "url": "https://open.spotify.com/album/60LbtmnmOLTkz8ZiVhbynM"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "We Own the Night",
+      "url": "https://open.spotify.com/track/7xCcUcMcGsIYGKUVgBZUw5"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/58Jc2HiAkRzpBQlbknJbtP"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Decadence",
-        "url": "https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6"
-      },
-      "artists": [
-        {
-          "name": "Head Automatica",
-          "url": "https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Beating Heart Baby",
-      "url": "https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Diary (2009 Edition)",
         "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 298413,
       "name": "In Circles - Remastered",
       "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Decadence",
+        "url": "https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6"
+      },
+      "artists": [
+        {
+          "name": "Head Automatica",
+          "url": "https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Beating Heart Baby",
+      "url": "https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Instant Gratification",
-        "url": "https://open.spotify.com/album/60LbtmnmOLTkz8ZiVhbynM"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "We Own the Night",
-      "url": "https://open.spotify.com/track/7xCcUcMcGsIYGKUVgBZUw5"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Maybe I'll Catch Fire",
         "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 203240,
       "name": "Stare At The Sun",
       "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Can't Be Saved",
+      "url": "https://open.spotify.com/track/3PHhctErNOXWqevrZDUyNy"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Still Searching",
-        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Can't Be Saved",
-      "url": "https://open.spotify.com/track/3PHhctErNOXWqevrZDUyNy"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "\"Watch out!\"",
         "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 249066,
       "name": "Accidents",
       "url": "https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
-        "name": "Dear Diary, My Teen Angst Has A Body Count",
-        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
+        "name": "Dear Diary, My Teen Angst Has A Body Count",
+        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
         "name": "Chroma",
         "url": "https://open.spotify.com/album/6YdfLXc1XlgsDeHCg6e37Q"
       },
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Best I Never Had",
-        "url": "https://open.spotify.com/album/5fXNchpJ8jblaAsFQgVjLH"
-      },
-      "artists": [
-        {
-          "name": "The Downtown Fiction",
-          "url": "https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL"
-        }
-      ],
-      "duration_ms": 199959,
-      "name": "I Just Wanna Run",
-      "url": "https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "What To Do When You Are Dead",
         "url": "https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 228706,
       "name": "Car Underwater",
       "url": "https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Best I Never Had",
+        "url": "https://open.spotify.com/album/5fXNchpJ8jblaAsFQgVjLH"
+      },
+      "artists": [
+        {
+          "name": "The Downtown Fiction",
+          "url": "https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL"
+        }
+      ],
+      "duration_ms": 199959,
+      "name": "I Just Wanna Run",
+      "url": "https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R"
     },
     {
       "added_at": "2023-10-22 18:43:11",

@@ -46,7 +46,7 @@
     {
       "album": {
         "name": "90's Motherfucker EP",
-        "url": "https://open.spotify.com/album/6sgemRh3m3UJHGOoXDUJns"
+        "url": "https://open.spotify.com/album/0wwEi5T8qt74Dswgs3ZILy"
       },
       "artists": [
         {
@@ -57,6 +57,24 @@
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 384000,
+      "name": "90's Motherfucker",
+      "url": "https://open.spotify.com/track/25lyhew4IMas5QaM19Mzap"
+    },
+    {
+      "album": {
+        "name": "90's Motherfucker EP",
+        "url": "https://open.spotify.com/album/6sgemRh3m3UJHGOoXDUJns"
+      },
+      "artists": [
+        {
+          "name": "Alex Farell",
+          "url": "https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
       "duration_ms": 384000,
       "name": "90's Motherfucker",
       "url": "https://open.spotify.com/track/3p2QArx9ymlkvY9YhmdPhA"
@@ -606,8 +624,8 @@
       },
       "artists": [
         {
-          "name": "Sandro Mur\u00e9",
-          "url": "https://open.spotify.com/artist/584kmgeEzXMEgWCshfQuvt"
+          "name": "Sandro Mure",
+          "url": "https://open.spotify.com/artist/12g8oO9UggU3vxTYUTH7oO"
         }
       ],
       "date_added": "2023-09-22",
@@ -736,7 +754,7 @@
     {
       "album": {
         "name": "The Drug EP",
-        "url": "https://open.spotify.com/album/6Tk5Awv0RMGNgFQuKDqfKA"
+        "url": "https://open.spotify.com/album/0RmNKtCORPpwyaiq1zCzIF"
       },
       "artists": [
         {
@@ -747,6 +765,24 @@
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 381677,
+      "name": "Just A Dream",
+      "url": "https://open.spotify.com/track/1WQv1xIQwuXmtgrOUftnKF"
+    },
+    {
+      "album": {
+        "name": "The Drug EP",
+        "url": "https://open.spotify.com/album/6Tk5Awv0RMGNgFQuKDqfKA"
+      },
+      "artists": [
+        {
+          "name": "F I I S H I R",
+          "url": "https://open.spotify.com/artist/2Cl6A70X4bUBdw6s1vMDAe"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
       "duration_ms": 381677,
       "name": "Just A Dream",
       "url": "https://open.spotify.com/track/2U4sN4eCHBa2wsiMi9hRoD"
@@ -1038,10 +1074,28 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 298846,
       "name": "Ready or Not",
       "url": "https://open.spotify.com/track/1ZvDEuYpDrPh57PMhNF8ij"
+    },
+    {
+      "album": {
+        "name": "Ready Or Not",
+        "url": "https://open.spotify.com/album/31UvOIQGuCivdTwcTfXCJg"
+      },
+      "artists": [
+        {
+          "name": "ULTIMO",
+          "url": "https://open.spotify.com/artist/4ck1IAQQucJ8QcEwI8fje4"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298846,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/4EBYVwVz52uDaPSR1EOdoU"
     },
     {
       "album": {
@@ -1074,10 +1128,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 208600,
       "name": "Rotterdam",
       "url": "https://open.spotify.com/track/5vdaItb7tjuhs4IiXcxMXn"
+    },
+    {
+      "album": {
+        "name": "Rotterdam",
+        "url": "https://open.spotify.com/album/5UFsq5Is76kvfKeLvBkTMf"
+      },
+      "artists": [
+        {
+          "name": "Per Pleks",
+          "url": "https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208600,
+      "name": "Rotterdam",
+      "url": "https://open.spotify.com/track/659MVEaPSSU0NwVm5ecO6n"
     },
     {
       "album": {

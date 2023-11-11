@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Rupatrupa.
 
-470 songs - 1 day 4 hr 36 min
+472 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,8 @@
 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 | 2022-12-23 | 2023-03-11 |
 | [Green Grass](https://open.spotify.com/track/6neqcz52m0e5YvRZuKacys) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo) | [Caliu](https://open.spotify.com/album/5zli6Q5OHFwp7ACOI9bc9z) | 4:05 | 2022-04-01 | 2022-04-20 |
 | [Guerrera](https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Guerrera](https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD) | 4:11 | 2021-12-24 | 2022-02-07 |
-| [Hace rato](https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz) | 3:16 | 2023-08-18 |  |
+| [Hace rato](https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:16 | 2023-09-29 |  |
+| [Hace rato](https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz) | 3:16 | 2023-08-18 | 2023-11-11 |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2021-12-24 |  |
 | [Hasta La Raíz](https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Maestra Vida](https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25) | 6:20 | 2023-01-06 | 2023-02-18 |
 | [Hay un Camino](https://open.spotify.com/track/6t0sjM2OIAdGs50EmFGu9X) | [Nando Agüeros](https://open.spotify.com/artist/6ABav84uUmY0ykSMNJ1bQ5), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Hay un Camino](https://open.spotify.com/album/4W0tG8gS7GrpI34322mw1t) | 3:36 | 2021-12-24 | 2022-03-02 |
@@ -427,6 +428,7 @@
 | [Todo Lo Que Está Bien](https://open.spotify.com/track/6B3oesJhA0R2ZxCrDqIhgr) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg) | [La Llorería](https://open.spotify.com/album/0EBPMOrasCffWzNkDwwbPf) | 3:40 | 2022-04-08 | 2022-04-19 |
 | [Todo lo que hemos hecho](https://open.spotify.com/track/2vPLLswygDu5YPmRCxbNik) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Acto I: La \(Re\) Conciliación](https://open.spotify.com/album/1SJF6XS1MgjBugP0sLeX7Y) | 3:54 | 2022-07-01 | 2022-07-23 |
 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luisa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 | 2021-12-24 |  |
+| [Todo o nada](https://open.spotify.com/track/7JcGt3lxb68CDpLzjoP3gl) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Todo o nada](https://open.spotify.com/album/7LzhNFqwqixFNNjr00VJVx) | 3:02 | 2023-09-29 |  |
 | [Todo y Nada](https://open.spotify.com/track/3JC9mTwpw2FMbvSjFaFYx8) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Todo y Nada](https://open.spotify.com/album/5lHEIjkxkFOc23ZVWn2YrT) | 2:20 | 2022-12-23 | 2022-12-29 |
 | [Tonada de Luna Llena](https://open.spotify.com/track/69C2N9AXxR0NR05IQuBd8C) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Un Viajecito](https://open.spotify.com/album/0HidWs8IY9rKFwtuMNm5kr) | 4:42 | 2023-02-17 | 2023-03-11 |
 | [Trataré](https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 4:50 | 2022-04-25 |  |
@@ -475,7 +477,7 @@
 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 | 2022-03-04 |  |
 | [Yo Soy](https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Yo Soy](https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e) | 3:36 | 2021-12-24 |  |
 | [Ámbar y el Mar](https://open.spotify.com/track/2htIgCfBPCV3dktlvtSSa9) | [Íñigo Merino](https://open.spotify.com/artist/4RcxB8P0t3Pz6gaOHTFgWm), [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [Lo de Dentro](https://open.spotify.com/album/02brbroQgEfCvcefeXoFBe) | 3:52 | 2022-02-04 | 2022-05-26 |
-| [Ícaro \- Versión Acústica](https://open.spotify.com/track/4M0NSb0yhgjdLnUIBnMlhE) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Ícaro \(Versión Acústica\)](https://open.spotify.com/album/75vWmeMVI6mIJZSMAGxKSs) | 3:33 | 2023-09-29 |  |
+| [Ícaro \- Versión Acústica](https://open.spotify.com/track/4M0NSb0yhgjdLnUIBnMlhE) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Ícaro \(Versión Acústica\)](https://open.spotify.com/album/75vWmeMVI6mIJZSMAGxKSs) | 3:33 | 2023-09-29 | 2023-11-11 |
 | [Íñigo](https://open.spotify.com/track/0Pscsul02roXTyhTEbQO6K) | [Andrea Buenavista](https://open.spotify.com/artist/2V9QbUdBxfYCfkjvDePoRU) | [Íñigo](https://open.spotify.com/album/1j3vaKt2UO7QLAHDJGCK6K) | 1:02 | 2023-06-30 | 2023-07-29 |
 | [Último Aliento](https://open.spotify.com/track/3osCap9ViWOWhYk8FOWZdZ) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Último Aliento](https://open.spotify.com/album/7KrLy9OeOkkP4dEnsRjh7t) | 4:10 | 2021-12-24 | 2022-05-08 |
 

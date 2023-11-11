@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmNVJ304EF5.md) - [plain]
 
 > Where the local scene started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,862 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,750 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmNVJ304EF5.md) - [plain]
 | 37 | [Blessed With A Curse](https://open.spotify.com/track/2ZBSHZbhygozCphHUOqJQF) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [There Is A Hell Believe Me I've Seen It\. There Is A Heaven Let's Keep It A Secret](https://open.spotify.com/album/2BxDLAnw4QPcs8U4r1StrI) | 5:08 |
 | 38 | [History Is Bunk](https://open.spotify.com/track/2TugrCuKJNhsUKKCgzqhQC) | [Gnarwolves](https://open.spotify.com/artist/3dsBRiySuhVwZcFv1qsNbd) | [Chronicles of Gnarnia](https://open.spotify.com/album/47ruB75LFAlmpgseXW56hn) | 1:43 |
 | 39 | [Money Power Fame](https://open.spotify.com/track/6Y2hhxh7Abr3Xtg7qM9Dz0) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Automatic](https://open.spotify.com/album/2HbNC0hBybJ97pzOcEtgW1) | 3:22 |
-| 40 | [Give Me What I Want](https://open.spotify.com/track/2fbFuqMaEBFMNX0pzoGW2K) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [You've Got Some Catching Up to Do](https://open.spotify.com/album/3BdstsGEz1xvAM9Li0ECXu) | 3:19 |
+| 40 | [Give Me What I Want \- 2023 Remaster](https://open.spotify.com/track/6bYEWtaVA8YeVKoTaebZhx) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [Smart Casual \(2023 Remaster\)](https://open.spotify.com/album/3xoPyvkbMVntmNyACCf3ch) | 3:17 |
 | 41 | [Love Someone Else](https://open.spotify.com/track/1tofp6uffkJvUAy3yoC1Tp) | [Lower Than Atlantis](https://open.spotify.com/artist/1kF0gYnHLUJvFuPdoowO02) | [Changing Tune](https://open.spotify.com/album/2mw1ppe4S1ijmVTdF5iuCe) | 2:29 |
 | 42 | [This Is Why We Can't Have Nice Things](https://open.spotify.com/track/0pyRskqEB2Qri4epmXbya4) | [The Blackout](https://open.spotify.com/artist/35b2hm2fvbdZnckJO6FijB) | [The Best In Town](https://open.spotify.com/album/0PtAekoQJNGjtrTfZFc6pp) | 3:33 |
 | 43 | [Hiding With Boys](https://open.spotify.com/track/3quA6NYHEI2n2pLZvjc3LB) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Eternity, In Your Arms](https://open.spotify.com/album/4Q3AGdThgRrZmYaFtDbWmP) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmNVJ304EF5.md) - [plain]
 | 49 | [Made Up Stories](https://open.spotify.com/track/2ZdymrlU6m5hlw4IIcHJPp) | [Go:Audio](https://open.spotify.com/artist/6ucXCSUlJfLhpAYhyO9S50) | [Made Up Stories](https://open.spotify.com/album/1TDScbF70yfakqo72tzgDr) | 3:17 |
 | 50 | [Forget His Facade](https://open.spotify.com/track/2ryH0f8E3gLqZyEXGmin27) | [Furthest Drive Home](https://open.spotify.com/artist/1gQmSu1aiJweUuHVPtCjMM) | [Forget His Facade](https://open.spotify.com/album/4JbmVyJYKsN7WaAQBvURiZ) | 3:37 |
 
-Snapshot ID: `MCxlOTM4NDNiZGY1ZDkzODU5ZDc0MzE2NTM0MjY0MDA4YzNiZTdkMGYy`
+Snapshot ID: `MCw5YzEyOGJhMWU3Y2JlOTk1NjE0MmYwNWRkOTEwYzg4YWU3OGQwOGZm`

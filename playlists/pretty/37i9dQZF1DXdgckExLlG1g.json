@@ -1,12 +1,12 @@
 {
   "description": "The top Christian songs worldwide!  Cover: Lauren Daigle",
-  "num_followers": 403741,
+  "num_followers": 408725,
   "original_name": "Most Favored",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmI3ZTc4NDg1Y2NiZTVjZDBlMjgxMWMxOTE5OTBjYjUyODBmOTFj",
+  "snapshot_id": "MCw2YzFmM2U4ZDc4NTFkZDBmMjI3Mjc5ZDRiNzBiM2Q1YjNmZTU1N2U5",
   "tracks": [
     {
       "added_at": "2020-08-14 17:53:50",
@@ -550,6 +550,10 @@
         {
           "name": "TAYA",
           "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        },
+        {
+          "name": "Aodhan King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
         }
       ],
       "duration_ms": 449253,
@@ -1170,6 +1174,10 @@
         {
           "name": "Hillsong Young & Free",
           "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Aodhan King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
         }
       ],
       "duration_ms": 349000,

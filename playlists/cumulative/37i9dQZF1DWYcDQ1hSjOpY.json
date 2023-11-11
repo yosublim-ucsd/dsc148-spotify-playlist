@@ -3757,6 +3757,24 @@
     },
     {
       "album": {
+        "name": "Ingenmansland",
+        "url": "https://open.spotify.com/album/1sN7TzeG46F68twBeaJ8fi"
+      },
+      "artists": [
+        {
+          "name": "Lea Bremer",
+          "url": "https://open.spotify.com/artist/6kFlt59HATOROWfm7ZuxYC"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Ingenmansland",
+      "url": "https://open.spotify.com/track/2LuJunuvByycR6JdCd5r1b"
+    },
+    {
+      "album": {
         "name": "Inner Journey",
         "url": "https://open.spotify.com/album/3eZwNjKK21LjFeqNqHj33I"
       },
@@ -4546,6 +4564,24 @@
       "duration_ms": 232000,
       "name": "Mahola",
       "url": "https://open.spotify.com/track/7KpA2ZOdXXU7ymU05JmAv0"
+    },
+    {
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/3CahrwMCpwzYUjawWcnNU6"
+      },
+      "artists": [
+        {
+          "name": "Nova Issue",
+          "url": "https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178374,
+      "name": "Majestic",
+      "url": "https://open.spotify.com/track/39iPaUBMWWi9sJDyagYEDh"
     },
     {
       "album": {
@@ -5950,6 +5986,24 @@
       "duration_ms": 194648,
       "name": "Querencia",
       "url": "https://open.spotify.com/track/4VdLOyYe6ZEyLx0LbYdyvy"
+    },
+    {
+      "album": {
+        "name": "Reaching For The Light",
+        "url": "https://open.spotify.com/album/3y2yngNLRiZakskpuAF99r"
+      },
+      "artists": [
+        {
+          "name": "Hema",
+          "url": "https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177200,
+      "name": "Reaching For The Light",
+      "url": "https://open.spotify.com/track/1Qs8bAVpciEuLUgyBr14XZ"
     },
     {
       "album": {

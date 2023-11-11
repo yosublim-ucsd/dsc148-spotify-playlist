@@ -32914,7 +32914,7 @@
     {
       "album": {
         "name": "Vancouver",
-        "url": "https://open.spotify.com/album/67heKW3LlK7Cj4sk0r3EUB"
+        "url": "https://open.spotify.com/album/2YdgAiJlhXRzSQ46tneSjH"
       },
       "artists": [
         {
@@ -32925,6 +32925,24 @@
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Vancouver",
+      "url": "https://open.spotify.com/track/4463ec35uldCuPMDOpDQDO"
+    },
+    {
+      "album": {
+        "name": "Vancouver",
+        "url": "https://open.spotify.com/album/67heKW3LlK7Cj4sk0r3EUB"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
       "duration_ms": 239000,
       "name": "Vancouver",
       "url": "https://open.spotify.com/track/4UCXZf2RLJgJnUDlJ2S4IN"

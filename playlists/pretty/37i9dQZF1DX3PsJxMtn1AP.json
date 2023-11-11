@@ -1,13 +1,29 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 69632,
+  "num_followers": 69702,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzIzNjM1ZTNjMGU4MWFlNmM3MjI1NTRkZTNiMGExOGQwNGJhZDM3",
+  "snapshot_id": "MCwzNzQ3ZGE5NGQ1YjdlODFmMmE1ZDQ0ODU4YTUxODQxZTEwNTJmZTE0",
   "tracks": [
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Powders",
+        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 271733,
+      "name": "Crushing",
+      "url": "https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd"
+    },
     {
       "added_at": "2023-10-28 00:55:54",
       "album": {
@@ -41,20 +57,24 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2023-10-10 03:26:18",
+      "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "RUEDA, RUEDA",
-        "url": "https://open.spotify.com/album/0ngCqYNNhnvc5BTvNqpyV5"
+        "name": "Separate Ways (feat. The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Jos\u00e9 Llergo",
-          "url": "https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q"
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 189000,
-      "name": "RUEDA, RUEDA",
-      "url": "https://open.spotify.com/track/5q1rKmRj3tzge5O96Ga8ev"
+      "duration_ms": 206833,
+      "name": "Separate Ways (feat. The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S"
     },
     {
       "added_at": "2023-06-20 17:11:39",
@@ -143,6 +163,22 @@
       "duration_ms": 227212,
       "name": "Mata Hari",
       "url": "https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Sun Girl",
+        "url": "https://open.spotify.com/album/34cvl46Fs5VoDm7DzS5ZeR"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 352670,
+      "name": "Sun Girl",
+      "url": "https://open.spotify.com/track/0sMgwHapnEjJ7ixPHuvE8m"
     },
     {
       "added_at": "2023-05-24 16:06:48",
@@ -613,30 +649,6 @@
       "url": "https://open.spotify.com/track/6c0dPWNb18BL7RLwwlZ717"
     },
     {
-      "added_at": "2023-09-25 00:05:14",
-      "album": {
-        "name": "Caribbean All-Inclusive Luxury",
-        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
-      },
-      "artists": [
-        {
-          "name": "Jarina De Marco",
-          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
-        },
-        {
-          "name": "Calacote",
-          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
-        },
-        {
-          "name": "mediopicky",
-          "url": "https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm"
-        }
-      ],
-      "duration_ms": 182001,
-      "name": "Masa",
-      "url": "https://open.spotify.com/track/3f1sD5hO3N1loYO79wX27L"
-    },
-    {
       "added_at": "2023-09-25 01:36:48",
       "album": {
         "name": "coma",
@@ -685,6 +697,22 @@
       "url": "https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te"
     },
     {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/3N5KIKMpAXi8Qf9P9Gpimv"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 277042,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/65EFPZLRMqYM8VvHoTr7LE"
+    },
+    {
       "added_at": "2023-09-25 02:49:41",
       "album": {
         "name": "Love Buzz",
@@ -701,22 +729,6 @@
       "url": "https://open.spotify.com/track/3SihtP7OfilcWv91B3T78i"
     },
     {
-      "added_at": "2023-03-31 17:56:35",
-      "album": {
-        "name": "Kristina",
-        "url": "https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT"
-      },
-      "artists": [
-        {
-          "name": "Sanje",
-          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
-        }
-      ],
-      "duration_ms": 238221,
-      "name": "Kristina",
-      "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
-    },
-    {
       "added_at": "2023-07-25 04:57:53",
       "album": {
         "name": "Bend The Round",
@@ -731,26 +743,6 @@
       "duration_ms": 207313,
       "name": "Bend The Round",
       "url": "https://open.spotify.com/track/4CeI9wWFAWcxkkANWKV1XB"
-    },
-    {
-      "added_at": "2023-06-14 23:37:05",
-      "album": {
-        "name": "Past Lives (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2JwAMKpwk4IolH2KhF6nPn"
-      },
-      "artists": [
-        {
-          "name": "Christopher Bear",
-          "url": "https://open.spotify.com/artist/0emf9Ah5yNpbvhS49Bl3zt"
-        },
-        {
-          "name": "Daniel Rossen",
-          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
-        }
-      ],
-      "duration_ms": 142802,
-      "name": "An Immigrant and a Tourist",
-      "url": "https://open.spotify.com/track/0wWSpPCnJyGnsLSDKCSgog"
     },
     {
       "added_at": "2023-06-27 02:51:10",

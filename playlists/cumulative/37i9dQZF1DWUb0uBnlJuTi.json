@@ -438,7 +438,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 168820,
       "name": "Bird Brain",
       "url": "https://open.spotify.com/track/1Sm4vXzi88nMcWE392dd8R"
@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 186745,
       "name": "Driving",
       "url": "https://open.spotify.com/track/6dT65xQ9mLooOD9or4oWvX"
@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 238830,
       "name": "Fast Life",
       "url": "https://open.spotify.com/track/4Qlyf2WcL6uq11MNP3BjqH"
@@ -2290,6 +2290,28 @@
       "duration_ms": 194999,
       "name": "Glide",
       "url": "https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N"
+    },
+    {
+      "album": {
+        "name": "Go Funk Me",
+        "url": "https://open.spotify.com/album/6JeoeuuEiMjQBqDcvwQsbv"
+      },
+      "artists": [
+        {
+          "name": "The Du-Rites",
+          "url": "https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw"
+        },
+        {
+          "name": "Seth Hachen",
+          "url": "https://open.spotify.com/artist/1YGdkLpYZm6T1izLrBnvDE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166820,
+      "name": "Go Funk Me",
+      "url": "https://open.spotify.com/track/5mzjFN0zUIwB92GdqDY978"
     },
     {
       "album": {
@@ -7519,6 +7541,28 @@
     },
     {
       "album": {
+        "name": "We Are The People, Live at Tri-C Jazz Fest 2023",
+        "url": "https://open.spotify.com/album/3yat4oL4gAATyHuLHHRpNP"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "The Admirables",
+          "url": "https://open.spotify.com/artist/71YRStFsuR1Y1ACBPggkLF"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397045,
+      "name": "We Are The People, Live at Tri-C Jazz Fest 2023 - Live",
+      "url": "https://open.spotify.com/track/0THa5usAnIDOG0d5DlMLmu"
+    },
+    {
+      "album": {
         "name": "Interstellar Black Space",
         "url": "https://open.spotify.com/album/4hwDNOEvEfPSKCsByLpapO"
       },
@@ -7698,6 +7742,24 @@
       "duration_ms": 429923,
       "name": "White Caps",
       "url": "https://open.spotify.com/track/31ujFgAn19kJLbnlm8KG0Z"
+    },
+    {
+      "album": {
+        "name": "Who Cares",
+        "url": "https://open.spotify.com/album/24v0ryEB2hOI3ffiJsJhVO"
+      },
+      "artists": [
+        {
+          "name": "Kinga Glyk",
+          "url": "https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221753,
+      "name": "Who Cares",
+      "url": "https://open.spotify.com/track/74nxTZmwEUNKMdHQ7GPgsi"
     },
     {
       "album": {

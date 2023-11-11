@@ -522,10 +522,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 83280,
       "name": "The Elements",
       "url": "https://open.spotify.com/track/1O7jntBJTdX7HPoZOwjmaS"
+    },
+    {
+      "album": {
+        "name": "More of Tom Lehrer",
+        "url": "https://open.spotify.com/album/556GEkWWrgQ7f3253diPvr"
+      },
+      "artists": [
+        {
+          "name": "Tom Lehrer",
+          "url": "https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86920,
+      "name": "The Elements",
+      "url": "https://open.spotify.com/track/1cIjktJ9flEMBrjlbPJCBY"
     },
     {
       "album": {

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Over the Moon (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175146,
+      "name": "A Bonding Experience",
+      "url": "https://open.spotify.com/track/4OPsrol2u5iLgDyuzX9ae3"
+    },
+    {
+      "album": {
         "name": "Dolphin Reef (Original Soundtrack)",
         "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 141400,
       "name": "A Different Set of Rules",
       "url": "https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef"
@@ -52,7 +70,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 85173,
       "name": "A Lifeline",
       "url": "https://open.spotify.com/track/1n0hTiZSRPnwUeslLKlA0U"
@@ -88,7 +106,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 236173,
       "name": "A Sparrowhawk's Tale",
       "url": "https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W"
@@ -128,6 +146,24 @@
       "duration_ms": 229733,
       "name": "All at Sea",
       "url": "https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS"
+    },
+    {
+      "album": {
+        "name": "One Planet (Episode 1 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/4oJxfzmDRFSv95uYNxOfqC"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106293,
+      "name": "All Life Here Is Waiting",
+      "url": "https://open.spotify.com/track/1xhE2gotm4x9zc08Zitzl3"
     },
     {
       "album": {
@@ -196,7 +232,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 291000,
       "name": "Baby Blue - From \"Our Planet\"",
       "url": "https://open.spotify.com/track/27dFvWT96WZcLjpLmJ9WnK"
@@ -268,7 +304,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 136506,
       "name": "Did It Feel Wrong",
       "url": "https://open.spotify.com/track/2B4vzBBaPYY1FzqCBUjtE4"
@@ -286,7 +322,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 170253,
       "name": "Echo Fires Up Another",
       "url": "https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE"
@@ -358,7 +394,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 191480,
       "name": "Fueled Up and Headed South",
       "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
@@ -484,7 +520,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 202373,
       "name": "It's Good to Meet New People",
       "url": "https://open.spotify.com/track/1MIzdetw6fjVZorGWKeROJ"
@@ -502,7 +538,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 88920,
       "name": "Italian Marble",
       "url": "https://open.spotify.com/track/0dF8fMC85sOBo3uMUe6pWH"
@@ -628,7 +664,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 188973,
       "name": "Mayflies - From \"Our Planet\"",
       "url": "https://open.spotify.com/track/2dDUOibqp9olH44axVCIux"
@@ -682,7 +718,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 309893,
       "name": "My Policeman - From the Amazon Original Motion Picture Soundtrack \"My Policeman\"",
       "url": "https://open.spotify.com/track/2xTOwdq3ZUNX1WZiMW2VYC"
@@ -797,6 +833,24 @@
     },
     {
       "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79653,
+      "name": "Race Against Time",
+      "url": "https://open.spotify.com/track/6HuhnYzrHayI1chpndrzjI"
+    },
+    {
+      "album": {
         "name": "Forests (Episode 8 / Soundtrack From The Netflix Original Series \"Our Planet\")",
         "url": "https://open.spotify.com/album/4tR3mJ1sBhvn2SvSOuQ3fW"
       },
@@ -812,6 +866,24 @@
       "duration_ms": 82746,
       "name": "Redwoods",
       "url": "https://open.spotify.com/track/5K9oe9w0aNLoQebWVBR8vt"
+    },
+    {
+      "album": {
+        "name": "Remember When We Said Goodbye (From the Netflix Film \"Over the Moon\")",
+        "url": "https://open.spotify.com/album/07eHCynOTkf1K3FocJLxP2"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Remember When We Said Goodbye (From the Netflix Film \"Over the Moon\")",
+      "url": "https://open.spotify.com/track/3ZTy9uTIcCgld86aVuuHe4"
     },
     {
       "album": {
@@ -884,6 +956,24 @@
       "duration_ms": 102920,
       "name": "Soyuz",
       "url": "https://open.spotify.com/track/1k6X3Rug5zeeKBXxIg8prc"
+    },
+    {
+      "album": {
+        "name": "The Swimmers (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4OzF2tJu8iUXybzcNJidMk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125960,
+      "name": "Swim For All Of Us",
+      "url": "https://open.spotify.com/track/5wSbVyZ8D3omU41TMM1rU3"
     },
     {
       "album": {
@@ -1060,7 +1150,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 175880,
       "name": "The Process of Extinctions",
       "url": "https://open.spotify.com/track/0CGFoSLihWAehdjHM8mttL"
@@ -1240,7 +1330,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 289320,
       "name": "We Took To The Skies",
       "url": "https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb"
@@ -1312,7 +1402,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 145760,
       "name": "You Cannot Imagine His Anguish",
       "url": "https://open.spotify.com/track/4ks8TXjj8gOqX4PC6WoFZT"
@@ -1352,7 +1442,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 138373,
       "name": "You're My World - Soho Version",
       "url": "https://open.spotify.com/track/1YEhtRxWc1BiHh3Xt0fXJW"

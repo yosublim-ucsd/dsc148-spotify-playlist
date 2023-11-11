@@ -128,7 +128,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 135013,
       "name": "Borracho Conocido",
       "url": "https://open.spotify.com/track/6zVz0ihJiJse2eGIhUbAFb"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 191560,
       "name": "El Becerro No Ha Mamado Y El Borrego Cachet\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 139506,
       "name": "Mi Ranchito",
       "url": "https://open.spotify.com/track/2G5oALhCFdtyX2f21RFjAh"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 191773,
       "name": "Profundamente",
       "url": "https://open.spotify.com/track/0aI1wUPVSvg8MKQAPL0baz"
@@ -1255,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "S\u00e1lvame",
+        "url": "https://open.spotify.com/album/5SHrspInTsWfV2u8lRUqk3"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "S\u00e1lvame",
+      "url": "https://open.spotify.com/track/0Wf6gRHcdfnKxDvYo9HPmI"
+    },
+    {
+      "album": {
         "name": "Hombre De Trabajo",
         "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
       },
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 230520,
       "name": "Tus Manos Son Mi Voz",
       "url": "https://open.spotify.com/track/425uyB82GDHyiJRguCb4vi"
@@ -1598,7 +1616,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 185160,
       "name": "\u00bfC\u00f3mo Le Digo?",
       "url": "https://open.spotify.com/track/7wzf8JSpGi3TQMQDN5JWw9"
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 161493,
       "name": "\u00bfQui\u00e9n Es El Patr\u00f3n? - En Vivo",
       "url": "https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE"

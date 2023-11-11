@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sanathan Shree Krishnan
 
-161 songs - 9 hr 11 min
+162 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Thaaye](https://open.spotify.com/track/2tC6NKLWE0kkDcgWPy7rml) | [Ainthinai](https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ) | [Thaaye](https://open.spotify.com/album/5zeW1rAchG4xtwGECHXsGX) | 4:55 | 2023-09-22 |  |
 | [Thalayaatti Bommai \- From "Think Originals"](https://open.spotify.com/track/13peKDjGU45w5yvKR8QvCC) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Thalayaatti Bommai \(From "Think Originals"\)](https://open.spotify.com/album/7tO2sPQbhwj5KcHkyGKy99) | 3:27 | 2023-03-21 | 2023-09-26 |
 | [Thamarai Poovilum](https://open.spotify.com/track/1Rs4zHwr6JWFyHKj0ucv4K) | [Ram Muthiah](https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Thamarai Poovilum](https://open.spotify.com/album/32mPyTwlznacWc17apgBvl) | 5:30 | 2023-06-16 |  |
+| [Thanga Magale](https://open.spotify.com/track/5dwCMKQcJodMO8rWFcuv7p) | [Vibin Baskar](https://open.spotify.com/artist/3OisU7UGOiAZ7PmJrV128w), [Srini Selvaraj](https://open.spotify.com/artist/3e7p6Qs8gwYezBhY1V2ypm) | [Thanga Magale](https://open.spotify.com/album/7usdwmLURTexL1nUdmnlmL) | 3:14 | 2023-11-10 |  |
 | [Thangapulla](https://open.spotify.com/track/517mBtRX7D3fnQDcDPQXY4) | [JEY](https://open.spotify.com/artist/3HBWkGUsqeYfxJAgGTB4CX), [J\. C\. Joe](https://open.spotify.com/artist/1TLA1QzI89k3WQ7MaYaaq5), [Svm](https://open.spotify.com/artist/0CgOe9zyD5WVIGjXF2BBb4) | [Thangapulla](https://open.spotify.com/album/6pZB09ZNIIdwmaeIEH16Qw) | 1:50 | 2023-09-25 |  |
 | [Thanimaye](https://open.spotify.com/track/5oPw3pV2RMM5MVvH8bqTI0) | [Adithya L](https://open.spotify.com/artist/1CHukNLdtUsorPxFfbtzIA) | [Thanimaye](https://open.spotify.com/album/3CWFCY5M20VINvnDQUyoHh) | 3:28 | 2023-09-01 |  |
 | [THARUNANGAL](https://open.spotify.com/track/2DTN2mb7bsjJqk8mm4W8tJ) | [Rockzane](https://open.spotify.com/artist/6yEdB2QEKNpCfhSmBfSxD1), [PRAVEEN RESH](https://open.spotify.com/artist/5Q4n3cqMPqBfW5Bi3EHENV) | [THARUNANGAL](https://open.spotify.com/album/7BDM11wy6pmWryC4ZgOs9E) | 4:02 | 2023-03-21 | 2023-07-28 |

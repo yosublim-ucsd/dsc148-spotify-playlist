@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "O, de Crescendo",
+        "url": "https://open.spotify.com/album/0UOldbHk1CQwLMOnqY6svw"
+      },
+      "artists": [
+        {
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172655,
+      "name": "Antena",
+      "url": "https://open.spotify.com/track/7eXwrGcdv0jlzBBnNbEZXa"
+    },
+    {
+      "album": {
         "name": "Antena",
         "url": "https://open.spotify.com/album/2OlsEM2Gqfj9K0gEhEuhuB"
       },
@@ -520,7 +538,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 172655,
       "name": "Antena",
       "url": "https://open.spotify.com/track/7xK9SJKjRWKcUPjlWTkAWl"
@@ -1098,10 +1116,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 179527,
       "name": "cuando faltes",
       "url": "https://open.spotify.com/track/47171O0rMkJFNSHsTe972B"
+    },
+    {
+      "album": {
+        "name": "cuando faltes",
+        "url": "https://open.spotify.com/album/49mo3D6ohmIDMzX1Qz4jUr"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179527,
+      "name": "cuando faltes",
+      "url": "https://open.spotify.com/track/64eoxZoQ3YpSELicE9XOad"
     },
     {
       "album": {
@@ -1262,7 +1298,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 114706,
       "name": "Deriva",
       "url": "https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE"
@@ -1320,10 +1356,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 126923,
       "name": "dime",
       "url": "https://open.spotify.com/track/42UGcqh6NpVuEFHZekjrqJ"
+    },
+    {
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/0PaK28SA8stUjMFTFTdkaK"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126933,
+      "name": "dime",
+      "url": "https://open.spotify.com/track/0NxA1fTmQ2SwS3Wg30qmoY"
     },
     {
       "album": {
@@ -1916,7 +1970,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 193414,
       "name": "flores",
       "url": "https://open.spotify.com/track/2MoR9GfTdSDB7G7WyMHhkh"
@@ -2944,7 +2998,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 182406,
       "name": "Me Gustas Tanto",
       "url": "https://open.spotify.com/track/7fMshHtynGehLu7eVQj1hO"
@@ -5004,7 +5058,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 233387,
       "name": "Un Impulso",
       "url": "https://open.spotify.com/track/2icTVxrH50Cabwkl4MdkKw"
@@ -5218,8 +5272,8 @@
       },
       "artists": [
         {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
         },
         {
           "name": "RENEE",

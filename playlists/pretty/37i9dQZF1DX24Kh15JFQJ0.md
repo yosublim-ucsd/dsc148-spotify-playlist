@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Craig Morgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,649 likes - 182 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,675 likes - 182 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 33 | [I Had to be Me](https://open.spotify.com/track/4lwTsFFN0sjWOuXWPO7byg) | [Ricochet](https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l) | [Then and Now](https://open.spotify.com/album/6Zm7MjUy4J6rv3Oy3ypmfF) | 3:03 |
 | 34 | [She Had Me At Heads Carolina \(with Jo Dee Messina\) \- Remix](https://open.spotify.com/track/557rfmFFNH4YwsE2OYZfhF) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [She Had Me At Heads Carolina \(with Jo Dee Messina\) \[Remix\]](https://open.spotify.com/album/19PdywBe6KaiBhaws1cUPC) | 3:43 |
 | 35 | [Stranger in My House \(feat\. Luke Bryan\)](https://open.spotify.com/track/2EDbLhcX7HRoSj9gvG1MQO) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [The Duets](https://open.spotify.com/album/1ru2yPj8ayXP2xAHQ3hbbb) | 4:17 |
-| 36 | [Girls Night Out](https://open.spotify.com/track/7zvN3oGpyQIeLyjEI5DS3S) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [A Tribute To The Judds](https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy) | 3:04 |
+| 36 | [Girls Night Out](https://open.spotify.com/track/3EoGwCrxAQ8V0jGgsrHBvq) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 3:04 |
 | 37 | [Lead Me Home](https://open.spotify.com/track/5okWmLTI9nYRZ5HcSoKffK) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Lead Me Home](https://open.spotify.com/album/6BtcUNipS0LAGkvkpsSt6b) | 3:34 |
 | 38 | [When The Rodeo Is Over \(Where Does The Cowboy Go?\)](https://open.spotify.com/track/2hZ2CDziK90laOB2inWp8X) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [When The Rodeo Is Over \(Where Does The Cowboy Go?\)](https://open.spotify.com/album/55JUFgPqNq7KIoomgcaw2v) | 4:02 |
 | 39 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 181 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 |
 | 182 | [Born Ready](https://open.spotify.com/track/532uB7VNAJi3V6uRcLIKPm) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Born Ready](https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G) | 2:55 |
 
-Snapshot ID: `MCw3MjFjOTFlY2NkMjdiMWJiMzgyYTc2YTMwMGY1MTQ3MDc3MTdlYmQx`
+Snapshot ID: `MCw1ZGZmNDk2NDk4ZTdlYmUzOTVlYzNmODU0NGYwYjM2OTMyNzk2Mjg0`

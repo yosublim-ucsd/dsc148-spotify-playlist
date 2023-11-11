@@ -4,12 +4,13 @@
 
 > look up, dream on, drift off...
 
-223 songs - 14 hr 30 min
+224 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Brief Silence](https://open.spotify.com/track/3ZZllAawjzTFYz5HN3x38I) | [Mauricio Trabanino](https://open.spotify.com/artist/3blJXUBNjlTFWMMrtsSLI3) | [A Brief Silence \(Original Score\)](https://open.spotify.com/album/0rxCVW4B9jiUPEHp8WkQCO) | 2:20 | 2023-02-15 | 2023-11-04 |
-| [A Brief Silence](https://open.spotify.com/track/3e4aHnazy2RkEl95ixPoK4) | [Mauricio Trabanino](https://open.spotify.com/artist/3blJXUBNjlTFWMMrtsSLI3) | [A Brief Silence \(Original Score\)](https://open.spotify.com/album/1QP0OlYoRl93vhZBGOhzOC) | 2:20 | 2022-09-14 |  |
+| [A Brief Silence](https://open.spotify.com/track/3e4aHnazy2RkEl95ixPoK4) | [Mauricio Trabanino](https://open.spotify.com/artist/3blJXUBNjlTFWMMrtsSLI3) | [A Brief Silence \(Original Score\)](https://open.spotify.com/album/1QP0OlYoRl93vhZBGOhzOC) | 2:20 | 2022-09-14 | 2023-11-11 |
+| [A Brief Silence](https://open.spotify.com/track/56BVuagoCX2UtxxZclPkW7) | [Mauricio Trabanino](https://open.spotify.com/artist/3blJXUBNjlTFWMMrtsSLI3) | [A Brief Silence](https://open.spotify.com/album/2iAqb5d0RyhfozPm80ew6D) | 2:20 | 2023-04-27 |  |
 | [A Memory](https://open.spotify.com/track/6oRyah6g01Qjg0xXTb7Exy) | [Zachary David](https://open.spotify.com/artist/40EsUDCOPS5C8DgxkCmUCo) | [A Memory](https://open.spotify.com/album/6NP4bw2rcsnA5V3RaoJH4P) | 3:14 | 2022-01-05 |  |
 | [A New Beginning](https://open.spotify.com/track/6nhjLXrXCG5XCjJrDYYNQN) | [Atli Örvarsson](https://open.spotify.com/artist/2fqgzLpPOMc7GMw9qcOfQT) | [A New Beginning](https://open.spotify.com/album/6pebWF2tYpK7o0OflNjO73) | 4:25 | 2022-12-06 |  |
 | [a safe place](https://open.spotify.com/track/4MBwLqjfhZ6o14QN6fg993) | [Nick Vereshchak](https://open.spotify.com/artist/7u4DRtXXgLlr8Nf6b8vA56) | [a safe place](https://open.spotify.com/album/28vJ5QZnpYckGj7u5QdrNx) | 4:14 | 2022-12-06 |  |

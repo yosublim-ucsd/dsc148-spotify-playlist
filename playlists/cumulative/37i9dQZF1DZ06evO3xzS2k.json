@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 232598,
       "name": "Amber Gambler",
       "url": "https://open.spotify.com/track/08zfkE9pFeDtpW5sTQGNZN"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 287871,
       "name": "Curse of the Sun",
       "url": "https://open.spotify.com/track/75Dvic0pwX6eIrHZAcptoF"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 300660,
       "name": "Eaten by Worms",
       "url": "https://open.spotify.com/track/6cpbYfrmRRATj7MK89ZMox"
@@ -491,6 +491,28 @@
     },
     {
       "album": {
+        "name": "Like Stars In The Firmament",
+        "url": "https://open.spotify.com/album/5AmHK2cvlnbjo6PaXCqqpU"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324053,
+      "name": "Like Stars In The Firmament",
+      "url": "https://open.spotify.com/track/0QpBFwWXoSfrdPtEYjiYyr"
+    },
+    {
+      "album": {
         "name": "Micha: Those Who Fear Tomorrow",
         "url": "https://open.spotify.com/album/6eRY9vIZ4Hciev3sNrzqam"
       },
@@ -632,6 +654,28 @@
       "duration_ms": 186694,
       "name": "Spell - TOT B Side",
       "url": "https://open.spotify.com/track/1o7HsCCBFqZTcMFwKTw03X"
+    },
+    {
+      "album": {
+        "name": "Spend The Grace",
+        "url": "https://open.spotify.com/album/5jLvPEJ0fENjxCQ41pq3ff"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347160,
+      "name": "Spend The Grace",
+      "url": "https://open.spotify.com/track/0oR8hCuNGBlHDY6bdiOVry"
     },
     {
       "album": {

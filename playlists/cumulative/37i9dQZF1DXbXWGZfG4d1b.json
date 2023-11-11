@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Anclado",
+        "url": "https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Laser",
+          "url": "https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264500,
+      "name": "Anclado",
+      "url": "https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx"
+    },
+    {
+      "album": {
         "name": "NAFTA II",
         "url": "https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It"
       },
@@ -1000,6 +1018,32 @@
       "duration_ms": 151120,
       "name": "B\u00e1jese de Ah\u00ed",
       "url": "https://open.spotify.com/track/3XLLNuzYHZT80VrRhi5jZY"
+    },
+    {
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
+      },
+      "artists": [
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        },
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        },
+        {
+          "name": "Tomy Sainz",
+          "url": "https://open.spotify.com/artist/07mfD3Txop0KJIEHoQRFZZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192389,
+      "name": "CABEZAS DEL TIEMPO",
+      "url": "https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9"
     },
     {
       "album": {
@@ -2730,6 +2774,10 @@
         {
           "name": "Bestia Beb\u00e9",
           "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        },
+        {
+          "name": "Lucas Jaubet",
+          "url": "https://open.spotify.com/artist/2l3yo52RkuDBVnalY9pBpr"
         }
       ],
       "date_added": "2023-10-26",
@@ -5750,6 +5798,24 @@
       "duration_ms": 251409,
       "name": "Mientras Puedas",
       "url": "https://open.spotify.com/track/0KXSC27yO8M77WxGV4JC8l"
+    },
+    {
+      "album": {
+        "name": "Canciones Sobre una Casa, Cuatro Amigos y un Perro",
+        "url": "https://open.spotify.com/album/4WmNsvvJMQC0Dnhnpu5Zzv"
+      },
+      "artists": [
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247477,
+      "name": "Mil Derrotas",
+      "url": "https://open.spotify.com/track/1KWWN0v4gnwkSkLlSIJQze"
     },
     {
       "album": {
@@ -8841,6 +8907,24 @@
     },
     {
       "album": {
+        "name": "Todo de mi (Todo de vos)",
+        "url": "https://open.spotify.com/album/3A1Qg6PBVcgzfp2e80zaBG"
+      },
+      "artists": [
+        {
+          "name": "Mauro Conforti & La Vida Marciana",
+          "url": "https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173914,
+      "name": "Todo de mi (Todo de vos)",
+      "url": "https://open.spotify.com/track/5gWdUxIfynfRq94ypST6mY"
+    },
+    {
+      "album": {
         "name": "Todo el Mal",
         "url": "https://open.spotify.com/album/0dfayvjKUsbOs8ghUixZpY"
       },
@@ -9704,7 +9788,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 243625,
       "name": "ya fue / ya est\u00e1",
       "url": "https://open.spotify.com/track/31VaZ78vgHa1N5J9oLvFAi"

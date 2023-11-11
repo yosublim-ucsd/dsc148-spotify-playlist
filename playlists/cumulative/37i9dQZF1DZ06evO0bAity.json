@@ -868,10 +868,32 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 218739,
       "name": "My Mind is Eating Me Alive",
       "url": "https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL"
+    },
+    {
+      "album": {
+        "name": "My Mind Is Eating Me Alive (GAUCI Remix)",
+        "url": "https://open.spotify.com/album/6PN1mpBJUn8a8Ytp6Sz1R1"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        },
+        {
+          "name": "GAUCI",
+          "url": "https://open.spotify.com/artist/4cZCJhHp1jIH1NZ02799nY"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209988,
+      "name": "My Mind Is Eating Me Alive - GAUCI Remix",
+      "url": "https://open.spotify.com/track/4mbIZepv1eFGIAQiuuDP7r"
     },
     {
       "album": {
@@ -940,7 +962,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 125640,
       "name": "No Talk",
       "url": "https://open.spotify.com/track/4Awbf323AEomDwRCfo9Yjv"
@@ -1012,7 +1034,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 199133,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
@@ -1052,7 +1074,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 237000,
       "name": "Paranoid - NERVE Remix",
       "url": "https://open.spotify.com/track/2n9EcqhwgDO5cgGIMMCHHb"
@@ -1218,7 +1240,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 161186,
       "name": "Say It To My Face",
       "url": "https://open.spotify.com/track/5YbMlrI8fn74ySYCBsLQFy"
@@ -1326,7 +1348,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 192346,
       "name": "Swept Up",
       "url": "https://open.spotify.com/track/6SCv4UuNG89w6ld4w5x82N"

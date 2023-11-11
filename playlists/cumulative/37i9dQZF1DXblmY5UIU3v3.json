@@ -290,7 +290,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 149970,
       "name": "BACK",
       "url": "https://open.spotify.com/track/2EatWIkFOkO7hOBhONxhfX"
@@ -312,6 +312,24 @@
       "duration_ms": 162000,
       "name": "Back Up",
       "url": "https://open.spotify.com/track/3X5019vDRhZp2u1MT54vl2"
+    },
+    {
+      "album": {
+        "name": "BAD OMENS",
+        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147625,
+      "name": "BAD OMENS",
+      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
     },
     {
       "album": {
@@ -1416,7 +1434,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 161714,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/1yQ3QeYusneCgj5uenIg98"
@@ -3610,7 +3628,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 174151,
       "name": "The Walls",
       "url": "https://open.spotify.com/track/0O1XOHLMOsLoGNu6tZkOMt"

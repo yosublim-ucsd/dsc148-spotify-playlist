@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Kim Kunni; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,354 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,357 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Run Dis Street 2](https://open.spotify.com/track/6xVV6favDPwygLsKhrL7kP) | [Vsplifff](https://open.spotify.com/artist/0VoZgCD5fTS8JDmMPu0bX3), [MinhLai](https://open.spotify.com/artist/3L2ohE2NX2W5hAauL16VuQ), [Pineradise](https://open.spotify.com/artist/6HvmfMAIgsbkg9u9KE3Zut) | [Run Dis Street 2](https://open.spotify.com/album/2NhwwkyEVfPr9U3tl102aP) | 2:34 |
 | 100 | [Rơi Vào U Sầu](https://open.spotify.com/track/4dSqJH6oG57ov48ZzIgdlq) | [Truc Ban Bun](https://open.spotify.com/artist/1gRltC2Wy0Gi2cxsDDJrh6) | [Rơi Vào U Sầu](https://open.spotify.com/album/05cA6VOQmjhbM6tgPZW9Wd) | 3:26 |
 
-Snapshot ID: `MCwyNzA2YWMzMTk4Y2E2NzRkNmRhNDA0YjA3MWQwMmE3MmZkZjBjMTk2`
+Snapshot ID: `MCwxOGU5OWIyNDFhMTMxM2M3OGRhYTFhMjkwNGI5YWUwNjk4YjZmMWIy`

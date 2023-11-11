@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-161 songs - 9 hr 23 min
+162 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bloodhunt Main Theme](https://open.spotify.com/track/1r4MUA5cT9eGCI9drPV74m) | [Atanas Valkov](https://open.spotify.com/artist/4cAAN7SGwKPLlveflKR9z5) | [Vampire: The Masquerade \- Bloodhunt \(Original Soundtrack\)](https://open.spotify.com/album/1n9ixNMkvMMHukntiOfIZf) | 2:57 | 2022-08-19 | 2022-11-09 |
 | [Bloodhunt Main Theme](https://open.spotify.com/track/5YccTgIOcpRp4OUZpUSzC2) | [Atanas Valkov](https://open.spotify.com/artist/4cAAN7SGwKPLlveflKR9z5) | [Vampire: The Masquerade \- Bloodhunt \(Original Soundtrack\)](https://open.spotify.com/album/5pZcw77Yw4E0r9PK9SNN7S) | 2:57 | 2022-11-04 |  |
 | [Bonding Winds \- Monster Hunter Stories 2 Version](https://open.spotify.com/track/77AG1cu6yIcvSHV9Ct8q6o) | [Marika Suzuki](https://open.spotify.com/artist/41kVzr5RxwegBwWAWzwRG6) | [MONSTER HUNTER STORIES 2: WINGS OF RUIN ORIGINAL SOUND TRACK](https://open.spotify.com/album/4m9EYywTRX2I2eimoPaaN8) | 3:49 | 2022-02-18 |  |
-| [Castle in the Mist](https://open.spotify.com/track/3NqHQ4V2U4wQuWlByWfa1r) | [ICO](https://open.spotify.com/artist/6vuQJMjP5BC4Wyrq6mpVlb) | [ICO〜霧の中の旋律〜](https://open.spotify.com/album/7Gp7M4UtFXPJ6qc5oILizv) | 3:05 | 2021-12-15 |  |
+| [Castle in the Mist](https://open.spotify.com/track/3NqHQ4V2U4wQuWlByWfa1r) | [ICO](https://open.spotify.com/artist/28QxVPI8Qeh3rOriVjJziN) | [ICO〜霧の中の旋律〜](https://open.spotify.com/album/7Gp7M4UtFXPJ6qc5oILizv) | 3:05 | 2021-12-15 |  |
 | [Castlevania](https://open.spotify.com/track/664qR3uQQOlRVIr2bTzJQz) | [Michiru Yamane](https://open.spotify.com/artist/6yHzqH70UbRHmoTOcEBmRz), [Jun Irie](https://open.spotify.com/artist/5JqskDaiPYXK7suG5avAiC), [Play! Orchestra](https://open.spotify.com/artist/0GYcXLXJH56tMNErPW6Wfg) | [Castlevania](https://open.spotify.com/album/4RSVZeOGgBwv3z0l7lHpIT) | 6:50 | 2021-12-15 |  |
 | [City of Rome](https://open.spotify.com/track/6ZXa4Ztf2itEtbTRNUDYAP) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed: The Best of Jesper Kyd](https://open.spotify.com/album/3wZlREjJIfZoXPskuiire7) | 5:33 | 2021-12-15 |  |
 | [Colored Engine](https://open.spotify.com/track/2U832A0zdb8OABhBmFjlWS) | [Joel Schoch](https://open.spotify.com/artist/6jDyAH1lGJdLV9rfEFgeGH) | [Far: Lone Sails](https://open.spotify.com/album/0WqpTTuUTg5jwnHC3raWgU) | 3:01 | 2022-07-27 |  |
@@ -72,6 +72,7 @@
 | [God of War Ragnarök \(feat\. Eivør\)](https://open.spotify.com/track/1K6kU7xS4BbYabECcpTA5O) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök / Svartalfheim](https://open.spotify.com/album/0QqigrkIqIlzIz2Vk6mnhQ) | 4:34 | 2022-11-04 | 2022-11-11 |
 | [God of War Ragnarök \(feat\. Eivør\)](https://open.spotify.com/track/4mowfIHVIYRoepbExd1cwu) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:34 | 2022-11-10 |  |
 | [Godrick the Grafted](https://open.spotify.com/track/6RhrqyCOyLiA3MzTu8ecmD) | [Shoi Miyazawa](https://open.spotify.com/artist/5RpBia18SUKXrsrHLYlrrd) | [Elden Ring \(Original Soundtrack\)](https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir) | 4:48 | 2022-09-09 | 2022-11-22 |
+| [Greater Together \(Album Version\)](https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz), [Ben Billions](https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5) | [Marvel's Spider\-Man 2 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) | 3:18 | 2023-10-20 |  |
 | [Gris, Pt\. 1](https://open.spotify.com/track/3m7ieZFPvfPARawHCs3Mjj) | [Berlinist](https://open.spotify.com/artist/6EUPmAvpY341eXZwJVy6dn) | [Gris \(Original Game Soundtrack\)](https://open.spotify.com/album/2YMWspDGtbDgYULXvVQFM6) | 2:36 | 2021-12-15 |  |
 | [Halo](https://open.spotify.com/track/6DhcuZbi4FW28RLicWNmmx) | [Halo](https://open.spotify.com/artist/3AVA9bUTMNoJ9RrbmB0YfW), [Martin O'Donnell](https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Halo: Combat Evolved \(Original Soundtrack\)](https://open.spotify.com/album/4eOwVM6B9yJCwk030GGYRI) | 4:22 | 2023-04-28 |  |
 | [Halo](https://open.spotify.com/track/0htrx26DcVDcyXErXyJsTo) | [Martin O'Donnell](https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Halo: Original Soundtrack](https://open.spotify.com/album/6GSXmRwERX2erR5xuLTajj) | 4:22 | 2021-12-15 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Natasha Noorani
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,485 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,544 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 74 | [Casanova](https://open.spotify.com/track/1n1U7pyRfc5dV7143oKleX) | [Alemam Elghandour](https://open.spotify.com/artist/3HAn0ZaBosAui4f1jggyLi), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [Casanova](https://open.spotify.com/album/3LJ37HFYXGrP2rwPmJxX5e) | 2:12 |
 | 75 | [Trust Issues](https://open.spotify.com/track/1m5KaAuRcBwvlSgHo8vJap) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [Trust Issues](https://open.spotify.com/album/75I74MMyl3fdzJL3ENkj7T) | 2:27 |
 
-Snapshot ID: `MCxjNzA2MGEwZWJjNmM0YzhkMTkzZWM1OTdmNGYwNjg1ZjhkZjIyOTVk`
+Snapshot ID: `MCxkYTk1NjU2Mzc4ZTIzNzM3ZTIzOGNhNGE4ZDljMmE1NDIwMzdlZTNj`

@@ -1,13 +1,49 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 203642,
+  "num_followers": 203667,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2Q1ZDQ4YmI3NTAyYzI3ZDhhYTIxNDdkMzZiNjA3NTE4ZGViMWU1",
+  "snapshot_id": "MCwyZGQ3YzU1MWFmNDUzMjFlOTE3OWVlNDgwZmExM2Q5MjExODM1N2U0",
   "tracks": [
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Your Love Is Gold",
+        "url": "https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Louie Thesinger",
+          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
+        }
+      ],
+      "duration_ms": 166842,
+      "name": "Your Love Is Gold",
+      "url": "https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "So Tired",
+        "url": "https://open.spotify.com/album/1nQr0MQwmFR8yjL7uyLx90"
+      },
+      "artists": [
+        {
+          "name": "Britti",
+          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "So Tired",
+      "url": "https://open.spotify.com/track/3X9D9fDfMFePPAhDnhXcBD"
+    },
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
@@ -23,6 +59,22 @@
       "duration_ms": 232466,
       "name": "Ice Cream (Pay Phone)",
       "url": "https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/7byQuT5JOWWfHTfu7zpxxT"
+      },
+      "artists": [
+        {
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/6op7RGEgw2gs49M87Uct2p"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -59,6 +111,22 @@
       "duration_ms": 208933,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Nobody But You",
+        "url": "https://open.spotify.com/album/64vGv9opFtK75WRyjPRFnP"
+      },
+      "artists": [
+        {
+          "name": "Brainstory",
+          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
+        }
+      ],
+      "duration_ms": 135345,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/6Oao4bGYFGXppmlI0cjIiS"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -491,26 +559,6 @@
       "duration_ms": 206937,
       "name": "first, last and always",
       "url": "https://open.spotify.com/track/4yR51vo6LmS17yGoN6Xyre"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Sad Hearted Clown",
-        "url": "https://open.spotify.com/album/6Y8dPnHS85nm1OsACr26Pg"
-      },
-      "artists": [
-        {
-          "name": "Cota",
-          "url": "https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM"
-        },
-        {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        }
-      ],
-      "duration_ms": 217226,
-      "name": "Sad Hearted Clown",
-      "url": "https://open.spotify.com/track/2ZsssRULtkfkbo5D2yh6gT"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1415,22 +1463,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Never",
-        "url": "https://open.spotify.com/album/2ggiQt0eaXS4ZsbUnjnC0h"
-      },
-      "artists": [
-        {
-          "name": "Luqman Frank",
-          "url": "https://open.spotify.com/artist/2n9bS9HE2t5dn4sx6d4uAj"
-        }
-      ],
-      "duration_ms": 280517,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/7vH4dCyPjR98UIOi9eg5Ez"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Til It\u2019s Gone",
         "url": "https://open.spotify.com/album/6S8mlOlfA5EM5liaSdKruf"
       },
@@ -1443,26 +1475,6 @@
       "duration_ms": 173724,
       "name": "X Boyfriends",
       "url": "https://open.spotify.com/track/3DYVCuzV31DJAgBbEo0Ae3"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "S\u0142o\u0144ce",
-        "url": "https://open.spotify.com/album/5i6q7sPlEGqvzP3IOtWYTb"
-      },
-      "artists": [
-        {
-          "name": "Udoo",
-          "url": "https://open.spotify.com/artist/4MCes2wLaA4tjXUpIdw2PE"
-        },
-        {
-          "name": "Moo Latte",
-          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
-        }
-      ],
-      "duration_ms": 253124,
-      "name": "S\u0142o\u0144ce",
-      "url": "https://open.spotify.com/track/2fxjOp42W4IL2EdHLa6QOb"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1655,22 +1667,6 @@
       "duration_ms": 340256,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/2ABBvCK4TnSOv8wKJSCVcR"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "No Matter The Season",
-        "url": "https://open.spotify.com/album/0KImBK7q3JYm43snwJGZgL"
-      },
-      "artists": [
-        {
-          "name": "Eamon",
-          "url": "https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9"
-        }
-      ],
-      "duration_ms": 138223,
-      "name": "Come On Through",
-      "url": "https://open.spotify.com/track/2GMjU0QuHVOXjGI02ksGrw"
     },
     {
       "added_at": "2023-09-01 04:00:00",

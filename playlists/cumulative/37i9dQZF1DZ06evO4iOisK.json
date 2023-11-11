@@ -365,7 +365,7 @@
     },
     {
       "album": {
-        "name": "\u8f4d~Wadachi~",
+        "name": "\u8f4d\uff5eWadachi\uff5e",
         "url": "https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho"
       },
       "artists": [
@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 215640,
       "name": "My World",
       "url": "https://open.spotify.com/track/1UuBZ4Q6avTXQH1Kwe4uu8"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 205746,
       "name": "My World - New Version -",
       "url": "https://open.spotify.com/track/1Vnupt0iRBVZOYzl8BBgcc"
@@ -994,7 +994,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189360,
-      "name": "WENDY ~It's You~",
+      "name": "WENDY \uff5eIt's You\uff5e",
       "url": "https://open.spotify.com/track/5oxpHI7qENIVkUhCDxak9j"
     },
     {
@@ -1143,7 +1143,7 @@
     },
     {
       "album": {
-        "name": "\u8f4d~Wadachi~",
+        "name": "\u8f4d\uff5eWadachi\uff5e",
         "url": "https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho"
       },
       "artists": [
@@ -1251,7 +1251,7 @@
     },
     {
       "album": {
-        "name": "\u8f4d~Wadachi~",
+        "name": "\u8f4d\uff5eWadachi\uff5e",
         "url": "https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho"
       },
       "artists": [
@@ -1264,7 +1264,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 222120,
-      "name": "\u8f4d~Wadachi~",
+      "name": "\u8f4d\uff5eWadachi\uff5e",
       "url": "https://open.spotify.com/track/0AuEHmUQAMbqf9hrXBQcuT"
     },
     {

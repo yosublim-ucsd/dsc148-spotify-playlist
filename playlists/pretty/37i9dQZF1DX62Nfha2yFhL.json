@@ -1,13 +1,33 @@
 {
   "description": "every day soul with a funky groove for a laid back day.",
-  "num_followers": 896711,
+  "num_followers": 896788,
   "original_name": "Soul Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDNkYzQ0Njg5NDZlYTI5YzBkMjI5OTc4NGQyYjZiZDNlNmNhYzRl",
+  "snapshot_id": "MCw2YjkyY2UwZjQ2MzY4NDQ0NjJhYzBkOGY0ZmQ4NjEwMDQ5MDMwZThj",
   "tracks": [
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Gravy",
+        "url": "https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Philip Bailey",
+          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Never Change (feat. Philip Bailey)",
+      "url": "https://open.spotify.com/track/4OFt2tXFSQtRUryZwCrUz5"
+    },
     {
       "added_at": "2023-10-20 05:20:01",
       "album": {
@@ -175,6 +195,26 @@
       "duration_ms": 184866,
       "name": "Come Around and Love Me",
       "url": "https://open.spotify.com/track/6lB0AAe5f8msn8vqUNkVsN"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Gravy",
+        "url": "https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 195240,
+      "name": "Crazy Love (feat. Andra Day)",
+      "url": "https://open.spotify.com/track/0bMbAXCsi2jtkB2qunR7Ks"
     },
     {
       "added_at": "2023-06-09 04:00:00",

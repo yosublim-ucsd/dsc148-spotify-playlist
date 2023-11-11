@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-356 songs - 17 hr 54 min
+357 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Calm Breeze](https://open.spotify.com/track/2tcTUTSn2tD909yyjeKrUZ) | [Silent Clouds](https://open.spotify.com/artist/1CwbTF6q8zvbC5NaMGBn8f) | [Calm Breeze](https://open.spotify.com/album/5fgI0V4BzRdnG7gtGZFApj) | 3:08 | 2022-07-05 |  |
 | [Calm World](https://open.spotify.com/track/55YaGVtmlMuuz6KyrNBY1F) | [Little Circuits](https://open.spotify.com/artist/1UyzP6admqk7jIIgedlD4B) | [Calm World](https://open.spotify.com/album/0txToNTpKCS1WHXGBF2SXL) | 2:57 | 2023-09-01 |  |
 | [Calming Seas](https://open.spotify.com/track/6fAmC1bZzVgA9E5gNrdy5k) | [Grant Murdoch](https://open.spotify.com/artist/69MHZfuz6RQx3JpGl1OXB0) | [Calming Seas](https://open.spotify.com/album/6RZEo3ZuNrZadQxwmxbtra) | 2:50 | 2022-10-14 |  |
+| [Capodimonte](https://open.spotify.com/track/709W2q3R0BS7RazNWaGW1b) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Capodimonte](https://open.spotify.com/album/3D5FbykO1AlcJg6LZFCeep) | 2:33 | 2023-11-10 |  |
 | [Cartography Of Water](https://open.spotify.com/track/7fSBdUicxjuzxZDmAgxpdr) | [Beautiful Storms](https://open.spotify.com/artist/1dopqchRiIBu3WhKOGzaH8) | [Cartography Of Water](https://open.spotify.com/album/0VvKY4DY5CD6Df5QSxEgbA) | 2:47 | 2022-07-05 |  |
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2022-07-05 |  |
 | [Clarity Moon](https://open.spotify.com/track/05jY1kWoJC3H8AuVUaL8gi) | [Liam Steed](https://open.spotify.com/artist/2mwLRUvh0iuf9swl6Rn7ki) | [Clarity Moon](https://open.spotify.com/album/5NvCov4I30QGt5kbvZpUKV) | 2:52 | 2022-11-11 |  |
@@ -357,7 +358,7 @@
 | [We Were Sitting In Stillness By The Sea](https://open.spotify.com/track/6URcvB1sPqXig3wiRGcTRX) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [We Were Sitting In Stillness By The Sea](https://open.spotify.com/album/5QCSdpkSRFFshEDxLE8WLh) | 2:38 | 2022-07-05 | 2023-06-03 |
 | [Where Mountains Reign](https://open.spotify.com/track/2ud8PfizwtkZ0IKrCyhZkC) | [In Finitum](https://open.spotify.com/artist/4yKvWCRx5sts8aLi0fAM9c) | [Where Mountains Reign](https://open.spotify.com/album/3W3yJKdm6CS0DeBSZ315gD) | 2:47 | 2022-10-14 |  |
 | [White Clouds](https://open.spotify.com/track/62kwqsJgdMLPYrldq12WGf) | [Cellulose Sunshine](https://open.spotify.com/artist/5UQC7KDvCQnrNPbOKP3Dls) | [White Clouds](https://open.spotify.com/album/4CgfDnNh425tn0I3h5M9Q6) | 2:45 | 2022-07-05 | 2022-07-29 |
-| [White Clouds](https://open.spotify.com/track/6De33VzJSol8SANtkyOYfa) | [Cellulose Sunshine](https://open.spotify.com/artist/5UQC7KDvCQnrNPbOKP3Dls) | [White Clouds](https://open.spotify.com/album/1fvpkhV1V2MJTNGlLbXh6l) | 2:45 | 2022-07-05 |  |
+| [White Clouds](https://open.spotify.com/track/6De33VzJSol8SANtkyOYfa) | [Cellulose Sunshine](https://open.spotify.com/artist/5UQC7KDvCQnrNPbOKP3Dls) | [White Clouds](https://open.spotify.com/album/1fvpkhV1V2MJTNGlLbXh6l) | 2:45 | 2022-07-05 | 2023-11-11 |
 | [Wild Flowers](https://open.spotify.com/track/5QxJpxP8HG9UpHgAXt9NcL) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Deep Healing Sessions Vol 1](https://open.spotify.com/album/6pS5kuMkDKvDgZkaBQnSSI) | 3:27 | 2022-07-05 | 2023-07-29 |
 | [Wild Soul](https://open.spotify.com/track/0PSoQovKUDaVl7TBVGAmt4) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Dream Catcher](https://open.spotify.com/album/3JTj8NXeqCzU8DzEbEgp1S) | 3:29 | 2022-07-05 | 2023-03-04 |
 | [With Ease](https://open.spotify.com/track/00eBFvnAYsdAXXGCDnK7SV) | [Agnes Sayjno](https://open.spotify.com/artist/345c5ThS55JjzQizl3l8pg) | [With Ease](https://open.spotify.com/album/4ZJqFFI6TVaXqJtrLf7afE) | 3:01 | 2023-08-24 |  |

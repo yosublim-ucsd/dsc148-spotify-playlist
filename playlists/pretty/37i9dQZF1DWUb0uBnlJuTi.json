@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 313768,
+  "num_followers": 313956,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2RkNGRjODIzZDE1M2JlMzViM2RiOTBjNDM4NzcwZWUyODhkNDEw",
+  "snapshot_id": "MCxjODJiZWVkNWQ4NGEzMjhhNWFkMjkyOTMzNGVjNjc0MDU3NTRiMTI1",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -65,6 +65,22 @@
       "url": "https://open.spotify.com/track/201ZmH4WWYflWBpg2CJ8uc"
     },
     {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Who Cares",
+        "url": "https://open.spotify.com/album/24v0ryEB2hOI3ffiJsJhVO"
+      },
+      "artists": [
+        {
+          "name": "Kinga Glyk",
+          "url": "https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk"
+        }
+      ],
+      "duration_ms": 221753,
+      "name": "Who Cares",
+      "url": "https://open.spotify.com/track/74nxTZmwEUNKMdHQ7GPgsi"
+    },
+    {
       "added_at": "2023-09-15 04:01:00",
       "album": {
         "name": "Behind the Tea Chronicles",
@@ -99,6 +115,26 @@
       "duration_ms": 348489,
       "name": "It's Just Begun / Soul Power - Instrumental",
       "url": "https://open.spotify.com/track/2F7EjHxQAwckOxP4SE2B0J"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Go Funk Me",
+        "url": "https://open.spotify.com/album/6JeoeuuEiMjQBqDcvwQsbv"
+      },
+      "artists": [
+        {
+          "name": "The Du-Rites",
+          "url": "https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw"
+        },
+        {
+          "name": "Seth Hachen",
+          "url": "https://open.spotify.com/artist/1YGdkLpYZm6T1izLrBnvDE"
+        }
+      ],
+      "duration_ms": 166820,
+      "name": "Go Funk Me",
+      "url": "https://open.spotify.com/track/5mzjFN0zUIwB92GdqDY978"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -139,6 +175,26 @@
       "duration_ms": 223289,
       "name": "Picante",
       "url": "https://open.spotify.com/track/1hhD04AfEtZWt1MG4IyhJw"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "We Are The People, Live at Tri-C Jazz Fest 2023",
+        "url": "https://open.spotify.com/album/3yat4oL4gAATyHuLHHRpNP"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "The Admirables",
+          "url": "https://open.spotify.com/artist/71YRStFsuR1Y1ACBPggkLF"
+        }
+      ],
+      "duration_ms": 397045,
+      "name": "We Are The People, Live at Tri-C Jazz Fest 2023 - Live",
+      "url": "https://open.spotify.com/track/0THa5usAnIDOG0d5DlMLmu"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -247,22 +303,6 @@
       "duration_ms": 341918,
       "name": "Have A Talk With God",
       "url": "https://open.spotify.com/track/5zH2yuY4i55cD4fc1COjdt"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Fast Life",
-        "url": "https://open.spotify.com/album/29SzjciN1hhMafVQcZizOV"
-      },
-      "artists": [
-        {
-          "name": "Kinga Glyk",
-          "url": "https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk"
-        }
-      ],
-      "duration_ms": 238830,
-      "name": "Fast Life",
-      "url": "https://open.spotify.com/track/4Qlyf2WcL6uq11MNP3BjqH"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -1511,22 +1551,6 @@
       "duration_ms": 293013,
       "name": "Longseller Tornado",
       "url": "https://open.spotify.com/track/4dKHCuRPW5BXkXYA46l6BK"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "Driving",
-        "url": "https://open.spotify.com/album/5BRGf4KjeBFPG7WpPAgxxH"
-      },
-      "artists": [
-        {
-          "name": "Riot Jazz Brass Band",
-          "url": "https://open.spotify.com/artist/1txSIgiNjE6LpvkxP7sYyP"
-        }
-      ],
-      "duration_ms": 186745,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/6dT65xQ9mLooOD9or4oWvX"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -3655,22 +3679,6 @@
       "duration_ms": 199578,
       "name": "Pillars",
       "url": "https://open.spotify.com/track/5Xhgdxq9KzGTO3UlSQgBau"
-    },
-    {
-      "added_at": "2021-10-08 04:02:00",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/0WKSzJyXImkaywd2c9esMG"
-      },
-      "artists": [
-        {
-          "name": "The Du-Rites",
-          "url": "https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw"
-        }
-      ],
-      "duration_ms": 168820,
-      "name": "Bird Brain",
-      "url": "https://open.spotify.com/track/1Sm4vXzi88nMcWE392dd8R"
     },
     {
       "added_at": "2021-06-25 04:02:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: PARKMOONCHI(\ubc15\ubb38\uce58)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: YongYong(\uc6a9\uc6a9)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "tracks": [
     {
@@ -315,6 +315,28 @@
     },
     {
       "album": {
+        "name": "mYmY",
+        "url": "https://open.spotify.com/album/73UpAwWuOaZPUqnsfYOO29"
+      },
+      "artists": [
+        {
+          "name": "YongYong",
+          "url": "https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK"
+        },
+        {
+          "name": "GIUK",
+          "url": "https://open.spotify.com/artist/4kuX4KeHgnN8ifEGHHUd0x"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251920,
+      "name": "A girl's Panorama (feat. GIUK)",
+      "url": "https://open.spotify.com/track/3E5JbDebW0NQzafFD2xVh5"
+    },
+    {
+      "album": {
         "name": "a letter from fall \uc5ec\ub984\uc758 \ub05d, \uac00\uc744\ud3b8\uc9c0",
         "url": "https://open.spotify.com/album/4gHLx1ZdRuKEj08ZY0llxn"
       },
@@ -420,7 +442,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 214866,
       "name": "About Time",
       "url": "https://open.spotify.com/track/2lSUPsWT6vOZQGhu70vdzr"
@@ -1445,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/15yRqHXOXQUXfIuZE6iPhe"
+      },
+      "artists": [
+        {
+          "name": "\uc2e0\uc124\ud76c",
+          "url": "https://open.spotify.com/artist/2zckyZYsxA25pSnmzlxlXa"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360701,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/0pku1ikLOgKnYIYbhOTpbZ"
+    },
+    {
+      "album": {
         "name": "childhood of the sea",
         "url": "https://open.spotify.com/album/6azHgQ3LbUgkGXmYnAwtET"
       },
@@ -2400,7 +2440,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 199354,
       "name": "Ending Fairy",
       "url": "https://open.spotify.com/track/66uWx5UFjIR7VmnqQ2YX0x"
@@ -3992,7 +4032,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 227756,
       "name": "Hug me tight",
       "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
@@ -4900,7 +4940,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 172440,
       "name": "J U S T F U N (with george)",
       "url": "https://open.spotify.com/track/0fhnZmbHlo4rdcINqvhLCb"
@@ -6346,24 +6386,6 @@
       "duration_ms": 197479,
       "name": "My Trouble",
       "url": "https://open.spotify.com/track/0OQQTmbThttTpDoF4t5DmP"
-    },
-    {
-      "album": {
-        "name": "THE FAN 2ROUND Part.1",
-        "url": "https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "date_added": "2021-12-21",
-      "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
-      "duration_ms": 236578,
-      "name": "Myeongdong Calling",
-      "url": "https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt"
     },
     {
       "album": {
@@ -11221,6 +11243,24 @@
     },
     {
       "album": {
+        "name": "\ub354 \ud32c 2ROUND Part.1",
+        "url": "https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236578,
+      "name": "\uba85\ub3d9\ucf5c\ub9c1",
+      "url": "https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt"
+    },
+    {
+      "album": {
         "name": "\ubc29\ub791\uc790",
         "url": "https://open.spotify.com/album/7EOdAL92s1kwBSqYlJNAOX"
       },
@@ -11232,7 +11272,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 200333,
       "name": "\ubc29\ub791\uc790",
       "url": "https://open.spotify.com/track/6h7VcJXkym9NGISDIYlmch"

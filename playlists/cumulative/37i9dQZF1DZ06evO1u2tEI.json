@@ -1478,10 +1478,28 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 216480,
       "name": "Roman Candle",
       "url": "https://open.spotify.com/track/432cZXiWQjsN8GJgVBFemM"
+    },
+    {
+      "album": {
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "Roman Candle",
+      "url": "https://open.spotify.com/track/3zUkBorysSm42GV4akxnoB"
     },
     {
       "album": {

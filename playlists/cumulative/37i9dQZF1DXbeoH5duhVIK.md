@@ -4,7 +4,7 @@
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-105 songs - 6 hr 28 min
+107 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Notes](https://open.spotify.com/track/042UcI95xTMzE5gu8Ow9zX) | [Rose Cologne](https://open.spotify.com/artist/4f0Xdf4DakeOXzGRnILimE) | [Dark Alarm](https://open.spotify.com/album/0X86MyQMsOGOzGqRZYt44k) | 3:31 | 2023-03-02 |  |
 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/3GhsBdS9ulPK3KCdwHRPhG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/6w9osZGOS8B7XWW51SBwFT) | 4:46 | 2023-03-02 | 2023-09-21 |
 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk) | 4:46 | 2023-03-10 |  |
-| [Ooh La La](https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f) | 3:24 | 2023-03-02 |  |
+| [Ooh La La](https://open.spotify.com/track/3E0gVkirGK2ouGHPuOO9cN) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/3vtZKHDljhjJORS14a4qKx) | 3:24 | 2023-03-10 |  |
+| [Ooh La La](https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f) | 3:24 | 2023-03-02 | 2023-11-11 |
 | [Out of Control](https://open.spotify.com/track/2lWiS97zDwSv0L8eCWffDt) | [lia](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Out of Control](https://open.spotify.com/album/5Hhqb13WkCzudxTsK0O2At) | 4:10 | 2023-03-02 |  |
 | [Poppin' Champagne](https://open.spotify.com/track/7ifTNKe9EUcvFZbW7pi3Tr) | [Showtime Showtime](https://open.spotify.com/artist/088T8F1N8sJlnPiUtHUzRG), [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM), [DJ Marc B](https://open.spotify.com/artist/35zOGL2jF8cLvmxCq87E9q) | [Poppin' Champagne](https://open.spotify.com/album/1eoaDIQdGDz82HiLE7gezu) | 3:26 | 2023-03-02 |  |
 | [Pourquoi pas](https://open.spotify.com/track/5exiWZkZho6AvCGkabEMeA) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 3:12 | 2023-03-02 |  |
@@ -109,7 +110,8 @@
 | [White Noise](https://open.spotify.com/track/4kZGNDSrzLouR2UjB9twuQ) | [Exitmusic](https://open.spotify.com/artist/1sLflvP9XBFyDA0l6iFNjE) | [Passage](https://open.spotify.com/album/0l0AzPDXvxxFGwIaK5hJw7) | 4:54 | 2023-03-02 |  |
 | [Who Knows](https://open.spotify.com/track/6T5eAjtjBQJEWVGtndJ9XA) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [Who Knows](https://open.spotify.com/album/2UgeXzcLnZ707ZAkoYyW8s) | 3:12 | 2023-03-02 |  |
 | [Wildest Moments](https://open.spotify.com/track/2QPuWjnOa6N5p8fGn3iGly) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Devotion](https://open.spotify.com/album/1T5wmjLCBuuTKTpKsiAn7R) | 3:42 | 2023-03-02 |  |
-| [Woman](https://open.spotify.com/track/570DNdCjckkG4MAQfO0Aab) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur) | 2:54 | 2023-03-02 |  |
+| [Woman](https://open.spotify.com/track/570DNdCjckkG4MAQfO0Aab) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur) | 2:54 | 2023-03-02 | 2023-11-11 |
+| [Woman](https://open.spotify.com/track/779N5SO1S5wcANF5pp1EUB) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/6FZj5JixSLG35CvbNYswlX) | 2:54 | 2023-03-10 |  |
 | [World of Trouble](https://open.spotify.com/track/2KH8SX3xQaX5woA6U8u2Zi) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [World of Trouble](https://open.spotify.com/album/15591bTnDApAgFAbDazNBI) | 3:04 | 2023-03-02 |  |
 | [You](https://open.spotify.com/track/1pPmAaQ6XcuGwwNDRm5N1e) | [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [You](https://open.spotify.com/album/20t3RavpQsky1tVEAUaeGl) | 3:48 | 2023-03-02 |  |
 | [Your Love Is Like Petrol](https://open.spotify.com/track/3ecvSopt2pVANLVjp89Gul) | [Client](https://open.spotify.com/artist/1IjPJum5sJ6iSr3mBsSYJk) | [Command](https://open.spotify.com/album/7sBjk70CRR4VuIdIri30nl) | 3:14 | 2023-03-02 |  |

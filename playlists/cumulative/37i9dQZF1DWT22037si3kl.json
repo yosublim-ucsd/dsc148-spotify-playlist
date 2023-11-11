@@ -436,7 +436,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 304000,
       "name": "Assault (Carro Forte)",
       "url": "https://open.spotify.com/track/7BwjZ1jy4B0ZyXTY4YQM9A"
@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 188497,
       "name": "Engana Dizendo Que Ama",
       "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
@@ -2307,6 +2307,32 @@
     },
     {
       "album": {
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/5OwBKcZtC3sa8Pwnu9Mqho"
+      },
+      "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130690,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/7jEi9ueOKZkwsnqIuWB2PB"
+    },
+    {
+      "album": {
         "name": "Feir\u00e3o dos 23",
         "url": "https://open.spotify.com/album/0ZYNF7WWXHIzVj7iVri3st"
       },
@@ -2420,6 +2446,28 @@
       "duration_ms": 149707,
       "name": "Ford Ka",
       "url": "https://open.spotify.com/track/7g18mpJuwUeWhUIEczyFqw"
+    },
+    {
+      "album": {
+        "name": "FREDDIE MERCURY",
+        "url": "https://open.spotify.com/album/030z6Qb2ol8uilw8a6npJx"
+      },
+      "artists": [
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "TTF",
+          "url": "https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159798,
+      "name": "FREDDIE MERCURY",
+      "url": "https://open.spotify.com/track/4EpS720DSnhvLM9TV995M1"
     },
     {
       "album": {
@@ -3873,6 +3921,32 @@
     },
     {
       "album": {
+        "name": "2K23",
+        "url": "https://open.spotify.com/album/3eut5147c7K668slIQAx7Y"
+      },
+      "artists": [
+        {
+          "name": "Young Mafia",
+          "url": "https://open.spotify.com/artist/6YTZRNJ6v8Vzf1rqP9UKx4"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224233,
+      "name": "LV",
+      "url": "https://open.spotify.com/track/7u9zTAY2jqLdDc5ai4jsvZ"
+    },
+    {
+      "album": {
         "name": "M4",
         "url": "https://open.spotify.com/album/0yqUVjjoQFD1wtu4OJSNM3"
       },
@@ -4816,7 +4890,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 170256,
       "name": "Noronha",
       "url": "https://open.spotify.com/track/6i8bPQX4qbTV4OiInAjz0y"
@@ -5730,7 +5804,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 186514,
       "name": "Processo",
       "url": "https://open.spotify.com/track/0LKvEb3dAuhIrlY2oMRVVg"
@@ -5938,7 +6012,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 191867,
       "name": "Reino na Terra",
       "url": "https://open.spotify.com/track/7lY80jq9loXF9fc2mW3OB3"
@@ -6686,6 +6760,28 @@
       "duration_ms": 152452,
       "name": "Tiffany",
       "url": "https://open.spotify.com/track/5soSqklbrft67wPAkQrfzR"
+    },
+    {
+      "album": {
+        "name": "To de Blockstar",
+        "url": "https://open.spotify.com/album/0vJx1OwwLR8PPt8qHdFtYr"
+      },
+      "artists": [
+        {
+          "name": "Ogtitu7",
+          "url": "https://open.spotify.com/artist/3qjbHhl2KCV3oywwcJnHE8"
+        },
+        {
+          "name": "TTF",
+          "url": "https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66410,
+      "name": "To de Blockstar",
+      "url": "https://open.spotify.com/track/13hDBTTRi4VVvmMYaQANDu"
     },
     {
       "album": {
@@ -7438,7 +7534,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 196056,
       "name": "Yeezy Slide \"FREESTYLE 01\"",
       "url": "https://open.spotify.com/track/6bBnV1J4thy0w6v8b5qXP4"

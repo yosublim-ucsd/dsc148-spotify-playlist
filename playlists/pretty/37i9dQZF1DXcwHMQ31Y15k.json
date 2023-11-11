@@ -1,15 +1,139 @@
 {
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: James AP",
-  "num_followers": 163151,
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Aftershine",
+  "num_followers": 166002,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWIzNzc1OWIxMjYyN2YzODBhMWU3YzY0NTI4ZjQyYzc5NmNkNDM2",
+  "snapshot_id": "MCxkYjI2ODRlMmRkMjA5ZjAwNGViMjczYzM3ZTY1ZTQzN2Y5OGY1ODdh",
   "tracks": [
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
+      "album": {
+        "name": "Kalah",
+        "url": "https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx"
+      },
+      "artists": [
+        {
+          "name": "Aftershine",
+          "url": "https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL"
+        },
+        {
+          "name": "Restianade",
+          "url": "https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a"
+        }
+      ],
+      "duration_ms": 398011,
+      "name": "Kalah",
+      "url": "https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf"
+    },
+    {
+      "added_at": "2023-11-09 23:08:14",
+      "album": {
+        "name": "MakSet (Official Acoustic Version)",
+        "url": "https://open.spotify.com/album/3wP5k8njLNMAeuNBwOC0H0"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "duration_ms": 348127,
+      "name": "MakSet - Official Acoustic Version",
+      "url": "https://open.spotify.com/track/5q6686dr84F47gxBwRNrSR"
+    },
+    {
+      "added_at": "2023-11-09 23:48:08",
+      "album": {
+        "name": "KISINAN 2",
+        "url": "https://open.spotify.com/album/7szIetP8Jut39uiHTmbmM2"
+      },
+      "artists": [
+        {
+          "name": "Masdddho",
+          "url": "https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "KISINAN 2",
+      "url": "https://open.spotify.com/track/69xt31HhLvo0foFpM6iaaJ"
+    },
+    {
+      "added_at": "2023-11-09 23:08:14",
+      "album": {
+        "name": "Sak Dheg Sak Nyet",
+        "url": "https://open.spotify.com/album/6ygcZGjr38bKFWJt2XaQam"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        },
+        {
+          "name": "Bravesboy",
+          "url": "https://open.spotify.com/artist/2PUWReihDs70AzwDeGEoG1"
+        }
+      ],
+      "duration_ms": 270666,
+      "name": "Sak Dheg Sak Nyet",
+      "url": "https://open.spotify.com/track/4nfyju9QoSwzwEZsyn7Tgs"
+    },
+    {
+      "added_at": "2023-11-09 23:08:14",
+      "album": {
+        "name": "Kluwung",
+        "url": "https://open.spotify.com/album/6lwfJVaJfhRZUT43EGYXuS"
+      },
+      "artists": [
+        {
+          "name": "Wandra Restusiyan",
+          "url": "https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP"
+        },
+        {
+          "name": "Bangkit",
+          "url": "https://open.spotify.com/artist/5E8rjtbcFtxl0lxDBGpSpM"
+        }
+      ],
+      "duration_ms": 359766,
+      "name": "Kluwung",
+      "url": "https://open.spotify.com/track/5WolJZo08MUvnzYcL8VLi7"
+    },
+    {
+      "added_at": "2023-11-09 23:08:14",
+      "album": {
+        "name": "Gusti Tulung",
+        "url": "https://open.spotify.com/album/0fV71kmSAoMBirovaccELT"
+      },
+      "artists": [
+        {
+          "name": "Brindil Kurus",
+          "url": "https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb"
+        }
+      ],
+      "duration_ms": 288500,
+      "name": "Gusti Tulung",
+      "url": "https://open.spotify.com/track/0qFSr9ujrmarFe1XyXGQiV"
+    },
+    {
+      "added_at": "2023-11-09 23:08:14",
+      "album": {
+        "name": "Pelanggaran",
+        "url": "https://open.spotify.com/album/2jC6opHmZglaccSmacSWom"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        }
+      ],
+      "duration_ms": 354000,
+      "name": "Pelanggaran",
+      "url": "https://open.spotify.com/track/40NnuwNYIX54KjRDfSto9t"
+    },
+    {
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Langganan Kleru (Cover)",
         "url": "https://open.spotify.com/album/6Dt3EM50CpMHVVS8HVSxAU"
@@ -25,7 +149,7 @@
       "url": "https://open.spotify.com/track/6cDrGW9pKEq52SebLnfI8V"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Rucah",
         "url": "https://open.spotify.com/album/7CiVeWW4ERfswmLDGqh1AA"
@@ -41,7 +165,7 @@
       "url": "https://open.spotify.com/track/2unTuqdiSehhL4G7Q5U01m"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Kisinan",
         "url": "https://open.spotify.com/album/7yHaGJuKD11LyzBvhFOnTY"
@@ -57,7 +181,7 @@
       "url": "https://open.spotify.com/track/78lFFmTAs87urNSAx7DfbR"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Kisinan",
         "url": "https://open.spotify.com/album/4x5lktOv7MBMZEV2yqcMax"
@@ -73,7 +197,7 @@
       "url": "https://open.spotify.com/track/57W31ORSD6sAOCYhoh7EFv"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Resiko Tresna Sejati",
         "url": "https://open.spotify.com/album/2wS1bp3iPDQarwtK1pXnFP"
@@ -93,7 +217,7 @@
       "url": "https://open.spotify.com/track/117nf2jn1zsHG9H7gZaEjv"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Abadi (Dangdut Version)",
         "url": "https://open.spotify.com/album/38wpQZfT0GMrRaw9MaAkTo"
@@ -113,7 +237,7 @@
       "url": "https://open.spotify.com/track/1D2YEPKpqCvmQOOi2xHsxX"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Urip Rekoso",
         "url": "https://open.spotify.com/album/7vFS81qrJnWRPhMURUybUc"
@@ -129,7 +253,7 @@
       "url": "https://open.spotify.com/track/75APZykcRrekbpKkE798OD"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "MakSet",
         "url": "https://open.spotify.com/album/7w2UIvMEG4eIC72CMnVDU2"
@@ -145,7 +269,7 @@
       "url": "https://open.spotify.com/track/70sEkwn77Nrf0fVIK67YvG"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "MANGSA OBAH",
         "url": "https://open.spotify.com/album/1KgJqmdZ78QwkWvZj7VRuH"
@@ -161,7 +285,7 @@
       "url": "https://open.spotify.com/track/29wLB4HBboFcB4AtS0VqKf"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Dumes",
         "url": "https://open.spotify.com/album/2pSXoblwMl6dpBuJ3dwFSD"
@@ -177,7 +301,7 @@
       "url": "https://open.spotify.com/track/3PnpXLuRInYOAShYXNiLz1"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Wis Dadi Siji",
         "url": "https://open.spotify.com/album/2WRKywqxFsv91baqQwyhu7"
@@ -201,7 +325,7 @@
       "url": "https://open.spotify.com/track/3V4psN224kLrGMNQ6nPYW2"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Cundamani",
         "url": "https://open.spotify.com/album/5mExkq5KGbQHP5mkLHhlKC"
@@ -217,7 +341,7 @@
       "url": "https://open.spotify.com/track/7Ghk8aSwC7vimLntGse1cd"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Manot",
         "url": "https://open.spotify.com/album/2O5X9w2clxTTzqWbHDM28E"
@@ -233,7 +357,7 @@
       "url": "https://open.spotify.com/track/15HmzLQkPN4S6j1lvXYUJp"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Pelanggaran",
         "url": "https://open.spotify.com/album/74dbmkxOoWQE3h4RlXfPIK"
@@ -249,7 +373,7 @@
       "url": "https://open.spotify.com/track/7tkOXJNeDNCeX9Jz3K1M3l"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Mbok Sarijem",
         "url": "https://open.spotify.com/album/0mLRi97B3aVyS9aTkcyUIR"
@@ -265,7 +389,7 @@
       "url": "https://open.spotify.com/track/0oUW3yW2eADBRGTOpUGe1H"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "NEMU",
         "url": "https://open.spotify.com/album/54onYZYuYANLflBLe7eoCH"
@@ -289,7 +413,7 @@
       "url": "https://open.spotify.com/track/3revbFncox6Wvt13y0PJTc"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Minggir Awas Pliket",
         "url": "https://open.spotify.com/album/20WUgcjqdtj8H9x8nGhxfk"
@@ -313,7 +437,7 @@
       "url": "https://open.spotify.com/track/2zIqhoCmnbmcapjODS1Kkr"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "MAKSET",
         "url": "https://open.spotify.com/album/2cBMC737NRu6uYgmkSemYS"
@@ -337,7 +461,7 @@
       "url": "https://open.spotify.com/track/7r0C6hjDpLUNeCZEGqEkpJ"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Pelaku Macak Korban",
         "url": "https://open.spotify.com/album/1gBHTUfYC4O9pfaEn7Kh69"
@@ -353,23 +477,7 @@
       "url": "https://open.spotify.com/track/0tZQUbI9L0LsjkEO79wEtL"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
-      "album": {
-        "name": "Ora Ono Gunane",
-        "url": "https://open.spotify.com/album/5fiHvBaElHxwGxGUfMSpGy"
-      },
-      "artists": [
-        {
-          "name": "Brindil Kurus",
-          "url": "https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb"
-        }
-      ],
-      "duration_ms": 230686,
-      "name": "Ora Ono Gunane",
-      "url": "https://open.spotify.com/track/2wgTxy8GGMR7LNU0UMCYFx"
-    },
-    {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Pelanggaran",
         "url": "https://open.spotify.com/album/0CoWdmbvAH6iZnznHLnPdl"
@@ -385,7 +493,7 @@
       "url": "https://open.spotify.com/track/3AUka3Lyitpc8HHZBD8quf"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Nemu",
         "url": "https://open.spotify.com/album/1TQCT0n7uZa2JFzxP0xGv1"
@@ -401,7 +509,7 @@
       "url": "https://open.spotify.com/track/1IDDrCfk1MedTTX3SIJrX6"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Kelangan 3",
         "url": "https://open.spotify.com/album/7Cy5X87O5ago19SzaT353S"
@@ -417,7 +525,7 @@
       "url": "https://open.spotify.com/track/5w6iYFIAy1jdixBCc3G0Eo"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Rasah Nyangkem 3",
         "url": "https://open.spotify.com/album/2t5UJvtWDSta2KS0vxgcoR"
@@ -437,7 +545,7 @@
       "url": "https://open.spotify.com/track/1n6v45wCB2jZ635rJKgBCs"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Sido Rondo (feat. Mas Tutur)",
         "url": "https://open.spotify.com/album/4NpCoRZQPRyJj3nO97pB63"
@@ -457,7 +565,7 @@
       "url": "https://open.spotify.com/track/0CxgPOuTACNddFQC82zu9l"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Nemen (Hiphop Dangdut Version)",
         "url": "https://open.spotify.com/album/7MpDfyRq8fXGiIQi2ownvc"
@@ -473,7 +581,7 @@
       "url": "https://open.spotify.com/track/6UoW3rtYmYB6DE5xzNors8"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Ojo Nangis / Sawangen Medley",
         "url": "https://open.spotify.com/album/1tcMvMQNt7fTJMqq8lNF2R"
@@ -493,7 +601,7 @@
       "url": "https://open.spotify.com/track/1MEzSPIjrWOaaeRjm46L9n"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Nemen",
         "url": "https://open.spotify.com/album/3Ie2SqHJ6vZOhusuf0ms5t"
@@ -509,7 +617,7 @@
       "url": "https://open.spotify.com/track/4cdLiwrmpSlke1IyjBWGJR"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Waton",
         "url": "https://open.spotify.com/album/0lAfrVXeLeHFkkpt3WMeCF"
@@ -525,7 +633,7 @@
       "url": "https://open.spotify.com/track/3uIn4odpSB1ob8lqSYE0VP"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Nemu",
         "url": "https://open.spotify.com/album/2vKO0ginxICI305ekx233U"
@@ -541,23 +649,7 @@
       "url": "https://open.spotify.com/track/2FvlyBkBPJe1HfScQih3VN"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
-      "album": {
-        "name": "Blawur",
-        "url": "https://open.spotify.com/album/6EBNCFSMhyUhxnDwTDlmtP"
-      },
-      "artists": [
-        {
-          "name": "Pakdhe Baz",
-          "url": "https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl"
-        }
-      ],
-      "duration_ms": 337500,
-      "name": "Blawur",
-      "url": "https://open.spotify.com/track/3YSehtdz9NKV766UnWNFti"
-    },
-    {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Pangestu",
         "url": "https://open.spotify.com/album/1R1HP9hiqJ6QsYpxuHZepL"
@@ -573,7 +665,7 @@
       "url": "https://open.spotify.com/track/3wBWUVz2PJCQN4PETCb6x9"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Dumes",
         "url": "https://open.spotify.com/album/4P4FRaMf27fqcb3LDiPtf1"
@@ -593,7 +685,7 @@
       "url": "https://open.spotify.com/track/0hLpNehEJthjHfCxRKMe4c"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Nemu",
         "url": "https://open.spotify.com/album/3tR9cN50IM6rKmKSFEAWQy"
@@ -609,23 +701,7 @@
       "url": "https://open.spotify.com/track/5ECbbMpv6wWLyR7bOirKML"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
-      "album": {
-        "name": "Rasah Nyangkem 3 (Cover)",
-        "url": "https://open.spotify.com/album/1ISCvgK60hAh1elYeWxGZT"
-      },
-      "artists": [
-        {
-          "name": "Wika Salim",
-          "url": "https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q"
-        }
-      ],
-      "duration_ms": 335983,
-      "name": "Rasah Nyangkem 3",
-      "url": "https://open.spotify.com/track/0vzloz86OV24wUWpVlXiqv"
-    },
-    {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Dumes",
         "url": "https://open.spotify.com/album/7fChrUmjD25EVYcvPTIWUd"
@@ -645,7 +721,7 @@
       "url": "https://open.spotify.com/track/5IhULiOyG58jL20qWkztEg"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Cundamani",
         "url": "https://open.spotify.com/album/6L2xfwstUhr4VJNfbFgLiz"
@@ -661,7 +737,7 @@
       "url": "https://open.spotify.com/track/64MmMbaX3hmAKQ6nFLJgpg"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Dadi Siji",
         "url": "https://open.spotify.com/album/3CjOsiPpUTo7s2GI7VoYjx"
@@ -681,7 +757,7 @@
       "url": "https://open.spotify.com/track/11KeN9oDHIkUnQIXPWGT3W"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Bubrah",
         "url": "https://open.spotify.com/album/07urzunOSaLFzBroFn2YK0"
@@ -701,7 +777,7 @@
       "url": "https://open.spotify.com/track/4xyMOJkHxqKvoW5issqXzZ"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Crito Mustahil",
         "url": "https://open.spotify.com/album/1IGR38inbN5ZEEdGGZUkl8"
@@ -717,9 +793,9 @@
       "url": "https://open.spotify.com/track/2vOYGzRHM9IpVQD634gUU3"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
-        "name": "Nemen",
+        "name": "Nemen (Cover)",
         "url": "https://open.spotify.com/album/4Do4u9R2HslN3jdu37rPR3"
       },
       "artists": [
@@ -733,11 +809,11 @@
         }
       ],
       "duration_ms": 307548,
-      "name": "Nemen",
+      "name": "Nemen - Cover",
       "url": "https://open.spotify.com/track/0Syc1MureY9jSdoaZRRS7o"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Kebacut Nyaman",
         "url": "https://open.spotify.com/album/5WMqMj79VLVJp6YG42WwrL"
@@ -753,7 +829,7 @@
       "url": "https://open.spotify.com/track/3kEUi3er4c6aNdX0spyUZM"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Lilakno Lungaku",
         "url": "https://open.spotify.com/album/2xkJB4SULWjjsqOLeq7dsD"
@@ -769,7 +845,7 @@
       "url": "https://open.spotify.com/track/6bleTipsKDs3CH6TA1W1bh"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Ngertenono Ati (NDX A.K.A. Version)",
         "url": "https://open.spotify.com/album/50h3iNxuauf2J2Bn0Uk2b5"
@@ -785,7 +861,7 @@
       "url": "https://open.spotify.com/track/5HGhb6GnOjIqt8cD1kDAMU"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Kurangku Opo",
         "url": "https://open.spotify.com/album/5rCg6XiVS9xmBiUEoYn0Dq"
@@ -801,7 +877,7 @@
       "url": "https://open.spotify.com/track/5v2gEm7WZNJChdoNqgGSxA"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Tetep Ning Sandingku",
         "url": "https://open.spotify.com/album/0kCJXE9mZpaFz1QmODLcMy"
@@ -817,7 +893,7 @@
       "url": "https://open.spotify.com/track/1Hm2oW0dG41HjpfuPJJxzr"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "1001 Bintang",
         "url": "https://open.spotify.com/album/5CmEzPjTkA6wkwOmzUsNeq"
@@ -833,7 +909,7 @@
       "url": "https://open.spotify.com/track/1DCgrzKULaaB2lsPgz8zNY"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Sanes",
         "url": "https://open.spotify.com/album/0EhdH1xsrPR1YjSMCjr4Wf"
@@ -853,7 +929,7 @@
       "url": "https://open.spotify.com/track/6xbi77Vq9RALnKc59kSXIS"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Rasah Bali",
         "url": "https://open.spotify.com/album/75hhW9Eh0uu1i3QMuw6n3e"
@@ -873,7 +949,7 @@
       "url": "https://open.spotify.com/track/19k7JnQqTk55l1yV7ul3MD"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Kok Iso Yo?",
         "url": "https://open.spotify.com/album/54wJfSjpNpNSC9lFPb9DVO"
@@ -889,7 +965,7 @@
       "url": "https://open.spotify.com/track/38ns4gqe16w0gAGWgvKfLS"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Rungkad",
         "url": "https://open.spotify.com/album/6M4iw0ozWapJERvLzZKH2O"
@@ -909,7 +985,7 @@
       "url": "https://open.spotify.com/track/1tWrff6vSPkkUQscpldS8F"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Abadi",
         "url": "https://open.spotify.com/album/6imuBPMqzJSYbN19D9GlFm"
@@ -929,7 +1005,7 @@
       "url": "https://open.spotify.com/track/6rdqabpJT3jplQzor1os8j"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Kalih Welasku",
         "url": "https://open.spotify.com/album/7ft4oHOQSoZz805ZV4bRSX"
@@ -945,7 +1021,7 @@
       "url": "https://open.spotify.com/track/4JRp8Wma0HjHvkHx2Ctl2d"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Tresno Liyane",
         "url": "https://open.spotify.com/album/5zI0wfXVhntN1EjsdrdViQ"
@@ -965,7 +1041,7 @@
       "url": "https://open.spotify.com/track/7IWKUR4CrurVIc6BPWwWiR"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Raiso Dadi Siji",
         "url": "https://open.spotify.com/album/3RoCv0pb9FKyueED3DTToe"
@@ -985,7 +1061,7 @@
       "url": "https://open.spotify.com/track/1uSQVGlf9Lhxz3DTJK38uT"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "NEMEN",
         "url": "https://open.spotify.com/album/7rKRjcEnQ3y8Ji1OK475tn"
@@ -1001,7 +1077,7 @@
       "url": "https://open.spotify.com/track/0TuttExCt1JaKvrX2DvIXU"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Klebus",
         "url": "https://open.spotify.com/album/0sP7ALG6951vlmpFpzJphu"
@@ -1017,7 +1093,7 @@
       "url": "https://open.spotify.com/track/6wxZIB1y1HPYifGCsAPGaA"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Takdire Pisah",
         "url": "https://open.spotify.com/album/4fbDMnj1IJfMESBKFdvVLa"
@@ -1033,7 +1109,7 @@
       "url": "https://open.spotify.com/track/5jMO4LPNKOkhgqxiknYMwa"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Rasah Nyangkem 3 (Gak Bahaya Ta?)",
         "url": "https://open.spotify.com/album/2EgeXFbynVOAoscuiblzmZ"
@@ -1049,15 +1125,15 @@
       "url": "https://open.spotify.com/track/2aueDPar55SYxa2zFn17PZ"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Bojomu Sesok Tak Silihe",
         "url": "https://open.spotify.com/album/30q6Vd8qMesm9HTe7ZwBMp"
       },
       "artists": [
         {
-          "name": "Dike Sabrina",
-          "url": "https://open.spotify.com/artist/0GNWekJiQIg0kUCCJqjgGF"
+          "name": "dike sabrina",
+          "url": "https://open.spotify.com/artist/0vhFLxTbKdPwp4sB66ctRY"
         }
       ],
       "duration_ms": 439945,
@@ -1065,7 +1141,7 @@
       "url": "https://open.spotify.com/track/5tH7E362a0KblrK7ycNzBU"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Dadi Siji",
         "url": "https://open.spotify.com/album/6bnn3gvenkbop8CsSE7PkE"
@@ -1081,7 +1157,7 @@
       "url": "https://open.spotify.com/track/7vJffOmu35UgVjAasLGSts"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "NDX A.K.A. Familia",
         "url": "https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc"
@@ -1097,7 +1173,7 @@
       "url": "https://open.spotify.com/track/3w09eeWmgkLz5BISaqcpgm"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Janji Temani",
         "url": "https://open.spotify.com/album/2cXVW2AxCA8kZqJD2UlqgN"
@@ -1113,7 +1189,7 @@
       "url": "https://open.spotify.com/track/6JLmc1SXTnF79K8pSiiPCL"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "NDX A.K.A. Familia",
         "url": "https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc"
@@ -1129,7 +1205,7 @@
       "url": "https://open.spotify.com/track/1ohxeVZ0pg6PJThlvgUAVN"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Koyo Jogja Istimewa (From \"Cidro Asmoro\")",
         "url": "https://open.spotify.com/album/3QABkEdROjx6VqbjLWuIWr"
@@ -1145,27 +1221,7 @@
       "url": "https://open.spotify.com/track/1GVygn86oLm8eDLNPUtC2N"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
-      "album": {
-        "name": "Dadi Siji",
-        "url": "https://open.spotify.com/album/4B4dm80GjHSCZoWdCF1xcs"
-      },
-      "artists": [
-        {
-          "name": "Woro Widowati",
-          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
-        },
-        {
-          "name": "Miqbal GA",
-          "url": "https://open.spotify.com/artist/1IiHfqkP7Q8T8gEtrA6pEO"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Dadi Siji",
-      "url": "https://open.spotify.com/track/5FMe9JhFWHvzbAEQitRCrn"
-    },
-    {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "RASAKNO",
         "url": "https://open.spotify.com/album/43wdc2mBasJtCauaGxph3C"
@@ -1181,7 +1237,7 @@
       "url": "https://open.spotify.com/track/46nOLK8xQxwP5aL4YS3L30"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Pingal",
         "url": "https://open.spotify.com/album/28TKreEgcsm0NaP8eT7CHK"
@@ -1197,7 +1253,7 @@
       "url": "https://open.spotify.com/track/7oT80u93j4B5HSs2GBpT2S"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Ninggal Loro",
         "url": "https://open.spotify.com/album/4lZdaQzoEm844LOKt4ZKnq"
@@ -1213,7 +1269,7 @@
       "url": "https://open.spotify.com/track/6oLNZlzyBqN2WCTfwYnXww"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Durung Ikhlas",
         "url": "https://open.spotify.com/album/03bt7cjECUUsUrcrGDBwHr"
@@ -1229,7 +1285,7 @@
       "url": "https://open.spotify.com/track/0dokrFBhI5MAJ9UYGplJWx"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Madiun Ngawi",
         "url": "https://open.spotify.com/album/28PUMtZizCE3nKxO1Fi9bA"
@@ -1249,7 +1305,7 @@
       "url": "https://open.spotify.com/track/1cYFdtA6Ikt6L3nx17HidL"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Sanes",
         "url": "https://open.spotify.com/album/1il9TxFotfDyWgAzq4q2K5"
@@ -1265,7 +1321,7 @@
       "url": "https://open.spotify.com/track/2gpXOgtrS8IZ7zyQpNS0Fw"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Satru",
         "url": "https://open.spotify.com/album/6iVngjCW7DXIg4Q5f60OVi"
@@ -1285,7 +1341,7 @@
       "url": "https://open.spotify.com/track/0kiLz3NcF1LMbn97OCTlgJ"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Rungkad",
         "url": "https://open.spotify.com/album/2A8oczlX1p5VEYqyz03Btf"
@@ -1301,7 +1357,7 @@
       "url": "https://open.spotify.com/track/7ykyqUPZMYu6ElknvIOr31"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Korban Janji",
         "url": "https://open.spotify.com/album/3xgzFV9CWB4WqufuiN6HBX"
@@ -1317,7 +1373,7 @@
       "url": "https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Infone Masseehh Ninu Ninu Ninu",
         "url": "https://open.spotify.com/album/2KefeoP3xev9BYBtpzE8Ay"
@@ -1333,7 +1389,7 @@
       "url": "https://open.spotify.com/track/13ST1j3gzTiDPAgnLiJHZT"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Wes Tatas",
         "url": "https://open.spotify.com/album/0st0wABUWgfiEPkF3fPhsz"
@@ -1349,7 +1405,7 @@
       "url": "https://open.spotify.com/track/6g6tlaJKQWsL6Ysrt6anxs"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Satru 2",
         "url": "https://open.spotify.com/album/3PTPnXKrRbEtMIDuqTQd4c"
@@ -1365,7 +1421,7 @@
       "url": "https://open.spotify.com/track/6iKnMyr7TkZxlHZD8ILew9"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Teteg Ati",
         "url": "https://open.spotify.com/album/6YvFUGHjVHd3U8Ik1GU3Jt"
@@ -1381,7 +1437,7 @@
       "url": "https://open.spotify.com/track/6Lbnz01qeIkQbteAHemwmQ"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Los Dol",
         "url": "https://open.spotify.com/album/0w5TDBNCSj2aasUNDFbhPv"
@@ -1397,7 +1453,7 @@
       "url": "https://open.spotify.com/track/4CQdZW0qvq4MqvilSGScEk"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Full Senyum Sayang",
         "url": "https://open.spotify.com/album/3wy9IbCarGhOSaY3WY731C"
@@ -1413,7 +1469,7 @@
       "url": "https://open.spotify.com/track/7k2TwP9u83aABMkNoQuBnn"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Ojo Dibandingke",
         "url": "https://open.spotify.com/album/06cjzsgFqj0CCDt2LtTd0W"
@@ -1429,7 +1485,7 @@
       "url": "https://open.spotify.com/track/6zwls2VhjHF9Ax7Xa2r54W"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Kartonyono Medot Janji",
         "url": "https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign"
@@ -1445,7 +1501,7 @@
       "url": "https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Mendung Tanpo Udan",
         "url": "https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE"
@@ -1461,7 +1517,7 @@
       "url": "https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "Banyu Moto",
         "url": "https://open.spotify.com/album/4aeI54j6CouhfK7LqwJpCV"
@@ -1477,7 +1533,7 @@
       "url": "https://open.spotify.com/track/1UqXKWMR9HXUSabmXxxUiB"
     },
     {
-      "added_at": "2023-10-20 03:37:41",
+      "added_at": "2023-11-09 23:08:14",
       "album": {
         "name": "angin dalu",
         "url": "https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs"

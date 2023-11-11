@@ -4,7 +4,7 @@
 
 > Updated Weekly! DC and Hooks selected jams from Deadbeats record label and beyond\. DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-85 songs - 4 hr 58 min
+86 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Infinite](https://open.spotify.com/track/52BRKkMjJrQD8V8IHFnecr) | [Soki](https://open.spotify.com/artist/3VpJFT2qTuLFZ6PEviUlhr) | [Infinite EP](https://open.spotify.com/album/4vxrGSlSHy34jBCAzlW1jj) | 3:18 | 2023-09-14 |  |
 | [Insecure](https://open.spotify.com/track/3jH5vP83ODBV3BLeBp9Iy5) | [gyrofield](https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X) | [Insecure / Stockholm](https://open.spotify.com/album/77B124rmMuj5uXvdvtYI6A) | 4:54 | 2023-04-19 | 2023-11-09 |
 | [Inside My Head](https://open.spotify.com/track/22O59H8yBMPc2oreueMX0B) | [Emalkay](https://open.spotify.com/artist/1P6WOOkGjqDnfIitbKYb9w), [The Others](https://open.spotify.com/artist/0HUAf6rGiD9cMQOMYzYuaL), [Subscape](https://open.spotify.com/artist/1hsDuQAI5ewVmflUTVTVtS) | [Inside My Head](https://open.spotify.com/album/42t36a3IshvxsaTmWcnMk0) | 4:38 | 2023-01-18 | 2023-11-09 |
+| [Interference](https://open.spotify.com/track/0pIpEN61pTQZN8nBUzgpDq) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Interference](https://open.spotify.com/album/3clju4r9HK4aE2tQ3TUHwd) | 3:48 | 2023-11-10 |  |
 | [Interloper](https://open.spotify.com/track/2OJgO1bNxRcSeqhdgJ6zxE) | [TMSV](https://open.spotify.com/artist/3gy5cNrDadVI5kDFcYgelE) | [Interloper EP](https://open.spotify.com/album/6OPl9EARlmdnDLMKzrCcYc) | 3:20 | 2023-09-06 |  |
 | [Into the Ether](https://open.spotify.com/track/4x9rBzNRtl5I3e16gKnAwK) | [Soki](https://open.spotify.com/artist/3VpJFT2qTuLFZ6PEviUlhr) | [Into the Ether](https://open.spotify.com/album/2IkKuUcfRwDFvzU7wLelfT) | 3:51 | 2023-02-23 | 2023-11-09 |
 | [keep jumpin](https://open.spotify.com/track/4qjJrkk54dWtoPb1z7uBXQ) | [not yes](https://open.spotify.com/artist/3sAig7Ir86KX0ZdcxSR1ax) | [keep jumpin](https://open.spotify.com/album/1h5AyAcn7njmqouVzsiJ40) | 3:17 | 2023-08-28 | 2023-11-09 |

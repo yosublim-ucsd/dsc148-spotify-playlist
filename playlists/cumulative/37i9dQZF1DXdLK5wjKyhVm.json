@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Campanuela",
+        "url": "https://open.spotify.com/album/4PkcikpHhznpMaALaL1BLB"
+      },
+      "artists": [
+        {
+          "name": "Nacho Dat\u00far",
+          "url": "https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "Campanuela",
+      "url": "https://open.spotify.com/track/60tPYJtm2HlE9BMRB1buVY"
+    },
+    {
+      "album": {
         "name": "cashmere",
         "url": "https://open.spotify.com/album/2T7h564gMHHqw5R5wcAO8y"
       },
@@ -794,6 +812,24 @@
       "duration_ms": 142666,
       "name": "cashmere",
       "url": "https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ"
+    },
+    {
+      "album": {
+        "name": "catch me",
+        "url": "https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151958,
+      "name": "catch me",
+      "url": "https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1"
     },
     {
       "album": {
@@ -1676,7 +1712,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 219000,
       "name": "Em Londres",
       "url": "https://open.spotify.com/track/5ErtNYLMrUyKEkRHPPalIX"
@@ -1962,7 +1998,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 144625,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/48umJfLSv8qdDB0VjQY82y"
@@ -3180,7 +3216,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 147906,
       "name": "Last Plane to You",
       "url": "https://open.spotify.com/track/6KUXn44J80trzepW36v65p"
@@ -3292,7 +3328,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 142400,
       "name": "Lazy Sunday",
       "url": "https://open.spotify.com/track/4H6jIpY6dMpGuqCes4dmKt"
@@ -3974,7 +4010,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 153600,
       "name": "More Life",
       "url": "https://open.spotify.com/track/5qqB9YQu2Wp8xpIMBpsBvj"
@@ -4134,6 +4170,24 @@
       "duration_ms": 105986,
       "name": "Neighborhood Blues",
       "url": "https://open.spotify.com/track/6aAawnYPv6ErBeIUshkgNi"
+    },
+    {
+      "album": {
+        "name": "neutron",
+        "url": "https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5"
+      },
+      "artists": [
+        {
+          "name": "Cyan_95",
+          "url": "https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127384,
+      "name": "neutron",
+      "url": "https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4"
     },
     {
       "album": {
@@ -4582,7 +4636,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 150666,
       "name": "Orangewood",
       "url": "https://open.spotify.com/track/4NQIFbzb3V3X5cukI4E3Uv"
@@ -5415,6 +5469,24 @@
     },
     {
       "album": {
+        "name": "silver sky",
+        "url": "https://open.spotify.com/album/4WF2vO9nbL4OYv0XE63bOh"
+      },
+      "artists": [
+        {
+          "name": "LVTA",
+          "url": "https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121643,
+      "name": "silver sky",
+      "url": "https://open.spotify.com/track/1Xof3gjWH8EGGwZo7hxJb1"
+    },
+    {
+      "album": {
         "name": "Sit Back",
         "url": "https://open.spotify.com/album/4AoX32hLB5wxPXgSWFFTuf"
       },
@@ -5744,6 +5816,24 @@
       "duration_ms": 106666,
       "name": "Stardrunk",
       "url": "https://open.spotify.com/track/0zaoy5NsKYGKbBfTzLObxB"
+    },
+    {
+      "album": {
+        "name": "Starfew Alley",
+        "url": "https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V"
+      },
+      "artists": [
+        {
+          "name": "JoJo Mojo",
+          "url": "https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129423,
+      "name": "Starfew Alley",
+      "url": "https://open.spotify.com/track/4j647icCpXJcRES7szthoM"
     },
     {
       "album": {
@@ -6634,7 +6724,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 154975,
       "name": "Tokyo Suburbs",
       "url": "https://open.spotify.com/track/7jhlDtkhwCI73i1miPbnld"

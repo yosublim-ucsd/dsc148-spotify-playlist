@@ -302,10 +302,36 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 215295,
       "name": "Booyah - Radio Edit",
       "url": "https://open.spotify.com/track/2EpS5TgdngSISM63rhBsnK"
+    },
+    {
+      "album": {
+        "name": "Booyah",
+        "url": "https://open.spotify.com/album/5ci6vrfvJcqiaMGtgatm4o"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "We Are Loud",
+          "url": "https://open.spotify.com/artist/2INDI0xc49oGYTZC7fBZjX"
+        },
+        {
+          "name": "Sonny Wilson",
+          "url": "https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215295,
+      "name": "Booyah - Radio Edit",
+      "url": "https://open.spotify.com/track/74qY57XDx0sSUbVnQ8kosS"
     },
     {
       "album": {
@@ -1358,6 +1384,18 @@
         {
           "name": "Skrillex",
           "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Michael Angelakos",
+          "url": "https://open.spotify.com/artist/6uEyZsccteU7nvDk8oiXnV"
         }
       ],
       "date_added": "2022-06-30",

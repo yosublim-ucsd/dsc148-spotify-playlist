@@ -266,10 +266,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 152586,
       "name": "Aria variata in A Minor, BWV 989: Var. 10, \u2014",
       "url": "https://open.spotify.com/track/4U9G8GTbNsResg1stwT3BK"
+    },
+    {
+      "album": {
+        "name": "Influences",
+        "url": "https://open.spotify.com/album/0T0QqdUwohT4wESYVgHLtd"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Tamara Stefanovich",
+          "url": "https://open.spotify.com/artist/3j715uRkAjPRwIvUB7ruMC"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152634,
+      "name": "Aria variata, BWV 989: Var. 10",
+      "url": "https://open.spotify.com/track/55yVBAj9RlTiZLtzjwJ79H"
     },
     {
       "album": {
@@ -1696,6 +1718,44 @@
     {
       "album": {
         "name": "The Edge of the Sea",
+        "url": "https://open.spotify.com/album/2YKHaToV4R5ysJNtEkJiuK"
+      },
+      "artists": [
+        {
+          "name": "Calum Martin",
+          "url": "https://open.spotify.com/artist/6PVCEjWmAFpQwdHhVhBJIT"
+        },
+        {
+          "name": "Hugh Wilson",
+          "url": "https://open.spotify.com/artist/7ncGVIFxTwhKnirYwJ2E6a"
+        },
+        {
+          "name": "Craig Armstrong",
+          "url": "https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO"
+        },
+        {
+          "name": "Cecilia Weston",
+          "url": "https://open.spotify.com/artist/7wDGcaDnFQX255UV92O8jt"
+        },
+        {
+          "name": "Scottish Ensemble",
+          "url": "https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ"
+        },
+        {
+          "name": "Daniel Pioro",
+          "url": "https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128693,
+      "name": "Martyrdom (Movement 1)",
+      "url": "https://open.spotify.com/track/0GRg28lwZ59kMh5oPEiJlO"
+    },
+    {
+      "album": {
+        "name": "The Edge of the Sea",
         "url": "https://open.spotify.com/album/3zq52RW2eBB7jvKiAYm6tH"
       },
       "artists": [
@@ -1730,7 +1790,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 128693,
       "name": "Martyrdom - Movement 1",
       "url": "https://open.spotify.com/track/50LqUYIes3bfMQ7mSHrXzA"

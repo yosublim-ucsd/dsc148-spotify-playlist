@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Tourist
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,293 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,320 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Tell Me](https://open.spotify.com/track/7MCaMjjCH3TulSw4hIG3xx) | [Girl Ray](https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd) | [Prestige](https://open.spotify.com/album/3vAzZOMM1BvxtVfKjyQI78) | 3:57 |
 | 75 | [3 \(Home\)](https://open.spotify.com/track/6bNka8lcvgFTafgCZCIcHR) | [Say Yes Dog](https://open.spotify.com/artist/039HWymb5EJiSHhtlJctsi) | [3 \(Home\)](https://open.spotify.com/album/2X8CBofsFiVHa4OTf7W7vA) | 3:33 |
 
-Snapshot ID: `MCxhYTI3M2NlYjY4MmI4YmFjZGI0OWFmODhhMTRlM2UxYzQ4MmI2MDMz`
+Snapshot ID: `MCxkMDQ2YmI1ZmEzOWZlYzViOTczNWViMDE2ZjM0YmRmM2Q5YmVhOWI3`

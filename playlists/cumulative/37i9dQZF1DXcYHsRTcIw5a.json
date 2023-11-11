@@ -360,10 +360,36 @@
       ],
       "date_added": "2018-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 153173,
       "name": "Don't Stay Away",
       "url": "https://open.spotify.com/track/2VhVawD5meWiuyI4sL9WAo"
+    },
+    {
+      "album": {
+        "name": "One Life to Live (Expanded Version)",
+        "url": "https://open.spotify.com/album/60BHEQHVN6213VZndkiI4Q"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Dillon",
+          "url": "https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh"
+        },
+        {
+          "name": "Tommy McCook",
+          "url": "https://open.spotify.com/artist/27CnIh4lLIOW2DqEwO1QIf"
+        },
+        {
+          "name": "The Supersonics",
+          "url": "https://open.spotify.com/artist/3FtuTq3oY78SW4vaK7FhDt"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "Don't Stay Away",
+      "url": "https://open.spotify.com/track/1ZVPLwKRtfenddrUxoc7eN"
     },
     {
       "album": {
@@ -458,7 +484,7 @@
     {
       "album": {
         "name": "The Ken Boothe Collection: Eighteen Classic Songs",
-        "url": "https://open.spotify.com/album/12NP8Zg49uP77ozUUSTe99"
+        "url": "https://open.spotify.com/album/6cSDnbzwTqmz3h9v38qMuA"
       },
       "artists": [
         {
@@ -469,6 +495,24 @@
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 167626,
+      "name": "Freedom Street",
+      "url": "https://open.spotify.com/track/5gmPvjSX3PyYClSYx5a4ym"
+    },
+    {
+      "album": {
+        "name": "The Ken Boothe Collection: Eighteen Classic Songs",
+        "url": "https://open.spotify.com/album/12NP8Zg49uP77ozUUSTe99"
+      },
+      "artists": [
+        {
+          "name": "Ken Boothe",
+          "url": "https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
       "duration_ms": 167626,
       "name": "Freedom Street",
       "url": "https://open.spotify.com/track/6LbChaXJgm1NmTmWEBoKjg"
@@ -637,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Little Did You Know",
+        "url": "https://open.spotify.com/album/2H0aBHRwn49rCmpupyMTuz"
+      },
+      "artists": [
+        {
+          "name": "The Techniques",
+          "url": "https://open.spotify.com/artist/7aSGHNg5TRgbrzaUclcNAK"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142293,
+      "name": "I Wish It Would Rain",
+      "url": "https://open.spotify.com/track/4njWxfEHksGVwsDyWfrDLh"
+    },
+    {
+      "album": {
         "name": "Treasure Isle Presents: Rock Steady",
         "url": "https://open.spotify.com/album/3nNuXJadrSzqTJKY2jDU94"
       },
@@ -648,7 +710,7 @@
       ],
       "date_added": "2018-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 142293,
       "name": "I Wish It Would Rain",
       "url": "https://open.spotify.com/track/6ObXssCmMOmaUdRMoW8Lpg"
@@ -728,7 +790,7 @@
     {
       "album": {
         "name": "On the Beach: The Anthology",
-        "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
+        "url": "https://open.spotify.com/album/4znstpmS1WOSyKyGtTVM8m"
       },
       "artists": [
         {
@@ -739,6 +801,24 @@
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 189346,
+      "name": "Island In the Sun",
+      "url": "https://open.spotify.com/track/3sHzZSmkmQOFaiVX1VNRqF"
+    },
+    {
+      "album": {
+        "name": "On the Beach: The Anthology",
+        "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
+      },
+      "artists": [
+        {
+          "name": "The Paragons",
+          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
       "duration_ms": 189346,
       "name": "Island In the Sun",
       "url": "https://open.spotify.com/track/6RVgAYFeWCHaAZFCOErG1D"
@@ -792,10 +872,28 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 187373,
       "name": "Let Your Yeah Be Yeah",
       "url": "https://open.spotify.com/track/2Dm6EGLAZLjk0iBIdUN9qp"
+    },
+    {
+      "album": {
+        "name": "Give and Take - The Best of The Pioneers",
+        "url": "https://open.spotify.com/album/2aMpqeisASnf5MSZ5pCmdO"
+      },
+      "artists": [
+        {
+          "name": "The Pioneers",
+          "url": "https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187373,
+      "name": "Let Your Yeah Be Yeah",
+      "url": "https://open.spotify.com/track/7D6amNSNFFM2K5opPnpQ8F"
     },
     {
       "album": {
@@ -900,7 +998,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 122773,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3TeLqdhzHB9cuFbaKlNvgm"
@@ -925,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "Jamaican Rock Steady Party",
+        "url": "https://open.spotify.com/album/7n20v2er2YdDrzqfvaqcyE"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Charmers",
+          "url": "https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122773,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/7eK4dCRo8c2lVfMM6gdauz"
+    },
+    {
+      "album": {
         "name": "Duke Reid Rocks Steady",
         "url": "https://open.spotify.com/album/0uKHcuc5kFXnzBfMyJjgxM"
       },
@@ -936,10 +1052,28 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 163786,
       "name": "Love Is a Treasure",
       "url": "https://open.spotify.com/track/6AqMqvhlkC5Q2uxNhoJAi8"
+    },
+    {
+      "album": {
+        "name": "Barry Myers Presents Scratchy Sounds (Ska, Dub, Roots & Reggae Nuggets)",
+        "url": "https://open.spotify.com/album/1LREwTyPObrP14E7KEKvKk"
+      },
+      "artists": [
+        {
+          "name": "Lizzy",
+          "url": "https://open.spotify.com/artist/2ALKeoNm5gPzmKLsILFwvx"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158906,
+      "name": "Love Is a Treasure",
+      "url": "https://open.spotify.com/track/7JLut7wHBQtkfOXNCX6wnd"
     },
     {
       "album": {
@@ -1008,7 +1142,7 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233813,
       "name": "Never Found a Girl",
       "url": "https://open.spotify.com/track/7JeKEYyHe1D7IseeOrPSeH"
@@ -1026,7 +1160,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 234400,
       "name": "Never Found a Girl",
       "url": "https://open.spotify.com/track/5OUARD27TGfCPSnuJh9xo7"
@@ -1080,10 +1214,28 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 155426,
       "name": "Old Fashioned Way",
       "url": "https://open.spotify.com/track/1zaOPo95mhpYL8wH0UYhGP"
+    },
+    {
+      "album": {
+        "name": "The Hudson Affair: Keith Hudson and Friends",
+        "url": "https://open.spotify.com/album/4QvHHgI6n36Y2rNwFwEmNB"
+      },
+      "artists": [
+        {
+          "name": "Ken Boothe",
+          "url": "https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155426,
+      "name": "Old Fashioned Way",
+      "url": "https://open.spotify.com/track/5bCVtWqo79No5jlsAz4lHN"
     },
     {
       "album": {
@@ -1098,10 +1250,28 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 175280,
       "name": "Only a Smile",
       "url": "https://open.spotify.com/track/5bwGUv9VP1m4qmvkRNSqIQ"
+    },
+    {
+      "album": {
+        "name": "Original Paragons At Treasure Isle",
+        "url": "https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1"
+      },
+      "artists": [
+        {
+          "name": "The Paragons",
+          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "Only a Smile",
+      "url": "https://open.spotify.com/track/67WdcR9xldpJuH7BVLNlt5"
     },
     {
       "album": {
@@ -1325,6 +1495,28 @@
     },
     {
       "album": {
+        "name": "Mr Soul of Jamaica",
+        "url": "https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh"
+      },
+      "artists": [
+        {
+          "name": "Alton Ellis",
+          "url": "https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi"
+        },
+        {
+          "name": "The Flames",
+          "url": "https://open.spotify.com/artist/6y9NFR6yJCWkTkc0F701r2"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160266,
+      "name": "Rock Steady",
+      "url": "https://open.spotify.com/track/6azx6iv2R1DhwovSp4xd5v"
+    },
+    {
+      "album": {
         "name": "Duke Reid Rocks Steady",
         "url": "https://open.spotify.com/album/0uKHcuc5kFXnzBfMyJjgxM"
       },
@@ -1354,7 +1546,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 159453,
       "name": "Rock Steady",
       "url": "https://open.spotify.com/track/5y6ubJiQdnq5MNg4XjIX6R"
@@ -1603,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "Original Paragons At Treasure Isle",
+        "url": "https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1"
+      },
+      "artists": [
+        {
+          "name": "The Paragons",
+          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "The Tide Is High",
+      "url": "https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM"
+    },
+    {
+      "album": {
         "name": "On the Beach: The Anthology",
         "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
       },
@@ -1614,7 +1824,7 @@
       ],
       "date_added": "2018-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 161973,
       "name": "The Tide Is High - Stereo Version",
       "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"

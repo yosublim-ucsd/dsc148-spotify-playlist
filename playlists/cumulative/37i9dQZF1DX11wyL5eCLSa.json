@@ -2239,6 +2239,24 @@
     },
     {
       "album": {
+        "name": "Est\u00e1 todo mal",
+        "url": "https://open.spotify.com/album/5uYVPB3uqQNzB5nHEpvRXc"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164402,
+      "name": "Est\u00e1 todo mal",
+      "url": "https://open.spotify.com/track/1TCuzqT6yRfNgS5tWNLEW7"
+    },
+    {
+      "album": {
         "name": "Est\u00e1tica",
         "url": "https://open.spotify.com/album/4epHlWTKUURK4kDlRcKASZ"
       },
@@ -2423,6 +2441,28 @@
     },
     {
       "album": {
+        "name": "F\u00fatbol Rock",
+        "url": "https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253600,
+      "name": "F\u00fatbol Rock",
+      "url": "https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP"
+    },
+    {
+      "album": {
         "name": "Gal\u00e1ctica",
         "url": "https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m"
       },
@@ -2582,7 +2622,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 207274,
       "name": "Hermoso",
       "url": "https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC"
@@ -3618,6 +3658,24 @@
       "duration_ms": 188000,
       "name": "Lunedad",
       "url": "https://open.spotify.com/track/48fTQdTObHQn1NjY4ftQk0"
+    },
+    {
+      "album": {
+        "name": "Mal Negocio",
+        "url": "https://open.spotify.com/album/1xPDCNo9ghP9xoCthbcvbn"
+      },
+      "artists": [
+        {
+          "name": "Jonaz",
+          "url": "https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Mal Negocio",
+      "url": "https://open.spotify.com/track/1cwTYi0DRI0QfCfYUImTE9"
     },
     {
       "album": {
@@ -5782,7 +5840,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 177800,
       "name": "Sol@",
       "url": "https://open.spotify.com/track/6VtARaI3I2MMINgcP7wuxJ"
@@ -6306,7 +6364,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 338680,
       "name": "Tomar el Sol",
       "url": "https://open.spotify.com/track/16uqfvpkuIw0oLFWXIBeN9"

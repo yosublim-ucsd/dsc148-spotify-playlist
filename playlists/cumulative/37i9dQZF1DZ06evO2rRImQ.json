@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 141640,
       "name": "A Una Llamada",
       "url": "https://open.spotify.com/track/0U72qF3ozvcOpEntzFdCMm"
@@ -438,6 +438,24 @@
       "duration_ms": 200800,
       "name": "Esta Va Por Ti",
       "url": "https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m"
+    },
+    {
+      "album": {
+        "name": "Ando Bien Pedo",
+        "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170306,
+      "name": "Extr\u00e1\u00f1ame",
+      "url": "https://open.spotify.com/track/77prsE4cK4WBVSiptghi1x"
     },
     {
       "album": {
@@ -1310,6 +1328,28 @@
       "duration_ms": 141280,
       "name": "Voy A Pistear",
       "url": "https://open.spotify.com/track/3htX61NfCT8CGg6m0VFoUJ"
+    },
+    {
+      "album": {
+        "name": "Y \u00bfQu\u00e9 Tiene?",
+        "url": "https://open.spotify.com/album/4zYI2PJ7ptO9JMklxWdLVJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        },
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Y \u00bfQu\u00e9 Tiene?",
+      "url": "https://open.spotify.com/track/6V0i3tXv6askzWc2BiPoKi"
     },
     {
       "album": {

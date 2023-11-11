@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Rubio
+> Todo el sonido indie de Chile\. Foto: Fármacos
 
-428 songs - 1 day 1 hr 45 min
+430 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [El Mar Está Lleno de Peces](https://open.spotify.com/track/11pTkTkPjyCtqyTs3UXEaj) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [El Mar Está Lleno de Peces](https://open.spotify.com/album/46AlndBvm2gauKbI9Bvug8) | 2:45 | 2022-04-29 | 2022-07-09 |
 | [El Sol](https://open.spotify.com/track/315ikEk4qSZHHw8oOIcb3s) | [Juan Desordenado](https://open.spotify.com/artist/2KAzBjzTRRbCgP5gvssbqB), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El Sol](https://open.spotify.com/album/2DX3LvX3UF13SmwnjMq2Vr) | 3:33 | 2022-04-15 | 2022-07-28 |
 | [El Vagón](https://open.spotify.com/track/2aLnOJ8EdmwkbpJUsAZrVv) | [Los Furtivos Gnomos](https://open.spotify.com/artist/2kJktHNhofgGCsnjsEpImn) | [Cuentos del Nuevo Jardín](https://open.spotify.com/album/6YmFJdP4eHaH3o404jSj4v) | 4:23 | 2022-04-15 | 2022-07-26 |
-| [ELLA \(CAE LA NOCHE\)](https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Sergio Escribano](https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W), [Escaparate de Poesía](https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I) | [DIAMANTE](https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD) | 3:41 | 2023-06-02 |  |
+| [ELLA \(CAE LA NOCHE\)](https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Sergio Escribano](https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W), [Escaparate de Poesía](https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I) | [DIAMANTE](https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD) | 3:41 | 2023-06-02 | 2023-11-11 |
 | [Ella Me Dijo](https://open.spotify.com/track/0ysVoswBZh3USWAWpjBnVu) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Ella Me Dijo](https://open.spotify.com/album/0Md6dUyqlF0v2i3NpyRYSK) | 3:07 | 2023-03-24 | 2023-07-25 |
 | [Embriago](https://open.spotify.com/track/1hnVWXdhW9P17SpfnaN60C) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Embriago](https://open.spotify.com/album/5WR3I7h22Dt5cYgU6VV0jX) | 3:36 | 2022-04-15 | 2022-07-29 |
 | [en diciembre \(me haces falta\)](https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [en diciembre \(me haces falta\)](https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK) | 3:57 | 2022-04-15 | 2022-12-10 |
@@ -221,7 +221,7 @@
 | [Los chicos están tristes](https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Los chicos están tristes](https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L) | 3:04 | 2022-05-06 | 2023-05-13 |
 | [Lunachena](https://open.spotify.com/track/3IrwrEJzH75G8Iitfkrzhw) | [Tu Temple](https://open.spotify.com/artist/5s3HMKPs4Jn0nWvkXXASuF) | [Lunachena](https://open.spotify.com/album/2qTJJyW8DpSmZAzCOzsv3d) | 4:17 | 2023-09-29 | 2023-10-13 |
 | [Madre Mía](https://open.spotify.com/track/1KfTE7KeZzP9re6Z5iVwTT) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [Madre Mía](https://open.spotify.com/album/71oVyBiwTfXKZJ4vd7Cg0W) | 3:15 | 2022-04-15 | 2022-12-10 |
-| [Magnetismo](https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 2:48 | 2023-03-10 |  |
+| [Magnetismo](https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 2:48 | 2023-03-10 | 2023-11-11 |
 | [mala](https://open.spotify.com/track/0NizLHiBid5U3tEdcfMD1b) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg) | [mala](https://open.spotify.com/album/3fV24ioWRPE5jfTlwhZiLj) | 3:26 | 2023-07-07 | 2023-08-24 |
 | [mala idea](https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [mala idea](https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z) | 3:43 | 2023-05-12 |  |
 | [Maldita Canción de Amor](https://open.spotify.com/track/5Y88RAG3qCTgAZRQiJclRN) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Maldita Canción de Amor](https://open.spotify.com/album/30Nej0tlaXSbJrahd70YLm) | 3:54 | 2022-04-15 | 2022-12-10 |
@@ -314,6 +314,7 @@
 | [Provenza](https://open.spotify.com/track/74EyCgYnEH3ARfgpLh0Cdq) | [Glup!](https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE) | [Provenza](https://open.spotify.com/album/67ihyeAL1wwakz5tBP2rLo) | 3:49 | 2022-12-09 | 2023-02-25 |
 | [Provincia](https://open.spotify.com/track/582VsBLMS0DkFoyf62jofJ) | [Nico Carreño](https://open.spotify.com/artist/1r5S8uRE70Zeacs0wSIIjl) | [Provincia](https://open.spotify.com/album/3e7zM7BE3POOfq1lGY7OL9) | 4:51 | 2023-09-29 | 2023-10-13 |
 | [Que no se corte la cadena](https://open.spotify.com/track/5j2f1ZYDqLjUsePKpokkkg) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Que no se corte la cadena](https://open.spotify.com/album/70PkbVHGZ1OLMRTlSQ6aYu) | 2:36 | 2023-04-21 |  |
+| [Que Nunca Pare](https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Que Nunca Pare](https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v) | 3:24 | 2023-11-10 |  |
 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 | 2022-04-15 | 2022-12-10 |
 | [Quería Olvidarte](https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Quería Olvidarte](https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w) | 2:46 | 2023-03-10 |  |
 | [Quisiera](https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Quisiera](https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE) | 3:52 | 2022-09-02 | 2023-01-08 |
@@ -398,6 +399,7 @@
 | [Turista](https://open.spotify.com/track/0RWzD9ilb1cKJaEOXo2jTZ) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Turista](https://open.spotify.com/album/1FlOBZrwiGCjsrb0KXVaPj) | 3:33 | 2022-04-15 | 2022-08-13 |
 | [Tus Nombres](https://open.spotify.com/track/1K4LO0GcZuJxh9fc7P2C2g) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Tus Nombres](https://open.spotify.com/album/2SAIUBhSifmEWXNLtlfsaS) | 3:20 | 2022-04-15 | 2022-12-10 |
 | [Tú crees que es normal?](https://open.spotify.com/track/0fvhVnXL3Nxc6UtjHSOReA) | [Dadalú](https://open.spotify.com/artist/1b8V4W56uUKVMcxeOVPtXt) | [El mapa de los días](https://open.spotify.com/album/63DY7CyV6Cl4UnoRn3IJnj) | 2:13 | 2022-04-15 | 2022-07-26 |
+| [Tú, Yo y Otra Dimensión](https://open.spotify.com/track/1WTSQryXy1H1DpZ9RgjB2a) | [Automático](https://open.spotify.com/artist/0HiaC6yJUDlEjZUj8axdWk), [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Tú, Yo y Otra Dimensión](https://open.spotify.com/album/787WYgcOHnslKVi5jXlX9j) | 4:42 | 2023-11-10 |  |
 | [Ultravioleta](https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F), [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Ultravioleta](https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO) | 5:14 | 2022-11-29 | 2023-01-28 |
 | [Un Día Planté una Rosa](https://open.spotify.com/track/3BvyDuC2IhlSpG3DfnnXMR) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 2:41 | 2022-04-15 | 2022-12-10 |
 | [Un Espejismo](https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Un Espejismo](https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis) | 3:34 | 2023-03-31 |  |

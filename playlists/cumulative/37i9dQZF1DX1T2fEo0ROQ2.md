@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-417 songs - 21 hr 48 min
+418 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Adormecido](https://open.spotify.com/track/2Fs6ck2LWeWNxJirfu40E6) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Adormecido](https://open.spotify.com/album/1NZVJdgv8ocqZbZmhNcKBH) | 2:56 | 2022-05-26 |  |
 | [Affinity](https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Affinity](https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt) | 2:52 | 2022-05-26 | 2023-05-06 |
 | [After the Storm](https://open.spotify.com/track/20RvtdICuVLxbtHs179hxA) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Anfang](https://open.spotify.com/album/1NTR3MPOBNHQfOLFdtlYlN) | 2:38 | 2022-05-26 | 2022-11-12 |
-| [Afterlight](https://open.spotify.com/track/5AUHJrmEjIQmILBzNYm9kk) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Afterlight](https://open.spotify.com/album/1c5EcxSFk9Fok943GTAwFn) | 4:26 | 2022-05-26 |  |
+| [Afterlight](https://open.spotify.com/track/5AUHJrmEjIQmILBzNYm9kk) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Afterlight](https://open.spotify.com/album/1c5EcxSFk9Fok943GTAwFn) | 4:26 | 2022-05-26 | 2023-11-11 |
 | [Al Vanda](https://open.spotify.com/track/157498zKslcWTRJGqzx3ad) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Al Vanda](https://open.spotify.com/album/184oRUumTGWbZjRSM6EV7C) | 2:27 | 2022-09-30 |  |
 | [Align](https://open.spotify.com/track/5Nawyr4KZXikRk0ULZyBOY) | [Mark Watson](https://open.spotify.com/artist/6vUk8SMonemgCpxqUhYzlv) | [Align](https://open.spotify.com/album/3wkDTcaSDlCjoJ26BMucVD) | 3:35 | 2022-11-11 |  |
 | [Alleviation](https://open.spotify.com/track/6hz5qA35YWENEvi1qlb9xt) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Alleviation](https://open.spotify.com/album/5peWe4tisKmGmYXfymYHgS) | 3:28 | 2022-05-26 |  |
@@ -231,6 +231,7 @@
 | [Milujem](https://open.spotify.com/track/6QcpPiqS1BLG4W3W7ZsBf0) | [Nova Kral](https://open.spotify.com/artist/7uawp9f3qhlML7nNn4vB4B) | [Milujem](https://open.spotify.com/album/1YYl7pJswJ8lGeDJHdOiLq) | 3:07 | 2023-03-30 |  |
 | [Mind Portal](https://open.spotify.com/track/31uyD01UTR3mBFcRy5meSQ) | [UNIV3R](https://open.spotify.com/artist/3vN9aKPqZwe8e0ysc2cLKL) | [Mind Portal](https://open.spotify.com/album/6kEYsFk5fctyiPhqBER0EC) | 3:21 | 2022-05-26 |  |
 | [Minutes](https://open.spotify.com/track/4zIyhdolfQSwPrclbLyvUT) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Minutes](https://open.spotify.com/album/3WNhmBvd5KGFOW2vPEFNkR) | 2:28 | 2022-05-26 |  |
+| [Mirage](https://open.spotify.com/track/1HVRMpzE2n9KD30kPLxtw9) | [Evy Kaah](https://open.spotify.com/artist/2Esgl8MXvdjUrB7L80U0Ec) | [Mirage](https://open.spotify.com/album/12EfvrM50XQ8p90O7eeDSY) | 3:05 | 2023-11-10 |  |
 | [Mirror Lake](https://open.spotify.com/track/0V0lsyEd6xIeCivMSXrQjM) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Mirror Lake](https://open.spotify.com/album/0m9DgRII8cWQW7JiXXLxYJ) | 4:31 | 2022-05-26 | 2022-07-29 |
 | [Mirror Lake](https://open.spotify.com/track/4Mwv1IAyhdh9oWMcUHB0Vc) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Mirror Lake](https://open.spotify.com/album/5tTymJqGUyFkmklHSyRRRU) | 4:31 | 2022-10-04 | 2022-11-12 |
 | [Mirror Lake](https://open.spotify.com/track/1eVJInWM1ElhWTAFbCAQS9) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Mirror Lake](https://open.spotify.com/album/6nLZCWMmgvuvIL54FspRll) | 4:31 | 2022-07-22 | 2022-10-06 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: Mac J\u00falia",
+  "description": "tranquilo e calmo, no flow. Foto: G.A",
   "name": "tamo flex",
   "tracks": [
     {
@@ -206,7 +206,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 176014,
       "name": "2AM",
       "url": "https://open.spotify.com/track/6WqMkT7h5GJ4vm3JOEfCeQ"
@@ -228,7 +228,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 133528,
       "name": "4AM",
       "url": "https://open.spotify.com/track/3ia22jZqaiLdC4EuPo3r21"
@@ -656,6 +656,28 @@
       "duration_ms": 115324,
       "name": "Alta Renda",
       "url": "https://open.spotify.com/track/2sE9rDEVI9oL1D5WTEdePC"
+    },
+    {
+      "album": {
+        "name": "Tdgv (Deluxe)",
+        "url": "https://open.spotify.com/album/59EMzMnLnYtvvdCQGX5JFt"
+      },
+      "artists": [
+        {
+          "name": "Gaah",
+          "url": "https://open.spotify.com/artist/5UyZmlEwvavnaxEQgggaal"
+        },
+        {
+          "name": "Joe Morbeck",
+          "url": "https://open.spotify.com/artist/0iZBI8agVr4H8L6VgVVd3l"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184608,
+      "name": "Altas Metas",
+      "url": "https://open.spotify.com/track/643v5VmdzJyH0yWWo8LgB7"
     },
     {
       "album": {
@@ -1554,7 +1576,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 149394,
       "name": "Ben\u00e7a",
       "url": "https://open.spotify.com/track/3WsxaJ1ukwvjLI83S1lF5z"
@@ -1654,6 +1676,32 @@
       "duration_ms": 195718,
       "name": "Boldo Da Calif\u00f3rnia",
       "url": "https://open.spotify.com/track/6y48SEad7HiBPZdQxYjpiy"
+    },
+    {
+      "album": {
+        "name": "Bolos&Bolos",
+        "url": "https://open.spotify.com/album/3qB0VMOPfiIxKoxK1am8GL"
+      },
+      "artists": [
+        {
+          "name": "DEGE",
+          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
+        },
+        {
+          "name": "Tizi Kilates",
+          "url": "https://open.spotify.com/artist/0hYV01PWntsGM94roH6CdE"
+        },
+        {
+          "name": "Vt no beat",
+          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129102,
+      "name": "Bolos&Bolos",
+      "url": "https://open.spotify.com/track/2xM35GeAs6RtOIJfsk1IfJ"
     },
     {
       "album": {
@@ -2530,7 +2578,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 170069,
       "name": "Convite",
       "url": "https://open.spotify.com/track/7B6qKgs5keDGJMpEzviYVm"
@@ -3508,6 +3556,32 @@
       "duration_ms": 173927,
       "name": "Ei Gata",
       "url": "https://open.spotify.com/track/38ZvOD8P37Z7nIjFr4Ssg5"
+    },
+    {
+      "album": {
+        "name": "Ei Nego",
+        "url": "https://open.spotify.com/album/33SymmLbouL8YMXnZdMfNR"
+      },
+      "artists": [
+        {
+          "name": "Guetta FInelly",
+          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
+        },
+        {
+          "name": "X1",
+          "url": "https://open.spotify.com/artist/5s7JvhjsQGuOn5Jta1sxE3"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176953,
+      "name": "Ei Nego",
+      "url": "https://open.spotify.com/track/72Nf75mEsH7ciMDAt22hWj"
     },
     {
       "album": {
@@ -4617,6 +4691,28 @@
     },
     {
       "album": {
+        "name": "Fora Da Lei",
+        "url": "https://open.spotify.com/album/3zSA2HaW5dkplmPfWoX0Zu"
+      },
+      "artists": [
+        {
+          "name": "Tito JV",
+          "url": "https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao"
+        },
+        {
+          "name": "Almir delas",
+          "url": "https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132614,
+      "name": "Fora Da Lei",
+      "url": "https://open.spotify.com/track/25BYiqy7bqjLGuZammSgo1"
+    },
+    {
+      "album": {
         "name": "Frag\u00e2ncia",
         "url": "https://open.spotify.com/album/7cJleJxgIm19B2hQVjbtSG"
       },
@@ -5663,6 +5759,24 @@
     },
     {
       "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/413UNUmMkdBd0RcGJdphsK"
+      },
+      "artists": [
+        {
+          "name": "Bernard",
+          "url": "https://open.spotify.com/artist/6vuZce8K6ak3o7LhRKKUqH"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93691,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/18nleMBgPh7tGyLX11pcOB"
+    },
+    {
+      "album": {
         "name": "Big Bang pt1",
         "url": "https://open.spotify.com/album/4eSGzmlM9wsV1L4COfCVFa"
       },
@@ -6162,7 +6276,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 107111,
       "name": "Mais Uma Noite",
       "url": "https://open.spotify.com/track/3yMUlCIgKMeIJD7x1OoL5B"
@@ -6568,7 +6682,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 126857,
       "name": "Medo De Amar",
       "url": "https://open.spotify.com/track/7dyXJEMfsEUZSIpC682auj"
@@ -7777,6 +7891,44 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Precisa Fingir",
+        "url": "https://open.spotify.com/album/3RAjsgZcqY40qPRGrfWYk3"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "N\u00e3o Precisa Fingir",
+      "url": "https://open.spotify.com/track/1wzBGs0ZzOm3Go3QUdKqya"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Sai da Minha Mente (feat. Lionel)",
         "url": "https://open.spotify.com/album/5qpJt1uCoons7XTDQXp29Q"
       },
@@ -8882,7 +9034,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 166928,
       "name": "PLUGPARK",
       "url": "https://open.spotify.com/track/2dr8YKZVBUmbt5F31HDFP8"
@@ -9280,7 +9432,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 143697,
       "name": "PRODUTO CARO",
       "url": "https://open.spotify.com/track/5oidbmbRWgd9DtvBwuZd3Z"
@@ -9547,6 +9699,28 @@
     },
     {
       "album": {
+        "name": "Quantos Fakes Vc Tem?",
+        "url": "https://open.spotify.com/album/6IJlU1ErMD76FaZALhHU2i"
+      },
+      "artists": [
+        {
+          "name": "Annick",
+          "url": "https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Quantos Fakes Vc Tem?",
+      "url": "https://open.spotify.com/track/5IEHh9yeNpv5tfh5bXjeP9"
+    },
+    {
+      "album": {
         "name": "Adeus Tokyo Part II",
         "url": "https://open.spotify.com/album/3lXVOBlBz0s2iun2ocA5Gn"
       },
@@ -9636,6 +9810,28 @@
       "duration_ms": 125977,
       "name": "quero ver tu me parar",
       "url": "https://open.spotify.com/track/6VtFkGRtUpYey0aPGn3qYO"
+    },
+    {
+      "album": {
+        "name": "Quest\u00e3o de Tempo",
+        "url": "https://open.spotify.com/album/4DfIXRNKQDHJooSYZwwhlF"
+      },
+      "artists": [
+        {
+          "name": "Sotto",
+          "url": "https://open.spotify.com/artist/3Y0CoJXITnyxfL61DH70se"
+        },
+        {
+          "name": "AyDucz",
+          "url": "https://open.spotify.com/artist/0EAZjy1z2Tl4FCc58ivbqZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141354,
+      "name": "Quest\u00e3o de Tempo",
+      "url": "https://open.spotify.com/track/5I00EvVvfFLhVr6jkBlRPf"
     },
     {
       "album": {
@@ -11014,7 +11210,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 118368,
       "name": "Tentei Evitar",
       "url": "https://open.spotify.com/track/3JAV7QAKTVOqXvVXdz85u9"
@@ -11970,6 +12166,24 @@
       "duration_ms": 109473,
       "name": "Vim de Baixo",
       "url": "https://open.spotify.com/track/2ykKgjJVi0WbuXOdOSXKG0"
+    },
+    {
+      "album": {
+        "name": "Vinho na Ta\u00e7a",
+        "url": "https://open.spotify.com/album/280WmT0gPc5zO0VK6GeNJW"
+      },
+      "artists": [
+        {
+          "name": "TALLES",
+          "url": "https://open.spotify.com/artist/7uXZwsILIQLlVsMyrYiTbB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145152,
+      "name": "Vinho na Ta\u00e7a",
+      "url": "https://open.spotify.com/track/78An0nOO8LbmRqwQnU28F0"
     },
     {
       "album": {

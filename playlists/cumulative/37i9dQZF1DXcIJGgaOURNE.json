@@ -222,6 +222,24 @@
     {
       "album": {
         "name": "Biology",
+        "url": "https://open.spotify.com/album/4CuTB7L5QNpqNofkrbrDFN"
+      },
+      "artists": [
+        {
+          "name": "Young Marco",
+          "url": "https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364940,
+      "name": "Biology Theme",
+      "url": "https://open.spotify.com/track/70nN851mBa1ntP1pjo3RjL"
+    },
+    {
+      "album": {
+        "name": "Biology",
         "url": "https://open.spotify.com/album/5qZH3KbLyN4QrWvgbrTYju"
       },
       "artists": [
@@ -232,7 +250,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 364940,
       "name": "Biology Theme - Original Mix",
       "url": "https://open.spotify.com/track/6k0fkhKmjmilKuUkCS0ggi"
@@ -510,10 +528,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 500200,
       "name": "Doctor Love",
       "url": "https://open.spotify.com/track/6G8s19BainATJIjqIwXcre"
+    },
+    {
+      "album": {
+        "name": "12\" Master Series, Vol. 1",
+        "url": "https://open.spotify.com/album/2DEsdqKWomWTYlvBK68VZ2"
+      },
+      "artists": [
+        {
+          "name": "First Choice",
+          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500169,
+      "name": "Doctor Love (Unedited Version)",
+      "url": "https://open.spotify.com/track/3PX3zodPk4HvLjShbLOlTk"
     },
     {
       "album": {
@@ -1186,10 +1222,36 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 320000,
       "name": "Pax - Four Tet Remix",
       "url": "https://open.spotify.com/track/3Pl95ENb22SyQA0ATuV7M3"
+    },
+    {
+      "album": {
+        "name": "Steamin EP",
+        "url": "https://open.spotify.com/album/4ysAWasuwq3X8qol6hO5e5"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Robinson",
+          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Pax - Four Tet Remix",
+      "url": "https://open.spotify.com/track/58nf4EoJi4a6G2fSIlEwiX"
     },
     {
       "album": {
@@ -1647,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Woke EP",
+        "url": "https://open.spotify.com/album/1O7mBSSxgoCpicpWmb43cN"
+      },
+      "artists": [
+        {
+          "name": "Nachtbraker",
+          "url": "https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307250,
+      "name": "Woke",
+      "url": "https://open.spotify.com/track/2WrFUeSUtemEzTolOVCc9e"
+    },
+    {
+      "album": {
         "name": "Woke - EP",
         "url": "https://open.spotify.com/album/4GDka05Z5sqdul9LJtSq9K"
       },
@@ -1658,7 +1738,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 307250,
       "name": "Woke",
       "url": "https://open.spotify.com/track/63Q6Hct41pLDY2APpG9thq"

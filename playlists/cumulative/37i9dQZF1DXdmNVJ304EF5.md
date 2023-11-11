@@ -4,7 +4,7 @@
 
 > Where the local scene started.
 
-59 songs - 3 hr 26 min
+60 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,8 +25,9 @@
 | [Faster the Chase](https://open.spotify.com/track/3TyvUMUb5SG55CWxCwizoF) | [InMe](https://open.spotify.com/artist/6EXjdbEiqhPzodtf7MtVos) | [White Butterfly](https://open.spotify.com/album/6iBQRwQad8crW7TkoVZXcy) | 3:30 | 2022-12-28 |  |
 | [Forget His Facade](https://open.spotify.com/track/2ryH0f8E3gLqZyEXGmin27) | [Furthest Drive Home](https://open.spotify.com/artist/1gQmSu1aiJweUuHVPtCjMM) | [Forget His Facade](https://open.spotify.com/album/4JbmVyJYKsN7WaAQBvURiZ) | 3:37 | 2023-01-06 |  |
 | [Give Me What I Want](https://open.spotify.com/track/0Fx8N7XtHkbF3ZnPk8Pm6B) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [UK Sound](https://open.spotify.com/album/2q9DE2cseH212rhCFRc2hO) | 3:19 | 2022-12-28 | 2023-03-09 |
-| [Give Me What I Want](https://open.spotify.com/track/2fbFuqMaEBFMNX0pzoGW2K) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [You've Got Some Catching Up to Do](https://open.spotify.com/album/3BdstsGEz1xvAM9Li0ECXu) | 3:19 | 2022-12-28 |  |
+| [Give Me What I Want](https://open.spotify.com/track/2fbFuqMaEBFMNX0pzoGW2K) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [You've Got Some Catching Up to Do](https://open.spotify.com/album/3BdstsGEz1xvAM9Li0ECXu) | 3:19 | 2022-12-28 | 2023-11-11 |
 | [Give Me What I Want](https://open.spotify.com/track/76RjI93JiNnMWvqVjAyjWV) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [Falling Down: Post\-Hardcore Millennials](https://open.spotify.com/album/2vSfyYHhmKtMmZ5ESQTIB4) | 3:19 | 2022-12-28 | 2023-09-19 |
+| [Give Me What I Want \- 2023 Remaster](https://open.spotify.com/track/6bYEWtaVA8YeVKoTaebZhx) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [Smart Casual \(2023 Remaster\)](https://open.spotify.com/album/3xoPyvkbMVntmNyACCf3ch) | 3:17 | 2022-12-28 |  |
 | [Gum](https://open.spotify.com/track/0ty8clX5vC9cc08KqywES5) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 3:01 | 2023-01-06 |  |
 | [Here We Go](https://open.spotify.com/track/6jngGXpDL4VDaPUTAZebJf) | [Lower Than Atlantis](https://open.spotify.com/artist/1kF0gYnHLUJvFuPdoowO02) | [Lower Than Atlantis](https://open.spotify.com/album/25xQevIYTCKcvsw9fyZoDb) | 3:42 | 2022-12-28 |  |
 | [Hiding With Boys](https://open.spotify.com/track/3quA6NYHEI2n2pLZvjc3LB) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Eternity, In Your Arms](https://open.spotify.com/album/4Q3AGdThgRrZmYaFtDbWmP) | 3:33 | 2023-01-06 |  |

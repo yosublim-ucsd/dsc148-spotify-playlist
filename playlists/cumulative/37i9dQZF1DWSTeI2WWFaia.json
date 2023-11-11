@@ -3164,7 +3164,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 216813,
       "name": "Dump On Em",
       "url": "https://open.spotify.com/track/5mMW1V1GTn7Vygkjfw2PZz"
@@ -4379,6 +4379,24 @@
     },
     {
       "album": {
+        "name": "GUNSHY",
+        "url": "https://open.spotify.com/album/4Pb1VAoIs7HsNqD3ShHZXl"
+      },
+      "artists": [
+        {
+          "name": "Nyck Caution",
+          "url": "https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "GUNSHY",
+      "url": "https://open.spotify.com/track/0We0xZsKHRpCd4r8cuMTXP"
+    },
+    {
+      "album": {
         "name": "Gutter! (feat. WARA)",
         "url": "https://open.spotify.com/album/6owqbAiaZ8txCMgYqWu8ve"
       },
@@ -4800,7 +4818,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 186136,
       "name": "Houston BBQ (feat. Bun B)",
       "url": "https://open.spotify.com/track/1BOdSKk6qnTUMY3AV0hayh"
@@ -6876,6 +6894,32 @@
       "duration_ms": 146031,
       "name": "Monsieur Dior",
       "url": "https://open.spotify.com/track/47993TulzIDIq2Bgs5JqOz"
+    },
+    {
+      "album": {
+        "name": "Montagna",
+        "url": "https://open.spotify.com/album/2uShVWVliRbY4ePhpQ1MG9"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        },
+        {
+          "name": "Goosebytheway",
+          "url": "https://open.spotify.com/artist/7Lbpx0EuKekUdtfDuNStfh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Montagna",
+      "url": "https://open.spotify.com/track/5mk53q4ragqU6CMaTH6JQ3"
     },
     {
       "album": {

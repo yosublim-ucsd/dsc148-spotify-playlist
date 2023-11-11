@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Sadturs, Kiid, Anna, Nerissima Serpe, Papa V, Artie 5ive
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,276 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,532 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [BULL TERRIER \(feat\. Guè\)](https://open.spotify.com/track/5JWaU9orOfQnRyhiof2T2m) | [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [BULL TERRIER \(feat\. Guè\)](https://open.spotify.com/album/7GzcknHVFgNrZLV3IkJLBj) | 2:52 |
 | 50 | [Genkidama](https://open.spotify.com/track/5WUAZVcoe0g7MLnHA3akWy) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Genkidama](https://open.spotify.com/album/1VE2rt8pjEWu7kh1y6FqHY) | 2:29 |
 
-Snapshot ID: `MCw1ZjFlMTg5MDljY2JlMGIzNTc1ODkxY2M3ZmM4MjlkMTUzMTk1MTdj`
+Snapshot ID: `MCw5YTc0MmM1MDM4NDg4ZDBhNmVkMjExYzQ2NGNjZGJlMThiYWZlMjE5`

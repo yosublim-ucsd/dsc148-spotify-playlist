@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 75924,
+  "num_followers": 75925,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzgxMCw1ZTRmOTE5ZmYxZWIyNDczYTNiZjllZTIwN2U3YTdjYTQ1NzMwNDM1",
+  "snapshot_id": "MzgxMSxiZTVmY2YwZmEzMWI4MmFlYjllODgxMWRiMmFkNGM4Mzc4YzVmODFh",
   "tracks": [
+    {
+      "added_at": "2023-11-10 13:02:57",
+      "album": {
+        "name": "Cat Power Sings Dylan: The 1966 Royal Albert Hall Concert",
+        "url": "https://open.spotify.com/album/4OnjUMJXgFC6lG8JHOrwuu"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 285040,
+      "name": "Fourth Time Around - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/2xwrxptPwS1SblukgfKPgx"
+    },
     {
       "added_at": "2023-11-09 10:19:54",
       "album": {

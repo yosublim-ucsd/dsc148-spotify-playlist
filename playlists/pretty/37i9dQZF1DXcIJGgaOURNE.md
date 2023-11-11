@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,163 likes - 86 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,443 likes - 86 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 |
-| 2 | [Pax \- Four Tet Remix](https://open.spotify.com/track/3Pl95ENb22SyQA0ATuV7M3) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Steamin EP](https://open.spotify.com/album/0JnuWdbsS3j4NZByEybO2R) | 5:20 |
+| 2 | [Pax \- Four Tet Remix](https://open.spotify.com/track/58nf4EoJi4a6G2fSIlEwiX) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Steamin EP](https://open.spotify.com/album/4ysAWasuwq3X8qol6hO5e5) | 5:20 |
 | 3 | [BAD GIRLS](https://open.spotify.com/track/1pQIKysdMiMzVElcR43sAQ) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [BAD GIRLS](https://open.spotify.com/album/2o28ddcGGnF0hBad4hZ8F8) | 5:03 |
-| 4 | [Woke](https://open.spotify.com/track/63Q6Hct41pLDY2APpG9thq) | [Nachtbraker](https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw) | [Woke \- EP](https://open.spotify.com/album/4GDka05Z5sqdul9LJtSq9K) | 5:07 |
+| 4 | [Woke](https://open.spotify.com/track/2WrFUeSUtemEzTolOVCc9e) | [Nachtbraker](https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw) | [Woke EP](https://open.spotify.com/album/1O7mBSSxgoCpicpWmb43cN) | 5:07 |
 | 5 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 |
 | 6 | [Cobwebs](https://open.spotify.com/track/1qqAwkMHTnFeMyUypC860H) | [Pearson Sound](https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J) | [Alien Mode](https://open.spotify.com/album/61uZXQS5ixS4SbNzuRToKr) | 4:01 |
 | 7 | [Dreaming a Dream](https://open.spotify.com/track/5LfIyNxHXYkSyhBuPjgrUp) | [Crown Heights Affair](https://open.spotify.com/artist/3X9xSaKYs3EY8l74Hgy5rz) | [Northern On the Real Side \- 21 Modern Soul Classics](https://open.spotify.com/album/4X8QUf8W1irnYO1CiTsxGq) | 3:05 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 38 | [Arpman](https://open.spotify.com/track/3NwAVdV3DmRcbvbZzc6ElB) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Red Axes](https://open.spotify.com/album/2XWxTnbxhF3BrU3YtfSgzo) | 5:02 |
 | 39 | [Dish](https://open.spotify.com/track/6jggSukBUaT5qS2AI9OhD3) | [Apiento](https://open.spotify.com/artist/0PNaqg1sztGjfjZcCpMSjm), [LX](https://open.spotify.com/artist/58yvqNWlojnwGYutd6bPJg) | [Dish](https://open.spotify.com/album/4hYcubEJ9RX35YT8bvpwZD) | 7:56 |
 | 40 | [Born To Lose](https://open.spotify.com/track/5FI0R5JDimbYBMbMCGhWYV) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 4:53 |
-| 41 | [Biology Theme \- Original Mix](https://open.spotify.com/track/6k0fkhKmjmilKuUkCS0ggi) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [Biology](https://open.spotify.com/album/5qZH3KbLyN4QrWvgbrTYju) | 6:04 |
+| 41 | [Biology Theme](https://open.spotify.com/track/70nN851mBa1ntP1pjo3RjL) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [Biology](https://open.spotify.com/album/4CuTB7L5QNpqNofkrbrDFN) | 6:04 |
 | 42 | [Ain't Nobody Straight In L.A.](https://open.spotify.com/track/29HemHbSIVerWQQ1YNVzXU) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [City Of Angels \(Expanded Edition\)](https://open.spotify.com/album/101T3Y64HDKs7vh8FdGOoO) | 3:48 |
 | 43 | [Love On The Rocks](https://open.spotify.com/track/3hQKvgzPncOwW2m0PfUU8y) | [Lama](https://open.spotify.com/artist/148XBQHymOzRLb2aPkukeM) | [Italo Disco Vol\. 2](https://open.spotify.com/album/6HBlHmRS6NExyImYTSePhM) | 5:20 |
 | 44 | [Love Kills](https://open.spotify.com/track/0KD57RyQTzLDSprI2ZfN5a) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH) | [The Very Best of Freddie Mercury Solo: Lover of Life, Singer of Songs](https://open.spotify.com/album/7zZsa7Cpd5itS9reVPfXZA) | 4:29 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 52 | [Marinero](https://open.spotify.com/track/2NMSwEAP0YmeAqYrnFxfYs) | [Lucia](https://open.spotify.com/artist/2q125u4SujtYj8A0Zs3R7Z) | [Karibik](https://open.spotify.com/album/7FAGBNGybzgAhOmXDNp8y8) | 4:25 |
 | 53 | [A Kele Nta](https://open.spotify.com/track/288dVpSCtcRn5nveawFJTj) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [MHD](https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE) | 3:24 |
 | 54 | [Dancing in Outer Space \- Masters At Work Lunar Mix, Pt\. 1](https://open.spotify.com/track/0h9ffUFZxTy7Da5pYMA7gY) | [Atmosfear](https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF) | [Dancing in Outer Space \(Masters At Work Remixes\)](https://open.spotify.com/album/4U011154Harb8StzLa9WaP) | 8:32 |
-| 55 | [Doctor Love](https://open.spotify.com/track/6G8s19BainATJIjqIwXcre) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [12" Master Series Vol\. 1](https://open.spotify.com/album/2Q0k4pZ92k6xI2tQbb4zqk) | 8:20 |
+| 55 | [Doctor Love \(Unedited Version\)](https://open.spotify.com/track/3PX3zodPk4HvLjShbLOlTk) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [12" Master Series, Vol\. 1](https://open.spotify.com/album/2DEsdqKWomWTYlvBK68VZ2) | 8:20 |
 | 56 | [Dance Away](https://open.spotify.com/track/6M8xlRoHXZNyYowm6JjotS) | [20th Century Steel Band](https://open.spotify.com/artist/6tfoaPpvnjAQOql3SQHIA4) | [Yellow Bird Is Dead](https://open.spotify.com/album/3Hy7Cpi6zH45ByKzrdd5FI) | 3:59 |
 | 57 | [50/50](https://open.spotify.com/track/3I4G8p5a0n1I7owUfaUUpH) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [50/50](https://open.spotify.com/album/0CfK7axWPYSxqUpnaMhECd) | 3:35 |
 | 58 | [Groovin' You \- 12" Version](https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [Groovin' You \(Expanded Edition\)](https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9) | 6:16 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 85 | [Pretty Bright Light](https://open.spotify.com/track/1bo2uwP333C9FYNXpH7OHT) | [RSD](https://open.spotify.com/artist/5z8Vn9xoYJ3OXi6VSfohzF) | [Good Energy \(A Singles Collection\)](https://open.spotify.com/album/2SyWnW8ujtBeNV4SUvSOBL) | 5:08 |
 | 86 | [You've Got The Love \- Jamie xx Rework](https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [You've Got The Love \(Jamie xx Rework\)](https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA) | 5:42 |
 
-Snapshot ID: `MCw5MWYzMmUzZWEwMmUyNWVjYzU0YTQyYWVkZmYyMGE3MWIzYjY4M2Y0`
+Snapshot ID: `MCwyNjk1OTVlNGFhMjBmODQ3MjBlNzBhYThjY2Q0YTEyZTgxNWRlN2Ey`

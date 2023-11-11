@@ -4,7 +4,7 @@
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-137 songs - 5 hr 8 min
+139 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [I Love Food](https://open.spotify.com/track/5oXvX5XuLiVtK3YQbE931Z) | [The Not\-Its!](https://open.spotify.com/artist/4Eo7yzZ7LoM4Cg8AySUWry) | [Tag, You're It!](https://open.spotify.com/album/5O0lrEav82bSTfEbcl37h3) | 2:51 | 2022-04-05 |  |
 | [I Take My Lunch to School](https://open.spotify.com/track/1mCjBXX6VXTFGrVcyZgkm0) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Something for Everyone](https://open.spotify.com/album/3c7lnfv4Ef3Y36UtgB4cHr) | 2:21 | 2022-04-05 |  |
 | [I Take My Lunch to School](https://open.spotify.com/track/4OUrLIGnPLeaq0VB1SjFca) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [I Take My Lunch to School](https://open.spotify.com/album/3ybZmFqFJ3N81pwzfPQFoQ) | 2:21 | 2022-04-05 | 2023-07-28 |
-| [I Want Candy](https://open.spotify.com/track/6o0CzOoSmMmzJ5Ycvhp52S) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [What's Cooking in the Kitchen \(Songs about Food\)](https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0) | 2:42 | 2022-04-05 |  |
+| [I Want Candy](https://open.spotify.com/track/6o0CzOoSmMmzJ5Ycvhp52S) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [What's Cooking in the Kitchen \(Songs about Food\)](https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0) | 2:42 | 2022-04-05 | 2023-11-11 |
+| [I Want Candy](https://open.spotify.com/track/7xYWZMli2zPjtgqlFV3cZJ) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Trick or Treat! Halloween Party Hits for Kids](https://open.spotify.com/album/22PbJHM4CqBVq2X0auxQ00) | 2:42 | 2022-04-05 |  |
 | [I'd Eat It Anyway](https://open.spotify.com/track/0qGjCWPtmI8epcV6aeLALB) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1Uz91yvWTiomeFibfqP761) | 2:24 | 2022-04-05 | 2022-10-27 |
 | [I'd Eat It Anyway](https://open.spotify.com/track/4pNSUTNUmVicSriWSCoGDY) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1i8TZqSzAGr0IfHRhvkP1b) | 2:25 | 2022-04-05 |  |
 | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/track/0H1pkHp6A8mfCHsuf6s90j) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/album/28BjXfGmMdf2geHjPVezfZ) | 2:33 | 2022-04-05 |  |
@@ -95,7 +96,8 @@
 | [My Favorite Snack](https://open.spotify.com/track/16fs8Zn53hURmvswqPxHOc) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1Uz91yvWTiomeFibfqP761) | 2:09 | 2022-04-05 | 2022-10-27 |
 | [My Favorite Snack](https://open.spotify.com/track/1zrcMESKYFeSVq7uwhBp8F) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1i8TZqSzAGr0IfHRhvkP1b) | 2:09 | 2022-04-05 | 2022-11-13 |
 | [Old MacDonald Had a Farm \(Food\) \- Learn About Food](https://open.spotify.com/track/0ZGl2nD1EI9F0bjtJmAlea) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Old MacDonald Had a Farm \(Food\) \[Learn About Food\]](https://open.spotify.com/album/3kxQPp0AQ3RbjHxH59yL98) | 3:08 | 2022-04-05 |  |
-| [On Top of My Pizza](https://open.spotify.com/track/5X6pkTV4V1pGFNHlfdPKA2) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [What's Cooking in the Kitchen \(Songs about Food\)](https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0) | 1:18 | 2022-04-05 |  |
+| [On Top of My Pizza](https://open.spotify.com/track/1afC9aSaTDAFNy460oDnuK) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Silly Songs](https://open.spotify.com/album/6iTWkkheOlwhgY3m6Hxfuw) | 1:18 | 2022-04-05 |  |
+| [On Top of My Pizza](https://open.spotify.com/track/5X6pkTV4V1pGFNHlfdPKA2) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [What's Cooking in the Kitchen \(Songs about Food\)](https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0) | 1:18 | 2022-04-05 | 2023-11-11 |
 | [Pancakes & Syrup](https://open.spotify.com/track/4nD4eWwuScEH9Vrr6gkPk0) | [Biz Markie](https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:15 | 2022-04-05 |  |
 | [Pancakes & Syrup](https://open.spotify.com/track/2NssBRRlKbgjELixQfRCga) | [Biz Markie](https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4) | [Yo Gabba Gabba! Music Is Awesome: Vol\. 4](https://open.spotify.com/album/3TmM9wQILguHtXEsfr2P7K) | 1:17 | 2022-04-05 | 2022-07-29 |
 | [Pancakes for Breakfast](https://open.spotify.com/track/7kRTWwrPgRCtwftX2oTRF4) | [Ginalina](https://open.spotify.com/artist/06QOnJaT57H3lQcrx3B1kP) | [Forest Friends' Nature Club Album](https://open.spotify.com/album/6e79AwZQO9nJYq6qb7SL16) | 1:38 | 2022-04-05 |  |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfudhV4pgtf.md) - [plain]
 
 > <a href="spotify:artist:7icoOm5fKKPo49jVxoj1Cq">Anfisa Letyago</a>'s favorite tracks\. Updated regularly\. Curated by Anfisa Letyago\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,326 likes - 49 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,479 likes - 49 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Haze \- FILM Remix](https://open.spotify.com/track/74aCBEoZBRNwK4wdS5Ep6g) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [FILM](https://open.spotify.com/artist/7zaagdALQjtxmHTIRa3H2T) | [Haze Remixes](https://open.spotify.com/album/7g1Rj26ma74ZKBPmnAA09M) | 5:41 |
 | 2 | [ISO \- DJ Seinfeld Remix](https://open.spotify.com/track/4JP1Xjt1aqM1A1unMoih4x) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Rendezvous](https://open.spotify.com/album/5EvhOZgGd0Iz4aONhMj0fY) | 5:51 |
-| 3 | [Ovule \(feat\. Shygirl\) \- Sega Bodega Remix](https://open.spotify.com/track/1e0lY9vlLsvpjNpj3NgFwQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/67NJcllhirRuOzzC4Ivfvx) | 3:44 |
+| 3 | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/track/6wfnKqy0C9xUrxZVgzHz8C) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/1ljK6QlQ1cFgK46R5QIMVV) | 3:44 |
 | 4 | [Let Me Be](https://open.spotify.com/track/5m6dY8ZvU87n4nPnA2jcrR) | [Anna Kost](https://open.spotify.com/artist/3I5IACZdrxcIUHqQnpiItF) | [Let Me Be](https://open.spotify.com/album/5jamu59YhhB6KG5gGjirCb) | 5:25 |
 | 5 | [Ognuno p''a via soja](https://open.spotify.com/track/64Tb4DxB5W2axD6XgFySKV) | [Enzo Avitabile](https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO) | [La Vita Bugiarda Degli Adulti \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0tCgV1ZcCEn77kUoCwpImi) | 4:15 |
 | 6 | [Rosso Profondo](https://open.spotify.com/track/0Regj8wXZsDesHK6DrWaDg) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Rosso Profondo](https://open.spotify.com/album/5yaUSupnWkaCaVqSlbubbk) | 5:33 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfudhV4pgtf.md) - [plain]
 | 34 | [Space Sway](https://open.spotify.com/track/2s3fuD2oERnilMGgZrXdZu) | [Swooh](https://open.spotify.com/artist/242D0xREm9MCY0e6QDotYb) | [Conscientia](https://open.spotify.com/album/0WAafxyUDWWHo6ibGQsBWB) | 5:56 |
 | 35 | [Secrets](https://open.spotify.com/track/4WYf5O1kbt8wHQIj4eN30D) | [Tred](https://open.spotify.com/artist/4eTuJOfck5tvsCYy1l1PK0) | [I'm Not like Other PPL](https://open.spotify.com/album/65jMX15AqdcaBmKMJtgtwL) | 6:45 |
 | 36 | [El Sueño de Kogi](https://open.spotify.com/track/77yLpdIfbJLZTx8OurWDXq) | [TMH Tranzit](https://open.spotify.com/artist/4fOi16EGs3serE7qzaqmTt) | [El Sueño de Kogi](https://open.spotify.com/album/0CKnKc80sS8gjnzgbX8JTk) | 6:03 |
-| 37 | [Eh Wut](https://open.spotify.com/track/1KrvEu5dy4OKuFtlI4cLGt) | [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [Eh Wut](https://open.spotify.com/album/1tKVdQn0I8A4mu1rPXSsAn) | 5:12 |
+| 37 | [Eh Wut](https://open.spotify.com/track/2Ab03lig6siOlOlsarjaQT) | [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [Eh Wut](https://open.spotify.com/album/2JQAzUgIjfPPBl1Mu9Ry8c) | 5:12 |
 | 38 | [NY\-X](https://open.spotify.com/track/01oggyDMi5e6LAWXoWVsVu) | [Schacke](https://open.spotify.com/artist/3bphZJ7NojBKcoCeBOSJ5Z) | [Apocalyptic Decadence](https://open.spotify.com/album/0C9ABNbjiWHQsbgOoqNqnW) | 7:07 |
 | 39 | [Colorforms](https://open.spotify.com/track/3KsEpBj2erCWu9X2XojURs) | [FULL EFX](https://open.spotify.com/artist/1uLpI38BsYc4LVQ62y2se5), [Anthony Parasole](https://open.spotify.com/artist/66bQLQsTSlK34m12wjyneM) | [HEADRUSH](https://open.spotify.com/album/6oUZkGInt7tvJihI4dOIz5) | 2:29 |
 | 40 | [Sci Si](https://open.spotify.com/track/3ZWuxoEmS8KkYvZoRQSIy7) | [Mor Elian](https://open.spotify.com/artist/4nLavg4nn48n7wwx2AIklZ) | [Sci Si](https://open.spotify.com/album/71kGI5p0ca13pTv78f2w9P) | 5:17 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfudhV4pgtf.md) - [plain]
 | 48 | [IZ\-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 |
 | 49 | [Eyelar \(stamford street\)](https://open.spotify.com/track/3tLQIflSb1kA2xqBP94HkF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 Piano EP \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4S8ReXNJUYd3INog1JNlBJ) | 3:16 |
 
-Snapshot ID: `MCxlZmIzODk2ZGQ3MTlkYmZmMGRhODlhMzljYWY0MzRmNDlkNWRkYzZm`
+Snapshot ID: `MCwzMzQyZTk2YjYzMmI1YWQ0ZDRjMzk1MGYwOTA1MjQwYTMzYjVhYzY0`

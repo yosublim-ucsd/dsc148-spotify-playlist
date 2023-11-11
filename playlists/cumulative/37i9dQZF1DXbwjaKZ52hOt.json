@@ -3627,6 +3627,24 @@
     },
     {
       "album": {
+        "name": "Fun Songs for Kids",
+        "url": "https://open.spotify.com/album/3l5NKqOZFYoXX357okAjBh"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70013,
+      "name": "Polly Put the Kettle On",
+      "url": "https://open.spotify.com/track/3ab9mdk8fOzjCU0054dghC"
+    },
+    {
+      "album": {
         "name": "What's Cooking in the Kitchen (Songs about Food)",
         "url": "https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0"
       },
@@ -3638,7 +3656,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 70013,
       "name": "Polly Put the Kettle On",
       "url": "https://open.spotify.com/track/4ebxbMfNr6StAGWyZgQXD4"
@@ -4257,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "The Dog: 100 Super Silly Songs",
+        "url": "https://open.spotify.com/album/2HOJ3KWK4JBlV0aDYWacW0"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111666,
+      "name": "Short'nin' Bread",
+      "url": "https://open.spotify.com/track/26nRFjiXqeH4jbqlqaSRNf"
+    },
+    {
+      "album": {
         "name": "What's Cooking in the Kitchen (Songs about Food)",
         "url": "https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0"
       },
@@ -4268,7 +4304,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 111666,
       "name": "Short'nin' Bread",
       "url": "https://open.spotify.com/track/2gremjoXqhkV60TNuygGZR"

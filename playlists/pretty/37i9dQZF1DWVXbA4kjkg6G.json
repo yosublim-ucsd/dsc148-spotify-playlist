@@ -1,12 +1,12 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 452672,
+  "num_followers": 452971,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2RjMmY3OTRlNjc4ZDBlMmY5NTY5ZjYzZjhmMDczNGEyYTAwZmU1",
+  "snapshot_id": "MCw1M2I1NmRjNTI2NDI4MjBmMWRlZGNmMDcyN2EwNGJkZjI4MjZmMjYz",
   "tracks": [
     {
       "added_at": "2023-06-20 20:30:21",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Bricolage",
-        "url": "https://open.spotify.com/album/0DFvcq1cdpIdQxavKkEVCH"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 353426,
-      "name": "Stoney Street",
-      "url": "https://open.spotify.com/track/0GeezbrS87YZgXuyksdg2q"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Ninja Cuts - Funkjazztical Tricknology",
         "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 245946,
       "name": "Dark Lady",
       "url": "https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Bricolage",
+        "url": "https://open.spotify.com/album/0DFvcq1cdpIdQxavKkEVCH"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "duration_ms": 353426,
+      "name": "Stoney Street",
+      "url": "https://open.spotify.com/track/0GeezbrS87YZgXuyksdg2q"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Lamb",
-        "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
-      },
-      "artists": [
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
-        }
-      ],
-      "duration_ms": 456666,
-      "name": "Trans Fatty Acid",
-      "url": "https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Breath From Another",
         "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 238600,
       "name": "Superheroes",
       "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Lamb",
+        "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+        }
+      ],
+      "duration_ms": 456666,
+      "name": "Trans Fatty Acid",
+      "url": "https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu"
     },
     {
       "added_at": "2023-06-20 20:30:21",

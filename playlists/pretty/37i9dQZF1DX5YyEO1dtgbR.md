@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 
 > Experimental electronic beyond the borders of tradition.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,893 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,907 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 24 | [Ringinglow Oscillation](https://open.spotify.com/track/6u9P4TywnzUBclpceGqlHE) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Dubs: Volume 1](https://open.spotify.com/album/2niP4AM8tXCckxfN3fX9du) | 3:58 |
 | 25 | [White Picket Fence](https://open.spotify.com/track/3Jl1wfkdpzqlX9HdIgrOSM) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Agor](https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz) | 2:58 |
 | 26 | [2nd Round](https://open.spotify.com/track/0lrsCibEGQd7uP0eJ7T2bk) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [2nd Round / FFBH](https://open.spotify.com/album/7cjAjQbz0Rdh7UnGFLXQE5) | 2:30 |
-| 27 | [The Way You Hold Me](https://open.spotify.com/track/561IJM4EsmgVwOd7AWW4vn) | [3STRANGE](https://open.spotify.com/artist/4H9nlRIz8akpjJurwlFf6i) | [The Way You Hold Me](https://open.spotify.com/album/3XkXaWxW8Wo9FK7LnnRMll) | 3:37 |
+| 27 | [The Way You Hold Me](https://open.spotify.com/track/72gUTSQmBNNI7XTORGG2E7) | [3STRANGE](https://open.spotify.com/artist/4H9nlRIz8akpjJurwlFf6i) | [The Way You Hold Me](https://open.spotify.com/album/4dmgSI04oTgpUN3PUpJ9ju) | 3:37 |
 | 28 | [Total Reality, Total Chaos \(Part II\)](https://open.spotify.com/track/5AV0WvpgjbVfBddrcxnlXd) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8) | [Total Reality, Total Chaos](https://open.spotify.com/album/4EaLkzfVkLqVNOic2UZr4N) | 16:19 |
 | 29 | [Hoshikuzu Tenboudai](https://open.spotify.com/track/2vLy8pWoJemAkTnOooW7fT) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR) | [Yasuragi Land](https://open.spotify.com/album/1hbAeHIVlpRC9xzgT2sqDi) | 2:35 |
 | 30 | [Life's Eye](https://open.spotify.com/track/3zqINXbmbLNmp7uO6gXOtj) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [LP2](https://open.spotify.com/album/55sCnDa3AJX3CeSM0pSO8e) | 4:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 74 | [I'll be 20 when I'm 40](https://open.spotify.com/track/4x47gRjGYRRiDGhbdtpnCs) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Patrimony](https://open.spotify.com/album/7olQu6AkixLOum1nfMkZvf) | 5:13 |
 | 75 | [Those Tears of Hutton](https://open.spotify.com/track/49WbV4XtJ5QWJd2m5UrwSg) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [This Moment of Silence](https://open.spotify.com/album/6Zj6qfpTfQCmlyajevOM8z) | 6:15 |
 
-Snapshot ID: `MCw0Y2VlNTUwMzAxYzZkOTYwNTgxZDcyZTc5YzhlNmFiZDE4YmRhOWZl`
+Snapshot ID: `MCwzZjNlZDdhMDNkZjUzMDU4NmJjY2FkMGE4NmM0Y2VjOWYzZDdmYmQw`

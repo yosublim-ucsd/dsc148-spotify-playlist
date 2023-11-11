@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Guest Curator:   <a href="spotify:artist:1K15GRZZATsCJyGJ4bYiEz">Luh Tyler</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,337 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,346 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 35 | [Toxic](https://open.spotify.com/track/11VqkjKPzAFMoo4V4uk9Ys) | [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [Toxic](https://open.spotify.com/album/6frJVs66js2iZrJB7DKz1V) | 2:45 |
 | 36 | [Damn Gloves](https://open.spotify.com/track/7qJXfY2YuKeAc4y8CdWJPq) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Yanga YaYa](https://open.spotify.com/artist/6khlvGagBlNVPYIknFCPeJ) | [Damn Gloves](https://open.spotify.com/album/5LtEbfT8ouvd9qLBVhLMv2) | 2:31 |
 | 37 | [GOD DON'T LIE](https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [SO LONELY \(AN EREMOS STORY\)](https://open.spotify.com/album/1yMjZOuzZHF2hRzluZESSD) | 2:13 |
-| 38 | [SWIM \(feat\. Quavo\)](https://open.spotify.com/track/0oWoinOtYWk8Y5KQZBGpZT) | [Swxm](https://open.spotify.com/artist/0wjT2AitdI5hxU13J5Clo8), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SWIM \(feat\. Quavo\)](https://open.spotify.com/album/5wA6SJ5UeFNqZZCtZoWeZ5) | 2:53 |
+| 38 | [SWIM](https://open.spotify.com/track/2l7iWqmzBL8LNMll7aS7WQ) | [Swxm](https://open.spotify.com/artist/0wjT2AitdI5hxU13J5Clo8), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SWIM](https://open.spotify.com/album/0dR74Qk75reVsH7Ti6nBGR) | 2:53 |
 | 39 | [Amen](https://open.spotify.com/track/413m3qi9PRk8EtTISuMQkB) | [Noby](https://open.spotify.com/artist/5NdpNoQSmvwUpgaf1k0O57) | [Amen](https://open.spotify.com/album/5UzmClO4Bb8XwdMQOBsj9I) | 2:16 |
 | 40 | [Garden](https://open.spotify.com/track/0BV2Qn5ZFA70g9bSWmSxvq) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [LONERWRLD, vol 1](https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah) | 2:52 |
 | 41 | [mars retrograde](https://open.spotify.com/track/551pPYKGCoavYbMi1vPyib) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [LONELY CASTLES](https://open.spotify.com/album/6nV4Nv7F440SHpX0lkemCK) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [good things](https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [good things](https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5) | 2:54 |
 | 100 | [Mrs Lonely](https://open.spotify.com/track/2i4ytaPgdc78B7TP16Wzjc) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL) | [Mrs Lonely](https://open.spotify.com/album/3Qzw5DoS3nIbVK7fOqTPGo) | 3:18 |
 
-Snapshot ID: `MCxmODFlNzZhMDZmN2FhMTYyODQ3NDExZmEzYmE1YTE3ZDhiNTU0NjA3`
+Snapshot ID: `MCw0NzMwYjlhNThiNTFlZTg2OWEzOGYzZWE5OGI2MGEzNzhiYWZkMTNk`

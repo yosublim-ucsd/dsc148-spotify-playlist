@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Eftalya Yağcı
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,738 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,730 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 64 | [Fırtına](https://open.spotify.com/track/1i8wXITpDdFaZLtYvLnA8M) | [Eda Suluki](https://open.spotify.com/artist/1yAMATU04rAd820To5cmrb) | [Fırtına](https://open.spotify.com/album/1ssN6FFhwzSEscJtnZXZfO) | 3:06 |
 | 65 | [Bir Ateş İçimdeki](https://open.spotify.com/track/1F47W1k8btsc38WXLf4dKw) | [ilaydá](https://open.spotify.com/artist/1EkNauZuQgPE50N1JJqTy9) | [Bir Ateş İçimdeki](https://open.spotify.com/album/0IENo0mFEbQIekwwwEgvP5) | 2:58 |
 
-Snapshot ID: `MCw4NTkyOTBiM2JlYjViNTBmOTFhYTA2MWY5ZWZiMTZmYjU0MTg4NGJl`
+Snapshot ID: `MCxlNjZjZjUwMTYzNDcwOTZmZTNkOGRjOGE2NTc1OWY0YWMwMzUwN2Fm`

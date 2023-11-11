@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-625 songs - 1 day 9 hr 51 min
+628 songs - 1 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Branches And Constellations](https://open.spotify.com/track/6fD08OgJKEiviZ1R3h8SK8) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Seasons Pt\. 3](https://open.spotify.com/album/7yaSxLY5uwMkpFc5CdZeur) | 6:27 | 2019-05-26\* | 2019-06-19 |
 | [Break Through](https://open.spotify.com/track/02Nyn3a2nHssi9rNg3jkdL) | [Sounds of Ellinia](https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr) | [Let Me Play For You](https://open.spotify.com/album/3iaRPX0CtnZXks49RHIJaj) | 2:35 | 2023-02-25 |  |
 | [Breaking the Barrier](https://open.spotify.com/track/4HXS5JIpFZmXj4yFMOv4gU) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [Breaking the Barrier](https://open.spotify.com/album/6nbAkergcoZRG2mmkX7qPA) | 2:30 | 2023-03-10 | 2023-09-26 |
+| [Breathe](https://open.spotify.com/track/1NGGzXahph2f36gs474AWt) | [FoaM](https://open.spotify.com/artist/1XEXjIZsZ178A5msOFALpu) | [Breathe](https://open.spotify.com/album/6Q4IzkbZiGS82hLI2SCdY5) | 2:20 | 2023-11-10 |  |
 | [Breathe](https://open.spotify.com/track/1ubCPXu6jZQJfttzO9APUB) | [Night Songs](https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF) | [Breathe](https://open.spotify.com/album/4eOkrdd40DYCPD1JCZxiE1) | 2:40 | 2022-05-19 |  |
 | [Breathe](https://open.spotify.com/track/3aJag451WnwJY280pZecbt) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Breathe](https://open.spotify.com/album/4UPZC7MdbrN4Xo20amcPPH) | 4:13 | 2019-06-19\* | 2020-01-09 |
 | [Breathing Like the Pastures](https://open.spotify.com/track/3KumNG1cPv2wf7R7t4Hm0V) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Breathing Like the Pastures](https://open.spotify.com/album/2rzImKEk1JZHAyC6dVGJ5t) | 3:41 | 2019-07-31 | 2021-10-21 |
@@ -90,6 +91,7 @@
 | [Centasphere](https://open.spotify.com/track/66moRq1v80qKGkwxuPwUYM) | [Nexterday Visitors](https://open.spotify.com/artist/4HpTEzHjNdwpdffaxTZSsr) | [Centasphere](https://open.spotify.com/album/0vXRHCarBO8xnjDbNarADJ) | 3:04 | 2020-12-11 | 2021-09-21 |
 | [center of mass](https://open.spotify.com/track/6opcJWSYfidSOyn8bQlTlK) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [center of mass](https://open.spotify.com/album/3rGLQVlXpRq8IFjMaszvW5) | 2:24 | 2022-12-30 | 2023-09-26 |
 | [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 2:58 | 2022-02-25 |  |
+| [Chasing Lights](https://open.spotify.com/track/6RwdgNhXr3puffde4stjiH) | [Meu Malu](https://open.spotify.com/artist/6zEIDev1R1S22evodGYe6K) | [Chasing Lights](https://open.spotify.com/album/360cqYSSf6ci6rAEFZjBBP) | 2:20 | 2023-11-10 |  |
 | [Chasing Love](https://open.spotify.com/track/5HCMc28iow2u67EgxHejfZ) | [Mondbery](https://open.spotify.com/artist/3Ao4LdOPmNHIsDq8Y5gTmh) | [Chasing Love](https://open.spotify.com/album/3r9LKZab8u1XmEJbxQjSjV) | 2:11 | 2019-06-19\* | 2023-04-29 |
 | [Chasing the Horizon](https://open.spotify.com/track/3ybfuI1HTbbT1FYyiX3IsJ) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Chasing the Horizon](https://open.spotify.com/album/0qRxMFGRVEZiJRNdDn9srq) | 2:38 | 2023-08-25 |  |
 | [Chasing Tides](https://open.spotify.com/track/41niA9BIBT3GBJODEWicuP) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Chasing Tides](https://open.spotify.com/album/4HJMXBtyX7oHWzE1O0y3bw) | 2:28 | 2022-08-05 | 2023-09-26 |
@@ -215,6 +217,7 @@
 | [Glaciers](https://open.spotify.com/track/2No1A7ZuMaBGxz45jmA9Gw) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Bloom](https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay) | 2:56 | 2019-06-19\* | 2023-08-12 |
 | [Gloaming](https://open.spotify.com/track/6oMUXEiKVDyaXdcJ2YVnuj) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Gloaming](https://open.spotify.com/album/6pSLgjMOClX8LgNDnAdK5J) | 2:15 | 2019-06-27 | 2022-11-18 |
 | [Glow](https://open.spotify.com/track/4TzR5P1srEfWyUjGFSqYhC) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Footsteps](https://open.spotify.com/album/3CGtfAcfdbt1UT45FTl7X1) | 2:25 | 2021-01-29 | 2022-11-18 |
+| [Going Forward](https://open.spotify.com/track/2hrXZPJGelk7cCD0zmiDFA) | [Eden](https://open.spotify.com/artist/2ZgkqMJtaEzlPnzjbCDCmD) | [Going Forward](https://open.spotify.com/album/6QlPjdJ2ZQHYIAB8MPntRj) | 2:32 | 2023-11-10 |  |
 | [Going Home](https://open.spotify.com/track/4IAXoiaI12FoH8StF4n2tG) | [Intrinsic Focus](https://open.spotify.com/artist/6mvJXUuR2ER5cr8U4Vh4MW) | [Going Home](https://open.spotify.com/album/3FTs8ca556v5oMtQm2a9O7) | 4:12 | 2019-05-26\* | 2020-01-09 |
 | [Golden](https://open.spotify.com/track/6Xgupx0XndCMdA09Nl46wF) | [Clear Blue Skies](https://open.spotify.com/artist/5JhmX2bSHdudmKTpcDZeW1) | [Chasing Rainbows](https://open.spotify.com/album/3Qyilgf7sVReq7GGY1ezgc) | 2:20 | 2020-10-10 |  |
 | [Good Days](https://open.spotify.com/track/0oXl1pTqskTdXuu46tPCJm) | [Lykke Juno](https://open.spotify.com/artist/6cJCpDjNQBjGqBNB453M9J) | [Good Days](https://open.spotify.com/album/4BIulmAl1QSc3nHogyaFiv) | 1:51 | 2023-03-03 | 2023-07-29 |

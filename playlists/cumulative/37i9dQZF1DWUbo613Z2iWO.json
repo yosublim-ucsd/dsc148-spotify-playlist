@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Chxrry22",
+  "description": "R&B of the moment by the artists of the future. Cover: Rosemarie",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -804,6 +804,24 @@
       "duration_ms": 158314,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/64cHs4MX20D7ExGWQyZHLd"
+    },
+    {
+      "album": {
+        "name": "L.I.T (Lost In Translation)",
+        "url": "https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207546,
+      "name": "Bamba",
+      "url": "https://open.spotify.com/track/5oZnuqOhCodCZOlFlM4d7Y"
     },
     {
       "album": {
@@ -5999,6 +6017,28 @@
     },
     {
       "album": {
+        "name": "Is It Real? (with Roddy Ricch)",
+        "url": "https://open.spotify.com/album/4HORf4RtMyCUu5FIQ6pEsS"
+      },
+      "artists": [
+        {
+          "name": "Rosemarie",
+          "url": "https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203294,
+      "name": "Is It Real? (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/6VWxLcnrLGJDE6Cr4nm0lW"
+    },
+    {
+      "album": {
         "name": "Is This Real Love? (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958"
       },
@@ -7722,6 +7762,28 @@
       "duration_ms": 190000,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w"
+    },
+    {
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/315eZb2048lQgEXUYHU81Q"
+      },
+      "artists": [
+        {
+          "name": "Korin",
+          "url": "https://open.spotify.com/artist/0eDD2Q4izETtZS1pnTp5Fd"
+        },
+        {
+          "name": "Tony Shhnow",
+          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201965,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/1yDbyNGxnz7k9IMrrbFnOd"
     },
     {
       "album": {
@@ -12984,6 +13046,24 @@
       "duration_ms": 188188,
       "name": "White Lies (feat. Kwengface)",
       "url": "https://open.spotify.com/track/5sFnfo4RB4c9jMojpp6eH5"
+    },
+    {
+      "album": {
+        "name": "who do you love?",
+        "url": "https://open.spotify.com/album/1qFi5vdYpTtJMU4RaMjOSX"
+      },
+      "artists": [
+        {
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173269,
+      "name": "who do you love?",
+      "url": "https://open.spotify.com/track/2p7MmJgujur4As6RENNFOA"
     },
     {
       "album": {

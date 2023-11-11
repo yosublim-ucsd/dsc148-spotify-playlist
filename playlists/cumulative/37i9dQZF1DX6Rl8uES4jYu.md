@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-413 songs - 23 hr 14 min
+414 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [All Together Now](https://open.spotify.com/track/1BAG6lcuJip6wd0Kd9PRoY) | [Outasight](https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO) | [Jamz](https://open.spotify.com/album/0iXMyDCLh5QNIvZV36cO8C) | 2:42 | 2021-07-16 | 2022-07-29 |
 | [All Yours](https://open.spotify.com/track/3YUeUS5imOjS9wqj0xhGYV) | [Jane Holiday](https://open.spotify.com/artist/05GeUxBiQ1aq6VYnODnPbD) | [All Yours](https://open.spotify.com/album/20ejRbhmfw3JUbXuCDeV4v) | 3:10 | 2020-11-13 | 2022-03-26 |
 | [Ally \- Headnodic Remix](https://open.spotify.com/track/4vNh0o3gb1QbmLKtiQvYFn) | [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo), [Raashan Ahmad](https://open.spotify.com/artist/7iljQVDzReF6FBa4cNMIAp), [Breathless](https://open.spotify.com/artist/20LeSCKi2mT9uFAdUwvyhK), [Headnodic](https://open.spotify.com/artist/7LB0RfmtjwsMFr5OW3H0r3) | [Ally \(Headnodic Remix\)](https://open.spotify.com/album/11xqMaOFDQzJEeWiC7KOdk) | 3:29 | 2021-09-21 | 2022-07-20 |
-| [AM Gold \- Tobtok Remix](https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [AM Gold \(Tobtok Remix\)](https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD) | 3:09 | 2022-04-22 |  |
+| [AM Gold \- Tobtok Remix](https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [AM Gold \(Tobtok Remix\)](https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD) | 3:09 | 2022-04-22 | 2023-11-11 |
 | [Another Lover](https://open.spotify.com/track/2wQzwyoJt8wnlN7E1dt2m5) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Another Lover](https://open.spotify.com/album/1g3YQBgxNuARNCxFB5U9pK) | 3:00 | 2023-09-22 |  |
 | [Apocalypse](https://open.spotify.com/track/0fot2fNSEn8R8HOwIPUMIR) | [Sonia Stein](https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y) | [Apocalypse](https://open.spotify.com/album/4QMZonIRFFJmhi2Ya0r3E5) | 3:25 | 2022-03-18 | 2022-04-17 |
 | [Artichoke](https://open.spotify.com/track/4KLdyKhs8sFlDdQPMAzWif) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Eitan Bernstein](https://open.spotify.com/artist/57c1G1JfgEHIWPSu8wED14) | [Artichoke](https://open.spotify.com/album/1DdT8ZkXpypodT0jxvIzSg) | 3:34 | 2022-03-18 | 2022-07-29 |
@@ -420,6 +420,7 @@
 | [You Might Like It](https://open.spotify.com/track/1HWLCLhGLceXLdukbTZpTF) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 3:37 | 2023-03-31 | 2023-11-05 |
 | [You Might Like It](https://open.spotify.com/track/6LMl9QAQ1EE40bntVJXuAi) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/4HCUsZGlWSq1GrpgA9167A) | 3:37 | 2023-03-31 |  |
 | [You'll Love It](https://open.spotify.com/track/1l5VfyPMwAv8Vibd2baoD2) | [BYRNE](https://open.spotify.com/artist/06a0KPufkYNdb0mZ9CcSho) | [You'll Love It](https://open.spotify.com/album/5qNvProy0GS5CWFMnPAlef) | 2:36 | 2023-03-03 |  |
+| [Yours Truly](https://open.spotify.com/track/2rMo11rmm5j0BiBo5qCIh1) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Know Better](https://open.spotify.com/album/5SWaa7bRim9Vmf646cyttw) | 3:18 | 2023-11-10 |  |
 | [Zoom Out](https://open.spotify.com/track/0z8zXnL09l88fElGOylr2o) | [Sonia Stein](https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y) | [Zoom Out](https://open.spotify.com/album/5L8Kpu3ocdwqiy2ekv6cxy) | 3:46 | 2021-07-02 | 2022-06-07 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

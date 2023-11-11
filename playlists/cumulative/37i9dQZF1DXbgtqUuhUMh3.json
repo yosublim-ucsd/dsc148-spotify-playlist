@@ -3331,6 +3331,24 @@
     },
     {
       "album": {
+        "name": "Galbi Sadek",
+        "url": "https://open.spotify.com/album/00visEiJ6ZATan5BMWy9VK"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219907,
+      "name": "Galbi Sadek",
+      "url": "https://open.spotify.com/track/07qDaERSyVHaMMRvUblR58"
+    },
+    {
+      "album": {
         "name": "Ghalta",
         "url": "https://open.spotify.com/album/0RD988uyh03VVuMCJD1b22"
       },
@@ -8650,7 +8668,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 196638,
       "name": "\u0627\u062a\u0643\u0634\u0641\u062a \u0627\u0644\u062d\u0643\u0627\u064a\u0629",
       "url": "https://open.spotify.com/track/11BPPYdEkXxPHnWrucDY7g"

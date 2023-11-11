@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 
 > Empezó el zapateo\. ¡Take tarake take!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,436 likes - 85 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,975 likes - 85 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 | 53 | [In My Mind](https://open.spotify.com/track/7uoxJCPiqiEa3fvOQQQbyn) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In My Mind](https://open.spotify.com/album/412mL0hMStgwl1ukZjLxR8) | 2:55 |
 | 54 | [The Power](https://open.spotify.com/track/3EDbqYLrCNBP7J2CqcMPZO) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [The Power](https://open.spotify.com/album/3PxRe086DUpv2cU2OF5MMs) | 3:17 |
 | 55 | [Reunion \(Free Fire 4th Anniversary Theme Song\) \[with Alok & Zafrir\]](https://open.spotify.com/track/45qQ4VQkG5MVbFJZXOMSs6) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [ALL WE HAVE IS N:OW](https://open.spotify.com/album/7keB6Min15oq3l7AUmHDX1) | 2:38 |
-| 56 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 |
+| 56 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 |
 | 57 | [Giant \(with Rag'n'Bone Man\)](https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Giant \(with Rag'n'Bone Man\)](https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K) | 3:49 |
 | 58 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 59 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 | 72 | [Way Out \- Radio Edit](https://open.spotify.com/track/7m4hghG69Jej8ngs8LYgdX) | [Juan Cuadros](https://open.spotify.com/artist/1PvZf2BbjSJBqfiyXLZYzC), [Xotto](https://open.spotify.com/artist/6nvjCOWYBl94cnhiZqvA6I) | [Way Out](https://open.spotify.com/album/1FNVBqISJ3d5rAgu9VwSB2) | 4:00 |
 | 73 | [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv) | 4:08 |
 | 74 | [Haciéndome el Amor](https://open.spotify.com/track/0a0nRK8pQpzjHTPpEOvrwx) | [Exotic](https://open.spotify.com/artist/14ASSasIb42tG16ym4kVfh), [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw), [Harmoob](https://open.spotify.com/artist/67cn5quJBbSYgeeiUnOZts), [Jery Sandoval](https://open.spotify.com/artist/1eayUbKToItiafMJGra6pF) | [Haciéndome el Amor](https://open.spotify.com/album/0zwPHUPtqpfz4xJF8GcByl) | 4:30 |
-| 75 | [QueLoQue \(feat\. Paloma Mami\)](https://open.spotify.com/track/1089I4FLizCRim8hc6eKST) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 2:45 |
+| 75 | [QueLoQue](https://open.spotify.com/track/5jWiuNtsn9mUUEMa4bYYK3) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Que Calor](https://open.spotify.com/album/2TGVp98ZbzdhCaqBN82jss) | 2:45 |
 | 76 | [SaxoSuelta Oriente Tribe](https://open.spotify.com/track/34inPy9EJX1LijFMKdpTs3) | [Dj Esli](https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd), [Darek Sotelo](https://open.spotify.com/artist/3l7uhia33njke2sMA5qq0H) | [SaxoSuelta Oriente Tribe](https://open.spotify.com/album/2KRebCVIU8ZmpMrlSJkDCE) | 3:49 |
 | 77 | [In Your Eyes \- Mark Di Meo Remix](https://open.spotify.com/track/3c0Sz8vxzTIlbgi3SGoKnm) | [Café Negro](https://open.spotify.com/artist/7uY36mFvPu2SINaGdGFPas), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE) | [Soulful House Journey: Mark Di Meo Sampler EP](https://open.spotify.com/album/2RdCsgst3kzB1z3LEHCr39) | 7:21 |
 | 78 | [Acordeão](https://open.spotify.com/track/4P7F3kb2Ze1YleD6lUYwJo) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [Acordeão](https://open.spotify.com/album/3s0VDNOSXqUsCg1IPIvD6B) | 2:11 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 | 84 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 85 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 |
 
-Snapshot ID: `MCwxNDdhMmRhZjgyMTE3ZmY5ZTlmMTQ4ZTQxZjNhMDYzNzI1M2MwYWVl`
+Snapshot ID: `MCwwNTFiZTRhODEzY2NhNzI4OWFmNWZkYmMzYTgyN2E4MDk5MWMxNDgx`

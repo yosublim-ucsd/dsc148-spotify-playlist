@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Pillow Queens
 
-1,873 songs - 4 day 15 hr 19 min
+1,874 songs - 4 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1760,7 +1760,8 @@
 | [Valentine](https://open.spotify.com/track/52FedMzfIqnAAxp9wj5HXs) | [88/89](https://open.spotify.com/artist/6B1sHGeScDhyK9DEuiokj1) | [Valentine](https://open.spotify.com/album/0Ab3x0o3QprWJ8r6X4y6Lo) | 3:35 | 2021-02-12 | 2021-04-02 |
 | [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 | 2023-08-10 | 2023-09-22 |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-07-20 | 2023-09-15 |
-| [Vancouver](https://open.spotify.com/track/4UCXZf2RLJgJnUDlJ2S4IN) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Vancouver](https://open.spotify.com/album/67heKW3LlK7Cj4sk0r3EUB) | 3:59 | 2023-11-10 |  |
+| [Vancouver](https://open.spotify.com/track/4463ec35uldCuPMDOpDQDO) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Vancouver](https://open.spotify.com/album/2YdgAiJlhXRzSQ46tneSjH) | 3:59 | 2023-11-10 |  |
+| [Vancouver](https://open.spotify.com/track/4UCXZf2RLJgJnUDlJ2S4IN) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Vancouver](https://open.spotify.com/album/67heKW3LlK7Cj4sk0r3EUB) | 3:59 | 2023-11-10 | 2023-11-11 |
 | [Vanilla & Light](https://open.spotify.com/track/1AUXx9zBdGPoCOKOrYKgRG) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Vanilla & Light](https://open.spotify.com/album/1TPjSZINRAeXVmpSBMtHAL) | 3:23 | 2021-07-09 | 2021-09-10 |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-01-28 | 2022-03-11 |
 | [Vexed](https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Vexed](https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63) | 2:21 | 2022-09-15 | 2022-10-28 |

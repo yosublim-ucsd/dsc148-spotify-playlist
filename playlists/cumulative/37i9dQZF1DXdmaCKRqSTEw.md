@@ -4,7 +4,7 @@
 
 > The official playlist for Inventing Anna\. Watch on Netflix.
 
-24 songs - 1 hr 3 min
+25 songs - 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [UNSTATUS QUO](https://open.spotify.com/track/5JrGf6LaoUgx94PamvZ4eI) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [UNSTATUS QUO](https://open.spotify.com/album/6TLLBBll0rVoCjHxnGiybO) | 2:57 | 2022-03-18 |  |
 | [Vivian Connects The Dots](https://open.spotify.com/track/2RtkEH2NxXMBkRWG5yjhZ0) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Pierre Charles](https://open.spotify.com/artist/6GEwcVy8uYmMizh1nJl5B5) | [Inventing Anna \(Music From The Netflix Series\)](https://open.spotify.com/album/1xBVcdm8o7j8sjMTk2sAgM) | 1:38 | 2022-03-18 |  |
 | [Vivian Connects The Dots](https://open.spotify.com/track/4gnvkgziSWeOajYAQfg1jT) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Pierre Charles](https://open.spotify.com/artist/6GEwcVy8uYmMizh1nJl5B5) | [Inventing Anna \(Music From The Netflix Series\)](https://open.spotify.com/album/4ryUHVYdq9dJXyr1Doc1lD) | 1:38 | 2022-03-18 | 2022-11-17 |
-| [WOW \(Look At Me\)](https://open.spotify.com/track/1zwyg3yZlh4zYk4i5oJAN5) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [WOW \(Look At Me\)](https://open.spotify.com/album/1SlAViaRrfVaDRsSvjoe0f) | 2:26 | 2022-03-18 |  |
+| [WOW \(Look At Me\)](https://open.spotify.com/track/1zwyg3yZlh4zYk4i5oJAN5) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [WOW \(Look At Me\)](https://open.spotify.com/album/1SlAViaRrfVaDRsSvjoe0f) | 2:26 | 2022-03-18 | 2023-11-11 |
+| [WOW \(Look At Me\)](https://open.spotify.com/track/4T2d8yPpynGJS0RShao1rQ) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [WOW \(Look At Me\)](https://open.spotify.com/album/4QH2au2VIzU4CSvxvyznTb) | 2:26 | 2022-03-18 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

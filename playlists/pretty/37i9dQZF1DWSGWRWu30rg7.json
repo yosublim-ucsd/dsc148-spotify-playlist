@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Tisya Liotta",
-  "num_followers": 63638,
+  "num_followers": 63631,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjQ5ODMyM2ExZTE2YjkyZWExMDkzNzgxYThhNjhiYjMzYzgzN2Ji",
+  "snapshot_id": "MCw4ZGY1ZmRmNWUyMmY4NzI1ZGNhN2YyNzkxZDI0ZDdjMTljZTcxZjNl",
   "tracks": [
     {
       "added_at": "2023-11-09 23:23:18",
@@ -211,6 +211,22 @@
       "duration_ms": 164305,
       "name": "PICKUPTHEPHONE - Sped Up",
       "url": "https://open.spotify.com/track/6VwtG9TicPLdBYA3TT5a9t"
+    },
+    {
+      "added_at": "2023-11-09 23:23:18",
+      "album": {
+        "name": "Surrealist Party",
+        "url": "https://open.spotify.com/album/0rHbZy22wcnkPReQpP7oRR"
+      },
+      "artists": [
+        {
+          "name": "TERUNA",
+          "url": "https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL"
+        }
+      ],
+      "duration_ms": 232155,
+      "name": "Surrealist Party",
+      "url": "https://open.spotify.com/track/0tdui8xJgXTo0b6NW8Y7IK"
     },
     {
       "added_at": "2023-11-09 23:23:18",
@@ -987,7 +1003,7 @@
     {
       "added_at": "2023-11-09 23:23:18",
       "album": {
-        "name": "Mitos Atau Fakta",
+        "name": "Mitos Atau Fakta?",
         "url": "https://open.spotify.com/album/73BfsJ2DeVIYoxKVVuUztS"
       },
       "artists": [
@@ -997,7 +1013,7 @@
         }
       ],
       "duration_ms": 209000,
-      "name": "Mitos Atau Fakta",
+      "name": "Mitos Atau Fakta?",
       "url": "https://open.spotify.com/track/1aF9NzQZDNLKTUAfkx6lJW"
     },
     {

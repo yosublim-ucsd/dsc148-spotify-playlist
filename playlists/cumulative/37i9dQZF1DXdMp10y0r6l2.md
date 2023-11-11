@@ -4,7 +4,7 @@
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Brujería en portada.
 
-78 songs - 5 hr 15 min
+79 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [False Democracy](https://open.spotify.com/track/28hXLPYRU5s4G5s7nhL6zF) | [Chemicide](https://open.spotify.com/artist/4ax8Q2ingc59UDymaYLqFn) | [Common Sense](https://open.spotify.com/album/7kyjqxu2jx5Up2HwUoScFp) | 3:31 | 2023-09-22 |  |
 | [Fear](https://open.spotify.com/track/2aCfgVWQZYJJdzrlF2um1p) | [Introtyl](https://open.spotify.com/artist/6Im0py5F0Y2RMJTQ6MlX6A) | [Adfectus](https://open.spotify.com/album/3Bj1bfNMhOKMPVaj0kWd2B) | 3:23 | 2023-09-22 |  |
 | [Fuego](https://open.spotify.com/track/34KdEEbN9SJ7PtpprhWsTB) | [Bones of Minerva](https://open.spotify.com/artist/43EJ0fWSA2sQ5U3twJaZBZ) | [Embers](https://open.spotify.com/album/6vXIUx3svkyAY7TrtMGGrN) | 5:01 | 2023-09-22 |  |
-| [God Save the Queen](https://open.spotify.com/track/5XJ2RmECiBQMSe5sF4BROR) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Enter Sandman EP](https://open.spotify.com/album/66s72H4sebolFClzRV107Z) | 3:19 | 2023-09-22 |  |
+| [God Save the Queen](https://open.spotify.com/track/54rOZwtkBGbeFNypERDHZt) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Are Motörhead](https://open.spotify.com/album/5qa57QOyTJ8EeZmOEno8Rn) | 3:19 | 2023-10-23 |  |
+| [God Save the Queen](https://open.spotify.com/track/5XJ2RmECiBQMSe5sF4BROR) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Enter Sandman EP](https://open.spotify.com/album/66s72H4sebolFClzRV107Z) | 3:19 | 2023-09-22 | 2023-11-11 |
 | [Hartasco](https://open.spotify.com/track/3qrLhMYDUjKikG7dRLTjkJ) | [Dios Perro](https://open.spotify.com/artist/4oaVPFcvx8766bpdoVBnJH) | [Reza, Calla Y Obedece](https://open.spotify.com/album/0F7XEiH2yhXFCdbNhSCbUB) | 3:16 | 2023-09-22 |  |
 | [Hollow Darkness](https://open.spotify.com/track/0VL2HAAqvn49cEjuaWZ7aw) | [Death Scythe](https://open.spotify.com/artist/7y1oEEYoomm5tWmMRPbXmn) | [Killing For Pleasure Forever](https://open.spotify.com/album/4hmuNlSu0LVjViNzd8td1U) | 4:12 | 2023-09-22 |  |
 | [In The Name of Destruction](https://open.spotify.com/track/11wfikfGYXLnyz9GJXKXKg) | [Agora](https://open.spotify.com/artist/6rYc6WImdfhd7wtSFp1jb3) | [Empire](https://open.spotify.com/album/5UngsniVflqkNLRfxlZLop) | 4:54 | 2023-09-22 |  |

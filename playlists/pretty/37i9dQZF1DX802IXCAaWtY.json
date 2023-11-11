@@ -1,12 +1,12 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1099580,
+  "num_followers": 1100667,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjliMThiY2NiNjQ4Y2NkNDM1NWQ1N2QzOTcwZTkxY2UwYTNkN2Y2",
+  "snapshot_id": "MCwxNTUwOTI4NDdlODI2YWI2MzVmOTM5ZDY2NTkwMjJmMjQwMzIxMmRm",
   "tracks": [
     {
       "added_at": "2023-07-14 10:06:53",
@@ -38,6 +38,10 @@
         {
           "name": "Molella",
           "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
+        },
+        {
+          "name": "Phil Jay",
+          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
         }
       ],
       "duration_ms": 213394,
@@ -387,6 +391,22 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
+        "name": "My Promise",
+        "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
+      },
+      "artists": [
+        {
+          "name": "No Mercy",
+          "url": "https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3"
+        }
+      ],
+      "duration_ms": 272093,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
         "name": "Push The Feeling On",
         "url": "https://open.spotify.com/album/5JVyNX3e2hGoOttoe7B8QL"
       },
@@ -403,22 +423,6 @@
       "duration_ms": 243160,
       "name": "Push The Feeling On - Mk Dub Revisited Edit",
       "url": "https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "My Promise",
-        "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
-      },
-      "artists": [
-        {
-          "name": "No Mercy",
-          "url": "https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "Where Do You Go",
-      "url": "https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -599,6 +603,22 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -619,22 +639,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "The Summer Is Magic (Radio Mix)",
-        "url": "https://open.spotify.com/album/5VE3kQMUhC8dqhBziRsQ28"
-      },
-      "artists": [
-        {
-          "name": "Playahitty",
-          "url": "https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "The Summer Is Magic (Radio Mix)",
-      "url": "https://open.spotify.com/track/6bXFXDYcwHiuvW1IDayCPA"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "L'Amour Toujour",
         "url": "https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP"
       },
@@ -651,18 +655,18 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
+        "name": "The Summer Is Magic (Radio Mix)",
+        "url": "https://open.spotify.com/album/5VE3kQMUhC8dqhBziRsQ28"
       },
       "artists": [
         {
-          "name": "Dr. Alban",
-          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+          "name": "Playahitty",
+          "url": "https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz"
         }
       ],
-      "duration_ms": 239933,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
+      "duration_ms": 236666,
+      "name": "The Summer Is Magic (Radio Mix)",
+      "url": "https://open.spotify.com/track/6bXFXDYcwHiuvW1IDayCPA"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -715,6 +719,22 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Sing Hallelujah!",
+      "url": "https://open.spotify.com/track/2qjDNbgLzfBpCvDwfw11Qg"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
         "name": "Who Needs Guitars Anyway?",
         "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
       },
@@ -759,22 +779,6 @@
       "duration_ms": 247001,
       "name": "Everybody Everybody",
       "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
-      },
-      "artists": [
-        {
-          "name": "Dr. Alban",
-          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Sing Hallelujah!",
-      "url": "https://open.spotify.com/track/2qjDNbgLzfBpCvDwfw11Qg"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -883,22 +887,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Who Needs Guitars Anyway?",
-        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
-      },
-      "artists": [
-        {
-          "name": "Alice Deejay",
-          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
-        }
-      ],
-      "duration_ms": 194072,
-      "name": "Will I Ever",
-      "url": "https://open.spotify.com/track/7FpkmUt2H3Mf9TVEGHkUpk"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
       },
@@ -911,6 +899,22 @@
       "duration_ms": 351026,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "duration_ms": 194072,
+      "name": "Will I Ever",
+      "url": "https://open.spotify.com/track/7FpkmUt2H3Mf9TVEGHkUpk"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -995,6 +999,30 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
+        "name": "Move It!",
+        "url": "https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff"
+      },
+      "artists": [
+        {
+          "name": "Reel 2 Real",
+          "url": "https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta"
+        },
+        {
+          "name": "The Mad Stuntman",
+          "url": "https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5"
+        },
+        {
+          "name": "Erick Morillo",
+          "url": "https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
+      "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU"
       },
@@ -1047,30 +1075,6 @@
       "duration_ms": 364400,
       "name": "Right in the Night (Fall in Love with Music)",
       "url": "https://open.spotify.com/track/6x6G0shZs4Qg4YLfLbhR7z"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "Move It!",
-        "url": "https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff"
-      },
-      "artists": [
-        {
-          "name": "Reel 2 Real",
-          "url": "https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta"
-        },
-        {
-          "name": "The Mad Stuntman",
-          "url": "https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5"
-        },
-        {
-          "name": "Erick Morillo",
-          "url": "https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
-      "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -1171,18 +1175,18 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Ten Top10 90s Hits",
-        "url": "https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz"
+        "name": "Rhythm Is a Dancer 2008",
+        "url": "https://open.spotify.com/album/3q1JrnU58iasGeb0etrpK7"
       },
       "artists": [
         {
-          "name": "DJ Quicksilver",
-          "url": "https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew"
+          "name": "SNAP!",
+          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
         }
       ],
-      "duration_ms": 194560,
-      "name": "Bellissima - Radio Edit",
-      "url": "https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC"
+      "duration_ms": 316138,
+      "name": "Rhythm Is a Dancer (12'' Version)",
+      "url": "https://open.spotify.com/track/55vAraLCIsYMnakMHUUgvB"
     }
   ],
   "unique_name": "90s Dance Party",

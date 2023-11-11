@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 621530,
+  "num_followers": 621517,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2UwYTFkNTkzZTA1NzY2ZjNlOTY2MGYyMjQyMWRlYTYxYzNkNDhk",
+  "snapshot_id": "MCxjYjg2ZTYxM2YzZWRlYTgwNjdjNGFhZmExMmJjZmUzY2U3YTc4NDg0",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Lazy Day (feat. Danny Ocean)",
+        "url": "https://open.spotify.com/album/5XbAwDgRBXdoLtM1uuK0BS"
+      },
+      "artists": [
+        {
+          "name": "Fuse ODG",
+          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205851,
+      "name": "Lazy Day (feat. Danny Ocean)",
+      "url": "https://open.spotify.com/track/1dA9GzuP546CjJT0n9tZoe"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Waiting For Tomorrow (feat. Mike Shinoda)",
         "url": "https://open.spotify.com/album/3gyPAMRvvAXjphXv0xjJ0X"
       },
@@ -1603,26 +1623,6 @@
       "duration_ms": 247504,
       "name": "Waiting For Tomorrow (feat. Mike Shinoda)",
       "url": "https://open.spotify.com/track/5Gi8lLH3edcexP99srU1Nl"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Lazy Day (feat. Danny Ocean)",
-        "url": "https://open.spotify.com/album/5XbAwDgRBXdoLtM1uuK0BS"
-      },
-      "artists": [
-        {
-          "name": "Fuse ODG",
-          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205851,
-      "name": "Lazy Day (feat. Danny Ocean)",
-      "url": "https://open.spotify.com/track/1dA9GzuP546CjJT0n9tZoe"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Para",
-        "url": "https://open.spotify.com/album/3EaB8p7k7eVnFrbfqWOFyN"
-      },
-      "artists": [
-        {
-          "name": "Gianluca Vacchi",
-          "url": "https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ"
-        },
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Para",
-      "url": "https://open.spotify.com/track/2VsMPBlyoaMMPyeT90DNBL"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Make It Hot",
         "url": "https://open.spotify.com/album/7l9LzzyPayF2hvDuznaofC"
       },
@@ -1971,6 +1951,26 @@
       "duration_ms": 168397,
       "name": "Make It Hot",
       "url": "https://open.spotify.com/track/3MXUsff3RxRds9KCVttibq"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Para",
+        "url": "https://open.spotify.com/album/3EaB8p7k7eVnFrbfqWOFyN"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Vacchi",
+          "url": "https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/2VsMPBlyoaMMPyeT90DNBL"
     },
     {
       "added_at": "2023-02-17 03:00:00",

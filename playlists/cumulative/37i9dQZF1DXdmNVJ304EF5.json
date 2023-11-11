@@ -326,7 +326,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 199226,
       "name": "Give Me What I Want",
       "url": "https://open.spotify.com/track/2fbFuqMaEBFMNX0pzoGW2K"
@@ -348,6 +348,24 @@
       "duration_ms": 199226,
       "name": "Give Me What I Want",
       "url": "https://open.spotify.com/track/76RjI93JiNnMWvqVjAyjWV"
+    },
+    {
+      "album": {
+        "name": "Smart Casual (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3xoPyvkbMVntmNyACCf3ch"
+      },
+      "artists": [
+        {
+          "name": "Kids In Glass Houses",
+          "url": "https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197877,
+      "name": "Give Me What I Want - 2023 Remaster",
+      "url": "https://open.spotify.com/track/6bYEWtaVA8YeVKoTaebZhx"
     },
     {
       "album": {

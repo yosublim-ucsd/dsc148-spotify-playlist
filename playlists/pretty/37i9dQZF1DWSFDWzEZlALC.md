@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Edwin Rosen
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,560 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,301 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 16 | [Mann vom Fach](https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [Mann vom Fach](https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF) | 2:40 |
 | 17 | [Schlaf gut](https://open.spotify.com/track/1gUDyPpx99jRTVgSvrWEjl) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Schlaf gut](https://open.spotify.com/album/1Swdd6ktgwOrIYVCk3v4m7) | 3:21 |
 | 18 | [tisch für zwei](https://open.spotify.com/track/3YcKmJbc2OvL9RN2c6LJal) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [tisch für zwei](https://open.spotify.com/album/5iBIHBdTsKFtxsxZYNRaQg) | 2:54 |
-| 19 | [Fenster auf Kipp](https://open.spotify.com/track/0cfBIQ89cy4gbtSFBAbF9T) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA), [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Fenster auf Kipp](https://open.spotify.com/album/02gkjAxSAlQkCFr7cs62PJ) | 2:39 |
+| 19 | [Fenster auf Kipp](https://open.spotify.com/track/06JHBPAAEf3wJmTVAFLxAS) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA), [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Wir tun uns so gut weh](https://open.spotify.com/album/45rmX0DDIU3FKDeM74HJLE) | 2:39 |
 | 20 | [BLa\*\_\*](https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [BLa\*\_\*](https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK) | 2:27 |
 | 21 | [Seifenblase](https://open.spotify.com/track/2YKPy9smBSO3g01qXWoCNK) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr), [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Seifenblase](https://open.spotify.com/album/452pLNzYYdjvWsVlIc0i08) | 3:21 |
 | 22 | [Mensch](https://open.spotify.com/track/1lBMr23YxosiMyKhVeRIJB) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also bin ich](https://open.spotify.com/album/0HICsKReOoeoblyeiLClEd) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Kein Bock](https://open.spotify.com/track/3WjaL0f86f9rS3VYTC8x49) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Kein Bock](https://open.spotify.com/album/343ldWBHF7KtOJgDg4JnEc) | 2:44 |
 | 75 | [Wie lang](https://open.spotify.com/track/5jMbm8FdjIu3dmBEm19IJv) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wie lang](https://open.spotify.com/album/3QLqXwmTBLdIEYPhMzxmvo) | 2:29 |
 
-Snapshot ID: `MCxhYWNlOTNkOWJiYjAxOWY1NTM0ODZjNDY3YzQ1N2NjM2JkM2FhYWJh`
+Snapshot ID: `MCw5NjQwNGFmMDUzMGE5MzE4NGQxOTA5YjcxNmU1NDQzMWZlNjA5Mjhi`

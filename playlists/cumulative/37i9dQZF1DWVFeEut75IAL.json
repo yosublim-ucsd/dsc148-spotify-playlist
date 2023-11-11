@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Frost (Grand Piano)",
+        "url": "https://open.spotify.com/album/702kAUuqngJts2uwA3VvWX"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107906,
+      "name": "Frost - Grand Piano",
+      "url": "https://open.spotify.com/track/2yin84KZ18N91DMrUj10Rz"
+    },
+    {
+      "album": {
         "name": "Tchaikovsky: Piano Concerto No. 1",
         "url": "https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk"
       },
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 216284,
       "name": "Fr\u00fchlingsglaube (Arr. Franz Liszt)",
       "url": "https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L"
@@ -2308,7 +2326,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 129360,
       "name": "Suite d'orchestre dans le style ancien, Op. 2: II. Sarabande. Mesto",
       "url": "https://open.spotify.com/track/3C8Xxgad3ejXfJ0RiJq9G1"
@@ -2626,7 +2644,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 212040,
       "name": "\u4e39\u5c3c\u7537\u5b69",
       "url": "https://open.spotify.com/track/21Fs9UuXGoESVVESdWTxZ5"

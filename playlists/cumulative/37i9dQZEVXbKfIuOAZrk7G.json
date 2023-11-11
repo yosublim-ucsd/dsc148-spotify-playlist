@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "24 songs",
+        "url": "https://open.spotify.com/album/1lXCI05CgLuRTxN8E93hZL"
+      },
+      "artists": [
+        {
+          "name": "Shooter Akrami",
+          "url": "https://open.spotify.com/artist/0YG0hJrt9V9qhvYKTiFZrE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "24 Songs",
+      "url": "https://open.spotify.com/track/2nqy2NyysOPp8yKSD2bNDx"
+    },
+    {
+      "album": {
         "name": "28 Reasons - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw"
       },
@@ -23196,7 +23214,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 194400,
       "name": "my friend's toyota",
       "url": "https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf"

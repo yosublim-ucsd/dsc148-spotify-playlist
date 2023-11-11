@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "A Little More Lost",
+        "url": "https://open.spotify.com/album/4mAllDoY6J7ks6Gks3Vozw"
+      },
+      "artists": [
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162164,
+      "name": "A Little More Lost",
+      "url": "https://open.spotify.com/track/2Y9p7cLtnsUjL43uM5C0UG"
+    },
+    {
+      "album": {
         "name": "about you",
         "url": "https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe"
       },
@@ -3293,6 +3311,28 @@
     },
     {
       "album": {
+        "name": "I'm My Only Friend",
+        "url": "https://open.spotify.com/album/00Z6vze8Xtk9rGTRTBrpXz"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192016,
+      "name": "I'm My Only Friend (feat. Arden Jones)",
+      "url": "https://open.spotify.com/track/7gOxYYw4HKBa89vAAagh9q"
+    },
+    {
+      "album": {
         "name": "i...",
         "url": "https://open.spotify.com/album/7wVN5ydlkQju7GkA3OSv85"
       },
@@ -5742,6 +5782,24 @@
       "duration_ms": 246190,
       "name": "Super Human",
       "url": "https://open.spotify.com/track/1ZMUZYIlsTnQbOrgbpgalr"
+    },
+    {
+      "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/1UnWKwF6vpxiBxa8ZBslTs"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/2vm52EstTRxGsvQ44gEFRL"
     },
     {
       "album": {

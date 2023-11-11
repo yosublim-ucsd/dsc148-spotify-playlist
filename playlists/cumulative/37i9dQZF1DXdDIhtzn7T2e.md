@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-84 songs - 5 hr 5 min
+87 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [High Feeling](https://open.spotify.com/track/5DgME3ZeZB78H4vJdX8Esd) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [Destiny Hotel](https://open.spotify.com/album/5GkRuglfNZXJBzEBOwGQGU) | 2:57 | 2022-09-23 |  |
 | [High Note](https://open.spotify.com/track/6kzRcQ73LtwfTMwHm1vJT7) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [High Note](https://open.spotify.com/album/1iwbuKHLtUyZj27h3LfOgy) | 5:33 | 2022-11-18 |  |
 | [High Time](https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 2:57 | 2021-04-20 |  |
-| [High Time](https://open.spotify.com/track/2k3XVSB5S7teKwdOCZ6E99) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 5:48 | 2021-04-20 |  |
+| [High Time](https://open.spotify.com/track/2k3XVSB5S7teKwdOCZ6E99) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 5:48 | 2021-04-20 | 2023-11-11 |
+| [High Time](https://open.spotify.com/track/3Q0sFo2GJdSp3K4E1N7WEc) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/0JNnoUpkLCLzdI9pIfWfQi) | 5:48 | 2023-04-20 |  |
 | [High, Drunk, and Heartbroke](https://open.spotify.com/track/4p9D4xmZekyDDQdj7E7t1W) | [Chase Bryant](https://open.spotify.com/artist/7io3MyhMxDZoBYXp4rlRFA) | [High, Drunk, and Heartbroke](https://open.spotify.com/album/4LABJGkJKQVOP1zR6MnZRE) | 6:17 | 2021-04-20 |  |
 | [Holy Roller](https://open.spotify.com/track/3D1xwgtx3n5K9FUqGCBsKq) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Holy Roller](https://open.spotify.com/album/4IxTz2QTl1CJqobASo2O3J) | 3:22 | 2022-12-02 | 2023-08-21 |
 | [Horses & Weed](https://open.spotify.com/track/08sNpSbnzaPv0dpQvm8sgv) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Horses & Weed](https://open.spotify.com/album/5rnzFUqTog7uCgBJxudv30) | 3:58 | 2022-09-23 | 2023-06-01 |
@@ -47,13 +48,14 @@
 | [Illegal Smile](https://open.spotify.com/track/1h0R5cstHZ070tevUAfEo7) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 3:13 | 2021-04-20 |  |
 | [It's All Going to Pot](https://open.spotify.com/track/1efJ9Kx8Gx5DEAcx2btuRA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Django and Jimmie](https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG) | 2:56 | 2021-04-20 |  |
 | [Jimmy Buffett](https://open.spotify.com/track/4ruDnMiMxH6VMKUqN77wsX) | [Taylor Goyette](https://open.spotify.com/artist/5CSfpRPGc1XEGd5twIRQTb) | [Jimmy Buffett](https://open.spotify.com/album/79XTfxtK21FyUaKqdAbu32) | 2:30 | 2021-11-26 |  |
-| [Just Breathe](https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 4:02 | 2021-04-20 |  |
+| [Just Breathe \(feat\. Lukas Nelson\)](https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 4:02 | 2021-04-20 |  |
 | [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 | 2023-03-03 |  |
 | [Mary Wanna](https://open.spotify.com/track/4WmvcM6v7pfQ4dauJDjya2) | [Jason Nix](https://open.spotify.com/artist/168GW0NjbTxHxlDnY4B798) | [Mary Wanna](https://open.spotify.com/album/4qUwU9k2NjD5rzwpbUo6x0) | 2:56 | 2022-07-29 |  |
 | [Might As Well Get Stoned](https://open.spotify.com/track/0DBYW9lHjTTz55gIt63IB9) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:37 | 2021-04-20 |  |
 | [My Medicine](https://open.spotify.com/track/5BL4FPMaF1vmw65OV7yPnE) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Ego Trippin'](https://open.spotify.com/album/7HnpPsuzBgpkbZJm0GOMgC) | 2:39 | 2021-04-20 | 2022-07-29 |
 | [My Medicine](https://open.spotify.com/track/5jeXDGMNkY8G2bPsHLaNnm) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Ego Trippin'](https://open.spotify.com/album/5EtVXHkqYV1ebAoYNDFmmY) | 2:39 | 2022-04-20 | 2023-08-21 |
-| [No Stone Unturned](https://open.spotify.com/track/6iFZZn1BcsHzSP13598ujN) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 4:21 | 2021-04-20 |  |
+| [No Stone Unturned](https://open.spotify.com/track/6ePOIK1QboDEYxhR0ZccTG) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/0JNnoUpkLCLzdI9pIfWfQi) | 4:21 | 2023-04-20 |  |
+| [No Stone Unturned](https://open.spotify.com/track/6iFZZn1BcsHzSP13598ujN) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 4:21 | 2021-04-20 | 2023-11-11 |
 | [One Toke Over the Line](https://open.spotify.com/track/5NU6nNizcd38J1xJi1tGXE) | [Brewer & Shipley](https://open.spotify.com/artist/4bx9rfUR9C0H26TEiVCwdi) | [Tarkio Road](https://open.spotify.com/album/5lHnXRX9sgB9aGo6r3lcdG) | 3:19 | 2021-04-20 |  |
 | [Our Grass Is Legal](https://open.spotify.com/track/5WREsIXrQ8pleixunsClED) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc) | 4:12 | 2022-04-20 |  |
 | [Paid My Dues \(feat\. Jack Ingram\)](https://open.spotify.com/track/6zEdC244iXLmU9JfQzidAU) | [Bruce Robison](https://open.spotify.com/artist/5cqtplMyw7hPLjW47Jr7Uq), [Jack Ingram](https://open.spotify.com/artist/6VQGYwqcmPDtqfVTSDqBgp) | [Bruce Robison & the Back Porch Band](https://open.spotify.com/album/63OvteRfdrITCzn2km5Yln) | 3:22 | 2021-11-26 | 2023-08-21 |
@@ -88,7 +90,8 @@
 | [What Would Willie Do](https://open.spotify.com/track/4XFgL5ZwyukjJTYefA6mx9) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Alright Guy](https://open.spotify.com/album/5iSl36Rh0MEyDb1qVjltYP) | 5:28 | 2021-04-20 |  |
 | [When I'm Stoned](https://open.spotify.com/track/32xpxaQUNHLvVn887yhnNK) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Somewhere in the Middle](https://open.spotify.com/album/3eZP4gJUgSQVwoJMi4S2Xb) | 3:21 | 2021-04-20 |  |
 | [Whitehouse Road](https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 4:40 | 2021-04-20 |  |
-| [Whole Lotta Quit](https://open.spotify.com/track/0b9dqp1bH9hrA0bnmKMWb0) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 4:25 | 2021-04-20 |  |
+| [Whole Lotta Quit](https://open.spotify.com/track/0CzgJ9uo0qgIEFLYYwinTZ) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/0JNnoUpkLCLzdI9pIfWfQi) | 4:25 | 2023-04-20 |  |
+| [Whole Lotta Quit](https://open.spotify.com/track/0b9dqp1bH9hrA0bnmKMWb0) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 4:25 | 2021-04-20 | 2023-11-11 |
 | [Wildwood Weed](https://open.spotify.com/track/2XqB7lzRMX6EFWY8HD4nZl) | [Jim Stafford](https://open.spotify.com/artist/0CIdEoAG4j0tnC6IZsDr0q) | [Jim Stafford](https://open.spotify.com/album/0alqFqh24fltTafZT1r5OJ) | 2:40 | 2021-11-26 | 2023-08-21 |
 | [Willin'](https://open.spotify.com/track/0jMyU6bO52IYhAEoWbT4K9) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Sailin' Shoes](https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt) | 2:54 | 2021-04-20 | 2023-03-04 |
 | [Worry B Gone](https://open.spotify.com/track/4dl52Y5P5jYbD6M8TsVTVK) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Workbench Songs](https://open.spotify.com/album/4aULeiRDpqIxV3sP9jwqO5) | 3:14 | 2021-04-20 |  |

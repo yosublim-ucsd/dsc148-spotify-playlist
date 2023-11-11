@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and new UK Funky. Cover: Roska",
-  "num_followers": 101997,
+  "num_followers": 102010,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDZlYTBiMGY3NjU5NGEzZWVkMTY1MmNiYzdkOTZkNTMwMGY0YTQ0",
+  "snapshot_id": "MCxjOWVhYzlmODNmODU2YWYxZWRiZGY5YWNlMjNjZDc2NDNmZjAwODlm",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:02",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Township Funk",
-        "url": "https://open.spotify.com/album/4gC4cguZXOXejKR4ANCovR"
+        "name": "Street Nation",
+        "url": "https://open.spotify.com/album/04geSaCj6lElctYUC0gFTd"
       },
       "artists": [
         {
-          "name": "Dj Mujava",
-          "url": "https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu"
+          "name": "Funky Dee",
+          "url": "https://open.spotify.com/artist/4hzlCYExpUNcY6r0jFG3Pv"
         }
       ],
-      "duration_ms": 349480,
-      "name": "Township Funk",
-      "url": "https://open.spotify.com/track/0EN8KF256ZGQOctxVVwA20"
+      "duration_ms": 163933,
+      "name": "Are You Gunna Bang Doe?",
+      "url": "https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -471,18 +471,18 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Street Nation",
-        "url": "https://open.spotify.com/album/04geSaCj6lElctYUC0gFTd"
+        "name": "Township Funk",
+        "url": "https://open.spotify.com/album/4gC4cguZXOXejKR4ANCovR"
       },
       "artists": [
         {
-          "name": "Funky Dee",
-          "url": "https://open.spotify.com/artist/4hzlCYExpUNcY6r0jFG3Pv"
+          "name": "Dj Mujava",
+          "url": "https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu"
         }
       ],
-      "duration_ms": 163933,
-      "name": "Are You Gunna Bang Doe?",
-      "url": "https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW"
+      "duration_ms": 349480,
+      "name": "Township Funk",
+      "url": "https://open.spotify.com/track/0EN8KF256ZGQOctxVVwA20"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
+        "name": "Red Devil",
+        "url": "https://open.spotify.com/album/6up4KMMrMWCoNq6qqMFMeK"
+      },
+      "artists": [
+        {
+          "name": "DJ Motu",
+          "url": "https://open.spotify.com/artist/3kiWfO5TtNkHE3cshrJNdx"
+        }
+      ],
+      "duration_ms": 252633,
+      "name": "Red Devil",
+      "url": "https://open.spotify.com/track/0uEprpXfrUkQoa9pPK7G0F"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
         "name": "Gallium",
         "url": "https://open.spotify.com/album/4sq8Tr818HVyApngtRX6nP"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 232504,
       "name": "Condo (feat. T-Pain) - Roska Remix",
       "url": "https://open.spotify.com/track/2Sr9fbiNrVxIWav7F3Z1qP"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
-        "name": "I'm Fly",
-        "url": "https://open.spotify.com/album/3xwYsxgBdRhr4sJ1H0XDuf"
-      },
-      "artists": [
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        }
-      ],
-      "duration_ms": 248752,
-      "name": "I'm Fly - DJ Version",
-      "url": "https://open.spotify.com/track/0e5jqZDWMqo5u13SQ0WmXQ"
     }
   ],
   "unique_name": "UK Funky",

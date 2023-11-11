@@ -1588,6 +1588,36 @@
     {
       "album": {
         "name": "A Tribute To The Judds",
+        "url": "https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Jennifer Nettles",
+          "url": "https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp"
+        },
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184675,
+      "name": "Girls Night Out",
+      "url": "https://open.spotify.com/track/3EoGwCrxAQ8V0jGgsrHBvq"
+    },
+    {
+      "album": {
+        "name": "A Tribute To The Judds",
         "url": "https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy"
       },
       "artists": [
@@ -1610,7 +1640,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 184675,
       "name": "Girls Night Out",
       "url": "https://open.spotify.com/track/7zvN3oGpyQIeLyjEI5DS3S"

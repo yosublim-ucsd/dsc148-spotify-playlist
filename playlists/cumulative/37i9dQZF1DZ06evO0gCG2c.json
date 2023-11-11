@@ -72,7 +72,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 215226,
       "name": "Angel",
       "url": "https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 214693,
       "name": "Com\u00e9ntale",
       "url": "https://open.spotify.com/track/7oCGD6Ccuw8JmYWw6IrI8z"
@@ -640,6 +640,28 @@
       "duration_ms": 199680,
       "name": "Fair To You",
       "url": "https://open.spotify.com/track/4asiXFMoANXo6RWb8elStT"
+    },
+    {
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/38H4x7UIrFplrNLMbauOTX"
+      },
+      "artists": [
+        {
+          "name": "AMIRROR",
+          "url": "https://open.spotify.com/artist/1A5W3vIrct237pEN1UfFqD"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/6hEmaiW6JJFfpbl9xivcmn"
     },
     {
       "album": {
@@ -1258,7 +1280,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 157168,
       "name": "Loco",
       "url": "https://open.spotify.com/track/1hlsiFaPUGNDXcKfTYf0Ol"
@@ -1566,7 +1588,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 165927,
       "name": "Prolly Cut - Amapiano",
       "url": "https://open.spotify.com/track/1pkRMZMqQODbXDJmyZNbeT"
@@ -1784,7 +1806,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 189390,
       "name": "Shine Your Light (feat. Akon)",
       "url": "https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv"
@@ -1846,7 +1868,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 169911,
       "name": "Slow Motion - Remix",
       "url": "https://open.spotify.com/track/4zqwDTsmKL0joINbJDVym2"
@@ -1934,7 +1956,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 202406,
       "name": "So Rough",
       "url": "https://open.spotify.com/track/3SjxnBy7kUL8HT6Rle4bwq"
@@ -2220,7 +2242,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 187120,
       "name": "What's Love (feat. Akon)",
       "url": "https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW"

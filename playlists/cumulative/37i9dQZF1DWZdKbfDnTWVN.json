@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=pdat4ZEbS9GP1JuDOOI_TQ\"> Wakadinali </a>",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba?si=bfIFagW4Sa2U9SlRDel5uw\"> Blinky Bill</a>",
   "name": "254 Flow",
   "tracks": [
     {
@@ -620,7 +620,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 183778,
       "name": "Counter",
       "url": "https://open.spotify.com/track/6mUnSO6JfaXs7mJhrE1LEL"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 147748,
       "name": "Dara Polisi",
       "url": "https://open.spotify.com/track/1ZAyFHQMK7eFhgNxGOSpgu"
@@ -774,6 +774,42 @@
       "duration_ms": 191830,
       "name": "Doing It Major",
       "url": "https://open.spotify.com/track/5SWH1zFKXIwNL50sStm7Ei"
+    },
+    {
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/6xy2Lzt38yRXKgmbYR1ykk"
+      },
+      "artists": [
+        {
+          "name": "Blinky Bill",
+          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207996,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/0zv6iIwVr3J9SftqWPQpJn"
+    },
+    {
+      "album": {
+        "name": "THIS YEAR NEXT YEAR",
+        "url": "https://open.spotify.com/album/4yDcMSzMAHd5H5hXDAaCnM"
+      },
+      "artists": [
+        {
+          "name": "Na$EER",
+          "url": "https://open.spotify.com/artist/1zLpeIIskZiOUjHUtUi13r"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155172,
+      "name": "EASTSIDE GVNNA",
+      "url": "https://open.spotify.com/track/7jPCujGKU8RWRyDh60Iull"
     },
     {
       "album": {

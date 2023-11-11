@@ -6,27 +6,23 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1NDksZmJiNDVlNTNlNDYzOGFlM2Q3MzhlNzExNzBkODRiZWEyOTU3NTM1Yw==",
+  "snapshot_id": "MTA1NTcsYTI1MDBiMTcwYWM1N2QxMjkzMDcxZDMzNDQwOGNmMjFmYWY4Y2I4YQ==",
   "tracks": [
     {
-      "added_at": "2023-10-06 14:55:50",
+      "added_at": "2023-11-10 21:45:45",
       "album": {
-        "name": "Pour It Out",
-        "url": "https://open.spotify.com/album/5zS3jRjbfKAlFEESscjMNK"
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/65MmHL2BLe9SMiObhjvYen"
       },
       "artists": [
         {
-          "name": "Slow Magic",
-          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
-        },
-        {
-          "name": "Beacon Bloom",
-          "url": "https://open.spotify.com/artist/7ecriBfYo3KBxbNspB0Tcc"
+          "name": "AOBeats",
+          "url": "https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA"
         }
       ],
-      "duration_ms": 228851,
-      "name": "Pour It Out",
-      "url": "https://open.spotify.com/track/7M7zjcgWc3ekrweNu3lKj7"
+      "duration_ms": 126774,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/4ZvDs2Mv05yciUumPL2mf9"
     },
     {
       "added_at": "2023-08-16 15:10:22",
@@ -195,6 +191,26 @@
       "duration_ms": 183307,
       "name": "Running (in my mind)",
       "url": "https://open.spotify.com/track/5gqb9NkwpxZtm8Zxi6BBLX"
+    },
+    {
+      "added_at": "2023-10-06 14:55:50",
+      "album": {
+        "name": "Pour It Out",
+        "url": "https://open.spotify.com/album/5zS3jRjbfKAlFEESscjMNK"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        },
+        {
+          "name": "Beacon Bloom",
+          "url": "https://open.spotify.com/artist/7ecriBfYo3KBxbNspB0Tcc"
+        }
+      ],
+      "duration_ms": 228851,
+      "name": "Pour It Out",
+      "url": "https://open.spotify.com/track/7M7zjcgWc3ekrweNu3lKj7"
     },
     {
       "added_at": "2023-08-23 14:10:06",
@@ -2415,6 +2431,94 @@
       "duration_ms": 214400,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc"
+    },
+    {
+      "added_at": "2023-11-10 17:00:18",
+      "album": {
+        "name": "Crashing Hard",
+        "url": "https://open.spotify.com/album/3Qmygkn40t7BIgJ6U5eT6i"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Crashing Hard",
+      "url": "https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR"
+    },
+    {
+      "added_at": "2023-11-10 21:45:30",
+      "album": {
+        "name": "Past Life EP",
+        "url": "https://open.spotify.com/album/41SwL1Hbhj4HcRt8vDR8d1"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Starting From Scratch",
+      "url": "https://open.spotify.com/track/2vlD3bx2nQqWBcV1SBj44U"
+    },
+    {
+      "added_at": "2023-11-10 21:47:30",
+      "album": {
+        "name": "onlyknow",
+        "url": "https://open.spotify.com/album/6mCduOVVaa6X4GrjII843z"
+      },
+      "artists": [
+        {
+          "name": "44 Ardent",
+          "url": "https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "onlyknow",
+      "url": "https://open.spotify.com/track/0Q7PR1J2BDz9VdONFGBJoU"
+    },
+    {
+      "added_at": "2023-11-11 00:25:52",
+      "album": {
+        "name": "deep end",
+        "url": "https://open.spotify.com/album/12xlRBmhi9gZpyY7UYr5Ie"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 165910,
+      "name": "deep end",
+      "url": "https://open.spotify.com/track/7kJbfc0nj7M3jVbk3Gpuzh"
+    },
+    {
+      "added_at": "2023-11-11 00:28:03",
+      "album": {
+        "name": "Red Earth Creek (Winemaker Remix)",
+        "url": "https://open.spotify.com/album/0FpxqYnlBl5RdUNHaEzcU0"
+      },
+      "artists": [
+        {
+          "name": "H\u00f6hn",
+          "url": "https://open.spotify.com/artist/05YiYkc5jTBQOjP5e10g7u"
+        },
+        {
+          "name": "Winemaker",
+          "url": "https://open.spotify.com/artist/3eNJj6RBtXDPkAaXxBH3Hy"
+        }
+      ],
+      "duration_ms": 284197,
+      "name": "Red Earth Creek - Winemaker Remix",
+      "url": "https://open.spotify.com/track/4wy471QJmNNGD2PWaWByb6"
     }
   ],
   "unique_name": "Moving Castle Monthly",

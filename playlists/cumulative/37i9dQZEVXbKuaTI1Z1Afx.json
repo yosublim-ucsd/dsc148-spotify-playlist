@@ -468,6 +468,24 @@
     {
       "album": {
         "name": "24 songs",
+        "url": "https://open.spotify.com/album/1lXCI05CgLuRTxN8E93hZL"
+      },
+      "artists": [
+        {
+          "name": "Shooter Akrami",
+          "url": "https://open.spotify.com/artist/0YG0hJrt9V9qhvYKTiFZrE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "24 Songs",
+      "url": "https://open.spotify.com/track/2nqy2NyysOPp8yKSD2bNDx"
+    },
+    {
+      "album": {
+        "name": "24 songs",
         "url": "https://open.spotify.com/album/6gJto7htAKsTE3pYwfWSQD"
       },
       "artists": [
@@ -12894,7 +12912,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 146531,
       "name": "F\u039bSHION",
       "url": "https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7"
@@ -16654,7 +16672,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 158104,
       "name": "I Wait for You",
       "url": "https://open.spotify.com/track/7EDcAz6iuKSkxH4VcC3Oko"
@@ -36936,7 +36954,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"

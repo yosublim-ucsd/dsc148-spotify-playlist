@@ -750,7 +750,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 268257,
       "name": "De Rodillas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2iMb7HAmOcdnZzAOa4yNAq"
@@ -1434,6 +1434,24 @@
       "duration_ms": 184125,
       "name": "Intentarlo de cero",
       "url": "https://open.spotify.com/track/2tl6V0fXqw9vftoa8t8NX0"
+    },
+    {
+      "album": {
+        "name": "Jard\u00edn",
+        "url": "https://open.spotify.com/album/4zLn1jP6DyndmlMalVm8Rk"
+      },
+      "artists": [
+        {
+          "name": "Teo Bok",
+          "url": "https://open.spotify.com/artist/54HTLyYHg8qHdZTPLtAo7r"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144253,
+      "name": "Jard\u00edn",
+      "url": "https://open.spotify.com/track/394fdiSv97RDJy2lIxTL9v"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 27855,
+  "num_followers": 27880,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmI2YTY2MGVlZGNkMTljMmQ1ZTA4MzFiNTU1ZGE2NzMxY2ZmNTRj",
+  "snapshot_id": "MCw2NjlhZmVmNjIxYzUyZDI5MmJlOGI5NWRkZmJiOTgzNDg3ZWEzNjE2",
   "tracks": [
     {
       "added_at": "2023-09-03 23:24:36",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "vampiro",
-        "url": "https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4"
-      },
-      "artists": [
-        {
-          "name": "Kiddie Gang",
-          "url": "https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg"
-        }
-      ],
-      "duration_ms": 178275,
-      "name": "vampiro",
-      "url": "https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Margaritas Podridas",
         "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 319058,
       "name": "Wow",
       "url": "https://open.spotify.com/track/5nO4n8RClXZg2ugsBU9hXy"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "vampiro",
+        "url": "https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4"
+      },
+      "artists": [
+        {
+          "name": "Kiddie Gang",
+          "url": "https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg"
+        }
+      ],
+      "duration_ms": 178275,
+      "name": "vampiro",
+      "url": "https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Margaritas Podridas",
-        "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
+        "name": "El Primero",
+        "url": "https://open.spotify.com/album/1SXArpME4RyxxFkwgXQM8H"
       },
       "artists": [
         {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+          "name": "Apartamentos Acapulco",
+          "url": "https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT"
         }
       ],
-      "duration_ms": 174343,
-      "name": "Purpura",
-      "url": "https://open.spotify.com/track/6EGVCwrmaBn3IbQn22oms2"
+      "duration_ms": 191573,
+      "name": "El Primero",
+      "url": "https://open.spotify.com/track/4cIDUCqPKBoFmpYhb3iKU9"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "El Primero",
-        "url": "https://open.spotify.com/album/1SXArpME4RyxxFkwgXQM8H"
+        "name": "Margaritas Podridas",
+        "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
       },
       "artists": [
         {
-          "name": "Apartamentos Acapulco",
-          "url": "https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT"
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
         }
       ],
-      "duration_ms": 191573,
-      "name": "El Primero",
-      "url": "https://open.spotify.com/track/4cIDUCqPKBoFmpYhb3iKU9"
+      "duration_ms": 174343,
+      "name": "Purpura",
+      "url": "https://open.spotify.com/track/6EGVCwrmaBn3IbQn22oms2"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Todo Va a Estar Bien",
-        "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "Todo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Jungla",
         "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 183080,
       "name": "Mapas",
       "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Todo Va a Estar Bien",
+        "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "Todo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Flash Memory",
-        "url": "https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1"
-      },
-      "artists": [
-        {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
-        }
-      ],
-      "duration_ms": 135083,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 395146,
       "name": "D'arcy",
       "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Flash Memory",
+        "url": "https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1"
+      },
+      "artists": [
+        {
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+        }
+      ],
+      "duration_ms": 135083,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Ausencia",
+        "url": "https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG"
+      },
+      "artists": [
+        {
+          "name": "A Rose Dying In The Rain",
+          "url": "https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG"
+        }
+      ],
+      "duration_ms": 100036,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Camino de Luces",
         "url": "https://open.spotify.com/album/02hgy9GKf5LK2fd3h3gsas"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 217733,
       "name": "Camino de Luces",
       "url": "https://open.spotify.com/track/5I93GjZkHOlcpw3QVTdiKe"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Ausencia",
-        "url": "https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG"
-      },
-      "artists": [
-        {
-          "name": "A Rose Dying In The Rain",
-          "url": "https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG"
-        }
-      ],
-      "duration_ms": 100036,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
-      },
-      "artists": [
-        {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Aterrizar",
-      "url": "https://open.spotify.com/track/4b6k0q2chMQGuAvwCxBYNn"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 251595,
       "name": "La Carretera",
       "url": "https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Aterrizar",
+      "url": "https://open.spotify.com/track/4b6k0q2chMQGuAvwCxBYNn"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "S.O.S.",
-        "url": "https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG"
+        "name": "reina de primavera",
+        "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
       },
       "artists": [
         {
-          "name": "No s\u00e9 a qui\u00e9n matar",
-          "url": "https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV"
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
         }
       ],
-      "duration_ms": 177771,
-      "name": "S.O.S.",
-      "url": "https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K"
+      "duration_ms": 245840,
+      "name": "reina de primavera",
+      "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
     }
   ],
   "unique_name": "Shoegaze & Dreampop en espa\u00f1ol",

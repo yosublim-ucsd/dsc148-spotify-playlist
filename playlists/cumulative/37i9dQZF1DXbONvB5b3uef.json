@@ -874,10 +874,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 177160,
       "name": "Oh Na Na",
       "url": "https://open.spotify.com/track/2uzvZydaZ3S803yGNgRxZE"
+    },
+    {
+      "album": {
+        "name": "Elephants on Acid",
+        "url": "https://open.spotify.com/album/1ASgOyz7LayRS6Td0gzqjU"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177160,
+      "name": "Oh Na Na",
+      "url": "https://open.spotify.com/track/5DBpUC9YR8aNqqyJipIA85"
     },
     {
       "album": {

@@ -2631,6 +2631,32 @@
     },
     {
       "album": {
+        "name": "Beethoven 2020 \u2013 Chamber Music 4: Large Works",
+        "url": "https://open.spotify.com/album/28qTdaxrfBM4cT6xVl75BQ"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Lindsay String Quartet",
+          "url": "https://open.spotify.com/artist/7aYm3WwTfGcibcsqRJ4OpE"
+        },
+        {
+          "name": "Louise Williams",
+          "url": "https://open.spotify.com/artist/1DjsT0SK40JPkZhn1mKTek"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479413,
+      "name": "String Quintet in C Minor, Op. 104: 2. Andante cantabile con variazioni",
+      "url": "https://open.spotify.com/track/6gSw5IMAkQhq5tPJyam7kz"
+    },
+    {
+      "album": {
         "name": "Beethoven: String Quartet, Op.132 & String Quintet, Op.104",
         "url": "https://open.spotify.com/album/5PoVA8vwi5AVwQ898FS4ga"
       },
@@ -2650,7 +2676,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 477706,
       "name": "String Quintet in C Minor, Op.104: II. Andante cantabile con variazioni",
       "url": "https://open.spotify.com/track/0Fwj48PEm0yBdlrBtBzr9s"

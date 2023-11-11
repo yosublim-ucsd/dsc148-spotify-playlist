@@ -82,7 +82,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 196857,
       "name": "Angel",
       "url": "https://open.spotify.com/track/0hRyt5qiE2pwTSAeeUS7lW"
@@ -1242,6 +1242,28 @@
       "duration_ms": 158956,
       "name": "Like a Queen - Remix",
       "url": "https://open.spotify.com/track/34CKU5kPRpvJPCqBZ5224w"
+    },
+    {
+      "album": {
+        "name": "Like A Queen Remix",
+        "url": "https://open.spotify.com/album/6OG8umJAVi3XTE72N5Iqmj"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        },
+        {
+          "name": "Said Palacios",
+          "url": "https://open.spotify.com/artist/2IYe9gw3UV7STpcsbbrsvH"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159001,
+      "name": "Like A Queen Remix - Remix",
+      "url": "https://open.spotify.com/track/7iGwFKZDnlkXRTEIxNLVYk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-900 songs - 2 day 10 hr 58 min
+904 songs - 2 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Automation](https://open.spotify.com/track/2xrOwkZ4t3qMTaP3oti1Xx) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Automation](https://open.spotify.com/album/7h72n5kHGmCYkoXkBoL3II) | 3:29 | 2021-04-02 | 2022-04-15 |
 | [Avalanche Of Love](https://open.spotify.com/track/1ypEcoMJdjba3Xh9QUIM7K) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Zango](https://open.spotify.com/album/2J92im3sUEJM3pvDqDeS7f) | 3:55 | 2023-04-07 |  |
 | [Avalanche Of Love \(feat\. Sampa the Great\)](https://open.spotify.com/track/20yvPj3wzqoV5wvdkj89lj) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Avalanche of Love \(feat\. Sampa the Great\)](https://open.spotify.com/album/7JSj5PDFnh9x6DevquJxep) | 3:55 | 2023-04-07 | 2023-09-22 |
+| [Average Guy \(Blame\)](https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Average Guy \(Blame\)](https://open.spotify.com/album/3IDnvOtwynPayvIxyY7Zdo) | 3:00 | 2023-11-10 |  |
 | [Baby](https://open.spotify.com/track/7ezdBjcpj2yQVDLWv80z3U) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Baby](https://open.spotify.com/album/1bSMgGLERBaeOJgsgt3ldN) | 3:40 | 2023-02-24 | 2023-07-01 |
 | [Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Baby Baby](https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9) | 3:01 | 2021-04-02 | 2022-07-09 |
 | [Baby Baby](https://open.spotify.com/track/41HyMiZSBLGlfopnDE7Ppc) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Get A Good Look](https://open.spotify.com/album/2BbQV71MEMZ0nTTgOJl3wD) | 3:02 | 2022-07-11 | 2023-04-15 |
@@ -127,6 +128,7 @@
 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 | 2022-07-22 | 2022-08-06 |
 | [Chameleon](https://open.spotify.com/track/1pvUilXlvXaburqYE4A8hE) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Chameleon](https://open.spotify.com/album/0VG6QgJlk6saDf0KoZbIML) | 2:43 | 2022-05-09 | 2022-05-12 |
 | [Chameleons](https://open.spotify.com/track/2AD9ksH0C7hJrSXZMllbgh) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Chameleons](https://open.spotify.com/album/4bZLJJlvkGpCV0n8xU2duC) | 3:15 | 2022-10-28 | 2023-04-15 |
+| [Chang’e](https://open.spotify.com/track/3yyagteXLaWUhXcyLWQNGY) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [The Silver Cord](https://open.spotify.com/album/7iY6PA1ftgY8OKOzc2vBdo) | 3:46 | 2023-11-10 |  |
 | [Chaos Space Marine](https://open.spotify.com/track/6kNYZ2Hf2QCpQhIuPxffkp) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Chaos Space Marine](https://open.spotify.com/album/2huSLowZzNhStzbu9C1Eko) | 3:36 | 2021-11-19 | 2022-02-16 |
 | [Chaparral](https://open.spotify.com/track/7M4iSKfvs69sHcnMyzR3m5) | [Holy Wave](https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b) | [Chaparral](https://open.spotify.com/album/43GNRlvqRRM9Sqm22JabAN) | 4:34 | 2022-07-15 | 2022-07-29 |
 | [Chasing Birds](https://open.spotify.com/track/2jKnUcyrCADkeSy6gcN1qa) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:12 | 2021-04-02 | 2022-04-21 |
@@ -155,6 +157,7 @@
 | [Cool Colorado](https://open.spotify.com/track/6KnkU2CydfzalIMkPablXE) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Cool Colorado](https://open.spotify.com/album/5PMo096ZS7vPSC2cHAeM8D) | 3:50 | 2021-04-02 | 2022-07-30 |
 | [Corner of La Isla](https://open.spotify.com/track/5i8skPckYW3Y9RmLDMNhNp) | [Jachary](https://open.spotify.com/artist/4HvoSSqs9JthDCVf8rTdeZ) | [Corner of La Isla](https://open.spotify.com/album/5vHlU2Y47QHM4MJ5kxRwml) | 2:48 | 2021-04-02 | 2022-04-16 |
 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 | 2022-06-07 | 2023-03-07 |
+| [Couldn't Be Me](https://open.spotify.com/track/7Hp0QPfWdAiONMDwggAkek) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Couldn't Be Me](https://open.spotify.com/album/3ziPj1t5qIyh3urlGkoVVW) | 3:45 | 2023-11-10 |  |
 | [Cowboy Lightning](https://open.spotify.com/track/0rt3sWILxbL2k7OtUS65UA) | [Spaceface](https://open.spotify.com/artist/3rcMe5nRZ2Z6Qbx1OB0vIz) | [Cowboy Lightning](https://open.spotify.com/album/5yTD5iXuXklwMpJ4zpBtid) | 2:33 | 2021-04-02 | 2022-04-18 |
 | [crawling in my skin \- Actress Remix](https://open.spotify.com/track/6o2gZ4wrIQB7DGAaGVxt9S) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q), [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [crawling in my skin / circle the drain \(remixes\)](https://open.spotify.com/album/4uu17h3whkoTUaWIDZiZH6) | 4:28 | 2021-04-02 | 2022-07-26 |
 | [Crew](https://open.spotify.com/track/5ke6QxUNkKCLJuDPRdvJLv) | [Worn\-Tin](https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9) | [Cycles](https://open.spotify.com/album/5Ei8BWhqA0t73daae7rHKT) | 6:39 | 2021-04-02 | 2022-04-20 |
@@ -637,6 +640,7 @@
 | [Remaining Light](https://open.spotify.com/track/0WKO0qWoZAcai9Dw78vuge) | [Absolutely Free](https://open.spotify.com/artist/5DD56TbdQI5Xe9c8YSiTj5) | [Remaining Light](https://open.spotify.com/album/0bpEOLrNxcb91OXbhu1uSW) | 5:45 | 2021-09-17 | 2022-04-21 |
 | [Renegade](https://open.spotify.com/track/3SqMnzlS5KPE7wFFF4wBWa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Renegade](https://open.spotify.com/album/05yGOGCNiN4vhRfOlX50oG) | 2:54 | 2023-05-05 | 2023-08-26 |
 | [Reset](https://open.spotify.com/track/5QaAMG5SdD0OKmV3VVo7Wo) | [Colyer](https://open.spotify.com/artist/1L0pwxF6zglm74nG2gBWw5) | [Reset](https://open.spotify.com/album/6LgkETeWZxBGgEThkiALNi) | 4:58 | 2022-04-22 | 2022-10-08 |
+| [Restless Thoughts](https://open.spotify.com/track/3fJaQLBjTjl0TmXhff9TdL) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy) | [Restless Thoughts](https://open.spotify.com/album/5NYUwVB0BrNpQ35ZP3zgqk) | 2:32 | 2023-11-10 |  |
 | [Revelator](https://open.spotify.com/track/0xVwkfyPh0brDtlmtdIb2d) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [Revelator](https://open.spotify.com/album/7zI8PDMo7i9ZZcIBL7BK1d) | 3:05 | 2022-03-04 | 2022-06-15 |
 | [Roddy](https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:12 | 2023-09-29 |  |
 | [Rolling Stone](https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Rolling Stone](https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8) | 2:49 | 2021-12-14 | 2023-03-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdN7t5b8UEah.md) - [plain]
 
 > Piezas clásicas para relajarte y dejarte llevar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341 likes - 65 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 618 likes - 65 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdN7t5b8UEah.md) - [plain]
 | 39 | [On the Nature of Daylight](https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Philip Sheppard](https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 6:11 |
 | 40 | [3 Visions: No\. 2\. Summerland](https://open.spotify.com/track/6DjJASpNIqqEABN4geePv0) | [William Grant Still](https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA), [Althea Waites](https://open.spotify.com/artist/5cFDIXZI13ESqS25ixveDv) | [Piano Recital: Waites, Althea \- Price, F.B\. / Still, W.G\. / Bland, E.](https://open.spotify.com/album/3QTA3qI6hBkrcWhO6BawKG) | 4:21 |
 | 41 | [L'Origine Nascosta](https://open.spotify.com/track/4TLQRJiwvwUQyKdEA5PWqx) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Divenire](https://open.spotify.com/album/4xFNo2OWDR8wEm5I2dRdS7) | 3:11 |
-| 42 | [Pavane pour une infante défunte, M\. 19 \(Version for Orchestra\)](https://open.spotify.com/track/2DmlTLFphBLAIACKPsLAQH) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Luxembourg Philharmonic Orchestra](https://open.spotify.com/artist/5GlB0H2IPdfWUwRr7mfN3r), [Gustavo Gimeno](https://open.spotify.com/artist/4neZeAHXeNMscSVJqEG7wY) | [Ravel: Daphnis et Chloé, Une barque sur l'océan & Pavane pour une infante défunte](https://open.spotify.com/album/1Wd9ZSBaA8I1FdKIjB06zq) | 7:09 |
+| 42 | [Pavane pour une infante défunte, M\. 19 \(Version for Orchestra\)](https://open.spotify.com/track/4lK8YqLWkYQgOIFU9feTqU) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Orchestre Philharmonique Du Luxembourg](https://open.spotify.com/artist/6PsCxyKUuIoa3h8dxlSz3Z), [Gustavo Gimeno](https://open.spotify.com/artist/4neZeAHXeNMscSVJqEG7wY) | [Ravel: Daphnis et Chloé](https://open.spotify.com/album/08WCoBNaFWtBbIDFXgTAYw) | 7:09 |
 | 43 | [Prisma \(Acoustic\)](https://open.spotify.com/track/2vnwGU628mvNPDN8zxZ9n8) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Prisma \(Acoustic\)](https://open.spotify.com/album/6D4oomn8h9FW4F7aO3uiLt) | 4:05 |
 | 44 | [Goldberg\-Variationen, BWV 988: I\. Aria](https://open.spotify.com/track/0VI8QAH1YupPK6xdCJuwpn) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Julia Cload](https://open.spotify.com/artist/2q1SyguTZeoJxeS65MU9jO) | [Bach: Goldberg Variations \- Preludes & Fugues, Vol\. 1](https://open.spotify.com/album/1SQwANKaxEbkAWopbOq7dQ) | 4:52 |
 | 45 | [Too Soon](https://open.spotify.com/track/1hlehqO6Po7esrHu0vi9Di) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Too Soon](https://open.spotify.com/album/300dan74UOvzoVEVeS6iNW) | 4:03 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdN7t5b8UEah.md) - [plain]
 | 64 | [Look Inside Yourself](https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [L.I.Y.](https://open.spotify.com/album/3mV1VLijQb7T5B02CXeciT) | 3:38 |
 | 65 | [Eternal Source of Light Divine, HWV 74 \(Arrangement\)](https://open.spotify.com/track/2GTQ3iVNLw90PLPVUdPE4t) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Rolf Lislevand](https://open.spotify.com/artist/6JM9ijNSKNjSXzxVrFjmuh), [Concerto Stella Matutina](https://open.spotify.com/artist/5MtjwE0QvUGLeepPhEu7gU) | [Nuove Invenzioni](https://open.spotify.com/album/6mPNYpx47nLYi6pekAqhoK) | 5:53 |
 
-Snapshot ID: `MCw2NDk5YTM0NTQ2MjQ5MWI2MmQ1MmRiYTMxOGFhMGRlOGQ4ODM5YTIz`
+Snapshot ID: `MCw4M2MxZjE3NTMwMDNkMzNjZjFmMjk0ODE4YzE3MGE4MDdiNmJhNWFm`

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Aardvark",
+        "url": "https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV"
+      },
+      "artists": [
+        {
+          "name": "Gleework",
+          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Aardvark",
+      "url": "https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it"
+    },
+    {
+      "album": {
         "name": "Adrift (Meditation)",
         "url": "https://open.spotify.com/album/3YhHaFBL6pqr287a8fQsuh"
       },
@@ -92,6 +110,24 @@
       "duration_ms": 148333,
       "name": "Aimless (Meditation)",
       "url": "https://open.spotify.com/track/53HxHnrk7SBhZSpHLlnCXk"
+    },
+    {
+      "album": {
+        "name": "Alcaria Hot Springs",
+        "url": "https://open.spotify.com/album/2MCRcVAOym1PlQKcaUJt8V"
+      },
+      "artists": [
+        {
+          "name": "Alpha Vectoriam",
+          "url": "https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "Alcaria Hot Springs",
+      "url": "https://open.spotify.com/track/5CSBbRQ01ZLGVJhz70K5Ch"
     },
     {
       "album": {
@@ -473,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Sage & Citrus",
+        "url": "https://open.spotify.com/album/0nfpjBVQFTRpwZ6ypSoqS1"
+      },
+      "artists": [
+        {
+          "name": "re:inhabit",
+          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170708,
+      "name": "Citrus",
+      "url": "https://open.spotify.com/track/7M1jq7PiPbElU1P1n3SvPe"
+    },
+    {
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/40951TFlj3CPsvl1Xtx8Wa"
       },
@@ -743,6 +797,42 @@
     },
     {
       "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/4ugwhuEqJTGi11swTislS2"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Ekat\u0101 / Unity",
+      "url": "https://open.spotify.com/track/15VLZBdYtCBfzUStJDVAzm"
+    },
+    {
+      "album": {
+        "name": "Endless Horizon",
+        "url": "https://open.spotify.com/album/6cOF3lmkr9yfcMZWdENcEt"
+      },
+      "artists": [
+        {
+          "name": "Hieling",
+          "url": "https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Endless Horizon",
+      "url": "https://open.spotify.com/track/6zVDXYs5Jp1SI9Aro3A5cf"
+    },
+    {
+      "album": {
         "name": "Sunday Mornings XXI",
         "url": "https://open.spotify.com/album/3UzefjAhmOfaPoySM0gHR4"
       },
@@ -887,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Forest Winds",
+        "url": "https://open.spotify.com/album/0XMxYcUmfaQS4VTtfSljfe"
+      },
+      "artists": [
+        {
+          "name": "Verala Lux",
+          "url": "https://open.spotify.com/artist/2zTDYjWYdea2V7ZXILRLKW"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Forest Winds",
+      "url": "https://open.spotify.com/track/38NsLOCPyA8E4Q7IaAG43X"
+    },
+    {
+      "album": {
         "name": "Back to life",
         "url": "https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS"
       },
@@ -916,10 +1024,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 194797,
       "name": "Fri\u00f0ur",
       "url": "https://open.spotify.com/track/1rkmSbMTJ4kSNed9O4YwSt"
+    },
+    {
+      "album": {
+        "name": "Giolcach Hike",
+        "url": "https://open.spotify.com/album/1cF88NLnHIC2Uu87EXfEAu"
+      },
+      "artists": [
+        {
+          "name": "Hilduriam",
+          "url": "https://open.spotify.com/artist/2sGWavPR2tKkwpw3a7jBSj"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189250,
+      "name": "Giolcach Hike",
+      "url": "https://open.spotify.com/track/2Kbyyyu0TX1445GXPxjkIe"
     },
     {
       "album": {
@@ -1481,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "meloh",
+        "url": "https://open.spotify.com/album/3JGENPKwjfu9LD8Qv6FGfd"
+      },
+      "artists": [
+        {
+          "name": "Julio Raass",
+          "url": "https://open.spotify.com/artist/0nlv8kK2en351d6V4cQJq4"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "meloh",
+      "url": "https://open.spotify.com/track/3j6ZZ8CdOOxTauHtiDVxuQ"
+    },
+    {
+      "album": {
         "name": "Melusina Alba",
         "url": "https://open.spotify.com/album/4HYOInJP0f608sH2178lN9"
       },
@@ -1496,6 +1640,24 @@
       "duration_ms": 133000,
       "name": "Melusina Alba",
       "url": "https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/4B0JwI7zpob5jHPBDrTOO0"
+      },
+      "artists": [
+        {
+          "name": "Nerea Vall\u00e9e",
+          "url": "https://open.spotify.com/artist/4y63TWHzQ5P62UUfmYUnnl"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162563,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2zRxcMhwGXa3E5qFoZtJLk"
     },
     {
       "album": {
@@ -1697,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Nidra",
+        "url": "https://open.spotify.com/album/6lsGTwVj3XHsiMK2P5F4GP"
+      },
+      "artists": [
+        {
+          "name": "Quiet Notes",
+          "url": "https://open.spotify.com/artist/6o4TgXVQ6lPBqMXXyjrMjt"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Nidra",
+      "url": "https://open.spotify.com/track/2S6PhX39o91uuRNHgQWrhe"
+    },
+    {
+      "album": {
         "name": "Nocturne in the rain",
         "url": "https://open.spotify.com/album/1DQQanFJj3DqKH5oD9JadF"
       },
@@ -1766,6 +1946,24 @@
       "duration_ms": 162374,
       "name": "Open Windows",
       "url": "https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG"
+    },
+    {
+      "album": {
+        "name": "Oran Beinne",
+        "url": "https://open.spotify.com/album/34rIpAW5yFPTcP3Fbpkszx"
+      },
+      "artists": [
+        {
+          "name": "Aisher Rami",
+          "url": "https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160416,
+      "name": "Oran Beinne",
+      "url": "https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX"
     },
     {
       "album": {
@@ -2039,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Prayer For Peace",
+        "url": "https://open.spotify.com/album/4pW97ofmIZv4xnIEP9GKH0"
+      },
+      "artists": [
+        {
+          "name": "Calma Totalis",
+          "url": "https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183521,
+      "name": "Prayer For Peace",
+      "url": "https://open.spotify.com/track/6vy6tvn35Xdg5xXKPEqep1"
+    },
+    {
+      "album": {
         "name": "Quiet Soul",
         "url": "https://open.spotify.com/album/31jhmj4AZRdyLy2HcYozXz"
       },
@@ -2072,6 +2288,24 @@
       "duration_ms": 122293,
       "name": "Quiet Stars",
       "url": "https://open.spotify.com/track/7h3QYG1cPw7onxrDxnaYEI"
+    },
+    {
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/31vutoDOOQeWJWo3B1s45F"
+      },
+      "artists": [
+        {
+          "name": "Inner Purpose",
+          "url": "https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/2ieNJNNIwKIiT68JKVNv9I"
     },
     {
       "album": {
@@ -2166,6 +2400,24 @@
       "duration_ms": 199624,
       "name": "Sauntering Dream",
       "url": "https://open.spotify.com/track/0c2FezsbQQHPFWgtlyGACF"
+    },
+    {
+      "album": {
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/4LW8rj1QIbDvp1BIzYiLNo"
+      },
+      "artists": [
+        {
+          "name": "Mindland",
+          "url": "https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164062,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/75tYEiKbrxBIyVo1azYqDm"
     },
     {
       "album": {
@@ -2378,7 +2630,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 134500,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/6WeBzOmaFwsWN4Svwg6p1F"
@@ -2796,6 +3048,24 @@
       "duration_ms": 135000,
       "name": "Welcome Home",
       "url": "https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg"
+    },
+    {
+      "album": {
+        "name": "Willamette Falls",
+        "url": "https://open.spotify.com/album/093ls5rr0CjLaUmW4unO8i"
+      },
+      "artists": [
+        {
+          "name": "Harlan Silverman",
+          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177920,
+      "name": "Willamette Falls",
+      "url": "https://open.spotify.com/track/7ksLJPOQmbSdCsHOB7ND4y"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdzGIPNRTvyN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Abdon Mech, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,817 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,833 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Manzil](https://open.spotify.com/track/3k56uaH3QBqpUyZwvHbwKh) | [PrakritTheBand](https://open.spotify.com/artist/4OCcwHHufomlkNPCtsbcCu) | [Manzil](https://open.spotify.com/album/0v7KkDZ3eP22FrD0pjVNL1) | 2:51 |
 | 100 | [Faasle](https://open.spotify.com/track/1hWFFgNXgmJgW7383vBYCf) | [Rushil Aswal](https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol), [shreshth.](https://open.spotify.com/artist/02gRmLTUQdbvdEs56lhlH0) | [Faasle](https://open.spotify.com/album/51jz83T5OwLbQXwQXlf81G) | 3:46 |
 
-Snapshot ID: `MCw1MGNjNjE2MzZjOWFhZTI2MDUyN2MzM2RiYjdhNmQ5YjE5OGEyZWM2`
+Snapshot ID: `MCxlYTllMTE5NGEwNzQ3N2ZhN2M4ZjQ0MDY5ZDgyNmRlNTc4MDI1OGMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,047 likes - 107 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,169 likes - 107 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 | 10 | [Grown On Me](https://open.spotify.com/track/77EwsTh7jz9khxVQK7gFBW) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Grown On Me](https://open.spotify.com/album/6MPLE8JVSX61qji1B6vocH) | 3:56 |
 | 11 | [Le Tremblement](https://open.spotify.com/track/2dYhKHWQCMHLGjM85gc2N5) | [Aho Ssan](https://open.spotify.com/artist/6DP0aNDMupNmkyK4drCrvC), [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Le Tremblement](https://open.spotify.com/album/6cf73XfADl3AUtXBKcKlcQ) | 2:57 |
 | 12 | [Toast](https://open.spotify.com/track/2gDpxMrGAK59iO02v2OQ6B) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Dismantled Into Juice](https://open.spotify.com/album/3wd2PDRL7ZcpX0ndA4jzgV) | 2:41 |
-| 13 | [Within \(Drumless Edition\)](https://open.spotify.com/track/4PTtFQIiFtNNbbX4Ym5RCD) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Within \(Drumless Edition\)](https://open.spotify.com/album/0JdfgRVwrsunExkHjb3cfy) | 3:48 |
+| 13 | [Within \(Drumless Edition\)](https://open.spotify.com/track/4RiimXt8sNDhE0xd8Atdox) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Motherboard \(Drumless Edition\)](https://open.spotify.com/album/3F003WxyVe3ze6rwlI7LJ9) | 3:48 |
 | 14 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 |
 | 15 | [A Barely Lit Path](https://open.spotify.com/track/6LGvWHB0braCdC7D5riRCt) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [A Barely Lit Path](https://open.spotify.com/album/2PDvJr7NSgcBmIRUH5Ypxv) | 6:15 |
 | 16 | [Dreamy](https://open.spotify.com/track/5Sxq3lE3BHAko3mVEr911J) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 2:59 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 | 75 | [Dream Pop](https://open.spotify.com/track/4GMCDKBPHg9STZ9UOsaf4I) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ) | [Dream Pop](https://open.spotify.com/album/5JK9rnjBYwtUREj0uTl76z) | 5:57 |
 | 76 | [kijani](https://open.spotify.com/track/1kBvLnxzoXgTIw8UX4J5nc) | [Steve O'Sullivan](https://open.spotify.com/artist/0386dG6ipOXlX8ZJD3jMoE) | [Green Trax](https://open.spotify.com/album/5bAHoaXEGXLMJ71k1K1Zjy) | 4:35 |
 | 77 | [Night Journeys III \- Schacke Remix](https://open.spotify.com/track/2pMSBpPAvaDrjvJWg8oMzB) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN), [Schacke](https://open.spotify.com/artist/3bphZJ7NojBKcoCeBOSJ5Z) | [Night Journeys Remixes](https://open.spotify.com/album/6evedkkGMc4VTjdL5CROVz) | 7:04 |
-| 78 | [Entangled Beings](https://open.spotify.com/track/07ZJ2QUpukq1x3St9rlg3N) | [Tristan Arp](https://open.spotify.com/artist/5PvxHyYKtHsyyI5XjdqnD9), [Kellen303](https://open.spotify.com/artist/4ZXA7fE263T2THjWkOMExa) | [Entangled Beings \- EP](https://open.spotify.com/album/39MC1rztm6ABTjH4oCsKu0) | 6:26 |
+| 78 | [Entangled Beings](https://open.spotify.com/track/6IGhl1G6l1egoVDk1huZFr) | [Tristan Arp](https://open.spotify.com/artist/5PvxHyYKtHsyyI5XjdqnD9), [Kellen303](https://open.spotify.com/artist/4ZXA7fE263T2THjWkOMExa) | [Entangled Beings EP](https://open.spotify.com/album/6eXMW3kQroeVlcBIaAef1m) | 6:26 |
 | 79 | [Today Is the Day](https://open.spotify.com/track/5nunaC0CNOswAsk98i0Ugq) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Summer Sun](https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf) | 5:34 |
 | 80 | [Improvisació 1](https://open.spotify.com/track/7hWTw30aqLg8TXaWCHnQ0P) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [The Square \(Original Soundtrack Album\)](https://open.spotify.com/album/2Dc4Tfe6sPpOntOFhIGCeT) | 8:39 |
 | 81 | [Whisky Story Time](https://open.spotify.com/track/5mcMjy09RXCFyOvYrFoqGD) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [To Cy & Lee: Instrumentals, Vol\. 1](https://open.spotify.com/album/4xSCx58aWcq3UfTwfK012z) | 2:19 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 | 106 | [King Bromeliad](https://open.spotify.com/track/6bN5bGdC7ze3JvWvPN67Op) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [King Bromeliad / Montparnasse](https://open.spotify.com/album/268qxT9wKnanAK5cePUek7) | 8:52 |
 | 107 | [Dancing Circles](https://open.spotify.com/track/6lNyT8TfnpMTRrmJRQKQC9) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:53 |
 
-Snapshot ID: `MCw5M2U4OTQxYjE0ZjQ2N2RiM2RmODJjYzc5MTE5MGJjZDNhZDVkYzk5`
+Snapshot ID: `MCw5ZmU0NGFhOTEzYzE3Njk2MGQ3YjQ4YzE5YzE3YjNkNWEyOTg5NTc4`

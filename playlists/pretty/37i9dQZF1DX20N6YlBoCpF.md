@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=64RR35CJRrO21DYYIA0ueg">Karlien Van Jaarsveld</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,784 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,840 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 54 | [Ons Sal Jonk Bly](https://open.spotify.com/track/5kmedYH2KGOpqYcjhkut2f) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/6kgghUTYltx1TaKHamBWOe) | 4:25 |
 | 55 | [SMK \(Sondagmiddag Knippie\)](https://open.spotify.com/track/3Fu14rGiC9RPhCaTFobslm) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [SMK \(Sondagmiddag Knippie\)](https://open.spotify.com/album/1jNlLxnN439S7GeKsH10ba) | 3:19 |
 
-Snapshot ID: `MCw2YjU0OWE4MzM5NDI2ZGM2Yzg1NWYxZjY3NTgyY2E0NTMwYjQ1Zjg1`
+Snapshot ID: `MCw2OWRjZDRmZDQyZWJmNmU0MjA5MGM1YjgxYWRlOTg5NmZjNmRlZjk5`

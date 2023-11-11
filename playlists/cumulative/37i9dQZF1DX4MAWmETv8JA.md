@@ -4,7 +4,7 @@
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Delta Species, Middle\-D
 
-86 songs - 8 hr 23 min
+88 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [DMT](https://open.spotify.com/track/6NHRWtAQTtCELvv3h0pGYq) | [Becker](https://open.spotify.com/artist/3WTaU5om1axaFsKlKchl2U), [Labirinto](https://open.spotify.com/artist/4ISuKZJYpsbU6JPD3vq0p1) | [DMT](https://open.spotify.com/album/2mIZCsIe92lDHxDC7BCxo5) | 7:30 | 2022-03-04 |  |
 | [DOSES](https://open.spotify.com/track/4YNjor6FShrCmTiEjKySoL) | [Delta Species](https://open.spotify.com/artist/6XHNTLKZijuqf1N7Frab5Y), [Alicid](https://open.spotify.com/artist/6Nx8CLrTjryyqmvrQeOMGx), [Bella Kahun](https://open.spotify.com/artist/6HBV7RzsoXsLeNMvkh1raa) | [DOSES](https://open.spotify.com/album/7qAYQE64nGfLuHiL8OuIag) | 7:20 | 2022-03-04 |  |
 | [Feel Good](https://open.spotify.com/track/1ufkg9viQxXiEIok76Fgrt) | [Chemical Noise](https://open.spotify.com/artist/1oSTK4wfPbzq1BnwY7OoZR), [Dang3r](https://open.spotify.com/artist/1w3bZrV4XveeRTaCJAtkGr), [4weekend](https://open.spotify.com/artist/2X11BJbi9xHuQV3J6hJOIy) | [Feel Good](https://open.spotify.com/album/14NuMpUK7CZbe3nsN7rJfV) | 4:56 | 2022-03-04 |  |
+| [Flame](https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts) | [Sighter](https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM), [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z) | [Flame](https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB) | 5:49 | 2023-11-10 |  |
 | [Focus](https://open.spotify.com/track/7gNgqRZaXarUWWirped72i) | [Telepatic](https://open.spotify.com/artist/5sEhJmaZzJgVskCBaOTgIa) | [Focus](https://open.spotify.com/album/4Bv7WZLfpA7pv11QaMBUnN) | 7:08 | 2022-03-04 |  |
 | [Forest Ghosts](https://open.spotify.com/track/04Y7lMhMM87gbyznlncCVd) | [Duendo Matka](https://open.spotify.com/artist/2mD9yFkX1Q5G3u7M5G2Rgf), [Haffman](https://open.spotify.com/artist/65UMds9K0RnCk4LKN1UQq6) | [Voices Vortex](https://open.spotify.com/album/192PF73JqswQ8lwwXxbRbL) | 7:30 | 2023-03-03 |  |
 | [Forest Ghosts \- Original mix](https://open.spotify.com/track/3QRdcnWwed7TxeuvRv2IS3) | [Duendo Matka](https://open.spotify.com/artist/2mD9yFkX1Q5G3u7M5G2Rgf), [Haffman](https://open.spotify.com/artist/65UMds9K0RnCk4LKN1UQq6) | [Voices Vortex](https://open.spotify.com/album/7fcMaYBaWNSUdEbHmHnEYl) | 7:30 | 2022-03-04 | 2023-03-15 |
@@ -67,6 +68,7 @@
 | [Natural Forces](https://open.spotify.com/track/0C2wtHuF5ToxwfZffD7EQu) | [Ital](https://open.spotify.com/artist/67qPxCDRTeRQgrN4Gou7OI), [The Quasars](https://open.spotify.com/artist/7yDlaW0WIWFNIZBcXCMjRj) | [Natural Forces](https://open.spotify.com/album/1gairSWCQwFW3hzabyBQ0O) | 7:20 | 2022-03-04 |  |
 | [Night Tales](https://open.spotify.com/track/6Dg9qlwUen0ZTWwnRTt1x3) | [Rafael Starcevic](https://open.spotify.com/artist/1ivrTKhIfaa3W4ErAkVOQW) | [Night Tales](https://open.spotify.com/album/62U5Ixz1U0dSDsEJSjIQmS) | 3:53 | 2023-07-07 |  |
 | [Noise Casting](https://open.spotify.com/track/7C8LL5w3G3ncNIAwy4lzHs) | [Hypnoise](https://open.spotify.com/artist/0q4dv8TKspFmOvFfsmnrTO), [Mental Broadcast](https://open.spotify.com/artist/1uYzpQdXFPoAlplMQrAsSv) | [Noise Casting](https://open.spotify.com/album/7fecLpRuGAjqcg2aBpffga) | 7:16 | 2022-03-04 |  |
+| [Odyssey](https://open.spotify.com/track/3hdFzGEIp99G9r1zbNzQlm) | [Synthatic](https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P) | [Odyssey](https://open.spotify.com/album/3wEoXK84Ef23J7IY6qcVdg) | 7:22 | 2023-11-10 |  |
 | [Out There](https://open.spotify.com/track/0kh3tTHz3K7iop1tV4RRwI) | [Reverence](https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl) | [Out There](https://open.spotify.com/album/0D4Bdip4BhTnmOB9Cd19Cs) | 6:05 | 2022-03-04 |  |
 | [Paradise](https://open.spotify.com/track/6Jk0tESwJWTQDgaNGMrcCv) | [Paranormal Attack](https://open.spotify.com/artist/3XFXGwdeqcU5eBVSJd0pt3), [Igor Godoi](https://open.spotify.com/artist/6nx3QzI1c2xmdV8BrINtmG) | [Paradise](https://open.spotify.com/album/05z38kMYftI6AroSx2Z5QZ) | 5:12 | 2023-05-26 |  |
 | [Pina Colada](https://open.spotify.com/track/1921iEr6Xx017QU7WVcB5C) | [Stratil](https://open.spotify.com/artist/3fVNHjlFZ4DUkqL7wz9CTy) | [Next Levels](https://open.spotify.com/album/1fFMVitqbtayubq5kcgvR1) | 6:41 | 2022-03-04 |  |

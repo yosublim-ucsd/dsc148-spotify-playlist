@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-432 songs - 22 hr 26 min
+433 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Playbox](https://open.spotify.com/track/4PyjU6NkpXm78HRNAXg0fk) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Playbox](https://open.spotify.com/album/29TyN53CnU2go3iOWzB9dD) | 3:51 | 2021-12-16 | 2022-07-29 |
 | [Power](https://open.spotify.com/track/4CVOUJki8YUWol3jhLphgs) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Power](https://open.spotify.com/album/4G19LdhYXHY60QJepiSVbE) | 2:28 | 2022-03-15 | 2023-07-22 |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-09-01 |  |
+| [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You & I](https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX) | 2:44 | 2023-10-23 |  |
 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu) | 2:44 | 2023-05-12 | 2023-11-05 |
 | [Pulled My Gun](https://open.spotify.com/track/0Gd2Ae1ssubxu1ZTVqptcU) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4), [Camilia](https://open.spotify.com/artist/58jQ9ySMbgsPyB4VkDjGrQ) | [Pulled My Gun](https://open.spotify.com/album/6zHkXamHKNSFkcjIZeg2Ki) | 2:36 | 2021-12-16 | 2022-07-29 |
 | [Pump It Up](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/3D8C4a5lYbpEu5bPQmOpJj) | 2:30 | 2021-12-16 | 2022-07-29 |
@@ -346,7 +347,7 @@
 | [Silence \- Tiësto's Big Room Remix](https://open.spotify.com/track/3AUW7mAGx1BICBWqsuFgh4) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Silence \(Tiësto's Big Room Remix\)](https://open.spotify.com/album/6VfxEu1SHtWOF5H9vGUMw5) | 3:22 | 2021-12-16 | 2022-11-13 |
 | [Skanka](https://open.spotify.com/track/66rhlrH7I39spFkFUK5wNt) | [wavzur](https://open.spotify.com/artist/4AsPjJnm3wbk8i6hP4jKlH), [Tan House](https://open.spotify.com/artist/5dAkRiao3BzRhHoVpSwEKc) | [Skanka](https://open.spotify.com/album/0idQZZD8gWnZ1MvZ8xZqKY) | 3:46 | 2022-03-29 | 2022-07-29 |
 | [Skippin](https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Skippin](https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB) | 2:37 | 2022-01-13 | 2023-04-26 |
-| [Smash My Heart](https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Smash My Heart](https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O) | 2:50 | 2023-07-14 |  |
+| [Smash My Heart](https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Smash My Heart](https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O) | 2:50 | 2023-07-14 | 2023-11-11 |
 | [Solo](https://open.spotify.com/track/3Eemi4XR3hqNP4JnIV35Ca) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [OMG It's LIT Vol\. 3](https://open.spotify.com/album/4oHNWLyk2xouCbwDJswhYl) | 2:31 | 2021-12-16 | 2022-07-29 |
 | [Solo \(feat\. Demi Lovato\) \- Wideboys Remix](https://open.spotify.com/track/7BponDjgX1siFT4iU3Nc0S) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Wideboys](https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi) | [Solo \(feat\. Demi Lovato\) \[Remixes\]](https://open.spotify.com/album/7iBFgc0rtffKtDiUkabouc) | 3:08 | 2021-12-16 | 2022-07-29 |
 | [Somebody](https://open.spotify.com/track/4t1gFIjTAj3RmzLf3Gte0B) | [Clavette](https://open.spotify.com/artist/12buVzpCDWsPfQlGFwfF5g), [Boogietraxx](https://open.spotify.com/artist/2CMUIHJ41MQbfrEoG6Jsof) | [Somebody](https://open.spotify.com/album/4TRnHaa3enCx9e2hZlYn3v) | 3:25 | 2022-03-31 | 2022-07-26 |

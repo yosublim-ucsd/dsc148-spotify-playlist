@@ -60,6 +60,24 @@
     {
       "album": {
         "name": "Zai",
+        "url": "https://open.spotify.com/album/7w8gocIWH3eYMc45rwDmYZ"
+      },
+      "artists": [
+        {
+          "name": "Vicky Sampson",
+          "url": "https://open.spotify.com/artist/4P1SQkSIocRnR7FJLBbeRO"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361133,
+      "name": "African Dream",
+      "url": "https://open.spotify.com/track/2Bncf7rDhtusa8qtW0Pfqc"
+    },
+    {
+      "album": {
+        "name": "Zai",
         "url": "https://open.spotify.com/album/2lSZ4Fv8bdzGEarCrrRcoa"
       },
       "artists": [
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 295813,
       "name": "Khona",
       "url": "https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o"
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 287560,
       "name": "Ndawo Yami",
       "url": "https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES"
@@ -1660,7 +1678,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 404360,
       "name": "Nizalwa Ngobani?",
       "url": "https://open.spotify.com/track/4jGKKHOG8MwTn1iWJYf6hC"
@@ -1758,6 +1776,24 @@
     {
       "album": {
         "name": "Buyelekhaya",
+        "url": "https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1"
+      },
+      "artists": [
+        {
+          "name": "Nathi",
+          "url": "https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277760,
+      "name": "Nomvula",
+      "url": "https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L"
+    },
+    {
+      "album": {
+        "name": "Buyelekhaya",
         "url": "https://open.spotify.com/album/2PGgRx2PWQEGzs9Eu2SM0A"
       },
       "artists": [
@@ -1768,7 +1804,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 277760,
       "name": "Nomvula",
       "url": "https://open.spotify.com/track/4gqlaIb409m6NNMG5w64kN"
@@ -1992,7 +2028,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 317760,
       "name": "Sana Luma (That's The Way Love Is)",
       "url": "https://open.spotify.com/track/6UiuOhWSurVn1DUcpdA6Vf"
@@ -3088,6 +3124,36 @@
       "duration_ms": 309440,
       "name": "Y-Tjukuja",
       "url": "https://open.spotify.com/track/7k6fhiKtfldICruY5AdKpb"
+    },
+    {
+      "album": {
+        "name": "Our Father",
+        "url": "https://open.spotify.com/album/1dI9dADANjMtU5qfwkjbzc"
+      },
+      "artists": [
+        {
+          "name": "Uhuru",
+          "url": "https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2"
+        },
+        {
+          "name": "Professor",
+          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "DJ Bucks",
+          "url": "https://open.spotify.com/artist/541TdTVsd11rQV6CLPiB4J"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310582,
+      "name": "Y-Tjukuja",
+      "url": "https://open.spotify.com/track/2V63tXAalMiOveSc3pRLJp"
     },
     {
       "album": {

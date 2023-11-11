@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse liedjes! Cover: FLEMMING & Boef
 
-413 songs - 20 hr 4 min
+414 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,8 @@
 | [Verlaten](https://open.spotify.com/track/4zlL8HgU3x8o8gDHcbMX2g) | [Livv](https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2) | [Verlaten](https://open.spotify.com/album/5enwsEosuR83tZqUFuTlam) | 2:25 | 2023-10-12 |  |
 | [Verleden Tijd](https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa) | 2:47 | 2023-04-13 | 2023-06-16 |
 | [Verslaafd Aan Jou](https://open.spotify.com/track/4UrxaR3dIMlaViWp34W7nL) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [Verslaafd Aan Jou](https://open.spotify.com/album/0pCCSLbQb8Z2g5G6UcKXxa) | 2:22 | 2023-06-22 | 2023-07-14 |
-| [Versta Je Mij?](https://open.spotify.com/track/5yvb2M5AYiZw6kAZyI1RdY) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Versta Je Mij?](https://open.spotify.com/album/2G1TJxyVdXwKQ0UVa9oKcd) | 2:24 | 2023-11-09 |  |
+| [Versta Je Mij?](https://open.spotify.com/track/4FUuuk2Rh4HaSUdCSCiguc) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Versta Je Mij?](https://open.spotify.com/album/6UNeo9eNkJJo3hxEQRh7VM) | 2:24 | 2023-11-09 |  |
+| [Versta Je Mij?](https://open.spotify.com/track/5yvb2M5AYiZw6kAZyI1RdY) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Versta Je Mij?](https://open.spotify.com/album/2G1TJxyVdXwKQ0UVa9oKcd) | 2:24 | 2023-11-09 | 2023-11-11 |
 | [Vervloekt](https://open.spotify.com/track/2fLTwHxKyC7D4O4ekCGjhi) | [Zeno](https://open.spotify.com/artist/3DzZYAqD6HAy1XVai7Udb8) | [Aan De Rand Van Het Ravijn Bloeien De Mooiste Bloemen](https://open.spotify.com/album/7vcodonZM5pAQ1NZ1HIJhS) | 2:32 | 2023-02-23 | 2023-04-26 |
 | [Vier Seizoenen](https://open.spotify.com/track/0Y9BkgFnckuG7dZrJAjk3j) | [Roets](https://open.spotify.com/artist/3K0u138EjCuhbWEwUnGwmu) | [Vier Seizoenen](https://open.spotify.com/album/2FBq2bcPYnxRdYHYj7i7oZ) | 3:33 | 2023-05-12 | 2023-06-02 |
 | [Vliegen](https://open.spotify.com/track/2tnv26XNloxZMK1usRktqa) | [AISHA](https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY) | [Vliegen](https://open.spotify.com/album/3VDVZIdLTmS21GbNVyYeBL) | 2:46 | 2023-03-02 | 2023-07-11 |

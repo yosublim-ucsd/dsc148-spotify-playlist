@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,994 likes - 70 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,031 likes - 70 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 39 | [Boundaries](https://open.spotify.com/track/0EIPOXPT93Yq8NclvoZD0N) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [15 Years of Terminal M \- A\-Sides, Vol\. 2](https://open.spotify.com/album/2OyED7CAiXg10WRfqtcZGG) | 7:12 |
 | 40 | [Circular](https://open.spotify.com/track/5wki473M05c257DxpTwfYm) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [Circular EP](https://open.spotify.com/album/3S2FQUjjtMXY5Lw1U9EN0a) | 6:10 |
 | 41 | [Don't Laugh](https://open.spotify.com/track/21uqgBVyhkmQ6w3Wpjo60m) | [Josh Wink Aka Winx](https://open.spotify.com/artist/7qTQO5XvmJ13VGvxvjtMSr) | [20 Years Of Dancefloor by Smiley](https://open.spotify.com/album/40RglEFwehUJvPb8fzGNRz) | 3:26 |
-| 42 | [Born Slippy \- Original Mix](https://open.spotify.com/track/2QVPdMJdLAdCenGzDjhNnB) | [Yves Deruyter](https://open.spotify.com/artist/0jKR1DdWGSZB2hYgJq82qt) | [D\-Classics](https://open.spotify.com/album/0felMf9A9uIVwjTZu6uEwV) | 8:40 |
+| 42 | [Born Slippy \- Remastered Vocal Club Mix](https://open.spotify.com/track/1zjBvpQSw9HIfZPlziXlne) | [Yves Deruyter](https://open.spotify.com/artist/0jKR1DdWGSZB2hYgJq82qt) | [Born Slippy](https://open.spotify.com/album/0Q0BOWJ3Ykb6SHlo4ibGzA) | 8:48 |
 | 43 | [Human Robot](https://open.spotify.com/track/25VtvV3hr1j4VUr4KnTrQS) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Human Robot](https://open.spotify.com/album/34PZAeNnEDiUH3OUw5hf6a) | 6:56 |
 | 44 | [Since 94](https://open.spotify.com/track/6h5wIi5Gi9qAZgnAIHI4bv) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Since 94](https://open.spotify.com/album/5M6NyOFCdJZA83Ty9IJROy) | 5:31 |
 | 45 | [Like Forever \- Monika Kruse Remix](https://open.spotify.com/track/2Ya3VU6jVjLaPF51OXcrCU) | [Patrik Berg](https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l), [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Like Forever](https://open.spotify.com/album/6G4e1s4wLAJj6cSxBkFAP1) | 8:16 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 69 | [Hick \- Pan\-Pot Remix](https://open.spotify.com/track/5sGtHaUKoaGlp68uEp7oz6) | [Namito](https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ), [Rainer Weichhold](https://open.spotify.com/artist/5ZZEDlsQsxJqj2svh4GqZD), [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [Hick \(Pan\-Pot Remix\)](https://open.spotify.com/album/6fthnKNuVFdWZOhFFlRJEK) | 6:40 |
 | 70 | [The Beat Just Goes Straight on and On](https://open.spotify.com/track/0UOdOG9XKi7gpAD72fZo1q) | [Perry & Rhodan](https://open.spotify.com/artist/7eyhmCn1XGDpFbrWkQMXhK) | [The Beat Just Goes Straight on and On](https://open.spotify.com/album/43e0TVbRqCaVKIBnA6xqPE) | 9:53 |
 
-Snapshot ID: `MCwyYjY1Mzg0ZTkwY2UyY2FkNGU4Yzk1NzY4M2U1MmE4ZmVhNWJjNWM3`
+Snapshot ID: `MCw1MjNhY2EzNWUyNDBjNGUwNDdiMDg1ZjFmZjE4MGE3Mzk4MjE2ZTFi`

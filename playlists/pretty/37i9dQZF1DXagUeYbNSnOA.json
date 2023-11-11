@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Los W\u00e1lters. Updates every Wednesday.",
-  "num_followers": 172719,
+  "num_followers": 172734,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzYwMjdkMjM3MDNiYmFlNDMzMDhjYTc5NjNhYjJmODk1MGY5ZDJh",
+  "snapshot_id": "MCxjNmViMzllODkwNTBmMDI3YWQ0M2M2YzdjYjMwZjU1NzllZGY1NTZk",
   "tracks": [
     {
       "added_at": "2023-11-08 05:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-11-08 05:00:00",
       "album": {
-        "name": "Apocal\u00edptico",
-        "url": "https://open.spotify.com/album/0kFnFOhodIwr3UY0f2JQXn"
-      },
-      "artists": [
-        {
-          "name": "Sofia Lafuente",
-          "url": "https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Apocal\u00edptico",
-      "url": "https://open.spotify.com/track/3jpi95EBQXXKTdd510DQBe"
-    },
-    {
-      "added_at": "2023-11-08 05:00:00",
-      "album": {
         "name": "Riley (S)",
         "url": "https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 178040,
       "name": "Riley",
       "url": "https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D"
+    },
+    {
+      "added_at": "2023-11-08 05:00:00",
+      "album": {
+        "name": "Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/0kFnFOhodIwr3UY0f2JQXn"
+      },
+      "artists": [
+        {
+          "name": "Sofia Lafuente",
+          "url": "https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Apocal\u00edptico",
+      "url": "https://open.spotify.com/track/3jpi95EBQXXKTdd510DQBe"
     },
     {
       "added_at": "2023-11-08 05:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-11-08 05:00:00",
       "album": {
-        "name": "Track 001",
-        "url": "https://open.spotify.com/album/4d6T4rYs3jZZRMCRLWl8oi"
-      },
-      "artists": [
-        {
-          "name": "Vera Delacruz",
-          "url": "https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt"
-        }
-      ],
-      "duration_ms": 187682,
-      "name": "Track 001",
-      "url": "https://open.spotify.com/track/1vYa4X5IWUNj96pqGyA7Ck"
-    },
-    {
-      "added_at": "2023-11-08 05:00:00",
-      "album": {
         "name": "Hungry",
         "url": "https://open.spotify.com/album/6zMdYzZ0KUzvCUlOVJvboc"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 228181,
       "name": "Hungry",
       "url": "https://open.spotify.com/track/58p1AX65B7OIVlxahsU8hl"
+    },
+    {
+      "added_at": "2023-11-08 05:00:00",
+      "album": {
+        "name": "Track 001",
+        "url": "https://open.spotify.com/album/4d6T4rYs3jZZRMCRLWl8oi"
+      },
+      "artists": [
+        {
+          "name": "Vera Delacruz",
+          "url": "https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt"
+        }
+      ],
+      "duration_ms": 187682,
+      "name": "Track 001",
+      "url": "https://open.spotify.com/track/1vYa4X5IWUNj96pqGyA7Ck"
     },
     {
       "added_at": "2023-11-08 05:00:00",

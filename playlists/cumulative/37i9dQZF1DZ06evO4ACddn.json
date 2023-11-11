@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 58973,
       "name": "(Untitled)",
       "url": "https://open.spotify.com/track/3MwpovqVaWbXT80JRiDZ93"
@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Long Way",
+        "url": "https://open.spotify.com/album/2DfwEF4SRYhYRfZNxX3Z2K"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206605,
+      "name": "Long Way",
+      "url": "https://open.spotify.com/track/2q8zC3kA9AYPKsreJ1BoFM"
+    },
+    {
+      "album": {
         "name": "Only You Say It",
         "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
       },
@@ -610,7 +628,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 252733,
       "name": "Something I Said",
       "url": "https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq"

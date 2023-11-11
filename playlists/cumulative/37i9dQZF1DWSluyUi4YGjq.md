@@ -2,9 +2,9 @@
 
 ### [Shoegaze Now](https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq)
 
-> Gazing at pedals, soaring celestially high\. Cover: Duster
+> Gazing at pedals, soaring celestially high\. Cover: Hotline TNT
 
-483 songs - 1 day 7 hr 32 min
+490 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Hare Tarot Lies](https://open.spotify.com/track/1iZt1oFMxSDRenUeDXwAik) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Wait to Pleasure](https://open.spotify.com/album/3GWExMRNtcxPP2vcfr0HQ4) | 3:26 | 2021-10-19 | 2023-01-06 |
 | [Hare Tarot Lies](https://open.spotify.com/track/25qfsWGlqPa0o0xNQsZDJR) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Wait to Pleasure](https://open.spotify.com/album/20MccL4zJLdiQWg2TGqSB0) | 3:26 | 2023-01-04 | 2023-06-24 |
 | [Hare Tarot Lies](https://open.spotify.com/track/2dnmvOsCQXArIeuvBkgkS7) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Wait To Pleasure](https://open.spotify.com/album/1o7AiIS7ljS1jn1AuiWe8x) | 3:26 | 2021-10-19 | 2022-07-29 |
+| [Haunt You Still](https://open.spotify.com/track/2Kgnj7OQEdaiFIayFmplKC) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Haunt You Still](https://open.spotify.com/album/4hoy0xTJAWSrD0R7t0t46H) | 4:02 | 2023-11-10 |  |
 | [Hazy Youth](https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:02 | 2021-10-19 | 2023-01-14 |
 | [Heart in Your Heartbreak](https://open.spotify.com/track/5jTEWDfM9CQO7twh9a299R) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [Belong](https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ) | 3:45 | 2021-10-19 | 2023-01-05 |
 | [Heaven](https://open.spotify.com/track/79Mglh55SLtVZhS7cdZlJl) | [Dog Ears](https://open.spotify.com/artist/3JIof4HxulwCqTMAUdJQO1) | [Heaven](https://open.spotify.com/album/5DFGfWt9zj6jp7amY1nVwW) | 3:21 | 2022-08-15 | 2022-08-26 |
@@ -234,6 +235,7 @@
 | [I Can Show You Wonders](https://open.spotify.com/track/59nLZfSfprwxAA2NeESxey) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [I Can Show You Wonders](https://open.spotify.com/album/5BLy1t6Xz0XNBrHN2VIMeM) | 2:45 | 2022-08-01 | 2022-11-13 |
 | [I Just Want To See Your Face](https://open.spotify.com/track/7a5EClvwLoJO6nOKBpwqO7) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [S\-M 2: Abyss In B Minor](https://open.spotify.com/album/4I8nWyG5oG9c9HEgLvhiRR) | 2:18 | 2021-10-19 | 2022-07-25 |
 | [I Think It's Light Outside](https://open.spotify.com/track/0VFtbHmwmD2aZ3MjfOyipM) | [Secret Machines](https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn) | [The Moth, The Lizard, And The Secret Machines](https://open.spotify.com/album/21dYzZhlxvBeHShNB26zHu) | 4:31 | 2023-03-24 | 2023-05-23 |
+| [I Thought You'd Change](https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 2:51 | 2023-11-10 |  |
 | [idk how to luv](https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [idk how to luv](https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3) | 2:30 | 2023-03-10 | 2023-09-30 |
 | [im not](https://open.spotify.com/track/1xDS1zCdbKILaRSSCFe1Dq) | [sodistilled](https://open.spotify.com/artist/54S56FDCzOYP1EY3hb7wbW) | [im not](https://open.spotify.com/album/3RBo4g7bbqLAjUaxvGy34O) | 1:45 | 2023-10-13 |  |
 | [In Love with Useless \(The Timeless Geometry in the Tradition of Passing\)](https://open.spotify.com/track/6X9uwtzTwsJ58lgcqa3Vmz) | [A Sunny Day In Glasgow](https://open.spotify.com/artist/6ri0XKbaMvGEQ6r7fSee8g) | [Sea When Absent](https://open.spotify.com/album/6V15ZxQvFbfbajjXEetZrL) | 5:07 | 2021-10-19 | 2022-07-13 |
@@ -307,6 +309,7 @@
 | [Mumble](https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 2:34 | 2021-10-19 | 2023-01-14 |
 | [my only fantasy](https://open.spotify.com/track/2OumTMESFfTTtZmESGHFYf) | [.com](https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ), [Flowerbabe](https://open.spotify.com/artist/09XnRUMmZEc56NuCF343gn) | [my only fantasy](https://open.spotify.com/album/7sVSFEVIU0BlHuYYQX0Exd) | 3:45 | 2023-06-01 |  |
 | [Mystkluv](https://open.spotify.com/track/7vmjWL7aaCqjT9uJUjafRV) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Mystkluv](https://open.spotify.com/album/497cpaV4Na8AoiPSedOINu) | 2:08 | 2023-02-17 | 2023-08-05 |
+| [Need](https://open.spotify.com/track/1HieMmUMpxrIXtsBBp9zXw) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [Need](https://open.spotify.com/album/4vxYphLBQWti1UFMc2ECki) | 2:55 | 2023-11-10 |  |
 | [NeverTell](https://open.spotify.com/track/2h9enlWVlKJ1KRY4t2B71n) | [betterluckmason](https://open.spotify.com/artist/3n50HiEZZUPpdSO14AZxXz) | [just like me](https://open.spotify.com/album/7GoXTfLPictlLe03lvQxa5) | 2:08 | 2023-08-14 |  |
 | [Night Drive](https://open.spotify.com/track/2SKqIW7fbbWKZ0PmRZKWO6) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Day By Day](https://open.spotify.com/album/5RvCTlW4viz8e0ysvQCD9n) | 4:57 | 2021-10-19 | 2023-05-25 |
 | [night is young](https://open.spotify.com/track/3mALM7a4cLufetyxSUPbl5) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [nightlife](https://open.spotify.com/album/3JJ19TTxz8N9n3wnMK2gS7) | 5:44 | 2022-12-15 | 2023-05-10 |
@@ -320,6 +323,7 @@
 | [Oceans](https://open.spotify.com/track/53WUmuG7PPNjtbRWoN56SA) | [JAUS](https://open.spotify.com/artist/0m43w9Hjef7w2XWtttk7j2) | [Oceans](https://open.spotify.com/album/1k3X1D3AnKLXo1mnMk1WeC) | 3:17 | 2021-10-19 | 2022-07-29 |
 | [Océano](https://open.spotify.com/track/72Qedzj7OHNDti4yTh7YuD) | [Resplandor](https://open.spotify.com/artist/3vgAuHUBcrSQgTqNMcNk6o) | [Tristeza](https://open.spotify.com/album/0cTKav3mJnKD4SefScUVgY) | 7:36 | 2022-06-29 | 2022-08-04 |
 | [On High](https://open.spotify.com/track/3UqJ0TTT3WSe9k5VNipZDv) | [Soundpool](https://open.spotify.com/artist/2vkjEcWfKySAsYcwpRRGn4) | [On High](https://open.spotify.com/album/157hEnA1WdlHwTinWyJlms) | 6:15 | 2021-10-19 | 2022-07-29 |
+| [Once then we'll be free](https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Once then we'll be free](https://open.spotify.com/album/4vIM3lUezeQRsuevPU1h4N) | 3:23 | 2023-11-10 |  |
 | [One Day](https://open.spotify.com/track/4saJggfntxQyb3Ro8mk03U) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [All We've Ever Known](https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK) | 3:03 | 2023-02-09 | 2023-06-08 |
 | [One Plus One Equals Three or More](https://open.spotify.com/track/1gnNQYEALMHJjvPgoz3mSq) | [Mahogany](https://open.spotify.com/artist/4Ik5hkDngW1R1Y4aWdNumq) | [Connectivity](https://open.spotify.com/album/1bbOTE9iLIqx7qKPBgX6Zd) | 3:04 | 2021-10-19 | 2022-07-28 |
 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 | 2022-06-20 | 2023-01-05 |
@@ -368,6 +372,7 @@
 | [Sapphire](https://open.spotify.com/track/5DFnmcshyxsonqTvanqZPY) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Spiritual Instinct](https://open.spotify.com/album/6o13o3tlmwPYFnlIrVoRhh) | 5:00 | 2021-10-19 | 2023-06-08 |
 | [Saved For Summer](https://open.spotify.com/track/1vdGnzQYnZniAsJngfkIFP) | [SRSQ](https://open.spotify.com/artist/7oTWrSAsrqQnBE1LRUBZPE) | [Saved For Summer](https://open.spotify.com/album/0vzA5mPgaRnHycfywhbTNS) | 5:19 | 2022-08-19 | 2022-09-29 |
 | [Scapa Flow](https://open.spotify.com/track/1Qw8bC0vgxhLx1kLcNFEkk) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Scapa Flow](https://open.spotify.com/album/4aFQWkk0HOEz3zjxzj207N) | 3:59 | 2023-08-04 |  |
+| [season](https://open.spotify.com/track/0tyZQfY6yHmfLsoOdJc8bd) | [Otherside](https://open.spotify.com/artist/1tgCXu3R4Q87v25CaUKaJf) | [season/everblue](https://open.spotify.com/album/1tpA5j4ugBgRdiv0QHeDbj) | 4:37 | 2023-11-10 |  |
 | [Send the Pain Below](https://open.spotify.com/track/6OxubR1H6gRz3VzYt37Sex) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Send the Pain Below](https://open.spotify.com/album/6L0Z8t0A1iZhcAtJRfpXnh) | 4:42 | 2023-02-17 | 2023-09-30 |
 | [Seven of Cups](https://open.spotify.com/track/0fk0PlLPH4ko6acyM6ajPY) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Fairy Rust](https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7) | 3:53 | 2022-08-03 | 2022-12-16 |
 | [Shallow](https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Flash Memory](https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1) | 2:15 | 2022-05-06 | 2022-07-29 |
@@ -472,11 +477,13 @@
 | [While My Waves Wonder](https://open.spotify.com/track/5dyA5FqCFFmkA4L7dxBmvQ) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [For you, Adroit it but soft](https://open.spotify.com/album/6PsMKSlBsn8VZkQS9tpJpm) | 4:25 | 2022-01-14 | 2023-01-13 |
 | [Whirring](https://open.spotify.com/track/2XbqxKjCnE9YWfPRqwgtPq) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [The Big Roar](https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet) | 6:47 | 2021-10-19 | 2023-06-08 |
 | [white lies](https://open.spotify.com/track/3lDy1Sju7eDqMtTIzbOu4v) | [kenesukoh](https://open.spotify.com/artist/7rLnYGZPu6KJ3IovPMYaBr), [flyingfish](https://open.spotify.com/artist/2H1qAWvpGO8W5iGjmyA6Jt) | [white lies](https://open.spotify.com/album/2rGnMJlNVjHeXp5WHTVWuq) | 2:38 | 2023-08-04 | 2023-08-19 |
+| [White Sneakers](https://open.spotify.com/track/4KIcY3th1XcJVMymflaFFc) | [Spunsugar](https://open.spotify.com/artist/2NDWJvRwXGTFBngWiSNLu9) | [White Sneakers](https://open.spotify.com/album/0pH6jvAR3LrCGQFL5AH5ts) | 2:53 | 2023-11-10 |  |
 | [Who's Counting](https://open.spotify.com/track/1UMij8I1SjJi3Syusg35sp) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [11•11•11](https://open.spotify.com/album/5mGJloHxjO2igmx9XJKAeJ) | 4:01 | 2023-02-09 | 2023-03-25 |
 | [Wildflower](https://open.spotify.com/track/66JAiAww71cy0rv3c8567D) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Wildflower](https://open.spotify.com/album/6A6CGSfKoccrpb1ffz7uRj) | 3:01 | 2023-06-20 | 2023-07-01 |
 | [wish i knew](https://open.spotify.com/track/4XUuhwGsTx0H7IvWWAXVTC) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [What Kind of Blue Are You?](https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF) | 3:39 | 2023-02-17 | 2023-08-05 |
 | [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 | 2023-04-14 |  |
 | [wonder if u care](https://open.spotify.com/track/0KdEx2ETCXYZeEVAZS4sJ4) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [wonder if u care](https://open.spotify.com/album/3oPOkIUqeSMxKV5cS39kl4) | 2:14 | 2023-06-07 |  |
+| [Ya No Tengo Palabras](https://open.spotify.com/track/752g0fnwU1cFE0W5gDqlmK) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [Ya No Tengo Palabras](https://open.spotify.com/album/2bzgNtHlgsYqKrmaVpOoVj) | 4:21 | 2023-11-10 |  |
 | [Yeah](https://open.spotify.com/track/2mi591KXRdGMQywpDesRlb) | [TRPP](https://open.spotify.com/artist/1aBpZ0N9BHa5pVM8oKhT0D) | [TRPP](https://open.spotify.com/album/4MCb03enJHRY5ovHpoHWQT) | 2:30 | 2022-12-15 | 2023-03-14 |
 | [You](https://open.spotify.com/track/4KAXCtaIkLzAlajKxpeTDb) | [Animal Ghosts](https://open.spotify.com/artist/2LIlJiCuWBLpBSZQnTvEZU) | [Wake](https://open.spotify.com/album/6YraI2Zbhs2OXrwFJn9HZ8) | 4:55 | 2023-02-17 | 2023-10-21 |
 | [You Can't Have Your Cake and Ego Too \(Happy Birthday\) \- Audiotree Live version](https://open.spotify.com/track/3uF3pwjo99lnmOcFy3Ve1w) | [Seafoam Walls](https://open.spotify.com/artist/38sXpZuO83ogEnlGr3zC90), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [Seafoam Walls on Audiotree Live](https://open.spotify.com/album/0ZDABzfMWnxiBxem8S1Eac) | 4:41 | 2023-08-04 | 2023-09-02 |

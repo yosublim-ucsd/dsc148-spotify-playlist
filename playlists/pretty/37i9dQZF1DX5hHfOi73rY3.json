@@ -1,36 +1,32 @@
 {
   "description": "Classic party anthems from the club to your ears!",
-  "num_followers": 275291,
+  "num_followers": 275336,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjc5MWZmMzdkMzdlMTExNWM2NDA4ZjI4NWVmOTBlYjFmYTg1NDYz",
+  "snapshot_id": "MCw4ZjA0NTc4ZmM0MDMwMmU0Njk4M2FmZjFhMDgyNTU1ZTVmYjA2NThi",
   "tracks": [
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "My Head Is A Jungle (MK Remix / Radio Edit)",
-        "url": "https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn"
+        "name": "My Head Is a Jungle",
+        "url": "https://open.spotify.com/album/7LZrOVls554bqUDQvzCU4z"
       },
       "artists": [
         {
-          "name": "Wankelmut",
-          "url": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
+          "name": "Shawkie",
+          "url": "https://open.spotify.com/artist/3ZvGfQARM0fy65J41kZqOy"
         },
         {
-          "name": "Emma Louise",
-          "url": "https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "lizardlovesme",
+          "url": "https://open.spotify.com/artist/7GSKSelxJPhrZ7DJ0Zb6Cv"
         }
       ],
-      "duration_ms": 205161,
-      "name": "My Head Is A Jungle - MK Remix / Radio Edit",
-      "url": "https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB"
+      "duration_ms": 206053,
+      "name": "My Head Is a Jungle - MK Remix",
+      "url": "https://open.spotify.com/track/3vKDUus5dTKs4w8goLFbXs"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -519,22 +515,6 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "Different Sides Of The Sun",
-        "url": "https://open.spotify.com/album/5w2vOtzeCbWhxcrHTzkwO6"
-      },
-      "artists": [
-        {
-          "name": "Hot Natured",
-          "url": "https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3"
-        }
-      ],
-      "duration_ms": 399310,
-      "name": "Benediction",
-      "url": "https://open.spotify.com/track/5RJc9Ex116Dx1zHGUOZGgX"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
         "name": "It's the Arps",
         "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
       },
@@ -547,6 +527,22 @@
       "duration_ms": 400751,
       "name": "Inspector Norse",
       "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "Different Sides Of The Sun",
+        "url": "https://open.spotify.com/album/5w2vOtzeCbWhxcrHTzkwO6"
+      },
+      "artists": [
+        {
+          "name": "Hot Natured",
+          "url": "https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3"
+        }
+      ],
+      "duration_ms": 399310,
+      "name": "Benediction",
+      "url": "https://open.spotify.com/track/5RJc9Ex116Dx1zHGUOZGgX"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -599,22 +595,6 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "Coma Cat",
-        "url": "https://open.spotify.com/album/6nw5kO6PPxOI2RzuNX7Bya"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        }
-      ],
-      "duration_ms": 177621,
-      "name": "Coma Cat",
-      "url": "https://open.spotify.com/track/48gv7cE3Fs4DNNSgWkbu1f"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
         "name": "Deep Down Low",
         "url": "https://open.spotify.com/album/1md43OqpB2SKqTmKR1q1YQ"
       },
@@ -627,6 +607,22 @@
       "duration_ms": 190476,
       "name": "Deep Down Low",
       "url": "https://open.spotify.com/track/48zgbsLhb3MirBgXt44nlH"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "Coma Cat",
+        "url": "https://open.spotify.com/album/6nw5kO6PPxOI2RzuNX7Bya"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "duration_ms": 177621,
+      "name": "Coma Cat",
+      "url": "https://open.spotify.com/track/48gv7cE3Fs4DNNSgWkbu1f"
     },
     {
       "added_at": "2020-11-06 16:59:04",

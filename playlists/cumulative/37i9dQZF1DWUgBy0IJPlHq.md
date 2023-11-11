@@ -2,7 +2,7 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Dylan Gossett
+> A new shade of Country\. Cover: Goldie Boutilier
 
 508 songs - 1 day 7 hr 20 min
 

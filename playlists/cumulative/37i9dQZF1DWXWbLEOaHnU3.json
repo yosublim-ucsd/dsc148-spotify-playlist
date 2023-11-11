@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 379130,
       "name": "Dark Oscillator",
       "url": "https://open.spotify.com/track/4ioCpFK3ZYGHCLwIIV3NOW"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 220869,
       "name": "End Of The End (feat. Krigar\u00e8)",
       "url": "https://open.spotify.com/track/322F7GxsKWwpo3Za2cHAHD"
@@ -1845,6 +1845,28 @@
     },
     {
       "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB"
+      },
+      "artists": [
+        {
+          "name": "Sighter",
+          "url": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM"
+        },
+        {
+          "name": "Vegas (Brazil)",
+          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349014,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts"
+    },
+    {
+      "album": {
         "name": "Foresight",
         "url": "https://open.spotify.com/album/5h8eQnis3E78Hf5n9hUFPa"
       },
@@ -1996,6 +2018,32 @@
       "duration_ms": 435428,
       "name": "Frequency - Aura Vortex Remix",
       "url": "https://open.spotify.com/track/057ud3gUiKPOJ6CY696J4I"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/3P3z3KduDcw91gjW49aFvz"
+      },
+      "artists": [
+        {
+          "name": "Off Limits",
+          "url": "https://open.spotify.com/artist/3lfps4zRbW0NyfIptTYmvn"
+        },
+        {
+          "name": "Davee",
+          "url": "https://open.spotify.com/artist/4bPPMaeetFSybJAoj46xc2"
+        },
+        {
+          "name": "Ela",
+          "url": "https://open.spotify.com/artist/3J5UsA4WBV9r35hxBVT7BU"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273043,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/1VdyrwMU78RwFjR8m5nbjB"
     },
     {
       "album": {
@@ -2208,7 +2256,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 348274,
       "name": "Gracias a la Vida",
       "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
@@ -2454,6 +2502,28 @@
       "duration_ms": 377058,
       "name": "High Pressure",
       "url": "https://open.spotify.com/track/3RMouv8TGwWC1fVqehAIf7"
+    },
+    {
+      "album": {
+        "name": "Home Alone (Monod Remix)",
+        "url": "https://open.spotify.com/album/5Ulmb846NA4czgUxJhFW7f"
+      },
+      "artists": [
+        {
+          "name": "Querox",
+          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
+        },
+        {
+          "name": "Monod",
+          "url": "https://open.spotify.com/artist/0DTLDYZ7bYC0YAF1xV5VLO"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421739,
+      "name": "Home Alone - Monod Remix",
+      "url": "https://open.spotify.com/track/1buw9pvNITeKeknoXa8BAn"
     },
     {
       "album": {
@@ -2772,7 +2842,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 406478,
       "name": "Keleno",
       "url": "https://open.spotify.com/track/3167iOe6WMN5VgukbH8EXw"
@@ -2990,7 +3060,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 236978,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz"
@@ -3192,7 +3262,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 264827,
       "name": "Moon",
       "url": "https://open.spotify.com/track/4f74UUKnBwnA37nNca9gYR"
@@ -4024,6 +4094,28 @@
       "duration_ms": 252191,
       "name": "remote flow dynamics",
       "url": "https://open.spotify.com/track/1AR79Gd3IRhRIQgR1Od96Y"
+    },
+    {
+      "album": {
+        "name": "Beautiful Chaos",
+        "url": "https://open.spotify.com/album/2hIoFlyPVkXV3YnCjEQgQh"
+      },
+      "artists": [
+        {
+          "name": "Killerwatts",
+          "url": "https://open.spotify.com/artist/2TWfxrplORQwuUCsF9husH"
+        },
+        {
+          "name": "Mandala (UK)",
+          "url": "https://open.spotify.com/artist/7j2bx3162YIltBZRP4GZDF"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395586,
+      "name": "Rescue Remedy",
+      "url": "https://open.spotify.com/track/40O6AD4vJI620KuFjAdWSV"
     },
     {
       "album": {
@@ -4957,6 +5049,32 @@
     },
     {
       "album": {
+        "name": "Tarana",
+        "url": "https://open.spotify.com/album/4ouAOgbFPL5pRy82jyOxk4"
+      },
+      "artists": [
+        {
+          "name": "Shanti People",
+          "url": "https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt"
+        },
+        {
+          "name": "Frank Deka",
+          "url": "https://open.spotify.com/artist/5x8kUiebqSVggbcIzui9Bg"
+        },
+        {
+          "name": "HEMANT",
+          "url": "https://open.spotify.com/artist/0iWkV1G9VweYDTxbWk3IXc"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368695,
+      "name": "Tarana",
+      "url": "https://open.spotify.com/track/1nAL2tNR71SJ7b7292chgQ"
+    },
+    {
+      "album": {
         "name": "Target",
         "url": "https://open.spotify.com/album/7eipZe6Qo52Fy4YotaZt8C"
       },
@@ -5060,6 +5178,24 @@
       "duration_ms": 346285,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/1QaKngKWfN3844s6ZcFFd9"
+    },
+    {
+      "album": {
+        "name": "The Flute",
+        "url": "https://open.spotify.com/album/2Mrn48wJyywIA05mKXbsPl"
+      },
+      "artists": [
+        {
+          "name": "Zanon",
+          "url": "https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287323,
+      "name": "The Flute",
+      "url": "https://open.spotify.com/track/3CxCYDCB8JCAhqoYGlq8Kf"
     },
     {
       "album": {
@@ -5586,7 +5722,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 178285,
       "name": "War of the Gods",
       "url": "https://open.spotify.com/track/2fSuULcE8VMeOHxBsXIy0d"
@@ -5862,6 +5998,24 @@
       "duration_ms": 257357,
       "name": "Wonders",
       "url": "https://open.spotify.com/track/6d1AuFOL1YBzLcruapNbZV"
+    },
+    {
+      "album": {
+        "name": "Yanama",
+        "url": "https://open.spotify.com/album/5cLKUdubMNHvv1gUwjwVjr"
+      },
+      "artists": [
+        {
+          "name": "Raz",
+          "url": "https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238344,
+      "name": "Yanama",
+      "url": "https://open.spotify.com/track/06KGxO0cdlQl0cD0Y4LHxh"
     },
     {
       "album": {

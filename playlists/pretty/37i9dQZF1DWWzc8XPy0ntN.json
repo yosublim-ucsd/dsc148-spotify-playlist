@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 123442,
+  "num_followers": 123450,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDNkMDFmNjE2YWU4NzdmOTRlZThlM2NhMTY1MGFmZTNmNzNmNjMx",
+  "snapshot_id": "MCw0NDFhNWU3YmE5MTM2YjNhNWRjNDZiNTRhMjJiNGE1MTlkNzU3Y2Iy",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Individuality Riddim",
-        "url": "https://open.spotify.com/album/2QQ714tuWG924CXN9H150s"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 398629,
-      "name": "Individuality Riddim",
-      "url": "https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Mirla",
         "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
       },
@@ -419,22 +403,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Koro Kemboro",
-        "url": "https://open.spotify.com/album/2a99LCBq1HLVEym4R7iHYF"
+        "name": "Individuality Riddim",
+        "url": "https://open.spotify.com/album/2QQ714tuWG924CXN9H150s"
       },
       "artists": [
         {
-          "name": "Miki Gonzalez",
-          "url": "https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy"
-        },
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
         }
       ],
-      "duration_ms": 303197,
-      "name": "Koro Kemboro",
-      "url": "https://open.spotify.com/track/0WpeystVcDypHRUhfrRBuz"
+      "duration_ms": 398629,
+      "name": "Individuality Riddim",
+      "url": "https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -459,6 +439,26 @@
       "duration_ms": 287582,
       "name": "In Your Head - Subxet Remix",
       "url": "https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Koro Kemboro",
+        "url": "https://open.spotify.com/album/2a99LCBq1HLVEym4R7iHYF"
+      },
+      "artists": [
+        {
+          "name": "Miki Gonzalez",
+          "url": "https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy"
+        },
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        }
+      ],
+      "duration_ms": 303197,
+      "name": "Koro Kemboro",
+      "url": "https://open.spotify.com/track/0WpeystVcDypHRUhfrRBuz"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -583,6 +583,26 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Nuestra Forma",
+        "url": "https://open.spotify.com/album/1yubXuGPPftP0P8KcOhIZx"
+      },
+      "artists": [
+        {
+          "name": "DJs Pareja",
+          "url": "https://open.spotify.com/artist/5oTo90z4UYa7QUQ3Je3dQ7"
+        },
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 347073,
+      "name": "No Puedo Funcionar",
+      "url": "https://open.spotify.com/track/6NTvPhG0uLiXLSjhNMOZAT"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Mas Amable",
         "url": "https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 337102,
       "name": "Dreamy Hamilton - Oneironautics Remix",
       "url": "https://open.spotify.com/track/0uVfcsjX9FX0VRU3sn2PyR"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Nuestra Forma",
-        "url": "https://open.spotify.com/album/1yubXuGPPftP0P8KcOhIZx"
-      },
-      "artists": [
-        {
-          "name": "DJs Pareja",
-          "url": "https://open.spotify.com/artist/5oTo90z4UYa7QUQ3Je3dQ7"
-        },
-        {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
-        }
-      ],
-      "duration_ms": 347073,
-      "name": "No Puedo Funcionar",
-      "url": "https://open.spotify.com/track/6NTvPhG0uLiXLSjhNMOZAT"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Afrotrip",
+        "url": "https://open.spotify.com/album/4Ita5yp1OjGhZqdmuiEGug"
+      },
+      "artists": [
+        {
+          "name": "Frikstailers",
+          "url": "https://open.spotify.com/artist/3kGiP6mQDtEZG5UD7mAlBH"
+        }
+      ],
+      "duration_ms": 275063,
+      "name": "Afrotrip",
+      "url": "https://open.spotify.com/track/0n84JDWB6PWHobrArjK1m1"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Ancient Astronauts",
         "url": "https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 415971,
       "name": "Forerunner",
       "url": "https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "La Nueva Mortalidad (Remaster 2021)",
-        "url": "https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 351157,
-      "name": "La Nueva Mortalidad",
-      "url": "https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

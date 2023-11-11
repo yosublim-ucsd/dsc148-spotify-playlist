@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkAZcxd2m10.md) - [plain]
 
 > La playlist oficial de A través de mi ventana\.  <a href=“https://www.netflix.com/title/81388078”>Ver en Netflix </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,621 likes - 29 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,750 likes - 29 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkAZcxd2m10.md) - [plain]
 | 5 | [So So](https://open.spotify.com/track/7s9xtALBX5o96TjRB7R078) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [So So](https://open.spotify.com/album/6jpd8mseja2OVaHniWe0Oa) | 2:05 |
 | 6 | [Tech Love \(Otra Vez\)](https://open.spotify.com/track/6ybpv1iwdGEkgHF9PB8Tyg) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa) | [Life After House](https://open.spotify.com/album/2yx5Yly6c6S3RHAcdVutBk) | 5:27 |
 | 7 | [Or Nai Long](https://open.spotify.com/track/0uwAIK45bT5bY4FDxDhWd6) | [VAN17INO6](https://open.spotify.com/artist/1KvmfQHAXGVqhTeFJRAGpT), [David Clean](https://open.spotify.com/artist/62NsSctz6AanUTNNfk012C) | [ER PATIO LOS NEONES](https://open.spotify.com/album/7JFECM0keqEPTGLrXIcJvR) | 3:06 |
-| 8 | [Si No Te Vuelvo a Ver](https://open.spotify.com/track/0OwZ3lqdQfnEZ074m2VXm0) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d) | [Reggaeton Romantico Vol 1](https://open.spotify.com/album/6tT4rOPYC3adYrCmBWOXy6) | 3:19 |
+| 8 | [Si No Te Vuelvo a Ver](https://open.spotify.com/track/0OwZ3lqdQfnEZ074m2VXm0) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d), [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ) | [Reggaeton Romantico Vol 1](https://open.spotify.com/album/6tT4rOPYC3adYrCmBWOXy6) | 3:19 |
 | 9 | [Quiero Que Vengas](https://open.spotify.com/track/2eucUeV1hvStstsZMXxJVV) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Pero No Pasa Nada](https://open.spotify.com/album/64hXEHSg8N1MsIEidDSIyy) | 3:17 |
 | 10 | [Pulpito Reversible](https://open.spotify.com/track/1aGwFVcg2qjgxzITmuwHUz) | [Autotune Angel](https://open.spotify.com/artist/51QnHDUuSZ6xZWeCIxtoyT), [Lopoint](https://open.spotify.com/artist/7HhLB2JQ70uBnLeDnovNcK) | [Pulpito Reversible](https://open.spotify.com/album/1YOHRIkTqiXwObR5iWq92D) | 1:36 |
 | 11 | [Invierno Nuclear](https://open.spotify.com/track/0wK1nvACkwDtDPAL0PmE6E) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Escama](https://open.spotify.com/album/4NYnACTDLJ1YHcbnEpPh7D) | 4:34 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkAZcxd2m10.md) - [plain]
 | 28 | [Devil I Know](https://open.spotify.com/track/6KF3l0dtaqHanpwJVmz3mB) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God](https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H) | 2:52 |
 | 29 | [Te Odio, Te Amo \- De A Través de Mi Ventana](https://open.spotify.com/track/37U0V2N263MEmj1PTnz7yp) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu) | [Te Odio, Te Amo \(De A Través de Mi Ventana\)](https://open.spotify.com/album/5Do3EOBrmyXa3DQMzu3CM8) | 2:58 |
 
-Snapshot ID: `MCxkNTU4NWYxYmJjZGQ4NjdhZTYyNTdiMGIwZmVhNDFmMWU5MGMxZDRk`
+Snapshot ID: `MCw5YzMxYzhjMjU4YTBhYThjNTU0OTc4NDcwMTZlNDUyNGMzYzZkNzc1`

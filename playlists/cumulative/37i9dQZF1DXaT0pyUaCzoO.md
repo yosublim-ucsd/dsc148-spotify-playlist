@@ -4,7 +4,7 @@
 
 > Songs of pride and empowerment to enjoy with little listeners\. Cover: That Girl Lay Lay.
 
-81 songs - 5 hr 2 min
+82 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Be The King](https://open.spotify.com/track/00kWP7HRLE3c0uI3W6DISD) | [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ) | [Tha Cheat Code Reloaded](https://open.spotify.com/album/3UakmIN0DbXOxm1yNmnRz3) | 3:13 | 2020-07-06 |  |
 | [Beautiful Brown Babies](https://open.spotify.com/track/1LGCQIlWcXgSEBCzX1otrj) | [Kymberly Stewart](https://open.spotify.com/artist/6ZyiT23t4CIQS7trCGpV1f) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 3:09 | 2021-06-18 |  |
 | [Big Curly Afro](https://open.spotify.com/track/04WZC905rQAOkoQRVgEXGq) | [Ms\. Niki](https://open.spotify.com/artist/126iLhrucMwXb50bDUYazJ) | [Big Curly Afro](https://open.spotify.com/album/5SlK1Q23Ayr8j54yYo4g1g) | 1:26 | 2021-06-08 |  |
-| [Black Gold](https://open.spotify.com/track/7cOJRyrJLpN5kcqPKZuBTS) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5), [Algebra Blessett](https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Best Bass Guitar Riffs](https://open.spotify.com/album/1DCIJct7ZhwnUstusKAkVo) | 5:14 | 2020-07-06 |  |
+| [Black Gold](https://open.spotify.com/track/7cOJRyrJLpN5kcqPKZuBTS) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5), [Algebra Blessett](https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Best Bass Guitar Riffs](https://open.spotify.com/album/1DCIJct7ZhwnUstusKAkVo) | 5:14 | 2020-07-06 | 2023-11-11 |
+| [Black Gold](https://open.spotify.com/track/3j30NMimTbUCiLx0LphpLQ) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5), [Algebra Blessett](https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Radio Music Society](https://open.spotify.com/album/0GRy0tSYoSbtuOziEDnDnZ) | 5:16 | 2023-02-03 |  |
 | [Black Gxrl Magic](https://open.spotify.com/track/6bZsfL0BjVAW3lrjOrS0yL) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Honey Mahogany](https://open.spotify.com/artist/6dmjsPDiHUMy3qNs1vstDr), [Lillian Ellis](https://open.spotify.com/artist/3NMki7IkQYSeaKIjqqc6fx), [Madlines](https://open.spotify.com/artist/0DjFf8VJuIkdcSx0THejRv), [Maya Fleming](https://open.spotify.com/artist/3cyZB4REHxF9sB7trHZpau), [RyanNicole](https://open.spotify.com/artist/22UvQ2RMtVw1iuSo1yAOdM), [Samara Atkins](https://open.spotify.com/artist/4K5GXYc2IDxUJmF5OL4BBz) | [The Love](https://open.spotify.com/album/1KXBAJuLCtlby4JpDcvcTt) | 3:27 | 2020-07-06 |  |
 | [Black Like Me](https://open.spotify.com/track/239xopha4cJfbAfhX76FEQ) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Black Like Me](https://open.spotify.com/album/2Zwm1TtDs0E9b1LV2YUhLO) | 3:30 | 2020-07-06 |  |
 | [Black Lives Made STEM History](https://open.spotify.com/track/78MBph27OvsmvxCauXGZOx) | [Roy Moye III](https://open.spotify.com/artist/1FBZZD3fC7SuYBb8PsZWuf) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 3:14 | 2021-06-18 |  |

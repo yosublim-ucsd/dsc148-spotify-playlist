@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-188 songs - 12 hr 12 min
+192 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Beauty](https://open.spotify.com/track/4sTJvOr6fwdXXQebRajeWl) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 1:58 | 2022-05-19 | 2023-10-01 |
 | [Behind the Waterfall](https://open.spotify.com/track/4bqyQQx0Ezeun0Eem2OqlI) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Behind the Waterfall](https://open.spotify.com/album/3QH8aE7f8JB0nU8YrK5Bz8) | 2:49 | 2022-08-11 |  |
 | [Blis](https://open.spotify.com/track/7pVau53NvKbQ02gKoDgxJi) | [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U), [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [Naer](https://open.spotify.com/album/46gUlev9vSy4mLtR9Ec5Vl) | 3:30 | 2022-10-14 |  |
-| [Bohemian Paradise](https://open.spotify.com/track/4nHM6GfKNeSrdvS2GDVJoj) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In The Age of Aristocracy: 2nd Anniversary Extended Edition](https://open.spotify.com/album/2p0SMYANCPd3P7k01sXboc) | 4:54 | 2023-09-19 |  |
+| [Bohemian Paradise](https://open.spotify.com/track/4nHM6GfKNeSrdvS2GDVJoj) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In The Age of Aristocracy: 2nd Anniversary Extended Edition](https://open.spotify.com/album/2p0SMYANCPd3P7k01sXboc) | 4:54 | 2023-09-19 | 2023-11-11 |
+| [Bohemian Paradise](https://open.spotify.com/track/6IdB80rkZp5uaKooVoxpjA) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In the Age of Aristrocracy \(2 Year Anniversary Extended Edition\)](https://open.spotify.com/album/0x6TBcRG1kyb1Rh5RvXfUL) | 4:54 | 2023-10-12 |  |
 | [Bohemian Paradise](https://open.spotify.com/track/76BZeboUrTw8niFWxWET13) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In the Age of Aristocracy](https://open.spotify.com/album/2VyzPKVjOkYIlevXe7midR) | 4:54 | 2022-05-19 | 2023-09-28 |
 | [Break The Cycle](https://open.spotify.com/track/5dUpUWlBPGIydeG9Ew0fQa) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 4:46 | 2022-05-19 | 2023-10-01 |
 | [Calming Measures](https://open.spotify.com/track/3e1oAxlPBpRF2LQSF7ZkhQ) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Calming Measures](https://open.spotify.com/album/1I4EAT9tMeRya2VeCdABH8) | 3:18 | 2023-09-19 |  |
@@ -161,7 +162,8 @@
 | [Sleet](https://open.spotify.com/track/1e3ZjpUwm6yRzVaqIIHWdc) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 8:28 | 2022-07-22 |  |
 | [Sleet](https://open.spotify.com/track/6pfrUVPhrk2qe9BtVOeXwq) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/6KSHRNQJG4N4m3KHA29foi) | 8:28 | 2022-05-19 | 2022-07-29 |
 | [Spatial Sequence](https://open.spotify.com/track/2Ou7ikF9Rik2sqoNKbVuiV) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Dream Park](https://open.spotify.com/artist/36kknE0aD5Ty1Iq6AoZuVe) | [Spatial Sequence](https://open.spotify.com/album/1O7kDxbqeo0fxeKaJACnGa) | 4:08 | 2023-03-24 |  |
-| [Spheroidal](https://open.spotify.com/track/1vxzqff8m6YqPRt2LmWND5) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Spheroidal](https://open.spotify.com/album/0lBQfzaDx2ZqdsNVwatO9h) | 2:15 | 2022-11-11 |  |
+| [Spheroidal](https://open.spotify.com/track/1vxzqff8m6YqPRt2LmWND5) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Spheroidal](https://open.spotify.com/album/0lBQfzaDx2ZqdsNVwatO9h) | 2:15 | 2022-11-11 | 2023-11-11 |
+| [Spheroidal](https://open.spotify.com/track/3bpExPx48Z9g89K10PkUgY) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Spheroidal](https://open.spotify.com/album/6foSqKNWGpbKvaftUxOkOZ) | 2:15 | 2023-10-12 |  |
 | [Starry Night \- No piano melody](https://open.spotify.com/track/0EorrnTG4RA05pDMGvJ2mQ) | [Helios Relaxing Space](https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB) | [Restfulness](https://open.spotify.com/album/3GizvT7eewjRZ5JglHUqto) | 3:46 | 2023-03-10 |  |
 | [Stepping Into Awareness \(Instrumental\)](https://open.spotify.com/track/1tj6iPD0KyAKSQJNebSe6W) | [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Presence \(Instrumentals\)](https://open.spotify.com/album/3VGeGqWVDT6QUFHBQkEdpA) | 8:06 | 2022-05-19 | 2023-10-01 |
 | [Strewn Across](https://open.spotify.com/track/0kuBMsyIEjgPEvxumcFUTV) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Strewn Across](https://open.spotify.com/album/4kmgmdpvu4blESSHvIV5we) | 2:36 | 2023-09-19 |  |
@@ -171,8 +173,10 @@
 | [Svävar Fritt](https://open.spotify.com/track/659cjc6eOg0WCNDaQR4M2v) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Svävar Fritt](https://open.spotify.com/album/66t57sgwrX5Nz1gAtsvIfu) | 3:04 | 2023-09-19 |  |
 | [Sweet Instability](https://open.spotify.com/track/2Z6TNKXEGu5D1WXJwDGFEQ) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 3:54 | 2022-05-19 |  |
 | [syoumetu](https://open.spotify.com/track/5o4IvJn8DXzCAxqbyxhoMV) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [When](https://open.spotify.com/album/14f0xFa3GqV6Ci0W4XKrzX) | 3:02 | 2023-03-10 |  |
-| [Tender Heartbeat](https://open.spotify.com/track/5cp7kcxfvz6mfJlcepXI1x) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Tender Heartbeat](https://open.spotify.com/album/11M1tPTkpIEawmsTtRygak) | 2:09 | 2023-08-18 |  |
-| [Tender Love](https://open.spotify.com/track/6pniqT6V5tqFo5tukYskZ9) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Tender Love](https://open.spotify.com/album/23oAQoOmAC5xuhtuM97bxi) | 2:09 | 2023-08-18 |  |
+| [Tender Heartbeat](https://open.spotify.com/track/5cp7kcxfvz6mfJlcepXI1x) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Tender Heartbeat](https://open.spotify.com/album/11M1tPTkpIEawmsTtRygak) | 2:09 | 2023-08-18 | 2023-11-11 |
+| [Tender Heartbeat](https://open.spotify.com/track/6aOeuVVQfOj1vfN8jYqEPo) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Tender Heartbeat](https://open.spotify.com/album/61mOOdRJ6JAnCqP3OE3JsC) | 2:09 | 2023-10-12 |  |
+| [Tender Love](https://open.spotify.com/track/6pniqT6V5tqFo5tukYskZ9) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Tender Love](https://open.spotify.com/album/23oAQoOmAC5xuhtuM97bxi) | 2:09 | 2023-08-18 | 2023-11-11 |
+| [Tender Love](https://open.spotify.com/track/7p6lihQg27Oj3epadrLBZ9) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Tender Love](https://open.spotify.com/album/55kdd6zXr1be4yQCmJHdPJ) | 2:09 | 2023-10-12 |  |
 | [Then](https://open.spotify.com/track/5Ij5ddGh0JCn6i6yGoC6Tf) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Then](https://open.spotify.com/album/6Yj7uh3SXxi4OCpy9qTymc) | 3:27 | 2022-09-12 |  |
 | [Through The Mist](https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Through The Mist](https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C) | 2:42 | 2022-10-21 |  |
 | [Through the Sky](https://open.spotify.com/track/5tbZ3AHIz1YfOFe2ceut3X) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Moving On](https://open.spotify.com/album/6A2eoA23xDnjlq0YkFUv3W) | 10:02 | 2022-05-19 | 2023-10-01 |

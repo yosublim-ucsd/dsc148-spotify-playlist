@@ -1,12 +1,12 @@
 {
   "description": "Django and beyond.",
-  "num_followers": 272496,
+  "num_followers": 272949,
   "original_name": "Hot Club Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWFhNGIwMTk0MGUzMDg1ODgyMjA1MTUzN2ZjOTYzMDUxMGVhYzcx",
+  "snapshot_id": "MCw1MjIxYzRiNjI3OGEyZGU0YmUxNTRlNzM5ZjQ1Mjg1NjNiOWRjZjli",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -129,6 +129,30 @@
       "url": "https://open.spotify.com/track/1nT6CxquFZxHDDIgMTgS0W"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Ballade pour Django",
+        "url": "https://open.spotify.com/album/1R61EzoTcxhCTfSiZrkE5Z"
+      },
+      "artists": [
+        {
+          "name": "Joscho Stephan",
+          "url": "https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG"
+        },
+        {
+          "name": "Sven Jungbeck",
+          "url": "https://open.spotify.com/artist/7zzUbMyOmvQtFCtlekdLoO"
+        },
+        {
+          "name": "Volker Kamp",
+          "url": "https://open.spotify.com/artist/7FvlT1VctBs8JBH0O28jYc"
+        }
+      ],
+      "duration_ms": 455125,
+      "name": "Ballade pour Django",
+      "url": "https://open.spotify.com/track/5b07gtahr6UMl53QUBpiqu"
+    },
+    {
       "added_at": "2022-08-19 04:02:00",
       "album": {
         "name": "The Good Life",
@@ -143,22 +167,6 @@
       "duration_ms": 195961,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/7rnnwvPsGUdQQsZPeFHb6H"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Guitar Heroes - Live",
-        "url": "https://open.spotify.com/album/2e6icSnoxjhW5mReyWj4Dp"
-      },
-      "artists": [
-        {
-          "name": "Stephan, Joscho feat. Rosenberg, Stochelo",
-          "url": "https://open.spotify.com/artist/09w3ZVwt5NBtwS2wZgBfwQ"
-        }
-      ],
-      "duration_ms": 298792,
-      "name": "In A Sentimental Mood - Clair De Lune - Live",
-      "url": "https://open.spotify.com/track/2aHCjx6UZv5duyrfICha0w"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -248,7 +256,7 @@
       "added_at": "2021-02-04 20:47:19",
       "album": {
         "name": "Family",
-        "url": "https://open.spotify.com/album/5v7GXGOc7A343BupHvvucS"
+        "url": "https://open.spotify.com/album/1GtvWrpGXg81LZfbJZgtFw"
       },
       "artists": [
         {
@@ -257,8 +265,8 @@
         }
       ],
       "duration_ms": 151853,
-      "name": "Bleu Citron",
-      "url": "https://open.spotify.com/track/6Vs3qEiLCzmBn40AcAdmz2"
+      "name": "Bleu citron",
+      "url": "https://open.spotify.com/track/2t8WSb4idwrFvgnuFzz7kf"
     },
     {
       "added_at": "2021-02-04 20:47:19",
@@ -648,17 +656,17 @@
       "added_at": "2021-02-04 20:47:19",
       "album": {
         "name": "Gipsy Project & Friends",
-        "url": "https://open.spotify.com/album/0uFPGWD4JINjSE2YXIeImp"
+        "url": "https://open.spotify.com/album/15nkNdrzGxHIimtDuv38RE"
       },
       "artists": [
         {
-          "name": "Bir\u00e9li Lagr\u00e8ne Trio",
-          "url": "https://open.spotify.com/artist/0zQ8ZslJkMxLY8xw3E6dp2"
+          "name": "Bir\u00e9li Lagr\u00e8ne Gipsy Project",
+          "url": "https://open.spotify.com/artist/0LrCg8l9Wi1EIqpkW6D3ra"
         }
       ],
       "duration_ms": 174200,
       "name": "Les yeux noirs",
-      "url": "https://open.spotify.com/track/4zyLLj3YJcsVljQ2BWlLRn"
+      "url": "https://open.spotify.com/track/1f4uY5tp4llGfaQ60fgTfK"
     },
     {
       "added_at": "2021-02-04 20:47:19",
@@ -755,8 +763,8 @@
     {
       "added_at": "2021-02-04 20:47:19",
       "album": {
-        "name": "Letter to Van Gogh",
-        "url": "https://open.spotify.com/album/1RFiZVF4gPfx70ZIa8O1tR"
+        "name": "Letter to van Gogh",
+        "url": "https://open.spotify.com/album/4ccme115PRV6yVnYmbB4vt"
       },
       "artists": [
         {
@@ -769,14 +777,14 @@
         }
       ],
       "duration_ms": 270293,
-      "name": "Letter to Vincent Van Gogh",
-      "url": "https://open.spotify.com/track/7G8yhucnkv5jyBlscBOn9f"
+      "name": "Letter To Vincent Van Gogh",
+      "url": "https://open.spotify.com/track/7xdKz4261BWHmuqTwFBoxm"
     },
     {
       "added_at": "2021-02-04 20:47:19",
       "album": {
         "name": "Rocky Gresset",
-        "url": "https://open.spotify.com/album/2GKxiifjmMz6xbZU17hBVc"
+        "url": "https://open.spotify.com/album/2N3AYwPGiVmvjDiUBUpKGx"
       },
       "artists": [
         {
@@ -786,7 +794,7 @@
       ],
       "duration_ms": 212000,
       "name": "Just One of Those Things",
-      "url": "https://open.spotify.com/track/3YLIeMumXKubVSNizqQTEv"
+      "url": "https://open.spotify.com/track/2321X6DTnyHj7jXWji4bSj"
     },
     {
       "added_at": "2021-02-04 20:47:19",
@@ -940,7 +948,7 @@
       "added_at": "2021-02-04 20:47:19",
       "album": {
         "name": "Summertime",
-        "url": "https://open.spotify.com/album/3YSRvMEnhwmDPCzy9wFysG"
+        "url": "https://open.spotify.com/album/6ZVuKtdf4KZ5E7y4bEHHgS"
       },
       "artists": [
         {
@@ -954,7 +962,7 @@
       ],
       "duration_ms": 247893,
       "name": "So What",
-      "url": "https://open.spotify.com/track/7c8IwsVo5x0h4slsVwpZEQ"
+      "url": "https://open.spotify.com/track/2Cf9AjgU72jcQdb1xQAksE"
     },
     {
       "added_at": "2021-02-04 20:47:19",
@@ -1331,18 +1339,18 @@
     {
       "added_at": "2021-02-04 20:47:19",
       "album": {
-        "name": "Move (feat. Diego Imbert, Hono Winterstein & Franck Wolf)",
-        "url": "https://open.spotify.com/album/6xTr2LFFbiLsPG5h6PFqGD"
+        "name": "Move",
+        "url": "https://open.spotify.com/album/7tY1AorZ64PmB6tCp9OLfl"
       },
       "artists": [
         {
-          "name": "Bir\u00e9li Lagr\u00e8ne Trio",
-          "url": "https://open.spotify.com/artist/0zQ8ZslJkMxLY8xw3E6dp2"
+          "name": "Bir\u00e9li Lagr\u00e8ne Gipsy Project",
+          "url": "https://open.spotify.com/artist/0LrCg8l9Wi1EIqpkW6D3ra"
         }
       ],
       "duration_ms": 171706,
       "name": "Hungaria",
-      "url": "https://open.spotify.com/track/3VtZ7NOQjp3ISCdUvaQvZQ"
+      "url": "https://open.spotify.com/track/3bS7AcjV8Dn2ulBF9XdZCo"
     },
     {
       "added_at": "2021-02-04 20:47:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > $uicide Gvng e xRick in cover 🩸 Emo, punk e rock 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,068 likes - 91 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,078 likes - 91 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 90 | [Stupida vita \(feat\. 2nd Roof\)](https://open.spotify.com/track/4iRetHGYzDUyKVRyqn4rDb) | [Cali](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Stupida vita \(feat\. 2nd Roof\)](https://open.spotify.com/album/3nxytjfeneppD6nOIDuadB) | 2:54 |
 | 91 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
 
-Snapshot ID: `MCwwOWVlNmZjMzcyM2Y2MDhkYjY2ODVhMTk2NDFkMjcwZDUxODRhNWU3`
+Snapshot ID: `MCw1MzgwMmE5ODY5NzJlODdlZGYyMWE2NDdiMDBiZGNkZTc1ZTYwZTU2`

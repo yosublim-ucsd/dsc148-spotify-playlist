@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 
 > Las mejores canciones de la reina del pop argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,836 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,857 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 | 59 | [Tu Revolución](https://open.spotify.com/track/0xJ9lGn4GU99BVDg0uCKxi) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Soy](https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF) | 3:48 |
 | 60 | [Una Esquina en Madrid](https://open.spotify.com/track/5eDJLNybDwYxRKF1hhQHvf) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:49 |
 
-Snapshot ID: `MCxmODAzNTE5N2M0YjIyMjk1ZGJlYzM2NDA4MTNhZmU4NDAwZWE1OGI4`
+Snapshot ID: `MCwwZTU3NTMzMmI1YmEyZjIzZWY0Mzg4OWEwMDBlMTljOTliY2I1ZDA2`

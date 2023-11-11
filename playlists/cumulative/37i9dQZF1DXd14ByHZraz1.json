@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 185806,
       "name": "Beat, Slow, Check",
       "url": "https://open.spotify.com/track/6wTbJIaTtp14XhndssikxH"
@@ -334,6 +334,28 @@
       "duration_ms": 169000,
       "name": "Body On My Mind",
       "url": "https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL"
+    },
+    {
+      "album": {
+        "name": "Booty Pop",
+        "url": "https://open.spotify.com/album/1bSplo5F20nYLxUGxTEeDu"
+      },
+      "artists": [
+        {
+          "name": "Devochka",
+          "url": "https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX"
+        },
+        {
+          "name": "White Sheep",
+          "url": "https://open.spotify.com/artist/2jFNsdG1zHOQaQzcBK0B50"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Booty Pop",
+      "url": "https://open.spotify.com/track/3IlA4U5Vca1pF6mutpcLUw"
     },
     {
       "album": {
@@ -708,7 +730,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 148292,
       "name": "Dance",
       "url": "https://open.spotify.com/track/2MsjElxTVXkpt1w5ujRxvC"
@@ -1991,6 +2013,28 @@
     },
     {
       "album": {
+        "name": "SURRENDER",
+        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
+    },
+    {
+      "album": {
         "name": "My Neck, My Back",
         "url": "https://open.spotify.com/album/5GW2S5DnOKOVUkgvhK2aHr"
       },
@@ -2643,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "Spinnin' Circles",
+        "url": "https://open.spotify.com/album/7JMeqjNj2dDmm9hoDtgpio"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226153,
+      "name": "Spinnin' Circles",
+      "url": "https://open.spotify.com/track/4AtbLOzVyOaFbzEzkQz15Q"
+    },
+    {
+      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/3Hj0YMITtJKGtG6ZwXEE4K"
       },
@@ -2742,7 +2804,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 177120,
       "name": "Take Over",
       "url": "https://open.spotify.com/track/4Q3iraOig7nyrRoNz1mNKc"

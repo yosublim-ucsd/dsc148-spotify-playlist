@@ -2405,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "Luminary Creek",
+        "url": "https://open.spotify.com/album/6MXhFPCsKGlecRns53i0TP"
+      },
+      "artists": [
+        {
+          "name": "Zephyrical",
+          "url": "https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145938,
+      "name": "Luminary Creek",
+      "url": "https://open.spotify.com/track/3aECxXZzEPZGDZXjNeVX2n"
+    },
+    {
+      "album": {
         "name": "Luna's Longing",
         "url": "https://open.spotify.com/album/5QxbhzC2Y8g4PZoboGyqGk"
       },
@@ -4916,6 +4934,24 @@
       "duration_ms": 216645,
       "name": "Water Therapy - Soundscapes and Waves",
       "url": "https://open.spotify.com/track/7MviasItbMuhm79ZxyMr1o"
+    },
+    {
+      "album": {
+        "name": "Waters Close By",
+        "url": "https://open.spotify.com/album/2Ex5NJrq4fQiMxR4yQplwf"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Feels",
+          "url": "https://open.spotify.com/artist/0CazI1GhvW5pqftM3uJA3l"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202914,
+      "name": "Waters Close By",
+      "url": "https://open.spotify.com/track/4Y3M1zsYJF9ikAuOvxSuj5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-532 songs - 2 day 3 hr 19 min
+533 songs - 2 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Departures](https://open.spotify.com/track/0LlGYQSAJZI5QrR5hblT6s) | [David Scott](https://open.spotify.com/artist/513OW9lkE4k3NQ7en6raQ8) | [Departures](https://open.spotify.com/album/1oBOaO2vdvxUpX1ej0Lhud) | 5:08 | 2021-04-21 | 2022-10-15 |
 | [Descend](https://open.spotify.com/track/5UKeDBuyUvMAbxTgbdohBB) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Dive](https://open.spotify.com/album/1mwiBmnAqfntxCXACaIjot) | 4:57 | 2022-05-13 | 2022-07-29 |
 | [Desert Walk](https://open.spotify.com/track/4iDWPaBVgX8U0Sm7stDHoY) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Desert Walk](https://open.spotify.com/album/2nIeu9OjQBHcIpNDVYb41F) | 3:32 | 2023-03-03 |  |
-| [Die Dunkle Biene](https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Die Dunkle Biene](https://open.spotify.com/album/3rQs5F0Mt9r9oV8Jrt00bx) | 7:45 | 2023-02-24 |  |
+| [Die Dunkle Biene](https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Die Dunkle Biene](https://open.spotify.com/album/3rQs5F0Mt9r9oV8Jrt00bx) | 7:45 | 2023-02-24 | 2023-11-11 |
 | [Disappear](https://open.spotify.com/track/1kEdYirmW9IZ4R4QFaPvpE) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tasan](https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5) | [Disappear](https://open.spotify.com/album/0mcqQhXPSSk8yudA1fiklh) | 3:55 | 2022-06-10 |  |
 | [Disappear \- Andrea Oliva Remix](https://open.spotify.com/track/7lgy8iWckkQZx1p2xFF6yc) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tasan](https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Disappear \(Andrea Oliva Remix\)](https://open.spotify.com/album/4kKx5XKmv83JwNfVtR30k7) | 3:32 | 2023-03-10 |  |
 | [Disco Voador \- Single Edit](https://open.spotify.com/track/6XuVgxaYTtaeTspOSgnoIW) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Disco Voador & Depois](https://open.spotify.com/album/1SfGQplxlHE1J1pid0VkNR) | 5:27 | 2021-08-06 | 2022-07-29 |
@@ -221,6 +221,7 @@
 | [Impossible \- &ME Remix](https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Impossible \(&ME Remix\)](https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o) | 9:15 | 2022-07-08 |  |
 | [In Mindibu](https://open.spotify.com/track/7G82RELqYiB0EZ8F61Ht8T) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [In Mindibu](https://open.spotify.com/album/6aZBtDTIcjiD50dTKWoDES) | 5:08 | 2022-04-22 | 2022-10-15 |
 | [In My World](https://open.spotify.com/track/5CKeCLEvPDNIgHNZKgMpDj) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [In My World](https://open.spotify.com/album/33RMb5j36RJuGADKD6OWta) | 8:01 | 2021-07-30 | 2022-04-21 |
+| [In Your Eyes \- Ranta Remix](https://open.spotify.com/track/66NUgMhhUKeBKE90WNaKtg) | [At Dawn](https://open.spotify.com/artist/64HvosypkblUCoJvjidpar), [Ranta](https://open.spotify.com/artist/7AOoL5hIjl1CweoVN7ia73) | [In Your Eyes \(Ranta Remix\)](https://open.spotify.com/album/4qMidyvp8PgqasVwUobXjj) | 6:54 | 2023-11-10 |  |
 | [Inhibitions \- Edit](https://open.spotify.com/track/5ugyEMUjFOX7FS2Ao1Vyak) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Inhibitions](https://open.spotify.com/album/4WAK9ZcEKEJVI5zXXSQBwn) | 4:36 | 2022-09-02 | 2022-10-30 |
 | [Inkinga](https://open.spotify.com/track/7Cxb4S3x3NQTszNYPMoTAw) | [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ) | [Overtone](https://open.spotify.com/album/64lUQw9YO9oTYDe4cmRB1m) | 3:56 | 2021-05-07 | 2022-07-04 |
 | [Inner Self](https://open.spotify.com/track/4nDWcmDZu39ycWLYvIpaaP) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Broken Ep](https://open.spotify.com/album/2ouzgPQYohSjyHsLkaVBaj) | 6:57 | 2021-12-13 | 2022-07-07 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODVmMjc0MmQyY2Y0MjU1ZmYyMWY5YjkyNGFiNWU0M2I1MGZiNWQx",
+  "snapshot_id": "MCwwMGUxNTc3ZWMyNTE5NzczZTRmNzNlZDBiMTNlN2Y1ZGU0OWVmOGU4",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
-        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
-      },
-      "artists": [
-        {
-          "name": "Cri-Cri",
-          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
-        }
-      ],
-      "duration_ms": 163786,
-      "name": "La Merienda - Remasterizado",
-      "url": "https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "My First Album",
         "url": "https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 125906,
       "name": "Let's Get Ready!",
       "url": "https://open.spotify.com/track/5rmOdU3gZptrnflhfPedCM"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
+        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "duration_ms": 163786,
+      "name": "La Merienda - Remasterizado",
+      "url": "https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR"
     },
     {
       "added_at": "2023-03-17 09:43:03",

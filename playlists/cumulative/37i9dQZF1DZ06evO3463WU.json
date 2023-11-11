@@ -104,7 +104,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 172068,
       "name": "Al Sabor Del Champagne",
       "url": "https://open.spotify.com/track/31CBLt8Zkp2kEE6JX8aWx0"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 257213,
       "name": "La Fuerza Del Amor",
       "url": "https://open.spotify.com/track/7IYqBfbJyLX1e2MYf04ezI"
@@ -740,6 +740,24 @@
       "duration_ms": 218360,
       "name": "Me Haces Falta Pap\u00e1",
       "url": "https://open.spotify.com/track/4pnJfqCFduVTCKveD7VCCq"
+    },
+    {
+      "album": {
+        "name": "Me Voy A Alejar",
+        "url": "https://open.spotify.com/album/38rMvKBQVe0yHY5iDGX35E"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199714,
+      "name": "Me Voy A Alejar",
+      "url": "https://open.spotify.com/track/1zdPjLtWjmwRKKCMAK3Dpj"
     },
     {
       "album": {
@@ -966,7 +984,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 185853,
       "name": "No Creo Merecerte",
       "url": "https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3"
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 156386,
       "name": "Ojal\u00e1 Sea Cierto",
       "url": "https://open.spotify.com/track/4m6NWuvSrcS7keLJAO1aGD"
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 213774,
       "name": "Por Amor Y Fe",
       "url": "https://open.spotify.com/track/6VD5k9j9LmtxyK4BbrIOV7"

@@ -498,7 +498,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 284973,
       "name": "Minha Alma Canta (Ao Vivo)",
       "url": "https://open.spotify.com/track/4LMX1eh6fFMyoTk9uP3rUH"
@@ -986,6 +986,28 @@
       "duration_ms": 297679,
       "name": "Vasos Quebrados",
       "url": "https://open.spotify.com/track/67ua1zPHM7wODRaKWocGon"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/27LMbl86nfBJtbAj3LiNDv"
+      },
+      "artists": [
+        {
+          "name": "Let\u00edcia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/5TiYZA0hvaVGzez5lg9WhR"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310311,
+      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0AhtuMEn7keStaLysGWJdc"
     },
     {
       "album": {

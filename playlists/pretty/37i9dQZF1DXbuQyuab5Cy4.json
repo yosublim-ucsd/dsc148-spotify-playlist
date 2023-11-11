@@ -1,12 +1,12 @@
 {
   "description": "Scary monsters and filthy drops.",
-  "num_followers": 20957,
+  "num_followers": 21655,
   "original_name": "The Graveyard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTljNjM0MTAyNWIyZjc5OWJjYmM2YmE3MGEwNzk1NTUyOTQ2Njdk",
+  "snapshot_id": "MCxiODNjYjg0M2FlZDQzMDc1NGMyYTViYTNkOWQ4NWNjNGQ4YmViMTU4",
   "tracks": [
     {
       "added_at": "2023-10-31 04:00:00",
@@ -67,6 +67,30 @@
       "duration_ms": 284643,
       "name": "Zombie (feat. Valerie Broussard)",
       "url": "https://open.spotify.com/track/5AZJbQwaYGHWCY53k7fO57"
+    },
+    {
+      "added_at": "2023-10-31 04:00:00",
+      "album": {
+        "name": "Ghosts 'n' Stuff (feat. Rob Swire) [Jauz Remix]",
+        "url": "https://open.spotify.com/album/7lumeiXrp300roKsMEdpDT"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Rob Swire",
+          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Ghosts 'n' Stuff (feat. Rob Swire) [Jauz Remix]",
+      "url": "https://open.spotify.com/track/70vjXI7oBou5buTtgiJeRW"
     },
     {
       "added_at": "2023-10-31 04:00:00",

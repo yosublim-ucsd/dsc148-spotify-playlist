@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Papisa",
+  "description": "Novidades e destaques do indie nacional. Foto: Ra\u00e7a",
   "name": "Indie Brasil",
   "tracks": [
+    {
+      "album": {
+        "name": "144",
+        "url": "https://open.spotify.com/album/6EGMD8lu6cqhdbd0UcnKoo"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00e7a",
+          "url": "https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139156,
+      "name": "144",
+      "url": "https://open.spotify.com/track/2UrTBYA7g5uQDeE1refIs6"
+    },
     {
       "album": {
         "name": "18 Graus",
@@ -146,7 +164,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 266533,
       "name": "A Cidade Quer",
       "url": "https://open.spotify.com/track/2NOSXF0YxFYChI66eigEj9"
@@ -900,6 +918,28 @@
       "duration_ms": 231943,
       "name": "At\u00e9 A Noite Acabar",
       "url": "https://open.spotify.com/track/3mXRBKMajSreOWvtpUsmQw"
+    },
+    {
+      "album": {
+        "name": "at\u00e9 mais",
+        "url": "https://open.spotify.com/album/5Czto3i4k0GgScIJYcHJ8f"
+      },
+      "artists": [
+        {
+          "name": "Ador\u00e1vel Clich\u00ea",
+          "url": "https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY"
+        },
+        {
+          "name": "___distante",
+          "url": "https://open.spotify.com/artist/6lopzQfxPh969CGbyPV5R5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168571,
+      "name": "at\u00e9 mais",
+      "url": "https://open.spotify.com/track/1FpvAX8BfckZBWTQPkVlXS"
     },
     {
       "album": {
@@ -3838,7 +3878,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 189060,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/3ujHWJpRyT2DZtwsSI7lpo"
@@ -5046,6 +5086,28 @@
       "duration_ms": 139325,
       "name": "Meu gato te odeia",
       "url": "https://open.spotify.com/track/5OpaidMj4AASyuFAWYLwJ9"
+    },
+    {
+      "album": {
+        "name": "meus passos",
+        "url": "https://open.spotify.com/album/4wYWkcqsNGqnTqvhPRY8WQ"
+      },
+      "artists": [
+        {
+          "name": "terraplana",
+          "url": "https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU"
+        },
+        {
+          "name": "Shower Curtain",
+          "url": "https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256187,
+      "name": "meus passos",
+      "url": "https://open.spotify.com/track/4m1yn8YOAArohFiZ6cIrFh"
     },
     {
       "album": {
@@ -8357,6 +8419,24 @@
     },
     {
       "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/2BxpdeCcDeJgl8l47ZoZgI"
+      },
+      "artists": [
+        {
+          "name": "clara bicho",
+          "url": "https://open.spotify.com/artist/40FLeMjObSRuLxId2AreLK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164838,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/7pySQ7DJISRKepvNV8YxFN"
+    },
+    {
+      "album": {
         "name": "Lol\u00f3love",
         "url": "https://open.spotify.com/album/6ZVrzdqpAEOsoWA2w4HZK3"
       },
@@ -8914,7 +8994,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 226341,
       "name": "TUDO vai dar p\u00e9",
       "url": "https://open.spotify.com/track/3Ks5m4nEvjGZgyN6gpLQUo"
@@ -9294,7 +9374,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 167521,
       "name": "VEJA",
       "url": "https://open.spotify.com/track/6mO9K6le5QYMAGzku81Wqq"

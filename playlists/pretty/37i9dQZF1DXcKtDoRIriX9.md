@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,175 likes - 69 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,366 likes - 69 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 13 | [Clap Gently](https://open.spotify.com/track/46lj4ymw5WmQkuTw9XJuHZ) | [Isolée](https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj) | [Resort Island](https://open.spotify.com/album/5Wo4dlvUMAsTVLL86Ud3iA) | 2:28 |
 | 14 | [Rise](https://open.spotify.com/track/6W1L9urqGfVv8Eh4T0qyTR) | [Alican](https://open.spotify.com/artist/20JcfncPyV3x2XjAKLWL98) | [Overexposed](https://open.spotify.com/album/049xq9iGeiLWSgvz6WE9Xn) | 6:24 |
 | 15 | [Bloom](https://open.spotify.com/track/5DpUcOaS5yCkQ424XumkwX) | [James Harcourt](https://open.spotify.com/artist/0vClj7nDFd3J6mRKNmdZ0O) | [Siamese Anthology V \(Part 4/4\)](https://open.spotify.com/album/4GIdTRKiMGRATYQ2uJ9Imy) | 7:43 |
-| 16 | [Crystal Volcano \- Chloé \(Thévenin\) Remix](https://open.spotify.com/track/7kCnJw5UvQwV886Z9djjna) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Crystal Volcano \[Chloé \(Thévenin\) Remix\]](https://open.spotify.com/album/1xLHetlSx6AT9GBLzuqp6r) | 7:06 |
+| 16 | [Crystal Volcano \(Chloé \(Thévenin\) Remix\)](https://open.spotify.com/track/1fXqBLgaaCpbsjujwKgdXr) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Crystal Volcano \[Chloé \(Thévenin\) Remix\]](https://open.spotify.com/album/7dUodSX3SnRIwDTHPuQJvL) | 7:06 |
 | 17 | [Doors To Shambhala \- Surgeons Girl Remix](https://open.spotify.com/track/2ggxO1Tgsic6HpV0TxWjyE) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp), [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [Doors To Shambhala](https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr) | 4:42 |
 | 18 | [America \(Terrence Dixon MInimal Detroit Mix\) \- Mixed](https://open.spotify.com/track/5emMNsPjNJscowHjjWexuh) | [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G), [Terrence Dixon](https://open.spotify.com/artist/78x5Xzi7CUmQZtZfFYBK9m) | [DJ\-Kicks \(Mount Kimbie\) \[DJ Mix\]](https://open.spotify.com/album/4e817Y4x5DNfPu5QGyLoHO) | 1:52 |
 | 19 | [Something On My Mind](https://open.spotify.com/track/3eg8iC2uwnMb3lgOywFzXA) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [The Feeling EP](https://open.spotify.com/album/0Fhto3YGabtjbr2iftxJ5c) | 6:46 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 38 | [Warm gun](https://open.spotify.com/track/1C3q0ZcIZ485063uHUF0Gx) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Warm gun](https://open.spotify.com/album/3buuQse1ah1KoOx25US4UJ) | 6:11 |
 | 39 | [amongst \- cardboard mix](https://open.spotify.com/track/1CbmRwRJbfjmAEM89yqJ1E) | [P\. Morris](https://open.spotify.com/artist/52Fcsb7UXWSy0u3PNfcslb) | [\- \(Selected Ambient Works 09\-21\)](https://open.spotify.com/album/38fRipyohhEsvdlcrjSylx) | 1:53 |
 | 40 | [A Model Of Reality \- Tor Remix](https://open.spotify.com/track/24sLHtfvYnWmtIalLPoEzv) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Unspoken Words Remixes II](https://open.spotify.com/album/2YBC5sBEavJ80ASeYonSwY) | 5:08 |
-| 41 | [The Grass \(feat Wizard Apprentice\)](https://open.spotify.com/track/1Xc3ywCQ0vk2WuWOIlBR9m) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG), [Wizard Apprentice](https://open.spotify.com/artist/3qefOKKCHQhsqHc7A8Nktd) | [Crystal Vision](https://open.spotify.com/album/2HWJ3GxRVzmiu4pDY5Zezc) | 6:16 |
+| 41 | [The Grass \(feat\. Wizard Apprentice\)](https://open.spotify.com/track/7Ml5RV9DyWpMP9DP83mRNy) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG), [Wizard Apprentice](https://open.spotify.com/artist/3qefOKKCHQhsqHc7A8Nktd) | [Crystal Vision](https://open.spotify.com/album/3CL1XvaBaoVyMWpBUfnWtj) | 6:16 |
 | 42 | [Ummo](https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Doors To Shambhala](https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr) | 4:31 |
 | 43 | [The Seventh Seagull](https://open.spotify.com/track/0zla9f2xcbvg5PTGGHPlk7) | [Danse Alice](https://open.spotify.com/artist/4dVOyri4f8s2IuMoIO1276) | [The Seventh Seagull](https://open.spotify.com/album/25piiqqmk2aahYGrdje9Fp) | 6:21 |
 | 44 | [In The End You'll Know](https://open.spotify.com/track/1Y0wluqS2FjZ2FJwfSTDEi) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [Imagine This Is A High Dimensional Space Of All Possibilities](https://open.spotify.com/album/4c04wXoadgnqqrxeDUCnFP) | 6:27 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 68 | [Sans l'oublier \- Chloé Remix](https://open.spotify.com/track/3eWgUvZKfTqJilMne1E8XV) | [Ezéchiel Pailhès](https://open.spotify.com/artist/4rqegcqfzES4oBRh4n8TM1), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Oh ! Remixes](https://open.spotify.com/album/5WnWyUtMzM7ZXAgWUS6mlf) | 7:26 |
 | 69 | [El Escondite](https://open.spotify.com/track/3GRk3gmqrfU0erMD6VHUwE) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Blanquita \(Original Soundtrack\)](https://open.spotify.com/album/2SbndURUZ0k22dK3jzoyYJ) | 6:31 |
 
-Snapshot ID: `MCxjYjM2YzhjMzQzNTBjMWI5NjllOGY2MDA4Njg2ZDEzMDU2Nzk2ZjNj`
+Snapshot ID: `MCxlNjdkODNjYzllZTRiMjQ1ZjUxY2Q1ZjRiMzI3ZjY4ODkzODRkNTc5`

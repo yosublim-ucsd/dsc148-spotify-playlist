@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYQim4OFxg7.md) - [plain]
 
 > These songs about science will get your kids thinking \(and dancing!\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,811 likes - 30 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,837 likes - 30 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYQim4OFxg7.md) - [plain]
 | 14 | [Science Safety Song](https://open.spotify.com/track/08zVXpxlOLeNAribgD0IU0) | [T\-Rex Ranch](https://open.spotify.com/artist/08lYqL6n1bP5jAHgYhtJHn) | [Science Safety Song](https://open.spotify.com/album/1kKsfxd9UKEUj59tYegN1t) | 1:56 |
 | 15 | [Why Does the Sun Shine?](https://open.spotify.com/track/1wfa3vAiIAbSxHbzKoSPuS) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:36 |
 | 16 | [The Planets](https://open.spotify.com/track/49fHq1JGgELi2dAWZFzFhz) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp) | [Songs for Chickens](https://open.spotify.com/album/6DRUmoB3xTpgh1dqWYQP1W) | 3:00 |
-| 17 | [The Elements](https://open.spotify.com/track/1O7jntBJTdX7HPoZOwjmaS) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [Ncis: The Official Tv Soundtrack \- Vol\. 2](https://open.spotify.com/album/576fyLLci8j617RWwYX54O) | 1:23 |
+| 17 | [The Elements](https://open.spotify.com/track/1cIjktJ9flEMBrjlbPJCBY) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [More of Tom Lehrer](https://open.spotify.com/album/556GEkWWrgQ7f3253diPvr) | 1:26 |
 | 18 | [Nacl \(Sodium Chloride\) \(feat\. Chaim Tannenbaum\)](https://open.spotify.com/track/1gUnpnvaQF9k8HTfIb5BEj) | [Kate & Anna McGarrigle](https://open.spotify.com/artist/7krh6ZjG7i7jvLGiG3YNJF), [Chaim Tannenbaum](https://open.spotify.com/artist/2JS4HUjGLXVcKGvtEjYGW3) | [The McGarrigle Hour](https://open.spotify.com/album/2awunlKk3xGVAGNjgmLnWz) | 2:28 |
 | 19 | [Curious \- Radio Edit](https://open.spotify.com/track/5G0lNxYMUZFTIr1GL7EgQA) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [Curious: Think Outside the Pipeline!](https://open.spotify.com/album/0TgG27H7fFvAhb1RWvrAn6) | 2:30 |
 | 20 | [The Brain Song](https://open.spotify.com/track/3WKp2G9XxEoUqXB64UR0qV) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Wonder Raps](https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH) | 3:31 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYQim4OFxg7.md) - [plain]
 | 29 | [Science Is Real](https://open.spotify.com/track/7xFXq8zWrmUsM4geMf4ieS) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 1:54 |
 | 30 | [Speed and Velocity](https://open.spotify.com/track/7BT6rJugPKZS9STlaAiNxH) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O), [Marty Beller](https://open.spotify.com/artist/7mI3lEVRmJ9Yjpuu2J0GfI) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 1:48 |
 
-Snapshot ID: `MCw2OGNmOGRjMzUwMmEzMjc1YjZiMWU3NDNjZTRkOGE3MTVhNjJhMjI4`
+Snapshot ID: `MCw3ZjRkMjdjOGViYjcyN2NlMzEyMGQxY2JkNjU5M2IyODg5ZWY4M2Ix`

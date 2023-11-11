@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "Birdsong",
+        "url": "https://open.spotify.com/album/7nzRTWT2Hzd4Qg6JrLsBw6"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        },
+        {
+          "name": "Josh Cunningham",
+          "url": "https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207824,
+      "name": "At Least Once A Year",
+      "url": "https://open.spotify.com/track/3ytTfUh19oeYeEi8aP2ff5"
+    },
+    {
+      "album": {
         "name": "The Song Club",
         "url": "https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59"
       },
@@ -96,7 +118,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 204005,
       "name": "At Your Table",
       "url": "https://open.spotify.com/track/3yDSaSwCiSW6oXRDaOlDzp"
@@ -169,6 +191,28 @@
     },
     {
       "album": {
+        "name": "Birdsong",
+        "url": "https://open.spotify.com/album/7nzRTWT2Hzd4Qg6JrLsBw6"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        },
+        {
+          "name": "Josh Cunningham",
+          "url": "https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228102,
+      "name": "Birdsong",
+      "url": "https://open.spotify.com/track/3532coqxjmEALDjsVwbNUd"
+    },
+    {
+      "album": {
         "name": "Bogswamp",
         "url": "https://open.spotify.com/album/5IEDUuNTmaSyVIu3pt6c2b"
       },
@@ -238,7 +282,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 202546,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5NdszK9eLxfrFCEitAz3Fd"
@@ -278,7 +322,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 297872,
       "name": "Catching a Feeling",
       "url": "https://open.spotify.com/track/1U9DtRapn4xV6VgFCAJHj4"
@@ -350,7 +394,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 228760,
       "name": "Ernie's Daughter",
       "url": "https://open.spotify.com/track/6yepggqorn7eMEsDtmyDFk"
@@ -390,10 +434,32 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 248729,
       "name": "Fly By Night",
       "url": "https://open.spotify.com/track/0Ny0RsCWxULCaqhZrQXlkj"
+    },
+    {
+      "album": {
+        "name": "Birdsong",
+        "url": "https://open.spotify.com/album/7nzRTWT2Hzd4Qg6JrLsBw6"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        },
+        {
+          "name": "Josh Cunningham",
+          "url": "https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248729,
+      "name": "Fly By Night",
+      "url": "https://open.spotify.com/track/1aXAG1r1nWbwTT5R0kkv7x"
     },
     {
       "album": {
@@ -419,6 +485,28 @@
     },
     {
       "album": {
+        "name": "Birdsong",
+        "url": "https://open.spotify.com/album/7nzRTWT2Hzd4Qg6JrLsBw6"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        },
+        {
+          "name": "Josh Cunningham",
+          "url": "https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211594,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/09kXXHGLVV86lRYiXAb4k1"
+    },
+    {
+      "album": {
         "name": "Folded",
         "url": "https://open.spotify.com/album/7hmoyh0zCCufvy9Da7RUUd"
       },
@@ -434,7 +522,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 211594,
       "name": "Folded",
       "url": "https://open.spotify.com/track/3Y5YlFHfhZJCWR0sRn4AxC"
@@ -513,6 +601,28 @@
     },
     {
       "album": {
+        "name": "Birdsong",
+        "url": "https://open.spotify.com/album/7nzRTWT2Hzd4Qg6JrLsBw6"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        },
+        {
+          "name": "Josh Cunningham",
+          "url": "https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143065,
+      "name": "Guessing Game",
+      "url": "https://open.spotify.com/track/1JBDM7v5GOyK3UatEGSSNG"
+    },
+    {
+      "album": {
         "name": "The Song Club",
         "url": "https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59"
       },
@@ -546,7 +656,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 217828,
       "name": "Hopscotch Sunday",
       "url": "https://open.spotify.com/track/6wZXs9O8fBFoDAe9Oer5nG"
@@ -564,7 +674,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 199880,
       "name": "I Fall",
       "url": "https://open.spotify.com/track/6ePqet8kd7VImz7afVIGpk"
@@ -622,7 +732,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 171466,
       "name": "In My Dreams",
       "url": "https://open.spotify.com/track/2iMbuC3ankWOtNRlKsgnzw"
@@ -836,7 +946,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 239235,
       "name": "No Such Luck",
       "url": "https://open.spotify.com/track/4clwEaV42XK0F7x1fmUSaz"
@@ -872,7 +982,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 266653,
       "name": "On and On",
       "url": "https://open.spotify.com/track/2PxNba41cb8lTLp1H8rglz"
@@ -934,7 +1044,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Rain Fall",
       "url": "https://open.spotify.com/track/2YoaUpKgLpouPql0iD7UEl"
@@ -1000,7 +1110,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 256492,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/3pPGtVlnHeBupAomDBE4AY"
@@ -1022,6 +1132,28 @@
       "duration_ms": 223426,
       "name": "So Go On",
       "url": "https://open.spotify.com/track/3bEUhd1DWfzij3LGECFGni"
+    },
+    {
+      "album": {
+        "name": "Birdsong",
+        "url": "https://open.spotify.com/album/7nzRTWT2Hzd4Qg6JrLsBw6"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        },
+        {
+          "name": "Josh Cunningham",
+          "url": "https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212420,
+      "name": "Softer Side",
+      "url": "https://open.spotify.com/track/5qz43mUFzrB1W7SsKmp1mV"
     },
     {
       "album": {
@@ -1188,7 +1320,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 219746,
       "name": "Sweet Music Man",
       "url": "https://open.spotify.com/track/5rMwZbObDXMfJPQsbCmbQ8"
@@ -1242,7 +1374,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 253976,
       "name": "Tears",
       "url": "https://open.spotify.com/track/0mGFlZSt2YDZ6EaZkdBL3C"
@@ -1278,7 +1410,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 272746,
       "name": "That's What I Call Love",
       "url": "https://open.spotify.com/track/2kab9AsEvFdnT1OeSn1U7W"
@@ -1426,7 +1558,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 194418,
       "name": "Unsteady (Ever Since You're Gone)",
       "url": "https://open.spotify.com/track/1Sa9P4akqWOaUpO7VToYRW"
@@ -1506,7 +1638,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 269066,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/4Bu1Vw72PMIvlNNrXs3dj8"

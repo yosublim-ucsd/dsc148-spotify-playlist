@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Busty and the Bass",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Aliocha Schneider",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -2687,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "Osoyoos",
+        "url": "https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9drik St-Onge",
+          "url": "https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235959,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP"
+    },
+    {
+      "album": {
         "name": "Google",
         "url": "https://open.spotify.com/album/1hVc65TfDsysUezxkpLYUa"
       },
@@ -2934,7 +2952,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 242854,
       "name": "I Let My Plant Die",
       "url": "https://open.spotify.com/track/3Qrsp5Lkrf7Ad65wvanoeq"
@@ -3447,6 +3465,28 @@
     },
     {
       "album": {
+        "name": "karoshi",
+        "url": "https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY"
+      },
+      "artists": [
+        {
+          "name": "Avril Jensen",
+          "url": "https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA"
+        },
+        {
+          "name": "Sarahm\u00e9e",
+          "url": "https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162514,
+      "name": "karoshi",
+      "url": "https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7"
+    },
+    {
+      "album": {
         "name": "Keep Hiding (way back)",
         "url": "https://open.spotify.com/album/68ra6iNQK40XmAW9TGh5XF"
       },
@@ -3462,6 +3502,24 @@
       "duration_ms": 177669,
       "name": "Keep Hiding (way back)",
       "url": "https://open.spotify.com/track/24jKuK0iTLqc6Fbywv1pYu"
+    },
+    {
+      "album": {
+        "name": "Kiss Me on the Floor",
+        "url": "https://open.spotify.com/album/4X7CbXtYH209XThPd3sdSr"
+      },
+      "artists": [
+        {
+          "name": "Laraw",
+          "url": "https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174333,
+      "name": "Kiss Me on the Floor",
+      "url": "https://open.spotify.com/track/5wIBA1lYaBIrycozAWCqyI"
     },
     {
       "album": {
@@ -4308,7 +4366,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 289576,
       "name": "Mieux que rien",
       "url": "https://open.spotify.com/track/2ThckaIohgGpUHiG87yObp"
@@ -5762,7 +5820,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 209154,
       "name": "Rappelle-moi ton nom",
       "url": "https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW"
@@ -6004,7 +6062,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 203120,
       "name": "Safe Space",
       "url": "https://open.spotify.com/track/3C9LuqZ8kBJItBiZEEZ9xY"
@@ -6520,6 +6578,28 @@
       "duration_ms": 228668,
       "name": "Supermonkeyball",
       "url": "https://open.spotify.com/track/2q6tE7DuOXOA1770rU8whn"
+    },
+    {
+      "album": {
+        "name": "Ann\u00e9es Sauvages Part. 2",
+        "url": "https://open.spotify.com/album/5p14nDbenYj1UxuSNU8EVH"
+      },
+      "artists": [
+        {
+          "name": "Georgio",
+          "url": "https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO"
+        },
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190696,
+      "name": "Sur la glace",
+      "url": "https://open.spotify.com/track/0Pw98pAQO87gY4zS1xyoqb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-110 songs - 7 hr 17 min
+112 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [In Time](https://open.spotify.com/track/6F6L0sir3tzLDiO2vXopoG) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Where Do We Go From Here](https://open.spotify.com/album/6aVAwiFG24G3VJNedr5ues) | 7:02 | 2021-04-23 | 2022-07-29 |
 | [Just in case](https://open.spotify.com/track/2SMDdT0TPMtDmYGeeDKUhq) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Live from Pama Studio 1](https://open.spotify.com/album/6cALzVHdHMmXt49arF7WqL) | 3:59 | 2020-08-21 | 2022-07-29 |
 | [Just in Case](https://open.spotify.com/track/3lUHPnOMQBlLjkUs6ZpHkI) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Live from Pama Studio 1](https://open.spotify.com/album/2qT9oFDjZSpNiJ7PZPmkXO) | 3:59 | 2020-08-21 |  |
+| [Lady Love Divine](https://open.spotify.com/track/7IUokcojGB1qGL2rBztGn8) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Lady Love Divine](https://open.spotify.com/album/0k04S34xvowUrOCGtn49xd) | 3:04 | 2023-11-10 |  |
 | [Leave Your Ego](https://open.spotify.com/track/5lCrGrjeBufzZNUWyZuMH2) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 5:14 | 2021-10-22 |  |
 | [Life On The Outside](https://open.spotify.com/track/2ba1G7j2si3LffTirrQLnw) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [The Deep End Vol\. 1](https://open.spotify.com/album/3E5cQw3IpyFqCM4VeFnOXR) | 3:47 | 2020-08-21 | 2022-07-29 |
 | [Life On The Outside](https://open.spotify.com/track/2iufE5GZ6UobPZgMU8Qh5A) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [The Deep End Vol\. 1](https://open.spotify.com/album/378K25f02JVVcrMbeL6Pp1) | 3:47 | 2020-08-21 |  |
@@ -75,11 +76,11 @@
 | [Love Sweet Love](https://open.spotify.com/track/34mId8TooqXQhb186K05aV) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [Up 2 Zero](https://open.spotify.com/album/6T3ZsbUPtJ31i9vgyhhHcz) | 3:29 | 2020-08-21 | 2022-07-29 |
 | [Made Man](https://open.spotify.com/track/6BklMtRiRy8BjeK9Lf1krs) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [Made Man](https://open.spotify.com/album/7ydPuN7qQGp1G9eYoFMGpK) | 3:29 | 2021-11-05 | 2022-12-03 |
 | [Made Man](https://open.spotify.com/track/6yc6bMZVPQHR06a8H1WOmG) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [Wanted](https://open.spotify.com/album/7BoDAUUVu2xqWTyYVkDG9m) | 3:29 | 2021-11-05 |  |
-| [Make It Easy](https://open.spotify.com/track/60zfRewsKIpbmDQXImKW2C) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Salting Earth](https://open.spotify.com/album/0pVOdsazkMxlwse9tHlBlv) | 3:24 | 2020-08-21 |  |
+| [Make It Easy](https://open.spotify.com/track/60zfRewsKIpbmDQXImKW2C) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Salting Earth](https://open.spotify.com/album/0pVOdsazkMxlwse9tHlBlv) | 3:24 | 2020-08-21 | 2023-11-11 |
 | [Mindcontrol](https://open.spotify.com/track/1kyIGyqSvT0pdcDdSwFAMV) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Mindcontrol](https://open.spotify.com/album/06RcGnBGNK1BOzGJ8im4D9) | 3:28 | 2020-08-21 |  |
 | [Mindcontrol](https://open.spotify.com/track/2PLg25HdGsV0gcSMVfSFTX) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Mindcontrol](https://open.spotify.com/album/55YrVbIQaV9W9tP8gnIYpT) | 3:28 | 2020-08-21 | 2022-07-29 |
 | [Morning Star](https://open.spotify.com/track/68vlQoNTUDvujcUVwdMkT1) | [Philip Sayce Group](https://open.spotify.com/artist/2aV2zINHEpRvHLmXl8AaRO), [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Philip Sayce Group](https://open.spotify.com/album/1RadxbsRJvE1XI0e3AH8t6) | 5:09 | 2020-08-21 | 2022-07-29 |
-| [Morning Star](https://open.spotify.com/track/7fZDPth2IuCiUhvkN8OIWS) | [Philip Sayce Group](https://open.spotify.com/artist/2aV2zINHEpRvHLmXl8AaRO), [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Philip Sayce Group](https://open.spotify.com/album/3O4ePFcSYhzM4RMHkG5d1j) | 5:09 | 2020-08-21 |  |
+| [Morning Star](https://open.spotify.com/track/7fZDPth2IuCiUhvkN8OIWS) | [Philip Sayce Group](https://open.spotify.com/artist/2aV2zINHEpRvHLmXl8AaRO), [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Philip Sayce Group](https://open.spotify.com/album/3O4ePFcSYhzM4RMHkG5d1j) | 5:09 | 2020-08-21 | 2023-11-11 |
 | [Motivational Speaker](https://open.spotify.com/track/5ZhnaKTGhvnXjSqIQVuCow) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Motivational Speaker](https://open.spotify.com/album/5xEupHqhptd500VR6JHaJE) | 3:55 | 2020-08-21 | 2022-07-29 |
 | [Motivational Speaker](https://open.spotify.com/track/6PJE3j017zKto7sv2wUrNy) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Motivational Speaker](https://open.spotify.com/album/7AJJXxJIYOUkMZzYY0xXOO) | 3:55 | 2020-08-21 |  |
 | [Open Road](https://open.spotify.com/track/4kAOHwPEBawS1znACiyuqA) | [Oli Brown](https://open.spotify.com/artist/2b5hTGWhfcA88PyeZAJ3Ma) | [Open Road](https://open.spotify.com/album/1L2NhLHg4muWzR7cHpriPb) | 3:47 | 2020-08-21 |  |
@@ -106,6 +107,7 @@
 | [The Damned](https://open.spotify.com/track/7wl9VAQmGJcWTStbeKhKHf) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [The Damned](https://open.spotify.com/album/5z3dlL97c6PnI8I0kZDNeo) | 4:39 | 2020-08-21 |  |
 | [The Great Unknown](https://open.spotify.com/track/0fXA52aJZ2o0IB3db0QVCY) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mountain](https://open.spotify.com/album/7qGLj30hjy5b7oYvHtYKyQ) | 3:00 | 2020-08-21 |  |
 | [The Great Unknown](https://open.spotify.com/track/4zBTpUoxrjVMjEYZECuxRi) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mountain](https://open.spotify.com/album/4gcXwCByBlccQEpSRMPPUH) | 3:01 | 2020-08-21 | 2023-09-01 |
+| [Train](https://open.spotify.com/track/2OSgMSxdu1OgPWZmjSICtt) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Train](https://open.spotify.com/album/30441czI78xULystFpO9p5) | 3:52 | 2023-11-10 |  |
 | [True Lies](https://open.spotify.com/track/1vcUlV02bvKQn6ryzZqDVL) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is...](https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9) | 5:48 | 2020-08-21 |  |
 | [U Got 2 Believe](https://open.spotify.com/track/6zfMpiPa0x1nEcAF0FH8sx) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [U Got 2 Believe](https://open.spotify.com/album/4i6X6nAuZBqLczL9gQgMCi) | 3:28 | 2020-08-21 |  |
 | [U got 2 believe](https://open.spotify.com/track/7acEqMLOUhLp3N5jav2YzM) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [U got 2 believe](https://open.spotify.com/album/46Ccp0e59OQ79ivNnP6XVY) | 3:28 | 2020-08-21 | 2022-07-29 |

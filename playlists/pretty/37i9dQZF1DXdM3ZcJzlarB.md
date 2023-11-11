@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Progressive & Melodic House desde Argentina, by Surface.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,842 likes - 50 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,243 likes - 50 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,15 +18,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 8 | [Narita](https://open.spotify.com/track/3kkBObalFK4ZYbpK1V1aNb) | [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Resilience](https://open.spotify.com/album/0LOdLAhSPFpwUXF19fkJf6) | 8:40 |
 | 9 | [La Nuit Sans Fin \- Amadori Remix](https://open.spotify.com/track/31hf1NkPiazZgz2E3FkUzb) | [Bodaishin](https://open.spotify.com/artist/1sVYOuYwwkjcqGYTcoCXqf), [Amadori](https://open.spotify.com/artist/2Hqclfa5fARgem28jrntwC) | [La Nuit Sans Fin](https://open.spotify.com/album/4zFpeAdqlbzaOV8oTmCHsW) | 7:32 |
 | 10 | [Landscape](https://open.spotify.com/track/0lL7N936MmkQGNfGMzgu74) | [Marian \(AR\)](https://open.spotify.com/artist/1aqX6VY3056jMl6cXqAdmV) | [Landscape](https://open.spotify.com/album/4zJsfpFrCLcmub0tHbejHU) | 7:11 |
-| 11 | [Morgana](https://open.spotify.com/track/6X0OQT0i0cUrrk5LEfJowc) | [Simon Vuarambon](https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj) | [Morgana / Toscana / Kaskazi](https://open.spotify.com/album/1xbCeOhci5mBshpP8dbmvg) | 9:12 |
-| 12 | [Grizzly](https://open.spotify.com/track/2q9MxkasX02QRMxIwmOuyh) | [Valdovinos](https://open.spotify.com/artist/1VkZyYSFTT0p8xNyyaUV0L), [Josefina Barreix](https://open.spotify.com/artist/5SXlK4xm33IALfIZedwDaG) | [Grizzly EP](https://open.spotify.com/album/61tID3JlAy9ZeUsG01kI3w) | 7:57 |
+| 11 | [Morgana](https://open.spotify.com/track/424ldVhdV9Lbsz6fVC9770) | [Simon Vuarambon](https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj) | [Morgana / Toscana / Kaskazi](https://open.spotify.com/album/0OUjGfG79USzj6a3CN4utE) | 9:12 |
+| 12 | [Grizzly](https://open.spotify.com/track/0eJAdywm5Us3s0SSnTbpKb) | [Valdovinos](https://open.spotify.com/artist/1VkZyYSFTT0p8xNyyaUV0L), [Josefina Barreix](https://open.spotify.com/artist/5SXlK4xm33IALfIZedwDaG) | [Grizzly EP](https://open.spotify.com/album/5eH9ZsVF5KtFzlgTj9OZLu) | 7:57 |
 | 13 | [Ritual of Love](https://open.spotify.com/track/7mcixcEvf5YTyTtx541vuM) | [Niceshot](https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE) | [Seasons \| Winter 2020](https://open.spotify.com/album/2fbePD3aAPGImmJxY4adPn) | 8:18 |
 | 14 | [Stampi](https://open.spotify.com/track/25CLjHvR3WwX1WZdLsh8Iv) | [Nico Szabo](https://open.spotify.com/artist/0Vw8wTJPM8hzOHwqAjsFri) | [Winter Collection](https://open.spotify.com/album/5bhBstQAQQiL1NDHyxSpYo) | 8:43 |
-| 15 | [Have a Name](https://open.spotify.com/track/0yAwmFCrHVUgJt9OBZz7nk) | [Nacho Varela](https://open.spotify.com/artist/2WzYsYG7sMgHwVBFl4Ygbk), [Cruz Vittor](https://open.spotify.com/artist/4y56vMJhfSq2h8zydFq4U3), [Geri Terella](https://open.spotify.com/artist/531tcRjfpYktr60afxz7fR) | [Summer Sampler 2019](https://open.spotify.com/album/3euhzUoPnyiNLlpaw3IV1i) | 8:11 |
+| 15 | [Have a Name](https://open.spotify.com/track/53tCE5hNbLxBlWFCyvlKUz) | [Cruz Vittor](https://open.spotify.com/artist/4y56vMJhfSq2h8zydFq4U3), [Nacho Varela](https://open.spotify.com/artist/2WzYsYG7sMgHwVBFl4Ygbk), [Geri Terella](https://open.spotify.com/artist/531tcRjfpYktr60afxz7fR) | [Summer Sampler 2019](https://open.spotify.com/album/24tndY3JguGFXXiEgmtjWs) | 8:11 |
 | 16 | [Metroplex](https://open.spotify.com/track/3XyQKmLHT7sdAabF9m4XgK) | [Alejo Gonzalez](https://open.spotify.com/artist/4sge30tp8UhRBvSYE7KVCG), [Max Blade](https://open.spotify.com/artist/0AnJtl5BiGIzJCWcDEuaB7) | [Metroplex](https://open.spotify.com/album/2KpgQmJMaWgyldi14SUq9G) | 7:00 |
 | 17 | [Lost Cosmonaut](https://open.spotify.com/track/3u1A7jr8nNyGrLIT786EDX) | [Artfaq](https://open.spotify.com/artist/4xsjxIpPpmPiqV9gxdN9TZ) | [Winter Collection](https://open.spotify.com/album/5bhBstQAQQiL1NDHyxSpYo) | 8:11 |
 | 18 | [Once Upon a Time \- Original Mix](https://open.spotify.com/track/6LBbUEXngeoiHk5wTBhdKT) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE) | [Once Upon a Time](https://open.spotify.com/album/4sz56iNEt5jyh7sCNTVtTW) | 8:08 |
-| 19 | [Mandancer](https://open.spotify.com/track/0AzeXSI6Cuiq4V7V69EdMJ) | [Facundo Mohrr](https://open.spotify.com/artist/5oX3Dbh7rf6ZSNnMdt9giF) | [Mandancer](https://open.spotify.com/album/4DllgSp2sT0SU7Emoib2TW) | 7:45 |
+| 19 | [Mandancer](https://open.spotify.com/track/5GFmwxo70HpNJDyYP0wXkf) | [Facundo Mohrr](https://open.spotify.com/artist/5oX3Dbh7rf6ZSNnMdt9giF) | [Mandancer](https://open.spotify.com/album/5Xf6MpKtq02hzItboXcvQv) | 7:45 |
 | 20 | [Bugs & Blossoms \- Original Mix](https://open.spotify.com/track/3gLlJl105YAouFQnFGgiH8) | [Juan Deminicis](https://open.spotify.com/artist/7DN8Db1uGrW7eUDjKf3Bfi) | [Bugs & Blossoms](https://open.spotify.com/album/7gc7INYiV83GH367pAisSr) | 6:54 |
 | 21 | [Stranded Mind \- Extended Mix](https://open.spotify.com/track/0Nno4cLqFzPgcMFbCpdDqE) | [Sebastian Sellares](https://open.spotify.com/artist/6ZEchPBO4Hl3X2H3gpP8T2) | [Stranded Mind](https://open.spotify.com/album/1PiycNuMNREvJyVPgt7pBN) | 8:57 |
 | 22 | [Headspace \(feat\. Paula Os\) \[Mixed\]](https://open.spotify.com/track/03H3L3c6gM8IGUYX3b5eCF) | [Mike Griego](https://open.spotify.com/artist/1qRPzNqWxaXA0kLCvK34oM), [Paula OS](https://open.spotify.com/artist/117lqPm8EvEeZq1B33I6Nl) | [Balance presents Sunsetstrip \(Mixed Version\)](https://open.spotify.com/album/3NntuAMKnUhdtciw8mYw9n) | 7:05 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 47 | [Bane \- Original Mix](https://open.spotify.com/track/3nBiBY8DNnJNbquQVoL7Q1) | [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG) | [Todo Pasa](https://open.spotify.com/album/6CXmtcXDhZ2LJlQFwhD3m3) | 7:23 |
 | 48 | [Assemble](https://open.spotify.com/track/6eK1oTcuQ8WcFOlHFZGKWG) | [Zagitar](https://open.spotify.com/artist/1sLDL9ECqXb7hLQVsykf8d) | [Assemble EP](https://open.spotify.com/album/73okAAeBYmmguLGfgl8GHb) | 7:10 |
 | 49 | [Over](https://open.spotify.com/track/1qqUb6n3fPzIjegshaVZ3p) | [Lucefora](https://open.spotify.com/artist/6GKpX2YtbMOIQVpv3DpFBv) | [13 Years of Akbal Music](https://open.spotify.com/album/1TElv6fUEh66qMzQzerrbk) | 8:19 |
-| 50 | [Oceans](https://open.spotify.com/track/2fLFM5BRyrhrEQMFtY7FeI) | [Santiago Garcia](https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS) | [Came To Reality EP](https://open.spotify.com/album/6kHffsbCuRXWw5Kpt0ytYx) | 6:31 |
+| 50 | [Oceans](https://open.spotify.com/track/1tRY7bFvl7nNBTKe3Yusia) | [Santiago Garcia](https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS) | [Came to Reality EP](https://open.spotify.com/album/4mq11SIe9O3SCwMuEIFMcc) | 6:31 |
 
-Snapshot ID: `MCw4MTE0YjVhZmVhNWI4MjEyNGI2ODU5MTg5YzVkMDVhYWQxMTFmM2E3`
+Snapshot ID: `MCw3YzdkMGRkZTZhMGU4NzQ3NDA0NTE2M2M1ZTk0NTYyNjhlMzI4NzM3`

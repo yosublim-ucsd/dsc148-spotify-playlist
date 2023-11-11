@@ -6492,7 +6492,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 204705,
       "name": "Czerwone \u0142zy",
       "url": "https://open.spotify.com/track/6qiP2cVCzNts36YuNWKwLe"
@@ -10020,7 +10020,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 322113,
       "name": "GiEwOnT",
       "url": "https://open.spotify.com/track/1fEh4NSXSaVhVGArLtxEiG"
@@ -17848,7 +17848,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -28055,6 +28055,32 @@
     },
     {
       "album": {
+        "name": "Tokyo (wsp\u00f3\u0142czesny)",
+        "url": "https://open.spotify.com/album/4xFeOFO03URRQdrsqYEzBK"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Szamz",
+          "url": "https://open.spotify.com/artist/2rbgb3tDxDpfhaN10sQzzE"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203835,
+      "name": "Tokyo (wsp\u00f3\u0142czesny)",
+      "url": "https://open.spotify.com/track/4wHLny6TgycJSuZ2bKWB11"
+    },
+    {
+      "album": {
         "name": "Murem za Bonusem",
         "url": "https://open.spotify.com/album/2U5g2dpq7FcAmvJTiTjVmW"
       },
@@ -29852,6 +29878,32 @@
       "duration_ms": 139920,
       "name": "Wiatr wielkich zmian",
       "url": "https://open.spotify.com/track/5VqQwZyDMgNqn638j2D3jJ"
+    },
+    {
+      "album": {
+        "name": "Widok",
+        "url": "https://open.spotify.com/album/5kOw5Hf3HvJyw7c5HPhhzb"
+      },
+      "artists": [
+        {
+          "name": "Jan-Rapowanie",
+          "url": "https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp"
+        },
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "Odys",
+          "url": "https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148124,
+      "name": "Widok",
+      "url": "https://open.spotify.com/track/0ZlcedOAmS5KS6mGdPpFxK"
     },
     {
       "album": {
@@ -31808,7 +31860,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "ztb",
       "url": "https://open.spotify.com/track/7vXWyqGHBqZi8oec17wYIl"

@@ -4,7 +4,7 @@
 
 > Dembow dominicano to el día\. Foto: Tokischa
 
-413 songs - 22 hr 28 min
+414 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Brum Brum](https://open.spotify.com/track/62utJ0vVOX6X7EFJ8XsmA1) | [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Mr Brum Brum](https://open.spotify.com/album/1mQTVVmy6EUp67GjRD2h40) | 2:52 | 2022-05-28 |  |
 | [Brum Brum](https://open.spotify.com/track/7J2W6n9CZDPmSVRjvEqkCQ) | [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Mr\. Brum Brum](https://open.spotify.com/album/2sPSfsRZZIol98oVlokN23) | 2:52 | 2021-12-10 | 2022-07-29 |
 | [Bulto](https://open.spotify.com/track/7IQF0Z5ZwfSpVYHF7CikOc) | [Doble T y El Crok Los Pepes](https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW), [El Crok](https://open.spotify.com/artist/2rA5hybfOSoyc2lTHMLChj) | [Otro Formato](https://open.spotify.com/album/5PiUtsffoSQ9mdMj0Tno35) | 3:29 | 2022-11-21 | 2023-10-15 |
+| [Bulto](https://open.spotify.com/track/2WffND5RsgN4QaaOdkLTdT) | [Doble T y El Crok Los Pepes](https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW), [El Crok](https://open.spotify.com/artist/2rA5hybfOSoyc2lTHMLChj), [Doble T](https://open.spotify.com/artist/3S8OJpw3NUCTuTMS2hA3x1) | [Otro Formato](https://open.spotify.com/album/0axv0B6m5rgRoV9NSPyBha) | 3:29 | 2023-10-19 |  |
 | [Bulto Ah Ah Ah](https://open.spotify.com/track/7zzKtj6PGA8BQTOrwzcWl5) | [Doble T y El Crok Los Pepes](https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW) | [Otro Formato](https://open.spotify.com/album/42WCssqmsUOGtodLiwCv3R) | 3:29 | 2021-12-10 | 2022-07-24 |
 | [Bum Bam Ven \- Remix](https://open.spotify.com/track/6V2yiB8b0769W0MV1pQ95M) | [Musicologo The Libro](https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t), [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Bum Bam Ven Remix](https://open.spotify.com/album/6JvvRvomJyzIz6z6qpBIIU) | 3:50 | 2022-01-04 | 2022-07-29 |
 | [Bum Bam Ven \- Remix](https://open.spotify.com/track/7u3QrlRfJChzwic9Hoimiq) | [Musicologo The Libro](https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t), [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Bum Bam Ven \(Remix\)](https://open.spotify.com/album/4LTrtFWbK563S7QVD9Zxz9) | 3:50 | 2022-05-28 |  |
@@ -264,7 +265,7 @@
 | [No Smoking](https://open.spotify.com/track/4iKOxLji5LlmjkdbXHmMhB) | [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [No Smoking](https://open.spotify.com/album/3j77cWmV5HsKzHuCXaSkoW) | 2:24 | 2023-05-26 |  |
 | [No Son de Na](https://open.spotify.com/track/0PcglxPqsxB82pFalqxgqa) | [Tommy Titerito](https://open.spotify.com/artist/7qaDbD0PkaTUTOaUpqMeGk) | [No Son de Na](https://open.spotify.com/album/5mR7iINhZaV4XB4p3YlmF0) | 3:05 | 2021-12-10 | 2023-02-17 |
 | [No Son de Na](https://open.spotify.com/track/5W8oJxVClXOOAwS84nfrry) | [Tommy Titerito](https://open.spotify.com/artist/7qaDbD0PkaTUTOaUpqMeGk) | [No Son de Na](https://open.spotify.com/album/4J4bjLAtDPXFSjhNhV2MIS) | 3:05 | 2023-01-09 |  |
-| [NO TE INVITO PA MI BARRIO](https://open.spotify.com/track/6bjVmW97SELrS7rEMNXnmE) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [NO TE INVITO PA MI BARRIO](https://open.spotify.com/album/0calPXCszZGEZUdufK4Cj5) | 2:28 | 2022-01-04 |  |
+| [NO TE INVITO PA MI BARRIO](https://open.spotify.com/track/6bjVmW97SELrS7rEMNXnmE) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [NO TE INVITO PA MI BARRIO](https://open.spotify.com/album/0calPXCszZGEZUdufK4Cj5) | 2:28 | 2022-01-04 | 2023-11-11 |
 | [Normalito](https://open.spotify.com/track/288q0mtUQJ4u52CwuKpNX9) | [Jonatan Burlon](https://open.spotify.com/artist/5sN3XgD2jMfG1qd96CcyqM), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Normalito](https://open.spotify.com/album/1Z9BrllDojIjtSB4BrxqfS) | 3:36 | 2023-05-26 | 2023-09-06 |
 | [Ojalá](https://open.spotify.com/track/5B1dn6AfeohMuuHxyoMX72) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Ojalá](https://open.spotify.com/album/3qP7KCJCzm4KB7z2FY6OGV) | 2:25 | 2023-06-12 | 2023-10-31 |
 | [OJOS FERRARI](https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:00 | 2023-02-24 | 2023-05-27 |

@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-314 songs - 9 hr 25 min
+316 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [Peter Piper](https://open.spotify.com/track/69RGYABj4PQdlZH7qZgWMB) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Wheels on the Bus & Other Nursery Rhymes with Little Baby Bum](https://open.spotify.com/album/3WM68FwyD2PzaRrHUToEqZ) | 1:44 | 2022-02-25 | 2022-07-29 |
 | [Peter Piper](https://open.spotify.com/track/7yMOpM5SOQyrDP5JctFWqd) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Baby Rhymes](https://open.spotify.com/album/7sXl7gKbZ3PaRZRWoaasMp) | 1:44 | 2022-02-25 | 2022-11-13 |
 | [Peter, Peter, Pumpkin Eater](https://open.spotify.com/track/6CsWiIaapJlCiHgULVDwZ0) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 1](https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ) | 0:45 | 2022-02-25 |  |
-| [Polly Put the Kettle On](https://open.spotify.com/track/4ebxbMfNr6StAGWyZgQXD4) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [What's Cooking in the Kitchen \(Songs about Food\)](https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0) | 1:10 | 2022-02-25 |  |
+| [Polly Put the Kettle On](https://open.spotify.com/track/3ab9mdk8fOzjCU0054dghC) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Fun Songs for Kids](https://open.spotify.com/album/3l5NKqOZFYoXX357okAjBh) | 1:10 | 2023-04-26 |  |
+| [Polly Put the Kettle On](https://open.spotify.com/track/4ebxbMfNr6StAGWyZgQXD4) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [What's Cooking in the Kitchen \(Songs about Food\)](https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0) | 1:10 | 2022-02-25 | 2023-11-11 |
 | [Polly Wolly Doodle](https://open.spotify.com/track/5FPYALzokpgQY2Kl5x3IBP) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Traditional Nursery Rhymes for Kids](https://open.spotify.com/album/6VHFjCJdynbI81lFrzeBki) | 2:20 | 2022-02-25 | 2022-07-29 |
 | [Polly Wolly Doodle](https://open.spotify.com/track/73DsyRYHkYprrQhU3Fwoz8) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Traditional Nursery Rhymes for Kids](https://open.spotify.com/album/5GN2C91tNyIMWdEXu5GIhQ) | 2:20 | 2022-02-25 |  |
 | [Polly, Put the Kettle On](https://open.spotify.com/track/44tkBNIXqp5dYlohMqaOjg) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 2](https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd) | 0:21 | 2022-02-25 |  |
@@ -244,7 +245,8 @@
 | [She'll Be Coming Round the Mountain](https://open.spotify.com/track/2TScmZPWSAOXRkXMJ6y8qR) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [100 Nursery Rhymes](https://open.spotify.com/album/0hJm6TTGeW1tqileJj39ZA) | 2:01 | 2022-02-25 | 2022-07-29 |
 | [She’ll Be Coming Round the Mountain](https://open.spotify.com/track/4wdYY7uEyWFhyUGHEwNE3l) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 7: Kids Sing & Learn](https://open.spotify.com/album/3DrqTp4SDht5Guqh1O9WWI) | 2:41 | 2022-02-25 |  |
 | [Shoo Fly](https://open.spotify.com/track/41fWg0m9Z3GVxbrmQR17yJ) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 50 Nursery Rhymes Playlist](https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw) | 1:19 | 2022-02-25 |  |
-| [Short'nin' Bread](https://open.spotify.com/track/2gremjoXqhkV60TNuygGZR) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [What's Cooking in the Kitchen \(Songs about Food\)](https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0) | 1:51 | 2022-02-25 |  |
+| [Short'nin' Bread](https://open.spotify.com/track/26nRFjiXqeH4jbqlqaSRNf) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [The Dog: 100 Super Silly Songs](https://open.spotify.com/album/2HOJ3KWK4JBlV0aDYWacW0) | 1:51 | 2023-04-26 |  |
+| [Short'nin' Bread](https://open.spotify.com/track/2gremjoXqhkV60TNuygGZR) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [What's Cooking in the Kitchen \(Songs about Food\)](https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0) | 1:51 | 2022-02-25 | 2023-11-11 |
 | [Short'nin' Bread](https://open.spotify.com/track/4LMuKlesZMky3iVQq2qOAP) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 50 Nursery Rhymes Playlist](https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw) | 1:46 | 2022-02-25 |  |
 | [Shut Them Open](https://open.spotify.com/track/2LNdvWCmPEUywHeRqXEjig) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Best Kids Songs](https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU) | 0:52 | 2022-02-25 |  |
 | [Sing a Song of Sixpence](https://open.spotify.com/track/4gTqxLrtbeM2hLwaFEF559) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 2](https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd) | 0:38 | 2022-02-25 |  |

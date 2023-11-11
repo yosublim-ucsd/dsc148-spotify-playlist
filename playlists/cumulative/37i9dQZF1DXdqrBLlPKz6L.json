@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Los temas m\u00e1s prendidos del trap desde Venezuela, Colombia, Per\u00fa y Ecuador. Foto: Blessd",
+  "description": "Los temas m\u00e1s prendidos del trap desde Venezuela, Colombia, Per\u00fa y Ecuador. Foto: Cobuz & Bustta, Esteban Rojas",
   "name": "Trapperz Andinos",
   "tracks": [
     {
@@ -20,6 +20,28 @@
       "duration_ms": 200269,
       "name": "28",
       "url": "https://open.spotify.com/track/3CNAh2F7pfyUu7KAEYHtMl"
+    },
+    {
+      "album": {
+        "name": "3:33",
+        "url": "https://open.spotify.com/album/2A4YxJxcU3mw4GN0Z7GJ1J"
+      },
+      "artists": [
+        {
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        },
+        {
+          "name": "Reboll333",
+          "url": "https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211763,
+      "name": "3:33",
+      "url": "https://open.spotify.com/track/13I4rLxgBLcR3F9TykaW97"
     },
     {
       "album": {
@@ -90,7 +112,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 220693,
       "name": "BACKWOOD",
       "url": "https://open.spotify.com/track/189NNUc8Maec0KYHUt7QTG"
@@ -348,7 +370,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 190061,
       "name": "CODIGOS",
       "url": "https://open.spotify.com/track/6Xyzy69g8GP0uAaXsqGFGf"
@@ -550,6 +572,28 @@
       "duration_ms": 159069,
       "name": "Esperando Q Me Des Un Call",
       "url": "https://open.spotify.com/track/5f3AmXghyLboXUrnjNMFtq"
+    },
+    {
+      "album": {
+        "name": "Esteban Rojas Hotline: Cobuz & Bustta",
+        "url": "https://open.spotify.com/album/294JtJhmt9pSQARdmgEQBb"
+      },
+      "artists": [
+        {
+          "name": "Cobuz & Bustta",
+          "url": "https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Esteban Rojas Hotline: Cobuz & Bustta",
+      "url": "https://open.spotify.com/track/1ekyUJAtwt1VvoUQNcgWrf"
     },
     {
       "album": {
@@ -1414,7 +1458,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 201935,
       "name": "Party Trippy (feat. Totoy El Frio)",
       "url": "https://open.spotify.com/track/1UP8LOk66LufjRtBBEZtGL"
@@ -1810,6 +1854,24 @@
       "duration_ms": 219481,
       "name": "Track 11",
       "url": "https://open.spotify.com/track/58Z2aR6MVBuQumxBru8Y40"
+    },
+    {
+      "album": {
+        "name": "Trendi",
+        "url": "https://open.spotify.com/album/5vyt8C2B0j6yUFniEHJRc6"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Trendi",
+      "url": "https://open.spotify.com/track/0RdBFw9TfRCXJsqQNimbM3"
     },
     {
       "album": {

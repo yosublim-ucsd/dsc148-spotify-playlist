@@ -34,10 +34,28 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 140250,
       "name": "A Brief Silence",
       "url": "https://open.spotify.com/track/3e4aHnazy2RkEl95ixPoK4"
+    },
+    {
+      "album": {
+        "name": "A Brief Silence",
+        "url": "https://open.spotify.com/album/2iAqb5d0RyhfozPm80ew6D"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Trabanino",
+          "url": "https://open.spotify.com/artist/3blJXUBNjlTFWMMrtsSLI3"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140250,
+      "name": "A Brief Silence",
+      "url": "https://open.spotify.com/track/56BVuagoCX2UtxxZclPkW7"
     },
     {
       "album": {

@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "All on me",
+        "url": "https://open.spotify.com/album/7FLvdh7njvIp5w8yi7exVW"
+      },
+      "artists": [
+        {
+          "name": "BenValla",
+          "url": "https://open.spotify.com/artist/4VBZgz5hmOsdxZtKnOM64I"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200275,
+      "name": "All on me",
+      "url": "https://open.spotify.com/track/5OHsQBkjTliOsXMtXblj7m"
+    },
+    {
+      "album": {
         "name": "Atakuoa Nani",
         "url": "https://open.spotify.com/album/0lXqNUGMmDkVrttr2HPbUk"
       },
@@ -206,7 +224,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 185077,
       "name": "Banyamulenge",
       "url": "https://open.spotify.com/track/522dMvpymut4pfbyneraOe"
@@ -348,6 +366,28 @@
       "duration_ms": 172042,
       "name": "BLESS",
       "url": "https://open.spotify.com/track/2VuA20x246Ayzil4Ng1NZ9"
+    },
+    {
+      "album": {
+        "name": "Bondeni Freestyle",
+        "url": "https://open.spotify.com/album/3F13mNEa4t3MEZwq3xfwAW"
+      },
+      "artists": [
+        {
+          "name": "Cde Hambagen",
+          "url": "https://open.spotify.com/artist/0NypjULeiFikRCIeRZXj8U"
+        },
+        {
+          "name": "Aiter trey",
+          "url": "https://open.spotify.com/artist/0ibxf81fncwFFt8QStuDlP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136855,
+      "name": "Bondeni Freestyle",
+      "url": "https://open.spotify.com/track/1wkRgjYqeFSvfF1wyrlPAk"
     },
     {
       "album": {
@@ -624,7 +664,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 197067,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5VLLmQUpBUF8gaX1W3ajtx"
@@ -810,7 +850,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 206275,
       "name": "HUJA BALEHE",
       "url": "https://open.spotify.com/track/0bhy8dg5uvuN3UpBqLfgpA"
@@ -1472,7 +1512,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 471118,
       "name": "O 2 the G Cypher",
       "url": "https://open.spotify.com/track/1ib32aj9wikMcH5paMNp9E"
@@ -1516,6 +1556,28 @@
       "duration_ms": 122136,
       "name": "OWN BO$$",
       "url": "https://open.spotify.com/track/67oXagPoTbm4XivSJ17MIx"
+    },
+    {
+      "album": {
+        "name": "PAPUCHI",
+        "url": "https://open.spotify.com/album/6BM5wNrwsq0OPHg5mVfg2z"
+      },
+      "artists": [
+        {
+          "name": "Salmin Swaggz",
+          "url": "https://open.spotify.com/artist/29Bao5BzmXldCACxALuPcu"
+        },
+        {
+          "name": "Khalli",
+          "url": "https://open.spotify.com/artist/7kPZCvhsvqbRBQLnVbJVLc"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150360,
+      "name": "PAPUCHI",
+      "url": "https://open.spotify.com/track/1eBsRZiqVztNnTvQZlwL1A"
     },
     {
       "album": {
@@ -1842,6 +1904,28 @@
       "duration_ms": 263726,
       "name": "Show Time - Remix",
       "url": "https://open.spotify.com/track/6s9K8UVvOQ47lnkzTj4xYx"
+    },
+    {
+      "album": {
+        "name": "Siku 462",
+        "url": "https://open.spotify.com/album/6tJOOG9u6TLa7teKtA0ctV"
+      },
+      "artists": [
+        {
+          "name": "PROFESSOR JAY",
+          "url": "https://open.spotify.com/artist/1Q5oCRnwsddhlxhXLSXuiK"
+        },
+        {
+          "name": "Walter Chilambo",
+          "url": "https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452004,
+      "name": "Siku 462",
+      "url": "https://open.spotify.com/track/6Ra0c5H61aJLKRpkFhkAZz"
     },
     {
       "album": {

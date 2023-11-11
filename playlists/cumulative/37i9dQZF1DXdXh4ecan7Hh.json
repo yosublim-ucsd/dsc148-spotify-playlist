@@ -132,6 +132,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7MLuSEV3k7u4rAHq3L8z8h"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250733,
+      "name": "Best Shot (Spotify Singles)",
+      "url": "https://open.spotify.com/track/2WfVAdZp1iQ0OqwnNyKzlU"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
       },
       "artists": [
@@ -142,7 +160,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 250733,
       "name": "Best Shot - Spotify Singles",
       "url": "https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w"
@@ -1450,6 +1468,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7MLuSEV3k7u4rAHq3L8z8h"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256278,
+      "name": "Un-Break My Heart (Spotify Singles)",
+      "url": "https://open.spotify.com/track/2ypb4O6v2rZgmqxw8lPF2W"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
       },
       "artists": [
@@ -1460,7 +1496,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 256278,
       "name": "Un-Break My Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
@@ -1561,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Wide Open Spaces",
+        "url": "https://open.spotify.com/album/5Z9d9Ahszcra0XWI7WZeL9"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240224,
+      "name": "Wide Open Spaces",
+      "url": "https://open.spotify.com/track/6ks9FWHuzpSQkDdGo2Jqgu"
+    },
+    {
+      "album": {
         "name": "Wide Open Spaces - Spotify Singles",
         "url": "https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t"
       },
@@ -1572,7 +1626,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 240224,
       "name": "Wide Open Spaces - Spotify Singles",
       "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"

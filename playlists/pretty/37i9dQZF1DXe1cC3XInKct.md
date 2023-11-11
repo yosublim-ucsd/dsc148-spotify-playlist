@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 
 > Downtempo and ambient electronic music\. Feel the undertones 🍃
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,463 likes - 80 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,689 likes - 80 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 | 28 | [The Heart Awakens](https://open.spotify.com/track/09WUvEPc7gQvzywdltoGbK) | [Alice in Freefall](https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX) | [The Heart's Interior](https://open.spotify.com/album/57mnWINGD2r2sADQheazmQ) | 3:16 |
 | 29 | [Eloquent](https://open.spotify.com/track/4jb7meF5ZaTIcmLQPIXVr7) | [Zen in Space](https://open.spotify.com/artist/3tCapIBvPdztdjuCnoout6) | [Eloquent](https://open.spotify.com/album/6DIbI5vL3WwrO40wRYzGDm) | 3:12 |
 | 30 | [Sea](https://open.spotify.com/track/724EQ9fCgpO1jcrsKZFay3) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [The Wheel](https://open.spotify.com/album/25yzNk7vC5nEu8PKQFiKjl) | 3:38 |
-| 31 | [Relax](https://open.spotify.com/track/1351mqeM6hcQoeIPp0ep0r) | [Slow Rotation Inc](https://open.spotify.com/artist/5qIy5MO9Iijv5V2FYyFN51) | [Relax](https://open.spotify.com/album/3ObijBdZIfJwGBEIjszUbO) | 8:17 |
+| 31 | [Relax](https://open.spotify.com/track/6ovMGPuYv9eVFqaewR3LRO) | [Slow Rotation Inc](https://open.spotify.com/artist/5qIy5MO9Iijv5V2FYyFN51) | [Slow Rotation Inc](https://open.spotify.com/album/3WO4Hf83OsfOmkLW0QtctR) | 8:17 |
 | 32 | [Over the Night Sky](https://open.spotify.com/track/57tJQHzPDzZ10BQ3LAyrko) | [Body Corp](https://open.spotify.com/artist/47kJiM0ksgZti3nuMq1opC) | [This Time, We Have](https://open.spotify.com/album/4NffXuyWwsLhvc7SzLrRf9) | 7:39 |
 | 33 | [4 Ya Bliss](https://open.spotify.com/track/53lWKWzemoInkPJsU9vTyA) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [4 Ya Kiss / 4 Ya Bliss](https://open.spotify.com/album/1m5Fdo7XNGZ8TunvSg948H) | 5:47 |
 | 34 | [Sleeping Tiger on the Bund 蓄势待发 \- Flora Wong Remix](https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g) | [Mindy Meng Wang 王萌](https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy), [Flora Wong](https://open.spotify.com/artist/7pu8jBlo7t1C3wAa9XWEIu) | [Sleeping Tiger on the Bund 蓄势待发 \(Flora Wong Remix\)](https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov) | 3:21 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 | 37 | [Brain Massage](https://open.spotify.com/track/74wXDRlkSTgIWyWNYyuLY4) | [Subset](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Brain Massage](https://open.spotify.com/album/2MjtE3sDCNLmwMcrh0kedQ) | 7:07 |
 | 38 | [In Flux](https://open.spotify.com/track/6afThCtzmXjSGjcHZBK1tV) | [LOIF](https://open.spotify.com/artist/6rYEt4oSMROtwcwkP8yjNw) | [In Flux](https://open.spotify.com/album/6tNhDhPSTr00QQxe8ik5zR) | 6:38 |
 | 39 | [Lansky's Vision](https://open.spotify.com/track/5Y2C5L0dWPe8TbUSwAkJDk) | [Rings Around Saturn](https://open.spotify.com/artist/7f8HHIhSFgk84dH4me4pGK) | [All Things Shining](https://open.spotify.com/album/75htEsqRgU9UbKmQPzNuzn) | 7:20 |
-| 40 | [Dreaming Of High Fidelity](https://open.spotify.com/track/2HRbd2lJKkWWBGT2IRVr4j) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Transit](https://open.spotify.com/album/0MGV2N8Dr2Vy71qTDN7LXL) | 5:59 |
+| 40 | [Dreaming of High Fidelity](https://open.spotify.com/track/10X5d98YvJOFn1YShtEMGj) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Transit](https://open.spotify.com/album/1ohINfz1vkkg9NbVe3Z2RT) | 5:59 |
 | 41 | [Another Moment](https://open.spotify.com/track/6jFDHm75VMQEgMG0fgl6Ng) | [Body Corp](https://open.spotify.com/artist/47kJiM0ksgZti3nuMq1opC) | [Another Moment](https://open.spotify.com/album/0xrcPgowAxusQRGf9JL7Yj) | 4:00 |
 | 42 | [Boats](https://open.spotify.com/track/4z0c3BFo9eiVyESyLLc0Ah) | [Mikey Young](https://open.spotify.com/artist/2oeu1S18kSQkVZC7lqCl3M) | [Curtains](https://open.spotify.com/album/6ttsznluwgKnbywmpmVNKk) | 3:55 |
 | 43 | [Imprinting](https://open.spotify.com/track/0HlomuMRtN0V26CP2HfinH) | [The Necks](https://open.spotify.com/artist/2S0D6Vlt9T6z5MNm1UBJgf) | [Travel](https://open.spotify.com/album/6kLQCIVc5QB7B6pMd219Bl) | 17:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 | 79 | [On the Shore](https://open.spotify.com/track/1J2ObShjzqTOe2eJzYg0s9) | [Bluetung](https://open.spotify.com/artist/79WPKJgJwIiymK2BNhcrCd) | [Eternity by the Stars](https://open.spotify.com/album/5ALpewfvkyuuKT12Y8cImv) | 7:10 |
 | 80 | [Heavenly Data](https://open.spotify.com/track/6oZdI01WQrUH4JOikTZ7MX) | [MTLDA](https://open.spotify.com/artist/3HNFNsVoyPblJOCLPGrjVy) | [God Is a DJ](https://open.spotify.com/album/6ph5yvbPRjMxrO81UVCSzy) | 5:13 |
 
-Snapshot ID: `MCwxNzAxZDhlZmJkZmMzMjllMDdiZTY3NDRmZjQ2OGRmZGIwMWU2MGE2`
+Snapshot ID: `MCxiNjQwZDg4NTViYTczYzgyZmIwMGY0OWU2NmYyZWEwNmQzNjNmYTc2`

@@ -1,12 +1,12 @@
 {
   "description": "La playlist oficial de A trav\u00e9s de mi ventana.  <a href=\u201chttps://www.netflix.com/title/81388078\u201d>Ver en Netflix </a> \n",
-  "num_followers": 19621,
+  "num_followers": 19750,
   "original_name": "A trav\u00e9s de mi ventana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTU4NWYxYmJjZGQ4NjdhZTYyNTdiMGIwZmVhNDFmMWU5MGMxZDRk",
+  "snapshot_id": "MCw5YzMxYzhjMjU4YTBhYThjNTU0OTc4NDcwMTZlNDUyNGMzYzZkNzc1",
   "tracks": [
     {
       "added_at": "2022-05-20 21:47:31",
@@ -134,6 +134,10 @@
         {
           "name": "BEA PELEA",
           "url": "https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d"
+        },
+        {
+          "name": "Pipo Beatz",
+          "url": "https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ"
         }
       ],
       "duration_ms": 199585,

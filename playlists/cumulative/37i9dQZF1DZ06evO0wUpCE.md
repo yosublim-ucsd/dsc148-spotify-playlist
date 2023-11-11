@@ -4,7 +4,7 @@
 
 > This is Intocable\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 14 min
+56 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Dame Un Besito](https://open.spotify.com/track/4TkNaOLBBSHVI4W5vjuAKK) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 3:47 | 2023-08-08 |  |
 | [Dejate Amar](https://open.spotify.com/track/5iveqz8wifjSPTBWwOtSiI) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [X \(Vol\. 2\)](https://open.spotify.com/album/410rRXK2ZRpUWNv37vUSy2) | 4:31 | 2023-08-08 |  |
 | [Déjame Amarte](https://open.spotify.com/track/5tzBmQr9EopzbPQjiMGFmK) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Es Para Ti](https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND) | 3:30 | 2023-08-08 |  |
+| [Dímelo](https://open.spotify.com/track/5X7kFGFvw85zvg64IjJp4G) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [En Peligro De Extinción](https://open.spotify.com/album/0nKSgzMBxxghnjJATsPm2Z) | 4:38 | 2023-11-10 |  |
 | [El Amigo Que Se Fué](https://open.spotify.com/track/6BTtKitErY2JcpwdZ9rdpZ) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:39 | 2023-08-08 |  |
 | [El Poder De Tus Manos](https://open.spotify.com/track/4ZhvLAPvtgJkk6RBBqJCUq) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Sueños](https://open.spotify.com/album/6RHhs75iZiSjKMSemcyh24) | 3:02 | 2023-08-08 |  |
 | [Enséñame A Olvidarte](https://open.spotify.com/track/2Ku6P1U8QkOQcLEXTRxygX) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Es Para Ti](https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND) | 3:22 | 2023-08-08 |  |
@@ -59,7 +60,7 @@
 | [Un Poquito Tuyo](https://open.spotify.com/track/4Xite6iT0HSbmG6h2cnia2) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Un Poquito Tuyo](https://open.spotify.com/album/36zNWFQ7R29rlWz68ymO6a) | 2:55 | 2023-08-08 |  |
 | [Vete Ya](https://open.spotify.com/track/6EZsucUbKS1mmWohoHXtJW) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Fuego Eterno](https://open.spotify.com/album/4WrhrIl5r8G26F9Woj3W1J) | 2:43 | 2023-08-08 |  |
 | [Viento \(with Intocable\)](https://open.spotify.com/track/3NQHzcvs6Eb3eNspR3HXBh) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Último Acto](https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt) | 3:26 | 2023-08-08 |  |
-| [Yo Seguiré](https://open.spotify.com/track/0wCmsxdleZ6Bx1wnbASzPT) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Yo Seguiré](https://open.spotify.com/album/2Kgdp5hOSOKuk7X1K1yytR) | 4:13 | 2023-08-08 |  |
+| [Yo Seguiré](https://open.spotify.com/track/0wCmsxdleZ6Bx1wnbASzPT) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Yo Seguiré](https://open.spotify.com/album/2Kgdp5hOSOKuk7X1K1yytR) | 4:13 | 2023-08-08 | 2023-11-11 |
 | [¿A Dónde Estabas?](https://open.spotify.com/track/0Lq5wNcegxCGz7glMbUBNn) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Nuestro Destino Estaba Escrito](https://open.spotify.com/album/5XlC9twRLfKfmO0hMJAsmB) | 3:35 | 2023-08-08 |  |
 | [¿Dónde Estás?](https://open.spotify.com/track/3XzRoXUBIzJQhTvWmGNeF7) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 4:06 | 2023-08-08 |  |
 | [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 | 2023-08-08 |  |

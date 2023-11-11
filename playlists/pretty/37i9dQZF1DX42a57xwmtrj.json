@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
-  "num_followers": 152944,
+  "num_followers": 153065,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODNhODAwYmI1ZTI5YTgzMGQ2MzgyN2ZjZjZmNWJiOWIzM2VjZDVi",
+  "snapshot_id": "MCxmYzVmNjg4YmJmYWUzMzFkZGE5M2JmNjVhZGFlMGQzZTJjYmNiMWUw",
   "tracks": [
     {
       "added_at": "2023-10-23 20:26:24",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 1",
-        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 256394,
-      "name": "Vaquero Rockanrolero",
-      "url": "https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
         "name": "La Ciudad",
         "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 169180,
       "name": "No Todo Es Oro",
       "url": "https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 256394,
+      "name": "Vaquero Rockanrolero",
+      "url": "https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7"
     },
     {
       "added_at": "2023-10-23 20:26:24",

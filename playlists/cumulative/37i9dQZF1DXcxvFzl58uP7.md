@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\.  Cover: Clairo
 
-905 songs - 1 day 23 hr 2 min
+908 songs - 1 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,8 +99,9 @@
 | [Black Coffee](https://open.spotify.com/track/67aZdAS6doqinEJfperUnH) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Black Coffee](https://open.spotify.com/album/2HJ6fPTZHFuiSxWDGPTKo3) | 2:24 | 2021-05-09 | 2021-08-28 |
 | [Blame](https://open.spotify.com/track/0dlpkHAazQr4WtOTirzRnT) | [Mikalyn](https://open.spotify.com/artist/1uFSMxmIM7eRPSPlHBep7Y) | [Blame](https://open.spotify.com/album/7vfT5KiIrwzJR6oSsa3ahN) | 3:25 | 2021-10-08 | 2022-04-10 |
 | [blank slate](https://open.spotify.com/track/7EIiQFUmU8e6KFAid9L411) | [spookyghostboy](https://open.spotify.com/artist/3pHAJqPZhCGNoFShXcqD9k) | [blank slate](https://open.spotify.com/album/5dBn4IzCllX9kFAU70SGnB) | 4:49 | 2021-04-12 | 2021-08-27 |
-| [BLOOD DIAMOND RING](https://open.spotify.com/track/0ucjBqEJzF3qCsxzyALaxH) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [BLOOD DIAMOND RING](https://open.spotify.com/album/4j0nubT1thDDL0CpeZjtZq) | 2:25 | 2023-09-22 |  |
+| [BLOOD DIAMOND RING](https://open.spotify.com/track/0ucjBqEJzF3qCsxzyALaxH) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [BLOOD DIAMOND RING](https://open.spotify.com/album/4j0nubT1thDDL0CpeZjtZq) | 2:25 | 2023-09-22 | 2023-11-11 |
 | [BLOOD DIAMOND RING](https://open.spotify.com/track/2I7rgaoo5F5ZAZIg6cIPVu) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [BLOOD DIAMOND RING](https://open.spotify.com/album/4hRVeQYXDUEiwhtfwcBObt) | 2:25 | 2023-09-22 | 2023-09-27 |
+| [BLOOD DIAMOND RING](https://open.spotify.com/track/4WGoMHtZq6u4af9EBCQ2IE) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Indigo Jack](https://open.spotify.com/album/3wdYd1iZDlAH4wXNz9VPoK) | 2:25 | 2023-09-29 |  |
 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 | 2023-04-28 |  |
 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 | 2021-08-13 | 2022-12-01 |
 | [BLUEBLUEBLUE](https://open.spotify.com/track/3c8joelJQd6Ae7vEIhme97) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C), [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [BLUEBLUEBLUE](https://open.spotify.com/album/3dOqYtutrXgjShT82NgDZu) | 2:11 | 2021-10-25 | 2022-04-18 |
@@ -160,7 +161,8 @@
 | [Clear Water](https://open.spotify.com/track/4VkcLBrVk0rjcbSvEIjyix) | [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR), [Phlowerie](https://open.spotify.com/artist/4gnXAbCkJgPL3Pd2D79B5A) | [Pretty Boy](https://open.spotify.com/album/327jlRWWT2vjxbTIHGVWFX) | 2:22 | 2021-10-25 | 2022-04-19 |
 | [Cloud 9](https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Cloud 9](https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq) | 2:22 | 2021-06-04 | 2023-08-26 |
 | [Cloudy Days](https://open.spotify.com/track/5BlY7WtI52hx9FlMGcM8Wm) | [Sam Plant](https://open.spotify.com/artist/4yJhpF6wzsv1nH7ZUQDx1w), [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Cloudy Days](https://open.spotify.com/album/68hKxVlOw3iq3WaGiPeHC7) | 3:38 | 2019-07-31 | 2021-03-23 |
-| [Clueless](https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Clueless](https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU) | 3:47 | 2019-07-30\* |  |
+| [Clueless](https://open.spotify.com/track/4pnXcQSeFwrr3GPHEmeS7m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 3:47 | 2023-09-29 |  |
+| [Clueless](https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Clueless](https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU) | 3:47 | 2019-07-30\* | 2023-11-11 |
 | [Co Luv](https://open.spotify.com/track/5RCgmUGvyS5wXNlVzsfagn) | [BEBELUNA](https://open.spotify.com/artist/55RGGwGDenbVKeCLIu5HXT), [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [Bolo Boy](https://open.spotify.com/album/5AfF1jOMKdKA6HRbtwJECQ) | 3:47 | 2023-08-25 | 2023-09-16 |
 | [Coffee's on Me](https://open.spotify.com/track/5UeYwxG6CXk8uMC7aGcRsn) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/1BwY5tsTSAZu1UZFUWyW9K) | 3:42 | 2021-08-27 | 2022-07-28 |
 | [Coffee's on Me](https://open.spotify.com/track/3t4mslZa0wJYrj2UjlsyPX) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/4BE9UzrvSYUrtwj3pIoczL) | 3:43 | 2023-04-17 | 2023-09-29 |
@@ -331,7 +333,7 @@
 | [Gold Sunshine](https://open.spotify.com/track/5k6GyrSq8CheHfimk17q6L) | [Georgey V](https://open.spotify.com/artist/3lLhATec3Y08knmk4suWu7) | [Smile!](https://open.spotify.com/album/7FLRmEwFymKSwhJMz2fKOU) | 2:51 | 2019-09-09 | 2021-05-25 |
 | [golden feeling since june](https://open.spotify.com/track/4ALuKkHjcduEJq9wll2uEJ) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Over Grey Skies](https://open.spotify.com/album/0lR03Yi5SSu0IeFMkE7jG1) | 2:27 | 2019-07-30\* | 2021-05-03 |
 | [Good Dog](https://open.spotify.com/track/5T0Y9lMJNNA50FswxRPkmX) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG) | [Good Dog](https://open.spotify.com/album/3OFQDp9qEGZvI9QeAZqCYK) | 2:58 | 2021-04-30 | 2021-08-25 |
-| [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-02-10 |  |
+| [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-02-10 | 2023-11-11 |
 | [Goodie Bag](https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl) | 2:26 | 2019-07-30\* | 2022-07-29 |
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2021-02-27 |  |
 | [Gotta Run](https://open.spotify.com/track/1KcuZCtR3XTcJS6VJsLiHS) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Gotta Run](https://open.spotify.com/album/1FBzIbU60x8HY7z9xzIKTT) | 3:08 | 2020-06-12 | 2021-05-24 |
@@ -554,6 +556,7 @@
 | [Nice Boys](https://open.spotify.com/track/6uuBSo3wXnosEWVXRzZDTf) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 3:00 | 2021-02-27 | 2023-06-10 |
 | [Nice Boys](https://open.spotify.com/track/5H2WmzaijYOGTHeHdM3w9P) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/3w5Zdmzwq8JDgY0DaheigE) | 3:00 | 2019-07-31 | 2022-04-17 |
 | [nice pup](https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [puppy luv](https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq) | 2:43 | 2022-04-08 | 2022-07-29 |
+| [NIGHTTIME](https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [NIGHTTIME](https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y) | 2:27 | 2023-10-13 |  |
 | [No Going Back](https://open.spotify.com/track/7rig9YRhho4jJ2LBMGekfj) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [No Going Back](https://open.spotify.com/album/4Wi4LqdAihpu1DMkHLaZZF) | 3:28 | 2019-07-31 | 2021-08-21 |
 | [No Tissues](https://open.spotify.com/track/7FIG9jdfSkky8Ffe7UDbQt) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [No Tissues](https://open.spotify.com/album/34l78FegqvM5E04ktBeiw6) | 3:05 | 2019-07-30\* | 2022-04-19 |
 | [NOBODY ELSE](https://open.spotify.com/track/42wX3J3SYeAJCRlI2SM9Rs) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [NOBODY ELSE](https://open.spotify.com/album/3bkeV6rmmWQzrqNKbZ8TF7) | 3:16 | 2021-05-14 | 2022-04-17 |

@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Quiescence",
+        "url": "https://open.spotify.com/album/19hoNIvh1uWXqTakJUCNhL"
+      },
+      "artists": [
+        {
+          "name": "Nelson Robert",
+          "url": "https://open.spotify.com/artist/1nITSgFXHcsi7Im2tAANUp"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175798,
+      "name": "Quiescence",
+      "url": "https://open.spotify.com/track/3m51cUr11ZSJWFGmIn800g"
+    },
+    {
+      "album": {
         "name": "Quietude",
         "url": "https://open.spotify.com/album/0qWiybxUycLapKx1JhTGAV"
       },
@@ -2278,6 +2296,24 @@
       "duration_ms": 130507,
       "name": "Siluetter",
       "url": "https://open.spotify.com/track/5EG8EctV5hGrILi6Kn3crm"
+    },
+    {
+      "album": {
+        "name": "Sinus",
+        "url": "https://open.spotify.com/album/3p0yXuPgxloFFUMO0YIVxu"
+      },
+      "artists": [
+        {
+          "name": "Wilfred Fredig",
+          "url": "https://open.spotify.com/artist/4hTrnME7WOKqbnIfRiu01m"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130794,
+      "name": "Sinus",
+      "url": "https://open.spotify.com/track/6Zwt26VVEUeS7Iq9BR0kiA"
     },
     {
       "album": {

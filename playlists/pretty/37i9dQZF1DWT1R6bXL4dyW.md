@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 
 > Buon Appetito!
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,264 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,405 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 | 3 | [Summertime in Venice](https://open.spotify.com/track/48ivErtRGxqq7c7McvCrLu) | [Buddy Greco](https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ) | [My Last Night in Rome](https://open.spotify.com/album/5M0nS1p261Pba8ETac6qtv) | 2:14 |
 | 4 | [Rags to Riches](https://open.spotify.com/track/4BH8EuPAxeFAh1rSWtnGdD) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Columbia Singles, Vol\. 2](https://open.spotify.com/album/69MC1P86JXGPPfRDOgicPO) | 2:48 |
 | 5 | [Lazzarella](https://open.spotify.com/track/2Jx5D0YoqTrCmf6mhWUBNH) | [Gloria Christian](https://open.spotify.com/artist/1tGvCnveV3FhhNIjjGEPPI) | [La bimba di Napoli](https://open.spotify.com/album/44lx8lzwLCBQMFZwAbvjad) | 3:00 |
-| 6 | [Tu Vuo' Fa L'Americano \(Alternate Take\)](https://open.spotify.com/track/0aRwjpeeFTjSLT7f58GdBw) | [Renato Carosone](https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF) | [L'Incredibile Renato Carosone](https://open.spotify.com/album/18nKFmNk8Jygs9tKqJAEzG) | 3:25 |
+| 6 | [Tu vuo' fa l'americano](https://open.spotify.com/track/5ez6STfeeuCyahjmGFmudi) | [Renato Carosone](https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF) | [Tu Vuo' Fa L'americano](https://open.spotify.com/album/5pvgUx68aVvUibpa1J9O56) | 3:25 |
 | 7 | [Let's Fall in Love](https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [That Towering Feeling](https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos) | 1:58 |
 | 8 | [Primo amore](https://open.spotify.com/track/44nITwzqqMN5YGkkpHIssi) | [Carlo Buti](https://open.spotify.com/artist/2X9ZzmPwihIKKf2hIFfPyX) | [Se vuoi goder la vita](https://open.spotify.com/album/5crLflFonGxdtP6O5llh0H) | 3:45 |
 | 9 | [Sott'er celo de Roma](https://open.spotify.com/track/4aoGVSGI98wtrol55ppThj) | [Teddy Reno](https://open.spotify.com/artist/6bobviRFkmyCKCIxqMluuv) | [Pezzi da...90](https://open.spotify.com/album/6Ie5uPiaaDhJRbssFBAkZf) | 3:13 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 | 53 | [Sapore di sale](https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Basta Chiudere Gli Occhi](https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j) | 3:34 |
 | 54 | [Italian Night](https://open.spotify.com/track/7kQJ5znmZV3jLpcNDQE0xR) | [The New Italian Ensemble](https://open.spotify.com/artist/6dxVfmnDCABARibSSrtqRI) | [Welcome Home](https://open.spotify.com/album/0QsSFqGdbReLFAWwKdQIhS) | 3:33 |
 
-Snapshot ID: `MCxlYjkxOWRmYTZkMmEyMmQwZTk5YTEyYTIzNTlhNzRjMGRmNGE3ODQw`
+Snapshot ID: `MCxlNDUyMzZlMTM3NzM0OTk0OGRhNGIyNWY3OGVmNzFlMWQ3YjkyZWY3`

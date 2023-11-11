@@ -247,6 +247,28 @@
     },
     {
       "album": {
+        "name": "Akwasu",
+        "url": "https://open.spotify.com/album/5ozmwxYthB4Py8jD1LBbZG"
+      },
+      "artists": [
+        {
+          "name": "Sebastien Dutch",
+          "url": "https://open.spotify.com/artist/3DhrN38YbHljOGNxVfWNLI"
+        },
+        {
+          "name": "Kreative Nativez",
+          "url": "https://open.spotify.com/artist/4s2DjPiXzoh6KErcgfMl6G"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416000,
+      "name": "Akwasu",
+      "url": "https://open.spotify.com/track/35QhQ4EibWBtThH09bpszW"
+    },
+    {
+      "album": {
         "name": "All For You (Kasango Remix)",
         "url": "https://open.spotify.com/album/7zuRQe7Do3KppyfJsjqUnx"
       },
@@ -512,6 +534,24 @@
     {
       "album": {
         "name": "Axel",
+        "url": "https://open.spotify.com/album/3aX1f8fBtbh84KpXKzdvjm"
+      },
+      "artists": [
+        {
+          "name": "KeeQ",
+          "url": "https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280645,
+      "name": "Axel",
+      "url": "https://open.spotify.com/track/1ndO08vc6G8ToyQDYOHMb3"
+    },
+    {
+      "album": {
+        "name": "Axel",
         "url": "https://open.spotify.com/album/2p8asP7O6CErLIC1dqFFMb"
       },
       "artists": [
@@ -522,7 +562,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 280645,
       "name": "Axel",
       "url": "https://open.spotify.com/track/3DKPOkUrUyloVq3lGmHfiV"
@@ -555,6 +595,24 @@
     },
     {
       "album": {
+        "name": "Revival EP",
+        "url": "https://open.spotify.com/album/0I6Yhz0OpdICjWfDFSqIFL"
+      },
+      "artists": [
+        {
+          "name": "Stereo Cassette",
+          "url": "https://open.spotify.com/artist/6NRuO6KTcl8Zpx3Ue8Zau0"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316721,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/6T9aB3QkE3v1GfU2noLTXK"
+    },
+    {
+      "album": {
         "name": "Bakone",
         "url": "https://open.spotify.com/album/7KKssScoi6eEnGUYbgiG9l"
       },
@@ -570,6 +628,28 @@
       "duration_ms": 436000,
       "name": "Bakone",
       "url": "https://open.spotify.com/track/5XPzuMJVQ9cX9kbOOCRvDW"
+    },
+    {
+      "album": {
+        "name": "Banho de Folhas (Maz Remix)",
+        "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Maz (BR)",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215476,
+      "name": "Banho de Folhas - Maz Remix",
+      "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
     },
     {
       "album": {
@@ -792,6 +872,28 @@
       "duration_ms": 285517,
       "name": "Better",
       "url": "https://open.spotify.com/track/1YocXsMVwXfU97DohXUwR7"
+    },
+    {
+      "album": {
+        "name": "Bird Box",
+        "url": "https://open.spotify.com/album/2ISyeUfD54HfADWSLPCt5W"
+      },
+      "artists": [
+        {
+          "name": "McK",
+          "url": "https://open.spotify.com/artist/7Hq2IxP42MAzk8X0C1j6z4"
+        },
+        {
+          "name": "Reuxen",
+          "url": "https://open.spotify.com/artist/0SAMYnYYWLYROycmJ3gqeq"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389500,
+      "name": "Bird Box",
+      "url": "https://open.spotify.com/track/4ULHvCRYKGJnYtaBua4OBT"
     },
     {
       "album": {
@@ -1059,6 +1161,28 @@
     },
     {
       "album": {
+        "name": "Carnaval",
+        "url": "https://open.spotify.com/album/6KWOa6OET5LqTNIN6mE0eN"
+      },
+      "artists": [
+        {
+          "name": "Cato Anaya",
+          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
+        },
+        {
+          "name": "Lohrasp Kansara",
+          "url": "https://open.spotify.com/artist/33puj2nZF4OKSccBLaf1oy"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199354,
+      "name": "Carnaval",
+      "url": "https://open.spotify.com/track/0fJMRXG21NegMRAR2D4dBz"
+    },
+    {
+      "album": {
         "name": "Cascades Of Colour (Remixes)",
         "url": "https://open.spotify.com/album/42kJmZ8pCizaMqhVr7J8YY"
       },
@@ -1192,6 +1316,32 @@
     {
       "album": {
         "name": "Blood Moon (Remixes)",
+        "url": "https://open.spotify.com/album/6EeOdiTtw5K9b5sME9Xz3p"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435653,
+      "name": "Colorblind (WhoMadeWho Remix)",
+      "url": "https://open.spotify.com/track/2ylvn4XwmheP3y6zMoah3Y"
+    },
+    {
+      "album": {
+        "name": "Blood Moon (Remixes)",
         "url": "https://open.spotify.com/album/4TGKtivFRBZl4BymLiQTpK"
       },
       "artists": [
@@ -1210,7 +1360,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 435653,
       "name": "Colorblind - WhoMadeWho Remix",
       "url": "https://open.spotify.com/track/1dZybfK5AztMba3tqDvT7O"
@@ -1320,6 +1470,28 @@
       "duration_ms": 457627,
       "name": "Cosmic Fusion",
       "url": "https://open.spotify.com/track/1vf7An2dqzhtCnmQWrv3qF"
+    },
+    {
+      "album": {
+        "name": "Countdown (La la la)",
+        "url": "https://open.spotify.com/album/3h5P8qVi2nFQzkQOrptt4t"
+      },
+      "artists": [
+        {
+          "name": "Afrokillerz",
+          "url": "https://open.spotify.com/artist/6r7b5Y6q3CuBgwVF5NmDSb"
+        },
+        {
+          "name": "Szon",
+          "url": "https://open.spotify.com/artist/7gDtr9MZnzuXBzzbeO5Of1"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247933,
+      "name": "Countdown (La la la)",
+      "url": "https://open.spotify.com/track/3qAdpNE1B6sbllsrixDtwi"
     },
     {
       "album": {
@@ -3359,6 +3531,28 @@
     },
     {
       "album": {
+        "name": "Masingita",
+        "url": "https://open.spotify.com/album/7BTDHUfDxkoXu3AQlBoVyO"
+      },
+      "artists": [
+        {
+          "name": "Mas\u0161h",
+          "url": "https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs"
+        },
+        {
+          "name": "STOFFELA",
+          "url": "https://open.spotify.com/artist/4ySNMtCSTAPhaXp9XMtSSn"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342721,
+      "name": "Int\u2019engekhoyo (feat. STOFFELA)",
+      "url": "https://open.spotify.com/track/0PmOeHT4I1XfaSD8JGHv3S"
+    },
+    {
+      "album": {
         "name": "Inyaniso",
         "url": "https://open.spotify.com/album/24QWdtJIdvF5j6fB7l6ibl"
       },
@@ -3690,10 +3884,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 270120,
       "name": "Kaleta",
       "url": "https://open.spotify.com/track/2ldNIVLYlSnxKGSlpud8bU"
+    },
+    {
+      "album": {
+        "name": "Kaleta",
+        "url": "https://open.spotify.com/album/1Ved6gJTWaDH1oLiJzMrKv"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270120,
+      "name": "Kaleta",
+      "url": "https://open.spotify.com/track/7Me0K7S9Kpu3lNGk3k9SJZ"
     },
     {
       "album": {
@@ -4004,6 +4216,28 @@
       "duration_ms": 424107,
       "name": "La Isla - Sasson (FR) Remix",
       "url": "https://open.spotify.com/track/3uxXJ9ISPOZKCYxV8hFN8e"
+    },
+    {
+      "album": {
+        "name": "Land Of The Dreamers",
+        "url": "https://open.spotify.com/album/6Tbe6DbCD77yJc9kGqhLfb"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Land Of The Dreamers",
+      "url": "https://open.spotify.com/track/6mIRhmt25aFdOoxB0wF6dz"
     },
     {
       "album": {
@@ -5041,6 +5275,28 @@
     },
     {
       "album": {
+        "name": "Africa Umoja, Nalingiyo (Incl. Dr Feel Remix)",
+        "url": "https://open.spotify.com/album/3BDlOTXrNaD8sqPrwyb8Gx"
+      },
+      "artists": [
+        {
+          "name": "Eman S",
+          "url": "https://open.spotify.com/artist/5jWfQNDIdkc5NIPvbR7eVr"
+        },
+        {
+          "name": "Ndlondlo",
+          "url": "https://open.spotify.com/artist/1Ig6uvreYSI4OGDdBE2bY4"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358000,
+      "name": "Nalingiyo",
+      "url": "https://open.spotify.com/track/0wLMzr90tRILfac9nJcNwm"
+    },
+    {
+      "album": {
         "name": "NDAU",
         "url": "https://open.spotify.com/album/4zZJW1MqO9NVaKzyAQQCed"
       },
@@ -5193,6 +5449,40 @@
     },
     {
       "album": {
+        "name": "Nobody Is Not Loved (Remixed)",
+        "url": "https://open.spotify.com/album/7C64t7mbCspEuu0NcyD8wH"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432360,
+      "name": "Never Sleep Again (Keinemusik Remix)",
+      "url": "https://open.spotify.com/track/5fPoYOwYZek6N4QSLP6xjD"
+    },
+    {
+      "album": {
         "name": "Nobody Is Not Loved, Remixes, Pt. 3",
         "url": "https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV"
       },
@@ -5220,7 +5510,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 432360,
       "name": "Never Sleep Again - Keinemusik Remix",
       "url": "https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q"
@@ -6310,6 +6600,28 @@
     {
       "album": {
         "name": "Rej",
+        "url": "https://open.spotify.com/album/1GY6HeWkiihJ11bSLkLxVV"
+      },
+      "artists": [
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Neil Amarey",
+          "url": "https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159677,
+      "name": "Rej",
+      "url": "https://open.spotify.com/track/3lUxkr0khe2tqUJjWQW6Af"
+    },
+    {
+      "album": {
+        "name": "Rej",
         "url": "https://open.spotify.com/album/6wD1X9ScsDcxnVOCtA3LUv"
       },
       "artists": [
@@ -6324,7 +6636,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 159677,
       "name": "Rej",
       "url": "https://open.spotify.com/track/3wgJgvlQ1HXJvt61NRE08e"
@@ -6999,6 +7311,28 @@
     },
     {
       "album": {
+        "name": "Sitar (Louis Bongo Remix)",
+        "url": "https://open.spotify.com/album/7wPcjXKwhO565ZdXNa3RWO"
+      },
+      "artists": [
+        {
+          "name": "Yaans",
+          "url": "https://open.spotify.com/artist/2aBmsHCMYVxE84mbhFhj4k"
+        },
+        {
+          "name": "Louis Bongo",
+          "url": "https://open.spotify.com/artist/6o8YcwGtEMKMcQH6gmlDKw"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493429,
+      "name": "Sitar - Louis Bongo Remix",
+      "url": "https://open.spotify.com/track/1oxjOziRxAx2UB4dzSeJKx"
+    },
+    {
+      "album": {
         "name": "Sizophumelela",
         "url": "https://open.spotify.com/album/69chQMwqV3HO6vgmslcILA"
       },
@@ -7018,6 +7352,28 @@
       "duration_ms": 282000,
       "name": "Sizophumelela",
       "url": "https://open.spotify.com/track/1rp9eI9GljiQkh0FYNvCz4"
+    },
+    {
+      "album": {
+        "name": "23:23",
+        "url": "https://open.spotify.com/album/7oJaRLs8AnUYmAJ2m7XH1k"
+      },
+      "artists": [
+        {
+          "name": "Paxton",
+          "url": "https://open.spotify.com/artist/7gyrfFsnJWKp7dQawi2VoR"
+        },
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197274,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/3MVIlOreqyVD8lboySsTzZ"
     },
     {
       "album": {
@@ -7973,6 +8329,36 @@
     },
     {
       "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/7nki89uQXxDpmZdrc1q5OT"
+      },
+      "artists": [
+        {
+          "name": "DJ SOX",
+          "url": "https://open.spotify.com/artist/4W909CXA4AnFHi4e3FBIBe"
+        },
+        {
+          "name": "Jon Delinger",
+          "url": "https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF"
+        },
+        {
+          "name": "Tonic Jazz",
+          "url": "https://open.spotify.com/artist/7DYAFo4uF3zsAIm0ii03zQ"
+        },
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365200,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/54HkaEMmeztEyvA50MPsli"
+    },
+    {
+      "album": {
         "name": "Tout S'en Va",
         "url": "https://open.spotify.com/album/0Z7HOg9bzgDMrRL2jPSmNv"
       },
@@ -8032,7 +8418,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 414986,
       "name": "Tulila - Manoo Remix",
       "url": "https://open.spotify.com/track/1QEUDpaLpvGv9yxuExzOCb"
@@ -8300,6 +8686,32 @@
       "duration_ms": 417346,
       "name": "UUUU - &ME Remix",
       "url": "https://open.spotify.com/track/0rfLJGjPdvqHXgvDCTdGc6"
+    },
+    {
+      "album": {
+        "name": "Uwile",
+        "url": "https://open.spotify.com/album/3r7QCo4eDTHnIw1OvA6Tq7"
+      },
+      "artists": [
+        {
+          "name": "RAPHV",
+          "url": "https://open.spotify.com/artist/7tRia4pFwdAhmgrzOckpiH"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448893,
+      "name": "Uwile",
+      "url": "https://open.spotify.com/track/4diGbE2XVizX8PE6L0UwKs"
     },
     {
       "album": {
@@ -9072,7 +9484,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 370731,
       "name": "Zimbabwe - Kintar Remix",
       "url": "https://open.spotify.com/track/0hIepMI7RmPA9WTgKcRBfc"

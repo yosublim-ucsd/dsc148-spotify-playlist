@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 132930,
+  "num_followers": 132989,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGQwMzQ1NTJlNzQzNmM1Yzk0MGNlNzdhMDU2MGZjYTYxNTJmNTgy",
+  "snapshot_id": "MCw2ODRhOTkzN2UyZDEzNTFlMTVhZTg0ZGE1YzE2Njg0MmRiYTcwYzMz",
   "tracks": [
     {
       "added_at": "2023-09-22 04:01:00",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW"
     },
     {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Summer Me, Winter Me",
+        "url": "https://open.spotify.com/album/0D3n8O8ZQt08vx4SesLIaj"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 305581,
+      "name": "Summer Me, Winter Me",
+      "url": "https://open.spotify.com/track/4Kx1kfAPsEM6Mw2cow70ez"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "It Never Entered My Mind",
@@ -103,22 +119,6 @@
       "duration_ms": 260918,
       "name": "Without You",
       "url": "https://open.spotify.com/track/09lKeklaxa3p5MXkYYTyH0"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "If You Go Away / Ne me quitte pas",
-        "url": "https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 295148,
-      "name": "If You Go Away",
-      "url": "https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT"
     },
     {
       "added_at": "2023-10-27 04:01:00",

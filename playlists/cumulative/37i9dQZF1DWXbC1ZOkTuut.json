@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Tito Torbellino Jr.",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Juan De Ron, Eduardo Laguna, Christian Lara, Nivel, Omar Rodriquez.",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
     {
@@ -444,6 +444,28 @@
       "duration_ms": 151000,
       "name": "Aunque Digan",
       "url": "https://open.spotify.com/track/6V9CTpTvs5LmUVcwGAK5QG"
+    },
+    {
+      "album": {
+        "name": "Casa Lumbre",
+        "url": "https://open.spotify.com/album/2sreILB4Eo77xBpLNrv8DT"
+      },
+      "artists": [
+        {
+          "name": "Christian Lara",
+          "url": "https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5"
+        },
+        {
+          "name": "Eduardo Laguna",
+          "url": "https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201770,
+      "name": "Bandidos",
+      "url": "https://open.spotify.com/track/7w745hWspVhIRlN3rIRvns"
     },
     {
       "album": {
@@ -938,6 +960,24 @@
       "duration_ms": 200907,
       "name": "De Piedra a Papel - En Vivo",
       "url": "https://open.spotify.com/track/12oaIspuQ2mGvxHA8e38Yy"
+    },
+    {
+      "album": {
+        "name": "Pa La Amanecida (En Vivo)",
+        "url": "https://open.spotify.com/album/6WLyJET2xFT9i8iHLSv3qX"
+      },
+      "artists": [
+        {
+          "name": "Oscar Calin",
+          "url": "https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178344,
+      "name": "De Que Manera Te Olvido - En Vivo",
+      "url": "https://open.spotify.com/track/5h6y85Pg7SmLvp4MsM4JgV"
     },
     {
       "album": {
@@ -3167,6 +3207,28 @@
     },
     {
       "album": {
+        "name": "Casa Lumbre",
+        "url": "https://open.spotify.com/album/2sreILB4Eo77xBpLNrv8DT"
+      },
+      "artists": [
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        },
+        {
+          "name": "Jos\u00e9 Mej\u00eda",
+          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189924,
+      "name": "Muy Tarde",
+      "url": "https://open.spotify.com/track/2lVoEj7kqIOofHdnIDwVBr"
+    },
+    {
+      "album": {
         "name": "Norte\u00f1o Vibe",
         "url": "https://open.spotify.com/album/6nw6hmqQLQTGjhVJLThXWs"
       },
@@ -4231,6 +4293,24 @@
     },
     {
       "album": {
+        "name": "Se Dice Facil (En Vivo)",
+        "url": "https://open.spotify.com/album/3eiEH8M27cfHEPz9hFdwlh"
+      },
+      "artists": [
+        {
+          "name": "Oscar Calin",
+          "url": "https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179943,
+      "name": "Se Dice Facil - En Vivo",
+      "url": "https://open.spotify.com/track/34fP2OMKlRoRQKvpo2i4TQ"
+    },
+    {
+      "album": {
         "name": "No Ando Solo",
         "url": "https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0"
       },
@@ -4254,6 +4334,28 @@
       "duration_ms": 204768,
       "name": "Se Me Cierra El Mundo",
       "url": "https://open.spotify.com/track/7pRMreaLJIyxUbyxFanqmD"
+    },
+    {
+      "album": {
+        "name": "Casa Lumbre",
+        "url": "https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR"
+      },
+      "artists": [
+        {
+          "name": "Juan De Ron",
+          "url": "https://open.spotify.com/artist/3yrMnFLhmMGBW37Nse1VQl"
+        },
+        {
+          "name": "Omar Rodriguez",
+          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171259,
+      "name": "Sencilla",
+      "url": "https://open.spotify.com/track/1XSWp7CwNdjKwlG051nlhn"
     },
     {
       "album": {
@@ -4290,6 +4392,24 @@
       "duration_ms": 230777,
       "name": "Senti (Version Mariachi)",
       "url": "https://open.spotify.com/track/4REXtBHLml6gMfiPx06pVc"
+    },
+    {
+      "album": {
+        "name": "Si Quieres (En Vivo)",
+        "url": "https://open.spotify.com/album/54gvLatsbSycX7dfVSm9tY"
+      },
+      "artists": [
+        {
+          "name": "Oscar Calin",
+          "url": "https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234424,
+      "name": "Si Quieres - En Vivo",
+      "url": "https://open.spotify.com/track/5bLIgsc7sNeSByiBz9ppIk"
     },
     {
       "album": {
@@ -4366,6 +4486,24 @@
       "duration_ms": 158926,
       "name": "Sobras y Mujeres",
       "url": "https://open.spotify.com/track/69kFrD7Mi8MJq9tAvJaYqO"
+    },
+    {
+      "album": {
+        "name": "La Privada LQ En Vivo",
+        "url": "https://open.spotify.com/album/0NJGf4LHGI10fjipw1GJ3t"
+      },
+      "artists": [
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "Sobre Mis Pies - En Vivo",
+      "url": "https://open.spotify.com/track/5EKoSztHgJhGUT6EeEuDXA"
     },
     {
       "album": {
@@ -4916,6 +5054,24 @@
       "duration_ms": 179013,
       "name": "Y LLORO",
       "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
+    },
+    {
+      "album": {
+        "name": "La Privada LQ En Vivo",
+        "url": "https://open.spotify.com/album/0NJGf4LHGI10fjipw1GJ3t"
+      },
+      "artists": [
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162453,
+      "name": "Y Que Quede Claro - En Vivo",
+      "url": "https://open.spotify.com/track/2W4Il6cCAxncPjlsrefryY"
     },
     {
       "album": {

@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 177534,
       "name": "Agua Con Hielo",
       "url": "https://open.spotify.com/track/3qR5fiOr9sLtiIZpfwaTkY"
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 136470,
       "name": "DREAM TEAM",
       "url": "https://open.spotify.com/track/5TUnTeJbmCl0uExo9Frxrm"
@@ -1860,6 +1860,24 @@
       "duration_ms": 150141,
       "name": "Estrecho / Alvarado (feat. pablopablo)",
       "url": "https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF"
+    },
+    {
+      "album": {
+        "name": "El Horror",
+        "url": "https://open.spotify.com/album/678X5ALismYG9S35w1dFbC"
+      },
+      "artists": [
+        {
+          "name": "Tino El Ping\u00fcino",
+          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374681,
+      "name": "Estrobos",
+      "url": "https://open.spotify.com/track/0UujRqoJsE3kjokK9SHhiY"
     },
     {
       "album": {
@@ -2407,6 +2425,28 @@
     },
     {
       "album": {
+        "name": "La Escuela",
+        "url": "https://open.spotify.com/album/2wjVKjLqiuQkEkNBkrM3ib"
+      },
+      "artists": [
+        {
+          "name": "Tres Coronas",
+          "url": "https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe"
+        },
+        {
+          "name": "Chystemc",
+          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275179,
+      "name": "La Escuela",
+      "url": "https://open.spotify.com/track/1yNR6HRqPOABW8eusg0qAO"
+    },
+    {
+      "album": {
         "name": "La Familia (Episodio 3)",
         "url": "https://open.spotify.com/album/0L4OmODB4Q6fAzRHPgvjNz"
       },
@@ -2848,7 +2888,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 167442,
       "name": "LO TENGO",
       "url": "https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs"
@@ -3916,7 +3956,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 189212,
       "name": "Por clave El Cabez\u00f3n 2",
       "url": "https://open.spotify.com/track/0HOhRI51K27ynqH7QQj1Rv"
@@ -5022,6 +5062,58 @@
       "duration_ms": 284470,
       "name": "Travel",
       "url": "https://open.spotify.com/track/4MRGiF6FaKQt9EVLOvc2Zs"
+    },
+    {
+      "album": {
+        "name": "Triada",
+        "url": "https://open.spotify.com/album/38CP274HAcOq0ajInkz2fH"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        },
+        {
+          "name": "Ana MC",
+          "url": "https://open.spotify.com/artist/2EkkbCt71bH9XvmgZY5ZBX"
+        },
+        {
+          "name": "Vicky MC",
+          "url": "https://open.spotify.com/artist/2sF3CgV1tKubYGTUSKPenC"
+        },
+        {
+          "name": "Crismo VC",
+          "url": "https://open.spotify.com/artist/3bsKe2QwZ3UOWugCtde85U"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269106,
+      "name": "Triada",
+      "url": "https://open.spotify.com/track/3CZBqcIEcPoIQ3o4iL18tw"
+    },
+    {
+      "album": {
+        "name": "Triste Bolero",
+        "url": "https://open.spotify.com/album/6pyYHUe0Il68a8DxsuJxIL"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Triste Bolero",
+      "url": "https://open.spotify.com/track/0z2yHEBefBE6fHgAtVlbuB"
     },
     {
       "album": {

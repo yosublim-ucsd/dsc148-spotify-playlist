@@ -5093,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "Next Town Over",
+        "url": "https://open.spotify.com/album/1MmsRlknDmG5seUMloCKJO"
+      },
+      "artists": [
+        {
+          "name": "LECADE",
+          "url": "https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164655,
+      "name": "Next Town Over",
+      "url": "https://open.spotify.com/track/2gpdZEqYzZmm4GRfY5GxQo"
+    },
+    {
+      "album": {
         "name": "Night Like This",
         "url": "https://open.spotify.com/album/0jcLMA9wRISVImCPbV46Pk"
       },
@@ -6270,6 +6288,24 @@
       "duration_ms": 189258,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2"
+    },
+    {
+      "album": {
+        "name": "Bored In The USA",
+        "url": "https://open.spotify.com/album/6hbXCjnJv5b73GH1yyeprH"
+      },
+      "artists": [
+        {
+          "name": "David Morris",
+          "url": "https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183315,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/53ACLnePPOVA8wE8rWueSD"
     },
     {
       "album": {

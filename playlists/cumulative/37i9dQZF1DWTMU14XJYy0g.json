@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: \u00c1rbol",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Richard Coleman",
   "name": "Rock Argentino",
   "tracks": [
+    {
+      "album": {
+        "name": "200 Monos",
+        "url": "https://open.spotify.com/album/7JV9A7P1hZrWrrMtFx7RPI"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        },
+        {
+          "name": "Nacho Vegas",
+          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250705,
+      "name": "200 Monos",
+      "url": "https://open.spotify.com/track/5tC4Y8NJGK3quJEdVVP6a9"
+    },
     {
       "album": {
         "name": "33",
@@ -166,6 +188,28 @@
       "duration_ms": 167115,
       "name": "Amor en Pandemia",
       "url": "https://open.spotify.com/track/2MJGIie6rHtECQnhbFdnX7"
+    },
+    {
+      "album": {
+        "name": "Ara\u00f1as Beb\u00e9",
+        "url": "https://open.spotify.com/album/295GI99A9OkBbikjcuNavc"
+      },
+      "artists": [
+        {
+          "name": "Richard Coleman",
+          "url": "https://open.spotify.com/artist/6Hngy3cPnHG2DO493ZxSya"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230786,
+      "name": "Ara\u00f1as Beb\u00e9",
+      "url": "https://open.spotify.com/track/5ftNxlkQO9WD9yKWn8K60f"
     },
     {
       "album": {
@@ -1501,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "Est\u00e1 todo mal",
+        "url": "https://open.spotify.com/album/5uYVPB3uqQNzB5nHEpvRXc"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164402,
+      "name": "Est\u00e1 todo mal",
+      "url": "https://open.spotify.com/track/1TCuzqT6yRfNgS5tWNLEW7"
+    },
+    {
+      "album": {
         "name": "Ex",
         "url": "https://open.spotify.com/album/2qM8b51qb8jpolJ4AVRCGt"
       },
@@ -1570,6 +1632,24 @@
       "duration_ms": 217715,
       "name": "Fuego Eterno",
       "url": "https://open.spotify.com/track/0qJ9B3TEky2xt6xKnObtK8"
+    },
+    {
+      "album": {
+        "name": "Irreal",
+        "url": "https://open.spotify.com/album/4oX28XEb23WndGHhKBY8Pk"
+      },
+      "artists": [
+        {
+          "name": "El Bordo",
+          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196408,
+      "name": "Fugar",
+      "url": "https://open.spotify.com/track/7a9TQ1i4S2MyQT52KfRnmM"
     },
     {
       "album": {
@@ -1660,6 +1740,28 @@
       "duration_ms": 249791,
       "name": "Hacerlo Bien",
       "url": "https://open.spotify.com/track/0hJBuCIq43WYZgZQ9A3Aq7"
+    },
+    {
+      "album": {
+        "name": "Hay Momentos (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279684,
+      "name": "Hay Momentos - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN"
     },
     {
       "album": {
@@ -2420,7 +2522,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 183797,
       "name": "Loco",
       "url": "https://open.spotify.com/track/1FRDqinRPxb83utvdSHfbm"
@@ -2786,6 +2888,28 @@
       "duration_ms": 226041,
       "name": "No Est\u00e9s Triste",
       "url": "https://open.spotify.com/track/4Bm9mh2IiaMU77PuIqIvsR"
+    },
+    {
+      "album": {
+        "name": "No Me Dejan Salir",
+        "url": "https://open.spotify.com/album/3Vn2NZJiGhQMgNZurR86d5"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253022,
+      "name": "No Me Dejan Salir",
+      "url": "https://open.spotify.com/track/3W8seqNrzD6IpdQH3sTzMA"
     },
     {
       "album": {

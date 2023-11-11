@@ -4,7 +4,7 @@
 
 > A mix of new and classic melodic punk songs.
 
-655 songs - 1 day 8 hr 40 min
+656 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Bury Me](https://open.spotify.com/track/7o0CzCmFo363J5JgmT1nRd) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Bury Me](https://open.spotify.com/album/3VoQCX0OelwD41YczNaRFP) | 3:43 | 2020-03-22 | 2022-07-10 |
 | [Cadillac](https://open.spotify.com/track/2INPZO3P759ZWNgRSmPBUS) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Destination Unknown \(PA Version\)](https://open.spotify.com/album/4UATOCWLlBFbKOvIHo8jOj) | 2:47 | 2021-01-23 | 2022-07-25 |
 | [California Addiction](https://open.spotify.com/track/1qYw4sfjBvvkxNkbxF7dy5) | [Death By Stereo](https://open.spotify.com/artist/6ZnqizbzAJTqXgRTje6IcF) | [California Addiction](https://open.spotify.com/album/6lrwLXh7AkDeL7UKA2Sutl) | 2:38 | 2020-06-13 | 2022-07-28 |
+| [Can't Be Saved](https://open.spotify.com/track/3PHhctErNOXWqevrZDUyNy) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5) | 3:07 | 2022-07-26 |  |
 | [Can't Be Saved](https://open.spotify.com/track/3R0S1d6GJ6hW2L9M43S9Kb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 3:07 | 2022-07-26 | 2023-11-04 |
 | [Can't Be Saved](https://open.spotify.com/track/63k8KXOgawK2cNtvm2ZW8y) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:07 | 2022-07-26 | 2022-11-26 |
 | [Can't Be Saved](https://open.spotify.com/track/7AGO0iN6e1NGwPj29zEYhY) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe\)](https://open.spotify.com/album/0AqTsQRY2x8Npg0E2hBvM8) | 3:07 | 2021-01-23 | 2022-07-29 |
@@ -473,7 +474,7 @@
 | [Say This Sooner](https://open.spotify.com/track/7waZfrpjfOYktwulz6fo02) | [The Almost](https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr) | [Southern Weather](https://open.spotify.com/album/5NtcxePyijMGPbFfmv5LgA) | 3:14 | 2022-07-26 | 2023-03-20 |
 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 | 2021-01-17 |  |
 | [Scream Out](https://open.spotify.com/track/78MLd7i4qcG2nknFGRdjjZ) | [The Unseen](https://open.spotify.com/artist/6xEMoIJbN8zgmMpv6Nzt5Z) | [State Of Discontent](https://open.spotify.com/album/38d0nvXUkE55M9vozj9XSS) | 2:51 | 2020-03-20\* | 2022-07-29 |
-| [Secrets](https://open.spotify.com/track/5DKlSWi2DY3uXuwfctcRKi) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Around the World and Back \(Deluxe\)](https://open.spotify.com/album/1lLm5kIRG1acxB4DlEZTL8) | 3:44 | 2022-07-26 |  |
+| [Secrets](https://open.spotify.com/track/5DKlSWi2DY3uXuwfctcRKi) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Around the World and Back \(Deluxe\)](https://open.spotify.com/album/1lLm5kIRG1acxB4DlEZTL8) | 3:44 | 2022-07-26 | 2023-11-11 |
 | [Seize](https://open.spotify.com/track/6En9VwVKoyOEbsBDLgu2b5) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Seize](https://open.spotify.com/album/6sdivkA0kDc6GfYwISbyh8) | 2:39 | 2020-11-14 | 2022-07-22 |
 | [Sell Out](https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Turn The Radio Off](https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn) | 3:47 | 2021-01-23 |  |
 | [Shade](https://open.spotify.com/track/01qepvQsz0gMKfeQXvXlq4) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/0Q6FKFBM1tSvPMwWS42myR) | 3:25 | 2020-03-20\* | 2022-07-07 |

@@ -302,10 +302,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 520146,
       "name": "Born Slippy - Original Mix",
       "url": "https://open.spotify.com/track/2QVPdMJdLAdCenGzDjhNnB"
+    },
+    {
+      "album": {
+        "name": "Born Slippy",
+        "url": "https://open.spotify.com/album/0Q0BOWJ3Ykb6SHlo4ibGzA"
+      },
+      "artists": [
+        {
+          "name": "Yves Deruyter",
+          "url": "https://open.spotify.com/artist/0jKR1DdWGSZB2hYgJq82qt"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528874,
+      "name": "Born Slippy - Remastered Vocal Club Mix",
+      "url": "https://open.spotify.com/track/1zjBvpQSw9HIfZPlziXlne"
     },
     {
       "album": {

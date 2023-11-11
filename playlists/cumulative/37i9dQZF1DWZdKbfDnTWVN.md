@@ -2,9 +2,9 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=pdat4ZEbS9GP1JuDOOI\_TQ"> Wakadinali </a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba?si=bfIFagW4Sa2U9SlRDel5uw"> Blinky Bill</a>
 
-167 songs - 8 hr 36 min
+169 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,14 +38,16 @@
 | [CLUTCH](https://open.spotify.com/track/2jBJUNFXk3O6jVhQPyAJmd) | [Ryan SamueŁ](https://open.spotify.com/artist/1clkGCTObExRa9dvSq07vn), [Timmy Blanco](https://open.spotify.com/artist/1Vn2QDLkrVV4M1Y85dePup) | [CLUTCH](https://open.spotify.com/album/3p9WP8XdsVawilcDfYJJg2) | 2:38 | 2023-10-12 |  |
 | [Coastin](https://open.spotify.com/track/3Q6sRzzw2IIUDhEAag9Ah4) | [R.I.Z.E](https://open.spotify.com/artist/4eW4BZAP0bK32vgLIe1IqO) | [Coastin](https://open.spotify.com/album/037ahJTrsQ4PuEvFUHljwQ) | 2:29 | 2022-05-27 | 2022-11-11 |
 | [Commercial](https://open.spotify.com/track/7qScVhjvF1FyIBJFFrXaqP) | [4Mr Frank White](https://open.spotify.com/artist/7dSC3dZMaGQPFNG4ABAzL6), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0) | [Commercial](https://open.spotify.com/album/6bLVLGXuoUDLXCVQhK0JWv) | 2:25 | 2023-08-25 |  |
-| [Counter](https://open.spotify.com/track/6mUnSO6JfaXs7mJhrE1LEL) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ), [Vince Keyboi](https://open.spotify.com/artist/4liMTLSRKiw99kI9w2dckV) | [Counter](https://open.spotify.com/album/5n4TN2oAgUev5OKitTplD8) | 3:03 | 2023-07-07 |  |
-| [Dara Polisi](https://open.spotify.com/track/1ZAyFHQMK7eFhgNxGOSpgu) | [Alex Vice](https://open.spotify.com/artist/1dE9AUZLMQysTU18I6fNAo), [Dyana Cods](https://open.spotify.com/artist/53Ibd5TvnSkKslwcpQYnA3) | [Dara Polisi](https://open.spotify.com/album/49CWvt3ZczWIrz38encYGj) | 2:27 | 2023-06-29 |  |
+| [Counter](https://open.spotify.com/track/6mUnSO6JfaXs7mJhrE1LEL) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ), [Vince Keyboi](https://open.spotify.com/artist/4liMTLSRKiw99kI9w2dckV) | [Counter](https://open.spotify.com/album/5n4TN2oAgUev5OKitTplD8) | 3:03 | 2023-07-07 | 2023-11-11 |
+| [Dara Polisi](https://open.spotify.com/track/1ZAyFHQMK7eFhgNxGOSpgu) | [Alex Vice](https://open.spotify.com/artist/1dE9AUZLMQysTU18I6fNAo), [Dyana Cods](https://open.spotify.com/artist/53Ibd5TvnSkKslwcpQYnA3) | [Dara Polisi](https://open.spotify.com/album/49CWvt3ZczWIrz38encYGj) | 2:27 | 2023-06-29 | 2023-11-11 |
 | [Day In The Life](https://open.spotify.com/track/4ZO9Y99uojl291TjD2U0eJ) | [JackyBoyD](https://open.spotify.com/artist/6RqBs6Cc37m6dBDYfUlmoC) | [Day In The Life](https://open.spotify.com/album/5YHWe62ygI6WMaBqGb1rOk) | 3:06 | 2022-06-30 | 2022-11-18 |
 | [Dice](https://open.spotify.com/track/5SJxfCadODTEdgO9ooKOmR) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ), [Topmali180](https://open.spotify.com/artist/6MrIAMGDktCB2Gib8xcWSV) | [Dice](https://open.spotify.com/album/78nK71bAefWTNdu7mXmdcG) | 2:31 | 2022-07-14 | 2023-04-21 |
 | [Digdat](https://open.spotify.com/track/0gDRCCJF7ywar5zq3Qrv56) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 4:02 | 2022-11-10 | 2023-06-12 |
 | [Digdat](https://open.spotify.com/track/6PU0d8bb9HDNcqaxBxFtnH) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Biggs \(Deluxe\)](https://open.spotify.com/album/0YLs1izGnml8piMRUGJhN7) | 4:11 | 2023-06-08 |  |
 | [Doing It Major](https://open.spotify.com/track/02gLLzsm3zUbungGVvfM2l) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/3Gno0czuLunqcqV4RDFIif) | 3:11 | 2023-10-19 |  |
 | [Doing It Major](https://open.spotify.com/track/5SWH1zFKXIwNL50sStm7Ei) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/6LhgJz1N20khvZ9P45nqFN) | 3:11 | 2022-07-07 | 2023-10-23 |
+| [Dracula](https://open.spotify.com/track/0zv6iIwVr3J9SftqWPQpJn) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba) | [Dracula](https://open.spotify.com/album/6xy2Lzt38yRXKgmbYR1ykk) | 3:27 | 2023-11-10 |  |
+| [EASTSIDE GVNNA](https://open.spotify.com/track/7jPCujGKU8RWRyDh60Iull) | [Na$EER](https://open.spotify.com/artist/1zLpeIIskZiOUjHUtUi13r) | [THIS YEAR NEXT YEAR](https://open.spotify.com/album/4yDcMSzMAHd5H5hXDAaCnM) | 2:35 | 2023-11-10 |  |
 | [F Tz Rappers 1](https://open.spotify.com/track/3mQcfTWi1Y19wLLgYnW5EU) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [F Tz Rappers 1](https://open.spotify.com/album/6iX9AgvygO9yt0WzQMBbUF) | 2:55 | 2023-09-07 |  |
 | [Feelin' It](https://open.spotify.com/track/1KqtoMNOZbvsiB0K7ZWiHp) | [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Feelin' It](https://open.spotify.com/album/1tYGnwCO1uFu49hkYKK2nc) | 2:54 | 2022-06-16 | 2023-05-06 |
 | [FLEE.](https://open.spotify.com/track/29SlCViPGeON1K5cp0UoJ0) | [NAFFARiOH](https://open.spotify.com/artist/2m3MGtFtxBOff71bHXfeNi), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [FLEE.](https://open.spotify.com/album/4qpvD0IuSc7JV4MxCxozg4) | 2:48 | 2023-06-02 |  |

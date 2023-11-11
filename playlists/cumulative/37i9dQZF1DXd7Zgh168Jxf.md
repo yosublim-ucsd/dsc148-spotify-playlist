@@ -4,7 +4,7 @@
 
 > Electrónica para bailar al calor de la Riviera Maya.
 
-200 songs - 11 hr 7 min
+202 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Monsters \(feat\. 24kGoldn\)](https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Monsters \(feat\. 24kGoldn\)](https://open.spotify.com/album/1RfuZSVnk7Qs8lajKxkjtK) | 2:54 | 2023-09-11 |  |
 | [Morenito](https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [Mystic Natives](https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Morenito](https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA) | 3:10 | 2023-09-11 |  |
 | [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 | 2023-09-11 |  |
-| [Murphy's Law \- Edit](https://open.spotify.com/track/7FRP87A2Bft7zMhFlI7j1n) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Murphy's Law](https://open.spotify.com/album/6H3LwHbVTu3wuabrTfDKCC) | 3:50 | 2023-09-11 |  |
+| [Murphy's Law \(Edit\)](https://open.spotify.com/track/5pVk9zx3qrtmx3ya8hyanZ) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Murphy's Law](https://open.spotify.com/album/4f79qXqWnMqji5pvN3oOn6) | 3:50 | 2023-09-11 |  |
+| [Murphy's Law \- Edit](https://open.spotify.com/track/7FRP87A2Bft7zMhFlI7j1n) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Murphy's Law](https://open.spotify.com/album/6H3LwHbVTu3wuabrTfDKCC) | 3:50 | 2023-09-11 | 2023-11-11 |
 | [Muy Bien](https://open.spotify.com/track/39fTOnYqGqM00A6xaIqtJn) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Muy Bien](https://open.spotify.com/album/0YBsUl0SvyfhMBJMg1EGDc) | 6:55 | 2023-09-11 |  |
 | [My Heart Goes \(La Di Da\)](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [My Heart Goes \(La Di Da\)](https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc) | 2:28 | 2023-09-11 |  |
 | [My Heart Just Can't Stop Dancing \- Opolopo Remix](https://open.spotify.com/track/2HaeKJj42GaDM7VvimUZxz) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [Refried \- Remixes for the 21st Century](https://open.spotify.com/album/144IDQA4GrR8dDF2TZZELr) | 6:26 | 2023-09-11 |  |
@@ -170,7 +171,8 @@
 | [So over It \- Golf Clap Remix](https://open.spotify.com/track/4U1Wid4D8biywEtKOTMTXr) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Hannah Yadi](https://open.spotify.com/artist/6HZjznFfSy0c5is6ZUv4Vx), [Golf Clap](https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN) | [Corazón \(Remixes\)](https://open.spotify.com/album/0TJOwgYRsYMvtgOZoXDV2h) | 4:04 | 2023-09-11 |  |
 | [Socorro & Jüpiter](https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Socorro & Jüpiter](https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84) | 6:55 | 2023-09-11 |  |
 | [Something](https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Something](https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ) | 2:43 | 2023-09-11 |  |
-| [Something More \- Edit](https://open.spotify.com/track/2Pq87UGextV8ChmTw6SQyY) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Something More](https://open.spotify.com/album/2bodaZ8TwVH6MLqCE8X0OK) | 4:00 | 2023-09-11 |  |
+| [Something More \(Edit\)](https://open.spotify.com/track/4Gyar4tKonu5h1nBlczq7z) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Something More](https://open.spotify.com/album/2ySEmEE4ZIXGt6xiRIObIx) | 4:00 | 2023-09-11 |  |
+| [Something More \- Edit](https://open.spotify.com/track/2Pq87UGextV8ChmTw6SQyY) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Something More](https://open.spotify.com/album/2bodaZ8TwVH6MLqCE8X0OK) | 4:00 | 2023-09-11 | 2023-11-11 |
 | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP) | 2:56 | 2023-09-11 |  |
 | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm) | 3:03 | 2023-09-11 |  |
 | [Souda Bay](https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb) | [DJ Telefkas](https://open.spotify.com/artist/6JOSA3OubWnWnMGpM4oRt8) | [Souda Bay](https://open.spotify.com/album/4qgEm1RNxgw0mSWKInseZt) | 3:30 | 2023-09-11 |  |

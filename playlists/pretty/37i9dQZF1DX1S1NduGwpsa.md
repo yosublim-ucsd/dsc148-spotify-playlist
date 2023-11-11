@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Dominique Fils\-Aimé
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,187 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,263 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Have A Talk With God](https://open.spotify.com/track/4wGhj2z3EHOKr3BsIjFgNa) | [Jack Lee](https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Have A Talk With God](https://open.spotify.com/album/46GEMh4lyKE3Y3XKKDH4Qf) | 5:41 |
 | 50 | [Black and Blue](https://open.spotify.com/track/5xIPNPw7SVIZTIjQfghGO3) | [Henri Texier](https://open.spotify.com/artist/7nFb95Ufz3MkdXP4bnlSES), [Manu Codjia](https://open.spotify.com/artist/5pgPy5GD36vX0EM48DrvE4), [Gautier Garrigue](https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO), [Carlo Nardozza](https://open.spotify.com/artist/1eYCiyEsYPHpLci3OUborg), [Sylvain Rifflet](https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni), [Sébastien Texier](https://open.spotify.com/artist/6zwjF5PQCREmT9hfRnSEeu), [Himiko Paganotti](https://open.spotify.com/artist/7nOiX0kJl9GXiBt8GmFhYC) | [An Indian's Life](https://open.spotify.com/album/3oS8EOgDeE4fByuRhMFpIw) | 5:33 |
 
-Snapshot ID: `MCw0OTVlMDU3ZTQ5ZWJiZDAwNjkwODZlZTQ5ODEyOWVmYjI4ZjhhYTA1`
+Snapshot ID: `MCxmYjQ0Y2Y2NjVjNjY0YzFhY2I0MjdjOWNmNTc3MjVlZjk1NDgwNmVh`

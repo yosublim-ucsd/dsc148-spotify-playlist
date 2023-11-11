@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Rodriguez Rocks: Live In Australia",
+        "url": "https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200713,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/3J5zeUimSbYSnDwKFo60V0"
+    },
+    {
+      "album": {
         "name": "Searching For Sugar Man (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1"
       },

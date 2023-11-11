@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-263 songs - 14 hr 30 min
+271 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Behind The Light](https://open.spotify.com/track/4PpMKj0qmas8OncPsDH7F1) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3sMj0uu8dKNRnyqQozC1Xv) | 4:30 | 2022-03-18 |  |
 | [BEWARE](https://open.spotify.com/track/4pbn3QsIKWv6BawpO14Kzq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:10 | 2022-03-18 | 2022-07-29 |
 | [BEWARE](https://open.spotify.com/track/4xvA5uuQrpdGXoO2Mv72Kb) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:10 | 2022-03-18 |  |
+| [BLIND SPOT](https://open.spotify.com/track/6uVpG6300TODQGjOAtXJjh) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:20 | 2023-11-10 |  |
 | [Blueprint](https://open.spotify.com/track/2JzOF5Ex1BfufuZ6DgvOPe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 4:11 | 2022-03-18 |  |
 | [Blueprint](https://open.spotify.com/track/55Nq3mwhH1p1FjDAzttnIN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 4:11 | 2022-10-07 | 2022-11-14 |
 | [Blueprint](https://open.spotify.com/track/560TR1d15nGMXufjbt5tys) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 4:11 | 2022-03-18 | 2022-07-29 |
@@ -74,7 +75,9 @@
 | [CIRCUS \(Korean Ver.\)](https://open.spotify.com/track/3JeLa5o0NxQjQHhVYaTLV0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:14 | 2022-10-07 |  |
 | [Close \(HAN\)](https://open.spotify.com/track/7jcpg7osgYWffx9LmLEoZ4) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:46 | 2022-12-21 |  |
 | [Collision](https://open.spotify.com/track/2vukoriV9e7oyOojN1NtsB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 2:37 | 2023-06-02 |  |
+| [COMFLEX](https://open.spotify.com/track/2Rz7TEBsIXbI1tKsfQOCjI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 2:52 | 2023-11-10 |  |
 | [Connected \(Bang Chan\)](https://open.spotify.com/track/3vGSv4l4czTve9jZoYeIWk) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 2:51 | 2022-12-21 |  |
+| [Cover Me](https://open.spotify.com/track/5dUjBnP5zrWpWA5RGrr73g) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:11 | 2023-11-10 |  |
 | [Deep end \(Felix\)](https://open.spotify.com/track/3VMeAc0SlgLaS9RzA8TSxH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:28 | 2022-12-21 |  |
 | [District 9](https://open.spotify.com/track/430IfeGHWJxnZOkhBYACt9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:33 | 2022-03-18 |  |
 | [District 9](https://open.spotify.com/track/58XXaW1pFAiXZRouc7ulaJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:33 | 2022-03-18 | 2022-07-29 |
@@ -132,6 +135,9 @@
 | [Insomnia](https://open.spotify.com/track/27ONBeTAyqpBJG2Nv01qdf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3sMj0uu8dKNRnyqQozC1Xv) | 3:26 | 2022-03-18 |  |
 | [ITEM](https://open.spotify.com/track/1EWTsgQAEsUrnQ8iawhDSN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:11 | 2023-06-02 |  |
 | [JUST BREATHE \- feat\. 3RACHA of Stray Kids](https://open.spotify.com/track/6PqDYUTmTGXnCfSDhm6AlJ) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [3RACHA of Stray Kids](https://open.spotify.com/artist/1GpgROLET8tI7DKTRz4EgO) | [JUST BREATHE \(feat\. 3RACHA of Stray Kids\)](https://open.spotify.com/album/4LYNdaRg79Yfj6nEPIB9L8) | 3:50 | 2022-03-18 |  |
+| [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2023-11-10 |  |
+| [LALALALA \(Rock Ver.\)](https://open.spotify.com/track/20FfCMC46eOIIrxCUdSNZT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:07 | 2023-11-10 |  |
+| [Leave](https://open.spotify.com/track/2zPqhdPGNCwzXnvSvj7WgD) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:39 | 2023-11-10 |  |
 | [Levanter](https://open.spotify.com/track/0o0Cw5YbhMhADD0BlxSGhN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:17 | 2022-03-18 | 2022-07-29 |
 | [Levanter](https://open.spotify.com/track/4obrd9niIX70q5At9HURLd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:17 | 2022-03-18 |  |
 | [Levanter \(English Ver.\)](https://open.spotify.com/track/5sPdWGv1MlA0qHzjN9hPPv) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Step Out of Clé \(English Ver.\)](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) | 3:15 | 2022-03-18 |  |
@@ -149,6 +155,7 @@
 | [MANIAC \-Japanese ver.\-](https://open.spotify.com/track/6X5yUYQz3bKq0EZ0n82rqP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MANIAC \-Japanese ver.\-](https://open.spotify.com/album/4E7HNkLoKfcZlBxpjwBzMa) | 3:04 | 2022-05-24 |  |
 | [Maze of Memories](https://open.spotify.com/track/2DQ3ccmetoe0RzBnuoHVZJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 2:55 | 2022-03-18 | 2022-07-29 |
 | [Maze of Memories](https://open.spotify.com/track/4ppuLW4bGqMhRK90XMEzcb) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3sMj0uu8dKNRnyqQozC1Xv) | 2:55 | 2022-03-18 |  |
+| [MEGAVERSE](https://open.spotify.com/track/5Q1tv4GTxP3IJeGMOKdrFO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:05 | 2023-11-10 |  |
 | [MIROH](https://open.spotify.com/track/3888prAY7qaqRx1vjQZSdI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:28 | 2022-03-18 |  |
 | [MIROH](https://open.spotify.com/track/6gisOiWATiawP3eFUAGtJe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:28 | 2022-03-18 | 2022-07-29 |
 | [Mirror](https://open.spotify.com/track/6War9Nidwyd881TDnaKWV8) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:42 | 2022-03-18 |  |
@@ -206,6 +213,7 @@
 | [SLUMP \("Tower of God" ED\)](https://open.spotify.com/track/7clTWebfXxZG2lQYe24luY) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:14 | 2022-03-18 |  |
 | [SLUMP \- "Tower of God" ED](https://open.spotify.com/track/6tYFtqCatUdOxBYBCUzOnR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [TOP](https://open.spotify.com/album/4sqF1G0YC20GtlzXNCKGQN) | 2:14 | 2022-10-07 | 2022-11-14 |
 | [Social Path](https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Social Path](https://open.spotify.com/album/69mwX2uyO8FKCc8KkRMHw7) | 3:18 | 2023-08-30 |  |
+| [Social Path \(Feat\. LiSA\) \(Korean Ver.\)](https://open.spotify.com/track/5w6HF09YaD6wWlC90NaeVP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:17 | 2023-11-10 |  |
 | [Sorry, I Love You](https://open.spotify.com/track/5kkOHHTccylnkYxDRgDWMs) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 2:57 | 2022-03-18 |  |
 | [Sorry, I Love You](https://open.spotify.com/track/7FV6MOPNv5m1zUpWhN6oTJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 2:57 | 2022-03-18 | 2022-07-29 |
 | [Spread My Wings](https://open.spotify.com/track/0cYKULL0oKenKk6IkubNUn) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:22 | 2022-03-18 |  |

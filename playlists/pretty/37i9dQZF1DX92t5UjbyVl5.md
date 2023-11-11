@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92t5UjbyVl5.md) - [plain]
 
 > ¿Tienes flow, tienes rimas? Dale play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,315 likes - 74 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,339 likes - 74 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jug Land \(Instrumental\)](https://open.spotify.com/track/3e9uxlY1LKd9ph62BenTkA) | [Swagg B](https://open.spotify.com/artist/1cOflD6lP1v0Uuywrt80Iu) | [Swagg B Beatz, Vol\. 3](https://open.spotify.com/album/5PMD85bc1N1pNmXzuLTKof) | 3:50 |
 | 2 | [South Side Story](https://open.spotify.com/track/24msFZ8HtIswKkBG41PGS0) | [Young Chop](https://open.spotify.com/artist/5L0n62BVUljSzKMLyMaFHR) | [Trap vs\. Drill vs\. EDM](https://open.spotify.com/album/4qI7qqjmOxfwYpW3YgNqer) | 3:23 |
-| 3 | [Temporary Friendships](https://open.spotify.com/track/2z0AcBDTVTHDN4ZzAgzfB7) | [Createk](https://open.spotify.com/artist/4oxzXhEKQCGjVSiHT4UiDf) | [Temporary Friendships](https://open.spotify.com/album/5a9w882iIWGxBmEc1xeO4j) | 3:18 |
+| 3 | [Temporary Friendships](https://open.spotify.com/track/2z0AcBDTVTHDN4ZzAgzfB7) | [EI$AUSDERHEIMAT](https://open.spotify.com/artist/6sM6nOFembtcOJ6r5BJJqH) | [Temporary Friendships](https://open.spotify.com/album/5a9w882iIWGxBmEc1xeO4j) | 3:18 |
 | 4 | [Aniquilación](https://open.spotify.com/track/37RzQ9qAoTXpKCcXpTwmsS) | [DJ Stuart](https://open.spotify.com/artist/7aS2yrmVy9YdStiDXluOSE) | [2013](https://open.spotify.com/album/4SdQPykgQkYl23OFIbcGFB) | 3:06 |
 | 5 | [Rasgo \(Valles\-T Vs Chang\)](https://open.spotify.com/track/2paSRFDPmbz7zR6pI3tFbA) | [Red Bull Batalla](https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT), [AlcaZone](https://open.spotify.com/artist/15PFXBhOcw5lDbclmmFWLW) | [Alcazone Beats 2019](https://open.spotify.com/album/4AXZOhiaetKRwQEPLQtZrh) | 3:32 |
 | 6 | [Kingta](https://open.spotify.com/track/4EwUy1s4RiUfMaxi5iqqLN) | [Dannyteks](https://open.spotify.com/artist/3FghLL9ePSRolWAzQzcc7m), [Azerbeats](https://open.spotify.com/artist/595CdU8Gay4WhfvkmX7w3T) | [Kingta](https://open.spotify.com/album/6RnpBgJlHBszyMdXgz3LXJ) | 3:14 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92t5UjbyVl5.md) - [plain]
 | 73 | [Tour Bus](https://open.spotify.com/track/4rcHftFyDKbrf6IcTyfhRJ) | [Homebody](https://open.spotify.com/artist/6JHNIy8sGnVh5YrdVVAIuY) | [Tour Bus](https://open.spotify.com/album/7pCW7yDNvN39iQaHZHYBrq) | 2:54 |
 | 74 | [Jokes on Me](https://open.spotify.com/track/4k4QnjkHrlOrMF08lpk09H) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Rudimentary](https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy) | 2:16 |
 
-Snapshot ID: `MCw0OGRkNmJjYjc4MzRhYWMzOGU3MWQxMTRlZjgxZDU3MDRhYTQyN2M2`
+Snapshot ID: `MCwxNDQ2OWIwMDM1YWM1NWRhMDM5MDRkN2M4MzQ1YzNhMDQ5NzU5OGQ3`

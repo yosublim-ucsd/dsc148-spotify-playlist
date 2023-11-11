@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Vale Lambo in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,861 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,957 likes - 55 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 41 | [Scale \(con Luchè\)](https://open.spotify.com/track/1odrZy5kTuj3SGdfgzhMzq) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt) | 2:32 |
 | 42 | [Love Song](https://open.spotify.com/track/7pVs5d0hPKE2RUruztOEx3) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [999](https://open.spotify.com/album/5VmmhTJMQvJIXdb4pEgynz) | 3:24 |
 | 43 | [Ancora ccà](https://open.spotify.com/track/0W17TDYYspigcSiChTy9ln) | [Paco6x](https://open.spotify.com/artist/07XOQTC2IEP8nI0NPvmjtK), [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [It's Classic Mixtape, Vol\. 2](https://open.spotify.com/album/7rCZE6SYOzDRkxyd306oQp) | 2:54 |
-| 44 | [Affetto](https://open.spotify.com/track/075htnHemIxEE0FmefVA4w) | [Lil Tony](https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ) | [Affetto](https://open.spotify.com/album/4KG3PfE2V97cAZRCUwnEjU) | 2:34 |
+| 44 | [Affetto](https://open.spotify.com/track/075htnHemIxEE0FmefVA4w) | [Lil Tony](https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ), [Kabvki](https://open.spotify.com/artist/4nS14korvlcnH1zXKgSwmw) | [Affetto](https://open.spotify.com/album/4KG3PfE2V97cAZRCUwnEjU) | 2:34 |
 | 45 | [Cuore Rotto](https://open.spotify.com/track/5qAMsFqClevxs2nuZbReDW) | [Noisys](https://open.spotify.com/artist/6H5GGtS0sPeHTZjS5q70D7) | [Cuore Rotto](https://open.spotify.com/album/5BXkveR4dh0YJpV75rtPNY) | 2:46 |
 | 46 | [Tip Tap](https://open.spotify.com/track/01HIRt67ZPMDfNNByTdw88) | [Joka Diablo](https://open.spotify.com/artist/2y7MutJk3oS7vIcOCwv3YZ), [GIA](https://open.spotify.com/artist/17k1bAQwNIsz9Zdw4AQGYq) | [Tip Tap](https://open.spotify.com/album/2ZkmQGzySkO7KEzUF6lYlL) | 2:51 |
 | 47 | [RUN](https://open.spotify.com/track/4b5wNTRKC0DhtvTFjohhBK) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [RUN](https://open.spotify.com/album/6TfVxDaXGqSapRvP7TQETU) | 3:08 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [Peccati \(feat\. J Lord\)](https://open.spotify.com/track/5jmRPnT5jyMHDfhLsHzSrV) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Peccati \(feat\. J Lord\)](https://open.spotify.com/album/4YDkA7KQEWgRFBqt7uFDDb) | 2:31 |
 | 55 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 |
 
-Snapshot ID: `MCwxNzJlZmFjMmNmNTM0ZmIzNmI5OTYxNmUwMmI1Y2I1MjlkMjhiZWY0`
+Snapshot ID: `MCw4OWIzZDc4MDdiNTY5NjdkZjk5YTM0MjRmNTk3NjgwMWMzYjg5MjA1`

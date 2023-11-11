@@ -414,10 +414,32 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 137000,
       "name": "Bla Bla",
       "url": "https://open.spotify.com/track/3va2EuqjoaSst3zCjxrlk0"
+    },
+    {
+      "album": {
+        "name": "Bla Bla",
+        "url": "https://open.spotify.com/album/42fbsF9OSYDAITFUmJj8gQ"
+      },
+      "artists": [
+        {
+          "name": "Bnet",
+          "url": "https://open.spotify.com/artist/1HumAcSgWUujlpOm1Zoj6p"
+        },
+        {
+          "name": "Nerso & Verse",
+          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Bla Bla",
+      "url": "https://open.spotify.com/track/6aOWYShQkcq7l7c7PG3aIQ"
     },
     {
       "album": {
@@ -906,10 +928,32 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 118000,
       "name": "CREDO",
       "url": "https://open.spotify.com/track/4dWsDhwVrP2W1WCxlOD3TP"
+    },
+    {
+      "album": {
+        "name": "CREDO",
+        "url": "https://open.spotify.com/album/3aqqWnz6q4hGoQblscJHoK"
+      },
+      "artists": [
+        {
+          "name": "Nerso & Verse",
+          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
+        },
+        {
+          "name": "Bnet",
+          "url": "https://open.spotify.com/artist/1HumAcSgWUujlpOm1Zoj6p"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118666,
+      "name": "CREDO",
+      "url": "https://open.spotify.com/track/01KVdIKiK6FC8h823XSJEX"
     },
     {
       "album": {

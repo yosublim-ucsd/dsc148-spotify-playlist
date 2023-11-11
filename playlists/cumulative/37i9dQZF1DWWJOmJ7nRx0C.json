@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Dirty Honey",
+  "description": "The hardest songs, loud. Very loud. Cover: Beartooth",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 183404,
       "name": "(i)",
       "url": "https://open.spotify.com/track/3Ve1TJKgbzNBBk3cTZN0Hv"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 215318,
       "name": "All Things Must Change",
       "url": "https://open.spotify.com/track/7oXl7mUZPi6YThjvtsk2q1"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 198146,
       "name": "Anomaly",
       "url": "https://open.spotify.com/track/1nLWr0rKTLTZNEcgU5WEdD"
@@ -1258,6 +1258,24 @@
       "duration_ms": 228260,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/4b3f0U8gOfJKyxB8cYdCiw"
+    },
+    {
+      "album": {
+        "name": "Bad Timing",
+        "url": "https://open.spotify.com/album/1lePe9HJ74VayfDIqdMycS"
+      },
+      "artists": [
+        {
+          "name": "Blindlove",
+          "url": "https://open.spotify.com/artist/4kik9QpAkbd0a9hY8C3w9q"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238666,
+      "name": "Bad Timing",
+      "url": "https://open.spotify.com/track/26aOa487ttrbTBs5jte5xy"
     },
     {
       "album": {
@@ -1834,6 +1852,24 @@
       "duration_ms": 268744,
       "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
       "url": "https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg"
+    },
+    {
+      "album": {
+        "name": "Ghost Of LA",
+        "url": "https://open.spotify.com/album/7so0Nj5THAkyZ7wGmigU0E"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149890,
+      "name": "Black Wedding",
+      "url": "https://open.spotify.com/track/2gDH0NV4k6ZSTUhBH7Y4RH"
     },
     {
       "album": {
@@ -2918,7 +2954,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 226861,
       "name": "Cheers To Goodbye (feat. Spencer Charnas)",
       "url": "https://open.spotify.com/track/38ODYA4I5jEhFr4xJJd1RG"
@@ -3602,7 +3638,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 198185,
       "name": "Cut The Line (feat. Beartooth)",
       "url": "https://open.spotify.com/track/3l6ibS9n423uKLhY7y3E62"
@@ -4836,6 +4872,28 @@
       "duration_ms": 221560,
       "name": "Don't Pray For Me",
       "url": "https://open.spotify.com/track/5HmNls885b2Egmu60z4fo3"
+    },
+    {
+      "album": {
+        "name": "Divisive",
+        "url": "https://open.spotify.com/album/592wLCECATlzgwiEWTOPEa"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "Ann Wilson",
+          "url": "https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271515,
+      "name": "Don't Tell Me (feat. Ann Wilson)",
+      "url": "https://open.spotify.com/track/0oeJFU64zXTLV4GJXdADEG"
     },
     {
       "album": {
@@ -6647,6 +6705,24 @@
     },
     {
       "album": {
+        "name": "A Torch In The Dark",
+        "url": "https://open.spotify.com/album/6H6kvxbLq2kpLd8QGJfrbx"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223866,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/5POKGPTOqi6IsZyKnqFjrq"
+    },
+    {
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S"
       },
@@ -7654,7 +7730,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 205779,
       "name": "House Of Mirrors (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/7iANbpnadfUepWAYDrBqDb"
@@ -8918,7 +8994,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 299060,
       "name": "Kill Or Be Killed",
       "url": "https://open.spotify.com/track/4scqfHWE0J9dgdbjqstjS3"
@@ -9233,6 +9309,24 @@
     },
     {
       "album": {
+        "name": "Ego Trip",
+        "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187609,
+      "name": "Leave a Light On",
+      "url": "https://open.spotify.com/track/0b6fNjbiW4uF0W01GAfRVg"
+    },
+    {
+      "album": {
         "name": "Leech",
         "url": "https://open.spotify.com/album/4xnqnQAzwMK6gZsuPTojvU"
       },
@@ -9262,7 +9356,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 182499,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/1AfJIzcGozTisYo1QGntM6"
@@ -9798,7 +9892,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 241000,
       "name": "Losing Game",
       "url": "https://open.spotify.com/track/5Hloo9hpO9fVbOBhyorNnT"
@@ -10220,7 +10314,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 221733,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/0ukaxzdMO2WGxugrJaHzbN"
@@ -11447,6 +11541,24 @@
     },
     {
       "album": {
+        "name": "Nowhere To Go But Everywhere",
+        "url": "https://open.spotify.com/album/2Ptp2BvVc7YsdSL3YXBWNu"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243800,
+      "name": "Nowhere To Go But Everywhere",
+      "url": "https://open.spotify.com/track/0XT3u4dsfUh4A9EhH2FzoO"
+    },
+    {
+      "album": {
         "name": "Paper Hearts",
         "url": "https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb"
       },
@@ -11548,7 +11660,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 217071,
       "name": "Obliteration",
       "url": "https://open.spotify.com/track/4JSHiFEX1B19USiqbiW9pw"
@@ -14337,6 +14449,24 @@
     },
     {
       "album": {
+        "name": "Get Rollin' (Deluxe)",
+        "url": "https://open.spotify.com/album/2bthLq6ydKBXwZlaYxTBAf"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217535,
+      "name": "Skinny Little Missy",
+      "url": "https://open.spotify.com/track/4DU1Z5PrEzZXerxoD6vJs0"
+    },
+    {
+      "album": {
         "name": "Slaughter Beach",
         "url": "https://open.spotify.com/album/1ktlp4ovJQGkGCep35GaQq"
       },
@@ -14782,7 +14912,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 246000,
       "name": "Spit You Out",
       "url": "https://open.spotify.com/track/7Jj9ygPtg5IzRzX9cfeI80"
@@ -15216,7 +15346,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 188470,
       "name": "Superstar (feat. Remington Leith)",
       "url": "https://open.spotify.com/track/5FpGpIsv42fXkOmH008Usr"
@@ -17320,7 +17450,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 238109,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/6l769YojBjFfjOItRJQPCM"
@@ -17444,7 +17574,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 176973,
       "name": "Vampyre",
       "url": "https://open.spotify.com/track/2N6yiyzYEQ2Vta748N2nop"
@@ -18424,6 +18554,24 @@
       "duration_ms": 193886,
       "name": "when we were young",
       "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
+    },
+    {
+      "album": {
+        "name": "When You Look At Me",
+        "url": "https://open.spotify.com/album/0dczbCZ25NvRJjwnWQoco0"
+      },
+      "artists": [
+        {
+          "name": "Return to Dust",
+          "url": "https://open.spotify.com/artist/53Hm23U3dtaHeB5Oy6GbaS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210359,
+      "name": "When You Look At Me",
+      "url": "https://open.spotify.com/track/5BMsmADk2kH0syI2r3wTIt"
     },
     {
       "album": {

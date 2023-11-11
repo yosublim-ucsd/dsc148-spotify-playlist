@@ -1,79 +1,15 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 573226,
+  "num_followers": 575609,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyODI0MTYsMDAwMDAwMDAzY2JlMTRiMzJkNzBmNjhiYTE3NzQzYjk3NDI0ZGVjNw==",
+  "snapshot_id": "MjgzMjcwMTgsMDAwMDAwMDA0MTcyN2YzOGI5ZmYzMzUxODMxZjE3MzQ1ZDAxMzQ5MA==",
   "tracks": [
     {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 314866,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 187524,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "All My Hits: Todos Mis Exitos",
-        "url": "https://open.spotify.com/album/6ofanZuft02DovBm84Slkk"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "No Debes Jugar - Remastered",
-      "url": "https://open.spotify.com/track/4qezVHFYPxcxqek5b3HFCx"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
@@ -89,7 +25,23 @@
       "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Como La Flor - Remastered",
+      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
@@ -100,12 +52,12 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+      "duration_ms": 314866,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
@@ -121,23 +73,7 @@
       "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "Mis Mejores Canciones: 17 Super Exitos",
-        "url": "https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 144826,
-      "name": "Besitos",
-      "url": "https://open.spotify.com/track/7AbqXy9RdTfrKkk5FdJSa5"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
@@ -148,12 +84,28 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 208866,
-      "name": "El Chico Del Apartamento 512",
-      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "All My Hits: Todos Mis Exitos",
+        "url": "https://open.spotify.com/album/6ofanZuft02DovBm84Slkk"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "No Debes Jugar - Remastered",
+      "url": "https://open.spotify.com/track/4qezVHFYPxcxqek5b3HFCx"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
@@ -169,7 +121,7 @@
       "url": "https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
@@ -180,28 +132,12 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 196826,
-      "name": "La Carcacha",
-      "url": "https://open.spotify.com/track/0ob3zPIGXWwg2hyXJNs3Ct"
+      "duration_ms": 187524,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "Live-The Last Concert",
-        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 463266,
-      "name": "Disco Medley - Live From Astrodome",
-      "url": "https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
@@ -212,12 +148,28 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "Mis Mejores Canciones: 17 Super Exitos",
+        "url": "https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 144826,
+      "name": "Besitos",
+      "url": "https://open.spotify.com/track/7AbqXy9RdTfrKkk5FdJSa5"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
@@ -233,7 +185,39 @@
       "url": "https://open.spotify.com/track/2yvg28oa8lHSenq7nJ5Ss2"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "La Carcacha",
+      "url": "https://open.spotify.com/track/0ob3zPIGXWwg2hyXJNs3Ct"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
@@ -249,7 +233,7 @@
       "url": "https://open.spotify.com/track/2cKCwfztCCpCILaWIBUS6I"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Live-The Last Concert",
         "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
@@ -260,28 +244,12 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Si Una Vez - Live",
-      "url": "https://open.spotify.com/track/2GFC4Zo3Qz1AF2cmVZkxZh"
+      "duration_ms": 463266,
+      "name": "Disco Medley - Live From Astrodome",
+      "url": "https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 157306,
-      "name": "Fotos Y Recuerdos",
-      "url": "https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Ven Conmigo - Selena 20 Years Of Music",
         "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
@@ -297,7 +265,23 @@
       "url": "https://open.spotify.com/track/05pItgL5lq3H5H4RjtSRdw"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "Fotos Y Recuerdos",
+      "url": "https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
@@ -313,7 +297,7 @@
       "url": "https://open.spotify.com/track/2db2QrUOQsVawxaQmgcmeG"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Live-The Last Concert",
         "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
@@ -324,28 +308,12 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 125266,
-      "name": "Amor Prohibido - Live",
-      "url": "https://open.spotify.com/track/11cpWQAHmjzrwA5OgYHtvw"
+      "duration_ms": 205400,
+      "name": "Si Una Vez - Live",
+      "url": "https://open.spotify.com/track/2GFC4Zo3Qz1AF2cmVZkxZh"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Bidi Bidi Bom Bom - 1994 Version",
-      "url": "https://open.spotify.com/track/7bZtI85x9Vw2t6EkvILqkr"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Ven Conmigo - Selena 20 Years Of Music",
         "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
@@ -361,7 +329,23 @@
       "url": "https://open.spotify.com/track/0R4TBAYYSq1gdEvwNe9aex"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Bidi Bidi Bom Bom - 1994 Version",
+      "url": "https://open.spotify.com/track/7bZtI85x9Vw2t6EkvILqkr"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
@@ -381,7 +365,7 @@
       "url": "https://open.spotify.com/track/1qd1ipkgtdhbiJ2UiAH1HM"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Live-The Last Concert",
         "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
@@ -392,12 +376,12 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 403640,
-      "name": "Como La Flor - Live",
-      "url": "https://open.spotify.com/track/2e5lffoLF7p6YeGbcmigdX"
+      "duration_ms": 125266,
+      "name": "Amor Prohibido - Live",
+      "url": "https://open.spotify.com/track/11cpWQAHmjzrwA5OgYHtvw"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Mis Mejores Canciones: 17 Super Exitos",
         "url": "https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95"
@@ -413,55 +397,7 @@
       "url": "https://open.spotify.com/track/4T2lNtytcsuIa3FipR37Wu"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "Selena",
-        "url": "https://open.spotify.com/album/20b5sD6sxg1PVUasNcZLSe"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/4xUQFUSPSJjSbLfmVRsZml"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "I'm Getting Used To You",
-      "url": "https://open.spotify.com/track/1OxqCSTvWrCwoS413r9xel"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "Live-The Last Concert",
-        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "El Chico Del Apartamento 512 - Live",
-      "url": "https://open.spotify.com/track/6yBtO4KuwLX6ASanqMjVSG"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
@@ -477,7 +413,7 @@
       "url": "https://open.spotify.com/track/3KVzV6YRMIWkaH5QsMXwuV"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Selena: The Series Soundtrack",
         "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
@@ -493,7 +429,55 @@
       "url": "https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "Live-The Last Concert",
+        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 403640,
+      "name": "Como La Flor - Live",
+      "url": "https://open.spotify.com/track/2e5lffoLF7p6YeGbcmigdX"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "Selena",
+        "url": "https://open.spotify.com/album/20b5sD6sxg1PVUasNcZLSe"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/4xUQFUSPSJjSbLfmVRsZml"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "I'm Getting Used To You",
+      "url": "https://open.spotify.com/track/1OxqCSTvWrCwoS413r9xel"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
@@ -509,7 +493,7 @@
       "url": "https://open.spotify.com/track/3TpXM6ms8GE04qe8mRaMou"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Live-The Last Concert",
         "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
@@ -520,64 +504,12 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 116600,
-      "name": "Cobarde - Live",
-      "url": "https://open.spotify.com/track/6ELj5zKkDoh1yPjsS91LFZ"
+      "duration_ms": 195346,
+      "name": "El Chico Del Apartamento 512 - Live",
+      "url": "https://open.spotify.com/track/6yBtO4KuwLX6ASanqMjVSG"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 140226,
-      "name": "El Toro Relajo",
-      "url": "https://open.spotify.com/track/5t1POWyhbKw2U24reBLfO1"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 193693,
-      "name": "Las Cadenas",
-      "url": "https://open.spotify.com/track/0lPQT4BthmWqa6PQPCJTE3"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Mis Primeros \u00c9xitos",
         "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
@@ -593,7 +525,55 @@
       "url": "https://open.spotify.com/track/2PAo9vxNI34cHnYqYBDPFa"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 140226,
+      "name": "El Toro Relajo",
+      "url": "https://open.spotify.com/track/5t1POWyhbKw2U24reBLfO1"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 193693,
+      "name": "Las Cadenas",
+      "url": "https://open.spotify.com/track/0lPQT4BthmWqa6PQPCJTE3"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "Live-The Last Concert",
+        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 116600,
+      "name": "Cobarde - Live",
+      "url": "https://open.spotify.com/track/6ELj5zKkDoh1yPjsS91LFZ"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
         "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
@@ -609,7 +589,7 @@
       "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Ven Conmigo - Selena 20 Years Of Music",
         "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
@@ -625,23 +605,7 @@
       "url": "https://open.spotify.com/track/7bnlKGXoDYlc6PXeb9KcQ8"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Missing My Baby",
-      "url": "https://open.spotify.com/track/7qTljW3wfx3CM8oEQeB2cR"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
         "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
@@ -661,7 +625,7 @@
       "url": "https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Movie Soundtrack",
         "url": "https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO"
@@ -677,7 +641,27 @@
       "url": "https://open.spotify.com/track/1ukUDShP9cx9uk9YC7FIBW"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Mis Primeros \u00c9xitos",
         "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
@@ -693,10 +677,10 @@
       "url": "https://open.spotify.com/track/4OGmMSjKfVIEEwp7oHCUxp"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
-        "name": "Live Selena",
-        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
       "artists": [
         {
@@ -704,28 +688,12 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 585080,
-      "name": "Como La FLor/Baila Esta Cumbia - Live",
-      "url": "https://open.spotify.com/track/4wfvNgvx7QVSquNnbAYCC8"
+      "duration_ms": 253493,
+      "name": "Missing My Baby",
+      "url": "https://open.spotify.com/track/1bofHtKrTkKQXx4wm4wITp"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Siempre Estoy Pensando En Ti",
-      "url": "https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Ven Conmigo - Selena 20 Years Of Music",
         "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
@@ -741,7 +709,39 @@
       "url": "https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Siempre Estoy Pensando En Ti",
+      "url": "https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "Live Selena",
+        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 585080,
+      "name": "Como La FLor/Baila Esta Cumbia - Live",
+      "url": "https://open.spotify.com/track/4wfvNgvx7QVSquNnbAYCC8"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Selena: The Series Soundtrack",
         "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
@@ -757,39 +757,7 @@
       "url": "https://open.spotify.com/track/22w7BkUcfKfhPklT1qL8dr"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "Live Selena",
-        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 413986,
-      "name": "La Carcacha/Besitos - Live",
-      "url": "https://open.spotify.com/track/6UONjmhxEjAAy74wFh6fuN"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
-      "album": {
-        "name": "Mis Primeros \u00c9xitos",
-        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Dulce Amor",
-      "url": "https://open.spotify.com/track/20GXVF6YKr4AUP3B0m3g8v"
-    },
-    {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "Ven Conmigo - Selena 20 Years Of Music",
         "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
@@ -805,7 +773,39 @@
       "url": "https://open.spotify.com/track/2zLGyCNHSXh289D7NJBXCF"
     },
     {
-      "added_at": "2023-10-10 13:36:49",
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Dulce Amor",
+      "url": "https://open.spotify.com/track/20GXVF6YKr4AUP3B0m3g8v"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
+      "album": {
+        "name": "Live Selena",
+        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 413986,
+      "name": "La Carcacha/Besitos - Live",
+      "url": "https://open.spotify.com/track/6UONjmhxEjAAy74wFh6fuN"
+    },
+    {
+      "added_at": "2023-11-10 12:58:31",
       "album": {
         "name": "MOONCHILD MIXES",
         "url": "https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC"

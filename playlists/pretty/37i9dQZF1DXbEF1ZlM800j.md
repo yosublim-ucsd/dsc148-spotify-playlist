@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEF1ZlM800j.md) - [plain]
 
 > Get your kids in the holiday spirit with this collection of Hanukkah tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,394 likes - 45 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,395 likes - 45 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEF1ZlM800j.md) - [plain]
 | 44 | [Dreidel, Dreidel, Dreidel](https://open.spotify.com/track/2nJ7khC20N59Oo5gTALYHv) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Let's Eat!](https://open.spotify.com/album/4g7Q9tZW8LxneGkMTSQAWO) | 1:01 |
 | 45 | [Latke Clan](https://open.spotify.com/track/6Yvqjn1jhBlzPmKcpZqD4o) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/3wuvsJu2Z1eI61f8ynv7Wl) | 2:51 |
 
-Snapshot ID: `MCw4MGZmMjdlNjIwODIxMmFiZTg1MjQ3ODhjMmUwODBkODk5YTk5MDgw`
+Snapshot ID: `MCwzOTFlYjZjZmQ1ZmQ4NGM4N2UzMmI4ZDEwOWI2MmE0YjExMThmYmE1`

@@ -34,10 +34,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 156360,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/3PUTw7Aol3xShBCwWZNtXp"
+    },
+    {
+      "album": {
+        "name": "Big Shot",
+        "url": "https://open.spotify.com/album/6xsThAkPhe4okfWN4cQWu5"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163649,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/1W8E07hkLSmtkIbpWmh3gv"
     },
     {
       "album": {
@@ -167,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Dead to the World",
+        "url": "https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212240,
+      "name": "Dead to the World",
+      "url": "https://open.spotify.com/track/2D9Qj4JZEetH1mzALdz6pV"
+    },
+    {
+      "album": {
         "name": "Unsung: The Best Of Helmet 1991-1997",
         "url": "https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO"
       },
@@ -232,7 +268,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 300626,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/7BFKbXUdIyz10tE7d3eR3e"
@@ -330,6 +366,24 @@
     {
       "album": {
         "name": "Gun Fluf",
+        "url": "https://open.spotify.com/album/2TRMF7MNoh6fZn4HFa0X5Y"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209882,
+      "name": "Gun Fluf",
+      "url": "https://open.spotify.com/track/4WPXpD0IxrsyYCsxej7iaU"
+    },
+    {
+      "album": {
+        "name": "Gun Fluf",
         "url": "https://open.spotify.com/album/507rjc0epEQN9UJbwHcIlH"
       },
       "artists": [
@@ -340,7 +394,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 209882,
       "name": "Gun Fluf",
       "url": "https://open.spotify.com/track/7GxDGv0LeGzBKJsFPqlcDM"
@@ -398,6 +452,24 @@
       "duration_ms": 220666,
       "name": "I Know",
       "url": "https://open.spotify.com/track/5YZc9o1Uk69v7fuO2R3cLG"
+    },
+    {
+      "album": {
+        "name": "Dead to the World",
+        "url": "https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171293,
+      "name": "I Love My Guru",
+      "url": "https://open.spotify.com/track/02oMpOsmAmFMnETgFCIqfO"
     },
     {
       "album": {
@@ -924,6 +996,24 @@
       "duration_ms": 113400,
       "name": "Taken",
       "url": "https://open.spotify.com/track/7y9WJn0mVfvxo16tZNFmoJ"
+    },
+    {
+      "album": {
+        "name": "Size Matters",
+        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224120,
+      "name": "Throwing Punches",
+      "url": "https://open.spotify.com/track/63wk2Du2oE4sXb2fpg0mfE"
     },
     {
       "album": {

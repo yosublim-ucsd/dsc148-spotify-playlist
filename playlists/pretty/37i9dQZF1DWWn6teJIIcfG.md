@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,479 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,567 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 59 | [Songs without Words, Op\. 67, No\. 3 in B\-Flat Major: Andante tranquillo](https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Philippe Cassard](https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h) | [Mendelssohn](https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj) | 2:49 |
 | 60 | [Orpheo ed Euridice, Wq\. 30, Act II: Dance of the Blessed Spirits](https://open.spotify.com/track/4qg7uptMkSHq8uatbgcP37) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Eugene Ormandy](https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [Pachelbel: Canon; Albinoni: Adagio; Bach: Jesu, Joy of Man's Desiring; more](https://open.spotify.com/album/0TXKF9HGebP07O94Gylywf) | 3:27 |
 
-Snapshot ID: `MCw3OWRhNjNmMzc2OGNkNTRjYzJmOThkNjFhNDdmMmVjMjIwNmE5NTVi`
+Snapshot ID: `MCxiZTk3YTQyYmNlYTNlODU4ZmE5M2ZjMzBkMDlkNjE5ZDQwY2JkZjUy`

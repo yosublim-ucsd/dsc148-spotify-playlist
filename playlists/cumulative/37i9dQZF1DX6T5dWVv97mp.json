@@ -1369,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "Privier Ni\u00f1o",
+        "url": "https://open.spotify.com/album/5wqE4DyLaoIH0Yp5f1FWMM"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Escofet",
+          "url": "https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97929,
+      "name": "Privier Ni\u00f1o",
+      "url": "https://open.spotify.com/track/3a1UgT5QX1JxdEf4Ghd6LW"
+    },
+    {
+      "album": {
         "name": "P\u00e1th\u0113",
         "url": "https://open.spotify.com/album/2QwFSNzyM11u2GCpeY8aX9"
       },
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 225480,
       "name": "Truth - Helios Remix",
       "url": "https://open.spotify.com/track/49b9CdGP7y1vG3ArUQh75p"

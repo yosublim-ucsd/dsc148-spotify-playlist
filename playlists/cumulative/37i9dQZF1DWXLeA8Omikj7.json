@@ -8290,7 +8290,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 171342,
       "name": "Log In Your Fire",
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
@@ -9158,6 +9158,24 @@
       "duration_ms": 224254,
       "name": "Moro Cut",
       "url": "https://open.spotify.com/track/2gvtTBUPw8bnoC6Jj4ZFHG"
+    },
+    {
+      "album": {
+        "name": "Motherboard (Drumless Edition)",
+        "url": "https://open.spotify.com/album/3F003WxyVe3ze6rwlI7LJ9"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341853,
+      "name": "Motherboard (Drumless Edition)",
+      "url": "https://open.spotify.com/track/5nuJ5frI7lmdPYjgyoBrqm"
     },
     {
       "album": {

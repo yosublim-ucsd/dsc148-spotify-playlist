@@ -16,10 +16,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 173904,
       "name": "Ahnelo",
       "url": "https://open.spotify.com/track/0Kr6Pnnds4RamnPoWuGpdy"
+    },
+    {
+      "album": {
+        "name": "20 Relampagazos",
+        "url": "https://open.spotify.com/album/6lRVsaNHrszXSdA7ZfKtpE"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "Ahnelo",
+      "url": "https://open.spotify.com/track/2wKZmiRVteowF30QqLLBel"
     },
     {
       "album": {
@@ -746,7 +764,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 115066,
       "name": "Mi Talisman",
       "url": "https://open.spotify.com/track/1zcPAPgfVZXo24wgIO0rDr"
@@ -764,7 +782,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 177818,
       "name": "Mi Tesoro",
       "url": "https://open.spotify.com/track/57rH2ju0NCA5K1m4GxmIfU"
@@ -826,7 +844,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 169226,
       "name": "Mujer de Cabaret",
       "url": "https://open.spotify.com/track/6ImZIERaxITFJ7yy4RdVW9"
@@ -946,7 +964,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 184052,
       "name": "Por El Amor A Mi Madre",
       "url": "https://open.spotify.com/track/2tNH25WlzOdld1e1060LQO"
@@ -1290,6 +1308,42 @@
       "duration_ms": 188773,
       "name": "Vengo a Llevarte",
       "url": "https://open.spotify.com/track/3ZkbdZPuWewYNzwhTumX2E"
+    },
+    {
+      "album": {
+        "name": "20 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161773,
+      "name": "Vengo A Verte",
+      "url": "https://open.spotify.com/track/3lL6NdQ4XNTc0CTEca4U1i"
+    },
+    {
+      "album": {
+        "name": "20 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204081,
+      "name": "Vida Truncada",
+      "url": "https://open.spotify.com/track/2CU8NCuaegfybJQZco8YBU"
     },
     {
       "album": {

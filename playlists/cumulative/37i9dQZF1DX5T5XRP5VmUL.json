@@ -649,6 +649,24 @@
     },
     {
       "album": {
+        "name": "Broke Christmas",
+        "url": "https://open.spotify.com/album/07bgrmLpLG1N138pZBVAc3"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107791,
+      "name": "Broke Christmas",
+      "url": "https://open.spotify.com/track/2PrTOuCSGN9mbQLMq9QIbS"
+    },
+    {
+      "album": {
         "name": "Calling You Home (For The Holidays)",
         "url": "https://open.spotify.com/album/4Wt6nhppNhyzBBWOkPzJzN"
       },
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 227368,
       "name": "Christmas on My Mind",
       "url": "https://open.spotify.com/track/4fF3Vo7XYnHFXvyWD7sv2k"
@@ -1742,7 +1760,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 135840,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0IukEGWvArmeQc2O3s3ZUY"
@@ -3121,6 +3139,24 @@
     },
     {
       "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/5fsJixTot0tjHv4XbC9Amn"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269124,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/7q8Fv75FWwsbx1XXAiEHQN"
+    },
+    {
+      "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
       },
@@ -3628,7 +3664,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 112746,
       "name": "Maybe This Christmas",
       "url": "https://open.spotify.com/track/0c58Aj6LMtGrYASYmjl2kR"
@@ -3884,7 +3920,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 207866,
       "name": "My Christmas List",
       "url": "https://open.spotify.com/track/5yqePwEEEahon0KlROPSr0"
@@ -4686,7 +4722,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 182933,
       "name": "Sing Along With Me",
       "url": "https://open.spotify.com/track/7yXdRNtDfc2At6yItKIuMR"
@@ -5696,6 +5732,24 @@
       "duration_ms": 134511,
       "name": "We'll Be Alright",
       "url": "https://open.spotify.com/track/4AXX2fes8GOdvuCUjadbmT"
+    },
+    {
+      "album": {
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/5O8Ifow0fmlJjvz8WFXveu"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107964,
+      "name": "Welcome Christmas",
+      "url": "https://open.spotify.com/track/57JghfzHziZPcEBlpjTssG"
     },
     {
       "album": {

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A boba fui eu \(Participação especial de Jão\) \- Ao vivo](https://open.spotify.com/track/4Y9DWmJ0Pbz5QWODRG1YKr) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [A boba fui eu \(Participação especial de Jão\) \[Ao vivo\]](https://open.spotify.com/album/0r9xfTSfQbDriqgB4qxCr6) | 4:11 | 2023-10-10 |  |
+| [A boba fui eu \(Participação especial de Jão\) \- Ao vivo](https://open.spotify.com/track/4Y9DWmJ0Pbz5QWODRG1YKr) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [A boba fui eu \(Participação especial de Jão\) \[Ao vivo\]](https://open.spotify.com/album/0r9xfTSfQbDriqgB4qxCr6) | 4:11 | 2023-10-10 | 2023-11-11 |
 | [A Rua](https://open.spotify.com/track/2OKEIwfQhf2a6lJuR3aMXJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:36 | 2023-10-10 |  |
 | [A Última Noite](https://open.spotify.com/track/1COly0kisSWSrcUQkXUMcF) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 4:15 | 2023-10-10 |  |
 | [Acontece](https://open.spotify.com/track/5wqAUETEzXz6h54rbQ5sfr) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 2:41 | 2023-10-10 |  |
@@ -44,6 +44,6 @@
 | [Você Vai Me Destruir](https://open.spotify.com/track/3mPz8WMo0zOWMxezQjyc8n) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:04 | 2023-10-10 |  |
 | [Vou Morrer Sozinho](https://open.spotify.com/track/1XVN2BVHfKUUcMH0jxSRZ5) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:54 | 2023-10-10 |  |
 | [VSF](https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:56 | 2023-10-10 |  |
-| [Álcool](https://open.spotify.com/track/5gCMRYJOoAL96WypsjU0Ip) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Álcool](https://open.spotify.com/album/7nBhkDwwqiFWU1RiJaaFpa) | 3:01 | 2023-10-10 |  |
+| [Álcool](https://open.spotify.com/track/5gCMRYJOoAL96WypsjU0Ip) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Álcool](https://open.spotify.com/album/7nBhkDwwqiFWU1RiJaaFpa) | 3:01 | 2023-10-10 | 2023-11-11 |
 
 \*This playlist was first scraped on 2023-10-11. Prior content cannot be recovered.

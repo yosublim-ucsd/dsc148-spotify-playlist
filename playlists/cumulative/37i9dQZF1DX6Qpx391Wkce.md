@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-139 songs - 13 hr 22 min
+140 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Blurry Thoughts](https://open.spotify.com/track/08DdwwWnU3kU8xTFZYraqm) | [Flug](https://open.spotify.com/artist/3sMtPWvoIoTE1IR3Ehdf5m) | [Blurry Thoughts EP](https://open.spotify.com/album/0XNqhLrjWIb5TRLtMlHXOT) | 5:30 | 2023-09-15 | 2023-10-14 |
 | [Body Ride](https://open.spotify.com/track/2uCf8ZlSMQhMAzwYedTaMK) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Body Ride / Demon](https://open.spotify.com/album/26TXuVlmcTZRN1qcuFZTsV) | 5:38 | 2023-09-22 |  |
 | [Borderline](https://open.spotify.com/track/5vhkxWxClrDwmWNkLBKqjs) | [Harvey McKay](https://open.spotify.com/artist/6qB9lDPQ6tFbI1gZcSawCS) | [Borderline](https://open.spotify.com/album/5HbvqJT39utkIrTTnBEWf4) | 5:22 | 2023-07-14 | 2023-09-16 |
-| [Born Slippy \- Original Mix](https://open.spotify.com/track/2QVPdMJdLAdCenGzDjhNnB) | [Yves Deruyter](https://open.spotify.com/artist/0jKR1DdWGSZB2hYgJq82qt) | [D\-Classics](https://open.spotify.com/album/0felMf9A9uIVwjTZu6uEwV) | 8:40 | 2023-09-15 |  |
+| [Born Slippy \- Original Mix](https://open.spotify.com/track/2QVPdMJdLAdCenGzDjhNnB) | [Yves Deruyter](https://open.spotify.com/artist/0jKR1DdWGSZB2hYgJq82qt) | [D\-Classics](https://open.spotify.com/album/0felMf9A9uIVwjTZu6uEwV) | 8:40 | 2023-09-15 | 2023-11-11 |
+| [Born Slippy \- Remastered Vocal Club Mix](https://open.spotify.com/track/1zjBvpQSw9HIfZPlziXlne) | [Yves Deruyter](https://open.spotify.com/artist/0jKR1DdWGSZB2hYgJq82qt) | [Born Slippy](https://open.spotify.com/album/0Q0BOWJ3Ykb6SHlo4ibGzA) | 8:48 | 2023-11-09 |  |
 | [Boundaries](https://open.spotify.com/track/0EIPOXPT93Yq8NclvoZD0N) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [15 Years of Terminal M \- A\-Sides, Vol\. 2](https://open.spotify.com/album/2OyED7CAiXg10WRfqtcZGG) | 7:12 | 2023-09-15 |  |
 | [Burning Down](https://open.spotify.com/track/6i1AuUU5UT1Huq1KqkquNA) | [Balthazar & JackRock](https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA) | [Exodus](https://open.spotify.com/album/1347nVGvLAQdtx0Ea1IxcN) | 6:07 | 2023-08-25 | 2023-09-23 |
 | [Butoh \(Robert Hood Remix\)](https://open.spotify.com/track/1eAw92jTlkIhrj0H4k7yKj) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F), [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Butoh \(Robert Hood Remix\)](https://open.spotify.com/album/2sqpT33fOrCzj9d0JUVceQ) | 7:06 | 2023-09-15 | 2023-10-14 |

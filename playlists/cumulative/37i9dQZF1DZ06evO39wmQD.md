@@ -4,7 +4,7 @@
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-22 songs - 1 hr 5 min
+23 songs - 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Know Who You Are](https://open.spotify.com/track/2wCRJwiL1WSrW0Dwfco7Nj) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Vai Mahina](https://open.spotify.com/artist/4I9DOo7pz3fn9yjxTktmX9), [Olivia Foa'i](https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50), [Opetaia Foa'i](https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH), [Matthew Ineleo](https://open.spotify.com/artist/31tOVgwE9y1Kuz7qcWaLJD) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 1:12 | 2023-05-02 |  |
 | [Live Your Story](https://open.spotify.com/track/6dXkX4y7QWoTkhjAnjRw7h) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Live Your Story](https://open.spotify.com/album/4EZsKG8lQLmphvWsXFaYNx) | 3:26 | 2023-05-02 |  |
 | [Mama Who Bore Me \- Rise Cast Version](https://open.spotify.com/track/4AxvU1vUh19aQk9aA7QGCQ) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Mama Who Bore Me \(Rise Cast Version\)](https://open.spotify.com/album/5htkwqMEyeNMvHdAKGcwm5) | 2:00 | 2023-05-02 |  |
-| [Part of Your World \- From "The Little Mermaid Live!"](https://open.spotify.com/track/05ET8TiuscvijP4b4b1Jg9) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 3:10 | 2023-05-02 |  |
+| [Part of Your World \(Reprise\) \- From "The Little Mermaid Live!"](https://open.spotify.com/track/2v7WfLSmtaP09kX74RPTNJ) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 2:12 | 2023-11-10 |  |
+| [Part of Your World \- From "The Little Mermaid Live!"](https://open.spotify.com/track/05ET8TiuscvijP4b4b1Jg9) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 3:10 | 2023-05-02 | 2023-11-11 |
 | [Perfect \- Rise Cast Version](https://open.spotify.com/track/7Jt9Y3buDflRaSSuy20Byh) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Rise Season 1: The Album \(Music from the TV Series\)](https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1) | 4:38 | 2023-05-02 |  |
 | [Scars To Your Beautiful \- Rise Cast Version](https://open.spotify.com/track/1rffHCBOEXWWl4FjSPToyE) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Scars To Your Beautiful \(Rise Cast Version\)](https://open.spotify.com/album/0ci1RPXgRO5v8Y1ngN5gq2) | 4:18 | 2023-05-02 |  |
 | [The Future's in My Hands \- Theme from "Hailey's On It!"](https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Hailey's On It! \(Original Soundtrack\)](https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF) | 2:58 | 2023-07-11 |  |

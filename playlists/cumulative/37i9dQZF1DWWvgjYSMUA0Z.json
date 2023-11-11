@@ -2091,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "Shamanic",
+        "url": "https://open.spotify.com/album/4ptdOCuO7fl9SOgnDAKHKy"
+      },
+      "artists": [
+        {
+          "name": "Embodied Soul",
+          "url": "https://open.spotify.com/artist/0hobX02qEX5ITvPf1KiShY"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163092,
+      "name": "Shamanic",
+      "url": "https://open.spotify.com/track/0DDD0cFxLVkKbdYLeYb7WP"
+    },
+    {
+      "album": {
         "name": "Silent Solution",
         "url": "https://open.spotify.com/album/26PXA4uPCpyhdh6lg3zXJO"
       },

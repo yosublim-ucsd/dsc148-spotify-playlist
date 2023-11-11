@@ -4,7 +4,7 @@
 
 > New music breaking waves\.  Guest Curator:   <a href="spotify:artist:1K15GRZZATsCJyGJ4bYiEz">Luh Tyler</a>
 
-558 songs - 1 day 2 hr 44 min
+559 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,8 @@
 | [Sunkissed](https://open.spotify.com/track/39mUcmxax6Q4pMVwP8Ln7M) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Southern Grooves](https://open.spotify.com/album/7aVFPCgLx0YTrTzZz3EtjZ) | 1:08 | 2023-10-25 | 2023-11-01 |
 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 | 2022-08-05 | 2022-10-15 |
 | [Sway](https://open.spotify.com/track/5vjfKzxJpDGawFtTq8f4dj) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sway](https://open.spotify.com/album/7uxnk6j0snMV0K99bWfO4N) | 2:54 | 2022-09-16 | 2023-01-06 |
-| [SWIM \(feat\. Quavo\)](https://open.spotify.com/track/0oWoinOtYWk8Y5KQZBGpZT) | [Swxm](https://open.spotify.com/artist/0wjT2AitdI5hxU13J5Clo8), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SWIM \(feat\. Quavo\)](https://open.spotify.com/album/5wA6SJ5UeFNqZZCtZoWeZ5) | 2:53 | 2023-10-20 |  |
+| [SWIM](https://open.spotify.com/track/2l7iWqmzBL8LNMll7aS7WQ) | [Swxm](https://open.spotify.com/artist/0wjT2AitdI5hxU13J5Clo8), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SWIM](https://open.spotify.com/album/0dR74Qk75reVsH7Ti6nBGR) | 2:53 | 2023-11-09 |  |
+| [SWIM \(feat\. Quavo\)](https://open.spotify.com/track/0oWoinOtYWk8Y5KQZBGpZT) | [Swxm](https://open.spotify.com/artist/0wjT2AitdI5hxU13J5Clo8), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SWIM \(feat\. Quavo\)](https://open.spotify.com/album/5wA6SJ5UeFNqZZCtZoWeZ5) | 2:53 | 2023-10-20 | 2023-11-11 |
 | [Switching Places](https://open.spotify.com/track/4b9lcB5dhuborp1CQQtYVX) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW) | [Time Revealed](https://open.spotify.com/album/1s3eyEhXxazd3sNV2Hgjv6) | 2:49 | 2022-12-02 | 2023-04-16 |
 | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/track/4lUEgk2Da44ikFhF5TS863) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/album/0t0KTaeuABJBI0XiNM9vyr) | 2:19 | 2023-09-29 |  |
 | [Tables Turn](https://open.spotify.com/track/1jRA4kpssddqi0W6D6efva) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [Tables Turn](https://open.spotify.com/album/7KABJMQEJ3zu9R31eMDPBC) | 3:03 | 2023-01-06 | 2023-07-08 |

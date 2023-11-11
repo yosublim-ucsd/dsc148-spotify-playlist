@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=GVqGYFNWQFuwsvEfuvEQtg">Gaise Baba</a>
 
-1,195 songs - 3 day 20 hr 42 min
+1,196 songs - 3 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [I Really Want You to Know](https://open.spotify.com/track/38gMEX4SPeJN5Z2FM7mcPs) | [Kelly Emuegba](https://open.spotify.com/artist/68KarBTCFcWJfNY3G91p6v) | [I Really Want You to Know](https://open.spotify.com/album/6Ogz6BdSHhCeilep6LQGp3) | 4:37 | 2023-06-23 | 2023-07-07 |
 | [I Recover](https://open.spotify.com/track/3veYkcA8mrj5G3OsoV4yUZ) | [Chidex Obani](https://open.spotify.com/artist/7rZz3fF3EonzYf4j2qmcoX) | [I Recover](https://open.spotify.com/album/4Lpo7F1UcssYrPilO4eYnB) | 7:37 | 2023-08-04 | 2023-08-18 |
 | [I Say Yes](https://open.spotify.com/track/63J7WORrZ3VjYdWlxueSJh) | [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg) | [I Say Yes](https://open.spotify.com/album/26qayDHX6QPJM24xCoKnAN) | 6:28 | 2023-06-30 | 2023-07-14 |
+| [I See Jesus](https://open.spotify.com/track/5Ac6yASLXh0Se6lp4DxlyJ) | [Depths of Worship](https://open.spotify.com/artist/3TIsFycbG1A7hLXusMmmcI) | [Atmosphere of the Spirit](https://open.spotify.com/album/43tudKVZ3ZUTzzWULmZx0F) | 6:44 | 2023-11-10 |  |
 | [I Still Believe \- Remix](https://open.spotify.com/track/3zyEqCLSFEVovSEmYLFPgA) | [Volney Morgan & New\-Ye](https://open.spotify.com/artist/3coOgLHM4gjcmsMGh7qUJN) | [I Still Believe \(Remix\)](https://open.spotify.com/album/0D5WeWMKWVPqOLzmZEeOdF) | 3:15 | 2023-06-02 | 2023-06-09 |
 | [I Want to See Your Face](https://open.spotify.com/track/6GP3gpuAwzsjLKJYLMEWIa) | [Depths of Worship](https://open.spotify.com/artist/3TIsFycbG1A7hLXusMmmcI) | [I Want to See Your Face](https://open.spotify.com/album/1RXBlLxdeNWuvdF2BGMR0J) | 1:00:33 | 2023-07-07 | 2023-07-21 |
 | [I Will Bless You](https://open.spotify.com/track/3NoKKCQxEVT2yGCfJ4YVqy) | [The Resurrection Movement](https://open.spotify.com/artist/4FHmaNql8g0yLUBJqVLKZ1), [Paulpraiz](https://open.spotify.com/artist/1PJHU190XYOM2Q2XIe4MzS) | [I Will Bless You](https://open.spotify.com/album/5leCFdx7tbUMS0opyOfu8g) | 5:46 | 2023-11-10 |  |

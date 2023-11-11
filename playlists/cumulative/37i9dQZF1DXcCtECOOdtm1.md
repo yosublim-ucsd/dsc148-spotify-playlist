@@ -4,7 +4,7 @@
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-79 songs - 6 hr 27 min
+80 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [双子座グラフィティ](https://open.spotify.com/track/4a7fOYlDAiskqEgmeQsAQh) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [ペイパードライヴァーズミュージック](https://open.spotify.com/album/3mukrXkwtuUnV4HTA0yqQ4) | 4:50 | 2021-04-15 | 2022-07-29 |
 | [双子座グラフィティ \- 2014 Remaster](https://open.spotify.com/track/6SbhXWE47UAGZIYZNcZxkX) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [SINGLES BEST〜Archives〜 \(完全版\) \[リマスター\]](https://open.spotify.com/album/5aofoE06bWoCF43ZXHU4jk) | 4:50 | 2021-04-15 |  |
 | [地上の9mの宇宙](https://open.spotify.com/track/4IziiuY1hf00wLYSkk072A) | [Seiko Sato](https://open.spotify.com/artist/4sxVVljhdcKe36YGDZW3uV) | [CRYSTAL](https://open.spotify.com/album/39HbPKcc3M6MP63G4fFY7E) | 4:57 | 2021-04-15 |  |
-| [夢の中で会えるでしょう \- Single Version](https://open.spotify.com/track/5Y9wdPTsQlnk3B17HDUewK) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO) | [Sorrow and Smile](https://open.spotify.com/album/0cS9IiWAUlpcj4jRn6GOg6) | 5:59 | 2021-04-15 |  |
+| [夢の中で会えるでしょう \- Single Version](https://open.spotify.com/track/1pr3VlBOeLdRoqHAeLv3aS) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO) | [City Pop Essentials \~ Male Voices \~](https://open.spotify.com/album/0hbAut6lzR9cKOn1FectRl) | 5:59 | 2021-04-15 |  |
+| [夢の中で会えるでしょう \- Single Version](https://open.spotify.com/track/5Y9wdPTsQlnk3B17HDUewK) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO) | [Sorrow and Smile](https://open.spotify.com/album/0cS9IiWAUlpcj4jRn6GOg6) | 5:59 | 2021-04-15 | 2023-11-11 |
 | [大丈夫](https://open.spotify.com/track/2Z1vcO2Mef4j8YgOqcuIIn) | [Toko Furuuchi](https://open.spotify.com/artist/1rIVRqMT3NboIWjG2JN5hZ) | [THE SINGLES SONY MUSIC YEARS 1993〜2002](https://open.spotify.com/album/6L0RnoV3X2PtQoyY203VZJ) | 5:38 | 2021-04-15 |  |
 | [幸せな結末](https://open.spotify.com/track/5osxC77ZVAIXIE5Q3DMUuu) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [幸せな結末](https://open.spotify.com/album/0THQJwnRlNNmlxtoDMp5Rf) | 4:36 | 2021-04-15 |  |
 | [恋の祭典](https://open.spotify.com/track/6JKB4to9nRAHGecYP0IBvu) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [47'45"](https://open.spotify.com/album/0cAWA5qjGKLohi9YRs3mms) | 4:25 | 2021-04-15 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-316 songs - 17 hr 18 min
+318 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,8 @@
 | [More In Love \(with Grady\)](https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 2:22 | 2023-05-26 |  |
 | [Moss](https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Moss](https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc) | 2:51 | 2023-10-19 |  |
 | [Moving On \- Alle Farben Remix](https://open.spotify.com/track/6SqXRwGPPnjXsshy6vRvTY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Moving On \(Alle Farben Remix\)](https://open.spotify.com/album/3sJbc3pQZ8FE5v0iMQQW67) | 3:15 | 2023-04-13 |  |
-| [My Friends \- Alex Adair Remix](https://open.spotify.com/track/1drLea3bewCVr3VyGephpe) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [My Friends \(Alex Adair Remix\)](https://open.spotify.com/album/4MHuyEDp32uAArppwn5dpu) | 2:59 | 2023-11-09 |  |
+| [My Friends \(Alex Adair Remix\)](https://open.spotify.com/track/2mLtJ1YHEXooZ2FxMnVsHe) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [My Friends \(Alex Adair Remix\)](https://open.spotify.com/album/0P8gcmEsMyniBuoFn5mxVL) | 2:59 | 2023-11-09 |  |
+| [My Friends \- Alex Adair Remix](https://open.spotify.com/track/1drLea3bewCVr3VyGephpe) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [My Friends \(Alex Adair Remix\)](https://open.spotify.com/album/4MHuyEDp32uAArppwn5dpu) | 2:59 | 2023-11-09 | 2023-11-11 |
 | [My Love \(feat\. Ayra Starr\) \- BUNT\. Remix](https://open.spotify.com/track/5w1FBbKnlwQaLRv4BqzawB) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [My Love \(feat\. Ayra Starr\) \[Remixes\]](https://open.spotify.com/album/098hyxuLtCjLSY0UkmGVfu) | 2:50 | 2023-11-09 |  |
 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 | 2023-04-13 |  |
 | [Mysoul](https://open.spotify.com/track/6ntoVaDBf5Hc6cOIYBcaJg) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Mysoul](https://open.spotify.com/album/70HUV0y654sYmhjVuWgxsO) | 3:45 | 2023-06-29 |  |
@@ -214,7 +215,8 @@
 | [Overfreezing](https://open.spotify.com/track/6V50LRtrB622VFSaDIcDdR) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Overfreezing](https://open.spotify.com/album/5RBhpmkBc68kBS284I5PW4) | 3:48 | 2023-06-08 | 2023-07-22 |
 | [Paperplanes](https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Paperplanes](https://open.spotify.com/album/2trMonrsiuBQX7tE9ZiA6V) | 3:30 | 2023-04-13 |  |
 | [Paradise](https://open.spotify.com/track/307hEMkRtPyfOCiTi7NczM) | [HAYM](https://open.spotify.com/artist/6QQD5qFg4hsxqks5NGZEel), [Mars Twins](https://open.spotify.com/artist/2255cIvJST7JWNyUizO1py), [Tom Polo](https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK) | [Paradise](https://open.spotify.com/album/1Y8IrLLFS2OHYtLE1LDI5d) | 2:01 | 2023-06-29 |  |
-| [Patchouli](https://open.spotify.com/track/37WdQxvQVFVsWwQvk4uCQd) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Patchouli](https://open.spotify.com/album/2TSyEyxSs1gtLBN7Uprdfg) | 4:47 | 2023-06-08 |  |
+| [Patchouli](https://open.spotify.com/track/37WdQxvQVFVsWwQvk4uCQd) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Patchouli](https://open.spotify.com/album/2TSyEyxSs1gtLBN7Uprdfg) | 4:47 | 2023-06-08 | 2023-11-11 |
+| [Patchouli](https://open.spotify.com/track/6E540MKmdFLZyITSAtZ6Z1) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 4:47 | 2023-10-12 |  |
 | [Pearls \- SILK Remix](https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Pearls \(SILK Remix\)](https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr) | 4:06 | 2023-04-13 | 2023-07-22 |
 | [Poetry Of You](https://open.spotify.com/track/2fvt96YAsSr5e8ZwbMg2j9) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Poetry Of You](https://open.spotify.com/album/4qdR9J2rvV9X3t6eZKrTL1) | 4:17 | 2023-06-08 |  |
 | [PROTECTA](https://open.spotify.com/track/4UFC4dvAyASnFJ3ZEoigsH) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [PROTECTA](https://open.spotify.com/album/1pqIMAkPGyIv2xqfR0Sohz) | 3:45 | 2023-09-28 |  |

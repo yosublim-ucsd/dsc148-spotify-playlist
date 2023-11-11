@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💶 Kannessa DAVI ja Joalin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,878 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,920 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Starttaa](https://open.spotify.com/track/0rWf0xkyuKaIqqd8zA2Aqt) | [Krissemane](https://open.spotify.com/artist/4iECab0POmzwLrf28xg7cb) | [Starttaa](https://open.spotify.com/album/0v09NIc0OvPEKNveP5E3TC) | 2:34 |
 | 60 | [Vampyyrit](https://open.spotify.com/track/00tdWbLkXLbQgUjPlASRUS) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Vampyyrit](https://open.spotify.com/album/3cthnJNmrkmSCSBG9cF15v) | 2:26 |
 
-Snapshot ID: `MCw1NDgwYzgzOTE4ODUyNDJjN2M3MjJmZTliMDgyMDhjNGZiODZhMDhh`
+Snapshot ID: `MCwwNGFiN2I1YzkwMDU4YWExYTA3YzAyZDY5YjQ4Mjg0M2MyZWVlZDQ3`

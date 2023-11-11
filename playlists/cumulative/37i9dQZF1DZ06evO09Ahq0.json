@@ -758,7 +758,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 162690,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ"
@@ -924,6 +924,24 @@
       "duration_ms": 302400,
       "name": "St. James",
       "url": "https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6"
+    },
+    {
+      "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289626,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/5i1oSgQgD64N3uj1Jkp4OO"
     },
     {
       "album": {

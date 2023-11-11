@@ -4,7 +4,7 @@
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-270 songs - 13 hr 26 min
+271 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,13 +126,14 @@
 | [Imagination](https://open.spotify.com/track/1wqc4mp6CKNGnDV3rOTb9M) | [Invertivo](https://open.spotify.com/artist/41SaKcYP2CTeAwnQPFS3YV) | [Imagination](https://open.spotify.com/album/4RbMri9MGtYClHNBOdDNVm) | 2:54 | 2023-10-20 |  |
 | [Imagine Nuvem](https://open.spotify.com/track/0BjyXBAXWTvEOgX1KPhadD) | [Clémence Alheoux](https://open.spotify.com/artist/3ciGAvpM5PtG4bvpTF6wdK) | [Imagine Nuvem](https://open.spotify.com/album/0GlOjrFZe7mT9XC2TRPvcu) | 3:09 | 2023-10-20 |  |
 | [Imber Night Shift](https://open.spotify.com/track/5MsecUGfxZ2hGBoXPlJUEI) | [Imber Ora](https://open.spotify.com/artist/1U9Zsa9gXKdn6Q31FUbLEh) | [Imber Night Shift](https://open.spotify.com/album/44mkmiKRd9gb0t2N6po3mK) | 2:53 | 2023-10-20 |  |
+| [In Balance](https://open.spotify.com/track/01KdTGhXq2Grl0DgidVjDT) | [Gleyma](https://open.spotify.com/artist/6aQqtXUHqp9axSHKGlfdiq) | [In Balance](https://open.spotify.com/album/3F831rOo09f22eGLEmR0u6) | 2:13 | 2023-11-10 |  |
 | [Infinity](https://open.spotify.com/track/3XjxJYLrr64Bb8HRHFxocR) | [Stepan Korolev](https://open.spotify.com/artist/2OR4pbdpOvzVWYizSnqKQn) | [Infinity](https://open.spotify.com/album/24EEeYsUvas3GFZazInoXS) | 2:29 | 2023-10-20 |  |
 | [Inner Journey](https://open.spotify.com/track/4w3i820SHA0fOpqmtyAPFu) | [Chopade](https://open.spotify.com/artist/4l026BCC3zvPlM1ByCfPgv) | [Inner Journey](https://open.spotify.com/album/3eZwNjKK21LjFeqNqHj33I) | 3:42 | 2023-10-20 |  |
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2023-10-20 |  |
 | [Inner Space](https://open.spotify.com/track/1sEa9g6jEgVVN140C89gYl) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Inner Space](https://open.spotify.com/album/7jcI5TedzwecaRrogB2eGw) | 3:09 | 2023-10-20 |  |
 | [Intuition](https://open.spotify.com/track/3VSHwYTtcZNrdwZuyOGjHo) | [Muted Reality](https://open.spotify.com/artist/61XqCx4Ltxr3vCCquzaj7D) | [Intuition](https://open.spotify.com/album/021gMyQNpIiRxNspxbQuyR) | 3:59 | 2023-10-20 |  |
 | [It's All Sound](https://open.spotify.com/track/5W9fgCmnO8iDyBGxNUfAMc) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [It's All Sound](https://open.spotify.com/album/6CxHLr8Gsrl7yylpnaYflH) | 3:18 | 2023-10-20 |  |
-| [I´ll See A Light](https://open.spotify.com/track/7EqeAfbTta51OCd9gz6buQ) | [Tryggve Malmberg](https://open.spotify.com/artist/53E9B0OiR03VSuqIqhCguq) | [I´ll See A Light](https://open.spotify.com/album/6Boo2SIRxXRzKsyDmZvejZ) | 2:28 | 2023-10-20 |  |
+| [I´ll See A Light](https://open.spotify.com/track/7EqeAfbTta51OCd9gz6buQ) | [Tryggve Malmberg](https://open.spotify.com/artist/53E9B0OiR03VSuqIqhCguq) | [I´ll See A Light](https://open.spotify.com/album/6Boo2SIRxXRzKsyDmZvejZ) | 2:28 | 2023-10-20 | 2023-11-11 |
 | [Juguete](https://open.spotify.com/track/6SzQkeooDHWPsdSCpRdqgr) | [Explorador Sonico](https://open.spotify.com/artist/0auAk2bDx8dTiTPoZcVaeY) | [Juguete](https://open.spotify.com/album/4B3ke0plUsMSBe3AC5wnra) | 3:41 | 2023-10-20 |  |
 | [Just Because](https://open.spotify.com/track/7iPyN8KKPycEdDIDvtvUdJ) | [Skye Baird](https://open.spotify.com/artist/2oxWaOoXIpRuAtFRSyakJ0) | [Just Because](https://open.spotify.com/album/3721Y3lIW8EZKyHDxntnoP) | 2:51 | 2023-10-20 |  |
 | [Kaleidoscopes](https://open.spotify.com/track/0Pkywn7CGwbUhk10iGPpou) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Kaleidoscopes](https://open.spotify.com/album/2aiyIySFX9CdtSAJC2jJy0) | 3:51 | 2023-10-20 |  |

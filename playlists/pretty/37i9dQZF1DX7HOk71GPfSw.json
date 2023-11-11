@@ -1,13 +1,29 @@
 {
   "description": "he was a boy, i was a horse. could that make it any more difficult. ",
-  "num_followers": 424204,
+  "num_followers": 424257,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjVhNTQ4ZmFlODJkZTIxNzMzMTYyMTIwMzc4N2IyYTVkMThiN2I2",
+  "snapshot_id": "MCw5MTY1MWRjNjU3Y2IwYzk1ODE4MTNkZTJkZjRiMWE4MDU2NjY5ZTli",
   "tracks": [
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "body bag",
+        "url": "https://open.spotify.com/album/2xJsMEX3rBCfqxQ7EfVnED"
+      },
+      "artists": [
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        }
+      ],
+      "duration_ms": 142429,
+      "name": "body bag",
+      "url": "https://open.spotify.com/track/7IodwtlPswiT3rJVUQPFcO"
+    },
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 126400,
       "name": "f0rbiidden l0ve$tory",
       "url": "https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "PRETTY GIRL",
+        "url": "https://open.spotify.com/album/5rgxsMyFO3NkfG36l2rouo"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 146625,
+      "name": "PRETTY GIRL",
+      "url": "https://open.spotify.com/track/2OuCWKJOjKGbvzyJH9wpfd"
     },
     {
       "added_at": "2023-10-20 14:22:19",
@@ -55,6 +87,38 @@
       "duration_ms": 180653,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/3Go63ZrsJTI0sgUV7aMWBU"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "suave",
+        "url": "https://open.spotify.com/album/3AaFB3c8RAVfu0Y6vTXTvv"
+      },
+      "artists": [
+        {
+          "name": "Nina Emocional",
+          "url": "https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "suave",
+      "url": "https://open.spotify.com/track/4cwcXuBuI2K9b3xtv3Reis"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "crystalycosa",
+        "url": "https://open.spotify.com/album/45JU1K2LBGtuRDcQZsv1gm"
+      },
+      "artists": [
+        {
+          "name": "Yaiko Kaori",
+          "url": "https://open.spotify.com/artist/6Y1X1y0lolpyo4xCpB458o"
+        }
+      ],
+      "duration_ms": 133371,
+      "name": "crystalycosa",
+      "url": "https://open.spotify.com/track/7olKE5iuZWeNGYb0H3BbN5"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -113,6 +177,22 @@
       "url": "https://open.spotify.com/track/5Ww9JTu9VNftDjSvjlNzHz"
     },
     {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Neopet",
+        "url": "https://open.spotify.com/album/2AMSf2KttHEx1sjKO3dtPC"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "duration_ms": 167913,
+      "name": "Neopet",
+      "url": "https://open.spotify.com/track/63mjBkqgoJVM2gQfnqMg9H"
+    },
+    {
       "added_at": "2023-11-06 15:08:19",
       "album": {
         "name": "Spalarkle",
@@ -149,24 +229,24 @@
       "url": "https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5"
     },
     {
-      "added_at": "2023-11-07 14:43:46",
+      "added_at": "2023-11-10 05:01:00",
       "album": {
-        "name": "Intercell [The Live Code Edits]",
-        "url": "https://open.spotify.com/album/0Xs07jxD1MaEd9qmOTuqwb"
+        "name": "Luv potion",
+        "url": "https://open.spotify.com/album/3PwxOR2A49d3CqfkixyEzc"
       },
       "artists": [
         {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+          "name": "Salty3r",
+          "url": "https://open.spotify.com/artist/2xMf3T0fvZXJ6EGZimtWdv"
         },
         {
-          "name": "Lil Data",
-          "url": "https://open.spotify.com/artist/1MoWMC4GaNZklW2wmKENRl"
+          "name": "mavi!",
+          "url": "https://open.spotify.com/artist/04YxoUHLprepI5P08yI7gM"
         }
       ],
-      "duration_ms": 173142,
-      "name": "Array [Lil Data Edit]",
-      "url": "https://open.spotify.com/track/39K9sFCNCv7H5kyQAfcePr"
+      "duration_ms": 111428,
+      "name": "Luv potion",
+      "url": "https://open.spotify.com/track/6sVe32eck0RIqY18vYHOV8"
     },
     {
       "added_at": "2023-09-22 14:14:20",
@@ -203,6 +283,26 @@
       "duration_ms": 152428,
       "name": "CUT MY HEART OUT",
       "url": "https://open.spotify.com/track/087UWFehhhqmHr79g9H1kn"
+    },
+    {
+      "added_at": "2023-11-07 14:43:46",
+      "album": {
+        "name": "Intercell [The Live Code Edits]",
+        "url": "https://open.spotify.com/album/0Xs07jxD1MaEd9qmOTuqwb"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        },
+        {
+          "name": "Lil Data",
+          "url": "https://open.spotify.com/artist/1MoWMC4GaNZklW2wmKENRl"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "Array [Lil Data Edit]",
+      "url": "https://open.spotify.com/track/39K9sFCNCv7H5kyQAfcePr"
     },
     {
       "added_at": "2023-10-20 14:22:19",
@@ -243,6 +343,34 @@
       "duration_ms": 144066,
       "name": "Sentence",
       "url": "https://open.spotify.com/track/3O311Ulw8pLxpYlSjuHtJx"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "MAMi ISSUES",
+        "url": "https://open.spotify.com/album/5xfRdxojvdENwUuMUhTpSl"
+      },
+      "artists": [
+        {
+          "name": "alequi",
+          "url": "https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH"
+        },
+        {
+          "name": "Ben Yart",
+          "url": "https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV"
+        },
+        {
+          "name": "detunedfreq",
+          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
+        },
+        {
+          "name": "Jay Cas",
+          "url": "https://open.spotify.com/artist/5CC3QHWWfDGEIbEMlOgh6z"
+        }
+      ],
+      "duration_ms": 161420,
+      "name": "MAMi ISSUES",
+      "url": "https://open.spotify.com/track/6Tz4kklT7SfiCdG3jYBoL2"
     },
     {
       "added_at": "2023-10-27 04:00:00",

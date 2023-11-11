@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Jonah Kagen",
+  "description": "A laid-back trip in the folk scene. Cover: Chance Pe\u00f1a",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/0aPIHOcdgLVvq7EBMxYUN8"
+      },
+      "artists": [
+        {
+          "name": "Kylie V",
+          "url": "https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261108,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/60Yt8oCAAQFeoFN9tPMmDG"
+    },
+    {
+      "album": {
         "name": "Another Love",
         "url": "https://open.spotify.com/album/5TQ7eGVZjZw9Bh4i6Prhv7"
       },
@@ -762,7 +780,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 114683,
       "name": "Basic Channels",
       "url": "https://open.spotify.com/track/4gnJLzWvpsVPHybDPoWW9H"
@@ -1332,7 +1350,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 278670,
       "name": "Call Your Mom (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
@@ -1411,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "Careful",
+        "url": "https://open.spotify.com/album/7oTMk6Vdsh13pin8XG16do"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Careful",
+      "url": "https://open.spotify.com/track/6xwDNQRaRH0yQE5iKBT5dW"
+    },
+    {
+      "album": {
         "name": "Carol",
         "url": "https://open.spotify.com/album/6jHWm6Jvh0NFBFcXSwlIfQ"
       },
@@ -1462,6 +1498,24 @@
       "duration_ms": 322176,
       "name": "Carried\u2026",
       "url": "https://open.spotify.com/track/7sI78BEZylcmCu5ts145ou"
+    },
+    {
+      "album": {
+        "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252850,
+      "name": "Cedar",
+      "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
     },
     {
       "album": {
@@ -1642,6 +1696,24 @@
       "duration_ms": 211999,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/02S4BqhislMrIaDBl8lsKP"
+    },
+    {
+      "album": {
+        "name": "collarbone",
+        "url": "https://open.spotify.com/album/1bt86fE1GNk3sEKsY5ZHgP"
+      },
+      "artists": [
+        {
+          "name": "Scott Helman",
+          "url": "https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203300,
+      "name": "collarbone",
+      "url": "https://open.spotify.com/track/6QASovTU1wUcXQf5rHf9fU"
     },
     {
       "album": {
@@ -2086,7 +2158,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 283093,
       "name": "Death By Suspicion",
       "url": "https://open.spotify.com/track/53yh4A2jqHZBA3QOB4TJyY"
@@ -2691,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234753,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
+    },
+    {
+      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/4whX5DCinatrkayabQF4gO"
       },
@@ -2920,6 +3010,24 @@
       "duration_ms": 233266,
       "name": "Everybody's Got to Learn",
       "url": "https://open.spotify.com/track/6z0WgAtsvXR8zXH454CLtZ"
+    },
+    {
+      "album": {
+        "name": "Everyday Life",
+        "url": "https://open.spotify.com/album/39c9kw2EIAHmMS5PcieAuJ"
+      },
+      "artists": [
+        {
+          "name": "Honas",
+          "url": "https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154314,
+      "name": "Everyday Life",
+      "url": "https://open.spotify.com/track/33nIBZLkbps2iecMwXKCFs"
     },
     {
       "album": {
@@ -3346,7 +3454,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 204394,
       "name": "Firing Line",
       "url": "https://open.spotify.com/track/0yowXhlr88ANGXI4BAuyGn"
@@ -3498,6 +3606,24 @@
       "duration_ms": 289579,
       "name": "Flowers On My Bedside",
       "url": "https://open.spotify.com/track/5ihEkOIEpylssy0dur6U6w"
+    },
+    {
+      "album": {
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/5IFhMN34yqdi4VhP63MNSx"
+      },
+      "artists": [
+        {
+          "name": "MOONRIIVR",
+          "url": "https://open.spotify.com/artist/7L0DI3wlt7yeY4Hi9I87h8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Flowers on the Fire Escape",
+      "url": "https://open.spotify.com/track/1tIFvbrapTX46SYlqH9NGH"
     },
     {
       "album": {
@@ -3692,7 +3818,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 302578,
       "name": "Funny",
       "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
@@ -3826,6 +3952,24 @@
       "duration_ms": 192750,
       "name": "Guide You Home",
       "url": "https://open.spotify.com/track/2XBZcpbkqHquUtI1RphNlj"
+    },
+    {
+      "album": {
+        "name": "Hadsel",
+        "url": "https://open.spotify.com/album/1jhgsccCbT1WXtmGUuZvIA"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294835,
+      "name": "Hadsel",
+      "url": "https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4"
     },
     {
       "album": {
@@ -4477,6 +4621,42 @@
     },
     {
       "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/48x84mxhTZ879CkFdwxo5S"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158374,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/1CNggxo4qMyliKFtF65d3R"
+    },
+    {
+      "album": {
+        "name": "i am not who i was",
+        "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145438,
+      "name": "i am not who i was",
+      "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
+    },
+    {
+      "album": {
         "name": "I Believe in Something More",
         "url": "https://open.spotify.com/album/2rKIHcjKHe52kvPeAUZ5rO"
       },
@@ -4524,7 +4704,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 183318,
       "name": "I Can't Love You Anymore",
       "url": "https://open.spotify.com/track/0j0GdEd9FuD2iw2mGGXTYK"
@@ -4892,7 +5072,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 218880,
       "name": "In Light of My Absence",
       "url": "https://open.spotify.com/track/6an32da1YNcGJTrKJjuMP8"
@@ -5492,7 +5672,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 165720,
       "name": "Knock The Wind",
       "url": "https://open.spotify.com/track/72elIQIbmE6rLBvXXsknK5"
@@ -6811,6 +6991,28 @@
     },
     {
       "album": {
+        "name": "Northern Attitude (with Hozier)",
+        "url": "https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267256,
+      "name": "Northern Attitude (with Hozier)",
+      "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
+    },
+    {
+      "album": {
         "name": "Gathered By The Lantern",
         "url": "https://open.spotify.com/album/5zkd8WmnZPaQUdFe360xfM"
       },
@@ -7060,7 +7262,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 202772,
       "name": "On the Vine",
       "url": "https://open.spotify.com/track/0twfYhAuRGyIfyZzsIGHb9"
@@ -7886,7 +8088,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 192349,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/1OnqUoERBUwvYPixDB5NqK"
@@ -8063,6 +8265,24 @@
     },
     {
       "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226125,
+      "name": "Room Service",
+      "url": "https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ"
+    },
+    {
+      "album": {
         "name": "Everywhere I Used to Be (Deluxe)",
         "url": "https://open.spotify.com/album/7r5UvKF4coPqePysjqIHx9"
       },
@@ -8132,7 +8352,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 199215,
       "name": "Salt & Pepper",
       "url": "https://open.spotify.com/track/3lqXBXZl8JZsFzceeAuzJn"
@@ -9204,7 +9424,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 270264,
       "name": "Take Me To Church - Spotify Singles",
       "url": "https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm"

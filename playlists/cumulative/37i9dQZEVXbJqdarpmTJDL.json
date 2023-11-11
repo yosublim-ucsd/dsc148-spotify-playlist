@@ -407,6 +407,24 @@
     },
     {
       "album": {
+        "name": "1111",
+        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180356,
+      "name": "3:15",
+      "url": "https://open.spotify.com/track/5d2ETO2YDunJTXd5yuCCRA"
+    },
+    {
+      "album": {
         "name": "Kyrios Nekrikos Part I",
         "url": "https://open.spotify.com/album/0Is0VPWEV0FhVMfAp0vqwZ"
       },
@@ -1501,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Allegra (N1)",
+        "url": "https://open.spotify.com/album/2R1Hjal9D3sWfmSt2Tsi4L"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Allegra (N1)",
+      "url": "https://open.spotify.com/track/7B528NXMGf4cqBJSK036yl"
+    },
+    {
+      "album": {
         "name": "Dope Sport (Vol. 2)",
         "url": "https://open.spotify.com/album/73s3tfrxtsG4VoS2d0qDO1"
       },
@@ -1564,6 +1600,32 @@
       "duration_ms": 171595,
       "name": "Allo Class",
       "url": "https://open.spotify.com/track/6BRcfiMW72tcTFde2gsPUZ"
+    },
+    {
+      "album": {
+        "name": "1111",
+        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191015,
+      "name": "Allou",
+      "url": "https://open.spotify.com/track/4Fke1kIQz7pzIZYKqyzeNm"
     },
     {
       "album": {
@@ -2242,6 +2304,28 @@
       "duration_ms": 216237,
       "name": "Ase Me Na Se Prosecho",
       "url": "https://open.spotify.com/track/7iLGrcj8AInLXuTLfkjtJC"
+    },
+    {
+      "album": {
+        "name": "1111",
+        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175280,
+      "name": "Asfaltos",
+      "url": "https://open.spotify.com/track/47ApwqRNvbUZ0QBoxpaxqn"
     },
     {
       "album": {
@@ -4478,7 +4562,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 251428,
       "name": "CASTELLANO",
       "url": "https://open.spotify.com/track/36eKhbZ5KaCBuBX2IL9ujN"
@@ -8295,6 +8379,32 @@
     },
     {
       "album": {
+        "name": "1111",
+        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161511,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/2HtBhiPTlE1bFElYq9kGv0"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
       },
@@ -9710,6 +9820,32 @@
       "duration_ms": 201852,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/3havVW3H4KDEcpenG18uMY"
+    },
+    {
+      "album": {
+        "name": "1111",
+        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223543,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/2X30nxVvZWDLDRFY7uxCvp"
     },
     {
       "album": {
@@ -11316,7 +11452,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 170909,
       "name": "Idrogeios",
       "url": "https://open.spotify.com/track/77S1MD14JNFGwTVlr1NLTh"
@@ -15940,7 +16076,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 146000,
       "name": "Mavromalla",
       "url": "https://open.spotify.com/track/4ybJLyfjA4JIJE05VdDVyy"
@@ -16878,7 +17014,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 180645,
       "name": "Mina \u00d6gon /Ta Matia Moy",
       "url": "https://open.spotify.com/track/6ZEcwUfqgQ22Ole6Vs2WyB"
@@ -17236,7 +17372,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 154800,
       "name": "MONOS",
       "url": "https://open.spotify.com/track/6104vmH44puCfW9cDqh0ET"
@@ -19200,7 +19336,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 169419,
       "name": "Oulala",
       "url": "https://open.spotify.com/track/1bPzfHjRXPvoyWaL5ZOmZE"
@@ -20272,7 +20408,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 182400,
       "name": "Pes",
       "url": "https://open.spotify.com/track/4sltRhFlzu0BwXq9OUnwSG"
@@ -23000,7 +23136,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
@@ -23860,6 +23996,32 @@
       "duration_ms": 268000,
       "name": "Standby",
       "url": "https://open.spotify.com/track/6Tupow7GT1XnVSOUUnG8Gd"
+    },
+    {
+      "album": {
+        "name": "STAR THS GEITONIAS",
+        "url": "https://open.spotify.com/album/5BemJ5qfsd0JwSItCpfXQT"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "STAR THS GEITONIAS",
+      "url": "https://open.spotify.com/track/3wpspGmdx96y319VEc99LG"
     },
     {
       "album": {
@@ -28582,6 +28744,24 @@
       "duration_ms": 246808,
       "name": "ZULU",
       "url": "https://open.spotify.com/track/7aodZPQpAaQrVA6cv9JXru"
+    },
+    {
+      "album": {
+        "name": "1111",
+        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165944,
+      "name": "Zurbaran",
+      "url": "https://open.spotify.com/track/5p3F8ZyKGGGp4IZYRBr4pI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJqdarpmTJDL"

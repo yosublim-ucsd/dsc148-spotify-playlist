@@ -1,15 +1,143 @@
 {
   "description": "If you\u2019re sappy and you know it, listen to these cheesy tunes.",
-  "num_followers": 950187,
+  "num_followers": 950225,
   "original_name": "Sappy and Senti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGY3MDgwN2UzNTk4OTYxZDIyYTAxZmJjOWViMjNlMjcxZGJiZTJh",
+  "snapshot_id": "MCxiNDRlMDU4YTQyMGNiMmZkZmJjMjZkYTA4YzA2YTI5NDg1NDc5MjU2",
   "tracks": [
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
+      "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 303933,
+      "name": "Take A Chance With Me",
+      "url": "https://open.spotify.com/track/0x7PmByJWVXdeipevd6KZS"
+    },
+    {
+      "added_at": "2023-11-10 09:16:59",
+      "album": {
+        "name": "A Piece of You",
+        "url": "https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Constantin",
+          "url": "https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r"
+        }
+      ],
+      "duration_ms": 237225,
+      "name": "A Piece of You",
+      "url": "https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe"
+    },
+    {
+      "added_at": "2023-11-10 09:16:59",
+      "album": {
+        "name": "You'll Be Safe Here",
+        "url": "https://open.spotify.com/album/5JqdmuqnCCp3ENI3IgdqDG"
+      },
+      "artists": [
+        {
+          "name": "Rico Blanco",
+          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "You'll Be Safe Here",
+      "url": "https://open.spotify.com/track/0IuKNTVgn9vapnGU44natX"
+    },
+    {
+      "added_at": "2023-11-10 09:16:59",
+      "album": {
+        "name": "Walking Back Home",
+        "url": "https://open.spotify.com/album/6CT1mfBRIKFU0mjn8YN7vS"
+      },
+      "artists": [
+        {
+          "name": "FUR",
+          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Walking Back Home",
+      "url": "https://open.spotify.com/track/7lu5yyLdgRTMTnYw8yCWvM"
+    },
+    {
+      "added_at": "2023-11-10 09:16:59",
+      "album": {
+        "name": "Subset",
+        "url": "https://open.spotify.com/album/6pIzG9sq6QRBqfCBY0deTB"
+      },
+      "artists": [
+        {
+          "name": "KINDRED",
+          "url": "https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Ligaw",
+      "url": "https://open.spotify.com/track/6Jtx63cJDsRG0V4e2C4mIZ"
+    },
+    {
+      "added_at": "2023-11-10 09:16:59",
+      "album": {
+        "name": "Moving Closer",
+        "url": "https://open.spotify.com/album/4MVrOj7WGuYoq3CA8c5A9T"
+      },
+      "artists": [
+        {
+          "name": "Felip",
+          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
+        }
+      ],
+      "duration_ms": 173710,
+      "name": "Moving Closer",
+      "url": "https://open.spotify.com/track/59PCn7ObERln3cPl84CGx6"
+    },
+    {
+      "added_at": "2023-11-10 09:16:59",
+      "album": {
+        "name": "waiting 4 u (delulu)",
+        "url": "https://open.spotify.com/album/4IT8FqSv8iUlPJUZdwU29r"
+      },
+      "artists": [
+        {
+          "name": "Shoti",
+          "url": "https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW"
+        }
+      ],
+      "duration_ms": 208384,
+      "name": "waiting 4 u (delulu)",
+      "url": "https://open.spotify.com/track/2Mu4urHpPTtvH8kyVVnhje"
+    },
+    {
+      "added_at": "2023-11-10 09:16:59",
+      "album": {
+        "name": "HINAHANAP-HANAP",
+        "url": "https://open.spotify.com/album/38Sx6xPGEqsfen69jNid47"
+      },
+      "artists": [
+        {
+          "name": "jikamarie",
+          "url": "https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j"
+        }
+      ],
+      "duration_ms": 175706,
+      "name": "HINAHANAP-HANAP",
+      "url": "https://open.spotify.com/track/5MOuneXW2aavXBilskdGY7"
+    },
+    {
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "a beautiful blur",
         "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
@@ -25,7 +153,7 @@
       "url": "https://open.spotify.com/track/1DNXCTUHCGcr9kJ6LynYEC"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "You'll Be Safe Here",
         "url": "https://open.spotify.com/album/0R09cayA4ShMtoaAVWgao4"
@@ -41,7 +169,27 @@
       "url": "https://open.spotify.com/track/2MU7C3czJUhO7KJ2yumoB1"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
+      "album": {
+        "name": "Nagbabakasakali",
+        "url": "https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ"
+      },
+      "artists": [
+        {
+          "name": "polaris.",
+          "url": "https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx"
+        },
+        {
+          "name": "drmfy",
+          "url": "https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp"
+        }
+      ],
+      "duration_ms": 202764,
+      "name": "Nagbabakasakali",
+      "url": "https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w"
+    },
+    {
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "this time",
         "url": "https://open.spotify.com/album/7JXBW10JRr5UtC7CjPZR5t"
@@ -57,7 +205,7 @@
       "url": "https://open.spotify.com/track/3RflzntjekyDoIlm11kNIN"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Courage (Acoustic Version)",
         "url": "https://open.spotify.com/album/3KNTVXEXg2Y99cbsQcb34u"
@@ -73,7 +221,7 @@
       "url": "https://open.spotify.com/track/2qsd9R4G0g1dZwVejfGowK"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Trust Me Mate",
         "url": "https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp"
@@ -89,7 +237,7 @@
       "url": "https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Your Universe",
         "url": "https://open.spotify.com/album/4sqO3RMFtKZ1JtHHqBOa36"
@@ -105,7 +253,7 @@
       "url": "https://open.spotify.com/track/5PlL9nRL673efjDc3iNHcA"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Lihim",
         "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
@@ -121,7 +269,7 @@
       "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "LAST GOODBYE",
         "url": "https://open.spotify.com/album/60J04ZdOL6STeI0S9OLDZq"
@@ -137,7 +285,7 @@
       "url": "https://open.spotify.com/track/4sTjUYjIC02RkNa1A8rWjE"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG"
@@ -157,7 +305,7 @@
       "url": "https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "a beautiful blur",
         "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
@@ -173,7 +321,7 @@
       "url": "https://open.spotify.com/track/4sg4F6umL7Sqw72el799mV"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "LANY",
         "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
@@ -189,7 +337,7 @@
       "url": "https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Ikaw Ang Mahal",
         "url": "https://open.spotify.com/album/6HPX6Wn6xwospdR74uHiwk"
@@ -205,23 +353,7 @@
       "url": "https://open.spotify.com/track/7Mx1JGRw0QtCh2VRdqcGbI"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
-    },
-    {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Late Night Madness",
         "url": "https://open.spotify.com/album/1ueV9haTPWmtCzpjzPCt13"
@@ -241,23 +373,7 @@
       "url": "https://open.spotify.com/track/0Jdn4pgNfOnW0bmWLFgpe7"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
-      "album": {
-        "name": "Liham Sa Ulap",
-        "url": "https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I"
-      },
-      "artists": [
-        {
-          "name": "KYLIX",
-          "url": "https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs"
-        }
-      ],
-      "duration_ms": 188664,
-      "name": "Liham Sa Ulap",
-      "url": "https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD"
-    },
-    {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Orasa",
         "url": "https://open.spotify.com/album/7woEJoOxFLpPu8Ba2Pw7eq"
@@ -273,27 +389,7 @@
       "url": "https://open.spotify.com/track/7tEmYgysfhAr3s5hEa8nlc"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
-      "album": {
-        "name": "Hanggang Kailan",
-        "url": "https://open.spotify.com/album/5fgiAaMzlod4qElTfAliNl"
-      },
-      "artists": [
-        {
-          "name": "Kyla",
-          "url": "https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S"
-        },
-        {
-          "name": "Rox Santos",
-          "url": "https://open.spotify.com/artist/6Gkb685FETNxe4IdeQyHEi"
-        }
-      ],
-      "duration_ms": 271540,
-      "name": "Hanggang Kailan",
-      "url": "https://open.spotify.com/track/2y4Dm1k5X8VXAqkeKOHH30"
-    },
-    {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Nahuhulog",
         "url": "https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP"
@@ -309,7 +405,7 @@
       "url": "https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/2Wu7hLFHalklYvHDIiTPoZ"
@@ -325,23 +421,7 @@
       "url": "https://open.spotify.com/track/4v0gAyFjpWihZwbT8A48BR"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
-      "album": {
-        "name": "DKL",
-        "url": "https://open.spotify.com/album/3mMNDqFmww0WMzYPS5zGJT"
-      },
-      "artists": [
-        {
-          "name": "MYR",
-          "url": "https://open.spotify.com/artist/260WCUxqybRg1I8Dh2JcUY"
-        }
-      ],
-      "duration_ms": 190245,
-      "name": "DKL",
-      "url": "https://open.spotify.com/track/0Qaw53g5q0uD5DMmMa5bha"
-    },
-    {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Treading Water",
         "url": "https://open.spotify.com/album/0vyYaFkP7vtUhy006O934u"
@@ -361,7 +441,7 @@
       "url": "https://open.spotify.com/track/74sBWCAGLMQv9tEGAn8aJO"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Palagi",
         "url": "https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH"
@@ -377,7 +457,7 @@
       "url": "https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Kathang Isip",
         "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
@@ -393,7 +473,7 @@
       "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Ako Nalang Kasi",
         "url": "https://open.spotify.com/album/6LlYmFWzlucUOBJsSch4dW"
@@ -409,7 +489,7 @@
       "url": "https://open.spotify.com/track/2LLwBk9FOlKZ8wT0lUQzOw"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "RomCom",
         "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
@@ -425,23 +505,7 @@
       "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
-      "album": {
-        "name": "From The Start",
-        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
-    },
-    {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Nobody Like Us",
         "url": "https://open.spotify.com/album/1alQ5dNsEiuvKSyAP4FAx5"
@@ -457,7 +521,7 @@
       "url": "https://open.spotify.com/track/1eNo8OMOTk4IwrILRXc2GM"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Capacities",
         "url": "https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9"
@@ -473,7 +537,7 @@
       "url": "https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Lilly's Child",
         "url": "https://open.spotify.com/album/6IljuxUuJiSP87CuHpEn3E"
@@ -489,7 +553,7 @@
       "url": "https://open.spotify.com/track/53VWrgqxMeyLvzRaPZH89K"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt"
@@ -509,7 +573,7 @@
       "url": "https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Balse Ng Gabi",
         "url": "https://open.spotify.com/album/15SrjW5AMw6vF5vw0ZeqSC"
@@ -529,23 +593,7 @@
       "url": "https://open.spotify.com/track/1A3AzOfYdnPThsE13DXQBb"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
-      "album": {
-        "name": "Love U Like That",
-        "url": "https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Love U Like That",
-      "url": "https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg"
-    },
-    {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "The Script",
         "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
@@ -561,7 +609,7 @@
       "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Gusto",
         "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
@@ -581,7 +629,7 @@
       "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Rivermaya Silver Series",
         "url": "https://open.spotify.com/album/2wcWG3MbATMobW5HVFTilG"
@@ -597,7 +645,7 @@
       "url": "https://open.spotify.com/track/4aD5i2sgbsAbSubI8cnr2p"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Uhaw (Tayong Lahat)",
         "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
@@ -613,43 +661,7 @@
       "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
-      "album": {
-        "name": "no song without you",
-        "url": "https://open.spotify.com/album/3DG5MS8iKYcJROCnb1DYDf"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 160346,
-      "name": "no song without you",
-      "url": "https://open.spotify.com/track/1lNHWPDvKEbamKezpLq7HW"
-    },
-    {
-      "added_at": "2023-10-18 08:31:54",
-      "album": {
-        "name": "Hard to Leave",
-        "url": "https://open.spotify.com/album/3ufwVuLo76jhCUnafcNcHV"
-      },
-      "artists": [
-        {
-          "name": "Marcus Davis",
-          "url": "https://open.spotify.com/artist/63mE8E2Q1P6J5ibuqE2Kau"
-        },
-        {
-          "name": "Sam Concepcion",
-          "url": "https://open.spotify.com/artist/2P3aLwJ41aRYkyFFw2FRM7"
-        }
-      ],
-      "duration_ms": 210868,
-      "name": "Hard to Leave",
-      "url": "https://open.spotify.com/track/2RU8TI2SdFdaB1Z8DcAaOx"
-    },
-    {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Halika Na",
         "url": "https://open.spotify.com/album/3Gl4ywlE1QM8AhlONldKdm"
@@ -665,23 +677,7 @@
       "url": "https://open.spotify.com/track/2Jh7V0RVCWuPLTTPuS7NRO"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
-      "album": {
-        "name": "befriending my tears",
-        "url": "https://open.spotify.com/album/4pnIWjnhk1gg73KghffqGn"
-      },
-      "artists": [
-        {
-          "name": "Clara Benin",
-          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
-        }
-      ],
-      "duration_ms": 195130,
-      "name": "imposter syndrome",
-      "url": "https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM"
-    },
-    {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Sy",
         "url": "https://open.spotify.com/album/18KzzEHs4LZxkMOgZEpO9v"
@@ -697,7 +693,7 @@
       "url": "https://open.spotify.com/track/4ckqv8nO8cvqdCXe1pJKTG"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Kenaniah",
         "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
@@ -713,7 +709,7 @@
       "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Patutunguhan",
         "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
@@ -729,7 +725,7 @@
       "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Raining In Manila",
         "url": "https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy"
@@ -745,7 +741,7 @@
       "url": "https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Bakit?",
         "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
@@ -761,7 +757,7 @@
       "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Di Na Ako",
         "url": "https://open.spotify.com/album/1j0PALJJqrFEgDIGpj41Y1"
@@ -777,7 +773,7 @@
       "url": "https://open.spotify.com/track/1wC67ZTpPMKRPBex4od1WB"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Hanggang Sa Buwan",
         "url": "https://open.spotify.com/album/0PelgSujJt1F8xYwrOkY48"
@@ -793,7 +789,7 @@
       "url": "https://open.spotify.com/track/2cCxadXR3Dd04cy4rRhiqY"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/5ZFNVSacvOj5XKRkqv39tY"
@@ -809,7 +805,7 @@
       "url": "https://open.spotify.com/track/5SjfjoYaRJ5jycgqwV0ow0"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2axCtTfl9UnGW64StC9CWz"
@@ -825,7 +821,7 @@
       "url": "https://open.spotify.com/track/73rrFU3kxJfhwEkWEUKFjg"
     },
     {
-      "added_at": "2023-10-18 08:31:54",
+      "added_at": "2023-11-10 09:16:59",
       "album": {
         "name": "Sunsets With You",
         "url": "https://open.spotify.com/album/2fEfoRUwtHZa6OZ44Mjc6X"

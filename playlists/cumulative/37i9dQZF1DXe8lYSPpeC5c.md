@@ -4,7 +4,7 @@
 
 > From gamer to racer\. Listen to the music from and inspired by Gran Turismo.
 
-26 songs - 1 hr 40 min
+27 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Search and Destroy \[2023 Remaster\] \- Iggy Mix](https://open.spotify.com/track/00sydAz6PeOxYzwG1dRIPi) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(Iggy Mix \- 2023 Remaster\)](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:30 | 2023-08-11 |  |
 | [Songbird](https://open.spotify.com/track/1HQAvqPT5ybjUQMWTU2tGf) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Essential Kenny G](https://open.spotify.com/album/5NGuIIH9w3wP7IWUYei3sA) | 5:03 | 2023-08-11 |  |
 | [Vroom \- The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo\| PS5, PS4 \- from GRAN TURISMO 7](https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d) | [The FaNaTiX](https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Vroom \- The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo\| PS5, PS4 \(from GRAN TURISMO 7\)](https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay) | 3:57 | 2023-08-11 |  |
-| [Waltzes, Op\. 69: No\. 1 in A\-Flat Major "Valse de l'adieu"](https://open.spotify.com/track/4FATw5EHtcSn9sy4yEnqIW) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Abbey Simon](https://open.spotify.com/artist/1WZfpyMXeelpNlFlQxVfqI) | [111 Piano Masterpieces](https://open.spotify.com/album/05ucToYXOtrAzisFpzf29L) | 3:18 | 2023-08-11 |  |
+| [Waltzes, Op\. 69: No\. 1 in A\-Flat Major "L'adieu"](https://open.spotify.com/track/2Abkw18wRc21s69UXtBagy) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Abbey Simon](https://open.spotify.com/artist/1WZfpyMXeelpNlFlQxVfqI) | [Chopin: Complete Études & Waltzes](https://open.spotify.com/album/5zJhwaJblhem0aTXNIdiwe) | 3:19 | 2023-08-11 |  |
+| [Waltzes, Op\. 69: No\. 1 in A\-Flat Major "Valse de l'adieu"](https://open.spotify.com/track/4FATw5EHtcSn9sy4yEnqIW) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Abbey Simon](https://open.spotify.com/artist/1WZfpyMXeelpNlFlQxVfqI) | [111 Piano Masterpieces](https://open.spotify.com/album/05ucToYXOtrAzisFpzf29L) | 3:18 | 2023-08-11 | 2023-11-11 |
 | [War Pigs](https://open.spotify.com/track/0HVQuuXGAcQ2P5mBN521ae) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) | 7:54 | 2023-08-11 |  |
 | [Wash.](https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:58 | 2023-08-11 |  |
 | [Wilderness](https://open.spotify.com/track/0sv4mbBL2vLePRHa3fTyzA) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Wilderness](https://open.spotify.com/album/1MUhDxkdqg5IyNYylLu7P8) | 4:36 | 2023-08-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: GAZAL\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,191 likes - 98 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,239 likes - 98 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 97 | [Confide](https://open.spotify.com/track/5BgDMTu8Mv7QGvekUoJTBH) | [Mirasia](https://open.spotify.com/artist/38BpiXYo0GESioPqkG5xyl), [Kuya Neil](https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY) | [Confide](https://open.spotify.com/album/2fqyvFf3br0uH0VpPcpdir) | 4:12 |
 | 98 | [No Fix](https://open.spotify.com/track/2RPrRhVt4XqUSF05F5p3Qt) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [No Fix](https://open.spotify.com/album/5a56r7dI9gmErJl72ET0Az) | 4:15 |
 
-Snapshot ID: `MCw3MjdkYzU3N2Q3Y2RlYTU1NjM5ODUxZTg0YWI2ZTgyMThjYjkyYjYw`
+Snapshot ID: `MCw0Y2YxNzBhYjdjMzc1MDQyZTM3NjAxNDVhNDU5MjUxN2MyOWFhYjNj`

@@ -4,7 +4,7 @@
 
 > Our favorite electronic songs from around the world this year\. Cover: Boris Brejcha
 
-200 songs - 14 hr 17 min
+202 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [On Your Mind](https://open.spotify.com/track/5aqsZYOE5bP1cY4sSaw0Jq) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/23r79fk0k3TCumBLqaPKa6) | 4:06 | 2021-12-01 | 2022-12-01 |
 | [On Your Mind](https://open.spotify.com/track/6cds9yY4j7MTZJtFqp0p9v) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/7wjucFJanIucPHvc2W7inR) | 4:06 | 2021-12-01 | 2022-07-29 |
 | [One More Chance](https://open.spotify.com/track/2fs9HGUstxf0r1nbUsX9pr) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e) | [One More Chance](https://open.spotify.com/album/0Br04dEwKsxbvjQnBKqKC5) | 4:09 | 2022-11-30 |  |
-| [Only For Tonight](https://open.spotify.com/track/1vwCNbCIahe4HsmfZim45D) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Only For Tonight](https://open.spotify.com/album/5YpxkZZNn65hT9WpJt6Ym6) | 3:33 | 2022-11-30 |  |
+| [Only For Tonight](https://open.spotify.com/track/1vwCNbCIahe4HsmfZim45D) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Only For Tonight](https://open.spotify.com/album/5YpxkZZNn65hT9WpJt6Ym6) | 3:33 | 2022-11-30 | 2023-11-11 |
+| [Only For Tonight](https://open.spotify.com/track/3aq4jbda7X61Grxxb3ZC8g) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Only for Tonight](https://open.spotify.com/album/3kwgM7pwIdWPjgWf54yxG7) | 3:33 | 2022-11-30 |  |
 | [Only One](https://open.spotify.com/track/4Bigp1M2cas5ocOo0nO8kn) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Angelica Bess](https://open.spotify.com/artist/0LueBt3QtEleKKPdnUKF5V) | [Only One](https://open.spotify.com/album/5xlkw1oEQuxQp4xWJ789CB) | 4:37 | 2021-12-01 | 2022-12-01 |
 | [Open Air](https://open.spotify.com/track/2fTdcqOWwVKEePZ79k9rZM) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [TDJ002](https://open.spotify.com/album/2GVbh9Pr7iFbXCRV2oyU4L) | 4:11 | 2021-12-01 | 2022-12-01 |
 | [Power](https://open.spotify.com/track/7uPGcpYfm1Z0H0IF0KRXi3) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Power](https://open.spotify.com/album/1nOkffVwTES74zpJFGiCPj) | 4:18 | 2021-12-01 | 2022-12-01 |
@@ -178,7 +179,8 @@
 | [The beginning](https://open.spotify.com/track/6HgTlArv4GmaXKPprexTep) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K), [Alison Skidmore](https://open.spotify.com/artist/0FgCQutC1MiV23DPuBDU0W) | [Never The Right Time](https://open.spotify.com/album/3DuVru3YXCKfrNajnEUlVR) | 4:30 | 2021-12-01 | 2022-12-01 |
 | [The Distance](https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:51 | 2021-12-01 | 2022-12-01 |
 | [The Distance](https://open.spotify.com/track/7kUZGVHKDRBrPIYfhZ49ju) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/4Y5HddfFNFopRAhEbXuUe7) | 4:51 | 2021-12-01 | 2022-07-29 |
-| [The Door](https://open.spotify.com/track/2R5j17Th87vImCG2YEQY6p) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [The Door](https://open.spotify.com/album/66aDv1U1CYdiipT7fS4Z17) | 6:18 | 2022-11-30 |  |
+| [The Door](https://open.spotify.com/track/2R5j17Th87vImCG2YEQY6p) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [The Door](https://open.spotify.com/album/66aDv1U1CYdiipT7fS4Z17) | 6:18 | 2022-11-30 | 2023-11-11 |
+| [The Door](https://open.spotify.com/track/6fuMpujzcshRaRW3UGCQSI) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [The Door](https://open.spotify.com/album/1fYPOOSo0Ol9ELGhWnLx1B) | 6:18 | 2022-11-30 |  |
 | [The Last Goodbye](https://open.spotify.com/track/2gQK13gXYZRq2MgvPJyHx8) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 5:58 | 2022-11-30 |  |
 | [The Limit](https://open.spotify.com/track/5OBUmFuhkit7MYdaVZc2bs) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [The Limit](https://open.spotify.com/album/4qrRtK8B87gcp9S4aWZwPt) | 5:21 | 2021-12-01 | 2022-12-01 |
 | [The Princess and the Clock](https://open.spotify.com/track/0jPoMzAErw4Exk2vbwQRHC) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Civilisation](https://open.spotify.com/album/4tywc61wWZwHDEBEDG4Cq1) | 3:49 | 2021-12-01 | 2022-12-01 |

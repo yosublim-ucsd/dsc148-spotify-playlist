@@ -529,6 +529,32 @@
     },
     {
       "album": {
+        "name": "Alone (Ilan Bluestone Remix)",
+        "url": "https://open.spotify.com/album/1wNbgGwbX1J1O0gdgueLli"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "Ilan Bluestone",
+          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
+        },
+        {
+          "name": "Amanda Collis",
+          "url": "https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214070,
+      "name": "Alone - Ilan Bluestone Remix",
+      "url": "https://open.spotify.com/track/1szDFtoqP13cJKSL66H0Ol"
+    },
+    {
+      "album": {
         "name": "Altus",
         "url": "https://open.spotify.com/album/3Eo6jSRMS3fsYDQ1RFM9oi"
       },
@@ -2765,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "City Of Lights",
+        "url": "https://open.spotify.com/album/3kJf9Pq0LcgAlpouze7cT5"
+      },
+      "artists": [
+        {
+          "name": "Dim3nsion",
+          "url": "https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "City Of Lights",
+      "url": "https://open.spotify.com/track/39UeSK4g00t3SIp7QbK1te"
+    },
+    {
+      "album": {
         "name": "Colder",
         "url": "https://open.spotify.com/album/1GAb5vrYO6mt6zdwkvOytZ"
       },
@@ -4389,6 +4433,28 @@
     },
     {
       "album": {
+        "name": "Everything Is Beautiful",
+        "url": "https://open.spotify.com/album/5BEY5GlvojPv8J29H6NoTs"
+      },
+      "artists": [
+        {
+          "name": "Tritonal",
+          "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
+        },
+        {
+          "name": "Kwesi",
+          "url": "https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Everything Is Beautiful",
+      "url": "https://open.spotify.com/track/0JrDbDm9aGvmXfBg6bFpMo"
+    },
+    {
+      "album": {
         "name": "Everything You Want",
         "url": "https://open.spotify.com/album/7bw4uqzPhT5aHRY8E5g6zc"
       },
@@ -4456,7 +4522,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 200888,
       "name": "Everytime - Ciaran McAuley Remix",
       "url": "https://open.spotify.com/track/0cfhLq3j4vLMDWrS6xII9N"
@@ -5206,7 +5272,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 240656,
       "name": "Forever",
       "url": "https://open.spotify.com/track/79RYcYdQO7Ue7yZJ9tZp6x"
@@ -8016,7 +8082,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 214090,
       "name": "Lifeline - Fisherman Remix",
       "url": "https://open.spotify.com/track/1GuVsKyXDotOBc7k1ZsQHZ"

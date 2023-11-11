@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 165000,
       "name": "Addictive",
       "url": "https://open.spotify.com/track/1h99HGj5wwNX1DqoJRpPDv"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 195000,
       "name": "Ambition",
       "url": "https://open.spotify.com/track/3KvW9UwTMlmMpha02Ago0K"
@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Berlim (Extended)",
+        "url": "https://open.spotify.com/album/7lXsBRHRG4WncHsEXVzSI8"
+      },
+      "artists": [
+        {
+          "name": "Loudtech",
+          "url": "https://open.spotify.com/artist/2oGd93cmIbD559RjQHpLhr"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "Berlim - Extended",
+      "url": "https://open.spotify.com/track/3mag46vtAWm1gj3cdqab8g"
+    },
+    {
+      "album": {
         "name": "Blow",
         "url": "https://open.spotify.com/album/1zgW0fdUv37ePTTZ0t4LcM"
       },
@@ -408,6 +426,24 @@
       "duration_ms": 270720,
       "name": "Closer - Radio Edit",
       "url": "https://open.spotify.com/track/57YS2mQSZ2tvUMTbFlHvyC"
+    },
+    {
+      "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/3r7PkLLbdscNV61NrOOOBe"
+      },
+      "artists": [
+        {
+          "name": "Softmal",
+          "url": "https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197419,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/6XKAsu3Hu56kN6ighNsxiL"
     },
     {
       "album": {
@@ -660,6 +696,28 @@
       "duration_ms": 121935,
       "name": "Go Bananas",
       "url": "https://open.spotify.com/track/7sMTAnbe0GyC8SquQFyJuA"
+    },
+    {
+      "album": {
+        "name": "Goated",
+        "url": "https://open.spotify.com/album/0eIp9OXSj1Zf5RfxJl0AgN"
+      },
+      "artists": [
+        {
+          "name": "Lowderz",
+          "url": "https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq"
+        },
+        {
+          "name": "Steffan",
+          "url": "https://open.spotify.com/artist/0nwPPrenIFxqyTY0sAmhoX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169412,
+      "name": "Goated",
+      "url": "https://open.spotify.com/track/6TFvUs6ar29DwPFga0W6Jl"
     },
     {
       "album": {
@@ -1182,7 +1240,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 216000,
       "name": "On Me",
       "url": "https://open.spotify.com/track/53YHO53431ArdW8JksWIPA"
@@ -1416,7 +1474,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 172164,
       "name": "Quando Amanhecer",
       "url": "https://open.spotify.com/track/1N8STGhi5gwrf8gQ7Nydwl"
@@ -1504,6 +1562,24 @@
       "duration_ms": 232000,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4TB0mfOWHxa2OhbCQRU9BB"
+    },
+    {
+      "album": {
+        "name": "Sem Press\u00e3o",
+        "url": "https://open.spotify.com/album/3NmpHsWWzj0GkC2SrXzeDB"
+      },
+      "artists": [
+        {
+          "name": "Low Disco",
+          "url": "https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Sem Press\u00e3o",
+      "url": "https://open.spotify.com/track/5nYcPAEIDTCTI3sRuYu8AP"
     },
     {
       "album": {
@@ -1700,7 +1776,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 181894,
       "name": "That Beat",
       "url": "https://open.spotify.com/track/09LtKPYSJWlyBO4ajbkAfb"

@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-79 songs - 5 hr 25 min
+80 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,10 +75,11 @@
 | [Senpai](https://open.spotify.com/track/6jEhGdJj7F3mDf4ABc5Mrx) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B) | [Senpai](https://open.spotify.com/album/61qHIjDtaPBkftWKSHkqua) | 3:13 | 2022-02-22 | 2023-06-18 |
 | [Sete Pecados Capitais](https://open.spotify.com/track/7hOpo4Xghw0EX1HgShJU3o) | [anirap](https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B) | [Sete Pecados Capitais](https://open.spotify.com/album/7gZnPoiybTDKjXe7NmEvms) | 5:06 | 2022-02-22 |  |
 | [SpeedLord: Akatsuki](https://open.spotify.com/track/0Xo6kYVMKlisXIMUFJmbwS) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [SpeedLord: Akatsuki](https://open.spotify.com/album/14iuVUCKKTKUqJIDRCktTG) | 5:13 | 2022-02-22 |  |
+| [Tai Otoshi](https://open.spotify.com/track/1RYDGeACNeHLgK2XqJa3n8) | [Zero Meia](https://open.spotify.com/artist/4SqZO99ISUJpwisAug6yfQ), [Gean Brazy](https://open.spotify.com/artist/5Xw6Mw9iq5Q9pBf24Cu0EQ) | [Tai Otoshi](https://open.spotify.com/album/4G9Zhc8lxnXKU6sB66N7Vj) | 3:29 | 2023-11-10 |  |
 | [Tipo Gotenks](https://open.spotify.com/track/4XfvgreDThgRwqZui7VNx8) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Gotenks](https://open.spotify.com/album/0GKL2s9FkkKtK3wBFDbUfI) | 3:22 | 2022-05-27 | 2023-07-08 |
 | [Tipo Hashirama](https://open.spotify.com/track/1vX0KmArqxz2b0ByQQp81H) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Hashirama](https://open.spotify.com/album/3bNAqFuhuEB3YejTOnyyQU) | 3:09 | 2022-02-22 |  |
 | [Tipo Kisame](https://open.spotify.com/track/6PoHGkWg6VR2xXnKdMPMkn) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Kisame](https://open.spotify.com/album/2IrjtJ2rw6bAa2MKoPRRK3) | 3:11 | 2022-02-22 |  |
-| [Tipo Levi](https://open.spotify.com/track/1cyyZkX9dUt8ilAfc96jg8) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Levi](https://open.spotify.com/album/2pu2qYzGmssUHGlj1fTOiL) | 3:29 | 2022-02-22 |  |
+| [Tipo Levi](https://open.spotify.com/track/1cyyZkX9dUt8ilAfc96jg8) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Levi](https://open.spotify.com/album/2pu2qYzGmssUHGlj1fTOiL) | 3:29 | 2022-02-22 | 2023-11-11 |
 | [Tipo Madara](https://open.spotify.com/track/5X4H4ZCxjwHFuj5CMtgJ6s) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Madara](https://open.spotify.com/album/7drkyFzSw3TI0sg7JPlynu) | 3:18 | 2022-02-22 |  |
 | [Tipo Merus](https://open.spotify.com/track/1mGOmr1USqOYEkGKymzmIQ) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Merus](https://open.spotify.com/album/75LVPBkmocAq32tQhXqG7k) | 3:12 | 2023-03-10 |  |
 | [Tipo Narutin](https://open.spotify.com/track/4nqvl1yLuiGO5C6TtwbKhS) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Narutin](https://open.spotify.com/album/0ikI9k4kn5GqbML5UrGQnF) | 3:08 | 2022-02-22 |  |

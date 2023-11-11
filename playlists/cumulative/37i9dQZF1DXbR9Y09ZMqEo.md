@@ -4,7 +4,7 @@
 
 > Listen to music from and inspired by You Are So Not Invited To My Bat Mitzvah, now streaming on Netflix.
 
-56 songs - 2 hr 19 min
+57 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2023-08-25 |  |
 | [Twizzler Gaze](https://open.spotify.com/track/5AZmftPm0e9qKHvFEVkqnu) | [Amanda Yamate](https://open.spotify.com/artist/01uLTa1JqRkIr7pEaXWYgJ), [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc) | [You Are So Not Invited To My Bat Mitzvah \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1gTxtkA8cZLys95UB3xUtl) | 0:51 | 2023-08-25 |  |
 | [Under Your Spell](https://open.spotify.com/track/4VdCaAfgNe8Z1m4DDIk1HP) | [Desire](https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0) | [Under Your Spell](https://open.spotify.com/album/4snFxjLgbS8rQzkVMb3Vzr) | 4:56 | 2023-08-25 |  |
-| [Valley of the Dolls](https://open.spotify.com/track/5gmRgeec1UtQJ9MYxVhDxC) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [I Don't Want: The Gold Fire Sessions](https://open.spotify.com/album/4GbH15Qw21Mwgj5YHyuAu8) | 4:16 | 2023-08-25 |  |
+| [Valley of the Dolls](https://open.spotify.com/track/5gmRgeec1UtQJ9MYxVhDxC) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [I Don't Want: The Gold Fire Sessions](https://open.spotify.com/album/4GbH15Qw21Mwgj5YHyuAu8) | 4:16 | 2023-08-25 | 2023-11-11 |
+| [Valley of the Dolls](https://open.spotify.com/track/5sdrGdT7bxgfLMEoNf8XNj) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [I Don't Want: The Gold Fire Sessions](https://open.spotify.com/album/0YT5IhLx3P3sOrozDYIvwG) | 4:16 | 2023-09-01 |  |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2023-08-25 |  |
 | [What's Mine Is Yours](https://open.spotify.com/track/42ZVy4bY9hFT21Cb70oqit) | [Amanda Yamate](https://open.spotify.com/artist/01uLTa1JqRkIr7pEaXWYgJ), [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc) | [You Are So Not Invited To My Bat Mitzvah \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1gTxtkA8cZLys95UB3xUtl) | 1:14 | 2023-08-25 |  |
 | [Wolves](https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Wolves](https://open.spotify.com/album/5gQZvWM1o8NkQndueJtZcP) | 3:17 | 2023-08-25 |  |

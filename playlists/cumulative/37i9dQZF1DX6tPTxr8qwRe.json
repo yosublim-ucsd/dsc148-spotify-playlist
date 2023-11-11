@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Dove Cameron",
+  "description": "Dark, hard hitting pop. Cover: Mad Tsai",
   "name": "SALT",
   "tracks": [
     {
@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 173906,
       "name": "Bedroom",
       "url": "https://open.spotify.com/track/7fnICPO0s3jcQ049Yk0EmV"
@@ -834,6 +834,24 @@
       "duration_ms": 177657,
       "name": "BETTER",
       "url": "https://open.spotify.com/track/2QgZpszbkDWUYtf0Khmrge"
+    },
+    {
+      "album": {
+        "name": "Better On Mute",
+        "url": "https://open.spotify.com/album/11cXlTcVE4u0BTEm6YID09"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157782,
+      "name": "Better On Mute",
+      "url": "https://open.spotify.com/track/4PUoS8YRJCKdG76cYjbdpL"
     },
     {
       "album": {
@@ -964,6 +982,24 @@
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR"
+    },
+    {
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/5P3vj5MI6yS0FzFo9QomFb"
+      },
+      "artists": [
+        {
+          "name": "Andi",
+          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178382,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/2MZfkqDwZdK3nD0YJtJ9Fp"
     },
     {
       "album": {
@@ -1187,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "boys beware",
+        "url": "https://open.spotify.com/album/6MFaXFiSwULcA42Zv7FMuW"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133887,
+      "name": "boys beware",
+      "url": "https://open.spotify.com/track/799zCg04fIPgcbmplT3ecQ"
+    },
+    {
+      "album": {
         "name": "Breadcrumbs",
         "url": "https://open.spotify.com/album/4aOr6Lkc0jJBTppl95v2xS"
       },
@@ -1364,7 +1418,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 143611,
       "name": "bug",
       "url": "https://open.spotify.com/track/5eG7N74vstGSTCr1NsJHkU"
@@ -2575,6 +2629,28 @@
     },
     {
       "album": {
+        "name": "Erupt (ft. AViVA)",
+        "url": "https://open.spotify.com/album/3TH9ULOKAb15buW9MIHPN6"
+      },
+      "artists": [
+        {
+          "name": "Stileto",
+          "url": "https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i"
+        },
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Erupt (ft. AViVA)",
+      "url": "https://open.spotify.com/track/71jmcCezag5sUPPMLpD2Mh"
+    },
+    {
+      "album": {
         "name": "Eve",
         "url": "https://open.spotify.com/album/1WcyjfjfTXfv1LaqLtJGqZ"
       },
@@ -2784,7 +2860,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 154426,
       "name": "f.u.n!",
       "url": "https://open.spotify.com/track/28IiEPTbV34Y9rFUsKekOC"
@@ -4191,6 +4267,24 @@
     },
     {
       "album": {
+        "name": "SPILT MILK",
+        "url": "https://open.spotify.com/album/7bjMUmI8UUbAMWUIW0GCkk"
+      },
+      "artists": [
+        {
+          "name": "KiNG MALA",
+          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "i only smoke to feel bad",
+      "url": "https://open.spotify.com/track/5gtAq2cTH1MpT2Ek8zv7mt"
+    },
+    {
+      "album": {
         "name": "I Really F**ked It Up",
         "url": "https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ"
       },
@@ -4238,7 +4332,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 159981,
       "name": "i should call my friends",
       "url": "https://open.spotify.com/track/7u0JipKqt3pIxbvgjOqd4R"
@@ -4256,7 +4350,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 195482,
       "name": "i should\u2019ve fucked your brother",
       "url": "https://open.spotify.com/track/03moFmOsgmGXeioNYAoRf1"
@@ -4364,7 +4458,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 145414,
       "name": "Idolize",
       "url": "https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ"
@@ -5013,6 +5107,24 @@
     },
     {
       "album": {
+        "name": "little miss misogyny",
+        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
+      },
+      "artists": [
+        {
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147205,
+      "name": "little miss misogyny",
+      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
+    },
+    {
+      "album": {
         "name": "lonely bitch",
         "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
       },
@@ -5042,7 +5154,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 128358,
       "name": "LOOK AT ME RIGHT NOW",
       "url": "https://open.spotify.com/track/74b8ZwgaV6wEokRZt8eWkG"
@@ -5503,6 +5615,24 @@
     },
     {
       "album": {
+        "name": "Mirror, Mirror",
+        "url": "https://open.spotify.com/album/1sifnBb5fKCS0o4fD9LCDg"
+      },
+      "artists": [
+        {
+          "name": "Abigail Barlow",
+          "url": "https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114339,
+      "name": "Mirror, Mirror",
+      "url": "https://open.spotify.com/track/1HYIkeqybKZM2QrkOBQcML"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL"
       },
@@ -5957,6 +6087,24 @@
     },
     {
       "album": {
+        "name": "OPPOSITE DAY",
+        "url": "https://open.spotify.com/album/71Prwf90wNmOQoWJc3w5QR"
+      },
+      "artists": [
+        {
+          "name": "Jades Goudreault",
+          "url": "https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132283,
+      "name": "OPPOSITE DAY",
+      "url": "https://open.spotify.com/track/10B1APcee1P6DJqO15nA70"
+    },
+    {
+      "album": {
         "name": "ORAL HEX (spell on you)",
         "url": "https://open.spotify.com/album/3Z6ZQizuBnh4w78dlm6HZ1"
       },
@@ -6204,6 +6352,24 @@
       "duration_ms": 222770,
       "name": "Pink (Freak) (feat. GIRLI) - GIRLI Remix",
       "url": "https://open.spotify.com/track/439OoVge6koA2fON3GQmpb"
+    },
+    {
+      "album": {
+        "name": "Baby Teeth",
+        "url": "https://open.spotify.com/album/71irsFKcf0lvzG4DO2jDUL"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139773,
+      "name": "Pink Noise",
+      "url": "https://open.spotify.com/track/79SnA3wt0c7znm70kwRxEm"
     },
     {
       "album": {
@@ -6500,7 +6666,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 141000,
       "name": "Puppy Luv <3",
       "url": "https://open.spotify.com/track/1U2WEn5UmD3si27l6XO5WI"
@@ -7190,6 +7356,24 @@
       "duration_ms": 124373,
       "name": "Seven",
       "url": "https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw"
+    },
+    {
+      "album": {
+        "name": "SEX MACHINA",
+        "url": "https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129397,
+      "name": "SEX MACHINA",
+      "url": "https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K"
     },
     {
       "album": {
@@ -8374,7 +8558,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 162039,
       "name": "To The Bank",
       "url": "https://open.spotify.com/track/09Dw0K3RIvQR5bmrbQZIzr"
@@ -9568,7 +9752,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 177188,
       "name": "Yours (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"

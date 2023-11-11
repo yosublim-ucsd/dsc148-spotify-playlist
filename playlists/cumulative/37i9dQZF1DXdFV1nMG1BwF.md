@@ -4,7 +4,7 @@
 
 > Relaxing continuous white noise to sleep all through the night.
 
-258 songs - 11 hr 30 min
+259 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [I Wake Up With Noise](https://open.spotify.com/track/4LGg8tvQxix9thK83jjhm1) | [Hz Catchers](https://open.spotify.com/artist/6Bea98kSgFYBJdaRDgAnG5) | [Peaceful Noise](https://open.spotify.com/album/0TzsBKtyXENx8IOpE0Qa1Z) | 2:24 | 2023-05-25 |  |
 | [In a state of White Noise Sleep](https://open.spotify.com/track/6RS9yHVAFYXf2yspUgQkDH) | [EXOA](https://open.spotify.com/artist/16fII77WGyUG8E5DTIW4EU) | [White Noise Pillow](https://open.spotify.com/album/2LbHdOqiVJHFVh1nZbqda5) | 4:04 | 2023-05-25 |  |
 | [In Somnio](https://open.spotify.com/track/1mZrMMxn7NiWOHMOnbpJ3r) | [Zendium](https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV) | [In Somnio](https://open.spotify.com/album/060GnhHLT7K6aFa2HA9393) | 3:03 | 2023-05-25 |  |
+| [In the White Noise Cave](https://open.spotify.com/track/1sV9WPCpIZeqnQ9qoYAuzt) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [In the White Noise Cave](https://open.spotify.com/album/7K1ur3Bf939aOmgTG57GG4) | 2:31 | 2023-10-25 |  |
 | [In White Atmosphere](https://open.spotify.com/track/5TVNQWqTMdJxg4H5LxrzW1) | [Lilly Almberg](https://open.spotify.com/artist/6LiML5bva810pCMI3MGXif) | [Cloud White Noise](https://open.spotify.com/album/5PyzfPy1AYilqzNLPThpct) | 2:24 | 2023-05-25 |  |
 | [Interstellar Cabin](https://open.spotify.com/track/5WQyF7t0tNomzABIYzxxSD) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Interstellar Cabin](https://open.spotify.com/album/5dVZjOztN4gijHKnxCIqvm) | 2:20 | 2023-05-25 |  |
 | [Ipnotizzato Dal Rumore Bianco](https://open.spotify.com/track/47MRiOYDPxibheDghy2Hum) | [Passeggiate Al Chiaro](https://open.spotify.com/artist/5HosxAwsGzGX5RzY3XfXPC) | [Fiori Notturni](https://open.spotify.com/album/3lLcKLPOTRTVT2iatg8dtz) | 2:00 | 2023-05-25 |  |
@@ -242,7 +243,7 @@
 | [White Noise Is Bright](https://open.spotify.com/track/259rzFIqJmv7xCqPB4fL2E) | [Sampling Specialists](https://open.spotify.com/artist/7199IIJK2wW5yNXTaZtYmI) | [Resting Noise](https://open.spotify.com/album/1Bh7PlY6oNnUwHD7qpDfbh) | 2:31 | 2023-06-26 |  |
 | [White Noise Low Frequency](https://open.spotify.com/track/0M8XcBsYL0Gm8ewxTPYXzQ) | [Chrome Details Noise](https://open.spotify.com/artist/3nVd3Up7f9uluILXNuLWis) | [Chrome White Noise](https://open.spotify.com/album/5TCxCXEbETUARRPkn2tj4Q) | 2:15 | 2023-05-25 |  |
 | [White Noise Lullaby](https://open.spotify.com/track/6sEeaMuuF5xx6xHGMUWdot) | [Day Nappers](https://open.spotify.com/artist/1ngR2isbEhcNEY1fNJZ0Vn) | [Sheets of White Noise](https://open.spotify.com/album/4b0GXTlHxxtVqrXzmCTDnj) | 2:59 | 2023-05-25 |  |
-| [White Noise Ocean](https://open.spotify.com/track/2cgsR4hdhuphEBStF0Kwno) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Noises from Nature](https://open.spotify.com/album/5rROruH8RwMNORjLo3iNwn) | 2:37 | 2023-05-25 |  |
+| [White Noise Ocean](https://open.spotify.com/track/2cgsR4hdhuphEBStF0Kwno) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Noises from Nature](https://open.spotify.com/album/5rROruH8RwMNORjLo3iNwn) | 2:37 | 2023-05-25 | 2023-11-11 |
 | [White Noise Rauschen](https://open.spotify.com/track/4HbdRcLLnUHgBVBDVRD14M) | [Night Time Sounds](https://open.spotify.com/artist/029NCna9Sf2isa6oeBAhyP) | [White Noise On My Mind](https://open.spotify.com/album/2gGwtQwg3DRXQwvW9Kh3ca) | 2:53 | 2023-06-26 |  |
 | [White Noise Relaxation Haven](https://open.spotify.com/track/6lthCEvodT1v7NR0b3qXOk) | [Dreamy White Noise](https://open.spotify.com/artist/3fphHcubpPIVJ80z5uBgyA) | [White Noise Dream State](https://open.spotify.com/album/4MVN2QQAwJJY6gliY1N7Ya) | 2:32 | 2023-09-20 |  |
 | [White Noise Shade 4](https://open.spotify.com/track/5SJZH9cW2v3SrF3Pher2oP) | [Octobas](https://open.spotify.com/artist/7LxuQFfTwNk6V8sS7sAha4) | [Shades Of White Noise](https://open.spotify.com/album/7qrxvqiTX2CcS87UKtg1ea) | 2:03 | 2023-05-25 |  |

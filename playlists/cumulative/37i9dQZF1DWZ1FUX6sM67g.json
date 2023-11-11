@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 200000,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk"
@@ -2354,6 +2354,24 @@
       "duration_ms": 155994,
       "name": "Pega\u00edto",
       "url": "https://open.spotify.com/track/1RFWaEBbwIZV6ZcpuZzZC8"
+    },
+    {
+      "album": {
+        "name": "Plut\u00f3n",
+        "url": "https://open.spotify.com/album/5s1rj24qm3Q9ttI93imJa1"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "Plut\u00f3n",
+      "url": "https://open.spotify.com/track/7boNcfRNYWaftNCrFbZLK9"
     },
     {
       "album": {

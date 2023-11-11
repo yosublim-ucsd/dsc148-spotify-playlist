@@ -398,7 +398,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 232755,
       "name": "Aquamarine - Acoustic",
       "url": "https://open.spotify.com/track/6z2m3ZQTUXm03accvTLVoi"
@@ -3986,6 +3986,24 @@
     {
       "album": {
         "name": "Sunnyland",
+        "url": "https://open.spotify.com/album/6VgJZRUsCbR1NTnJWU85G4"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234912,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/4AjIe5cBvHyFrvIi9yvDEd"
+    },
+    {
+      "album": {
+        "name": "Sunnyland",
         "url": "https://open.spotify.com/album/55sUM2N9C0vUHeqc1C6xEZ"
       },
       "artists": [
@@ -3996,7 +4014,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 234912,
       "name": "Take My Breath Away",
       "url": "https://open.spotify.com/track/7wtmaB8TOVjItfBcBP59TL"
@@ -4782,7 +4800,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 232840,
       "name": "Wolf In Sheep\u2019s Clothing - Acoustic",
       "url": "https://open.spotify.com/track/7k6wAmfKKU1HY09PO3dbtc"

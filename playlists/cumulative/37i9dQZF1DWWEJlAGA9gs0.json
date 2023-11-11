@@ -6787,6 +6787,32 @@
     },
     {
       "album": {
+        "name": "Bach, Bologne, Previn, Vivaldi, Williams",
+        "url": "https://open.spotify.com/album/3MoCHGDjhVrZuXM3Kj6V49"
+      },
+      "artists": [
+        {
+          "name": "Joseph Boulogne Chevalier de Saint-Georges",
+          "url": "https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Mutter's Virtuosi",
+          "url": "https://open.spotify.com/artist/56ceBVnalGD41B0AXIZzPj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365996,
+      "name": "Violin Concerto No. 2 in A Major, Op. 5: II. Largo",
+      "url": "https://open.spotify.com/track/3rBQFU7o7d7ezAVC1aXaVD"
+    },
+    {
+      "album": {
         "name": "Bruch & Dvorak Violin Concertos",
         "url": "https://open.spotify.com/album/0cJCzWpgtEBg4Oovegy1H5"
       },

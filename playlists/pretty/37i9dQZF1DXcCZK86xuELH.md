@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,472 likes - 54 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,127 likes - 54 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 | 4 | [Good Morning \(feat\. Kojey Radical & Nile Rodgers\)](https://open.spotify.com/track/4L0T3usCoeUO85dJeuxbBf) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Good Morning \(feat\. Kojey Radical & Nile Rodgers\)](https://open.spotify.com/album/2uDherRYol1u5bCpwwyklG) | 2:53 |
 | 5 | [Lost](https://open.spotify.com/track/2486KL0JGMA3VY9cVlGRHv) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM), [Charli Brix](https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8) | [Digital World](https://open.spotify.com/album/0rI8ZkRMVFFOh0u22nDISy) | 5:02 |
 | 6 | [Wicked Man](https://open.spotify.com/track/2wUYAuTYpyImtO7AfCjbT6) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Wicked Man](https://open.spotify.com/album/5izVDkfJltrhQDuDSvwhhQ) | 3:18 |
-| 7 | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Trigga](https://open.spotify.com/artist/117Ngy9A9prluWeHKheHwz), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF) | 2:57 |
+| 7 | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF) | 2:57 |
 | 8 | [Bonesaw](https://open.spotify.com/track/0cumlrgDodkXR7VeIKwWmK) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Bonesaw](https://open.spotify.com/album/0WpOUGGwTkA7R0CcYs5Tcj) | 4:34 |
 | 9 | [Wait for You](https://open.spotify.com/track/349dbUh4GYHnmnubRwWsVJ) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM), [Lorna King](https://open.spotify.com/artist/0uwrXVfgTsoEzyJs4qytIC) | [Digital World](https://open.spotify.com/album/0rI8ZkRMVFFOh0u22nDISy) | 4:38 |
 | 10 | [Say No More \- Visages Remix](https://open.spotify.com/track/5jQ2sMkNSnwZaV59U4EJ9P) | [Charli Brix](https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8), [Phaction](https://open.spotify.com/artist/33CVzI4YFK6YBZsuxjKhHR), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Say No More \(Visages Remix\)](https://open.spotify.com/album/0zmLgwK8ybqDZaR6AUyYTc) | 5:18 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 | 53 | [Down 4](https://open.spotify.com/track/4wdqjXxcM5sis1fv4ureKR) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Down 4](https://open.spotify.com/album/2FTh5EtCIuyrXX3pjzCOcd) | 2:18 |
 | 54 | [I Don't Care Wot U Say](https://open.spotify.com/track/2UrS8i3MWFFRcxVoTX835R) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Shelflife 8](https://open.spotify.com/album/5Dmlbeex41aQxfSKKMVHn3) | 5:36 |
 
-Snapshot ID: `MCwyZTYyY2IzMGJmNjA4OTVkYTZjZjYzNmQ0MzMzN2FjODEzNzEyNTM1`
+Snapshot ID: `MCw2MzM1YzE5ZDczOTQxNjgxMzNhYzk3MTc3MzhjYzczNzdjNjVmMmI0`

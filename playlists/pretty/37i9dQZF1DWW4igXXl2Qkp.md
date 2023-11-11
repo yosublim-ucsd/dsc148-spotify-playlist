@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:4bOqkIGQCcuZgjfDxNuX1I">Anycia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,492 likes - 75 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,546 likes - 75 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 37 | [Sweet Poison](https://open.spotify.com/track/26QXPBJ3ipnBq7nCf3UUpY) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Sweet Poison](https://open.spotify.com/album/2737suumeBXFI19vyzrPHg) | 3:08 |
 | 38 | [a kid with an atlas](https://open.spotify.com/track/2b39QH4RWNSU7UHVMJEdrR) | [AKINYEMI](https://open.spotify.com/artist/6B4zXBfxCQ7ztcBfkNngsH) | [a kid with an atlas](https://open.spotify.com/album/0GURatf8oBoGaLIkbnwzZd) | 2:32 |
 | 39 | [matcha](https://open.spotify.com/track/1SEoIPEYkjzMsz9d9HxAhr) | [Jelani Imani](https://open.spotify.com/artist/1sw7TGYqyXeem3njQQQFBM) | [YES!](https://open.spotify.com/album/0iQkWd6YzQf0kYkdD8eE3H) | 2:00 |
-| 40 | [Set The Tone](https://open.spotify.com/track/6ymnmbGOS5yi8EcwGS97HC) | [The Real Meladee](https://open.spotify.com/artist/5QgAjPJ1resFH43bMepkZT) | [Set The Tone](https://open.spotify.com/album/4nkBdox5tbf2DtxEHJl9S4) | 2:54 |
+| 40 | [Set The Tone](https://open.spotify.com/track/4tgz3gJDuJEFsxySqaGkxI) | [The Real Meladee](https://open.spotify.com/artist/5QgAjPJ1resFH43bMepkZT) | [Set The Tone](https://open.spotify.com/album/6azejJSa9k44nrbERWng88) | 2:54 |
 | 41 | [UH HUH](https://open.spotify.com/track/0t4DzDuSm0zorMX2TQXimW) | [Mudrigo](https://open.spotify.com/artist/301jinGFu9ZVQZTPXMwRoM) | [UH HUH](https://open.spotify.com/album/6YN9F3UhYbxS5rqTC3TXAE) | 1:50 |
 | 42 | [DID I CALL AT A BAD TIME? \(feat\. Rizz Capolatti\)](https://open.spotify.com/track/3XLr6m4UKfusVcxURYdqTZ) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT), [Rizz Capolatti](https://open.spotify.com/artist/78bSQbQwJ5IHNCqDrILTGj) | [DID I CALL AT A BAD TIME? \(feat\. Rizz Capolatti\)](https://open.spotify.com/album/39sbILILleUcTiBVZjnX3Q) | 1:39 |
 | 43 | [Where Ya From?](https://open.spotify.com/track/5HYfjpGQJ9mG6G9dbmzMUH) | [Kidz At Play](https://open.spotify.com/artist/6LTpn4XRYKW0REwHW8002S) | [Where Ya From?](https://open.spotify.com/album/1YSlI5mYvsEelopJSHc8Cf) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [I'm Bach \(Feelin' like yak\)](https://open.spotify.com/track/7lwyaNYc0IU5XVr8LxRzAX) | [PM FRVR](https://open.spotify.com/artist/4SmRyrJ26FTrDKG2OwDr3X) | [I'm Bach \(Feelin' like yak\)](https://open.spotify.com/album/1Kn4A42jYU9a2cs0XIOhPP) | 2:29 |
 | 75 | [Don't Leave](https://open.spotify.com/track/7gWmkKmJsc7grlV4O0vc1Z) | [OGB](https://open.spotify.com/artist/3Ieo5BgLFmKRcwRV5UZ7rK) | [Self Control](https://open.spotify.com/album/0ONIArUMnYDBaZwBTfH1CH) | 2:11 |
 
-Snapshot ID: `MCwwOGUzMmNiYTU2YzNlNDM1ODExNDRkOTE2MTE0ZmM0Y2I3Y2FkZTZh`
+Snapshot ID: `MCw4MGI1YTA1NzIzMjJmMzJkNWIyYzNmODVhYmI3ZGExMmU1NjQyNDcz`

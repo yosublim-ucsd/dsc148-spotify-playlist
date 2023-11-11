@@ -1,13 +1,29 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Dove Cameron",
-  "num_followers": 393795,
+  "description": "Dark, hard hitting pop. Cover: Mad Tsai",
+  "num_followers": 393857,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzk5NGNkNDJmNjhkMjZkNWZhMzE5NDk1Zjc1MjVjMDFjOTFkYWJm",
+  "snapshot_id": "MCxkM2RmNDhjMzRlOWY2YjM2OGNhY2U3NDQ3OTY0OTNmNzBmZDhiZGZm",
   "tracks": [
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "boys beware",
+        "url": "https://open.spotify.com/album/6MFaXFiSwULcA42Zv7FMuW"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 133887,
+      "name": "boys beware",
+      "url": "https://open.spotify.com/track/799zCg04fIPgcbmplT3ecQ"
+    },
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L"
     },
     {
-      "added_at": "2023-10-20 04:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Grim Reaper",
-        "url": "https://open.spotify.com/album/0lCbxop4nU0dSKUdZ0rQ5Y"
+        "name": "Better On Mute",
+        "url": "https://open.spotify.com/album/11cXlTcVE4u0BTEm6YID09"
       },
       "artists": [
         {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
         }
       ],
-      "duration_ms": 170322,
-      "name": "Grim Reaper",
-      "url": "https://open.spotify.com/track/1TWC0DUf4xXC2QqpBovlws"
+      "duration_ms": 157782,
+      "name": "Better On Mute",
+      "url": "https://open.spotify.com/track/4PUoS8YRJCKdG76cYjbdpL"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -57,6 +73,70 @@
       "url": "https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "little miss misogyny",
+        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
+      },
+      "artists": [
+        {
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+        }
+      ],
+      "duration_ms": 147205,
+      "name": "little miss misogyny",
+      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "SPILT MILK",
+        "url": "https://open.spotify.com/album/7bjMUmI8UUbAMWUIW0GCkk"
+      },
+      "artists": [
+        {
+          "name": "KiNG MALA",
+          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "i only smoke to feel bad",
+      "url": "https://open.spotify.com/track/5gtAq2cTH1MpT2Ek8zv7mt"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "SEX MACHINA",
+        "url": "https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 129397,
+      "name": "SEX MACHINA",
+      "url": "https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "OPPOSITE DAY",
+        "url": "https://open.spotify.com/album/71Prwf90wNmOQoWJc3w5QR"
+      },
+      "artists": [
+        {
+          "name": "Jades Goudreault",
+          "url": "https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN"
+        }
+      ],
+      "duration_ms": 132283,
+      "name": "OPPOSITE DAY",
+      "url": "https://open.spotify.com/track/10B1APcee1P6DJqO15nA70"
+    },
+    {
       "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Red Flag",
@@ -73,6 +153,22 @@
       "url": "https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/5P3vj5MI6yS0FzFo9QomFb"
+      },
+      "artists": [
+        {
+          "name": "Andi",
+          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
+        }
+      ],
+      "duration_ms": 178382,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/2MZfkqDwZdK3nD0YJtJ9Fp"
+    },
+    {
       "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "CCTV",
@@ -87,6 +183,58 @@
       "duration_ms": 161171,
       "name": "Bite Marks",
       "url": "https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia"
+    },
+    {
+      "added_at": "2023-11-10 05:34:58",
+      "album": {
+        "name": "Erupt (ft. AViVA)",
+        "url": "https://open.spotify.com/album/3TH9ULOKAb15buW9MIHPN6"
+      },
+      "artists": [
+        {
+          "name": "Stileto",
+          "url": "https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i"
+        },
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Erupt (ft. AViVA)",
+      "url": "https://open.spotify.com/track/71jmcCezag5sUPPMLpD2Mh"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/6mwWQJgPfc49JAeOXDOgy9"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "VILLAIN",
+      "url": "https://open.spotify.com/track/5Y7xJHElBKXnsKQvFtTZLb"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Baby Teeth",
+        "url": "https://open.spotify.com/album/71irsFKcf0lvzG4DO2jDUL"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "duration_ms": 139773,
+      "name": "Pink Noise",
+      "url": "https://open.spotify.com/track/79SnA3wt0c7znm70kwRxEm"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -119,6 +267,38 @@
       "duration_ms": 137003,
       "name": "NO HANDS (SIDE A)",
       "url": "https://open.spotify.com/track/322B6Not1OsMLCCxHg6sZl"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Mirror, Mirror",
+        "url": "https://open.spotify.com/album/1sifnBb5fKCS0o4fD9LCDg"
+      },
+      "artists": [
+        {
+          "name": "Abigail Barlow",
+          "url": "https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu"
+        }
+      ],
+      "duration_ms": 114339,
+      "name": "Mirror, Mirror",
+      "url": "https://open.spotify.com/track/1HYIkeqybKZM2QrkOBQcML"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Grim Reaper",
+        "url": "https://open.spotify.com/album/0lCbxop4nU0dSKUdZ0rQ5Y"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Grim Reaper",
+      "url": "https://open.spotify.com/track/1TWC0DUf4xXC2QqpBovlws"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -173,38 +353,6 @@
       "url": "https://open.spotify.com/track/2YWQGk9zzkAkGXmjP027db"
     },
     {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "VILLAIN",
-        "url": "https://open.spotify.com/album/6mwWQJgPfc49JAeOXDOgy9"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "VILLAIN",
-      "url": "https://open.spotify.com/track/5Y7xJHElBKXnsKQvFtTZLb"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "i should call my friends",
-        "url": "https://open.spotify.com/album/7qYCSuZ6kdIid6QrhuLAYe"
-      },
-      "artists": [
-        {
-          "name": "Hey Violet",
-          "url": "https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am"
-        }
-      ],
-      "duration_ms": 159981,
-      "name": "i should call my friends",
-      "url": "https://open.spotify.com/track/7u0JipKqt3pIxbvgjOqd4R"
-    },
-    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "Midnights",
@@ -253,22 +401,6 @@
       "url": "https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b"
     },
     {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Now That I've Been Honest",
-        "url": "https://open.spotify.com/album/1XVQCnrnScVpeirmTCOZHz"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "Bedroom",
-      "url": "https://open.spotify.com/track/7fnICPO0s3jcQ049Yk0EmV"
-    },
-    {
       "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "WEIRDO",
@@ -283,22 +415,6 @@
       "duration_ms": 150558,
       "name": "WEIRDO",
       "url": "https://open.spotify.com/track/4q0l0eybNVn3ae13cj4OBw"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "bug",
-        "url": "https://open.spotify.com/album/7v6BsEI6lQeLqzGXsI4Wjs"
-      },
-      "artists": [
-        {
-          "name": "KiNG MALA",
-          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
-        }
-      ],
-      "duration_ms": 143611,
-      "name": "bug",
-      "url": "https://open.spotify.com/track/5eG7N74vstGSTCr1NsJHkU"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -395,38 +511,6 @@
       "duration_ms": 100128,
       "name": "Unsubstantial",
       "url": "https://open.spotify.com/track/7u9gUIq2jVEnIgUXAVXnBb"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Fanfare",
-        "url": "https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv"
-      },
-      "artists": [
-        {
-          "name": "Dorian Electra",
-          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
-        }
-      ],
-      "duration_ms": 145414,
-      "name": "Idolize",
-      "url": "https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "f.u.n!",
-        "url": "https://open.spotify.com/album/47BYh86KOmBvNfFmjsHpVh"
-      },
-      "artists": [
-        {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        }
-      ],
-      "duration_ms": 154426,
-      "name": "f.u.n!",
-      "url": "https://open.spotify.com/track/28IiEPTbV34Y9rFUsKekOC"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -559,38 +643,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "RAT",
-        "url": "https://open.spotify.com/album/60gp59djqb5KOfCxWytU7o"
-      },
-      "artists": [
-        {
-          "name": "Sizzy Rocket",
-          "url": "https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Puppy Luv <3",
-      "url": "https://open.spotify.com/track/1U2WEn5UmD3si27l6XO5WI"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "To The Bank",
-        "url": "https://open.spotify.com/album/21MKeEtRDAKYVLlTJW5NOb"
-      },
-      "artists": [
-        {
-          "name": "Morgan St. Jean",
-          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
-        }
-      ],
-      "duration_ms": 162039,
-      "name": "To The Bank",
-      "url": "https://open.spotify.com/track/09Dw0K3RIvQR5bmrbQZIzr"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "SAINT",
         "url": "https://open.spotify.com/album/1r41TREkXcOeKfFbDhwUsU"
       },
@@ -659,26 +711,6 @@
       "duration_ms": 137065,
       "name": "Other Boys",
       "url": "https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Yours (feat. Bea Miller)",
-        "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 177188,
-      "name": "Yours (feat. Bea Miller)",
-      "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1131,22 +1163,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "LOOK AT ME RIGHT NOW",
-        "url": "https://open.spotify.com/album/2nJ18bOFgFIwKOkNryaJrn"
-      },
-      "artists": [
-        {
-          "name": "GRANT KNOCHE",
-          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
-        }
-      ],
-      "duration_ms": 128358,
-      "name": "LOOK AT ME RIGHT NOW",
-      "url": "https://open.spotify.com/track/74b8ZwgaV6wEokRZt8eWkG"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Super Over",
         "url": "https://open.spotify.com/album/3J03smHGuMPGEReWWUEQnq"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 167728,
       "name": "Pretty Little Addict",
       "url": "https://open.spotify.com/track/0VR2zv4RlSUM9zUZukTaCG"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "i should\u2019ve fucked your brother",
-        "url": "https://open.spotify.com/album/2gJ0I8ch7Jq8vSa1tt8A7U"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 195482,
-      "name": "i should\u2019ve fucked your brother",
-      "url": "https://open.spotify.com/track/03moFmOsgmGXeioNYAoRf1"
     },
     {
       "added_at": "2023-10-06 04:00:00",

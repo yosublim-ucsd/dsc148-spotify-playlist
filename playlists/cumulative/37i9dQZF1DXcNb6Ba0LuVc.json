@@ -616,7 +616,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 133012,
       "name": "Beneteau",
       "url": "https://open.spotify.com/track/3A4xiikel0UUzUKFo54Lkw"
@@ -2320,7 +2320,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 133734,
       "name": "Fountain of Youth",
       "url": "https://open.spotify.com/track/6qV7mgZJ93bfPlECJ8cp8j"
@@ -3138,6 +3138,24 @@
       "duration_ms": 117812,
       "name": "Honey BBQ",
       "url": "https://open.spotify.com/track/3gwrmMNE03XPOGf8PikAjX"
+    },
+    {
+      "album": {
+        "name": "horizon",
+        "url": "https://open.spotify.com/album/4pKK2fHHHVfNH9cWcMn4Cz"
+      },
+      "artists": [
+        {
+          "name": "Lunar Lullaby & yorukaze",
+          "url": "https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "horizon",
+      "url": "https://open.spotify.com/track/6Cg95Z9BbsoylM4DKPF0qu"
     },
     {
       "album": {
@@ -5016,7 +5034,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 105000,
       "name": "Naru",
       "url": "https://open.spotify.com/track/3s9p5XqMCrTuUmTkVNNacS"
@@ -6498,7 +6516,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 142588,
       "name": "Set the Sky on Fire",
       "url": "https://open.spotify.com/track/3jZ6PpHPQuON6Bt2PYl7Vs"
@@ -7933,6 +7951,24 @@
     },
     {
       "album": {
+        "name": "touching grass",
+        "url": "https://open.spotify.com/album/1y27f6XuRQ9oVznatwkukz"
+      },
+      "artists": [
+        {
+          "name": "Sorai",
+          "url": "https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "touching grass",
+      "url": "https://open.spotify.com/track/22vdcp24KUkLemk06PCpIP"
+    },
+    {
+      "album": {
         "name": "High Jazz",
         "url": "https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj"
       },
@@ -8633,6 +8669,24 @@
     },
     {
       "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/4cnTvUTgOTDIbiLh4eBwxK"
+      },
+      "artists": [
+        {
+          "name": "Carlile G.",
+          "url": "https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154087,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/1X6Y4v1seN9P8uUj2VAwMr"
+    },
+    {
+      "album": {
         "name": "What R U Takin'",
         "url": "https://open.spotify.com/album/7MgGdtl8r5vwW2gBrBIWNg"
       },
@@ -8692,6 +8746,24 @@
       "duration_ms": 130182,
       "name": "Whiskey Jazz",
       "url": "https://open.spotify.com/track/2sig8mxmjeVn3MUPn6NeAC"
+    },
+    {
+      "album": {
+        "name": "Winding Heart Strings",
+        "url": "https://open.spotify.com/album/2axNdMLjeB0xgTxu6WAOaS"
+      },
+      "artists": [
+        {
+          "name": "Arlos",
+          "url": "https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224750,
+      "name": "Winding Heart Strings",
+      "url": "https://open.spotify.com/track/4gEpB17YYmSOiSzqlkrMRW"
     },
     {
       "album": {

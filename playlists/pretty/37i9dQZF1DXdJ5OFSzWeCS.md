@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJ5OFSzWeCS.md) - [plain]
 
 > Soft music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,718 likes - 328 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,680 likes - 328 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -287,7 +287,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJ5OFSzWeCS.md) - [plain]
 | 277 | [If all the stars](https://open.spotify.com/track/0GBs2JDRjfTRYrrc9Uz2d5) | [Hyrum Spears](https://open.spotify.com/artist/2YGxKYE79CxjJ5sZXbneNl) | [If all the stars](https://open.spotify.com/album/5tadPKvNz2LHrL2ZeUVDVd) | 1:45 |
 | 278 | [The road to the land far away](https://open.spotify.com/track/6MiBxeDrfBVisDUsCYJJR4) | [Monty Monte](https://open.spotify.com/artist/1EIGA4peNLm3OyRlYVGZMi) | [The road to the land far away](https://open.spotify.com/album/2BSg6JOTbWYnhPgwsyl7de) | 1:34 |
 | 279 | [Nine Long Months](https://open.spotify.com/track/60gFtCUUH6lbHd3RkMkGzq) | [Travis Marcelo](https://open.spotify.com/artist/7eUTZOzfHgHAJWV78ojFlu) | [Nine Long Months](https://open.spotify.com/album/5crraVkoVvMTgjRhb34gF4) | 2:08 |
-| 280 | [Even When You're Nowhere Near](https://open.spotify.com/track/5nW5gpjCTCDhFTNVrvR5A8) | [Blanca Trembley](https://open.spotify.com/artist/3R5JvEGU9UdYN8uZkMjpgv) | [Even When You're Nowhere Near](https://open.spotify.com/album/1bfl1VMbr6AkHZMAnchW6N) | 2:01 |
+| 280 | [Even When You're Nowhere Near](https://open.spotify.com/track/5nW5gpjCTCDhFTNVrvR5A8) | [Alexandrie Giguère](https://open.spotify.com/artist/6v3qBiSqMtyHBXHB5kUYuU) | [Even When You're Nowhere Near](https://open.spotify.com/album/1bfl1VMbr6AkHZMAnchW6N) | 2:01 |
 | 281 | [Walking in her sleep](https://open.spotify.com/track/2M6kPfglOgGjNJUW6BEd0r) | [April Pascarella](https://open.spotify.com/artist/2mmALxXVjePgMEhi1rDZTG) | [Walking in her sleep](https://open.spotify.com/album/4t6nTy9ahfU0EKcqdfUsfj) | 1:40 |
 | 282 | [The cow that said meow](https://open.spotify.com/track/0oPgnwud6edTc7khmm93pa) | [Wiktoria Bogan](https://open.spotify.com/artist/42UDhH9oqDNTdKwdgpQXfu) | [The cow that said meow](https://open.spotify.com/album/77vdRF8BaHNuJxFxxpf0RM) | 1:44 |
 | 283 | [Puffy the Penguin](https://open.spotify.com/track/7hxP5fMSUovpSgKJs76wVp) | [Jessica Foley](https://open.spotify.com/artist/3OHqjKHD5eVwaEN9GcubO2) | [A Simple Routine](https://open.spotify.com/album/1DtCwARoHEBjakIyGZsBJ8) | 1:54 |
@@ -337,4 +337,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJ5OFSzWeCS.md) - [plain]
 | 327 | [Here and Now](https://open.spotify.com/track/37OI6ky8R9ZjEBnr77tIai) | [Bobbi Rafferty](https://open.spotify.com/artist/0m9pUjmNedBWPtNVf0ZVlt) | [Here and Now](https://open.spotify.com/album/0DuLIM02jLW7ZbpKNK6MJU) | 1:31 |
 | 328 | [A House on the Prairie](https://open.spotify.com/track/6SUPb5K4YYTOh6lKZy7d3O) | [Aunt Blobbie](https://open.spotify.com/artist/2g8ovdFnmZtNUgFD2QPhKl) | [A House on the Prairie](https://open.spotify.com/album/5IArAGIFsrehlYU25extAI) | 1:45 |
 
-Snapshot ID: `MCxlYzY2ZDQyNTg4MDcyNmFiZTdmNzI5NzEyNjhjMTdhMDNiYzA1ODAx`
+Snapshot ID: `MCxiZjI3NjBmZmZmOTZlMTk0Y2JmNWIzMzEyMGRlNDQyMWUwMmFjZWY2`

@@ -4,14 +4,14 @@
 
 > Ambient with the sound of waves for a blissful meditation.
 
-79 songs - 3 hr 52 min
+80 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Above the Clouds](https://open.spotify.com/track/1YNREOM2arPOMzVX9CJZx5) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Above the Clouds](https://open.spotify.com/album/1TugxFZJMiKgRBXM0aOfRT) | 2:55 | 2023-05-22 |  |
 | [Adrift](https://open.spotify.com/track/57hiSUzsN2wvEkVoNLItUf) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Adrift](https://open.spotify.com/album/7JLMbBSZYkNpc5Z3IWoVB8) | 3:04 | 2023-04-28 |  |
 | [Arumbayan Sunset](https://open.spotify.com/track/1mdHTL53B53jmBvsvZ3Ag8) | [Peaceful Earth](https://open.spotify.com/artist/0VG3jBtRm8GbFcIU7M4M7m) | [Arumbayan Sunset](https://open.spotify.com/album/7hjemo45fVAZ4hXBr70yrr) | 2:50 | 2023-04-28 |  |
-| [Back To Ānanda](https://open.spotify.com/track/0pPemONNuO092uYecbYYlm) | [Amaia Bescós](https://open.spotify.com/artist/0h9O8A9Z4u2sSj79DxyjKx) | [Back To Ānanda](https://open.spotify.com/album/0uw4IwjLfPw8FR7MXjRyoV) | 3:00 | 2023-04-28 |  |
+| [Back To Ānanda](https://open.spotify.com/track/0pPemONNuO092uYecbYYlm) | [Amaia Bescós](https://open.spotify.com/artist/0h9O8A9Z4u2sSj79DxyjKx) | [Back To Ānanda](https://open.spotify.com/album/0uw4IwjLfPw8FR7MXjRyoV) | 3:00 | 2023-04-28 | 2023-11-11 |
 | [Beach House](https://open.spotify.com/track/185rHhcOJAVKvWwrBFp7PZ) | [Mochas](https://open.spotify.com/artist/4GimdSN8NMDW7LYdSHtjIH) | [Beach House](https://open.spotify.com/album/2BgBRAo5RrWqn6NveIiE7A) | 3:11 | 2023-04-28 |  |
 | [Birth](https://open.spotify.com/track/2qsYiqyOLtFpfRTMi2QmUT) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Birth](https://open.spotify.com/album/03Z66Ih9w9ETATH78lQKsQ) | 3:21 | 2023-04-28 |  |
 | [Brionglóid \(Sound Bath\)](https://open.spotify.com/track/6Kvv8jjMQzOROquokHQ2FF) | [Tamila Gagan](https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k) | [Brionglóid \(Sound Bath\)](https://open.spotify.com/album/59lt6zR15MfN9LUnMpTD1Y) | 2:45 | 2023-05-26 |  |
@@ -21,6 +21,7 @@
 | [Calm Waters](https://open.spotify.com/track/7C4MGx7vjDNQeSJT4mZvLx) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 2:35 | 2023-04-28 |  |
 | [Calming Seas](https://open.spotify.com/track/4fMwSkpBaG61fufc3eaRSq) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 3:23 | 2023-09-08 |  |
 | [Calming Seashore](https://open.spotify.com/track/4msQl50RTvdYVaak2Z99Fc) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:42 | 2023-04-28 |  |
+| [Calming Waves](https://open.spotify.com/track/1juGuaPbXZrGTv5STnGhe8) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Calming Waves](https://open.spotify.com/album/1muQ4KYKwVkspZ6b78Ah2s) | 2:28 | 2023-11-10 |  |
 | [Chao Phraya](https://open.spotify.com/track/3x2joKTEP8I0uSfl9MFjJC) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Chao Phraya](https://open.spotify.com/album/46KHRsTPjqj6N5QJA35JPO) | 2:52 | 2023-10-02 |  |
 | [Charge Water](https://open.spotify.com/track/50KuU9dq4YsVH8ywhNOUII) | [Alaysia Young](https://open.spotify.com/artist/6qXIYhX6kENOfRZXxw5aLr) | [Charge Water](https://open.spotify.com/album/63psvMAMKlVELuGaNNHyvI) | 3:19 | 2023-04-28 |  |
 | [Deep Cove](https://open.spotify.com/track/24UKwKhTpYoFYD5p6VHDEi) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 2:41 | 2023-09-08 |  |

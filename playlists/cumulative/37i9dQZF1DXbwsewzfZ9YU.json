@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "open the pit. cover: Soul Glo",
+  "description": "open the pit. cover: Scowl",
   "name": "the Breakdown",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 132214,
       "name": "All",
       "url": "https://open.spotify.com/track/0iwZ8jCa5YuNLnKQdYSS07"
@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Tales From The Slab",
+        "url": "https://open.spotify.com/album/6VLjXgKcujZ94UmJjGe2Kk"
+      },
+      "artists": [
+        {
+          "name": "Stiff Meds",
+          "url": "https://open.spotify.com/artist/3PhagxMa2SO23Bq9GvXw8S"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60924,
+      "name": "Born For Violence",
+      "url": "https://open.spotify.com/track/3N5ag5IoCn3ZOawLtF3gmB"
+    },
+    {
+      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/1HFUXm75EX6cap0pOiSyYJ"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 140640,
       "name": "Ctrl+C",
       "url": "https://open.spotify.com/track/1jTxqpySVTE0xT4r4DKC7O"
@@ -596,7 +614,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 140000,
       "name": "Deneyer Maker",
       "url": "https://open.spotify.com/track/6eOk1TWv4WjZHcCogAhBhw"
@@ -747,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Severance",
+        "url": "https://open.spotify.com/album/7x7A9ppDKbtuLRVOC0CSAY"
+      },
+      "artists": [
+        {
+          "name": "Guilt Trip",
+          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177062,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/0bBPFGHqMcZrb9v65cJlgF"
+    },
+    {
+      "album": {
         "name": "Summer's Beginning",
         "url": "https://open.spotify.com/album/2M57YSJkwamEC8yM3r1Wmm"
       },
@@ -801,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Famine",
+        "url": "https://open.spotify.com/album/3d8dwL3KjNSfhduDaVCObn"
+      },
+      "artists": [
+        {
+          "name": "Paint It Black",
+          "url": "https://open.spotify.com/artist/7GtvuoYRvRQbBnvgu9VS11"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112706,
+      "name": "Famine",
+      "url": "https://open.spotify.com/track/4X8jREuc6luiF7HeCdDHes"
+    },
+    {
+      "album": {
         "name": "Cerebral Circus",
         "url": "https://open.spotify.com/album/1UIGmyBWoI4jeDdO4hHSss"
       },
@@ -834,6 +888,24 @@
       "duration_ms": 151145,
       "name": "Forever Soldiers Of Esther",
       "url": "https://open.spotify.com/track/6SYCJfd95tiL1xiCz3IFYf"
+    },
+    {
+      "album": {
+        "name": "Forgot To Grow",
+        "url": "https://open.spotify.com/album/0QP79EOlImpXgzioV8GdeX"
+      },
+      "artists": [
+        {
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192463,
+      "name": "Forgot To Grow",
+      "url": "https://open.spotify.com/track/6paoS9bgvq5NQVrljedfFm"
     },
     {
       "album": {
@@ -978,6 +1050,24 @@
       "duration_ms": 131146,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/2Q7UuiaUcZPIa3WpRTh8nv"
+    },
+    {
+      "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/5nOj9wbbrVwrNCAwue9PTf"
+      },
+      "artists": [
+        {
+          "name": "Year of the Knife",
+          "url": "https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "Heaven Denied",
+      "url": "https://open.spotify.com/track/0tzAYdADi52xlYxAjA0uiy"
     },
     {
       "album": {
@@ -1638,7 +1728,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 132341,
       "name": "Out Of The Picture",
       "url": "https://open.spotify.com/track/5FMNruOhLrl7qMlmSZw96U"
@@ -1782,7 +1872,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 146216,
       "name": "Pretty Low",
       "url": "https://open.spotify.com/track/1hXSR6c8azfILRB5LSYmfW"
@@ -1926,10 +2016,32 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 144000,
       "name": "Run You Out",
       "url": "https://open.spotify.com/track/48moUW0Vxdov1v4fA6gfKU"
+    },
+    {
+      "album": {
+        "name": "Who Wants to Die Tonight?",
+        "url": "https://open.spotify.com/album/0hGt0SPLp3bF7HNcQcu3MF"
+      },
+      "artists": [
+        {
+          "name": "Last Gasp",
+          "url": "https://open.spotify.com/artist/0CAPzuyQdCsgOemfeAWmMK"
+        },
+        {
+          "name": "The Spudmonsters",
+          "url": "https://open.spotify.com/artist/691xdXnx3KlkIRUi4CQ2GY"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93220,
+      "name": "Seizure The Day",
+      "url": "https://open.spotify.com/track/1J2qs0fVkDgnqncjJPw0LH"
     },
     {
       "album": {
@@ -2092,6 +2204,24 @@
       "duration_ms": 75861,
       "name": "Squeeze",
       "url": "https://open.spotify.com/track/12o45aFJK74xn4SiaIeeLU"
+    },
+    {
+      "album": {
+        "name": "Feel It All Wash Away",
+        "url": "https://open.spotify.com/album/1KKKwoAuiAaKnvPoQ40A3o"
+      },
+      "artists": [
+        {
+          "name": "Squint",
+          "url": "https://open.spotify.com/artist/3rSZhCBS6SLmBFzpPxvhr5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41111,
+      "name": "Squintro",
+      "url": "https://open.spotify.com/track/2QHV45Y0JnbiHAttqoefHC"
     },
     {
       "album": {
@@ -2340,10 +2470,28 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 231030,
       "name": "Theory of Mind",
       "url": "https://open.spotify.com/track/2Xi6LZpHWcMHIV6ISd3cHU"
+    },
+    {
+      "album": {
+        "name": "Theory of Mind",
+        "url": "https://open.spotify.com/album/69PgcqKUBX9fdJuPIg281R"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231030,
+      "name": "Theory of Mind",
+      "url": "https://open.spotify.com/track/5rhGZ9qe7qmLFWwW313hnk"
     },
     {
       "album": {
@@ -2387,6 +2535,24 @@
     },
     {
       "album": {
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/0V6pjsjhW4XG6KA0ZCG1c4"
+      },
+      "artists": [
+        {
+          "name": "Mil-Spec",
+          "url": "https://open.spotify.com/artist/5iWmisoEhjZGn4QYLRqzuy"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213992,
+      "name": "Too Long At The Fair",
+      "url": "https://open.spotify.com/track/17cmiHNM4gjLxm8ebIFjOF"
+    },
+    {
+      "album": {
         "name": "Torn From Your Silhouette",
         "url": "https://open.spotify.com/album/5mTEPe5O2xBhkGJpDalRx4"
       },
@@ -2398,7 +2564,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 146079,
       "name": "Torn From Your Silhouette",
       "url": "https://open.spotify.com/track/1zLdk7jMOHh3QQkC9GrW5L"
@@ -2434,7 +2600,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 278306,
       "name": "Trauma Bonds",
       "url": "https://open.spotify.com/track/1wT90Y3nYuDhTjytAfO6Cx"
@@ -2664,7 +2830,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 98222,
       "name": "Waste Not Want Not",
       "url": "https://open.spotify.com/track/1RdagyPuSdu3ANLGWRWIxi"
@@ -2754,7 +2920,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 174213,
       "name": "Whispers of Your Death",
       "url": "https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8"
@@ -2844,7 +3010,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 74176,
       "name": "Year of the Guillotine",
       "url": "https://open.spotify.com/track/1KGCcGF0oE7u3UCU4ZvlXQ"

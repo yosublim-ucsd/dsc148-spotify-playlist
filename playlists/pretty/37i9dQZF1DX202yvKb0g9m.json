@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 106741,
+  "num_followers": 106806,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGE0M2Q1ZmViMmM0OGYwOWQ5NzA2OWE3MWJjNDk2NjhkMTQwY2Y3",
+  "snapshot_id": "MCwzMGI1ZDE1ODE1OWI5YTA0ZDFmMjMwODFiMzZlMWEwNzQyOTc5OTll",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -239,6 +239,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Higher State of Consciousness",
+        "url": "https://open.spotify.com/album/4DMsPDskkWhCfALt696an6"
+      },
+      "artists": [
+        {
+          "name": "Josh Wink",
+          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
+        }
+      ],
+      "duration_ms": 377960,
+      "name": "Higher State of Consciousness (Tweekin Acid Funk)",
+      "url": "https://open.spotify.com/track/6cJ3yBgG1VzRpf4xrKsfB8"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "TB Resucitation",
         "url": "https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 326920,
       "name": "Bassline",
       "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Higher State of Consciousness",
-        "url": "https://open.spotify.com/album/4DMsPDskkWhCfALt696an6"
-      },
-      "artists": [
-        {
-          "name": "Josh Wink",
-          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
-        }
-      ],
-      "duration_ms": 377960,
-      "name": "Higher State of Consciousness (Tweekin Acid Funk)",
-      "url": "https://open.spotify.com/track/6cJ3yBgG1VzRpf4xrKsfB8"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -707,18 +707,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "For Those Who",
-        "url": "https://open.spotify.com/album/2ClfMqAZvuQ8uFH9z5Ac90"
+        "name": "Thank You for Letting Me Be Myself",
+        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
       },
       "artists": [
         {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+          "name": "Omar S",
+          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
         }
       ],
-      "duration_ms": 386070,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP"
+      "duration_ms": 324668,
+      "name": "Ready My Black Asz",
+      "url": "https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -743,18 +743,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Thank You for Letting Me Be Myself",
-        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
+        "name": "For Those Who",
+        "url": "https://open.spotify.com/album/2ClfMqAZvuQ8uFH9z5Ac90"
       },
       "artists": [
         {
-          "name": "Omar S",
-          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
         }
       ],
-      "duration_ms": 324668,
-      "name": "Ready My Black Asz",
-      "url": "https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c"
+      "duration_ms": 386070,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -831,22 +831,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Double Cup",
-        "url": "https://open.spotify.com/album/3pg82GyknT5unwBJdGffYQ"
+        "name": "White Light",
+        "url": "https://open.spotify.com/album/4WYhXrhMUSMsbHtgoKgSCx"
       },
       "artists": [
         {
-          "name": "DJ Rashad",
-          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
-        },
-        {
-          "name": "Addison Groove",
-          "url": "https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr"
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
         }
       ],
-      "duration_ms": 205733,
-      "name": "Acid Bit (feat. Addison Groove)",
-      "url": "https://open.spotify.com/track/42sGvNzcCsaoqSWXjJy8nh"
+      "duration_ms": 345520,
+      "name": "Warsaw (White Light Version)",
+      "url": "https://open.spotify.com/track/2gF5ZsKfoGV8ZevuYAAbou"
     }
   ],
   "unique_name": "303 Classics",

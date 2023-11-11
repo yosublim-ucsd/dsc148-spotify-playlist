@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Jazzy
 
-973 songs - 2 day 7 hr 7 min
+974 songs - 2 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -834,7 +834,8 @@
 | [sustain](https://open.spotify.com/track/3rZZzvzhteACFX0AHE70pY) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [sustain](https://open.spotify.com/album/6kgCCIfkGTrRYS0UUNWfpH) | 3:24 | 2023-10-04 | 2023-11-08 |
 | [Sweat](https://open.spotify.com/track/15bk0mFLfNBeakieKVUCdG) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Sweat](https://open.spotify.com/album/1bYs4drzLq4Kg3S9Nw5Ms8) | 2:16 | 2022-07-06 | 2022-09-07 |
 | [Sweat](https://open.spotify.com/track/7zLEMv50gGBbLfrbSoDLfY) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Lucky Me](https://open.spotify.com/album/5m4HHGSrjzHGf2G6xP7jwl) | 2:16 | 2022-11-30 | 2023-01-06 |
-| [Take You There](https://open.spotify.com/track/6GdY4mLQaUxn8d2JLJMrCO) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Take You There](https://open.spotify.com/album/3Wd4rqQpK9tK7rPmXbMGIF) | 3:43 | 2023-11-08 |  |
+| [Take You There](https://open.spotify.com/track/322CEeh6aukWbZkqJU8lhI) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Take You There](https://open.spotify.com/album/7eyBGIi1aKKeSpEaDJGlWf) | 3:43 | 2023-11-08 |  |
+| [Take You There](https://open.spotify.com/track/6GdY4mLQaUxn8d2JLJMrCO) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Take You There](https://open.spotify.com/album/3Wd4rqQpK9tK7rPmXbMGIF) | 3:43 | 2023-11-08 | 2023-11-11 |
 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 | 2022-04-06 | 2022-05-05 |
 | [Talk Over Town](https://open.spotify.com/track/3aoB09FhpvYOQ1MDj3P0kF) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Sound of the Morning](https://open.spotify.com/album/53urVNKg8j1mZOnB5AQFeY) | 5:52 | 2023-06-06 | 2023-07-05 |
 | [Talk Quiet](https://open.spotify.com/track/7sdWbnUGRzpWJmupEpXJiP) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [AT LEAST WE HAVE THIS](https://open.spotify.com/album/6nnAy3W80YnGUj7t2wf2tr) | 3:20 | 2021-12-08 | 2023-01-06 |

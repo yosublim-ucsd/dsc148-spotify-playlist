@@ -63,6 +63,32 @@
     },
     {
       "album": {
+        "name": "Ballade pour Django",
+        "url": "https://open.spotify.com/album/1R61EzoTcxhCTfSiZrkE5Z"
+      },
+      "artists": [
+        {
+          "name": "Joscho Stephan",
+          "url": "https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG"
+        },
+        {
+          "name": "Sven Jungbeck",
+          "url": "https://open.spotify.com/artist/7zzUbMyOmvQtFCtlekdLoO"
+        },
+        {
+          "name": "Volker Kamp",
+          "url": "https://open.spotify.com/artist/7FvlT1VctBs8JBH0O28jYc"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455125,
+      "name": "Ballade pour Django",
+      "url": "https://open.spotify.com/track/5b07gtahr6UMl53QUBpiqu"
+    },
+    {
+      "album": {
         "name": "Bekledim de gelmedin",
         "url": "https://open.spotify.com/album/0Y2J7JR4uwh6RmyXzJD9An"
       },
@@ -216,7 +242,7 @@
     {
       "album": {
         "name": "Family",
-        "url": "https://open.spotify.com/album/5v7GXGOc7A343BupHvvucS"
+        "url": "https://open.spotify.com/album/1GtvWrpGXg81LZfbJZgtFw"
       },
       "artists": [
         {
@@ -227,6 +253,24 @@
       "date_added": "2021-02-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 151853,
+      "name": "Bleu citron",
+      "url": "https://open.spotify.com/track/2t8WSb4idwrFvgnuFzz7kf"
+    },
+    {
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/5v7GXGOc7A343BupHvvucS"
+      },
+      "artists": [
+        {
+          "name": "Dorado Schmitt",
+          "url": "https://open.spotify.com/artist/7aWOYLUnhaq2h9ZbIHMJbH"
+        }
+      ],
+      "date_added": "2021-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
       "duration_ms": 151853,
       "name": "Bleu Citron",
       "url": "https://open.spotify.com/track/6Vs3qEiLCzmBn40AcAdmz2"
@@ -655,6 +699,24 @@
     },
     {
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/7tY1AorZ64PmB6tCp9OLfl"
+      },
+      "artists": [
+        {
+          "name": "Bir\u00e9li Lagr\u00e8ne Gipsy Project",
+          "url": "https://open.spotify.com/artist/0LrCg8l9Wi1EIqpkW6D3ra"
+        }
+      ],
+      "date_added": "2021-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171706,
+      "name": "Hungaria",
+      "url": "https://open.spotify.com/track/3bS7AcjV8Dn2ulBF9XdZCo"
+    },
+    {
+      "album": {
         "name": "Move (feat. Diego Imbert, Hono Winterstein & Franck Wolf)",
         "url": "https://open.spotify.com/album/6xTr2LFFbiLsPG5h6PFqGD"
       },
@@ -666,7 +728,7 @@
       ],
       "date_added": "2021-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 171706,
       "name": "Hungaria",
       "url": "https://open.spotify.com/track/3VtZ7NOQjp3ISCdUvaQvZQ"
@@ -724,7 +786,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 298792,
       "name": "In A Sentimental Mood - Clair De Lune - Live",
       "url": "https://open.spotify.com/track/2aHCjx6UZv5duyrfICha0w"
@@ -848,7 +910,7 @@
     {
       "album": {
         "name": "Rocky Gresset",
-        "url": "https://open.spotify.com/album/2GKxiifjmMz6xbZU17hBVc"
+        "url": "https://open.spotify.com/album/2N3AYwPGiVmvjDiUBUpKGx"
       },
       "artists": [
         {
@@ -859,6 +921,24 @@
       "date_added": "2021-02-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Just One of Those Things",
+      "url": "https://open.spotify.com/track/2321X6DTnyHj7jXWji4bSj"
+    },
+    {
+      "album": {
+        "name": "Rocky Gresset",
+        "url": "https://open.spotify.com/album/2GKxiifjmMz6xbZU17hBVc"
+      },
+      "artists": [
+        {
+          "name": "Rocky Gresset",
+          "url": "https://open.spotify.com/artist/3LgwMt7NY7ofdnipSHcahX"
+        }
+      ],
+      "date_added": "2021-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
       "duration_ms": 212000,
       "name": "Just One of Those Things",
       "url": "https://open.spotify.com/track/3YLIeMumXKubVSNizqQTEv"
@@ -924,6 +1004,24 @@
     {
       "album": {
         "name": "Gipsy Project & Friends",
+        "url": "https://open.spotify.com/album/15nkNdrzGxHIimtDuv38RE"
+      },
+      "artists": [
+        {
+          "name": "Bir\u00e9li Lagr\u00e8ne Gipsy Project",
+          "url": "https://open.spotify.com/artist/0LrCg8l9Wi1EIqpkW6D3ra"
+        }
+      ],
+      "date_added": "2021-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174200,
+      "name": "Les yeux noirs",
+      "url": "https://open.spotify.com/track/1f4uY5tp4llGfaQ60fgTfK"
+    },
+    {
+      "album": {
+        "name": "Gipsy Project & Friends",
         "url": "https://open.spotify.com/album/0uFPGWD4JINjSE2YXIeImp"
       },
       "artists": [
@@ -934,7 +1032,7 @@
       ],
       "date_added": "2021-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 174200,
       "name": "Les yeux noirs",
       "url": "https://open.spotify.com/track/4zyLLj3YJcsVljQ2BWlLRn"
@@ -956,7 +1054,7 @@
       ],
       "date_added": "2021-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 270293,
       "name": "Letter to Vincent Van Gogh",
       "url": "https://open.spotify.com/track/7G8yhucnkv5jyBlscBOn9f"
@@ -978,7 +1076,7 @@
       ],
       "date_added": "2021-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 270293,
       "name": "Letter To Vincent Van Gogh",
       "url": "https://open.spotify.com/track/7xdKz4261BWHmuqTwFBoxm"
@@ -1586,7 +1684,7 @@
     {
       "album": {
         "name": "Summertime",
-        "url": "https://open.spotify.com/album/3YSRvMEnhwmDPCzy9wFysG"
+        "url": "https://open.spotify.com/album/6ZVuKtdf4KZ5E7y4bEHHgS"
       },
       "artists": [
         {
@@ -1601,6 +1699,28 @@
       "date_added": "2021-02-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 247893,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/2Cf9AjgU72jcQdb1xQAksE"
+    },
+    {
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/3YSRvMEnhwmDPCzy9wFysG"
+      },
+      "artists": [
+        {
+          "name": "Bir\u00e9li Lagr\u00e8ne",
+          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
+        },
+        {
+          "name": "Sylvain Luc",
+          "url": "https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF"
+        }
+      ],
+      "date_added": "2021-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
       "duration_ms": 247893,
       "name": "So What",
       "url": "https://open.spotify.com/track/7c8IwsVo5x0h4slsVwpZEQ"

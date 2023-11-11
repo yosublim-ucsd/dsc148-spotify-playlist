@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 ### [Portal](https://open.spotify.com/playlist/37i9dQZF1DWZaNRXtvIrDt)
 
-> a new world of alternative electronic music\. Cover: RONA.
+> a new world of alternative electronic music\. Cover: Chaos In The CBD
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,624 likes - 85 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,639 likes - 85 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 24 | [Clapa](https://open.spotify.com/track/4qoOy1JM2jsd6l1vs8DRuq) | [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV) | [Speicher 129 / Clapa](https://open.spotify.com/album/0UAnsoBrHzm0CCHIpOEWMe) | 6:58 |
 | 25 | [gr etiquette](https://open.spotify.com/track/44pX2G3zFb5rvsqy6uaDeF) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [archive 09\-10](https://open.spotify.com/album/7CfTDwpSa8cWyk6GYIERv3) | 5:00 |
 | 26 | [Seven Swords](https://open.spotify.com/track/4RXUru2fJL9hPTACyiSuVL) | [Sam Quealy](https://open.spotify.com/artist/0GLGeVG3XTA2KmlmAd05T8) | [Blonde Venus](https://open.spotify.com/album/7lVS853ILEobesEJ2p68ga) | 4:10 |
-| 27 | [Prophet Club](https://open.spotify.com/track/5yDKlrmRycI7Ev1loud2AI) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [Death Is Home](https://open.spotify.com/album/5HO1N4upxkWKuO3hdB4d2m) | 3:59 |
+| 27 | [Prophet Club](https://open.spotify.com/track/7eJvlLIDfdQGhUIQGPO1pn) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [Death Is Home](https://open.spotify.com/album/2mbcBhD6LbNpx9Tzv5cPUP) | 3:59 |
 | 28 | [ZiGGY \(DJ\-Kicks\)](https://open.spotify.com/track/1ustsXRV9SzZMuFnozNE6e) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [ZiGGY \(DJ\-Kicks\)](https://open.spotify.com/album/3sWZKvKbMl5eJcTHzD045K) | 5:41 |
 | 29 | [Pleasure \- Original Vox Mix](https://open.spotify.com/track/0wGZ0gl1g04dAYFB0IeTji) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Pleasure](https://open.spotify.com/album/1nUIIkaakagx1UUd4R1yKd) | 6:43 |
 | 30 | [F.U.](https://open.spotify.com/track/7LSMkz6hAlMqt1qNqlA5V6) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [F.U.](https://open.spotify.com/album/59Vusax4IuNkWBWkNfLx8d) | 2:55 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 84 | [this time i don't think i can](https://open.spotify.com/track/2PTAzTzFwsxqMcL7T0UB40) | [Midnight Dance Party](https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj) | [this time i don't think i can](https://open.spotify.com/album/2yA1k52lUUHBRxl3qRVvns) | 3:54 |
 | 85 | [A Message From Gaia](https://open.spotify.com/track/2iZuAXOLFOMjN7wiUeAJq7) | [Pistaccio](https://open.spotify.com/artist/0CPQ7sB3QkGynlGx0yy82i) | [A Message From Gaia](https://open.spotify.com/album/7FGiVZwsy4tnIXEsygrWl4) | 5:25 |
 
-Snapshot ID: `MCxhYjljNmYyNGE0NDI3MzBkNjI3NTI4NDAzM2EyMmY1ODM5NGFhYWNl`
+Snapshot ID: `MCwxMjhiZThiZjI5MDkzYTZmZDczNWI2YzdjYWZkNWJhODVlOTk1MTJj`

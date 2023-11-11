@@ -1,12 +1,12 @@
 {
   "description": "Get ready, to do, do rocksteady",
-  "num_followers": 167866,
+  "num_followers": 168749,
   "original_name": "Rocksteady",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGRhYjBkZGE0YTQzZGE1MTBhZWMxODI4MDM3YjM3ZWNkMjY1ODQx",
+  "snapshot_id": "MCxmYWI3YWFhMGJiMjIyYTY1YTRjZTA2Njg1ZDcyYWM5NzY4NjA4OWU3",
   "tracks": [
     {
       "added_at": "2022-03-28 19:58:56",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "On the Beach: The Anthology",
-        "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
-      },
-      "artists": [
-        {
-          "name": "The Paragons",
-          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
-        }
-      ],
-      "duration_ms": 161973,
-      "name": "The Tide Is High - Stereo Version",
-      "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
         "name": "The Loser / Now We Know",
         "url": "https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv"
       },
@@ -55,22 +39,6 @@
       "duration_ms": 218653,
       "name": "The Loser",
       "url": "https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
-        "name": "Mr Soul of Jamaica",
-        "url": "https://open.spotify.com/album/5MhTOmbSVidfCmVydvjRC1"
-      },
-      "artists": [
-        {
-          "name": "Alton Ellis & The Flames",
-          "url": "https://open.spotify.com/artist/4CFOCHawer4LEkxMJdPEGw"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Rock Steady",
-      "url": "https://open.spotify.com/track/5y6ubJiQdnq5MNg4XjIX6R"
     },
     {
       "added_at": "2022-03-28 19:58:56",
@@ -95,18 +63,18 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "Jamaican Rock Steady Party",
-        "url": "https://open.spotify.com/album/4UGon6PLiaTnceOnsT1uM3"
+        "name": "Super Best",
+        "url": "https://open.spotify.com/album/32hj03FdtuCNIf2AHMFILY"
       },
       "artists": [
         {
-          "name": "Lloyd Charmers",
-          "url": "https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD"
+          "name": "The Melodians",
+          "url": "https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI"
         }
       ],
-      "duration_ms": 122773,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3TeLqdhzHB9cuFbaKlNvgm"
+      "duration_ms": 257207,
+      "name": "Rivers of Babylon",
+      "url": "https://open.spotify.com/track/75gMrQKXJctiyN6IOkj6WE"
     },
     {
       "added_at": "2022-03-28 19:58:56",
@@ -143,18 +111,22 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "Super Best",
-        "url": "https://open.spotify.com/album/32hj03FdtuCNIf2AHMFILY"
+        "name": "Mr Soul of Jamaica",
+        "url": "https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh"
       },
       "artists": [
         {
-          "name": "The Melodians",
-          "url": "https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI"
+          "name": "Alton Ellis",
+          "url": "https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi"
+        },
+        {
+          "name": "The Flames",
+          "url": "https://open.spotify.com/artist/6y9NFR6yJCWkTkc0F701r2"
         }
       ],
-      "duration_ms": 257207,
-      "name": "Rivers of Babylon",
-      "url": "https://open.spotify.com/track/75gMrQKXJctiyN6IOkj6WE"
+      "duration_ms": 160266,
+      "name": "Rock Steady",
+      "url": "https://open.spotify.com/track/6azx6iv2R1DhwovSp4xd5v"
     },
     {
       "added_at": "2022-03-28 19:58:56",
@@ -175,18 +147,18 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "Give and Take - The Best of The Pioneers",
-        "url": "https://open.spotify.com/album/5TwvKc49ROXhjd3oha206q"
+        "name": "Original Paragons At Treasure Isle",
+        "url": "https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1"
       },
       "artists": [
         {
-          "name": "The Pioneers",
-          "url": "https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219"
+          "name": "The Paragons",
+          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
         }
       ],
-      "duration_ms": 187373,
-      "name": "Let Your Yeah Be Yeah",
-      "url": "https://open.spotify.com/track/2Dm6EGLAZLjk0iBIdUN9qp"
+      "duration_ms": 165666,
+      "name": "The Tide Is High",
+      "url": "https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM"
     },
     {
       "added_at": "2022-03-28 19:58:56",
@@ -207,22 +179,6 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "Delroy Wilson's Big Hits",
-        "url": "https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM"
-      },
-      "artists": [
-        {
-          "name": "Delroy Wilson",
-          "url": "https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D"
-        }
-      ],
-      "duration_ms": 206173,
-      "name": "Have Some Mercy",
-      "url": "https://open.spotify.com/track/6P4TFTWjdO5iXr8EfQVjqz"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
         "name": "The Big Hits",
         "url": "https://open.spotify.com/album/12lWmChSdOo8lMY5kXM17k"
       },
@@ -235,6 +191,22 @@
       "duration_ms": 153680,
       "name": "In the Summertime",
       "url": "https://open.spotify.com/track/5l3HpuhW2UTa13ouM1ugug"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
+        "name": "Delroy Wilson's Big Hits",
+        "url": "https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM"
+      },
+      "artists": [
+        {
+          "name": "Delroy Wilson",
+          "url": "https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D"
+        }
+      ],
+      "duration_ms": 206173,
+      "name": "Have Some Mercy",
+      "url": "https://open.spotify.com/track/6P4TFTWjdO5iXr8EfQVjqz"
     },
     {
       "added_at": "2022-03-28 19:58:56",
@@ -271,6 +243,22 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
+        "name": "Dis One A Scorcher! Absolutely The Best Of Roots and Culture Vol. 1",
+        "url": "https://open.spotify.com/album/0c1hEokDa1kA83dV2qFHoE"
+      },
+      "artists": [
+        {
+          "name": "The Ethiopians",
+          "url": "https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Everything Crash",
+      "url": "https://open.spotify.com/track/5zmWqhwriJRLBRDEKBAk8t"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
         "name": "Early Recordings",
         "url": "https://open.spotify.com/album/0Daz83iFRx526smzsDFbFL"
       },
@@ -291,38 +279,6 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "Dis One A Scorcher! Absolutely The Best Of Roots and Culture Vol. 1",
-        "url": "https://open.spotify.com/album/0c1hEokDa1kA83dV2qFHoE"
-      },
-      "artists": [
-        {
-          "name": "The Ethiopians",
-          "url": "https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Everything Crash",
-      "url": "https://open.spotify.com/track/5zmWqhwriJRLBRDEKBAk8t"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
-        "name": "Love Is All I Had: A Tribute to the Queen of Jamaican Soul",
-        "url": "https://open.spotify.com/album/4Op7as0pv5F8nGEu4oR0Cl"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Dillon",
-          "url": "https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh"
-        }
-      ],
-      "duration_ms": 153173,
-      "name": "Don't Stay Away",
-      "url": "https://open.spotify.com/track/2VhVawD5meWiuyI4sL9WAo"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
         "name": "Prince Buster - Fabulous Greatest Hits [Diamond Range]",
         "url": "https://open.spotify.com/album/3pLpyasCCfOs6mG4FylfVc"
       },
@@ -335,22 +291,6 @@
       "duration_ms": 218400,
       "name": "Judge Dread",
       "url": "https://open.spotify.com/track/0XmbuWZ2vn1i8bim4Ug6BL"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
-        "name": "Take It Easy",
-        "url": "https://open.spotify.com/album/0df5wnsgG6FBXXmq4DXe1h"
-      },
-      "artists": [
-        {
-          "name": "Hopeton Lewis",
-          "url": "https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Sound and Pressure",
-      "url": "https://open.spotify.com/track/0gOB0LAnmJK0IzPudWzi2p"
     },
     {
       "added_at": "2022-03-28 19:58:56",
@@ -375,18 +315,18 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "The Ken Boothe Collection: Eighteen Classic Songs",
-        "url": "https://open.spotify.com/album/12NP8Zg49uP77ozUUSTe99"
+        "name": "Take It Easy",
+        "url": "https://open.spotify.com/album/0df5wnsgG6FBXXmq4DXe1h"
       },
       "artists": [
         {
-          "name": "Ken Boothe",
-          "url": "https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ"
+          "name": "Hopeton Lewis",
+          "url": "https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb"
         }
       ],
-      "duration_ms": 167626,
-      "name": "Freedom Street",
-      "url": "https://open.spotify.com/track/6LbChaXJgm1NmTmWEBoKjg"
+      "duration_ms": 199266,
+      "name": "Sound and Pressure",
+      "url": "https://open.spotify.com/track/0gOB0LAnmJK0IzPudWzi2p"
     },
     {
       "added_at": "2022-03-28 19:58:56",
@@ -423,22 +363,6 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "On the Beach: The Anthology",
-        "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
-      },
-      "artists": [
-        {
-          "name": "The Paragons",
-          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "Island In the Sun",
-      "url": "https://open.spotify.com/track/6RVgAYFeWCHaAZFCOErG1D"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
         "name": "Unearthed Gold of Rocksteady Vol. 2",
         "url": "https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t"
       },
@@ -471,18 +395,18 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "Unearthed Gold of Rocksteady Vol. 2",
-        "url": "https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t"
+        "name": "Jamaican Rock Steady Party",
+        "url": "https://open.spotify.com/album/7n20v2er2YdDrzqfvaqcyE"
       },
       "artists": [
         {
-          "name": "Slim Smith",
-          "url": "https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41"
+          "name": "Lloyd Charmers",
+          "url": "https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD"
         }
       ],
-      "duration_ms": 135960,
-      "name": "Everybody Needs Love",
-      "url": "https://open.spotify.com/track/5H0CQe9x3iuI4cTPwMfASQ"
+      "duration_ms": 122773,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/7eK4dCRo8c2lVfMM6gdauz"
     },
     {
       "added_at": "2022-03-28 19:58:56",
@@ -503,6 +427,46 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
+        "name": "One Life to Live (Expanded Version)",
+        "url": "https://open.spotify.com/album/60BHEQHVN6213VZndkiI4Q"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Dillon",
+          "url": "https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh"
+        },
+        {
+          "name": "Tommy McCook",
+          "url": "https://open.spotify.com/artist/27CnIh4lLIOW2DqEwO1QIf"
+        },
+        {
+          "name": "The Supersonics",
+          "url": "https://open.spotify.com/artist/3FtuTq3oY78SW4vaK7FhDt"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "Don't Stay Away",
+      "url": "https://open.spotify.com/track/1ZVPLwKRtfenddrUxoc7eN"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
+        "name": "Unearthed Gold of Rocksteady Vol. 2",
+        "url": "https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t"
+      },
+      "artists": [
+        {
+          "name": "Slim Smith",
+          "url": "https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41"
+        }
+      ],
+      "duration_ms": 135960,
+      "name": "Everybody Needs Love",
+      "url": "https://open.spotify.com/track/5H0CQe9x3iuI4cTPwMfASQ"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
         "name": "Sinners",
         "url": "https://open.spotify.com/album/5hcgXkJak0lw7Z34ujQgG7"
       },
@@ -519,18 +483,38 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "Duke Reid Rocks Steady",
-        "url": "https://open.spotify.com/album/0uKHcuc5kFXnzBfMyJjgxM"
+        "name": "A Day Will Come (Reggae Fever Picks 1963-72)",
+        "url": "https://open.spotify.com/album/6errP0q4AbDH2Qw8nOhrJ6"
       },
       "artists": [
         {
-          "name": "Freddie McKay",
-          "url": "https://open.spotify.com/artist/6BI5BLDBy5dY19EI2cw1P1"
+          "name": "The Clarendonians",
+          "url": "https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5"
         }
       ],
-      "duration_ms": 163786,
-      "name": "Love Is a Treasure",
-      "url": "https://open.spotify.com/track/6AqMqvhlkC5Q2uxNhoJAi8"
+      "duration_ms": 167689,
+      "name": "Bye, Bye, Bye",
+      "url": "https://open.spotify.com/track/4OH81njfQUHI0cUelNICwA"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
+        "name": "Rock Steady Greatest Hits",
+        "url": "https://open.spotify.com/album/1wFh18B1EcUfc6CHFZ1cta"
+      },
+      "artists": [
+        {
+          "name": "Lynn Taitt",
+          "url": "https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy"
+        },
+        {
+          "name": "The Jets",
+          "url": "https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2"
+        }
+      ],
+      "duration_ms": 160546,
+      "name": "To Sir with Love",
+      "url": "https://open.spotify.com/track/0g2ommIQUwilxSkTNrEmMZ"
     },
     {
       "added_at": "2022-03-28 19:58:56",
@@ -559,42 +543,6 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "Rock Steady Greatest Hits",
-        "url": "https://open.spotify.com/album/1wFh18B1EcUfc6CHFZ1cta"
-      },
-      "artists": [
-        {
-          "name": "Lynn Taitt",
-          "url": "https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy"
-        },
-        {
-          "name": "The Jets",
-          "url": "https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2"
-        }
-      ],
-      "duration_ms": 160546,
-      "name": "To Sir with Love",
-      "url": "https://open.spotify.com/track/0g2ommIQUwilxSkTNrEmMZ"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
-        "name": "On the Beach: The Anthology",
-        "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
-      },
-      "artists": [
-        {
-          "name": "The Paragons",
-          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Only a Smile",
-      "url": "https://open.spotify.com/track/5bwGUv9VP1m4qmvkRNSqIQ"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/5eVn4uEttNUmF5TeJkkaEW"
       },
@@ -611,22 +559,6 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "A Day Will Come (Reggae Fever Picks 1963-72)",
-        "url": "https://open.spotify.com/album/6errP0q4AbDH2Qw8nOhrJ6"
-      },
-      "artists": [
-        {
-          "name": "The Clarendonians",
-          "url": "https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5"
-        }
-      ],
-      "duration_ms": 167689,
-      "name": "Bye, Bye, Bye",
-      "url": "https://open.spotify.com/track/4OH81njfQUHI0cUelNICwA"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
         "name": "Pat Kelly Sings",
         "url": "https://open.spotify.com/album/0d7jbK1edQRiaR4r33CTvv"
       },
@@ -639,6 +571,22 @@
       "duration_ms": 193416,
       "name": "How Long Will It Take",
       "url": "https://open.spotify.com/track/6qV95w6RYTspqNEZEIL8rh"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
+        "name": "Give and Take - The Best of The Pioneers",
+        "url": "https://open.spotify.com/album/2aMpqeisASnf5MSZ5pCmdO"
+      },
+      "artists": [
+        {
+          "name": "The Pioneers",
+          "url": "https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "Let Your Yeah Be Yeah",
+      "url": "https://open.spotify.com/track/7D6amNSNFFM2K5opPnpQ8F"
     },
     {
       "added_at": "2022-03-28 19:58:56",
@@ -675,38 +623,6 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "Trojan Lovers Collection",
-        "url": "https://open.spotify.com/album/5EuOQL9gsUcmO3khx4JSCG"
-      },
-      "artists": [
-        {
-          "name": "Cornell Campbell",
-          "url": "https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Never Found a Girl",
-      "url": "https://open.spotify.com/track/5OUARD27TGfCPSnuJh9xo7"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
-        "name": "Treasure Isle Presents: Rock Steady",
-        "url": "https://open.spotify.com/album/3nNuXJadrSzqTJKY2jDU94"
-      },
-      "artists": [
-        {
-          "name": "The Techniques",
-          "url": "https://open.spotify.com/artist/7aSGHNg5TRgbrzaUclcNAK"
-        }
-      ],
-      "duration_ms": 142293,
-      "name": "I Wish It Would Rain",
-      "url": "https://open.spotify.com/track/6ObXssCmMOmaUdRMoW8Lpg"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
         "name": "The Best Of...",
         "url": "https://open.spotify.com/album/1tpw4tscpRu4w2tfvZKlX3"
       },
@@ -719,22 +635,6 @@
       "duration_ms": 151760,
       "name": "It's All in the Game",
       "url": "https://open.spotify.com/track/4Nb43yyzlpANYmNrjxykKx"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
-        "name": "Classic Hits from Treasure Isle",
-        "url": "https://open.spotify.com/album/46k9jmo15LinMiESHEWSl8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Aitken",
-          "url": "https://open.spotify.com/artist/0XdmNCnL70Uw9QJ0wFypv6"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Rukumbine",
-      "url": "https://open.spotify.com/track/6rz9vltqGd9sVgdSCQpeoV"
     },
     {
       "added_at": "2022-03-28 19:58:56",
@@ -755,6 +655,22 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
+        "name": "Classic Hits from Treasure Isle",
+        "url": "https://open.spotify.com/album/46k9jmo15LinMiESHEWSl8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Aitken",
+          "url": "https://open.spotify.com/artist/0XdmNCnL70Uw9QJ0wFypv6"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Rukumbine",
+      "url": "https://open.spotify.com/track/6rz9vltqGd9sVgdSCQpeoV"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
         "name": "The Vintage Series: Dobby Dobson",
         "url": "https://open.spotify.com/album/3D66zjhBWUvpoYGiBjZrm0"
       },
@@ -767,22 +683,6 @@
       "duration_ms": 204173,
       "name": "That Wonderful Sound",
       "url": "https://open.spotify.com/track/46JFegy0KkJNXhZK4BPOrB"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
-        "name": "The Hudson Affair: Keith Hudson and Friends",
-        "url": "https://open.spotify.com/album/4gjbZ3Nagkak0TevFBiz4c"
-      },
-      "artists": [
-        {
-          "name": "Ken Boothe",
-          "url": "https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ"
-        }
-      ],
-      "duration_ms": 155426,
-      "name": "Old Fashioned Way",
-      "url": "https://open.spotify.com/track/1zaOPo95mhpYL8wH0UYhGP"
     },
     {
       "added_at": "2022-03-28 19:58:56",
@@ -803,6 +703,38 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
+        "name": "The Ken Boothe Collection: Eighteen Classic Songs",
+        "url": "https://open.spotify.com/album/6cSDnbzwTqmz3h9v38qMuA"
+      },
+      "artists": [
+        {
+          "name": "Ken Boothe",
+          "url": "https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ"
+        }
+      ],
+      "duration_ms": 167626,
+      "name": "Freedom Street",
+      "url": "https://open.spotify.com/track/5gmPvjSX3PyYClSYx5a4ym"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
+        "name": "Original Paragons At Treasure Isle",
+        "url": "https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1"
+      },
+      "artists": [
+        {
+          "name": "The Paragons",
+          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Only a Smile",
+      "url": "https://open.spotify.com/track/67WdcR9xldpJuH7BVLNlt5"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
         "name": "Collector's Edition: Rare Reggae From Studio One",
         "url": "https://open.spotify.com/album/74Nf0X7UlkT999DGNlae92"
       },
@@ -819,6 +751,54 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
+        "name": "Little Did You Know",
+        "url": "https://open.spotify.com/album/2H0aBHRwn49rCmpupyMTuz"
+      },
+      "artists": [
+        {
+          "name": "The Techniques",
+          "url": "https://open.spotify.com/artist/7aSGHNg5TRgbrzaUclcNAK"
+        }
+      ],
+      "duration_ms": 142293,
+      "name": "I Wish It Would Rain",
+      "url": "https://open.spotify.com/track/4njWxfEHksGVwsDyWfrDLh"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
+        "name": "Barry Myers Presents Scratchy Sounds (Ska, Dub, Roots & Reggae Nuggets)",
+        "url": "https://open.spotify.com/album/1LREwTyPObrP14E7KEKvKk"
+      },
+      "artists": [
+        {
+          "name": "Lizzy",
+          "url": "https://open.spotify.com/artist/2ALKeoNm5gPzmKLsILFwvx"
+        }
+      ],
+      "duration_ms": 158906,
+      "name": "Love Is a Treasure",
+      "url": "https://open.spotify.com/track/7JLut7wHBQtkfOXNCX6wnd"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
+        "name": "The Hudson Affair: Keith Hudson and Friends",
+        "url": "https://open.spotify.com/album/4QvHHgI6n36Y2rNwFwEmNB"
+      },
+      "artists": [
+        {
+          "name": "Ken Boothe",
+          "url": "https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ"
+        }
+      ],
+      "duration_ms": 155426,
+      "name": "Old Fashioned Way",
+      "url": "https://open.spotify.com/track/5bCVtWqo79No5jlsAz4lHN"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
         "name": "The Trojan: Rocksteady Collection",
         "url": "https://open.spotify.com/album/4PlCsYKkF8FFTAMtWV4w3P"
       },
@@ -831,6 +811,38 @@
       "duration_ms": 141453,
       "name": "I Want to Go Home",
       "url": "https://open.spotify.com/track/4c3P8eBnCdNp5yHhVNKEN7"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
+        "name": "On the Beach: The Anthology",
+        "url": "https://open.spotify.com/album/4znstpmS1WOSyKyGtTVM8m"
+      },
+      "artists": [
+        {
+          "name": "The Paragons",
+          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "Island In the Sun",
+      "url": "https://open.spotify.com/track/3sHzZSmkmQOFaiVX1VNRqF"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
+        "name": "Trojan Lovers Collection",
+        "url": "https://open.spotify.com/album/0dqxC81crojSFb0MHjagaQ"
+      },
+      "artists": [
+        {
+          "name": "Cornell Campbell",
+          "url": "https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "Never Found a Girl",
+      "url": "https://open.spotify.com/track/7JeKEYyHe1D7IseeOrPSeH"
     }
   ],
   "unique_name": "Rocksteady",

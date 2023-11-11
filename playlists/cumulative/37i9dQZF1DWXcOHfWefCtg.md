@@ -4,7 +4,7 @@
 
 > Soulful takes on all your Holiday favorites\. Cover: James Brown
 
-65 songs - 3 hr 38 min
+67 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [All I Want For Christmas Is You](https://open.spotify.com/track/63lR9Mt4cwmfszoyvzOtJl) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Christmas Songs](https://open.spotify.com/album/5eIJz39Pokn99EILRqveXO) | 1:41 | 2022-12-06 | 2023-10-21 |
 | [Angels We Have Heard On High](https://open.spotify.com/track/5TICk0rfgLn67MEIHWjur2) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 5:25 | 2021-11-12 |  |
 | [Back Door Santa](https://open.spotify.com/track/3pPtkupun3NGY1qm8D6UIZ) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [Testifyin'](https://open.spotify.com/album/7r20K314cjpVSBSWpAhM4N) | 2:16 | 2021-11-12 |  |
-| [Christmas Every Day](https://open.spotify.com/track/4kMoIhNVzcLnstzwpeN8BB) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Christmas With The Miracles](https://open.spotify.com/album/4qcVByf8Hb7gSwypa4eXmI) | 2:27 | 2021-11-12 |  |
+| [Christmas Every Day](https://open.spotify.com/track/4kMoIhNVzcLnstzwpeN8BB) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Christmas With The Miracles](https://open.spotify.com/album/4qcVByf8Hb7gSwypa4eXmI) | 2:27 | 2021-11-12 | 2023-11-11 |
+| [Christmas Everyday](https://open.spotify.com/track/2CIQP9j2Q8Qlm9HMCKGERh) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:26 | 2023-11-10 |  |
 | [Christmas Gift](https://open.spotify.com/track/2PCTg3ZU5kJJicUMKkPH9D) | [Margie Joseph](https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc) | [Christmas Songs Xmas Tunes Festive Favourites](https://open.spotify.com/album/6oSAtGbM0LE7jCc6ISVSi3) | 3:28 | 2021-11-12 |  |
 | [Christmas Groove](https://open.spotify.com/track/0H925kYkEofwvF8g2oIos1) | [Vernon Garrett](https://open.spotify.com/artist/40QepulV493VVhpCsBL6Uu) | [Merry Christmas Baby](https://open.spotify.com/album/6cVHfWKMVcKKc3VChVI9C6) | 2:28 | 2022-12-06 |  |
 | [Christmas Kisses](https://open.spotify.com/track/6kkS5mv7VCMBFjMYRP6iJu) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Christmas Kisses](https://open.spotify.com/album/3nowY3FIVGxnVxZqVqN3ki) | 3:31 | 2023-11-03 |  |
@@ -21,9 +22,10 @@
 | [Christmas Starts Tonight](https://open.spotify.com/track/359to2FTTRcoIC0C8KzIvK) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Christmas Starts Tonight](https://open.spotify.com/album/24HSMI1P437oslb45uVikj) | 4:21 | 2023-11-03 |  |
 | [Christmas with You](https://open.spotify.com/track/32zz3fd8fKnJ415DGnPQfd) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [Christmas with You](https://open.spotify.com/album/2HoqjjtNXcehLEFqxA8lcq) | 4:57 | 2022-11-18 |  |
 | [Christmas, Christmas](https://open.spotify.com/track/2TQArDxjfRt7GZCtDZn8eZ) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec), [Peter Michael Escovedo](https://open.spotify.com/artist/6VUMUlXqhTYrRnhmaQl3Fl) | [The Holiday's On!](https://open.spotify.com/album/0MtHS4b4SL8xoy8IeHcFmW) | 3:22 | 2022-10-21 |  |
+| [Closer To Christmas](https://open.spotify.com/track/6VUHVDpHctDMY0nhtSSzIt) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Closer To Christmas](https://open.spotify.com/album/1PxZd6H4nwkimCB7GEbLYv) | 3:10 | 2023-11-10 |  |
 | [Deck The Halls / Bring A Torch, Jeannette, Isabella \- Medley](https://open.spotify.com/track/3tPcCJUzDewJQCUf66VtWx) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The Season For Miracles](https://open.spotify.com/album/4A9VIgipTpqFKBgfMHNtgB) | 4:08 | 2021-11-12 | 2023-10-14 |
 | [Everyday Will Be Like a Holiday](https://open.spotify.com/track/461QQg3ncg2El2QWtUYXvQ) | [Kyla Jade](https://open.spotify.com/artist/53h8uFTiJyCrwu5SKsqAF0) | [Everyday Will Be Like a Holiday](https://open.spotify.com/album/5iXlwKBmIVd2eEvCHU3LiZ) | 3:56 | 2022-11-25 |  |
-| [Everyday Will Be Like A Holiday](https://open.spotify.com/track/59a5O7Sb1IgLvvjGJeL0ax) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Very Best Of William Bell](https://open.spotify.com/album/6Mk5jBRZjWJgzRzR8YFehS) | 2:37 | 2021-11-12 |  |
+| [Everyday Will Be Like A Holiday](https://open.spotify.com/track/59a5O7Sb1IgLvvjGJeL0ax) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Very Best Of William Bell](https://open.spotify.com/album/6Mk5jBRZjWJgzRzR8YFehS) | 2:37 | 2021-11-12 | 2023-11-11 |
 | [Favourite Part About Christmas](https://open.spotify.com/track/6OtAHPZcJVcQQrKVvihhQh) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Favourite Part About Christmas](https://open.spotify.com/album/4hr6eKwMi7VXDe6dUqZXiU) | 3:45 | 2022-11-25 |  |
 | [Funky Funky Christmas](https://open.spotify.com/track/1tK6dIhdiPdQptlmJY9DTn) | [Electric Jungle](https://open.spotify.com/artist/3UCSKT8v1uP0wvaaLQsWbQ) | [Funky Funky Christmas / Soul Santa](https://open.spotify.com/album/4GbmWIKyhUN36L6XgASY3o) | 3:05 | 2021-11-12 | 2023-10-14 |
 | [Gee Whiz, It's Christmas](https://open.spotify.com/track/3EYOHbUGZZcxijyyKQwuwX) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Tramp](https://open.spotify.com/album/6Z9LnVPxO2blsQtLsoeEjC) | 2:46 | 2021-11-12 |  |

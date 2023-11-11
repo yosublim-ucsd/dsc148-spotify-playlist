@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 15849,
+  "num_followers": 15895,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTljOWYxNjA4YTAzMzNmYTM5ZDY0NTkxZDMxODExZTEyMWJiODc5",
+  "snapshot_id": "MCxmNDc3ZWJjYzFmYjhiY2Y4MGZlYTMyYjNhMTY5OGUxM2RhOWI3NjQ5",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Copia",
+        "url": "https://open.spotify.com/album/6P3NxDFmh6Ytuw7vFEwSgJ"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "Amreik",
+      "url": "https://open.spotify.com/track/0yqjpsNQvm0IZMtKqYVpMs"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Vir\u00f0ulegu forsetar",
         "url": "https://open.spotify.com/album/4Z1mxIr5W6e6udtQOztJK7"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 78579,
       "name": "Part 1.2",
       "url": "https://open.spotify.com/track/4fo5POX7jgXpz44NsElSBr"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Copia",
-        "url": "https://open.spotify.com/album/6P3NxDFmh6Ytuw7vFEwSgJ"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 198120,
-      "name": "Amreik",
-      "url": "https://open.spotify.com/track/0yqjpsNQvm0IZMtKqYVpMs"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Talk Amongst the Trees",
-        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 129800,
-      "name": "We Say Goodbye To Ourselves",
-      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Burial",
         "url": "https://open.spotify.com/album/5ij6VfAkBwTa5Y3951PdAx"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 282106,
       "name": "Rivers of Sand",
       "url": "https://open.spotify.com/track/3enFTlwkCRF5HUM8xX6FKB"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Talk Amongst the Trees",
+        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 129800,
+      "name": "We Say Goodbye To Ourselves",
+      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Opalescent",
-        "url": "https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Cold Out There",
-      "url": "https://open.spotify.com/track/0c0ZVPQPNOfoW16dSa891N"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Black Earth",
         "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 403573,
       "name": "Crimson Ways",
       "url": "https://open.spotify.com/track/6DCucKDvfe2Hqc3PWMB9rF"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Opalescent",
+        "url": "https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "Cold Out There",
+      "url": "https://open.spotify.com/track/0c0ZVPQPNOfoW16dSa891N"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Geisterfaust",
-        "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
       "artists": [
         {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 486506,
-      "name": "Daumen",
-      "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
+      "duration_ms": 410933,
+      "name": "Warmed By the Drift",
+      "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+        "name": "Geisterfaust",
+        "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
       },
       "artists": [
         {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
         }
       ],
-      "duration_ms": 410933,
-      "name": "Warmed By the Drift",
-      "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
+      "duration_ms": 486506,
+      "name": "Daumen",
+      "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Chessa",
-        "url": "https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl"
-      },
-      "artists": [
-        {
-          "name": "Shuttle358",
-          "url": "https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n"
-        }
-      ],
-      "duration_ms": 418880,
-      "name": "chessa",
-      "url": "https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "MP3 Collection",
         "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 438066,
       "name": "Raamat",
       "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Chessa",
+        "url": "https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl"
+      },
+      "artists": [
+        {
+          "name": "Shuttle358",
+          "url": "https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "chessa",
+      "url": "https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Prism of Eternal Now",
-        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
-      },
-      "artists": [
-        {
-          "name": "White Rainbow",
-          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
-        }
-      ],
-      "duration_ms": 404200,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Choral",
         "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 550626,
       "name": "Add Infinity",
       "url": "https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Prism of Eternal Now",
+        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
+      },
+      "artists": [
+        {
+          "name": "White Rainbow",
+          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
+        }
+      ],
+      "duration_ms": 404200,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
     },
     {
       "added_at": "2023-08-04 12:53:28",

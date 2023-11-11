@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-165 songs - 8 hr 10 min
+166 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Adrenalina](https://open.spotify.com/track/4lrCXOBcdVspjbPw8P6hxX) | [Young Di](https://open.spotify.com/artist/2YU1M1onw9SekYgpXe1oG8) | [Amor Bandido](https://open.spotify.com/album/1Hn0T5W7uLjn0CIFaiXyxQ) | 2:51 | 2023-04-28 |  |
 | [Amor Bandido 2](https://open.spotify.com/track/68oLX8URC7McGqhuZZej6q) | [Dan Lellis](https://open.spotify.com/artist/7Jp5Nw7cNZTkwFgJX06Cqk) | [DDD61 \(Despedida do Dan\)](https://open.spotify.com/album/5WQEMD9nJazCJ7xEUAhtv5) | 3:35 | 2022-03-18 | 2022-05-28 |
 | [Andar Mais Alto](https://open.spotify.com/track/1xXARLOEv8vgkRhPsarK8Q) | [Igão Spliff](https://open.spotify.com/artist/5JK0D8vobAenISPqlnWa2A), [Rugal](https://open.spotify.com/artist/2rI145bvCczreyC9mvk9hy), [ZeroUM](https://open.spotify.com/artist/6iMqvz6RouFq1o4IHJ7HVy) | [Andar Mais Alto](https://open.spotify.com/album/29zijHe0AMBIQDEQGS7vMS) | 2:11 | 2022-08-12 |  |
-| [Ap 23](https://open.spotify.com/track/3yAyafu2zG1kutjgRAy2kb) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624) | [Ap 23](https://open.spotify.com/album/7ICLzVoArHj8eBWCh8Nta8) | 3:02 | 2023-10-20 |  |
+| [Ap 23](https://open.spotify.com/track/3yAyafu2zG1kutjgRAy2kb) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624) | [Ap 23](https://open.spotify.com/album/7ICLzVoArHj8eBWCh8Nta8) | 3:02 | 2023-10-20 | 2023-11-11 |
 | [Apaga a Luz](https://open.spotify.com/track/7kvIWyx7Jun0uEzTtQlLPj) | [Khauan](https://open.spotify.com/artist/7nbtGMD04rSRQSFwTZrPfx), [Jayy](https://open.spotify.com/artist/2YXlo4oLmS4JhncjEDHNdc) | [Apaga a Luz](https://open.spotify.com/album/2bx5mPk3d2GT4QzaiB9Cg0) | 2:34 | 2022-03-18 | 2022-09-10 |
 | [Babalú](https://open.spotify.com/track/0ytXiW13nB8clgHdr0hQ1z) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Babalú](https://open.spotify.com/album/3jryV1YzSn8RAxxgCtaDoc) | 2:05 | 2023-07-28 | 2023-09-16 |
 | [Baby Boy](https://open.spotify.com/track/6YkDNFdJpAXq3qgHYjPMCA) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [de: para:](https://open.spotify.com/album/5eWtjMLQlSVVC7fa1f7hk3) | 3:00 | 2023-08-11 |  |
@@ -172,6 +172,7 @@
 | [Vida Chique Madame](https://open.spotify.com/track/6VpqXQLljVXPTAdUbOaXOt) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Vida Chique Madame](https://open.spotify.com/album/2vm6G0MiLRBKJENg1HJIti) | 2:58 | 2023-05-26 | 2023-10-28 |
 | [Vinho & Sexo \- Prod\. Papatinho](https://open.spotify.com/track/0Lou5GSyISEjhtmbCgKGVI) | [Rany Money](https://open.spotify.com/artist/44P449nprZUercBnuts1o0) | [Vinho & Sexo \(Prod\. Papatinho\)](https://open.spotify.com/album/0ruRPIoTVV03Iaj3qxiaTs) | 3:16 | 2022-03-18 | 2022-11-12 |
 | [Visconde](https://open.spotify.com/track/7oQ1T06MueIr7JcxrKv2qa) | [Itinn086](https://open.spotify.com/artist/3E0XZ7RrFpI5jVamigv02T), [LF](https://open.spotify.com/artist/4XTEaGrwzx4f87DfPztViW), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Visconde](https://open.spotify.com/album/2Xbh3EeiqJE3BCUP1DRGk0) | 2:44 | 2022-09-09 | 2022-10-01 |
+| [Volúpia](https://open.spotify.com/track/6IxQngYNjrubqG7Zt8rYMa) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh), [fallkee](https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o) | [Volúpia](https://open.spotify.com/album/054nMoCC4u5dCI4vTXWKc3) | 2:31 | 2023-11-11 |  |
 | [Êxtase](https://open.spotify.com/track/0Y2AIey9vc10pW3chF299p) | [Jessica Cohen](https://open.spotify.com/artist/4SCIsnmp2qakseMlpuVz3S), [Jxkv](https://open.spotify.com/artist/1AHZJJ0sL4G0KotB0owI28) | [Êxtase](https://open.spotify.com/album/4fvPRFq9LALC8QMx0nDb0i) | 3:26 | 2022-03-18 | 2022-08-13 |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

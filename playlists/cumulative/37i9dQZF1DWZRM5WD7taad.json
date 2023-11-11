@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 197062,
       "name": "Aceites esenciales",
       "url": "https://open.spotify.com/track/2t6KjDdCifTrEaHVCXowfT"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 171000,
       "name": "Bilingue",
       "url": "https://open.spotify.com/track/4eFXaYD2is6c6Y645Qyyy1"
@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "Chicos, Tenis y Cachucha (Remastered 2010)",
+        "url": "https://open.spotify.com/album/4XfzTVKkzNjXyiY2yt6Ar3"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229906,
+      "name": "Chicos, Tenis y Cachucha - Remastered 2010",
+      "url": "https://open.spotify.com/track/2m1B2pQEgeh3i7Rtapwa4O"
+    },
+    {
+      "album": {
         "name": "Chismecito",
         "url": "https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2"
       },
@@ -946,6 +964,24 @@
       "duration_ms": 180801,
       "name": "Clean",
       "url": "https://open.spotify.com/track/4q9np9mNabLYcWcnl73Vfw"
+    },
+    {
+      "album": {
+        "name": "BAD BITCHES",
+        "url": "https://open.spotify.com/album/2RtCDcpElT5bmoyhRK0Dyt"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154263,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/7D8Pvq75dsFE0sgRr278tX"
     },
     {
       "album": {
@@ -1194,7 +1230,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 184000,
       "name": "De Frente",
       "url": "https://open.spotify.com/track/3VUlg5CKESGpgvIXqrCWtD"
@@ -1808,7 +1844,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 147000,
       "name": "flores",
       "url": "https://open.spotify.com/track/48azhp4Zua1vx258Tfzrho"
@@ -1913,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "Furyosa",
+        "url": "https://open.spotify.com/album/1RxwnAQQhI86ZxxtzRGynx"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "Furyosa",
+      "url": "https://open.spotify.com/track/5AXYkwNrS0SyXYSJZAWVBw"
+    },
+    {
+      "album": {
         "name": "Golpe Avisa",
         "url": "https://open.spotify.com/album/5wsCUfFhW6pi3iGejBlmNB"
       },
@@ -1928,6 +1982,28 @@
       "duration_ms": 148433,
       "name": "Golpe Avisa",
       "url": "https://open.spotify.com/track/6uXdP0a9lZ6fbWJQUcbN2R"
+    },
+    {
+      "album": {
+        "name": "Hija De P",
+        "url": "https://open.spotify.com/album/5ayP0qmXTKQfGUgMRXoEg9"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        },
+        {
+          "name": "D\u00edmelo Seven",
+          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125952,
+      "name": "Hija De P",
+      "url": "https://open.spotify.com/track/6JJOE8YrmGN7N9y9yDuEVz"
     },
     {
       "album": {
@@ -3646,7 +3722,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 186919,
       "name": "RAYBEN CAP 3: NI\u00d1AS",
       "url": "https://open.spotify.com/track/48Lpi4yoXkv3Awje2Hesn9"
@@ -4468,6 +4544,36 @@
       "duration_ms": 144000,
       "name": "Trendi",
       "url": "https://open.spotify.com/track/0RdBFw9TfRCXJsqQNimbM3"
+    },
+    {
+      "album": {
+        "name": "Triada",
+        "url": "https://open.spotify.com/album/38CP274HAcOq0ajInkz2fH"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        },
+        {
+          "name": "Ana MC",
+          "url": "https://open.spotify.com/artist/2EkkbCt71bH9XvmgZY5ZBX"
+        },
+        {
+          "name": "Vicky MC",
+          "url": "https://open.spotify.com/artist/2sF3CgV1tKubYGTUSKPenC"
+        },
+        {
+          "name": "Crismo VC",
+          "url": "https://open.spotify.com/artist/3bsKe2QwZ3UOWugCtde85U"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269106,
+      "name": "Triada",
+      "url": "https://open.spotify.com/track/3CZBqcIEcPoIQ3o4iL18tw"
     },
     {
       "album": {

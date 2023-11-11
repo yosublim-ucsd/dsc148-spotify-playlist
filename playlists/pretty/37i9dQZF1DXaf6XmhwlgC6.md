@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,425 likes - 188 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,497 likes - 188 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 7 | [farewells](https://open.spotify.com/track/1EoaRggXd8RBKp4uFYB6PW) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Under the Weather](https://open.spotify.com/album/22nxXrvNWalmBOHUQkE85D) | 2:22 |
 | 8 | [Stars Aligned](https://open.spotify.com/track/174Qm1we2PpksdAwRftfts) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Stars Aligned](https://open.spotify.com/album/2iZmpvPnSUy2HiUcUsjAkx) | 3:09 |
 | 9 | [Mulberry](https://open.spotify.com/track/0YOglzVvXxbxukOXZ61ZaP) | [Harry Bloom](https://open.spotify.com/artist/0nACN1QCrIGr7S2ATgH5ja) | [Pastel Skies](https://open.spotify.com/album/2mdlqHvs5eQm49ZRqBcGZ4) | 2:01 |
-| 10 | [Infinite Space](https://open.spotify.com/track/1DhpEFYy2EKCorHZTeYnX1) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Infinite Space](https://open.spotify.com/album/04i8zW71zD7SN5OXlONEbC) | 2:48 |
+| 10 | [Infinite Space](https://open.spotify.com/track/0iG8vGMvNGv7k4hY8ptM0L) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Relaxing Easy Beats](https://open.spotify.com/album/5NdhMBBItWYBpowfK67tp7) | 2:48 |
 | 11 | [Copper sky](https://open.spotify.com/track/6wW9GN0XSNeX0W8Kk9fpn1) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Copper sky](https://open.spotify.com/album/0JWohRAUevr8bZJVKhSNMd) | 2:32 |
 | 12 | [A Clear Mind](https://open.spotify.com/track/4BgdArkCc5DEHYTpy6clfy) | [Mother Figures](https://open.spotify.com/artist/2TQAZvZKUCmj9wLGBjqSj2) | [A Clear Mind](https://open.spotify.com/album/3XBSyg3XXBZd867txggCxH) | 3:23 |
 | 13 | [Felicity](https://open.spotify.com/track/5USaqddxsxfD9BAr3z3zlv) | [Naómi Sun](https://open.spotify.com/artist/4KWsYCRBojWuRg9TWP7Vqu) | [Felicity](https://open.spotify.com/album/31kL107vcAXopddhFfyId6) | 2:00 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 187 | [jubilance](https://open.spotify.com/track/4F21Bmd7GOjukwGjOUy67I) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [Great Heights, Great Falls](https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl) | 2:42 |
 | 188 | [Rectifier](https://open.spotify.com/track/2tIF7PmitHZi13Mc2dssPO) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Rectifier](https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP) | 2:32 |
 
-Snapshot ID: `MCxiNjJkY2Q3NjYwZjAzZmIyNGMyOTkwZmExNmM2ZjU3ZGZjNmVjOGUy`
+Snapshot ID: `MCwxNzUwZTVhOTQ2YzVjZWEyNTRkODc0NGU0MWI2MzFkYjg5MDE5NmFm`

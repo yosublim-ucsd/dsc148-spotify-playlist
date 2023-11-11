@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Curiosity Killed the Cat",
+        "url": "https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd"
+      },
+      "artists": [
+        {
+          "name": "HEY JUNE!",
+          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185018,
+      "name": "Asan Ang Gana Ko",
+      "url": "https://open.spotify.com/track/7eyX57pLwUUP46gneOrxUr"
+    },
+    {
+      "album": {
         "name": "Bakit?",
         "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
       },
@@ -214,7 +232,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 299648,
       "name": "Delikado",
       "url": "https://open.spotify.com/track/79hOmFOZM0XZMBQE7rF4Gi"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 284210,
       "name": "Di Na Ako",
       "url": "https://open.spotify.com/track/1wC67ZTpPMKRPBex4od1WB"
@@ -315,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Hiling",
+        "url": "https://open.spotify.com/album/2kHCLBZdKE6aAHPI5qNJpW"
+      },
+      "artists": [
+        {
+          "name": "Na\u00cfV",
+          "url": "https://open.spotify.com/artist/09UWVORoWNvb4g6A4CBDuF"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215188,
+      "name": "Hiling",
+      "url": "https://open.spotify.com/track/5UfaNSUPZ0T1wlg5uu6AlM"
+    },
+    {
+      "album": {
         "name": "Himbing",
         "url": "https://open.spotify.com/album/4xaUf04NoqxVOigOLbWaOk"
       },
@@ -344,10 +380,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 193194,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3wIql1xTfBwTeaRQfuK5cL"
+    },
+    {
+      "album": {
+        "name": "how could it be",
+        "url": "https://open.spotify.com/album/4RuBUy4SQ0EMVwUYcq47bY"
+      },
+      "artists": [
+        {
+          "name": "Shan Capri",
+          "url": "https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222580,
+      "name": "how could it be",
+      "url": "https://open.spotify.com/track/2fbuZc8ms9dRnKa8TgIrHW"
     },
     {
       "album": {
@@ -459,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Lara",
+        "url": "https://open.spotify.com/album/0zfXAtSmSitgJayVujagFB"
+      },
+      "artists": [
+        {
+          "name": "Leona",
+          "url": "https://open.spotify.com/artist/40ulg2TTFpUOcGVyDu6iJO"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Lara",
+      "url": "https://open.spotify.com/track/6tI7QZCy2hZ9Gk2re6sB4P"
+    },
+    {
+      "album": {
         "name": "Lilly's Child",
         "url": "https://open.spotify.com/album/6IljuxUuJiSP87CuHpEn3E"
       },
@@ -510,6 +582,28 @@
       "duration_ms": 285163,
       "name": "Mamamatay Yata Kong Single",
       "url": "https://open.spotify.com/track/6AwEWeF4oHJJiAaQAZcYsl"
+    },
+    {
+      "album": {
+        "name": "Nagbabakasakali",
+        "url": "https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ"
+      },
+      "artists": [
+        {
+          "name": "polaris.",
+          "url": "https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx"
+        },
+        {
+          "name": "drmfy",
+          "url": "https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202764,
+      "name": "Nagbabakasakali",
+      "url": "https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w"
     },
     {
       "album": {
@@ -668,7 +762,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 278608,
       "name": "Please Don't Stay",
       "url": "https://open.spotify.com/track/5F0Srwhpjpqt1KxyI1cDy1"
@@ -686,7 +780,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 291070,
       "name": "Raining In Manila",
       "url": "https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ"
@@ -748,7 +842,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 198727,
       "name": "Sa Tingin Ko",
       "url": "https://open.spotify.com/track/5muQzF8mJCqxBreEqHSDfD"
@@ -784,10 +878,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 234798,
       "name": "salita",
       "url": "https://open.spotify.com/track/0Hyem1EubuGA0g4c6yLAD3"
+    },
+    {
+      "album": {
+        "name": "nang makita kang muli",
+        "url": "https://open.spotify.com/album/6feOuPZciqabV98FdRcOBi"
+      },
+      "artists": [
+        {
+          "name": "unikko ijo",
+          "url": "https://open.spotify.com/artist/2D7VJeNRHoVQgxnNXxR9cK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234798,
+      "name": "salita",
+      "url": "https://open.spotify.com/track/5P3aZmkWKEuG6kfpyMPll9"
     },
     {
       "album": {
@@ -827,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Somebody\u2019s Better",
+        "url": "https://open.spotify.com/album/7JR1aiowTQ8jQy0hDMBaYz"
+      },
+      "artists": [
+        {
+          "name": "Mint Magic",
+          "url": "https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258946,
+      "name": "Somebody\u2019s Better",
+      "url": "https://open.spotify.com/track/66SfXY4jUuylReAjoDS8gw"
+    },
+    {
+      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/5WhV3B48D6u8OmayTwW3OU"
       },
@@ -838,7 +968,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 180326,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/3UlUNQIwYz8o2IPkcnksjp"
@@ -944,6 +1074,24 @@
       "duration_ms": 222000,
       "name": "Tagsilaw (Pinilit Ko Man)",
       "url": "https://open.spotify.com/track/5qCbzsd69aS34UN3WcxzZU"
+    },
+    {
+      "album": {
+        "name": "TERAPEWTIKA",
+        "url": "https://open.spotify.com/album/4vdu6ZL5oS601mrZj5uYQN"
+      },
+      "artists": [
+        {
+          "name": "JEL REY",
+          "url": "https://open.spotify.com/artist/78BjejowI3HzCblRlIj5Jd"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321320,
+      "name": "Tayo - ating istorya",
+      "url": "https://open.spotify.com/track/2gOUaFafMr7UXmPHhlu1wm"
     },
     {
       "album": {

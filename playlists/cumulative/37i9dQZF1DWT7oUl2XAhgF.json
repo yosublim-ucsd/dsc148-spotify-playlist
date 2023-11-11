@@ -788,7 +788,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 138223,
       "name": "Come On Through",
       "url": "https://open.spotify.com/track/2GMjU0QuHVOXjGI02ksGrw"
@@ -3922,7 +3922,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 280517,
       "name": "Never",
       "url": "https://open.spotify.com/track/7vH4dCyPjR98UIOi9eg5Ez"
@@ -3962,6 +3962,24 @@
       "duration_ms": 139506,
       "name": "No Rewrites",
       "url": "https://open.spotify.com/track/04TArnJgprxiEqS8d1vzea"
+    },
+    {
+      "album": {
+        "name": "Nobody But You",
+        "url": "https://open.spotify.com/album/64vGv9opFtK75WRyjPRFnP"
+      },
+      "artists": [
+        {
+          "name": "Brainstory",
+          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135345,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/6Oao4bGYFGXppmlI0cjIiS"
     },
     {
       "album": {
@@ -4852,7 +4870,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 217226,
       "name": "Sad Hearted Clown",
       "url": "https://open.spotify.com/track/2ZsssRULtkfkbo5D2yh6gT"
@@ -5285,6 +5303,24 @@
     },
     {
       "album": {
+        "name": "So Tired",
+        "url": "https://open.spotify.com/album/1nQr0MQwmFR8yjL7uyLx90"
+      },
+      "artists": [
+        {
+          "name": "Britti",
+          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201693,
+      "name": "So Tired",
+      "url": "https://open.spotify.com/track/3X9D9fDfMFePPAhDnhXcBD"
+    },
+    {
+      "album": {
         "name": "Solution",
         "url": "https://open.spotify.com/album/3zYDc5MslFWL04Qup4OOQb"
       },
@@ -5477,6 +5513,24 @@
     },
     {
       "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/7byQuT5JOWWfHTfu7zpxxT"
+      },
+      "artists": [
+        {
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/6op7RGEgw2gs49M87Uct2p"
+    },
+    {
+      "album": {
         "name": "Stretch Out",
         "url": "https://open.spotify.com/album/02hSfOu0sNbuWlh8lxEQ4e"
       },
@@ -5600,7 +5654,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 253124,
       "name": "S\u0142o\u0144ce",
       "url": "https://open.spotify.com/track/2fxjOp42W4IL2EdHLa6QOb"
@@ -6832,6 +6886,28 @@
       "duration_ms": 187213,
       "name": "You Know What It Do",
       "url": "https://open.spotify.com/track/1YPsvTzKTMsQjrdC88CRcT"
+    },
+    {
+      "album": {
+        "name": "Your Love Is Gold",
+        "url": "https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Louie Thesinger",
+          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166842,
+      "name": "Your Love Is Gold",
+      "url": "https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF"

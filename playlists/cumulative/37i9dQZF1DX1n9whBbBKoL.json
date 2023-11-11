@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "an actual dream",
+        "url": "https://open.spotify.com/album/298EFiuSDE4jQzEZLdOrAV"
+      },
+      "artists": [
+        {
+          "name": "Ai Bolako",
+          "url": "https://open.spotify.com/artist/1uPqipOxJdAWqWaoVGywSV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "an actual dream",
+      "url": "https://open.spotify.com/track/1cyujCsAN9h8y4JEwzVpLz"
+    },
+    {
+      "album": {
         "name": "Annashuwa",
         "url": "https://open.spotify.com/album/0nJZwim2ChJLwgnr6xo4PR"
       },
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 233383,
       "name": "Emerald Isles",
       "url": "https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5"

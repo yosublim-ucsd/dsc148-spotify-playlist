@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto: <a href=\"spotify:artist:6mEJxv4yQ0uvEZ023sKEPt\">SioVera</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto: <a href=\"spotify:artist:2TkDdk47FGnvxcjQGDdPd0\">Kike Pav\u00f3n</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -320,7 +320,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 285677,
       "name": "Adorarte",
       "url": "https://open.spotify.com/track/4UjiwbR78RsS1ZKASBNKCi"
@@ -416,6 +416,28 @@
       "duration_ms": 210148,
       "name": "Agua Bendita",
       "url": "https://open.spotify.com/track/4V7GYSaTVhulizZ0a3dwFV"
+    },
+    {
+      "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/19DSDpBjoxkSZsnKIvmMFJ"
+      },
+      "artists": [
+        {
+          "name": "Jafet Lora",
+          "url": "https://open.spotify.com/artist/0wH2ySEIKXfNCnxKPietAj"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285969,
+      "name": "Agua Viva",
+      "url": "https://open.spotify.com/track/7mko17namcFAwphs4REDeL"
     },
     {
       "album": {
@@ -1644,7 +1666,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 275648,
       "name": "Causas Perdidas",
       "url": "https://open.spotify.com/track/4Biy5j7PsKgQxKNtut2y5j"
@@ -1662,7 +1684,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 228576,
       "name": "Celebra Victorioso",
       "url": "https://open.spotify.com/track/5SalhBIQrEXU76v9QGL6Sh"
@@ -4161,6 +4183,24 @@
     },
     {
       "album": {
+        "name": "Causas Perdidas",
+        "url": "https://open.spotify.com/album/1g8lAVXsPBRZpiwHAHEehk"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204015,
+      "name": "Eternidad",
+      "url": "https://open.spotify.com/track/1lVEmf7WKmN1YnhppRRTCb"
+    },
+    {
+      "album": {
         "name": "ETERNOS",
         "url": "https://open.spotify.com/album/5QGzUZWzw2ozqN3G5UQNvw"
       },
@@ -4502,6 +4542,28 @@
       "duration_ms": 183645,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/7i8ZNfQoW8NdbGflJ3Sx2w"
+    },
+    {
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/0LTPe8lgBKZbso4WBdHx74"
+      },
+      "artists": [
+        {
+          "name": "Mision Rescate worship",
+          "url": "https://open.spotify.com/artist/16N7wRF6IPpR33FyycomhY"
+        },
+        {
+          "name": "Kekelandia",
+          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309120,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/4PZo0ezNvqrwv4KB27m7cM"
     },
     {
       "album": {
@@ -5028,6 +5090,24 @@
       "duration_ms": 189000,
       "name": "Isla del Encanto",
       "url": "https://open.spotify.com/track/4i90a4xXMqAOxcacd6G6Yx"
+    },
+    {
+      "album": {
+        "name": "Jehov\u00e1 Jireh",
+        "url": "https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336662,
+      "name": "Jehov\u00e1 Jireh",
+      "url": "https://open.spotify.com/track/45KWondblrT7ERIR2q3wiO"
     },
     {
       "album": {
@@ -10046,7 +10126,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 272895,
       "name": "Una Nueva Historia - Espanhol",
       "url": "https://open.spotify.com/track/40ElYEtYTuKC56EwgJltaL"

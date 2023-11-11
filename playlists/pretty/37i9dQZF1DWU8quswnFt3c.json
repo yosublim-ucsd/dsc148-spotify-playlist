@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Bellakath",
-  "num_followers": 912546,
+  "num_followers": 912529,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWJmZjQ4YzYwOGY5NDYzOWU2MzAxODM4ZTliYjU5OTVlOTk5ZTYy",
+  "snapshot_id": "MCw3ZWYwMzlmM2NhZmQ2NzkxODc4YmE3MTQ5MDBmODhiYmI4ZmJiZTUx",
   "tracks": [
     {
       "added_at": "2023-11-08 04:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "Nieba nie ma",
-        "url": "https://open.spotify.com/album/7tE91JMUMPk4AHAX0IGNXn"
-      },
-      "artists": [
-        {
-          "name": "Kasia Lins",
-          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Nieba nie ma",
-      "url": "https://open.spotify.com/track/4WCr0otDWYCVYHsbtvxqZU"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
         "name": "Regresa",
         "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
       },
@@ -1167,6 +1151,26 @@
       "duration_ms": 168755,
       "name": "Ta Que Tiembla",
       "url": "https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw"
+    },
+    {
+      "added_at": "2023-11-08 04:01:00",
+      "album": {
+        "name": "Wild Girl",
+        "url": "https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 194088,
+      "name": "Wild Girl",
+      "url": "https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -1191,22 +1195,18 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "Wild Girl",
-        "url": "https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT"
+        "name": "Nieba nie ma",
+        "url": "https://open.spotify.com/album/7tE91JMUMPk4AHAX0IGNXn"
       },
       "artists": [
         {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
         }
       ],
-      "duration_ms": 194088,
-      "name": "Wild Girl",
-      "url": "https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt"
+      "duration_ms": 178600,
+      "name": "Nieba nie ma",
+      "url": "https://open.spotify.com/track/4WCr0otDWYCVYHsbtvxqZU"
     },
     {
       "added_at": "2023-11-08 04:01:00",

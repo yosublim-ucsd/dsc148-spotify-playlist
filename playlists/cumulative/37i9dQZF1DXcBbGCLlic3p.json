@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "For a Change",
+        "url": "https://open.spotify.com/album/2X7GKdT5KkIukHkuGDdme4"
+      },
+      "artists": [
+        {
+          "name": "Leander Vaughn",
+          "url": "https://open.spotify.com/artist/6VZhEArsID7ayvhvG7DRGl"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "For a Change",
+      "url": "https://open.spotify.com/track/6u03SQ6ljp711Ir4dHqiCY"
+    },
+    {
+      "album": {
         "name": "For a while",
         "url": "https://open.spotify.com/album/7l4681Ts204dYgHCOiZjba"
       },
@@ -3656,6 +3674,24 @@
       "duration_ms": 217000,
       "name": "Sapnis",
       "url": "https://open.spotify.com/track/0UmxO4xdWoH3hRUQwcqdqC"
+    },
+    {
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/4BloK7TNPgdB29wFbIY4RR"
+      },
+      "artists": [
+        {
+          "name": "Elijah Edwards",
+          "url": "https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143508,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/2IEoO1njm8S4XKO4VFFLNj"
     },
     {
       "album": {

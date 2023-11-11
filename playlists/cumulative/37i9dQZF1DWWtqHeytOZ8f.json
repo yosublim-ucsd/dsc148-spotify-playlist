@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 303599,
       "name": "Asia",
       "url": "https://open.spotify.com/track/6kg3oZmQjDU1nMLOWU3gVP"
@@ -2304,7 +2304,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 390000,
       "name": "Das Unheimliche",
       "url": "https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ"
@@ -5240,7 +5240,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-16",
+      "date_removed": null,
       "duration_ms": 234795,
       "name": "Kill Scene",
       "url": "https://open.spotify.com/track/43OTFEQhNQTs2twZdn8jjt"
@@ -7484,6 +7484,24 @@
     {
       "album": {
         "name": "Chameleon",
+        "url": "https://open.spotify.com/album/7xvYNj7sI92I93Yan0zcqO"
+      },
+      "artists": [
+        {
+          "name": "Anthony Naples",
+          "url": "https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172036,
+      "name": "Primo",
+      "url": "https://open.spotify.com/track/23mrceVsUn1KdfYlvOXK4C"
+    },
+    {
+      "album": {
+        "name": "Chameleon",
         "url": "https://open.spotify.com/album/58eIjs7Jdv4fsnW10Jwehe"
       },
       "artists": [
@@ -7674,7 +7692,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 235555,
       "name": "Recuerdos del Futuro",
       "url": "https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il"
@@ -7804,6 +7822,24 @@
       "duration_ms": 445980,
       "name": "Right Right Right",
       "url": "https://open.spotify.com/track/6L7bf5DjI6xolumK6fkMwL"
+    },
+    {
+      "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445980,
+      "name": "Right Right Right",
+      "url": "https://open.spotify.com/track/6RpNhl6giVNAhZY2526QgZ"
     },
     {
       "album": {

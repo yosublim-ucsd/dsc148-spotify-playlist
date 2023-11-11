@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 327541,
+  "num_followers": 327583,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2U0OWVkNTQ3ZDk0ZTZmNDg5OWE3MzBlNTUzNTU5NTMyMTM5MjM4",
+  "snapshot_id": "MCw5MGI2ZDEzYTUzMDkwY2RlZmUzMzUyYmM0MDAzM2FjMWY5MmE2MjMw",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy"
     },
     {
-      "added_at": "2022-08-03 02:59:28",
-      "album": {
-        "name": "FOREVERANDEVERNOMORE",
-        "url": "https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 292466,
-      "name": "There Were Bells",
-      "url": "https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ"
-    },
-    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Winter's Lament",
@@ -719,6 +703,22 @@
       "duration_ms": 170000,
       "name": "Winter's Lament",
       "url": "https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd"
+    },
+    {
+      "added_at": "2022-08-03 02:59:28",
+      "album": {
+        "name": "FOREVERANDEVERNOMORE",
+        "url": "https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 292466,
+      "name": "There Were Bells",
+      "url": "https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -773,6 +773,22 @@
       "url": "https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M"
     },
     {
+      "added_at": "2022-10-14 13:00:12",
+      "album": {
+        "name": "Now Is",
+        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 347981,
+      "name": "Vision of Self",
+      "url": "https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n"
+    },
+    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Introspection",
@@ -823,22 +839,6 @@
       "duration_ms": 191413,
       "name": "Kalimba Heart",
       "url": "https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Because of a Flower",
-        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 304144,
-      "name": "Camille",
-      "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
     }
   ],
   "unique_name": "Deep Listening",

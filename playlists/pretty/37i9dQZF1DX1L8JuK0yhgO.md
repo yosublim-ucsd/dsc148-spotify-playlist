@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,080 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,093 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 5 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 |
 | 6 | [Luv Myself](https://open.spotify.com/track/4woDrq2rIKBbI6UNkzB48j) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself](https://open.spotify.com/album/4sJMZSWobdfCTgwICMGU6d) | 4:28 |
 | 7 | [Be Okay](https://open.spotify.com/track/0qfv1XQTuwfGpDZvdEpB0m) | [YELLADIGOS](https://open.spotify.com/artist/4XoMdQKZT6hC57PRnacpYa), [TWIGY](https://open.spotify.com/artist/3LRuRmJcuRBvc7mLhTli0v) | [Y.L.F\. EP](https://open.spotify.com/album/2cOXs0vcXtZaqkeSqVPBCZ) | 3:36 |
-| 8 | [TOKIO RACING](https://open.spotify.com/track/6hDSvPr9peWyG4yFKBnDTD) | [Taeyoung Boy](https://open.spotify.com/artist/6U9PA9nXDmzmlpSwR9KJ2n), [LYNN](https://open.spotify.com/artist/1TAIBPjA2wJR97LkRR46jo) | [TOKIO RACING](https://open.spotify.com/album/01X7lSaPxg1F37NnCtYcff) | 2:32 |
+| 8 | [TOKIO RACING](https://open.spotify.com/track/6hDSvPr9peWyG4yFKBnDTD) | [Taeyoung Boy](https://open.spotify.com/artist/6U9PA9nXDmzmlpSwR9KJ2n), [LYNN](https://open.spotify.com/artist/1JFuaT59kkQV8nNgsESbnA) | [TOKIO RACING](https://open.spotify.com/album/01X7lSaPxg1F37NnCtYcff) | 2:32 |
 | 9 | [GOAT](https://open.spotify.com/track/3edi5revIoKupagkhCLY2A) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [DONG JING REN](https://open.spotify.com/album/7h7wZupoqS4lpV8qOI29eE) | 2:32 |
 | 10 | [PANTS](https://open.spotify.com/track/3V51ViU5uzlhwzZaqGPgd9) | [MC TONY](https://open.spotify.com/artist/1VhSRoYsZeZHFUrVNguanz) | [PANTS](https://open.spotify.com/album/5NuRlvVFU7ATcXLEIWX904) | 1:44 |
 | 11 | [Osanpo \- Remix](https://open.spotify.com/track/5wWoGtwYK9xhPTgHBFJ4JK) | [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw), [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb), [Space Dust Club](https://open.spotify.com/artist/2gzAqApojzEcGpWzvrZjRy) | [Osanpo \(Remix\)](https://open.spotify.com/album/6qSEgFsSbHoSi5LXJQp8z5) | 3:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Call From Wife](https://open.spotify.com/track/50VvTHedGHkdxtBY3jwUe2) | [Sloppy Disk](https://open.spotify.com/artist/5IEl2TsgM9jO0kkapS5RtB), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN) | [So Sloppy Vol.1](https://open.spotify.com/album/6GVdnlARdw1ZgoFCWXqQ41) | 3:51 |
 | 60 | [Silence Of Love](https://open.spotify.com/track/4oqrBk9A3WoouuMTDKGERh) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Silence Of Love](https://open.spotify.com/album/00UQmxp15bECetcjau5hTO) | 4:10 |
 
-Snapshot ID: `MCw0MjY5ZDEzOTNjYzIzMTM1YWE0MjdhMWIwMDQ3YzdmMTljZDNkNmJm`
+Snapshot ID: `MCxmM2Y1ZmIzMzNlOTQxNjcxNzkxNzlmNWZlZDMwMGEyZjNiNDczOTNh`

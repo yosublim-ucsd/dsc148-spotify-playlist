@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,064 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,151 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 67 | [Crawling King Snake](https://open.spotify.com/track/35RfqVHfnWeGYXC9RH9q6Y) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 4:10 |
 | 68 | [Honky Tonk Woman](https://open.spotify.com/track/0AZFM3GlyErGyoyoK5zxQP) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 4:43 |
 | 69 | [A Little Less Conversation](https://open.spotify.com/track/73qNHMPnanBGsxD1cQ2ojn) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [Watch Your Back](https://open.spotify.com/album/3k5iL04w1N2VQhpwXfgClW) | 4:04 |
-| 70 | [Funny How Time Slips Away](https://open.spotify.com/track/1fDmvwNjghVsHWjrIruFJU) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Country Blues Hits](https://open.spotify.com/album/7zmKufdRW5fhQ1TfCBRV0h) | 4:08 |
+| 70 | [Funny How Time Slips Away](https://open.spotify.com/track/0tyDdSze4rfPuwFTFkV2lG) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [B.B\. King & Friends \- 80](https://open.spotify.com/album/5xQz73Q2PPi3xeoLrg1uce) | 4:08 |
 | 71 | [Give Me One Reason](https://open.spotify.com/track/3psdUK3ZLT8VLl6ZdCyfUc) | [Earl Thomas](https://open.spotify.com/artist/2RXD3UIiRZuEk1hVfKyPK2) | [Unplugged At Caffe Calabria](https://open.spotify.com/album/2WzdzAGB2md2dBKPbpC1oK) | 5:48 |
 | 72 | [Stop Breaking Down](https://open.spotify.com/track/09eg3FGzsZQbZk8qEXhJIA) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 4:34 |
 | 73 | [Come Back Baby](https://open.spotify.com/track/6zN2SuJaXhGJYXhb77xPVO) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [Stars In My Crown](https://open.spotify.com/album/16vXqLiCvBwbSOPTF1VUwG) | 5:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 99 | [Taxman](https://open.spotify.com/track/3kT1cthH4KOLPJRpmdHQrI) | [Teresa James](https://open.spotify.com/artist/4Ovys1AMeXFomDQvnc4f0C) | [Taxman](https://open.spotify.com/album/147vvnC0aJ0Ttrtbgmv6ee) | 3:26 |
 | 100 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 
-Snapshot ID: `MCwwZTM2NmEzMzFjN2YyNWQ1ZTQwNzQ4ODg5OWViMjQ3MzliNmY3Mjhi`
+Snapshot ID: `MCwzNTQ3NmJiY2QyNGJhM2JmYWRlYWQxNzY0N2Q5ZDBkNTcwNTIyMTQ2`

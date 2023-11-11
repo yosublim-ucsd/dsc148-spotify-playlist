@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 240000,
       "name": "B Side Ft. Fred Wesley - Xtended Mix",
       "url": "https://open.spotify.com/track/3zylRbtWMhzHbfFazm2qeM"
@@ -970,6 +970,40 @@
       "duration_ms": 281605,
       "name": "Dance Like This",
       "url": "https://open.spotify.com/track/4KeZ70RzWqbcplRkOfrku9"
+    },
+    {
+      "album": {
+        "name": "Discopia (Dubversive Mix)",
+        "url": "https://open.spotify.com/album/5MSj6zgPiXhiX2dTaI0Wq1"
+      },
+      "artists": [
+        {
+          "name": "Smudge All Stars",
+          "url": "https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU"
+        },
+        {
+          "name": "Dubversive",
+          "url": "https://open.spotify.com/artist/6Pxw249dd5WISK5UYT3Jry"
+        },
+        {
+          "name": "Richie Stevens",
+          "url": "https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl"
+        },
+        {
+          "name": "Charlotte Kelly",
+          "url": "https://open.spotify.com/artist/2rKAvmLXx1LNSMz5WL38T4"
+        },
+        {
+          "name": "Camelle Hinds",
+          "url": "https://open.spotify.com/artist/4qV28vr3p1qbOFO3Ego2uO"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283600,
+      "name": "Discopia - Dubversive Mix",
+      "url": "https://open.spotify.com/track/08OOFk8JEDPN3t3oiURiPJ"
     },
     {
       "album": {

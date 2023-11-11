@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-185 songs - 18 hr 32 min
+186 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [I Don't Care \- Loft 15 A Mix](https://open.spotify.com/track/7zaZlHay4Odn9bqxQLgB9E) | [Triance](https://open.spotify.com/artist/0a4StSqrogGXGdYzV3GMRy) | [I Don't Care](https://open.spotify.com/album/2WaaeCOR2loQSDsTHjkd0t) | 5:48 | 2023-07-14 |  |
 | [I Want You \- Edit](https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [I Want You](https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y) | 3:27 | 2022-09-16 | 2022-10-28 |
 | [Ice Cold \- Edit](https://open.spotify.com/track/5iQlCoBbKrjc3Ka6ouHsT3) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Ice Cold \(Edit\)](https://open.spotify.com/album/2u4FuqEou1UvGSVzRw3jwh) | 4:23 | 2023-03-24 | 2023-05-27 |
+| [In A Blurry World](https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [In A Blurry World](https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g) | 5:47 | 2023-11-10 |  |
 | [In The Bleak Midwinter](https://open.spotify.com/track/48cnRNsq3ICFe51oUMzZ3z) | [Axel N.](https://open.spotify.com/artist/6ojATIeQIuYkrS2YCiT8sG) | [In The Bleak Midwinter](https://open.spotify.com/album/0frtwhJ0tufQdIjAA8u36v) | 3:54 | 2023-03-10 | 2023-07-15 |
 | [In The Shadows](https://open.spotify.com/track/3I72hk46KJ6MFDtNBjJ99P) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 03](https://open.spotify.com/album/7JSJ48rBBgpLqPfUkxcUuE) | 8:07 | 2022-10-27 | 2022-12-03 |
 | [Inescapable \- Moritz Sachse Remix](https://open.spotify.com/track/2wb3Sf2Py8y4Ak05f8b7ka) | [DJ Lion](https://open.spotify.com/artist/0ZwTI7HIWqX7mz1KwdZSoq), [Moonslip](https://open.spotify.com/artist/12z16EX06TdZpzkwOte7eg), [Moritz Sachse](https://open.spotify.com/artist/2yPFNVTKTqKeIn3leJpeq3) | [Telluric](https://open.spotify.com/album/76Nl2NpAkxHJrKUH2Jb7DJ) | 6:23 | 2022-09-16 | 2023-02-11 |

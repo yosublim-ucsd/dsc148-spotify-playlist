@@ -1,12 +1,12 @@
 {
   "description": "Bossa nova vibes for the hopeless romantic daydreamers. ",
-  "num_followers": 50183,
+  "num_followers": 53914,
   "original_name": "blush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmIzNjRhN2I3ODY4YzU1MGE0MmRmOTRjNGFiMjhmMDA3Yjg4ZjA2",
+  "snapshot_id": "MCw5MDQ3NTI3NTllY2YwMGJlMGFmYWUzMDBkYzQ0MThmNDM0NTdiOTM2",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -27,6 +27,22 @@
       "duration_ms": 233388,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Dream Boy",
+        "url": "https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        }
+      ],
+      "duration_ms": 204376,
+      "name": "Dream Boy",
+      "url": "https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -125,20 +141,20 @@
       "url": "https://open.spotify.com/track/7tUeh2EZdMOwN6FBmopYqm"
     },
     {
-      "added_at": "2023-10-13 04:00:00",
+      "added_at": "2023-11-10 05:01:00",
       "album": {
-        "name": "Pedestal",
-        "url": "https://open.spotify.com/album/5KRQkpYEeyfXX4gF9kWV7I"
+        "name": "love letters to u (EP)",
+        "url": "https://open.spotify.com/album/4F1W1gMngOB4UhVF0ykpox"
       },
       "artists": [
         {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+          "name": "Takayoshi",
+          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
         }
       ],
-      "duration_ms": 191555,
-      "name": "Pedestal",
-      "url": "https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV"
+      "duration_ms": 157377,
+      "name": "love of my life",
+      "url": "https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -209,24 +225,24 @@
       "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
     },
     {
-      "added_at": "2023-10-13 04:00:00",
+      "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "All Over Again",
-        "url": "https://open.spotify.com/album/022igxh5JAOECiWyHG3Fim"
+        "name": "The Things She Loved",
+        "url": "https://open.spotify.com/album/4zwmA0qNheXDIvr9f5Lqxk"
       },
       "artists": [
         {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
         },
         {
-          "name": "Johnny Stimson",
-          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
         }
       ],
-      "duration_ms": 178346,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/3m0gY7t5mC3ipTmMlvt8wM"
+      "duration_ms": 148876,
+      "name": "The Things She Loved",
+      "url": "https://open.spotify.com/track/7ATrjLiCw3DGbDqzGH65Bo"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -275,6 +291,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Pedestal",
+        "url": "https://open.spotify.com/album/5KRQkpYEeyfXX4gF9kWV7I"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 191555,
+      "name": "Pedestal",
+      "url": "https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Sunny",
         "url": "https://open.spotify.com/album/2i3jnMLFQZewasZEC3gVOB"
       },
@@ -287,22 +319,6 @@
       "duration_ms": 211406,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/5SmJPXHVK4G0oKOdn3D5LP"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Moon River (Breakfast at Tiffany's) [Remastered]",
-        "url": "https://open.spotify.com/album/3RnvFVaJrRTpSTFDabNgGA"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hepburn",
-          "url": "https://open.spotify.com/artist/16eV2TebyEhqaDRFEZJ9h8"
-        }
-      ],
-      "duration_ms": 123160,
-      "name": "Moon River (From Breakfast at Tiffany's) [Remastered]",
-      "url": "https://open.spotify.com/track/1XwAKjAZ1xDZOcuyZoqce4"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -387,6 +403,26 @@
       "duration_ms": 124000,
       "name": "Falling for U",
       "url": "https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/022igxh5JAOECiWyHG3Fim"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Johnny Stimson",
+          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+        }
+      ],
+      "duration_ms": 178346,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/3m0gY7t5mC3ipTmMlvt8wM"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -927,22 +963,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Painted (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 210248,
-      "name": "Ready For Love (Extended)",
-      "url": "https://open.spotify.com/track/09423JokPDJAG92SSzshnX"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Zou bisou bisou (Original Version)",
         "url": "https://open.spotify.com/album/6RGW7AdxrvowqfBp4gP5o5"
       },
@@ -1139,22 +1159,6 @@
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "where u are",
-        "url": "https://open.spotify.com/album/4QtgZKyzpwutPTFkMGDFpX"
-      },
-      "artists": [
-        {
-          "name": "Miloe",
-          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
-        }
-      ],
-      "duration_ms": 281170,
-      "name": "where u are",
-      "url": "https://open.spotify.com/track/5Twzpnu3oSKEWEjSHRlhgn"
     },
     {
       "added_at": "2023-10-13 04:00:00",

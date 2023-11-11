@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 269933,
       "name": "Ball and Chain",
       "url": "https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 221426,
       "name": "Behind Blue Eyes",
       "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 208440,
       "name": "Behind Blue Eyes - Lifehouse Chronicles / Demo / Remastered 2022",
       "url": "https://open.spotify.com/track/6uzcfwr0YPe6hsL3rAY3uA"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 222066,
       "name": "Going Mobile",
       "url": "https://open.spotify.com/track/236pPQUEDapfH7Jn6rbhBa"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 189666,
       "name": "Greyhound Girl - Lifehouse Chronicles / Demo / Remastered 2022",
       "url": "https://open.spotify.com/track/2JlX5emTuvWBLXJf48V5tx"
@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Who\u2019s Next : Life House (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280899,
+      "name": "I Don't Even Know Myself - Re-Make / Take 16",
+      "url": "https://open.spotify.com/track/51A3P16XI08faBpppfkrb0"
+    },
+    {
+      "album": {
         "name": "My Generation (Stereo Version)",
         "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
       },
@@ -982,10 +1000,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 264440,
       "name": "Join Together",
       "url": "https://open.spotify.com/track/6JNVCUi0TUeNFVLvyXFJfN"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Next : Life House (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262170,
+      "name": "Join Together - Original Single A-Side Mix",
+      "url": "https://open.spotify.com/track/3L59mpFyXjfEOefwBfDKkj"
     },
     {
       "album": {
@@ -1270,7 +1306,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 301213,
       "name": "Sea And Sand",
       "url": "https://open.spotify.com/track/1mcxcbwbOhBAk3XUSf1KVE"
@@ -1396,7 +1432,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 158426,
       "name": "Summertime Blues",
       "url": "https://open.spotify.com/track/3akHFIHXowtVTTjY4QQvPC"
@@ -1432,7 +1468,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 407680,
       "name": "Teenage Wasteland - Lifehouse Chronicles / Remastered 2022",
       "url": "https://open.spotify.com/track/2N6soaM7Cs8yeSiq5faLi9"
@@ -1594,10 +1630,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 190373,
       "name": "The Seeker - Edit",
       "url": "https://open.spotify.com/track/5orygsZ5Ga0jEOvftsXqw2"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Next : Life House (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192493,
+      "name": "The Seeker - Original Single A-Side Mix",
+      "url": "https://open.spotify.com/track/788cNfvhhitTb5T8GORmqj"
     },
     {
       "album": {
@@ -1630,7 +1684,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 249800,
       "name": "There's A Fortune In Those Hills - Demo / Remastered 2022",
       "url": "https://open.spotify.com/track/3OWo2IdRFjbM3XoqMACb0M"
@@ -1706,6 +1760,24 @@
       "duration_ms": 157353,
       "name": "Under My Thumb - UK Single Mix / Mono Version",
       "url": "https://open.spotify.com/track/1W0VRuwNVPQ44zTomFOpSK"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Next : Life House (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312920,
+      "name": "Water - Re-Make / Take 8",
+      "url": "https://open.spotify.com/track/6M4JSKUxDWN659lNxzn6v4"
     },
     {
       "album": {

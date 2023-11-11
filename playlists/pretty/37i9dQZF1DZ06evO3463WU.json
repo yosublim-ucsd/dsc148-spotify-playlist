@@ -1,15 +1,15 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 136009,
+  "num_followers": 137409,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyODI0MTYsMDAwMDAwMDA0ODRjNDdlNTAyMzJlZTQ2OWVkMzhjYTc3YWY3ZWEwZQ==",
+  "snapshot_id": "MjgzMjcwMTgsMDAwMDAwMDBiZjhkN2M5MjJiMmRhNGZmZDE4NTJkNDNmMDk5NTg2MA==",
   "tracks": [
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Una Noche Cualquiera",
         "url": "https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "M\u00fasica Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "El Vagabundo Que Te Ama",
         "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
@@ -65,23 +65,7 @@
       "url": "https://open.spotify.com/track/3gYgHcEBcuySZwZ2dcTPXV"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
-      "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 227288,
-      "name": "Pero La Recuerdo (Cumbia Santa Maria)",
-      "url": "https://open.spotify.com/track/3Z0qp959lgropPTzCnMbkU"
-    },
-    {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Mis Canciones de Amor",
         "url": "https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa"
@@ -97,7 +81,23 @@
       "url": "https://open.spotify.com/track/3uIpPg75d1L8uIKAQBBz9I"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 227288,
+      "name": "Pero La Recuerdo (Cumbia Santa Maria)",
+      "url": "https://open.spotify.com/track/3Z0qp959lgropPTzCnMbkU"
+    },
+    {
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/5MPY1xEb6E8Lv9HuGKEVLp"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Ya Se Fue",
         "url": "https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k"
@@ -153,23 +153,7 @@
       "url": "https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
-      "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 171409,
-      "name": "Mi Amor Y Mi Agonia",
-      "url": "https://open.spotify.com/track/6GQkrXZHNg4EzgP0Q6exy3"
-    },
-    {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Mis \u00cddolos, Hoy Mis Amigos!!!",
         "url": "https://open.spotify.com/album/4DQQ3pKX45A1Twok8WL0hc"
@@ -189,7 +173,23 @@
       "url": "https://open.spotify.com/track/3xdC10QJ54yltOq8r4fbXa"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 171409,
+      "name": "Mi Amor Y Mi Agonia",
+      "url": "https://open.spotify.com/track/6GQkrXZHNg4EzgP0Q6exy3"
+    },
+    {
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Mis Canciones de Amor",
         "url": "https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/54c9K5pPOCH7vsd0SF9eoC"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Mi Historia",
         "url": "https://open.spotify.com/album/6Xes51EPRhxPClnSVFA9qq"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/54tmAoMDUoz4a1WSZJEkhU"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Hombre Enamorado",
         "url": "https://open.spotify.com/album/5D77PYz1WHp9nna1DkA48I"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/4gfCFNZiohK3xpwCQUUifT"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Mas Fuerte Que Nunca",
         "url": "https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi"
@@ -253,75 +253,7 @@
       "url": "https://open.spotify.com/track/2GV9Q5prIUhhIfnlQG0VzL"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
-      "album": {
-        "name": "Ya No Me Mires As\u00ed",
-        "url": "https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 188166,
-      "name": "Ya No Me Mires As\u00ed",
-      "url": "https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N"
-    },
-    {
-      "added_at": "2023-10-10 13:36:59",
-      "album": {
-        "name": "Lo Mejor De Mi Repertorio",
-        "url": "https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 182741,
-      "name": "Te Amo y Te Lo Digo",
-      "url": "https://open.spotify.com/track/3oyseqmvN8v73vcp7z0yx8"
-    },
-    {
-      "added_at": "2023-10-10 13:36:59",
-      "album": {
-        "name": "Bendita Mujer",
-        "url": "https://open.spotify.com/album/5jzKBAq7ZRUCTCMGX6h5WV"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 209374,
-      "name": "Adios Mi Vida",
-      "url": "https://open.spotify.com/track/6XwAxF4iekTzTgsyZA6mpa"
-    },
-    {
-      "added_at": "2023-10-10 13:36:59",
-      "album": {
-        "name": "Mas Fuerte Que Nunca",
-        "url": "https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 191494,
-      "name": "Yo Estaba Solo",
-      "url": "https://open.spotify.com/track/4XcPwUTY31I4atXFTVE6XB"
-    },
-    {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
@@ -341,7 +273,55 @@
       "url": "https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
+      "album": {
+        "name": "Lo Mejor De Mi Repertorio",
+        "url": "https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 182741,
+      "name": "Te Amo y Te Lo Digo",
+      "url": "https://open.spotify.com/track/3oyseqmvN8v73vcp7z0yx8"
+    },
+    {
+      "added_at": "2023-11-10 12:58:30",
+      "album": {
+        "name": "Bendita Mujer",
+        "url": "https://open.spotify.com/album/5jzKBAq7ZRUCTCMGX6h5WV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 209374,
+      "name": "Adios Mi Vida",
+      "url": "https://open.spotify.com/track/6XwAxF4iekTzTgsyZA6mpa"
+    },
+    {
+      "added_at": "2023-11-10 12:58:30",
+      "album": {
+        "name": "Mas Fuerte Que Nunca",
+        "url": "https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 191494,
+      "name": "Yo Estaba Solo",
+      "url": "https://open.spotify.com/track/4XcPwUTY31I4atXFTVE6XB"
+    },
+    {
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Polvo Y Nada",
         "url": "https://open.spotify.com/album/0tsv50A3ZdXC5EeohYYHag"
@@ -361,10 +341,10 @@
       "url": "https://open.spotify.com/track/3hxmYDtf38nK7MLtbdaHFj"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
-        "name": "Un Poco de Amor",
-        "url": "https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O"
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
       },
       "artists": [
         {
@@ -372,12 +352,12 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 171236,
-      "name": "Un Poco de Amor",
-      "url": "https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4"
+      "duration_ms": 193317,
+      "name": "Adi\u00f3s, Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Del Campo a la Ciudad",
         "url": "https://open.spotify.com/album/1YVcOrdEEN3xZSSRMI5288"
@@ -393,7 +373,59 @@
       "url": "https://open.spotify.com/track/1AvJ3JBfma4kdkpY91rc4l"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
+      "album": {
+        "name": "Un Poco de Amor",
+        "url": "https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 171236,
+      "name": "Un Poco de Amor",
+      "url": "https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4"
+    },
+    {
+      "added_at": "2023-11-10 12:58:30",
+      "album": {
+        "name": "Ya No Me Mires As\u00ed",
+        "url": "https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 188166,
+      "name": "Ya No Me Mires As\u00ed",
+      "url": "https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N"
+    },
+    {
+      "added_at": "2023-11-10 12:58:30",
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 207934,
+      "name": "Al Final De Tu Camino",
+      "url": "https://open.spotify.com/track/7rVKFsz6ZjweGb6zFIRVs4"
+    },
+    {
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Luchar\u00e9 Por Ti",
         "url": "https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7"
@@ -413,7 +445,7 @@
       "url": "https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Desde La Playa Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/5Cg2SJc24bmBeoTQZ3ulVt"
@@ -445,23 +477,7 @@
       "url": "https://open.spotify.com/track/0OiBmdNifHrKDer8l1bUUJ"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
-      "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 193317,
-      "name": "Adi\u00f3s, Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU"
-    },
-    {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Vuelve Por Favor",
         "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Estrenando Amante",
         "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Lo Mejor De Mi Repertorio",
         "url": "https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR"
@@ -517,23 +533,7 @@
       "url": "https://open.spotify.com/track/0h43pLYpldnoNwESdxnoDI"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
-      "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 216827,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/3ejMMFhxszcFqPzsYfLnNL"
-    },
-    {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Qu\u00e9 Bonito",
         "url": "https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u"
@@ -553,23 +553,7 @@
       "url": "https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
-      "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 207934,
-      "name": "Al Final De Tu Camino",
-      "url": "https://open.spotify.com/track/7rVKFsz6ZjweGb6zFIRVs4"
-    },
-    {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Bendita Mujer",
         "url": "https://open.spotify.com/album/5jzKBAq7ZRUCTCMGX6h5WV"
@@ -585,7 +569,39 @@
       "url": "https://open.spotify.com/track/78DazlfpGkIVK2qLsgMemf"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
+      "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 192992,
+      "name": "Mi Amor Sin Ella",
+      "url": "https://open.spotify.com/track/4PPFkIR5X1DwVr2SC1ZZdq"
+    },
+    {
+      "added_at": "2023-11-10 12:58:30",
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 145786,
+      "name": "El Vagabundo Que Te Ama",
+      "url": "https://open.spotify.com/track/4WtQNRxMmkyQUwhFVvpQoe"
+    },
+    {
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
@@ -596,28 +612,12 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 241359,
-      "name": "Inventame Un Amor",
-      "url": "https://open.spotify.com/track/6Nd55mIC9CFul1mVagPtFa"
+      "duration_ms": 216827,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/3ejMMFhxszcFqPzsYfLnNL"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
-      "album": {
-        "name": "Historia De Un Amor",
-        "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Historia De Un Amor",
-      "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
-    },
-    {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC"
@@ -649,10 +649,10 @@
       "url": "https://open.spotify.com/track/5ck9PhKtvFsuCN8zEAG4C4"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa"
+        "name": "Historia De Un Amor",
+        "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
       },
       "artists": [
         {
@@ -660,12 +660,60 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 192992,
-      "name": "Mi Amor Sin Ella",
-      "url": "https://open.spotify.com/track/4PPFkIR5X1DwVr2SC1ZZdq"
+      "duration_ms": 179520,
+      "name": "Historia De Un Amor",
+      "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 213774,
+      "name": "Por Amor Y Fe",
+      "url": "https://open.spotify.com/track/6VD5k9j9LmtxyK4BbrIOV7"
+    },
+    {
+      "added_at": "2023-11-10 12:58:30",
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 241359,
+      "name": "Inventame Un Amor",
+      "url": "https://open.spotify.com/track/6Nd55mIC9CFul1mVagPtFa"
+    },
+    {
+      "added_at": "2023-11-10 12:58:30",
+      "album": {
+        "name": "Me Voy A Alejar",
+        "url": "https://open.spotify.com/album/38rMvKBQVe0yHY5iDGX35E"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 199714,
+      "name": "Me Voy A Alejar",
+      "url": "https://open.spotify.com/track/1zdPjLtWjmwRKKCMAK3Dpj"
+    },
+    {
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Pero La Recuerdo",
         "url": "https://open.spotify.com/album/4DyzbrPk5fhYt9vqzCSDWG"
@@ -685,7 +733,7 @@
       "url": "https://open.spotify.com/track/7l2k7zrU50Xhc6yIps4Brq"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "El Vagabundo Que Te Ama",
         "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
@@ -696,12 +744,12 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 145786,
-      "name": "El Vagabundo Que Te Ama",
-      "url": "https://open.spotify.com/track/4WtQNRxMmkyQUwhFVvpQoe"
+      "duration_ms": 156386,
+      "name": "Ojal\u00e1 Sea Cierto",
+      "url": "https://open.spotify.com/track/4m6NWuvSrcS7keLJAO1aGD"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) [Banda]",
         "url": "https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1"
@@ -721,27 +769,23 @@
       "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
-        "name": "No Va a Matarme Tu Amor",
-        "url": "https://open.spotify.com/album/1C5YP77Dh2dKDNT2B6VpSX"
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 189440,
-      "name": "No Va a Matarme Tu Amor",
-      "url": "https://open.spotify.com/track/3awcf60XKtp6eSWcxGluyT"
+      "duration_ms": 218012,
+      "name": "Pasion de Amor",
+      "url": "https://open.spotify.com/track/7p5sJ5TGAip4705FHdm6KB"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Una Noche Cualquiera",
         "url": "https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC"
@@ -757,7 +801,7 @@
       "url": "https://open.spotify.com/track/1f9qcAI1Kv4FS6Nk6MkpQb"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Te Deseo Lo Mejor (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/4n1aw8mKj9hZTqC8TcXoDr"
@@ -777,27 +821,7 @@
       "url": "https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
-      "album": {
-        "name": "Con El Alma Marchita",
-        "url": "https://open.spotify.com/album/7sYFshjpDNY6M4Z1AGySqb"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        }
-      ],
-      "duration_ms": 200546,
-      "name": "Con El Alma Marchita",
-      "url": "https://open.spotify.com/track/0u0BI9iLG7JzCr0x4eXXWw"
-    },
-    {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Esta Va por Ti",
         "url": "https://open.spotify.com/album/2ldbuKO6qKF6iNxn43cusK"
@@ -817,7 +841,27 @@
       "url": "https://open.spotify.com/track/3R8WZ9lTTEFHifPtRbVTpZ"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
+      "album": {
+        "name": "No Va a Matarme Tu Amor",
+        "url": "https://open.spotify.com/album/1C5YP77Dh2dKDNT2B6VpSX"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "No Va a Matarme Tu Amor",
+      "url": "https://open.spotify.com/track/3awcf60XKtp6eSWcxGluyT"
+    },
+    {
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Una Noche Cualquiera",
         "url": "https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC"
@@ -833,42 +877,10 @@
       "url": "https://open.spotify.com/track/41biWbuI9FIa4Kk3d53q1Z"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 218012,
-      "name": "Pasion de Amor",
-      "url": "https://open.spotify.com/track/7p5sJ5TGAip4705FHdm6KB"
-    },
-    {
-      "added_at": "2023-10-10 13:36:59",
-      "album": {
-        "name": "Al Sabor Del Champagne",
-        "url": "https://open.spotify.com/album/2Fg4m6JftW78wXMQ1bEaUG"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 172068,
-      "name": "Al Sabor Del Champagne",
-      "url": "https://open.spotify.com/track/31CBLt8Zkp2kEE6JX8aWx0"
-    },
-    {
-      "added_at": "2023-10-10 13:36:59",
-      "album": {
-        "name": "Oh Carol",
-        "url": "https://open.spotify.com/album/1qXOg0IGKb4tk2dUSuULWB"
+        "name": "Con El Alma Marchita",
+        "url": "https://open.spotify.com/album/7sYFshjpDNY6M4Z1AGySqb"
       },
       "artists": [
         {
@@ -876,16 +888,16 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Banda AT",
-          "url": "https://open.spotify.com/artist/3yNkh615RFz50gE4kRlXto"
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         }
       ],
-      "duration_ms": 157808,
-      "name": "Oh Carol",
-      "url": "https://open.spotify.com/track/0oyTIk8169r7VcZJdcty20"
+      "duration_ms": 200546,
+      "name": "Con El Alma Marchita",
+      "url": "https://open.spotify.com/track/0u0BI9iLG7JzCr0x4eXXWw"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
         "name": "Desde La Playa Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/5Cg2SJc24bmBeoTQZ3ulVt"
@@ -917,36 +929,24 @@
       "url": "https://open.spotify.com/track/4eAMrahsJUpJipw0mqJDtn"
     },
     {
-      "added_at": "2023-10-10 13:36:59",
+      "added_at": "2023-11-10 12:58:30",
       "album": {
-        "name": "No Creo Merecerte",
-        "url": "https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh"
+        "name": "Oh Carol",
+        "url": "https://open.spotify.com/album/1qXOg0IGKb4tk2dUSuULWB"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 185853,
-      "name": "No Creo Merecerte",
-      "url": "https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3"
-    },
-    {
-      "added_at": "2023-10-10 13:36:59",
-      "album": {
-        "name": "La Fuerza Del Amor",
-        "url": "https://open.spotify.com/album/2B4Ry5xyWtrJeIj8JiqCmo"
-      },
-      "artists": [
+        },
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+          "name": "Banda AT",
+          "url": "https://open.spotify.com/artist/3yNkh615RFz50gE4kRlXto"
         }
       ],
-      "duration_ms": 257213,
-      "name": "La Fuerza Del Amor",
-      "url": "https://open.spotify.com/track/7IYqBfbJyLX1e2MYf04ezI"
+      "duration_ms": 157808,
+      "name": "Oh Carol",
+      "url": "https://open.spotify.com/track/0oyTIk8169r7VcZJdcty20"
     }
   ],
   "unique_name": "This Is Pancho Barraza",

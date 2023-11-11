@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Absence",
+        "url": "https://open.spotify.com/album/4M1luvk5n3bOrOwRCk9B9a"
+      },
+      "artists": [
+        {
+          "name": "Isla Cantrell",
+          "url": "https://open.spotify.com/artist/2KZi2E7jiI5QACfJTfQFwM"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Absence",
+      "url": "https://open.spotify.com/track/4WaThr1vH0Yibn0mL4EaGH"
+    },
+    {
+      "album": {
         "name": "Acceptance",
         "url": "https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx"
       },
@@ -312,6 +330,24 @@
       "duration_ms": 166406,
       "name": "Already Missing Summer",
       "url": "https://open.spotify.com/track/4ISntdSrLq20YiFzT96SkN"
+    },
+    {
+      "album": {
+        "name": "Ambiorix",
+        "url": "https://open.spotify.com/album/3NeEruWCStQvCzS9cwt6s6"
+      },
+      "artists": [
+        {
+          "name": "Deltachromatique",
+          "url": "https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170374,
+      "name": "Ambiorix",
+      "url": "https://open.spotify.com/track/7J3nQarp8FIGvQVk2vQytB"
     },
     {
       "album": {
@@ -2610,6 +2646,24 @@
     {
       "album": {
         "name": "Hills",
+        "url": "https://open.spotify.com/album/2Qoz4wkyZ0mXLwsdSryAZ0"
+      },
+      "artists": [
+        {
+          "name": "Sizmara",
+          "url": "https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153464,
+      "name": "Hills",
+      "url": "https://open.spotify.com/track/1PZbzrqct1Hh4FkBkAH85N"
+    },
+    {
+      "album": {
+        "name": "Hills",
         "url": "https://open.spotify.com/album/4jgjzmK773C6q9NGVAtD0l"
       },
       "artists": [
@@ -2620,7 +2674,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 153464,
       "name": "Hills",
       "url": "https://open.spotify.com/track/6rMM5c330kAz3wKRmH4IRn"
@@ -2818,7 +2872,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 193777,
       "name": "Insieme",
       "url": "https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ"
@@ -6040,7 +6094,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 193548,
       "name": "Vast Surroundings",
       "url": "https://open.spotify.com/track/6xCgUaot7EEpxQRGtW7S0O"

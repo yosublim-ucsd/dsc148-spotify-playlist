@@ -1,13 +1,45 @@
 {
-  "description": "All new, all blues. Cover: ZZ Ward",
-  "num_followers": 145221,
+  "description": "All new, all blues. Cover: Shanice Green",
+  "num_followers": 145269,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGFmMjVkMmQzMjI1NmZjZjU2ZDExODM4YTIxZmU3MzNhZGU0NWRj",
+  "snapshot_id": "MCwxYzhjZTA4Y2E1MWM5NjM0ZWJmNWViYjBmZjQwNGJiNGM4ZTliNjM4",
   "tracks": [
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Train",
+        "url": "https://open.spotify.com/album/30441czI78xULystFpO9p5"
+      },
+      "artists": [
+        {
+          "name": "Shanice Green",
+          "url": "https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/2OSgMSxdu1OgPWZmjSICtt"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Sidecar",
+        "url": "https://open.spotify.com/album/64o0omYS856v58Mm7rMvDp"
+      },
+      "artists": [
+        {
+          "name": "Kenny Sharp",
+          "url": "https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "Cold Hard Truth",
+      "url": "https://open.spotify.com/track/3qSPTt22YYuzjpM2KIzsbp"
+    },
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
@@ -327,22 +359,6 @@
       "duration_ms": 158400,
       "name": "Sundress Season",
       "url": "https://open.spotify.com/track/2UCJ0tbxu54jEgU48YmAff"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Grown Folks Love",
-        "url": "https://open.spotify.com/album/4IPV2zybll9xnQg8r1vx6J"
-      },
-      "artists": [
-        {
-          "name": "Kenny Sharp",
-          "url": "https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Grown Folks Love",
-      "url": "https://open.spotify.com/track/60Bnlpj51IUFDK7Tcyinii"
     },
     {
       "added_at": "2023-05-02 14:28:40",
@@ -1563,22 +1579,6 @@
       "duration_ms": 180800,
       "name": "Spin Me Round",
       "url": "https://open.spotify.com/track/0iEo9wkzqOfVfVkezh8obQ"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3YBphoBChUZZa490iIB62T"
-      },
-      "artists": [
-        {
-          "name": "Cory Young",
-          "url": "https://open.spotify.com/artist/2Q9hV3hL1afFgz6kRegFEg"
-        }
-      ],
-      "duration_ms": 123452,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/1kQX0xM3efET212Y1Lq0ZG"
     },
     {
       "added_at": "2022-02-25 05:02:00",

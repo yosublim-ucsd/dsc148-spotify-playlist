@@ -2849,6 +2849,28 @@
     },
     {
       "album": {
+        "name": "Thanga Magale",
+        "url": "https://open.spotify.com/album/7usdwmLURTexL1nUdmnlmL"
+      },
+      "artists": [
+        {
+          "name": "Vibin Baskar",
+          "url": "https://open.spotify.com/artist/3OisU7UGOiAZ7PmJrV128w"
+        },
+        {
+          "name": "Srini Selvaraj",
+          "url": "https://open.spotify.com/artist/3e7p6Qs8gwYezBhY1V2ypm"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194204,
+      "name": "Thanga Magale",
+      "url": "https://open.spotify.com/track/5dwCMKQcJodMO8rWFcuv7p"
+    },
+    {
+      "album": {
         "name": "Thangapulla",
         "url": "https://open.spotify.com/album/6pZB09ZNIIdwmaeIEH16Qw"
       },

@@ -4,7 +4,7 @@
 
 > Instrumental relaxing jazz with the cozy sound of soft vinyl crackle.
 
-25 songs - 1 hr 10 min
+26 songs - 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Ruby me dear](https://open.spotify.com/track/5UjVAb3BTVReMbqmjWRA1I) | [Alicia Sterner](https://open.spotify.com/artist/5WNrIhpt9DdDgMBzXJhZMu) | [Ruby me dear](https://open.spotify.com/album/7eBMDEhvGNaDybjNgygMpK) | 2:35 | 2023-05-12 |  |
 | [Sleep Next To Me Darling](https://open.spotify.com/track/0HsgwgxchAtdnxs1jwHHzn) | [The Midnight Quartet](https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld) | [Sleep Next To Me Darling](https://open.spotify.com/album/4ic3hlnkS8PAlXZqBk2JsI) | 2:32 | 2023-05-12 |  |
 | [Still](https://open.spotify.com/track/1coxapf3dtylD5wl43ww8A) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Still](https://open.spotify.com/album/3ZEE7nBAnMYh8ipXXITrxu) | 2:55 | 2023-05-12 |  |
+| [the first time I saw you \- vinyl](https://open.spotify.com/track/449AWJd3vIhEiKRpLQ6KHg) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [the first time I saw you \- vinyl](https://open.spotify.com/album/3HsM2vOcknZpChNQNhHFBj) | 2:57 | 2023-11-10 |  |
 | [The Masquerade is Over](https://open.spotify.com/track/4NLUFoyaX8hORCATnJ3hOL) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [The Masquerade is Over](https://open.spotify.com/album/203twYDlbyx4VnwOPxm0cJ) | 2:40 | 2023-05-12 |  |
 | [The Night We Called It A Day](https://open.spotify.com/track/1bcX1m3L3Mil06ViTrMZwW) | [Charlie Hacket](https://open.spotify.com/artist/62jSmyPVlrdwQVXddRZWro) | [The Night We Called It A Day](https://open.spotify.com/album/7IxmUJgQR2qGZxWnuaYiwN) | 2:57 | 2023-05-12 |  |
 | [Unforgettable](https://open.spotify.com/track/54ssz8UwxkRTcwR1GkE1O9) | [Sean Eastman](https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint) | [Unforgettable](https://open.spotify.com/album/60GvB1LpuZEejTw6HrC7kf) | 2:33 | 2023-05-12 |  |

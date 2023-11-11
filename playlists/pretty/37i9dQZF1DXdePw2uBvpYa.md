@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,189 likes - 52 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,590 likes - 52 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 | 10 | [I Was Made for Lovin' You](https://open.spotify.com/track/0m0yp4DfZG8HI80byBbv3n) | [Queen of Japan](https://open.spotify.com/artist/1KgOUOeP1C4B0neabVHAwv) | [Headrush](https://open.spotify.com/album/0Tzw30NIDBVdrMjXmWl4EC) | 3:53 |
 | 11 | [Dancing with Myself \- Single Version](https://open.spotify.com/track/5ABwsrPHOZJTwYzOdd7huO) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Dancing with Myself](https://open.spotify.com/album/2YAvjBR8meBp1k5CpaTINc) | 3:27 |
 | 12 | [I Bet You Look Good On The Dancefloor \- Arctic Babes Mix](https://open.spotify.com/track/36bTUqjD7QyMY5ABZqVwLv) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Best Of The Bs](https://open.spotify.com/album/7rkyBR3TJuM7EtXlZROo27) | 2:46 |
-| 13 | [Four Letter Words](https://open.spotify.com/track/0F7plvzEr2eu5aHZwW3uE7) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Four Letter Words](https://open.spotify.com/album/3cezfDIOGBVAtXaEuG2L2n) | 2:27 |
+| 13 | [Four Letter Words](https://open.spotify.com/track/5mMoKKuuPNGDBvwiN7tmot) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Inside Voices / Outside Voices](https://open.spotify.com/album/1Ct0Q2DpQ7TjqdG3Ys453S) | 2:27 |
 | 14 | [Bad Lieutenant](https://open.spotify.com/track/5OtJV84lmbqSfrE8VBLFBy) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Bad Lieutenant](https://open.spotify.com/album/03XbxOVj2wfUVZrccBgPBB) | 3:17 |
 | 15 | [Boys Wanna Be Her](https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Impeach My Bush](https://open.spotify.com/album/5CSak2h5F36n6QieudTObv) | 3:55 |
 | 16 | [I Heard It Through The Grapevine](https://open.spotify.com/track/2tlQN0gUJz6tW7bPunEaid) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:58 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 | 29 | [Payback](https://open.spotify.com/track/4dr4fIdDQNhUWmlGpr3Tyr) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Dream Nails](https://open.spotify.com/album/0V68qsHQh9pancGCrfcxev) | 3:24 |
 | 30 | [Pushin'](https://open.spotify.com/track/1iUgUziUH4KwAVtxxICzZV) | [Sink Ya Teeth](https://open.spotify.com/artist/0aq2fCpDaNe60p3ketTtoh) | [Sink Ya Teeth](https://open.spotify.com/album/5re03NF2bCRxx92ghyCv2a) | 3:38 |
 | 31 | [Resurrection](https://open.spotify.com/track/1AZWLziLGgegCnfaMjIthY) | [Fey Militia](https://open.spotify.com/artist/5NxxFAgCESXZFB6c85VNHD) | [Mabel](https://open.spotify.com/album/7GGqscQe21RIHWXKDOkyXB) | 4:15 |
-| 32 | [Drums](https://open.spotify.com/track/3kuzQUrNBLcd9FBMEB4iCK) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Nova Twins EP](https://open.spotify.com/album/7nK1JsD5skKBPk7MgUrW78) | 2:44 |
+| 32 | [Drums](https://open.spotify.com/track/3bKeShmrQ2u9VJoJRVGUvJ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Nova Twins EP](https://open.spotify.com/album/1XJ5VnFWxh5CcErfLZcetk) | 2:45 |
 | 33 | [Entertainment 4 Sale](https://open.spotify.com/track/2KRd7MYrm6tU6B28YVr5uv) | [MARTYRIALS](https://open.spotify.com/artist/14SQF38mdDQ80AaAKMQqFz) | [Electric Delegates](https://open.spotify.com/album/2zZ0lqvJPTE0K5gSJAhomN) | 4:59 |
 | 34 | [We Are Girls](https://open.spotify.com/track/4OVxXWDWbk0gZGOV4lzD0O) | [IDestroy](https://open.spotify.com/artist/5m2DSPGIv5M0WZmeeVskFF) | [We Are Girls](https://open.spotify.com/album/1K9yAJIOcVuLdmq7wcBjvE) | 2:53 |
 | 35 | [Ghost Box](https://open.spotify.com/track/1jFBqKJWI9qT1EqGUwJ6ay) | [Oh, The Guilt](https://open.spotify.com/artist/1tOdjzrPSoE5mnzyPbreon) | [Ghost Box](https://open.spotify.com/album/7waMJqJpxh6Qri4HtNJvvL) | 4:12 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 | 51 | [The Best](https://open.spotify.com/track/6fekGHLJPWZQZQhPJgcJfl) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Compliments Please \(Deluxe\)](https://open.spotify.com/album/1HkSxzhUUhZBEhgLSYenex) | 3:50 |
 | 52 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
 
-Snapshot ID: `MCxmODExNmU2NzEwNzRhNmEwY2FhNjZjZGU1YzkwYzRlZGNhNjVlMzc1`
+Snapshot ID: `MCw2OGM2NDA5NmQxOTdiODQ1NGQwOTRlMGFiNGVmNDZjYTQxNDFjNzdh`

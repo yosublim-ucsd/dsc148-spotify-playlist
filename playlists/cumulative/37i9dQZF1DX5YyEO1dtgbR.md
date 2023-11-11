@@ -4,7 +4,7 @@
 
 > Experimental electronic beyond the borders of tradition.
 
-124 songs - 9 hr 30 min
+125 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,8 +112,9 @@
 | [Sympathetic Cycle](https://open.spotify.com/track/7xqA2LMreNRVdxxX3Ant5v) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [Sympathetic Cycle](https://open.spotify.com/album/2wQR6WKiEKoEFYV7caqzAf) | 5:01 | 2021-10-15 | 2022-07-29 |
 | [The Look of Accessibility](https://open.spotify.com/track/33zJbabn0yQiT6RUY5lit8) | [Love Letters](https://open.spotify.com/artist/1ALDJWUSGEnfpul5JCtjbD) | [Beyond High Demand](https://open.spotify.com/album/3cSxAbJAYn4D7ud12tNOSr) | 5:11 | 2021-10-15 | 2022-07-29 |
 | [The Look of Accessibility](https://open.spotify.com/track/3mg8dRdGN5jg0KqWqKh9pj) | [Love Letters](https://open.spotify.com/artist/1ALDJWUSGEnfpul5JCtjbD) | [Beyond High Demand](https://open.spotify.com/album/3Oh8jr7QdDq476EtSggH2S) | 5:11 | 2022-06-14 |  |
-| [The Way You Hold Me](https://open.spotify.com/track/561IJM4EsmgVwOd7AWW4vn) | [3STRANGE](https://open.spotify.com/artist/4H9nlRIz8akpjJurwlFf6i) | [The Way You Hold Me](https://open.spotify.com/album/3XkXaWxW8Wo9FK7LnnRMll) | 3:37 | 2022-06-14 |  |
+| [The Way You Hold Me](https://open.spotify.com/track/561IJM4EsmgVwOd7AWW4vn) | [3STRANGE](https://open.spotify.com/artist/4H9nlRIz8akpjJurwlFf6i) | [The Way You Hold Me](https://open.spotify.com/album/3XkXaWxW8Wo9FK7LnnRMll) | 3:37 | 2022-06-14 | 2023-11-11 |
 | [The Way You Hold Me](https://open.spotify.com/track/64lsUto35QFrB6zpXWaOf2) | [3STRANGE](https://open.spotify.com/artist/4H9nlRIz8akpjJurwlFf6i) | [The Way You Hold Me](https://open.spotify.com/album/7BVPlloQ8udP1RuXwC6jF6) | 3:37 | 2021-10-15 | 2022-07-29 |
+| [The Way You Hold Me](https://open.spotify.com/track/72gUTSQmBNNI7XTORGG2E7) | [3STRANGE](https://open.spotify.com/artist/4H9nlRIz8akpjJurwlFf6i) | [The Way You Hold Me](https://open.spotify.com/album/4dmgSI04oTgpUN3PUpJ9ju) | 3:37 | 2022-06-14 |  |
 | [Theeves](https://open.spotify.com/track/21akbV3wXyKaD37ogldlzB) | [Jurango](https://open.spotify.com/artist/3yYwPy49Jy9zvElS6bsfxo) | [Theeves](https://open.spotify.com/album/3hvtDPoc9bAZBwBaVMJRZ9) | 4:38 | 2021-10-15 | 2022-07-29 |
 | [Theeves](https://open.spotify.com/track/4VRciykolhMXLnVu1CRsah) | [Jurango](https://open.spotify.com/artist/3yYwPy49Jy9zvElS6bsfxo) | [Retreat Ites EP](https://open.spotify.com/album/1E9m2jD5jcDixtNI4iyFol) | 4:38 | 2022-06-14 |  |
 | [Those Tears of Hutton](https://open.spotify.com/track/49WbV4XtJ5QWJd2m5UrwSg) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [This Moment of Silence](https://open.spotify.com/album/6Zj6qfpTfQCmlyajevOM8z) | 6:15 | 2021-10-15 |  |

@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Luke Combs
 
-138 songs - 9 hr 44 min
+139 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Just When I Needed You Most \- Live](https://open.spotify.com/track/0UvfWrjpczCbLVG3u8xfw5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McGRAW \(The Ultimate Collection\)](https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT) | 3:31 | 2021-07-22 |  |
 | [Landslide \- Live from Nashville](https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:17 | 2021-07-22 |  |
 | [Life In A Northern Town \- Live](https://open.spotify.com/track/0TwCdMeFjEltHiNjtii8Jk) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD), [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Love On The Inside](https://open.spotify.com/album/4JcEVEfuqjJhPxmi1Ji3Fl) | 4:14 | 2021-07-22 |  |
+| [Margaritaville \- Live at Coastal Credit Union Music Park at Walnut Creek, Raleigh, NC, 10.05.2023](https://open.spotify.com/track/70OjE1ads6dRCLzMMYn6jU) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [From The Road, Vol\. 1: Covers](https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0) | 4:24 | 2023-11-10 |  |
 | [Maybe It Was Memphis](https://open.spotify.com/track/7Cu1WRfqU2sm1470dCutxZ) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Pam Tillis](https://open.spotify.com/album/7KCjgrs9zBHbIAGhuj3EtV) | 5:01 | 2023-11-03 |  |
 | [Maybe It Was Memphis \- Live](https://open.spotify.com/track/7ygoOcZoGWWXddt5P1RTL0) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Pam Tillis \- Live in Nashville](https://open.spotify.com/album/50ZUmHBs3YcId8YHGD3HcL) | 4:59 | 2021-07-22 | 2023-11-05 |
 | [Me and My Kind \- Live](https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Me and My Kind \(Live\)](https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc) | 2:43 | 2022-11-18 |  |

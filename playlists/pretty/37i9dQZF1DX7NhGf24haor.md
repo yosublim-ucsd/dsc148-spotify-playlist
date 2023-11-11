@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Ran\-D
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,410 likes - 96 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,559 likes - 96 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 95 | [Ruffneck Sound](https://open.spotify.com/track/0QVF56A9dHRJh9iB7L5tZ5) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Ruffneck Sound](https://open.spotify.com/album/4yOfxfaE7xQmSaXjfRc2Xz) | 2:46 |
 | 96 | [Burn The Place Up](https://open.spotify.com/track/3JFlEtsbsAb74sz7rkB4kW) | [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2), [Redhot](https://open.spotify.com/artist/3YnnRFY9QQ9F91WEnvTILG) | [Burn The Place Up](https://open.spotify.com/album/2cAAQ0ANoKN9V3Ze3vKQjN) | 3:07 |
 
-Snapshot ID: `MCw5NTljYTk4NjllOTIyYzNlYmY1MWEzNTA2MWQyODM1NmU1OTkxZTk0`
+Snapshot ID: `MCw2Zjc5MjNlYzZiYjY2NDEzZWI5NGFhYTFhNTVkMDAzZDRiMDJhYTc1`

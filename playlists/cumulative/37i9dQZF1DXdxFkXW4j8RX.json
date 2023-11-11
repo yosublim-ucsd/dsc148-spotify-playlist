@@ -192,7 +192,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 230058,
       "name": "Aunque No Valga Nada",
       "url": "https://open.spotify.com/track/3tntsQI2S7aIW0W26isOJu"
@@ -2240,10 +2240,36 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 228000,
       "name": "Milagros en el Caos",
       "url": "https://open.spotify.com/track/6gcyAjhtJ6CjYVkXKDv5d1"
+    },
+    {
+      "album": {
+        "name": "Milagros en el Caos",
+        "url": "https://open.spotify.com/album/2gBcZlh6oBg5M7g2yDrBCw"
+      },
+      "artists": [
+        {
+          "name": "Motafonkas",
+          "url": "https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS"
+        },
+        {
+          "name": "Tresktorce",
+          "url": "https://open.spotify.com/artist/7qqZnLTJGUoq0wyxy46BI4"
+        },
+        {
+          "name": "D2habiles",
+          "url": "https://open.spotify.com/artist/6ZL8v9lb8RZIMRmDOCKvPT"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Milagros en el Caos",
+      "url": "https://open.spotify.com/track/79CgqHw2mR0Hgb35GH0v9f"
     },
     {
       "album": {
@@ -3264,6 +3290,32 @@
       "duration_ms": 170306,
       "name": "THE ROOKIE",
       "url": "https://open.spotify.com/track/3Q2iwtxmzLEIQm0mrSXr5N"
+    },
+    {
+      "album": {
+        "name": "The World Is Yours",
+        "url": "https://open.spotify.com/album/33WytGAygYELMRPR9OUF4L"
+      },
+      "artists": [
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "Ronpe 99",
+          "url": "https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh"
+        },
+        {
+          "name": "Ruff-T",
+          "url": "https://open.spotify.com/artist/0Dsp4sSqVJU7wu1yeDZRmL"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/77vayMNpKnWNtE5nuiKn77"
     },
     {
       "album": {

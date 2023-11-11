@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Edwin Rosen
 
-430 songs - 20 hr 53 min
+431 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Farben](https://open.spotify.com/track/1rtc6E93KWPjsDZmsnI875) | [Ann Can't Talk](https://open.spotify.com/artist/0EylhTdGUMAzDIthmoDoe9) | [Farben](https://open.spotify.com/album/720iPf3MprVFWIerPdiuH9) | 2:56 | 2023-02-02 | 2023-03-10 |
 | [Farbverlauf](https://open.spotify.com/track/0mSTVa3P2tv6zGRK2J63wI) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [Farbverlauf](https://open.spotify.com/album/6BbW7UG3EPMKyWUTnob6NJ) | 2:26 | 2023-09-14 | 2023-10-27 |
 | [Feelings](https://open.spotify.com/track/3ARaFYOzYgmbyHNxYRlJZ2) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA), [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt) | [Feelings](https://open.spotify.com/album/4sSwJVJ2R6L5ajWkM8c2HA) | 2:37 | 2023-07-20 | 2023-08-04 |
-| [Fenster auf Kipp](https://open.spotify.com/track/0cfBIQ89cy4gbtSFBAbF9T) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA), [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Fenster auf Kipp](https://open.spotify.com/album/02gkjAxSAlQkCFr7cs62PJ) | 2:39 | 2023-11-09 |  |
+| [Fenster auf Kipp](https://open.spotify.com/track/06JHBPAAEf3wJmTVAFLxAS) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA), [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Wir tun uns so gut weh](https://open.spotify.com/album/45rmX0DDIU3FKDeM74HJLE) | 2:39 | 2023-11-09 |  |
+| [Fenster auf Kipp](https://open.spotify.com/track/0cfBIQ89cy4gbtSFBAbF9T) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA), [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Fenster auf Kipp](https://open.spotify.com/album/02gkjAxSAlQkCFr7cs62PJ) | 2:39 | 2023-11-09 | 2023-11-11 |
 | [Feuer](https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Feuer](https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl) | 2:54 | 2023-05-18 | 2023-08-04 |
 | [Fieber](https://open.spotify.com/track/1DvKUXOcuLJT2H75LuAQY7) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fieber / Glatteis](https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f) | 2:17 | 2023-02-13 | 2023-02-15 |
 | [Fluch](https://open.spotify.com/track/29psttIS4krdh6Ontzt2EI) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [Fluch](https://open.spotify.com/album/1s9T6GwxiNw8mTifI5YEZh) | 2:07 | 2023-03-23 | 2023-06-09 |

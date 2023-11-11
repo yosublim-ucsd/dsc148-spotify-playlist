@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTiKrF1Gb3Cp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTiKrF1Gb3Cp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTiKrF1Gb3Cp)
 
-### [Gaming Malandro](https://open.spotify.com/playlist/37i9dQZF1DWTiKrF1Gb3Cp)
+### [Gaming Belicón](https://open.spotify.com/playlist/37i9dQZF1DWTiKrF1Gb3Cp)
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-138 songs - 8 hr 16 min
+139 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Borracho Gacho](https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Vicio y la Fama](https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI) | 2:45 | 2023-02-23 |  |
 | [Burbujas de Cristal](https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Burbujas de Cristal](https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ) | 3:44 | 2023-02-23 |  |
 | [BÉLICO](https://open.spotify.com/track/2m0rgXMm37XwkwjDM5QLBv) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [BÉLICO](https://open.spotify.com/album/4o8vodKZQFyHtS6sYuiFtd) | 3:48 | 2023-07-07 |  |
+| [certeros](https://open.spotify.com/track/05XNGfkw7iWDYukQbiR4fc) | [Lil Wacho](https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [certeros](https://open.spotify.com/album/4M9iw709hphgt8LJVDzNTr) | 3:35 | 2023-11-10 |  |
 | [Chalineras](https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Chalineras](https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2) | 3:37 | 2023-10-13 |  |
 | [Chingo de Cheve](https://open.spotify.com/track/15zmYFxKIToe8TlX3JbHLm) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Millonario Sin Corona](https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3) | 3:29 | 2023-02-23 |  |
 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 | 2023-02-23 |  |
@@ -82,7 +83,7 @@
 | [Mal Ejemplo](https://open.spotify.com/track/5ACoDyUWazcetrFnCL4aXZ) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Mal Ejemplo, Vol\. 3](https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow) | 5:02 | 2023-02-23 |  |
 | [Malandro](https://open.spotify.com/track/1120swm4qMnIJMnBp5oFgo) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Locofonías](https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT) | 2:46 | 2023-02-23 | 2023-06-03 |
 | [Malo Es No Hacer Billete](https://open.spotify.com/track/1qokziiqQTfZyXdroK13rP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Malo Es No Hacer Billete](https://open.spotify.com/album/1cyMKWjSIl6fL1hQg67QIJ) | 2:49 | 2023-09-22 |  |
-| [Mariguana & Tequila](https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Robot Montana](https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P) | 2:55 | 2023-02-23 |  |
+| [Mariguana & Tequila](https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Robot Montana](https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P) | 2:55 | 2023-02-23 | 2023-11-11 |
 | [Me Quieren Hablar](https://open.spotify.com/track/5Zg8JvIOfmf2UpJ16NeSxO) | [Osiris El Enemy](https://open.spotify.com/artist/0sYqNybTSecGUJAMu3qQUl), [Mbs Rolling](https://open.spotify.com/artist/4GIy6u1MoQSwTIgeBexEKY), [Krusha G](https://open.spotify.com/artist/4OTXdFDQv95Y2bcB4TBYZw) | [Me Quieren Hablar](https://open.spotify.com/album/5q2l1YuIsTkB6J0iZlznHA) | 2:53 | 2023-09-15 | 2023-10-14 |
 | [Me Voy a Poner Bien Loco](https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:23 | 2023-02-23 |  |
 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 | 2023-02-23 |  |

@@ -510,7 +510,7 @@
     {
       "album": {
         "name": "Pushing the Senses",
-        "url": "https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC"
+        "url": "https://open.spotify.com/album/7mFJM4nlo4oaPYaUMJhSWv"
       },
       "artists": [
         {
@@ -521,6 +521,24 @@
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 248760,
+      "name": "Feeling a Moment",
+      "url": "https://open.spotify.com/track/26FPGV8xgRwsQUHefWKNg6"
+    },
+    {
+      "album": {
+        "name": "Pushing the Senses",
+        "url": "https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
       "duration_ms": 248760,
       "name": "Feeling A Moment",
       "url": "https://open.spotify.com/track/4nUrNul2oNVra6YAjigenk"

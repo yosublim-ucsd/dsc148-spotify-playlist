@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: יובל דיין
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,595 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,599 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 49 | [מה אתה לא מבין](https://open.spotify.com/track/2XTvuVkcbbIVhK0v0wzVPY) | [טל טרבלסי](https://open.spotify.com/artist/6nCdVU7ShDh0vdfQzGfogB) | [מה אתה לא מבין](https://open.spotify.com/album/2f3ZnBRD8BbM9thsN8lxXq) | 2:17 |
 | 50 | [Not Afraid](https://open.spotify.com/track/1ez11rgQDRuoEXklk9lUQG) | [InAbell](https://open.spotify.com/artist/7mST3kQ7nO7i94aZnEromT) | [Not Afraid](https://open.spotify.com/album/7pdA9xPh0l2kR5m8sBaQU2) | 3:35 |
 
-Snapshot ID: `MCw0YjVkYTllZmQ0ZTkzMzQ3YjVjYTUyYzI2ZDE4NWRlMWVmYjE4YjM5`
+Snapshot ID: `MCxlNzUwMzhmODVlMDY5OTNiMDQxZGE1NjFjYWY2ODlhMDIzOWE4Nzhk`

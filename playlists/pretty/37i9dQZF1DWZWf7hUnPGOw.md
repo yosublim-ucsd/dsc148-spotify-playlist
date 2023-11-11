@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,068 likes - 217 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,162 likes - 217 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 83 | [Things Won't Return](https://open.spotify.com/track/1kS3tEfUGOXe3tDyhA9Cu0) | [Josh Rennie\-Hynes](https://open.spotify.com/artist/3YRZWrA1WzMaDfOPoQVHCp) | [Day Rage](https://open.spotify.com/album/6k6bjI5nUXq8Oenlg7Glgi) | 2:52 |
 | 84 | [Battle](https://open.spotify.com/track/562unnYUADErsgCUy76JiP) | [hunnybunny](https://open.spotify.com/artist/1mR4Ye4Id0Vk14SQS7M54m) | [Battle](https://open.spotify.com/album/4q5AcEjTYSih2NJ7Pzg4G7) | 3:37 |
 | 85 | [Here I Come Edge \- Main Mix](https://open.spotify.com/track/72iqd0364DOXYs0djzHYtx) | [Michael Edward Hightower](https://open.spotify.com/artist/5WnleJQVlhXY4VsgWbftor) | [Coming Home](https://open.spotify.com/album/3tD9c1POeK7ixRwTnj4jZk) | 3:00 |
-| 86 | [No Easy Way Out](https://open.spotify.com/track/2DiSIsMYLpSwt1Oj0HWLJZ) | [Bonny Cameryn Moon](https://open.spotify.com/artist/55hSaQLSWxgTKHqLesZs8c), [Chris Nole](https://open.spotify.com/artist/4VgHlBqO0dcrhFpuoPtHFB) | [Btm Vocal Series: Americana the Beautiful, Vol\. I](https://open.spotify.com/album/4FrKyogjbHUYgmhqQxaRrN) | 3:38 |
+| 86 | [No Easy Way Out](https://open.spotify.com/track/2DiSIsMYLpSwt1Oj0HWLJZ) | [Bonny Cameryn Moon](https://open.spotify.com/artist/55hSaQLSWxgTKHqLesZs8c) | [Btm Vocal Series: Americana the Beautiful, Vol\. I](https://open.spotify.com/album/4FrKyogjbHUYgmhqQxaRrN) | 3:38 |
 | 87 | [Plain Jane](https://open.spotify.com/track/7GNZ86KkpBKb8G2siivwkS) | [Kelly Pardekooper](https://open.spotify.com/artist/3QostG2Gp1xKnJUr0857oX) | [City at Night](https://open.spotify.com/album/6rEhhqaTQ3OD3oXxXsjTcU) | 3:18 |
 | 88 | [Tunnels and Lines](https://open.spotify.com/track/0wI6oSiCPq1nfG0vvUPX1r) | [Ocha la Rocha](https://open.spotify.com/artist/3aYqKgh8yPcgHgvGrtiKbG) | [Ocha Scores](https://open.spotify.com/album/5neD4cM7aAEPaSv0pTDPZF) | 4:10 |
 | 89 | [Wheels Keep Spinning](https://open.spotify.com/track/0FJNcwBAZ6zjGkJ6FjbHgG) | [Danny Brooks](https://open.spotify.com/artist/3iy0FX1d73IIAJx99mwB3h) | [It's A Southern Thing](https://open.spotify.com/album/4GhLVSMBnTsBqZStcVQOgq) | 4:08 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 216 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 217 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MCxiMTkwYzFjYzJjYmYyY2IwYTIzNmZmMmRhYzcyZTRhNDkzMWEwYWI5`
+Snapshot ID: `MCxjNzBkNTI5ZWMxNDIzZmI0NjBmZTI3MzM4M2U5ZjJiZDBlZWJjNWRh`

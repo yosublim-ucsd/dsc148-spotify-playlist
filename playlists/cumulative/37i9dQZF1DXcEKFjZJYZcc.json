@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 127000,
       "name": "Childhood Friends",
       "url": "https://open.spotify.com/track/5ss7ZRNsM5geuOqEb7ntkL"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 156853,
       "name": "Empty Pews",
       "url": "https://open.spotify.com/track/4RnRAj8j9eLv4ksbuhjk78"
@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 156750,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/4145JIRFoYOykXXnVQpz3F"
@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 215620,
       "name": "Kleiner Schmetterling",
       "url": "https://open.spotify.com/track/7v4XLVSgxRCj8yorbZ2INL"
@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 180230,
       "name": "Las Torres",
       "url": "https://open.spotify.com/track/1u3vCCEmUHOrHjLlwR2nyU"
@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 180992,
       "name": "Marlina",
       "url": "https://open.spotify.com/track/6oB8mt6NwPDmbluCWeAKuZ"
@@ -2444,6 +2444,24 @@
       "duration_ms": 115124,
       "name": "Morning Dance",
       "url": "https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z"
+    },
+    {
+      "album": {
+        "name": "Morning Dance",
+        "url": "https://open.spotify.com/album/3DD7atkh8NCnmAkRff4Qlt"
+      },
+      "artists": [
+        {
+          "name": "Don Sisley",
+          "url": "https://open.spotify.com/artist/7uIga0e3GsnHK7VO4IqHq3"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145027,
+      "name": "Morning Dance",
+      "url": "https://open.spotify.com/track/1HNWHlc0OfRnCCeoLAwKzJ"
     },
     {
       "album": {
@@ -2966,7 +2984,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 186000,
       "name": "Perspectives",
       "url": "https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v"
@@ -3038,7 +3056,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 152500,
       "name": "Play",
       "url": "https://open.spotify.com/track/2y2nlOAf1TmyHT1NGHroaA"
@@ -3504,6 +3522,24 @@
     {
       "album": {
         "name": "Shimmer",
+        "url": "https://open.spotify.com/album/4KKxlhnLzgG6rh7KjAzBcv"
+      },
+      "artists": [
+        {
+          "name": "Dylan John Sparkes",
+          "url": "https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/0lIBOAqpBfPllYA6YDIVJM"
+    },
+    {
+      "album": {
+        "name": "Shimmer",
         "url": "https://open.spotify.com/album/0pAIe0jBV1WDL63LKGtInX"
       },
       "artists": [
@@ -3514,7 +3550,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 133500,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/0n9z4lk3UOqimQ4HFlKO72"
@@ -3842,7 +3878,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 175311,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5"
@@ -3968,7 +4004,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 140000,
       "name": "Starry Sky",
       "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
@@ -4181,6 +4217,24 @@
     },
     {
       "album": {
+        "name": "Tell Me When",
+        "url": "https://open.spotify.com/album/35VeKulyyJV68jyDQXOLxB"
+      },
+      "artists": [
+        {
+          "name": "Matti Aalto",
+          "url": "https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181402,
+      "name": "Tell Me When",
+      "url": "https://open.spotify.com/track/5o8GGOrZ4htQZX2himDtuV"
+    },
+    {
+      "album": {
         "name": "Terrain libre",
         "url": "https://open.spotify.com/album/4P1QMnaWN8yGfujJHayQ6U"
       },
@@ -4214,6 +4268,24 @@
       "duration_ms": 148483,
       "name": "The Belfry",
       "url": "https://open.spotify.com/track/7cc0PJfYHGn5W3KQrhXS0D"
+    },
+    {
+      "album": {
+        "name": "The book of love",
+        "url": "https://open.spotify.com/album/0GDaWajfUkhgS7rwQNonsJ"
+      },
+      "artists": [
+        {
+          "name": "Chloe Welch",
+          "url": "https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150780,
+      "name": "The book of love",
+      "url": "https://open.spotify.com/track/666JYU0w4jgwyB9xOsjR37"
     },
     {
       "album": {
@@ -4718,7 +4790,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 137510,
       "name": "Waltz For Nala",
       "url": "https://open.spotify.com/track/3NJ3rJfgSHeRqM9Fz12lLJ"
@@ -4740,6 +4812,24 @@
       "duration_ms": 156038,
       "name": "Waltz No. 1, Collapse",
       "url": "https://open.spotify.com/track/0J2lmSTQQWhTiglHDbhLWm"
+    },
+    {
+      "album": {
+        "name": "Warm Embrace",
+        "url": "https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY"
+      },
+      "artists": [
+        {
+          "name": "Ann Hildering",
+          "url": "https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163072,
+      "name": "Warm Embrace",
+      "url": "https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp"
     },
     {
       "album": {

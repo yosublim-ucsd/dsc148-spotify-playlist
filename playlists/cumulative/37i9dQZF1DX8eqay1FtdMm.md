@@ -4,7 +4,7 @@
 
 > Meet the vocalists representing Korea! \(Cover:Rothy\(로시\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-434 songs - 1 day 4 hr 20 min
+435 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [FINE](https://open.spotify.com/track/2FfqCAm7SlGd0pWc23ovCO) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [FINE](https://open.spotify.com/album/0C4FHIxRJjcvVEUhKq99X5) | 3:05 | 2022-02-10 | 2022-07-29 |
 | [FiNE!](https://open.spotify.com/track/0uXc6bgGKOHi861XBgbuQ1) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF) | [LEFT](https://open.spotify.com/album/5wQND7CP9pnNPW3QA2ODos) | 3:11 | 2022-04-20 | 2022-04-28 |
 | [First Line](https://open.spotify.com/track/1frranq2uyiOn5RObEG9g9) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Dear](https://open.spotify.com/album/7yDjc5x9LlccQIxNgDnqi6) | 4:00 | 2021-12-20 | 2022-07-29 |
-| [First Line](https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Dear](https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p) | 4:00 | 2022-09-06 |  |
+| [First Line](https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Dear](https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p) | 4:00 | 2022-09-06 | 2023-11-11 |
 | [Fixed On You](https://open.spotify.com/track/4ySfsrGG2VLMEllTC1QYfI) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Fixed On You \(new.MAKE20 \#10\)](https://open.spotify.com/album/15mV5InakorxEr5yjFHs5e) | 4:23 | 2021-12-20 | 2022-07-29 |
 | [Flower \(With Kim Minseok of Melomance\)](https://open.spotify.com/track/0XPoeyS0UQWK24qajGTaBy) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Flower](https://open.spotify.com/album/1oWFYxp5k7nPlsdwNpmtxa) | 4:35 | 2022-03-11 | 2022-12-13 |
 | [Flower Way \(Prod\. By ZICO\)](https://open.spotify.com/track/1dOD5F2hX5TBtKdQlEseR7) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Jelly box Flower Way SEJEONG](https://open.spotify.com/album/32dL7nyPowMbiu8QFrAkIM) | 3:59 | 2022-07-25 |  |
@@ -242,6 +242,7 @@
 | [Memory Of The Wind](https://open.spotify.com/track/68PLBwtcGOeEo1TSxtaglC) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Principle of My Soul](https://open.spotify.com/album/7ACnBNs9blScQgVTeOatdW) | 5:08 | 2021-12-20 | 2022-07-29 |
 | [Memory of You](https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1) | [규리](https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb) | [Memory of You](https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV) | 3:36 | 2022-08-18 | 2022-10-06 |
 | [Miracle](https://open.spotify.com/track/53N7WlBXKazw3Dtx0IGCj4) | [MIN WOO HYUK](https://open.spotify.com/artist/1rdsAWaNwp0IVrWhCOJ3xU), [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Miracle](https://open.spotify.com/album/5Fbjhm4t4CGVJFGrw6KztZ) | 4:50 | 2022-05-31 | 2022-07-04 |
+| [Miss You](https://open.spotify.com/track/6TPJUSTwkXVJTdJJZDn8Kf) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Miss You](https://open.spotify.com/album/5KikwWA1Iu4wRvp8HYfCnD) | 3:06 | 2023-11-10 |  |
 | [Miss You](https://open.spotify.com/track/0NDS6ljDOf9wNaT1hnvUQ6) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [THE M Pt\. 3](https://open.spotify.com/album/5ueOIlQ88WvT9tL6SKvU7D) | 4:07 | 2022-03-11 | 2022-06-14 |
 | [Missed Call](https://open.spotify.com/track/22g2Ttk9ICOuAc8an32gOE) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [Missed Call](https://open.spotify.com/album/7bWbYRiQWUBm0JSRmdt6Gn) | 3:01 | 2022-03-24 | 2022-04-11 |
 | [Monolog](https://open.spotify.com/track/2e0m7tXzjZeara0Z3vgaL2) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Monolog](https://open.spotify.com/album/1QpVMETbLgA8yvGQiN1OKS) | 3:52 | 2021-12-20 | 2022-04-10 |

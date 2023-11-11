@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 213995,
       "name": "All I Have Left To Give",
       "url": "https://open.spotify.com/track/1z2gI6qgTWb836QzsUQIyB"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 374893,
       "name": "And All That Could Have Been",
       "url": "https://open.spotify.com/track/5UMsIIsvwkuIK3AeV7WhAW"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Empty Thoughts",
       "url": "https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W"
@@ -2048,7 +2048,7 @@
     {
       "album": {
         "name": "Night People",
-        "url": "https://open.spotify.com/album/48weSvWTs8IQAaUUl3Db8r"
+        "url": "https://open.spotify.com/album/1snS7GPKcsbRHihG1ug2VN"
       },
       "artists": [
         {
@@ -2059,6 +2059,24 @@
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 271306,
+      "name": "Take on the World",
+      "url": "https://open.spotify.com/track/3eHYnUFpEZjnTQag1EVxHC"
+    },
+    {
+      "album": {
+        "name": "Night People",
+        "url": "https://open.spotify.com/album/48weSvWTs8IQAaUUl3Db8r"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
       "duration_ms": 271306,
       "name": "Take on the World",
       "url": "https://open.spotify.com/track/6J0xeqjdpsUH0W1YBCmD1L"
@@ -2184,7 +2202,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 215186,
       "name": "Toothpick",
       "url": "https://open.spotify.com/track/6mJcgp0qBS1sGqgYsOIpvr"
@@ -2238,7 +2256,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 221600,
       "name": "Welcome Home",
       "url": "https://open.spotify.com/track/07heIznr3ziWFz4nnW9xaj"
@@ -2292,7 +2310,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 212026,
       "name": "When You Can't Sleep At Night",
       "url": "https://open.spotify.com/track/42i1pGtSyPVXNX71oW8dyg"

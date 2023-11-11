@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: DURDN \*👉 <a href="https://spice.eplus.jp/articles/323643?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-3,876 songs - 9 day 19 hr 30 min
+3,879 songs - 9 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -923,6 +923,7 @@
 | [HARD LUCK MADNESS](https://open.spotify.com/track/43GSWI0HTWRMBdU3Jeb2RM) | [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [HARD LUCK MADNESS / Gekkabijin](https://open.spotify.com/album/1shgE9nXfpqznV8Su36yaD) | 3:21 | 2023-10-10 | 2023-10-18 |
 | [Hare Hare](https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Hare Hare](https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh) | 3:23 | 2023-05-16 | 2023-05-24 |
 | [HARIBO IS MY GOD](https://open.spotify.com/track/43AEayRTQiMEpzOl16TB2U) | [Ryosuke Sasaki](https://open.spotify.com/artist/7Ko1zfyR4Z9JTyv38F1iv5) | [HARIBO IS MY GOD](https://open.spotify.com/album/6HYszQtwitid9KVHjjTSnY) | 1:48 | 2023-04-25 | 2023-05-03 |
+| [Harmony](https://open.spotify.com/track/10NqBejPNf9Ugcpotrllu1) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [Harmony](https://open.spotify.com/album/0W625olFpP7KwC5FEnE6mH) | 2:40 | 2023-11-10 |  |
 | [Haru o Matazu Kimi o Hanare](https://open.spotify.com/track/44n6FlfY0wNwF5sVfh8mqV) | [Grape](https://open.spotify.com/artist/2cRHim5No0OPKOG528NfWB) | [Grape Sensation](https://open.spotify.com/album/0ub1dFuQTWvZ01xIV1L4m7) | 3:46 | 2023-02-15 | 2023-02-22 |
 | [harunosyura feat\. SHIOTSUKA MOEKA](https://open.spotify.com/track/4w0iTfH4D1WBFDLsBzL5HS) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [harunosyura feat\. SHIOTSUKA MOEKA](https://open.spotify.com/album/1ghH9j0txIcY5DeDZzfaWz) | 3:42 | 2023-05-17 | 2023-05-24 |
 | [Hashirimizu](https://open.spotify.com/track/5fkYMB9PzML9A8QvoPfJB2) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Hashirimizu](https://open.spotify.com/album/1vlaBwdpatZ4HsUBVH3vJe) | 6:26 | 2023-07-19 | 2023-07-26 |
@@ -1213,6 +1214,7 @@
 | [KIMI☆JA☆NAI](https://open.spotify.com/track/1ta7gMx9uX47Uhqiv9OvxR) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N), [mashoe'](https://open.spotify.com/artist/5MPZJyDVTTKSdkli4U4k6Z) | [KIMI☆JA☆NAI](https://open.spotify.com/album/2L1o0GNJ7T8HGXmlt5gLJI) | 3:05 | 2023-10-03 | 2023-10-05 |
 | [Kimochy](https://open.spotify.com/track/7CkReQlOUnEHp9LP6tVfCF) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Kimochy Season](https://open.spotify.com/album/2jg0b7paauECp2dSraJqul) | 3:18 | 2023-04-04 | 2023-04-12 |
 | [Kinou No Bokuyori Kimi Wo Utau](https://open.spotify.com/track/5jZBmShjPOLfF4Ki6w2rYm) | [Awaku,Moroku.](https://open.spotify.com/artist/2XPbYwItivSec2Ntft0baX) | [Kinou No Bokuyori Kimi Wo Utau](https://open.spotify.com/album/0ElKp4ydrk6qURk5Lk3vu5) | 3:45 | 2023-06-21 | 2023-06-28 |
+| [kioku](https://open.spotify.com/track/63vDfYaOPjLDCoBVTwgqhp) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [kioku](https://open.spotify.com/album/4wNrWQGL2fg72wDyOb5Dri) | 3:58 | 2023-11-10 |  |
 | [Kippou classic](https://open.spotify.com/track/7DpJhlXrltCrU4IvpSTYmG) | [SANABAGUN.](https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu) | [Kippou classic](https://open.spotify.com/album/5pCRjCY8HktBlCwHRPXKlN) | 3:26 | 2023-10-03 | 2023-10-11 |
 | [Kireigoto\-Fine\-Sounding Talk\-](https://open.spotify.com/track/47rj7wj8LDSiSHPa7noXDl) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Kireigoto\-Fine\-Sounding Talk\-](https://open.spotify.com/album/0XxEaLhmvfcbhUFUHpRY33) | 3:03 | 2023-03-08 | 2023-03-15 |
 | [Kiss and Kiss](https://open.spotify.com/track/487QBEyUb4H3qOgak5CR7z) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [Kiss and Kiss](https://open.spotify.com/album/00oiWDc5ZM9WOGVYCX6Zkb) | 3:00 | 2023-08-16 | 2023-08-23 |
@@ -1424,6 +1426,7 @@
 | [Mermaid \- Remix \(feat\. Js Morgan & Aile The Shota\)](https://open.spotify.com/track/5EQUoNfMHXYNKuARzBg76T) | [Kia Vella](https://open.spotify.com/artist/5tvHIUTghhFgJO45xbbsyP), [Js Morgan](https://open.spotify.com/artist/4MTlnA1jISxTRJEFulI0hJ), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [Mermaid \[Remix \(feat\. Js Morgan & Aile The Shota\)\]](https://open.spotify.com/album/62fFr4MAboOEuVJhD3M6rx) | 3:30 | 2023-10-17 | 2023-10-25 |
 | [merry\-go\-round](https://open.spotify.com/track/4RDjRmWez2gryxtIO2Attf) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [merry\-go\-round](https://open.spotify.com/album/2fGBPXYiquxrRt3fYcRpyt) | 3:09 | 2023-05-02 | 2023-05-10 |
 | [Mess It Up](https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:03 | 2023-10-24 | 2023-11-01 |
+| [Messages that don't reach you](https://open.spotify.com/track/59IEVzGqH7942VwaRP4DIp) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [Messages that don't reach you](https://open.spotify.com/album/7yH7OsvM7a11HaCOb68azC) | 4:07 | 2023-11-10 |  |
 | [MF](https://open.spotify.com/track/541QPndnqL4dtcfMAqdW7h) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [SHUNTO](https://open.spotify.com/artist/6zjey2qJCNvlte3p34SWhH), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm) | [MF](https://open.spotify.com/album/5zMOi1vxPr3j1w5lLFYVkg) | 2:14 | 2023-10-03 | 2023-10-11 |
 | [Michi\-tono\-Sogu](https://open.spotify.com/track/3YbwKcZvwPm6DfqQTjek13) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [Michi\-tono\-Sogu](https://open.spotify.com/album/7tTLJFKEI9MjjZ3MX2jCgQ) | 4:30 | 2023-06-21 | 2023-06-28 |
 | [Michi\-tono\-Sogu](https://open.spotify.com/track/6uIr38NbHnYN8KVfDuHcAQ) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [Michi\-tono\-Sogu](https://open.spotify.com/album/5nBKR9qLUlMjRdr5uD2CVQ) | 4:30 | 2023-06-20 | 2023-06-22 |

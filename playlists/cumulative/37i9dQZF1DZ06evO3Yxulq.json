@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 230206,
       "name": "Current / One Day At A Time - Medley",
       "url": "https://open.spotify.com/track/3Y9yvWKk9n80sPjxVk4maA"
@@ -1382,6 +1382,24 @@
       "duration_ms": 240457,
       "name": "Stories On Stories",
       "url": "https://open.spotify.com/track/3GLialPfon3PHfwNjZvgi2"
+    },
+    {
+      "album": {
+        "name": "Stories On Stories",
+        "url": "https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240457,
+      "name": "Tantas Historias",
+      "url": "https://open.spotify.com/track/6f1jhlNzYyUvK2XwxCk2pT"
     },
     {
       "album": {

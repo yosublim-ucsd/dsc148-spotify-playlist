@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 74104,
+  "num_followers": 74221,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDE1N2RjODRlNjYzNTExZWQ1YzMyYjVkMDMxYjZhNjk0YWNlNTYz",
+  "snapshot_id": "MCxkZDA0OTIyOTdhMWExMmNlMmRhNTZmMjExNzc5Yzk2M2ZjNTJjMzEy",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -431,18 +431,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Ana Gabriel En La Plaza De Toros M\u00e9xico",
-        "url": "https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy"
+        "name": "Enamorada En Vivo",
+        "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 228506,
-      "name": "A Pesar de Todos - En Vivo",
-      "url": "https://open.spotify.com/track/16VI8N8iECaBkUdadqchqq"
+      "duration_ms": 189853,
+      "name": "Llorar - En Vivo",
+      "url": "https://open.spotify.com/track/41cqLjW5gEtYy28Y13KABP"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -495,18 +495,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Enamorada En Vivo",
-        "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
+        "name": "Ana Gabriel En La Plaza De Toros M\u00e9xico",
+        "url": "https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy"
       },
       "artists": [
         {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 189853,
-      "name": "Llorar - En Vivo",
-      "url": "https://open.spotify.com/track/41cqLjW5gEtYy28Y13KABP"
+      "duration_ms": 228506,
+      "name": "A Pesar de Todos - En Vivo",
+      "url": "https://open.spotify.com/track/16VI8N8iECaBkUdadqchqq"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "1 Vida \u2013 3 Historias Despedida De Culiacan (En Vivo Desde Culiacan, Mexico 2012)",
-        "url": "https://open.spotify.com/album/504V91nbehQse2zsrqNzHs"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "Porqu\u00e9 No Le Calas - Live",
-      "url": "https://open.spotify.com/track/0Dft414yW63Hh7t5xlb8El"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Enamorada En Vivo",
         "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 195253,
       "name": "Ac\u00e1 Entre Nos - En Vivo",
       "url": "https://open.spotify.com/track/5Bi3rrdkYjLlUIl37G3WEx"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "1 Vida \u2013 3 Historias Despedida De Culiacan (En Vivo Desde Culiacan, Mexico 2012)",
+        "url": "https://open.spotify.com/album/504V91nbehQse2zsrqNzHs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "Porqu\u00e9 No Le Calas - Live",
+      "url": "https://open.spotify.com/track/0Dft414yW63Hh7t5xlb8El"
     },
     {
       "added_at": "2021-12-29 23:15:19",

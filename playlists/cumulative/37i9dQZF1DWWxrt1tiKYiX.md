@@ -2,9 +2,9 @@
 
 ### [Acoustic Pop](https://open.spotify.com/playlist/37i9dQZF1DWWxrt1tiKYiX)
 
-> Lovely, acoustic pop\. Cover: Jonah Kagen
+> Lovely, acoustic pop\. Cover: Haley Joelle
 
-220 songs - 12 hr 12 min
+221 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [bitter bitches](https://open.spotify.com/track/6Pv3ySXkwWN5C8yUUy2L9e) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [bitter bitches](https://open.spotify.com/album/3ROZH4gXF4nurpSAmJsU5b) | 1:29 | 2023-09-22 | 2023-10-14 |
 | [Black And White \- Stripped](https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Black And White \(Stripped\)](https://open.spotify.com/album/21AixqCPZuSQLa7Tw9dNm4) | 3:52 | 2022-01-28 | 2023-06-17 |
 | [Black Sheep](https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Black Sheep](https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w) | 3:30 | 2023-09-01 |  |
+| [Bloodline](https://open.spotify.com/track/2nOYVXe2AVBLWDjMJPur3O) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Me And My Past](https://open.spotify.com/album/6PGKiegqtNByX3zPzgsBeG) | 3:01 | 2023-11-10 |  |
 | [Body Better \- Acoustic](https://open.spotify.com/track/4e3QW9GKxYi3fx7RjjZh58) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Body Better \(Acoustic\)](https://open.spotify.com/album/510JGc0LpOJbhiB0uOM9m9) | 3:15 | 2023-02-24 | 2023-06-10 |
 | [Brave \- Acoustic](https://open.spotify.com/track/2bNhvD9NrWBqtf79htNx2r) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Brave \(Acoustic\)](https://open.spotify.com/album/0moObTfsJiVZCaZsAwP3wK) | 3:48 | 2022-01-28 |  |
 | [Breaking Me \- Acoustic Version](https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me \(Remixes\)](https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT) | 2:47 | 2022-07-15 | 2023-06-10 |

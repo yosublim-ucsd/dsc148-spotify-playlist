@@ -444,7 +444,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 236602,
       "name": "BREAKFAST",
       "url": "https://open.spotify.com/track/6p21ywjrVlUnpmujl4S3dP"
@@ -1849,6 +1849,28 @@
     },
     {
       "album": {
+        "name": "Pradhaman",
+        "url": "https://open.spotify.com/album/1PUesjSuRmSCrLI4njwW75"
+      },
+      "artists": [
+        {
+          "name": "Anohnymouss",
+          "url": "https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT"
+        },
+        {
+          "name": "STIC",
+          "url": "https://open.spotify.com/artist/5qYLuNzUum9E0gSgGIy8HK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147339,
+      "name": "Pradhaman",
+      "url": "https://open.spotify.com/track/2FREvswB3QKcz86mvndXY6"
+    },
+    {
+      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/2e6W34AqB2NhldDdzzdj9i"
       },
@@ -2230,7 +2252,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 234962,
       "name": "Trap Sundhari",
       "url": "https://open.spotify.com/track/51vzYdS2wo4peP0hu3i7au"
@@ -2426,6 +2448,28 @@
       "duration_ms": 297820,
       "name": "Workil Aanu Karyam",
       "url": "https://open.spotify.com/track/7y4XcoRcRDFnVltwFp2XAm"
+    },
+    {
+      "album": {
+        "name": "Zone",
+        "url": "https://open.spotify.com/album/6SDpQiS8uKzTHbw97Z4kx1"
+      },
+      "artists": [
+        {
+          "name": "SWAT",
+          "url": "https://open.spotify.com/artist/69OLk01c5cxpeLmuAiMRL1"
+        },
+        {
+          "name": "sleepy",
+          "url": "https://open.spotify.com/artist/4lcdVsKp56wTjk4DCl1Iev"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91764,
+      "name": "Zone",
+      "url": "https://open.spotify.com/track/66WHMvBjGEOu72hMQ8rXA8"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c"

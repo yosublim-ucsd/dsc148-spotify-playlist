@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: RINES\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,767 likes - 159 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,784 likes - 159 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 158 | [Someone](https://open.spotify.com/track/5uNmtBDW9ByH9SleOnuE9H) | [政学Zed\-X](https://open.spotify.com/artist/7DAjUaK40De066EOFR6fxB) | [Someone](https://open.spotify.com/album/2Z7Ci8LiAQkvPBCyHVKv81) | 2:04 |
 | 159 | [need me now](https://open.spotify.com/track/6YwC4MT8zGsL2kOfMBRaML) | [ALVN](https://open.spotify.com/artist/72ubqJlbqJ9x9P6DLl3V3m) | [need me now](https://open.spotify.com/album/54XWCvc9Y7NsNPP1Z02O3p) | 2:34 |
 
-Snapshot ID: `MCwwNDZhZjQ2MTYxYzJjZTE1MzkzNjY0M2VlNzAwZDdhZWQyYTZjN2Jh`
+Snapshot ID: `MCxiYjY3NDY0MThmMTE1MWExYmZhMGU5ZjY5YWZhNjM4ZjMwNDQzOWJm`

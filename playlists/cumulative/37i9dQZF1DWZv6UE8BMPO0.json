@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 143704,
       "name": "A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/5L4cYsu1seA4z9uGntY8lx"
@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Candy Canes and Silver Lanes",
+        "url": "https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC"
+      },
+      "artists": [
+        {
+          "name": "Brandon's Three",
+          "url": "https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223151,
+      "name": "Candy Canes and Silver Lanes",
+      "url": "https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6"
+    },
+    {
+      "album": {
         "name": "Sound Of Christmas",
         "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
       },
@@ -316,6 +334,24 @@
       "duration_ms": 167506,
       "name": "Christmas Blues",
       "url": "https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i"
+    },
+    {
+      "album": {
+        "name": "Christmas Love",
+        "url": "https://open.spotify.com/album/5STKuTbSZYWJxNinEf7Jua"
+      },
+      "artists": [
+        {
+          "name": "Baxter Williams",
+          "url": "https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Christmas Love",
+      "url": "https://open.spotify.com/track/2LW2VCbUjkyh67iX0KbEDF"
     },
     {
       "album": {
@@ -780,10 +816,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 122127,
       "name": "Hark the Herald Angels Sing",
       "url": "https://open.spotify.com/track/27oIno72elQiNPLU8ZSLo2"
+    },
+    {
+      "album": {
+        "name": "Hark The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/57tHE4rYq5W9cFWS2Zcqu6"
+      },
+      "artists": [
+        {
+          "name": "Judy Baker",
+          "url": "https://open.spotify.com/artist/7GUG3XpfuQRV6vPu1txOn4"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "Hark The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/2ilz6WesvS1JqamQHfGKKX"
     },
     {
       "album": {
@@ -823,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Here We Come A-Caroling",
+        "url": "https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI"
+      },
+      "artists": [
+        {
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143808,
+      "name": "Here We Come A-Caroling",
+      "url": "https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg"
+    },
+    {
+      "album": {
         "name": "Jazzy Christmas Party",
         "url": "https://open.spotify.com/album/1l8jXocYesXouqZ7IYVmj3"
       },
@@ -834,7 +906,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 184617,
       "name": "Here We Come A-Caroling",
       "url": "https://open.spotify.com/track/4pyrzorQFqC4m77fZUxbo0"
@@ -1237,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Jolly Holiday",
+        "url": "https://open.spotify.com/album/6Bq0rkBNkUOFwGwMCPFHuN"
+      },
+      "artists": [
+        {
+          "name": "More than Jazz",
+          "url": "https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198860,
+      "name": "Jolly Holiday",
+      "url": "https://open.spotify.com/track/1nNmGXc4dcQHvteyiwjWv9"
+    },
+    {
+      "album": {
         "name": "Christmas meets Jazz",
         "url": "https://open.spotify.com/album/0GrYYWpfGBcrHEIPIW1Fsf"
       },
@@ -1345,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Little Drummer Boy",
+        "url": "https://open.spotify.com/album/2LheEqGdlCtcbCTvPZOQtG"
+      },
+      "artists": [
+        {
+          "name": "Bill Parker",
+          "url": "https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180517,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/4YKOgDDwKW2lrbwrvqFcVI"
+    },
+    {
+      "album": {
         "name": "Lost in the stars",
         "url": "https://open.spotify.com/album/3RzCBEMpRWtRNtrIfLsPSc"
       },
@@ -1428,7 +1536,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 171363,
       "name": "Mistletoe And Holly",
       "url": "https://open.spotify.com/track/3ECWipwM2liY1Z0pcbCXVj"
@@ -1687,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "Rudolph The Red Nosed Reindeer",
+        "url": "https://open.spotify.com/album/4QZ3hQV3noIAmkKGqiH6ZP"
+      },
+      "artists": [
+        {
+          "name": "Neil Dunker",
+          "url": "https://open.spotify.com/artist/0tJbegEI1Xa3pUnlGhwph8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151112,
+      "name": "Rudolph The Red Nosed Reindeer",
+      "url": "https://open.spotify.com/track/3L3cxm8r4VeMfdfjQBLKak"
+    },
+    {
+      "album": {
         "name": "I'll Be Home for Christmas",
         "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
       },
@@ -1698,7 +1824,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 263346,
       "name": "Rudolph the Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/05WIbRwXFuQQKmPMf9KF0U"
@@ -1777,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "Santa Claus Walk",
+        "url": "https://open.spotify.com/album/4lEIvrFPO3nRDsma5vbkVb"
+      },
+      "artists": [
+        {
+          "name": "Belmont Central",
+          "url": "https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186882,
+      "name": "Santa Claus Walk",
+      "url": "https://open.spotify.com/track/3mO05AbTPycdPLnluLFlLh"
+    },
+    {
+      "album": {
         "name": "Santa tell me",
         "url": "https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu"
       },
@@ -1828,6 +1972,24 @@
       "duration_ms": 185428,
       "name": "Santa's Way Home",
       "url": "https://open.spotify.com/track/1UCAVkeC3iShW7B2uoK39C"
+    },
+    {
+      "album": {
+        "name": "Season's Greetings",
+        "url": "https://open.spotify.com/album/3IAxXCAQQ1cPZQFFBKh6Om"
+      },
+      "artists": [
+        {
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195624,
+      "name": "Season's Greetings",
+      "url": "https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx"
     },
     {
       "album": {
@@ -1900,6 +2062,24 @@
       "duration_ms": 202664,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/3CwE9ExeHCA9ho6hy1lrNZ"
+    },
+    {
+      "album": {
+        "name": "Somewhere In My Memory",
+        "url": "https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX"
+      },
+      "artists": [
+        {
+          "name": "Ron Bladworth",
+          "url": "https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202386,
+      "name": "Somewhere In My Memory",
+      "url": "https://open.spotify.com/track/2okeg8ZIf25wcY5QGCjZAz"
     },
     {
       "album": {
@@ -1993,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "The Gift of Joy",
+        "url": "https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna"
+      },
+      "artists": [
+        {
+          "name": "Tyrone Coates & Friends",
+          "url": "https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177215,
+      "name": "The Gift of Joy",
+      "url": "https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V"
+    },
+    {
+      "album": {
         "name": "The First Noel",
         "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
       },
@@ -2022,7 +2220,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 304373,
       "name": "The Little Drummer Boy",
       "url": "https://open.spotify.com/track/3KuEPCnZC3SHQjwV0R8hSX"
@@ -2098,6 +2296,24 @@
       "duration_ms": 151345,
       "name": "The Winter Song",
       "url": "https://open.spotify.com/track/0uo9UAJQ9o4O1U8wxR7Ipj"
+    },
+    {
+      "album": {
+        "name": "This Night",
+        "url": "https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179813,
+      "name": "This Night",
+      "url": "https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g"
     },
     {
       "album": {
@@ -2245,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "What Child Is This",
+        "url": "https://open.spotify.com/album/72aJzZXCOORiyTslTk5Mh3"
+      },
+      "artists": [
+        {
+          "name": "Maurice Green",
+          "url": "https://open.spotify.com/artist/0I2MdtSSCg5xHyymlJpnN3"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164411,
+      "name": "What Child Is This",
+      "url": "https://open.spotify.com/track/29fnDld1i5KhEF63a9QnmZ"
+    },
+    {
+      "album": {
         "name": "Instrumental Christmas",
         "url": "https://open.spotify.com/album/2YxRD4GY8phq9uNHA5tNqx"
       },
@@ -2292,10 +2526,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 144933,
       "name": "What Child Is This",
       "url": "https://open.spotify.com/track/1KYp6R9KfYSna86gFkIhq0"
+    },
+    {
+      "album": {
+        "name": "When We Kissed Under The Mistletoe",
+        "url": "https://open.spotify.com/album/43omzeS1WIBkcVZuPkh3zs"
+      },
+      "artists": [
+        {
+          "name": "Gus Anderson",
+          "url": "https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144248,
+      "name": "When We Kissed Under The Mistletoe",
+      "url": "https://open.spotify.com/track/5vt00tH4PyhiAuV4kGIUAK"
     },
     {
       "album": {
@@ -2418,7 +2670,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 226093,
       "name": "Winter Weather/I've Got My Love to Keep Me Warm - Medley",
       "url": "https://open.spotify.com/track/0JZNXXaHEtsMMpBPV5e4lz"
@@ -2444,7 +2696,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 232000,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/4hCpwHWh8YPepNlgYF1HaJ"
@@ -2500,6 +2752,24 @@
       "duration_ms": 259399,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/0mIkPyFnpT5m4fFgLkQIxO"
+    },
+    {
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/7hsLeKDkSlU18V2UDOkA1y"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136124,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/2X5u0dLN0EUoRxTlbpDVdr"
     },
     {
       "album": {

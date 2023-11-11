@@ -298,10 +298,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 214800,
       "name": "Buzz Me Baby",
       "url": "https://open.spotify.com/track/03orX7fg8pH3tXBhJiuQC7"
+    },
+    {
+      "album": {
+        "name": "Men of the World: The Early Years",
+        "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "Buzz Me Baby",
+      "url": "https://open.spotify.com/track/1vYpRZX33Khbs4r010ri2d"
     },
     {
       "album": {
@@ -1604,10 +1622,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 191266,
       "name": "Like It This Way",
       "url": "https://open.spotify.com/track/0QgKvD2sdIAUGjGJpZzDSX"
+    },
+    {
+      "album": {
+        "name": "Men of the World: The Early Years",
+        "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "Like It This Way",
+      "url": "https://open.spotify.com/track/1lq2ADWqMMsEqfLeGAyKCf"
     },
     {
       "album": {
@@ -1840,6 +1876,24 @@
     {
       "album": {
         "name": "Men of the World: The Early Years",
+        "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468800,
+      "name": "Rattlesnake Shake (Live)",
+      "url": "https://open.spotify.com/track/0BSbV2V2QYn7YYch4eT1Pt"
+    },
+    {
+      "album": {
+        "name": "Men of the World: The Early Years",
         "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
       },
       "artists": [
@@ -1850,7 +1904,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 468800,
       "name": "Rattlesnake Shake - Live 2000",
       "url": "https://open.spotify.com/track/0bjh0j7BgECHjNn805jTX5"
@@ -2362,7 +2416,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 166933,
       "name": "Two Way Wishing",
       "url": "https://open.spotify.com/track/2lGyivhfiH4jqGpJGSqSZ4"
@@ -2416,7 +2470,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 234293,
       "name": "Wagon Wheel",
       "url": "https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ"

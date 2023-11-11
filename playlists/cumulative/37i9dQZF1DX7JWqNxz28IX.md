@@ -4,7 +4,7 @@
 
 > canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, solø\)
 
-225 songs - 10 hr 11 min
+226 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 | 2022-04-21 |  |
 | [Credimi ancora](https://open.spotify.com/track/4xTg0JYQVlDsIiNTbHIQOQ) | [ernvss](https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza), [Coron](https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax) | [Credimi ancora](https://open.spotify.com/album/0getMLUgdB1w2NeJy0UOGB) | 3:35 | 2022-09-22 |  |
 | [D\(Emo\)](https://open.spotify.com/track/2NMjPUdU1Ljw8wVUdoHDkD) | [nothx.](https://open.spotify.com/artist/1i8WJECAPI5Je4SgVuQLEX) | [D\(Emo\)](https://open.spotify.com/album/0uvZyTWqNWArdU6dEaUsk5) | 3:06 | 2022-05-13 | 2022-08-13 |
-| [Darkness](https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Darkness](https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7) | 2:54 | 2022-04-21 |  |
+| [Darkness](https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Darkness](https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7) | 2:54 | 2022-04-21 | 2023-11-11 |
 | [Demoni](https://open.spotify.com/track/6bGA83YmfsO3SpFq4VCNiJ) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [Demoni](https://open.spotify.com/album/10rP3kY9xGjYXhxJkXEvD7) | 2:53 | 2022-06-02 | 2023-09-08 |
 | [Dentro di Te](https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Profondo Rosa](https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE) | 2:51 | 2022-04-21 |  |
 | [Devil May Cry](https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglianone](https://open.spotify.com/artist/3Kborlyf9Zfl8JNELvN5rn) | [Devil May Cry](https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA) | 2:28 | 2022-04-21 |  |
@@ -162,6 +162,7 @@
 | [Polmoni](https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Polmoni](https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV) | 2:03 | 2022-04-21 |  |
 | [Polvere 2 \- Piano Version](https://open.spotify.com/track/43SCnZKrexM5T7C8AlsDBk) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [Polvere 2 \(Piano Version\)](https://open.spotify.com/album/444H1b2kQtSy0elVuls7kG) | 1:52 | 2023-02-23 | 2023-04-21 |
 | [poster](https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [poster](https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge) | 2:49 | 2022-04-21 |  |
+| [Primavera](https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Foglio rosa](https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7) | 2:19 | 2023-11-10 |  |
 | [Promettimi che mi amerai](https://open.spotify.com/track/7tJvwojvbiHOKL4wJFzO20) | [Redys](https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1) | [Promettimi che mi amerai](https://open.spotify.com/album/6ZRm6d7vst3tVg9wqINjOm) | 2:32 | 2022-12-08 | 2023-03-25 |
 | [Punti di vista](https://open.spotify.com/track/5zi9PcOcGBQNbYGOquC4Lt) | [Mael+](https://open.spotify.com/artist/5WI9ughINoRS2iom1SU79n), [Puhf](https://open.spotify.com/artist/6Wg5mZaSksZatBkTApBsPj) | [Dove la luce non arriva](https://open.spotify.com/album/2nc0nFlQBDrqriStBtOEZs) | 2:43 | 2022-06-09 | 2022-12-15 |
 | [Quando tu mi baci](https://open.spotify.com/track/1SPbN6ppUSIcOTZAO2HoCf) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Powv\_fsk](https://open.spotify.com/artist/0IPhGUowAYS8nr7nT9synf) | [Quando tu mi baci](https://open.spotify.com/album/3i8BJ5YnNat8a8zzUiM8gd) | 3:18 | 2022-10-10 | 2022-12-09 |

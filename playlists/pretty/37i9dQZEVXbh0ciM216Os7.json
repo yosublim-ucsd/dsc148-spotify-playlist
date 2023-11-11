@@ -6,26 +6,150 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMTY0NjAsMDAwMDAwMDAxN2E3MTM1ZWQ5ZTdlMDQzY2ZmZjliOWU0OGVjZWZjMw==",
+  "snapshot_id": "MjgzMjY1NDAsMDAwMDAwMDA4MDE4YzVhNzg3NzM0N2EzM2RiOWI5NDk4M2U5NzliZg==",
   "tracks": [
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Look Ma, No Brains!",
-        "url": "https://open.spotify.com/album/2alV6LwgUWGExud9ntcugb"
+        "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
+        "url": "https://open.spotify.com/album/17RkZnWlgVY355jiCG8m1e"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Mac Wetha",
+          "url": "https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 123541,
-      "name": "Look Ma, No Brains!",
-      "url": "https://open.spotify.com/track/0Xs1aDAUmp3W6If2y5JQMK"
+      "duration_ms": 131215,
+      "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
+      "url": "https://open.spotify.com/track/1Y4TOUS7R9DShEApDbb8Xm"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "ALL THAT U WANT",
+        "url": "https://open.spotify.com/album/3BGrYo5OCTJgm8VN01wos7"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "duration_ms": 140241,
+      "name": "ALL THAT U WANT",
+      "url": "https://open.spotify.com/track/1jHq0Xqbb49WLRUq0kMFzz"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 219598,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/6bniCXManaPDnCN34waQs6"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Camera Flash",
+        "url": "https://open.spotify.com/album/69V5RVtFEogCAsDJj3b1j6"
+      },
+      "artists": [
+        {
+          "name": "Team Demo",
+          "url": "https://open.spotify.com/artist/1zR4UmAZShvLVSxMXMPJfs"
+        },
+        {
+          "name": "Wais P",
+          "url": "https://open.spotify.com/artist/1OPtcsoaSmUBHdlblzShKH"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Illa Ghee",
+          "url": "https://open.spotify.com/artist/3brL6NPSZHYrJNzeUKcVbL"
+        }
+      ],
+      "duration_ms": 267107,
+      "name": "Camera Flash",
+      "url": "https://open.spotify.com/track/3Iratpo8pldgglsjPvILgp"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Touch Me Back",
+        "url": "https://open.spotify.com/album/5exQ4AzoytKiIsgWuiNPTL"
+      },
+      "artists": [
+        {
+          "name": "Rayana Jay",
+          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 164607,
+      "name": "Touch Me Back",
+      "url": "https://open.spotify.com/track/1FSetWBm1rFLb9sFgrCatD"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "An Osirian Dream (Og & Theo Parrish Takes)",
+        "url": "https://open.spotify.com/album/1PlNpjvS526hxb44ffidDH"
+      },
+      "artists": [
+        {
+          "name": "Tiombe Lockhart",
+          "url": "https://open.spotify.com/artist/1kqZOF1WEoAV23hEZU6Gta"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 214199,
+      "name": "An Osirian Dream - Beatless version",
+      "url": "https://open.spotify.com/track/6YsmUJnu7dD2CQ6CLI2joP"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
+        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 493400,
+      "name": "Catfish Blues - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/267hVJUi029ovd5X6rqTo1"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "MORE DOLLARS, MORE SENSE 2014 (feat. Childish Gambino)",
         "url": "https://open.spotify.com/album/0nFO3E9RTRETid92EVp5Q8"
@@ -53,7 +177,27 @@
       "url": "https://open.spotify.com/track/0TMef0blw7Sy61U1JmcTlF"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "LOST TAPE VOL. 1",
+        "url": "https://open.spotify.com/album/52ahsGFCpoYdNOHliaw00k"
+      },
+      "artists": [
+        {
+          "name": "LOST NOISE",
+          "url": "https://open.spotify.com/artist/0qGJpAZPoG0ZuLdxYWydAp"
+        },
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 68590,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/1jqmqsXyrjxNNmyyt9nKXK"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "The Marshall Mathers LP2 (Expanded Edition)",
         "url": "https://open.spotify.com/album/5EUgcfO5OWxnniHR3QYFcK"
@@ -69,7 +213,7 @@
       "url": "https://open.spotify.com/track/4LOAj1UJRiC2kbWbHDa2Bg"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "PEDALS / PETALS (A Mixtape Narrated by Don Cannon)",
         "url": "https://open.spotify.com/album/7MheQdYU2yYaRCN5i9M974"
@@ -89,7 +233,47 @@
       "url": "https://open.spotify.com/track/4AHR36yLlM9CWNO6uWeFU9"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "1989 (Taylor's Version) [Deluxe]",
+        "url": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
+      "url": "https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Flying High, Part 2",
+        "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Vertigo (feat. Action Bronson)",
+      "url": "https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Paint the Town Red (Metal Version)",
         "url": "https://open.spotify.com/album/2Wc2oJUbt0mqO1RZUNQFxV"
@@ -105,7 +289,7 @@
       "url": "https://open.spotify.com/track/5XyeErJVvaXIO030a2abWA"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Demon Muppy",
         "url": "https://open.spotify.com/album/1fDOFgGZtEyXDIT3FMQtA4"
@@ -133,7 +317,7 @@
       "url": "https://open.spotify.com/track/5GVS9xB5MGFP4BKvuvIEJd"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "The Messy EP",
         "url": "https://open.spotify.com/album/08l5xqoj3C3BhosTQQh50h"
@@ -149,7 +333,7 @@
       "url": "https://open.spotify.com/track/2RFej8NhyS655ukYAFr0XN"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Neighbors",
         "url": "https://open.spotify.com/album/5mU4UlDKgQr6vfg9ONiDfK"
@@ -169,7 +353,7 @@
       "url": "https://open.spotify.com/track/5FhskiM8UA8gDiRBbGbvcE"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Asteroids",
         "url": "https://open.spotify.com/album/4osw7iYvgvJuMpPZqJUgC7"
@@ -189,7 +373,7 @@
       "url": "https://open.spotify.com/track/1jtM7Xnl89XD1FgANm7qYs"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "I Left My Heart In Ladera",
         "url": "https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN"
@@ -209,7 +393,7 @@
       "url": "https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "BOBBY ON THE DIGITAL",
         "url": "https://open.spotify.com/album/3emzO8yEOyIxkfpJbMmdAr"
@@ -229,7 +413,83 @@
       "url": "https://open.spotify.com/track/0ZyWUNPYd7kx09U40YX0BN"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Tech N9ne Presents: NNUTTHOWZE - Siqnaling The Siqly",
+        "url": "https://open.spotify.com/album/6vjunWiWVIjEkOeXJIZALU"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Zkeircrow",
+          "url": "https://open.spotify.com/artist/0EBQs3FuhHrwUixSsKI2Dn"
+        },
+        {
+          "name": "Phlaque The Grimstress",
+          "url": "https://open.spotify.com/artist/4uUHXzdIW2IXKy362FjGMB"
+        },
+        {
+          "name": "X-Raided",
+          "url": "https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No"
+        }
+      ],
+      "duration_ms": 228088,
+      "name": "Wanna See Me Fall",
+      "url": "https://open.spotify.com/track/2RL7SOWWbKW9o5pdcbN4q0"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Diabolical Swordsmen",
+        "url": "https://open.spotify.com/album/46seRdiHuEMNv4Y8XiIGYC"
+      },
+      "artists": [
+        {
+          "name": "Cedrick Bogan",
+          "url": "https://open.spotify.com/artist/1FkEIUlqPePELLE6R80zB8"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 120032,
+      "name": "Diabolical Swordsmen",
+      "url": "https://open.spotify.com/track/5Y7hrzpVZ8TLlIremdAMjI"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "P.H.O.N.C",
+        "url": "https://open.spotify.com/album/786QKYKy8ISr3YOmrffEah"
+      },
+      "artists": [
+        {
+          "name": "Metacaum",
+          "url": "https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "Jason Greenhart",
+          "url": "https://open.spotify.com/artist/0iLyV4LIHbZMNmuXP6kCKG"
+        },
+        {
+          "name": "ONIONZ BEATZ",
+          "url": "https://open.spotify.com/artist/5skjLaINJfBnJESjMLuQwM"
+        }
+      ],
+      "duration_ms": 192966,
+      "name": "P.H.O.N.C",
+      "url": "https://open.spotify.com/track/5iHmsTWDE0giImCe85B8Bw"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Rolling 200 Deep",
         "url": "https://open.spotify.com/album/42Yobaqr3Qfk5IiAmmFmRu"
@@ -281,83 +541,7 @@
       "url": "https://open.spotify.com/track/7JFQ5yIImidIrwDpgp992N"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
-      "album": {
-        "name": "P.H.O.N.C",
-        "url": "https://open.spotify.com/album/786QKYKy8ISr3YOmrffEah"
-      },
-      "artists": [
-        {
-          "name": "Metacaum",
-          "url": "https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm"
-        },
-        {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
-        },
-        {
-          "name": "Jason Greenhart",
-          "url": "https://open.spotify.com/artist/0iLyV4LIHbZMNmuXP6kCKG"
-        },
-        {
-          "name": "ONIONZ BEATZ",
-          "url": "https://open.spotify.com/artist/5skjLaINJfBnJESjMLuQwM"
-        }
-      ],
-      "duration_ms": 192966,
-      "name": "P.H.O.N.C",
-      "url": "https://open.spotify.com/track/5iHmsTWDE0giImCe85B8Bw"
-    },
-    {
-      "added_at": "2023-11-03 05:00:00",
-      "album": {
-        "name": "Diabolical Swordsmen",
-        "url": "https://open.spotify.com/album/46seRdiHuEMNv4Y8XiIGYC"
-      },
-      "artists": [
-        {
-          "name": "Cedrick Bogan",
-          "url": "https://open.spotify.com/artist/1FkEIUlqPePELLE6R80zB8"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 120032,
-      "name": "Diabolical Swordsmen",
-      "url": "https://open.spotify.com/track/5Y7hrzpVZ8TLlIremdAMjI"
-    },
-    {
-      "added_at": "2023-11-03 05:00:00",
-      "album": {
-        "name": "Tech N9ne Presents: NNUTTHOWZE - Siqnaling The Siqly",
-        "url": "https://open.spotify.com/album/6vjunWiWVIjEkOeXJIZALU"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Zkeircrow",
-          "url": "https://open.spotify.com/artist/0EBQs3FuhHrwUixSsKI2Dn"
-        },
-        {
-          "name": "Phlaque The Grimstress",
-          "url": "https://open.spotify.com/artist/4uUHXzdIW2IXKy362FjGMB"
-        },
-        {
-          "name": "X-Raided",
-          "url": "https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No"
-        }
-      ],
-      "duration_ms": 228088,
-      "name": "Wanna See Me Fall",
-      "url": "https://open.spotify.com/track/2RL7SOWWbKW9o5pdcbN4q0"
-    },
-    {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Kaamos (Live In Helsinki St. John's Church)",
         "url": "https://open.spotify.com/album/5uOJwEGPdY1jeEsW61ugSr"
@@ -373,27 +557,7 @@
       "url": "https://open.spotify.com/track/7tHc7q634GxvivLKJfMcmY"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
-      "album": {
-        "name": "Dreamteam",
-        "url": "https://open.spotify.com/album/15YushxelouREDwAN3cdV1"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 181312,
-      "name": "Dreamteam",
-      "url": "https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL"
-    },
-    {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Only the Young (Steve Perry & Bryce Miller Remix)",
         "url": "https://open.spotify.com/album/1xG7RX2NZgW7jQWkJ7VfH0"
@@ -413,7 +577,27 @@
       "url": "https://open.spotify.com/track/4qwEhHH34RHH1B16vXj93L"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Dreamteam",
+        "url": "https://open.spotify.com/album/15YushxelouREDwAN3cdV1"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "Dreamteam",
+      "url": "https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Starla",
         "url": "https://open.spotify.com/album/2bIjr9wL104aZf6RlcbwT9"
@@ -437,35 +621,31 @@
       "url": "https://open.spotify.com/track/2nyf95vcNywPnHYxRBX1YV"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Planet Of The Blues: Part Two",
-        "url": "https://open.spotify.com/album/4ZfLONj7KcXjnQES3IttKz"
+        "name": "Hoppa and Friends 3",
+        "url": "https://open.spotify.com/album/5FPeDtsFXQcEc6HRCm2j6V"
       },
       "artists": [
         {
-          "name": "Lilblackkids",
-          "url": "https://open.spotify.com/artist/4JYRi0SBCkaspVNZxtIDSN"
+          "name": "DJ Hoppa",
+          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
         },
         {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
         },
         {
-          "name": "Keith Rice",
-          "url": "https://open.spotify.com/artist/3ZR45l2gVP68kMaKxREjmu"
-        },
-        {
-          "name": "Ayun Bassa",
-          "url": "https://open.spotify.com/artist/1A06CtA0JeIuUw1zXkSsOy"
+          "name": "Demrick",
+          "url": "https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR"
         }
       ],
-      "duration_ms": 182068,
-      "name": "World",
-      "url": "https://open.spotify.com/track/7jGI5qvcVypacai13L88DT"
+      "duration_ms": 162666,
+      "name": "In A Box",
+      "url": "https://open.spotify.com/track/7gz7j7lfgbEEBwgCBdCdEN"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Firework in the Falling Snow (Acoustic Version)",
         "url": "https://open.spotify.com/album/4lcJdQR9siiIlAiLPmgHk5"
@@ -485,7 +665,7 @@
       "url": "https://open.spotify.com/track/3x1Oa8gNgiVvvAEXQb7kSl"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Claudine",
         "url": "https://open.spotify.com/album/6CrpCUOZaU1N3N5ZaFesAi"
@@ -517,7 +697,51 @@
       "url": "https://open.spotify.com/track/3vTSGUgTcDJHO47dlkzDcU"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Zooey Deschanel",
+          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Kenan Thompson",
+          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
+        },
+        {
+          "name": "Kunal Nayyar",
+          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+        },
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+        }
+      ],
+      "duration_ms": 189520,
+      "name": "Let's Get Married",
+      "url": "https://open.spotify.com/track/7AZiiOuTA8WPWJ7vEdFmue"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Hackney Diamonds",
         "url": "https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO"
@@ -533,7 +757,7 @@
       "url": "https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Te Mata",
         "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
@@ -549,7 +773,7 @@
       "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "NFL",
         "url": "https://open.spotify.com/album/6rsIciAfxrSApDOpNXZSll"
@@ -565,7 +789,7 @@
       "url": "https://open.spotify.com/track/1X1dy95bo2OirAmMkBIwkS"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Sleeper",
         "url": "https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD"
@@ -585,7 +809,7 @@
       "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Birth4000",
         "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
@@ -601,7 +825,7 @@
       "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Power Them Off",
         "url": "https://open.spotify.com/album/5olgCqRatEu1l1MfHv7BWI"
@@ -621,23 +845,7 @@
       "url": "https://open.spotify.com/track/1bhuaLmL5HeEfwLkw6dODH"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
-      "album": {
-        "name": "Chet on Poetry",
-        "url": "https://open.spotify.com/album/6ixxTaomYhDBVdm6A4qmKo"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 204277,
-      "name": "Almost blue",
-      "url": "https://open.spotify.com/track/2TvvypFABr65clA6O68qfn"
-    },
-    {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
@@ -677,7 +885,23 @@
       "url": "https://open.spotify.com/track/7ELtAKka2YiZRclp70wZ6F"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Chet on Poetry",
+        "url": "https://open.spotify.com/album/6ixxTaomYhDBVdm6A4qmKo"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 204277,
+      "name": "Almost blue",
+      "url": "https://open.spotify.com/track/2TvvypFABr65clA6O68qfn"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "we're going wrong",
         "url": "https://open.spotify.com/album/0cxzv4qbITfKKH1N2lxq65"
@@ -697,7 +921,7 @@
       "url": "https://open.spotify.com/track/0ZSKRyeth2Bo3sin3QvC6q"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Cherish",
         "url": "https://open.spotify.com/album/5CHZD9I0LTF6Jfclc8zXbo"
@@ -708,12 +932,12 @@
           "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
         }
       ],
-      "duration_ms": 234212,
-      "name": "Comforter",
-      "url": "https://open.spotify.com/track/7Ebd5Fy8MUNjy8BSAtPqxu"
+      "duration_ms": 88671,
+      "name": "Nurture",
+      "url": "https://open.spotify.com/track/6ggonLdaDEn6SzOcukFN5M"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "The Pigeon Tunnel (Soundtrack from the Apple Original Film)",
         "url": "https://open.spotify.com/album/1lBdfiLIfMijz3WAn82UwE"
@@ -733,39 +957,7 @@
       "url": "https://open.spotify.com/track/6gKBP1LA3SHLldVxjtijbN"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
-      "album": {
-        "name": "Sgt. Pepper's Lonely Hearts Club Band (Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967)",
-        "url": "https://open.spotify.com/album/6XW3aKGGCReIq2NIhTJRq8"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 100618,
-      "name": "Sgt. Pepper's Lonely Hearts Club Band - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
-      "url": "https://open.spotify.com/track/2kwUETBvq1zr0HpUsM2B3n"
-    },
-    {
-      "added_at": "2023-11-03 05:00:00",
-      "album": {
-        "name": "Reunion (25th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/0LKOlxflzwKoZerUQLtSmJ"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 209774,
-      "name": "Selling My Soul - Danny Saber Remix",
-      "url": "https://open.spotify.com/track/5soAf86M7IS91HacoojI9H"
-    },
-    {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Big Youth (feat. El-P)",
         "url": "https://open.spotify.com/album/0hidwDhYbIU6eXyGltHikN"
@@ -785,7 +977,23 @@
       "url": "https://open.spotify.com/track/4YucKCHgSdWoj7BtH8lbDa"
     },
     {
-      "added_at": "2023-11-03 05:00:00",
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Reunion (25th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/0LKOlxflzwKoZerUQLtSmJ"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 209774,
+      "name": "Selling My Soul - Danny Saber Remix",
+      "url": "https://open.spotify.com/track/5soAf86M7IS91HacoojI9H"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Joyride (Vansire Remix)",
         "url": "https://open.spotify.com/album/0JZXTxartQK6RyRSTpKETC"

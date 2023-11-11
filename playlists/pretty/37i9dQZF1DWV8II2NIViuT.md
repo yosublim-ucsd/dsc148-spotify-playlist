@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8II2NIViuT.md) - [plain]
 
 > Stevie Wonder's rich catalog, interpreted by artists from a wide variety of musical genres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,873 likes - 38 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,878 likes - 38 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8II2NIViuT.md) - [plain]
 | 31 | [Jesus Children](https://open.spotify.com/track/1SuNjDNslua2vWH78MDmaK) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Malcolm Jamal Warner](https://open.spotify.com/artist/6A9y5Imt5aHX9zmpthihDL) | [Stevie Wonder Covers](https://open.spotify.com/album/7b6FDYTdZucw9p5FRod078) | 5:29 |
 | 32 | [Buttercup](https://open.spotify.com/track/2JVVxCYTyZ8KA9PnxUx5ic) | [Reel People](https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X), [Tony Momrelle](https://open.spotify.com/artist/4tw6cyhpVCq4wRHcM5o8XN) | [Retroflection](https://open.spotify.com/album/5RYnv55grDphbkhM7YPLkt) | 5:04 |
 | 33 | [Superstition](https://open.spotify.com/track/4UCWKwvKwcyUQagaD85X0I) | [Beck, Bogert, Appice](https://open.spotify.com/artist/5IjFZHS2iHNl5pMwLzDySP) | [Beck, Bogert, Appice](https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz) | 4:16 |
-| 34 | [The Real Thing](https://open.spotify.com/track/1wO2D4oTnh3VygNnRi4Eca) | [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [Stevie Wonder Covers](https://open.spotify.com/album/7b6FDYTdZucw9p5FRod078) | 4:33 |
+| 34 | [The Real Thing](https://open.spotify.com/track/3Ql5gAACwGaSpZshJM5ePe) | [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [All In One](https://open.spotify.com/album/3AsYWD9dam70RGg00LCC3o) | 4:33 |
 | 35 | [Until You Come Back to Me \(That's What I'm Gonna Do\)](https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Let Me In Your Life](https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC) | 3:28 |
 | 36 | [My Cherie Amour](https://open.spotify.com/track/6O1tLGD9D6TDW3Py6Gw4lX) | [Tony Thompson](https://open.spotify.com/artist/4dC1SJh5elSp45qeyfgInn) | [Sexsational](https://open.spotify.com/album/5nKvQo4wIY7V4rhnFNrqBB) | 3:45 |
 | 37 | [Visions](https://open.spotify.com/track/3evLDlldkPh1TO9XDrNFv1) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Conception \- An Interpretation Of Stevie Wonder's Songs](https://open.spotify.com/album/0YZ71lmEMbf2kyyCppL76Q) | 5:34 |
 | 38 | [I Love Every Little Thing About You](https://open.spotify.com/track/291yyP4mQmzdSWu3Q1BpS0) | [Syreeta](https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB) | [Syreeta](https://open.spotify.com/album/6U4UAwqd7pbDloRFSwuWLY) | 4:56 |
 
-Snapshot ID: `MCxkMThhNjVhN2Y1NDYxM2ExM2M4MGExYTliZDk5OTA1Y2Q5YjUzMGNl`
+Snapshot ID: `MCwyZWI2NzQ1OTBmMzJkOWU5NWNkNzY4Nzc3MDFjY2RhNDdhYjY1Y2U3`

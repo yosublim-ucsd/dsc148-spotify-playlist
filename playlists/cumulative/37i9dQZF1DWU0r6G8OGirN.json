@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Christmas Love Song",
+        "url": "https://open.spotify.com/album/3KBCBLVGamNAwM1pPY65rJ"
+      },
+      "artists": [
+        {
+          "name": "Francis Graden",
+          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158066,
+      "name": "A Christmas Love Song",
+      "url": "https://open.spotify.com/track/3srmpEPRcrE5FAGJcsHk55"
+    },
+    {
+      "album": {
         "name": "Christmas Jazz 2: Instrumental Jazz For The Holidays",
         "url": "https://open.spotify.com/album/3PxUEXG9yUTdT9vcopnWD9"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 228853,
       "name": "A Christmas Love Song",
       "url": "https://open.spotify.com/track/1rdXAfT6MVzVm37Qe3BBkl"
@@ -290,6 +308,24 @@
       "duration_ms": 224773,
       "name": "Candles",
       "url": "https://open.spotify.com/track/4LBOStx3RgmDRT6qo0sAbe"
+    },
+    {
+      "album": {
+        "name": "Candy Canes and Silver Lanes",
+        "url": "https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC"
+      },
+      "artists": [
+        {
+          "name": "Brandon's Three",
+          "url": "https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223151,
+      "name": "Candy Canes and Silver Lanes",
+      "url": "https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6"
     },
     {
       "album": {
@@ -704,10 +740,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 222558,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/6boYat9zHcJseJJKBCKRS6"
+    },
+    {
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/6m7JdrIDGe2xc7l3nCOFh5"
+      },
+      "artists": [
+        {
+          "name": "Denzel Sachs",
+          "url": "https://open.spotify.com/artist/3SB6ICG4p7cvBEjSLNSBMw"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251053,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0enMSlACfwj5R3U6cKjNeF"
     },
     {
       "album": {
@@ -1255,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "O Tannenbaum",
+        "url": "https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN"
+      },
+      "artists": [
+        {
+          "name": "A Little Time",
+          "url": "https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123173,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7"
+    },
+    {
+      "album": {
         "name": "A Slow Jams Jazz Christmas",
         "url": "https://open.spotify.com/album/7CVYLI6ozhkfiV8Lken1OQ"
       },
@@ -1266,7 +1338,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 217653,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/2xADXrCsbvisyiD4GGkXYo"
@@ -1543,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Somewhere In My Memory",
+        "url": "https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX"
+      },
+      "artists": [
+        {
+          "name": "Ron Bladworth",
+          "url": "https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202386,
+      "name": "Somewhere In My Memory",
+      "url": "https://open.spotify.com/track/2okeg8ZIf25wcY5QGCjZAz"
+    },
+    {
+      "album": {
         "name": "I'll Be Home For Christmas",
         "url": "https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS"
       },
@@ -1673,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "The Gift of Joy",
+        "url": "https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna"
+      },
+      "artists": [
+        {
+          "name": "Tyrone Coates & Friends",
+          "url": "https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177215,
+      "name": "The Gift of Joy",
+      "url": "https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V"
+    },
+    {
+      "album": {
         "name": "The Holly and the Ivy",
         "url": "https://open.spotify.com/album/0RFl5bt4ejJMnGGZR21BWe"
       },
@@ -1778,6 +1886,24 @@
       "duration_ms": 151345,
       "name": "The Winter Song",
       "url": "https://open.spotify.com/track/0uo9UAJQ9o4O1U8wxR7Ipj"
+    },
+    {
+      "album": {
+        "name": "This Night",
+        "url": "https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179813,
+      "name": "This Night",
+      "url": "https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g"
     },
     {
       "album": {
@@ -1926,6 +2052,24 @@
       "duration_ms": 281500,
       "name": "What Are You Doing New Years Eve?",
       "url": "https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1"
+    },
+    {
+      "album": {
+        "name": "What Child Is This",
+        "url": "https://open.spotify.com/album/72aJzZXCOORiyTslTk5Mh3"
+      },
+      "artists": [
+        {
+          "name": "Maurice Green",
+          "url": "https://open.spotify.com/artist/0I2MdtSSCg5xHyymlJpnN3"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164411,
+      "name": "What Child Is This",
+      "url": "https://open.spotify.com/track/29fnDld1i5KhEF63a9QnmZ"
     },
     {
       "album": {

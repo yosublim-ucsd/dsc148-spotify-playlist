@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7Zgh168Jxf.md) - [plain]
 
 > Electrónica para bailar al calor de la Riviera Maya.
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,875 likes - 200 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,955 likes - 200 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7Zgh168Jxf.md) - [plain]
 | 101 | [Shake Me](https://open.spotify.com/track/3HHjh2PfayANYTxbrFOaM0) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Shake Me](https://open.spotify.com/album/3PDPYEtnkNDUkRH41WQFqd) | 3:31 |
 | 102 | [Ta Que Tiembla \- Buscabulla x Empress Of \[Empress Of Remix\]](https://open.spotify.com/track/5zALPpDuSLPHgLGcFfiuQj) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Ta Que Tiembla \(Buscabulla x Empress Of \[Empress Of Remix\]\)](https://open.spotify.com/album/4xFRtvc4uI5IQoBCV1an52) | 2:59 |
 | 103 | [Discoteka](https://open.spotify.com/track/5tCUZYk547DFd01YKdZ36x) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Discoteka](https://open.spotify.com/album/0xBL5r92lV5SZDU8FvrZ1u) | 2:49 |
-| 104 | [Murphy's Law \- Edit](https://open.spotify.com/track/7FRP87A2Bft7zMhFlI7j1n) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Murphy's Law](https://open.spotify.com/album/6H3LwHbVTu3wuabrTfDKCC) | 3:50 |
+| 104 | [Murphy's Law \(Edit\)](https://open.spotify.com/track/5pVk9zx3qrtmx3ya8hyanZ) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Murphy's Law](https://open.spotify.com/album/4f79qXqWnMqji5pvN3oOn6) | 3:50 |
 | 105 | [So over It \- Golf Clap Remix](https://open.spotify.com/track/4U1Wid4D8biywEtKOTMTXr) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Hannah Yadi](https://open.spotify.com/artist/6HZjznFfSy0c5is6ZUv4Vx), [Golf Clap](https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN) | [Corazón \(Remixes\)](https://open.spotify.com/album/0TJOwgYRsYMvtgOZoXDV2h) | 4:04 |
 | 106 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 |
 | 107 | [Morenito](https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [Mystic Natives](https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Morenito](https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA) | 3:10 |
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7Zgh168Jxf.md) - [plain]
 | 128 | [Me Gusta \(Infinity Fem Anthem 2021\) \- Remix by Hot Plug Beats](https://open.spotify.com/track/7DhRouKYxDOjNCdxeHtTbZ) | [Sol Pereyra](https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A), [Hot Plug Beats](https://open.spotify.com/artist/1fXCGECRsxOUDi7tj3hifF) | [Me Gusta \(Infinity Fem Anthem 2021\) \[Remix by Hot Plug Beats\]](https://open.spotify.com/album/4XVSDw6AndqvLBhMJ5vHLN) | 2:56 |
 | 129 | [We Go](https://open.spotify.com/track/2mca0xAH7h8fKVmXTn6jwC) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [We Go](https://open.spotify.com/album/2Xqpnsi5fIIFaVz6kHfyIK) | 2:36 |
 | 130 | [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 |
-| 131 | [Something More \- Edit](https://open.spotify.com/track/2Pq87UGextV8ChmTw6SQyY) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Something More](https://open.spotify.com/album/2bodaZ8TwVH6MLqCE8X0OK) | 4:00 |
+| 131 | [Something More \(Edit\)](https://open.spotify.com/track/4Gyar4tKonu5h1nBlczq7z) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Something More](https://open.spotify.com/album/2ySEmEE4ZIXGt6xiRIObIx) | 4:00 |
 | 132 | [Give Me Money](https://open.spotify.com/track/0wHdwpF88q5ueyPwwhdLAG) | [Marco Carpentieri](https://open.spotify.com/artist/7qD17uug3YdoCuu1UqYTJa) | [Give Me Money](https://open.spotify.com/album/4HXi9g4wAqC03pLASyKhvt) | 2:49 |
 | 133 | [Voodoo Sonic](https://open.spotify.com/track/58eCbxADTxNYKK7mlTaB49) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Voodoo Sonic \(The Trilogy, Pt\. 1\)](https://open.spotify.com/album/4s4LKW83Eej0Z26byXBcbh) | 3:27 |
 | 134 | [Guajira](https://open.spotify.com/track/2uOZhVd0oBoMPjmF1eZTrL) | [Redeem](https://open.spotify.com/artist/6u1kWzXYc0GmRXyoWnkzPM), [Dragonfly](https://open.spotify.com/artist/0ygDwK3yvsnfbKimQxXGbo) | [Guajira](https://open.spotify.com/album/2LJjdPOXI5GYfY8HEnVwhL) | 3:09 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7Zgh168Jxf.md) - [plain]
 | 199 | [La Botella](https://open.spotify.com/track/5SAuyeUPUD1vmRGt653Gta) | [BonHaus](https://open.spotify.com/artist/34gZinCBxDwlo9VlbFA995), [Holy Pig](https://open.spotify.com/artist/5noU5w3Au49jwWgCXih5IE) | [La Botella](https://open.spotify.com/album/61lIlJlRlFgsMNUWVNafrg) | 3:45 |
 | 200 | [Dominicana \- The Martinez Brothers + Florentino Remix](https://open.spotify.com/track/7GtkJSvO9djv0GkoCoPbyH) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [Dominicana \(The Martinez Brothers + Florentino Remix\)](https://open.spotify.com/album/5zruzxbUxzzf2mjJpuUqAX) | 4:05 |
 
-Snapshot ID: `MCw4ZDdmMjc1OGY0MGVhYTI1NGEyN2U5NDUyNmJiYTRiYjY5NDQxMzMy`
+Snapshot ID: `MCxkYTg1ZTAzOTZhNzBlMWMxZjI0YjhkNGQ4ZmNhOWZlZDgyYzE5Y2I4`

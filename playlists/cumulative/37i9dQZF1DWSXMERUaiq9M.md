@@ -4,7 +4,7 @@
 
 > love peace techno
 
-182 songs - 12 hr 29 min
+183 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [AZADI \- Calling Marian Remix](https://open.spotify.com/track/3wFG8hklVZctDRJRqjiCMd) | [Tallisker](https://open.spotify.com/artist/5kHKhgCMg9yezOrISm4wJH), [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM), [Calling Marian](https://open.spotify.com/artist/55XeXVltnSNGMlDXjLez9F) | [AZADI \(Calling Marian Remix\)](https://open.spotify.com/album/6nj3cwmyRn6PkIIQfkoU5A) | 5:10 | 2023-08-01 | 2023-08-05 |
 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 | 2023-03-10 | 2023-09-25 |
 | [Bananas](https://open.spotify.com/track/6Hze42mslIeUDRGeq8NnlQ) | [Black Girl / White Girl](https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz) | [Bananas](https://open.spotify.com/album/1bpgQaBBbuBJKFsBBCBpUT) | 3:11 | 2023-04-27 | 2023-05-06 |
-| [Berlin](https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Berlin](https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf) | 3:14 | 2023-10-20 | 2023-11-10 |
+| [Berlin](https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Berlin](https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf) | 3:14 | 2023-10-20 |  |
 | [BLOODY ASS SHOES](https://open.spotify.com/track/5xdmotWnFPVuPEZAI98OHl) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27) | [BLOODY ASS SHOES](https://open.spotify.com/album/28PKjKbNF9M3MjzyZ9Gz1n) | 2:19 | 2023-03-25 |  |
 | [BORDERLINE](https://open.spotify.com/track/168uMiy76C6sXmNIpGWPlZ) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [BORDERLINE](https://open.spotify.com/album/4ZqY8ln8OecGqY6AefRKmF) | 4:01 | 2023-06-28 | 2023-07-22 |
 | [Bumble](https://open.spotify.com/track/6mL2Xd2Ws0XEFpwXqGN6r4) | [Elon Bass](https://open.spotify.com/artist/1aBNQ54UH1JJ2A0JgkaJHr) | [Bumble](https://open.spotify.com/album/0lKvyzna35BHQQ95EPtbsT) | 4:20 | 2023-11-09 |  |
@@ -101,7 +101,7 @@
 | [Lost in Chaos](https://open.spotify.com/track/06b25nBIIh9eEc3xQanUan) | [ADB](https://open.spotify.com/artist/12YduHZJsgoAQlzLEDdT8T) | [Lost in Chaos](https://open.spotify.com/album/3ZU4vBH6aIJ5JvScEmmsOl) | 4:35 | 2023-10-05 | 2023-10-14 |
 | [Love & Peace](https://open.spotify.com/track/5UJegVmminlxe2u9dz6jBH) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC), [3rd Dale Universe](https://open.spotify.com/artist/6fjRdySULf9G3LmSjVLg2N) | [Love & Peace](https://open.spotify.com/album/5dGc4CtONI8OtIrt1X12tK) | 6:00 | 2023-03-10 | 2023-06-09 |
 | [LOVE 4 LIFE](https://open.spotify.com/track/4fmMlfYmxRNdTEWXBJyaZa) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [LOVE 4 LIFE](https://open.spotify.com/album/0qr4l55ClUflNoMLfR8K8g) | 2:53 | 2023-07-13 | 2023-07-18 |
-| [Love Express](https://open.spotify.com/track/6xsnEg4g2Z9rqRlewkENhP) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:41 | 2023-05-18 |  |
+| [Love Express](https://open.spotify.com/track/6xsnEg4g2Z9rqRlewkENhP) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:41 | 2023-05-18 | 2023-11-11 |
 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 | 2023-07-17 | 2023-08-02 |
 | [Love Me](https://open.spotify.com/track/4GIvkMOZpVLXdruLT5ZAhv) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [Love Me](https://open.spotify.com/album/0QCuHHMLxX7UOUUnpxJB3i) | 5:50 | 2023-07-13 | 2023-07-18 |
 | [Love Song](https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7) | [Mausio](https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q) | [Love Song](https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU) | 2:56 | 2023-04-06 | 2023-05-09 |
@@ -156,6 +156,7 @@
 | [Say yes to heaven](https://open.spotify.com/track/6s5nJGUMS7g0tO8L1ejXA9) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [BAYZY](https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z), [Oleria](https://open.spotify.com/artist/2VhoK5L78oQvoUJIDT4eHY) | [Say yes to heaven](https://open.spotify.com/album/5xz3sjfbFqdnf9Raa1kCGa) | 1:55 | 2023-09-29 | 2023-10-05 |
 | [Schreien! \- Turbo Remix](https://open.spotify.com/track/4tQxA4wt4knZ19uqRka3u6) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Schreien! \(Turbo Remix\)](https://open.spotify.com/album/39nZLctQpTKoFBNZ8gHjsE) | 2:45 | 2023-05-10 |  |
 | [Serenity](https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Serenity](https://open.spotify.com/album/5SBYcUgDbjQNxILy4xvhop) | 6:55 | 2023-03-10 | 2023-09-08 |
+| [Silence](https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Silence](https://open.spotify.com/album/0NWM2Hrpligv2VaMnVUX2Y) | 2:58 | 2023-11-10 |  |
 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 | 2023-07-12 |  |
 | [Spicey \- Original](https://open.spotify.com/track/4V8WSDvLpCtcmeXn5ZZLCd) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spicey \(Original\)](https://open.spotify.com/album/25RnjGOl1DrXiXDlG6axld) | 2:31 | 2023-06-29 | 2023-07-13 |
 | [Stereoscopic](https://open.spotify.com/track/1tjc7RaBVpOBJLjkbjSBS0) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Stereoscopic](https://open.spotify.com/album/6Z5OBUXv1C51O9aVVU5tM4) | 4:36 | 2023-09-21 | 2023-09-30 |
@@ -187,7 +188,7 @@
 | [Wildhorse](https://open.spotify.com/track/3Avc5PGq3RYXP93Dsphk1K) | [Lahos](https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w), [SóSó](https://open.spotify.com/artist/5CmbPtbvZHvv6R0seR6Qjv) | [Wildhorse](https://open.spotify.com/album/5oiTDL0ZQQRJJYj11O1rWR) | 2:51 | 2023-10-20 | 2023-10-27 |
 | [X\-Periencia](https://open.spotify.com/track/0MUQJDZzivCGKzS7kBPaVf) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt), [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [X\-Periencia](https://open.spotify.com/album/5FsjiiW54cokxxro5ZQCZI) | 4:46 | 2023-10-13 | 2023-10-20 |
 | [You'll Never Be Alone Again](https://open.spotify.com/track/3qkCJ3Zw1I6c3xPjAXQz7b) | [Sixten](https://open.spotify.com/artist/270lBB4c4WBLdrzQKgrXDI) | [You'll Never Be Alone Again](https://open.spotify.com/album/4Plbxojckeqi0RZp21927l) | 4:58 | 2023-10-20 | 2023-10-27 |
-| [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 | 2023-03-10 |  |
+| [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 | 2023-03-10 | 2023-11-11 |
 | [Yoyoyo](https://open.spotify.com/track/3mjpUhSiUbEvaPdxikuEZI) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Yoyoyo](https://open.spotify.com/album/5EZ9za0ULGWOTaLEfPj6aw) | 4:35 | 2023-06-09 | 2023-07-04 |
 | [♥one love♥](https://open.spotify.com/track/2zFcvXGPhkbOiNYZekEoYK) | [dracodraco](https://open.spotify.com/artist/3GooQnFk2ozVG59lQXIdiH), [LYFE4M](https://open.spotify.com/artist/0BShgKKWNc6kEyR5LXWnzL) | [♥one love♥](https://open.spotify.com/album/4TP5cGeoTSOWYC20fRFYtL) | 2:30 | 2023-06-09 | 2023-06-16 |
 

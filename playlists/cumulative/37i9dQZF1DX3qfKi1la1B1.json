@@ -378,10 +378,28 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 250138,
       "name": "Back to Me (Acoustic)",
       "url": "https://open.spotify.com/track/2RpUVWCLd7XSTinDXoGF5s"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/0N2DgbvcCI7I977mbQgVUD"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250138,
+      "name": "Back to Me - Acoustic",
+      "url": "https://open.spotify.com/track/49Tof5ULqzojVlQUn58Agn"
     },
     {
       "album": {

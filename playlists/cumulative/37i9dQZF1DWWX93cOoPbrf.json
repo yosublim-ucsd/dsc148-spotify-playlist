@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de la cosecha 2023. Virl\u00e1n Garc\u00eda & Grupo Los de la O en portada.",
+  "description": "Lo m\u00e1s fresco de la cosecha 2023. Los Tucanes de Tijuana en portada.",
   "name": "Corridos 2023",
   "tracks": [
     {
@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/4apTA2hXeKNAeDIzrHEU6s"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224526,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/691TDibKzalozEkDXfKywX"
+    },
+    {
+      "album": {
         "name": "Sigo Vivo",
         "url": "https://open.spotify.com/album/0qyo98qf6466ea1BLE4Mxb"
       },
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 135653,
       "name": "Chalo Araujo (Pistolero De Arturo Beltr\u00e1n)",
       "url": "https://open.spotify.com/track/2Jw4p4WIIxl8BwLyZ78HJ3"
@@ -2576,6 +2594,24 @@
       "duration_ms": 225493,
       "name": "Corrido de Epigmenio Falcon",
       "url": "https://open.spotify.com/track/33hPZVtaR7Q1A71FBblXF9"
+    },
+    {
+      "album": {
+        "name": "Cosas Buenas (En Vivo, Sonora, M\u00e9xico, 2023)",
+        "url": "https://open.spotify.com/album/1dKhdTTyT8tp9l0HsfnIxc"
+      },
+      "artists": [
+        {
+          "name": "Jessy Castillo",
+          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160597,
+      "name": "Cosas Buenas - En Vivo, Sonora, M\u00e9xico, 2023",
+      "url": "https://open.spotify.com/track/5MwqWlJH1xNi19WVqCfXWG"
     },
     {
       "album": {
@@ -3222,7 +3258,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 208107,
       "name": "Dinero No Tenia - En Vivo",
       "url": "https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9"
@@ -3800,7 +3836,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 271859,
       "name": "El AV",
       "url": "https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U"
@@ -4876,6 +4912,28 @@
       "duration_ms": 215272,
       "name": "El Diablo De Culiac\u00e1n (En Vivo)",
       "url": "https://open.spotify.com/track/6jiP5aQMtaOtfoUi1GmDXF"
+    },
+    {
+      "album": {
+        "name": "El Diecinueve",
+        "url": "https://open.spotify.com/album/2KgGpp3o7lwCNGemdnGcEB"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171925,
+      "name": "El Diecinueve",
+      "url": "https://open.spotify.com/track/6nEvcWB5luWoVSmClxP6WW"
     },
     {
       "album": {
@@ -6226,7 +6284,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 189196,
       "name": "El Nini (El Evento de La Hidalgo)",
       "url": "https://open.spotify.com/track/3O0OjtDpaePC6hebNsImv6"
@@ -8737,6 +8795,24 @@
     },
     {
       "album": {
+        "name": "Green Comercio",
+        "url": "https://open.spotify.com/album/71yAx8Ujdh6nKD8kfUjCxD"
+      },
+      "artists": [
+        {
+          "name": "Los Minis de Caborca",
+          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142303,
+      "name": "Green Comercio",
+      "url": "https://open.spotify.com/track/2aO2U30fHWVWja3qu7Ycqy"
+    },
+    {
+      "album": {
         "name": "Guardi\u00e1n es la Clave",
         "url": "https://open.spotify.com/album/6Ih54aGnyN2pksFFqd4nLS"
       },
@@ -9327,6 +9403,28 @@
     },
     {
       "album": {
+        "name": "IZG",
+        "url": "https://open.spotify.com/album/0LzzJMKy07JFvgDQCyQ2nn"
+      },
+      "artists": [
+        {
+          "name": "Los Intocables Del Norte",
+          "url": "https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z"
+        },
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176163,
+      "name": "IZG",
+      "url": "https://open.spotify.com/track/0ZffOsrq55iTSBjHfNzsf2"
+    },
+    {
+      "album": {
         "name": "Jes\u00fas Malverde (En Vivo)",
         "url": "https://open.spotify.com/album/4c4QrX4HDOv8HXUteNvIVE"
       },
@@ -9618,7 +9716,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 153106,
       "name": "La Belikada",
       "url": "https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6"
@@ -10506,6 +10604,32 @@
       "duration_ms": 159488,
       "name": "La Tormenta (En Vivo)",
       "url": "https://open.spotify.com/track/7MLAsX5kWrcYcMJi3Ngnk4"
+    },
+    {
+      "album": {
+        "name": "La Tostada CH",
+        "url": "https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243562,
+      "name": "La Tostada CH",
+      "url": "https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7"
     },
     {
       "album": {
@@ -11593,6 +11717,24 @@
     },
     {
       "album": {
+        "name": "Lujos Flamantes",
+        "url": "https://open.spotify.com/album/4sFXSzYvHlAz3OpUc5kRv6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Supr3me",
+          "url": "https://open.spotify.com/artist/2D04F1wci9jME32L68xaAv"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148653,
+      "name": "Lujos Flamantes",
+      "url": "https://open.spotify.com/track/7INI7hvoGSZB5W3YDEJXg5"
+    },
+    {
+      "album": {
         "name": "Lujos Y Damitas",
         "url": "https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU"
       },
@@ -11906,7 +12048,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 170424,
       "name": "Me Belikeo",
       "url": "https://open.spotify.com/track/4hI9OdYFVdAO8BF8Tuxvld"
@@ -12618,7 +12760,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 264415,
       "name": "Nacho Coronel",
       "url": "https://open.spotify.com/track/4vWGykpz2KZIYl13oY0cfE"
@@ -13152,7 +13294,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 130955,
       "name": "Pa Mi San Juditas",
       "url": "https://open.spotify.com/track/0qQ8a27gyCIcUqPdr2gecm"
@@ -14242,7 +14384,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 238447,
       "name": "RUBICON",
       "url": "https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN"
@@ -14664,6 +14806,28 @@
       "duration_ms": 189149,
       "name": "Seraf\u00edn",
       "url": "https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP"
+    },
+    {
+      "album": {
+        "name": "Pa Que Amarre (En Vivo)",
+        "url": "https://open.spotify.com/album/1gLP7AqIXc00rEWnAKE066"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256519,
+      "name": "Seraf\u00edn - En Vivo",
+      "url": "https://open.spotify.com/track/6aFS8Lvqlbtgt0EchjOsd2"
     },
     {
       "album": {
@@ -15125,6 +15289,24 @@
     },
     {
       "album": {
+        "name": "Julian Mercado Desde la Hacienda Escondida (En Vivo)",
+        "url": "https://open.spotify.com/album/6x7IQHzqHaH19fWhoNMOF3"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284321,
+      "name": "Soy Beltran (En Vivo)",
+      "url": "https://open.spotify.com/track/1iypYDfOWukYPa2VzPJBZX"
+    },
+    {
+      "album": {
         "name": "Soy Benjam\u00edn",
         "url": "https://open.spotify.com/album/6H04g945EUqDXyNUOeRqHd"
       },
@@ -15423,6 +15605,28 @@
     },
     {
       "album": {
+        "name": "Sue\u00f1os de Ni\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/6QeM5ysFgWsrZCnERu5hrP"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249121,
+      "name": "Sue\u00f1os de Ni\u00f1o (En Vivo)",
+      "url": "https://open.spotify.com/track/0ZFUm0cdR8IRqmbSCizos8"
+    },
+    {
+      "album": {
         "name": "SUR 99",
         "url": "https://open.spotify.com/album/0hN9kijAgj9tRr4YXM68w5"
       },
@@ -15490,6 +15694,24 @@
       "duration_ms": 209358,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY"
+    },
+    {
+      "album": {
+        "name": "Tepito Buffa",
+        "url": "https://open.spotify.com/album/2DYcln2e3YMNVDpu9OPNlj"
+      },
+      "artists": [
+        {
+          "name": "Proceder Elegante",
+          "url": "https://open.spotify.com/artist/31I3LvGAhnvpBqv5YRkxbO"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172822,
+      "name": "Tepito Buffa",
+      "url": "https://open.spotify.com/track/4YMUY0CX1Atj0w4gxyEbVg"
     },
     {
       "album": {
@@ -16280,7 +16502,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 162676,
       "name": "VVS",
       "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
@@ -16368,7 +16590,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 189595,
       "name": "Yo Fui El 4 De Los Antrax",
       "url": "https://open.spotify.com/track/6yWZvj6xQW6axcJtns5Cba"

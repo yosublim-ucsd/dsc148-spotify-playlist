@@ -1385,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Mahadevi",
+        "url": "https://open.spotify.com/album/4KxdcRgJnuuiZllTc1sFMQ"
+      },
+      "artists": [
+        {
+          "name": "Palace on Wheels",
+          "url": "https://open.spotify.com/artist/0uZC41CwMO6fAbyQQzmjcv"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292771,
+      "name": "Lakshmi",
+      "url": "https://open.spotify.com/track/6WZEQkILxxdTFQkeIoRCkr"
+    },
+    {
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/1i7rkhXIJjHhSt2mJAQ8zq"
       },

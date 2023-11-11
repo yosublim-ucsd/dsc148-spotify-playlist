@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 85383,
+  "num_followers": 85405,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGQ5N2I1MDcxZDRkOGFmNDAxNWM3NzFjNzRkOTY2Y2JhODg3Zjgx",
+  "snapshot_id": "MCw4OGY0N2M1YzhjMzE5N2Q4YjdkYWNlNWY0ODJlZmVjZmIyNjBlYmM0",
   "tracks": [
     {
       "added_at": "2023-10-07 00:35:47",
@@ -871,34 +871,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/2ETz2y2dJ7bD7XfXXUaKjq"
+        "name": "N\u00f3mada",
+        "url": "https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb"
       },
       "artists": [
         {
-          "name": "Tr3sdeCoraZ\u00f3n",
-          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
+          "name": "La Banda del Bisonte",
+          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
         },
         {
-          "name": "Andr\u00e9s Felipe Mu\u00f1oz Lara",
-          "url": "https://open.spotify.com/artist/70k6TbiV5FfziomRQvHrX7"
-        },
-        {
-          "name": "Sebasti\u00e1n Mej\u00eda",
-          "url": "https://open.spotify.com/artist/2GcxW1f5KFCz3Rgc3OSAZS"
-        },
-        {
-          "name": "Jorge Iv\u00e1n Botero",
-          "url": "https://open.spotify.com/artist/1rcnDmNR0ajpqHOrnNmsKO"
-        },
-        {
-          "name": "Julio Osorio",
-          "url": "https://open.spotify.com/artist/1fcdwrNb20Yjm5P4kgnxsB"
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
         }
       ],
-      "duration_ms": 213146,
-      "name": "Voy a olvidarme de mi",
-      "url": "https://open.spotify.com/track/2AklN5bNjuVAg3U3bKZ0Dk"
+      "duration_ms": 287701,
+      "name": "N\u00f3mada",
+      "url": "https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -939,6 +927,38 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/2ETz2y2dJ7bD7XfXXUaKjq"
+      },
+      "artists": [
+        {
+          "name": "Tr3sdeCoraZ\u00f3n",
+          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
+        },
+        {
+          "name": "Andr\u00e9s Felipe Mu\u00f1oz Lara",
+          "url": "https://open.spotify.com/artist/70k6TbiV5FfziomRQvHrX7"
+        },
+        {
+          "name": "Sebasti\u00e1n Mej\u00eda",
+          "url": "https://open.spotify.com/artist/2GcxW1f5KFCz3Rgc3OSAZS"
+        },
+        {
+          "name": "Jorge Iv\u00e1n Botero",
+          "url": "https://open.spotify.com/artist/1rcnDmNR0ajpqHOrnNmsKO"
+        },
+        {
+          "name": "Julio Osorio",
+          "url": "https://open.spotify.com/artist/1fcdwrNb20Yjm5P4kgnxsB"
+        }
+      ],
+      "duration_ms": 213146,
+      "name": "Voy a olvidarme de mi",
+      "url": "https://open.spotify.com/track/2AklN5bNjuVAg3U3bKZ0Dk"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Marteko Euriak",
         "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 175724,
       "name": "El Viejo",
       "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "N\u00f3mada",
-        "url": "https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb"
-      },
-      "artists": [
-        {
-          "name": "La Banda del Bisonte",
-          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
-        },
-        {
-          "name": "La Muchacha",
-          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
-        }
-      ],
-      "duration_ms": 287701,
-      "name": "N\u00f3mada",
-      "url": "https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8"
     },
     {
       "added_at": "2023-10-07 00:35:47",

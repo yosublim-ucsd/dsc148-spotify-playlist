@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9",
+        "url": "https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218604,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
+    },
+    {
+      "album": {
         "name": "Cais",
         "url": "https://open.spotify.com/album/26Whcw57vCgEvwgUiWjt2q"
       },
@@ -782,7 +800,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 220990,
       "name": "Cara a Cara (Live Session)",
       "url": "https://open.spotify.com/track/3HlqxgiaWK3DFkAN9sYpNH"
@@ -2594,7 +2612,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 186557,
       "name": "Nenhum Outro Algu\u00e9m (baby baby)",
       "url": "https://open.spotify.com/track/7rMRTotJkyIOS3dl2U7jyn"
@@ -2830,7 +2848,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 204007,
       "name": "Outono",
       "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"

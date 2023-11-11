@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-154 songs - 10 hr 40 min
+155 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [All Around You](https://open.spotify.com/track/6Kt4ZcgT2vCUq7QezTTcES) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 3:35 | 2020-11-05 |  |
 | [All Gone](https://open.spotify.com/track/55NkVwvITV119DkY4zhKEx) | [Micatone](https://open.spotify.com/artist/7yQjOE5dpqtfPCBXaHtrEj) | [The Crack](https://open.spotify.com/album/3VafpZNlfkUkYflCaCukUw) | 4:17 | 2020-11-05 |  |
 | [All Gone](https://open.spotify.com/track/571w2h9G0RbD1k8P5JPtsc) | [Micatone](https://open.spotify.com/artist/7yQjOE5dpqtfPCBXaHtrEj) | [The Crack](https://open.spotify.com/album/6xS9bXbKRy7KprC7Gyo46T) | 4:17 | 2020-11-05 | 2022-07-29 |
-| [All My Hope](https://open.spotify.com/track/0SQ06dpK6ev9sxhDh2fKh1) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 4:14 | 2021-05-21 |  |
+| [All My Hope](https://open.spotify.com/track/0SQ06dpK6ev9sxhDh2fKh1) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 4:14 | 2021-05-21 | 2023-11-11 |
 | [All on My Mind \- Acoustic](https://open.spotify.com/track/4piJ8pnoRvC5sqMEpbH0FA) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [All on My Mind \(Acoustic\)](https://open.spotify.com/album/7tz2tP0MyzjpNg13tgRyx9) | 3:49 | 2020-11-05 |  |
 | [Always Say I Love You \(At The End Of Your Goodbyes\)](https://open.spotify.com/track/6ziHTglnnwomBLV8ZNEGRz) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [Damage Control](https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH) | 4:03 | 2021-02-26 |  |
 | [Beautiful Stranger](https://open.spotify.com/track/3G5zOkX5R6i6QDuyY7xNRH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:07 | 2020-11-05 |  |
@@ -58,6 +58,7 @@
 | [I Love You More Than You'll Ever Know](https://open.spotify.com/track/7FUqdSCIFQCNdaX3bGXfw8) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Blue Again](https://open.spotify.com/album/0pLAn8grfMFtJoKU310Etx) | 5:38 | 2020-11-05 | 2022-07-29 |
 | [I'm Gonna Find Another You](https://open.spotify.com/track/2KbKSPA3oHnZGlreYLGA92) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/6feeQj5H1QIpt1y17F1jJG) | 2:39 | 2020-11-05 | 2022-07-29 |
 | [I'm Gonna Find Another You](https://open.spotify.com/track/0bYDebBlQxsDR4hCgbbpOW) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 2:43 | 2020-11-05 | 2022-09-03 |
+| [I'm Leaving \- The Circle Session, 2023](https://open.spotify.com/track/6f1OkhQzergSERbJT4IIbe) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [I'm Leaving \(The Circle Session, 2023\)](https://open.spotify.com/album/0cQqT0QeuqNC52MPYhpwTv) | 5:19 | 2023-11-10 |  |
 | [I'm Only Lonely](https://open.spotify.com/track/4bkjWF12Zz5Ri60OiHbNFV) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 5:28 | 2020-11-05 |  |
 | [If There Was a Way](https://open.spotify.com/track/51qxhpLKVMSslaDSbqGjgs) | [Rosie Flores](https://open.spotify.com/artist/112VrRSCpsoUkVgnxZvD1w) | [Simple Case of the Blues](https://open.spotify.com/album/0BhHUwgNZxOSNkS0d89Mu9) | 4:25 | 2020-11-05 | 2022-07-29 |
 | [If There Was a Way](https://open.spotify.com/track/7h4hCfrO02xSxQs6NgBXY4) | [Rosie Flores](https://open.spotify.com/artist/112VrRSCpsoUkVgnxZvD1w) | [Simple Case of the Blues](https://open.spotify.com/album/13la0jdzx3vrRcbwf6PBXU) | 4:25 | 2020-11-05 |  |

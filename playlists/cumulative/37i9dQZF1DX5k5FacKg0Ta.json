@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 212062,
       "name": "Again",
       "url": "https://open.spotify.com/track/2iGdBQuR3jcaGF5MCM4TsV"
@@ -1123,6 +1123,32 @@
     },
     {
       "album": {
+        "name": "Immediate Music III",
+        "url": "https://open.spotify.com/album/3PbWOybkoW961JGiiAQ2dL"
+      },
+      "artists": [
+        {
+          "name": "Olavi Louhivuori",
+          "url": "https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT"
+        },
+        {
+          "name": "Glenn Kotche",
+          "url": "https://open.spotify.com/artist/6upBn4tokWBDF9diqbYJZs"
+        },
+        {
+          "name": "Tony Buck",
+          "url": "https://open.spotify.com/artist/0WtwD9JqeJuof5S3K3FacF"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 903640,
+      "name": "Immediate Music III, Pt. 1",
+      "url": "https://open.spotify.com/track/3Colc6EQG6wIDpCxUlXmZY"
+    },
+    {
+      "album": {
         "name": "Both Only",
         "url": "https://open.spotify.com/album/0ILAAcet8xZuw1h5LBgseA"
       },
@@ -1448,6 +1474,28 @@
       "duration_ms": 407185,
       "name": "Knud, The Storm",
       "url": "https://open.spotify.com/track/3ETNUor97PlUMlDz2Tzo6D"
+    },
+    {
+      "album": {
+        "name": "Post Koma",
+        "url": "https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh"
+      },
+      "artists": [
+        {
+          "name": "Koma Saxo",
+          "url": "https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8"
+        },
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210613,
+      "name": "Komma Hem",
+      "url": "https://open.spotify.com/track/6fpFP1SiA0gkMA2GoBI6lL"
     },
     {
       "album": {
@@ -2008,7 +2056,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 155346,
       "name": "Omkomma Hemma",
       "url": "https://open.spotify.com/track/6lpgyO0zjXorfbyvGCSJRW"
@@ -2416,6 +2464,24 @@
       "duration_ms": 273181,
       "name": "Saami Rights",
       "url": "https://open.spotify.com/track/28KzeO7Wres2CmdmMjoXoi"
+    },
+    {
+      "album": {
+        "name": "Sao Paolo",
+        "url": "https://open.spotify.com/album/3NYIyxSA052F9t9YuIhez7"
+      },
+      "artists": [
+        {
+          "name": "The Stance Brothers",
+          "url": "https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Sao Paolo",
+      "url": "https://open.spotify.com/track/6HmYcMEJQlMDXHjaYRQJF6"
     },
     {
       "album": {
@@ -3390,6 +3456,24 @@
       "duration_ms": 352520,
       "name": "Wings",
       "url": "https://open.spotify.com/track/2aIABbDuZrdLfmKZBFaxUN"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/7gLj2PGSv6VvhiqCTug202"
+      },
+      "artists": [
+        {
+          "name": "Masa Orpana",
+          "url": "https://open.spotify.com/artist/1ELZd3bs3T5bnf0fcxC18G"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324272,
+      "name": "You'll Hear Me When I Come",
+      "url": "https://open.spotify.com/track/7CCG8gLLLCkbbafhsAPRes"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your favorite folk songs, live\. Cover: John Prine
 
-67 songs - 4 hr 57 min
+68 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Dusty Trails \- Live from Spotify House SXSW '16](https://open.spotify.com/track/5Mcl5heog3AgSEzDl5YvjZ) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Spotify Sessions](https://open.spotify.com/album/7rtwFSH6qYX3XWgixcPKTy) | 5:14 | 2023-08-11 |  |
 | [Every Time the Sun Comes Up – Live from Spotify NYC](https://open.spotify.com/track/1cKih5nX9Era2wDjkG8DWB) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Spotify Sessions](https://open.spotify.com/album/6i9AX3K3l4YSKLMlelYbqH) | 4:12 | 2023-08-11 |  |
 | [Fools](https://open.spotify.com/track/1peXGneO6Ko2B0o8HyWAx3) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Pandora Whiteboard Sessions](https://open.spotify.com/album/0a6K3G6RECVCNUgJRSo2tr) | 2:53 | 2023-08-11 |  |
+| [Fourth Time Around \- Live at the Royal Albert Hall](https://open.spotify.com/track/2xwrxptPwS1SblukgfKPgx) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Cat Power Sings Dylan: The 1966 Royal Albert Hall Concert](https://open.spotify.com/album/4OnjUMJXgFC6lG8JHOrwuu) | 4:45 | 2023-11-10 |  |
 | [Fur Coat Blues \(Live\)](https://open.spotify.com/track/0bgx8MHo22ea3yrmRqHBTi) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Live from Largo at the Coronet Theatre](https://open.spotify.com/album/12o0UlVSlCIYE1l2LvL2SW) | 4:01 | 2023-08-11 |  |
 | [Georgia \- Live at Sydney Opera House](https://open.spotify.com/track/1YCuGjcZds5ucvCBMJf9L1) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Live at Sydney Opera House](https://open.spotify.com/album/6pcblUE1ovhBPBCB7IHv8X) | 4:28 | 2023-08-11 |  |
 | [Hallelujah \- Live at Sin\-é, New York, NY \- July/August 1993](https://open.spotify.com/track/6BZFeMHjTzzNLwJGirNDzJ) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Live At Sin\-é \(Legacy Edition\)](https://open.spotify.com/album/58NsNICf7hyif5WruzsLWc) | 9:15 | 2023-08-11 |  |

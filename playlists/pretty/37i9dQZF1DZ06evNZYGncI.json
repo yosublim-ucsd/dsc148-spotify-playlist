@@ -1,15 +1,15 @@
 {
   "description": "This is Slipknot. The essential tracks, all in one playlist.",
-  "num_followers": 894500,
+  "num_followers": 902705,
   "original_name": "This Is Slipknot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyODUyOTIsMDAwMDAwMDBlZWViODBkYTdhNzFhZmQxN2M4ZTIwYTJiMjU5NzRkOA==",
+  "snapshot_id": "MjgzMjcwMTgsMDAwMDAwMDA5YmUwYThhODFhNjZhNTdhM2E1MjE2MWM5N2Q2MDY4YQ==",
   "tracks": [
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Vol. 3: The Subliminal Verses",
         "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Slipknot (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
-      "album": {
-        "name": "All Hope Is Gone (10th Anniversary)",
-        "url": "https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 284120,
-      "name": "Psychosocial",
-      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1"
-    },
-    {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": ".5: The Gray Chapter (Special Edition)",
         "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
@@ -73,7 +57,23 @@
       "url": "https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
+      "album": {
+        "name": "All Hope Is Gone (10th Anniversary)",
+        "url": "https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 284120,
+      "name": "Psychosocial",
+      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1"
+    },
+    {
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Vol. 3: The Subliminal Verses",
         "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "We Are Not Your Kind",
         "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
@@ -105,23 +105,7 @@
       "url": "https://open.spotify.com/track/5mpUKTdskZea0gStWzeHUZ"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
-      "album": {
-        "name": "All Hope Is Gone",
-        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 276146,
-      "name": "Snuff",
-      "url": "https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi"
-    },
-    {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": ".5: The Gray Chapter (Special Edition)",
         "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
@@ -137,7 +121,23 @@
       "url": "https://open.spotify.com/track/5hheGdf1cb4rK0FNiedCfK"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
+      "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 276146,
+      "name": "Snuff",
+      "url": "https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi"
+    },
+    {
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Iowa",
         "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Slipknot (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/2W2eaLVKv9NObcLXlYRZZo"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Vol. 3: The Subliminal Verses",
         "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/0O7lENhqOySbsL743G7PqD"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "We Are Not Your Kind",
         "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
@@ -201,23 +201,7 @@
       "url": "https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
-      "album": {
-        "name": "The End, So Far",
-        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "The Dying Song (Time To Sing)",
-      "url": "https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq"
-    },
-    {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": ".5: The Gray Chapter (Special Edition)",
         "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
@@ -233,7 +217,23 @@
       "url": "https://open.spotify.com/track/6AAZigYqOch79lKcrSBOv0"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "The Dying Song (Time To Sing)",
+      "url": "https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq"
+    },
+    {
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Slipknot (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/7MEHTWzEi3z7P2jEWAcdHZ"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Iowa",
         "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Vol. 3: The Subliminal Verses",
         "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/0fX9KPa0i9RGDI59gI90i9"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "All Hope Is Gone",
         "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/0HAr4QR1xI8nwC7VfzYidu"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Slipknot (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/1g8lVIsEkDaGD1nKw6fwUb"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Iowa",
         "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "The End, So Far",
         "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "All Out Life",
         "url": "https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Slipknot (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/0iget4icTqUya9wtpvCTF2"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Iowa",
         "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/74WIE2htPZwxx4HgGhpf8i"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "All Hope Is Gone",
         "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/4g3QZlvz39UllCcRXDZ0Do"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Vol. 3: The Subliminal Verses",
         "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/3q7GKmKaiktt57PVIxKOm8"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Slipknot (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Iowa",
         "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/47VSmPTydr0saGjbQGwCeg"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "We Are Not Your Kind",
         "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/6WCkyaVmut83CtBFEUhDo4"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "Vol. 3: The Subliminal Verses",
         "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
@@ -489,39 +489,7 @@
       "url": "https://open.spotify.com/track/0at89DgpVeImkVrQ0htbVm"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
-      "album": {
-        "name": "The End, So Far",
-        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 289226,
-      "name": "The Chapeltown Rag",
-      "url": "https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo"
-    },
-    {
-      "added_at": "2023-10-12 13:32:33",
-      "album": {
-        "name": "Iowa",
-        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Everything Ends",
-      "url": "https://open.spotify.com/track/11SQnfm9cxgIjRREQWgbsP"
-    },
-    {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": ".5: The Gray Chapter (Special Edition)",
         "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
@@ -537,7 +505,39 @@
       "url": "https://open.spotify.com/track/2ugAOltSeiFqKHItLMKFK3"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "Everything Ends",
+      "url": "https://open.spotify.com/track/11SQnfm9cxgIjRREQWgbsP"
+    },
+    {
+      "added_at": "2023-11-10 12:58:32",
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 289226,
+      "name": "The Chapeltown Rag",
+      "url": "https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo"
+    },
+    {
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "We Are Not Your Kind",
         "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
@@ -553,39 +553,7 @@
       "url": "https://open.spotify.com/track/4SsgF844NGbl7UFcymqWKy"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
-      "album": {
-        "name": "The End, So Far",
-        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 231146,
-      "name": "Warranty",
-      "url": "https://open.spotify.com/track/6AUfiRcpnffzH1KhI121f1"
-    },
-    {
-      "added_at": "2023-10-12 13:32:33",
-      "album": {
-        "name": "Bone Church",
-        "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 327240,
-      "name": "Bone Church",
-      "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
-    },
-    {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": ".5: The Gray Chapter (Special Edition)",
         "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
@@ -601,23 +569,7 @@
       "url": "https://open.spotify.com/track/2qfLaOWD7bB4J1Val3vO4K"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
-      "album": {
-        "name": "We Are Not Your Kind",
-        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 275839,
-      "name": "Birth Of The Cruel",
-      "url": "https://open.spotify.com/track/7I6p0xNYahHpUUXj785URX"
-    },
-    {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "All Hope Is Gone",
         "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
@@ -633,7 +585,7 @@
       "url": "https://open.spotify.com/track/7bhfCl1a1InaSy8NOWVswk"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "The End, So Far",
         "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
@@ -649,7 +601,23 @@
       "url": "https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
+      "album": {
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 275839,
+      "name": "Birth Of The Cruel",
+      "url": "https://open.spotify.com/track/7I6p0xNYahHpUUXj785URX"
+    },
+    {
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": ".5: The Gray Chapter (Special Edition)",
         "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
@@ -665,7 +633,39 @@
       "url": "https://open.spotify.com/track/7yzFUknHiad4kRBfHq2ki1"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
+      "album": {
+        "name": "Bone Church",
+        "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 327240,
+      "name": "Bone Church",
+      "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
+    },
+    {
+      "added_at": "2023-11-10 12:58:32",
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 231146,
+      "name": "Warranty",
+      "url": "https://open.spotify.com/track/6AUfiRcpnffzH1KhI121f1"
+    },
+    {
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "We Are Not Your Kind",
         "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/3XFaGEb6daqdj39ThpJ2XI"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "All Hope Is Gone",
         "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/5frNnyWkKzKdiKPLhkdY9L"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "The End, So Far",
         "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
@@ -708,12 +708,12 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 211320,
-      "name": "Heirloom",
-      "url": "https://open.spotify.com/track/7d0XwaQbPLT8tPX81uRYMv"
+      "duration_ms": 340400,
+      "name": "Adderall",
+      "url": "https://open.spotify.com/track/1PcANFoqnDsexSHXpWrn8Q"
     },
     {
-      "added_at": "2023-10-12 13:32:33",
+      "added_at": "2023-11-10 12:58:32",
       "album": {
         "name": "All Hope Is Gone",
         "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"

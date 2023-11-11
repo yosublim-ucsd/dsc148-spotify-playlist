@@ -4,7 +4,7 @@
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-267 songs - 15 hr 48 min
+268 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Ain't Great \(Reimagined\)](https://open.spotify.com/track/0x5A9QV12kA4zbn9xwd488) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [SKRWD: Reimagined](https://open.spotify.com/album/1h8DWjioTR1ftWJSNgyFNM) | 3:10 | 2021-02-08 | 2022-07-28 |
 | [All Star](https://open.spotify.com/track/0HkRMt2KB4m4DMrrzzbCFW) | [Future Teens](https://open.spotify.com/artist/4psGjIN7MDwMYJTlRjauKr) | [Sensitive Sessions](https://open.spotify.com/album/6povHARLx59tDWzF7Crvup) | 5:47 | 2022-04-04 | 2022-04-21 |
 | [Amber](https://open.spotify.com/track/5wujDwycsfXFaPomv4KhFh) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Amber](https://open.spotify.com/album/6hZ4mbO692UE2BOiInYcPa) | 3:42 | 2021-02-08 | 2022-04-11 |
-| [Aquamarine \- Acoustic](https://open.spotify.com/track/6z2m3ZQTUXm03accvTLVoi) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [The Afterglow / Aquamarine](https://open.spotify.com/album/7v8VHfKqywRoN3ZsHkDimo) | 3:52 | 2022-04-04 |  |
+| [Aquamarine \- Acoustic](https://open.spotify.com/track/6z2m3ZQTUXm03accvTLVoi) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [The Afterglow / Aquamarine](https://open.spotify.com/album/7v8VHfKqywRoN3ZsHkDimo) | 3:52 | 2022-04-04 | 2023-11-11 |
 | [Aquamarine \- Acoustic](https://open.spotify.com/track/53LGV6RURvOGCx2w8J9LaF) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [The Afterglow / Aquamarine](https://open.spotify.com/album/2Twnd33eoKXJojSFRXZPS7) | 3:52 | 2021-02-08 | 2022-07-29 |
 | [Atlantic \- Acoustic](https://open.spotify.com/track/1PoASGPXqcK2cPkS2QywaW) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 3:50 | 2021-02-08 | 2022-07-16 |
 | [Back Together](https://open.spotify.com/track/3iBlDDZ7PBuxZudPhXJAan) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Back Together](https://open.spotify.com/album/3Ogd8yxFl9drYqG9X6dkIZ) | 4:24 | 2021-12-07 | 2023-04-07 |
@@ -226,7 +226,8 @@
 | [Swiped out \- Sensitive Sessions](https://open.spotify.com/track/5PiCPteyRcm2apfsGd5cCX) | [Future Teens](https://open.spotify.com/artist/4psGjIN7MDwMYJTlRjauKr) | [Sensitive Sessions](https://open.spotify.com/album/6povHARLx59tDWzF7Crvup) | 3:42 | 2021-02-08 | 2022-07-08 |
 | [Take Me as You Please](https://open.spotify.com/track/4tOTRRJKhLshJyilxChR3r) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Take Me as You Please](https://open.spotify.com/album/53SSdHrvBByVWgkAscJ6yi) | 3:42 | 2021-02-08 | 2022-07-29 |
 | [Take Me as You Please](https://open.spotify.com/track/5JCD9hxovnHVF72WXt7App) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Proper Dose](https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0) | 3:42 | 2022-04-04 |  |
-| [Take My Breath Away](https://open.spotify.com/track/7wtmaB8TOVjItfBcBP59TL) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sunnyland](https://open.spotify.com/album/55sUM2N9C0vUHeqc1C6xEZ) | 3:54 | 2021-02-08 |  |
+| [Take My Breath Away](https://open.spotify.com/track/4AjIe5cBvHyFrvIi9yvDEd) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sunnyland](https://open.spotify.com/album/6VgJZRUsCbR1NTnJWU85G4) | 3:54 | 2022-04-04 |  |
+| [Take My Breath Away](https://open.spotify.com/track/7wtmaB8TOVjItfBcBP59TL) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sunnyland](https://open.spotify.com/album/55sUM2N9C0vUHeqc1C6xEZ) | 3:54 | 2021-02-08 | 2023-11-11 |
 | [Take This To Heart \- Acoustic](https://open.spotify.com/track/5v4qGjZrHIepDAsLGoYU0r) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 4:13 | 2021-02-08 | 2022-07-27 |
 | [Teeth](https://open.spotify.com/track/2MFsaQN0JMrAoQDmpIDv0C) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Teeth](https://open.spotify.com/album/5AxRjl0PvsKU9FTGuIZkDx) | 3:28 | 2021-09-02 |  |
 | [Tell Me You're Sorry \- Acoustic](https://open.spotify.com/track/7Cgl5iknFZMJO4VXOtaLss) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Tell Me You're Sorry \(Acoustic\)](https://open.spotify.com/album/0rc3MU5f6dfWVTOdLPA5K2) | 2:50 | 2022-04-04 |  |
@@ -269,7 +270,7 @@
 | [Wish You Were Here](https://open.spotify.com/track/4Ssi6tKwrTHi5qvDndrZRP) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 4:08 | 2022-04-04 |  |
 | [Without My Ring \(I Think I Want You\)](https://open.spotify.com/track/2nIkWia8VMuHL51ipVFL3P) | [Oh, Weatherly](https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ) | [Lips Like Oxygen Reimagined](https://open.spotify.com/album/4XJR9eMAwiWUbLJSOUmNk0) | 3:26 | 2021-02-08 | 2022-07-28 |
 | [Without My Ring \(I Think I Want You\)](https://open.spotify.com/track/49bvk6isqsWhWZpdMJ9pnA) | [Oh, Weatherly](https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ) | [Lips Like Oxygen Reimagined](https://open.spotify.com/album/1v6ISjeumbCrVJ3FEOyOoX) | 3:26 | 2022-04-04 | 2022-11-13 |
-| [Wolf In Sheep’s Clothing \- Acoustic](https://open.spotify.com/track/7k6wAmfKKU1HY09PO3dbtc) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 3:52 | 2021-02-08 | 2022-07-28 |
+| [Wolf In Sheep’s Clothing \- Acoustic](https://open.spotify.com/track/7k6wAmfKKU1HY09PO3dbtc) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 3:52 | 2021-02-08 |  |
 | [Worn Down](https://open.spotify.com/track/6HtKofQvSs7htcFVKz5IbA) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [Worn Down / Leave It Alone](https://open.spotify.com/album/5b47suEormD9CM5lKhrDQq) | 3:25 | 2021-02-08 |  |
 | [You Were The Letdown \(Chasing California\)](https://open.spotify.com/track/0N5WGeoF3fhPONFm4Hk7BT) | [Oh, Weatherly](https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ) | [Lips Like Oxygen Reimagined](https://open.spotify.com/album/4XJR9eMAwiWUbLJSOUmNk0) | 3:11 | 2021-02-08 | 2022-07-29 |
 | [You Were The Letdown \(Chasing California\)](https://open.spotify.com/track/2NAbdrFwUnXIxBIcl86SZo) | [Oh, Weatherly](https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ) | [Lips Like Oxygen Reimagined](https://open.spotify.com/album/1v6ISjeumbCrVJ3FEOyOoX) | 3:11 | 2022-04-04 |  |

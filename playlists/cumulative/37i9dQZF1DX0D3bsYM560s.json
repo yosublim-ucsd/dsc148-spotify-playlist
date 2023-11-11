@@ -469,6 +469,28 @@
     },
     {
       "album": {
+        "name": "Fast Moving Train",
+        "url": "https://open.spotify.com/album/2gNwNpN7p3SKI5vMY6LMbC"
+      },
+      "artists": [
+        {
+          "name": "Missy Raines & Allegheny",
+          "url": "https://open.spotify.com/artist/3GGiBJf0fcf8j1U19j2ek1"
+        },
+        {
+          "name": "Missy Raines",
+          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195891,
+      "name": "Fast Moving Train",
+      "url": "https://open.spotify.com/track/46ZogNzAJVYtiqBOdcCUU6"
+    },
+    {
+      "album": {
         "name": "Nine Pin",
         "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
       },
@@ -990,6 +1012,24 @@
       "duration_ms": 209391,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
+    },
+    {
+      "album": {
+        "name": "Man With No Demons",
+        "url": "https://open.spotify.com/album/4SayA2xvAGdZJI1Ba5bsmv"
+      },
+      "artists": [
+        {
+          "name": "Calamity Jane",
+          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "Man With No Demons",
+      "url": "https://open.spotify.com/track/4gTw73aRQs0Fvjkst7pZ6Y"
     },
     {
       "album": {
@@ -1545,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "The City of New Orleans",
+        "url": "https://open.spotify.com/album/24HQRvGkASwDNSuCAVWrLo"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251965,
+      "name": "The City of New Orleans",
+      "url": "https://open.spotify.com/track/3Wocpg1YEEnPIJQEfk7dP8"
+    },
+    {
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/6QNcb3Y6yNePv0w5mMPtLJ"
       },
@@ -1710,7 +1768,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 203802,
       "name": "Travelin' Heart",
       "url": "https://open.spotify.com/track/4rhqyg8ndPc61QEVMYlAsW"
@@ -1888,6 +1946,24 @@
       "duration_ms": 222704,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa"
+    },
+    {
+      "album": {
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/2A0IALbZpxPXJ4ij9Dnsxp"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/0xa49uKD6IdtaXgvLud3Bi"
     },
     {
       "album": {

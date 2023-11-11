@@ -625,6 +625,32 @@
     },
     {
       "album": {
+        "name": "Ghosts 'n' Stuff (feat. Rob Swire) [Jauz Remix]",
+        "url": "https://open.spotify.com/album/7lumeiXrp300roKsMEdpDT"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Rob Swire",
+          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Ghosts 'n' Stuff (feat. Rob Swire) [Jauz Remix]",
+      "url": "https://open.spotify.com/track/70vjXI7oBou5buTtgiJeRW"
+    },
+    {
+      "album": {
         "name": "5 Years of mau5",
         "url": "https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2"
       },

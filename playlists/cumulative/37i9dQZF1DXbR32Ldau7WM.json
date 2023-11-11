@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock bands/artists in Japan right now! Cover: \u66fd\u6211\u90e8\u6075\u4e00",
+  "description": "The biggest rock bands/artists in Japan right now! Cover: Ling tosite sigure(\u51db\u3068\u3057\u3066\u6642\u96e8)",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -2542,7 +2542,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 254381,
       "name": "Fusen Sanka",
       "url": "https://open.spotify.com/track/4TOSbBEsPsUhoZTPCkFlPk"
@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 195750,
       "name": "GET BACK",
       "url": "https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR"
@@ -3330,6 +3330,24 @@
       "duration_ms": 168000,
       "name": "I Just Threw Out The Love Of My Dreams",
       "url": "https://open.spotify.com/track/3fKJhq2KV5mnxcEBDBlxeO"
+    },
+    {
+      "album": {
+        "name": "miss you",
+        "url": "https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272709,
+      "name": "I MISS YOU",
+      "url": "https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1"
     },
     {
       "album": {
@@ -4353,6 +4371,24 @@
     },
     {
       "album": {
+        "name": "Almost there",
+        "url": "https://open.spotify.com/album/16jwz1QKP5h1HNpAI8X35S"
+      },
+      "artists": [
+        {
+          "name": "GRAPEVINE",
+          "url": "https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Little Sparrow",
+      "url": "https://open.spotify.com/track/0T7n68D8FzhGsSBcoV4PkO"
+    },
+    {
+      "album": {
         "name": "Live or Die",
         "url": "https://open.spotify.com/album/4a4v5WK42X49fBKtWcUtpE"
       },
@@ -4422,6 +4458,24 @@
       "duration_ms": 250973,
       "name": "Long Live Rock",
       "url": "https://open.spotify.com/track/7IYrXDZhuYP1O3k7UUxWAf"
+    },
+    {
+      "album": {
+        "name": "miss you",
+        "url": "https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223269,
+      "name": "LOST",
+      "url": "https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf"
     },
     {
       "album": {
@@ -5402,7 +5456,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 251396,
       "name": "NANA",
       "url": "https://open.spotify.com/track/6DLv1Vvgeb0JlzBcMRok7p"
@@ -5694,7 +5748,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 259466,
       "name": "OAW!",
       "url": "https://open.spotify.com/track/0HdYjyYWidXHD4eCbcKq76"
@@ -6625,6 +6679,24 @@
     },
     {
       "album": {
+        "name": "1000\u306e\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/2JuAvm78JqNt9ZhDfWGQP1"
+      },
+      "artists": [
+        {
+          "name": "The DUST'N'BONEZ",
+          "url": "https://open.spotify.com/artist/6ZMFxJzu0dcMXd8A9K5b8T"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242529,
+      "name": "Rock 'n Roll Radio",
+      "url": "https://open.spotify.com/track/7yKzUhsDxBUSCeVGWlx5Je"
+    },
+    {
+      "album": {
         "name": "FREAKS IN THE GARAGE - EP",
         "url": "https://open.spotify.com/album/4g1lt4vvZIwRr6nubqmpm8"
       },
@@ -6914,7 +6986,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 108980,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/06YNVx8q2zF84s8SfGbxMC"
@@ -7520,7 +7592,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 238986,
       "name": "SPECIALZ",
       "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
@@ -7936,7 +8008,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 242135,
       "name": "Super Loud",
       "url": "https://open.spotify.com/track/7Btt53bVQzP6LWm1bD7NLi"
@@ -8156,7 +8228,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 210345,
       "name": "The Gong of Knockout",
       "url": "https://open.spotify.com/track/7eITsVSfN8kKAxT35hoKF2"
@@ -11026,7 +11098,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 222320,
       "name": "\u30ad\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
       "url": "https://open.spotify.com/track/7bDgXhmpzHjvWx4qrtFaDS"
@@ -11437,6 +11509,24 @@
     },
     {
       "album": {
+        "name": "\u30b8\u30e3\u30ac\u30fc\u30ce\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/2TBNmBacaxlCcGZNAPdwhH"
+      },
+      "artists": [
+        {
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191509,
+      "name": "\u30b8\u30e3\u30ac\u30fc\u30ce\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/5wPW2TG7Pk3paFuG2NaJcn"
+    },
+    {
+      "album": {
         "name": "\u30b8\u30e5\u30fc\u30b7\u30fc\u30de\u30fc\u30de\u30ec\u30fc\u30c9",
         "url": "https://open.spotify.com/album/1Ag9kXkDqWOZLNHHWJG7yu"
       },
@@ -11672,7 +11762,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 214213,
       "name": "\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u30fb\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
       "url": "https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO"
@@ -11906,7 +11996,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 238586,
       "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
       "url": "https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp"
@@ -12176,7 +12266,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 273514,
       "name": "\u30d7\u30e9\u30cd\u30bf\u30ea\u30a2",
       "url": "https://open.spotify.com/track/1m0rRTBTKBCiXDkNdEKbYo"
@@ -12216,6 +12306,24 @@
       "duration_ms": 261999,
       "name": "\u30da\u30f3\u30da\u30f3",
       "url": "https://open.spotify.com/track/30AYmvC7pCwHKJZFnPE0Mp"
+    },
+    {
+      "album": {
+        "name": "amable muy muy",
+        "url": "https://open.spotify.com/album/6Lyui5eCX7NbYFiF4qhKIH"
+      },
+      "artists": [
+        {
+          "name": "Keita The Newest",
+          "url": "https://open.spotify.com/artist/5lWQCVtFD3JBNC9Z1ohCEh"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192473,
+      "name": "\u30db\u30cd\u30db\u30cd\u30d5\u30a7\u30b9\u30ed\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/1mvxF2mVZmSzEXWjxHUoII"
     },
     {
       "album": {
@@ -12364,7 +12472,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 185227,
       "name": "\u30e1\u30c3\u30ad",
       "url": "https://open.spotify.com/track/1pz9RH2Z3JDEbZZJIGTIaC"
@@ -12526,7 +12634,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 302786,
       "name": "\u4e0b\u3092\u5411\u3044\u3066\u6b69\u3053\u3046",
       "url": "https://open.spotify.com/track/1asktHGEURdlQRGFGWLpi9"
@@ -13568,7 +13676,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 236666,
       "name": "\u5e73\u6210\u30da\u30a4\u30f3",
       "url": "https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX"
@@ -14344,7 +14452,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 261440,
       "name": "\u6c38\u9060\u306e\u4e0d\u5728\u8a3c\u660e",
       "url": "https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis"
@@ -14621,6 +14729,24 @@
     },
     {
       "album": {
+        "name": "\u72d0\u72ec\u306e\u624d\u671b",
+        "url": "https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5"
+      },
+      "artists": [
+        {
+          "name": "Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212950,
+      "name": "\u72d0\u72ec\u306e\u624d\u671b",
+      "url": "https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp"
+    },
+    {
+      "album": {
         "name": "The End of Yesterday",
         "url": "https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9"
       },
@@ -14866,7 +14992,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 190000,
       "name": "\u79c1\u306f\u732b\u306e\u76ee",
       "url": "https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd"

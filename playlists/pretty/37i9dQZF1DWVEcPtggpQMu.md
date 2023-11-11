@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV?si=oqjOEndqQBSN126wMc9uig">Shane Eagle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,644 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,703 likes - 52 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lick Back \(Uh Huh Uh Huh\)](https://open.spotify.com/track/3HZ6ViRqdNvm5crhn16h8C) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Wordz](https://open.spotify.com/artist/7IPFplrxamAhezF49BeCsQ), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Lick Back \(Uh Huh Uh Huh\)](https://open.spotify.com/album/7CfuEGvBY9Hgpiz1xhrInO) | 4:12 |
-| 2 | [SHiRU'S iNTERLUDE](https://open.spotify.com/track/2Fvx7f8fCXxUXS6PiOGivY) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [SHiRU'S iNTERLUDE](https://open.spotify.com/album/2SUW9vWQqnhDFUO5kxkhU3) | 2:15 |
+| 2 | [ARE YOU ALRiGHT?](https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [ARE YOU ALRiGHT?](https://open.spotify.com/album/6hICsM6NMQHck05IjUGsWZ) | 4:40 |
 | 3 | [WAY UP](https://open.spotify.com/track/3ceDXT4uhr0wHQTtjzvgZd) | [FLVME](https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9) | [NOTE TO SELF](https://open.spotify.com/album/6zbbuEevrsySgJh8GR4pnc) | 2:42 |
 | 4 | [BRUCE WAYNE](https://open.spotify.com/track/1eIk9KQ1zkDB4K3QO4cmlQ) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [P2 : THE BIG HEARTED BAD GUY](https://open.spotify.com/album/5VRS9HeUxDmGRnmkfHPmp1) | 1:55 |
 | 5 | [Hennessy](https://open.spotify.com/track/6kIS7rImcCJECQod84TqOr) | [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz), [Ginger Trill](https://open.spotify.com/artist/6RBOLfqkI4jKZxRw2X89rI) | [Boyzen Da Hood](https://open.spotify.com/album/5q2sTZPvt55iu8vB30N349) | 3:28 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 51 | [ALRIGHT](https://open.spotify.com/track/5NPVb2mvDB4RXx8IvhHPno) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [ALRIGHT](https://open.spotify.com/album/3seOgx490JcE7bfxREGGz6) | 2:40 |
 | 52 | [Sporo](https://open.spotify.com/track/5X6tKe5O4zaTnoqm2CUSyg) | [Stino Le Thwenny](https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [You Want Some More?](https://open.spotify.com/album/254iOtG4PBeSKH1SuIdNtp) | 3:15 |
 
-Snapshot ID: `MCw5Y2Q0OTJiZTg4NDY5ZmQ4MTUwNTNiNDFiNGQxZmQ4NDU1ZTU2YzYx`
+Snapshot ID: `MCxkYWIwZWVhOGEwNDJkMTQyZmIwZGMxNmJkYWY2MzQ1NTdiYzI0OGZh`

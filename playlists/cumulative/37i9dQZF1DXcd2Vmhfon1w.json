@@ -634,6 +634,28 @@
     {
       "album": {
         "name": "Barquito de Vela",
+        "url": "https://open.spotify.com/album/75S6U8Hx9BIbXRASlEWPQT"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Antony Z",
+          "url": "https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220405,
+      "name": "Barquito de Vela",
+      "url": "https://open.spotify.com/track/09p2nomOAPyylPjRg1gzH0"
+    },
+    {
+      "album": {
+        "name": "Barquito de Vela",
         "url": "https://open.spotify.com/album/5JuD1pjNSmDMyQIDktuQNL"
       },
       "artists": [
@@ -648,7 +670,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 220405,
       "name": "Barquito de Vela",
       "url": "https://open.spotify.com/track/1OzXgYzPRco0NvqcDEnCRG"
@@ -1048,6 +1070,10 @@
         {
           "name": "Denom",
           "url": "https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y"
+        },
+        {
+          "name": "el alquimista",
+          "url": "https://open.spotify.com/artist/1KvXPlXGNHzpVizy6ZdUac"
         }
       ],
       "date_added": "2023-10-23",
@@ -1410,10 +1436,36 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 265917,
       "name": "EL CIELO",
       "url": "https://open.spotify.com/track/1werFoAlPyW1GYTfD9SRy6"
+    },
+    {
+      "album": {
+        "name": "El CIELO",
+        "url": "https://open.spotify.com/album/14CzUMaIzjfXKGwsCBSStK"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Kaze",
+          "url": "https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg"
+        },
+        {
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265917,
+      "name": "EL CIELO",
+      "url": "https://open.spotify.com/track/24I9WTdrlkbfz6XCqLbmCr"
     },
     {
       "album": {
@@ -2470,10 +2522,36 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 206843,
       "name": "Lo Real",
       "url": "https://open.spotify.com/track/6Z1tZjQzSgEVoLYc5FE7pw"
+    },
+    {
+      "album": {
+        "name": "Mar y Tierra",
+        "url": "https://open.spotify.com/album/29oG0ZTxPY0z1xIU18fhuS"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Nikone",
+          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
+        },
+        {
+          "name": "Dualy",
+          "url": "https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206843,
+      "name": "Lo Real",
+      "url": "https://open.spotify.com/track/6ei0W4T1vFScCTM3UuLrIr"
     },
     {
       "album": {
@@ -2576,10 +2654,36 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 183947,
       "name": "MAMITA",
       "url": "https://open.spotify.com/track/12aPSqJT6ECU9Wq6rG8sQU"
+    },
+    {
+      "album": {
+        "name": "MAMITA",
+        "url": "https://open.spotify.com/album/0cgEM3YLRPuYOd3MIMSoX9"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183947,
+      "name": "MAMITA",
+      "url": "https://open.spotify.com/track/6ug0Fl5Hqq3vTzb161NZri"
     },
     {
       "album": {
@@ -3004,6 +3108,28 @@
     {
       "album": {
         "name": "Siempre",
+        "url": "https://open.spotify.com/album/6hYTBmuamgRQGTVXkqtjRf"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Dualy",
+          "url": "https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175914,
+      "name": "Mortales",
+      "url": "https://open.spotify.com/track/2WxOZS4JiCW2Q06tPCQp5C"
+    },
+    {
+      "album": {
+        "name": "Siempre",
         "url": "https://open.spotify.com/album/3uuFYpXPgZRB6MLcH8tiUo"
       },
       "artists": [
@@ -3018,7 +3144,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 175914,
       "name": "Mortales",
       "url": "https://open.spotify.com/track/2cAlHsqGkTYqQEEZCrMrF0"

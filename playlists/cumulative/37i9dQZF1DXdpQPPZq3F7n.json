@@ -271,7 +271,7 @@
     },
     {
       "album": {
-        "name": "Bandeya (feat. Arijit Singh) [From \"Dil Juunglee\"]",
+        "name": "Bandeya (From \"Dil Juunglee\")",
         "url": "https://open.spotify.com/album/0eBjbMAR0N7knX6hBT6c3h"
       },
       "artists": [
@@ -288,7 +288,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184666,
-      "name": "Bandeya (feat. Arijit Singh) - From \"Dil Juunglee\"",
+      "name": "Bandeya - From \"Dil Juunglee\"",
       "url": "https://open.spotify.com/track/6gwnKOvdBKkTU4CQ7KpIAu"
     },
     {
@@ -480,7 +480,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 265995,
       "name": "Chashni (From \"Bharat\")",
       "url": "https://open.spotify.com/track/5X5db3FrBOHbibrFKA02MQ"
@@ -1038,6 +1038,32 @@
       "duration_ms": 240117,
       "name": "Heer Raanjhana (From \"Bachchhan Paandey\")",
       "url": "https://open.spotify.com/track/4lmtILzOIIvOzMBPMUzvKx"
+    },
+    {
+      "album": {
+        "name": "Hua Main (From \"ANIMAL\")",
+        "url": "https://open.spotify.com/album/1Vkdf3mTQV4RakJBz0HbgT"
+      },
+      "artists": [
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277021,
+      "name": "Hua Main (From \"ANIMAL\")",
+      "url": "https://open.spotify.com/track/54PRUdMOYzglMGnsg9kIta"
     },
     {
       "album": {
@@ -1776,7 +1802,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 381118,
       "name": "Katra Katra",
       "url": "https://open.spotify.com/track/0FMend2Dt9IUVDDtAPnLxO"
@@ -3619,6 +3645,32 @@
     },
     {
       "album": {
+        "name": "Satranga (From \"ANIMAL\")",
+        "url": "https://open.spotify.com/album/5mZX4EMwEyohNmVfLTDtXn"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreyas Puranik",
+          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
+        },
+        {
+          "name": "Siddharth - Garima",
+          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271169,
+      "name": "Satranga (From \"ANIMAL\")",
+      "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
+    },
+    {
+      "album": {
         "name": "Creature 3D",
         "url": "https://open.spotify.com/album/2ySTppSfuVBNq2nNN6lEqg"
       },
@@ -3788,7 +3840,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 408063,
       "name": "Shirt Da Button",
       "url": "https://open.spotify.com/track/5hTRhSAP11DXrNas4FUiY1"
@@ -4008,7 +4060,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 346290,
       "name": "Tere Hawaale (From \"Laal Singh Chaddha\")",
       "url": "https://open.spotify.com/track/4blqlsA1uf2d2I40E90EUC"

@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Idina Menzel",
-  "num_followers": 100850,
+  "num_followers": 100907,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmFhODI4MWQwMmJjNTIzYTU0YTcxOTNhOWYzNWZiODU5NjAwYTBl",
+  "snapshot_id": "MCw1MjExZGI2OGU4MTNkNDlhODIzYmY4MDVmNzBjM2RjOWE2NGViZTgz",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -161,6 +161,30 @@
       "url": "https://open.spotify.com/track/4dZ6T0on5EctKPKjgcOzrY"
     },
     {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/2gTkzjTfLj6rLfLuo63zgJ"
+      },
+      "artists": [
+        {
+          "name": "Bazza Ranks",
+          "url": "https://open.spotify.com/artist/7EUQfwlMtkjAf9Gp7oxGIV"
+        },
+        {
+          "name": "Turnstyle",
+          "url": "https://open.spotify.com/artist/1FcfLoKSTD6x8z6Xj0SE2n"
+        },
+        {
+          "name": "Venessa Jackson",
+          "url": "https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy"
+        }
+      ],
+      "duration_ms": 224016,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/5SIqGf6nEnGaUDrCX2hIDd"
+    },
+    {
       "added_at": "2023-10-20 04:00:00",
       "album": {
         "name": "Tension (The Remixes)",
@@ -235,6 +259,30 @@
       "duration_ms": 237954,
       "name": "Young In California",
       "url": "https://open.spotify.com/track/4HEpz9QQ8uOViMf6K8tucK"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Celebrate (Radio Edit)",
+        "url": "https://open.spotify.com/album/3QIlKE97catBOG2cz5Pan4"
+      },
+      "artists": [
+        {
+          "name": "Micky More & Andy Tee",
+          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
+        },
+        {
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+        },
+        {
+          "name": "Sheree Hicks",
+          "url": "https://open.spotify.com/artist/79dkWGNPlut8iOyyqPw9Ru"
+        }
+      ],
+      "duration_ms": 214017,
+      "name": "Celebrate - Radio Edit",
+      "url": "https://open.spotify.com/track/5dEk9sFFB5jpi2RWXKep3Z"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1711,26 +1759,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Still In Love (Dave Lee Mixes)",
-        "url": "https://open.spotify.com/album/7o4Ta5jFnBIp3gHPGeNLNs"
-      },
-      "artists": [
-        {
-          "name": "Dynasty",
-          "url": "https://open.spotify.com/artist/7E8yETzDbHYASNxtFQysf7"
-        },
-        {
-          "name": "Dave Lee",
-          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
-        }
-      ],
-      "duration_ms": 421054,
-      "name": "Still In Love - Dave Lee Solar Powered Club Mix",
-      "url": "https://open.spotify.com/track/44uMMMbmxXEKLL1ijxUsyw"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Flirt",
         "url": "https://open.spotify.com/album/0uKryq3qttBTyvUVakRPRO"
       },
@@ -1871,26 +1899,6 @@
       "duration_ms": 171903,
       "name": "Lost Tonight",
       "url": "https://open.spotify.com/track/7yz9JSRAHicHMCzXUT4OBq"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "(Got To) Move On Remix",
-        "url": "https://open.spotify.com/album/2VynCWSBHwUuClLHIL90Pv"
-      },
-      "artists": [
-        {
-          "name": "S-Tone Inc",
-          "url": "https://open.spotify.com/artist/7MqGKGC1ckMmbYiVKOU0ZN"
-        },
-        {
-          "name": "Afra Kane",
-          "url": "https://open.spotify.com/artist/1RhC0s2ubtgnMLr7UxwWwr"
-        }
-      ],
-      "duration_ms": 213625,
-      "name": "(Got To) Move On - S-Tone Inc Remix",
-      "url": "https://open.spotify.com/track/3Y4XjuDs2hmKDblYD05klz"
     },
     {
       "added_at": "2023-03-17 05:00:00",

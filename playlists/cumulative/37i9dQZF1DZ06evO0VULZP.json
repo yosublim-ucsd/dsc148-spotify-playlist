@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Bonus Fat",
+        "url": "https://open.spotify.com/album/2U7TfH0i95pE82kiHdHDL4"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37800,
+      "name": "My Dad Sucks",
+      "url": "https://open.spotify.com/track/5wdStG0p3BmBK5jAHI1DR1"
+    },
+    {
+      "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
       },

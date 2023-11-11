@@ -760,7 +760,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 203560,
       "name": "Bum-Rush - Instrumental",
       "url": "https://open.spotify.com/track/3JjX1mqAyczMoGeP68pYIh"
@@ -2340,7 +2340,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 234687,
       "name": "Heavy Is The Crown",
       "url": "https://open.spotify.com/track/4P5cw8rpwDAQdzIy5nltzj"
@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 166556,
       "name": "Kiss Ur Face Forever",
       "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
@@ -3626,6 +3626,24 @@
       "duration_ms": 202776,
       "name": "Paper Machete",
       "url": "https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W"
+    },
+    {
+      "album": {
+        "name": "DUALIDADE #LIVREPARATODOS",
+        "url": "https://open.spotify.com/album/5cYJymh4Af0dTazxomJdpg"
+      },
+      "artists": [
+        {
+          "name": "Bayside Kings",
+          "url": "https://open.spotify.com/artist/1ixRGSR7pOSWqLTtbjL62p"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114218,
+      "name": "PARE(SER)",
+      "url": "https://open.spotify.com/track/2x8iWbXOkSS3iOavdOa4M0"
     },
     {
       "album": {
@@ -4995,6 +5013,24 @@
     },
     {
       "album": {
+        "name": "The Fear of Fear",
+        "url": "https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281052,
+      "name": "Too Close / Too Late",
+      "url": "https://open.spotify.com/track/6CE4GRKBl4TXXrybKD3E7q"
+    },
+    {
+      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
@@ -5370,6 +5406,24 @@
       "duration_ms": 214842,
       "name": "What's the Trick?",
       "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
+    },
+    {
+      "album": {
+        "name": "Call Us by Her Name",
+        "url": "https://open.spotify.com/album/3nFXbIK55FIIpcJcERDXKM"
+      },
+      "artists": [
+        {
+          "name": "Ego Kill Talent",
+          "url": "https://open.spotify.com/artist/2FkHoIxJdhomebqlsXKZ3i"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255627,
+      "name": "When It Comes",
+      "url": "https://open.spotify.com/track/1X1kiRUcjaHVIjZiCmxGLZ"
     },
     {
       "album": {

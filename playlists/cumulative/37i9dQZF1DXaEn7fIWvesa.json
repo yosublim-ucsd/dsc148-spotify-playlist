@@ -1136,11 +1136,15 @@
         {
           "name": "Fixty Ordara y Ja Rulay",
           "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
+        },
+        {
+          "name": "Ja Rulay",
+          "url": "https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV"
         }
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 173685,
       "name": "Secuestro",
       "url": "https://open.spotify.com/track/5sK0UjjnF5STHk2wct5U9G"
@@ -1280,7 +1284,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 213600,
       "name": "Todo Est\u00e1 Ok Remix - Prod. by Dj Cham",
       "url": "https://open.spotify.com/track/2nVhTUCK9KQ2Wq9Zyfy0iW"

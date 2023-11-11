@@ -304,7 +304,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 266000,
       "name": "Afterlight",
       "url": "https://open.spotify.com/track/5AUHJrmEjIQmILBzNYm9kk"
@@ -4016,6 +4016,24 @@
       "duration_ms": 148531,
       "name": "Minutes",
       "url": "https://open.spotify.com/track/4zIyhdolfQSwPrclbLyvUT"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/12EfvrM50XQ8p90O7eeDSY"
+      },
+      "artists": [
+        {
+          "name": "Evy Kaah",
+          "url": "https://open.spotify.com/artist/2Esgl8MXvdjUrB7L80U0Ec"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185915,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/1HVRMpzE2n9KD30kPLxtw9"
     },
     {
       "album": {

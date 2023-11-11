@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 
 > Early explorations with recorded sounds as instruments \-  the groundwork for sampling as we know it today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,375 likes - 63 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,276 likes - 63 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Concert de bruit: No\. 2, Étude aux chemis de fer "Imposée"](https://open.spotify.com/track/2fvs8D9hWFCdtRBFsaq1dc) | [Pierre Schaeffer](https://open.spotify.com/artist/47ypz2bndV4j06Xx8yPDZl), [Club d'essai de la Radiodiffusion\-télévision Française](https://open.spotify.com/artist/1YA4zHtk2xQz2CVHYYJEdx) | [Premier panorama de musique concrète \(Mono Version\)](https://open.spotify.com/album/77ANTgiaByXP1i5UxgC0Fm) | 2:50 |
 | 2 | [Wire Recorder Piece](https://open.spotify.com/track/6qUPW7YB1fHN2J2HMAY7bv) | [Halim El\-Dabh](https://open.spotify.com/artist/1hhsjRTpSbycEeaPE9wPrI) | [Crossing into the Electric Magnetic](https://open.spotify.com/album/3lLxgv1eAi74VTZekZ4qMQ) | 1:57 |
-| 3 | [Requiem: Dies Irae](https://open.spotify.com/track/2rNcTGZDoTyph4Pr6tQnrO) | [Michel Chion](https://open.spotify.com/artist/2ozHdIM8I61aAYW7WlSno5) | [An Anthology Of Noise And Electronic Music Vol.3 \(Third\-A\-Chronology\)](https://open.spotify.com/album/45EWD3WMf5gZY833sDJbos) | 6:00 |
+| 3 | [Requiem \- Dies Irae](https://open.spotify.com/track/6uF9axYewaCh9c33FxIbAH) | [Michel Chion](https://open.spotify.com/artist/2ozHdIM8I61aAYW7WlSno5) | [Requiem / Laudes](https://open.spotify.com/album/6fL0BhRQ2B9LvHWEtM8LK5) | 6:04 |
 | 4 | [Sfaira](https://open.spotify.com/track/1NbYTv2CmPmu1ecmlHjUd3) | [Tilman Ehrhorn](https://open.spotify.com/artist/2Xryn0qneP0nHP67bvb5Fm), [An Moku](https://open.spotify.com/artist/0N1t5LXpAaEakJ3f2zdGA4) | [Sfaira](https://open.spotify.com/album/58culJGdA7C6pCnHg7dL2t) | 6:38 |
 | 5 | [Revolution 9 \- Remastered 2009](https://open.spotify.com/track/5dZ8PeKKZJLIQAWNTdp8WX) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 8:22 |
 | 6 | [Study for Voice and Tape](https://open.spotify.com/track/7vrvKZU7gsRgh3yMBr07OY) | [Alice Shields](https://open.spotify.com/artist/60dHuhMXgrJgD1ZXrDf0ff) | [Columbia\-Princeton Electronic Music Center 1961\-1973](https://open.spotify.com/album/2G4IrmveiWoH0yMAZDPfbe) | 5:17 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 | 62 | [The 4 Beasts' Amen: Communion: Scala angelica](https://open.spotify.com/track/1ui3g44yhB54q49SJew7dT) | [Hans\-Ola Ericsson](https://open.spotify.com/artist/7hyDap4bASASc6FEB4AwGE), [Susanne Rydén](https://open.spotify.com/artist/0nOPGVvHRYzJW76c3OiWaX), [Tommy Bjork](https://open.spotify.com/artist/5J58YZbJGx52On04YhsyEo), [Anders Hannus](https://open.spotify.com/artist/73RsH4cR30T8nmEsxgLa3d) | [Ericsson: the Four Beasts' Amen / Melody To the Memory of Lost Friend Xiii](https://open.spotify.com/album/6b6VzFCC4rpMkkTaBMr9iZ) | 8:04 |
 | 63 | [Synchronisms No\. 6](https://open.spotify.com/track/3I0gtCsE6xQtyp0jgCPouV) | [Mario Davidovsky](https://open.spotify.com/artist/0RkeeCvii56vYCER2jY5IH), [Aleck Karis](https://open.spotify.com/artist/5infXBnDBbGBPoWNBslhRH) | [Secret Geometry](https://open.spotify.com/album/5ATviy3QWhI6OuzJiN9tr3) | 7:06 |
 
-Snapshot ID: `MCw3MWRjMjRlOTZlMzAyYzI2ODgzMGFjNDFjM2FjZDc3ZTI5MmQxZGY4`
+Snapshot ID: `MCwzZTlmOWYwMzkxNGJhODMyOWMwNjljOWJjOGU0ZmZjMzQ4NjU3NWE5`

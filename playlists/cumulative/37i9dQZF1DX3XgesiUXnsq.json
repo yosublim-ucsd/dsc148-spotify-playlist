@@ -242,7 +242,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 256626,
       "name": "4,3,2,1",
       "url": "https://open.spotify.com/track/2jpd11oy0FGFebu6BpKSse"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 195349,
       "name": "BANG",
       "url": "https://open.spotify.com/track/3l6D0NUQn6Ttyz5ePSPk5w"
@@ -2571,6 +2571,28 @@
     },
     {
       "album": {
+        "name": "Digital Underground",
+        "url": "https://open.spotify.com/album/3jgSzPtdBfNtNsuuyuRrnM"
+      },
+      "artists": [
+        {
+          "name": "Matthew Progress",
+          "url": "https://open.spotify.com/artist/68BrcwaCZg1OQGSPEBIucW"
+        },
+        {
+          "name": "Dan Only",
+          "url": "https://open.spotify.com/artist/1FqfvUbVGH1YUN8bF3zg3v"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187493,
+      "name": "Digital Underground",
+      "url": "https://open.spotify.com/track/47xUNTUnV9CAxJvL2x4mCV"
+    },
+    {
+      "album": {
         "name": "Paradigm Shift",
         "url": "https://open.spotify.com/album/4a4fp2iMO72TE6sbBkNztv"
       },
@@ -3334,7 +3356,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 117713,
       "name": "Flame",
       "url": "https://open.spotify.com/track/2G9mG0wuRhtrpPBS3XSdAh"
@@ -4101,6 +4123,24 @@
     },
     {
       "album": {
+        "name": "GUNSHY",
+        "url": "https://open.spotify.com/album/4Pb1VAoIs7HsNqD3ShHZXl"
+      },
+      "artists": [
+        {
+          "name": "Nyck Caution",
+          "url": "https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "GUNSHY",
+      "url": "https://open.spotify.com/track/0We0xZsKHRpCd4r8cuMTXP"
+    },
+    {
+      "album": {
         "name": "MORE BLACK SUPERHEROES (LIMITED EDITION)",
         "url": "https://open.spotify.com/album/35kiMt5W98OpChFv4B16oF"
       },
@@ -4644,7 +4684,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 100666,
       "name": "hue_man nature",
       "url": "https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN"
@@ -5812,7 +5852,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 290844,
       "name": "Lightsabers (feat. C Dot Castro)",
       "url": "https://open.spotify.com/track/5q3GZqD0tauoshsKTs80XE"
@@ -6383,6 +6423,32 @@
     },
     {
       "album": {
+        "name": "Montagna",
+        "url": "https://open.spotify.com/album/2uShVWVliRbY4ePhpQ1MG9"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        },
+        {
+          "name": "Goosebytheway",
+          "url": "https://open.spotify.com/artist/7Lbpx0EuKekUdtfDuNStfh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Montagna",
+      "url": "https://open.spotify.com/track/5mk53q4ragqU6CMaTH6JQ3"
+    },
+    {
+      "album": {
         "name": "R4 The Prequel",
         "url": "https://open.spotify.com/album/3HYmuGem6DB2z6jGMUrbEO"
       },
@@ -6756,7 +6822,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 266996,
       "name": "Never Freestyle",
       "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
@@ -7494,7 +7560,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 303493,
       "name": "Passin' Me By",
       "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts"
@@ -7982,7 +8048,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 150520,
       "name": "Raid",
       "url": "https://open.spotify.com/track/3KQh7ppbDxVjdJBtjvP5BU"
@@ -9430,7 +9496,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 148314,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/3wOQQaIfJtmWZHDyS6qTRz"
@@ -10450,7 +10516,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 141437,
       "name": "THEIR TING",
       "url": "https://open.spotify.com/track/0NOZ9LGvmn4UiUXLtWiHbk"
@@ -10512,7 +10578,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 311960,
       "name": "Thieves In The Night",
       "url": "https://open.spotify.com/track/7tx1TUJrT6qxXFXAELqbev"
@@ -10846,7 +10912,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"

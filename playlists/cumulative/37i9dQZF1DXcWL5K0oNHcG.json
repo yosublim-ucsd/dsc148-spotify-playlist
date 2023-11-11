@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Sean Mason Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Blaque Dynamite Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -724,7 +724,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 457993,
       "name": "A Time for Love",
       "url": "https://open.spotify.com/track/2T271QHz5y3nzjKY5Inu85"
@@ -4809,6 +4809,24 @@
     },
     {
       "album": {
+        "name": "Year of the Newt",
+        "url": "https://open.spotify.com/album/75qAoON3tKG7AMtpCQheE4"
+      },
+      "artists": [
+        {
+          "name": "Bobbing",
+          "url": "https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224914,
+      "name": "Cool With It",
+      "url": "https://open.spotify.com/track/4ff8lntyOtg11xbSYXzi6v"
+    },
+    {
+      "album": {
         "name": "Corner of Memories",
         "url": "https://open.spotify.com/album/2o29BgF0bfW6uqazMyx0KS"
       },
@@ -5567,6 +5585,28 @@
     },
     {
       "album": {
+        "name": "Den Franske Gitaren",
+        "url": "https://open.spotify.com/album/5JAY1S6pxNfaVr2ynUrRAy"
+      },
+      "artists": [
+        {
+          "name": "Espen Horne",
+          "url": "https://open.spotify.com/artist/7hpcUZfbdKYP4JMC1zNaYW"
+        },
+        {
+          "name": "Aich",
+          "url": "https://open.spotify.com/artist/5OHz1Hgt1tDwVKwpbWYmhy"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244866,
+      "name": "Den Franske Gitaren",
+      "url": "https://open.spotify.com/track/7C35a7oqAHmoPlp0Tc9kth"
+    },
+    {
+      "album": {
         "name": "Despiadadamente Hermosa",
         "url": "https://open.spotify.com/album/4mfXr2lH0rjLVqfvW06DVr"
       },
@@ -5754,7 +5794,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 122500,
       "name": "disconnected",
       "url": "https://open.spotify.com/track/69wC4CdczZOPDWtAHs1BTU"
@@ -6606,7 +6646,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 133259,
       "name": "EJS",
       "url": "https://open.spotify.com/track/0DfgW4Z7XprHeaUiam9xU3"
@@ -6762,6 +6802,24 @@
       "duration_ms": 337262,
       "name": "Ellipse",
       "url": "https://open.spotify.com/track/3UO9EwH2rdEDyLcnyBh6Y6"
+    },
+    {
+      "album": {
+        "name": "Emerge",
+        "url": "https://open.spotify.com/album/2mGOMoRyenNaevDdcDqPUv"
+      },
+      "artists": [
+        {
+          "name": "Clapper",
+          "url": "https://open.spotify.com/artist/4uet4iyXBVy3gkl59pm0FH"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182389,
+      "name": "Emerge",
+      "url": "https://open.spotify.com/track/31syTisJlr1tDA5SyIPavd"
     },
     {
       "album": {
@@ -7434,7 +7492,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 214365,
       "name": "Feira de Mangaio",
       "url": "https://open.spotify.com/track/1xTNX7rKNyNIK1QFfBLz1g"
@@ -8405,6 +8463,24 @@
     },
     {
       "album": {
+        "name": "Funeka",
+        "url": "https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5"
+      },
+      "artists": [
+        {
+          "name": "Cooks But We're Chefs",
+          "url": "https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Funeka",
+      "url": "https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf"
+    },
+    {
+      "album": {
         "name": "Gallop",
         "url": "https://open.spotify.com/album/2yB2e5t3sNLJkUep1Dipi8"
       },
@@ -9140,6 +9216,32 @@
       "duration_ms": 178285,
       "name": "HEARTFELT",
       "url": "https://open.spotify.com/track/167HFUcBFU5yREOAwmDjDF"
+    },
+    {
+      "album": {
+        "name": "If I Had",
+        "url": "https://open.spotify.com/album/10J86EfR4gFWjd5nl77aiL"
+      },
+      "artists": [
+        {
+          "name": "Curtis Nowosad",
+          "url": "https://open.spotify.com/artist/5ljy3Bh8IIbcQwvuBaaDJp"
+        },
+        {
+          "name": "Luke Sellick",
+          "url": "https://open.spotify.com/artist/4JmBOPedbbGZPb4hwcQy1S"
+        },
+        {
+          "name": "Andrew Renfroe",
+          "url": "https://open.spotify.com/artist/1FvH1xEnhG1bs07KgnKXYo"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325023,
+      "name": "Heaven Is 10 Zillion Light Years Away",
+      "url": "https://open.spotify.com/track/7Dr9NpeKXu5RtuDgeFBc3s"
     },
     {
       "album": {
@@ -12645,6 +12747,24 @@
     },
     {
       "album": {
+        "name": "Like Rivers",
+        "url": "https://open.spotify.com/album/33rpXUHFociXQuHqXPO5jV"
+      },
+      "artists": [
+        {
+          "name": "August Cooke",
+          "url": "https://open.spotify.com/artist/1thY2i5UJERQjAITGdrWMf"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Like Rivers",
+      "url": "https://open.spotify.com/track/25Vw03kTDmnOX5qi87ZUsw"
+    },
+    {
+      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/3GwsljhQjuXixPXxDdRjkN"
       },
@@ -12828,7 +12948,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 490614,
       "name": "Look at the Birds",
       "url": "https://open.spotify.com/track/7feB9jfrgVCNjJVpwQH3ja"
@@ -13994,7 +14114,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 88683,
       "name": "Miniature",
       "url": "https://open.spotify.com/track/2jcwTNEjZxcK8hV4ZALiJD"
@@ -14146,7 +14266,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 362160,
       "name": "modern gothic",
       "url": "https://open.spotify.com/track/7CgY8dp3VCvdMHaNBIPXRI"
@@ -14866,7 +14986,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 107368,
       "name": "Never Give Up On Your Dreams",
       "url": "https://open.spotify.com/track/1R4h18JWIRcKdCU9fO43Yn"
@@ -16582,6 +16702,24 @@
       "duration_ms": 256640,
       "name": "Perfectly Imperfect",
       "url": "https://open.spotify.com/track/6VucsPAtp1BshUwLpGfaOX"
+    },
+    {
+      "album": {
+        "name": "permanent triangle",
+        "url": "https://open.spotify.com/album/3SUpBkO5BE8zupb9pVWjFg"
+      },
+      "artists": [
+        {
+          "name": "Alter Ego",
+          "url": "https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266425,
+      "name": "permanent triangle",
+      "url": "https://open.spotify.com/track/6IFMMSJ6JG6m06bavyHn1E"
     },
     {
       "album": {
@@ -20473,6 +20611,24 @@
     },
     {
       "album": {
+        "name": "Stop Calling Me",
+        "url": "https://open.spotify.com/album/2ku6Q6qXy6gjUSYZnXuk6B"
+      },
+      "artists": [
+        {
+          "name": "Blaque Dynamite",
+          "url": "https://open.spotify.com/artist/1sJVowZOn1El5JK5HCfcL2"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327342,
+      "name": "STOP CALLING ME",
+      "url": "https://open.spotify.com/track/314r69preySjrl67vpaEI8"
+    },
+    {
+      "album": {
         "name": "Stop in the Jungle",
         "url": "https://open.spotify.com/album/0bvsKCQlITN5GkXzLoVunu"
       },
@@ -23705,6 +23861,24 @@
     },
     {
       "album": {
+        "name": "Kindred",
+        "url": "https://open.spotify.com/album/5iYjnlKbCGefrh8rQbqXTx"
+      },
+      "artists": [
+        {
+          "name": "Doxas Brothers",
+          "url": "https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353002,
+      "name": "Two's a Crowd",
+      "url": "https://open.spotify.com/track/0hCKmGQWdYhGSumibIuusV"
+    },
+    {
+      "album": {
         "name": "Typewriter",
         "url": "https://open.spotify.com/album/5W8YvLtMFTGM4VzuJwY5kp"
       },
@@ -24460,7 +24634,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 256000,
       "name": "Wafloza",
       "url": "https://open.spotify.com/track/5JUbTRNhIBGiZ1HzZVHFwu"

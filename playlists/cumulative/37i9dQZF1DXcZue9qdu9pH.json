@@ -104,7 +104,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 204221,
       "name": "Bantu Baby, Bantu Maybe - Remix",
       "url": "https://open.spotify.com/track/1bM4MsGlanDmDn7DtkUS5P"
@@ -209,6 +209,24 @@
     },
     {
       "album": {
+        "name": "Few & Far Between",
+        "url": "https://open.spotify.com/album/0Jiq0Tpj8SN3rsMhe52RKp"
+      },
+      "artists": [
+        {
+          "name": "capespring.",
+          "url": "https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213520,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/7412Sp0DWo9Sc70hidP1jw"
+    },
+    {
+      "album": {
         "name": "Presha (Acoustic)",
         "url": "https://open.spotify.com/album/3tXc0EcWrNJIWMQMSz8bF6"
       },
@@ -289,13 +307,31 @@
     },
     {
       "album": {
+        "name": "HOLD ON TO DEER LIFE, THERE'S A BLCAK BOY BEHIND YOU!",
+        "url": "https://open.spotify.com/album/6aScw5iFrLHQUzlO21rCUl"
+      },
+      "artists": [
+        {
+          "name": "KABEAUSH\u00c9",
+          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238237,
+      "name": "HIGH SPEDE",
+      "url": "https://open.spotify.com/track/01OW8EwHqMLnUysHiLT9zE"
+    },
+    {
+      "album": {
         "name": "Blink",
         "url": "https://open.spotify.com/album/6vzfIdktz4sBazv4NSOz1n"
       },
       "artists": [
         {
-          "name": "Ethan Muziki",
-          "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1"
         }
       ],
       "date_added": "2023-06-30",
@@ -526,6 +562,32 @@
       "duration_ms": 136432,
       "name": "Not My Own",
       "url": "https://open.spotify.com/track/4LJCnfBCGR7k1cWMbZ6OxQ"
+    },
+    {
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV"
+      },
+      "artists": [
+        {
+          "name": "Chxf Barry",
+          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
+        },
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        },
+        {
+          "name": "Akeine",
+          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj"
     },
     {
       "album": {
@@ -1020,7 +1082,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 112222,
       "name": "Trust Nobody",
       "url": "https://open.spotify.com/track/1f0mXGCUH4Iw0wA6J7kEI3"
@@ -1038,7 +1100,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 293076,
       "name": "Tugi Track",
       "url": "https://open.spotify.com/track/3oTCklg2zTuc2DuKaVsORp"

@@ -550,7 +550,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 97466,
       "name": "Conmigo te gust\u00f3",
       "url": "https://open.spotify.com/track/0CFwkkkptN9vucCGjtMsaZ"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 175545,
       "name": "Dile",
       "url": "https://open.spotify.com/track/48y0Ey2l6p9ECS98Euj7jr"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 189629,
       "name": "Dos Hombres y un Destino",
       "url": "https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT"
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 311456,
       "name": "Enganchado Homenaje a Leo Mattioli - Cada vez te quiero m\u00e1s - Te llevo dentro de mi - Despu\u00e9s de ti - Te tengo que olvidar",
       "url": "https://open.spotify.com/track/4TLBCFkqq1OPNd3USWzL9y"
@@ -1621,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Como T\u00fa",
+        "url": "https://open.spotify.com/album/6GU7qLROD5m1VWF12BD0m2"
+      },
+      "artists": [
+        {
+          "name": "Sergio Moran y su Banda",
+          "url": "https://open.spotify.com/artist/7hSXBaGwB70P4kBDzqoTT2"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200373,
+      "name": "Imposible Olvidarte",
+      "url": "https://open.spotify.com/track/5XwKOns3tv46E2CmhZFvED"
+    },
+    {
+      "album": {
         "name": "Insaciable",
         "url": "https://open.spotify.com/album/24JQjRIlTGax38PWGJYhAA"
       },
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 206742,
       "name": "Insaciable",
       "url": "https://open.spotify.com/track/62MwZTT02y2hPelIia0HlX"
@@ -1996,6 +2014,28 @@
       "duration_ms": 183946,
       "name": "Maravillosa Esta Noche",
       "url": "https://open.spotify.com/track/3mqvuGlzUk0YRiKzWHEQXu"
+    },
+    {
+      "album": {
+        "name": "Maria Morena",
+        "url": "https://open.spotify.com/album/4mgUUWITrq5mfDOcShADx3"
+      },
+      "artists": [
+        {
+          "name": "Fredy Y Los Nobles",
+          "url": "https://open.spotify.com/artist/2CWB7JLKlO0SUz1U68Bo5l"
+        },
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183701,
+      "name": "Maria Morena",
+      "url": "https://open.spotify.com/track/3kWlHYNH3EcMW0fnvnFN9R"
     },
     {
       "album": {
@@ -2768,7 +2808,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 220995,
       "name": "Porqu\u00e9 Les Mientes",
       "url": "https://open.spotify.com/track/3jh7wZ6QGEVu5i5HM6xbk3"
@@ -3302,7 +3342,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 236066,
       "name": "Tan S\u00f3lo Amantes",
       "url": "https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP"
@@ -3840,7 +3880,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 203812,
       "name": "Y Hoy Volvimos A Vernos",
       "url": "https://open.spotify.com/track/6QOQE9nGY9vEdDqVjOKOuF"

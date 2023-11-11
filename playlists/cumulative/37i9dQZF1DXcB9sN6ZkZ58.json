@@ -1166,10 +1166,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 162000,
       "name": "I Want Candy",
       "url": "https://open.spotify.com/track/6o0CzOoSmMmzJ5Ycvhp52S"
+    },
+    {
+      "album": {
+        "name": "Trick or Treat! Halloween Party Hits for Kids",
+        "url": "https://open.spotify.com/album/22PbJHM4CqBVq2X0auxQ00"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "I Want Candy",
+      "url": "https://open.spotify.com/track/7xYWZMli2zPjtgqlFV3cZJ"
     },
     {
       "album": {
@@ -1599,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "Silly Songs",
+        "url": "https://open.spotify.com/album/6iTWkkheOlwhgY3m6Hxfuw"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78187,
+      "name": "On Top of My Pizza",
+      "url": "https://open.spotify.com/track/1afC9aSaTDAFNy460oDnuK"
+    },
+    {
+      "album": {
         "name": "What's Cooking in the Kitchen (Songs about Food)",
         "url": "https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0"
       },
@@ -1610,7 +1646,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 78187,
       "name": "On Top of My Pizza",
       "url": "https://open.spotify.com/track/5X6pkTV4V1pGFNHlfdPKA2"

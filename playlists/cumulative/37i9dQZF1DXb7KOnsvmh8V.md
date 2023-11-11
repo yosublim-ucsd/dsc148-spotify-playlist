@@ -4,7 +4,7 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-155 songs - 8 hr 4 min
+157 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Happy Christmas My Dear](https://open.spotify.com/track/3z0GfQCW7MAyoqfGbuymvD) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Happy Christmas My Dear](https://open.spotify.com/album/3CxBiwmyE6h2lMGevQqXNV) | 2:54 | 2021-12-17 |  |
 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/06QQhje5x55pkkLYcDuaTA) | [Dove Duo](https://open.spotify.com/artist/3pdh2stkH5UGGtDtLFCu0L) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/4FAJY8SLacbvbZoIVyMQb6) | 3:19 | 2022-10-07 | 2023-10-06 |
 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/2InJ8WNkkHPDXraFKhSZRo) | [sarah.](https://open.spotify.com/artist/0VknfkTGS9p4qrXYu9RAEx) | [Happy Xmas \(War is Over\)](https://open.spotify.com/album/6dfzAfJQGEk4oeAwegxmev) | 3:09 | 2023-10-06 |  |
-| [Hark! The Herald Angels Sing](https://open.spotify.com/track/6vZFk2jBqRItgyiVkY2YuH) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Prepare Him Room: Celebrating the Birth of Jesus in Song](https://open.spotify.com/album/3HouSjml2OClLww1sAKA0W) | 4:29 | 2021-12-17 |  |
+| [Hark! The Herald Angels Sing](https://open.spotify.com/track/5V6sMZv9k53ngSlMMxz6wE) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/16zKXuUfl1d58gk4ntAJHr) | 4:22 | 2023-11-10 |  |
+| [Hark! The Herald Angels Sing](https://open.spotify.com/track/6vZFk2jBqRItgyiVkY2YuH) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Prepare Him Room: Celebrating the Birth of Jesus in Song](https://open.spotify.com/album/3HouSjml2OClLww1sAKA0W) | 4:29 | 2021-12-17 | 2023-11-11 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/4VPyVXkletmJazLZYe8qYj) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/1Yf9o4X5FNhNRbv9w6823j) | 2:38 | 2021-12-17 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/177r7J6bnoMnW4MQx1GQng) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [The Christmas EP](https://open.spotify.com/album/7yjyuhHmTnwnqIMGYzWU1F) | 1:53 | 2022-10-07 | 2022-10-15 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/4EMFafiPV0WM7ogBpJbfzO) | [Silvio Thompson Band](https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C) | ['Tis The Season](https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ) | 2:39 | 2021-12-17 | 2022-10-15 |
@@ -157,7 +158,8 @@
 | [What Child Is This](https://open.spotify.com/track/4vMeO6jafDMycnkrBvizrF) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The Light Came Down](https://open.spotify.com/album/69jXtqUEHCVsB5geUWN1Yl) | 3:52 | 2021-12-17 |  |
 | [When A Child Is Born](https://open.spotify.com/track/2UyBIhcJ5KlikoLSaSyG2p) | [Porcelain Heart](https://open.spotify.com/artist/5T2ff1LGUqwnUUt1J3Q9vg) | [When A Child Is Born](https://open.spotify.com/album/7sFPBfprmUMHIJDLrhZ4v6) | 2:37 | 2023-10-06 |  |
 | [White Christmas](https://open.spotify.com/track/162vGpooHZzhRYDgmVL17b) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [White Christmas](https://open.spotify.com/album/0590p13JeOaXsRCl38lKPO) | 2:40 | 2021-12-17 | 2022-10-08 |
-| [White Christmas](https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [White Christmas](https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14) | 2:32 | 2022-10-07 |  |
+| [White Christmas](https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [White Christmas](https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14) | 2:32 | 2022-10-07 | 2023-11-11 |
+| [white christmas](https://open.spotify.com/track/26ivtKYwzmHuUAsQvDx7hh) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [white christmas](https://open.spotify.com/album/1Xw5gJEsHUa1uEVirBA09O) | 2:14 | 2023-11-10 |  |
 | [White Christmas](https://open.spotify.com/track/38ZYVGWOBlr9YgweGxHN6J) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [White Christmas](https://open.spotify.com/album/40fzLJk319r2dowWS6k5sO) | 3:18 | 2022-10-07 | 2022-10-15 |
 | [Winter Wonderland](https://open.spotify.com/track/2SslxBSZSqeyVRq9Mhd6uU) | [McKenna Williams](https://open.spotify.com/artist/03uZO3ld49qo2B5Y39Io05) | [Winter Wonderland](https://open.spotify.com/album/2pQFkne3QWb67GFH4Dr6cX) | 1:51 | 2021-12-17 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/7G1cFCMNKHixbmq9I8nRvh) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Wonderful Christmastime](https://open.spotify.com/album/7Aw5Eeq7mSfQGqQj2bZT7V) | 4:14 | 2021-12-17 |  |

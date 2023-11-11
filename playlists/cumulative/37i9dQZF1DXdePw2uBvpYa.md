@@ -4,7 +4,7 @@
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-84 songs - 4 hr 45 min
+86 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,12 +26,14 @@
 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 | 2021-06-02 |  |
 | [Dancing with Myself \- Single Version](https://open.spotify.com/track/5ABwsrPHOZJTwYzOdd7huO) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Dancing with Myself](https://open.spotify.com/album/2YAvjBR8meBp1k5CpaTINc) | 3:27 | 2021-06-02 |  |
 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 | 2021-06-02 |  |
-| [Drums](https://open.spotify.com/track/3kuzQUrNBLcd9FBMEB4iCK) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Nova Twins EP](https://open.spotify.com/album/7nK1JsD5skKBPk7MgUrW78) | 2:44 | 2021-06-02 |  |
+| [Drums](https://open.spotify.com/track/3kuzQUrNBLcd9FBMEB4iCK) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Nova Twins EP](https://open.spotify.com/album/7nK1JsD5skKBPk7MgUrW78) | 2:44 | 2021-06-02 | 2023-11-11 |
+| [Drums](https://open.spotify.com/track/3bKeShmrQ2u9VJoJRVGUvJ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Nova Twins EP](https://open.spotify.com/album/1XJ5VnFWxh5CcErfLZcetk) | 2:45 | 2021-06-02 |  |
 | [Edge of Seventeen](https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 5:29 | 2021-06-02 |  |
 | [Entertainment 4 Sale](https://open.spotify.com/track/2KRd7MYrm6tU6B28YVr5uv) | [MARTYRIALS](https://open.spotify.com/artist/14SQF38mdDQ80AaAKMQqFz) | [Electric Delegates](https://open.spotify.com/album/2zZ0lqvJPTE0K5gSJAhomN) | 4:59 | 2021-06-02 |  |
 | [Fall Asleep](https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sistahs](https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr) | 2:56 | 2021-06-02 |  |
 | [Feel Me?](https://open.spotify.com/track/1tK0yRqjlCvEJ46vouBg87) | [Beefywink](https://open.spotify.com/artist/1wpwwyRDliuWyKf7IEohjC) | [Dance in the Deluge](https://open.spotify.com/album/0nOkXiotfFqGlESwEofd2w) | 3:29 | 2021-06-02 |  |
-| [Four Letter Words](https://open.spotify.com/track/0F7plvzEr2eu5aHZwW3uE7) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Four Letter Words](https://open.spotify.com/album/3cezfDIOGBVAtXaEuG2L2n) | 2:27 | 2021-06-02 |  |
+| [Four Letter Words](https://open.spotify.com/track/0F7plvzEr2eu5aHZwW3uE7) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Four Letter Words](https://open.spotify.com/album/3cezfDIOGBVAtXaEuG2L2n) | 2:27 | 2021-06-02 | 2023-11-11 |
+| [Four Letter Words](https://open.spotify.com/track/5mMoKKuuPNGDBvwiN7tmot) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Inside Voices / Outside Voices](https://open.spotify.com/album/1Ct0Q2DpQ7TjqdG3Ys453S) | 2:27 | 2021-06-02 |  |
 | [Ghost Box](https://open.spotify.com/track/1jFBqKJWI9qT1EqGUwJ6ay) | [Oh, The Guilt](https://open.spotify.com/artist/1tOdjzrPSoE5mnzyPbreon) | [Ghost Box](https://open.spotify.com/album/7waMJqJpxh6Qri4HtNJvvL) | 4:12 | 2021-06-02 |  |
 | [Goth Girl](https://open.spotify.com/track/6Hls9RwOCumrOU92veAeLv) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Goth Girl](https://open.spotify.com/album/3ciwyqmDLBZoPmMvs1YKJH) | 2:34 | 2021-06-02 |  |
 | [Goth Girl](https://open.spotify.com/track/0wY6lSoaPdeM2c9a9fMHrk) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Goth Girl](https://open.spotify.com/album/6jNPenRTscpLTQP0Cb34UD) | 2:34 | 2021-06-02 | 2022-10-19 |

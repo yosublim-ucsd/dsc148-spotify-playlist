@@ -2,9 +2,9 @@
 
 ### [Portal](https://open.spotify.com/playlist/37i9dQZF1DWZaNRXtvIrDt)
 
-> a new world of alternative electronic music\. Cover: RONA.
+> a new world of alternative electronic music\. Cover: Chaos In The CBD
 
-506 songs - 1 day 13 hr 39 min
+507 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,8 @@
 | [Pleasure \- Original Vox Mix](https://open.spotify.com/track/0wGZ0gl1g04dAYFB0IeTji) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Pleasure](https://open.spotify.com/album/1nUIIkaakagx1UUd4R1yKd) | 6:43 | 2023-10-12 |  |
 | [Positive Vibe Tribe](https://open.spotify.com/track/6XwFasS773gtriS9dSO5Na) | [River Yarra](https://open.spotify.com/artist/2pNERfYCXwSbcFC02Rhume) | [Positive Vibe Tribe](https://open.spotify.com/album/202dQdfSfijkDi8joBcYL8) | 4:38 | 2023-04-06 | 2023-04-28 |
 | [Pressure](https://open.spotify.com/track/67U4c4ogb7pWU3uRINXnrn) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Pressure](https://open.spotify.com/album/3cSRHBRgdNFGHIlxKIIBDr) | 4:43 | 2023-09-28 |  |
-| [Prophet Club](https://open.spotify.com/track/5yDKlrmRycI7Ev1loud2AI) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [Death Is Home](https://open.spotify.com/album/5HO1N4upxkWKuO3hdB4d2m) | 3:59 | 2023-11-09 |  |
+| [Prophet Club](https://open.spotify.com/track/5yDKlrmRycI7Ev1loud2AI) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [Death Is Home](https://open.spotify.com/album/5HO1N4upxkWKuO3hdB4d2m) | 3:59 | 2023-11-09 | 2023-11-11 |
+| [Prophet Club](https://open.spotify.com/track/7eJvlLIDfdQGhUIQGPO1pn) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [Death Is Home](https://open.spotify.com/album/2mbcBhD6LbNpx9Tzv5cPUP) | 3:59 | 2023-11-10 |  |
 | [PsyPilled \- Vocal Rework](https://open.spotify.com/track/3iCbeFDVW51dM33CUt7DZS) | [Mittens](https://open.spotify.com/artist/2oJviFhUidYxVydzwNKrwM) | [Groove Bait](https://open.spotify.com/album/4LBGYRn8VxCQRodNVeV64V) | 5:50 | 2023-09-14 |  |
 | [Pulse III](https://open.spotify.com/track/4UYl1TjBi8sUL21SZWzy3p) | [Peverelist](https://open.spotify.com/artist/0UrA452V5vJpCW5ezx0YMP) | [Pulse III](https://open.spotify.com/album/6pFIO9YXWvfwpL1txEmSeO) | 8:02 | 2023-03-23 | 2023-05-26 |
 | [Pure Puma](https://open.spotify.com/track/6rKWRfzVmSkW4EyuuwjQsy) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Pure Puma](https://open.spotify.com/album/59IfvGrW8KSsw0wNHAYGL0) | 4:21 | 2023-01-19 | 2023-02-24 |

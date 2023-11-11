@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-672 songs - 1 day 23 hr 5 min
+673 songs - 1 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [If Love Is Overrated](https://open.spotify.com/track/3iLubgTcHY4ozbOLgfE8ZN) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Best Love Ballads](https://open.spotify.com/album/04HiwRR7Ct1A4qkZnLQF8n) | 5:53 | 2020-10-09 | 2022-02-19 |
 | [If This Was](https://open.spotify.com/track/2SFjIjgQzFMjlL2ONkmstB) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [If This Was](https://open.spotify.com/album/7Ed4UdAZsXXVqeDAE1xI4t) | 4:11 | 2020-10-09 | 2022-02-19 |
 | [If You Believe](https://open.spotify.com/track/35KUEip7Py2OYvw4j9YyzD) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq) | [Parallel Motion](https://open.spotify.com/album/2QWh0FN4WfVTaYC5fwiI4I) | 4:48 | 2022-08-26 | 2023-07-15 |
-| [If You Go Away](https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [If You Go Away / Ne me quitte pas](https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx) | 4:55 | 2023-10-06 |  |
+| [If You Go Away](https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [If You Go Away / Ne me quitte pas](https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx) | 4:55 | 2023-10-06 | 2023-11-11 |
 | [If You Love Me](https://open.spotify.com/track/7i9RIEuPvpQ8NtfI0dSJeK) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 4:34 | 2020-10-23 | 2022-02-19 |
 | [In a Mellow Tone](https://open.spotify.com/track/6VN1Tktyqjue8xUQyItXfX) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG), [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [In a Mellow Tone](https://open.spotify.com/album/7DXr7QMH9a88Ll6r81vCJK) | 5:41 | 2022-10-28 | 2023-07-01 |
 | [In France they kiss on main street](https://open.spotify.com/track/17Ck9L9rEHlugzfZqF5mfH) | [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [In France they kiss on main street](https://open.spotify.com/album/6EN1IxzMj7MYji81Mt18Hq) | 3:48 | 2022-02-18 | 2022-07-01 |
@@ -525,6 +525,7 @@
 | [Strange Harbors](https://open.spotify.com/track/5B3pTFpdqvMwku6ysdXGJp) | [Matt Block](https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP), [Morton Block](https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ), [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Strange Harbors](https://open.spotify.com/album/3kQVjBANhSLpIWnQr7SuKN) | 4:58 | 2022-06-10 | 2023-01-14 |
 | [Streets Of Philadelphia](https://open.spotify.com/track/3sFuasoQLakdxnTh3vJ5ix) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Streets Of Philadelphia](https://open.spotify.com/album/1aU3vWkTS7Ej9VEtueevrV) | 5:20 | 2023-08-25 | 2023-09-16 |
 | [Suddenly Lovers](https://open.spotify.com/track/5EBcZJPbv1hSlkvpy9fruG) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Suddenly Lovers](https://open.spotify.com/album/2emVZPJIwGzDKzCHtnAgnW) | 3:38 | 2023-08-18 | 2023-09-02 |
+| [Summer Me, Winter Me](https://open.spotify.com/track/4Kx1kfAPsEM6Mw2cow70ez) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Summer Me, Winter Me](https://open.spotify.com/album/0D3n8O8ZQt08vx4SesLIaj) | 5:05 | 2023-11-10 |  |
 | [Summer of '70](https://open.spotify.com/track/1XpAdi2kxOX2Gd8DfhIVR4) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [Earthenya](https://open.spotify.com/album/7nZZUnGI8D3Db6q5GwCJk5) | 4:56 | 2022-10-07 | 2022-10-15 |
 | [Summertime](https://open.spotify.com/track/70MA6VYfLYs1vSnXU3jmma) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Summertime](https://open.spotify.com/album/75UH4PTJl3CDxuHjjygfY5) | 3:21 | 2020-10-16 | 2022-02-19 |
 | [Sun For Someone \- Live at Longreel](https://open.spotify.com/track/1LNY7nH1hu4NP70pgJ5gQv) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Live At Longreel](https://open.spotify.com/album/17878IC3YcaxrHU8T5SL5g) | 5:40 | 2021-04-16 | 2022-04-21 |

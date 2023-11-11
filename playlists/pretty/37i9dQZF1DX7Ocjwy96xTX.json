@@ -1,13 +1,33 @@
 {
   "description": "New music from Wisp, plus 10 songs she's loving right now. ",
-  "num_followers": 200206,
+  "num_followers": 200478,
   "original_name": "IRL ANGEL ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGYyZGI3YjlhNWVjYmY5MDllYjhjYzRlZDMzODNjNzQwZTBkYWU4",
+  "snapshot_id": "MCw4MzdjMDM1NWMwMTQwNzFkOWViZjg0ZWFmNzRjYTFkNGEzNWM0ODY1",
   "tracks": [
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Stepdream",
+        "url": "https://open.spotify.com/album/5E3MchKg9tSmjcinajvShd"
+      },
+      "artists": [
+        {
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+        },
+        {
+          "name": "Orbiting Human Circus",
+          "url": "https://open.spotify.com/artist/2j6asjJTdzpuwZZXsQVtSH"
+        }
+      ],
+      "duration_ms": 230020,
+      "name": "Rummage",
+      "url": "https://open.spotify.com/track/5VTggg4KikE3rBmKHD3i7t"
+    },
     {
       "added_at": "2023-10-31 04:00:00",
       "album": {
@@ -39,6 +59,22 @@
       "duration_ms": 279451,
       "name": "Under the Same Name",
       "url": "https://open.spotify.com/track/4HvvHSzR1fAS653pHO5XTu"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Everything I Do Is For You",
+        "url": "https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 156349,
+      "name": "Everything I Do Is For You",
+      "url": "https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE"
     },
     {
       "added_at": "2023-10-31 04:00:00",
@@ -73,6 +109,22 @@
       "url": "https://open.spotify.com/track/5imSIRUGtX4aeRRA81UakE"
     },
     {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "New Normal",
+        "url": "https://open.spotify.com/album/0hxkBuqU47PF8B1gKEoX2T"
+      },
+      "artists": [
+        {
+          "name": "Izzy Spears",
+          "url": "https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P"
+        }
+      ],
+      "duration_ms": 140350,
+      "name": "New Normal",
+      "url": "https://open.spotify.com/track/1YByuyHH5sOO2c7ojGflsA"
+    },
+    {
       "added_at": "2023-10-31 04:00:00",
       "album": {
         "name": "Distressor",
@@ -103,6 +155,22 @@
       "duration_ms": 179966,
       "name": "Extinct Californians",
       "url": "https://open.spotify.com/track/66HpVpcaHGSrujIH9DGObN"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "nap",
+        "url": "https://open.spotify.com/album/5qhcJWasY3IK6sFDe2reI8"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "duration_ms": 174770,
+      "name": "nap",
+      "url": "https://open.spotify.com/track/3WrCcZoZqKuuAxsGbiNlLx"
     },
     {
       "added_at": "2023-10-31 04:00:00",
@@ -151,6 +219,22 @@
       "duration_ms": 199125,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/0Vwc4ONQtM3dEVcCMnLDHc"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Paulie Bleeker",
+        "url": "https://open.spotify.com/album/1jKpxJPohujeCGiEQfV3QI"
+      },
+      "artists": [
+        {
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+        }
+      ],
+      "duration_ms": 199668,
+      "name": "Paulie Bleeker",
+      "url": "https://open.spotify.com/track/2MWpgaYQee0U6sKn1jJ2o8"
     },
     {
       "added_at": "2023-10-31 04:00:00",
@@ -231,6 +315,22 @@
       "duration_ms": 227426,
       "name": "Your face",
       "url": "https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "LNR_(05)",
+        "url": "https://open.spotify.com/album/6JA89WIIdzbh1ItRkOvSZd"
+      },
+      "artists": [
+        {
+          "name": "Killer Bee",
+          "url": "https://open.spotify.com/artist/6XXPLVj62lsUtiyDZvTXKz"
+        }
+      ],
+      "duration_ms": 343448,
+      "name": "july 7th",
+      "url": "https://open.spotify.com/track/4Uct80Jkq8zltB3N8sl8Tw"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -717,22 +817,6 @@
       "url": "https://open.spotify.com/track/3bcQvxrW59PlemA7rrPm2G"
     },
     {
-      "added_at": "2023-10-11 04:10:00",
-      "album": {
-        "name": "Tonight (demo)",
-        "url": "https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag"
-      },
-      "artists": [
-        {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Tonight (demo)",
-      "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD"
-    },
-    {
       "added_at": "2023-10-20 04:00:00",
       "album": {
         "name": "Hard Candy",
@@ -1135,22 +1219,6 @@
     {
       "added_at": "2023-10-11 04:10:00",
       "album": {
-        "name": "Comatose",
-        "url": "https://open.spotify.com/album/699HPxSGvoihD45uGQbBYv"
-      },
-      "artists": [
-        {
-          "name": "quannnic",
-          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
-        }
-      ],
-      "duration_ms": 228916,
-      "name": "Comatose",
-      "url": "https://open.spotify.com/track/1nrY9vaRGbSu8Oyp5Wlyu1"
-    },
-    {
-      "added_at": "2023-10-11 04:10:00",
-      "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
       },
@@ -1315,22 +1383,6 @@
       "duration_ms": 260760,
       "name": "My Time As a Ghostly Someone Else",
       "url": "https://open.spotify.com/track/5YV2ZcrB3Ck69RkFFXpmCl"
-    },
-    {
-      "added_at": "2023-10-11 04:10:00",
-      "album": {
-        "name": "kenopsia",
-        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
-      },
-      "artists": [
-        {
-          "name": "quannnic",
-          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
-        }
-      ],
-      "duration_ms": 245346,
-      "name": "snarky",
-      "url": "https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r"
     },
     {
       "added_at": "2023-10-11 04:10:00",

@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "ALL THAT U WANT",
+        "url": "https://open.spotify.com/album/3BGrYo5OCTJgm8VN01wos7"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140241,
+      "name": "ALL THAT U WANT",
+      "url": "https://open.spotify.com/track/1jHq0Xqbb49WLRUq0kMFzz"
+    },
+    {
+      "album": {
         "name": "Chet on Poetry",
         "url": "https://open.spotify.com/album/6ixxTaomYhDBVdm6A4qmKo"
       },
@@ -854,6 +872,28 @@
       "duration_ms": 230647,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/1rHP6sE5v4NJbRlqTc0PxF"
+    },
+    {
+      "album": {
+        "name": "An Osirian Dream (Og & Theo Parrish Takes)",
+        "url": "https://open.spotify.com/album/1PlNpjvS526hxb44ffidDH"
+      },
+      "artists": [
+        {
+          "name": "Tiombe Lockhart",
+          "url": "https://open.spotify.com/artist/1kqZOF1WEoAV23hEZU6Gta"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214199,
+      "name": "An Osirian Dream - Beatless version",
+      "url": "https://open.spotify.com/track/6YsmUJnu7dD2CQ6CLI2joP"
     },
     {
       "album": {
@@ -1250,6 +1290,50 @@
       "duration_ms": 262925,
       "name": "Backfire",
       "url": "https://open.spotify.com/track/6qA3JeQaSLng3XmIFr7IC0"
+    },
+    {
+      "album": {
+        "name": "1989 (Taylor's Version) [Deluxe]",
+        "url": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199773,
+      "name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
+      "url": "https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9"
+    },
+    {
+      "album": {
+        "name": "LOST TAPE VOL. 1",
+        "url": "https://open.spotify.com/album/52ahsGFCpoYdNOHliaw00k"
+      },
+      "artists": [
+        {
+          "name": "LOST NOISE",
+          "url": "https://open.spotify.com/artist/0qGJpAZPoG0ZuLdxYWydAp"
+        },
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68590,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/1jqmqsXyrjxNNmyyt9nKXK"
     },
     {
       "album": {
@@ -2401,6 +2485,36 @@
     },
     {
       "album": {
+        "name": "Camera Flash",
+        "url": "https://open.spotify.com/album/69V5RVtFEogCAsDJj3b1j6"
+      },
+      "artists": [
+        {
+          "name": "Team Demo",
+          "url": "https://open.spotify.com/artist/1zR4UmAZShvLVSxMXMPJfs"
+        },
+        {
+          "name": "Wais P",
+          "url": "https://open.spotify.com/artist/1OPtcsoaSmUBHdlblzShKH"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Illa Ghee",
+          "url": "https://open.spotify.com/artist/3brL6NPSZHYrJNzeUKcVbL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267107,
+      "name": "Camera Flash",
+      "url": "https://open.spotify.com/track/3Iratpo8pldgglsjPvILgp"
+    },
+    {
+      "album": {
         "name": "Enigmatic Society",
         "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
       },
@@ -2512,6 +2626,24 @@
       "duration_ms": 239400,
       "name": "Cat and Mouse With the Light",
       "url": "https://open.spotify.com/track/1MHEC9hJ7lIHSQfyrHLHtt"
+    },
+    {
+      "album": {
+        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
+        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493400,
+      "name": "Catfish Blues - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/267hVJUi029ovd5X6rqTo1"
     },
     {
       "album": {
@@ -2940,7 +3072,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 234212,
       "name": "Comforter",
       "url": "https://open.spotify.com/track/7Ebd5Fy8MUNjy8BSAtPqxu"
@@ -5134,6 +5266,32 @@
       "duration_ms": 171545,
       "name": "Fatha Fig Ya (Food For Thought)",
       "url": "https://open.spotify.com/track/05UEfL5UDBSV7Pcr2SzODn"
+    },
+    {
+      "album": {
+        "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
+        "url": "https://open.spotify.com/album/17RkZnWlgVY355jiCG8m1e"
+      },
+      "artists": [
+        {
+          "name": "Mac Wetha",
+          "url": "https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131215,
+      "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
+      "url": "https://open.spotify.com/track/1Y4TOUS7R9DShEApDbb8Xm"
     },
     {
       "album": {
@@ -7537,6 +7695,32 @@
     },
     {
       "album": {
+        "name": "Hoppa and Friends 3",
+        "url": "https://open.spotify.com/album/5FPeDtsFXQcEc6HRCm2j6V"
+      },
+      "artists": [
+        {
+          "name": "DJ Hoppa",
+          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "Demrick",
+          "url": "https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "In A Box",
+      "url": "https://open.spotify.com/track/7gz7j7lfgbEEBwgCBdCdEN"
+    },
+    {
+      "album": {
         "name": "In a sentimental mood",
         "url": "https://open.spotify.com/album/1Io8ZCinPYklU5J3KBTU4k"
       },
@@ -7980,6 +8164,24 @@
       "duration_ms": 247000,
       "name": "I\u2019m The President",
       "url": "https://open.spotify.com/track/61KjKb7MNasVxEBMkcJblU"
+    },
+    {
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219598,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/6bniCXManaPDnCN34waQs6"
     },
     {
       "album": {
@@ -8809,6 +9011,52 @@
     },
     {
       "album": {
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Zooey Deschanel",
+          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Kenan Thompson",
+          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
+        },
+        {
+          "name": "Kunal Nayyar",
+          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+        },
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189520,
+      "name": "Let's Get Married",
+      "url": "https://open.spotify.com/track/7AZiiOuTA8WPWJ7vEdFmue"
+    },
+    {
+      "album": {
         "name": "LET'S RIDE! (Drift Phonk)",
         "url": "https://open.spotify.com/album/5sWR92Se8bqmaQlh0dS7Ut"
       },
@@ -9072,7 +9320,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 123541,
       "name": "Look Ma, No Brains!",
       "url": "https://open.spotify.com/track/0Xs1aDAUmp3W6If2y5JQMK"
@@ -10910,6 +11158,24 @@
       "duration_ms": 219360,
       "name": "Nuke's Blues",
       "url": "https://open.spotify.com/track/6ItY4g8M5jOBwrdCLF65TJ"
+    },
+    {
+      "album": {
+        "name": "Cherish",
+        "url": "https://open.spotify.com/album/5CHZD9I0LTF6Jfclc8zXbo"
+      },
+      "artists": [
+        {
+          "name": "Vacationer",
+          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88671,
+      "name": "Nurture",
+      "url": "https://open.spotify.com/track/6ggonLdaDEn6SzOcukFN5M"
     },
     {
       "album": {
@@ -12890,7 +13156,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 100618,
       "name": "Sgt. Pepper's Lonely Hearts Club Band - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
       "url": "https://open.spotify.com/track/2kwUETBvq1zr0HpUsM2B3n"
@@ -15717,6 +15983,28 @@
     },
     {
       "album": {
+        "name": "Touch Me Back",
+        "url": "https://open.spotify.com/album/5exQ4AzoytKiIsgWuiNPTL"
+      },
+      "artists": [
+        {
+          "name": "Rayana Jay",
+          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164607,
+      "name": "Touch Me Back",
+      "url": "https://open.spotify.com/track/1FSetWBm1rFLb9sFgrCatD"
+    },
+    {
+      "album": {
         "name": "TOUT SE TRANSFORME. (Bande originale du film \u00ab Transformers : Rise of the Beasts \u00bb)",
         "url": "https://open.spotify.com/album/4942z9KXuhycjmnLLmUDjS"
       },
@@ -16202,6 +16490,28 @@
       "duration_ms": 456114,
       "name": "Valdez Off Crenshaw (feat. Kamasi Washington, Cory Henry & Robert 'Sput' Searight)",
       "url": "https://open.spotify.com/track/21k7x040W2grne2sr7qIip"
+    },
+    {
+      "album": {
+        "name": "Flying High, Part 2",
+        "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177360,
+      "name": "Vertigo (feat. Action Bronson)",
+      "url": "https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU"
     },
     {
       "album": {
@@ -17294,7 +17604,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 182068,
       "name": "World",
       "url": "https://open.spotify.com/track/7jGI5qvcVypacai13L88DT"

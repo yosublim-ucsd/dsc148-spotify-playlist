@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-649 songs - 1 day 15 hr 51 min
+650 songs - 1 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-19 | 2023-01-05 |
 | [How Can I Love You?](https://open.spotify.com/track/4XNPZFA6HMhkIkbJBDo70X) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [How Can I Love You?](https://open.spotify.com/album/0UQVlX3U6hHVEHBGiWwxfg) | 4:24 | 2020-12-21 | 2022-04-19 |
 | [How To Never Stop Being Sad](https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:10 | 2020-12-21 | 2022-04-16 |
-| [Hum](https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Cola](https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36) | 1:38 | 2023-08-18 | 2023-10-24 |
+| [Hum](https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Cola](https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36) | 1:38 | 2023-08-18 |  |
 | [Human](https://open.spotify.com/track/4LIIWJjlXMftVKMQWUrxKO) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Ison](https://open.spotify.com/album/2yjRCaDVCsAJjcavAPztVY) | 3:12 | 2022-11-30 | 2023-02-11 |
 | [Human Breach](https://open.spotify.com/track/0XFV1dLOQNdzEhiNUHH0VP) | [LOMELI](https://open.spotify.com/artist/5HhNeohGg8OhavQVZsiHxB) | [I Ask Nothing of You](https://open.spotify.com/album/2gPfwzwUnPooH6Ax6lHVWT) | 4:14 | 2023-10-17 |  |
 | [Humans](https://open.spotify.com/track/1F4Sia9UHvh5JuPV7bwgix) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Humans](https://open.spotify.com/album/3NBcENkuLCwmb0TSgbZvRi) | 4:11 | 2023-08-18 |  |
@@ -320,7 +320,7 @@
 | [Just Fly, Don't Worry](https://open.spotify.com/track/6uB3tMtnAkxqtm08NDNZAV) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 1:48 | 2023-06-15 | 2023-10-24 |
 | [Just Gonna Exist](https://open.spotify.com/track/2f8bsBeF4Yk14cWPS9pZ3S) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Just Gonna Exist](https://open.spotify.com/album/4jEFulLJmErkVTpTJoq0iU) | 2:54 | 2022-10-28 | 2023-10-24 |
 | [K.](https://open.spotify.com/track/36Zs84njjWZD3TGYE77WPC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [K.](https://open.spotify.com/album/33qYH2dRlz8DSCWFYZB1Fc) | 5:19 | 2020-12-21 | 2022-07-21 |
-| [Keep It On](https://open.spotify.com/track/68tLyae6074kjuWEU2kVDA) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Keep It On](https://open.spotify.com/album/5XHZOxIVPFXJfwGjl4ZMt4) | 4:27 | 2023-05-25 |  |
+| [Keep It On](https://open.spotify.com/track/68tLyae6074kjuWEU2kVDA) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Keep It On](https://open.spotify.com/album/5XHZOxIVPFXJfwGjl4ZMt4) | 4:27 | 2023-05-25 | 2023-11-11 |
 | [Kill Our Way to Heaven](https://open.spotify.com/track/65FY2nfsexBwSIYVzEZCKS) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [La Belle Musique, Episode One](https://open.spotify.com/album/3RTds8OVU8t5X93B00EtCe) | 3:56 | 2020-12-21 | 2022-04-17 |
 | [Kin](https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Wild](https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD) | 5:24 | 2022-07-22 | 2023-10-24 |
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2022-07-22 | 2022-10-04 |
@@ -393,7 +393,7 @@
 | [My Man](https://open.spotify.com/track/1FcGnA8Mj34RfEMJ8UHKXq) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/1GVapAXmeqaW9wUkp7rWt6) | 3:23 | 2023-05-25 |  |
 | [My Man](https://open.spotify.com/track/2hbbXDj2SqcQqyypApcueW) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [My Man](https://open.spotify.com/album/7eWXOrDVzpREwg86qWj0zZ) | 3:23 | 2020-12-21 | 2022-04-20 |
 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 | 2020-12-21 | 2023-08-19 |
-| [Never Gonna Believe You](https://open.spotify.com/track/7JOQ8cPNDiyS3BdWckPBNA) | [Dejima](https://open.spotify.com/artist/3cvyvssZnFHsTpwwHC9dji) | [Never Gonna Believe You](https://open.spotify.com/album/0Ym6hhND7nwLRGOfCudVvM) | 2:31 | 2023-05-25 |  |
+| [Never Gonna Believe You](https://open.spotify.com/track/7JOQ8cPNDiyS3BdWckPBNA) | [Dejima](https://open.spotify.com/artist/3cvyvssZnFHsTpwwHC9dji) | [Never Gonna Believe You](https://open.spotify.com/album/0Ym6hhND7nwLRGOfCudVvM) | 2:31 | 2023-05-25 | 2023-11-11 |
 | [New Body Language](https://open.spotify.com/track/690WDl3WutOrOX6WeMatwp) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Slight Variations](https://open.spotify.com/album/5KEsxrdshGJFDWE2IB274W) | 3:02 | 2023-05-25 |  |
 | [New House](https://open.spotify.com/track/26I5ccX6wQKwCdrfDykIif) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 2:30 | 2023-05-25 | 2023-10-24 |
 | [New House](https://open.spotify.com/track/2VNjynWkMoMFFbQWZSQe8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj) | 2:30 | 2022-07-12 | 2022-07-28 |
@@ -597,6 +597,7 @@
 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 | 2023-05-25 | 2023-10-24 |
 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 | 2023-03-16 | 2023-10-24 |
 | [To Be Alone With You](https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:48 | 2020-12-21 | 2022-04-19 |
+| [To Be Your Friend](https://open.spotify.com/track/3qU5K8jUsm36xPY70ryAnr) | [Cayetano](https://open.spotify.com/artist/1sfjSIzbv2E8ZhT6UnbBm9) | [To Be Your Friend](https://open.spotify.com/album/5xCGHwo2myXnlttK9n3EpC) | 3:22 | 2023-10-17 |  |
 | [TODAY](https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 4:01 | 2023-06-16 | 2023-10-24 |
 | [Today \(with Tirzah\)](https://open.spotify.com/track/7vqbA9MfCnSFMTT0cikF8b) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [R.Y.C](https://open.spotify.com/album/49XdLHYoA83A2JpKbJykSP) | 3:20 | 2020-12-21 | 2022-07-21 |
 | [told me](https://open.spotify.com/track/38wpbGL1NsOSAozXlbhgIV) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [told me](https://open.spotify.com/album/1t52lOjkvnLLD03bhlCAv0) | 3:29 | 2023-05-25 | 2023-08-19 |
@@ -619,7 +620,7 @@
 | [Untitled](https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH) | 2:15 | 2020-12-21 | 2022-04-17 |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-07-22 | 2022-10-13 |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-10-13 | 2023-08-19 |
-| [Velour](https://open.spotify.com/track/1i2UwbdSxF0IBHCO0QxNGe) | [TEK.LUN](https://open.spotify.com/artist/3CE8Ux0j4kdaWpqCssKnVA), [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [Velour](https://open.spotify.com/album/1jY86WHjH6Hm0fXDfuONWC) | 2:45 | 2023-05-25 |  |
+| [Velour \(feat\. kezia\)](https://open.spotify.com/track/1i2UwbdSxF0IBHCO0QxNGe) | [TEK.LUN](https://open.spotify.com/artist/3CE8Ux0j4kdaWpqCssKnVA), [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [Velour \(feat\. kezia\)](https://open.spotify.com/album/1jY86WHjH6Hm0fXDfuONWC) | 2:45 | 2023-05-25 |  |
 | [Velvet Light](https://open.spotify.com/track/41o2ydrj7Xm9Yt5odIBqq4) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Velvet Light](https://open.spotify.com/album/2FcWsB0E2mFpSQylxYgZXb) | 2:21 | 2020-12-21 | 2022-10-01 |
 | [Violence](https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Everything Was Green](https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3) | 4:15 | 2023-06-16 |  |
 | [Wandering Star](https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:53 | 2022-07-08 | 2022-08-27 |

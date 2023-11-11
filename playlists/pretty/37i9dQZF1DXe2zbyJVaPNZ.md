@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 
 > Ambient waves for ethereal days
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,383 likes - 156 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,271 likes - 156 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Protect Your Soul](https://open.spotify.com/track/6R4Gy59aFE9fg8NOTJ5Ndg) | [Natural Space](https://open.spotify.com/artist/6kBh9KP21Uw1fbnq1oY9Nz), [Nazibrola](https://open.spotify.com/artist/6IIKAH6Oj6znfZZC0JsnUj), [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Protect Your Soul](https://open.spotify.com/album/4ee4vOZ7YFEWfRYLPCtwSS) | 2:25 |
 | 2 | [Leading Light](https://open.spotify.com/track/36M8Y3KGOqj9VutRdQ12oE) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Leading Light](https://open.spotify.com/album/0S30lEmZbJzxzJuSnn83OR) | 3:33 |
-| 3 | [Suavizar el Dolor](https://open.spotify.com/track/16Tey0pRs8HqVFwAHbWoio) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Suavizar el Dolor](https://open.spotify.com/album/4zCajE0HiF7u1sn93Qx5wP) | 2:07 |
+| 3 | [Suavizar El Dolor](https://open.spotify.com/track/0IhzSLcbaRlqH896WDTRot) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Suavizar El Dolor](https://open.spotify.com/album/1eepNMy4qQaYaKt6zUuc8n) | 2:07 |
 | 4 | [Mindfulness](https://open.spotify.com/track/4a3QMzt5AfSvwfkkWkhmyK) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Mindfulness](https://open.spotify.com/album/76QELuKhmf1JntEoDgVExZ) | 3:32 |
 | 5 | [broken](https://open.spotify.com/track/1JZ2E6OfHIxIB9VgGkPyKR) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [broken](https://open.spotify.com/album/6b3smqZ2bsItjp9pgAEFA1) | 2:02 |
 | 6 | [Take a Breath](https://open.spotify.com/track/7CqORTYCiP3rsZI0nbcK62) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Take a Breath](https://open.spotify.com/album/4ymI27jddmaOZlhEGjUGR2) | 5:33 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 | 15 | [Wilderness](https://open.spotify.com/track/6FHHNUmzQYCVxqraPzUchi) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Wilderness](https://open.spotify.com/album/54Q3pJUG5p8VbES4aVTbKM) | 3:46 |
 | 16 | [Into the Clouds \- Ambient Sleep Edit](https://open.spotify.com/track/5fHJzJsiWZUeUkQvCj0QEl) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Into the Clouds](https://open.spotify.com/album/6lk3lUBWsRe1L8OxhQ83vd) | 3:20 |
 | 17 | [Snoozy Bliss](https://open.spotify.com/track/1vsJH9KHxzOtxvNiutXn9a) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Wellness Sleep Zone](https://open.spotify.com/album/2g9HZkED3UdVnk9ysnDZeo) | 3:23 |
-| 18 | [Crystal Bubbles](https://open.spotify.com/track/49UFU3cy1KV82LCsbLKFrm) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ) | 5:00 |
+| 18 | [Crystal Bubbles](https://open.spotify.com/track/1EbuG4Asv269MqCirQFnX6) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/5PxpE5M4KNm4pl1EKbsCjc) | 5:00 |
 | 19 | [A Long Line of Violet Hills](https://open.spotify.com/track/4d6CikfRNaivEqMOrqtHuF) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Who Tends a Garden](https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R) | 3:07 |
 | 20 | [Vibrational Feeling](https://open.spotify.com/track/2cEFXCkHlUL2ZF3fr7jvZ4) | [Helios Relaxing Space](https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB) | [Raise Vibration](https://open.spotify.com/album/1qxPnzyY4QJ04MyIQ60xAm) | 7:45 |
 | 21 | [Peace Within](https://open.spotify.com/track/2bEPZJ1J2pjgtVOoAOu6Iu) | [inertia.](https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH), [Feel Better](https://open.spotify.com/artist/1N4by2ZqavHgzSyWyCgoKd) | [Peace Within](https://open.spotify.com/album/3ttFxsXk4whRs5LCHi9Vpo) | 2:35 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 | 34 | [Omega Sleep](https://open.spotify.com/track/3qMsByyqiXa4g7LlzfM8WZ) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Theta Sleep](https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ) | 2:31 |
 | 35 | [Restful Petal](https://open.spotify.com/track/2TPxRTo03wfcB62GUiUjmK) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Restful Petal](https://open.spotify.com/album/7hZvHFA2dN8Xaus9NmhWrK) | 3:18 |
 | 36 | [528 Hz \- Self Actualization](https://open.spotify.com/track/0VwH6mJjAIIajVUYCnlQe3) | [Assembly of Sines](https://open.spotify.com/artist/16iSnfmdXqHdufWNzURPFt) | [528 Hz \- Self Actualization](https://open.spotify.com/album/0EVtFFjvvtmeXVnylkWPPA) | 2:24 |
-| 37 | [Windless](https://open.spotify.com/track/0clnYSklQm9IHIi7p7nGFQ) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Windless](https://open.spotify.com/album/3OQ8n00sKpt4BYfgcjIGla) | 2:22 |
+| 37 | [Windless](https://open.spotify.com/track/1fYiSxzj8aXtQVVJr7pgwf) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Windless](https://open.spotify.com/album/1RBkrzpQrf6Iqdj14IbmIz) | 2:22 |
 | 38 | [Clouds](https://open.spotify.com/track/2mX0me3pk0W8AplEFsQSPW) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Ambient Calming Sleep](https://open.spotify.com/album/4i4axO2A9i5ppuS37JQTwu) | 2:50 |
-| 39 | [Minute](https://open.spotify.com/track/61hcR33qTEyiYsbYIFTzrn) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Minute](https://open.spotify.com/album/6KN7rTGVXBG33ROwI8MOah) | 2:21 |
+| 39 | [Minute](https://open.spotify.com/track/248zM0CdTG7Asu68itOfnM) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Minute](https://open.spotify.com/album/7xrfRvuvmOopjJobPuLAuq) | 2:21 |
 | 40 | [Pacific Dreams](https://open.spotify.com/track/13wWc3pKPzBVmpX6YinHXe) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL) | [Pacific Dreams](https://open.spotify.com/album/3ulMrPlS5JtEWM0LVR3L58) | 3:17 |
 | 41 | [memories of younger days \(that never existed\)](https://open.spotify.com/track/50BWDrzzg4I9KttMBUXoQN) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [memories of younger days \(that never existed\)](https://open.spotify.com/album/2uOATtxzznGZMs7NXMsa8A) | 4:00 |
 | 42 | [Midnight Stargazer](https://open.spotify.com/track/6Out5GTmU6YqaQ8R2l6P4F) | [Relief](https://open.spotify.com/artist/345D7I2CuaqxHTTwD4wlBx) | [Music for Commuters](https://open.spotify.com/album/4T7mM7FaVFCPOGrvrxAWy2) | 3:32 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 | 45 | [lake dream](https://open.spotify.com/track/3uC7hMjjjy32wRKMSdCDzV) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [lake dream](https://open.spotify.com/album/0qqLDwWsetWrLmF8wd9m59) | 2:22 |
 | 46 | [Reflector](https://open.spotify.com/track/7KReeqzDWnzpz1jma5q5GM) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Parallel](https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX) | 8:22 |
 | 47 | [Tender](https://open.spotify.com/track/2rDZsXn2IhQZaLDAf4ZCWN) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Tender](https://open.spotify.com/album/0gbPQkpTglj3YRSXVCIfcE) | 2:34 |
-| 48 | [Hills](https://open.spotify.com/track/6rMM5c330kAz3wKRmH4IRn) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Hills](https://open.spotify.com/album/4jgjzmK773C6q9NGVAtD0l) | 2:33 |
+| 48 | [Hills](https://open.spotify.com/track/1PZbzrqct1Hh4FkBkAH85N) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Hills](https://open.spotify.com/album/2Qoz4wkyZ0mXLwsdSryAZ0) | 2:33 |
 | 49 | [Homesick](https://open.spotify.com/track/1KAjfOhwtBDkhhGhDH27Z0) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Homesick](https://open.spotify.com/album/6IoxzKrzEWprrw1yUN9Da1) | 2:16 |
 | 50 | [zatu](https://open.spotify.com/track/4scwisvOsvaFPIxPwNsirE) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kansei](https://open.spotify.com/album/1BbrCC1XoKHkJF8Bwkp1wp) | 3:02 |
 | 51 | [Peelu](https://open.spotify.com/track/2iKsMmdSKLYjpKv8ctQclM) | [Wate Way](https://open.spotify.com/artist/2FlrdMztVZTJ9Df7qeGMvR) | [Peelu](https://open.spotify.com/album/5Qw84BfGIXfHITxw3YBMbs) | 3:24 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 | 71 | [Beyond Infinity](https://open.spotify.com/track/07Ugt4jjKXkCfmVZEbQ55a) | [SerenitySounds](https://open.spotify.com/artist/5IxUd3eKUM5TboSJkc5cVQ) | [Beyond Infinity](https://open.spotify.com/album/1NbO4sSRArJd0qqUKM1LWD) | 4:37 |
 | 72 | [Moon](https://open.spotify.com/track/1ShoaK1jLR948EFn0mo9FL) | [Man from Mars](https://open.spotify.com/artist/45NDwPF1HHwxFI4BGDYJFn) | [Moon](https://open.spotify.com/album/4gjhs7ChmpQBXIEBV6a7PN) | 2:51 |
 | 73 | [Moon \(Nature Edit\)](https://open.spotify.com/track/1ZrCjCxP8OCQE9wfWJFS9k) | [Man from Mars](https://open.spotify.com/artist/45NDwPF1HHwxFI4BGDYJFn) | [Moon](https://open.spotify.com/album/4gjhs7ChmpQBXIEBV6a7PN) | 2:51 |
-| 74 | [forgotten thoughts, but it's vaporwave](https://open.spotify.com/track/3z5pxdC9jVDHt0CuPdG3hx) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 2:21 |
+| 74 | [forgotten thoughts \- deep ambient](https://open.spotify.com/track/3z5pxdC9jVDHt0CuPdG3hx) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 2:21 |
 | 75 | [Being](https://open.spotify.com/track/1EEDHsrBnIEwgv3Tx0f4mU) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Being](https://open.spotify.com/album/2XuXdx0PWF9MRZ6jI1jJrR) | 3:21 |
 | 76 | [Trying to Feel Everything](https://open.spotify.com/track/5MOWnM1AWOcDwC7wha1Lss) | [E J R M](https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ) | [Trying to Feel Everything](https://open.spotify.com/album/7A7gggXbZBfXN8Ft1CZqbI) | 3:32 |
 | 77 | [Feather](https://open.spotify.com/track/3D31N4fyByXCIchCFRnVd5) | [Ludwig A.F.](https://open.spotify.com/artist/3Pxzo6Fhgswi6238OggzO5) | [Air](https://open.spotify.com/album/0mJuu5yMJ9R9IRVBFY2DkI) | 3:36 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 | 155 | [Yes I](https://open.spotify.com/track/6S2QPyA5Lx2Y4wNxUT4HMd) | [Answer Code Request](https://open.spotify.com/artist/52NOZYgYNsmv3nS0me6cqO), [Jan Wagner](https://open.spotify.com/artist/2SoZ45FJ4E7EP43kPdtPxX) | [Yes I](https://open.spotify.com/album/4zrkxvozf8sXclGZVuGQMR) | 5:41 |
 | 156 | [Cosmic Dust](https://open.spotify.com/track/0yuKkb9X0PxKU5WWhpPD2i) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Starburst](https://open.spotify.com/album/0lBv6vqeXWUSt8WKyIhv8j) | 3:51 |
 
-Snapshot ID: `MCw3OGRhNzcyZWRmYWQwZDkwNDk2YzJiM2Y5NWZkODFhNzFkMmVlZDRh`
+Snapshot ID: `MCw0ODI5ZTJkMGExNjlhMGM5ZWNiNGExOGVlZDQxOTIyNTNjMWZlMmM2`

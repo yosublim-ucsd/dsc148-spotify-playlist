@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9sir f\u00e9minin Intense",
+        "url": "https://open.spotify.com/album/0G7KfhQPFbv2hGFOGZiBrI"
+      },
+      "artists": [
+        {
+          "name": "Bozi Boziana",
+          "url": "https://open.spotify.com/artist/3Nrcdm5eONeqS70qbKKtYx"
+        },
+        {
+          "name": "Anti Choc",
+          "url": "https://open.spotify.com/artist/23TUUdlpMJSvFzGAQVQsRk"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223230,
+      "name": "Bayibi nga tshombo",
+      "url": "https://open.spotify.com/track/5JmG6cRX8yjjPU8QsTk1L1"
+    },
+    {
+      "album": {
         "name": "Dynastie",
         "url": "https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg"
       },
@@ -736,6 +758,24 @@
       "duration_ms": 177777,
       "name": "Boma Moto",
       "url": "https://open.spotify.com/track/2B4bBd8tmT7JGmwg2svEct"
+    },
+    {
+      "album": {
+        "name": "Boma nga",
+        "url": "https://open.spotify.com/album/2KAD04YSQFHXya4NnpKjt7"
+      },
+      "artists": [
+        {
+          "name": "Gathorose",
+          "url": "https://open.spotify.com/artist/1YE9jrML8L9IhZyPq90uuZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Boma nga",
+      "url": "https://open.spotify.com/track/3ptSWP4sc1j1sb3G6sTLsd"
     },
     {
       "album": {
@@ -1091,6 +1131,32 @@
     },
     {
       "album": {
+        "name": "Ch\u00e9rie Coco",
+        "url": "https://open.spotify.com/album/1qZRCgaHD4JJ9NMiYp3EQ8"
+      },
+      "artists": [
+        {
+          "name": "Badi",
+          "url": "https://open.spotify.com/artist/1NyPuswLVpGQYtybS22vKr"
+        },
+        {
+          "name": "Boule Mpanya",
+          "url": "https://open.spotify.com/artist/711t2ihJatsAD1F9mBneMN"
+        },
+        {
+          "name": "Jillionaire",
+          "url": "https://open.spotify.com/artist/6vW5qwWVSTErBV1HovumXm"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172228,
+      "name": "Ch\u00e9rie Coco",
+      "url": "https://open.spotify.com/track/7v8Ft7doJW1S6HRcZnLT79"
+    },
+    {
+      "album": {
         "name": "Coeur",
         "url": "https://open.spotify.com/album/03EK6fSqFPAYOAjyHsKbcv"
       },
@@ -1393,6 +1459,32 @@
     },
     {
       "album": {
+        "name": "Do It Yourself",
+        "url": "https://open.spotify.com/album/3i4rvl2M0hEWLhFtKUskyr"
+      },
+      "artists": [
+        {
+          "name": "Jay Psar",
+          "url": "https://open.spotify.com/artist/2FXSYpIIZhJ260UvGZN8wr"
+        },
+        {
+          "name": "Badi",
+          "url": "https://open.spotify.com/artist/1NyPuswLVpGQYtybS22vKr"
+        },
+        {
+          "name": "Sarah Kalume",
+          "url": "https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210531,
+      "name": "Do It Yourself",
+      "url": "https://open.spotify.com/track/0tMC1luTMsPf0aM47XzQRw"
+    },
+    {
+      "album": {
         "name": "AFROWAVETO, Vol. 1",
         "url": "https://open.spotify.com/album/0g90kMBEocx11P01p23fCK"
       },
@@ -1622,10 +1714,32 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 207500,
       "name": "D\u00e9bloquer",
       "url": "https://open.spotify.com/track/2EwkmMArSs5Qxb6Tus0r4A"
+    },
+    {
+      "album": {
+        "name": "D\u00e9bloquer",
+        "url": "https://open.spotify.com/album/3RaTe5Dfyw2h84iX4PMkSw"
+      },
+      "artists": [
+        {
+          "name": "Ya Cetidon",
+          "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj"
+        },
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "D\u00e9bloquer",
+      "url": "https://open.spotify.com/track/6GqDdQilljjSQtOIrJpjPc"
     },
     {
       "album": {
@@ -2287,6 +2401,28 @@
     },
     {
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/3ZRL0ytPa6BNp5IGjMDhvo"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198345,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/71N5pPfGIAwXvlQAfwr4PU"
+    },
+    {
+      "album": {
         "name": "Indess",
         "url": "https://open.spotify.com/album/4A4yPkRSHMDr0DMvehKUgR"
       },
@@ -2444,6 +2580,28 @@
       "duration_ms": 186428,
       "name": "Julio Cesar - Amapiano",
       "url": "https://open.spotify.com/track/3RDFbEo7EZado9KJVtLFc5"
+    },
+    {
+      "album": {
+        "name": "Kaka Boye",
+        "url": "https://open.spotify.com/album/3J9fmDUqirc1fwyw2SbiGw"
+      },
+      "artists": [
+        {
+          "name": "Sista Becky",
+          "url": "https://open.spotify.com/artist/5W7kgjSXcX9nWvlYjRXoER"
+        },
+        {
+          "name": "Yvon Yusuf",
+          "url": "https://open.spotify.com/artist/3d637WvU4WJTZoeIJj22i1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215652,
+      "name": "Kaka Boye",
+      "url": "https://open.spotify.com/track/18qDtqnKrFshHeuMsGnGL0"
     },
     {
       "album": {
@@ -2620,10 +2778,32 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 189120,
       "name": "La guitare suit la m\u00e9lo",
       "url": "https://open.spotify.com/track/5BOfwzK5yI9sL2uit0fHIG"
+    },
+    {
+      "album": {
+        "name": "Laisse Les Parler",
+        "url": "https://open.spotify.com/album/2XKyZWsuo0VKSauzWrJno6"
+      },
+      "artists": [
+        {
+          "name": "Samarino",
+          "url": "https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7"
+        },
+        {
+          "name": "H\u00e9ritier Wata",
+          "url": "https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235662,
+      "name": "Laisse Les Parler",
+      "url": "https://open.spotify.com/track/0VtJ5iOQMj3of0RINj3fL7"
     },
     {
       "album": {
@@ -3066,7 +3246,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 244615,
       "name": "Maboko Milayi",
       "url": "https://open.spotify.com/track/3oa2Af68PY4x3tvNaqhptZ"

@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 181920,
+  "num_followers": 182081,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjgwZTZhNjI5ZGM0YTg4YTA2MjAwNzVhZGQwYTIxYjc1MzQ0ODFi",
+  "snapshot_id": "MCw5NTUyZDM1MzE2NGU5NmZmZjE2MGZiNGE5NDZkYmE0NzY0YzdlZWY2",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -863,18 +863,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Complete United Artists Singles",
-        "url": "https://open.spotify.com/album/4hwFFfpDp28EYWbVZoZ9pi"
+        "name": "Presenting Maurice Williams",
+        "url": "https://open.spotify.com/album/742DgTRTmsBGMGxOcTPLIo"
       },
       "artists": [
         {
-          "name": "Jay & The Americans",
-          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
+          "name": "Maurice Williams",
+          "url": "https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D"
+        },
+        {
+          "name": "The Zodiacs",
+          "url": "https://open.spotify.com/artist/1HCE0pbqGLSvWaz5q4TeDd"
         }
       ],
-      "duration_ms": 177093,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/74i6ZrnR1WzZsuc3qrJg7I"
+      "duration_ms": 97493,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/12BB5t506Of3s3NPBoKScC"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -899,22 +903,18 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Presenting Maurice Williams",
-        "url": "https://open.spotify.com/album/742DgTRTmsBGMGxOcTPLIo"
+        "name": "Complete United Artists Singles",
+        "url": "https://open.spotify.com/album/4hwFFfpDp28EYWbVZoZ9pi"
       },
       "artists": [
         {
-          "name": "Maurice Williams",
-          "url": "https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D"
-        },
-        {
-          "name": "The Zodiacs",
-          "url": "https://open.spotify.com/artist/1HCE0pbqGLSvWaz5q4TeDd"
+          "name": "Jay & The Americans",
+          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
         }
       ],
-      "duration_ms": 97493,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/12BB5t506Of3s3NPBoKScC"
+      "duration_ms": 177093,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/74i6ZrnR1WzZsuc3qrJg7I"
     },
     {
       "added_at": "2022-05-30 13:02:24",

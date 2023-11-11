@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 8711,
+  "num_followers": 8806,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2U1NDZmOGJlYzFlMjIwZGY1NGJkNTAzNGI1NDNhNjllY2NhYzJm",
+  "snapshot_id": "MCwwNmY0ZTU2NjQzMDA5ZjJlZGRkYzRkMjFlZTVhY2Y5YzkxMjJjZWMz",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -236,6 +236,10 @@
           "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         },
         {
+          "name": "Aodhan King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
+        {
           "name": "Lecrae",
           "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
@@ -279,22 +283,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "As Family We Go",
-        "url": "https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Joy Of The Lord",
-      "url": "https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Sunday School Songs",
         "url": "https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX"
       },
@@ -311,18 +299,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Sing Like Never Before: The Essential Collection",
-        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
+        "name": "As Family We Go",
+        "url": "https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
         }
       ],
-      "duration_ms": 348893,
-      "name": "Blessed Be Your Name",
-      "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
+      "duration_ms": 226373,
+      "name": "Joy Of The Lord",
+      "url": "https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -343,18 +331,38 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "8 Great Hits dc Talk",
-        "url": "https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U"
+        "name": "Sing Like Never Before: The Essential Collection",
+        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
       },
       "artists": [
         {
-          "name": "DC Talk",
-          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 287173,
-      "name": "Jesus Freak",
-      "url": "https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK"
+      "duration_ms": 348893,
+      "name": "Blessed Be Your Name",
+      "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Aodhan King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -371,22 +379,6 @@
       "duration_ms": 361173,
       "name": "Trading My Sorrows (Yes Lord)",
       "url": "https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Best Friends",
-      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -431,22 +423,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Timeless Treasures: Open the Eyes of My Heart Lord",
         "url": "https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI"
       },
@@ -459,6 +435,22 @@
       "duration_ms": 252725,
       "name": "Open the Eyes of My Heart Lord",
       "url": "https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "8 Great Hits dc Talk",
+        "url": "https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U"
+      },
+      "artists": [
+        {
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+        }
+      ],
+      "duration_ms": 287173,
+      "name": "Jesus Freak",
+      "url": "https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -515,6 +507,22 @@
       "duration_ms": 205440,
       "name": "Love Won't Let Me Down",
       "url": "https://open.spotify.com/track/2NssSayyXceWY40zguZjeq"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 221360,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -579,6 +587,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "The Art of Translation",
         "url": "https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w"
       },
@@ -591,42 +615,6 @@
       "duration_ms": 199440,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/5E0d1I8UAe7sleydsGgp4Q"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "All Good",
-        "url": "https://open.spotify.com/album/1vVS1HB8nkk0jn2rcyfHdS"
-      },
-      "artists": [
-        {
-          "name": "Orange Kids Music",
-          "url": "https://open.spotify.com/artist/5Xszvj310qgS7Fwn91Wvhu"
-        }
-      ],
-      "duration_ms": 160130,
-      "name": "Fear Get Out of Here",
-      "url": "https://open.spotify.com/track/4eBEZDnYDOrCJqBLg6JobM"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "We Are Young & Free (Live)",
-        "url": "https://open.spotify.com/album/2WUtIkuLnF3EndnswpqEvJ"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Alive - Studio Version",
-      "url": "https://open.spotify.com/track/1li9zybQQ8XX9J8mNsTr8u"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -651,6 +639,26 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "We Are Young & Free (Live)",
+        "url": "https://open.spotify.com/album/2WUtIkuLnF3EndnswpqEvJ"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Alive - Studio Version",
+      "url": "https://open.spotify.com/track/1li9zybQQ8XX9J8mNsTr8u"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "We Belong To Jesus (feat. New Life Kids)",
         "url": "https://open.spotify.com/album/6ozGlAuSM6L95qyDfhRfsm"
       },
@@ -671,18 +679,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/1vVS1HB8nkk0jn2rcyfHdS"
       },
       "artists": [
         {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+          "name": "Orange Kids Music",
+          "url": "https://open.spotify.com/artist/5Xszvj310qgS7Fwn91Wvhu"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Louder",
-      "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
+      "duration_ms": 160130,
+      "name": "Fear Get Out of Here",
+      "url": "https://open.spotify.com/track/4eBEZDnYDOrCJqBLg6JobM"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -767,22 +775,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "I Am Alive",
-        "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
-      },
-      "artists": [
-        {
-          "name": "SL Worship",
-          "url": "https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "I Am Alive",
-      "url": "https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Hymns",
         "url": "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
       },
@@ -795,6 +787,22 @@
       "duration_ms": 126333,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "I Am Alive",
+        "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
+      },
+      "artists": [
+        {
+          "name": "SL Worship",
+          "url": "https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "I Am Alive",
+      "url": "https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -851,26 +859,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "A Week Away (Music From The Netflix Film)",
-        "url": "https://open.spotify.com/album/1AZ82vQwEGoKKltaeRNzk4"
-      },
-      "artists": [
-        {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
-        },
-        {
-          "name": "The Cast Of Netflix's Film A Week Away",
-          "url": "https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ"
-        }
-      ],
-      "duration_ms": 228063,
-      "name": "Where I Belong",
-      "url": "https://open.spotify.com/track/5Ah9mt916VYxP1DCpdUT4y"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Love Like You (Laudr8 Remix)",
         "url": "https://open.spotify.com/album/5JsuVLJIXwJcC1b0QG086M"
       },
@@ -887,6 +875,26 @@
       "duration_ms": 161311,
       "name": "Love Like You (Laudr8 Remix)",
       "url": "https://open.spotify.com/track/2WFOLhpZmDGhl1xmwIIZrJ"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "A Week Away (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/1AZ82vQwEGoKKltaeRNzk4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        },
+        {
+          "name": "The Cast Of Netflix's Film A Week Away",
+          "url": "https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ"
+        }
+      ],
+      "duration_ms": 228063,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/5Ah9mt916VYxP1DCpdUT4y"
     },
     {
       "added_at": "2021-06-29 13:36:02",

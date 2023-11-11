@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Amor Yo Te Perd\u00ed La Fe",
+        "url": "https://open.spotify.com/album/2IWmVsTMYnI3EhFEuEmhzw"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173266,
+      "name": "Amor Yo Te Perd\u00ed La Fe",
+      "url": "https://open.spotify.com/track/0w73EI2Te3GGbPSZgG93Uc"
+    },
+    {
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
       },

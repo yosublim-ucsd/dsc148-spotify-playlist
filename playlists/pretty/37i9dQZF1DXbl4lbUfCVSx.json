@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 29372,
+  "num_followers": 29600,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDQ5MDEwZjU0YzhiMzU2NTdhYjk2YTAwNTBjN2YzMTMyNjk2MDNk",
+  "snapshot_id": "MCxiMjNjZDA0ZDU1MTY3MDRjZWNmZTQyZDMyYTMyNGZlYWZlNTM4Njc0",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -163,6 +163,22 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "F\u00f2k T\u00e8t Ou La",
+        "url": "https://open.spotify.com/album/1zlhgCRbwflCf8AYamaraw"
+      },
+      "artists": [
+        {
+          "name": "Roody Roodboy",
+          "url": "https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN"
+        }
+      ],
+      "duration_ms": 263414,
+      "name": "Kenbe'l La",
+      "url": "https://open.spotify.com/track/6llFsg3VEQqXmfCTAWH8os"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "Gen Bagay",
         "url": "https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV"
       },
@@ -183,22 +199,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "F\u00f2k T\u00e8t Ou La",
-        "url": "https://open.spotify.com/album/1zlhgCRbwflCf8AYamaraw"
-      },
-      "artists": [
-        {
-          "name": "Roody Roodboy",
-          "url": "https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN"
-        }
-      ],
-      "duration_ms": 263414,
-      "name": "Kenbe'l La",
-      "url": "https://open.spotify.com/track/6llFsg3VEQqXmfCTAWH8os"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Malade (feat. Richard Cave)",
         "url": "https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ"
       },
@@ -215,6 +215,22 @@
       "duration_ms": 309107,
       "name": "Malade (feat. Richard Cave)",
       "url": "https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "The Very Best Of Jackito (Pou ti moun yo)",
+        "url": "https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g"
+      },
+      "artists": [
+        {
+          "name": "Jackito",
+          "url": "https://open.spotify.com/artist/3YOoyesZpGJlXnWyk4PaUK"
+        }
+      ],
+      "duration_ms": 292362,
+      "name": "Je l'aime \u00e0 mourir",
+      "url": "https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -251,22 +267,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "The Very Best Of Jackito (Pou ti moun yo)",
-        "url": "https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g"
-      },
-      "artists": [
-        {
-          "name": "Jackito",
-          "url": "https://open.spotify.com/artist/3YOoyesZpGJlXnWyk4PaUK"
-        }
-      ],
-      "duration_ms": 292362,
-      "name": "Je l'aime \u00e0 mourir",
-      "url": "https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
         "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
       },
@@ -287,22 +287,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Rotary International Abidjan",
-        "url": "https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG"
-      },
-      "artists": [
-        {
-          "name": "Alan Cav\u00e9",
-          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
-        }
-      ],
-      "duration_ms": 325906,
-      "name": "Chokola",
-      "url": "https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Resan",
         "url": "https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 307493,
       "name": "Ma Cherie Je T'aime",
       "url": "https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Rotary International Abidjan",
+        "url": "https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG"
+      },
+      "artists": [
+        {
+          "name": "Alan Cav\u00e9",
+          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
+        }
+      ],
+      "duration_ms": 325906,
+      "name": "Chokola",
+      "url": "https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -351,6 +351,22 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "Our Own World",
+        "url": "https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD"
+      },
+      "artists": [
+        {
+          "name": "J-BEATZ",
+          "url": "https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU"
+        }
+      ],
+      "duration_ms": 293918,
+      "name": "It's Getting Late",
+      "url": "https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "Degaje",
         "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 165224,
       "name": "Kimb\u00e9 sa nan rinw",
       "url": "https://open.spotify.com/track/1SMubCWecHSi9ZSuvWJhP9"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Our Own World",
-        "url": "https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD"
-      },
-      "artists": [
-        {
-          "name": "J-BEATZ",
-          "url": "https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU"
-        }
-      ],
-      "duration_ms": 293918,
-      "name": "It's Getting Late",
-      "url": "https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -431,18 +431,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Et pourtant",
-        "url": "https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp"
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr"
       },
       "artists": [
         {
-          "name": "Black Parents",
-          "url": "https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9"
+          "name": "X-tassy",
+          "url": "https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D"
         }
       ],
-      "duration_ms": 301087,
-      "name": "Vini'm pale w",
-      "url": "https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3"
+      "duration_ms": 264341,
+      "name": "Di'm Kib\u00f2'w Vle'l #Quickie",
+      "url": "https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -479,34 +479,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr"
+        "name": "Et pourtant",
+        "url": "https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp"
       },
       "artists": [
         {
-          "name": "X-tassy",
-          "url": "https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D"
+          "name": "Black Parents",
+          "url": "https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9"
         }
       ],
-      "duration_ms": 264341,
-      "name": "Di'm Kib\u00f2'w Vle'l #Quickie",
-      "url": "https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Another Round",
-        "url": "https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ"
-      },
-      "artists": [
-        {
-          "name": "Zo Konpa",
-          "url": "https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5"
-        }
-      ],
-      "duration_ms": 258090,
-      "name": "Another Round - Zouk",
-      "url": "https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr"
+      "duration_ms": 301087,
+      "name": "Vini'm pale w",
+      "url": "https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -555,6 +539,38 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "Nou Pap D\u00f2mi Dey\u00f2: Ou Pa Kontan,Vi\u2019n Bat Mwen",
+        "url": "https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np"
+      },
+      "artists": [
+        {
+          "name": "Djakout #1",
+          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
+        }
+      ],
+      "duration_ms": 332910,
+      "name": "Habitude",
+      "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Another Round",
+        "url": "https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ"
+      },
+      "artists": [
+        {
+          "name": "Zo Konpa",
+          "url": "https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5"
+        }
+      ],
+      "duration_ms": 258090,
+      "name": "Another Round - Zouk",
+      "url": "https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "3 Tou 9",
         "url": "https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 319893,
       "name": "Move chwa",
       "url": "https://open.spotify.com/track/5SqW0PVDbz3bXsyxRdUJfR"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Nou Pap D\u00f2mi Dey\u00f2: Ou Pa Kontan,Vi\u2019n Bat Mwen",
-        "url": "https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np"
-      },
-      "artists": [
-        {
-          "name": "Djakout #1",
-          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
-        }
-      ],
-      "duration_ms": 332910,
-      "name": "Habitude",
-      "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
     },
     {
       "added_at": "2020-06-03 18:17:45",

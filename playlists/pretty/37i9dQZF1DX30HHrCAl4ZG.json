@@ -1,13 +1,29 @@
 {
-  "description": "Explore all things indie rock right now. Featuring new music by Arcy Drive",
-  "num_followers": 844060,
+  "description": "Explore all things indie rock right now. Featuring new music by Hovvdy",
+  "num_followers": 844018,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDM2ZTgwMmE3NDE2NDdhNWQxNTI3OTIyOTVmYzBhMGYxMjJiNDJj",
+  "snapshot_id": "MCwyYjA4OTcwY2YwOTFlOTA3ZjkyNWViMDcyYTg4MTZlYmUxODFiNTAw",
   "tracks": [
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Jean",
+        "url": "https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 181416,
+      "name": "Jean",
+      "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
+    },
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
@@ -23,6 +39,86 @@
       "duration_ms": 277175,
       "name": "Superbloomer",
       "url": "https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Between Your Teeth",
+        "url": "https://open.spotify.com/album/4QstdyKGItbksEglSAglQR"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "duration_ms": 311978,
+      "name": "Between Your Teeth",
+      "url": "https://open.spotify.com/track/1uwmPWrxBZ4V4WQ0QwGaZ0"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Tarantula Queen",
+        "url": "https://open.spotify.com/album/0K4kLLTh1kXxtSjWQpgZly"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9t Ngo",
+          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
+        }
+      ],
+      "duration_ms": 175483,
+      "name": "Tarantula Queen",
+      "url": "https://open.spotify.com/track/421Zq6CoK8P5R6bdEq26Pg"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Slime",
+        "url": "https://open.spotify.com/album/44ccxqrWWElidyDHNU3W3M"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "Slime",
+      "url": "https://open.spotify.com/track/3jWZUXWXIWDsXVwrkwjOhS"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Say It Like You Mean It",
+        "url": "https://open.spotify.com/album/60Dn3hJOYD75S9SahrlWp9"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "Say It Like You Mean It",
+      "url": "https://open.spotify.com/track/3XcEhWqxe04Qgpnsp4qUbc"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Sophie",
+        "url": "https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "duration_ms": 194430,
+      "name": "Sophie",
+      "url": "https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -41,6 +137,22 @@
       "url": "https://open.spotify.com/track/6Y73gYOJzsXMxp5JVmYRCk"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Read the Room",
+        "url": "https://open.spotify.com/album/6DU4HRGZCt9iZg58sxtYSw"
+      },
+      "artists": [
+        {
+          "name": "BEL",
+          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Read the Room",
+      "url": "https://open.spotify.com/track/22w30WW0AzmGGwf8lpNB12"
+    },
+    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "River",
@@ -55,6 +167,22 @@
       "duration_ms": 241447,
       "name": "River",
       "url": "https://open.spotify.com/track/3MdfiTYyZLFxWHwHf4gDsu"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Coming Of Age",
+        "url": "https://open.spotify.com/album/1E6AKQkrmlL34EgZUaXpJ2"
+      },
+      "artists": [
+        {
+          "name": "Oscar Scheller",
+          "url": "https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq"
+        }
+      ],
+      "duration_ms": 191482,
+      "name": "Nightmare Blunt Rotation",
+      "url": "https://open.spotify.com/track/2vVUa9T6kzQvXD4ZYDbGoX"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -643,22 +771,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Hanging",
-        "url": "https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 233680,
-      "name": "Hanging",
-      "url": "https://open.spotify.com/track/6khrKsm3I0OJb4WB5Ogs2j"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Call Home",
         "url": "https://open.spotify.com/album/3tzBrjaHiFwQUKFFtaGT99"
       },
@@ -963,22 +1075,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Crybaby",
-        "url": "https://open.spotify.com/album/3xDHBJ5tlIVVNRo9fHTf2u"
-      },
-      "artists": [
-        {
-          "name": "Chrissy",
-          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
-        }
-      ],
-      "duration_ms": 220465,
-      "name": "Crybaby",
-      "url": "https://open.spotify.com/track/4kQVyej9KLlxX3Ro969Poa"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "zzz",
         "url": "https://open.spotify.com/album/4gklfgELi4bE9MhaPe9PDF"
       },
@@ -991,22 +1087,6 @@
       "duration_ms": 177662,
       "name": "zzz",
       "url": "https://open.spotify.com/track/6jMbYChkL89v2SlsrjyURG"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Bird Machine",
-        "url": "https://open.spotify.com/album/7DUDIoIEw2yGKi1wcLjRuy"
-      },
-      "artists": [
-        {
-          "name": "Sparklehorse",
-          "url": "https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Evening Star Supercharger",
-      "url": "https://open.spotify.com/track/2DfRUDyRZxianclImSBMQy"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1151,22 +1231,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Ballad of Darren",
-        "url": "https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 245225,
-      "name": "The Narcissist",
-      "url": "https://open.spotify.com/track/2TNyNqT3RBXhtNV7OiAgiC"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Why You?",
         "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
       },
@@ -1211,22 +1275,6 @@
       "duration_ms": 243946,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "KLEPTO",
-        "url": "https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 133285,
-      "name": "feti\u0161h",
-      "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1359,38 +1407,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Fender",
-        "url": "https://open.spotify.com/album/0NIl6PMP9VgfbMW0w61f0s"
-      },
-      "artists": [
-        {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
-        }
-      ],
-      "duration_ms": 222351,
-      "name": "Fender",
-      "url": "https://open.spotify.com/track/0AT37Z1kNhJPUyeuwJqEHi"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Sabeline",
-        "url": "https://open.spotify.com/album/0aMXItwR69aDCVI5gRWwN9"
-      },
-      "artists": [
-        {
-          "name": "hallpass",
-          "url": "https://open.spotify.com/artist/1ojodT2n3tLClMDaRgIk7Z"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/3lKKT3H1gMr3zIPdauECXk"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Dash of Speed",
         "url": "https://open.spotify.com/album/7lXxi7fVkC9yr1087PMLQs"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 170583,
       "name": "I Lied Again",
       "url": "https://open.spotify.com/track/3ZqRBncgNX4Ty8S9dk2RMk"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Adored",
-        "url": "https://open.spotify.com/album/5cKM0SNQAhmV2TFwGMynGW"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 160786,
-      "name": "Adored",
-      "url": "https://open.spotify.com/track/4OzcX5qIMJay0GWEP5S6ui"
     },
     {
       "added_at": "2023-10-27 04:00:00",

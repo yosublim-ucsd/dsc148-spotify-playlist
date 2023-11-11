@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Vintage Trouble",
-  "num_followers": 441486,
+  "num_followers": 442477,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTNkYzEwNzRjNTIxN2RkNzQ2Yzk2YjU2ZjI2Yjc2YWIwZWNlZmRh",
+  "snapshot_id": "MCxiODU0MGU0NTdmOTJiMTc0YWVmNmFjOWE5YmJkMmZmNGExOWYxNjA5",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 238186,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Make Love",
+        "url": "https://open.spotify.com/album/2LED4jDRenQlNKkmAK0G2u"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 227937,
+      "name": "Make Love",
+      "url": "https://open.spotify.com/track/5Cx64YCZg2FBDTdGK9F6Cp"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -995,22 +1011,6 @@
       "duration_ms": 158855,
       "name": "Good To You",
       "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Moon Rock",
-        "url": "https://open.spotify.com/album/4CBsnUSUmxwCH1NmtEyGUH"
-      },
-      "artists": [
-        {
-          "name": "Mike Clark & the Sugar Sounds",
-          "url": "https://open.spotify.com/artist/01RocYhqTJzt3gzdpVM2MJ"
-        }
-      ],
-      "duration_ms": 314608,
-      "name": "Jet Black Cadillac",
-      "url": "https://open.spotify.com/track/5W0GIUYxM787mpfkl84hSF"
     },
     {
       "added_at": "2023-10-06 04:00:00",

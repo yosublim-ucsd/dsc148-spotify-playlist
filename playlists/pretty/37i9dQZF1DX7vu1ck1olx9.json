@@ -1,12 +1,12 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 64577,
+  "num_followers": 64687,
   "original_name": "lofi cool down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2Q2Zjg5YTE1ZDY3Y2ZmYzcxZWJkMjAzNGI4YjlkYzcyOGMzMjZm",
+  "snapshot_id": "MCw5ZDEyNTUzMjQxNTZkMzhlN2M0NTJjOGU0NDA2MmI5ZmZlNzU3OTU2",
   "tracks": [
     {
       "added_at": "2023-10-27 13:56:03",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-10-27 13:56:03",
       "album": {
-        "name": "bloom EP",
-        "url": "https://open.spotify.com/album/7aFj2Ju5lZVHRFvYRqNzYp"
-      },
-      "artists": [
-        {
-          "name": "iasilma",
-          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
-        }
-      ],
-      "duration_ms": 132672,
-      "name": "bloom",
-      "url": "https://open.spotify.com/track/2xiOB4lyPl1V9901Gv3UDv"
-    },
-    {
-      "added_at": "2023-10-27 13:56:03",
-      "album": {
         "name": "Heroic",
         "url": "https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 132236,
       "name": "Heroic",
       "url": "https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg"
+    },
+    {
+      "added_at": "2023-10-27 13:56:03",
+      "album": {
+        "name": "bloom EP",
+        "url": "https://open.spotify.com/album/7aFj2Ju5lZVHRFvYRqNzYp"
+      },
+      "artists": [
+        {
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+        }
+      ],
+      "duration_ms": 132672,
+      "name": "bloom",
+      "url": "https://open.spotify.com/track/2xiOB4lyPl1V9901Gv3UDv"
     },
     {
       "added_at": "2023-10-27 13:56:03",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-10-27 13:56:03",
       "album": {
-        "name": "Low Tension",
-        "url": "https://open.spotify.com/album/4qIPpwbfTuy8jNPEzI9Jmp"
+        "name": "spinal chords",
+        "url": "https://open.spotify.com/album/2I5Tv05AQHsYQc8EAuD48x"
       },
       "artists": [
         {
-          "name": "jon pm",
-          "url": "https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH"
+          "name": "fontatron",
+          "url": "https://open.spotify.com/artist/5rwl3ry7Yx0YuONcyezg4d"
         }
       ],
-      "duration_ms": 177502,
-      "name": "Low Tension",
-      "url": "https://open.spotify.com/track/55MKPPyzRXKgLYPkWXWhZc"
+      "duration_ms": 135558,
+      "name": "spinal chords",
+      "url": "https://open.spotify.com/track/0SPakj2sm0Q3oJ4rEj9Jhi"
     },
     {
       "added_at": "2023-10-27 13:56:03",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-10-27 13:56:03",
       "album": {
-        "name": "spinal chords",
-        "url": "https://open.spotify.com/album/2I5Tv05AQHsYQc8EAuD48x"
+        "name": "Low Tension",
+        "url": "https://open.spotify.com/album/4qIPpwbfTuy8jNPEzI9Jmp"
       },
       "artists": [
         {
-          "name": "fontatron",
-          "url": "https://open.spotify.com/artist/5rwl3ry7Yx0YuONcyezg4d"
+          "name": "jon pm",
+          "url": "https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH"
         }
       ],
-      "duration_ms": 135558,
-      "name": "spinal chords",
-      "url": "https://open.spotify.com/track/0SPakj2sm0Q3oJ4rEj9Jhi"
+      "duration_ms": 177502,
+      "name": "Low Tension",
+      "url": "https://open.spotify.com/track/55MKPPyzRXKgLYPkWXWhZc"
     },
     {
       "added_at": "2023-10-27 13:56:03",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-10-27 13:56:03",
       "album": {
+        "name": "after dark",
+        "url": "https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM"
+      },
+      "artists": [
+        {
+          "name": "takemefaraway",
+          "url": "https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM"
+        }
+      ],
+      "duration_ms": 141886,
+      "name": "after dark",
+      "url": "https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14"
+    },
+    {
+      "added_at": "2023-10-27 13:56:03",
+      "album": {
         "name": "elevation",
         "url": "https://open.spotify.com/album/6bfqiDky9JqXxkfs6VCKst"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2023-10-27 13:56:03",
       "album": {
-        "name": "Napsters",
-        "url": "https://open.spotify.com/album/73fWpfCxrH7NcDDZEFKKqG"
-      },
-      "artists": [
-        {
-          "name": "healwone",
-          "url": "https://open.spotify.com/artist/0zWXsRlzIqqe574Nevl1W9"
-        }
-      ],
-      "duration_ms": 143229,
-      "name": "Napsters",
-      "url": "https://open.spotify.com/track/6ky8uamfmfVrsmJqjnKFyF"
-    },
-    {
-      "added_at": "2023-10-27 13:56:03",
-      "album": {
         "name": "no reply",
         "url": "https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 154772,
       "name": "Will-O-Wisp",
       "url": "https://open.spotify.com/track/5lxlQXt8CadUQR4ARnSLep"
+    },
+    {
+      "added_at": "2023-10-27 13:56:03",
+      "album": {
+        "name": "Napsters",
+        "url": "https://open.spotify.com/album/73fWpfCxrH7NcDDZEFKKqG"
+      },
+      "artists": [
+        {
+          "name": "healwone",
+          "url": "https://open.spotify.com/artist/0zWXsRlzIqqe574Nevl1W9"
+        }
+      ],
+      "duration_ms": 143229,
+      "name": "Napsters",
+      "url": "https://open.spotify.com/track/6ky8uamfmfVrsmJqjnKFyF"
     },
     {
       "added_at": "2023-10-27 13:56:03",
@@ -875,22 +891,6 @@
     {
       "added_at": "2023-10-27 13:56:03",
       "album": {
-        "name": "after dark",
-        "url": "https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM"
-      },
-      "artists": [
-        {
-          "name": "takemefaraway",
-          "url": "https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM"
-        }
-      ],
-      "duration_ms": 141886,
-      "name": "after dark",
-      "url": "https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14"
-    },
-    {
-      "added_at": "2023-10-27 13:56:03",
-      "album": {
         "name": "melatones",
         "url": "https://open.spotify.com/album/0QsPZmEl9Gcrupo5kwMjKp"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-27 13:56:03",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/0176EEPWJGAUTmjeetjYej"
-      },
-      "artists": [
-        {
-          "name": "Sorsele",
-          "url": "https://open.spotify.com/artist/2tTcT2ddh1bHSEsdLjLfpw"
-        }
-      ],
-      "duration_ms": 139296,
-      "name": "SLOWLY",
-      "url": "https://open.spotify.com/track/13hIl9viyBhvPoLVag7BnQ"
-    },
-    {
-      "added_at": "2023-10-27 13:56:03",
-      "album": {
         "name": "cabin in the woods",
         "url": "https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2023-10-27 13:56:03",
       "album": {
-        "name": "Intersections",
-        "url": "https://open.spotify.com/album/5iLI3eUZ57osvD1pdjEL5w"
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/0176EEPWJGAUTmjeetjYej"
       },
       "artists": [
         {
-          "name": "Mig Palmer",
-          "url": "https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y"
+          "name": "Sorsele",
+          "url": "https://open.spotify.com/artist/2tTcT2ddh1bHSEsdLjLfpw"
         }
       ],
-      "duration_ms": 131400,
-      "name": "Intersections",
-      "url": "https://open.spotify.com/track/51NtpncCFm7jTLxIcGpHgR"
+      "duration_ms": 139296,
+      "name": "SLOWLY",
+      "url": "https://open.spotify.com/track/13hIl9viyBhvPoLVag7BnQ"
     },
     {
       "added_at": "2023-10-27 13:56:03",
@@ -1015,6 +999,22 @@
       "duration_ms": 247771,
       "name": "About You",
       "url": "https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu"
+    },
+    {
+      "added_at": "2023-10-27 13:56:03",
+      "album": {
+        "name": "Intersections",
+        "url": "https://open.spotify.com/album/5iLI3eUZ57osvD1pdjEL5w"
+      },
+      "artists": [
+        {
+          "name": "Mig Palmer",
+          "url": "https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y"
+        }
+      ],
+      "duration_ms": 131400,
+      "name": "Intersections",
+      "url": "https://open.spotify.com/track/51NtpncCFm7jTLxIcGpHgR"
     },
     {
       "added_at": "2023-10-27 13:56:03",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-10-27 13:56:03",
       "album": {
+        "name": "Turnarounds",
+        "url": "https://open.spotify.com/album/59pR0anVAX7bEA1nlDnGdA"
+      },
+      "artists": [
+        {
+          "name": "HLY WUD",
+          "url": "https://open.spotify.com/artist/51htK4Ln3sMNbTBcs7Ft8S"
+        }
+      ],
+      "duration_ms": 116624,
+      "name": "Turnarounds",
+      "url": "https://open.spotify.com/track/4d2UJiZtKRJMc4DZMqo9m9"
+    },
+    {
+      "added_at": "2023-10-27 13:56:03",
+      "album": {
         "name": "Harbor",
         "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 191000,
       "name": "cloudy dreams",
       "url": "https://open.spotify.com/track/4m8wo5zZ79P1zFFDNtjzof"
-    },
-    {
-      "added_at": "2023-10-27 13:56:03",
-      "album": {
-        "name": "Turnarounds",
-        "url": "https://open.spotify.com/album/59pR0anVAX7bEA1nlDnGdA"
-      },
-      "artists": [
-        {
-          "name": "HLY WUD",
-          "url": "https://open.spotify.com/artist/51htK4Ln3sMNbTBcs7Ft8S"
-        }
-      ],
-      "duration_ms": 116624,
-      "name": "Turnarounds",
-      "url": "https://open.spotify.com/track/4d2UJiZtKRJMc4DZMqo9m9"
     },
     {
       "added_at": "2023-10-27 13:56:03",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-10-27 13:56:03",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
-      },
-      "artists": [
-        {
-          "name": "aekasora",
-          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "path of the wind",
-      "url": "https://open.spotify.com/track/0ovVhnQz8l1HfVl94qxtuC"
-    },
-    {
-      "added_at": "2023-10-27 13:56:03",
-      "album": {
         "name": "in wriring",
         "url": "https://open.spotify.com/album/1YPiwsGnuaAyfqM93A6Fce"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 184687,
       "name": "in writing",
       "url": "https://open.spotify.com/track/5hoFX6v9C65g919yd99QHn"
+    },
+    {
+      "added_at": "2023-10-27 13:56:03",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
+      },
+      "artists": [
+        {
+          "name": "aekasora",
+          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "path of the wind",
+      "url": "https://open.spotify.com/track/0ovVhnQz8l1HfVl94qxtuC"
     },
     {
       "added_at": "2023-10-27 13:56:03",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-10-27 13:56:03",
       "album": {
+        "name": "calm the mind",
+        "url": "https://open.spotify.com/album/7ecnD9VzrEx4xaMMfUmf5S"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "duration_ms": 142791,
+      "name": "calm the mind",
+      "url": "https://open.spotify.com/track/3pBRXJlRx3OwrI0YesboWC"
+    },
+    {
+      "added_at": "2023-10-27 13:56:03",
+      "album": {
         "name": "Chillhop Essentials Winter 2017",
         "url": "https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 189136,
       "name": "night walk",
       "url": "https://open.spotify.com/track/12Q21aqqo0oggpqlkP0nOt"
-    },
-    {
-      "added_at": "2023-10-27 13:56:03",
-      "album": {
-        "name": "calm the mind",
-        "url": "https://open.spotify.com/album/7ecnD9VzrEx4xaMMfUmf5S"
-      },
-      "artists": [
-        {
-          "name": "May-Flowa",
-          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
-        }
-      ],
-      "duration_ms": 142791,
-      "name": "calm the mind",
-      "url": "https://open.spotify.com/track/3pBRXJlRx3OwrI0YesboWC"
     },
     {
       "added_at": "2023-10-27 13:56:03",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-10-27 13:56:03",
       "album": {
-        "name": "cool nights",
-        "url": "https://open.spotify.com/album/3XoC1k7u7oPWjyI7XT7hka"
-      },
-      "artists": [
-        {
-          "name": "May-Flowa",
-          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
-        }
-      ],
-      "duration_ms": 156583,
-      "name": "cool nights",
-      "url": "https://open.spotify.com/track/5MfKUo0KFcld9CLj08cKKt"
-    },
-    {
-      "added_at": "2023-10-27 13:56:03",
-      "album": {
         "name": "Granat Session Vol. II",
         "url": "https://open.spotify.com/album/0JqAJeILF8gY4vOzmjUXkE"
       },
@@ -1855,6 +1839,22 @@
     {
       "added_at": "2023-10-27 13:56:03",
       "album": {
+        "name": "cool nights",
+        "url": "https://open.spotify.com/album/3XoC1k7u7oPWjyI7XT7hka"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "duration_ms": 156583,
+      "name": "cool nights",
+      "url": "https://open.spotify.com/track/5MfKUo0KFcld9CLj08cKKt"
+    },
+    {
+      "added_at": "2023-10-27 13:56:03",
+      "album": {
         "name": "Colorful Skies",
         "url": "https://open.spotify.com/album/36jqommAS821e5J69RH4Bz"
       },
@@ -1871,22 +1871,6 @@
       "duration_ms": 115182,
       "name": "Colorful Skies",
       "url": "https://open.spotify.com/track/1mVDTs9JE7sNEwH25jnxtP"
-    },
-    {
-      "added_at": "2023-10-27 13:56:03",
-      "album": {
-        "name": "Suave",
-        "url": "https://open.spotify.com/album/5txeC1tIBt4cbMNlS2dLR4"
-      },
-      "artists": [
-        {
-          "name": "Loop Schrauber",
-          "url": "https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32"
-        }
-      ],
-      "duration_ms": 80000,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/1PS3K87McFoH9jI9RAgmnr"
     },
     {
       "added_at": "2023-10-27 13:56:03",
@@ -1911,6 +1895,22 @@
       "duration_ms": 144000,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/0bHMYI8BEs739S51ZrZ6yy"
+    },
+    {
+      "added_at": "2023-10-27 13:56:03",
+      "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/5txeC1tIBt4cbMNlS2dLR4"
+      },
+      "artists": [
+        {
+          "name": "Loop Schrauber",
+          "url": "https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32"
+        }
+      ],
+      "duration_ms": 80000,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/1PS3K87McFoH9jI9RAgmnr"
     },
     {
       "added_at": "2023-10-27 13:56:03",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-10-27 13:56:03",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/7fSnzb7V35K2jhUf5ZHtX0"
-      },
-      "artists": [
-        {
-          "name": "Slowheal",
-          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
-        }
-      ],
-      "duration_ms": 117804,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/6ls8MehGgZkb3ERkAacm6q"
-    },
-    {
-      "added_at": "2023-10-27 13:56:03",
-      "album": {
         "name": "keep on",
         "url": "https://open.spotify.com/album/0b86iKkcVMOttxQ99GwXMa"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 140000,
       "name": "keep on",
       "url": "https://open.spotify.com/track/33cmTU5f3QszwFl8s8Lua9"
+    },
+    {
+      "added_at": "2023-10-27 13:56:03",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/7fSnzb7V35K2jhUf5ZHtX0"
+      },
+      "artists": [
+        {
+          "name": "Slowheal",
+          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
+        }
+      ],
+      "duration_ms": 117804,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/6ls8MehGgZkb3ERkAacm6q"
     },
     {
       "added_at": "2023-10-27 13:56:03",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2023-10-27 13:56:03",
       "album": {
-        "name": "walk in the park",
-        "url": "https://open.spotify.com/album/2j5OCXoMRAomxm7idD0LzJ"
-      },
-      "artists": [
-        {
-          "name": "DRWN.",
-          "url": "https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "walk in the park",
-      "url": "https://open.spotify.com/track/0jA1qk1AX3vbNBcYhwbozw"
-    },
-    {
-      "added_at": "2023-10-27 13:56:03",
-      "album": {
         "name": "night.owls",
         "url": "https://open.spotify.com/album/38C1rKJer6SKMCqW6opJZR"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 163764,
       "name": "night.owls",
       "url": "https://open.spotify.com/track/2bFnRt6WKhNw4maKOxLyj3"
+    },
+    {
+      "added_at": "2023-10-27 13:56:03",
+      "album": {
+        "name": "walk in the park",
+        "url": "https://open.spotify.com/album/2j5OCXoMRAomxm7idD0LzJ"
+      },
+      "artists": [
+        {
+          "name": "DRWN.",
+          "url": "https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "walk in the park",
+      "url": "https://open.spotify.com/track/0jA1qk1AX3vbNBcYhwbozw"
     },
     {
       "added_at": "2023-10-27 13:56:03",
@@ -2491,6 +2491,26 @@
       "duration_ms": 210739,
       "name": "Hippocamp",
       "url": "https://open.spotify.com/track/0uKrR91NAfDAcwCE9M2gSY"
+    },
+    {
+      "added_at": "2023-10-27 13:56:03",
+      "album": {
+        "name": "Day At The Beach",
+        "url": "https://open.spotify.com/album/2MByrZsI4Q72MDX97wSSmu"
+      },
+      "artists": [
+        {
+          "name": "Fireflyx",
+          "url": "https://open.spotify.com/artist/2OOTNVKel4Dl6bdGfkChIx"
+        },
+        {
+          "name": "Melloe D",
+          "url": "https://open.spotify.com/artist/4n9punzhmPTvX0KIHDPW7U"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Day At The Beach",
+      "url": "https://open.spotify.com/track/2uwZFVIBJ4XpXV2NNoiZPx"
     },
     {
       "added_at": "2023-10-27 13:56:03",
@@ -2523,42 +2543,18 @@
     {
       "added_at": "2023-10-27 13:56:03",
       "album": {
-        "name": "Sundays",
-        "url": "https://open.spotify.com/album/5VIO4AL989PapgtG5KAL0B"
+        "name": "Fresh Breeze",
+        "url": "https://open.spotify.com/album/4Uha6OYZNqoZJ9gvMHoXzW"
       },
       "artists": [
         {
-          "name": "Cloudchord",
-          "url": "https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG"
-        },
-        {
-          "name": "Ian Ewing",
-          "url": "https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh"
+          "name": "Ky akasha",
+          "url": "https://open.spotify.com/artist/4961tplpADAjhtfTzgBtKk"
         }
       ],
-      "duration_ms": 174562,
-      "name": "Sundays",
-      "url": "https://open.spotify.com/track/5UGC2XD60M7Ki6kh1A4oyI"
-    },
-    {
-      "added_at": "2023-10-27 13:56:03",
-      "album": {
-        "name": "Day At The Beach",
-        "url": "https://open.spotify.com/album/2MByrZsI4Q72MDX97wSSmu"
-      },
-      "artists": [
-        {
-          "name": "Fireflyx",
-          "url": "https://open.spotify.com/artist/2OOTNVKel4Dl6bdGfkChIx"
-        },
-        {
-          "name": "Melloe D",
-          "url": "https://open.spotify.com/artist/4n9punzhmPTvX0KIHDPW7U"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Day At The Beach",
-      "url": "https://open.spotify.com/track/2uwZFVIBJ4XpXV2NNoiZPx"
+      "duration_ms": 134250,
+      "name": "Fresh Breeze",
+      "url": "https://open.spotify.com/track/3o1DqWwSOUp4GRvsYiB22N"
     }
   ],
   "unique_name": "lofi cool down",

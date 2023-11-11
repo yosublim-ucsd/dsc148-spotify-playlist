@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: James AP",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Aftershine",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 337500,
       "name": "Blawur",
       "url": "https://open.spotify.com/track/3YSehtdz9NKV766UnWNFti"
@@ -324,8 +324,8 @@
       },
       "artists": [
         {
-          "name": "Dike Sabrina",
-          "url": "https://open.spotify.com/artist/0GNWekJiQIg0kUCCJqjgGF"
+          "name": "dike sabrina",
+          "url": "https://open.spotify.com/artist/0vhFLxTbKdPwp4sB66ctRY"
         }
       ],
       "date_added": "2023-07-06",
@@ -624,7 +624,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 238000,
       "name": "Dadi Siji",
       "url": "https://open.spotify.com/track/5FMe9JhFWHvzbAEQitRCrn"
@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Gusti Tulung",
+        "url": "https://open.spotify.com/album/0fV71kmSAoMBirovaccELT"
+      },
+      "artists": [
+        {
+          "name": "Brindil Kurus",
+          "url": "https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288500,
+      "name": "Gusti Tulung",
+      "url": "https://open.spotify.com/track/0qFSr9ujrmarFe1XyXGQiV"
+    },
+    {
+      "album": {
         "name": "Iki Uripku",
         "url": "https://open.spotify.com/album/2CssuqpQHqtx1fhUbGjwyp"
       },
@@ -1148,6 +1166,28 @@
       "duration_ms": 274666,
       "name": "Kabur Kanginan",
       "url": "https://open.spotify.com/track/6DRBeuRymM6gRvAn1WgU0S"
+    },
+    {
+      "album": {
+        "name": "Kalah",
+        "url": "https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx"
+      },
+      "artists": [
+        {
+          "name": "Aftershine",
+          "url": "https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL"
+        },
+        {
+          "name": "Restianade",
+          "url": "https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398011,
+      "name": "Kalah",
+      "url": "https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf"
     },
     {
       "album": {
@@ -1389,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "KISINAN 2",
+        "url": "https://open.spotify.com/album/7szIetP8Jut39uiHTmbmM2"
+      },
+      "artists": [
+        {
+          "name": "Masdddho",
+          "url": "https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232440,
+      "name": "KISINAN 2",
+      "url": "https://open.spotify.com/track/69xt31HhLvo0foFpM6iaaJ"
+    },
+    {
+      "album": {
         "name": "Klebus",
         "url": "https://open.spotify.com/album/0sP7ALG6951vlmpFpzJphu"
       },
@@ -1404,6 +1462,28 @@
       "duration_ms": 297272,
       "name": "Klebus",
       "url": "https://open.spotify.com/track/6wxZIB1y1HPYifGCsAPGaA"
+    },
+    {
+      "album": {
+        "name": "Kluwung",
+        "url": "https://open.spotify.com/album/6lwfJVaJfhRZUT43EGYXuS"
+      },
+      "artists": [
+        {
+          "name": "Wandra Restusiyan",
+          "url": "https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP"
+        },
+        {
+          "name": "Bangkit",
+          "url": "https://open.spotify.com/artist/5E8rjtbcFtxl0lxDBGpSpM"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359766,
+      "name": "Kluwung",
+      "url": "https://open.spotify.com/track/5WolJZo08MUvnzYcL8VLi7"
     },
     {
       "album": {
@@ -1881,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "MakSet (Official Acoustic Version)",
+        "url": "https://open.spotify.com/album/3wP5k8njLNMAeuNBwOC0H0"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348127,
+      "name": "MakSet - Official Acoustic Version",
+      "url": "https://open.spotify.com/track/5q6686dr84F47gxBwRNrSR"
+    },
+    {
+      "album": {
         "name": "MANGSA OBAH",
         "url": "https://open.spotify.com/album/1KgJqmdZ78QwkWvZj7VRuH"
       },
@@ -2145,7 +2243,7 @@
     },
     {
       "album": {
-        "name": "Nemen",
+        "name": "Nemen (Cover)",
         "url": "https://open.spotify.com/album/4Do4u9R2HslN3jdu37rPR3"
       },
       "artists": [
@@ -2162,7 +2260,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 307548,
-      "name": "Nemen",
+      "name": "Nemen - Cover",
       "url": "https://open.spotify.com/track/0Syc1MureY9jSdoaZRRS7o"
     },
     {
@@ -2724,7 +2822,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 230686,
       "name": "Ora Ono Gunane",
       "url": "https://open.spotify.com/track/2wgTxy8GGMR7LNU0UMCYFx"
@@ -2818,6 +2916,24 @@
       "duration_ms": 314057,
       "name": "Pelaku Macak Korban",
       "url": "https://open.spotify.com/track/0tZQUbI9L0LsjkEO79wEtL"
+    },
+    {
+      "album": {
+        "name": "Pelanggaran",
+        "url": "https://open.spotify.com/album/2jC6opHmZglaccSmacSWom"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354000,
+      "name": "Pelanggaran",
+      "url": "https://open.spotify.com/track/40NnuwNYIX54KjRDfSto9t"
     },
     {
       "album": {
@@ -3220,7 +3336,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 335983,
       "name": "Rasah Nyangkem 3",
       "url": "https://open.spotify.com/track/0vzloz86OV24wUWpVlXiqv"
@@ -3460,6 +3576,28 @@
       "duration_ms": 299912,
       "name": "Sadar Posisi",
       "url": "https://open.spotify.com/track/2zfMeqWy62AiZtgMNMrplj"
+    },
+    {
+      "album": {
+        "name": "Sak Dheg Sak Nyet",
+        "url": "https://open.spotify.com/album/6ygcZGjr38bKFWJt2XaQam"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        },
+        {
+          "name": "Bravesboy",
+          "url": "https://open.spotify.com/artist/2PUWReihDs70AzwDeGEoG1"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270666,
+      "name": "Sak Dheg Sak Nyet",
+      "url": "https://open.spotify.com/track/4nfyju9QoSwzwEZsyn7Tgs"
     },
     {
       "album": {

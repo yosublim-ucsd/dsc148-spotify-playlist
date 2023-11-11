@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,816 likes - 98 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,808 likes - 98 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 | 47 | [The Pomelo Song](https://open.spotify.com/track/4DK1US7CPOkAa3uNiUPHEv) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Romeo Eats](https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd), [Myles Erlick](https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae) | [The Pomelo Song](https://open.spotify.com/album/7xPNHLCIel8X9XKm1RCmpN) | 2:33 |
 | 48 | [Make Myself a Sandwich](https://open.spotify.com/track/531PgCduOcdsUG50I1cnBw) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Something for Everyone](https://open.spotify.com/album/3c7lnfv4Ef3Y36UtgB4cHr) | 1:30 |
 | 49 | [Pickles and Olives](https://open.spotify.com/track/34l6oJ7decqSfWF1cXss9C) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6JCPj80o5nfJcHvn4wdvyw) | 1:36 |
-| 50 | [I Want Candy](https://open.spotify.com/track/6o0CzOoSmMmzJ5Ycvhp52S) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [What's Cooking in the Kitchen \(Songs about Food\)](https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0) | 2:42 |
+| 50 | [I Want Candy](https://open.spotify.com/track/7xYWZMli2zPjtgqlFV3cZJ) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Trick or Treat! Halloween Party Hits for Kids](https://open.spotify.com/album/22PbJHM4CqBVq2X0auxQ00) | 2:42 |
 | 51 | [A Healthy Meal](https://open.spotify.com/track/3Qy8BN2lRFY61MLVGlCTlc) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Healthy Habits Songs \(Pt\. 1\-3\)](https://open.spotify.com/album/57aoBY63rXYvnherisZpdh) | 1:09 |
 | 52 | [1, 2 What Shall We Do? \(Pancakes\)](https://open.spotify.com/track/3xSOh4Xj9uLhAnIC2NxLdy) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Dance, Sing & Laugh](https://open.spotify.com/album/6TINDB2CCxmNG5S95S6LEV) | 1:59 |
 | 53 | [Dessert First](https://open.spotify.com/track/2wQzFdY7MMD5w5HjO20Twx) | [Macaroni Birthday](https://open.spotify.com/artist/1VXYt4oC9gZCsYKMkguRZx) | [Macaroni Birthday Time](https://open.spotify.com/album/5f0E7TWBJpzg9HeD3wiXQE) | 1:30 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 | 63 | [Fonky Food](https://open.spotify.com/track/3ZUf1XW4tPO6JZySphvteo) | [Formidable Vegetable](https://open.spotify.com/artist/05bnLQhAfblYSOpPdrZBAT) | [Garbage Guts](https://open.spotify.com/album/3rhyPmh2KoHRrepxiygVIk) | 3:06 |
 | 64 | [I Like Fruit](https://open.spotify.com/track/1FgVgbqZG3tZ9vNgymPOVe) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Easy](https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6) | 3:20 |
 | 65 | [Spaghetti](https://open.spotify.com/track/4QPQCoe4wGp5rYyxxSl6ut) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [Noise Factory](https://open.spotify.com/album/7JrqM06vRbzoibxelpYD0r) | 2:21 |
-| 66 | [On Top of My Pizza](https://open.spotify.com/track/5X6pkTV4V1pGFNHlfdPKA2) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [What's Cooking in the Kitchen \(Songs about Food\)](https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0) | 1:18 |
+| 66 | [On Top of My Pizza](https://open.spotify.com/track/1afC9aSaTDAFNy460oDnuK) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Silly Songs](https://open.spotify.com/album/6iTWkkheOlwhgY3m6Hxfuw) | 1:18 |
 | 67 | [Are You Hungry?](https://open.spotify.com/track/3gsvzQe3KjPdsNA5ufI6lc) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Old MacDonald Had a Farm & More Kids Songs](https://open.spotify.com/album/2Sivlm6GK4dr21Ucf1UKV8) | 1:53 |
 | 68 | [I Can Cook \(without the echo\)](https://open.spotify.com/track/5aHI1tiGbnbsPrwd9l3vK6) | [Noodle Loaf](https://open.spotify.com/artist/353Vr7aR8l3dc5NJZPDXsI) | [Echo Songs, Vol\. 1 \(Without the Echo\)](https://open.spotify.com/album/1kevLUJnWAXDF28NRpLSOb) | 2:32 |
 | 69 | [I Always Sit When I Eat](https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 2:09 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 | 97 | [Pat\-a\-Cake, Pat\-a\-Cake](https://open.spotify.com/track/5W3cEk3UQTFeq9Tl4hrpAX) | [The Montreal Children's Workshop](https://open.spotify.com/artist/0NAOoExRWvbLIrFuPzMz5x) | [Kids Songs! Fun Children's Music from Sesame Street, Phineas and Ferb and More!](https://open.spotify.com/album/30CMD4AQlK6F83q96ntZA7) | 2:22 |
 | 98 | [Sour Pickle Face](https://open.spotify.com/track/4TGEiXt5kJ0zUUJNpzuShL) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Barney Rocks!](https://open.spotify.com/album/2smtpdsWQdu87DNcNC1xCw) | 1:34 |
 
-Snapshot ID: `MCw1ODllNjQzNDQ4OTFkM2NkOTU1NTQ3ODNiNTBiZWY3Mjk5NWRkY2My`
+Snapshot ID: `MCxiNjI3Y2UxZTEyNWE1NDliNjI0ZGRiMDQxZGFjZGJhYTBiZmNjMDA5`

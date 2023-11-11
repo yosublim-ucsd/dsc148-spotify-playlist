@@ -30135,7 +30135,7 @@
     },
     {
       "album": {
-        "name": "Mitos Atau Fakta",
+        "name": "Mitos Atau Fakta?",
         "url": "https://open.spotify.com/album/73BfsJ2DeVIYoxKVVuUztS"
       },
       "artists": [
@@ -30148,7 +30148,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209000,
-      "name": "Mitos Atau Fakta",
+      "name": "Mitos Atau Fakta?",
       "url": "https://open.spotify.com/track/1aF9NzQZDNLKTUAfkx6lJW"
     },
     {
@@ -43854,6 +43854,24 @@
       "duration_ms": 225250,
       "name": "Surreal Nights",
       "url": "https://open.spotify.com/track/2UsmAGjH32LIr1CwFZJ967"
+    },
+    {
+      "album": {
+        "name": "Surrealist Party",
+        "url": "https://open.spotify.com/album/0rHbZy22wcnkPReQpP7oRR"
+      },
+      "artists": [
+        {
+          "name": "TERUNA",
+          "url": "https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232155,
+      "name": "Surrealist Party",
+      "url": "https://open.spotify.com/track/0tdui8xJgXTo0b6NW8Y7IK"
     },
     {
       "album": {

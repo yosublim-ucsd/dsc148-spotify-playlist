@@ -3281,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Quietum",
+        "url": "https://open.spotify.com/album/2M4jO7NyO4LmMgjNIqXgNX"
+      },
+      "artists": [
+        {
+          "name": "E\u00f4ne",
+          "url": "https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180695,
+      "name": "Quietum",
+      "url": "https://open.spotify.com/track/4AYT0x23DPNQJsKGDft1wP"
+    },
+    {
+      "album": {
         "name": "Raft Ahead",
         "url": "https://open.spotify.com/album/3VTkKfQsIluLhYff0cdYkE"
       },
@@ -4106,6 +4124,24 @@
       "duration_ms": 218000,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/5ZVmS3L1zuMHJ6SsAsZe2X"
+    },
+    {
+      "album": {
+        "name": "Translucent",
+        "url": "https://open.spotify.com/album/5Lyd7zDR0alPBY6i91b2gI"
+      },
+      "artists": [
+        {
+          "name": "Toarp",
+          "url": "https://open.spotify.com/artist/1swZCeKExXzzr6jC754Ubh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Translucent",
+      "url": "https://open.spotify.com/track/6qJ3JOEonAm4W3djP5P43E"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > This week: Country throwbacks \- yeehaw! 🤠 Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,261 likes - 58 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,302 likes - 58 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 57 | [Check Yes Or No](https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait Out Of The Box](https://open.spotify.com/album/2j7URVIN8GPGqzb8xi2hYW) | 3:20 |
 | 58 | [A Pub With No Beer \- 1979 Version; 1992 Remaster](https://open.spotify.com/track/32oNBkKF3t6fUx03xBfJXe) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Walk A Country Mile](https://open.spotify.com/album/3sc1AiknncWpdSsemqjhXi) | 3:00 |
 
-Snapshot ID: `MCwwYzI3MzM0NTI4ZWM5Y2VlODdkYTc2ZGRlZWE4MzZlNjgwNTIyNmE4`
+Snapshot ID: `MCxkYmVjZjU4OTQwNDMzMTY4OTE0ZmRjYjkyNzcyZDliZWYxNGQ4NDUz`

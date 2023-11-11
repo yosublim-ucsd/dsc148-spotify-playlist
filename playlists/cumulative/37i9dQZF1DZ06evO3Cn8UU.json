@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Christmas And You",
+        "url": "https://open.spotify.com/album/3ZPGJsHJEO8zafSvEJ7qhr"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249466,
+      "name": "Christmas And You",
+      "url": "https://open.spotify.com/track/2jwl7ZTUXkXqoKOvaspJgs"
+    },
+    {
+      "album": {
         "name": "Life Is A Song Worth Singing (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
@@ -244,7 +262,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 278760,
       "name": "Do Me",
       "url": "https://open.spotify.com/track/0ogeo2q1bDMniTGp1auZIn"
@@ -371,6 +389,24 @@
     },
     {
       "album": {
+        "name": "This Christmas (I'd Rather Have Love)",
+        "url": "https://open.spotify.com/album/5ufLI1OiVQMhhNFmxF1A5v"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338733,
+      "name": "Happy Christmas",
+      "url": "https://open.spotify.com/track/1WObBbayq5HgMVbzB18tCa"
+    },
+    {
+      "album": {
         "name": "Happy Kwanzaa",
         "url": "https://open.spotify.com/album/6oLdUzgbzV9OYFWWIgueUx"
       },
@@ -382,7 +418,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 312600,
       "name": "Happy Kwanzaa",
       "url": "https://open.spotify.com/track/3G8MNUNRQSbPcihO71aekf"
@@ -400,7 +436,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 250760,
       "name": "Heaven Only Knows",
       "url": "https://open.spotify.com/track/7324pZTc3ZcYNKBSGHKxOT"
@@ -744,7 +780,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 301426,
       "name": "Joy To The World",
       "url": "https://open.spotify.com/track/1G0oNJo3OpBbY6Y6infgnf"
@@ -788,7 +824,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 527986,
       "name": "Life Is A Song Worth Singing - Jamie Jones Remix",
       "url": "https://open.spotify.com/track/3MN8hmy8vFs0GcZhVxWLlh"
@@ -1268,7 +1304,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 296880,
       "name": "When Somebody Loves You Back",
       "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"

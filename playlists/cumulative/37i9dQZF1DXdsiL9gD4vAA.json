@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Lafzon Ke Darmiyaan",
+        "url": "https://open.spotify.com/album/26tlS3PKOEDi6yq6GQIKEE"
+      },
+      "artists": [
+        {
+          "name": "Jazim Sharma",
+          "url": "https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386823,
+      "name": "Haq",
+      "url": "https://open.spotify.com/track/5fPHj5LjzN3IIBFldMc05g"
+    },
+    {
+      "album": {
         "name": "Geet aur ghazlon ka haseen sangam",
         "url": "https://open.spotify.com/album/47nQ54mrT5meW6q0U3aaXU"
       },
@@ -984,6 +1002,24 @@
       "duration_ms": 287294,
       "name": "Is Dil Pe Naaz Tha Mujhe",
       "url": "https://open.spotify.com/track/1LhBqgSGz2URInfLJgdDex"
+    },
+    {
+      "album": {
+        "name": "Lafzon Ke Darmiyaan",
+        "url": "https://open.spotify.com/album/26tlS3PKOEDi6yq6GQIKEE"
+      },
+      "artists": [
+        {
+          "name": "Jazim Sharma",
+          "url": "https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274674,
+      "name": "Is Nahin Ka",
+      "url": "https://open.spotify.com/track/0NShVQ20TXqbOtGP3uCh8k"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV?si=oqjOEndqQBSN126wMc9uig\">Shane Eagle</a>",
-  "num_followers": 69644,
+  "num_followers": 69703,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2Q0OTJiZTg4NDY5ZmQ4MTUwNTNiNDFiNGQxZmQ4NDU1ZTU2YzYx",
+  "snapshot_id": "MCxkYWIwZWVhOGEwNDJkMTQyZmIwZGMxNmJkYWY2MzQ1NTdiYzI0OGZh",
   "tracks": [
     {
       "added_at": "2023-11-09 23:00:00",
@@ -41,20 +41,24 @@
       "url": "https://open.spotify.com/track/3HZ6ViRqdNvm5crhn16h8C"
     },
     {
-      "added_at": "2023-11-09 23:00:00",
+      "added_at": "2023-11-10 06:53:46",
       "album": {
-        "name": "SHiRU'S iNTERLUDE",
-        "url": "https://open.spotify.com/album/2SUW9vWQqnhDFUO5kxkhU3"
+        "name": "ARE YOU ALRiGHT?",
+        "url": "https://open.spotify.com/album/6hICsM6NMQHck05IjUGsWZ"
       },
       "artists": [
         {
           "name": "Shane Eagle",
           "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
         }
       ],
-      "duration_ms": 135401,
-      "name": "SHiRU'S iNTERLUDE",
-      "url": "https://open.spotify.com/track/2Fvx7f8fCXxUXS6PiOGivY"
+      "duration_ms": 280888,
+      "name": "ARE YOU ALRiGHT?",
+      "url": "https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF"
     },
     {
       "added_at": "2023-11-09 23:00:00",

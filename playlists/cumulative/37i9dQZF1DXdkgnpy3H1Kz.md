@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-369 songs - 1 day 7 hr 57 min
+372 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Je Sors Ce Soir](https://open.spotify.com/track/3f6AzLxev0VABEpgFjVdDs) | [December](https://open.spotify.com/artist/2r6LmySpm6xw0wNOrY13Tl) | [Debut](https://open.spotify.com/album/4MjolbbuhTgDF7V7wZLGPR) | 4:16 | 2023-03-17 | 2023-04-15 |
 | [Jerney](https://open.spotify.com/track/3amx0sML32P3XyP1UDLXZy) | [De Ambassade](https://open.spotify.com/artist/0GZYFERImx0KoJ1tpN1iuT) | [Verloren](https://open.spotify.com/album/0r61ydCYfUObc8aFkvSzl4) | 4:18 | 2023-04-28 | 2023-05-26 |
 | [Judith Maria \- Telefon Tel Aviv Version](https://open.spotify.com/track/60LaX0FFMpK8jkFOmP4nWe) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ), [Telefon Tel Aviv](https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC) | [Judith Maria \(Telefon Tel Aviv Version\)](https://open.spotify.com/album/3qKtVyAu3PJyP3unzzm6F8) | 4:43 | 2023-06-30 | 2023-08-05 |
+| [Jugoplastika](https://open.spotify.com/track/1r6WAeoVFeQx41Uup8v0nR) | [Tensal](https://open.spotify.com/artist/3mRdWhXS0ujP6WUjpOiHB1) | [The New Land Order](https://open.spotify.com/album/3ilsMkAAg5ylOw7p7IEUb7) | 6:27 | 2023-10-13 |  |
 | [Juicy Beat](https://open.spotify.com/track/374NWxnd732Jd0lkEd9IqJ) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [Juicy Beat](https://open.spotify.com/album/3Jq1Vry2U7XTMqmkj6857Q) | 4:32 | 2023-02-10 | 2023-03-18 |
 | [KA2](https://open.spotify.com/track/6WnKgcMDM5LjWy7MTc9PoC) | [Tensal](https://open.spotify.com/artist/3mRdWhXS0ujP6WUjpOiHB1) | [K](https://open.spotify.com/album/0YZP5WwCtNrD7zBGraTdIu) | 5:34 | 2023-03-17 | 2023-04-15 |
 | [Ketalar](https://open.spotify.com/track/4JVB7DG8US4BaOqXCXRrsh) | [Acid Warrior](https://open.spotify.com/artist/03oX8QhNNmATCNsBBlpFk1) | [Acid Bites EP](https://open.spotify.com/album/494wuNsAbs3UlzrIgSoUoK) | 4:32 | 2023-05-25 | 2023-07-01 |
@@ -207,6 +208,7 @@
 | [Microcosmic healing](https://open.spotify.com/track/7Ezy1j4gtqK74NcxFnnhdG) | [Schacke](https://open.spotify.com/artist/3bphZJ7NojBKcoCeBOSJ5Z), [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [Looks are deceiving](https://open.spotify.com/album/7epuFIB3jRTj3pWBBPqWCj) | 5:56 | 2023-08-04 |  |
 | [Midsummer Dream](https://open.spotify.com/track/62w4TwPRdFZ73mNg2InQ8S) | [Bertrand.](https://open.spotify.com/artist/0Tr1bsEAQBw1E3CflACBl4) | [Ellen Allien Presents We Are Not Alone, Pt\. 3](https://open.spotify.com/album/0HD6Irn5GEHMXJ698hyi09) | 5:14 | 2023-06-30 | 2023-08-05 |
 | [Mind Surge](https://open.spotify.com/track/1omcqv2A6nZpzOSmoifvNA) | [MORSURE](https://open.spotify.com/artist/7i2NAgDUSGr7whcVn5Azja) | [Mind Surge](https://open.spotify.com/album/6J7ZWU8spqhJAypouFPFBj) | 6:22 | 2023-08-04 |  |
+| [Misandei](https://open.spotify.com/track/0uqOLk2FllYlvM50jssDl4) | [Tensal](https://open.spotify.com/artist/3mRdWhXS0ujP6WUjpOiHB1) | [The New Land Order](https://open.spotify.com/album/3ilsMkAAg5ylOw7p7IEUb7) | 5:38 | 2023-10-13 |  |
 | [Mononucleacid](https://open.spotify.com/track/5FsLF9gFHZiQXTaExRMegW) | [Boston 168](https://open.spotify.com/artist/2C5ZMi6drXQAbj9LNhzZo0) | [Vax Of Love](https://open.spotify.com/album/4qZj9T8hTnqvOec6JKnONX) | 6:42 | 2023-03-17 | 2023-04-15 |
 | [Monsoon](https://open.spotify.com/track/3OI4I9CVRCiMiD89WPWrcM) | [Sam KDC](https://open.spotify.com/artist/4iFviujAFhomjaFyHY5SHZ), [Flaminia](https://open.spotify.com/artist/6Vvx3DbVbHlQglFknmtEt5) | [Grounding](https://open.spotify.com/album/22LQJvGFlcoKxe2KRbHhxx) | 6:20 | 2023-09-01 |  |
 | [Monsoon](https://open.spotify.com/track/46coYfQnzhbBfb2dWetg6T) | [Sam KDC](https://open.spotify.com/artist/4iFviujAFhomjaFyHY5SHZ), [Flaminia](https://open.spotify.com/artist/6Vvx3DbVbHlQglFknmtEt5) | [Grounding](https://open.spotify.com/album/7BvpsyjjVugsAlV7JprU7O) | 6:20 | 2023-08-04 | 2023-09-11 |
@@ -376,6 +378,7 @@
 | [Youth](https://open.spotify.com/track/4OvsHGcCeiNKCVGnUXw6OT) | [Nocow](https://open.spotify.com/artist/37fdkkiylsDkoVwyK7WvzK) | [Youth EP](https://open.spotify.com/album/3ZqkpHPQ57Mg3lfZ7QLS7M) | 4:13 | 2022-12-03 | 2023-02-11 |
 | [Zell Lynx](https://open.spotify.com/track/3COkn7YDDlyhC33N3C0mkP) | [Brice Chapman](https://open.spotify.com/artist/39luWhkSf94gXWLADvwuBd) | [Zell Lynx](https://open.spotify.com/album/2xXT4QpxhOSewM64mkdVUX) | 1:01 | 2023-02-10 | 2023-03-18 |
 | [Zeuge aus Licht](https://open.spotify.com/track/7s05Ufh0T2wngHqjkV4044) | [Die Selektion](https://open.spotify.com/artist/4RuwsXTtshHIbbhgi7nAxY) | [Zeuge aus Licht](https://open.spotify.com/album/6ql1UEYoB5W37KrTaQ9H40) | 4:17 | 2023-06-30 | 2023-08-05 |
-| [Ú Je Je \(deepfake mix\)](https://open.spotify.com/track/70ARmfuLIjA7nQRYD9iSl8) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI), [Kuldaboli](https://open.spotify.com/artist/3iqkQOfaf7oQtPfmGaMl4W) | [Clubs Are Closed Vol.1](https://open.spotify.com/album/2xsc09E2lTmAY4SrE9j7T8) | 4:06 | 2023-08-04 |  |
+| [Ú Je Je \(deepfake mix\)](https://open.spotify.com/track/3AzKQhLFi29FWyl91yEwgp) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI), [Kuldaboli](https://open.spotify.com/artist/3iqkQOfaf7oQtPfmGaMl4W) | [Clubs Are Closed Vol\. 1](https://open.spotify.com/album/5UtW1o3kHA4a3m8G3bL7Sl) | 4:06 | 2023-10-13 |  |
+| [Ú Je Je \(deepfake mix\)](https://open.spotify.com/track/70ARmfuLIjA7nQRYD9iSl8) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI), [Kuldaboli](https://open.spotify.com/artist/3iqkQOfaf7oQtPfmGaMl4W) | [Clubs Are Closed Vol.1](https://open.spotify.com/album/2xsc09E2lTmAY4SrE9j7T8) | 4:06 | 2023-08-04 | 2023-11-11 |
 
 \*This playlist was first scraped on 2022-12-15. Prior content cannot be recovered.

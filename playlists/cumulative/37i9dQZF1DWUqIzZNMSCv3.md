@@ -4,7 +4,7 @@
 
 > Relaxing classical piano.
 
-82 songs - 5 hr 34 min
+83 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Pavane, Op\. 50 \(Version for Piano\)](https://open.spotify.com/track/2mNQl3DEWtkrwKllwYpxi0) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Jorge Federico Osorio](https://open.spotify.com/artist/1Tt4CRnh4VCWn6UymYP057) | [The French Album](https://open.spotify.com/album/4QYFeRjBgVCv8Vrb3cK7wI) | 5:59 | 2021-12-06 |  |
 | [Piano Sonata No\. 14 in C\-Sharp Minor, Op\. 27 No\. 2 "Moonlight": I\. Adagio sostenuto](https://open.spotify.com/track/1I0lEXj5H3siZaa9300aqz) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Beethoven: Piano Sonata No\. 14 in C\-Sharp Minor, Op\. 27 No\. 2 "Moonlight": I\. Adagio sostenuto](https://open.spotify.com/album/5oFks9ZFUYBv8Ia3pkmtuX) | 5:23 | 2023-07-07 |  |
 | [Piano Sonata No\. 20 in A Major, D\. 959: II\. Andantino](https://open.spotify.com/track/2lZ4IicfSIP3e1vwUZ4MQj) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 8:55 | 2021-12-06 |  |
+| [Prelude in B Minor, BWV 855a \(Transcribed by Alexander Siloti\)](https://open.spotify.com/track/5TMxqAA2kfj9BpDFKbvpwl) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Prelude in B Minor, BWV 855a \(Transcribed by Alexander Siloti\)](https://open.spotify.com/album/4Bz7EaaTAu89637GXU2h44) | 1:39 | 2023-11-10 |  |
 | [Premier Nocturne, Op\. 22](https://open.spotify.com/track/1xrz9rJJPVENNP4l4Jvft4) | [Charles\-Valentin Alkan](https://open.spotify.com/artist/07OhqeLloDO7wu0yCaVO2D), [Michael Landrum](https://open.spotify.com/artist/1ZwgmPk7yAW0HsoGlFsBQ0) | [Nocturnes](https://open.spotify.com/album/4W4WygqfXLiIKtaiv1snAc) | 6:09 | 2022-01-25 |  |
 | [Rêverie, CD 76](https://open.spotify.com/track/6HNUntao7jCtKR2cGKgqn0) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:29 | 2021-12-06 |  |
 | [Scarlatti, D: Keyboard Sonata in F Minor, Kk\. 466](https://open.spotify.com/track/234LwPuKv0RLwbiWYUEeJT) | [Domenico Scarlatti](https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Morning Piano \- Scarlatti: Keyboard Sonata K\. 466](https://open.spotify.com/album/2GCs7UuM83toYpS5mAhuwG) | 7:24 | 2022-07-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,683 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,811 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 73 | [Super Mulher](https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Super Mulher](https://open.spotify.com/album/6LqxpzlJGADVpzKh2c16J5) | 3:52 |
 | 74 | [Criola](https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Mika Mendes](https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q) | 4:43 |
 | 75 | [Se Eu Pudesse](https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5) | 3:16 |
-| 76 | [Versos & Poesias \#5: Sintonia](https://open.spotify.com/track/27Zd9qIZIQg7lmJDVL2J4L) | [Dj Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Kevin](https://open.spotify.com/artist/6JRwlEDCt0I82gMDQhacZ4), [DanDara](https://open.spotify.com/artist/6SuXG6pciGcVagGcwhOAKD), [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Jessie Sousa](https://open.spotify.com/artist/3NyhCutTVQl1Gh2H2PXly6), [Shugga](https://open.spotify.com/artist/3KYDOgpMzH5TdB1NoVDywK), [Naylene](https://open.spotify.com/artist/27FwF4b0QVBjXKznwFgmtv), [Kidy Wime](https://open.spotify.com/artist/2QtrhVR4nIagsw8ybScbxB), [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Versos & Poesias \#5: Sintonia](https://open.spotify.com/album/1dhDUzKjP6iGrDhToWpKgw) | 7:56 |
+| 76 | [Já Não Sei](https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Já Não Sei](https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO) | 4:21 |
 | 77 | [Sincera](https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Sincera](https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh) | 4:16 |
-| 78 | [Já Não Sei](https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Já Não Sei](https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO) | 4:21 |
+| 78 | [Versos & Poesias \#5: Sintonia](https://open.spotify.com/track/27Zd9qIZIQg7lmJDVL2J4L) | [Dj Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Kevin](https://open.spotify.com/artist/6JRwlEDCt0I82gMDQhacZ4), [DanDara](https://open.spotify.com/artist/6SuXG6pciGcVagGcwhOAKD), [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Jessie Sousa](https://open.spotify.com/artist/3NyhCutTVQl1Gh2H2PXly6), [Shugga](https://open.spotify.com/artist/3KYDOgpMzH5TdB1NoVDywK), [Naylene](https://open.spotify.com/artist/27FwF4b0QVBjXKznwFgmtv), [Kidy Wime](https://open.spotify.com/artist/2QtrhVR4nIagsw8ybScbxB), [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Versos & Poesias \#5: Sintonia](https://open.spotify.com/album/1dhDUzKjP6iGrDhToWpKgw) | 7:56 |
 | 79 | [Paké](https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF) | [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Paké](https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA) | 3:40 |
 | 80 | [Nha Rainha \(feat\. Dino D'Santiago\)](https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [The Gentleman](https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0) | 3:46 |
 | 81 | [Me Leva Contigo](https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Me Leva Contigo](https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 99 | [Ser Feliz](https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Ser Feliz](https://open.spotify.com/album/7uTQAEBWfbze3iYIfOqmdR) | 3:25 |
 | 100 | [Sentimento](https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Filho do Zua](https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm) | [Sentimento](https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3) | 3:12 |
 
-Snapshot ID: `MCwyMjA4NWM0NjEzNmI1YzcwOTNmMGFiNDM0ODBhYTFmMjU0NmNiNTA1`
+Snapshot ID: `MCw3ZmE4YjY3ZmIyMTFiNmY0Mjk3NTQzODQ3ODRlZDc2NjI2NzNmY2M2`

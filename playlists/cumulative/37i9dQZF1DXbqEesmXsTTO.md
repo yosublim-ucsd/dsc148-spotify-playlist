@@ -2,9 +2,9 @@
 
 ### [퓨전 국악 \(Fusion Korean National\)](https://open.spotify.com/playlist/37i9dQZF1DXbqEesmXsTTO)
 
-> 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: 신유진\(Shin Yujin\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
+> 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: 이희문&허송세월&놈놈\(OBSG\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
 
-58 songs - 3 hr 49 min
+60 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Another House](https://open.spotify.com/track/6NbXlwLTcU0KWkxVapRvkL) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [GANGNAM OASIS](https://open.spotify.com/album/6yqq2JbXTTpb4J3zeIyel7) | 3:34 | 2023-09-26 |  |
 | [Arirang Fantasy \(feat\. Lee Na Yeon\)](https://open.spotify.com/track/3ymhaBpH9bLLqJhpHRsaTz) | [Gukjeondan](https://open.spotify.com/artist/7I4YtHja8lGC90BpH6H0lO), [Lee Na Yeon](https://open.spotify.com/artist/07qYcfFjfplSt67qQ0QLzm) | [Chosun Electronic Music Big Party](https://open.spotify.com/album/5p1MJJemKllvFRIKTdA9ub) | 2:36 | 2023-09-26 |  |
 | [Arirang for you](https://open.spotify.com/track/02Li3zuBHmYvTU3snTt48H) | [NEUL](https://open.spotify.com/artist/5SaYHywNAcLUqIFcel7xwn) | [Piece Of Love](https://open.spotify.com/album/69A1ez7jfXMcLGOWRCk7lf) | 3:27 | 2023-09-26 |  |
+| [Asurajang](https://open.spotify.com/track/7f1A2jVHZBNYQrTyfLaSDY) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [Asurajang](https://open.spotify.com/album/3y6pOcL1sFC4K75FwWtp3j) | 3:10 | 2023-11-10 |  |
 | [Beyond the memory \- Fast Version](https://open.spotify.com/track/5vdoqH4P2bgRWk8kUdY0gD) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [GANGNAM OASIS](https://open.spotify.com/album/6yqq2JbXTTpb4J3zeIyel7) | 2:31 | 2023-09-26 |  |
 | [CHILJUNPALGI \- Progressive Mix](https://open.spotify.com/track/2gTcecQU8w6SwQjSkS08Yj) | [Gony Slowly](https://open.spotify.com/artist/3zFEbSBtwo1TcyHL4KekhE), [50mang](https://open.spotify.com/artist/1vV7xlmiyiLLKxpQljKwSx) | [CHILJUNPALGI \(Progressive Mix\)](https://open.spotify.com/album/2R0TcqfM89IOscvXwz4Ikt) | 3:20 | 2023-09-26 |  |
 | [chohui's poem](https://open.spotify.com/track/4uGonmVqKlGVq7uVLGGRjR) | [HANUM](https://open.spotify.com/artist/7B0fJxqyFHfXBAF94kxK4d) | [chohui's poem](https://open.spotify.com/album/5bm3Mf5ouJ5fPBybeIWkPs) | 3:46 | 2023-09-26 |  |
@@ -63,6 +64,7 @@
 | [사랑가](https://open.spotify.com/track/5TPFp4x1XZfeyh5uNdVGb0) | [국악인가요](https://open.spotify.com/artist/3B6TfyPlGzJ21gqz2N8bbe) | [국악IN가요](https://open.spotify.com/album/1PsixE91NtJBahibMDufbr) | 3:46 | 2023-09-26 |  |
 | [산세가](https://open.spotify.com/track/6UFOH0T8vDqjsdagF2bWU8) | [fullmoon project](https://open.spotify.com/artist/3eTwOC2mxAQJcfYFXGHzmh) | [산세가](https://open.spotify.com/album/2Kcj1lqZj8qh2cmtvHa6qk) | 3:30 | 2023-09-26 |  |
 | [심청날다](https://open.spotify.com/track/4lH5VY45CWptXStnNFrFDK) | [nalda](https://open.spotify.com/artist/3LmhODh3xJbv6B5ZufqQ5x) | [심청날다](https://open.spotify.com/album/15AV3oJn5yB02rW22Io2OG) | 4:09 | 2023-09-26 |  |
+| [어허구자](https://open.spotify.com/track/3faAGLkzNpp5ID9MWbuyXY) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Heosongsewol](https://open.spotify.com/artist/6THaQMhKlpKKIZbisvmnvS), [NomNom](https://open.spotify.com/artist/4dCsxtrM5JyN1LxNNIXIAc) | [SPANGLE](https://open.spotify.com/album/4tFh4AulVEB4FCpgCWAi49) | 4:38 | 2023-11-10 |  |
 | [제비가](https://open.spotify.com/track/5i64k1sSeBMBylC8MxACrv) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Prelude](https://open.spotify.com/artist/5iDrzHiqbcQR9b0Po8EA9M) | [Korean Men 2nd](https://open.spotify.com/album/1zwG2m1lhSHwByNNVK2wpa) | 3:56 | 2023-09-26 |  |
 | [허송세월말어라](https://open.spotify.com/track/05HnmQWeDrBrvC0q5i297T) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Heosongsewol](https://open.spotify.com/artist/6THaQMhKlpKKIZbisvmnvS), [NomNom](https://open.spotify.com/artist/4dCsxtrM5JyN1LxNNIXIAc) | [OBSG](https://open.spotify.com/album/7GzuVsGWXIlFcbY7JaIWg5) | 3:14 | 2023-09-26 |  |
 | [홀로아리랑 \(prod\. 박경훈\)](https://open.spotify.com/track/2NYhv60zNkD4nciDt0GJUO) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 4:46 | 2023-09-26 |  |

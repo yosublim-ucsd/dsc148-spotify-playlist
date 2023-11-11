@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7icoOm5fKKPo49jVxoj1Cq">Anfisa Letyago</a>'s favorite tracks\. Updated regularly\. Curated by Anfisa Letyago\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-49 songs - 4 hr 27 min
+51 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Colorforms](https://open.spotify.com/track/3KsEpBj2erCWu9X2XojURs) | [FULL EFX](https://open.spotify.com/artist/1uLpI38BsYc4LVQ62y2se5), [Anthony Parasole](https://open.spotify.com/artist/66bQLQsTSlK34m12wjyneM) | [HEADRUSH](https://open.spotify.com/album/6oUZkGInt7tvJihI4dOIz5) | 2:29 | 2023-02-21 |  |
 | [Connected by a Wall](https://open.spotify.com/track/2eK2j45LNepV0gBryR9D1F) | [Sputnik One](https://open.spotify.com/artist/68K8om0Epc6IYa4hndHt4w) | [Connected by a Wall](https://open.spotify.com/album/6QH5VpYHxQFt23tKYQvV7y) | 5:28 | 2023-02-21 |  |
 | [Disko Axiom](https://open.spotify.com/track/6gCXxz0Gy4PQ4uDXLTBhkf) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN), [Daniel Watts](https://open.spotify.com/artist/59nsDsrFnxoHLp4j5E3wPx) | [Disko Axiom](https://open.spotify.com/album/2Du778LeiWgOLzVX8gFdH5) | 4:27 | 2023-02-21 |  |
-| [Eh Wut](https://open.spotify.com/track/1KrvEu5dy4OKuFtlI4cLGt) | [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [Eh Wut](https://open.spotify.com/album/1tKVdQn0I8A4mu1rPXSsAn) | 5:12 | 2023-02-21 |  |
+| [Eh Wut](https://open.spotify.com/track/1KrvEu5dy4OKuFtlI4cLGt) | [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [Eh Wut](https://open.spotify.com/album/1tKVdQn0I8A4mu1rPXSsAn) | 5:12 | 2023-02-21 | 2023-11-11 |
+| [Eh Wut](https://open.spotify.com/track/2Ab03lig6siOlOlsarjaQT) | [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [Eh Wut](https://open.spotify.com/album/2JQAzUgIjfPPBl1Mu9Ry8c) | 5:12 | 2023-02-21 |  |
 | [El Sueño de Kogi](https://open.spotify.com/track/77yLpdIfbJLZTx8OurWDXq) | [TMH Tranzit](https://open.spotify.com/artist/4fOi16EGs3serE7qzaqmTt) | [El Sueño de Kogi](https://open.spotify.com/album/0CKnKc80sS8gjnzgbX8JTk) | 6:03 | 2023-02-21 |  |
 | [Extrasense](https://open.spotify.com/track/6tr7MskyWXRw9nvvbkVC3L) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Extrasense](https://open.spotify.com/album/7nVQmAZnEcNF4yp5ZQFnem) | 6:25 | 2023-02-21 |  |
 | [Eyelar \(stamford street\)](https://open.spotify.com/track/3tLQIflSb1kA2xqBP94HkF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 Piano EP \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4S8ReXNJUYd3INog1JNlBJ) | 3:16 | 2023-02-21 |  |
@@ -41,7 +42,8 @@
 | [No Syn Nosotros](https://open.spotify.com/track/0x6CQVXVmLlc8mf39Ug5VL) | [Talismann](https://open.spotify.com/artist/6EbNaM2bFGGDaPKTNG1PT2) | [Percussion Part 1](https://open.spotify.com/album/0a19Zej67z6A5zmkVhpDQN) | 4:34 | 2023-02-21 |  |
 | [NY\-X](https://open.spotify.com/track/01oggyDMi5e6LAWXoWVsVu) | [Schacke](https://open.spotify.com/artist/3bphZJ7NojBKcoCeBOSJ5Z) | [Apocalyptic Decadence](https://open.spotify.com/album/0C9ABNbjiWHQsbgOoqNqnW) | 7:07 | 2023-02-21 |  |
 | [Ognuno p''a via soja](https://open.spotify.com/track/64Tb4DxB5W2axD6XgFySKV) | [Enzo Avitabile](https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO) | [La Vita Bugiarda Degli Adulti \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0tCgV1ZcCEn77kUoCwpImi) | 4:15 | 2023-02-21 |  |
-| [Ovule \(feat\. Shygirl\) \- Sega Bodega Remix](https://open.spotify.com/track/1e0lY9vlLsvpjNpj3NgFwQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/67NJcllhirRuOzzC4Ivfvx) | 3:44 | 2023-02-21 |  |
+| [Ovule \(feat\. Shygirl\) \- Sega Bodega Remix](https://open.spotify.com/track/1e0lY9vlLsvpjNpj3NgFwQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/67NJcllhirRuOzzC4Ivfvx) | 3:44 | 2023-02-21 | 2023-11-11 |
+| [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/track/6wfnKqy0C9xUrxZVgzHz8C) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/1ljK6QlQ1cFgK46R5QIMVV) | 3:44 | 2023-02-21 |  |
 | [Papi \- Schacke Remix](https://open.spotify.com/track/7amzr7eR6FcxcPDDuZ1XQR) | [Kev Koko](https://open.spotify.com/artist/2WZCpsGLdNU1xENRwETylI), [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf), [Schacke](https://open.spotify.com/artist/3bphZJ7NojBKcoCeBOSJ5Z) | [FDP](https://open.spotify.com/album/3vHyZA6gqdzx2LauiAgmnj) | 6:47 | 2023-02-21 |  |
 | [Rosso Profondo](https://open.spotify.com/track/0Regj8wXZsDesHK6DrWaDg) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Rosso Profondo](https://open.spotify.com/album/5yaUSupnWkaCaVqSlbubbk) | 5:33 | 2023-02-21 |  |
 | [Rove Ranger \- Surfer](https://open.spotify.com/track/3OS9SPEFyyFY9PVue1BOsQ) | [Rove Ranger](https://open.spotify.com/artist/2tcPPLnCV4T3tevcfw1Iss) | [HOME I](https://open.spotify.com/album/4oIxUf66to46M5IWpNbQdN) | 4:06 | 2023-02-21 |  |

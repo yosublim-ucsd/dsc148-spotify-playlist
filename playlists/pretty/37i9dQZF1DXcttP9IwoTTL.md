@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,034 likes - 70 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,108 likes - 70 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 12 | [Acid Hand](https://open.spotify.com/track/3VyHbLC8CQsDcZ6tvn3f1K) | [Alberto Melloni](https://open.spotify.com/artist/67hlOZedFK95QfgY1LaUkB) | [Acid Hand](https://open.spotify.com/album/7jMocE4AYA2zrYdtPletm7) | 5:03 |
 | 13 | [Ego Slave](https://open.spotify.com/track/30YEBl0CGsutXOliPVAaiU) | [Reda Saiarh](https://open.spotify.com/artist/6ujeoTErI7kYUguUBuCDzE) | [Ego Slave](https://open.spotify.com/album/4vZvQYOe3OrKXZmGso8hSd) | 6:32 |
 | 14 | [Dream Bot](https://open.spotify.com/track/6F73spQYhKI9mSZKgdNGU5) | [Jonathan Kusuma](https://open.spotify.com/artist/7wvTCQDwMMGVQLySxTavcj) | [Dream Bot](https://open.spotify.com/album/1oYyrz0h2w1j2amcc7fKQY) | 7:28 |
-| 15 | [The Phone Call](https://open.spotify.com/track/0hc5J6xLNHUQ5241iZdPwc) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [The Phantasy Collection \(Part 1\)](https://open.spotify.com/album/3BFZKdq5eEMb0jYPv51E1W) | 6:42 |
+| 15 | [The Phone Call](https://open.spotify.com/track/6jamAT7O8qQDDn6oVb0sBy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [The Phantasy Collection \(Pt\. 1\)](https://open.spotify.com/album/264Vw43rii60bPqW2ISXzu) | 6:42 |
 | 16 | [Voces](https://open.spotify.com/track/2lBsdvf8cV5q4nYwJ1IuBU) | [DC Salas](https://open.spotify.com/artist/5Je9stfFSgHo3TZgyOPsUw) | [Voces](https://open.spotify.com/album/2E9PwugV2edY5ywceP2rrS) | 5:58 |
 | 17 | [Come To Me \(Club Mix\)](https://open.spotify.com/track/34ctIzLFt4bg4VmYIEarqk) | [Kendal](https://open.spotify.com/artist/2NJZShOescj4yIvO1d4yiV) | [Come To Me](https://open.spotify.com/album/7LTeeI6IKpbbdZs3IVMBoL) | 5:10 |
 | 18 | [Ending Pleasure](https://open.spotify.com/track/0JwbZycYEazbWdWdvg8TMI) | [Austher](https://open.spotify.com/artist/7wIFWynyze6hrfiS6Y948P) | [Resilience](https://open.spotify.com/album/4wz8En0ilzRkaqpEwXmHbm) | 6:31 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 32 | [Abiad Al Layali](https://open.spotify.com/track/4PlrVsnhWeeyy5MXOAaKRK) | [Zaatar زَعْتَر⁩](https://open.spotify.com/artist/6uYgjw46Hh8nLzEYx28n35) | [Abiad Al Layali](https://open.spotify.com/album/5nobVdkzT2kBkaxFW9qzma) | 5:49 |
 | 33 | [Pine Seedlings](https://open.spotify.com/track/3NJiZ3XLB9MifonHjczOa0) | [Elena Colombi](https://open.spotify.com/artist/7kZnag3HL8EPHsXSoYBpgU), [Ece Ozel](https://open.spotify.com/artist/0h46yCk86psLlh24Osygw7) | [Donne che Corrono coi Lupi](https://open.spotify.com/album/0hMOgkYpG0Koyu4turzyQ1) | 4:32 |
 | 34 | [Praise the Lord](https://open.spotify.com/track/6S0ePcBSjL7VlKZ8Z4g8OT) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Praise the Lord](https://open.spotify.com/album/2mjChntGz4oGprWC6qnuI3) | 5:04 |
-| 35 | [States Of Mind](https://open.spotify.com/track/3Vjl3Z8LzJ1sjzRzljrCbf) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Layers](https://open.spotify.com/album/1hWKFBJhEWrK1RX0RyHBfH) | 5:34 |
+| 35 | [States of Mind](https://open.spotify.com/track/3KHlt53c47HwUMp6DVEGTB) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Consciousness As A State Of Matter](https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI) | 5:34 |
 | 36 | [Tropical Cyclone](https://open.spotify.com/track/0fHWxmMxZTfBVpEZsoBKbR) | [Superski](https://open.spotify.com/artist/2WffSmq9UGwjDu7q2CX4cp), [Eliott Litrowski](https://open.spotify.com/artist/4NYOfkXyCdUHSGG6SN5SFb), [Voiski](https://open.spotify.com/artist/6YlLUbef5d4ptmxkMKsrlK) | [Tropical Cyclone](https://open.spotify.com/album/2S7xbEc9wUxpNi2cX9g5rS) | 5:26 |
 | 37 | [A Retro Vice](https://open.spotify.com/track/7o5LNI9UcEpOgw4YQQzAXM) | [The Creative Technology Consortium](https://open.spotify.com/artist/16biR3Mqo0kQzHzm7W5tT7) | [A Retro Vice](https://open.spotify.com/album/3vhaQsMyY68xy4QNihjXAX) | 6:27 |
 | 38 | [20inch Chrome](https://open.spotify.com/track/1v7Q3UPfnigXASLANpu0UF) | [DJ Europarking](https://open.spotify.com/artist/6v2HisLcnWEbfHNUu89Aox), [Dollkraut](https://open.spotify.com/artist/0ocSwGS6cbsOhgWvbKZVNT) | [Bitte Everyday!](https://open.spotify.com/album/5d0B96rOzXBhq2gomLAWpc) | 5:08 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 48 | [Abolish?](https://open.spotify.com/track/0NT6Vzm9rettWIOCB2UPLe) | [Felice](https://open.spotify.com/artist/4muUAN6Ts70jEyljwdcPRU) | [Abolish?](https://open.spotify.com/album/4DSoC13r6ygSS0RnQqH9bK) | 5:31 |
 | 49 | [It's Fun Time!](https://open.spotify.com/track/6yIwbM4hQVXSkVQJwG4I0N) | [Emmet Read](https://open.spotify.com/artist/3WvT8BJtMr4CILO0P6nXLD) | [Its Fun Time! EP](https://open.spotify.com/album/1m94mffiPNLxgP5P55y66a) | 6:45 |
 | 50 | [Days Of Innocence \- Bliss Inc\. Remix](https://open.spotify.com/track/5K0K7tTqeggFLmdtOlFLaZ) | [Rhode & Brown](https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T), [Benjamin Fröhlich](https://open.spotify.com/artist/3FT44aaqR7vqBzvXCZPjn1), [Bliss Inc](https://open.spotify.com/artist/0Dr4hJBoD2fgLHwob8xUIK) | [Days Of Innocence Remixes](https://open.spotify.com/album/4zUkOIRQMatzg566sjSK8M) | 6:51 |
-| 51 | [Horns](https://open.spotify.com/track/0rcyKRZTyfM0y6qmDPH548) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [XTC \(The Lost Scrolls\)](https://open.spotify.com/album/0PBqzcm8XBZ873Ib5OWGdM) | 2:09 |
+| 51 | [Horns](https://open.spotify.com/track/0NPF9SWerJXZrOBP4TmHkm) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [Xtc \(The Lost Scrolls\)](https://open.spotify.com/album/3Bf4rWvrvM5MT1pwNBPxUr) | 2:09 |
 | 52 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 |
 | 53 | [Matter Of Time](https://open.spotify.com/track/5N937GSmUEP5M0itJWO0Rw) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR) | [Matter Of Time](https://open.spotify.com/album/3ih5Hw0Q6hL2R9MwFai7WL) | 6:06 |
 | 54 | [The Colours in my head](https://open.spotify.com/track/3bnItK9K3Tq7MTwgrFnuQl) | [Lisa More](https://open.spotify.com/artist/5IXgtbKkDgnzGktUuhdpSJ), [Tryphème](https://open.spotify.com/artist/7br46YjsVSF5su1MZpFzma) | [Cyborg Tears](https://open.spotify.com/album/5eiJ0ZEooLQAjafZ7vdhHU) | 4:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 69 | [Love Love Love](https://open.spotify.com/track/5S1drMAStkabK0PZsOkfiE) | [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l) | [Love Love Love](https://open.spotify.com/album/5GuOoK1aW5vLiMQA33OLPN) | 2:49 |
 | 70 | [偶像包袱 \(Idol Baggage\)](https://open.spotify.com/track/4XnV6Oe22R9ofb3tnXH5HP) | [Tzusing](https://open.spotify.com/artist/7Ifvnt1HhJ0b1QwOxLAu2s) | [绿帽 Green Hat](https://open.spotify.com/album/4ly0DCSbwqgvQtaYum7RAD) | 3:45 |
 
-Snapshot ID: `MCxhNTNmYzJhMjdhMWJhODdlODY4MGM3Y2RlMDAzZjdmNTZjYzY5ZTZh`
+Snapshot ID: `MCw3YTk3MTk1N2I4NWQ2OTNhNGU5ZTYyMDMzZjFlZTdhZTMxYzVkZWRk`

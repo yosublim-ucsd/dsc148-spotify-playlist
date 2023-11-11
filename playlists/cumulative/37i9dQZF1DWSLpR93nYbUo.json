@@ -2209,6 +2209,28 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Vem",
+        "url": "https://open.spotify.com/album/4iH0TS0TCDOqsf3RL6BzlB"
+      },
+      "artists": [
+        {
+          "name": "R3ckzet",
+          "url": "https://open.spotify.com/artist/4Y5Bxlvf5SQO3xtfbt5vrS"
+        },
+        {
+          "name": "Grace Grey",
+          "url": "https://open.spotify.com/artist/4dKpgzFHqM2zSCW6COFAx2"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182862,
+      "name": "S\u00f3 Vem",
+      "url": "https://open.spotify.com/track/64YGPLcahYphHK9rvjFRUq"
+    },
+    {
+      "album": {
         "name": "Take",
         "url": "https://open.spotify.com/album/4t1IuRk9pZRPXKRvJsqRUP"
       },
@@ -2246,6 +2268,24 @@
       "duration_ms": 213543,
       "name": "Take It",
       "url": "https://open.spotify.com/track/3E6pRr10U7gMno9Ryz6HFC"
+    },
+    {
+      "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/7guWqurSqbQVpihJxOScAC"
+      },
+      "artists": [
+        {
+          "name": "BAF",
+          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168932,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/46llJyW3ZoNwOHmP5rF7u9"
     },
     {
       "album": {

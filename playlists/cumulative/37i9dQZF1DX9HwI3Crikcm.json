@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Healing Song",
+        "url": "https://open.spotify.com/album/7zMbFnLplpqzwRsKYkOpCt"
+      },
+      "artists": [
+        {
+          "name": "Ajeet",
+          "url": "https://open.spotify.com/artist/3sBtKwaTveANiltp7XgBLU"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373022,
+      "name": "Healing Song",
+      "url": "https://open.spotify.com/track/13h1mul2pc4WfGjriHp6V7"
+    },
+    {
+      "album": {
         "name": "Drive & Lift",
         "url": "https://open.spotify.com/album/6nOhv6JrGW9IQDTgXjGAtX"
       },
@@ -1038,6 +1056,24 @@
       "duration_ms": 171682,
       "name": "Kilfenora Reels: Connemara Stocking - The Westmeath Hunt - A Fair Wind",
       "url": "https://open.spotify.com/track/0760mgHmuy6RoYgEYgEaki"
+    },
+    {
+      "album": {
+        "name": "Kitty",
+        "url": "https://open.spotify.com/album/6uaAJL6HfIMXm8vGroXnCz"
+      },
+      "artists": [
+        {
+          "name": "John Francis Flynn",
+          "url": "https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440466,
+      "name": "Kitty",
+      "url": "https://open.spotify.com/track/0CSQeWGaxe4DyGxNMCGwAy"
     },
     {
       "album": {

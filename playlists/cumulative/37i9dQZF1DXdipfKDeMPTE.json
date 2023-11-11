@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "after dark",
+        "url": "https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM"
+      },
+      "artists": [
+        {
+          "name": "takemefaraway",
+          "url": "https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141886,
+      "name": "after dark",
+      "url": "https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14"
+    },
+    {
+      "album": {
         "name": "Embrasser",
         "url": "https://open.spotify.com/album/6VcrwQODoxJbkotX3DFJOk"
       },
@@ -556,6 +574,24 @@
       "duration_ms": 158320,
       "name": "Another Redroom Ramble",
       "url": "https://open.spotify.com/track/6pAW3tv04ptjKaFopM1uMJ"
+    },
+    {
+      "album": {
+        "name": "Are We There Yet",
+        "url": "https://open.spotify.com/album/4fFqmS7Kk1R2qcZmLVxSJQ"
+      },
+      "artists": [
+        {
+          "name": "Velvet Haven",
+          "url": "https://open.spotify.com/artist/4jTDHfmofsM4W1Bc0m5L4F"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154383,
+      "name": "Are We There Yet",
+      "url": "https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV"
     },
     {
       "album": {
@@ -960,7 +996,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 118447,
       "name": "Black Veil",
       "url": "https://open.spotify.com/track/6geApoVGb7Wxg23daGyiaa"
@@ -2084,7 +2120,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 145116,
       "name": "crosswalks",
       "url": "https://open.spotify.com/track/7qiVwIdSy2NzXWBBhRlN1A"
@@ -2272,7 +2308,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 153725,
       "name": "Days and Daze",
       "url": "https://open.spotify.com/track/6W1OgysIrz7HEHskFh9mZo"
@@ -3347,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "goodnight paris",
+        "url": "https://open.spotify.com/album/1FXQ6DYZWVY6FLf0zvPDwy"
+      },
+      "artists": [
+        {
+          "name": "Clocktown Stars",
+          "url": "https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171833,
+      "name": "goodnight paris",
+      "url": "https://open.spotify.com/track/4ml3CC6HTNaGnFgiRnAiFH"
+    },
+    {
+      "album": {
         "name": "Beatology Vol. 2",
         "url": "https://open.spotify.com/album/4ohPIllqmhvDQ8EKBQeFou"
       },
@@ -3430,7 +3484,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 72000,
       "name": "grass",
       "url": "https://open.spotify.com/track/05jr4WyUZrhAjzIpL7k4e5"
@@ -4234,7 +4288,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 129103,
       "name": "Just A Minute",
       "url": "https://open.spotify.com/track/1ofyQ1VPcmkHT6cWWCjBOD"
@@ -4396,7 +4450,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 140917,
       "name": "La Notte Di Sabato",
       "url": "https://open.spotify.com/track/1SZFX3oiqBGGuGFFdJ5ZTV"
@@ -4992,7 +5046,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 128076,
       "name": "lucky punch",
       "url": "https://open.spotify.com/track/4Q7dEitZXGBrgu3UzAfeZo"
@@ -5350,7 +5404,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 119038,
       "name": "Midnight Walk",
       "url": "https://open.spotify.com/track/6C1rhgHWEruSubTWYyP4hX"
@@ -5776,7 +5830,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 109946,
       "name": "New city",
       "url": "https://open.spotify.com/track/37xo4b3N1HvbskzU2bY3Oe"
@@ -6210,10 +6264,28 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 122926,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3LlYuVgDOLkzTLwSeVk3cY"
+    },
+    {
+      "album": {
+        "name": "Moving Mountains",
+        "url": "https://open.spotify.com/album/6ox5TwLvqWo71dJqrTWaLs"
+      },
+      "artists": [
+        {
+          "name": "Knowmadic",
+          "url": "https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Not Me",
+      "url": "https://open.spotify.com/track/4IFMvnFgQBTjbzHrnOykwF"
     },
     {
       "album": {
@@ -6228,7 +6300,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 186000,
       "name": "Not Me",
       "url": "https://open.spotify.com/track/6jaM2iycz9Iorq6lOAr1aM"
@@ -6903,6 +6975,24 @@
     },
     {
       "album": {
+        "name": "Pure Water",
+        "url": "https://open.spotify.com/album/0pdsUyxPplZqjQ2oRBkmcD"
+      },
+      "artists": [
+        {
+          "name": "JAKKARTA",
+          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177923,
+      "name": "Pure Water",
+      "url": "https://open.spotify.com/track/2ZLJrHbLNkj8rrnh9ECyxU"
+    },
+    {
+      "album": {
         "name": "Purple & Yellow",
         "url": "https://open.spotify.com/album/2pUZ78mijQuuZSH6Tsb0xz"
       },
@@ -6990,7 +7080,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 114142,
       "name": "Rain Man",
       "url": "https://open.spotify.com/track/531kxTKpH4SKQbgREzhgUD"
@@ -7376,7 +7466,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 121500,
       "name": "Samsons best friend",
       "url": "https://open.spotify.com/track/6AJgxWH746KiVfIcsY08WO"
@@ -8188,7 +8278,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 156000,
       "name": "Soft Rain",
       "url": "https://open.spotify.com/track/5eCQw3w3u9nbwOu9h2eXGT"
@@ -8712,7 +8802,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 144000,
       "name": "Taciturn",
       "url": "https://open.spotify.com/track/0DXFDBLt4171UEa3emLuDF"
@@ -8730,7 +8820,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 115200,
       "name": "Tai Ping Shan",
       "url": "https://open.spotify.com/track/3tAm52JEGS4Ezn2iAIDWLE"
@@ -9656,6 +9746,24 @@
       "duration_ms": 108000,
       "name": "warm blanket",
       "url": "https://open.spotify.com/track/00eent5g0VdmkgJigmr1ed"
+    },
+    {
+      "album": {
+        "name": "Warm Weather",
+        "url": "https://open.spotify.com/album/47PV2WKeOwohlF0OzZ9lrt"
+      },
+      "artists": [
+        {
+          "name": "ATONED",
+          "url": "https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149119,
+      "name": "Warm Weather",
+      "url": "https://open.spotify.com/track/5WyejtsDpXpq2CGz2hzMju"
     },
     {
       "album": {

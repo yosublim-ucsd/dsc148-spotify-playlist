@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Au suivant",
+        "url": "https://open.spotify.com/album/6ckMeHqNLxSIHSWVpXQyA7"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199123,
+      "name": "Au suivant",
+      "url": "https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz"
+    },
+    {
+      "album": {
         "name": "AY\u00c9 AYO (feat. Skalpovich)",
         "url": "https://open.spotify.com/album/2LFb14evc1ArfZ8SkQUbcl"
       },
@@ -854,7 +872,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 229024,
       "name": "Classico",
       "url": "https://open.spotify.com/track/2J4q5rfEpzy8bHPzlEOkQx"

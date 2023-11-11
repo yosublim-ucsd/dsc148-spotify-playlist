@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-246 songs - 11 hr 41 min
+247 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Resurrection](https://open.spotify.com/track/0BtJKY7UaAtw4ViVQJHOHI) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Eternity](https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A) | 2:00 | 2021-12-09 |  |
 | [Reveries](https://open.spotify.com/track/6zCnCeruSOYJ4LYQNHa4hN) | [Butterfly Wings](https://open.spotify.com/artist/0RMsyms4T0LXxotilnDJap) | [Reveries](https://open.spotify.com/album/4P9DWlEZDzIwmqJcqXPSQw) | 2:45 | 2022-01-06 |  |
 | [Rojo](https://open.spotify.com/track/2JRWjR3mlXJBg3uZwDPmBx) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Ambientalismo](https://open.spotify.com/album/150OGcG307oqzZadHxUcQH) | 2:18 | 2021-12-09 |  |
-| [Salve](https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Salve](https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd) | 2:50 | 2021-12-09 |  |
+| [Salve](https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Salve](https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd) | 2:50 | 2021-12-09 | 2023-11-11 |
 | [Sama](https://open.spotify.com/track/71V9ODRY7LPvkwg5HBfRxJ) | [Dalkhan Panova](https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV) | [Sama](https://open.spotify.com/album/3wQBWbpgWLtWVwZcrg8yzF) | 2:29 | 2021-12-09 |  |
 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 | 2021-12-09 |  |
 | [Sea Of Tranquility](https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Sea Of Tranquility](https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3) | 2:55 | 2021-12-09 |  |
@@ -190,6 +190,7 @@
 | [Sintra \- Ambient Mix](https://open.spotify.com/track/6Jvp6beybIW9umUJkjkWXV) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Sintra](https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04) | 3:24 | 2021-12-09 | 2022-10-15 |
 | [Skylight Serenade](https://open.spotify.com/track/1cLSDdOaUDZyZ0mB0RSvYl) | [Eric de Joté](https://open.spotify.com/artist/0JEX9uWA6GolbCcaqfD6rL) | [Skylight Serenade](https://open.spotify.com/album/4gLieePxzKIUqKSPiteKd0) | 2:32 | 2021-12-09 |  |
 | [Skymning](https://open.spotify.com/track/1nP7LJuu4QMet7xKll1gVh) | [Björnlandet](https://open.spotify.com/artist/5u5mZ8WatCUPXwXfFePPSz) | [Skymning](https://open.spotify.com/album/4FTompXigT36dvBOx8vU5J) | 2:11 | 2021-12-09 |  |
+| [Skyscapes](https://open.spotify.com/track/6eyZpxeoEcLDPBCyCEJfRA) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [Skyscapes](https://open.spotify.com/album/0wJc1muAZ0cAWqTzwMaNDm) | 2:14 | 2023-11-10 |  |
 | [Soft Night](https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Traditions & Traitors](https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f) | 2:35 | 2021-12-09 |  |
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-12-09 |  |
 | [Solo](https://open.spotify.com/track/3d7eF49gLIxdOo6plwr6kP) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Solo](https://open.spotify.com/album/71DeeYazwxnzRgvBHY2rEl) | 2:18 | 2022-11-11 |  |

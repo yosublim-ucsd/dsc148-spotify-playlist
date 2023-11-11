@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Sofia Kourtesis",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Peggy Gou ",
   "name": "Altar JP",
   "tracks": [
     {
@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Black Mist",
+        "url": "https://open.spotify.com/album/1HOldJQwn0ZsaRj3P3Fw2V"
+      },
+      "artists": [
+        {
+          "name": "Nizikawa",
+          "url": "https://open.spotify.com/artist/3xMDrBATQJ0FPwdZPb9If5"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276800,
+      "name": "Black Mist",
+      "url": "https://open.spotify.com/track/05Q4dUVM77wm1tiVFDbwrE"
+    },
+    {
+      "album": {
         "name": "Blackbox Life Recorder 21f",
         "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
       },
@@ -962,6 +980,28 @@
       "duration_ms": 221323,
       "name": "Blue Lights",
       "url": "https://open.spotify.com/track/1HaFNaN0DEaKCOrQ7AIpxx"
+    },
+    {
+      "album": {
+        "name": "Blue Lights (Major League DJz Remix)",
+        "url": "https://open.spotify.com/album/36ilkzGej6DS1vnWof1uT1"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505277,
+      "name": "Blue Lights - Major League DJz Remix",
+      "url": "https://open.spotify.com/track/7sLsdhg4lYmftExXvRv4C2"
     },
     {
       "album": {
@@ -1522,6 +1562,32 @@
       "duration_ms": 202159,
       "name": "Cry Cry Cry",
       "url": "https://open.spotify.com/track/4nIwqqLCAu19wnZuOvT0fT"
+    },
+    {
+      "album": {
+        "name": "So Sloppy Vol.1",
+        "url": "https://open.spotify.com/album/6GVdnlARdw1ZgoFCWXqQ41"
+      },
+      "artists": [
+        {
+          "name": "Sloppy Disk",
+          "url": "https://open.spotify.com/artist/5IEl2TsgM9jO0kkapS5RtB"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+        },
+        {
+          "name": "TJO",
+          "url": "https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322500,
+      "name": "Daikanyama (Let Me Take You)",
+      "url": "https://open.spotify.com/track/11H0oU5XEXgTOqWRz6XwAO"
     },
     {
       "album": {
@@ -3953,6 +4019,28 @@
     },
     {
       "album": {
+        "name": "I Believe In Love Again",
+        "url": "https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176524,
+      "name": "I Believe In Love Again",
+      "url": "https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD"
+    },
+    {
+      "album": {
         "name": "I Got It (XL Middleton Remix)",
         "url": "https://open.spotify.com/album/3CliITqhmheMzDS3EN3EY7"
       },
@@ -3968,7 +4056,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 357718,
       "name": "I Got It - XL Middleton Remix",
       "url": "https://open.spotify.com/track/2Dr21Jon3BJ8emArlAXOKE"
@@ -4030,7 +4118,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 258864,
       "name": "i!i!bbbbBaadboi!i!",
       "url": "https://open.spotify.com/track/0FI2TdUBdPUC7PYXEQSwLd"
@@ -4096,6 +4184,24 @@
       "duration_ms": 218647,
       "name": "I'm So High (feat. Tamera & Toddla T)",
       "url": "https://open.spotify.com/track/1KFfz8hnfidxkvFjyUqvGn"
+    },
+    {
+      "album": {
+        "name": "Ilios",
+        "url": "https://open.spotify.com/album/0NS18lXQp40RTO8oYIbShv"
+      },
+      "artists": [
+        {
+          "name": "Jacotanu",
+          "url": "https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "Ilios",
+      "url": "https://open.spotify.com/track/1pl7PJVpbuu360NatjDpRI"
     },
     {
       "album": {
@@ -4368,10 +4474,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 188453,
       "name": "JOY (I Did You Wrong)",
       "url": "https://open.spotify.com/track/31ZBEAVjrABh1eSSDYPnRc"
+    },
+    {
+      "album": {
+        "name": "JOY (Up The Street)",
+        "url": "https://open.spotify.com/album/757FRJv2zPA021rfTPK7hr"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237979,
+      "name": "JOY (Up The Street)",
+      "url": "https://open.spotify.com/track/5PFSQQxlsdUrR63J31spMv"
     },
     {
       "album": {
@@ -4434,7 +4558,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 415081,
       "name": "Jump Up To Dis",
       "url": "https://open.spotify.com/track/65Kgd8LGPzZqNFWbK9ReSH"
@@ -5836,7 +5960,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 400660,
       "name": "Music Life",
       "url": "https://open.spotify.com/track/5A96rBUfMdcFbvpRVvzfMv"
@@ -5916,7 +6040,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 458751,
       "name": "Neon Beach - Divorce From New York & Piek Remix",
       "url": "https://open.spotify.com/track/5rlWyKP5l97M0BMtj5bhFK"
@@ -6301,6 +6425,24 @@
     },
     {
       "album": {
+        "name": "Sirena Deep",
+        "url": "https://open.spotify.com/album/7zQCyrcKP2atTka3yisSYg"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492500,
+      "name": "Outdoor Limit",
+      "url": "https://open.spotify.com/track/2Td6XIXTwJXWuLg3amKiZi"
+    },
+    {
+      "album": {
         "name": "Overthinker(Stones Taro Remix)",
         "url": "https://open.spotify.com/album/53fRA0u4akvEtfL4POeEX5"
       },
@@ -6627,6 +6769,24 @@
     },
     {
       "album": {
+        "name": "DJ-Kicks: HAAi",
+        "url": "https://open.spotify.com/album/5f7wLlgF33y9CUibAk3a5z"
+      },
+      "artists": [
+        {
+          "name": "DJ PGZ",
+          "url": "https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218921,
+      "name": "Quality High",
+      "url": "https://open.spotify.com/track/4yPiuOo5BO4i9X3D8iMF85"
+    },
+    {
+      "album": {
         "name": "City Planning (Remixes)",
         "url": "https://open.spotify.com/album/6Ejgb3vwoPnvOJDNAyeHOk"
       },
@@ -6704,7 +6864,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 351230,
       "name": "Rain",
       "url": "https://open.spotify.com/track/2LUmB4fO4gqWVL8jBD4Ppa"
@@ -7252,6 +7412,28 @@
       "duration_ms": 178746,
       "name": "Scars",
       "url": "https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4"
+    },
+    {
+      "album": {
+        "name": "Self To Blame",
+        "url": "https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Kayla Blackmon",
+          "url": "https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245360,
+      "name": "Self To Blame",
+      "url": "https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ"
     },
     {
       "album": {
@@ -8092,7 +8274,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 222500,
       "name": "Telecomm",
       "url": "https://open.spotify.com/track/5Uaza8kEGOjZ1oiDDPSCMV"
@@ -8281,6 +8463,32 @@
     },
     {
       "album": {
+        "name": "JAPANESE AMAPIANO",
+        "url": "https://open.spotify.com/album/1HWNAyuS01dk3hyspkwyyk"
+      },
+      "artists": [
+        {
+          "name": "audiot909",
+          "url": "https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2"
+        },
+        {
+          "name": "TOMC",
+          "url": "https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0"
+        },
+        {
+          "name": "Zo Zhit",
+          "url": "https://open.spotify.com/artist/4G0afFvUmwf6FMVm7DoEwx"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282857,
+      "name": "The Out of Africa Hypothesis",
+      "url": "https://open.spotify.com/track/1EJ4NsHvhxdWfmC4SukwRd"
+    },
+    {
+      "album": {
         "name": "The Out of Africa Hypothesis",
         "url": "https://open.spotify.com/album/3tGPmRJlRvjfEYTSbUt28r"
       },
@@ -8300,7 +8508,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 282857,
       "name": "The Out of Africa Hypothesis",
       "url": "https://open.spotify.com/track/3k6MvIaHbm6YEOquLmEcw3"
@@ -8488,6 +8696,28 @@
       "duration_ms": 332500,
       "name": "Tivoli",
       "url": "https://open.spotify.com/track/4gRhss10Km9aMS5Qyz8WpT"
+    },
+    {
+      "album": {
+        "name": "Overtake 2",
+        "url": "https://open.spotify.com/album/5m4BMfuZYPROa1HGegtFs1"
+      },
+      "artists": [
+        {
+          "name": "Rave Racers",
+          "url": "https://open.spotify.com/artist/7cAx8raTkmzauwfJqGj0Ug"
+        },
+        {
+          "name": "S2",
+          "url": "https://open.spotify.com/artist/0IzMiHAuFdr9HUYxgzaCS3"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269801,
+      "name": "TOKIOTRIBAL",
+      "url": "https://open.spotify.com/track/3613HjVuOkygCdVH1SA7rL"
     },
     {
       "album": {
@@ -8913,6 +9143,32 @@
     },
     {
       "album": {
+        "name": "We Are (\uc6b0\ub9ac\ub294) [Martyn's Come Back Mix]",
+        "url": "https://open.spotify.com/album/36nC1gMnCfJ2IW8sPIoFvV"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        },
+        {
+          "name": "Martyn",
+          "url": "https://open.spotify.com/artist/68i1l0GWQ5dwzAy1UVNHNw"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461829,
+      "name": "We Are (\uc6b0\ub9ac\ub294) - Martyn's Come Back Mix",
+      "url": "https://open.spotify.com/track/6CBdILDxvbMosq937AKUbC"
+    },
+    {
+      "album": {
         "name": "We Are One (Radio Edit)",
         "url": "https://open.spotify.com/album/62b4WLsGyNKsfBu3AI7Wb5"
       },
@@ -9248,6 +9504,28 @@
       "duration_ms": 251586,
       "name": "XENA",
       "url": "https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf"
+    },
+    {
+      "album": {
+        "name": "Y",
+        "url": "https://open.spotify.com/album/2K3o3X6CoR6f3xKsi8i8N5"
+      },
+      "artists": [
+        {
+          "name": "Kaoruko",
+          "url": "https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl"
+        },
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260148,
+      "name": "Y",
+      "url": "https://open.spotify.com/track/4bBGHKiW0Fdu9BG9oyjAeX"
     },
     {
       "album": {

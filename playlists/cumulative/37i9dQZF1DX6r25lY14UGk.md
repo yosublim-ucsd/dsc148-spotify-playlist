@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-158 songs - 7 hr 23 min
+160 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Cool to be Kind](https://open.spotify.com/track/78aveZ6V2TZPefYHaVDOAN) | [Moe & Friends](https://open.spotify.com/artist/5sEYIFfHFKl1JKnTSQSXjl) | [Songs from Moe & Friends](https://open.spotify.com/album/2ZGaeu14dXKTsiHRn3BE5R) | 2:01 | 2022-04-15 | 2023-07-27 |
 | [Crayon Kids](https://open.spotify.com/track/4M3nufr1L2tt1U1ISbOIiO) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Crayon Kids](https://open.spotify.com/album/68ytofYrtp1M86bkZsC01y) | 4:31 | 2022-04-15 | 2023-10-21 |
 | [Dance with Me](https://open.spotify.com/track/4MKQfMCmqgJDKfON4yvIfT) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:49 | 2022-04-15 |  |
-| [Dandelion](https://open.spotify.com/track/1kuDlVx8egmivA6oRFEdVs) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 1:30 | 2022-04-15 |  |
+| [Dandelion](https://open.spotify.com/track/1kuDlVx8egmivA6oRFEdVs) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 1:30 | 2022-04-15 | 2023-11-11 |
 | [Disco Rain](https://open.spotify.com/track/20twtF2MePkY2WF9qdD3bd) | [Mil's Trills](https://open.spotify.com/artist/2FEJYbtk6YLtBXrTRUpIAj), [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI), [Amelia Robinson](https://open.spotify.com/artist/4OqIoFW3JcA73jTeS8bMVK) | [Let It Out!](https://open.spotify.com/album/2SXHp5cFcwno6SDKJ2gL9p) | 2:44 | 2022-04-15 |  |
 | [Don't Shut Me Down](https://open.spotify.com/track/7l8BKyvpk84QWeriTbIXjP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Don't Shut Me Down](https://open.spotify.com/album/5LGl7CYTeCj3GZTbyuO3Wu) | 3:56 | 2023-10-20 |  |
 | [Dos Oruguitas](https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:34 | 2022-04-15 |  |
@@ -129,7 +129,7 @@
 | [Summer Days](https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:20 | 2022-04-15 |  |
 | [Sun Safety](https://open.spotify.com/track/4mjJBfM3AbvdR3yATMYQQV) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [It's Gonna Be A Great, Great Day!](https://open.spotify.com/album/63IsFT9czhPYdLK7SnKg1z) | 2:42 | 2023-09-22 |  |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-04-15 |  |
-| [Sway](https://open.spotify.com/track/2Y2pWaHeqp0W7OqhFSj0ra) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Sway](https://open.spotify.com/album/5YH1c6XadFeBRLXRiyQUR8) | 3:14 | 2022-04-15 |  |
+| [Sway](https://open.spotify.com/track/2Y2pWaHeqp0W7OqhFSj0ra) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Sway](https://open.spotify.com/album/5YH1c6XadFeBRLXRiyQUR8) | 3:14 | 2022-04-15 | 2023-11-11 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/3yOMhAM9ZwBjuKQv4pPWYs) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 3:20 | 2022-04-15 | 2023-10-21 |
 | [Take You With Me](https://open.spotify.com/track/6WvRWVYp6F3QodAGKtOEeV) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2hWnXvL1PjyRncrKRYaKRC) | 3:28 | 2023-06-21 | 2023-10-21 |
 | [Take You With Me](https://open.spotify.com/track/7GsjgNjd62uAKktoQrqyud) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2grVEoGEw92ONy96YK5bsr) | 3:28 | 2022-04-15 | 2023-07-23 |
@@ -138,6 +138,7 @@
 | [The BeeeeeOOP Walk](https://open.spotify.com/track/0FEeadvRW7DD4s7RvfPuFs) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [The BeeeeeOOP Walk](https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie) | 2:18 | 2023-02-24 |  |
 | [The Bicycle Song](https://open.spotify.com/track/7q0vOWQvZBSAZbOEAJYfE4) | [The Swinging Belles](https://open.spotify.com/artist/01eojLsVBj3CRaLmUXCfDM) | [The Bicycle Song \(from the Welcome to the Flea Circus EP\)](https://open.spotify.com/album/4u1FQyRQUWvcDTgsH63JzR) | 2:07 | 2023-06-21 |  |
 | [The Coolest Person](https://open.spotify.com/track/2m7NtrQMIghZEUgsRVwjQV) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 3:14 | 2022-04-15 | 2023-10-21 |
+| [The Floor is Slime](https://open.spotify.com/track/6ShV9H9dz8HAYClYvIQ5NT) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Floor is Slime](https://open.spotify.com/album/5x0vVJuN7OLnSpzn0lHsE4) | 2:39 | 2023-11-10 |  |
 | [The Loud Mouse Song](https://open.spotify.com/track/5WZJikNC4n12C5iQ11hn7X) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [The Loud Mouse Song](https://open.spotify.com/album/0s8Cx1aQq0AGYX2XTwYG1T) | 3:13 | 2022-09-27 |  |
 | [The Lucky One](https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [The Lucky One](https://open.spotify.com/album/78RH18op8dJIMu7zOch288) | 3:39 | 2023-09-22 |  |
 | [The Lucky One](https://open.spotify.com/track/48rA2haWWYLdLIlsPMck1k) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/1haZSJC7WyeclZe3Hes4UX) | 3:39 | 2022-07-25 | 2022-10-13 |
@@ -161,6 +162,7 @@
 | [We're All The Same](https://open.spotify.com/track/2QPwUxH8oRshkLOn1G9gL5) | [Snooknuk](https://open.spotify.com/artist/4Il5GSRo3EJWxiGmZfK6V6) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 3:05 | 2022-04-15 | 2023-10-21 |
 | [What Does It Cost You to Say Hi?](https://open.spotify.com/track/0GhfTv3kV0tRhRPYe0ydp5) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [You Don't Have to Smile If You Don't Want To](https://open.spotify.com/album/57eyWpnIhsUGp5cEIZuAgM) | 2:36 | 2022-04-15 | 2023-10-21 |
 | [What Goes Around](https://open.spotify.com/track/2lf81JXzjoJ9oRvBmC23OV) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [The Full Circle](https://open.spotify.com/album/60ghiOTP0JVoCg8lvnd9P3) | 2:14 | 2022-04-15 |  |
+| [Wheels on the Bus](https://open.spotify.com/track/6Sxs3ZEBNOj0elHDWo5VDD) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm), [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Wheels on the Bus](https://open.spotify.com/album/37Rl83Pas7aX8Xs8eAqFvM) | 2:20 | 2023-11-10 |  |
 | [Wild and Free](https://open.spotify.com/track/3LLrYsa09Us4UFAtVJggsy) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Wild and Free](https://open.spotify.com/album/5IMky5Cqw3PMV23se8BApI) | 3:02 | 2022-04-15 |  |
 | [You Are Magic](https://open.spotify.com/track/5c2pIV0J5Jn7NtYfxYOHN1) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/1iBE3NdOlXJA9NUaAUD685) | 3:44 | 2022-04-15 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/3XIuHsf6ct8x5trcPEgzho) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [McKnighttime Lullabies](https://open.spotify.com/album/1sh3Rg2dugulwHxl98WTC6) | 2:58 | 2023-10-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,038 likes - 77 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,415 likes - 77 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 33 | [No Heroes \(feat\. Luciana\)](https://open.spotify.com/track/3m4vB0q02q4xvBenENEkLw) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [No Heroes \(feat\. Luciana\)](https://open.spotify.com/album/0o5FMj2LepZb7fZ6CNAxe3) | 4:05 |
 | 34 | [Deep Down Low](https://open.spotify.com/track/48zgbsLhb3MirBgXt44nlH) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/1md43OqpB2SKqTmKR1q1YQ) | 3:10 |
 | 35 | [No Money](https://open.spotify.com/track/6M6Tk58pQvABy6ru66dY3d) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:11 |
-| 36 | [Booyah \- Radio Edit](https://open.spotify.com/track/2EpS5TgdngSISM63rhBsnK) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [We Are Loud](https://open.spotify.com/artist/2INDI0xc49oGYTZC7fBZjX), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Booyah](https://open.spotify.com/album/0Dix8CfvtZEHUyJGnmPnaB) | 3:35 |
-| 37 | [Recess \(with Kill The Noise, Fatman Scoop, and Michael Angelakos\)](https://open.spotify.com/track/1RJZLVGpBG9nNZiHRQSWTp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Recess](https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV) | 3:57 |
+| 36 | [Booyah \- Radio Edit](https://open.spotify.com/track/74qY57XDx0sSUbVnQ8kosS) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [We Are Loud](https://open.spotify.com/artist/2INDI0xc49oGYTZC7fBZjX), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Booyah](https://open.spotify.com/album/5ci6vrfvJcqiaMGtgatm4o) | 3:35 |
+| 37 | [Recess \(with Kill The Noise, Fatman Scoop, and Michael Angelakos\)](https://open.spotify.com/track/1RJZLVGpBG9nNZiHRQSWTp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Michael Angelakos](https://open.spotify.com/artist/6uEyZsccteU7nvDk8oiXnV) | [Recess](https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV) | 3:57 |
 | 38 | [Aferrado](https://open.spotify.com/track/4ZemwkxPJB7CSWLe4WuuU0) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Nico Parga](https://open.spotify.com/artist/1ah3rkTMCdKDGtshxvCUyo), [Emicoco](https://open.spotify.com/artist/28IjGGOO54zidNdVTmEvAK) | [Aferrado](https://open.spotify.com/album/3IcHEAMGDDh4lSvd32z8rH) | 6:52 |
 | 39 | [Seguiré Vivo](https://open.spotify.com/track/2Pcl0rkwrHDR72EEDNAvif) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Manco the Sound](https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI) | [Seguiré Vivo](https://open.spotify.com/album/5MZKFK86eeePrGps5ljMPp) | 3:59 |
 | 40 | [Multiples Efectos](https://open.spotify.com/track/2xb1NMY8ot0M3RRxeJt7nJ) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk), [Heiky Miller](https://open.spotify.com/artist/1HqbXD2RaOXc465z8gzv9b) | [Multiples Efectos](https://open.spotify.com/album/4ZvluEZl3omQuSerYC1cDD) | 3:30 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 76 | [Melody](https://open.spotify.com/track/5Qxw0150DBPE5HErLTrxgs) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Melody](https://open.spotify.com/album/3Oalgg5eo0p3U1vyR1ynYS) | 4:50 |
 | 77 | [Que Tu Me Beses](https://open.spotify.com/track/6Ovu5z78GJ4TE47vAaP7MU) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [JUAN JHAIL](https://open.spotify.com/artist/4xBrxEMkW8Jbh9XPpELUpU) | [Que Tu Me Beses](https://open.spotify.com/album/2gMHWHrMIbphy7VP2YN8w8) | 3:06 |
 
-Snapshot ID: `MCxmYWNmYTdiZDAzNTdjNzk1NTMyMGM2NDcyYjZjMDM5MzZjZWFhNWZi`
+Snapshot ID: `MCw4OGQyOTg5MGE2ZTI1NDBhZjNjNWEwNTYzODZkYzBhMjY2ODMzMTQ0`

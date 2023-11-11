@@ -4,7 +4,7 @@
 
 > Ouça as novidades da cena eletrônica\. Foto: Beltran
 
-134 songs - 7 hr 36 min
+136 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,8 +116,10 @@
 | [Still Alone \- Radio Mix](https://open.spotify.com/track/1Tdm1UZvAGhuftWElWq1SX) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Airsand](https://open.spotify.com/artist/4rlSlj2XnxKA05eZ7sLWSC), [TuraniQa](https://open.spotify.com/artist/7kXkMWoPg5UfAc4LQmfI9V) | [Still Alone](https://open.spotify.com/album/6yuKeb3lMCXGSqnDfRIU86) | 3:16 | 2023-09-01 |  |
 | [Supermodel](https://open.spotify.com/track/4xwTi99Mgyecsb4MbujBQc) | [Slow Sense](https://open.spotify.com/artist/03wQGBVieetF4FUmhKHRpK) | [Supermodel](https://open.spotify.com/album/5YygfYum5iE1KeXOqvSQg5) | 2:38 | 2023-07-21 | 2023-09-16 |
 | [SUPRA](https://open.spotify.com/track/0scxHDtdgt3k0mQkQW86lE) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [Supra](https://open.spotify.com/album/28ERZnx6OhIDz3YZT2dGHF) | 2:43 | 2023-10-20 |  |
+| [Só Vem](https://open.spotify.com/track/64YGPLcahYphHK9rvjFRUq) | [R3ckzet](https://open.spotify.com/artist/4Y5Bxlvf5SQO3xtfbt5vrS), [Grace Grey](https://open.spotify.com/artist/4dKpgzFHqM2zSCW6COFAx2) | [Só Vem](https://open.spotify.com/album/4iH0TS0TCDOqsf3RL6BzlB) | 3:02 | 2023-11-10 |  |
 | [Take \- Radio Edit](https://open.spotify.com/track/3p3di0xn3SIvOSxoI3wNVf) | [Phael](https://open.spotify.com/artist/1zWOPmDwXSO50211NJHi0g), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Take](https://open.spotify.com/album/4t1IuRk9pZRPXKRvJsqRUP) | 2:30 | 2023-08-11 |  |
 | [Take It](https://open.spotify.com/track/3E6pRr10U7gMno9Ryz6HFC) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Take It](https://open.spotify.com/album/5pZy8jhvkq18dX4LoEHuem) | 3:33 | 2023-07-21 | 2023-09-23 |
+| [Take Me Higher](https://open.spotify.com/track/46llJyW3ZoNwOHmP5rF7u9) | [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Take Me Higher](https://open.spotify.com/album/7guWqurSqbQVpihJxOScAC) | 2:48 | 2023-11-10 |  |
 | [Tasty](https://open.spotify.com/track/1T0qmEAMLiRkei11Xouph3) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1), [INGEK](https://open.spotify.com/artist/2gk1ww8aKvkheN0f6WJ0G2) | [Tasty](https://open.spotify.com/album/3GfSnsAJoEar9vU5DcKbxa) | 2:20 | 2023-09-29 |  |
 | [Tears](https://open.spotify.com/track/4J8euWtEZJmDRuFAjzAMI5) | [Lonelysoul.](https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Tears](https://open.spotify.com/album/3bjsXm28P3JAb3rvqYa684) | 2:24 | 2023-07-21 | 2023-08-26 |
 | [The Rhythm](https://open.spotify.com/track/4XkzbINV9TTT4aVKRl3BI8) | [JOMAQ](https://open.spotify.com/artist/6jcjRT0Ake2QswM8OFTWNO), [Milton Shadow](https://open.spotify.com/artist/6nHOzkptRNRmloGB6juwsd) | [The Rhythm](https://open.spotify.com/album/6osKmZY07zNN5kUORyEI7y) | 3:20 | 2023-08-18 |  |

@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-474 songs - 1 day 9 hr 10 min
+475 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Meat Mincer 2.0](https://open.spotify.com/track/7muOLjahWJwNPwcFT9spXg) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [HIZUMI](https://open.spotify.com/album/5sQTUfTQO3Jmepzw0mA8u7) | 3:48 | 2022-04-29 |  |
 | [Megaton Kaiser](https://open.spotify.com/track/4psqHaVZS9hIhOCNIs8A4I) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Megaton Kaiser](https://open.spotify.com/album/4iqd0xBbzufGOAynX3wRBt) | 3:18 | 2022-10-07 |  |
 | [Megaton Karma](https://open.spotify.com/track/4Q0WlkmTHszxxlV8xSgRW3) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Megaton Karma](https://open.spotify.com/album/4x7j3QBrCkCq7fI4LqlMug) | 3:26 | 2021-10-01 |  |
+| [Megaton Keeper](https://open.spotify.com/track/1CtgRicif5nWA8PtHYpong) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Megaton Keeper](https://open.spotify.com/album/69EtcHr0ZoozvpmLhsRD4c) | 3:04 | 2023-11-10 |  |
 | [MEGATON KICK](https://open.spotify.com/track/0jLcvKU2TauPpTKiOgG8pf) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [SPEED BALL SUPER](https://open.spotify.com/album/1KUAAT1I2OgKPKOMh2sb4N) | 4:13 | 2019-02-03 |  |
 | [Megaton Killer](https://open.spotify.com/track/0otdEPE3MQ98gu1fZa97wc) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Megaton Killer](https://open.spotify.com/album/6PUgVvPYvLssrUCSBT6DJy) | 3:29 | 2020-09-04 |  |
 | [Megaton Killer](https://open.spotify.com/track/6WtDQ3kDNVbJrEmRbFCG16) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [MEGATON KICK 2](https://open.spotify.com/album/46TuWgh4sLLat0ldTyIHlG) | 3:29 | 2021-01-12 |  |

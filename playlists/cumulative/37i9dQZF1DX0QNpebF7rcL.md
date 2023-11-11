@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-329 songs - 22 hr 6 min
+331 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,9 +59,10 @@
 | [Daughter Of Zion \[Feat\. Joe Walsh\]](https://open.spotify.com/track/27S3ILmMMln0kQjmxLghjA) | [Glenn Schwartz](https://open.spotify.com/artist/5LZLhHjT5eCyy2kMaFPSqc), [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Daughter Of Zion \[Feat\. Joe Walsh\]](https://open.spotify.com/album/73hDokQXIjjMe6AqzG5PuI) | 4:36 | 2023-06-16 |  |
 | [Dear America](https://open.spotify.com/track/167JkxvuUN2yW8uMZp2zwE) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Dear America](https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ) | 3:47 | 2021-09-10 | 2023-02-11 |
 | [Dear America](https://open.spotify.com/track/6DYaFGcyQyX87He1OxZeOg) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Dear America](https://open.spotify.com/album/0IwmHFrTRo5Em6d72VNbs3) | 3:47 | 2021-09-10 | 2022-07-29 |
+| [Dear Mr\. Fantasy](https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa) | [Dave Mason](https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dear Mr\. Fantasy](https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai) | 4:34 | 2023-11-10 |  |
 | [Death Don't Have No Mercy](https://open.spotify.com/track/1npPaN1uAdOSGnPnOcgQ82) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Death Don't Have No Mercy](https://open.spotify.com/album/7CPRD2SlzBhChwXEUZSmg5) | 6:18 | 2022-04-08 | 2022-04-29 |
 | [Didn’t We Have a Time](https://open.spotify.com/track/5Lz6UnJghksQvUAz54yBv9) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Didn’t We Have a Time](https://open.spotify.com/album/2pI0kBzadx6e9hYFBisRKL) | 6:04 | 2021-12-24 | 2022-01-15 |
-| [Dirty Grease](https://open.spotify.com/track/1Nd89XqdXUj1zv9meZbPYR) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Doug Bossi](https://open.spotify.com/artist/6I8Aan08YoXLddBSwCbCI4) | [Dirty Grease](https://open.spotify.com/album/2uJDg09aX2m6hZznK6KTyd) | 6:16 | 2022-10-07 |  |
+| [Dirty Grease](https://open.spotify.com/track/1Nd89XqdXUj1zv9meZbPYR) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Doug Bossi](https://open.spotify.com/artist/6I8Aan08YoXLddBSwCbCI4) | [Dirty Grease](https://open.spotify.com/album/2uJDg09aX2m6hZznK6KTyd) | 6:16 | 2022-10-07 | 2023-11-11 |
 | [Don't Get Me Started](https://open.spotify.com/track/6iji2KRmhPBorFa54KBLBa) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [LaVette!](https://open.spotify.com/album/4He1qQkf7kFRGD6n3Mwb11) | 5:11 | 2023-06-16 |  |
 | [Don't Know Where She Went](https://open.spotify.com/track/04854r1cdTenXuu3dR2yDv) | [The Nighthawks](https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60) | [Don't Know Where She Went](https://open.spotify.com/album/3Ey01PYiP2lgKibsEEAuuK) | 3:15 | 2023-01-20 | 2023-04-30 |
 | [Don't Know Where She Went](https://open.spotify.com/track/1dmre6TvgmPmX6lsdjhCZa) | [The Nighthawks](https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60) | [Don't Know Where She Went](https://open.spotify.com/album/2wfAj194FscSXx1LjJLiwh) | 3:15 | 2023-01-20 |  |
@@ -104,6 +105,7 @@
 | [Healing Time](https://open.spotify.com/track/1TnboUz1hVeZvqubDBQcHM) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/0mIUChNWteeV1bIrROMlsH) | 4:35 | 2022-04-29 | 2023-05-01 |
 | [Healing Time](https://open.spotify.com/track/7rbR9lSAPRhAtXeQ7ovhzz) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/5n4rd614E0RVAuZNCtojLW) | 4:35 | 2022-04-29 |  |
 | [Heartache by the Pound](https://open.spotify.com/track/2SSuZ7fCreC6czcTtu2wfu) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Heartache by the Pound](https://open.spotify.com/album/29Zs8tvzNxlKHIHjqHAW1N) | 3:09 | 2022-07-15 |  |
+| [Heartbreaker](https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Heartbreaker](https://open.spotify.com/album/516Bv1lX91UTFGLIdpKYYt) | 3:50 | 2023-11-10 |  |
 | [Hello, it's the Blues](https://open.spotify.com/track/4l4ds95dBXqtgkRw05FHes) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Hello, it's the Blues](https://open.spotify.com/album/63AimE0DtK9RSDDm8ylU2H) | 6:46 | 2022-12-02 | 2023-01-14 |
 | [Help Me](https://open.spotify.com/track/2tKvPt023QVMNkkNqmTDap) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Help Me](https://open.spotify.com/album/5fQEUm0GyrU0TDezWAR2sL) | 3:30 | 2023-10-06 |  |
 | [Here I'm Is](https://open.spotify.com/track/45DxmdLBAjYelavuazYJhg) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Here I'm Is](https://open.spotify.com/album/2FwkQp2elO2xN3MOs2XJL9) | 2:27 | 2022-03-18 |  |
@@ -220,7 +222,7 @@
 | [Retro Mofo](https://open.spotify.com/track/0sMkyYpcC6iK45huSrLBDS) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Retro Mofo](https://open.spotify.com/album/2roKb6eMy2lrlcWrYh26oi) | 3:34 | 2021-10-01 | 2022-05-28 |
 | [Ride](https://open.spotify.com/track/3XZy0i9dxqoecuRa6zUv5C) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/0SeZT8cV0i9mhHFD0rjVla) | 4:56 | 2022-05-27 | 2022-06-25 |
 | [Riding Out The Storm](https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Riding Out The Storm](https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC) | 4:38 | 2022-02-25 | 2023-08-26 |
-| [Right Down The Drain](https://open.spotify.com/track/7uFtKBQLQFwkuS6BxzW1lQ) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 4:59 | 2022-01-21 |  |
+| [Right Down The Drain](https://open.spotify.com/track/7uFtKBQLQFwkuS6BxzW1lQ) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 4:59 | 2022-01-21 | 2023-11-11 |
 | [Righteous Loving](https://open.spotify.com/track/2NKWAmzIFidQ7rYkS78Yv9) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Heart and Soul](https://open.spotify.com/album/0t9Y8U95Pt5ATKeHlnuVPa) | 3:37 | 2022-03-18 | 2023-09-30 |
 | [Rise](https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Rise](https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5) | 2:52 | 2023-06-16 | 2023-09-09 |
 | [Risin' Up](https://open.spotify.com/track/3SwzJIkMEbLjAK97hEaaLV) | [Jimmy Hall](https://open.spotify.com/artist/2LorJQEiLTxNDsJ3jVrQNi) | [Ready Now](https://open.spotify.com/album/6kpBj0DkFrvabc4ffDjm3U) | 5:02 | 2022-09-16 |  |

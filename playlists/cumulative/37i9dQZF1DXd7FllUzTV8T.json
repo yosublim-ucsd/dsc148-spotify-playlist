@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "the first time I saw you - vinyl",
+        "url": "https://open.spotify.com/album/3HsM2vOcknZpChNQNhHFBj"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "the first time I saw you - vinyl",
+      "url": "https://open.spotify.com/track/449AWJd3vIhEiKRpLQ6KHg"
+    },
+    {
+      "album": {
         "name": "The Masquerade is Over",
         "url": "https://open.spotify.com/album/203twYDlbyx4VnwOPxm0cJ"
       },

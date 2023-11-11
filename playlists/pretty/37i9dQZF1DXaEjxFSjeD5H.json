@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 16928,
+  "num_followers": 16951,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTg1N2UwODMxNDE3Yzc0OWRmNDAyNjVkZjg5OGRkN2U4YTIxN2M3",
+  "snapshot_id": "MCwwODY0YmRmOTkyZjI0NzMxY2RhZWNhZTI4YmU1MmZmYWMxNTU2ZmIy",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danz\u00f3n Inmortal",
-        "url": "https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK"
+        "name": "Photograph",
+        "url": "https://open.spotify.com/album/0U3vkKfqKfL2qwIeIDuhAu"
       },
       "artists": [
         {
-          "name": "Alex Lora Serna",
-          "url": "https://open.spotify.com/artist/7G80zio9xkTiB15XdToqNX"
+          "name": "Acerina Danzones Clasicos",
+          "url": "https://open.spotify.com/artist/2LoK59Px8zPQ22MdDbvZ6m"
         }
       ],
-      "duration_ms": 320806,
-      "name": "Danz\u00f3n de Lora",
-      "url": "https://open.spotify.com/track/6JRLkLO9e5DSq5dAWJv0It"
+      "duration_ms": 115919,
+      "name": "Ju\u00e1rez No Debio Morir",
+      "url": "https://open.spotify.com/track/1vGFJE6X3Gcm0JSlofUqM6"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -675,38 +675,34 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Photograph",
-        "url": "https://open.spotify.com/album/0U3vkKfqKfL2qwIeIDuhAu"
+        "name": "Danz\u00f3n Inmortal",
+        "url": "https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK"
       },
       "artists": [
         {
-          "name": "Acerina Danzones Clasicos",
-          "url": "https://open.spotify.com/artist/2LoK59Px8zPQ22MdDbvZ6m"
+          "name": "Alex Lora Serna",
+          "url": "https://open.spotify.com/artist/7G80zio9xkTiB15XdToqNX"
         }
       ],
-      "duration_ms": 115919,
-      "name": "Ju\u00e1rez No Debio Morir",
-      "url": "https://open.spotify.com/track/1vGFJE6X3Gcm0JSlofUqM6"
+      "duration_ms": 320806,
+      "name": "Danz\u00f3n de Lora",
+      "url": "https://open.spotify.com/track/6JRLkLO9e5DSq5dAWJv0It"
     },
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Sones y Tradiciones (feat. Cachao)",
-        "url": "https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte"
+        "name": "Danzon Cubano, Vol. I",
+        "url": "https://open.spotify.com/album/5DRDkmsYbw7aQ9P4CWfOCa"
       },
       "artists": [
         {
-          "name": "Enrique Chia",
-          "url": "https://open.spotify.com/artist/3EQoDMzsInptAXiIs8sVt9"
-        },
-        {
-          "name": "Cachao",
-          "url": "https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ"
+          "name": "Mariano Merceron",
+          "url": "https://open.spotify.com/artist/7vgusS7tDPWgOQsZsfuBx0"
         }
       ],
-      "duration_ms": 251866,
-      "name": "Isora Club (Danzon)",
-      "url": "https://open.spotify.com/track/1NaLxDm29Sw7ecSYVt29Ii"
+      "duration_ms": 206837,
+      "name": "Mi Amigo Pancho",
+      "url": "https://open.spotify.com/track/40KxEG2XjtDbXnDwwmS1dc"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -727,18 +723,22 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danzon Cubano, Vol. I",
-        "url": "https://open.spotify.com/album/5DRDkmsYbw7aQ9P4CWfOCa"
+        "name": "Sones y Tradiciones (feat. Cachao)",
+        "url": "https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte"
       },
       "artists": [
         {
-          "name": "Mariano Merceron",
-          "url": "https://open.spotify.com/artist/7vgusS7tDPWgOQsZsfuBx0"
+          "name": "Enrique Chia",
+          "url": "https://open.spotify.com/artist/3EQoDMzsInptAXiIs8sVt9"
+        },
+        {
+          "name": "Cachao",
+          "url": "https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ"
         }
       ],
-      "duration_ms": 206837,
-      "name": "Mi Amigo Pancho",
-      "url": "https://open.spotify.com/track/40KxEG2XjtDbXnDwwmS1dc"
+      "duration_ms": 251866,
+      "name": "Isora Club (Danzon)",
+      "url": "https://open.spotify.com/track/1NaLxDm29Sw7ecSYVt29Ii"
     },
     {
       "added_at": "2022-08-02 23:28:22",

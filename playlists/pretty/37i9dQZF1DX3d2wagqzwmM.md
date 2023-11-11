@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Hardwell & Afrojack
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,811 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,998 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 75 | [BANG!](https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [BANG!](https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa) | 2:48 |
 | 76 | [Lose It](https://open.spotify.com/track/0fWJG4fB5xWnpA7FWF6PXd) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT) | [Lose It](https://open.spotify.com/album/1WaJKd3G4P2d6KQch1PyYj) | 2:43 |
 | 77 | [Alone](https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Alone](https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj) | 4:11 |
-| 78 | [Go Stupid](https://open.spotify.com/track/34vzBrkuAZ0rLnNQyvwHXa) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v) | [Go Stupid](https://open.spotify.com/album/0OWesUsZENcbp2rabvV9aD) | 2:50 |
-| 79 | [Never Be Alone](https://open.spotify.com/track/3ewziyfcz9bPtaqISZs67N) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Never Be Alone](https://open.spotify.com/album/3K8MJLnd39gLaoFCZZwVxx) | 2:56 |
-| 80 | [Flight 303](https://open.spotify.com/track/3VSwrup744za8NcJwdlbbL) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU) | [Tranceformation](https://open.spotify.com/album/20n8FSFvvV8YiaYB5huDTL) | 2:34 |
+| 78 | [Never Be Alone](https://open.spotify.com/track/3ewziyfcz9bPtaqISZs67N) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Never Be Alone](https://open.spotify.com/album/3K8MJLnd39gLaoFCZZwVxx) | 2:56 |
+| 79 | [Go Stupid](https://open.spotify.com/track/34vzBrkuAZ0rLnNQyvwHXa) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v) | [Go Stupid](https://open.spotify.com/album/0OWesUsZENcbp2rabvV9aD) | 2:50 |
+| 80 | [TARAKA \- Tiësto Remix](https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TARAKA \(Tiësto Remix\)](https://open.spotify.com/album/6busnvOpzGXyFGe7hJXMa3) | 4:24 |
 
-Snapshot ID: `MCwyMDAxMGQ3ZDAwZTMzM2IxZDYxYjc0NTU5MDQ5MDFjZWVhMTAyNGRm`
+Snapshot ID: `MCw5MGM2ZDc2ZGZhNTM1YThkMTM3OGVkNDM4MDgyMjk4ZDU3MmQ0NmZl`

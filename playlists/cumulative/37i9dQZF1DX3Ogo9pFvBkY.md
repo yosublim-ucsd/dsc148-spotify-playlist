@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-770 songs - 1 day 16 hr 23 min
+771 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [I feel it I know it](https://open.spotify.com/track/7q61dvdXaJ2sWipMrh4wiE) | [Glow Crow](https://open.spotify.com/artist/45xdRyFmyb8ssAPlO9IEkI) | [I feel it I know it](https://open.spotify.com/album/7bWxPucoQiYYbNiVUvogNk) | 3:22 | 2023-05-05 |  |
 | [I Know You're Here](https://open.spotify.com/track/15IzXs0Oln8qBHIJUYLSzM) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Presence](https://open.spotify.com/album/6IgFlUlufatumAUT9b9w3l) | 3:25 | 2019-05-26\* | 2020-07-11 |
 | [I Will Carry You](https://open.spotify.com/track/03atDG2j0uoUFIanUel5Ae) | [Ruth Mountain](https://open.spotify.com/artist/7erlZkwZDiF5P7f1gXPxxD) | [I Will Carry You](https://open.spotify.com/album/4KTtx77JVSG8TAmLv47Mte) | 3:15 | 2021-02-18 |  |
+| [Idée](https://open.spotify.com/track/0VsWtArpieoC1eRy4erTxJ) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Idée Fixe](https://open.spotify.com/album/42QPe3m7ZgNlTcS3ORyqJF) | 2:32 | 2023-11-10 |  |
 | [Illusionist](https://open.spotify.com/track/6wnhGsrGb5UlbPLebsCb25) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Peaceful Atmospheres for Sleep and Rest Vol 1](https://open.spotify.com/album/7Gig1E35PHUzCtBrjJJ6xy) | 2:55 | 2022-06-16 |  |
 | [imagination](https://open.spotify.com/track/4aruMMVCx74sNI9zgHG6uO) | [Otto Wiles](https://open.spotify.com/artist/4IfqNEioStUXzicPPH5Qra) | [imagination](https://open.spotify.com/album/1RnVA30NCF6pO2uLFsexgm) | 3:08 | 2019-12-07 | 2020-05-18 |
 | [Imgur](https://open.spotify.com/track/5Jxym542I1NBxCm6N2i2uo) | [Pola Ris](https://open.spotify.com/artist/16VXoSl3epjUhXIASoa0qO) | [Sleep](https://open.spotify.com/album/4lqKYa3IPsOnUF2f8U3Q1n) | 3:49 | 2019-05-26\* | 2020-01-03 |
@@ -537,7 +538,7 @@
 | [Quadrants](https://open.spotify.com/track/0Q3G0y7cRXoje2e5EFDliS) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Forest Findings](https://open.spotify.com/album/4U6Hovsc1nKIbRr1Qr5fBI) | 3:11 | 2019-05-26\* | 2023-03-04 |
 | [Quantum](https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 2:55 | 2019-07-27 | 2023-05-03 |
 | [Quest of Kind](https://open.spotify.com/track/334YKbZcvAR5Yk6FaG9t5d) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Dust of Titans](https://open.spotify.com/album/7fDorasrsBWNPYc0aH33wv) | 2:45 | 2023-03-24 |  |
-| [Quiet Awareness](https://open.spotify.com/track/395VlKRtLopomEXtjYSDsz) | [Yonah Stana](https://open.spotify.com/artist/6xA4srnsCK7Br48BUr9dOZ) | [Quiet Awareness](https://open.spotify.com/album/181nSoFp5KA9GKmAikQD18) | 3:01 | 2021-09-04 |  |
+| [Quiet Awareness](https://open.spotify.com/track/395VlKRtLopomEXtjYSDsz) | [Yonah Stana](https://open.spotify.com/artist/6xA4srnsCK7Br48BUr9dOZ) | [Quiet Awareness](https://open.spotify.com/album/181nSoFp5KA9GKmAikQD18) | 3:01 | 2021-09-04 | 2023-11-11 |
 | [Quietud](https://open.spotify.com/track/5V5TF6nM3jYyvJENU2P8RK) | [Holographic Seawaves](https://open.spotify.com/artist/0DHRqGYLG6AaLUfbi8mUY1) | [Dusk Thoughts](https://open.spotify.com/album/2UY6uIUDMOrnqGrrSjbg7j) | 2:59 | 2020-08-08 | 2023-05-03 |
 | [Rachael Or Pris](https://open.spotify.com/track/52tvffLe50EKvIznL67HnT) | [Threading Hair](https://open.spotify.com/artist/7KIgyuskfqOG0gHsnnHPPA) | [Rachael Or Pris](https://open.spotify.com/album/37lTxs02FjGCDpbEdGCte7) | 3:44 | 2020-07-11 | 2023-01-28 |
 | [Reach For the Sky](https://open.spotify.com/track/4EqojQWIyMaAiPsvuhs0Vm) | [Gates of Heaven](https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j) | [Reach For the Sky](https://open.spotify.com/album/0pznFEVemb1rcqCwTrizvs) | 3:56 | 2020-12-24 | 2021-07-23 |

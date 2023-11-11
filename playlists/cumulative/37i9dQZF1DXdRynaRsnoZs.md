@@ -4,7 +4,7 @@
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-93 songs - 3 hr 39 min
+98 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [](https://open.spotify.com/track/5RH7e8dotrJNLdfbDgXkxG) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0pCLie2ziptu5IJwLPJzhI) | 0:00 | 2021-12-22 | 2022-09-20 |
 | [](https://open.spotify.com/track/6jnVe0mrlljgBx7il7YtUJ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 0:00 | 2021-12-22 | 2022-09-20 |
 | [](https://open.spotify.com/track/7ubJ40WEvyuzjmiFsH6RQa) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7CrpddnQnNkNBQEAJ0ci6a) | 0:00 | 2021-12-22 | 2022-09-20 |
+| [A Child Is Born](https://open.spotify.com/track/08Ro6cXojRdwIpXWgSLcHg) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [A Child Is Born](https://open.spotify.com/album/6dM8j77Mp1zqgv7IqwTWkH) | 1:39 | 2023-10-27 |  |
 | [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/12m082qt1zlO0KybXIVgnu) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Christmas Time Is Here](https://open.spotify.com/album/6atF2Hn5oYHVxTQe0toTTf) | 1:19 | 2022-09-22 |  |
 | [Amazing Grace](https://open.spotify.com/track/1vvJlfnj5pfqpI5S8Yrq3e) | [Edwin Othello Excell](https://open.spotify.com/artist/5mOhoiRh7zP0udscnBUyGz), [Bae Bee](https://open.spotify.com/artist/1OYYgvoQMVHpU1HgW0ZduV) | [Little Star](https://open.spotify.com/album/46hkWWf7jd6FyDZwCwRPXm) | 2:47 | 2022-12-16 |  |
 | [Angels From The Realms Of Glory](https://open.spotify.com/track/3PTDBKq7S99lqgvFPDlnJZ) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime In The Garden](https://open.spotify.com/album/2NdrbO9WGOrDfY9boMUt6N) | 3:46 | 2021-12-22 | 2022-07-29 |
@@ -25,8 +26,10 @@
 | [Away in a Manger](https://open.spotify.com/track/4oBbsBouyrXW33ZbGiPnlH) | [The Masked Guitarist](https://open.spotify.com/artist/60JboBXHFYFoJk6e1TrtZT) | [Away in a Manger](https://open.spotify.com/album/02EzVlaMiFQspWECiEBYLd) | 1:47 | 2021-12-22 |  |
 | [Away in a Manger](https://open.spotify.com/track/6EPQBJzVPciZVmXpQntlXa) | [The Masked Guitarist](https://open.spotify.com/artist/60JboBXHFYFoJk6e1TrtZT) | [Away in a Manger](https://open.spotify.com/album/6vrDuE2NlFHXYpLf3kV4zy) | 1:47 | 2021-12-22 | 2022-07-29 |
 | [Be Thou My Vision Lullaby](https://open.spotify.com/track/3P96LOcJuE4Aqzetsqnou2) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Calming Christmas Flow](https://open.spotify.com/album/3aXKEnziDwXCVJqbx97Jj9) | 1:06 | 2022-12-23 |  |
+| [Caroling, caroling](https://open.spotify.com/track/06zCr3KozocS9gzSAxmQwY) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [Deck the hall](https://open.spotify.com/album/3IhZrMCx2OHwEqydGWTol4) | 2:26 | 2023-10-27 |  |
 | [Christ Child's Lullaby \(Instrumental Version\)](https://open.spotify.com/track/4mIDI8cbAsw2sVD4oG3vCl) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 3:14 | 2021-12-22 |  |
 | [Christmas Peace](https://open.spotify.com/track/5Jxv7KoYizZe91nA4PpaDY) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [The Joy of Christmas](https://open.spotify.com/album/6wIKUnFppzUPdkXF4AvWiD) | 2:54 | 2021-12-22 |  |
+| [Christmas Traditions](https://open.spotify.com/track/4iyxrcCCOGaG3VYp2lMc04) | [Lue Miles](https://open.spotify.com/artist/2cxel74Dv32TWXq5q9sqAU) | [Christmas Traditions](https://open.spotify.com/album/4WoFoO86STGkrZmx7VtZpc) | 2:11 | 2023-10-27 |  |
 | [Deck The Halls](https://open.spotify.com/track/4E4q1ISp6Q416ozStCAZoK) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Do You Want to Build A Snowman?](https://open.spotify.com/album/6vaGiLu1MD3JcsZmkQXp6Q) | 1:50 | 2022-10-14 |  |
 | [Deck The Halls](https://open.spotify.com/track/4Ryb9cUEenvCPcL5V66x9Z) | [Karen Joyce](https://open.spotify.com/artist/7yb60ZMXVj2XWFhMH8Yuxd) | [Christmas Harp For Babies](https://open.spotify.com/album/3kL1zKzvQYnnZbClSPZCoy) | 1:05 | 2022-09-22 | 2022-10-15 |
 | [Ding Dong Merrily On High](https://open.spotify.com/track/0NZWjFE931lEjsNAjutr1G) | [Anna Murakami](https://open.spotify.com/artist/2kEfDMbRORDJWTJQhAxbws) | [Holiday Harp\-Magic](https://open.spotify.com/album/5FxJ2QVKORkTtKVzA87Lt0) | 1:18 | 2022-09-22 | 2022-10-15 |
@@ -50,6 +53,7 @@
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3L5EJDtpqmkS01BskuanyU) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [Gentle Christmas Mood](https://open.spotify.com/album/0FtpBaMRchX5x7ojhr7sMt) | 2:12 | 2023-10-06 |  |
 | [Here Comes Santa Claus](https://open.spotify.com/track/4kw3uPY15M4yWHhScit9KR) | [Pietra Costa](https://open.spotify.com/artist/1LZGtjpaZT9G6VQstFr4MX) | [Navidad](https://open.spotify.com/album/6T1G9hiP19tScSIIeDqQT3) | 2:49 | 2021-12-22 |  |
 | [I Believe In Santa Claus](https://open.spotify.com/track/6Vm4eMLPr43DFlZ6stXEKc) | [Gold Axe](https://open.spotify.com/artist/3Vhv6wtaE2hyhQllaBBdd2) | [I Believe In Santa Claus](https://open.spotify.com/album/1ueh7lgp8KLCiBoA3ICEkH) | 2:02 | 2022-10-14 |  |
+| [I Do Believe In Christmas](https://open.spotify.com/track/4OSBtwVW5JAEt95XAafEYa) | [Lily Lullaby](https://open.spotify.com/artist/59q70buEf9vwjspG2sNLET) | [I Do Believe In Christmas](https://open.spotify.com/album/01p9D0KVlFWzGUY8580KdY) | 2:04 | 2023-10-27 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/4lywk6avy47Pfa0z6z65wR) | [Vlad Kotsky](https://open.spotify.com/artist/4dXJTtjTNvhUGdt2j7CU2M) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/2eaychKI038gk5D6zdYHCO) | 1:44 | 2022-10-14 |  |
 | [I Saw Three Ships](https://open.spotify.com/track/6yJoCZIFEUx0UFhVmE2QDm) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime \- Peace On Earth](https://open.spotify.com/album/5cVsi9sRldx6HLChLxTZcz) | 3:27 | 2021-12-22 | 2022-12-17 |
 | [I Saw Three Ships](https://open.spotify.com/track/7jB8pSChFzxNfGOIhHGNho) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime \- Peace On Earth](https://open.spotify.com/album/26xeKrPelJVKuspC13ySh9) | 3:27 | 2021-12-22 | 2022-07-29 |
@@ -75,6 +79,7 @@
 | [O Tannenbaum](https://open.spotify.com/track/7h63D3GIj99OkdMILmrCZf) | [Attila Fias](https://open.spotify.com/artist/3V1CgXZe3cFkJ9VDSeFKkl) | [Christmas Spa](https://open.spotify.com/album/6i7aQrxUd1jpAR6Ni95uib) | 5:05 | 2021-12-22 |  |
 | [One Day in December](https://open.spotify.com/track/6pT4DiBoFLZvI0QPXis1UY) | [Amala Dalton](https://open.spotify.com/artist/1r7NEL763CcvXXJ1OXw5FJ) | [One Day in December](https://open.spotify.com/album/72WA1OcHFJG0qhJEwhsxFl) | 1:26 | 2022-11-23 |  |
 | [Petit Papa Noël](https://open.spotify.com/track/6OwstAX8yxSqc3itLP03hF) | [Brandon Mills](https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z) | [Petit Papa Noël](https://open.spotify.com/album/7HiT8CeoS3mij30fdTMxX1) | 2:33 | 2022-10-14 |  |
+| [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/2BoZggvVcb2crngoyJKIYK) | [Loona Björk](https://open.spotify.com/artist/2k0OWZxkmZYagyvm0lP2Jz) | [Christmas Songs Peaceful Harp](https://open.spotify.com/album/04atZZp9uct3Golu1zeEcP) | 1:53 | 2023-10-27 |  |
 | [Silent Night](https://open.spotify.com/track/3sPnX1oNBvVfxf8NzhsZQf) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [You Are My Sunshine \- Harp Classics](https://open.spotify.com/album/5a8OWw2hbEJofxPO4YFwBE) | 3:24 | 2021-12-22 |  |
 | [Silent Night](https://open.spotify.com/track/4VhASbTfw1zBh7kzMFtFAC) | [Liam Simon](https://open.spotify.com/artist/2z660oi3KO1WylKrZlxi6y) | [A Joyful Christmas](https://open.spotify.com/album/4TWNCHyFgjy0lDT17EH9wm) | 2:28 | 2021-12-22 | 2022-10-15 |
 | [Silent Night](https://open.spotify.com/track/4JV9zSuayX7Ee7sE5N4g0C) | [Tetra String Quartet](https://open.spotify.com/artist/2BbGMsh39jP6OWlY9JQDv7) | [Tetra String Quartet Christmas](https://open.spotify.com/album/27c7vgqaJ2SQgO41lZacXK) | 3:20 | 2021-12-22 | 2022-10-15 |

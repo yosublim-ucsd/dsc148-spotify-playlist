@@ -4,7 +4,7 @@
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. Alaskan Tapes on cover.
 
-1,080 songs - 3 day 13 hr 57 min
+1,081 songs - 3 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -903,6 +903,7 @@
 | [The Fifty](https://open.spotify.com/track/07VqE9HRlrZeWj72Ka4FKA) | [Cameron Morse](https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl) | [The Truth Is](https://open.spotify.com/album/6df4g0WHHjokEWvS7LJCp8) | 6:42 | 2022-09-02 | 2023-02-02 |
 | [The Fifty](https://open.spotify.com/track/3Q2xvo5lP4pTq2bar4acux) | [Cameron Morse](https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl) | [The Truth Is](https://open.spotify.com/album/1HCFSICghZJmtEOLOdduqI) | 6:42 | 2023-01-27 | 2023-06-02 |
 | [The First Falling Snowflakes Of A Winter Long Gone](https://open.spotify.com/track/5wEdD7Wrj2Zm0z2eUg9vsF) | [Rosentwig](https://open.spotify.com/artist/3RvDvs8u3A7qVJjkG6NoPb) | [The First Falling Snowflakes Of A Winter Long Gone](https://open.spotify.com/album/03zbuNtQm2kP6lGQd7zwzz) | 2:44 | 2021-12-24 | 2022-07-29 |
+| [The Ghosts we keep Inside Ourselves](https://open.spotify.com/track/0zafu3xeKBBa1aUo9vOGOV) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/16KuLbOpCugBOQ4DHchWgt) | 3:50 | 2023-10-13 |  |
 | [The Ghosts we keep Inside Ourselves](https://open.spotify.com/track/6yiPwfADSoJQ0k5to30gIi) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 3:50 | 2022-05-18 | 2023-03-04 |
 | [The House That Agnes Built](https://open.spotify.com/track/2VxEI4KcbKYU3kKbzaRwod) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [Image Langage](https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy) | 2:56 | 2023-03-03 | 2023-03-18 |
 | [The Human Stain](https://open.spotify.com/track/39B37SpfEgVAf7DFi00hiR) | [Saigon Would Be Seoul](https://open.spotify.com/artist/4lMrzSojvtk5cdiTpYx0E7) | [The Human Stain](https://open.spotify.com/album/0jvhboVmVN5qtmha8yIAEx) | 2:17 | 2021-12-24 | 2022-01-29 |
@@ -1027,7 +1028,7 @@
 | [Wales, Land of Wonder](https://open.spotify.com/track/02FyLVYdZeToFCZj4TJ7HL) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Brian And Charles \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4uCcxyNHo5l9YQc0nmtLn3) | 3:35 | 2022-11-30 | 2023-01-01 |
 | [Wales, Land Of Wonder](https://open.spotify.com/track/2fPh3DRuLGid8TzqVFtsd5) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Wales, Land of Wonder](https://open.spotify.com/album/6F9w5f3YpWI1FV6XDEntYz) | 3:35 | 2022-06-17 | 2022-08-26 |
 | [Wall of Sleep](https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 4:47 | 2022-11-11 | 2022-12-01 |
-| [Warm](https://open.spotify.com/track/1oA7O8vf7psdrFcXTbUMbT) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Warm](https://open.spotify.com/album/3GWc3v2tqB5uSiJBpB0HNq) | 2:18 | 2023-08-18 |  |
+| [Warm](https://open.spotify.com/track/1oA7O8vf7psdrFcXTbUMbT) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Warm](https://open.spotify.com/album/3GWc3v2tqB5uSiJBpB0HNq) | 2:18 | 2023-08-18 | 2023-11-11 |
 | [Warped Vectors](https://open.spotify.com/track/7yF66wMI4LHRZd1jE4f33N) | [Krell](https://open.spotify.com/artist/0D6r7KnJpwcCFIbxUGJLkX) | [Warped Vectors](https://open.spotify.com/album/1WfOdgb06RaCEIeYoVFEfj) | 4:26 | 2022-01-21 | 2022-03-10 |
 | [Washed Out](https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Empire of Light \(Original Score\)](https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D) | 1:47 | 2022-12-31 |  |
 | [watching the stars](https://open.spotify.com/track/321PCApeQiLLrf03k83cCb) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [watching the stars](https://open.spotify.com/album/3bfpLvhbLmO5tekoSz2rWo) | 1:39 | 2022-08-12 | 2023-01-17 |

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,542 songs - 4 day 10 hr 11 min
+1,543 songs - 4 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -670,6 +670,7 @@
 | [Ignis](https://open.spotify.com/track/6BT4H5z2UCDvyTxl2WfsQA) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Ignis](https://open.spotify.com/album/5Mg89X2COGYzqoI58UrffS) | 3:31 | 2020-05-18 | 2020-07-18 |
 | [II Primo](https://open.spotify.com/track/6x4kMT4VqCS5iVnwOMA2Ie) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [II Primo](https://open.spotify.com/album/5aVZ5K8ZBpDPvAImglrbIm) | 3:39 | 2022-06-17 | 2022-07-29 |
 | [Ikebana](https://open.spotify.com/track/4cYMt6WiUFShfZ6M1A9LPi) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Ikebana](https://open.spotify.com/album/5MpyMD5U1XdIqwQbeAEzwq) | 2:49 | 2020-10-24 | 2022-12-16 |
+| [Illusions](https://open.spotify.com/track/3O8mYey47FBULcCK9pkXon) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Illusions](https://open.spotify.com/album/5HGX6eQ7du1wpxHBekpWwc) | 3:56 | 2023-11-10 |  |
 | [ilomilo](https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:36 | 2020-02-29\* | 2020-03-16 |
 | [Immortal Lover \- Edit](https://open.spotify.com/track/1TEVjDoU8nHSkBsYGJxeEV) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Alison May](https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60) | [Immortal Lover](https://open.spotify.com/album/4IoEExov5PIlZZXD78fjkV) | 4:28 | 2020-05-18 | 2022-04-21 |
 | [In Bloom](https://open.spotify.com/track/4e4sTRiHGEj7LgFhXn0quG) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [In Bloom](https://open.spotify.com/album/4vLvJf1lvLmvJ8mXFG9jV6) | 3:48 | 2021-01-08 | 2021-03-10 |
@@ -721,7 +722,7 @@
 | [Just You](https://open.spotify.com/track/6oelvxzxe95XeQxBLWaeOH) | [Puppet](https://open.spotify.com/artist/0QaiCsyOUjBgLqsbABu07O), [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Fear Is Fleeting \- EP](https://open.spotify.com/album/47rxFzJT0VpMaygmZc6lBv) | 3:08 | 2020-05-18 | 2020-07-03 |
 | [Kaleidoscope](https://open.spotify.com/track/54lEP2AiBdnVrqh49PoUqN) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Sea Monster](https://open.spotify.com/album/13N9WZkBPSuQYXKKkSN9Ud) | 3:46 | 2020-08-06 | 2020-10-09 |
 | [Kaleidoscope Colours](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL) | [Kaleidoscope Colours](https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9) | 4:15 | 2022-10-24 | 2023-04-29 |
-| [Kaleidoscope Colours \- Fejká Remix](https://open.spotify.com/track/5rWRtUt00uxitABP3ZYDC4) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Kaleidoscope Colours \(Fejká Remix\)](https://open.spotify.com/album/1xdRo1G11xXRjIzGjLQCTu) | 5:22 | 2023-10-20 |  |
+| [Kaleidoscope Colours \- Fejká Remix](https://open.spotify.com/track/5rWRtUt00uxitABP3ZYDC4) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Kaleidoscope Colours \(Fejká Remix\)](https://open.spotify.com/album/1xdRo1G11xXRjIzGjLQCTu) | 5:22 | 2023-10-20 | 2023-11-11 |
 | [Kami](https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Kami EP](https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ) | 5:15 | 2022-07-08 | 2022-08-22 |
 | [Karabali](https://open.spotify.com/track/1hSjdeo8nyWJZO5nBO7rVC) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/4BpBqfC0qi6MaB3l96QBo4) | 7:05 | 2020-05-22 | 2020-10-09 |
 | [Kasoto \(feat\. Jo Jo Mendy\)](https://open.spotify.com/track/5Utktu0IFcGXXtIlky7ObZ) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax), [Jo Jo Mendy](https://open.spotify.com/artist/23GwAF5aZwBDyis1Hnh6mg) | [Into Daylight](https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l) | 4:30 | 2020-08-20 | 2020-10-09 |

@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-499 songs - 1 day 8 hr 24 min
+500 songs - 1 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Gutless](https://open.spotify.com/track/4NxyQN1Jc59dNeGsqYfmEo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Sanctum](https://open.spotify.com/album/0RyQZ62ByBc3nAIOTJqqFE) | 1:57 | 2022-03-11 | 2023-08-03 |
 | [Gypsy Disco](https://open.spotify.com/track/3md0vbPVjAthmi7NgQYvcR) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Gypsy Disco](https://open.spotify.com/album/6XlxptF7rFq2zqEX9aFhgg) | 2:01 | 2021-12-17 |  |
 | [Hangman](https://open.spotify.com/track/3ERQKYFcOKIu3VDzCMm7DY) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Hangman](https://open.spotify.com/album/4qBDLiXoLpGSWJmMvOO98l) | 2:56 | 2022-05-13 | 2023-11-04 |
+| [Hangman](https://open.spotify.com/track/6jTLLKecAg7QMJxtUt4b0z) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Dedication To Flesh](https://open.spotify.com/album/5g8OeROCewoYawxiNCmFXU) | 2:56 | 2023-08-16 |  |
 | [Hate Circuit](https://open.spotify.com/track/1Lgzq8H9gDsesfv4yAMCn7) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL) | [Hate Circuit](https://open.spotify.com/album/4OsVDHkWGn0zJrosvqLdJ3) | 4:55 | 2021-12-17 | 2022-07-27 |
 | [Headcase](https://open.spotify.com/track/3wgW1TMsVWnf0Yyq2ZhCS8) | [23/19](https://open.spotify.com/artist/5LsTa1mx2J31IK5IEQSEga), [Jack Bergin](https://open.spotify.com/artist/3sUfFSAsORpvq5wXq6X9La) | [Two More Reasons to Hate Us](https://open.spotify.com/album/5fEaABOtkxCAmMWUhLMUAW) | 3:35 | 2022-01-07 | 2022-04-09 |
 | [Heir to the Serpent](https://open.spotify.com/track/2kBVTplPtDRx0sqXWtTYOh) | [The Guild](https://open.spotify.com/artist/5BVgUzoX3ui5r5bBWMNGLX) | [Heir to the Serpent](https://open.spotify.com/album/1KkGP91FL5N5zxc9Jb8Fpd) | 4:23 | 2021-12-17 | 2022-07-29 |
@@ -428,7 +429,7 @@
 | [The Butcher](https://open.spotify.com/track/3WCGIWQbdYCj5bdFai2Ybs) | [Sever the King](https://open.spotify.com/artist/7glvEG8KLnlUQVDEo8v4rs) | [The Butcher](https://open.spotify.com/album/70OOddXUV5T3yefa1yW1wn) | 5:07 | 2021-12-17 | 2022-04-06 |
 | [The Cycle Of Violence : Chapter 1](https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [The Cycle Of Violence: Chapter 1](https://open.spotify.com/album/54Dzy1tTjwERCoPDRZm3zR) | 2:38 | 2022-05-06 |  |
 | [The Dancer](https://open.spotify.com/track/2tLrbpHb53B7W0emqz1ukL) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [The Dancer](https://open.spotify.com/album/7uoaxWYLmec17U1qIbQkol) | 4:02 | 2022-02-11 | 2022-07-24 |
-| [The Empress](https://open.spotify.com/track/4lLWQ8QqCnkLK7RtJ69q6b) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [The Empress](https://open.spotify.com/album/0aDF2jUuIoRCiQC1A7YnZ0) | 3:56 | 2021-12-17 |  |
+| [The Empress](https://open.spotify.com/track/4lLWQ8QqCnkLK7RtJ69q6b) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [The Empress](https://open.spotify.com/album/0aDF2jUuIoRCiQC1A7YnZ0) | 3:56 | 2021-12-17 | 2023-11-11 |
 | [The End Of Us](https://open.spotify.com/track/0Ul9OzpPL3sdJPd02W7mni) | [Resist The Thought](https://open.spotify.com/artist/48RlvjoKZtNIcimFZ6BDbL) | [The End Of Us](https://open.spotify.com/album/7cPGjcKZTpD9dpoDgDb8eO) | 3:06 | 2021-12-31 | 2022-07-24 |
 | [The Failsafe Fallacy](https://open.spotify.com/track/7i0yLsdCMj0GbkqlpVKAhS) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Luciferous](https://open.spotify.com/album/1TKgsk77shaDKEi2SmgK9R) | 4:45 | 2022-07-08 | 2023-08-03 |
 | [The Failsafe Fallacy](https://open.spotify.com/track/7vJtcOCXf4g2FoGTcIQMdJ) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Luciferous](https://open.spotify.com/album/6tBRG2SO2SNDL1UdMp6A5P) | 4:45 | 2021-12-17 | 2022-07-29 |

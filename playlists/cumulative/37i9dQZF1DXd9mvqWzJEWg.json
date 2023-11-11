@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv?si=f8IjbysGTN-pc91y58fjJw\">Dee Traits</a>",
+  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/1yGg3EWGfbhHJJ7WcIpR0Q?si=S67L-gTrRSGWwiGYA6XpQA\">Ms. Cosmo</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 396640,
       "name": "Dirty Scooter",
       "url": "https://open.spotify.com/track/4al36LCHp4eEYc5op7O76p"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 247500,
       "name": "King of the Jungle (Broken Shandis)",
       "url": "https://open.spotify.com/track/54oNEsirfYyaJvbUZuTwoT"
@@ -2128,6 +2128,28 @@
       "duration_ms": 245736,
       "name": "P.A.B (People Are Burning) (feat. Madanon)",
       "url": "https://open.spotify.com/track/7DkDpIkiYOVBDidQWVhaG9"
+    },
+    {
+      "album": {
+        "name": "Phendula (feat. Coocky)",
+        "url": "https://open.spotify.com/album/11eD8dhAJmpMGxqtSnATjA"
+      },
+      "artists": [
+        {
+          "name": "Pro-Tee",
+          "url": "https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc"
+        },
+        {
+          "name": "Coocky",
+          "url": "https://open.spotify.com/artist/1sjYQfSF2jcZ6yTrQKOSRi"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243920,
+      "name": "Phendula (feat. Coocky)",
+      "url": "https://open.spotify.com/track/2VE0RnVXQmCPdoFG10FhdN"
     },
     {
       "album": {
@@ -3126,7 +3148,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 340180,
       "name": "Uskhothenii 2.0",
       "url": "https://open.spotify.com/track/6IJBMTSzttVD3fAfiK7oC5"
@@ -3346,6 +3368,40 @@
       "duration_ms": 406804,
       "name": "World We Live In",
       "url": "https://open.spotify.com/track/5Aie9qiaZBJuPDMiqTk56S"
+    },
+    {
+      "album": {
+        "name": "Woza La (feat. Blxckie, Kamo Mphela, RudeBoyz & Nobantu Vilakazi)",
+        "url": "https://open.spotify.com/album/29UuT78DwwWJz315Z6fZbJ"
+      },
+      "artists": [
+        {
+          "name": "Ms. Cosmo",
+          "url": "https://open.spotify.com/artist/1yGg3EWGfbhHJJ7WcIpR0Q"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Kamo Mphela",
+          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
+        },
+        {
+          "name": "Nobantu Vilakazi",
+          "url": "https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q"
+        },
+        {
+          "name": "Rudeboyz",
+          "url": "https://open.spotify.com/artist/3De9bGnGSaxAu4sJz4Y9Wk"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270967,
+      "name": "Woza La (feat. Blxckie, Kamo Mphela, RudeBoyz & Nobantu Vilakazi)",
+      "url": "https://open.spotify.com/track/1ego5wrsNU09mpADmXw809"
     },
     {
       "album": {

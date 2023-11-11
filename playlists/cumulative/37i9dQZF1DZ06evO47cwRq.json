@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Already Over",
+        "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160640,
+      "name": "Already Over",
+      "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
+    },
+    {
+      "album": {
         "name": "One More Light",
         "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
       },
@@ -115,7 +133,7 @@
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 166373,
+      "duration_ms": 164426,
       "name": "Bleed It Out",
       "url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"
     },
@@ -665,7 +683,7 @@
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 221720,
+      "duration_ms": 221693,
       "name": "No More Sorrow",
       "url": "https://open.spotify.com/track/4CWhc9FaMMfBTt4ANjfbOf"
     },
@@ -740,7 +758,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 205733,
       "name": "Numb / Encore",
       "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
@@ -889,7 +907,7 @@
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 290360,
+      "duration_ms": 289906,
       "name": "Shadow of the Day",
       "url": "https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1"
     },
@@ -1015,7 +1033,7 @@
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 205613,
+      "duration_ms": 205226,
       "name": "What I've Done",
       "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
     }

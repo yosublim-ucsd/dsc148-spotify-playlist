@@ -4,7 +4,7 @@
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:4bOqkIGQCcuZgjfDxNuX1I">Anycia</a>
 
-970 songs - 1 day 18 hr 15 min
+971 songs - 1 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -757,7 +757,8 @@
 | [security](https://open.spotify.com/track/0hXRHx7JViumEZnIuryaPa) | [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [security](https://open.spotify.com/album/0ONEpfgK4TAtaG8p808DCh) | 1:51 | 2021-12-01 | 2022-01-14 |
 | [Set It Up](https://open.spotify.com/track/1k9bp6yzlRTOwqB4JB7RFF) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Set It Up](https://open.spotify.com/album/1e3u8uTl5quNGWVIbpD9aF) | 3:37 | 2022-03-23 | 2022-04-14 |
 | [Set It Up](https://open.spotify.com/track/2FlXN6JgSJhzUMXyD8cd6I) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Turtle Crossing](https://open.spotify.com/album/1IjVN39eXQyaxgG6wVJYQA) | 3:37 | 2022-11-30 | 2023-01-12 |
-| [Set The Tone](https://open.spotify.com/track/6ymnmbGOS5yi8EcwGS97HC) | [The Real Meladee](https://open.spotify.com/artist/5QgAjPJ1resFH43bMepkZT) | [Set The Tone](https://open.spotify.com/album/4nkBdox5tbf2DtxEHJl9S4) | 2:54 | 2023-09-20 |  |
+| [Set The Tone](https://open.spotify.com/track/4tgz3gJDuJEFsxySqaGkxI) | [The Real Meladee](https://open.spotify.com/artist/5QgAjPJ1resFH43bMepkZT) | [Set The Tone](https://open.spotify.com/album/6azejJSa9k44nrbERWng88) | 2:54 | 2023-11-08 |  |
+| [Set The Tone](https://open.spotify.com/track/6ymnmbGOS5yi8EcwGS97HC) | [The Real Meladee](https://open.spotify.com/artist/5QgAjPJ1resFH43bMepkZT) | [Set The Tone](https://open.spotify.com/album/4nkBdox5tbf2DtxEHJl9S4) | 2:54 | 2023-09-20 | 2023-11-11 |
 | [Sex For Breakfast](https://open.spotify.com/track/6FdwRsOEOYBDPwdMyCK1LF) | [Asoh Black!](https://open.spotify.com/artist/50KItow1zdTmMTAVX3FKIg) | [Sex For Breakfast](https://open.spotify.com/album/5VDKGBeuR8JL94hmeAX91D) | 1:32 | 2023-05-17 | 2023-08-03 |
 | [Shadow Boxin](https://open.spotify.com/track/0y685aaD3r80F1UYjFbaPT) | [FOUR50](https://open.spotify.com/artist/3Kz2TSK4ffPyMVkx7liR3q) | [MILLIONAIRE MARNI](https://open.spotify.com/album/7ua9bNjDe5oBsxqLoy3ZMQ) | 2:12 | 2023-08-30 |  |
 | [Shake \(Valliefunk\)](https://open.spotify.com/track/0MMSrpdhpa2m6LKfgw92Ua) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Shake \(Valliefunk\)](https://open.spotify.com/album/3emrFFrO5EFBdqiytF45Id) | 2:43 | 2022-04-06 | 2022-06-01 |

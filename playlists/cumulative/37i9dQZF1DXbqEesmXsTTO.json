@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-12",
-  "description": "\ub2e4\uc591\ud55c \uc7a5\ub974\uc640 \uc545\uae30\uac00 \ub354\ud574\uc9c4 \ud4e8\uc804 \uad6d\uc545 \uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \uc2e0\uc720\uc9c4(Shin Yujin)) (Enjoy fusion Korean national music with various genres and instruments added!)",
+  "description": "\ub2e4\uc591\ud55c \uc7a5\ub974\uc640 \uc545\uae30\uac00 \ub354\ud574\uc9c4 \ud4e8\uc804 \uad6d\uc545 \uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \uc774\ud76c\ubb38&\ud5c8\uc1a1\uc138\uc6d4&\ub188\ub188(OBSG)) (Enjoy fusion Korean national music with various genres and instruments added!)",
   "name": "\ud4e8\uc804 \uad6d\uc545 (Fusion Korean National)",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 207200,
       "name": "Arirang for you",
       "url": "https://open.spotify.com/track/02Li3zuBHmYvTU3snTt48H"
+    },
+    {
+      "album": {
+        "name": "Asurajang",
+        "url": "https://open.spotify.com/album/3y6pOcL1sFC4K75FwWtp3j"
+      },
+      "artists": [
+        {
+          "name": "Song Sohee",
+          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190398,
+      "name": "Asurajang",
+      "url": "https://open.spotify.com/track/7f1A2jVHZBNYQrTyfLaSDY"
     },
     {
       "album": {
@@ -1052,6 +1070,32 @@
       "duration_ms": 249881,
       "name": "\uc2ec\uccad\ub0a0\ub2e4",
       "url": "https://open.spotify.com/track/4lH5VY45CWptXStnNFrFDK"
+    },
+    {
+      "album": {
+        "name": "SPANGLE",
+        "url": "https://open.spotify.com/album/4tFh4AulVEB4FCpgCWAi49"
+      },
+      "artists": [
+        {
+          "name": "Lee Heemoon",
+          "url": "https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G"
+        },
+        {
+          "name": "Heosongsewol",
+          "url": "https://open.spotify.com/artist/6THaQMhKlpKKIZbisvmnvS"
+        },
+        {
+          "name": "NomNom",
+          "url": "https://open.spotify.com/artist/4dCsxtrM5JyN1LxNNIXIAc"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278431,
+      "name": "\uc5b4\ud5c8\uad6c\uc790",
+      "url": "https://open.spotify.com/track/3faAGLkzNpp5ID9MWbuyXY"
     },
     {
       "album": {

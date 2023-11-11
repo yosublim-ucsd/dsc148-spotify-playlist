@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV?si=oqjOEndqQBSN126wMc9uig">Shane Eagle</a>
 
-638 songs - 1 day 10 hr 45 min
+639 songs - 1 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Another](https://open.spotify.com/track/0SB82LlvRKEbwHOcnYA7lu) | [Indigo Stella](https://open.spotify.com/artist/3GXgxaSpm0hNom0dS4414e) | [Another](https://open.spotify.com/album/5h7aw8RblmpD2YgQJeWWo1) | 2:44 | 2023-07-07 | 2023-09-09 |
 | [APOLLO 69](https://open.spotify.com/track/56bYW2Q4JijsMDSaWDid7F) | [Brands.Shaw](https://open.spotify.com/artist/1xDLbwz3A2O9EaxRCDQDjR) | [APOLLO 69](https://open.spotify.com/album/5xsTsufYinHwSDCXxWvATo) | 3:24 | 2022-01-27 | 2022-02-18 |
 | [APPLYING THE PRESSURE](https://open.spotify.com/track/74LtfvCSKRFe7xBI5WgFCw) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [APPLYING THE PRESSURE](https://open.spotify.com/album/2jjAVNkYlu08YF050fKIG3) | 1:52 | 2022-10-14 | 2022-12-13 |
+| [ARE YOU ALRiGHT?](https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [ARE YOU ALRiGHT?](https://open.spotify.com/album/6hICsM6NMQHck05IjUGsWZ) | 4:40 | 2023-11-10 |  |
 | [Armed & Dangerous](https://open.spotify.com/track/43QDhwENRJQIEFkJxemO62) | [J Molley](https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T) | [Almost Dead](https://open.spotify.com/album/0XjaY3caFmKPf2JG1vKK6T) | 3:06 | 2022-03-10 | 2022-03-18 |
 | [As We Lay](https://open.spotify.com/track/0yTKggaVlnD8DPmcg8AfXT) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [As We Lay](https://open.spotify.com/album/0t7EPNFlWch3ADqkSNUQXw) | 3:41 | 2022-02-03 | 2022-02-11 |
 | [ASBONGE](https://open.spotify.com/track/5kjb86Dq1QvPLVHR5PRHto) | [Megshizzy](https://open.spotify.com/artist/2RlvT9UC0U92n19NeiCJRL), [BULA BULL](https://open.spotify.com/artist/6kKLGZl1lKCCxaYoVgi5Jd), [MAO'H](https://open.spotify.com/artist/1gKiHfn6NEmALbkuzQ7O10) | [ASBONGE](https://open.spotify.com/album/43rilzzWFXOZkBCpNV5Dbv) | 3:38 | 2023-09-22 |  |
@@ -478,7 +479,7 @@
 | [Shark Week](https://open.spotify.com/track/0cvrPxMQBct2vsx1hBnr7n) | [Kay Faith](https://open.spotify.com/artist/2r237Ri8bYnH945KJNCdAm), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Antithesis](https://open.spotify.com/album/5MgFuoNL6eV1jLiNOAA8iN) | 3:54 | 2022-07-21 | 2022-09-10 |
 | [Sheleni](https://open.spotify.com/track/5unHwPs6DwF8rQ1SsazWxs) | [H2O](https://open.spotify.com/artist/3HzZZ331FYGzg4OVS8mgXN) | [Sheleni](https://open.spotify.com/album/6cabRdQHa5FBZwfY1KQZRM) | 3:53 | 2023-01-30 | 2023-02-02 |
 | [Shine](https://open.spotify.com/track/5WgiKqflsGLMmer3fYuoEv) | [TSA](https://open.spotify.com/artist/1cdNOdTk0arWa6psF0uopT) | [Shine](https://open.spotify.com/album/6syDmeiWP84KKFvpZ18red) | 2:50 | 2022-02-17 | 2022-03-25 |
-| [SHiRU'S iNTERLUDE](https://open.spotify.com/track/2Fvx7f8fCXxUXS6PiOGivY) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [SHiRU'S iNTERLUDE](https://open.spotify.com/album/2SUW9vWQqnhDFUO5kxkhU3) | 2:15 | 2023-11-09 |  |
+| [SHiRU'S iNTERLUDE](https://open.spotify.com/track/2Fvx7f8fCXxUXS6PiOGivY) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [SHiRU'S iNTERLUDE](https://open.spotify.com/album/2SUW9vWQqnhDFUO5kxkhU3) | 2:15 | 2023-11-09 | 2023-11-11 |
 | [Shiselwa](https://open.spotify.com/track/0zyYN9NjBcS5hAXkMVon8Y) | [Stino Le Thwenny](https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m) | [Shiselwa](https://open.spotify.com/album/5ihWXC8zIBCMPY9RcIIvsX) | 3:03 | 2023-05-26 | 2023-06-19 |
 | [Shisha](https://open.spotify.com/track/1pARdNL0rnflCKtrTtCmD0) | [Makwa](https://open.spotify.com/artist/6aXzYhXfiqzlcdyFBxfw59) | [Makwande](https://open.spotify.com/album/1fhkQiZG5wCFYGW10mCvG1) | 2:37 | 2023-10-13 |  |
 | [Shoda Ngami \- Remix](https://open.spotify.com/track/2W0F1H8Ef34utPdWIzdIsw) | [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY) | [Shoda Ngami \(Remix\)](https://open.spotify.com/album/4Tco5EhdTIAamseoex3Gw3) | 3:33 | 2022-12-12 | 2023-06-30 |

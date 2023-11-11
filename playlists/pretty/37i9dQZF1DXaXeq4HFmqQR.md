@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. Foto: Ambar Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,902 likes - 30 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,903 likes - 30 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 7 | [No Verán](https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [No Verán](https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK) | 3:25 |
 | 8 | [1999](https://open.spotify.com/track/0HBuytvVquWcI2j7Rhz8SS) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [1999](https://open.spotify.com/album/5kvOK1CHAKbfPOkYhAowFu) | 2:56 |
 | 9 | [Libre](https://open.spotify.com/track/23JFpbZWSuql31WH1AFwS1) | [Mikaela](https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew) | [Libre](https://open.spotify.com/album/0CVi1AciE0RlO8LqrP1J8a) | 3:47 |
-| 10 | [Estoy de Paso](https://open.spotify.com/track/1BWOun5WXM2KoKAXB9sDyP) | [Sadika](https://open.spotify.com/artist/1A9IMolQsjvQpR5FrmimHn), [Geoenezetao](https://open.spotify.com/artist/7el2kfMBIvZQmwoE0K7oqK) | [Estoy de Paso](https://open.spotify.com/album/3z6uSFdyLskALr1p6vDozV) | 2:48 |
-| 11 | [La Flecha](https://open.spotify.com/track/4OmQRrXd9DeTgRWg0OsQnY) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [La Flecha](https://open.spotify.com/album/7zqfo1L690gO9IwdmhDuQU) | 3:31 |
-| 12 | [Decreté](https://open.spotify.com/track/6BuEjDpOcyPmUSMswkIA1r) | [Aly Mayely](https://open.spotify.com/artist/643AKLEv7jYJG7o14pwBaP) | [Decreté](https://open.spotify.com/album/5MQ8LSIJowwR2ocwtLm47T) | 3:17 |
-| 13 | [Nunca se hace tarde](https://open.spotify.com/track/1gRTwgqWmetQQOheMLc4u5) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb), [22RUZZ](https://open.spotify.com/artist/53IGsPIDPEJbw5PbHdGgaO) | [Nunca se hace tarde](https://open.spotify.com/album/72V2LemTV8kAcYgPnY1e4T) | 3:41 |
+| 10 | [La Flecha](https://open.spotify.com/track/4OmQRrXd9DeTgRWg0OsQnY) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [La Flecha](https://open.spotify.com/album/7zqfo1L690gO9IwdmhDuQU) | 3:31 |
+| 11 | [Estoy de Paso](https://open.spotify.com/track/1BWOun5WXM2KoKAXB9sDyP) | [Sadika](https://open.spotify.com/artist/1A9IMolQsjvQpR5FrmimHn), [Geoenezetao](https://open.spotify.com/artist/7el2kfMBIvZQmwoE0K7oqK) | [Estoy de Paso](https://open.spotify.com/album/3z6uSFdyLskALr1p6vDozV) | 2:48 |
+| 12 | [Nunca se hace tarde](https://open.spotify.com/track/1gRTwgqWmetQQOheMLc4u5) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb), [22RUZZ](https://open.spotify.com/artist/53IGsPIDPEJbw5PbHdGgaO) | [Nunca se hace tarde](https://open.spotify.com/album/72V2LemTV8kAcYgPnY1e4T) | 3:41 |
+| 13 | [Decreté](https://open.spotify.com/track/6BuEjDpOcyPmUSMswkIA1r) | [Aly Mayely](https://open.spotify.com/artist/643AKLEv7jYJG7o14pwBaP) | [Decreté](https://open.spotify.com/album/5MQ8LSIJowwR2ocwtLm47T) | 3:17 |
 | 14 | [Molly](https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Molly](https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK) | 2:56 |
 | 15 | [Amor y Sacrificio](https://open.spotify.com/track/7uDcaHlbZMWLiqedY9wk2c) | [Sativanderground](https://open.spotify.com/artist/5Gk7kZkr62Q4rPz6swYJse), [Freelee Hernandez](https://open.spotify.com/artist/6XFK3ZrjCO2JqA70jaPrjR), [Zita Zoe](https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk) | [Amor y Sacrificio](https://open.spotify.com/album/5FV3QcywQQ7M8hSpnsq53h) | 2:56 |
-| 16 | [Seres Libres](https://open.spotify.com/track/3rnuK41IR6XHQRh2l4Ru9A) | [Gloria Allel](https://open.spotify.com/artist/0Kb00NhjS9AcABuMeUdCyX) | [Aiel](https://open.spotify.com/album/0icOUbtkQwSnIy8q3MMqY5) | 2:13 |
-| 17 | [Madre Santa](https://open.spotify.com/track/0X7sHKrJQzOUpnYXCM7vv8) | [Sarazul](https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0) | [Madre Santa](https://open.spotify.com/album/6quvoCZrrQZ5UMOI8a708G) | 3:28 |
+| 16 | [Madre Santa](https://open.spotify.com/track/0X7sHKrJQzOUpnYXCM7vv8) | [Sarazul](https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0) | [Madre Santa](https://open.spotify.com/album/6quvoCZrrQZ5UMOI8a708G) | 3:28 |
+| 17 | [Seres Libres](https://open.spotify.com/track/3rnuK41IR6XHQRh2l4Ru9A) | [Gloria Allel](https://open.spotify.com/artist/0Kb00NhjS9AcABuMeUdCyX) | [Aiel](https://open.spotify.com/album/0icOUbtkQwSnIy8q3MMqY5) | 2:13 |
 | 18 | [bfly](https://open.spotify.com/track/0STumFIQjbAGvDILpjOmFL) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:41 |
 | 19 | [CÁLLENSE](https://open.spotify.com/track/6BazBla5m49evarfU6L92l) | [Señorita Chu](https://open.spotify.com/artist/66HozQ44x8qKTB7irTL2NJ), [La Peluquera](https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr) | [CÁLLENSE](https://open.spotify.com/album/4YwUgqConCsg73VfRwaRwm) | 3:52 |
 | 20 | [En el Mar](https://open.spotify.com/track/0FJQe95Z0xX4ItGN7cscB7) | [AlmenDra DelPilar](https://open.spotify.com/artist/3Hw6f6nZQytsgW29Hy3gG4), [Piel Canela](https://open.spotify.com/artist/0e5SVFdm66Goq3LfJt64Ex) | [En el Mar](https://open.spotify.com/album/3MltROQcdQb7GkBRjUbecP) | 2:54 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 29 | [Contrabando](https://open.spotify.com/track/728lajhL7SHX5kytHyANdU) | [Vunbeats](https://open.spotify.com/artist/0NBSz8jDx66uHWBr3jnB9v), [Lamisty](https://open.spotify.com/artist/3hopHPeDSyx6VwRGsYLbsK) | [Contrabando](https://open.spotify.com/album/6Y5AmjPH3HSTkjxbdwvKut) | 2:56 |
 | 30 | [Lucha](https://open.spotify.com/track/7aebFEUEPcQWTrvrXX1pP5) | [AKACATS](https://open.spotify.com/artist/5SaHvzTtCZQHeRjbUsJq1X), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Cupido](https://open.spotify.com/album/0TEdJd353hOnypz4ewVMQt) | 3:26 |
 
-Snapshot ID: `MCxmMDMyMzAxOTg3YmY4YmUzZGNjMDVmNzZhMTQ2YTdiZjU5YjkzMjQw`
+Snapshot ID: `MCxmZWIxYTVjMjAzOTdiODA2M2UzMzNkZmExMzJhODdhNzYxYWI1NmY1`

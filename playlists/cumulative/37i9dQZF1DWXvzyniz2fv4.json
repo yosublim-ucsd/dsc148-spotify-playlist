@@ -3271,6 +3271,24 @@
     },
     {
       "album": {
+        "name": "734",
+        "url": "https://open.spotify.com/album/2P6mi8tsokPdCozUzsGMUF"
+      },
+      "artists": [
+        {
+          "name": "Mc Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191600,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/0JbnM6rnFObzTrwKl7BPMb"
+    },
+    {
+      "album": {
         "name": "Tipo Ac\u00fastico 01 - Partida",
         "url": "https://open.spotify.com/album/31Z6CWZNUy80Vv2a44JL20"
       },
@@ -3520,7 +3538,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 149168,
       "name": "Vida Que Pedi a Deus",
       "url": "https://open.spotify.com/track/0L9FmabEOyVAng0ozLIFqW"

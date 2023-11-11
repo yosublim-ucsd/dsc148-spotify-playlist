@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 287316,
       "name": "Burn the Witch",
       "url": "https://open.spotify.com/track/5knAIdfCrDg5NCf3s4JpWT"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 245550,
       "name": "Cycle of Suffering",
       "url": "https://open.spotify.com/track/33N9eYEFkNqQvFedpH82kU"
@@ -2916,6 +2916,24 @@
       "duration_ms": 487000,
       "name": "Fallen From Grace",
       "url": "https://open.spotify.com/track/1t2m0aOaRBvVPo1mUrpiiH"
+    },
+    {
+      "album": {
+        "name": "American Gothic",
+        "url": "https://open.spotify.com/album/0MBfDOMNzzjXRNtnq3UGc1"
+      },
+      "artists": [
+        {
+          "name": "Wayfarer",
+          "url": "https://open.spotify.com/artist/4HcBIH7pVbrRRwHnEqxpka"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419404,
+      "name": "False Constellation",
+      "url": "https://open.spotify.com/track/5bqGFHCAQ9ouT9R3tqwsjb"
     },
     {
       "album": {
@@ -6314,10 +6332,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 255106,
       "name": "Perpetual Deception",
       "url": "https://open.spotify.com/track/1DWHlzz7lv3v9DuKPnuYlI"
+    },
+    {
+      "album": {
+        "name": "Hymns From The Apocrypha",
+        "url": "https://open.spotify.com/album/4Byt3zV8C9V8KhKTdrvemZ"
+      },
+      "artists": [
+        {
+          "name": "Suffocation",
+          "url": "https://open.spotify.com/artist/4ItRDIouodpnW6nm4TYDk1"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255106,
+      "name": "Perpetual Deception",
+      "url": "https://open.spotify.com/track/1HKdU0kmQ6fOh0UtVOa80O"
     },
     {
       "album": {
@@ -6426,6 +6462,24 @@
       "duration_ms": 320333,
       "name": "Profetens \u00c5penbaring",
       "url": "https://open.spotify.com/track/3xVfnZDhLogW1qluw3YHgg"
+    },
+    {
+      "album": {
+        "name": "Avodah Zarah",
+        "url": "https://open.spotify.com/album/1RhTeK38PxYSfydxqnGqL8"
+      },
+      "artists": [
+        {
+          "name": "Amalekim",
+          "url": "https://open.spotify.com/artist/0dvOzHGFJDDZMaJoMoX27U"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292640,
+      "name": "Psalm VIII - Hester Panim",
+      "url": "https://open.spotify.com/track/5aVRzBC0MMIiZebaxIIkTr"
     },
     {
       "album": {
@@ -7482,6 +7536,24 @@
       "duration_ms": 372124,
       "name": "Spores of Gnosis",
       "url": "https://open.spotify.com/track/6mINTISPFFdQgHufJ4zzCu"
+    },
+    {
+      "album": {
+        "name": "Songs Of The Dusk - EP",
+        "url": "https://open.spotify.com/album/56gvAlr6FY7iXFmF3Lx2pN"
+      },
+      "artists": [
+        {
+          "name": "Insomnium",
+          "url": "https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410746,
+      "name": "Stained in Red",
+      "url": "https://open.spotify.com/track/5Ypnghtx7Ezzf5x16PDpDC"
     },
     {
       "album": {
@@ -9064,7 +9136,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 195826,
       "name": "Vile",
       "url": "https://open.spotify.com/track/3CXM2N4YtrjZ9R15bLO3Mx"

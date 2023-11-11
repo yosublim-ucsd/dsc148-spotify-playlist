@@ -302,10 +302,36 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 147272,
       "name": "Esta Tarde Vi Llover",
       "url": "https://open.spotify.com/track/4CylBNj92fpsrBDF897Amk"
+    },
+    {
+      "album": {
+        "name": "Hard to Handle",
+        "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
+      },
+      "artists": [
+        {
+          "name": "Foco De Atelier",
+          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190632,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
     },
     {
       "album": {
@@ -516,7 +542,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 263200,
       "name": "Mi chava no me comprende",
       "url": "https://open.spotify.com/track/6f9i7QVcRtypJ49wPRGmRg"
@@ -538,6 +564,24 @@
       "duration_ms": 556360,
       "name": "Millones de ni\u00f1os",
       "url": "https://open.spotify.com/track/75JIJSHFyBHV1MuRKSoxEx"
+    },
+    {
+      "album": {
+        "name": "Nezayork",
+        "url": "https://open.spotify.com/album/3L7rldwdTRAT5qydAQJXJR"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154005,
+      "name": "Nezayork",
+      "url": "https://open.spotify.com/track/1AoIZbgzOfGJ9wiBPm3UHC"
     },
     {
       "album": {
@@ -689,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Una rola para los minusv\u00e1lidos",
+        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237973,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/6Vuzr2eTcUzHzsynYacaCE"
+    },
+    {
+      "album": {
         "name": "El Tri Sinf\u00f3nico II",
         "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
       },
@@ -700,7 +762,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 283906,
       "name": "Perdedor",
       "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
@@ -852,7 +914,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 232600,
       "name": "Santa Martha",
       "url": "https://open.spotify.com/track/38w1ZH0Zoj5Ap1TDluxhLG"

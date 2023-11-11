@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-285 songs - 15 hr 6 min
+287 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Lofi Ocean Waves](https://open.spotify.com/track/24Vfojoe6FGWq32gPh6bTX) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Mijas](https://open.spotify.com/album/28JTLLbs086Y9R3LN1d3Qd) | 3:49 | 2021-12-17 |  |
 | [Lonesome By The Creek](https://open.spotify.com/track/5e3AJCNGfSqbuHiG96xLln) | [LUCCI](https://open.spotify.com/artist/7sOL3G4nJz0wDXnkOWKOEf) | [As Beautiful As You Are](https://open.spotify.com/album/4D8S8sIpWEgZX56W9Pzjvu) | 3:48 | 2021-12-17 |  |
 | [Lotus \(Meditation\)](https://open.spotify.com/track/3KwankFLnPiRwQwpm9ahiz) | [SleepTherapy](https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv) | [Lotus](https://open.spotify.com/album/06e01uHxoJ85tzTPt14SvJ) | 5:37 | 2022-12-30 |  |
+| [Luminary Creek](https://open.spotify.com/track/3aECxXZzEPZGDZXjNeVX2n) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Luminary Creek](https://open.spotify.com/album/6MXhFPCsKGlecRns53i0TP) | 2:25 | 2023-11-10 |  |
 | [Luna's Longing](https://open.spotify.com/track/70WbmXp6u9PawfFv5kXBeK) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Luna's Longing](https://open.spotify.com/album/5QxbhzC2Y8g4PZoboGyqGk) | 3:02 | 2021-12-17 |  |
 | [Magnetic Dream](https://open.spotify.com/track/3c3p7n6aV4hHIV4L01dU9c) | [Ripple Tone](https://open.spotify.com/artist/5mE7YYrMNSHnSSXv8BEqOW) | [Night Sky](https://open.spotify.com/album/7ICgkdDIk75pUuu8dK0xLq) | 4:14 | 2021-12-17 |  |
 | [Mane Fluctus](https://open.spotify.com/track/15CHR9OtnnMp4bS2qhN47G) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:40 | 2022-02-01 |  |
@@ -279,6 +280,7 @@
 | [Vila](https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Vila](https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84) | 3:20 | 2021-12-17 |  |
 | [Water Flowing](https://open.spotify.com/track/6yuUNwzKsytnqKjFU3oNrS) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [In the Ocean](https://open.spotify.com/album/74Q6lC88iLKTQb5jblUMjs) | 3:22 | 2021-12-17 | 2023-10-05 |
 | [Water Therapy \- Soundscapes and Waves](https://open.spotify.com/track/7MviasItbMuhm79ZxyMr1o) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Sleep Among Nature](https://open.spotify.com/album/5qbZjpWtLEnQzhzevay6oy) | 3:36 | 2022-10-14 |  |
+| [Waters Close By](https://open.spotify.com/track/4Y3M1zsYJF9ikAuOvxSuj5) | [Phoenix Feels](https://open.spotify.com/artist/0CazI1GhvW5pqftM3uJA3l) | [Waters Close By](https://open.spotify.com/album/2Ex5NJrq4fQiMxR4yQplwf) | 3:22 | 2023-11-10 |  |
 | [Waterside](https://open.spotify.com/track/4BFqdKbhrjZfxyBmdmk9ny) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Twilight](https://open.spotify.com/album/0jFESdBUOr58lSkkDo8lpc) | 3:30 | 2021-12-17 | 2023-01-14 |
 | [Waves](https://open.spotify.com/track/3krSmuVk00tFuJiTuNSZoO) | [IPHTA](https://open.spotify.com/artist/4VTQyY0a941xnmyoZT2GsH) | [Waves](https://open.spotify.com/album/3xjngxMowsTDMJD4WOaMLv) | 3:06 | 2021-12-17 |  |
 | [Waves Music Relax](https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Sleep Music With Ambient Nature](https://open.spotify.com/album/2NE9EajerIuNkd0iH1bRNM) | 2:28 | 2021-12-17 |  |

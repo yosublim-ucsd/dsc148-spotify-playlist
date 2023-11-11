@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "Freak Out",
+        "url": "https://open.spotify.com/album/62OsTy7hkNuFKAwFR4L7ro"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Silque",
+          "url": "https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138517,
+      "name": "Freak Out",
+      "url": "https://open.spotify.com/track/42w1i3guWLaz1VeEJUsbL0"
+    },
+    {
+      "album": {
         "name": "Furious!",
         "url": "https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49"
       },
@@ -520,7 +542,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 188322,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/1CN3Ubg7fZzASeUQlwqqPn"

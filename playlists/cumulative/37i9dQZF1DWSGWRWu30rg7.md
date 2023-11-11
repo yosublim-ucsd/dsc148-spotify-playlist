@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Tisya Liotta
 
-2,750 songs - 7 day 0 hr 56 min
+2,751 songs - 7 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1613,7 +1613,7 @@
 | [miss me if u want to](https://open.spotify.com/track/7m17CnwWQlkxdBLy42ZpIK) | [Ansaly](https://open.spotify.com/artist/77wS0mviXXjf5Mua7esdm1) | [miss me if u want to](https://open.spotify.com/album/7na76ts2dNfpZEmmpc7yxM) | 3:36 | 2022-01-27 | 2022-02-11 |
 | [MISSION](https://open.spotify.com/track/6orxznAIQt5RtZEiMLeu6L) | [Oz the Oddz](https://open.spotify.com/artist/6YeoGVnJh6nzJxeTaxEbqt) | [MISSION](https://open.spotify.com/album/18ZrbfzlkJcuH8wP9Ajlpu) | 1:56 | 2023-03-30 | 2023-04-14 |
 | [Missus Superficial \(Poison\)](https://open.spotify.com/track/6Brpw6phZrAEQVfXboOm59) | [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [Missus Superficial \(Poison\)](https://open.spotify.com/album/5p7BPTP5MZL7Avcza0GeAu) | 3:24 | 2022-03-17 | 2022-04-01 |
-| [Mitos Atau Fakta](https://open.spotify.com/track/1aF9NzQZDNLKTUAfkx6lJW) | [Sarah N' Soul](https://open.spotify.com/artist/6YcXclMCVkX6tR76mz5n4z) | [Mitos Atau Fakta](https://open.spotify.com/album/73BfsJ2DeVIYoxKVVuUztS) | 3:29 | 2023-10-27 |  |
+| [Mitos Atau Fakta?](https://open.spotify.com/track/1aF9NzQZDNLKTUAfkx6lJW) | [Sarah N' Soul](https://open.spotify.com/artist/6YcXclMCVkX6tR76mz5n4z) | [Mitos Atau Fakta?](https://open.spotify.com/album/73BfsJ2DeVIYoxKVVuUztS) | 3:29 | 2023-10-27 |  |
 | [Money Stacker](https://open.spotify.com/track/4zfXiGQDBjhgEv05GfMxWc) | [Chop Guapo](https://open.spotify.com/artist/1Hsy0Ce9ik70IPm3zhYFNT) | [Money Stacker](https://open.spotify.com/album/31LaMBKS4MKpXSkbkU0kzj) | 3:08 | 2023-07-14 | 2023-07-28 |
 | [MONEY2BIG \(SHAKIRA\)](https://open.spotify.com/track/2YxJXzAAFoeh3ZxmCmv3Jb) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj), [Yg Juju](https://open.spotify.com/artist/0WnHFsNx0BogF7G8Ah2QRG) | [MONEY2BIG \(SHAKIRA\)](https://open.spotify.com/album/1qLu9vX6G9gCh1aBlpqxCV) | 3:07 | 2022-10-06 | 2022-11-04 |
 | [Mono](https://open.spotify.com/track/3FQT3c2lJWESXyxw4u7eQw) | [Eternal Day](https://open.spotify.com/artist/3G9lyPjUBkuwIpSlVnKKTB), [Koridy](https://open.spotify.com/artist/5TTIs28NFF6FFt9DbLkqW6) | [Mono](https://open.spotify.com/album/0k9BWzoGufN0SjvqCnoFyq) | 2:20 | 2022-02-03 | 2022-02-18 |
@@ -2346,6 +2346,7 @@
 | [Surfing a Tsunami Wave](https://open.spotify.com/track/3KdTzknfMIuUAUnKoXDAKv) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG), [Zen Aji](https://open.spotify.com/artist/7FoS5czKb5PCnmOGaSzWi0) | [Surfing a Tsunami Wave](https://open.spotify.com/album/6EEC1X1hm9YWP9UVrM101Z) | 2:49 | 2023-02-09 | 2023-02-24 |
 | [Surreal](https://open.spotify.com/track/2Tb3Ao42yWMtPh9hXE17Dp) | [YAKKA](https://open.spotify.com/artist/0iwPbUudIwH1c8BZ5bupN4) | [Surreal](https://open.spotify.com/album/47dVqLu82QQahjJD9sNuuJ) | 3:37 | 2022-02-03 | 2022-02-18 |
 | [Surreal Nights](https://open.spotify.com/track/2UsmAGjH32LIr1CwFZJ967) | [Coldice](https://open.spotify.com/artist/0djh39SWFRSJFmZfg7HAvE) | [Surreal Nights](https://open.spotify.com/album/1NdfVLg5Wy9bzYcXm93cC2) | 3:45 | 2022-03-24 | 2022-04-08 |
+| [Surrealist Party](https://open.spotify.com/track/0tdui8xJgXTo0b6NW8Y7IK) | [TERUNA](https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL) | [Surrealist Party](https://open.spotify.com/album/0rHbZy22wcnkPReQpP7oRR) | 3:52 | 2023-11-09 |  |
 | [Sweet Dream](https://open.spotify.com/track/5KwbJCNyXza8t1Kx8hjAxP) | [Loonleanan](https://open.spotify.com/artist/2rjfQxqzMcgjCfYRwtMolR) | [Sweet Dream](https://open.spotify.com/album/7LkWOSn72drb9N9oVtWTZn) | 3:45 | 2022-02-24 | 2022-03-11 |
 | [Sweet Fantasy](https://open.spotify.com/track/1Ws3csaefM66UV6Utk0kMH) | [Axel Farden](https://open.spotify.com/artist/3zHN9rvZ75jIZyXircCo2e), [Tru The Artist](https://open.spotify.com/artist/5Rg7rcXHSNbzNuzZVg8DHH) | [Sweet Fantasy](https://open.spotify.com/album/4VPzLZgib7gjqNo5ultEoi) | 4:10 | 2023-08-03 | 2023-08-18 |
 | [Sweet Fireflies](https://open.spotify.com/track/0gPvZdS56I2fmydQ9DmimX) | [Azia Riza](https://open.spotify.com/artist/1KGM9rClQHr594EvCosOFQ) | [Sweet Fireflies](https://open.spotify.com/album/6CjySER3wneArL91Fbe3WI) | 3:59 | 2022-01-20 | 2022-02-04 |

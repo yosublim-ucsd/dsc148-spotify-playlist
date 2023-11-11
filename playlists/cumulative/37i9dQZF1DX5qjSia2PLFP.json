@@ -9353,6 +9353,28 @@
     },
     {
       "album": {
+        "name": "SWIM",
+        "url": "https://open.spotify.com/album/0dR74Qk75reVsH7Ti6nBGR"
+      },
+      "artists": [
+        {
+          "name": "Swxm",
+          "url": "https://open.spotify.com/artist/0wjT2AitdI5hxU13J5Clo8"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173534,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/2l7iWqmzBL8LNMll7aS7WQ"
+    },
+    {
+      "album": {
         "name": "SWIM (feat. Quavo)",
         "url": "https://open.spotify.com/album/5wA6SJ5UeFNqZZCtZoWeZ5"
       },
@@ -9368,7 +9390,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 173534,
       "name": "SWIM (feat. Quavo)",
       "url": "https://open.spotify.com/track/0oWoinOtYWk8Y5KQZBGpZT"

@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Bogha",
+        "url": "https://open.spotify.com/album/3Ltc5DM8l3p3uqps7l9AR4"
+      },
+      "artists": [
+        {
+          "name": "Immensitas",
+          "url": "https://open.spotify.com/artist/16d45BnN9e2xcS1gvar1wV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Bogha",
+      "url": "https://open.spotify.com/track/6VdWgQuECUyNtfgm8ZBCKy"
+    },
+    {
+      "album": {
         "name": "Bring You Home",
         "url": "https://open.spotify.com/album/2CWJts4Z3ZCOgTHYbNo6a1"
       },
@@ -1568,6 +1586,24 @@
       "duration_ms": 177230,
       "name": "Elm Lake",
       "url": "https://open.spotify.com/track/2OTbdztO2bxflTGGlxyEri"
+    },
+    {
+      "album": {
+        "name": "Emerge",
+        "url": "https://open.spotify.com/album/7yz5FdiA1JiWjk9MjN1gaP"
+      },
+      "artists": [
+        {
+          "name": "Ceny Noes",
+          "url": "https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168489,
+      "name": "Emerge",
+      "url": "https://open.spotify.com/track/5ksyRTzb82DVjzZbsk9jpf"
     },
     {
       "album": {
@@ -3353,6 +3389,24 @@
     },
     {
       "album": {
+        "name": "Mountain Faces",
+        "url": "https://open.spotify.com/album/2MmwSNMGtlPi2ZzwHEw6yS"
+      },
+      "artists": [
+        {
+          "name": "Lluvia Green",
+          "url": "https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179456,
+      "name": "Mountain Faces",
+      "url": "https://open.spotify.com/track/5ZDg666GrOT1dc7fkdakaP"
+    },
+    {
+      "album": {
         "name": "Courage In Her Pocket",
         "url": "https://open.spotify.com/album/3Dk9dKPZo1KaTwcXE3zXMx"
       },
@@ -4858,7 +4912,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 253207,
       "name": "Sunyata",
       "url": "https://open.spotify.com/track/5sL1zebMXrBymyK6STo7n6"

@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Kung Alam Mo Lang",
+        "url": "https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Alam Mo Ba Girl",
+      "url": "https://open.spotify.com/track/57Z7lSnhwx82laEb6rdZPB"
+    },
+    {
+      "album": {
         "name": "Aminin",
         "url": "https://open.spotify.com/album/1nxQSlG58nXJJextcAoTzy"
       },
@@ -152,7 +170,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 220253,
       "name": "AR\u00c1L",
       "url": "https://open.spotify.com/track/0b58IHPRtTbBv48sOwc6Vr"
@@ -175,9 +193,31 @@
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 196666,
+      "duration_ms": 197180,
       "name": "Atin-Atin Lang",
       "url": "https://open.spotify.com/track/77vQ9j2ZdxiAd8sFArDAEX"
+    },
+    {
+      "album": {
+        "name": "BAI NA BAI",
+        "url": "https://open.spotify.com/album/3GQhCfio9Aec4AwVTUMdjD"
+      },
+      "artists": [
+        {
+          "name": "Jae Bourgeoisie",
+          "url": "https://open.spotify.com/artist/7Mm8pIdZHREtl0HYRuD9Na"
+        },
+        {
+          "name": "Izey Bleu",
+          "url": "https://open.spotify.com/artist/1rWxNB88AktiJTvy876e8t"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155193,
+      "name": "BAI NA BAI",
+      "url": "https://open.spotify.com/track/5OvRmSitjggIYxAcgWnImV"
     },
     {
       "album": {
@@ -458,7 +498,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 165714,
       "name": "fouronezerothree",
       "url": "https://open.spotify.com/track/3JdfX2AGZRuZvrDIaLCRyP"
@@ -520,7 +560,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 177048,
       "name": "Hide n Seek",
       "url": "https://open.spotify.com/track/6UK7OmsoQ6Ee6EklS68GcQ"
@@ -670,6 +710,28 @@
       "duration_ms": 263013,
       "name": "Kamusta",
       "url": "https://open.spotify.com/track/3pgtxJkZQjS3JweFaNmIxZ"
+    },
+    {
+      "album": {
+        "name": "KARANASAN",
+        "url": "https://open.spotify.com/album/5X4f9u49kog7UjGBtVss5A"
+      },
+      "artists": [
+        {
+          "name": "Guddhist Gunatita",
+          "url": "https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249107,
+      "name": "KARANASAN",
+      "url": "https://open.spotify.com/track/3Y0wDVo2Dlrg0W6UoXkz9b"
     },
     {
       "album": {
@@ -1025,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/775RKE5HoZQlRqLlukngVI"
+      },
+      "artists": [
+        {
+          "name": "Tu$ Brother$",
+          "url": "https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123116,
+      "name": "RAW",
+      "url": "https://open.spotify.com/track/6YK6D1wwSEK2DfAC6HXR2m"
+    },
+    {
+      "album": {
         "name": "Sabak Daddy",
         "url": "https://open.spotify.com/album/35yzIYk6qn8gUB7HLuPGvi"
       },
@@ -1138,7 +1218,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 192452,
       "name": "SOBRANG SWABE",
       "url": "https://open.spotify.com/track/4hrAZsIRftQWgouKcVNpn5"
@@ -1186,10 +1266,36 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 136200,
       "name": "Still",
       "url": "https://open.spotify.com/track/1n0GXltCdgPZMqQv7JY8SI"
+    },
+    {
+      "album": {
+        "name": "Summer Madness",
+        "url": "https://open.spotify.com/album/1UeObA1xLnOYTIw7WJVQAj"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        },
+        {
+          "name": "Buddhabeads",
+          "url": "https://open.spotify.com/artist/4QJs0LNC1QSCOqhwi6BjSG"
+        },
+        {
+          "name": "HELLMERRY",
+          "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236842,
+      "name": "Summer Madness",
+      "url": "https://open.spotify.com/track/6z6qqKOLvJd4YDZk3sTEo7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 
 > Relax to the sounds of the kora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,192 likes - 111 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,254 likes - 111 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 82 | [Manidé](https://open.spotify.com/track/3JjAj1GeO9fv4OAb1ZoxgY) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Heritage](https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk) | 5:13 |
 | 83 | [Bansang](https://open.spotify.com/track/4mUmru6Wf8XQU6ZyzcOhKd) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA) | [Toumani & Sidiki](https://open.spotify.com/album/7fjwxXIWIVFRco4JEjJZl2) | 2:48 |
 | 84 | [Ifanji](https://open.spotify.com/track/0fCurEBiv6zQRqzoFup6Dy) | [Kadialy Kouyate](https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS) | [Taling Dimalu Beautiful Tales](https://open.spotify.com/album/1iqpOLLDg7AggjbSQbD2ic) | 3:40 |
-| 85 | [Cheiknah Demba](https://open.spotify.com/track/5hE6tM4nogYUivqDzKuN2h) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [New Ancient Strings](https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X) | 4:30 |
+| 85 | [Cheikhna Demba](https://open.spotify.com/track/5hE6tM4nogYUivqDzKuN2h) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [New Ancient Strings](https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X) | 4:30 |
 | 86 | [N'doké](https://open.spotify.com/track/49cRkdjZkzIm4aLzj5PCrx) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Seckou Keita: 22 Strings](https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve) | 5:50 |
 | 87 | [Improvisation à la kora](https://open.spotify.com/track/6DI0ZKoeIHdovwg60cRfdk) | [Diamé Benoît](https://open.spotify.com/artist/7MGH4k1azrScWW3iA71BRQ) | [Sénégal \- kora, balafon, guitare, percussions & chants \(Documents collectés par Gérard Krémer\)](https://open.spotify.com/album/7Afp3Z2l2bpGj5so06Dv3I) | 8:34 |
 | 88 | [Tougoude](https://open.spotify.com/track/6Gkoa1dKL34PD7p66wP8wE) | [Yacouba Sissoko](https://open.spotify.com/artist/5AFOBMdVFA8785NYQtWiad) | [Siya](https://open.spotify.com/album/1T7Y2XS0DCAgUnZjAq7L5R) | 5:54 |
@@ -115,9 +115,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 105 | [Jairaby Lé](https://open.spotify.com/track/0u4gDHx5DQGSpi253L3xGT) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [The Elements \(Anciennes Mémoires, Nouveaux Récits\)](https://open.spotify.com/album/68BKHJnDhXfqXJ5adNqk70) | 5:31 |
 | 106 | [Iban](https://open.spotify.com/track/38dyX5OkG38LSIsUXYhseL) | [Sillaba](https://open.spotify.com/artist/1RdauZCGtADc6pmitjjBzB), [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP), [Andreas Unge](https://open.spotify.com/artist/2w5M25lc7dSa15KGk7zncC) | [Kora Dream](https://open.spotify.com/album/06FvWG28lyQPv8DdAhLHgO) | 4:44 |
 | 107 | [Fantasy](https://open.spotify.com/track/3XFCgzW3ZikK6wuajGQqMV) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH) | 2:18 |
-| 108 | [Cheiknah Demba](https://open.spotify.com/track/5hE6tM4nogYUivqDzKuN2h) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [New Ancient Strings](https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X) | 4:30 |
+| 108 | [Cheikhna Demba](https://open.spotify.com/track/5hE6tM4nogYUivqDzKuN2h) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [New Ancient Strings](https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X) | 4:30 |
 | 109 | [Kora Solo](https://open.spotify.com/track/6HTTBEPexAJGXAzzJEOr6i) | [Hélène Blazy](https://open.spotify.com/artist/33m7gT6eP9unPArdo8wfbr) | [Faces of Africa: An Inspirational Celebration of Africa Then and Now](https://open.spotify.com/album/59OpJHZvPKsU5SounjoUzq) | 1:51 |
 | 110 | [Toutou Diarra](https://open.spotify.com/track/6jPRIrQI72sXLhLseNwmrf) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/62vn052g2TSd9MPGmHwQr1) | 4:18 |
 | 111 | [The Griot](https://open.spotify.com/track/4luLCxFLxKBmyCtHeOvgZO) | [Ravi](https://open.spotify.com/artist/6xLPkpzIIFo22cVp9HNrdT) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 4:32 |
 
-Snapshot ID: `MCxkMjE2MjJjYTkzODk2NDc4MjdjYjQ2YzQ4YWQ4MjFhN2Q2YWY2YTk2`
+Snapshot ID: `MCw0OWYyZGRlZjdmODJjODdhNDFlNTgzNDIxY2U2ZmRkODM0MTgyNTQ0`

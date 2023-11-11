@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 195438,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/1kqu1lWNTNmwrRt8amTRSW"
@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Don't Shut Me Down",
+        "url": "https://open.spotify.com/album/5LGl7CYTeCj3GZTbyuO3Wu"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236009,
+      "name": "Don't Shut Me Down",
+      "url": "https://open.spotify.com/track/7l8BKyvpk84QWeriTbIXjP"
+    },
+    {
+      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/54UHaOt4fxjAcL086ztENq"
       },
@@ -322,7 +340,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 184000,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/02CNxEPvl0KhM3a0DL6MS5"
@@ -452,6 +470,24 @@
       "duration_ms": 193133,
       "name": "Get The Party Started - Redo Version",
       "url": "https://open.spotify.com/track/2PtrvtdKTwjl795MzSQ2Ti"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/1VNB8G2Rq3RcQgo74OCHzp"
     },
     {
       "album": {
@@ -700,7 +736,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 184956,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/0jElcVB3zyu75HmlrbA8XE"
@@ -740,6 +776,24 @@
       "duration_ms": 135371,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/6gleJ9nGfCM0TljHXD2kfi"
+    },
+    {
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/1TBuzTYSJFTl5HXKDnHcZU"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171878,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/4Dz7EP3E3x6MNp6Vpa5qsb"
     },
     {
       "album": {
@@ -808,7 +862,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 157001,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/48nWVjNj7vfIKhvCTT9H6z"
@@ -916,10 +970,28 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 94778,
       "name": "Peaches - 2023",
       "url": "https://open.spotify.com/track/5rmL6MvFJgSjq8zzBa8Zkl"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151093,
+      "name": "Purple People Eater",
+      "url": "https://open.spotify.com/track/4mXSbKYf6voPyMaFc79CwL"
     },
     {
       "album": {
@@ -952,7 +1024,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 163554,
       "name": "River",
       "url": "https://open.spotify.com/track/1m0vPnAzNz0gd6MiLOjLVG"
@@ -1103,6 +1175,42 @@
     },
     {
       "album": {
+        "name": "S\u00daPER ULTRA MEGA",
+        "url": "https://open.spotify.com/album/66dVrkPQI572wGVDrysD4F"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170822,
+      "name": "S\u00daPER ULTRA MEGA",
+      "url": "https://open.spotify.com/track/7jhjNn4QQjIfzwltcUpGW5"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149266,
+      "name": "The Addams Family",
+      "url": "https://open.spotify.com/track/5SMWoVugXGwvzzEeytPM8Y"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP 38",
         "url": "https://open.spotify.com/album/45kCF1eONbksVLaWkorZLF"
       },
@@ -1121,6 +1229,60 @@
     },
     {
       "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207733,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/2kKLdZHp3Tfj140BgnbiuJ"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/4wlwlAi9yyJkRpZA0NTXaS"
+    },
+    {
+      "album": {
+        "name": "Together This Christmas",
+        "url": "https://open.spotify.com/album/0nNoA3KJ2VfzJHgkWDcIxz"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166797,
+      "name": "Together This Christmas",
+      "url": "https://open.spotify.com/track/4OIkrSOfVnU9bbqbeUrLVR"
+    },
+    {
+      "album": {
         "name": "Trampoline",
         "url": "https://open.spotify.com/album/4nwy1TZpVSYvtPeKy6RKmP"
       },
@@ -1132,7 +1294,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 185092,
       "name": "Trampoline",
       "url": "https://open.spotify.com/track/0zgYADHtKBRxMYqsjCu3hm"
@@ -1150,7 +1312,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 220319,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/7E7E6JigvQ3wr08M0g7CaH"
@@ -1262,6 +1424,24 @@
       "duration_ms": 204106,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/519eXuXDOHsb7SAIkBWEOy"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160693,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/4oJClLJTAeY0Hb0sTF1Vid"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO15qSjK"

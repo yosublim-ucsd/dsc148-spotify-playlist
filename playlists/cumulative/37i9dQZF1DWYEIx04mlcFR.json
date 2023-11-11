@@ -3228,7 +3228,7 @@
     {
       "album": {
         "name": "La Lista",
-        "url": "https://open.spotify.com/album/0mAXjJLsLQJwRWb34DkUoM"
+        "url": "https://open.spotify.com/album/6vF9qaVzcUaOh9A0fuA7PP"
       },
       "artists": [
         {
@@ -3239,6 +3239,24 @@
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 224363,
+      "name": "La Lista",
+      "url": "https://open.spotify.com/track/0AtNOujrNexbsOjJkD7NEF"
+    },
+    {
+      "album": {
+        "name": "La Lista",
+        "url": "https://open.spotify.com/album/0mAXjJLsLQJwRWb34DkUoM"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
       "duration_ms": 224363,
       "name": "La Lista",
       "url": "https://open.spotify.com/track/50EiIhBL4GnkHFMPeDAeiV"

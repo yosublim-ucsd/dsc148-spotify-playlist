@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Tiësto x R3HAB
 
-656 songs - 1 day 8 hr 47 min
+657 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,8 @@
 | [Haven](https://open.spotify.com/track/33jPsnwa0CfBBNYzm6wPvb) | [Criss Antof](https://open.spotify.com/artist/3fxxT8cio6JkI5dH4Dy4Y4), [Rayz](https://open.spotify.com/artist/0RNfSDtiquYCmP3PjPj9eL), [Aiden Somerville](https://open.spotify.com/artist/72tzyOHDBEzJYmsgJLKaqK) | [Haven](https://open.spotify.com/album/5ywM2m1U4qJy9t75dz99Ym) | 2:53 | 2023-03-30 | 2023-06-09 |
 | [Haven \- feat\. Hana Hope](https://open.spotify.com/track/6KYCOYdW5e0FPFf18CUybx) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Haven \(feat\. Hana Hope\)](https://open.spotify.com/album/2GjztKFs20fe8oZTvXsCm9) | 3:16 | 2023-02-02 | 2023-02-10 |
 | [Heart of Mine](https://open.spotify.com/track/6vqHbooVnSkuAkPdWljmko) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9), [bad narrator](https://open.spotify.com/artist/47GNF7Kf5NvKu7diVeHmCh) | [Blue](https://open.spotify.com/album/2yOsOQFGEI7Va1WYdm53J8) | 2:17 | 2023-05-04 | 2023-06-09 |
-| [Heart over Mind](https://open.spotify.com/track/66sLONodWY4iLTFQznkgUw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Heart over Mind](https://open.spotify.com/album/5Xza3YTfdYnMC9RZ5uTcw9) | 3:09 | 2023-11-09 |  |
+| [Heart over Mind](https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 3:09 | 2023-11-09 |  |
+| [Heart over Mind](https://open.spotify.com/track/66sLONodWY4iLTFQznkgUw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Heart over Mind](https://open.spotify.com/album/5Xza3YTfdYnMC9RZ5uTcw9) | 3:09 | 2023-11-09 | 2023-11-11 |
 | [Heart Still Beating](https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m) | 2:29 | 2023-10-26 |  |
 | [Heart Still Beating](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp) | 2:29 | 2023-10-26 | 2023-10-28 |
 | [Heartbreak](https://open.spotify.com/track/732Hvlg6djtZxyStVjmr29) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9) | [Heartbreak](https://open.spotify.com/album/4c5sBt3wSeoCiXWnVPW62B) | 2:26 | 2023-03-16 | 2023-04-21 |

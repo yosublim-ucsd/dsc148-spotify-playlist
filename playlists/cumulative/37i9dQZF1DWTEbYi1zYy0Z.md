@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-392 songs - 1 day 3 hr 46 min
+393 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Echoes](https://open.spotify.com/track/2IfPxItRt1NwJDeAZOQRck) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Without a Doubt](https://open.spotify.com/album/72AWHYj9AguRbu2x7VzxY9) | 4:39 | 2023-10-06 |  |
 | [Echoes of the Heart](https://open.spotify.com/track/5O5Aa0k1p5fjXmBMDkjTVp) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Chris Geith](https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb) | [Echoes Of The Heart](https://open.spotify.com/album/4PVrOH383N97LMbLNJCTAy) | 3:58 | 2020-10-30 | 2022-03-17 |
 | [Eclectic World](https://open.spotify.com/track/21Etp1NJD3doc1Gw6Jo0Jd) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Something About Her](https://open.spotify.com/album/4Ycxk3lEPNAryMMs2om1tT) | 4:06 | 2021-05-21 | 2022-03-18 |
-| [Edelweiss](https://open.spotify.com/track/00Cs2pIEXYOWATPGeQywMm) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Edelweiss](https://open.spotify.com/album/6W9KJZCfnCPm1IpoEgMrXb) | 3:27 | 2023-10-13 |  |
+| [Edelweiss](https://open.spotify.com/track/00Cs2pIEXYOWATPGeQywMm) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Edelweiss](https://open.spotify.com/album/6W9KJZCfnCPm1IpoEgMrXb) | 3:27 | 2023-10-13 | 2023-11-11 |
 | [ELEVATE \- radio single](https://open.spotify.com/track/5Ll6rHMvQIaeEk7pulYE7N) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [ELEVATE](https://open.spotify.com/album/4W8UWPwAwbqurn6NiKgaCm) | 3:49 | 2021-02-27 | 2022-02-23 |
 | [Elevation](https://open.spotify.com/track/476UCPxcdqr3CsRtMk6c4h) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Elevation](https://open.spotify.com/album/2Q69YdccZf1wtmsfEh5gQE) | 4:11 | 2020-10-30 | 2022-03-15 |
 | [Embrace](https://open.spotify.com/track/3N80JYpUbyZd90H5a4F9Zk) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [I Will Still Be Here](https://open.spotify.com/album/2008JZRS8I9NvGCOpx9b7w) | 4:01 | 2021-08-20 | 2022-09-17 |
@@ -213,6 +213,7 @@
 | [Love Crash](https://open.spotify.com/track/310LMuYWxmav6ZfeDFy71O) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF), [Phil Denny](https://open.spotify.com/artist/4pN9L2TSzYcFFS5FL4Hppz) | [Love Crash](https://open.spotify.com/album/3tbZWfRBaLOcr2h5IDvW53) | 3:49 | 2023-09-01 |  |
 | [Love Crazy](https://open.spotify.com/track/55xIR0lhEKXXUl5PE1jO4O) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [With Every Turn](https://open.spotify.com/album/3ycJd6p1aJd3KebLEijD2G) | 3:54 | 2021-04-02 | 2022-03-18 |
 | [Love Nwantiti](https://open.spotify.com/track/06lydkzsIHhHmDZCgZKCDJ) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Love Nwantiti](https://open.spotify.com/album/1hAt5XyintKlTCsHBz6HHY) | 2:31 | 2023-07-07 |  |
+| [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 | 2023-11-10 |  |
 | [Magic City Streets](https://open.spotify.com/track/6WG2FanAGtFE6rsB3IvCAV) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Magic City Streets](https://open.spotify.com/album/1zlO5c2oerKojvsCvk6mxm) | 3:40 | 2023-07-21 |  |
 | [Magnetic](https://open.spotify.com/track/4dIm1mKNrPj8zzADhw7BTq) | [Tony Craddock, Jr.](https://open.spotify.com/artist/75CcM6i2mssXh9hUXluBrH) | [Magnetic](https://open.spotify.com/album/7uk0OBS4QMrKvATYWugLMc) | 4:03 | 2021-04-23 | 2022-03-15 |
 | [Make Safe](https://open.spotify.com/track/2vY18rxipRFpTYwaSEEVr4) | [Randal Clark](https://open.spotify.com/artist/6nyQjlgqFNP1ZkPECpByYy) | [Moving Too Fast](https://open.spotify.com/album/2PTey5hRAnZnTG78rvvNox) | 4:12 | 2023-10-20 |  |

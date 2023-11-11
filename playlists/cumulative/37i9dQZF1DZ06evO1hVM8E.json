@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 153560,
       "name": "Llego Su Padre",
       "url": "https://open.spotify.com/track/21byep5M5KIo4LhFWyLZds"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 156293,
       "name": "Me Ca\u00edste del Cielo",
       "url": "https://open.spotify.com/track/3VnEuFStQRp1GauvdhaYTN"
@@ -1472,6 +1472,28 @@
       "duration_ms": 205133,
       "name": "Pacas de a Kilo",
       "url": "https://open.spotify.com/track/3TIZ20vC3CjlkYoeLXLmPN"
+    },
+    {
+      "album": {
+        "name": "Para Ti No Tengo Un No",
+        "url": "https://open.spotify.com/album/65uS21LFiv7Cb5APOOcb7Y"
+      },
+      "artists": [
+        {
+          "name": "Edwin Garcia",
+          "url": "https://open.spotify.com/artist/53kZNnikATba328qm2oHyF"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146796,
+      "name": "Para Ti No Tengo Un No",
+      "url": "https://open.spotify.com/track/222kIss5L0jcGN7RK9TLgv"
     },
     {
       "album": {
@@ -1838,7 +1860,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 220146,
       "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
       "url": "https://open.spotify.com/track/2TPOVXCnOQtJSY6GmHYA1z"

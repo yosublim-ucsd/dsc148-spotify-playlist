@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Jonathan Butler",
-  "num_followers": 56248,
+  "num_followers": 56279,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzFkNWZlMjEwM2FlZmY2MzA1MWI4OGM0OWJiMmM1YjgxYTBiNzUx",
+  "snapshot_id": "MCxjNjc2Yjg0NDgzODFmZWJjZDdmOGNkNWY0OWQxMDIyZDU2OWU5OGQ0",
   "tracks": [
     {
       "added_at": "2023-10-27 04:01:00",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/15i4GMjiFCHKWMYSUTp2CS"
     },
     {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Lullaby Tres",
+        "url": "https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 124976,
+      "name": "Lullaby Tres",
+      "url": "https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT"
+    },
+    {
       "added_at": "2023-09-29 04:01:00",
       "album": {
         "name": "Ride the Vibes",
@@ -159,22 +175,6 @@
       "duration_ms": 233333,
       "name": "Please Mr. Groove",
       "url": "https://open.spotify.com/track/4t6HSsIeDTF8Iis2JTSHP5"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Edelweiss",
-        "url": "https://open.spotify.com/album/6W9KJZCfnCPm1IpoEgMrXb"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 207757,
-      "name": "Edelweiss",
-      "url": "https://open.spotify.com/track/00Cs2pIEXYOWATPGeQywMm"
     },
     {
       "added_at": "2023-09-15 04:01:00",

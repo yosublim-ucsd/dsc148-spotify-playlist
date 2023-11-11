@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Baby Boo",
+        "url": "https://open.spotify.com/album/2CxFtRk208eanR49PG0vqp"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178602,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/2ZzJ58FgrebwKUzh5Tl36b"
+    },
+    {
+      "album": {
         "name": "Baby Doll",
         "url": "https://open.spotify.com/album/3w8QAeLI6MlLCdTo5GeR5P"
       },
@@ -1092,6 +1110,32 @@
       "duration_ms": 247071,
       "name": "Bambini",
       "url": "https://open.spotify.com/track/4qG0BRX5woEZMoAO7K5cGO"
+    },
+    {
+      "album": {
+        "name": "DE CAMINO A HERMES",
+        "url": "https://open.spotify.com/album/5DLbv9HAIPWzqChpPxIAnc"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243913,
+      "name": "BARCELONA",
+      "url": "https://open.spotify.com/track/10MB5BRNILT229BsnB2oRU"
     },
     {
       "album": {
@@ -2049,6 +2093,32 @@
     },
     {
       "album": {
+        "name": "Controlando el Ki",
+        "url": "https://open.spotify.com/album/1wcO3kN9gjHVzrB2wRbK9I"
+      },
+      "artists": [
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "RF Music",
+          "url": "https://open.spotify.com/artist/3e2dC479m26OChgDRd25Z3"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186741,
+      "name": "Corte y Estilo",
+      "url": "https://open.spotify.com/track/1vucQJG57OIHv7wwsyDAMT"
+    },
+    {
+      "album": {
         "name": "Cosas Chanchas (feat. Simon la Letra, Harry Nach, Salastkbron, El Barto, Kidd Samu & Lolo OG)",
         "url": "https://open.spotify.com/album/642j24NN3uxV4freA9w6OL"
       },
@@ -2604,7 +2674,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 193313,
       "name": "Dime",
       "url": "https://open.spotify.com/track/2msCd7i6rtFqM8lU9lnJdm"
@@ -4592,7 +4662,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 164000,
       "name": "K Me Dice",
       "url": "https://open.spotify.com/track/2n4DJz5TqybwC8WFN1kQ3x"
@@ -5738,7 +5808,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 190967,
       "name": "Maldades",
       "url": "https://open.spotify.com/track/0P8zvojI7o0j1KqmAcrBtz"
@@ -6564,7 +6634,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 166105,
       "name": "Mi real lova",
       "url": "https://open.spotify.com/track/1A8CcPnmexGWEDrzoFwyoR"
@@ -9177,6 +9247,28 @@
     },
     {
       "album": {
+        "name": "QUE CHIMBA",
+        "url": "https://open.spotify.com/album/2yDKiSi2vXCbYVS1Pq30yP"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228624,
+      "name": "QUE CHIMBA",
+      "url": "https://open.spotify.com/track/58T1ibLrNWyHvYqxtntsyA"
+    },
+    {
+      "album": {
         "name": "Que linda te ves",
         "url": "https://open.spotify.com/album/6eHZSp9pykdrnUNlFmEirH"
       },
@@ -10328,7 +10420,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 209655,
       "name": "Si Te Atreve\u2019",
       "url": "https://open.spotify.com/track/4Qyw93APTY9U6GpW8rR7zm"
@@ -10564,6 +10656,24 @@
       "duration_ms": 227129,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/4M2zTsuNHFkxg4CNafKclc"
+    },
+    {
+      "album": {
+        "name": "Partyson",
+        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Solt\u00e1ndote",
+      "url": "https://open.spotify.com/track/1Wez9szTYiHFQVtjNTID4h"
     },
     {
       "album": {

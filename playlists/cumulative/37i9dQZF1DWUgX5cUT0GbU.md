@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUgX5cUT0GbU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUgX5cUT0GbU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUgX5cUT0GbU)
 
-### [This Is Travis Scott](https://open.spotify.com/playlist/37i9dQZF1DWUgX5cUT0GbU)
+### [This Is Travis Scott \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWUgX5cUT0GbU)
 
 > This Is Travis Scott\. The essential tracks, all in one playlist.
 

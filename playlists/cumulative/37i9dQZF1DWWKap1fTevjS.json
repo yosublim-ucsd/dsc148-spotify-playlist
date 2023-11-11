@@ -2133,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "In Balance",
+        "url": "https://open.spotify.com/album/3F831rOo09f22eGLEmR0u6"
+      },
+      "artists": [
+        {
+          "name": "Gleyma",
+          "url": "https://open.spotify.com/artist/6aQqtXUHqp9axSHKGlfdiq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "In Balance",
+      "url": "https://open.spotify.com/track/01KdTGhXq2Grl0DgidVjDT"
+    },
+    {
+      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/24EEeYsUvas3GFZazInoXS"
       },
@@ -2252,7 +2270,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 148500,
       "name": "I\u00b4ll See A Light",
       "url": "https://open.spotify.com/track/7EqeAfbTta51OCd9gz6buQ"

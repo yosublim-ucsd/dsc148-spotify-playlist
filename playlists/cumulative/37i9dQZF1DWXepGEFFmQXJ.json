@@ -2061,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "Dress",
+        "url": "https://open.spotify.com/album/7sYU3TwTLUFudBlbnWWMM4"
+      },
+      "artists": [
+        {
+          "name": "Mason & Julez",
+          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Dress",
+      "url": "https://open.spotify.com/track/4GRvesPS6gPU8AV2RUgECk"
+    },
+    {
+      "album": {
         "name": "Drink Along Song",
         "url": "https://open.spotify.com/album/5r840J3ihnRPTn2XShDJyy"
       },

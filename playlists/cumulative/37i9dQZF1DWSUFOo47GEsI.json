@@ -4441,6 +4441,24 @@
     },
     {
       "album": {
+        "name": "Objective",
+        "url": "https://open.spotify.com/album/1YdahLfv3hpyyb6Ii3MRX2"
+      },
+      "artists": [
+        {
+          "name": "iav\u00fa",
+          "url": "https://open.spotify.com/artist/4HLXt5FajZmG37fZb3E2my"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163616,
+      "name": "Process",
+      "url": "https://open.spotify.com/track/4E8YeBmbDsmD1YwTbCaFIB"
+    },
+    {
+      "album": {
         "name": "Profetia",
         "url": "https://open.spotify.com/album/6iUHb3XJ0K7hxJ4grACdPV"
       },
@@ -6094,6 +6112,24 @@
       "duration_ms": 194998,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/3Fqsx9n9qysSodg3UnEdPX"
+    },
+    {
+      "album": {
+        "name": "Translucent",
+        "url": "https://open.spotify.com/album/5Lyd7zDR0alPBY6i91b2gI"
+      },
+      "artists": [
+        {
+          "name": "Toarp",
+          "url": "https://open.spotify.com/artist/1swZCeKExXzzr6jC754Ubh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Translucent",
+      "url": "https://open.spotify.com/track/6qJ3JOEonAm4W3djP5P43E"
     },
     {
       "album": {

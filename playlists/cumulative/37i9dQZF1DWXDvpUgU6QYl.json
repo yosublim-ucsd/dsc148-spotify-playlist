@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-07",
-  "description": "A groovy and soulful house collection. Cover: Prok & Fitch",
+  "description": "A groovy and soulful house collection. Cover: Jengi",
   "name": "House is a Feeling",
   "tracks": [
     {
@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Crazy Things at Night",
+        "url": "https://open.spotify.com/album/5087Ycj5mZm6ak5Njv4spW"
+      },
+      "artists": [
+        {
+          "name": "Marvin Aloys",
+          "url": "https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177532,
+      "name": "Crazy Things at Night - Radio-Edit",
+      "url": "https://open.spotify.com/track/4IeeDu7qRpxaOzDAK5w98P"
+    },
+    {
+      "album": {
         "name": "Deep in the Night",
         "url": "https://open.spotify.com/album/52ORXRhLuPl9lkoBlw7p7Y"
       },
@@ -438,10 +456,32 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 188225,
       "name": "Fairy Tale",
       "url": "https://open.spotify.com/track/5lW0GalqLjKwC4cxSBps1S"
+    },
+    {
+      "album": {
+        "name": "IN:TENSION",
+        "url": "https://open.spotify.com/album/2eMuDynNCvPeNzWkrt8m2p"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195813,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/02HnreS8f1YDpr5qXrCtw3"
     },
     {
       "album": {
@@ -649,6 +689,40 @@
     },
     {
       "album": {
+        "name": "He's Alright (David Penn Edit)",
+        "url": "https://open.spotify.com/album/3XChj0aXEjhj2ZFmZ3eBmq"
+      },
+      "artists": [
+        {
+          "name": "Jame Starck",
+          "url": "https://open.spotify.com/artist/7vlDs9hVx8VrrFFn60SX8Y"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        },
+        {
+          "name": "Zetaphunk",
+          "url": "https://open.spotify.com/artist/5Ib1N02pK2hNPOjNlJZ4Jx"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        },
+        {
+          "name": "Alfreda Gerald",
+          "url": "https://open.spotify.com/artist/5eyXnF9kHVXWX8wsheHHz7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328625,
+      "name": "He's Alright - David Penn Extended Edit",
+      "url": "https://open.spotify.com/track/6Il5eeNU4qrvbxy97v3P3u"
+    },
+    {
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/0eVUuKuOOeT87I5hu9PQJY"
       },
@@ -660,7 +734,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 197538,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1dIJzOc9zajGy9MicYlGre"
@@ -827,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Effervescent",
+        "url": "https://open.spotify.com/album/5eCX6RHLKsvD2dzyKPHScT"
+      },
+      "artists": [
+        {
+          "name": "Olive T",
+          "url": "https://open.spotify.com/artist/0zBBG1zpWWiF5OZYSoD1Ud"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350682,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/28QXrN0h39voiJVHPgf6xi"
+    },
+    {
+      "album": {
         "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
         "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
       },
@@ -856,7 +948,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 181935,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
@@ -962,10 +1054,32 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 275785,
       "name": "Moonlight - Girls of the Internet Midnight Mix",
       "url": "https://open.spotify.com/track/3Ga7tub8PNUaBhcHziVZ1o"
+    },
+    {
+      "album": {
+        "name": "Motown Philly",
+        "url": "https://open.spotify.com/album/2Rb5KdeDt7P1WASorfVR46"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158140,
+      "name": "Motown Philly",
+      "url": "https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl"
     },
     {
       "album": {
@@ -1300,7 +1414,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 231828,
       "name": "Shine",
       "url": "https://open.spotify.com/track/4dRac7S17nsePwSE3MqbK6"
@@ -1555,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "Two Hearts EP",
+        "url": "https://open.spotify.com/album/5EmhtGastrE8dksOnUGZLF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219047,
+      "name": "Two Hearts - Original Mix",
+      "url": "https://open.spotify.com/track/7wtjDhC7rShqYPdFIrxcor"
+    },
+    {
+      "album": {
         "name": "V I B R A T I O N",
         "url": "https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r"
       },
@@ -1610,7 +1742,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 299382,
       "name": "Work 2 It",
       "url": "https://open.spotify.com/track/3sZYaHHGhNB3Stpb5dpsgl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,579 likes - 60 songs - 3 hr 14 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,576 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 59 | [Growin' Up and Gettin' Old](https://open.spotify.com/track/6DdPacpAdYkxV8MCzsjaXu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up and Gettin' Old](https://open.spotify.com/album/2tyF3XymQtvSySp5osmr6d) | 3:53 |
 | 60 | [The Last Time](https://open.spotify.com/track/2JiEzw012NnQ3PoW6VWM1P) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Last Time](https://open.spotify.com/album/0jOEXC4gDm1Fh40eOFHVYo) | 3:30 |
 
-Snapshot ID: `MTYyMyw1YjEwNGE2ZmYyMzY0ZDQ1NWRlNThjMTgzOGRjZWM4ZTA2ODRiZGNk`
+Snapshot ID: `MTYyNSxlMGFmMTE2ZDk5MWQ3MDE3MTlkNmRkODYxMDI4YmJiNTBmZjUwMGVh`

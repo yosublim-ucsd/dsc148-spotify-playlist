@@ -1,13 +1,45 @@
 {
   "description": "Rap from hell. Cover: $uicideboy$",
-  "num_followers": 550621,
+  "num_followers": 550993,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODhmZWVkZDJiZjUwZmQwOTMxNTAzMDBkYzk0MmMzMGJjMGI4MTE4",
+  "snapshot_id": "MCxlNDU1OWU0NTRhMDQzMDVjZDIyNTY3YWQ4Njc3NDJlZjhhODE3ZGUz",
   "tracks": [
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "BANDS!",
+        "url": "https://open.spotify.com/album/2AGvFNr5drvor5NZhh0oTe"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 142047,
+      "name": "BANDS!",
+      "url": "https://open.spotify.com/track/00DcGQYevuWmUzqXetdczu"
+    },
+    {
+      "added_at": "2023-10-16 19:26:34",
+      "album": {
+        "name": "MY DAY IS RUINED !",
+        "url": "https://open.spotify.com/album/4awPNl06D2VWOKJW63of3n"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 133286,
+      "name": "MY DAY IS RUINED !",
+      "url": "https://open.spotify.com/track/4vjZMm2Dz7sxgLfNWpiwTG"
+    },
     {
       "added_at": "2023-11-08 18:53:31",
       "album": {
@@ -31,22 +63,6 @@
     {
       "added_at": "2023-10-16 19:26:34",
       "album": {
-        "name": "MY DAY IS RUINED !",
-        "url": "https://open.spotify.com/album/4awPNl06D2VWOKJW63of3n"
-      },
-      "artists": [
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 133286,
-      "name": "MY DAY IS RUINED !",
-      "url": "https://open.spotify.com/track/4vjZMm2Dz7sxgLfNWpiwTG"
-    },
-    {
-      "added_at": "2023-10-16 19:26:34",
-      "album": {
         "name": "GUTS!",
         "url": "https://open.spotify.com/album/5L148hAAOKZP6GsvjUzSXs"
       },
@@ -63,6 +79,22 @@
       "duration_ms": 132384,
       "name": "GUTS!",
       "url": "https://open.spotify.com/track/1TgfuMX9NCHkMTMlAf1yQB"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "body bag",
+        "url": "https://open.spotify.com/album/2xJsMEX3rBCfqxQ7EfVnED"
+      },
+      "artists": [
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        }
+      ],
+      "duration_ms": 142429,
+      "name": "body bag",
+      "url": "https://open.spotify.com/track/7IodwtlPswiT3rJVUQPFcO"
     },
     {
       "added_at": "2023-08-29 17:51:35",
@@ -215,6 +247,22 @@
       "duration_ms": 171781,
       "name": "Sarcophagus III",
       "url": "https://open.spotify.com/track/2aShlCzmEwlId17KVpFdYu"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "crystal ball",
+        "url": "https://open.spotify.com/album/1L2oUKJjBqrnjJRrnJxF76"
+      },
+      "artists": [
+        {
+          "name": "Shy High",
+          "url": "https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo"
+        }
+      ],
+      "duration_ms": 82000,
+      "name": "crystal ball",
+      "url": "https://open.spotify.com/track/5o71saqMHEJTneWr8cWwRU"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -395,6 +443,26 @@
       "duration_ms": 165303,
       "name": "CODE MISTAKE",
       "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "AFTERLIFE",
+        "url": "https://open.spotify.com/album/2hppa3RA8eRwtDStjZYqIF"
+      },
+      "artists": [
+        {
+          "name": "NIKKO",
+          "url": "https://open.spotify.com/artist/3dnOnDLzcymqwDP7HMEFAC"
+        },
+        {
+          "name": "LxrdMxrty",
+          "url": "https://open.spotify.com/artist/2kZfdYwevTt4ohkARKl1Ql"
+        }
+      ],
+      "duration_ms": 127927,
+      "name": "AFTERLIFE",
+      "url": "https://open.spotify.com/track/3yM8pCJKpCuODNOf2aMRf7"
     },
     {
       "added_at": "2023-10-16 19:26:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 
 > Listen to the soundtracks of the Twinkling Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,441 likes - 62 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,787 likes - 62 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 | 61 | [My Song \- Instrumental](https://open.spotify.com/track/0ZftClO2NLnc3aUTSqwutB) | [5moon](https://open.spotify.com/artist/4akR4qv87vt6Fuqe0OuPc6) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/6cH55kGXjEjFw4VkOFkQ5w) | 4:06 |
 | 62 | [Wherever \- Instrumental](https://open.spotify.com/track/52lTNIIPlsUkF0IL2n2430) | [Eight'O](https://open.spotify.com/artist/0ejqkHvKFByReUaH2QTfRb) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/51RCU1QDMatZNsy4gVUf7u) | 4:09 |
 
-Snapshot ID: `MCxmOTM0YjI3NDhjZGFiYTY3Y2I0OWY0Mzg5MTUzM2U3MTk0Y2JjZWZk`
+Snapshot ID: `MCxjZjczMDQ1M2YzZTIyNGUwYTc4Nzc4M2E4NjViMmE0MzI1NGE0OWEy`

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:5ITI6SEoUZMIXXkzCfr4oE\">Aluna</a>'s favorite tracks. Updated regularly. Curated by Aluna. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 35265,
+  "num_followers": 35280,
   "original_name": "Aluna's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2JmMGMyNWI2ZTRiNjc1NjIwOGRjZDg1Y2I0ODQyZGMwMWEyMTYw",
+  "snapshot_id": "MCwzMzJiN2UxMDY2ZWJlNTdkMGIwNTViMDhjZTU4ODJkZmE2MWJjNzMx",
   "tracks": [
     {
       "added_at": "2023-11-02 16:55:55",
@@ -47,6 +47,30 @@
       "duration_ms": 147401,
       "name": "Jam Inside Your Love (feat. Carla Monroe)",
       "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Vitamina da Alegria",
+        "url": "https://open.spotify.com/album/6WGX4JdA1je20NBrImFC6B"
+      },
+      "artists": [
+        {
+          "name": "Afrozone",
+          "url": "https://open.spotify.com/artist/2bncMt3cwq65emAK2CTWFl"
+        },
+        {
+          "name": "LiloCox",
+          "url": "https://open.spotify.com/artist/72PekNwjrVD4vIpnA6Kxy4"
+        },
+        {
+          "name": "Fabio Dance",
+          "url": "https://open.spotify.com/artist/4stujpFkuv7VfnMahPtmdi"
+        }
+      ],
+      "duration_ms": 263621,
+      "name": "Vitamina da Alegria",
+      "url": "https://open.spotify.com/track/3JOiML2mmvkPAtAkEMQXUf"
     },
     {
       "added_at": "2023-11-02 16:55:55",
@@ -107,6 +131,26 @@
       "duration_ms": 195000,
       "name": "Bigger Than Prince - Marco Lys Remix",
       "url": "https://open.spotify.com/track/1JTGpoOr4o6eC7AiEjLdum"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Party No Dey Stop",
+        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "Party No Dey Stop",
+      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
     },
     {
       "added_at": "2023-11-02 16:55:55",
@@ -187,6 +231,38 @@
       "duration_ms": 265857,
       "name": "Shake The Room",
       "url": "https://open.spotify.com/track/2vjOxwogHbLSHbiewgCqd6"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Pain & Pleasure (feat. VANYFOX & F\u00e9d\u00e9ration Internationale du Bruit)",
+        "url": "https://open.spotify.com/album/4Jz3pVofJLIfyyslzejjqo"
+      },
+      "artists": [
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX"
+        },
+        {
+          "name": "Amaal Nuux",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Vanyfox",
+          "url": "https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe"
+        },
+        {
+          "name": "F\u00e9d\u00e9ration Internationale du Bruit",
+          "url": "https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV"
+        }
+      ],
+      "duration_ms": 243205,
+      "name": "Pain & Pleasure (feat. VANYFOX & F\u00e9d\u00e9ration Internationale du Bruit)",
+      "url": "https://open.spotify.com/track/1NHZzHDim0aiS8fhJLPdqk"
     },
     {
       "added_at": "2023-11-02 16:55:55",
@@ -471,26 +547,6 @@
       "duration_ms": 187317,
       "name": "Set It Off (feat. LATASH\u00c1)",
       "url": "https://open.spotify.com/track/4LKhGq2uCgz796baDeTGmO"
-    },
-    {
-      "added_at": "2023-11-02 16:55:55",
-      "album": {
-        "name": "Float (Coco & Breezy Remix)",
-        "url": "https://open.spotify.com/album/6zNU2h4HyMVpFz8MdBTIjF"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        }
-      ],
-      "duration_ms": 148884,
-      "name": "Float - Coco & Breezy Remix",
-      "url": "https://open.spotify.com/track/7MJc1Z7tTRVCCw63JhWyAv"
     },
     {
       "added_at": "2023-11-02 16:55:55",
@@ -831,34 +887,6 @@
       "duration_ms": 181625,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/7EhDs3oFf203YIObBDrEYX"
-    },
-    {
-      "added_at": "2023-11-02 16:55:55",
-      "album": {
-        "name": "Charge It (with Masego, Jozzy & Bayka)",
-        "url": "https://open.spotify.com/album/2UsEip5hKV0iVICEfTXPVB"
-      },
-      "artists": [
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        },
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        }
-      ],
-      "duration_ms": 167881,
-      "name": "Charge It (with Masego, Jozzy & Bayka)",
-      "url": "https://open.spotify.com/track/2yg0AEBcHGfMIPVaA5W7o8"
     },
     {
       "added_at": "2023-11-02 16:55:55",

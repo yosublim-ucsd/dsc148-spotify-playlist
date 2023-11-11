@@ -4,7 +4,7 @@
 
 > Let your stress melt away while you work up a sweat.
 
-251 songs - 14 hr 0 min
+253 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [People, Turn Around](https://open.spotify.com/track/4BnR951eUWjZX2A3DQNiiI) | [Billy Allen](https://open.spotify.com/artist/3VNE2RRYAlEARq4BLodRTO), [The Pollies](https://open.spotify.com/artist/598trStGjYePaRmeDHip8u) | [People, Turn Around](https://open.spotify.com/album/2kxEB6jtPIeZlNOZkUvSAC) | 6:50 | 2022-06-03 | 2023-06-02 |
 | [People, Turn Around](https://open.spotify.com/track/6ClQBXNubAOMjQgJxhz2Oe) | [Billy Allen](https://open.spotify.com/artist/3VNE2RRYAlEARq4BLodRTO), [The Pollies](https://open.spotify.com/artist/598trStGjYePaRmeDHip8u) | [People, Turn Around](https://open.spotify.com/album/7AhTcT99Y1Ept2ZcM2Q43s) | 6:50 | 2022-03-03 | 2022-07-29 |
 | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA) | 4:19 | 2022-10-14 | 2022-12-10 |
-| [Pictures](https://open.spotify.com/track/2cEBG31c2Y7mfRlLY8g1ah) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm](https://open.spotify.com/album/2V5uxReEmjn0j5tAG6oHI0) | 2:57 | 2022-06-03 |  |
+| [Pictures](https://open.spotify.com/track/0nC1qkOgwU7yQZLpUQmUms) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before The Snowstorm](https://open.spotify.com/album/6X4lsAafU2WXiThVoO9kF4) | 2:57 | 2023-10-27 |  |
+| [Pictures](https://open.spotify.com/track/2cEBG31c2Y7mfRlLY8g1ah) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm](https://open.spotify.com/album/2V5uxReEmjn0j5tAG6oHI0) | 2:57 | 2022-06-03 | 2023-11-11 |
 | [Pictures](https://open.spotify.com/track/2FlG7RSmCD0e3uvSNzdiMe) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Pictures EP](https://open.spotify.com/album/0tnbyn4ObDQmnAOiKKkzA3) | 2:59 | 2022-03-03 | 2022-07-29 |
 | [Plowed](https://open.spotify.com/track/3F3fUJdadTQEqO81ZWF5ZK) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Plowed](https://open.spotify.com/album/6dXn2EYiw4kD1PFwpgdLoM) | 3:18 | 2022-03-03 | 2023-06-02 |
 | [Portland, Maine](https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:23 | 2022-06-03 |  |
@@ -258,6 +259,7 @@
 | [Wicked Game](https://open.spotify.com/track/4WW5jLs5WXLE5YoRBoju0p) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Wicked Game](https://open.spotify.com/album/0zH3SHiGlCJWDJ3iwPAoqD) | 2:29 | 2022-10-14 |  |
 | [Wicked Game \- Bossa Nova Version](https://open.spotify.com/track/3kYKtUPRQd4ZO9A3UhmxAX) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Wicked Game \(Bossa Nova Version\)](https://open.spotify.com/album/6YbT952JxSplB2O1e7keyG) | 2:49 | 2022-03-03 | 2023-06-02 |
 | [Wish You Were Here](https://open.spotify.com/track/4GKleQApcyCJduauR13QIi) | [Son De Durango](https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6) | [Wish You Were Here](https://open.spotify.com/album/5jVI3QPXUpKFqOLTVaS0wn) | 3:18 | 2022-03-03 |  |
+| [yellow](https://open.spotify.com/track/4kUwfiTlAuHOtKZ54ajvP0) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [yellow](https://open.spotify.com/album/2Tc1vowFnDvNyP7sgseWII) | 3:08 | 2023-10-27 |  |
 | [You Get What You Give](https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [You Get What You Give](https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd) | 2:53 | 2022-05-06 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Nego Max, Magr\u00e3o AllFavela, Max B.O.",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Renan Samam",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -116,7 +116,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 160000,
       "name": "40 Graus",
       "url": "https://open.spotify.com/track/1aqQWcSNFQYtp1bF7lziKI"
@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 324473,
       "name": "A Divina Com\u00e9dia 3",
       "url": "https://open.spotify.com/track/15jaB4U3dPbSoxoj1dIRNb"
@@ -791,6 +791,32 @@
     },
     {
       "album": {
+        "name": "Antologia",
+        "url": "https://open.spotify.com/album/6wxlNVLwzFRSsy8n9U2DRN"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        },
+        {
+          "name": "Drill De Lobos",
+          "url": "https://open.spotify.com/artist/7JUwduKCtopPBNkw7cizw6"
+        },
+        {
+          "name": "Stvnley",
+          "url": "https://open.spotify.com/artist/6UGAtF64z3L9xfeQbyAV8h"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262975,
+      "name": "Antologia",
+      "url": "https://open.spotify.com/track/37Fk991ojWvA3Eg3o3wP3s"
+    },
+    {
+      "album": {
         "name": "Aparte",
         "url": "https://open.spotify.com/album/4CTWa1yv9vPeEUbidGDqQO"
       },
@@ -1152,7 +1178,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 153600,
       "name": "Barras",
       "url": "https://open.spotify.com/track/28SCDcGjasIKIIYqcJTs1T"
@@ -2296,7 +2322,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 137142,
       "name": "Confronto",
       "url": "https://open.spotify.com/track/748z4mkb45Z9zZhMLOWI0q"
@@ -2488,7 +2514,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 203440,
       "name": "Corrente",
       "url": "https://open.spotify.com/track/29jVj20ixkDYcTS22In5un"
@@ -3186,7 +3212,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 155221,
       "name": "Deus Dar\u00e1",
       "url": "https://open.spotify.com/track/7qu2u46w3FCLnDQ1ooxPBI"
@@ -3380,6 +3406,28 @@
       "duration_ms": 140425,
       "name": "Din Din",
       "url": "https://open.spotify.com/track/5q8CsuCFxOo3RKT0lJz6P1"
+    },
+    {
+      "album": {
+        "name": "Dinheiro Nunca Sai de Moda",
+        "url": "https://open.spotify.com/album/5EPh4McriEF70jz6iscw8F"
+      },
+      "artists": [
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Dinheiro Nunca Sai de Moda",
+      "url": "https://open.spotify.com/track/6Dh0f1u7YIRoOSvxvIR7HK"
     },
     {
       "album": {
@@ -3856,6 +3904,32 @@
       "duration_ms": 203809,
       "name": "Eu(S)",
       "url": "https://open.spotify.com/track/36jHpclKntpDEiyLVFoUNE"
+    },
+    {
+      "album": {
+        "name": "Dois",
+        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222858,
+      "name": "exalta",
+      "url": "https://open.spotify.com/track/2otIusmrNZtvYj8lDVnA2w"
     },
     {
       "album": {
@@ -4632,6 +4706,32 @@
       "duration_ms": 210097,
       "name": "F\u00eanix",
       "url": "https://open.spotify.com/track/0YYpDFN3kXT9dHspUkoi3z"
+    },
+    {
+      "album": {
+        "name": "Ganhos",
+        "url": "https://open.spotify.com/album/333I0QRAviHx2YewC8c4gI"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "DaFran\u00e7a",
+          "url": "https://open.spotify.com/artist/2V4G3cFRwJpGpO27YJQ4cK"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142344,
+      "name": "Ganhos",
+      "url": "https://open.spotify.com/track/0wrePFro6HxW7tjYWC7uqi"
     },
     {
       "album": {
@@ -5891,6 +5991,36 @@
     },
     {
       "album": {
+        "name": "Ligue os Pontos",
+        "url": "https://open.spotify.com/album/6xHVSiBuJAhWB9bg3G8eG8"
+      },
+      "artists": [
+        {
+          "name": "Digmanybeats",
+          "url": "https://open.spotify.com/artist/6S3UKXF6SJpHxa0IAsiFrf"
+        },
+        {
+          "name": "Mascote",
+          "url": "https://open.spotify.com/artist/1XQtxLkaACQMsRGiKwuI3h"
+        },
+        {
+          "name": "Dej@ Vu",
+          "url": "https://open.spotify.com/artist/5hOzHF5795K4MIkzb5t5At"
+        },
+        {
+          "name": "Dj WillCutz",
+          "url": "https://open.spotify.com/artist/2ruuaPdNES9RSkFG0tsryU"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211201,
+      "name": "Ligue os Pontos",
+      "url": "https://open.spotify.com/track/2rOYfl5HsvmoVbW2hdiiUA"
+    },
+    {
+      "album": {
         "name": "Linhas de Fogo",
         "url": "https://open.spotify.com/album/6IWUjideWJcH9PsuTE8V9R"
       },
@@ -6421,6 +6551,40 @@
     },
     {
       "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/5bjfH4aA987D5d5SejBBwT"
+      },
+      "artists": [
+        {
+          "name": "Renan Samam",
+          "url": "https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve"
+        },
+        {
+          "name": "Moah Buffalo",
+          "url": "https://open.spotify.com/artist/3hVr0HB7Mzrqo1qGiejhlz"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "Dj KLJay",
+          "url": "https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV"
+        },
+        {
+          "name": "John Bxd",
+          "url": "https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Manifesto",
+      "url": "https://open.spotify.com/track/4yikW3aqZOTTuTJVlLB6Mv"
+    },
+    {
+      "album": {
         "name": "JOVEM OG",
         "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
       },
@@ -6619,6 +6783,36 @@
     },
     {
       "album": {
+        "name": "Mente Vazia",
+        "url": "https://open.spotify.com/album/1UKiJhUPDg9RhVumnDi5YY"
+      },
+      "artists": [
+        {
+          "name": "Lukas Loko",
+          "url": "https://open.spotify.com/artist/2kWVT2K32QqCGkCaO1lmkf"
+        },
+        {
+          "name": "Atitude Consciente",
+          "url": "https://open.spotify.com/artist/34ILrH8OV6fXpG611vxEMr"
+        },
+        {
+          "name": "Rossato",
+          "url": "https://open.spotify.com/artist/1iGxbhwpgFmsxVLvPsDefp"
+        },
+        {
+          "name": "Original Rap Records",
+          "url": "https://open.spotify.com/artist/3Wq34tjNQQumbYSV5tjuMo"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "Mente Vazia",
+      "url": "https://open.spotify.com/track/4p9lDnwg9ppTYE45jufcxn"
+    },
+    {
+      "album": {
         "name": "Mesmo Que Demore",
         "url": "https://open.spotify.com/album/6XG1oTFNh8dbvAFniA6ll1"
       },
@@ -6722,7 +6916,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 208725,
       "name": "Meu Fechamento",
       "url": "https://open.spotify.com/track/1Qh2N24WF6Vm0hJsWixrGr"
@@ -6836,7 +7030,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 186666,
       "name": "Minha Vida \u00e9 um Filme",
       "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
@@ -7774,7 +7968,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 159666,
       "name": "n\u00e3o d\u00e1 certo",
       "url": "https://open.spotify.com/track/0utqWsykxgSFqI1ODE9UqN"
@@ -7862,6 +8056,28 @@
       "duration_ms": 185000,
       "name": "N\u00e3o \u00c9 Ju",
       "url": "https://open.spotify.com/track/3dTOZAznQKLSApKHT0qYET"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o \u00c9 O Fim",
+        "url": "https://open.spotify.com/album/5o8wo85xwA3Iuxj3gBfmOA"
+      },
+      "artists": [
+        {
+          "name": "Lucca DL",
+          "url": "https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP"
+        },
+        {
+          "name": "Guxta",
+          "url": "https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "N\u00e3o \u00c9 O Fim",
+      "url": "https://open.spotify.com/track/6nkkvwCbDZ3qIdjkC7iwbo"
     },
     {
       "album": {
@@ -9268,7 +9484,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 249600,
       "name": "Pra que a Pressa?",
       "url": "https://open.spotify.com/track/59LLlft3KA8dR7eS6JzWZz"
@@ -11377,6 +11593,32 @@
     },
     {
       "album": {
+        "name": "TE SIGO",
+        "url": "https://open.spotify.com/album/0UAvDgzA4eqf8D2vyjHTmI"
+      },
+      "artists": [
+        {
+          "name": "S7lermo",
+          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
+        },
+        {
+          "name": "IssoQue\u00c9SomDeRap",
+          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
+        },
+        {
+          "name": "Cronus",
+          "url": "https://open.spotify.com/artist/1zK877kicLoZ5q8CiTN8li"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "TE SIGO",
+      "url": "https://open.spotify.com/track/5XQrh8uPye956BEwKlK2kq"
+    },
+    {
+      "album": {
         "name": "Te vi de canto",
         "url": "https://open.spotify.com/album/0MTuIQpLoSuhW5gSgfXYoS"
       },
@@ -11429,6 +11671,24 @@
     },
     {
       "album": {
+        "name": "Tela Em Branco",
+        "url": "https://open.spotify.com/album/6LyY9NR7rVsUskK2TWjQMb"
+      },
+      "artists": [
+        {
+          "name": "Biorki",
+          "url": "https://open.spotify.com/artist/1sIQXKcs888Hpux3MQTxWm"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239291,
+      "name": "Tela Em Branco",
+      "url": "https://open.spotify.com/track/6svY43n22Xzc2jMEvE7ngL"
+    },
+    {
+      "album": {
         "name": "Teletubbies",
         "url": "https://open.spotify.com/album/4RyAf3Wm273V4HD58YSCEF"
       },
@@ -11440,7 +11700,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 149015,
       "name": "Teletubbies",
       "url": "https://open.spotify.com/track/13e9MnBxT56dSznQcb4wFf"
@@ -11930,6 +12190,32 @@
       "duration_ms": 138352,
       "name": "Vai Vai",
       "url": "https://open.spotify.com/track/6BGTyTmiKSUDnNcxJCAfh7"
+    },
+    {
+      "album": {
+        "name": "Valioso",
+        "url": "https://open.spotify.com/album/6R25D8RauPYTEEBHeT3m5J"
+      },
+      "artists": [
+        {
+          "name": "Sena Mc",
+          "url": "https://open.spotify.com/artist/0KmUWyp6jHACYG8KaXiCyV"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Delli Beatz",
+          "url": "https://open.spotify.com/artist/7EaQWxFZ0tJfoXylyF4dSn"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175391,
+      "name": "Valioso",
+      "url": "https://open.spotify.com/track/6zUFTF5qhcLYZp6TUjGnX1"
     },
     {
       "album": {

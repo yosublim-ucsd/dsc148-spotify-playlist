@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 100 | [玫瑰少年](https://open.spotify.com/track/61AGYnjOfbazJR7WFyMNgI) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq) | [玫瑰少年](https://open.spotify.com/album/7fm4EiWCHTagqHdKlBVg3r) | 3:11 |
 | 101 | [沒有名字的地方](https://open.spotify.com/track/3rKtWI49zelWKvyejCaLLE) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [半熟理想](https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs) | 4:05 |
 
-Snapshot ID: `MCwxNmY5MGRhZjVhNDNjZmEzNDNjYTUzYmQ3YjQxYzJjYzBmNzRmZTU2`
+Snapshot ID: `MCxmYTQ1MTQ0ZTQyMDJjZTBkNjQwYWFlNGI1ODdhNjg4MjMzMDJkMjg0`

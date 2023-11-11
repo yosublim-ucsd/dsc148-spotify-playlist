@@ -2,9 +2,9 @@
 
 ### [Nu\-Blue](https://open.spotify.com/playlist/37i9dQZF1DXb3MZdETGqKB)
 
-> All new, all blues\. Cover: ZZ Ward
+> All new, all blues\. Cover: Shanice Green
 
-247 songs - 14 hr 23 min
+249 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Cheats and Liars](https://open.spotify.com/track/4PXYmSraZ4JEZsaBDJh2QG) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Cheats and Liars](https://open.spotify.com/album/2rZ2hqlzxMXvj2XN1i8DSZ) | 3:48 | 2021-08-20 | 2022-11-13 |
 | [Cheats and Liars](https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:48 | 2021-08-20 | 2023-02-14 |
 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/album/13MDxehHydYbrlS2bMTj2t) | 3:23 | 2021-03-05 | 2022-03-26 |
+| [Cold Hard Truth](https://open.spotify.com/track/3qSPTt22YYuzjpM2KIzsbp) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Sidecar](https://open.spotify.com/album/64o0omYS856v58Mm7rMvDp) | 2:35 | 2023-11-10 |  |
 | [Comes Easy to Me](https://open.spotify.com/track/3O0Q20ESvI3rLGWmcCSIe8) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Comes Easy to Me](https://open.spotify.com/album/4AyLn4EwySfPvpRGQa1wHy) | 2:49 | 2021-07-02 | 2022-06-19 |
 | [Control](https://open.spotify.com/track/0AchHP2MSvRlL3iKh6kfdt) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Control](https://open.spotify.com/album/1yj4EQuTKMf8VBz1wTAj0D) | 3:23 | 2021-08-13 | 2023-05-03 |
 | [Crazy](https://open.spotify.com/track/0NAAqjvEBnGzbAw3LMk16G) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:29 | 2021-07-30 | 2022-08-27 |
@@ -85,7 +86,7 @@
 | [Good for Nothing](https://open.spotify.com/track/5TWEKe4IotZ7WK5sWE3krv) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Good for Nothing](https://open.spotify.com/album/3uflPsxAFtm3IWLcb8yoY5) | 3:10 | 2021-12-17 | 2022-06-19 |
 | [Good Times](https://open.spotify.com/track/5cUjDokJ7BpzghS8gcRhWi) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Good Times](https://open.spotify.com/album/4LtBDjPPZbgcinG0qCyuwR) | 3:14 | 2022-04-08 |  |
 | [Good Times](https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Good Times](https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx) | 3:14 | 2022-04-08 | 2023-11-06 |
-| [Grown Folks Love](https://open.spotify.com/track/60Bnlpj51IUFDK7Tcyinii) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Grown Folks Love](https://open.spotify.com/album/4IPV2zybll9xnQg8r1vx6J) | 2:48 | 2023-05-12 |  |
+| [Grown Folks Love](https://open.spotify.com/track/60Bnlpj51IUFDK7Tcyinii) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Grown Folks Love](https://open.spotify.com/album/4IPV2zybll9xnQg8r1vx6J) | 2:48 | 2023-05-12 | 2023-11-11 |
 | [Hey Gringo](https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:44 | 2021-04-23 | 2022-05-07 |
 | [Hits Like Lightning](https://open.spotify.com/track/2LqmcwGSsTg7D97UMr0u0s) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Hits Like Lightning](https://open.spotify.com/album/3OU9uPVaZH8WIXW2lCFd45) | 2:42 | 2022-04-08 |  |
 | [Hole in my Pocket](https://open.spotify.com/track/4oh43xqoxC717eB5JNZwt1) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Hole in my Pocket](https://open.spotify.com/album/27QYUwNoXfRVlLw7x8FOQ4) | 4:18 | 2023-02-13 |  |
@@ -221,11 +222,12 @@
 | [The Message](https://open.spotify.com/track/6Qid5XSXyMiePb3XJruQ7w) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Black Violin](https://open.spotify.com/artist/4zeHJ3kiJyjYXlIOcG4MA7) | [The Message](https://open.spotify.com/album/36YVwk07KjYWZqtGLHkl0K) | 4:04 | 2022-09-09 |  |
 | [The Other Side \(feat\. J.R\. & the Allnighters\)](https://open.spotify.com/track/6RA6hnbhyvf6QeLa1q56sj) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc), [J.R\. & the Allnighters](https://open.spotify.com/artist/1lLhuyyaZHDjegxpEhXuk8) | [The Other Side \(feat\. J.R\. & the Allnighters\)](https://open.spotify.com/album/0k4btVrVx2wN9MEhRBaZEh) | 3:12 | 2021-02-05 | 2022-03-26 |
 | [The Search For Happiness](https://open.spotify.com/track/7tq4k2u9kjfJzZlXuV0yGZ) | [Toby Lee](https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz) | [The Search For Happiness](https://open.spotify.com/album/4Ffs0ZxpYhLvMv4l19fXmf) | 6:01 | 2021-02-05 | 2022-03-26 |
-| [The Truth](https://open.spotify.com/track/1kQX0xM3efET212Y1Lq0ZG) | [Cory Young](https://open.spotify.com/artist/2Q9hV3hL1afFgz6kRegFEg) | [The Truth](https://open.spotify.com/album/3YBphoBChUZZa490iIB62T) | 2:03 | 2022-02-18 |  |
+| [The Truth](https://open.spotify.com/track/1kQX0xM3efET212Y1Lq0ZG) | [Cory Young](https://open.spotify.com/artist/2Q9hV3hL1afFgz6kRegFEg) | [The Truth](https://open.spotify.com/album/3YBphoBChUZZa490iIB62T) | 2:03 | 2022-02-18 | 2023-11-11 |
 | [They Go Low](https://open.spotify.com/track/1eitHDsIABJAY8TrL12pL2) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [They Go Low](https://open.spotify.com/album/0L58grRHcrow6YfYhckIxb) | 3:42 | 2022-05-06 |  |
 | [They Go Low \- Acoustic](https://open.spotify.com/track/5aKArVxYbCjkJrUIHfLKCo) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Grandfather Courage \(Acoustic\)](https://open.spotify.com/album/6sM7djEM6jfXIo1TpDgYZj) | 4:09 | 2023-02-03 | 2023-02-14 |
 | [Throw This Rope](https://open.spotify.com/track/1MbszgW431CEH2bik2ct6J) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Throw This Rope](https://open.spotify.com/album/5JELtrZUiqwmwQd98bJ2vG) | 2:30 | 2023-07-28 |  |
 | [Too Bold \- Diamond Remix \(Radio Edit\)](https://open.spotify.com/track/1y7jhEe6UsTYIFnu3a0Mmu) | [Shingai](https://open.spotify.com/artist/7woNunWFUYvNqvaBxOEGUJ), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [Tawiah](https://open.spotify.com/artist/4KGv7zG47u8hMcFGj5xhJV), [Celisse Henderson](https://open.spotify.com/artist/177oBO6n9Xu3vJBRLFgepH), [Ala.Ni](https://open.spotify.com/artist/6ezEFZpvL8TqZrVUAQRov4), [MVM](https://open.spotify.com/artist/4yTMehdrfNS5my16yd2qYr), [Jelly Cleaver](https://open.spotify.com/artist/7brjzhmgOWCGkdEI2AIRzl), [Megan Coleman](https://open.spotify.com/artist/3UwGCYZVzMRKiNQHrtLy8m) | [Too Bold \(Diamond Remix\)](https://open.spotify.com/album/00Y0pCGuMYeO5GudIcBoEv) | 3:31 | 2021-03-12 | 2022-03-26 |
+| [Train](https://open.spotify.com/track/2OSgMSxdu1OgPWZmjSICtt) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Train](https://open.spotify.com/album/30441czI78xULystFpO9p5) | 3:52 | 2023-11-10 |  |
 | [Trudoo](https://open.spotify.com/track/4Sn5zo5BXRhMp54m20sQNg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Trudoo](https://open.spotify.com/album/22RA78OrEQBFsWO0GOrBW3) | 3:37 | 2022-04-08 | 2022-06-19 |
 | [Two Plus Two Is Five](https://open.spotify.com/track/5IUlrVdOqBxaNbMgFFTgMC) | [Jon Kenzie](https://open.spotify.com/artist/31eXvMCHf7z4m5IzsZmVKA) | [Two Plus Two Is Five](https://open.spotify.com/album/43SQsyna8h0sWhlwQWIRNy) | 2:58 | 2023-03-03 |  |
 | [Undefeated](https://open.spotify.com/track/3FyM4pilFg0bDWYSuJ1WCu) | [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [Undefeated](https://open.spotify.com/album/0m2p8fU5SUampJHBYTuodi) | 2:07 | 2023-01-20 |  |

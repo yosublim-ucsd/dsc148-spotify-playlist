@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Shakira & Fuerza Regida",
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Jessi Uribe",
   "name": "La + Popular",
   "tracks": [
     {
@@ -1423,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "ERES",
+        "url": "https://open.spotify.com/album/5dKSoVrPfoyvr9UaxnJMPu"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "ERES",
+      "url": "https://open.spotify.com/track/6EYyCZ5gsRb1xNdyXYtEJF"
+    },
+    {
+      "album": {
         "name": "Ese Fui Yo",
         "url": "https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom"
       },
@@ -2385,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "ni t\u00fa ni yo",
+        "url": "https://open.spotify.com/album/54QpV1YNnLRak4dzeas1ZB"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175203,
+      "name": "ni t\u00fa ni yo",
+      "url": "https://open.spotify.com/track/0kH1Bp0VeWqBenyfzV0alC"
+    },
+    {
+      "album": {
         "name": "No Copio de Nada",
         "url": "https://open.spotify.com/album/6i0OPQJveV0dkMlOb3jQWF"
       },
@@ -2502,7 +2538,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 198545,
       "name": "No Me Hubiera Enamorado",
       "url": "https://open.spotify.com/track/5qTOMXiOdtjgaaqnrANccu"
@@ -2582,7 +2618,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 180600,
       "name": "No Te Guardo Rencor",
       "url": "https://open.spotify.com/track/1HtnC5ryoojHGlbMrEAGcY"
@@ -3178,7 +3214,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 179188,
       "name": "Si Me Vas Abandonar (Norte\u00f1o)",
       "url": "https://open.spotify.com/track/5i5OIawLy7YP0mq2S8eOMN"
@@ -3258,6 +3294,24 @@
       "duration_ms": 148866,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/3x0cDerFLCgNxTsUWtjoAi"
+    },
+    {
+      "album": {
+        "name": "Sobrevivir\u00e9",
+        "url": "https://open.spotify.com/album/5J4Phy8c2UDxTQ1kB4ThgN"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236731,
+      "name": "Sobrevivir\u00e9",
+      "url": "https://open.spotify.com/track/0er9eZxOsGP652IMsKCVil"
     },
     {
       "album": {

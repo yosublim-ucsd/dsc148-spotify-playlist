@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,071 likes - 282 songs - 15 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,284 likes - 282 songs - 15 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 36 | [Fknow It](https://open.spotify.com/track/25OrWN8wbqdUzTFKVSMRT6) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fknow It](https://open.spotify.com/album/3sKCHUJUmKYQPTnYMopHba) | 4:16 |
 | 37 | [U&ME](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [U&ME](https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq) | 3:15 |
 | 38 | [Cut](https://open.spotify.com/track/2y8USOrYuvaz4BqN9guAt4) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Healers Vol\. 1](https://open.spotify.com/album/2Ll1j6O1ipT0z9w5VBymq8) | 1:58 |
-| 39 | [My Friends \- Alex Adair Remix](https://open.spotify.com/track/1drLea3bewCVr3VyGephpe) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [My Friends \(Alex Adair Remix\)](https://open.spotify.com/album/4MHuyEDp32uAArppwn5dpu) | 2:59 |
+| 39 | [My Friends \(Alex Adair Remix\)](https://open.spotify.com/track/2mLtJ1YHEXooZ2FxMnVsHe) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [My Friends \(Alex Adair Remix\)](https://open.spotify.com/album/0P8gcmEsMyniBuoFn5mxVL) | 2:59 |
 | 40 | [Let's Go \- VisionV Remix](https://open.spotify.com/track/0104sIQMZgxXypN1oYEA0e) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ) | [Let's Go \(VisionV Remix\)](https://open.spotify.com/album/6t5iHYyCKEUlz9CqdpossF) | 2:29 |
 | 41 | [Connection \- OLAN Remix](https://open.spotify.com/track/7sO1orGW0luwyk8A0msOOM) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Connection \(OLAN Remix\)](https://open.spotify.com/album/65Qp0I8uDysKMCUKrsVynv) | 4:04 |
 | 42 | [HOLD ON TO \(feat\. Boy Beverly\)](https://open.spotify.com/track/7tPr0sdfWxxsr1pv42FlTh) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Boy Beverly](https://open.spotify.com/artist/6z9kwy3tDuTCZuDZkvZj0p) | [HOLD ON TO / THE FEELING](https://open.spotify.com/album/34F0OBeBCu9hXGlttja3w1) | 2:08 |
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 129 | [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 |
 | 130 | [Sun Showers](https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:34 |
 | 131 | [So Sweet](https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:27 |
-| 132 | [Patchouli](https://open.spotify.com/track/37WdQxvQVFVsWwQvk4uCQd) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Patchouli](https://open.spotify.com/album/2TSyEyxSs1gtLBN7Uprdfg) | 4:47 |
+| 132 | [Patchouli](https://open.spotify.com/track/6E540MKmdFLZyITSAtZ6Z1) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 4:47 |
 | 133 | [be with you](https://open.spotify.com/track/4GBZ0ZOU9D0pefvZ2V8WCP) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [be with you](https://open.spotify.com/album/0aPSe9U1cK6Q0oFJpvlMcR) | 3:03 |
 | 134 | [Too Much](https://open.spotify.com/track/2EphCkHwxnplLCvPslzS74) | [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Too Much](https://open.spotify.com/album/41p1g2DoL55ttVaqfQ9mpM) | 2:33 |
 | 135 | [let’s end it](https://open.spotify.com/track/52tlJzalr0InyauY1TGBfV) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8), [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [let's end it](https://open.spotify.com/album/7xTS4LeLQdd9NkIHAxQJjs) | 2:58 |
@@ -291,4 +291,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 281 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 282 | [Just The Way I Feel](https://open.spotify.com/track/26ZLujrsJ2JQ8QWHYOe9B3) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [EMIAH](https://open.spotify.com/artist/2SvY2cO17kdD3swIBGOxs8) | [Just The Way I Feel](https://open.spotify.com/album/2P642dj0EaJxTs1fRpkqxa) | 3:06 |
 
-Snapshot ID: `MCw3YTJkODY1NTliZTI5N2I0OTU0MTVmZjVjNzIxZGJlZmY5OGY5MGUx`
+Snapshot ID: `MCw0NmRkNjVlOWI5ZGUwOGE4NGVkMDczMjhiMzliZDJlZjM4YTY5NDQw`

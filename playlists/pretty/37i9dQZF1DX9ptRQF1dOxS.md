@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Cover: Jazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,457 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,661 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 3 | [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 |
 | 4 | [The Edge](https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [The Edge](https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP) | 2:33 |
 | 5 | [Strong](https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:54 |
-| 6 | [Take You There](https://open.spotify.com/track/6GdY4mLQaUxn8d2JLJMrCO) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Take You There](https://open.spotify.com/album/3Wd4rqQpK9tK7rPmXbMGIF) | 3:43 |
+| 6 | [Take You There](https://open.spotify.com/track/322CEeh6aukWbZkqJU8lhI) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Take You There](https://open.spotify.com/album/7eyBGIi1aKKeSpEaDJGlWf) | 3:43 |
 | 7 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 |
 | 8 | [FUN \- yunè pinku Remix](https://open.spotify.com/track/7dUL7g3m05OdcGLcs3V0uS) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [FUN \(yunè pinku Remix\)](https://open.spotify.com/album/69fs5PB0bHIQ8UTUzUWpWo) | 2:51 |
 | 9 | [die young](https://open.spotify.com/track/6gz1rkKGjyRciDhXQRe5Am) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [zero experience](https://open.spotify.com/album/1WsyR6Rubboirjmw69zHc0) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 49 | [Secrets](https://open.spotify.com/track/38hQXThozZBXXqP5kI4lhk) | [HY:LY](https://open.spotify.com/artist/18XyjTfcu55D4yBOT0fcS2) | [Secrets](https://open.spotify.com/album/3R1nJBmdtnOk38QpPK4PDm) | 5:15 |
 | 50 | [Sooty Tern](https://open.spotify.com/track/2ZEoZ5foOpPF1ofkSvYSGn) | [ELLLL](https://open.spotify.com/artist/40W5fNvMZwLnag1FYei0Jk) | [Sooty Tern](https://open.spotify.com/album/6Dnx8uIMKgBEUAHT5LL71X) | 6:04 |
 
-Snapshot ID: `MCw0OGYzNzg0YTIzNTA0MzNlZWYwMmM3NzJiYjQ1ZjNmZjM4MWZiNzI4`
+Snapshot ID: `MCxjYzMyODU4ZjBmZWFlZjY3OTdiYzZkZmIzNTMwNTMyZjNlMjIwMTUw`

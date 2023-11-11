@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover:Jung Dong Ha\(정동하\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,077 songs - 2 day 21 hr 49 min
+1,078 songs - 2 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [Miracle](https://open.spotify.com/track/1YlRoSQJk4X87A5qujM7Uq) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Miracle](https://open.spotify.com/album/1fv8Fets8de0cbRrj3p3sX) | 3:56 | 2023-01-20 | 2023-03-28 |
 | [Miracle](https://open.spotify.com/track/03foRBkthqRkysYT7FxWZV) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Miracle \- SM STATION](https://open.spotify.com/album/54O0kItm5ej0HThVMIv5hF) | 4:12 | 2023-01-27 | 2023-04-27 |
 | [Mirror](https://open.spotify.com/track/4yYr4DzjAD7JZIrSd1CoZT) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Crazy in Love](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 4:18 | 2022-01-14 | 2022-01-17 |
+| [Miss You](https://open.spotify.com/track/6TPJUSTwkXVJTdJJZDn8Kf) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Miss You](https://open.spotify.com/album/5KikwWA1Iu4wRvp8HYfCnD) | 3:06 | 2023-11-10 |  |
 | [Miss You](https://open.spotify.com/track/0NDS6ljDOf9wNaT1hnvUQ6) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [THE M Pt\. 3](https://open.spotify.com/album/5ueOIlQ88WvT9tL6SKvU7D) | 4:07 | 2022-02-25 | 2022-04-17 |
 | [Miss you.\. want to caress you \(Something Between Us X Monday Kiz\)](https://open.spotify.com/track/0hItNTeDE4VYgm8lxxzlir) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Miss you.\. want to caress you \(Something Between Us X Monday Kiz\)](https://open.spotify.com/album/09KjzzpY8alpaYvkzI4fxX) | 4:02 | 2022-07-07 | 2022-09-06 |
 | [Missing You](https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Brother Act.](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) | 3:56 | 2022-10-01 | 2023-01-11 |

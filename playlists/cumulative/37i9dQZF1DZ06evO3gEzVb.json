@@ -518,7 +518,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 294893,
       "name": "Meda Me Gya Mu",
       "url": "https://open.spotify.com/track/5eh38lehGYMMQQzuhkgL5I"
@@ -666,6 +666,24 @@
       "duration_ms": 353586,
       "name": "Nom Nsuo Twen Ope",
       "url": "https://open.spotify.com/track/5fk8CSR80agT1Tmcs6CtV1"
+    },
+    {
+      "album": {
+        "name": "Nya Abotare Na Twen Awurade",
+        "url": "https://open.spotify.com/album/4Dl8JzJKyvFknT3EFrDy0b"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317853,
+      "name": "Nya Abotare Na Twen Awurade",
+      "url": "https://open.spotify.com/track/5OLV1y4zLXIX5OoAzKcJxZ"
     },
     {
       "album": {
@@ -958,7 +976,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 237680,
       "name": "Wate Asee",
       "url": "https://open.spotify.com/track/0beTO2UOwZe2FFjzOESo7j"

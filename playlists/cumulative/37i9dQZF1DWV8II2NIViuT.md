@@ -4,7 +4,7 @@
 
 > Stevie Wonder's rich catalog, interpreted by artists from a wide variety of musical genres.
 
-38 songs - 2 hr 29 min
+39 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/0qIrnnYpLIysIjlJHJbl94) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/album/6vFfPLuYgXwticExvhxOmY) | 3:03 | 2023-08-03 |  |
 | [Superstition](https://open.spotify.com/track/4UCWKwvKwcyUQagaD85X0I) | [Beck, Bogert, Appice](https://open.spotify.com/artist/5IjFZHS2iHNl5pMwLzDySP) | [Beck, Bogert, Appice](https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz) | 4:16 | 2023-08-03 |  |
 | [Superstition](https://open.spotify.com/track/2LouKR49zIvoy2lvGi5IMP) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Talking Book](https://open.spotify.com/album/7cs9sXBZlBXlEq47p26uBA) | 4:30 | 2023-08-03 |  |
-| [The Real Thing](https://open.spotify.com/track/1wO2D4oTnh3VygNnRi4Eca) | [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [Stevie Wonder Covers](https://open.spotify.com/album/7b6FDYTdZucw9p5FRod078) | 4:33 | 2023-08-03 |  |
+| [The Real Thing](https://open.spotify.com/track/1wO2D4oTnh3VygNnRi4Eca) | [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [Stevie Wonder Covers](https://open.spotify.com/album/7b6FDYTdZucw9p5FRod078) | 4:33 | 2023-08-03 | 2023-11-11 |
+| [The Real Thing](https://open.spotify.com/track/3Ql5gAACwGaSpZshJM5ePe) | [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [All In One](https://open.spotify.com/album/3AsYWD9dam70RGg00LCC3o) | 4:33 | 2023-08-03 |  |
 | [Until You Come Back to Me \(That's What I'm Gonna Do\)](https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Let Me In Your Life](https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC) | 3:28 | 2023-08-03 |  |
 | [Visions](https://open.spotify.com/track/3evLDlldkPh1TO9XDrNFv1) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Conception \- An Interpretation Of Stevie Wonder's Songs](https://open.spotify.com/album/0YZ71lmEMbf2kyyCppL76Q) | 5:34 | 2023-08-03 |  |
 | [You And I](https://open.spotify.com/track/0yZ1VBdUdX2dEBXv4LXzn8) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [In My Room](https://open.spotify.com/album/70N5l7CBZmAMCh1WfnM6in) | 4:21 | 2023-08-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Ragpickers
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,494 likes - 106 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,500 likes - 106 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 23 | [One More Round](https://open.spotify.com/track/35dJ3LvEcV52F5R17IOFRC) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC) | [One More Round](https://open.spotify.com/album/78Zdxbk2r8xrTa4ivaB50Q) | 3:19 |
 | 24 | [天使999%](https://open.spotify.com/track/5gheISXZ452VrOcVnpy69G) | [Helen So 蘇凱倫](https://open.spotify.com/artist/5xlDKh4xnSrMDM35VCGb11) | [天使999%](https://open.spotify.com/album/5sG2VZ8ou6pGukVpWvNnn1) | 2:50 |
 | 25 | [M.O.B \(My Own Boss\)](https://open.spotify.com/track/7iNtZTnk5iXHYjQTZKZ4M3) | [Big Sammy](https://open.spotify.com/artist/1JsfjzT0JNGa8neELgJBhX) | [M.O.B \(My Own Biz\)](https://open.spotify.com/album/2olCQySy1I4q9w0C47fGq1) | 3:17 |
-| 26 | [Goodbye \(While I Still Remember You\)](https://open.spotify.com/track/4UxRLxVCveG0DrPm8tgqk1) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot), [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5) | [Goodbye \(While I Still Remember You\)](https://open.spotify.com/album/1sVlWhnJ3YcvPu2Huv026Y) | 4:00 |
+| 26 | [Goodbye \(While I Still Remember You\)](https://open.spotify.com/track/245BRQjHLljL2Z2xGtycMr) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot), [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5) | [A](https://open.spotify.com/album/2IkSsvBy5uMOfxhOSQQcul) | 4:00 |
 | 27 | [summer's luv](https://open.spotify.com/track/3ufpkdyCjcewTOF7QrmNKB) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [summerfling\*](https://open.spotify.com/album/4eQXyiXvXByOadOwuRIbnE) | 3:05 |
 | 28 | [不定時夏休](https://open.spotify.com/track/7GEDieAbvwmeE3oXdYitay) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [不定時夏休](https://open.spotify.com/album/1rZJ4dpZIYaXfwK7sublyj) | 3:00 |
 | 29 | [HIDDEN LINE 澈](https://open.spotify.com/track/0oVfc2J8LVgeEet4cVvuKv) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [Alexmalism](https://open.spotify.com/artist/2UwJTbVVDgt5KKRK5i94zD) | [HIDDEN LINE 澈](https://open.spotify.com/album/2xcyfqDHVcmwJ6SNGpfBKt) | 3:52 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 105 | [Lucky Girl Syndrome](https://open.spotify.com/track/3cjzj5M52Jl0u6JHNTU7z8) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Lucky Girl Syndrome](https://open.spotify.com/album/4LA9YSzUkfXimeP4Tq7xmC) | 2:36 |
 | 106 | [Sorry呢度係香港](https://open.spotify.com/track/1RVoiNHphu8IfIJK8T1b2Q) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [Sorry呢度係香港](https://open.spotify.com/album/5FajEbPVB8XfS5TfpSy5Ui) | 3:26 |
 
-Snapshot ID: `MCw2MGU0OGU3MzAwN2MwMWM2MDNlNGE0MjFhZWU4ZWRlYmRlOTI3ODlj`
+Snapshot ID: `MCwzMGE3NWNlZTc1ODY0NzNlNzJlMjJlNzA0ZTk0NmJhYzQxYTUzZDEy`

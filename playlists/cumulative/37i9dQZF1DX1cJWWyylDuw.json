@@ -4061,6 +4061,24 @@
     },
     {
       "album": {
+        "name": "Dedication To Flesh",
+        "url": "https://open.spotify.com/album/5g8OeROCewoYawxiNCmFXU"
+      },
+      "artists": [
+        {
+          "name": "Spite",
+          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176120,
+      "name": "Hangman",
+      "url": "https://open.spotify.com/track/6jTLLKecAg7QMJxtUt4b0z"
+    },
+    {
+      "album": {
         "name": "Hate Circuit",
         "url": "https://open.spotify.com/album/4OsVDHkWGn0zJrosvqLdJ3"
       },
@@ -7872,7 +7890,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 236670,
       "name": "The Empress",
       "url": "https://open.spotify.com/track/4lLWQ8QqCnkLK7RtJ69q6b"

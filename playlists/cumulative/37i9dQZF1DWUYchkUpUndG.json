@@ -10167,6 +10167,24 @@
     },
     {
       "album": {
+        "name": "Atmosphere of the Spirit",
+        "url": "https://open.spotify.com/album/43tudKVZ3ZUTzzWULmZx0F"
+      },
+      "artists": [
+        {
+          "name": "Depths of Worship",
+          "url": "https://open.spotify.com/artist/3TIsFycbG1A7hLXusMmmcI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404203,
+      "name": "I See Jesus",
+      "url": "https://open.spotify.com/track/5Ac6yASLXh0Se6lp4DxlyJ"
+    },
+    {
+      "album": {
         "name": "I Still Believe (Remix)",
         "url": "https://open.spotify.com/album/0D5WeWMKWVPqOLzmZEeOdF"
       },

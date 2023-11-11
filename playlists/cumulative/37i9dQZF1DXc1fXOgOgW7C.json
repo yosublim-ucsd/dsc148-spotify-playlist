@@ -646,7 +646,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 216346,
       "name": "Ingrediente",
       "url": "https://open.spotify.com/track/6M6aCePRkHqmQsUGa6BegN"
@@ -668,6 +668,24 @@
       "duration_ms": 277318,
       "name": "Insisto",
       "url": "https://open.spotify.com/track/0yCKreevOzN7ekcw7e4PuS"
+    },
+    {
+      "album": {
+        "name": "Atesorando los cielos",
+        "url": "https://open.spotify.com/album/5TkkA7O5NFZJes2HaEtja3"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Iorio",
+          "url": "https://open.spotify.com/artist/0HNFg6mSgz7WLcN74CI3oT"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287226,
+      "name": "Justo Que Te Vas",
+      "url": "https://open.spotify.com/track/3Oylj0SZiK5tpFn5BXYEpZ"
     },
     {
       "album": {
@@ -794,7 +812,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 253520,
       "name": "Mas o Menos Bien",
       "url": "https://open.spotify.com/track/5NY1Up0CdDRwKDlEmOsQ8X"
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 186000,
       "name": "Si Me Voy",
       "url": "https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak"

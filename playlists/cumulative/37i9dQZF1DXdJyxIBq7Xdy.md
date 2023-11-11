@@ -4,7 +4,7 @@
 
 > The most definitive female voices in Disco\. Cover: Chaka Khan
 
-60 songs - 4 hr 7 min
+61 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,15 +48,16 @@
 | [If I Can't Have You](https://open.spotify.com/track/0QjPiq9Wka9I1b4uzWETYI) | [Yvonne Elliman](https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS) | [The Best Of Yvonne Elliman](https://open.spotify.com/album/0AzxFeB4qg0FXpmXTDuyDj) | 3:00 | 2019-02-26 |  |
 | [If I Can't Have You \- 2007 Remastered Version Saturday Night Fever](https://open.spotify.com/track/1tsWNtWxi7SVydMm2G1W6Z) | [Yvonne Elliman](https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS) | [Saturday Night Fever \[The Original Movie Soundtrack\]](https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac) | 3:00 | 2019-02-26 | 2022-07-29 |
 | [If I Can't Have You \- From "Saturday Night Fever"](https://open.spotify.com/track/3UBstbKHvHl4bTQqpt43OJ) | [Yvonne Elliman](https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS) | [Heartbreak Hits](https://open.spotify.com/album/2Wkg1yF5VJN0odtEl0ZNsN) | 2:56 | 2019-02-26 | 2022-11-13 |
-| [It's Raining Men](https://open.spotify.com/track/1SfYqNab6yiVBKUHhEXGAD) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [It's Raining Men](https://open.spotify.com/album/29FzCeOr6UcJ1ilcbWwoyF) | 3:34 | 2019-02-26 |  |
 | [It's Raining Men \- Single Version](https://open.spotify.com/track/54rjlka9h5VCl8ugns7gvt) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [NOW That's What I Call Dance Classics](https://open.spotify.com/album/5Id6lq8DEcTDC3fiThdDFK) | 3:31 | 2019-02-26 | 2022-07-29 |
 | [It's Raining Men \- Single Version](https://open.spotify.com/track/4caiYv89C9GZdDD1RzshWd) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [Dance Hits \- 80s & 90s](https://open.spotify.com/album/0LvOMujcrO1z87O3vAOsJL) | 3:31 | 2019-02-26 | 2022-11-13 |
+| [It's Raining Men \- Single Version](https://open.spotify.com/track/1SfYqNab6yiVBKUHhEXGAD) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [It's Raining Men](https://open.spotify.com/album/29FzCeOr6UcJ1ilcbWwoyF) | 3:34 | 2019-02-26 |  |
 | [Jump \(For My Love\)](https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out](https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5) | 4:27 | 2019-02-26 |  |
 | [Knock On Wood](https://open.spotify.com/track/081prZUECLXcWgmg98FxDS) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock On Wood](https://open.spotify.com/album/7knNWrNpy0By8sLlgxnfki) | 4:10 | 2019-02-26 |  |
 | [Lady Marmalade](https://open.spotify.com/track/3GGcwG519BTMdvMeFy7meT) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Best Of Patti Labelle](https://open.spotify.com/album/2fgrmnOGJzwU79xlHe4Iub) | 3:55 | 2019-02-26 |  |
 | [Love Come Down \- Single Version](https://open.spotify.com/track/3ZpSFamHHJE4kL59IePR7P) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Essential \- Soul Love](https://open.spotify.com/album/7LNiJbdcg604Tfr5revoL6) | 3:37 | 2019-02-26 |  |
 | [Love Come Down \- Single Version](https://open.spotify.com/track/2RCOWNCxDIphjhqTtkwtwR) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [The Best Of Evelyn "Champagne" King](https://open.spotify.com/album/6W7na0F9qczswPzdb42rZO) | 3:40 | 2019-02-26 | 2022-07-29 |
-| [Love Sensation](https://open.spotify.com/track/4OmDRl8nlE1IkWkwS82nY3) | [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [Love Sensation](https://open.spotify.com/album/4eK7j8ZSR9AGn3mR8WGqtr) | 6:06 | 2019-02-26 |  |
+| [Love Sensation](https://open.spotify.com/track/3su8VunluUL4Oj7UTTEREt) | [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [Love Sensation](https://open.spotify.com/album/46bWgJ0CY5IdtUdajmnDjP) | 6:06 | 2019-02-26 |  |
+| [Love Sensation](https://open.spotify.com/track/4OmDRl8nlE1IkWkwS82nY3) | [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [Love Sensation](https://open.spotify.com/album/4eK7j8ZSR9AGn3mR8WGqtr) | 6:06 | 2019-02-26 | 2023-11-11 |
 | [More, More, More](https://open.spotify.com/track/4hepyFFOO9I7oZCNn3T2sz) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 3:03 | 2019-02-26 |  |
 | [Pull Up To The Bumper](https://open.spotify.com/track/3a5l5ngK3O7sprzL3FUoAs) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing \(2014 Remaster / Deluxe\)](https://open.spotify.com/album/0Asrv0BRKSQcRPMcfFFXaK) | 4:41 | 2019-02-26 | 2022-07-29 |
 | [Pull Up To The Bumper](https://open.spotify.com/track/5VpDYLvj2R2D69irsL5Mra) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Fill The Dance Floor](https://open.spotify.com/album/5gc6mLkEYKdwD58QlODJED) | 4:41 | 2019-02-26 | 2022-11-13 |

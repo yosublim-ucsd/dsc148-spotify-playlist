@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sanathan Shree Krishnan",
-  "num_followers": 4903,
+  "num_followers": 4947,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjA5ZDhiYmIzNTM0M2ZiZDMyNDhiZDU4MTQwZjAxNmNiZWM3OGQx",
+  "snapshot_id": "MCwwYWRmMjcxMTQ4Njc2ZGJmZDdkMDdmZGFhNzI1M2Y5NTY2ZmNiMDY3",
   "tracks": [
     {
       "added_at": "2023-10-27 09:17:06",
@@ -531,6 +531,26 @@
       "duration_ms": 376354,
       "name": "The Gym",
       "url": "https://open.spotify.com/track/4JqF7JsvHJsYp9YpxiJnhe"
+    },
+    {
+      "added_at": "2023-11-10 11:30:04",
+      "album": {
+        "name": "Thanga Magale",
+        "url": "https://open.spotify.com/album/7usdwmLURTexL1nUdmnlmL"
+      },
+      "artists": [
+        {
+          "name": "Vibin Baskar",
+          "url": "https://open.spotify.com/artist/3OisU7UGOiAZ7PmJrV128w"
+        },
+        {
+          "name": "Srini Selvaraj",
+          "url": "https://open.spotify.com/artist/3e7p6Qs8gwYezBhY1V2ypm"
+        }
+      ],
+      "duration_ms": 194204,
+      "name": "Thanga Magale",
+      "url": "https://open.spotify.com/track/5dwCMKQcJodMO8rWFcuv7p"
     },
     {
       "added_at": "2023-09-08 09:06:37",

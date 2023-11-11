@@ -4,7 +4,7 @@
 
 > Downtempo and ambient electronic music\. Feel the undertones 🍃
 
-262 songs - 21 hr 43 min
+264 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Daybreak](https://open.spotify.com/track/3sL6a6Wi6wdmPjtQAS207O) | [Albrecht La'Brooy](https://open.spotify.com/artist/6DASyEwgMVz1aU1EpgpwWv) | [Tidal River](https://open.spotify.com/album/1n4dFtxCRRsYpmPdoLDEfk) | 5:16 | 2020-10-20\* | 2021-11-26 |
 | [diyalana](https://open.spotify.com/track/7H08CPxNdNLZrgSKM8sceM) | [Allara](https://open.spotify.com/artist/2SOHs50n32zI2YXcZTVeov), [Phoebe Elsworth](https://open.spotify.com/artist/5XCXueEAhkV3YDXQZJUo3k) | [diyalana](https://open.spotify.com/album/2tFoIXhyk0nZPJYelEXjKm) | 4:33 | 2022-04-08 |  |
 | [don't be so hard on yourself](https://open.spotify.com/track/0j69d3zENO7ZVjplwetmQp) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [it's good to hear your voice](https://open.spotify.com/album/5gaYJvbHf1NlOScEQvUSzZ) | 2:25 | 2021-08-21 | 2023-09-15 |
-| [Dreaming Of High Fidelity](https://open.spotify.com/track/2HRbd2lJKkWWBGT2IRVr4j) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Transit](https://open.spotify.com/album/0MGV2N8Dr2Vy71qTDN7LXL) | 5:59 | 2023-09-14 |  |
+| [Dreaming of High Fidelity](https://open.spotify.com/track/10X5d98YvJOFn1YShtEMGj) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Transit](https://open.spotify.com/album/1ohINfz1vkkg9NbVe3Z2RT) | 5:59 | 2023-09-14 |  |
+| [Dreaming Of High Fidelity](https://open.spotify.com/track/2HRbd2lJKkWWBGT2IRVr4j) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Transit](https://open.spotify.com/album/0MGV2N8Dr2Vy71qTDN7LXL) | 5:59 | 2023-09-14 | 2023-11-11 |
 | [Echidna](https://open.spotify.com/track/53l9yuEnwdZt3bAd7AoYBR) | [Gambusia](https://open.spotify.com/artist/3OrVLfEcWIkUSAfIKZusyT) | [Echidna](https://open.spotify.com/album/44bhlEA1YUxuFaOux3qWxE) | 6:49 | 2023-09-14 |  |
 | [Elaenia](https://open.spotify.com/track/6jOuX9gIkhcS2ibdoWDaCb) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/4kPdKvrSCTEEcJTqCNkGc8) | 7:14 | 2020-10-20\* | 2021-08-21 |
 | [Eloquent](https://open.spotify.com/track/4jb7meF5ZaTIcmLQPIXVr7) | [Zen in Space](https://open.spotify.com/artist/3tCapIBvPdztdjuCnoout6) | [Eloquent](https://open.spotify.com/album/6DIbI5vL3WwrO40wRYzGDm) | 3:12 | 2023-09-14 |  |
@@ -190,7 +191,8 @@
 | [React](https://open.spotify.com/track/6IJgnVyUdwRlRg4PU4VGRa) | [Body Corp](https://open.spotify.com/artist/47kJiM0ksgZti3nuMq1opC) | [React](https://open.spotify.com/album/3ODoCkbYLLUL5S3HLg1mWl) | 3:42 | 2022-09-29 |  |
 | [Real Life Feeling](https://open.spotify.com/track/0g3Ds3Fv58DIYaBYwG4YJh) | [Thomas Gray & Liam Ebbs](https://open.spotify.com/artist/5lfD0vOepeC8wicb3RdkwK) | [Real Life Feeling](https://open.spotify.com/album/4ZLJhC4hpLXrPzsvnePfSR) | 6:03 | 2023-09-14 |  |
 | [Recovery](https://open.spotify.com/track/76KAhZF6OzEzNXs4gotNO0) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Singularity](https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO) | 5:35 | 2020-10-20\* | 2021-04-09 |
-| [Relax](https://open.spotify.com/track/1351mqeM6hcQoeIPp0ep0r) | [Slow Rotation Inc](https://open.spotify.com/artist/5qIy5MO9Iijv5V2FYyFN51) | [Relax](https://open.spotify.com/album/3ObijBdZIfJwGBEIjszUbO) | 8:17 | 2023-09-14 |  |
+| [Relax](https://open.spotify.com/track/1351mqeM6hcQoeIPp0ep0r) | [Slow Rotation Inc](https://open.spotify.com/artist/5qIy5MO9Iijv5V2FYyFN51) | [Relax](https://open.spotify.com/album/3ObijBdZIfJwGBEIjszUbO) | 8:17 | 2023-09-14 | 2023-11-11 |
+| [Relax](https://open.spotify.com/track/6ovMGPuYv9eVFqaewR3LRO) | [Slow Rotation Inc](https://open.spotify.com/artist/5qIy5MO9Iijv5V2FYyFN51) | [Slow Rotation Inc](https://open.spotify.com/album/3WO4Hf83OsfOmkLW0QtctR) | 8:17 | 2023-09-14 |  |
 | [Revegetation Area 2002](https://open.spotify.com/track/3261Kuksr5Yn8nToKvUW12) | [Andras](https://open.spotify.com/artist/6C3Q1d8QOpgYuRdsTmSoVm) | [Revegetation Area 2002](https://open.spotify.com/album/1hcdlX6C2isqG1j42p8lHf) | 3:03 | 2020-10-20\* | 2023-09-15 |
 | [Right Hands](https://open.spotify.com/track/1XPjsf2fZNBXI2MfyIZLOf) | [Thomas Gray & Liam Ebbs](https://open.spotify.com/artist/5lfD0vOepeC8wicb3RdkwK) | [Right Hands](https://open.spotify.com/album/6emStwCIc74AlkAV5sfoIN) | 7:17 | 2023-09-14 |  |
 | [Ronda](https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Ronda](https://open.spotify.com/album/7APlMJ7deciAoJCir8eSOz) | 5:46 | 2020-10-23 | 2021-07-04 |

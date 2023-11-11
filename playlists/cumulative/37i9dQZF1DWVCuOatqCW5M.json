@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Neeti Mohan",
+  "description": "New music from popular Hindi artists. Cover- Shreya Ghoshal",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 179955,
       "name": "Aaja Baija Tu (from \"Brand Bollywood Downunder\")",
       "url": "https://open.spotify.com/track/7n2su2GYTS1jNLSWtJ9sKp"
@@ -1425,6 +1425,32 @@
     },
     {
       "album": {
+        "name": "Baarish Ke Aane Se",
+        "url": "https://open.spotify.com/album/5Qjv9KUc0QP4HwCtie4oc7"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        },
+        {
+          "name": "Prince Dubey",
+          "url": "https://open.spotify.com/artist/3bs0mT7GMaduAPHu1oWJwq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240145,
+      "name": "Baarish Ke Aane Se",
+      "url": "https://open.spotify.com/track/7zkdhpXOGATPZDelzXE7ae"
+    },
+    {
+      "album": {
         "name": "Baarish Ke Din",
         "url": "https://open.spotify.com/album/1AkZODpgGdGqZlvxLTss4Z"
       },
@@ -1974,7 +2000,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 208463,
       "name": "Bawre",
       "url": "https://open.spotify.com/track/3dScHmTxACcJLjfsztRRI0"
@@ -2792,6 +2818,28 @@
       "duration_ms": 186428,
       "name": "Charcha Parcha",
       "url": "https://open.spotify.com/track/7jBPBqiOUOG7Vri9PWnV8R"
+    },
+    {
+      "album": {
+        "name": "Chhan Chhan",
+        "url": "https://open.spotify.com/album/1lqPQEGuycEMyR6JAiJj9j"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "6091",
+          "url": "https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Chhan Chhan",
+      "url": "https://open.spotify.com/track/3YekdE6R0xcjd5ezanD5zo"
     },
     {
       "album": {
@@ -3650,7 +3698,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 158770,
       "name": "Dil Hi To Hai",
       "url": "https://open.spotify.com/track/7zBgwvwMEdFmTIOxYCoM3X"
@@ -4810,7 +4858,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 336586,
       "name": "Ghule",
       "url": "https://open.spotify.com/track/1SRw6AawwihNR3uQUOTSAi"
@@ -4886,7 +4934,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 268810,
       "name": "Gudiya Re",
       "url": "https://open.spotify.com/track/4LOMOwVnDozgJTRvUVFLcT"
@@ -6196,7 +6244,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 131578,
       "name": "Jaane Hi Do",
       "url": "https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY"
@@ -7475,6 +7523,24 @@
     },
     {
       "album": {
+        "name": "Kataar Mein",
+        "url": "https://open.spotify.com/album/1JZ3InHuG9pMAJ2Y1JyA42"
+      },
+      "artists": [
+        {
+          "name": "Sharma And The Besharams",
+          "url": "https://open.spotify.com/artist/0bjxYhq2LTnIvaPK1xhUtX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181986,
+      "name": "Kataar Mein",
+      "url": "https://open.spotify.com/track/2qMLFGGbNB3bDZuJFaT9Q1"
+    },
+    {
+      "album": {
         "name": "Keh Do (Turn The Lights On)",
         "url": "https://open.spotify.com/album/6Wz0NDeDH59dBZNEvduyLb"
       },
@@ -8262,7 +8328,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 153329,
       "name": "Kitne Bulbule",
       "url": "https://open.spotify.com/track/2FazNLui6PLccXhAFtvl7o"
@@ -8542,7 +8608,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 178195,
       "name": "Kyu Duur Hai",
       "url": "https://open.spotify.com/track/65ri2V67w0oYnr2SkZEeTe"
@@ -8894,7 +8960,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 165957,
       "name": "Let It Flow",
       "url": "https://open.spotify.com/track/1pReOtBB2BrF7X8BCzDyDO"
@@ -9044,6 +9110,32 @@
       "duration_ms": 212383,
       "name": "Maahaul",
       "url": "https://open.spotify.com/track/04Vy0aip3DySmX6Oyf8TKI"
+    },
+    {
+      "album": {
+        "name": "Maahi",
+        "url": "https://open.spotify.com/album/6jivYUnmRY2K14DtcisrcM"
+      },
+      "artists": [
+        {
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        },
+        {
+          "name": "Chirag Soni",
+          "url": "https://open.spotify.com/artist/3UMC3IINcoIuI0GeNb6Jm3"
+        },
+        {
+          "name": "Vishal Pandey",
+          "url": "https://open.spotify.com/artist/5y04rD8ihZfeNmcqK0W6eu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262109,
+      "name": "Maahi",
+      "url": "https://open.spotify.com/track/2pgMykS4vRfWjCn3HBW7Sl"
     },
     {
       "album": {
@@ -11255,6 +11347,24 @@
     },
     {
       "album": {
+        "name": "Pakeezah (From \"Do Ajnabee\")",
+        "url": "https://open.spotify.com/album/5EV1QDTaUNw6EgapzTqDI1"
+      },
+      "artists": [
+        {
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245628,
+      "name": "Pakeezah (From \"Do Ajnabee\")",
+      "url": "https://open.spotify.com/track/6r9LYRdkIT3aQDap0iA7uu"
+    },
+    {
+      "album": {
         "name": "Pakki Wali Dosti",
         "url": "https://open.spotify.com/album/0kXGavJbmC8CAn6lMfaKNa"
       },
@@ -11486,6 +11596,28 @@
       "duration_ms": 241304,
       "name": "Pasbaan",
       "url": "https://open.spotify.com/track/0tiLDRf1GiKejG9M0WBqdd"
+    },
+    {
+      "album": {
+        "name": "Patang",
+        "url": "https://open.spotify.com/album/23eXFX7QS19ZNMdZuz3ZVs"
+      },
+      "artists": [
+        {
+          "name": "Project Hamsadhwani",
+          "url": "https://open.spotify.com/artist/6iPV9FoEXrx0q9ZvLFXsU5"
+        },
+        {
+          "name": "Niranjan Menon",
+          "url": "https://open.spotify.com/artist/3U14e8ytLENdFrJLKArp7d"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170536,
+      "name": "Patang",
+      "url": "https://open.spotify.com/track/1Ea9TqIvm27maV7UXRPfGt"
     },
     {
       "album": {
@@ -12704,6 +12836,32 @@
       "duration_ms": 197714,
       "name": "Sab Gazab",
       "url": "https://open.spotify.com/track/3FENAggAv5QMHDQsjsPaeW"
+    },
+    {
+      "album": {
+        "name": "Sab Moh Maaya Hai (Title Track) [From \"Sab Moh Maaya Hai\"]",
+        "url": "https://open.spotify.com/album/3xor1MnU5n1ZX73tlCvNJ1"
+      },
+      "artists": [
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Amol Shrivastava",
+          "url": "https://open.spotify.com/artist/1EFqA5nz0tXRLYpKNalO6R"
+        },
+        {
+          "name": "Abhishek Talented",
+          "url": "https://open.spotify.com/artist/5D10pAEJDqDAseh6iZj5Mj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161423,
+      "name": "Sab Moh Maaya Hai (Title Track) - From \"Sab Moh Maaya Hai\"",
+      "url": "https://open.spotify.com/track/2yYMlF4ruQTqaqCoC1jljL"
     },
     {
       "album": {
@@ -14403,6 +14561,28 @@
     },
     {
       "album": {
+        "name": "Tere Ishq Ne",
+        "url": "https://open.spotify.com/album/6sKEe2XgqH46u9ShRWCW7J"
+      },
+      "artists": [
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        },
+        {
+          "name": "Ashish Khandal",
+          "url": "https://open.spotify.com/artist/65XZEmEVa5U52jYJRQzuSF"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187742,
+      "name": "Tere Ishq Ne",
+      "url": "https://open.spotify.com/track/21VrC3LcsXjjkhnP0xkliY"
+    },
+    {
+      "album": {
         "name": "Tere Liye Pyaar Mera Kam Nahi Hoga",
         "url": "https://open.spotify.com/album/0TYXSyfpmZS6CQnt6HCnNU"
       },
@@ -14828,7 +15008,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 164967,
       "name": "TU",
       "url": "https://open.spotify.com/track/3IllbSE7M594LaBmxdAbPj"
@@ -15454,6 +15634,32 @@
       "duration_ms": 203224,
       "name": "Tujhe Haal Dikha Na Sake",
       "url": "https://open.spotify.com/track/2Yi5cuwlADbGRjGcqmKBC1"
+    },
+    {
+      "album": {
+        "name": "Tujhe Yaad Na Meri Ayee-2",
+        "url": "https://open.spotify.com/album/2OMgwR7ydKGiyZPhUdgp7T"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294146,
+      "name": "Tujhe Yaad Na Meri Ayee-2",
+      "url": "https://open.spotify.com/track/4rE9qwUZ0eVQn6ajzRYdcx"
     },
     {
       "album": {
@@ -16094,6 +16300,32 @@
       "duration_ms": 157500,
       "name": "usko sab pata hai",
       "url": "https://open.spotify.com/track/2e02cHciVAiubNVpNYiLCO"
+    },
+    {
+      "album": {
+        "name": "Va Va Voom (From \"The Archies\")",
+        "url": "https://open.spotify.com/album/41efXRJaAdzIOCHeMuKNEJ"
+      },
+      "artists": [
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+        },
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128330,
+      "name": "Va Va Voom (From \"The Archies\")",
+      "url": "https://open.spotify.com/track/1vUau8NMY4vdUrdPzAAsLj"
     },
     {
       "album": {

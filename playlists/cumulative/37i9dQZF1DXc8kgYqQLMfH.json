@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "after dark",
+        "url": "https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM"
+      },
+      "artists": [
+        {
+          "name": "takemefaraway",
+          "url": "https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141886,
+      "name": "after dark",
+      "url": "https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14"
+    },
+    {
+      "album": {
         "name": "After Glow",
         "url": "https://open.spotify.com/album/23Q2Ne4BuHUkceLFKdk0Wn"
       },
@@ -1727,7 +1745,7 @@
       "artists": [
         {
           "name": "Pi Teddy",
-          "url": "https://open.spotify.com/artist/1EgAw1a0CGugEuAVPpHDdx"
+          "url": "https://open.spotify.com/artist/5d4VuQZCRxlLyNA02bR0lO"
         }
       ],
       "date_added": "2022-12-09",
@@ -4088,7 +4106,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 147000,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/4N7vzUz5kg4emuU8py5PvZ"
@@ -6031,6 +6049,24 @@
     },
     {
       "album": {
+        "name": "Flexible",
+        "url": "https://open.spotify.com/album/17BcWcXOXkKxdgyDYEHZ8O"
+      },
+      "artists": [
+        {
+          "name": "Mario Ginger",
+          "url": "https://open.spotify.com/artist/66Eh1Lk4MPnv3k4EfeBhXm"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Flexible",
+      "url": "https://open.spotify.com/track/3HVfuu2oatWqcmDOrJTf8Q"
+    },
+    {
+      "album": {
         "name": "Familiar Faces Vol. 1",
         "url": "https://open.spotify.com/album/19mL5qH4MCuPoALZQKMFQs"
       },
@@ -7014,6 +7050,24 @@
       "duration_ms": 136894,
       "name": "Goodbye, Winter",
       "url": "https://open.spotify.com/track/70pzhyvQhWMKiNWrK3GXJ2"
+    },
+    {
+      "album": {
+        "name": "goodnight paris",
+        "url": "https://open.spotify.com/album/1FXQ6DYZWVY6FLf0zvPDwy"
+      },
+      "artists": [
+        {
+          "name": "Clocktown Stars",
+          "url": "https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171833,
+      "name": "goodnight paris",
+      "url": "https://open.spotify.com/track/4ml3CC6HTNaGnFgiRnAiFH"
     },
     {
       "album": {
@@ -8212,7 +8266,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 138802,
       "name": "if you could fly",
       "url": "https://open.spotify.com/track/4vLb7pSrQ4JNDr6ax3mw1y"
@@ -13789,6 +13843,24 @@
     },
     {
       "album": {
+        "name": "Permanence",
+        "url": "https://open.spotify.com/album/26WNiFUZ0fwnVnhEup8Ec5"
+      },
+      "artists": [
+        {
+          "name": "Euphemism",
+          "url": "https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Permanence",
+      "url": "https://open.spotify.com/track/5nVPr0aum4hw2fFW1J2yJL"
+    },
+    {
+      "album": {
         "name": "perplexia",
         "url": "https://open.spotify.com/album/0V0tjYfGhwsNCVxBdFPMVy"
       },
@@ -17830,7 +17902,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 159154,
       "name": "The Bonfire",
       "url": "https://open.spotify.com/track/20qRFBt1tXWKUviJ6VbU96"
@@ -19030,7 +19102,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 170373,
       "name": "Ubongo Extreme",
       "url": "https://open.spotify.com/track/01mOFVIoSPGQQVodkz7qB4"

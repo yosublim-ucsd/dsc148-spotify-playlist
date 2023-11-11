@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 28643,
+  "num_followers": 28649,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzUyNyxjODUzZGRiNGE4ZmYyMDNhMmIyODVlNTJjNzc0OWQyNmJiY2UyZTg1",
+  "snapshot_id": "MzUyOSw4MDBkM2RlMTQwNzYyZThkNTEzM2FmZjY3ZjFkY2FjM2EzNDEyZGJk",
   "tracks": [
+    {
+      "added_at": "2023-11-10 14:45:24",
+      "album": {
+        "name": "Un/limited Love",
+        "url": "https://open.spotify.com/album/60QrBH7P0Iyne4T999YL0F"
+      },
+      "artists": [
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "duration_ms": 203350,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/4uHSypi6xnu8YlmLjC3tns"
+    },
     {
       "added_at": "2023-11-03 15:41:53",
       "album": {
@@ -695,22 +711,6 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
-    },
-    {
-      "added_at": "2023-04-14 17:33:21",
-      "album": {
-        "name": "Every Day (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0FoPSDUnpwirDsVx8GjSDD"
-      },
-      "artists": [
-        {
-          "name": "The Cinematic Orchestra",
-          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
-        }
-      ],
-      "duration_ms": 395706,
-      "name": "Flite",
-      "url": "https://open.spotify.com/track/4pDoFHC8UKRXix1lwng6YO"
     },
     {
       "added_at": "2023-04-13 20:47:57",

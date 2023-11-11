@@ -235,11 +235,11 @@
         },
         {
           "name": "Trigga",
-          "url": "https://open.spotify.com/artist/117Ngy9A9prluWeHKheHwz"
+          "url": "https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb"
         },
         {
           "name": "Takura",
-          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
+          "url": "https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ"
         }
       ],
       "date_added": "2023-07-27",
@@ -473,7 +473,7 @@
         },
         {
           "name": "King Ru",
-          "url": "https://open.spotify.com/artist/2MupPcGMlovovfQN4ndkl7"
+          "url": "https://open.spotify.com/artist/2uGpCMNWJxp4lyNt1Cu2iN"
         },
         {
           "name": "Rubi Du",
@@ -1666,10 +1666,40 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 213793,
       "name": "Infinity (feat. ILIRA, iiola & Tom Cane)",
       "url": "https://open.spotify.com/track/05zD7iVuzpzDWsYvxxcvgd"
+    },
+    {
+      "album": {
+        "name": "Infinity (feat. ILIRA, iiola & Tom Cane)",
+        "url": "https://open.spotify.com/album/4X2i68rMNDVwGMTeXW5bek"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        },
+        {
+          "name": "iiola",
+          "url": "https://open.spotify.com/artist/3YSLjtLPCULe41kgElVrWj"
+        },
+        {
+          "name": "Tom Cane",
+          "url": "https://open.spotify.com/artist/5iFDzfBI6aebgrb9ljJhme"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213793,
+      "name": "Infinity (feat. ILIRA, iiola & Tom Cane)",
+      "url": "https://open.spotify.com/track/0CkmD2L3xMeZTXOwlOCsVm"
     },
     {
       "album": {
@@ -1714,6 +1744,28 @@
     {
       "album": {
         "name": "Insane",
+        "url": "https://open.spotify.com/album/6TikdDXXA4uWM2ZzQg4jLp"
+      },
+      "artists": [
+        {
+          "name": "Borj.",
+          "url": "https://open.spotify.com/artist/3O7bD1NOJOWs4cokNjNcEr"
+        },
+        {
+          "name": "LizAnn",
+          "url": "https://open.spotify.com/artist/0RS6dKFdDUMWSIjmF1akXw"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149647,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/0yph3BjTAcD82EjVgCXTkY"
+    },
+    {
+      "album": {
+        "name": "Insane",
         "url": "https://open.spotify.com/album/1dpoaEzQuEf8SqDGrjNgYX"
       },
       "artists": [
@@ -1728,7 +1780,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 149647,
       "name": "Insane",
       "url": "https://open.spotify.com/track/63MoZqC4ah8JuTyktm0HNr"
@@ -1806,6 +1858,28 @@
     {
       "album": {
         "name": "Lofi Love",
+        "url": "https://open.spotify.com/album/5wPcW2EWPumrm3tNBrxmjD"
+      },
+      "artists": [
+        {
+          "name": "Sly Chaos",
+          "url": "https://open.spotify.com/artist/02QaTKGbI6W9D80tPSqJ6i"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292413,
+      "name": "Lofi Love",
+      "url": "https://open.spotify.com/track/46jGHDUOVTi62eYt9KhHyg"
+    },
+    {
+      "album": {
+        "name": "Lofi Love",
         "url": "https://open.spotify.com/album/7fUAeXxYUirpCyQJuykaJt"
       },
       "artists": [
@@ -1820,7 +1894,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 292413,
       "name": "Lofi Love",
       "url": "https://open.spotify.com/track/5F210oygZ6fMAvbznWrjwJ"
@@ -2024,6 +2098,28 @@
     {
       "album": {
         "name": "Never B Mine",
+        "url": "https://open.spotify.com/album/6KO7OcN055J59wWSS3kZTO"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Kioto Bug",
+          "url": "https://open.spotify.com/artist/0i99tSK0Uhaagw5Y85epY3"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209655,
+      "name": "Never B Mine",
+      "url": "https://open.spotify.com/track/0bp1n629hFdAlF6CMl4WnD"
+    },
+    {
+      "album": {
+        "name": "Never B Mine",
         "url": "https://open.spotify.com/album/090uN4F14IQk0IRqzmnDAg"
       },
       "artists": [
@@ -2038,7 +2134,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 209655,
       "name": "Never B Mine",
       "url": "https://open.spotify.com/track/17NH8SZGxFPpfEEAoeo7eY"

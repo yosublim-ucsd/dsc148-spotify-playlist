@@ -572,7 +572,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202266,
-      "name": "En Apesanteur - Single Version",
+      "name": "En apesanteur - Single Version",
       "url": "https://open.spotify.com/track/51fnKEBEOLUxSoOad4jcA9"
     },
     {
@@ -700,10 +700,28 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 166293,
       "name": "Help Myself (Nous Ne Faisons Que Passer)",
       "url": "https://open.spotify.com/track/6NPurOhG89pZbxQUnmv4pa"
+    },
+    {
+      "album": {
+        "name": "Les classiques du rock fran\u00e7ais",
+        "url": "https://open.spotify.com/album/33N3T4t1F71PtcG6JKy6ug"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00ebtan Roussel",
+          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166293,
+      "name": "Help Myself (Nous Ne Faisons Que Passer)",
+      "url": "https://open.spotify.com/track/6WOMnDLQqH48swyJUP1pnQ"
     },
     {
       "album": {

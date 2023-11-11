@@ -234,10 +234,28 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 333880,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc"
+    },
+    {
+      "album": {
+        "name": "Enter Sandman",
+        "url": "https://open.spotify.com/album/0irZKfdLmSCLbuvXAXPz3m"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333888,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/18sXLZIxb7nYy3g0Wnx8bA"
     },
     {
       "album": {

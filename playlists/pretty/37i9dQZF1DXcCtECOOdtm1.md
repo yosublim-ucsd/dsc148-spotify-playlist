@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,010 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,445 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 28 | [地上の9mの宇宙](https://open.spotify.com/track/4IziiuY1hf00wLYSkk072A) | [Seiko Sato](https://open.spotify.com/artist/4sxVVljhdcKe36YGDZW3uV) | [CRYSTAL](https://open.spotify.com/album/39HbPKcc3M6MP63G4fFY7E) | 4:57 |
 | 29 | [Happy\-Go\-Lucky](https://open.spotify.com/track/2WOB3RH7MLpaNFjkIGVn1B) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [City Pop Essentials \- Drive \-](https://open.spotify.com/album/6Z4Ojg2KQEMblEKke3seBH) | 4:26 |
 | 30 | [しあわせな時間](https://open.spotify.com/track/2jBMkEllnlU6z3jmn23O5q) | [Instant Cytron](https://open.spotify.com/artist/6YQynvo3pafhgrHpXp0Uvn) | [CHANGE THIS WORLD](https://open.spotify.com/album/1bbcPma18cl2NbVPAfB4Hu) | 5:04 |
-| 31 | [夢の中で会えるでしょう \- Single Version](https://open.spotify.com/track/5Y9wdPTsQlnk3B17HDUewK) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO) | [Sorrow and Smile](https://open.spotify.com/album/0cS9IiWAUlpcj4jRn6GOg6) | 5:59 |
+| 31 | [夢の中で会えるでしょう \- Single Version](https://open.spotify.com/track/1pr3VlBOeLdRoqHAeLv3aS) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO) | [City Pop Essentials \~ Male Voices \~](https://open.spotify.com/album/0hbAut6lzR9cKOn1FectRl) | 5:59 |
 | 32 | [午前2時のエンジェル](https://open.spotify.com/track/0Fs9fqPPNslWeWbWjH0h4p) | [Cano Caoli](https://open.spotify.com/artist/5dKIn28hp1VpQYeigddI8r) | [裸であいましょう](https://open.spotify.com/album/29TFyKg4WZsMriAA9NJhMS) | 5:56 |
 | 33 | [HORIZON](https://open.spotify.com/track/782gyHAHXhoTQ1pcjEksD9) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Illuminate～the very best songs～](https://open.spotify.com/album/6IZB1TIO4uGrQfXNzOblGn) | 4:53 |
 | 34 | [花を買う](https://open.spotify.com/track/4U1UGoETmiVkDWYjvXozy0) | [Mikiko Noda](https://open.spotify.com/artist/6rAxZysBIWlwb9wTPPyXwp) | [Rose C'est La Vie](https://open.spotify.com/album/710F6Uqw8f953NxyS3V4iK) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 49 | [双子座グラフィティ \- 2014 Remaster](https://open.spotify.com/track/6SbhXWE47UAGZIYZNcZxkX) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [SINGLES BEST〜Archives〜 \(完全版\) \[リマスター\]](https://open.spotify.com/album/5aofoE06bWoCF43ZXHU4jk) | 4:50 |
 | 50 | [Girl Talk \~never fall in love again\~](https://open.spotify.com/track/2D2Z9gHas01CpA2ciEfDru) | [COSA NOSTRA](https://open.spotify.com/artist/3XTQoYcUS34mM1jloWW85u) | [SEVEN](https://open.spotify.com/album/6KPK1tNvB5qZTJeTBrji7X) | 4:20 |
 
-Snapshot ID: `MCwyZjc1NTkwY2M2YjM1ODdjZTEyM2NhZjFiOTBmMzEyYmNmNTJiMzg1`
+Snapshot ID: `MCw1NDIxYTRkYTBiYmU3NDVhMzYzNzU5OGU0ZjAzM2YzNmQ1MmZjMTM4`

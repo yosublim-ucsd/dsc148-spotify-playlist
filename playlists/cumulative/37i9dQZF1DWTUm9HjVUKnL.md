@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-1,119 songs - 2 day 20 hr 16 min
+1,120 songs - 2 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Carin At the Liquor Store \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2DCcPL9GoWe5jYIzDsgRrX) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Spotify Singles](https://open.spotify.com/album/0bXHx2L5JCRKG9R7jDbTd8) | 3:15 | 2022-01-19 | 2022-07-29 |
 | [Carin At the Liquor Store \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6QjFqsKrMjjNhmvjQQDGs1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Spotify Singles](https://open.spotify.com/album/1SuIxvmVbzVKyZJod2O1Dg) | 3:15 | 2022-07-05 |  |
 | [Carrying Your Love With Me \- Spotify Singles](https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Carrying Your Love With Me \(Spotify Singles\)](https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8) | 4:03 | 2022-01-19 |  |
-| [Cartoon Earthquake](https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1) | 3:25 | 2022-10-19 |  |
+| [Cartoon Earthquake](https://open.spotify.com/track/12FPiYpIFVzZOUu5zB71LT) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell \(Deluxe Edition\)](https://open.spotify.com/album/5VTdHKo8yJhitaNtKQ2XQq) | 3:25 | 2023-10-02 |  |
+| [Cartoon Earthquake](https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1) | 3:25 | 2022-10-19 | 2023-11-11 |
 | [Casanova \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3wnXDfZlFKslVA8x5bzENO) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Spotify Singles](https://open.spotify.com/album/2LRvMxrP2MbJATWGkCJ3Y2) | 3:58 | 2022-01-19 |  |
 | [Cash Machine \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3roqNPQr2sWy9I7nkdhR6h) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Spotify Singles](https://open.spotify.com/album/1N7l9Oc5FiLQhqQ7mJ66bm) | 3:36 | 2022-01-19 |  |
 | [Castle On The Hill \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 4:15 | 2022-01-19 |  |

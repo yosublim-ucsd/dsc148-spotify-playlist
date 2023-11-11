@@ -4,7 +4,7 @@
 
 > Relax to these chilled instrumental Christmas tunes.
 
-67 songs - 3 hr 42 min
+68 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,5 +75,6 @@
 | [What Sweeter Music](https://open.spotify.com/track/22TtoL9ogBV2B4eHK01924) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Wayne Marshall](https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u) | [The Piano Collection](https://open.spotify.com/album/13QCcMPgbmg9FZROLvenU3) | 4:17 | 2021-12-16 |  |
 | [White Christmas](https://open.spotify.com/track/3Kmam37aGtUbQ2TPVrpwpX) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [Christmas Elegance](https://open.spotify.com/album/5npdxE8fnqpl6MWSWn40Hb) | 4:09 | 2021-12-16 | 2023-07-28 |
 | [White Christmas](https://open.spotify.com/track/6zrXZLbL6gPCVLeodyN0bd) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [Christmas Elegance: Elegant Holiday Instrumentals Featuring Piano And Violin](https://open.spotify.com/album/59iScT5hI7Gi59PE79QnHC) | 4:09 | 2021-12-16 |  |
+| [Winter Light \- Christmas Morning Version](https://open.spotify.com/track/7kxKV6jCh1zuI598rdYgcN) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K), [Matt Robertson](https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax) | [Winter Light \(Christmas Morning Version\)](https://open.spotify.com/album/6q14CGdJ2go2vc9x6dAjne) | 2:55 | 2023-11-10 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

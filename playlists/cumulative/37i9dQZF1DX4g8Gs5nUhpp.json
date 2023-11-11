@@ -4017,6 +4017,24 @@
     },
     {
       "album": {
+        "name": "V\u00ec Em T\u1ea5t C\u1ea3",
+        "url": "https://open.spotify.com/album/2YWQexytxcgRIbTYblsScr"
+      },
+      "artists": [
+        {
+          "name": "M\u1ef9 T\u00e2m",
+          "url": "https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227205,
+      "name": "V\u00ec Em T\u1ea5t C\u1ea3",
+      "url": "https://open.spotify.com/track/7D9tiidrBDQRgCENeIhko0"
+    },
+    {
+      "album": {
         "name": "V\u00ec M\u1eb9 Anh B\u1eaft Chia Tay",
         "url": "https://open.spotify.com/album/4GRaUdMpYBxlTw88lnF0op"
       },

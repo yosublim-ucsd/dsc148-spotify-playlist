@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-12",
+      "date_removed": null,
       "duration_ms": 251120,
       "name": "Another Heartache",
       "url": "https://open.spotify.com/track/5EBOybVHa8xRsFYqZtOfQU"
@@ -74,6 +74,24 @@
       "duration_ms": 152533,
       "name": "Can't You See What You're Doing To Me",
       "url": "https://open.spotify.com/track/7esa3lQi1Ixu8kK2lGF8YB"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189346,
+      "name": "Caught Between Two Fires",
+      "url": "https://open.spotify.com/track/66FHvvHSCv8eSFzGeQmJYL"
     },
     {
       "album": {
@@ -442,7 +460,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 234146,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf"
@@ -872,7 +890,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 302642,
       "name": "Love Train - Live",
       "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 210826,
       "name": "Melting Pot (Mono Version)",
       "url": "https://open.spotify.com/track/5OAfwamRaDmPHynFb3vJtr"
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 221056,
       "name": "This Is the House",
       "url": "https://open.spotify.com/track/7EDI0Ak3KRTgcCZndJJYaG"

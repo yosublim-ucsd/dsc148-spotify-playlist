@@ -1203,6 +1203,24 @@
     },
     {
       "album": {
+        "name": "The Sound of Love International #002 - Beautiful Swimmers",
+        "url": "https://open.spotify.com/album/5IXCEluv4v9ljhoRbFdWOa"
+      },
+      "artists": [
+        {
+          "name": "Mark Goddard",
+          "url": "https://open.spotify.com/artist/2SaZ1I3baQ9xwI3wxDedNa"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265383,
+      "name": "Tiny's First Journey",
+      "url": "https://open.spotify.com/track/17Uf0Um2zP4bPnu3r9pYD8"
+    },
+    {
+      "album": {
         "name": "The Sound Of Love International #002 - Beautiful Swimmers",
         "url": "https://open.spotify.com/album/2cxbgAp9U7ZubuZ2ygijXk"
       },
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 265383,
       "name": "Tiny's First Journey",
       "url": "https://open.spotify.com/track/4dBqFIjv2lNcAvrxdwEOjn"

@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead\.  Get your beast mode on!
 
-490 songs - 1 day 0 hr 28 min
+491 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [DUHHH](https://open.spotify.com/track/6RXYtx36Z70CCZiGqSRWbS) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [DUHHH](https://open.spotify.com/album/5wOV9LHdr0wJCReA99G1l1) | 1:58 | 2023-08-11 |  |
 | [E6](https://open.spotify.com/track/1XIiMzDetOej0Fq9v8hj65) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [This Is Evvie McKinney](https://open.spotify.com/album/27FOigKMfea4FVW2Kzluza) | 3:30 | 2022-02-04 | 2022-05-29 |
 | [ECHO](https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [ECHO](https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT) | 3:15 | 2022-05-28 | 2022-08-07 |
-| [Echo](https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Echo](https://open.spotify.com/album/360Y9HLXTa23Qt3ODpLSid) | 3:18 | 2022-07-17 |  |
+| [Echo](https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Echo](https://open.spotify.com/album/360Y9HLXTa23Qt3ODpLSid) | 3:18 | 2022-07-17 | 2023-11-11 |
 | [Echo](https://open.spotify.com/track/6I5GtnDdJmKUV3HECV8qVP) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Echo](https://open.spotify.com/album/5Z1gQodeDFvnBLrguBOb1P) | 3:18 | 2022-03-23 | 2022-07-29 |
 | [Elevate](https://open.spotify.com/track/7j2k5JHS33pKmDMIGEmfuU) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Elevate](https://open.spotify.com/album/5n3FPfLJXtdDTYplGuj7JO) | 2:40 | 2022-09-03 | 2022-11-14 |
 | [Encounter](https://open.spotify.com/track/7nHKJ4uHnRPFz1qAP0DOeC) | [Positive](https://open.spotify.com/artist/5n2K8brRRD6NUM91RQNnPb) | [Stand and Be Counted](https://open.spotify.com/album/2xYTX0itXxqO494sLWZaGW) | 4:13 | 2022-03-23 | 2022-04-21 |
@@ -486,6 +486,7 @@
 | [Wodie](https://open.spotify.com/track/4P7WAyTSleFGbCk0y4yLZM) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK) | [My Life is a Beautiful Mess](https://open.spotify.com/album/3zLpAKNkbyIAzJLLZ3mIVA) | 2:51 | 2022-02-04 | 2023-08-12 |
 | [Woke Up This Morning](https://open.spotify.com/track/6vC4hjC6BhpDzFh69LV6Mh) | [FLAME](https://open.spotify.com/artist/2s6kyMmJZFgPCHXU0QxJLp), [Wes Writer](https://open.spotify.com/artist/4mqKTYiFfZKN9SI9QLzEE1) | [Woke Up This Morning](https://open.spotify.com/album/7uTOeMG0rI5mJ7KGgvoNGn) | 3:01 | 2022-03-11 | 2022-03-24 |
 | [Won't Stop \- Reyer Remix](https://open.spotify.com/track/5scmtvav3joe03DAihMTd6) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [Won't Stop \(Reyer Remix\)](https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh) | 3:04 | 2022-05-28 | 2023-08-12 |
+| [WORKOUT](https://open.spotify.com/track/0wapads1fnPZcykH4lHyFU) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl), [Dkg Kie](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [WORKOUT](https://open.spotify.com/album/7AwxTm0N1wwfdSsfdR0kip) | 1:56 | 2023-11-02 |  |
 | [Worship in the Moshpit](https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Worship in the Moshpit](https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX) | 3:10 | 2022-02-04 | 2022-12-17 |
 | [Worthy Of It All \- Live](https://open.spotify.com/track/6AcReG4UWPWnNDhIYMTZV2) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 5:29 | 2023-08-11 | 2023-11-03 |
 | [You Already Know](https://open.spotify.com/track/2aoKQriMD3ukMvGVylzMGs) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [You Already Know](https://open.spotify.com/album/27SPJ5FLfDryur5qRKbUhW) | 2:15 | 2022-10-01 | 2023-08-17 |

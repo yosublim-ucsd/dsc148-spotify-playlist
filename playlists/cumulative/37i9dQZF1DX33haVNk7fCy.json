@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/3IXc2Y2hrRoa8gFA87lfw7"
+      },
+      "artists": [
+        {
+          "name": "lekhak",
+          "url": "https://open.spotify.com/artist/7EzXvSTOIXrtaL87k7aoBG"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178898,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5JdeSgIBqpdoC3RudqPkCu"
+    },
+    {
+      "album": {
         "name": "Gumsum",
         "url": "https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r"
       },

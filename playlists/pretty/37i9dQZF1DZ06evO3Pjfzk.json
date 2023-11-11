@@ -1,31 +1,15 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 37725,
+  "num_followers": 41569,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyODI0MTcsMDAwMDAwMDAwMTE1NWMxN2UzZDkwYjFmMTkxMDczNjFjMDlhNDM2Nw==",
+  "snapshot_id": "MjgzMjcwMTgsMDAwMDAwMDA0MTczOTY2NTA0NTRhM2IyMWM5ZDg0ZjkzYmZhMzY3NQ==",
   "tracks": [
     {
-      "added_at": "2023-10-10 13:37:08",
-      "album": {
-        "name": "Watermelon Moonshine",
-        "url": "https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 208853,
-      "name": "Watermelon Moonshine",
-      "url": "https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF"
-    },
-    {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
@@ -45,10 +29,10 @@
       "url": "https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
-        "name": "Sayin' What I'm Thinkin'",
-        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+        "name": "Watermelon Moonshine",
+        "url": "https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82"
       },
       "artists": [
         {
@@ -56,12 +40,12 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Things a Man Oughta Know",
-      "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
+      "duration_ms": 208853,
+      "name": "Watermelon Moonshine",
+      "url": "https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
@@ -77,7 +61,7 @@
       "url": "https://open.spotify.com/track/5UNMyX2AzF8X90wAYAxG6Q"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken"
@@ -97,7 +81,23 @@
       "url": "https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
+      "album": {
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Things a Man Oughta Know",
+      "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
+    },
+    {
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
@@ -117,23 +117,7 @@
       "url": "https://open.spotify.com/track/49GYvCcvMQq1SY3f7Y347h"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
-      "album": {
-        "name": "Sayin' What I'm Thinkin'",
-        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Dirty Looks",
-      "url": "https://open.spotify.com/track/612qCFbMeFIeDupbFY38Ve"
-    },
-    {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
@@ -149,7 +133,7 @@
       "url": "https://open.spotify.com/track/3FQL51eEwEDRw8YQj9Vlwc"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
@@ -169,7 +153,23 @@
       "url": "https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
+      "album": {
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Dirty Looks",
+      "url": "https://open.spotify.com/track/612qCFbMeFIeDupbFY38Ve"
+    },
+    {
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Unlocked",
         "url": "https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq"
@@ -189,23 +189,7 @@
       "url": "https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
-      "album": {
-        "name": "Lainey Wilson - EP",
-        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 204709,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt"
-    },
-    {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
@@ -221,7 +205,23 @@
       "url": "https://open.spotify.com/track/0JFNEmvxVfMOV8HsICZkOj"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
+      "album": {
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 204709,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt"
+    },
+    {
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Two Story House",
         "url": "https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ"
@@ -237,23 +237,7 @@
       "url": "https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
-      "album": {
-        "name": "Sayin' What I'm Thinkin'",
-        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Sayin' What I'm Thinkin'",
-      "url": "https://open.spotify.com/track/0Hhb848NsTCRTqi3Fm6C79"
-    },
-    {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Workin' Overtime",
         "url": "https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O"
@@ -269,71 +253,7 @@
       "url": "https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
-      "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "Atta Girl",
-      "url": "https://open.spotify.com/track/3HIuFNCjr1hKnyzCixYfiC"
-    },
-    {
-      "added_at": "2023-10-10 13:37:08",
-      "album": {
-        "name": "Lainey Wilson - EP",
-        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 175675,
-      "name": "Waste of Good Whiskey",
-      "url": "https://open.spotify.com/track/3S4ruu2F7dMeRY7FV0ayTb"
-    },
-    {
-      "added_at": "2023-10-10 13:37:08",
-      "album": {
-        "name": "Sayin' What I'm Thinkin'",
-        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 140413,
-      "name": "WWDD",
-      "url": "https://open.spotify.com/track/4cR1F7nczN6vuGAzr52zTE"
-    },
-    {
-      "added_at": "2023-10-10 13:37:08",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "Middle Finger - Spotify Singles",
-      "url": "https://open.spotify.com/track/5CR5wpp6rjMiePZyrj81e9"
-    },
-    {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
@@ -349,7 +269,7 @@
       "url": "https://open.spotify.com/track/4SCIqKkTic7hUHsL201OY0"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Lainey Wilson - EP",
         "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
@@ -360,12 +280,12 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 177727,
-      "name": "Breakin' Your Heart",
-      "url": "https://open.spotify.com/track/3Ku1iOPJSZazyKi22yWxEF"
+      "duration_ms": 175675,
+      "name": "Waste of Good Whiskey",
+      "url": "https://open.spotify.com/track/3S4ruu2F7dMeRY7FV0ayTb"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Sayin' What I'm Thinkin'",
         "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
@@ -376,12 +296,12 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 239013,
-      "name": "Rolling Stone",
-      "url": "https://open.spotify.com/track/1xjSBl8RQlFG3dzywK2l9j"
+      "duration_ms": 201653,
+      "name": "Sayin' What I'm Thinkin'",
+      "url": "https://open.spotify.com/track/0Hhb848NsTCRTqi3Fm6C79"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
@@ -397,7 +317,71 @@
       "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Atta Girl",
+      "url": "https://open.spotify.com/track/3HIuFNCjr1hKnyzCixYfiC"
+    },
+    {
+      "added_at": "2023-11-10 12:58:44",
+      "album": {
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 177727,
+      "name": "Breakin' Your Heart",
+      "url": "https://open.spotify.com/track/3Ku1iOPJSZazyKi22yWxEF"
+    },
+    {
+      "added_at": "2023-11-10 12:58:44",
+      "album": {
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 140413,
+      "name": "WWDD",
+      "url": "https://open.spotify.com/track/4cR1F7nczN6vuGAzr52zTE"
+    },
+    {
+      "added_at": "2023-11-10 12:58:44",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "Middle Finger - Spotify Singles",
+      "url": "https://open.spotify.com/track/5CR5wpp6rjMiePZyrj81e9"
+    },
+    {
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
@@ -413,55 +397,7 @@
       "url": "https://open.spotify.com/track/1WTWurcIy9hRnzJiJp3ZtI"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
-      "album": {
-        "name": "Lainey Wilson - EP",
-        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 174891,
-      "name": "Microphone",
-      "url": "https://open.spotify.com/track/6cueuTpOgXVUWd5dPkNGU8"
-    },
-    {
-      "added_at": "2023-10-10 13:37:08",
-      "album": {
-        "name": "Sayin' What I'm Thinkin'",
-        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Straight Up Sideways",
-      "url": "https://open.spotify.com/track/4QJhHUCcaCPS0hO6XYFpHO"
-    },
-    {
-      "added_at": "2023-10-10 13:37:08",
-      "album": {
-        "name": "Tougher",
-        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Tougher",
-      "url": "https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox"
-    },
-    {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "High on Somethin'",
         "url": "https://open.spotify.com/album/4EzwszYds42Co3GAi54Wgc"
@@ -477,7 +413,55 @@
       "url": "https://open.spotify.com/track/3IzJkRiZZqVLZ5hMEfuElB"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
+      "album": {
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 239013,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/1xjSBl8RQlFG3dzywK2l9j"
+    },
+    {
+      "added_at": "2023-11-10 12:58:44",
+      "album": {
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 174891,
+      "name": "Microphone",
+      "url": "https://open.spotify.com/track/6cueuTpOgXVUWd5dPkNGU8"
+    },
+    {
+      "added_at": "2023-11-10 12:58:44",
+      "album": {
+        "name": "Tougher",
+        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Tougher",
+      "url": "https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox"
+    },
+    {
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Comin' To Your City (ESPN College Gameday)",
         "url": "https://open.spotify.com/album/0youbMUrUsYtJdNe6v9UdW"
@@ -501,7 +485,23 @@
       "url": "https://open.spotify.com/track/39DjHTMaFuDAMdXtq09fNN"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
+      "album": {
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Straight Up Sideways",
+      "url": "https://open.spotify.com/track/4QJhHUCcaCPS0hO6XYFpHO"
+    },
+    {
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
         "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "More Than Friends (feat. Lainey Wilson)",
         "url": "https://open.spotify.com/album/0aJOXNP0MBlCLrhJF61Igw"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/0ux8xs7l9rh1Hr8SgExguM"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Tougher",
         "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/4LyY1jvrnKnIWl3uv94qd1"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Beer Song (feat. Lainey Wilson, Chase Rice & Granger Smith)",
         "url": "https://open.spotify.com/album/0ad8YULS4johbf2s4lw15n"
@@ -597,7 +597,27 @@
       "url": "https://open.spotify.com/track/2knMiXaeKybZGQtWUd8TJB"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
+      "album": {
+        "name": "Enlisted",
+        "url": "https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 249481,
+      "name": "International Harvester",
+      "url": "https://open.spotify.com/track/1IFHSmd00HhsINmxvjXtLW"
+    },
+    {
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Tougher",
         "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/4MzYrhAYNFWr5PsOlp193B"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Tougher",
         "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/1S4gixTGy0wyXv4AB0xmva"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Tougher",
         "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
@@ -645,7 +665,7 @@
       "url": "https://open.spotify.com/track/4lY4XM0j4EwIwm4cFoQyNs"
     },
     {
-      "added_at": "2023-10-10 13:37:08",
+      "added_at": "2023-11-10 12:58:44",
       "album": {
         "name": "Tougher",
         "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"

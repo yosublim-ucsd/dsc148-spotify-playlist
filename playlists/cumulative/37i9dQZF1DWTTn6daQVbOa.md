@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1970s\. Cover: Elton John
 
-290 songs - 18 hr 37 min
+291 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Please Don't Go \- Single Version](https://open.spotify.com/track/1FYDs6f5rPAzOk7ISPxgGJ) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band: 25th Anniversary Collection](https://open.spotify.com/album/3IL8dGw6kKDw514Zk3vtTf) | 3:49 | 2022-10-03 | 2022-11-14 |
 | [Please Don't Go \- Single Version](https://open.spotify.com/track/6dw6BquK0Mv72p6HpusqKN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Do You Wanna Go Party](https://open.spotify.com/album/1VyflnFsIEfcxPj4JgM5QR) | 3:50 | 2022-10-03 | 2023-09-09 |
 | [Puppy Love](https://open.spotify.com/track/7HWH4kGaHR3ZwKNFPT4dSW) | [Donny Osmond](https://open.spotify.com/artist/5ZEAzHE2TzAwUcOj6jMIgf) | [Portrait Of Donny](https://open.spotify.com/album/6quP8dKzcKp5JON8hWKkeD) | 3:04 | 2021-04-22 | 2022-07-28 |
+| [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/2s1Yh0AywJhLsKKZ9vM0tm) | [B.J\. Thomas](https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V) | [Super Hits](https://open.spotify.com/album/0INAOxIIie4un2aZJw3qf6) | 3:00 | 2022-09-23 |  |
 | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/0zRtBDhwtIFTfoK2HuURbM) | [B.J\. Thomas](https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V) | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/album/7lU97qE3TN6fmF2f6ncoel) | 3:04 | 2021-04-22 | 2022-04-20 |
 | [Raindrops Keep Fallin' on My Head \- Rerecorded](https://open.spotify.com/track/1oOnOS4xNZOMpCT0lKTNo2) | [B.J\. Thomas](https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V) | [B.J\. Thomas](https://open.spotify.com/album/3BKmp3IRv514x7Yv0D1fXc) | 2:58 | 2021-04-22 | 2023-11-03 |
 | [Rainy Days And Mondays](https://open.spotify.com/track/5cbZDpFu1hTwaU7hDQpf13) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Carpenters](https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI) | 3:38 | 2021-04-22 |  |
@@ -206,7 +207,7 @@
 | [Sail On](https://open.spotify.com/track/2XMjijS8aVAP1ztyNpVEy8) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [All The Great Love Songs](https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o) | 4:00 | 2022-09-23 |  |
 | [Sail On](https://open.spotify.com/track/71Py1OGkgBQVTHa0aUyG4y) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [All The Great Love Songs](https://open.spotify.com/album/1M2c57R5rPEqZzTzh2yooj) | 4:00 | 2021-04-22 | 2022-07-29 |
 | [Sealed with a Kiss](https://open.spotify.com/track/26mlDJoh5bQiC7efK7xq9z) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [Sealed With A Kiss](https://open.spotify.com/album/5q8NaDLTXTNHtAmROLoQeF) | 2:49 | 2021-04-22 | 2022-04-20 |
-| [Seasons in the Sun](https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Radio Hits Of the '70s](https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG) | 3:29 | 2021-04-22 |  |
+| [Seasons in the Sun](https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Radio Hits Of the '70s](https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG) | 3:29 | 2021-04-22 | 2023-11-11 |
 | [Send One Your Love](https://open.spotify.com/track/73cq57VIFVDdjRuhpcfgSK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Original Musiquarium](https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab) | 4:00 | 2021-04-22 | 2022-04-20 |
 | [September Morn](https://open.spotify.com/track/2CXkN6UAb3jAFwz4VbsDq0) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [September Morn](https://open.spotify.com/album/6TGyHFvMMeLaKWPYTcRQU4) | 3:52 | 2021-04-22 |  |
 | [Sexy Eyes](https://open.spotify.com/track/0QpZ69CTjRbJ3ZVsnTaGfa) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Greatest Hits](https://open.spotify.com/album/0gC5d1rbDIOAx4OR5pG4MW) | 3:29 | 2021-04-22 | 2022-04-21 |

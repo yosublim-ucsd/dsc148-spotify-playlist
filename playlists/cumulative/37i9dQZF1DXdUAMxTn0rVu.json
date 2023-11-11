@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Madlib",
+  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Pharoahe Monch",
   "name": "I Love My Underground Classics",
   "tracks": [
     {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 283600,
       "name": "Answers",
       "url": "https://open.spotify.com/track/62XG3j3pMiIkHZxybltx4g"
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 245493,
       "name": "Much More (feat. Yummy)",
       "url": "https://open.spotify.com/track/5zEP0MRnDe5qwL361xBz0B"
@@ -1830,6 +1830,28 @@
     {
       "album": {
         "name": "The Grind Date",
+        "url": "https://open.spotify.com/album/6pA5vsn22nBSarlpib38QR"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185266,
+      "name": "Rock Co.Kane Flow (feat. MF DOOM)",
+      "url": "https://open.spotify.com/track/5eWj4hoqE9cf8mCE1pkB7M"
+    },
+    {
+      "album": {
+        "name": "The Grind Date",
         "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
       },
       "artists": [
@@ -1844,7 +1866,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 185266,
       "name": "Rock Co.Kane Flow (feat. MF Doom)",
       "url": "https://open.spotify.com/track/6RBMpENxbx74lTdR5SBcaF"
@@ -1928,6 +1950,24 @@
       "duration_ms": 334653,
       "name": "Silly Puddy",
       "url": "https://open.spotify.com/track/1QpJi4MgfAyvJ1jcgFu8GE"
+    },
+    {
+      "album": {
+        "name": "Internal Affairs",
+        "url": "https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS"
+      },
+      "artists": [
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "Simon Says",
+      "url": "https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6"
     },
     {
       "album": {
@@ -2348,7 +2388,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-11",
       "duration_ms": 272066,
       "name": "The Way You Do It",
       "url": "https://open.spotify.com/track/6jZ1SNPuYqCqJsZhJlSGe1"
